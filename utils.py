@@ -2,6 +2,7 @@ import os
 from functools import lru_cache
 
 from rdflib.graph import Graph
+import rdflib
 import torch
 from torch.optim import Adam
 from pykeen.training import SLCWATrainingLoop
@@ -95,26 +96,37 @@ def TransETraining(triples, transe_save):
 def directed_ground_truth(path, euri):
     label = Graph()
     triples_labels = []
-    label = label.parse(path, format='nt')
+    
+    # Check if file exists before trying to parse
+    if not os.path.exists(path):
+        return triples_labels
+    
+    try:
+        label = label.parse(path, format='nt')
+        for s, p, o in label:
+            triples_labels.append([s.n3(), p.n3(), o.n3()])
+    except Exception as e:
+        print(f"Warning: Could not parse ground truth file {path}: {e}")
+        return []
 
-    for s, p, o in label:
-        triples_labels.append([s.n3(), p.n3(), o.n3()])
     return triples_labels
 
 
 def ground_truth(path, euri):
     label = Graph()
     triples_labels = []
-    label = label.parse(path, format='nt')
-
-    """for s, p, o in label:
-        if o == euri:
-            triples_labels.append([o.n3(), p.n3(), s.n3()])
-        else:
-            triples_labels.append([s.n3(), p.n3(), o.n3()])"""
-
-    for s, p, o in label:
-        triples_labels.append([s.n3(), p.n3(), o.n3()])
+    
+    # Check if file exists before trying to parse
+    if not os.path.exists(path):
+        return triples_labels
+    
+    try:
+        label = label.parse(path, format='nt')
+        for s, p, o in label:
+            triples_labels.append([s.n3(), p.n3(), o.n3()])
+    except Exception as e:
+        print(f"Warning: Could not parse ground truth file {path}: {e}")
+        return []
 
     return triples_labels
 
@@ -611,5 +623,48 @@ def group_edge_types(edge_attr, k):
 
     # Replace non-least-frequent edge types with the least frequent among the rest
     new_edge_type = [edge if edge in least_frequent else least_frequent_among_rest for edge in edge_attr]
+
+    return new_edge_type
+
+
+def export_summaries_to_nt(summary_edges, entity_id, output_dir, dataset_name, entity_eid, k=5):
+    """
+    Export summary edges to N-Triples files.
+    
+    Args:
+        summary_edges: List of edges (source, target, {relation: relation_uri})
+        entity_id: Dictionary mapping URIs to entity IDs (optional, not needed)
+        output_dir: Base output directory
+        dataset_name: Name of dataset (dbpedia, lmdb, faces, etc)
+        entity_eid: Entity ID number for the entity
+        k: Top-k value (5 or 10) - determines output filename
+    
+    Returns:
+        output_path: Path to the exported N-Triples file
+    """
+    os.makedirs(os.path.join(output_dir, dataset_name, str(entity_eid)), exist_ok=True)
+    
+    # Create RDF graph from summary edges
+    g = Graph()
+    for edge in summary_edges:
+        source_uri = rdflib.URIRef(edge[0]) if isinstance(edge[0], str) else edge[0]
+        target_uri = rdflib.URIRef(edge[1]) if isinstance(edge[1], str) else edge[1]
+        relation_uri = rdflib.URIRef(edge[2]['relation']) if isinstance(edge[2]['relation'], str) else edge[2]['relation']
+        
+        g.add((source_uri, relation_uri, target_uri))
+    
+    # Determine output filename based on k value
+    if k == 5:
+        filename = f"{entity_eid}_top5.nt"
+    elif k == 10:
+        filename = f"{entity_eid}_top10.nt"
+    else:
+        filename = f"{entity_eid}_top{k}.nt"
+    
+    # Export to N-Triples format
+    output_path = os.path.join(output_dir, dataset_name, str(entity_eid), filename)
+    g.serialize(destination=output_path, format='nt')
+    
+    return output_path
 
     return new_edge_type

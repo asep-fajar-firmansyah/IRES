@@ -8,6 +8,8 @@ import utils
 import random
 import numpy as np
 import torch
+import os
+from config import Config
 
 
 @lru_cache
@@ -236,7 +238,17 @@ def evaluate(path, entity_dataset, G, k, node_weights, z):
         # Ensure the number of summary edges is exactly k, if possible
         summary_edges = summary_edges[:k]
         
-     
+        # Export summaries to N-Triples files
+        try:
+            config = Config()
+            output_base = os.path.join(config.output_path(), 'summaries')
+            dataset_name = config.dataset()
+            entity_eid = index  # Use the entity index as ID
+            output_file = utils.export_summaries_to_nt(summary_edges, None, output_base, dataset_name, entity_eid, k)
+            #print(f"Exported summary to {output_file}")
+        except Exception as e:
+            print(f"Warning: Could not export summary: {e}")
+        
         #print("yes")
         #print(visualization_dict)
         
@@ -249,6 +261,9 @@ def evaluate(path, entity_dataset, G, k, node_weights, z):
         #print(len(pval))
         for i in range(6):
             tval = import_top_summary(path, index, i, k, targetentity)
+            # Skip if ground truth file doesn't exist (empty result)
+            if not tval:
+                continue
             fscore = utils.fmeasure_score(tval, set(pval))
             Ap=average_precision(tval, set(pval))
             
@@ -258,6 +273,9 @@ def evaluate(path, entity_dataset, G, k, node_weights, z):
         pval_norel = {(item[0], item[-1]) for item in pval}
         for i in range(6):
             tval = import_top_summary(path, index, i, k, targetentity)
+            # Skip if ground truth file doesn't exist (empty result)
+            if not tval:
+                continue
             tval_norel = {(item[0], item[-1]) for item in tval}
             fscore = utils.fmeasure_score(tval_norel, set(pval_norel))
             Ap_norel=average_precision(tval_norel, set(pval_norel))
@@ -388,6 +406,9 @@ def evaluate_old(path, entity_dataset, G, k, node_weights, adj_syn):
 
         for i in range(6):
             tval = import_top_summary(path, eid, i, k, targetentity)
+            # Skip if ground truth file doesn't exist (empty result)
+            if not tval:
+                continue
             fscore = utils.fmeasure_score(tval, set(pval))
             resultsirow = {'eid': eid, 'euri': targetentity, 'fmeasure': fscore, 'Top': k}
             restuls.append(resultsirow)
@@ -395,6 +416,9 @@ def evaluate_old(path, entity_dataset, G, k, node_weights, adj_syn):
 
         for i in range(6):
             tval = import_top_summary(path, eid, i, k, targetentity)
+            # Skip if ground truth file doesn't exist (empty result)
+            if not tval:
+                continue
             tval_norel = {(item[0], item[-1]) for item in tval}
             pval_norel = {(item[0], item[-1]) for item in pval}
             fscore = utils.fmeasure_score(tval_norel, set(pval_norel))
