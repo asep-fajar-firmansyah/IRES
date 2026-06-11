@@ -648,21 +648,64 @@ def export_summaries_to_nt(summary_edges, entity_id, output_dir, dataset_name, e
     g = Graph()
     triples_added = 0
     
-    def normalize_uri(uri):
-        """Normalize URI by removing angle brackets and extra quotes"""
-        if isinstance(uri, rdflib.URIRef):
-            return uri
-        elif isinstance(uri, str):
+    def normalize_uri(uri_str):
+        """Normalize URI by removing angle brackets"""
+        if isinstance(uri_str, rdflib.URIRef):
+            return uri_str
+        elif isinstance(uri_str, str):
             # Remove angle brackets and quotes
-            uri_clean = uri.strip('<>"').strip()
-            # Ensure it's a valid URI
-            if uri_clean and (uri_clean.startswith('http://') or uri_clean.startswith('https://')):
-                return rdflib.URIRef(uri_clean)
-            else:
-                print(f"  Invalid URI format: {uri}")
-                return None
-        else:
+            clean = uri_str.strip('<>"').strip()
+            if clean and (clean.startswith('http://') or clean.startswith('https://')):
+                return rdflib.URIRef(clean)
+        return None
+    
+    def parse_rdf_term(term_str):
+        """
+        Parse an RDF term (URI or Literal) from N-Triples format string.
+        Supports:
+        - URIs: <http://...>
+        - Literals: "value", "value"^^<datatype>, "value"@lang
+        """
+        if not isinstance(term_str, str):
             return None
+        
+        term_str = term_str.strip()
+        
+        # Handle URIs
+        if term_str.startswith('<') and term_str.endswith('>'):
+            uri_clean = term_str[1:-1].strip()
+            return rdflib.URIRef(uri_clean)
+        
+        # Handle Literals with datatype: "value"^^<datatype>
+        if '^^' in term_str:
+            parts = term_str.split('^^')
+            if len(parts) == 2:
+                value_part = parts[0].strip()
+                datatype_part = parts[1].strip()
+                
+                # Extract value (remove quotes)
+                value = value_part.strip('"')
+                
+                # Extract datatype URI
+                datatype = parse_rdf_term(datatype_part)
+                
+                if datatype:
+                    return rdflib.Literal(value, datatype=datatype)
+        
+        # Handle Literals with language tag: "value"@lang
+        if '@' in term_str and term_str.startswith('"'):
+            parts = term_str.rsplit('@', 1)
+            if len(parts) == 2:
+                value = parts[0].strip('"')
+                lang = parts[1].strip()
+                return rdflib.Literal(value, lang=lang)
+        
+        # Handle plain literals: "value"
+        if term_str.startswith('"') and term_str.endswith('"'):
+            value = term_str[1:-1]
+            return rdflib.Literal(value)
+        
+        return None
     
     for edge in summary_edges:
         source = edge[0]
@@ -670,23 +713,41 @@ def export_summaries_to_nt(summary_edges, entity_id, output_dir, dataset_name, e
         relation = edge[2].get('relation', None) if isinstance(edge[2], dict) else None
         
         if relation is None:
-            print(f"  Warning: Edge missing relation: {edge}")
             continue
         
         try:
-            source_uri = normalize_uri(source)
-            target_uri = normalize_uri(target)
-            relation_uri = normalize_uri(relation)
+            # Parse source (must be URI)
+            source_uri = normalize_uri(source) if isinstance(source, str) else source
+            if source_uri is None:
+                source_term = parse_rdf_term(source)
+                if not isinstance(source_term, rdflib.URIRef):
+                    continue
+                source_uri = source_term
             
-            if source_uri is None or target_uri is None or relation_uri is None:
-                print(f"  Skipping invalid URIs: src={source}, rel={relation}, tgt={target}")
-                continue
+            # Parse relation (must be URI)
+            relation_uri = normalize_uri(relation) if isinstance(relation, str) else relation
+            if relation_uri is None:
+                relation_term = parse_rdf_term(relation)
+                if not isinstance(relation_term, rdflib.URIRef):
+                    continue
+                relation_uri = relation_term
             
-            g.add((source_uri, relation_uri, target_uri))
+            # Parse target (can be URI or Literal)
+            if isinstance(target, str):
+                target_term = parse_rdf_term(target)
+                if target_term is None:
+                    # Try as URI
+                    target_term = normalize_uri(target)
+                if target_term is None:
+                    continue
+                target_obj = target_term
+            else:
+                target_obj = target
+            
+            g.add((source_uri, relation_uri, target_obj))
             triples_added += 1
         except Exception as e:
-            print(f"  Error adding triple: {e}")
-            print(f"    source={source}, relation={relation}, target={target}")
+            print(f"  Error: {e}")
     
     # Determine output filename based on k value
     if k == 5:
