@@ -648,37 +648,45 @@ def export_summaries_to_nt(summary_edges, entity_id, output_dir, dataset_name, e
     g = Graph()
     triples_added = 0
     
+    def normalize_uri(uri):
+        """Normalize URI by removing angle brackets and extra quotes"""
+        if isinstance(uri, rdflib.URIRef):
+            return uri
+        elif isinstance(uri, str):
+            # Remove angle brackets and quotes
+            uri_clean = uri.strip('<>"').strip()
+            # Ensure it's a valid URI
+            if uri_clean and (uri_clean.startswith('http://') or uri_clean.startswith('https://')):
+                return rdflib.URIRef(uri_clean)
+            else:
+                print(f"  Invalid URI format: {uri}")
+                return None
+        else:
+            return None
+    
     for edge in summary_edges:
         source = edge[0]
         target = edge[1]
-        relation = edge[2].get('relation', None)
+        relation = edge[2].get('relation', None) if isinstance(edge[2], dict) else None
         
         if relation is None:
-            print(f"Warning: Edge missing relation: {edge}")
+            print(f"  Warning: Edge missing relation: {edge}")
             continue
-        
-        # Convert to proper URIRef format
-        # Handle both string URIs (with or without angle brackets) and rdflib.URIRef objects
-        def normalize_uri(uri):
-            if isinstance(uri, rdflib.URIRef):
-                return uri
-            elif isinstance(uri, str):
-                # Remove angle brackets if present
-                uri_clean = uri.strip('<>')
-                return rdflib.URIRef(uri_clean)
-            else:
-                return rdflib.URIRef(str(uri))
         
         try:
             source_uri = normalize_uri(source)
             target_uri = normalize_uri(target)
             relation_uri = normalize_uri(relation)
             
+            if source_uri is None or target_uri is None or relation_uri is None:
+                print(f"  Skipping invalid URIs: src={source}, rel={relation}, tgt={target}")
+                continue
+            
             g.add((source_uri, relation_uri, target_uri))
             triples_added += 1
         except Exception as e:
-            print(f"Warning: Failed to add triple - source: {source}, relation: {relation}, target: {target}")
-            print(f"  Error: {e}")
+            print(f"  Error adding triple: {e}")
+            print(f"    source={source}, relation={relation}, target={target}")
     
     # Determine output filename based on k value
     if k == 5:
