@@ -646,12 +646,39 @@ def export_summaries_to_nt(summary_edges, entity_id, output_dir, dataset_name, e
     
     # Create RDF graph from summary edges
     g = Graph()
+    triples_added = 0
+    
     for edge in summary_edges:
-        source_uri = rdflib.URIRef(edge[0]) if isinstance(edge[0], str) else edge[0]
-        target_uri = rdflib.URIRef(edge[1]) if isinstance(edge[1], str) else edge[1]
-        relation_uri = rdflib.URIRef(edge[2]['relation']) if isinstance(edge[2]['relation'], str) else edge[2]['relation']
+        source = edge[0]
+        target = edge[1]
+        relation = edge[2].get('relation', None)
         
-        g.add((source_uri, relation_uri, target_uri))
+        if relation is None:
+            print(f"Warning: Edge missing relation: {edge}")
+            continue
+        
+        # Convert to proper URIRef format
+        # Handle both string URIs (with or without angle brackets) and rdflib.URIRef objects
+        def normalize_uri(uri):
+            if isinstance(uri, rdflib.URIRef):
+                return uri
+            elif isinstance(uri, str):
+                # Remove angle brackets if present
+                uri_clean = uri.strip('<>')
+                return rdflib.URIRef(uri_clean)
+            else:
+                return rdflib.URIRef(str(uri))
+        
+        try:
+            source_uri = normalize_uri(source)
+            target_uri = normalize_uri(target)
+            relation_uri = normalize_uri(relation)
+            
+            g.add((source_uri, relation_uri, target_uri))
+            triples_added += 1
+        except Exception as e:
+            print(f"Warning: Failed to add triple - source: {source}, relation: {relation}, target: {target}")
+            print(f"  Error: {e}")
     
     # Determine output filename based on k value
     if k == 5:
@@ -664,6 +691,8 @@ def export_summaries_to_nt(summary_edges, entity_id, output_dir, dataset_name, e
     # Export to N-Triples format
     output_path = os.path.join(output_dir, dataset_name, str(entity_eid), filename)
     g.serialize(destination=output_path, format='nt')
+    
+    print(f"  Wrote {triples_added} triples to {filename}")
     
     return output_path
 

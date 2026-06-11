@@ -244,10 +244,13 @@ def evaluate(path, entity_dataset, G, k, node_weights, z):
             output_base = os.path.join(config.output_path(), 'summaries')
             dataset_name = config.dataset()
             entity_eid = index  # Use the entity index as ID
-            output_file = utils.export_summaries_to_nt(summary_edges, None, output_base, dataset_name, entity_eid, k)
-            #print(f"Exported summary to {output_file}")
+            if len(summary_edges) > 0:
+                output_file = utils.export_summaries_to_nt(summary_edges, None, output_base, dataset_name, entity_eid, k)
+                print(f"Exported {len(summary_edges)} edges to {output_file}")
+            else:
+                print(f"Warning: No summary edges to export for entity {entity_eid}")
         except Exception as e:
-            print(f"Warning: Could not export summary: {e}")
+            print(f"Error exporting summary for entity {index}: {e}")
         
         #print("yes")
         #print(visualization_dict)
