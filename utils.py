@@ -60,6 +60,18 @@ def Import_ESBM_dbpedia(path):
     return g
 
 
+def Import_FACES(path):
+    lst = os.listdir(path)
+    g = Graph()
+    # Extract numeric indices from filenames and parse all available description files
+    for filename in sorted(lst):
+        if filename.endswith('_desc.nt'):
+            entity_file_name = os.path.join(path, filename)
+            g_temp = Graph()
+            g = g + g_temp.parse(entity_file_name, format='nt')
+    return g
+
+
 def TransETraining(triples, transe_save):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -117,7 +129,25 @@ def import_directed_top_summary(path, triplenum, sumnum, topsum, targetentity):
 
 
 def import_top_summary(path, triplenum, sumnum, topsum, targetentity):
-    path_gt = path + "/ESBM-groundtruth/groundtruth/" + str(triplenum) + \
+    config = Config()
+    dataset_version = config.benchmark()
+    
+    if dataset_version == 'faces':
+        path_gt = path + "/FACES-groundtruth/groundtruth/" + str(triplenum) + \
+                  '/' + str(triplenum) + "_gold_top" + str(topsum) + "_" + str(sumnum) + ".nt"
+    else:
+        path_gt = path + "/ESBM-groundtruth/groundtruth/" + str(triplenum) + \
+                  '/' + str(triplenum) + "_gold_top" + str(topsum) + "_" + str(sumnum) + ".nt"
+    
+    triples_labels = ground_truth(path_gt, targetentity)
+    tpeval = [tuple(teval) for teval in triples_labels]
+    tval = set(tpeval)
+    return tval
+
+
+def import_faces_top_summary(path, triplenum, sumnum, topsum, targetentity):
+    """Import ground truth summaries for FACES dataset"""
+    path_gt = path + "/FACES-groundtruth/groundtruth/" + str(triplenum) + \
               '/' + str(triplenum) + "_gold_top" + str(topsum) + "_" + str(sumnum) + ".nt"
     triples_labels = ground_truth(path_gt, targetentity)
     tpeval = [tuple(teval) for teval in triples_labels]
@@ -165,6 +195,8 @@ def import_dataset():
     if dataset_version == 'esbm_plus':
         file_extension = '.tsv' if dataset_type == 'extract' else '.nt'
         path_data = f'{data_path}/ESBM_PLUS_descriptions/{dataset_name}/complete_{dataset_type}_{dataset_name}{file_extension}'
+    elif dataset_version == 'faces':
+        path_data = f'{data_path}/FACES_descriptions/'
     else:
         path_data = f'{data_path}/ESBM_descriptions/'
 
@@ -182,8 +214,15 @@ def generate_entity_dataset():
     config = Config()
     dataset_type = config.format()
     dataset_name = config.dataset()
+    dataset_version = config.benchmark()
     path = config.data_path()
-    entitylist = pd.read_csv(path + '/ESBM-groundtruth/elist.txt', sep='\t', index_col=0)
+    
+    if dataset_version == 'faces':
+        # For FACES dataset, load from FACES-groundtruth
+        entitylist = pd.read_csv(path + '/FACES-groundtruth/elist.txt', sep='\t', index_col=0)
+    else:
+        entitylist = pd.read_csv(path + '/ESBM-groundtruth/elist.txt', sep='\t', index_col=0)
+    
     if dataset_type == 'extract':
         entitylist['last_part_euri'] = entitylist['euri'].str.split('/').str[-1]
         last_part_euri_list = entitylist[entitylist.dataset == 'dbpedia']['last_part_euri'].tolist()
@@ -191,6 +230,8 @@ def generate_entity_dataset():
         entity_dataset = entitylist[entitylist.dataset == 'lmdb']
     elif dataset_name == 'dbpedia':
         entity_dataset = entitylist[entitylist.dataset == 'dbpedia']
+    elif dataset_name == 'faces':
+        entity_dataset = entitylist
     if dataset_type == "extract":
         return entity_dataset, last_part_euri_list
     else:
@@ -222,6 +263,13 @@ def generate_triples():
             triples = np.array(triples)
             triples_factory = TriplesFactory.from_labeled_triples(triples)
 
+    elif dataset_version == 'faces':
+        g = Import_FACES(path_dataset)
+        for s, p, o in g:
+            triples.append([s.n3(), p.n3(), o.n3()])
+        triples = np.array(triples)
+        triples_factory = TriplesFactory.from_labeled_triples(triples)
+
     elif dataset_version == 'esbm_plus':
         if dataset_type == 'rdf':
             g = Graph()
@@ -247,7 +295,7 @@ def generate_triples():
 def load_transe(transe_save, path_entity_id, path_relation_id):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-    model = torch.load(transe_save).to(device)
+    model = torch.load(transe_save, weights_only=False).to(device)
     entity_embeddings = model.entity_representations[0](torch.arange(model.num_entities))
     relation_embeddings = model.relation_representations[0](torch.arange(model.num_relations))
 
@@ -270,7 +318,7 @@ def generate_adj_features(triples, entity_id, transe_save, last_part_euri_list):
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-    model = torch.load(transe_save).to(device)
+    model = torch.load(transe_save, weights_only=False).to(device)
     G = nx.DiGraph()
     for head, relation, tail in triples:
         G.add_edge(head, tail, relation=relation)
@@ -363,7 +411,7 @@ def generate_edge_weight_tensor(G, edge_index):
 
 
 def aggregate_relation_embeddings_to_list(G, transe_save, relation_id):
-    model = torch.load(transe_save)
+    model = torch.load(transe_save, weights_only=False)
     node_aggregated_embeddings = {}
     non_zero_shape = None
 

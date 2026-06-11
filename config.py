@@ -20,13 +20,13 @@ class Config(metaclass=SingletonMeta):
         'b': {
             'name': 'benchmark',
             'default': "esbm_plus",
-            'choices': ["esbm", "esbm_plus"],
+            'choices': ["esbm", "esbm_plus", "faces"],
             'help': "Benchmark version"
         },
         'd': {
             'name': 'dataset',
             'default': "dbpedia",
-            'choices': ["dbpedia", "lmdb"],
+            'choices': ["dbpedia", "lmdb", "faces"],
             'help': "Target dataset"
         },
         'f': {
