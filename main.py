@@ -65,18 +65,19 @@ def setup_features(G, relation_id, edge_relation_id, adj, transe_save, features_
         node_freq = torch.tensor(node_freq, dtype=torch.float32).view(-1, 1)
         features = node_freq
     elif config.target_feature() == "node_relation_freq":
+        # According to the paper (Section 5.4, Hyperparameters):
+        # "frequency-based features are 1D vectors containing for entity v_j in a triple (v_i, r, v_j)
+        # of a target entity v_i the sum d_i + freq(r) where d_i is the number of neighbors
+        # (i.e., degree) of v_i and freq(r) is the relative occurrence of the relationship r in the triples T."
         
         relation_out_frequency_node = utils.generate_node_relation_weight_tensor(relation_id, G, edge_index)
-        relation_out_frequency_node = torch.tensor(relation_out_frequency_node, dtype=torch.float32).view(-1, 1)
-        #print(relation_out_frequency_node)
-        
-        relation_in_frequency_node=utils.generate_node_in_relation_weight_tensor(relation_id, G, edge_index)
-        relation_in_frequency_node = torch.tensor(relation_in_frequency_node, dtype=torch.float32).view(-1, 1)
-        #print(relation_in_frequency_node)
+        relation_out_frequency_node = torch.tensor(relation_out_frequency_node, dtype=torch.float32)
         
         node_freq = utils.generate_edge_weight_tensor(G, edge_index)
-        node_freq = torch.tensor(node_freq, dtype=torch.float32).view(-1, 1)
-        features = torch.cat((node_freq, relation_out_frequency_node), dim=1)
+        node_freq = torch.tensor(node_freq, dtype=torch.float32)
+        
+        # Compute the sum d_i + freq(r) as specified in the paper
+        features = (node_freq + relation_out_frequency_node).view(-1, 1)
     
     pg_data = Data(x=features, edge_index=edge_index, edge_attr=edge_attr)
     """if not os.path.exists(config.modularity_matrix_path()):
