@@ -6,7 +6,7 @@ import random
 import re
 from collections import Counter, defaultdict
 from pathlib import Path
-from typing import Dict, Iterable, List, Tuple
+from typing import Dict, Iterable, List, Optional, Tuple
 
 import numpy as np
 import torch
@@ -54,7 +54,7 @@ def load_jsonl(path: Path) -> Iterable[Dict]:
 _NT_PATTERN = re.compile(r'^\s*<([^>]+)>\s+<([^>]+)>\s+(?:(<([^>]+)>)|("((?:[^"\\]|\\.)*)"))\s*\.\s*$')
 
 
-def _parse_nt_line(line: str) -> Tuple[str, str, str] | None:
+def _parse_nt_line(line: str) -> Optional[Tuple[str, str, str]]:
     m = _NT_PATTERN.match(line)
     if not m:
         return None
@@ -114,7 +114,7 @@ class M3GQAGraphBuilder:
             self.relation_to_idx[rel] = len(self.relation_to_idx)
         return self.relation_to_idx[rel]
 
-    def add_record(self, record_index: int, row: Dict, edges_override: List[List[str]] | None = None) -> None:
+    def add_record(self, record_index: int, row: Dict, edges_override: Optional[List[List[str]]] = None) -> None:
         question = str(row.get("question", ""))
         graph_id = int(row.get("graph_id", -1))
         topic_entities = [normalize_entity(str(e)) for e in row.get("topic_entities", [])]
