@@ -191,7 +191,8 @@ class IRESRGCNEncoder(nn.Module):
 def modularity_trace_loss(
     z: torch.Tensor, edge_index: torch.Tensor, num_nodes: int, device: torch.device
 ) -> torch.Tensor:
-    # Mirrors repository modularity objective style used in loss_function.py (sparse formulation)
+    # Sparse-safe formulation that avoids sparse@sparse autograd instability on some torch builds.
+    # Tr(C^T A C) = sum(C * (A C))
     m = max(edge_index.shape[1] / 2.0, 1.0)
     edge_weight = torch.ones(edge_index.shape[1], dtype=torch.float32, device=device)
     adj = torch.sparse_coo_tensor(edge_index, edge_weight, (num_nodes, num_nodes), device=device)
@@ -199,14 +200,13 @@ def modularity_trace_loss(
     deg = torch.sparse.sum(adj, dim=1).to_dense()
     deg = deg / m
 
-    z_t_sparse = z.t().to_sparse()
-    zt_a = torch.sparse.mm(z_t_sparse, adj)
-    zt_a_z = torch.mm(zt_a, z)
+    a_z = torch.sparse.mm(adj, z)
+    zt_a_z_trace = torch.sum(z * a_z)
 
     d_z = torch.mm(deg.unsqueeze(0), z)
-    zt_dd_z = torch.mm(d_z.t(), d_z)
+    zt_dd_z_trace = torch.sum(d_z * d_z)
 
-    trace_val = torch.trace(zt_a_z - zt_dd_z)
+    trace_val = zt_a_z_trace - zt_dd_z_trace
     return trace_val / (4.0 * m)
 
 
