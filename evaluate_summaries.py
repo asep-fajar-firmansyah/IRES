@@ -93,7 +93,10 @@ def evaluate(outputs_path: str, evaluation_path: str) -> Dict:
     evaluated = 0
 
     for out in outputs:
-        if out.get("status") != "ok":
+        # Some generators (e.g., IRES outputs) do not include a status field.
+        # Only skip rows when status is explicitly present and not "ok".
+        status = out.get("status")
+        if status is not None and status != "ok":
             continue
 
         rec_idx = out.get("output", {}).get("record_index")
