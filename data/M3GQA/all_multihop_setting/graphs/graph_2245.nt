@@ -1,0 +1,1674 @@
+<Administrative_Area> <freebase.type_hints.included_types> "Location" .
+<Georgetown> <travel.travel_destination.tourist_attractions> "Mount Roraima" .
+<Guyana> <location.statistical_region.energy_use_per_capita> "m.0nf5nl3" .
+<Guyana> <base.aareas.schema.administrative_area.administrative_children> "Upper Takutu-Upper Essequibo" .
+<Guyana> <location.country.administrative_divisions> "Potaro-Siparuni" .
+<m.0wg9d44> <location.partial_containment_relationship.partially_contains> "Takutu River" .
+<New_Amsterdam> <location.location.people_born_here> "Wilson Harris" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc42fs7" .
+<Guyana> <government.governmental_jurisdiction.agencies> "Ministry of Foreign Affairs" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc47nv7" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245ywr57" .
+<Third_level_division_of> <rdf-schema#range> "Country" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Albion,_Guyana> <location.statistical_region.population> "g.11bc85w05r" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_rxk1" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4krm6" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4hclt" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4nft2" .
+<Basketball_Player> <freebase.type_profile.strict_included_types> "Topic" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4sv2h" .
+<Corriverton> <common.topic.article> "m.07n32k" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4lzls" .
+<Corriverton> <location.location.containedby> "Demerara-Mahaica" .
+<m.04kg627> <common.topic.notable_types> "Geometry" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc3rdvs" .
+<Guyana> <location.location.events> "2010 South American Summit" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1q5jlcr5v" .
+<Guyana> <location.statistical_region.foreign_direct_investment_net_inflows> "g.11b71ysr12" .
+<New_Amsterdam> <location.location.people_born_here> "Delbert Hicks" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96l5" .
+<m.0sxhv3t> <people.sibling_relationship.sibling> "Shawn James" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc49jv8" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc4zv0n" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4f7y1" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4zqzf" .
+<Guyana> <location.location.partiallycontains> "m.0wg9d0j" .
+<Country> <type.property.schema> "Administrative Division" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4mtwz" .
+<New_Amsterdam> <location.location.people_born_here> "Shridath Ramphal" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3ltsg" .
+<Guyana> <organization.organization_member.member_of> "m.05kyq7l" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Statistical region" .
+<m.010g63m6> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Wapishana_Language> <language.human_language.countries_spoken_in> "Guyana" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4p1vy" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "m.0nf8bt9" .
+<Corriverton> <location.location.geolocation> "m.0clq_m6" .
+<m.04kg627> <location.geometry.delineates_location> "East Berbice-Corentyne" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245yx9tn" .
+<Administrative_Division> <type.type.domain> "Location" .
+<Courantyne_River> <location.location.containedby> "South America" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3p5" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3mgmx" .
+<Guyana> <location.country.form_of_government> "Unitary state" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72sy" .
+<Guyana> <location.statistical_region.net_migration> "g.1q5k0kwm3" .
+<Guyana> <olympics.olympic_participating_country.medals_won> "m.07nwlgq" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3tsg4" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4s81_" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72ph" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxt9" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc47nnd" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3n1" .
+<Guyana> <location.location.partially_contains> "Imataka Mountains" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3qp5p" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3c4hp" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.11b71ysr0j" .
+<East_Berbice-Corentyne> <location.location.people_born_here> "John Trim" .
+<Fourth_level_divisions> <type.property.reverse_property> "Fourth level division of" .
+<Guyana> <book.book_subject.works> "The counting house" .
+<Second_level_division_of> <type.property.expected_type> "Country" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245_d8jn" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<First_level_division_of> <type.property.expected_type> "Country" .
+<Corriverton> <common.topic.notable_for> "g.1257w460q" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4stvh" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4stkl" .
+<Sovereign_state> <base.aareas.administrative_area_level.examples> "Sovereign state" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_z6ns" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc48_z_" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4dy73" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3srcx" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc39wv2" .
+<Howard_Eastman> <people.person.place_of_birth> "New Amsterdam" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3c1cd" .
+<m.0wg9d0p> <location.partial_containment_relationship.partially_contained_by> "Guyana" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4cg4g" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc3b9lz" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3x3xp" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1q5jpwvsv" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc42dsd" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc4gqp1" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245_7c__" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6flwt" .
+<Guyana> <location.statistical_region.energy_use_per_capita> "m.0nf5nl_" .
+<Demerara-Mahaica> <location.location.containedby> "Guyana" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc48hvk" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc3xpbv" .
+<Guyana> <location.country.form_of_government> "Republic" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxst" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245yx9v6" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3m_mp" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc469ly" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc42fk9" .
+<Guyana> <location.location.partially_contains> "Pacaraima Mountains" .
+<2010_South_American_Summit> <time.event.locations> "Guyana" .
+<First_level_division_of> <type.property.master_property> "First level divisions" .
+<Council_of_Guyana> <type.type.domain> "Administrative Areas" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4yc1p" .
+<Guyana> <location.statistical_region.energy_use_per_capita> "g.1245_ltb9" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zt626" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4k6gw" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4rrrr" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<Moleson_Creek> <common.topic.image> "Providence, Guyana (Guyana  )" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g62wl" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4r33w" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72nv" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245_yp41" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3h_73" .
+<Guyana> <location.statistical_region.time_required_to_start_a_business> "g.1s05xdlw0" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc5195j" .
+<Demerara-Mahaica> <base.aareas.schema.administrative_area.administrative_parent> "Guyana" .
+<Ireng_River> <location.location.containedby> "South America" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc3qx07" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxqt" .
+<m.0wg9d25> <location.partial_containment_relationship.partially_contained_by> "Guyana" .
+<Shawn_James> <common.topic.article> "m.04gq8mw" .
+<Corriverton> <location.statistical_region.population> "g.11bc88qzpb" .
+<Administrative_Division> <freebase.type_profile.published> "Published" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc3y9n7" .
+<Moleson_Creek> <common.topic.notable_for> "g.1256z4bqd" .
+<Cuyuni-Mazaruni> <location.administrative_division.country> "Guyana" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.12460__3f" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxvh" .
+<Administrative_Division> <type.type.expected_by> "Administrative divisions" .
+<New_Amsterdam> <location.location.people_born_here> "John Cameron" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72yg" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zdkhg" .
+<Guyana> <location.location.time_zones> "Guyana Time Zone" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc411bt" .
+<Administrative_Division> <freebase.documented_object.documentation> "m.02hpzsm" .
+<Demerara-Mahaica> <location.administrative_division.country> "Guyana" .
+<East_Berbice-Corentyne> <location.location.contains> "Orealla" .
+<Macushi_Language> <language.human_language.region> "Americas" .
+<Shawn_James> <sports.pro_athlete.sports_played_professionally> "m.0d6nhfg" .
+<Administrative_Division> <type.type.properties> "Third level division of" .
+<Council_of_Guyana> <freebase.type_hints.included_types> "Location" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc449q1" .
+<Administrative_Division> <type.type.properties> "Fourth level division of" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc38v9h" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3fsk_" .
+<Guyana> <location.statistical_region.time_required_to_start_a_business> "g.11b6nt1gm2" .
+<m.0wg9d3h> <location.partial_containment_relationship.partially_contains> "Ireng River" .
+<m.010g6437> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<First_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Guyana> <base.aareas.schema.administrative_area.administrative_children> "Mahaica-Berbice" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1q5k0gjvb" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72t4" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3twtj" .
+<Guyana> <location.country.administrative_divisions> "Upper Takutu-Upper Essequibo" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245yvkxz" .
+<Barima-Waini> <base.aareas.schema.administrative_area.administrative_area_type> "Region of Guyana" .
+<Administrative_Division> <type.type.expected_by> "State/Province/Region" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc4nfwv" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.11b60lkkk8" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4lgg3" .
+<Guyana> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3v5t3" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3pyy0" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g649l" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4n75j" .
+<South_America> <location.location.containedby> "Americas" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4p568" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "Rise Organise and Rebuild Guyana" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc4b23n" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3pmyk" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Guyana> <location.statistical_region.energy_use_per_capita> "g.1245zrhmz" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245_kjdp" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc385gr" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72wt" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3dz9t" .
+<Administrative_Division> <type.type.expected_by> "estado" .
+<Country> <freebase.type_hints.included_types> "Dated location" .
+<Guyanese_dollar> <finance.currency.countries_used> "Guyana" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gh47" .
+<m.046y0jd> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72td" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc48997" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3cwd9" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1s06r9nwt" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.1246017l8" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3lv1m" .
+<Courantyne_River> <geography.river.basin_countries> "Guyana" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc489dg" .
+<Shawn_James> <common.topic.notable_types> "Basketball Player" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4cgft" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3p99g" .
+<Essequibo_Islands-West_Demerara> <base.aareas.schema.administrative_area.administrative_area_type> "Region of Guyana" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc410_c" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_86fz" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3zpvr" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72rv" .
+<Guyana> <location.location.partially_contains> "Takutu River" .
+<Essequibo_Islands-West_Demerara> <location.administrative_division.country> "Guyana" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxv7" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3pz36" .
+<Akawaio_Language> <language.human_language.main_country> "Guyana" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc38m2m" .
+<Mount_Roraima> <location.location.containedby> "South America" .
+<Pomeroon-Supenaam> <base.aareas.schema.administrative_area.administrative_area_type> "Region of Guyana" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc4f7n_" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc43v59" .
+<Guyana> <location.statistical_region.time_required_to_start_a_business> "g.1hhc46qqn" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc4_490" .
+<Spanish_Language> <language.human_language.countries_spoken_in> "United States of America" .
+<m.0j1vlll> <sports.sports_team_roster.position> "Center" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72vy" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc499q5" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72m2" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.124601tzr" .
+<Orealla> <common.topic.article> "m.0dcqsb" .
+<Guyana> <base.aareas.schema.administrative_area.pertinent_type> "Region of Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72mz" .
+<Guyana Time_Zone> <time.time_zone.locations_in_this_time_zone> "Guyana" .
+<Vishal_Nagamootoo> <common.topic.notable_types> "Cricket Player" .
+<Sovereign_state> <base.aareas.schema.administrative_area.administrative_area_type> "Administrative Area" .
+<State/Province/Region> <rdf-schema#range> "Administrative Division" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc54yhy" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxp8" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.12cp_j3k4" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.12tb6g_cd" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245zcv1v" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc45qd_" .
+<Second_level_divisions> <type.property.reverse_property> "Second level division of" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxrt" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4mh7l" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96lf" .
+<United_States_of_America> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<m.0d5twbz> <sports.pro_sports_played.athlete> "John Trim" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245z5sn6" .
+<Guyana> <location.location.adjoin_s> "m.02wk3m4" .
+<Third_level_division_of> <type.property.expected_type> "Country" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3fl5m" .
+<First_level_divisions> <owl#inverseOf> "First level division of" .
+<Guyana> <location.statistical_region.net_migration> "g.1s063wktx" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc522x3" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460fdbg" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6fdv9" .
+<World_Trade_Organization> <organization.organization.founders> "United States of America" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc3k0b9" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc4lg6n" .
+<Guyana> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4_43w" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1q5j6jccg" .
+<Shawn_James> <people.person.education> "m.0w54f1y" .
+<Mount_Roraima> <location.location.partially_contained_by> "m.0wg9d0j" .
+<Earth> <base.aareas.schema.administrative_area.pertinent_type> "Sovereign state" .
+<Guyana> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc45tny" .
+<Guyana> <location.statistical_region.literacy_rate> "g.1q5jkyppn" .
+<Guyana> <common.topic.webpage> "m.0j1c005" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72s1" .
+<Wapishana_Language> <language.human_language.main_country> "Guyana" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc47nfv" .
+<Guyana> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc4krgx" .
+<New_Amsterdam> <location.location.people_born_here> "Howard Eastman" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245_h43z" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc39gbc" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc45mc3" .
+<Guyana> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4f87q" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc4cg98" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3pd" .
+<Pacaraima_Mountains> <location.location.partially_contained_by> "m.0wg9d00" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3nh" .
+<2014_NACAM_Rally_Championship> <time.event.locations> "Guyana" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc4b23p" .
+<Second_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3d9m8" .
+<Administrative_Division> <freebase.type_hints.included_types> "Topic" .
+<Americas> <location.location.contains> "Guyana" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12tb6g4kj" .
+<Guyana> <location.location.partiallycontains> "m.0wg9d2v" .
+<Guyana> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3nwy_" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc37x67" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3pjh1" .
+<m.010r2dp3> <people.place_lived.person> "Vishal Nagamootoo" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245yvkw7" .
+<Guyana> <organization.organization_member.member_of> "m.04p8xl2" .
+<UTC−04:00> <time.time_zone.locations_in_this_time_zone> "Albion, Guyana" .
+<Guyana> <book.book_subject.works> "Soul clap hands and sing" .
+<Guyana> <olympics.olympic_participating_country.athletes> "m.0kpt6tf" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3j5kl" .
+<Upper_Takutu-Upper_Essequibo> <common.topic.notable_types> "Administrative Division" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4h4n1" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc3sjfn" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.12460_sq2" .
+<m.0w54f1y> <education.education.student> "Shawn James" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc4s4t1" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3f_g1" .
+<Arawak> <language.human_language.countries_spoken_in> "Guyana" .
+<Imataka_Mountains> <location.location.partially_contained_by> "m.0wg9d1j" .
+<Guyana> <location.country.administrative_divisions> "Demerara-Mahaica" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72wl" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4r9nn" .
+<m.0wg9d1j> <location.partial_containment_relationship.partially_contained_by> "Guyana" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zw40j" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g6437" .
+<Third_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4l4ld" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc3vpq4" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4tjw2" .
+<Ireng_River> <location.location.partially_containedby> "Guyana" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4yx16" .
+<Amazon_rainforest> <location.location.partially_contained_by> "m.0wg9d0p" .
+<Guyana> <olympics.olympic_participating_country.athletes> "m.0kcfdl5" .
+<Barima_River> <geography.river.basin_countries> "Guyana" .
+<Moleson_Creek> <common.topic.article> "m.0g9cjb" .
+<m.0wg9d3h> <location.partial_containment_relationship.partially_contained_by> "Guyana" .
+<FIPS_10-4> <base.aareas.coding_scheme.levels> "Region" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<m.0w580kq> <education.education.student> "Shawn James" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72yp" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72qv" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3hg6s" .
+<Administrative_Division> <freebase.type_hints.included_types> "Statistical region" .
+<Second_level_divisions> <rdf-schema#domain> "Country" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "Guyana Action Party" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxpj" .
+<Macushi_Language> <language.human_language.countries_spoken_in> "Guyana" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4t_d7" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxq8" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1s05y9jvb" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc4y_pm" .
+<Geometry> <freebase.type_hints.included_types> "Topic" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.1245_bln2" .
+<Guyana> <location.statistical_region.brain_drain_percent> "g.1hhc4mhsz" .
+<City/Town/Village> <type.type.domain> "Location" .
+<The_Wizard_Swami> <book.written_work.subjects> "Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zjhtv" .
+<Guyana> <location.country.administrative_divisions> "East Berbice-Corentyne" .
+<Demerara-Mahaica> <common.topic.notable_types> "Administrative Division" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "Working People's Alliance" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4dtg0" .
+<m.0wg9d1p> <location.partial_containment_relationship.partially_contained_by> "Guyana" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4t_m6" .
+<East_Berbice-Corentyne> <location.location.contains> "Albion, Guyana" .
+<Orealla> <location.location.geolocation> "m.02_m8xk" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc385hn" .
+<New_Amsterdam> <location.location.people_born_here> "Devendra Bishoo" .
+<Upper_Demerara-Berbice> <base.aareas.schema.administrative_area.administrative_parent> "Guyana" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4b27h" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4p56p" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96ky" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4zq_z" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3ny" .
+<Administrative_Division> <type.type.expected_by> "location_state_province_region" .
+<m.0j5vlpw> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Guyana> <base.aareas.schema.administrative_area.administrative_children> "East Berbice-Corentyne" .
+<Country> <freebase.type_profile.strict_included_types> "Dated location" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4cbpz" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "m.0nf8btz" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc42f8w" .
+<World_Trade_Organization> <organization.organization.founders> "Guyana" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3s3jq" .
+<Skeldon,_Guyana> <common.topic.notable_for> "g.1258r1wm_" .
+<m.0wg9d2b> <location.partial_containment_relationship.partially_contains> "New River" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxs9" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc46qm4" .
+<Guyana> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4c0c0" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4qh8z" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc403t3" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc5266z" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc51_d_" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460vnqx" .
+<Region_of_Guyana> <base.aareas.schema.administrative_area_type.pertains_to> "Guyana" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Topic" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc46h_c" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gnd7" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3msb3" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245zk6f1" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4cp0c" .
+<m.0wg9d2_> <location.partial_containment_relationship.partially_contains> "Wenamu River" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc4q59f" .
+<Orealla> <common.topic.notable_for> "g.1255nsz5g" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc4jtjw" .
+<Kaieteur_News> <book.newspaper.circulation_areas> "Guyana" .
+<Skeldon,_Guyana> <location.location.people_born_here> "Imran Jafferally" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4vt_p" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3nq" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc455sj" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245_nwv7" .
+<Second_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "m.0nf8btj" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72x_" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245_fzdz" .
+<Shawn_James> <people.person.sibling_s> "m.0sxht_5" .
+<m.02wk3k0> <location.adjoining_relationship.adjoins> "Guyana" .
+<South_America> <base.locations.continents.planet> "Earth" .
+<Guyana> <location.location.partially_contains> "Monte Caburaí" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc53gtn" .
+<Guyana> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4b267" .
+<Guyana> <olympics.olympic_participating_country.athletes> "m.0kcfdjv" .
+<Guyana> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc403vc" .
+<Guyana> <location.country.national_anthem> "m.0h_1ll0" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxrk" .
+<Country> <freebase.type_profile.published> "Published" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6g4m9" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3r4" .
+<Region_of_Guyana> <freebase.type_hints.included_types> "Topic" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.12460981r" .
+<Second_level_division_of> <type.property.master_property> "Second level divisions" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72vq" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4qlg1" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4w0y0" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc46h_s" .
+<Takutu_River> <location.location.partially_contained_by> "m.0wg9d44" .
+<East_Berbice-Corentyne> <location.location.contains> "Skeldon, Guyana" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_7tfg" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.12460r14q" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc4b5g2" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4zfdk" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zwq28" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1s064hdm7" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4gqn9" .
+<East_Berbice-Corentyne> <location.administrative_division.country> "Guyana" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gtp0" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc43v5b" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4f_0v" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc3hbhr" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.12460dg45" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.124610k6c" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.1245zjhv8" .
+<Albion,_Guyana> <location.location.people_born_here> "Sew Shivnarine" .
+<Country> <owl#inverseOf> "Administrative Divisions" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4f884" .
+<Guyana> <base.schemastaging.disputed_location_claimant.disputed_territories> "New River" .
+<m.0wg9d1p> <location.partial_containment_relationship.partially_contains> "Cuyuni River" .
+<Pacaraima_Mountains> <location.location.partially_containedby> "Guyana" .
+<m.0kcfdj7> <olympics.olympic_athlete_affiliation.country> "Guyana" .
+<Guyana> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4wgyh" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.subdivides_place> "Earth" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc4k6kc" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3y6fb" .
+<Administrative_Division> <type.type.expected_by> "City Seat" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc43vbx" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc4vtz5" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4667f" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.12tb6fsr_" .
+<Council_of_Guyana> <base.aareas.schema.administrative_area_type.pertains_to> "Guyana" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc45mhn" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g634c" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc3cb_n" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3sz81" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245_xk34" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3fl26" .
+<Guyana> <olympics.olympic_participating_country.athletes> "m.0kpsv3t" .
+<Second_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Country> <type.property.expected_type> "Country" .
+<Guyana> <base.aareas.schema.administrative_area.pertinent_type> "Council of Guyana" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4k32s" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc4dtb6" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Agent" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4sttp" .
+<m.04dj3pk> <organization.organization_membership.member> "Guyana" .
+<John_Trim> <common.topic.notable_types> "Cricket Player" .
+<Orealla> <common.topic.notable_types> "City/Town/Village" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc390vn" .
+<Guyana> <location.location.partially_contains> "Ireng River" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc438zw" .
+<m.0j5vlq2> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g66dg" .
+<Guyana> <base.aareas.schema.administrative_area.administrative_children> "Cuyuni-Mazaruni" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96p7" .
+<Administrative_Division> <type.type.expected_by> "First level divisions" .
+<Guyana> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc51ddn" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc45thm" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96n_" .
+<m.02wk3mc> <location.adjoining_relationship.adjoins> "Guyana" .
+<Administrative_Division> <type.type.expected_by> "location_administrative_divisions" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3byq3" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4qpy_" .
+<Guyana> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4w7tw" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc49d_s" .
+<Mount_Roraima> <location.location.partially_containedby> "Guyana" .
+<City/Town/Village> <freebase.type_hints.included_types> "Dated location" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4wxhd" .
+<Statistical_region> <type.type.domain> "Location" .
+<Guyana> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4t0y4" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3d344" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<Guyana> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4y_qb" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4wgwl" .
+<Country> <rdf-schema#domain> "Administrative Division" .
+<United_States_of_America> <location.country.languages_spoken> "Spanish Language" .
+<Guyana> <base.aareas.schema.administrative_area.administrative_children> "Essequibo Islands-West Demerara" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc46j49" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.12tb6g4fl" .
+<The_United_Force> <organization.organization.geographic_scope> "Guyana" .
+<m.010g63cn> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<East_Berbice-Corentyne> <location.location.contains> "Corriverton" .
+<m.010g649l> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<m.010g634c> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Wenamu_River> <location.location.partially_containedby> "Guyana" .
+<Administrative_Division> <type.type.properties> "Country" .
+<m.0sxhv32> <people.sibling_relationship.sibling> "Shawn James" .
+<Guyana> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc53l04" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3vhfw" .
+<Guyana> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4czl0" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.124617_ls" .
+<Georgetown> <base.biblioness.bibs_location.country> "Guyana" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc44zy8" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxx8" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96qr" .
+<m.0kcfdl5> <olympics.olympic_athlete_affiliation.country> "Guyana" .
+<m.0d6nhfg> <sports.pro_sports_played.athlete> "Shawn James" .
+<New_River> <location.location.partially_contained_by> "m.0wg9d2b" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3ltrj" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4pgjn" .
+<Shawn_James> <people.person.nationality> "United States of America" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4dqb8" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "Guyana Airline Pilots Association" .
+<FIPS_10-4> <base.aareas.coding_scheme.levels> "Sovereign state" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72xk" .
+<South_America> <location.location.time_zones> "Guyana Time Zone" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4f8c7" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3l95f" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96hp" .
+<Administrative_Divisions> <rdf-schema#domain> "Country" .
+<Dated_location> <freebase.type_hints.included_types> "Location" .
+<Guyana> <book.book_subject.works> "Turner" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc42rlq" .
+<Potaro-Siparuni> <base.aareas.schema.administrative_area.administrative_area_type> "Region of Guyana" .
+<Americas> <location.location.contains> "United States of America" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96n7" .
+<Working_People's_Vanguard_Party> <organization.organization.geographic_scope> "Guyana" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3yfc_" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4fl54" .
+<Third_level_divisions> <type.property.reverse_property> "Third level division of" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc390v4" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3zpsb" .
+<Administrative_Area> <freebase.type_hints.included_types> "Topic" .
+<Region_of_Guyana> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<Administrative_Division> <type.type.expected_by> "Fourth level divisions" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc55bgc" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxy0" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3w6qr" .
+<Guyana> <location.location.partiallycontains> "m.0wg9d2_" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc38d5f" .
+<Skeldon,_Guyana> <location.statistical_region.population> "m.05chswd" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.12460kjmz" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc46r65" .
+<Guyana> <location.statistical_region.brain_drain_percent> "g.1hhc3qx2w" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<East_Berbice-Corentyne> <location.location.people_born_here> "Vishal Nagamootoo" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc46q_6" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3pjfs" .
+<Guyana> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3c17v" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3n9vr" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "Guyana Agricultural and General Workers' Union" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3zpw8" .
+<Guyana> <location.location.partiallycontains> "m.0wg9d2b" .
+<State/Province/Region> <type.property.expected_type> "Administrative Division" .
+<Guyana> <location.location.partiallycontains> "m.0wg9d0p" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72qm" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxwj" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4597d" .
+<Guyana> <location.country.administrative_divisions> "Upper Demerara-Berbice" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3y68w" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3p967" .
+<m.010g66dg> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc3tsb3" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.12460848n" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4kjs7" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zydhj" .
+<Location> <type.type.properties> "Time zone(s)" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc3yvj0" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72sq" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxv_" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96nr" .
+<m.0kcfdm0> <olympics.olympic_athlete_affiliation.country> "Guyana" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc388l4" .
+<Guyana> <location.location.partiallycontains> "m.0wg9d25" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4ykx7" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245yv6f4" .
+<Working_People's_Alliance> <organization.organization.geographic_scope> "Guyana" .
+<New_Amsterdam> <common.topic.notable_for> "g.125dngx1t" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.1q5jknzwh" .
+<Guyana> <location.country.administrative_divisions> "Barima-Waini" .
+<East_Berbice-Corentyne> <location.location.contains> "New Amsterdam" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc52mmz" .
+<m.0h_1ll0> <government.national_anthem_of_a_country.country> "Guyana" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3kp8q" .
+<Mahaica-Berbice> <base.aareas.schema.administrative_area.administrative_parent> "Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72vh" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g662_" .
+<Guyana> <sports.sport_country.multi_event_tournaments_participated_in> "2010 Commonwealth Games" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc42fl4" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc488x8" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96q7" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc515_x" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc39p2s" .
+<Guyana> <book.book_subject.works> "Dear death" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4_s30" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4hz15" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96q_" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96hy" .
+<Americas> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc3ltvw" .
+<Bhim_George> <people.person.place_of_birth> "East Berbice-Corentyne" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245z42d6" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc46r25" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.12460m87p" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4r31z" .
+<m.0kpt6tf> <olympics.olympic_athlete_affiliation.country> "Guyana" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.124618rp3" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "m.0nf8bv5" .
+<Country> <type.type.properties> "Administrative Divisions" .
+<Basketball_Player> <freebase.type_profile.equivalent_topic> "Basketball player" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxs1" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxvr" .
+<John_Trim> <common.topic.notable_for> "g.1255sy8zk" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3msqr" .
+<Location> <type.type.domain> "Location" .
+<Guyana> <location.statistical_region.net_migration> "g.1s063wh5g" .
+<Cricket_Player> <freebase.type_profile.strict_included_types> "Topic" .
+<Country> <type.type.properties> "First level divisions" .
+<Geometry> <type.type.domain> "Location" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96ph" .
+<The_counting_house> <book.written_work.subjects> "Guyana" .
+<Wilson_Harris> <people.person.gender> "Male" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxws" .
+<Guyana> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.12tb6g4fy" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1246170sc" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4tj_z" .
+<Fourth_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Warao_Language> <language.human_language.region> "Americas" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245z5l9q" .
+<John_Trim> <sports.pro_athlete.sports_played_professionally> "m.0d5twbz" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc3zxrx" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc53122" .
+<Bhim_George> <people.person.nationality> "United States of America" .
+<Guyana> <common.topic.article> "m.034ml" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72pq" .
+<m.04kg627> <common.topic.notable_for> "g.125h3hxl9" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4vdn9" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "m.0nf8bsn" .
+<Guyana> <location.location.containedby> "Americas" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6flwv" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4h7lp" .
+<Albion,_Guyana> <location.location.people_born_here> "Paul Prashad" .
+<Guyana> <base.aareas.schema.administrative_area.administrative_children> "Pomeroon-Supenaam" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc51hj8" .
+<Pomeroon-Supenaam> <location.administrative_division.country> "Guyana" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.level> "Sovereign state" .
+<Unitary_state> <government.form_of_government.countries> "Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.12460xxyq" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc459g9" .
+<Shawn_James> <sports.pro_athlete.teams> "m.0j1vlll" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc47k59" .
+<Sovereign_state> <base.aareas.administrative_area_level.coding_schemes> "FIPS 10-4" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3qh" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc4hvyk" .
+<Albion,_Guyana> <location.location.containedby> "East Berbice-Corentyne" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96j5" .
+<Skeldon,_Guyana> <common.topic.article> "m.05c4ssl" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4czg0" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.11b60z05j3" .
+<Guyana> <location.location.partially_contains> "New River" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4k6nd" .
+<Dated_location> <freebase.type_profile.published> "Published" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "m.0nf8bsw" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3qx0y" .
+<Sovereign_state> <freebase.type_hints.included_types> "Administrative Area" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.11b71x3fvv" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460tjzb" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96mr" .
+<Administrative_Divisions> <type.property.expected_type> "Administrative Division" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4cg39" .
+<Vishal_Nagamootoo> <people.person.nationality> "Guyana" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_chnt" .
+<Patamona_Language> <language.human_language.region> "Americas" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc44zy7" .
+<m.0wg9d0j> <location.partial_containment_relationship.partially_contained_by> "Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zs0p8" .
+<Administrative_Division> <freebase.type_profile.equivalent_topic> "Administrative division" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc4dy3q" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3qwx0" .
+<Guyana> <common.topic.notable_types> "Country" .
+<m.06gcn27> <rdf-schema#range> "Administrative Division" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "National Front Alliance" .
+<Pomeroon-Supenaam> <base.aareas.schema.administrative_area.administrative_parent> "Guyana" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245zs72h" .
+<m.0wg9d2v> <location.partial_containment_relationship.partially_contains> "Barima River" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc39kpc" .
+<Time_zone(s)> <type.property.schema> "Location" .
+<Barima-Waini> <base.aareas.schema.administrative_area.administrative_parent> "Guyana" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.046y0jd" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "People's Progressive Party" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3zgwn" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3s6x2" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96jp" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3xkw1" .
+<New_River> <geography.river.basin_countries> "Guyana" .
+<Imataka_Mountains> <location.location.partially_containedby> "Guyana" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3wv8k" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4zfkc" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc42613" .
+<First_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Edgar_Mittelholzer> <people.person.gender> "Male" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4ts71" .
+<Mount_Roraima> <travel.tourist_attraction.near_travel_destination> "Georgetown" .
+<Mahaica-Berbice> <location.location.containedby> "Guyana" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc46qsw" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3m0h9" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_area_type> "Sovereign state" .
+<Cuyuni-Mazaruni> <base.aareas.schema.administrative_area.administrative_area_type> "Region of Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72y6" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3h34r" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3c4rw" .
+<New_River> <location.location.partially_containedby> "Guyana" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.11b60gm1cg" .
+<Guyana> <location.country.languages_spoken> "English Language" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "m.05nc3wv" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72qd" .
+<Guyana> <location.country.internet_tld> "gy" .
+<Albion,_Guyana> <location.location.geolocation> "m.0wmpb1q" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc41133" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72py" .
+<Amazon_rainforest> <location.location.partially_containedby> "Guyana" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3v2jj" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3tkk6" .
+<Guyana> <location.statistical_region.energy_use_per_capita> "m.0nf5nlk" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245yz10t" .
+<Guyana> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4402f" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245_rbl5" .
+<Guyana> <sports.sports_team_location.teams> "Guyana national football team" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "m.0nf8bvv" .
+<City/Town/Village> <freebase.type_hints.included_types> "Statistical region" .
+<Guyana> <location.statistical_region.net_migration> "g.1s05zsxx5" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3_pp4" .
+<Map_of_Guyana_showing_East_Berbice-Corentyne_region> <common.image.appears_in_topic_gallery> "East Berbice-Corentyne" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc3t8qt" .
+<Guyana> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc4hrrj" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxqj" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc3wv20" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc3r2cn" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3pm" .
+<Region_of_Guyana> <base.aareas.schema.administrative_area_type.subdivides_place> "Guyana" .
+<Upper_Takutu-Upper_Essequibo> <location.administrative_division.country> "Guyana" .
+<Warao_Language> <language.human_language.countries_spoken_in> "Guyana" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g65__" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc469jg" .
+<Guyana> <periodicals.newspaper_circulation_area.newspapers> "Kaieteur News" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zg_w9" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96qh" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc40yx2" .
+<Guyana> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3szkr" .
+<East_Berbice-Corentyne> <location.location.geometry> "m.04kg627" .
+<Patamona_Language> <language.human_language.main_country> "Guyana" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Guyana> <book.book_subject.works> "The Costs of Regime Survival" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4m8fl" .
+<Dated_location> <type.type.domain> "Location" .
+<Guyana> <base.schemastaging.disputed_location_claimant.disputed_territories> "Cuyuni River" .
+<Administrative_Divisions> <type.property.master_property> "Country" .
+<Wenamu_River> <location.location.containedby> "South America" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245z5l9r" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc3yfjh" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.0j5vlpw" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96hf" .
+<m.0j1c005> <common.webpage.topic> "Guyana" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3d2vc" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245_1j9r" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc45_v5" .
+<Portuguese_Language> <language.human_language.countries_spoken_in> "Guyana" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1q5jybkw2" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96mg" .
+<Guyana Time_Zone> <time.time_zone.locations_in_this_time_zone> "Americas" .
+<2010_Commonwealth_Games> <sports.multi_event_tournament.participating_countries> "Guyana" .
+<Guyana> <location.statistical_region.energy_use_per_capita> "g.1245zl3m0" .
+<The_Costs_of_Regime_Survival> <book.written_work.original_language> "English Language" .
+<Guyana> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc42rmy" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3hgfz" .
+<Upper_Demerara-Berbice> <location.administrative_division.country> "Guyana" .
+<Country> <freebase.type_hints.included_types> "Location" .
+<m.0wg9d2b> <location.partial_containment_relationship.partially_contained_by> "Guyana" .
+<United_States_of_America> <organization.organization_founder.organizations_founded> "World Trade Organization" .
+<Moleson_Creek> <common.topic.notable_types> "City/Town/Village" .
+<Guyana> <location.country.languages_spoken> "Warao Language" .
+<Guyana_national_football_team> <sports.sports_team.location> "Guyana" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc45dk2" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc52972" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3xc81" .
+<Georgetown> <travel.travel_destination.tourist_attractions> "Pacaraima Mountains" .
+<Basketball_player> <freebase.equivalent_topic.equivalent_type> "Basketball Player" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Country> <type.type.properties> "Third level divisions" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc3bf3z" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4gvhd" .
+<New_Amsterdam> <location.location.people_born_here> "Milton Pydanna" .
+<Shawn_James> <basketball.basketball_player.position_s> "Center" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_j1dg" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.124601tzq" .
+<Upper_Demerara-Berbice> <base.aareas.schema.administrative_area.administrative_area_type> "Region of Guyana" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3pv" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.12cp_jvnw" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc53_jw" .
+<Upper_Takutu-Upper_Essequibo> <base.aareas.schema.administrative_area.administrative_area_type> "Region of Guyana" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.11b71wn89j" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc51330" .
+<Guyana_Agricultural_and_General_Workers'_Union> <organization.organization.geographic_scope> "Guyana" .
+<m.0wg9d0p> <location.partial_containment_relationship.partially_contains> "Amazon rainforest" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245z5sld" .
+<Guyana> <base.ontologies.ontology_instance.equivalent_instances> "m.07nf28t" .
+<Pacaraima_Mountains> <location.location.contains> "Mount Roraima" .
+<Third_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Guyana> <location.country.capital> "Georgetown" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g66hd" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72w4" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3f8n4" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc54yfb" .
+<Upper_Takutu-Upper_Essequibo> <base.aareas.schema.administrative_area.administrative_parent> "Guyana" .
+<Monte_Caburaí> <location.location.partially_containedby> "Guyana" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc48tlg" .
+<Time_zone(s)> <rdf-schema#domain> "Location" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4zr26" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc501sc" .
+<Cuyuni-Mazaruni> <location.location.containedby> "Guyana" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4ygz5" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245z5s_h" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxps" .
+<Guyana> <location.country.languages_spoken> "Carib Language" .
+<Courantyne_River> <location.location.partially_contained_by> "m.0wg9d25" .
+<Third_level_divisions> <type.property.schema> "Country" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc42fc3" .
+<m.0wg9d00> <location.partial_containment_relationship.partially_contains> "Pacaraima Mountains" .
+<Geometry> <freebase.type_profile.published> "Published" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc431qp" .
+<Fourth_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Guyana> <location.country.languages_spoken> "Wapishana Language" .
+<Bhim_George> <common.topic.notable_types> "Cricket Player" .
+<New_River> <base.schemastaging.disputed_location.claimed_by> "Guyana" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc38m3r" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72p1" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc3tp1d" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc46rfb" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245z8sj7" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc3srd8" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc3l21k" .
+<Guyana> <location.location.partiallycontains> "m.0wg9d00" .
+<Orealla> <location.location.containedby> "Guyana" .
+<East_Berbice-Corentyne> <common.topic.notable_types> "Administrative Division" .
+<Shawn_James> <common.topic.notable_for> "g.1258ql8ps" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc39wrx" .
+<m.04cn1qg> <organization.organization_membership.member> "Guyana" .
+<Wilson_Harris> <people.person.place_of_birth> "New Amsterdam" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4x6db" .
+<Corriverton> <location.location.containedby> "Nieuw Nickerie" .
+<Third_level_divisions> <rdf-schema#domain> "Country" .
+<John_Trim> <people.person.gender> "Male" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3y2wl" .
+<Basketball_Player> <freebase.type_hints.included_types> "Topic" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc499q_" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3fl4b" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6g_gg" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72m9" .
+<Demerara-Mahaica> <location.location.contains> "Corriverton" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc47ndx" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc462xm" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460mtxk" .
+<Map_of_Guyana_showing_East_Berbice-Corentyne_region> <common.image.size> "m.0kpkxw" .
+<Macushi_Language> <language.human_language.main_country> "Guyana" .
+<Guyana> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc4vdr_" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4b1vv" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245z4fsd" .
+<Guyana> <location.statistical_region.net_migration> "g.1s06rb8xs" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4f84f" .
+<Mahaica-Berbice> <location.administrative_division.country> "Guyana" .
+<m.0kcfdjv> <olympics.olympic_athlete_affiliation.country> "Guyana" .
+<Region_of_Guyana> <base.aareas.schema.administrative_area_type.level> "Region" .
+<m.05kyq7l> <organization.organization_membership.member> "Guyana" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3b2mk" .
+<Administrative_Area> <type.type.domain> "Administrative Areas" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3cl6d" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxxj" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc53l1t" .
+<m.0sxht_5> <people.sibling_relationship.sibling> "Shawn James" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_v0gk" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4w10y" .
+<Earth> <base.aareas.schema.administrative_area.subdividing_type> "Sovereign state" .
+<Fourth_level_division_of> <type.property.expected_type> "Country" .
+<m.07nf28t> <base.ontologies.ontology_instance_mapping.freebase_topic> "Guyana" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc37h6x" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.1245zycs1" .
+<Administrative_Divisions> <type.property.schema> "Country" .
+<Vishal_Nagamootoo> <common.topic.notable_for> "g.11bbqlx6nj" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "Guyana Democratic Party" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245yyg9d" .
+<Country> <type.type.domain> "Location" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc52z19" .
+<m.0wg9d0j> <location.partial_containment_relationship.partially_contains> "Mount Roraima" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3tgtc" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Location" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc4b274" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zfvlj" .
+<Guyana> <location.statistical_region.net_migration> "g.1s061_bpm" .
+<m.0b6rqln> <common.webpage.topic> "Guyana" .
+<Fourth_level_divisions> <owl#inverseOf> "Fourth level division of" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc44wfv" .
+<Moleson_Creek> <location.location.containedby> "East Berbice-Corentyne" .
+<New_Amsterdam> <common.topic.article> "m.044stg" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc3fscw" .
+<m.0wg9d25> <location.partial_containment_relationship.partially_contains> "Courantyne River" .
+<Wenamu_River> <geography.river.basin_countries> "Guyana" .
+<Guyana> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc43v7s" .
+<Country> <freebase.type_profile.strict_included_types> "Agent" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Abstract" .
+<Guyana> <government.governmental_jurisdiction.government_bodies> "National Assembly" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3j5s6" .
+<Guyana> <location.location.partiallycontains> "m.0wjpn3h" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "m.0nf8btr" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4sp_j" .
+<United_States_of_America> <common.topic.notable_types> "Country" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc3h009" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc3n6l_" .
+<Region_of_Guyana> <base.aareas.schema.administrative_area_type.sovereignty> "Guyana" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.12tb6flq_" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc38m8d" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3h763" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc4sh4r" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4l7sx" .
+<East_Berbice-Corentyne> <location.location.people_born_here> "Shawn James" .
+<Guyana> <olympics.olympic_participating_country.athletes> "m.0kcfdj7" .
+<Barima_River> <location.location.containedby> "South America" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245__rsl" .
+<Guyana> <location.statistical_region.diesel_price_liter> "g.1hhc38m2f" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc455wq" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3s1" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4b203" .
+<Guyana> <location.location.containedby> "South America" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.12460lhrp" .
+<Guyana> <location.location.adjoin_s> "m.02wk3mc" .
+<Shawn_James> <people.person.sibling_s> "m.0sxhv32" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc459dz" .
+<Guyana> <base.aareas.schema.administrative_area.administrative_area_type> "Sovereign state" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3czr9" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc485by" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "National Workers' Union" .
+<New_Amsterdam> <location.location.people_born_here> "Barrington Browne" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3b5v_" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6f6_b" .
+<Essequibo_Islands-West_Demerara> <location.location.containedby> "Guyana" .
+<Administrative_Division> <type.type.expected_by> "Second level divisions" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245yxhv7" .
+<Guyana> <location.country.languages_spoken> "Patamona Language" .
+<Shridath_Ramphal> <people.person.nationality> "Guyana" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc469h0" .
+<Americas> <location.location.contains> "South America" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4hz14" .
+<English_Language> <language.human_language.countries_spoken_in> "Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72mr" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245znqj4" .
+<People's_Democratic_Movement> <organization.organization.geographic_scope> "Guyana" .
+<Guyana> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc37prb" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<Guyana> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3sjcd" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.11b71lpbwr" .
+<Dated_location> <freebase.type_hints.included_types> "Topic" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3q1" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6fdvb" .
+<Corriverton> <common.topic.notable_types> "City/Town/Village" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.12tb6flsz" .
+<Georgetown> <common.topic.notable_types> "City/Town/Village" .
+<Barima_River> <location.location.partially_containedby> "Guyana" .
+<Fourth_level_division_of> <type.property.schema> "Administrative Division" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96lz" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc38qm8" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245_z6q1" .
+<East_Berbice-Corentyne> <base.aareas.schema.administrative_area.administrative_parent> "Guyana" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3s9" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4w13p" .
+<Fourth_level_divisions> <rdf-schema#domain> "Country" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc43t_f" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zt776" .
+<Administrative_Divisions> <rdf-schema#range> "Administrative Division" .
+<Guyana> <location.location.partially_contains> "Wenamu River" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc425w4" .
+<Monte_Caburaí> <location.location.partially_contained_by> "m.0wjpn3h" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc5430q" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.12cp_k6sp" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4000f" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g661t" .
+<Guyana> <location.country.languages_spoken> "Akawaio Language" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460kk2l" .
+<National_Workers'_Union> <organization.organization.geographic_scope> "Guyana" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.0c0lc9c" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4y_wj" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3_gjw" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc48tlh" .
+<m.06gcn27> <type.property.expected_type> "Administrative Division" .
+<Ministry_of_Foreign_Affairs> <government.government_agency.jurisdiction> "Guyana" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3lm8p" .
+<Guyana> <location.country.languages_spoken> "Macushi Language" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc50l27" .
+<Waiwai_Language> <language.human_language.countries_spoken_in> "Guyana" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4j1nx" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc4hrvp" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72p8" .
+<East_Berbice-Corentyne> <base.aareas.schema.administrative_area.administrative_area_type> "Region of Guyana" .
+<Guyana> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc52vg9" .
+<Albion,_Guyana> <common.topic.notable_for> "g.1256v0l63" .
+<Administrative_Division> <freebase.type_hints.included_types> "Dated location" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4q8j_" .
+<Administrative_Division> <type.type.properties> "Capital" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4r2zg" .
+<Earth> <base.locations.planets.countries_within> "United States of America" .
+<Mahaica-Berbice> <common.topic.notable_types> "Administrative Division" .
+<Region_of_Guyana> <freebase.type_hints.included_types> "Administrative Area" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4bh77" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxsk" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3vhj7" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4c3zv" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc4lp1w" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc39sk7" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3b9jg" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6h4_1" .
+<Wilson_Harris> <people.person.nationality> "Guyana" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc41kbf" .
+<Administrative_Area> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<Shawn_James> <people.person.sibling_s> "m.0sxhtrd" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_kbv0" .
+<Shridath_Ramphal> <people.person.gender> "Male" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zm627" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72xb" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc55425" .
+<Guyana> <location.statistical_region.energy_use_per_capita> "m.0nf5nlb" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.12tb6hb_s" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc53kzz" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc4k314" .
+<Bhim_George> <common.topic.notable_for> "g.11bbqpqhd6" .
+<Ireng_River> <location.location.partially_contained_by> "m.0wg9d3h" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4c3v8" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4cznm" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.124613787" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc4zfj5" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3npkj" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc38hlk" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc382gz" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245_jspv" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4xd_x" .
+<Fourth_level_division_of> <rdf-schema#range> "Country" .
+<Guyana> <olympics.olympic_participating_country.athletes> "m.0kcfdm0" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4rrqq" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.12cp_kbn4" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4mcm1" .
+<Mount_Roraima> <location.location.containedby> "Pacaraima Mountains" .
+<Guyana> <book.book_subject.works> "The Wizard Swami" .
+<Guyana> <location.statistical_region.diesel_price_liter> "g.12cp_jm3q" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc47nls" .
+<Guyana> <location.location.partially_contains> "Barima River" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<First_level_divisions> <rdf-schema#domain> "Country" .
+<Potaro-Siparuni> <common.topic.notable_types> "Administrative Division" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3yzf_" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4j1gw" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72v8" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.12460h7pc" .
+<Courantyne_River> <location.location.partially_containedby> "Guyana" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3f_50" .
+<Guyana> <location.statistical_region.net_migration> "g.1q5k23fgq" .
+<Spanish_Language> <language.human_language.countries_spoken_in> "Guyana" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3rdyl" .
+<m.010g62wl> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc3ccb9" .
+<Guyana> <base.aareas.schema.administrative_area.administrative_parent> "Earth" .
+<South_America> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3d9pw" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3mglk" .
+<Administrative_Division> <freebase.type_profile.kind> "Description" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.124601tnj" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3r_rg" .
+<Guyana> <location.country.languages_spoken> "Arawak" .
+<Albion,_Guyana> <location.location.people_born_here> "Martin Prashad" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_7s_n" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72v1" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3sr64" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxxs" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4rmxw" .
+<Basketball_player> <people.profession.corresponding_type> "Basketball Player" .
+<English_Language> <language.human_language.main_country> "United States of America" .
+<Cuyuni_River> <location.location.partially_containedby> "Guyana" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc390x6" .
+<Akawaio_Language> <language.human_language.countries_spoken_in> "Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72yx" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3h38k" .
+<Soul_clap_hands_and_sing> <book.written_work.subjects> "Guyana" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc3wdkn" .
+<John_Trim> <people.person.place_of_birth> "East Berbice-Corentyne" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3m0g_" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4st9v" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4tfn5" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245yx9tp" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc45dkt" .
+<Guyana> <location.statistical_region.diesel_price_liter> "g.12cp_jr1v" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc41k_3" .
+<Shridath_Ramphal> <people.person.place_of_birth> "New Amsterdam" .
+<Shawn_James> <people.person.gender> "Male" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4h4vc" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxt1" .
+<m.04kc4rd> <organization.organization_membership.member> "Guyana" .
+<Shawn_James> <people.person.sibling_s> "m.0sxhv3t" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc4lp60" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245_22j8" .
+<Guyana> <base.aareas.schema.administrative_area.administrative_children> "Barima-Waini" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxr1" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.11b71sdymp" .
+<Guyana> <location.country.form_of_government> "Semi-presidential system" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4czbd" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc48tf1" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc3bjj4" .
+<Takutu_River> <location.location.partially_containedby> "Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72tv" .
+<Guyana> <location.statistical_region.energy_use_per_capita> "g.1245_bzqk" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<m.010g662_> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<New_Amsterdam> <location.location.people_born_here> "Kevin Darlington" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc44wgl" .
+<Country> <type.type.properties> "Fourth level divisions" .
+<m.010g661t> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4_ryk" .
+<Cuyuni-Mazaruni> <common.topic.notable_types> "Administrative Division" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.12460c405" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.12460mtvr" .
+<Amazon_rainforest> <location.location.containedby> "South America" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3dz6k" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc3szcn" .
+<Guyana> <location.country.administrative_divisions> "Cuyuni-Mazaruni" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3npx9" .
+<Barima-Waini> <location.administrative_division.country> "Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1246193hh" .
+<m.04ddvkh> <organization.organization_membership.member> "Guyana" .
+<Guyana> <location.statistical_region.diesel_price_liter> "g.12cp_k2lq" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4xfd1" .
+<Council_of_Guyana> <freebase.type_hints.included_types> "Topic" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3zptk" .
+<New_River> <location.location.containedby> "South America" .
+<Georgetown> <location.location.containedby> "Demerara-Mahaica" .
+<New_Amsterdam> <location.location.containedby> "East Berbice-Corentyne" .
+<Mahaica-Berbice> <base.aareas.schema.administrative_area.administrative_area_type> "Region of Guyana" .
+<New_Amsterdam> <common.topic.image> "New Amsterdam Town Hall (1950)" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxt_" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxy8" .
+<Third_level_division_of> <type.property.schema> "Administrative Division" .
+<Guyana> <location.statistical_region.net_migration> "g.1s06rb5fy" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxq0" .
+<Guyana> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1s06rbbt_" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4n7b8" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1q5jylk5x" .
+<Administrative_Division> <type.type.properties> "FIPS 10-4 Region Code" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc455x3" .
+<Essequibo_Islands-West_Demerara> <common.topic.notable_types> "Administrative Division" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zw9z_" .
+<Albion,_Guyana> <location.location.time_zones> "UTC−04:00" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4m8d_" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6fzxc" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3qq" .
+<m.0jrztbh> <symbols.flag_use.flag_user> "Guyana" .
+<Ireng_River> <geography.river.basin_countries> "Guyana" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc4sh1g" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4zffc" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96kf" .
+<Country> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3xpkx" .
+<East_Berbice-Corentyne> <location.location.people_born_here> "Bhim George" .
+<Guyana> <location.country.languages_spoken> "Spanish Language" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc37h6w" .
+<Vishal_Nagamootoo> <people.person.place_of_birth> "East Berbice-Corentyne" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc48hxq" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc46rd8" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc3zxpc" .
+<Carib_Language> <language.human_language.countries_spoken_in> "Guyana" .
+<Second_level_divisions> <type.property.schema> "Country" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.11b71vz1lj" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4zyjy" .
+<Guyana> <location.statistical_region.energy_use_per_capita> "m.0nf5nls" .
+<m.02wk3m4> <location.adjoining_relationship.adjoins> "Guyana" .
+<Guyana> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4gvrl" .
+<Guyana> <location.location.partiallycontains> "m.0wg9d3h" .
+<m.0j1vlll> <sports.sports_team_roster.player> "Shawn James" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72xs" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zx78j" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc46qs7" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc49vl8" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96m_" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "People's National Congress" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1246035bg" .
+<Administrative_Division> <type.type.properties> "ISO 3166-2 Code" .
+<Country> <rdf-schema#range> "Country" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72wc" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc4gqr2" .
+<Guyana> <symbols.flag_referent.flag> "m.0jrztbh" .
+<Waiwai_Language> <language.human_language.region> "Americas" .
+<Fourth_level_divisions> <type.property.schema> "Country" .
+<m.0wg9d1j> <location.partial_containment_relationship.partially_contains> "Imataka Mountains" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3rl" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.1245z8sjr" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4lzdb" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gb6y" .
+<Potaro-Siparuni> <location.administrative_division.country> "Guyana" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_yndz" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc50_tp" .
+<m.010r2dp3> <people.place_lived.location> "Guyana" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12tb6gh2p" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3yvd2" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.12tb6hbzh" .
+<Takutu_River> <location.location.containedby> "South America" .
+<m.0j1vlll> <sports.sports_team_roster.position> "Power forward" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4f82k" .
+<Fourth_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g66k2" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96pr" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Dated location" .
+<Region_of_Guyana> <type.type.domain> "Administrative Areas" .
+<Barima_River> <location.location.partially_contained_by> "m.0wg9d2v" .
+<Guyana> <common.topic.notable_for> "g.1255l118d" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72x0" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4g273" .
+<Council_of_Guyana> <freebase.type_hints.included_types> "Administrative Area" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_n3dl" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc41wwj" .
+<Guyana> <location.location.partially_contains> "Mount Roraima" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.12cp_kbr4" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.124604xpm" .
+<Region_of_Guyana> <base.aareas.schema.administrative_area_type.iso_country> "Guyana" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc3cl8h" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4b216" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96nh" .
+<Americas> <location.location.time_zones> "Guyana Time Zone" .
+<Guyana> <location.location.partiallycontains> "m.0wg9d44" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72nm" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc37h4m" .
+<Vishal_Nagamootoo> <people.person.places_lived> "m.010r2dp3" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc4_k0p" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.124618c9p" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3h6w9" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3fsh5" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4wxd5" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4nft3" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96kp" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72n5" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g664x" .
+<Semi-presidential_system> <government.form_of_government.countries> "Guyana" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc51pns" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4xmzx" .
+<m.0wg9d2_> <location.partial_containment_relationship.partially_contained_by> "Guyana" .
+<Guyana> <location.country.official_language> "English Language" .
+<m.0sxhtrd> <people.sibling_relationship.sibling> "Shawn James" .
+<Georgetown> <location.location.containedby> "Guyana" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3d9px" .
+<Demerara-Mahaica> <location.location.contains> "Georgetown" .
+<Guyana_Action_Party> <organization.organization.geographic_scope> "Guyana" .
+<m.0wg9d44> <location.partial_containment_relationship.partially_contained_by> "Guyana" .
+<Pomeroon-Supenaam> <location.location.containedby> "Guyana" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3j5v2" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1q5jknzpp" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96p_" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96jy" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72sh" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4s1r7" .
+<Guyana> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3tww5" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.12cp_k6rx" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3d68_" .
+<Guyana_Airline_Pilots_Association> <organization.organization.geographic_scope> "Guyana" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.11b6dbbq4p" .
+<Council_of_Guyana> <base.aareas.schema.administrative_area_type.sovereignty> "Guyana" .
+<m.010g65__> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3dmpm" .
+<Pomeroon-Supenaam> <common.topic.notable_types> "Administrative Division" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.1245zcvd8" .
+<Earth> <base.aareas.schema.administrative_area.administrative_area_type> "Administrative Area" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc52j2t" .
+<Administrative_Division> <type.type.expected_by> "Administrative Divisions" .
+<First_level_division_of> <rdf-schema#range> "Country" .
+<Guyana> <location.country.languages_spoken> "Waiwai Language" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3pjh0" .
+<People's_Progressive_Party> <organization.organization.geographic_scope> "Guyana" .
+<Sovereign_state> <freebase.type_hints.included_types> "Location" .
+<Guyana> <organization.organization_founder.organizations_founded> "World Trade Organization" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc47p3f" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc53x2s" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc4pglp" .
+<Country> <type.type.properties> "Second level divisions" .
+<Alliance_for_Change> <organization.organization.geographic_scope> "Guyana" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4_s13" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4jpsl" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4qq3r" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4_7dz" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "m.0nf8bvm" .
+<Shawn_James> <people.person.place_of_birth> "East Berbice-Corentyne" .
+<United_States_of_America> <olympics.olympic_participating_country.olympics_participated_in> "2008 Summer Olympics" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc47nyz" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.124618k8w" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72nd" .
+<Moleson_Creek> <location.location.containedby> "Guyana" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc3m7d2" .
+<Guyana> <location.location.partially_contains> "Cuyuni River" .
+<Location> <freebase.type_profile.published> "Published" .
+<Guyana Time_Zone> <time.time_zone.locations_in_this_time_zone> "South America" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_0_bc" .
+<Guyana> <location.statistical_region.net_migration> "g.1q5j6jds6" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxw7" .
+<Guyana> <location.statistical_region.energy_use_per_capita> "g.124602d0c" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3dvsx" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.12tb6gh7r" .
+<Shawn_James> <people.person.education> "m.0w580kq" .
+<Rise_Organise_and_Rebuild_Guyana> <organization.organization.geographic_scope> "Guyana" .
+<Guyana> <location.statistical_region.net_migration> "g.1q5jj7r4r" .
+<New_Amsterdam> <location.location.people_born_here> "Andre Percival" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3j9fm" .
+<Guyana> <location.country.administrative_divisions> "Mahaica-Berbice" .
+<Guyana> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4b1_0" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3z840" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3f_bd" .
+<Location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3wdn1" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3zlfp" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3drhl" .
+<Council_of_Guyana> <base.aareas.schema.administrative_area_type.iso_country> "Guyana" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "People's Democratic Movement" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc411cg" .
+<Cuyuni_River> <location.location.partially_contained_by> "m.0wg9d1p" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.pertains_to> "Earth" .
+<Akawaio_Language> <language.human_language.region> "Americas" .
+<m.07nwlgq> <olympics.olympic_medal_honor.country> "Guyana" .
+<Wenamu_River> <location.location.partially_contained_by> "m.0wg9d2_" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "Alliance for Change" .
+<Region_of_Guyana> <base.aareas.schema.administrative_area_type.subdividing_type> "Council of Guyana" .
+<Takutu_River> <geography.river.basin_countries> "Guyana" .
+<Albion,_Guyana> <common.topic.notable_types> "Location" .
+<Guyana> <book.book_subject.works> "Dark swirl" .
+<Third_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.1245z9qmv" .
+<New_Amsterdam> <location.location.people_born_here> "Jeremy Gordon" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc37_hx" .
+<Guyana> <location.location.partially_contains> "Amazon rainforest" .
+<National_Archives_of_Guyana> <government.government_agency.jurisdiction> "Guyana" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1s05yv068" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Abstract" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4pg7b" .
+<Guyana> <location.location.partially_contains> "Courantyne River" .
+<m.0wg9d2v> <location.partial_containment_relationship.partially_contained_by> "Guyana" .
+<Guyana> <common.topic.webpage> "m.0b6rqln" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72r9" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4r30q" .
+<Guyana> <location.location.partiallycontains> "m.0wg9d1p" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3p625" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3h76y" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc4gvq0" .
+<Guyana> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3g5_k" .
+<Guyana> <location.statistical_region.diesel_price_liter> "g.12cp_jh97" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zvrl1" .
+<Cricket_Player> <freebase.type_hints.included_types> "Topic" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc3yf4b" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4c3_9" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3hg9b" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3p65v" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4kjs6" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3qp0y" .
+<Guyana> <location.country.administrative_divisions> "Pomeroon-Supenaam" .
+<Monte_Caburaí> <location.location.containedby> "South America" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245ysjzf" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc52msk" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.1245ywrl4" .
+<Dark_swirl> <book.written_work.subjects> "Guyana" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Location" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "The United Force" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zk6qg" .
+<Sovereign_state> <freebase.type_hints.included_types> "Topic" .
+<Guyana> <location.location.events> "2014 NACAM Rally Championship" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3rdpg" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3msp6" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245_4dkd" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gb6x" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96k5" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc50508" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g63m6" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.1245z6j_y" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.124604hd4" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245z5syv" .
+<Administrative_Division> <freebase.type_hints.included_types> "Location" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72s8" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3h38j" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3sz82" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245z17sr" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.12460x5jl" .
+<Guyana> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4dtch" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1s065jdl8" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96m6" .
+<Fourth_level_division_of> <type.property.master_property> "Fourth level divisions" .
+<Moleson_Creek> <location.location.geolocation> "m.02_np3z" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc46qp4" .
+<Carib_Language> <language.human_language.region> "Americas" .
+<Skeldon,_Guyana> <common.topic.notable_types> "City/Town/Village" .
+<Third_level_division_of> <type.property.master_property> "Third level divisions" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3d2vb" .
+<Guyana> <government.governmental_jurisdiction.agencies> "National Archives of Guyana" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc3p9h6" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72mj" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.0j5vlq2" .
+<m.0kpszbn> <olympics.olympic_athlete_affiliation.country> "Guyana" .
+<Country> <type.property.reverse_property> "Administrative Divisions" .
+<m.0wjpn3h> <location.partial_containment_relationship.partially_contains> "Monte Caburaí" .
+<m.010g66k2> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Guyana_Democratic_Party> <organization.organization.geographic_scope> "Guyana" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3rc" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3qy" .
+<Orealla> <location.location.containedby> "East Berbice-Corentyne" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6h4_2" .
+<Guyana_Trades_Union_Congress> <organization.organization.geographic_scope> "Guyana" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4cbkk" .
+<Second_level_divisions> <owl#inverseOf> "Second level division of" .
+<East_Berbice-Corentyne> <location.location.geolocation> "m.0wmj5k_" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.11b6ddx6zm" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4w0zn" .
+<Guyana> <location.statistical_region.consumer_price_index> "g.1hhc431tb" .
+<m.0wjpn3h> <location.partial_containment_relationship.partially_contained_by> "Guyana" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc50pnv" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3yf1c" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.12cp_kgm2" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3s6k8" .
+<Guyana> <organization.organization_member.member_of> "m.04kc4rd" .
+<The_Costs_of_Regime_Survival> <book.written_work.subjects> "Guyana" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.11b71qgk1_" .
+<First_level_divisions> <type.property.reverse_property> "First level division of" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72tm" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Dated location" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4c3zw" .
+<Administrative_Division> <common.topic.article> "m.02hpzsm" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3drg9" .
+<Guyana> <location.country.currency_used> "Guyanese dollar" .
+<Pacaraima_Mountains> <travel.tourist_attraction.near_travel_destination> "Georgetown" .
+<Administrative_Division> <type.type.expected_by> "Third level divisions" .
+<Administrative_Division> <type.type.expected_by> "Administrative division" .
+<Guyana> <base.aareas.schema.administrative_area.administrative_children> "Upper Demerara-Berbice" .
+<Third_level_divisions> <owl#inverseOf> "Third level division of" .
+<Edgar_Mittelholzer> <people.person.place_of_birth> "New Amsterdam" .
+<Potaro-Siparuni> <base.aareas.schema.administrative_area.administrative_parent> "Guyana" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc4d8pc" .
+<Cuyuni_River> <location.location.containedby> "South America" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72z3" .
+<East_Berbice-Corentyne> <location.statistical_region.population> "g.11bymmvmz2" .
+<Barima-Waini> <location.location.containedby> "Guyana" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.1245_rxxx" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4j1wm" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_pg7y" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72r1" .
+<United_States_of_America> <location.location.containedby> "Americas" .
+<Albion,_Guyana> <common.topic.article> "m.0bs3scx" .
+<New_Amsterdam> <location.location.people_born_here> "Aftab Shamshudeen" .
+<Cuyuni_River> <geography.river.basin_countries> "Guyana" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_j1rb" .
+<Guyana> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4wh34" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g66n5" .
+<John_Trim> <common.topic.article> "m.0b3qzs" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96lp" .
+<Shawn_James> <basketball.basketball_player.position_s> "Power forward" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4b1n7" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3pyb1" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4nw4v" .
+<Essequibo_Islands-West_Demerara> <base.aareas.schema.administrative_area.administrative_parent> "Guyana" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc47g27" .
+<Barima-Waini> <common.topic.notable_types> "Administrative Division" .
+<FIPS_10-4> <base.aareas.coding_scheme.geo_scope> "Earth" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4xff7" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3xkq7" .
+<m.010g664x> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4bh2_" .
+<New_Amsterdam> <location.location.geolocation> "m.02_g6ff" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3p958" .
+<Guyana> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc534dm" .
+<Guyana> <base.aareas.schema.administrative_area.administrative_children> "Demerara-Mahaica" .
+<m.010g66n5> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Guyana> <location.location.partiallycontains> "m.0wg9d1j" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4lggd" .
+<Patamona_Language> <language.human_language.countries_spoken_in> "Guyana" .
+<East_Berbice-Corentyne> <location.location.contains> "Moleson Creek" .
+<Upper_Takutu-Upper_Essequibo> <location.location.containedby> "Guyana" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.12461clgj" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc39wyx" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.12460x4v7" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zfws9" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3zgwp" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.11b60t8r9t" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc50cnl" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc4t0vp" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3hs2q" .
+<Demerara-Mahaica> <base.aareas.schema.administrative_area.administrative_area_type> "Region of Guyana" .
+<Guyana> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc53plg" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc390wr" .
+<East_Berbice-Corentyne> <common.topic.image> "Map of Guyana showing East Berbice-Corentyne region" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3qbr_" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3_pqx" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3p2n5" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc42dyb" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc4by21" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3xpjq" .
+<Upper_Demerara-Berbice> <location.location.containedby> "Guyana" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3k09p" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Basketball_Player> <freebase.type_profile.published> "Published" .
+<Guyana> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc49n7y" .
+<United_States_of_America> <base.locations.countries.planet> "Earth" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc485cs" .
+<Guyana> <base.aareas.schema.administrative_area.administrative_children> "Potaro-Siparuni" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc40vrl" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc4dd5b" .
+<Guyana> <location.statistical_region.diesel_price_liter> "g.12cp_jvkk" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc4q27r" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc4_k9c" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc4bplt" .
+<New_Amsterdam> <location.statistical_region.population> "g.11bc882p7k" .
+<Second_level_division_of> <type.property.schema> "Administrative Division" .
+<Guyana> <olympics.olympic_participating_country.olympics_participated_in> "2008 Summer Olympics" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "g.1246130jq" .
+<Guyana> <government.governmental_jurisdiction.governing_officials> "m.010g63cn" .
+<Guyana> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4t0x0" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "g.12460c404" .
+<New_Amsterdam> <location.location.people_born_here> "Edgar Mittelholzer" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc37x5_" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3q8" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3xggx" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "m.0nf8bvd" .
+<Howard_Eastman> <people.person.gender> "Male" .
+<Region_of_Guyana> <freebase.type_hints.included_types> "Location" .
+<Guyana> <location.country.administrative_divisions> "Essequibo Islands-West Demerara" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "m.0nf72q5" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc489jw" .
+<Region_of_Guyana> <type.type.properties> "Capital" .
+<Skeldon,_Guyana> <location.location.geolocation> "m.0d797ws" .
+<Guyana> <location.statistical_region.time_required_to_start_a_business> "g.1hhc5310r" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc44z__" .
+<m.010g66hd> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1q5jg9nkh" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3kwvh" .
+<Guyana> <location.statistical_region.labor_participation_rate> "g.1hhc4cn_n" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3hsb3" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3r2dy" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96jf" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc4468z" .
+<m.0c0lc9c> <government.government_position_held.jurisdiction_of_office> "Guyana" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc4y_r7" .
+<Edgar_Mittelholzer> <people.person.nationality> "Guyana" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc37pj_" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "Guyana Trades Union Congress" .
+<Administrative_Division> <type.type.expected_by> "m.06gcn27" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3j5yj" .
+<Guyana> <organization.organization_member.member_of> "m.04dj3pk" .
+<Wapishana_Language> <language.human_language.region> "Americas" .
+<Guyana> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245znq3k" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3nx1j" .
+<Cuyuni-Mazaruni> <base.aareas.schema.administrative_area.administrative_parent> "Guyana" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3_swq" .
+<First_level_division_of> <type.property.schema> "Administrative Division" .
+<Turner> <book.written_work.subjects> "Guyana" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3vhcw" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc4r9sq" .
+<Region_of_Guyana> <type.type.properties> "Councils" .
+<Guyana> <location.statistical_region.deposit_interest_rate> "g.1hhc3cc7b" .
+<m.0wg9d00> <location.partial_containment_relationship.partially_contained_by> "Guyana" .
+<Second_level_division_of> <rdf-schema#range> "Country" .
+<Skeldon,_Guyana> <location.location.containedby> "East Berbice-Corentyne" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc4r30l" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4pg7s" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc4hc8t" .
+<Guyana> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1q5jj_txx" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Guyana> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4t_t1" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3c17b" .
+<Guyana> <location.country.languages_spoken> "Portuguese Language" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4fzv1" .
+<New_Amsterdam> <location.location.containedby> "Guyana" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Cuyuni_River> <base.schemastaging.disputed_location.claimed_by> "Guyana" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc4tnzh" .
+<National_Front_Alliance> <organization.organization.geographic_scope> "Guyana" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3rt" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4mhdc" .
+<People's_National_Congress> <organization.organization.geographic_scope> "Guyana" .
+<Sovereign_state> <type.type.domain> "Administrative Areas" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Abstract" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Abstract" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc47p0q" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc3l952" .
+<Corriverton> <location.location.containedby> "East Berbice-Corentyne" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1s06rbbsx" .
+<Cricket_Player> <freebase.type_profile.published> "Published" .
+<National_Assembly> <government.governmental_body.jurisdiction> "Guyana" .
+<Upper_Demerara-Berbice> <common.topic.notable_types> "Administrative Division" .
+<m.02wk3ln> <location.adjoining_relationship.adjoins> "Guyana" .
+<Orealla> <common.topic.image> "Providence, Guyana (Guyana  )" .
+<Guyana> <organization.organization_member.member_of> "m.04cn1qg" .
+<Administrative_Division> <type.type.properties> "Second level division of" .
+<Guyana> <organization.organization_member.member_of> "m.04ddvkh" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6g4m8" .
+<Guyana> <organization.organization_scope.organizations_with_this_scope> "Working People's Vanguard Party" .
+<Guyana> <base.aareas.schema.administrative_area.subdividing_type> "Region of Guyana" .
+<Guyana> <location.statistical_region.cpi_inflation_rate> "g.1hhc3p95t" .
+<Guyana> <location.location.adjoin_s> "m.02wk3ln" .
+<Guyana> <location.statistical_region.diesel_price_liter> "g.12cp_jcg0" .
+<Council_of_Guyana> <base.aareas.schema.administrative_area_type.subdivides_type> "Region of Guyana" .
+<Guyana> <location.statistical_region.gdp_nominal_per_capita> "g.11b60tf0f9" .
+<Guyana> <olympics.olympic_participating_country.athletes> "m.0kpszbn" .
+<Shawn_James> <people.person.profession> "Basketball player" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3f_8r" .
+<Guyana> <location.statistical_region.renewable_freshwater_per_capita> "g.11b6p5v552" .
+<m.04p8xl2> <organization.organization_membership.member> "Guyana" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxr9" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc3_824" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc3hs7b" .
+<Country> <freebase.type_profile.strict_included_types> "Location" .
+<Country> <freebase.type_hints.included_types> "Statistical region" .
+<Country> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3w9kb" .
+<Guyana> <location.statistical_region.net_migration> "g.1q5jlcsyq" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zwq1m" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3b9j_" .
+<Guyana> <location.statistical_region.internet_users_percent_population> "m.0nf8bt2" .
+<Guyana> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4d8qb" .
+<Geometry> <freebase.type_profile.strict_included_types> "Topic" .
+<Guyana> <location.location.geolocation> "m.046vx_k" .
+<East_Berbice-Corentyne> <location.location.containedby> "Guyana" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxx0" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245zqyyw" .
+<Guyana> <location.statistical_region.official_development_assistance> "g.1hhc4596x" .
+<First_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc53pmc" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.1245_f_g5" .
+<East_Berbice-Corentyne> <common.topic.notable_for> "g.125723cry" .
+<m.0kpsv3t> <olympics.olympic_athlete_affiliation.country> "Guyana" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Topic" .
+<Earth> <base.locations.planets.continents_within> "South America" .
+<Guyana> <location.statistical_region.renewable_freshwater_per_capita> "g.11b6cz9816" .
+<Guyana> <location.statistical_region.gni_in_ppp_dollars> "g.12460f5yv" .
+<Dear_death> <book.written_work.subjects> "Guyana" .
+<Guyana> <location.statistical_region.co2_emissions_per_capita> "g.124609vm1" .
+<New_Amsterdam> <common.topic.notable_types> "City/Town/Village" .
+<Administrative_Division> <type.type.properties> "First level division of" .
+<First_level_divisions> <type.property.schema> "Country" .
+<Guyana> <location.statistical_region.prevalence_of_undernourisment> "g.1q5k0cmh7" .
+<Guyana> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4_k4b" .
+<Guyana> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3y30x" .
+<Guyana> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3yf2s" .
+<Potaro-Siparuni> <location.location.containedby> "Guyana" .
+<Guyana> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3n8" .
+<East_Berbice-Corentyne> <common.topic.article> "m.075wbc" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<Guyana> <location.statistical_region.size_of_armed_forces> "g.1hhc3j2mq" .
+<Guyana> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3bvfc" .
+<Guyana> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3srch" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc3k0bb" .
+<Guyana> <location.statistical_region.external_debt_stock> "g.1hhc48tpf" .
+<Guyana> <location.location.adjoin_s> "m.02wk3k0" .

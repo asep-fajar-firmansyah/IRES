@@ -1,0 +1,2482 @@
+<m.05n65n4> <baseball.baseball_team_stats.team> "New York Giants" .
+<Hilltop_Park> <sports.sports_facility.teams> "San Francisco Giants" .
+<Baseball_League> <freebase.type_profile.kind> "Definition" .
+<m.0crt7py> <sports.sports_league_participation.league> "National League" .
+<2004_Emerald_Bowl> <time.event.locations> "AT&T Park" .
+<Arizona_Diamondbacks> <common.topic.notable_types> "Professional Sports Team" .
+<m.0crt7td> <sports.sports_league_participation.league> "National League" .
+<Baseball's_Sad_Lexicon> <book.written_work.original_language> "English Language" .
+<2010_World_Series> <time.event.participant> "San Francisco Giants" .
+<Ron_Wotus> <people.person.profession> "Baseball player" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6fby" .
+<AT&T_Park> <location.location.events> "2007 Major League Baseball All-Star Game" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n69dx" .
+<National_League> <sports.sports_league.teams> "m.0crt7jw" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6b3x" .
+<m.04lrc4c> <business.employment_tenure.person> "Ron Schueler" .
+<m.05n65v1> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.0ck2dt_> <organization.organization_relationship.parent> "National League" .
+<Philadelphia_Phillies> <baseball.baseball_team.league> "National League" .
+<Will_Clark> <sports.drafted_athlete.drafted> "m.04vx17d" .
+<1988_Major_League_Baseball_Season> <time.event.next_in_series> "1989 Major League Baseball Season" .
+<m.010brjkc> <base.schemastaging.phone_sandbox.contact_category> "Customer Service" .
+<Candlestick_Park> <common.topic.article> "m.017grr" .
+<Polo_Grounds> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k03zbd" .
+<m.04w1x4c> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.0gx4bv0> <business.employment_tenure.company> "National League" .
+<Vanya_Seager> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League> <business.employer.employees> "m.0glwt2h" .
+<m.04vy3r2> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Brian_Sabean> <people.person.employment_history> "m.04m2rx3" .
+<San_Francisco_Giants> <baseball.baseball_team.league> "National League" .
+<m.0gv0r6n> <business.employment_tenure.company> "National League" .
+<San_Francisco_Giants> <sports.sports_team.venue> "m.0w_jy61" .
+<National_League> <sports.sports_league.teams> "m.0crt79z" .
+<Baseball_Player> <freebase.type_hints.included_types> "Topic" .
+<AT&T_Park> <location.location.events> "2012 World Series" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.0dl37x6" .
+<1985_Major_League_Baseball_season> <time.event.next_in_series> "1986 Major League Baseball Season" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6f7n" .
+<Calvin_Murray> <common.topic.notable_types> "Baseball Player" .
+<Professional_Sports_Team> <type.type.properties> "Draft Picks" .
+<m.05n66n9> <baseball.baseball_team_stats.team> "New York Giants" .
+<Colorado_Rockies> <sports.sports_team.sport> "Baseball" .
+<National_League> <business.employer.employees> "m.0wk3sls" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1sd8" .
+<Candlestick_Park> <sports.sports_facility.home_venue_for> "m.0n9gjdm" .
+<m.04vy2qp> <sports.sports_league_draft_pick.draft> "1989 Major League Baseball Draft" .
+<m.04vx0x_> <sports.sports_league_draft_pick.player> "Alan Cockrell" .
+<Miami_Marlins> <sports.sports_team.arena_stadium> "Marlins Park" .
+<m.05n6748> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.04vww5g> <sports.sports_league_draft_pick.player> "John D'Acquisto" .
+<Orange> <common.topic.image> "Sphere packing finds practical application in the stacking of oranges" .
+<m.0crt7jw> <sports.sports_league_participation.league> "National League" .
+<Sports_League_Season> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0gl1_8b> <business.employment_tenure.company> "National League" .
+<Boof_Bonser> <people.person.gender> "Male" .
+<m.04w1tcm> <sports.sports_league_draft_pick.school> "Louisiana State University" .
+<AT&T_Park> <common.topic.notable_types> "Sports Facility" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Quiana Grant" .
+<Brett_Bochy> <people.person.nationality> "United States of America" .
+<m.05n68ws> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Sunday closing time" .
+<m.04vy326> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Ron_Wotus> <people.person.gender> "Male" .
+<1987_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy1xn" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vx0zw" .
+<National_League> <sports.sports_league.teams> "m.0crt7_0" .
+<m.04vwzl_> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Sports_Team> <freebase.type_profile.strict_included_types> "Topic" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n67gs" .
+<National_League> <sports.sports_league.teams> "m.0crt7vw" .
+<Al_Gallagher> <people.person.gender> "Male" .
+<AT&T_Park> <location.location.events> "2005 Emerald Bowl" .
+<Baseball> <sports.sport.positions> "Hitting coach" .
+<m.05n68_2> <baseball.baseball_team_stats.team> "New York Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1sxn" .
+<m.0527d03> <baseball.current_coaching_tenure.baseball_coach> "Carney Lansford" .
+<Sports_League_Championship_Event> <type.type.domain> "Sports" .
+<Dusty_Baker> <baseball.baseball_manager.former_teams_managed> "m.052w1bg" .
+<United_States_of_America> <location.location.time_zones> "Pacific Time Zone" .
+<Bill_Hayes> <baseball.baseball_player.position_s> "Catcher" .
+<2012_World_Series> <time.event.locations> "Comerica Park" .
+<m.05n67xt> <baseball.baseball_team_stats.team> "New York Giants" .
+<Candlestick_Park> <sports.sports_facility.home_venue_for> "m.0n9gjdv" .
+<m.0crt7dk> <sports.sports_league_participation.team> "Colorado Rockies" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69q3" .
+<m.05n6cp1> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Polo_Grounds> <location.location.events> "1937 World Series" .
+<San_Francisco> <film.film_location.featured_in_films> "Freebie and the Bean" .
+<m.04vw_l9> <sports.sports_league_draft_pick.player> "Mark Grant" .
+<John_D'Acquisto> <people.person.gender> "Male" .
+<m.0ck2dtv> <organization.organization_relationship.child> "National League East" .
+<Candlestick_Park> <location.location.events> "2011–12 NFL playoffs" .
+<1969_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwvtp" .
+<University_of_Texas_at_Austin> <location.location.containedby> "United States of America" .
+<Polo_Grounds> <location.location.events> "1911 World Series" .
+<m.04vwvtp> <sports.sports_league_draft_pick.player> "Mike Phillips" .
+<Washington_Nationals> <baseball.baseball_team.division> "National League East" .
+<Louisiana_State_University> <freebase.valuenotation.is_reviewed> "Contact webpages" .
+<San_Diego_Padres> <baseball.baseball_team.league> "National League" .
+<m.0crt7_0> <sports.sports_league_participation.league> "National League" .
+<Craig_Landis> <people.person.gender> "Male" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n6799" .
+<m.05n6c7m> <baseball.baseball_team_stats.season> "1980 Major League Baseball Season" .
+<m.06pfpwr> <baseball.batting_statistics.team> "San Diego Padres" .
+<m.0crt79k> <sports.sports_league_participation.team> "Washington Nationals" .
+<New_York_Giants> <sports.sports_team.championships> "1933 World Series" .
+<m.0jbcpmf> <common.webpage.topic> "San Francisco Giants" .
+<Seton_Hall_University> <location.location.containedby> "United States of America" .
+<Seals_Stadium> <common.topic.article> "m.03b382" .
+<1972_Major_League_Baseball_Season> <time.event.next_in_series> "1973 Major League Baseball Season" .
+<Team> <owl#inverseOf> "Draft Picks" .
+<Gary_Matthews> <people.person.gender> "Male" .
+<Matt_Cain> <common.topic.notable_types> "Baseball Player" .
+<Teams_Owned> <rdf-schema#range> "Professional Sports Team" .
+<2009_California_Redwoods_season> <time.event.locations> "AT&T Park" .
+<Atlanta_Braves> <sports.sports_team.league> "m.0crt7fm" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwzl_" .
+<1911_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<Calvin_Murray> <people.person.gender> "Male" .
+<1913_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<m.010brg8l> <internet.localized_uri.location> "United States of America" .
+<m.04vy32q> <sports.sports_league_draft_pick.school> "San Diego State University" .
+<Polo_Grounds> <location.location.events> "1924 World Series" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n68m7" .
+<m.04w1sxn> <sports.sports_league_draft_pick.draft> "1998 Major League Baseball Draft" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy4xh" .
+<2002_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<1984_Major_League_Baseball_Season> <time.event.previous_in_series> "1983 Major League Baseball Season" .
+<National_League> <business.employer.employees> "m.0wkjd9c" .
+<Roberto_Kelly> <people.person.nationality> "United States of America" .
+<m.05n66q8> <baseball.baseball_team_stats.team> "New York Giants" .
+<National_League> <business.employer.employees> "m.0wkx4ng" .
+<One_Ring> <fictional_universe.fictional_object.composition> "Gold" .
+<Syracuse_Stars> <common.topic.notable_types> "Baseball Team" .
+<2012_NFC_Championship_Game> <common.topic.notable_types> "Sports League Championship Event" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Friday open time" .
+<National_League> <common.topic.article> "m.0h69n" .
+<Dave_Rader> <baseball.baseball_player.position_s> "Catcher" .
+<m.0crt7q9> <sports.sports_league_participation.team> "New York Giants" .
+<m.0527d0k> <baseball.current_coaching_tenure.coaching_position> "First Base Coach" .
+<m.0crt7fm> <sports.sports_league_participation.team> "Atlanta Braves" .
+<Atlanta_Braves> <baseball.baseball_team.division> "National League East" .
+<Colorado_Rockies> <baseball.baseball_team.division> "National League West" .
+<2011_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<San_Francisco_Giants> <sports.sports_team.venue> "m.0n9gjdm" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6ct6" .
+<Polo_Grounds> <common.topic.webpage> "m.09wk3mx" .
+<m.04vy32q> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<1973_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwwym" .
+<m.052w1bg> <baseball.baseball_historical_managerial_position.team> "San Francisco Giants" .
+<1905_World_Series> <time.event.locations> "Polo Grounds" .
+<m.0crt7xs> <sports.sports_league_participation.league> "National League" .
+<Boof_Bonser> <sports.drafted_athlete.drafted> "m.04w1tvv" .
+<m.0jbcpmf> <common.webpage.category> "Official Website" .
+<2012_Major_League_Baseball_season> <time.event.locations> "Marlins Park" .
+<m.010brg8l> <freebase.valuenotation.is_reviewed> "Location" .
+<m.0ck2dtp> <organization.organization_relationship.parent> "National League" .
+<Chris_Tiu> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<New_York_Gothams> <sports.sports_team.league> "m.0crt7qm" .
+<National_League> <business.employer.employees> "m.0gw2qfj" .
+<Atlanta_Braves> <baseball.baseball_team.league> "National League" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vx0x_" .
+<2011–12_NFL_playoffs> <freebase.valuenotation.has_no_value> "Comment" .
+<National_League> <sports.sports_league.teams> "m.0crt7xg" .
+<National_League> <baseball.baseball_league.teams> "Syracuse Stars" .
+<m.09kq4xm> <baseball.lifetime_batting_statistics.ending_season> "1987 Major League Baseball Season" .
+<New_York_Metropolitans> <sports.sports_team.arena_stadium> "St. George Cricket Grounds" .
+<Foster_Farms_Bowl> <time.recurring_event.instances> "2008 Emerald Bowl" .
+<National_League> <business.employer.employees> "m.0h411vp" .
+<m.0s8sk0k> <business.employment_tenure.company> "National League" .
+<Steve_Stanicek> <people.person.profession> "Baseball player" .
+<2005_Emerald_Bowl> <time.event.instance_of_recurring_event> "Foster Farms Bowl" .
+<m.05n6clb> <baseball.baseball_team_stats.season> "1984 Major League Baseball Season" .
+<Seton_Hall_University> <education.educational_institution_campus.educational_institution> "Seton Hall University" .
+<m.06pfprc> <baseball.batting_statistics.player> "Bruce Bochy" .
+<National_League> <business.employer.employees> "m.0gltz1_" .
+<1911_World_Series> <time.event.locations> "Polo Grounds" .
+<1981_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<m.0j2fxs4> <business.employment_tenure.company> "National League" .
+<Sara_Nuru> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<2004_Major_League_Baseball_season> <time.event.next_in_series> "2005 Major League Baseball season" .
+<m.0crt7j6> <sports.sports_league_participation.league> "National League" .
+<1962_Major_League_Baseball_Season> <sports.sports_league_season.championship> "1962 World Series" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy2qp" .
+<St._George_Cricket_Grounds> <sports.sports_facility.home_venue_for> "m.0w_jyj4" .
+<Pittsburgh_Pirates> <sports.sports_team.colors> "Gold" .
+<San_Francisco_49ers> <sports.sports_team.arena_stadium> "Candlestick Park" .
+<Bruce_Bochy> <tv.tv_actor.guest_roles> "m.0gg22yb" .
+<m.0z2pd9m> <freebase.valuenotation.has_no_value> "Nominated work" .
+<1923_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<Crazy_Crab> <sports.mascot.team> "San Francisco Giants" .
+<10301> <location.location.contains> "St. George Cricket Grounds" .
+<Polo_Grounds_II> <common.topic.notable_for> "g.1255137_c" .
+<Candlestick_Park> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079qc" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwv0m" .
+<Matt_Williams> <people.person.nationality> "United States of America" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Venue" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6bl3" .
+<Professional_Sports_Team> <type.type.domain> "Sports" .
+<Polo_Grounds> <location.location.events> "1917 World Series" .
+<Frank_Riccelli> <sports.drafted_athlete.drafted> "m.04vwwn6" .
+<m.010brjkc> <freebase.valuenotation.is_reviewed> "Service language" .
+<NFL_flattens_ratings_competition> <common.resource.annotations> "m.09w81b7" .
+<2005_Major_League_Baseball_season> <time.event.next_in_series> "2006 Major League Baseball season" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Quiana Grant" .
+<National_League_West> <baseball.baseball_division.teams> "San Francisco Giants" .
+<National_League_Central> <baseball.baseball_division.teams> "Milwaukee Brewers" .
+<m.010brjkc> <freebase.valuenotation.is_reviewed> "Country code" .
+<m.05n68ns> <baseball.baseball_team_stats.team> "New York Giants" .
+<Owner(s)> <type.property.reverse_property> "Teams Owned" .
+<m.05n6b62> <baseball.baseball_team_stats.season> "1968 Major League Baseball Season" .
+<m.010brjkc> <freebase.valuenotation.is_reviewed> "Service location" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n670k" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Chris Tiu" .
+<m.05n66t_> <baseball.baseball_team_stats.team> "New York Giants" .
+<1984_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<University_of_Washington> <education.educational_institution.colors> "Gold" .
+<Bruce_Bochy> <people.person.place_of_birth> "France" .
+<Gary_Matthews> <people.person.profession> "Baseball player" .
+<m.0hn_3bj> <business.employment_tenure.company> "National League" .
+<Candlestick_Park> <location.location.events> "2012 NFC Championship Game" .
+<1989_World_Series> <sports.sports_championship_event.runner_up> "San Francisco Giants" .
+<Rangers_Ballpark_in_Arlington> <sports.sports_facility.teams> "Texas Rangers" .
+<m.05n6df5> <baseball.baseball_team_stats.season> "1994 Major League Baseball Season" .
+<Bruce_Bochy> <people.person.children> "Brett Bochy" .
+<m.04w1sd8> <sports.sports_league_draft_pick.draft> "1997 Major League Baseball Draft" .
+<National_League_East> <sports.sports_league.sport> "Baseball" .
+<2012_World_Series> <sports.sports_championship_event.season> "2012 Major League Baseball season" .
+<Rice_University> <education.educational_institution_campus.educational_institution> "Rice University" .
+<2009_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<m.05n685b> <baseball.baseball_team_stats.team> "New York Giants" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Charo Ronquillo" .
+<National_League> <business.employer.employees> "m.0gb19w8" .
+<m.05n6b3x> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Dante_Powell> <sports.drafted_athlete.drafted> "m.04vy4g_" .
+<1992_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<San_Francisco_Giants> <sports.sports_team.venue> "m.0w_jzv2" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n67pk" .
+<Carney_Lansford> <people.person.gender> "Male" .
+<Pitching_Coach> <baseball.baseball_coaching_position.current_coaches> "m.0527d1b" .
+<San_Francisco_49ers> <sports.sports_team.location> "San Francisco" .
+<m.0hv_lsb> <business.employment_tenure.company> "National League" .
+<1993_Major_League_Baseball_Season> <time.event.next_in_series> "1994 Major League Baseball Season" .
+<Jacksonville_State_University> <education.educational_institution.campuses> "Jacksonville State University" .
+<San_Francisco_Giants> <sports.sports_team.championships> "2014 World Series" .
+<1989_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<San_Francisco_Giants> <base.schemastaging.organization_extra.phone_number> "m.010brjkc" .
+<Rob_Dressler> <people.person.profession> "Baseball player" .
+<m.0z2pd9m> <award.award_nomination.award> "Outstanding Team ESPY Award" .
+<m.010brjkc> <freebase.valuenotation.is_reviewed> "Toll free" .
+<Johnnie_LeMaster> <people.person.gender> "Male" .
+<Miami_Marlins> <sports.sports_team.sport> "Baseball" .
+<URI> <type.property.schema> "Localized URI" .
+<National_League> <organization.organization.parent> "m.0ck2dsc" .
+<Polo_Grounds> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k2_6kx" .
+<National_League_West> <baseball.baseball_division.teams> "Colorado Rockies" .
+<2014_World_Series> <sports.sports_championship_event.champion> "San Francisco Giants" .
+<2005_Major_League_Baseball_season> <time.event.previous_in_series> "2004 Major League Baseball season" .
+<New_York_City> <location.location.containedby> "United States of America" .
+<Major_League_Baseball> <sports.sports_league.teams> "m.0crt4b6" .
+<m.0crt79d> <sports.sports_league_participation.team> "Miami Marlins" .
+<Will_Clark> <people.person.nationality> "United States of America" .
+<Miami_Marlins> <baseball.baseball_team.league> "National League" .
+<m.04w1tcm> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Royce_Clayton> <people.person.profession> "Baseball player" .
+<m.04vws61> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<New_York_Giants> <sports.sports_team.venue> "m.0w_jy5x" .
+<St._George_Cricket_Grounds> <common.topic.article> "m.04qtxd" .
+<m.04w1sd8> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<1969_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<Matt_White> <people.person.profession> "Baseball player" .
+<Candlestick_Point_State_Recreation_Area> <location.location.containedby> "San Francisco" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Vanya Seager" .
+<Steve_Soderstrom> <people.person.profession> "Baseball player" .
+<AT&T_Park> <common.image.appears_in_topic_gallery> "AT&T Park" .
+<m.04xh8yg> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Teams_Owned> <type.property.master_property> "Owner(s)" .
+<m.05n6bxx> <baseball.baseball_team_stats.season> "1976 Major League Baseball Season" .
+<Sports> <type.domain.types> "Sports Team Owner" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Charo Ronquillo" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n684x" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66k0" .
+<St._George_Cricket_Grounds> <sports.sports_facility.home_venue_for> "m.0w_jyj9" .
+<m.09w9hyc> <common.webpage.topic> "San Francisco Giants" .
+<Tony_Torcato> <people.person.gender> "Male" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Wednesday closing time" .
+<m.03p966n> <business.sponsorship.sponsored_recipient> "Candlestick Park" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "Polo Grounds III" .
+<m.05n67pk> <baseball.baseball_team_stats.team> "New York Giants" .
+<2013_Major_League_Baseball_season> <time.event.next_in_series> "2014 Major League Baseball season" .
+<Steve_Soderstrom> <common.topic.notable_types> "Baseball Player" .
+<m.0527d03> <baseball.current_coaching_tenure.coaching_position> "Hitting coach" .
+<m.05n6d1j> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.0123wc3n> <business.employment_tenure.company> "National League" .
+<Tim_Lincecum> <people.person.profession> "Baseball player" .
+<m.0whw58q> <business.employment_tenure.company> "National League" .
+<Steve_Hosey> <people.person.gender> "Male" .
+<2010_Major_League_Baseball_season> <time.event.participant> "San Francisco Giants" .
+<m.04vy42h> <sports.sports_league_draft_pick.player> "Steve Soderstrom" .
+<1998_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1sxn" .
+<m.0j_vrtr> <business.employment_tenure.company> "National League" .
+<m.04vy3r2> <sports.sports_league_draft_pick.draft> "1992 Major League Baseball Draft" .
+<m.05n6fgn> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<AT&T_Park> <location.location.events> "2002 World Series" .
+<Bruce_Bochy> <people.person.nationality> "United States of America" .
+<San_Francisco_Giants> <award.award_nominee.award_nominations> "m.0y_rn4y" .
+<m.0k079ry> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<m.05n6b_j> <baseball.baseball_team_stats.season> "1977 Major League Baseball Season" .
+<Outstanding_Team_ESPY_Award> <award.award_category.nominees> "m.0y_rn4y" .
+<Louisiana_State_University> <education.educational_institution.campuses> "Louisiana State University" .
+<m.0crt7lx> <sports.sports_league_participation.league> "National League" .
+<San_Mateo> <location.location.time_zones> "Pacific Time Zone" .
+<Micaela_Reis> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Orange> <base.roses.rose_color.roses_of_this_color> "Rosa 'Cinnamon Girl'" .
+<m.05n662c> <baseball.baseball_team_stats.team> "New York Giants" .
+<San_Francisco_Giants> <sports.sports_team.season_record> "m.0dl3192" .
+<Foster_Farms_Bowl> <time.recurring_event.instances> "2005 Emerald Bowl" .
+<John_Savage_Bolles> <architecture.architect.structures_designed> "Candlestick Park" .
+<AT&T_Park> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079s6" .
+<Initial_design_and_construction_of_Candlestick_Park> <projects.project.project_focus> "Candlestick Park" .
+<San_Diego_State_University> <education.educational_institution.colors> "Black" .
+<m.0527d0s> <baseball.current_coaching_tenure.baseball_coach> "Mark Gardner" .
+<Jacksonville_State_University> <education.educational_institution_campus.educational_institution> "Jacksonville State University" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6dtn" .
+<New_York_Giants> <sports.sports_team.championships> "1921 World Series" .
+<Pittsburgh_Pirates> <common.topic.notable_types> "Professional Sports Team" .
+<m.05n695f> <baseball.baseball_team_stats.team> "New York Giants" .
+<Cream> <base.roses.rose_color.roses_of_this_color> "Rosa 'Albéric Barbier'" .
+<1984_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vx0x_" .
+<m.0hvn4gv> <education.education.student> "Bill Neukom" .
+<Candlestick_Park> <sports.sports_facility.teams> "San Francisco Golden Gate Gales" .
+<m.04w1v57> <sports.sports_league_draft_pick.draft> "2001 Major League Baseball Draft" .
+<Baseball_Team> <freebase.type_profile.strict_included_types> "Topic" .
+<2006_Major_League_Baseball_season> <time.event.previous_in_series> "2005 Major League Baseball season" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n68ns" .
+<2004_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<Comerica_Park> <sports.sports_facility.teams> "Detroit Tigers" .
+<m.0crt79k> <sports.sports_league_participation.league> "National League" .
+<m.05n69h9> <baseball.baseball_team_stats.team> "New York Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy4g_" .
+<New_York_Gothams> <sports.sports_team.sport> "Baseball" .
+<m.04w1xs2> <sports.sports_league_draft_pick.school> "Horizon High School" .
+<National_League_West> <baseball.baseball_division.league> "National League" .
+<National_League> <business.employer.employees> "m.0wkjpb_" .
+<m.0crt7s3> <sports.sports_league_participation.league> "National League" .
+<National_League> <baseball.baseball_league.divisions> "National League Central" .
+<Brooklyn_Dodgers> <common.topic.notable_types> "Professional Sports Team" .
+<University_of_Washington> <education.educational_institution_campus.educational_institution> "University of Washington" .
+<m.0crt7zj> <sports.sports_league_participation.league> "National League" .
+<m.0z7wqcb> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.05n69bq> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.04vw_l9> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.04vww5g> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Joe_Fontenot> <people.person.profession> "Baseball player" .
+<Contact_webpages> <rdf-schema#domain> "Organization extra" .
+<m.09w81b7> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.04vwzl_> <sports.sports_league_draft_pick.draft> "1979 Major League Baseball Draft" .
+<Dave_Rader> <common.topic.notable_types> "Baseball Player" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Chris Tiu" .
+<1936_World_Series> <time.event.locations> "Polo Grounds" .
+<2000_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<1933_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<2001_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1v6c" .
+<m.05n6cxh> <baseball.baseball_team_stats.season> "1988 Major League Baseball Season" .
+<m.05n65dh> <baseball.baseball_team_stats.team> "New York Giants" .
+<Polo_Grounds> <location.location.events> "1936 World Series" .
+<2007_Major_League_Baseball_All-Star_Game> <time.event.locations> "AT&T Park" .
+<m.05n6bn9> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<1924_World_Series> <time.event.locations> "Polo Grounds" .
+<m.04vy42h> <sports.sports_league_draft_pick.school> "California State University, Fresno" .
+<m.05n684x> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.05n67j9> <baseball.baseball_team_stats.team> "New York Giants" .
+<2000_Major_League_Baseball_season> <time.event.previous_in_series> "1999 Major League Baseball Season" .
+<1982_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<m.0crt7wf> <sports.sports_league_participation.league> "National League" .
+<Joe_Fontenot> <sports.drafted_athlete.drafted> "m.04vy4xh" .
+<Brooklyn_Dodgers> <sports.sports_team.sport> "Baseball" .
+<m.0crt7hz> <sports.sports_league_participation.league> "National League" .
+<m.05n692t> <baseball.baseball_team_stats.team> "New York Giants" .
+<Royce_Clayton> <common.topic.notable_types> "Baseball Player" .
+<m.0crt7s8> <sports.sports_league_participation.league> "National League" .
+<m.05n6fy2> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<National_League> <baseball.baseball_league.teams> "Milwaukee Brewers" .
+<Albert_Goodwill_Spalding> <organization.organization_founder.organizations_founded> "National League" .
+<Polo_Grounds> <location.location.events> "1942 Major League Baseball All-Star Game" .
+<m.0hhyt9g> <business.employment_tenure.company> "National League" .
+<1998_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<National_League> <sports.sports_league.teams> "m.0crt7jk" .
+<Bill_Hayes> <people.person.profession> "Baseball player" .
+<National_League> <business.employer.employees> "m.0gx5kz6" .
+<National_League> <common.topic.notable_types> "Baseball League" .
+<Scott_Garrelts> <people.person.gender> "Male" .
+<Bruce_Bochy> <baseball.baseball_player.batting_stats> "m.06pfpwr" .
+<m.04vwv0m> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.0crt7nm> <sports.sports_league_participation.league> "National League" .
+<National_League> <baseball.baseball_league.teams> "Atlanta Braves" .
+<San_Mateo> <base.biblioness.bibs_location.country> "United States of America" .
+<m.05n6b9l> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Bob_Cummings> <people.person.gender> "Male" .
+<m.05n69q3> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079q4" .
+<m.05n6d9g> <baseball.baseball_team_stats.season> "1993 Major League Baseball Season" .
+<Cream> <common.topic.image> "Роза кремового цвета" .
+<Carney_Lansford> <people.person.profession> "Coach" .
+<1974_Major_League_Baseball_Season> <time.event.next_in_series> "1975 Major League Baseball Season" .
+<m.05n6djp> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n68_2" .
+<Team> <type.property.reverse_property> "Draft Picks" .
+<San_Francisco_Golden_Gate_Gales> <sports.sports_team.arena_stadium> "Candlestick Park" .
+<m.05n6c4s> <baseball.baseball_team_stats.season> "1979 Major League Baseball Season" .
+<Roberto_Kelly> <people.person.gender> "Male" .
+<Staten_Island> <location.location.containedby> "New York City" .
+<Youngstown_State_University> <education.educational_institution_campus.educational_institution> "Youngstown State University" .
+<San_Francisco> <location.us_county.county_seat> "San Francisco" .
+<National_League> <sports.sports_league.teams> "m.0crt7py" .
+<Comerica_Park> <location.location.time_zones> "Eastern Time Zone" .
+<William_Hulbert> <organization.organization_founder.organizations_founded> "National League" .
+<2002_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<Boof_Bonser> <people.person.profession> "Baseball player" .
+<St._Louis_Cardinals> <baseball.baseball_team.division> "National League Central" .
+<Owner(s)> <rdf-schema#range> "Sports Team Owner" .
+<New_York_Gothams> <common.topic.notable_for> "g.1259dkf_3" .
+<m.0crt7f4> <sports.sports_league_participation.team> "Chicago Cubs" .
+<m.04vy4xh> <sports.sports_league_draft_pick.draft> "1995 Major League Baseball Draft" .
+<2014_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<New_York_Mets> <sports.sports_team.sport> "Baseball" .
+<Nathan_Bump> <people.person.gender> "Male" .
+<Scott_Garrelts> <common.topic.notable_types> "Baseball Player" .
+<Foster_Farms_Bowl> <time.recurring_event.instances> "2002 San Francisco Bowl" .
+<The_Old_Ball_Game:_How_John_McGraw,_Christy_Mathewson,_and_the_New_York_Giants_Created_Modern_Baseball> <book.written_work.subjects> "New York Giants" .
+<m.04vy4xh> <sports.sports_league_draft_pick.player> "Joe Fontenot" .
+<m.05n699v> <baseball.baseball_team_stats.team> "New York Giants" .
+<Louisiana_State_University> <education.educational_institution.colors> "Gold" .
+<Freebie_and_the_Bean> <film.film.language> "English Language" .
+<m.0crt4b6> <sports.sports_league_participation.team> "San Francisco Giants" .
+<m.0ytwp01> <business.employment_tenure.company> "National League" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6b1q" .
+<m.04vwzlm> <sports.sports_league_draft_pick.player> "Scott Garrelts" .
+<National_League> <business.employer.employees> "m.0hn_d6k" .
+<m.04vx0zw> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Time zone" .
+<2015_Major_League_Baseball_season> <time.event.previous_in_series> "2014 Major League Baseball season" .
+<Muzammil_Ibrahim> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<National_League> <sports.sports_league.teams> "m.0crt7x2" .
+<Bruce_Bochy> <baseball.baseball_manager.former_teams_managed> "m.0j7zl02" .
+<New_York_Mets> <sports.sports_team.location> "New York City" .
+<m.0gb18ht> <business.employment_tenure.company> "National League" .
+<m.09wk3mx> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<1977_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<m.05n68sy> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.05n6btw> <baseball.baseball_team_stats.season> "1975 Major League Baseball Season" .
+<Seals_Stadium> <location.location.containedby> "San Francisco" .
+<1976_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwycv" .
+<1986_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy0my" .
+<Sports_League_Season> <freebase.type_hints.included_types> "Topic" .
+<m.04w1vl_> <sports.sports_league_draft_pick.draft> "2002 Major League Baseball Draft" .
+<Matt_Cain> <people.person.profession> "Baseball player" .
+<Hilltop_Park> <location.location.geolocation> "m.0clz0vy" .
+<National_League> <sports.sports_league.teams> "m.0crt7b4" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04xh8yg" .
+<Cincinnati_Reds> <baseball.baseball_team.division> "National League Central" .
+<United_States_of_America> <location.country.administrative_divisions> "San Francisco" .
+<m.0crt7w5> <sports.sports_league_participation.league> "National League" .
+<1912_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<Jessica_White> <people.person.nationality> "United States of America" .
+<m.0k03zbd> <base.schemastaging.team_training_ground_relationship.facility> "Polo Grounds" .
+<John_D'Acquisto> <sports.drafted_athlete.drafted> "m.04vww5g" .
+<Dartmouth_College> <education.educational_institution_campus.educational_institution> "Dartmouth College" .
+<Sports_League_Championship_Event> <freebase.type_profile.strict_included_types> "Topic" .
+<m.04w1tvv> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<1972_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04xh8yg" .
+<National_League> <business.employer.employees> "m.0gx4bv0" .
+<m.05n6d4c> <baseball.baseball_team_stats.season> "1991 Major League Baseball Season" .
+<National_League> <sports.sports_league.teams> "m.0crt7mr" .
+<m.0k079qm> <base.schemastaging.team_training_ground_relationship.facility> "Polo Grounds I" .
+<Jason_Grilli> <people.person.nationality> "United States of America" .
+<Craig_Landis> <sports.drafted_athlete.drafted> "m.04vwywv" .
+<Cincinnati_Reds> <sports.sports_team.sport> "Baseball" .
+<m.0w_jy5x> <sports.team_venue_relationship.team> "New York Giants" .
+<Tim_Alderson> <people.person.profession> "Baseball player" .
+<m.0wj485k> <business.employment_tenure.company> "National League" .
+<m.0gmhpkk> <business.employment_tenure.company> "National League" .
+<National_League> <sports.sports_league.teams> "m.0crt7kr" .
+<m.0ck2dtp> <organization.organization_relationship.child> "National League West" .
+<Louisiana_State_University> <location.location.containedby> "United States of America" .
+<University_of_Texas_at_Austin> <education.educational_institution.campuses> "University of Texas at Austin" .
+<Jessica_White> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1x4c" .
+<m.0527d0s> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<1980_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<Will_Clark> <people.person.profession> "Baseball player" .
+<m.09kq4xm> <baseball.lifetime_batting_statistics.player> "Bruce Bochy" .
+<Dodgers–Giants_rivalry> <base.rivalries.rivalry.rival> "Los Angeles Dodgers" .
+<1924_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<Washington_Nationals> <sports.sports_team.sport> "Baseball" .
+<m.0gk7ykt> <business.employment_tenure.company> "National League" .
+<Steve_Stanicek> <sports.drafted_athlete.drafted> "m.04vw__f" .
+<m.05n69sr> <baseball.baseball_team_stats.season> "1962 Major League Baseball Season" .
+<m.0crt7wm> <sports.sports_league_participation.league> "National League" .
+<New_York_Giants> <sports.sports_team.venue> "m.0xn04tf" .
+<New_York_Mets> <sports.sports_team.colors> "Orange" .
+<m.0crt7pl> <sports.sports_league_participation.league> "National League" .
+<m.0k079rd> <base.schemastaging.team_training_ground_relationship.facility> "Polo Grounds II" .
+<m.05z3043> <business.sponsorship.sponsored_recipient> "AT&T Park" .
+<Pittsburgh_Pirates> <baseball.baseball_team.league> "National League" .
+<m.05n6b1q> <baseball.baseball_team_stats.season> "1966 Major League Baseball Season" .
+<Los_Angeles_Angels_of_Anaheim> <common.topic.notable_types> "Professional Sports Team" .
+<1981_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vw_l9" .
+<m.05n69_j> <baseball.baseball_team_stats.season> "1965 Major League Baseball Season" .
+<AT&T_Park> <common.topic.image> "AT&T Park" .
+<National_League_Central> <baseball.baseball_division.league> "National League" .
+<m.05n6df5> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Dartmouth_College> <location.location.containedby> "United States of America" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n6911" .
+<Steve_Soderstrom> <sports.drafted_athlete.drafted> "m.04vy42h" .
+<1958_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<Detroit_Tigers> <sports.sports_team.colors> "Orange" .
+<National_League> <sports.sports_league.teams> "m.0crt7wf" .
+<Professional_Sports_Team> <type.type.expected_by> "Team" .
+<2013_ESPY_Awards> <freebase.valuenotation.is_reviewed> "Start date" .
+<Los_Angeles_Dodgers> <sports.sports_team.league> "m.0crtd77" .
+<San_Mateo> <location.hud_county_place.place> "San Mateo" .
+<1977_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwywv" .
+<m.06pfpyf> <baseball.batting_statistics.season> "1985 Major League Baseball season" .
+<2003_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<Location> <type.property.schema> "Localized URI" .
+<m.06hbpvh> <architecture.ownership.structure> "St. George Cricket Grounds" .
+<m.05n6786> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.0gx8gn7> <business.employment_tenure.company> "National League" .
+<m.05n67c8> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.04w1w0t> <sports.sports_league_draft_pick.player> "David Aardsma" .
+<m.0k2_6lb> <base.schemastaging.team_training_ground_relationship.facility> "Hilltop Park" .
+<m.04vx0x_> <sports.sports_league_draft_pick.draft> "1984 Major League Baseball Draft" .
+<Muzammil_Ibrahim> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.04vy4g_> <sports.sports_league_draft_pick.player> "Dante Powell" .
+<National_League> <baseball.baseball_league.teams> "Chicago Cubs" .
+<AT&T_Park> <common.topic.article> "m.01_gsq" .
+<National_League> <organization.organization.founders> "William Hulbert" .
+<San_Diego_State_University> <education.educational_institution_campus.educational_institution> "San Diego State University" .
+<Cincinnati_Reds> <sports.sports_team.league> "m.0crt7dv" .
+<m.04w1vl_> <sports.sports_league_draft_pick.player> "Matt Cain" .
+<Polo_Grounds_II> <sports.sports_facility.teams> "San Francisco Giants" .
+<m.04w1sxn> <sports.sports_league_draft_pick.player> "Arturo McDowell" .
+<m.06pfpyf> <baseball.batting_statistics.player> "Bruce Bochy" .
+<m.05n6bgm> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.05n6596> <baseball.baseball_team_stats.team> "New York Gothams" .
+<m.0crt7rm> <sports.sports_league_participation.league> "National League" .
+<Orange> <base.roses.rose_color.roses_of_this_color> "Rosa 'Welwyn Garden Glory'" .
+<AT&T_Park> <business.sponsored_recipient.sponsorship> "m.05z3043" .
+<m.05n66jl> <baseball.baseball_team_stats.team> "New York Giants" .
+<Gold> <common.topic.image> "GoldNuggetUSGOV" .
+<Owner(s)> <type.property.expected_type> "Sports Team Owner" .
+<m.04vww5g> <sports.sports_league_draft_pick.draft> "1970 Major League Baseball Draft" .
+<1977_Major_League_Baseball_Season> <time.event.previous_in_series> "1976 Major League Baseball Season" .
+<Polo_Grounds> <sports.sports_facility.home_venue_for> "m.0xn04tf" .
+<1990_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy32q" .
+<m.06pfpv3> <baseball.batting_statistics.season> "1983 Major League Baseball Season" .
+<Terry_Mulholland> <people.person.gender> "Male" .
+<m.05n65x0> <baseball.baseball_team_stats.team> "New York Giants" .
+<2012_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<m.05n66zt> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.05n6brp> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Sports> <type.domain.types> "Professional Sports Team" .
+<Dave_Righetti> <people.person.nationality> "United States of America" .
+<Matt_White> <sports.drafted_athlete.drafted> "m.04w1s2s" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n65gg" .
+<National_League_East> <baseball.baseball_division.teams> "Miami Marlins" .
+<New_York_Giants> <base.rivalries.rival.rivals> "Dodgers–Giants rivalry" .
+<National_League_West> <common.topic.notable_for> "g.1258v3q36" .
+<Lou_Seal> <common.topic.notable_types> "Mascot" .
+<New_York_Giants> <sports.sports_team.arena_stadium> "Polo Grounds" .
+<National_League> <sports.sports_league.teams> "m.0crt7q9" .
+<m.05n6bl3> <baseball.baseball_team_stats.season> "1972 Major League Baseball Season" .
+<m.0h411vp> <business.employment_tenure.company> "National League" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079rd" .
+<m.04w1x4c> <sports.sports_league_draft_pick.draft> "2006 Major League Baseball Draft" .
+<Hilltop_Park> <common.image.appears_in_topic_gallery> "Hilltop Park" .
+<Lou_Seal> <common.topic.image> "Lou-Seal.jpg" .
+<m.010brjkc> <freebase.valuenotation.is_reviewed> "Number" .
+<m.0k079qc> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<m.05n667m> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.06pfpzv> <baseball.batting_statistics.player> "Bruce Bochy" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n6748" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "Polo Grounds" .
+<m.06pfpyf> <baseball.batting_statistics.team> "San Diego Padres" .
+<Contact_webpages> <type.property.expected_type> "Localized URI" .
+<Madison_Bumgarner> <common.topic.notable_types> "Baseball Player" .
+<2014_Major_League_Baseball_season> <common.topic.article> "m.0ryv_0m" .
+<1970_Major_League_Baseball_Season> <time.event.next_in_series> "1971 Major League Baseball Season" .
+<Kurt_Ainsworth> <common.topic.notable_types> "Baseball Player" .
+<m.05n66y8> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.05n6d78> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<1922_World_Series> <sports.sports_championship_event.champion> "New York Giants" .
+<m.0crt7ys> <sports.sports_league_participation.league> "National League" .
+<Gary_Matthews> <people.person.nationality> "United States of America" .
+<New_York_Giants> <common.topic.article> "m.06h94df" .
+<m.05n6btw> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.0s8sqxq> <business.employment_tenure.company> "National League" .
+<m.0w_jy61> <sports.team_venue_relationship.team> "San Francisco Giants" .
+<m.0gg22yb> <tv.tv_guest_role.actor> "Bruce Bochy" .
+<m.0crt7v2> <sports.sports_league_participation.league> "National League" .
+<Orange> <base.roses.rose_color.roses_of_this_color> "Rosa 'Voodoo'" .
+<m.05n6dy4> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<National_League> <baseball.baseball_league.sports_league> "Major League Baseball" .
+<Bill_Neukom> <sports.sports_team_owner.teams_owned> "San Francisco Giants" .
+<1982_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vw__f" .
+<National_League> <sports.sports_league.teams> "m.0crt7xs" .
+<Baseball_Team> <freebase.type_profile.kind> "Definition" .
+<Polo_Grounds> <location.location.events> "1913 World Series" .
+<New_York_Mets> <baseball.baseball_team.division> "National League East" .
+<AT&T_Park> <sports.sports_facility.home_venue_for> "m.0w_jzv2" .
+<National_League> <sports.sports_league.teams> "m.0crt7w5" .
+<Candlestick_Park> <architecture.structure.architect> "John Savage Bolles" .
+<m.04vy42h> <sports.sports_league_draft_pick.draft> "1993 Major League Baseball Draft" .
+<m.06wgl0n> <education.education.institution> "Dartmouth College" .
+<New_York_Giants> <sports.sports_team.league> "m.0crt7q9" .
+<m.04vwz4x> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "St. George Cricket Grounds" .
+<Polo_Grounds> <location.location.events> "1942 National Football League All-Star Game" .
+<Candlestick_Park> <location.location.events> "1961 Major League Baseball All-Star Game (first game)" .
+<National_League> <sports.sports_league.teams> "m.0crt79k" .
+<m.04vw__f> <sports.sports_league_draft_pick.player> "Steve Stanicek" .
+<1974_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwx8j" .
+<Oakland_Park,_New_Jersey> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079ry" .
+<Orange> <base.roses.rose_color.roses_of_this_color> "Rosa 'Andie MacDowell'" .
+<m.05n6d9g> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.04w1s2s> <sports.sports_league_draft_pick.player> "Matt White" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6df5" .
+<m.06pfpps> <baseball.batting_statistics.player> "Bruce Bochy" .
+<Candlestick_Park> <location.location.geolocation> "m.02_s96b" .
+<University_of_Nevada,_Las_Vegas> <education.educational_institution.campuses> "University of Nevada, Las Vegas" .
+<m.0crt7c2> <sports.sports_league_participation.league> "National League" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n68z6" .
+<m.05n68jq> <baseball.baseball_team_stats.team> "New York Giants" .
+<1986_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<New_York_City> <base.biblioness.bibs_location.country> "United States of America" .
+<m.09w9hyc> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<San_Francisco> <base.biblioness.bibs_topic.is_really> "San Francisco" .
+<Seals_Stadium> <sports.sports_facility.home_venue_for> "m.0x1wcv3" .
+<m.04vx17d> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<New_York_City> <location.hud_county_place.place> "New York City" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Sara Nuru" .
+<m.05n67f0> <baseball.baseball_team_stats.team> "New York Giants" .
+<New_York_Mets> <sports.sports_team.league> "m.0crt7ct" .
+<Joe_Fontenot> <common.topic.notable_types> "Baseball Player" .
+<1959_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<m.0w_jyj9> <sports.team_venue_relationship.team> "New York Metropolitans" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6f44" .
+<m.05n67ty> <baseball.baseball_team_stats.team> "New York Giants" .
+<National_League_East> <common.topic.notable_types> "Baseball Division" .
+<National_League> <business.employer.employees> "m.0glvflp" .
+<m.0j7zl02> <baseball.baseball_historical_managerial_position.manager> "Bruce Bochy" .
+<1954_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<National_League> <business.employer.employees> "m.0whwtf3" .
+<San_Francisco_Giants> <common.topic.webpage> "m.0jbcpmf" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6bgm" .
+<2012_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vx17d" .
+<m.06pfpv3> <baseball.batting_statistics.player> "Bruce Bochy" .
+<Teams_Owned> <rdf-schema#domain> "Sports Team Owner" .
+<University_of_Nebraska–Lincoln> <education.educational_institution.campuses> "University of Nebraska–Lincoln" .
+<m.0k079ry> <base.schemastaging.team_training_ground_relationship.facility> "Oakland Park, New Jersey" .
+<Peter_A._Magowan> <people.person.nationality> "United States of America" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6bxx" .
+<Frank_Riccelli> <people.person.profession> "Baseball player" .
+<m.0crt7q_> <sports.sports_league_participation.league> "National League" .
+<m.05n69l5> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<1979_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwzl_" .
+<2014_USA_vs._Azerbaijan_football_match> <time.event.locations> "Candlestick Park" .
+<2011_Major_League_Baseball_season> <time.event.previous_in_series> "2010 Major League Baseball season" .
+<Marlins_Park> <common.topic.notable_types> "Sports Facility" .
+<Mark_Kuecker> <people.person.gender> "Male" .
+<m.0k079q4> <base.schemastaging.team_training_ground_relationship.facility> "St. George Cricket Grounds" .
+<m.0crt7d6> <sports.sports_league_participation.league> "National League" .
+<m.0wkjd9c> <business.employment_tenure.company> "National League" .
+<2002_Major_League_Baseball_Season> <time.event.next_in_series> "2003 Major League Baseball season" .
+<AT&T_Park> <location.location.containedby> "San Francisco" .
+<New_York_Gothams> <common.topic.notable_types> "Professional Sports Team" .
+<National_League_West> <sports.sports_league.teams> "m.0crtd80" .
+<1951_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<2003_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1w0t" .
+<2010_World_Series> <common.topic.article> "m.09gnk2w" .
+<Draft_Picks> <type.property.schema> "Professional Sports Team" .
+<Sports_Team_Owner> <freebase.type_profile.strict_included_types> "Topic" .
+<Mark_Grant> <people.person.nationality> "United States of America" .
+<m.0y_rn4y> <award.award_nomination.award> "Outstanding Team ESPY Award" .
+<Polo_Grounds_III> <common.topic.notable_types> "Venue" .
+<San_Francisco_Giants> <common.resource.annotations> "m.0jbcpmf" .
+<2012_NFC_Championship_Game> <time.event.locations> "Candlestick Park" .
+<Dusty_Baker> <people.person.profession> "Manager" .
+<National_League> <sports.sports_league.teams> "m.0crt7hq" .
+<National_League_West> <sports.sports_league.teams> "m.0crtd7p" .
+<University_of_Tennessee> <education.educational_institution_campus.educational_institution> "University of Tennessee" .
+<Hilltop_Park> <common.topic.notable_types> "Sports Facility" .
+<2010_World_Series> <common.topic.notable_for> "g.1256f_cbc" .
+<Tony_Torcato> <people.person.profession> "Baseball player" .
+<Syracuse_Stars> <sports.sports_team.sport> "Baseball" .
+<2003_San_Francisco_Bowl> <time.event.locations> "AT&T Park" .
+<Love_on_the_Inside_Tour,_San_Francisco,_CA_Concert> <time.event.locations> "AT&T Park" .
+<m.05n6821> <baseball.baseball_team_stats.team> "New York Giants" .
+<National_League> <sports.sports_league.teams> "m.0crt7d6" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n662c" .
+<2012_Major_League_Baseball_season> <sports.sports_league_season.awards> "m.0n4jf2q" .
+<Baseball's_Sad_Lexicon> <book.written_work.subjects> "New York Giants" .
+<National_League> <sports.sports_league.teams> "m.0crt7pl" .
+<National_League> <sports.sports_league.teams> "m.0crt7p9" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527d13" .
+<Nathan_Bump> <sports.drafted_athlete.drafted> "m.04w1sx4" .
+<New_York_Metropolitans> <sports.sports_team.sport> "Baseball" .
+<Matt_Cain> <people.person.nationality> "United States of America" .
+<2012_World_Series> <freebase.valuenotation.is_reviewed> "End date" .
+<1912_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<m.0crt79q> <sports.sports_league_participation.league> "National League" .
+<National_League> <sports.sports_league.teams> "m.0crt7vd" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n677b" .
+<Bob_Cummings> <sports.drafted_athlete.drafted> "m.04vwz4x" .
+<m.0k079pz> <base.schemastaging.team_training_ground_relationship.facility> "Hilltop Park" .
+<National_League> <baseball.baseball_league.teams> "San Diego Padres" .
+<Sports_Team_Owner> <freebase.type_hints.included_types> "Topic" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66t_" .
+<1965_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<1917_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<Polo_Grounds_III> <common.topic.notable_for> "g.1257_kqjf" .
+<Lou_Seal> <common.topic.article> "m.03_dwt" .
+<m.011zsc4_> <freebase.valuenotation.has_no_value> "To" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1v57" .
+<1972_Major_League_Baseball_Season> <time.event.previous_in_series> "1971 Major League Baseball Season" .
+<2001_Major_League_Baseball_Season> <time.event.next_in_series> "2002 Major League Baseball Season" .
+<1951_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66wr" .
+<2002_World_Series> <sports.sports_championship_event.season> "2002 Major League Baseball Season" .
+<1937_World_Series> <time.event.locations> "Polo Grounds" .
+<m.0527d0b> <baseball.current_coaching_tenure.coaching_position> "Bench Coach" .
+<National_League> <baseball.baseball_league.teams> "Cincinnati Reds" .
+<AT&T_Park> <architecture.structure.construction_cost> "m.04xh4k_" .
+<Seals_Stadium> <sports.sports_facility.teams> "San Francisco Giants" .
+<m.04vy0my> <sports.sports_league_draft_pick.draft> "1986 Major League Baseball Draft" .
+<Dave_Righetti> <common.topic.notable_types> "Baseball Player" .
+<Ron_Schueler> <people.person.nationality> "United States of America" .
+<m.05n6f44> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1w0t" .
+<m.0crt7sq> <sports.sports_league_participation.league> "National League" .
+<1960_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<m.0wkc_7g> <business.employment_tenure.company> "National League" .
+<m.06pfpss> <baseball.batting_statistics.player> "Bruce Bochy" .
+<Staten_Island> <location.location.time_zones> "Eastern Time Zone" .
+<Initial_design_and_construction_of_AT&T_Park> <projects.project.project_focus> "AT&T Park" .
+<m.04vwxt7> <sports.sports_league_draft_pick.draft> "1975 Major League Baseball Draft" .
+<m.0k079sf> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<New_York_City> <base.biblioness.bibs_topic.is_really> "New York City" .
+<Gary_Matthews> <common.topic.notable_types> "Baseball Player" .
+<Seals_Stadium> <location.location.geolocation> "m.02_vmn1" .
+<m.07nfvgp> <base.ontologies.ontology_instance_mapping.ontology> "OpenCyc" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6d78" .
+<Mascot> <freebase.type_profile.strict_included_types> "Topic" .
+<Bill_Hayes> <baseball.baseball_coach.current_team_coaching> "m.0527d13" .
+<San_Francisco_Giants> <base.rivalries.rival.rivals> "Dodgers–Giants rivalry" .
+<Milwaukee_Brewers> <sports.sports_team.colors> "Gold" .
+<1962_World_Series> <sports.sports_championship_event.runner_up> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwvtp" .
+<Terry_Lee> <people.person.place_of_birth> "San Francisco" .
+<m.0gvylst> <business.employment_tenure.company> "National League" .
+<m.011zsc4_> <organization.leadership.person> "Larry Baer" .
+<m.0glvflp> <business.employment_tenure.company> "National League" .
+<m.04xh8yg> <sports.sports_league_draft_pick.draft> "1972 Major League Baseball Draft" .
+<m.0k079sf> <base.schemastaging.team_training_ground_relationship.facility> "Polo Grounds III" .
+<2010_Major_League_Baseball_season> <time.event.next_in_series> "2011 Major League Baseball season" .
+<San_Francisco> <location.location.time_zones> "Pacific Time Zone" .
+<Candlestick_Park> <sports.sports_facility.home_venue_for> "m.0w_jqq9" .
+<m.0crt79z> <sports.sports_league_participation.league> "National League" .
+<San_Francisco_Golden_Gate_Gales> <sports.sports_team.venue> "m.0w_jqq9" .
+<m.05n67rj> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.04vy4g_> <sports.sports_league_draft_pick.draft> "1994 Major League Baseball Draft" .
+<1905_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<Los_Angeles_Dodgers> <base.rivalries.rival.rivals> "Dodgers–Giants rivalry" .
+<Sports> <type.domain.types> "Sports Facility" .
+<1962_World_Series> <time.event.locations> "Candlestick Park" .
+<Milwaukee_Brewers> <common.topic.notable_types> "Professional Sports Team" .
+<AT&T_Park> <base.playball.baseball_stadium.naming_rights> "m.05lm81s" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6bn9" .
+<Bob_Reynolds> <people.person.gender> "Male" .
+<Cream> <common.topic.notable_types> "Color" .
+<m.0z7wqcb> <award.award_nomination.award_nominee> "Los Angeles Angels of Anaheim" .
+<Polo_Grounds> <location.location.events> "1951 World Series" .
+<Polo_Grounds_II> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079rd" .
+<Polo_Grounds> <location.location.events> "1921 World Series" .
+<2012–13_NFL_playoffs> <freebase.valuenotation.has_no_value> "Comment" .
+<m.0z1sfsp> <sports.sports_team_roster.team> "New York Giants" .
+<m.09kq4xm> <baseball.lifetime_batting_statistics.starting_season> "1978 Major League Baseball Season" .
+<1997_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwttf" .
+<m.0gt_kst> <business.employment_tenure.company> "National League" .
+<National_League_Central> <sports.sports_league.sport> "Baseball" .
+<Bill_Neukom> <people.person.gender> "Male" .
+<San_Francisco_Giants> <organization.organization.leadership> "m.011zsc4_" .
+<St._George_Cricket_Grounds> <projects.project_focus.projects> "Initial design and construction of St. George Cricket Grounds" .
+<Dave_Rader> <people.person.gender> "Male" .
+<1995_Major_League_Baseball_Season> <time.event.previous_in_series> "1994 Major League Baseball Season" .
+<Alan_Cockrell> <common.topic.notable_types> "Baseball Player" .
+<m.0jbcpmf> <common.webpage.resource> "San Francisco Giants" .
+<m.0dl3646> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<National_League> <sports.sports_league.teams> "m.0crt7s3" .
+<Bill_Neukom> <common.topic.notable_for> "g.1258h38fn" .
+<National_League> <organization.organization.child> "m.0ck2dtp" .
+<National_League> <sports.sports_league.teams> "m.0crt7hz" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6chh" .
+<Orange> <base.roses.rose_color.roses_of_this_color> "Rosa 'Margaret McGredy'" .
+<m.04vy1xn> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<English_Language> <language.human_language.main_country> "United States of America" .
+<2007_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1xql" .
+<Tim_Lincecum> <sports.drafted_athlete.drafted> "m.04w1x4c" .
+<2011_Major_League_Baseball_season> <time.event.next_in_series> "2012 Major League Baseball season" .
+<m.0crt7vd> <sports.sports_league_participation.league> "National League" .
+<1984_Major_League_Baseball_All-Star_Game> <time.event.locations> "Candlestick Park" .
+<m.0crt7mr> <sports.sports_league_participation.league> "National League" .
+<Will_Clark> <people.person.gender> "Male" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n6821" .
+<Rob_Dressler> <common.topic.notable_types> "Baseball Player" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Tuesday open time" .
+<Syracuse_Stars> <sports.defunct_sports_team.sport> "Baseball" .
+<1933_World_Series> <sports.sports_championship_event.champion> "New York Giants" .
+<m.05n6bgm> <baseball.baseball_team_stats.season> "1971 Major League Baseball Season" .
+<m.05n6b9l> <baseball.baseball_team_stats.season> "1969 Major League Baseball Season" .
+<m.05n69rf> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.0crt7ct> <sports.sports_league_participation.league> "National League" .
+<Baseball_player> <freebase.equivalent_topic.equivalent_type> "Baseball Player" .
+<m.0k079pf> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<Al_Gallagher> <common.topic.notable_types> "Baseball Player" .
+<Bench_Coach> <baseball.baseball_coaching_position.current_coaches> "m.0527d0b" .
+<2010_World_Series> <sports.sports_championship_event.season> "2010 Major League Baseball season" .
+<National_League_Central> <baseball.baseball_division.teams> "Chicago Cubs" .
+<AT&T_Park> <location.location.events> "2009 California Redwoods season" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079r4" .
+<m.0wkx4ng> <business.employment_tenure.company> "National League" .
+<Scott_Garrelts> <sports.drafted_athlete.drafted> "m.04vwzlm" .
+<Hitting_coach> <sports.sports_position.sport> "Baseball" .
+<Milwaukee_Brewers> <sports.sports_team.league> "m.0crt7b4" .
+<m.0hhzwjv> <business.employment_tenure.company> "National League" .
+<National_League_Central> <baseball.baseball_division.teams> "St. Louis Cardinals" .
+<Freebie_and_the_Bean> <film.film.country> "United States of America" .
+<m.04vwycv> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<National_League> <sports.sports_league.teams> "m.0crt7v2" .
+<m.05n6898> <baseball.baseball_team_stats.team> "New York Giants" .
+<1989_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<m.0y_rn4y> <freebase.valuenotation.has_no_value> "Nominated work" .
+<AT&T_Park> <projects.project_focus.projects> "Initial design and construction of AT&T Park" .
+<National_League> <sports.sports_league.teams> "m.0crt7k4" .
+<Orange> <base.roses.rose_color.roses_of_this_color> "Rosa 'Ashram" .
+<2012_NFC_Championship_Game> <sports.sports_championship_event.runner_up> "San Francisco 49ers" .
+<Bill_Neukom> <base.schemastaging.person_extra.net_worth> "m.0n5c7xk" .
+<Milwaukee_Brewers> <baseball.baseball_team.division> "National League Central" .
+<Dave_Righetti> <people.person.profession> "Coach" .
+<1995_Major_League_Baseball_Season> <time.event.next_in_series> "1996 Major League Baseball Season" .
+<Philadelphia_Phillies> <common.topic.notable_types> "Professional Sports Team" .
+<Gold> <common.topic.notable_for> "g.1254yr824" .
+<Tim_Alderson> <people.person.gender> "Male" .
+<St._Louis_Cardinals> <baseball.baseball_team.league> "National League" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69_j" .
+<Arizona_Diamondbacks> <baseball.baseball_team.division> "National League West" .
+<Rob_Dressler> <sports.drafted_athlete.drafted> "m.04xh8yg" .
+<m.0z7wqcb> <award.award_nomination.award_nominee> "San Francisco Giants" .
+<National_League> <baseball.baseball_league.teams> "Philadelphia Phillies" .
+<2011_Kraft_Fight_Hunger_Bowl> <time.event.locations> "AT&T Park" .
+<Chicago_Cubs> <book.book_subject.works> "Baseball's Sad Lexicon" .
+<m.0crt7k_> <sports.sports_league_participation.league> "National League" .
+<Ron_Schueler> <people.person.employment_history> "m.04lrc4c" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n692t" .
+<Cincinnati_Reds> <common.topic.notable_types> "Professional Sports Team" .
+<National_League> <business.employer.employees> "m.0hhyt9g" .
+<Sports_Facility> <freebase.type_hints.included_types> "Venue" .
+<Albert_Goodwill_Spalding> <people.person.gender> "Male" .
+<2012_World_Series> <time.event.locations> "AT&T Park" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n6786" .
+<m.04w1w0t> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.04vy293> <sports.sports_league_draft_pick.player> "Royce Clayton" .
+<m.0crt7kr> <sports.sports_league_participation.league> "National League" .
+<Professional_Sports_Team> <type.type.properties> "Owner(s)" .
+<m.075ff2m> <architecture.ownership.owner> "San Francisco" .
+<AT&T_Park> <location.location.events> "2006 Emerald Bowl" .
+<m.04xh8yg> <sports.sports_league_draft_pick.player> "Rob Dressler" .
+<m.0crt7rx> <sports.sports_league_participation.league> "National League" .
+<Team> <type.property.expected_type> "Professional Sports Team" .
+<1988_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy293" .
+<Mark_Kuecker> <sports.drafted_athlete.drafted> "m.04vwycv" .
+<University_of_Washington> <freebase.valuenotation.is_reviewed> "Contact webpages" .
+<2006_Emerald_Bowl> <time.event.instance_of_recurring_event> "Foster Farms Bowl" .
+<m.0hvmqkx> <business.employment_tenure.company> "National League" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Friday closing time" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n65bj" .
+<Youngstown_State_University> <education.educational_institution.campuses> "Youngstown State University" .
+<National_League> <sports.sports_league.sport> "Baseball" .
+<Los_Angeles_Dodgers> <common.topic.notable_types> "Professional Sports Team" .
+<Gold> <fictional_universe.fictional_substance.fictional_object> "One Ring" .
+<Charo_Ronquillo> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n6729" .
+<Steve_Hosey> <sports.drafted_athlete.drafted> "m.04vy2qp" .
+<m.0n9gjdd> <sports.team_venue_relationship.team> "San Francisco 49ers" .
+<National_League> <business.employer.employees> "m.0j_vrtr" .
+<National_League_West> <baseball.baseball_division.teams> "Los Angeles Dodgers" .
+<National_League> <business.employer.employees> "m.0s8sqxq" .
+<Candlestick_Park> <location.location.events> "1984 Major League Baseball All-Star Game" .
+<St._George_Cricket_Grounds> <location.location.containedby> "10301" .
+<Baseball_Division> <freebase.type_hints.included_types> "Topic" .
+<Terry_Mulholland> <common.topic.notable_types> "Baseball Player" .
+<Target_Field_-_Opening_Day_of_Inaugural_Season> <common.image.appears_in_topic_gallery> "2010 Major League Baseball season" .
+<URI> <rdf-schema#domain> "Localized URI" .
+<m.0dl3646> <baseball.baseball_team_stats.season> "2009 Major League Baseball season" .
+<m.05n6djp> <baseball.baseball_team_stats.season> "1995 Major League Baseball Season" .
+<1970_Major_League_Baseball_Season> <time.event.previous_in_series> "1969 Major League Baseball Season" .
+<Baseball_Team> <freebase.type_profile.strict_included_types> "Sports Team" .
+<m.0w_jqq9> <sports.team_venue_relationship.team> "San Francisco Golden Gate Gales" .
+<Quiana_Grant> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<m.04vx17d> <sports.sports_league_draft_pick.player> "Will Clark" .
+<1937_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<1933_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<m.04vwv0m> <sports.sports_league_draft_pick.draft> "1967 Major League Baseball Draft" .
+<Royce_Clayton> <sports.drafted_athlete.drafted> "m.04vy293" .
+<m.0crt7z6> <sports.sports_league_participation.league> "National League" .
+<National_League> <business.employer.employees> "m.0wj2wxd" .
+<2014_Major_League_Baseball_season> <time.event.participant> "Kansas City Royals" .
+<m.0x1wcv3> <sports.team_venue_relationship.venue> "Seals Stadium" .
+<St._George_Cricket_Grounds> <common.topic.notable_for> "g.125dysgcn" .
+<m.05n65gg> <baseball.baseball_team_stats.team> "New York Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwx8j" .
+<m.05n67mt> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.05n69ys> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Gary_Matthews> <people.person.profession> "Coach" .
+<National_League> <business.employer.employees> "m.0wkk21m" .
+<San_Francisco_Giants> <sports.sports_team.championships> "2012 World Series" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079sf" .
+<Wendell_Fairley> <sports.drafted_athlete.drafted> "m.04w1xsz" .
+<m.0crt7d6> <sports.sports_league_participation.team> "Los Angeles Dodgers" .
+<Chicago_Cubs> <baseball.baseball_team.league> "National League" .
+<Staten_Island> <location.administrative_division.second_level_division_of> "United States of America" .
+<National_League_East> <baseball.baseball_division.league> "National League" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n65dh" .
+<2002_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<m.05n6f7n> <baseball.baseball_team_stats.season> "2002 Major League Baseball Season" .
+<m.05n66gm> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.04vwycv> <sports.sports_league_draft_pick.draft> "1976 Major League Baseball Draft" .
+<Crazy_Crab> <common.topic.article> "m.02q_hzl" .
+<John_D'Acquisto> <common.topic.notable_types> "Baseball Player" .
+<Hilltop_Park> <sports.sports_facility.home_venue_for> "m.0j_y8z4" .
+<m.05n6c1y> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vws61" .
+<National_League> <business.employer.employees> "m.0ggfpt5" .
+<National_League> <sports.sports_league.teams> "m.0crt7lx" .
+<Candlestick_Park> <common.topic.notable_for> "g.125fwckfk" .
+<m.05n6d78> <baseball.baseball_team_stats.season> "1992 Major League Baseball Season" .
+<m.0crt7k_> <sports.sports_league_participation.team> "Brooklyn Dodgers" .
+<Mascot> <freebase.type_hints.included_types> "Topic" .
+<Staten_Island> <location.us_county.hud_county_place> "New York City" .
+<Dave_Rader> <sports.drafted_athlete.drafted> "m.04vwv0m" .
+<m.0crt7bg> <sports.sports_league_participation.team> "Philadelphia Phillies" .
+<New_York_Metropolitans> <common.topic.notable_types> "Baseball Team" .
+<Tony_Torcato> <sports.drafted_athlete.drafted> "m.04w1swd" .
+<m.04vwxt7> <sports.sports_league_draft_pick.player> "Ted Barnicle" .
+<Mike_Remlinger> <sports.drafted_athlete.drafted> "m.04vy1xn" .
+<m.0crt7y4> <sports.sports_league_participation.league> "National League" .
+<2005_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<m.0k079pf> <base.schemastaging.team_training_ground_relationship.facility> "Polo Grounds" .
+<Alan_Cockrell> <people.person.profession> "Coach" .
+<National_League> <base.ontologies.ontology_instance.equivalent_instances> "m.09kmdg4" .
+<m.04vy2qp> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.0crt7g4> <sports.sports_league_participation.league> "National League" .
+<Brian_Sabean> <people.person.gender> "Male" .
+<National_League> <sports.sports_league.teams> "m.0crt7sw" .
+<m.04vwttf> <sports.sports_league_draft_pick.draft> "1966 Major League Baseball Draft" .
+<Bill_Neukom> <common.topic.article> "m.03cyzbz" .
+<Roberto_Kelly> <baseball.baseball_coach.current_team_coaching> "m.0527d0k" .
+<New_York_Giants> <sports.defunct_sports_team.sport> "Baseball" .
+<m.0z7wqcb> <award.award_nomination.ceremony> "2003 ESPY Awards" .
+<Mike_Remlinger> <common.topic.notable_types> "Baseball Player" .
+<1988_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<National_League_East> <organization.organization.parent> "m.0ck2dtv" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1tcm" .
+<Madison_Bumgarner> <people.person.gender> "Male" .
+<1990_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy326" .
+<Rangers_Ballpark_in_Arlington> <location.location.events> "2010 World Series" .
+<m.04vwx8j> <sports.sports_league_draft_pick.player> "Terry Lee" .
+<2007_Emerald_Bowl> <time.event.instance_of_recurring_event> "Foster Farms Bowl" .
+<Polo_Grounds> <location.location.time_zones> "Eastern Time Zone" .
+<National_League> <baseball.baseball_league.teams> "San Francisco Giants" .
+<m.04vwwym> <sports.sports_league_draft_pick.player> "Johnnie LeMaster" .
+<1969_Major_League_Baseball_Season> <time.event.previous_in_series> "1968 Major League Baseball Season" .
+<2004_Major_League_Baseball_season> <time.event.previous_in_series> "2003 Major League Baseball season" .
+<1937_World_Series> <sports.sports_championship_event.runner_up> "New York Giants" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6cr0" .
+<m.04vw_l9> <sports.sports_league_draft_pick.draft> "1981 Major League Baseball Draft" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Jessica White" .
+<Foster_Farms_Bowl> <time.recurring_event.instances> "2007 Emerald Bowl" .
+<m.05n6g1g> <baseball.baseball_team_stats.team> "New York Giants" .
+<Mike_Remlinger> <people.person.gender> "Male" .
+<m.0crt7f4> <sports.sports_league_participation.league> "National League" .
+<David_Aardsma> <sports.drafted_athlete.drafted> "m.04w1w0t" .
+<1998_Major_League_Baseball_Season> <time.event.next_in_series> "1999 Major League Baseball Season" .
+<New_York_Giants> <sports.defunct_sports_team.sport> "Baseball" .
+<m.04w1s2s> <sports.sports_league_draft_pick.draft> "1996 Major League Baseball Draft" .
+<Bob_Reynolds> <sports.drafted_athlete.drafted> "m.04vwttf" .
+<2002_Major_League_Baseball_Season> <time.event.previous_in_series> "2001 Major League Baseball Season" .
+<Washington_Nationals> <sports.sports_team.colors> "Gold" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n69bq" .
+<m.05n6f0f> <baseball.baseball_team_stats.season> "2000 Major League Baseball season" .
+<National_League> <sports.sports_league.teams> "m.0crt7k_" .
+<m.0hhyxhx> <business.employment_tenure.company> "National League" .
+<San_Francisco_Giants> <sports.sports_team.team_mascot> "Lou Seal" .
+<Madison_Bumgarner> <sports.drafted_athlete.drafted> "m.04w1xql" .
+<Sports_League_Season> <type.type.domain> "Sports" .
+<National_League_Central> <sports.sports_league.championship> "National League Division Series" .
+<New_York_Giants> <common.topic.notable_types> "Professional Sports Team" .
+<2008_Emerald_Bowl> <time.event.locations> "AT&T Park" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n65s2" .
+<1917_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<2014_Major_League_Baseball_season> <sports.sports_league_draft.picks> "m.010q_p9h" .
+<m.05n6bxx> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.0hn_84p> <business.employment_tenure.company> "National League" .
+<m.0d61jyc> <sports.pro_sports_played.athlete> "Bruce Bochy" .
+<m.04w1v6c> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.05n65hk> <baseball.baseball_team_stats.team> "New York Giants" .
+<National_League> <business.employer.employees> "m.0gl1qtd" .
+<Carney_Lansford> <common.topic.notable_types> "Baseball Player" .
+<Bill_Hayes> <people.person.gender> "Male" .
+<New_York_Giants> <sports.sports_team.location> "New York City" .
+<m.05n677b> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.010r3xsl> <sports.sports_league_draft_pick.team> "Los Angeles Angels of Anaheim" .
+<Lou_Seal> <common.topic.notable_for> "g.125bn82w_" .
+<Baseball_Division> <freebase.type_profile.kind> "Definition" .
+<1979_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<2013_Major_League_Baseball_season> <time.event.previous_in_series> "2012 Major League Baseball season" .
+<1971_Major_League_Baseball_Season> <time.event.previous_in_series> "1970 Major League Baseball Season" .
+<Santa_Clara_University> <education.educational_institution.campuses> "Santa Clara University" .
+<m.04knm9b> <business.employment_tenure.person> "Peter A. Magowan" .
+<2012_Major_League_Baseball_season> <common.topic.article> "m.0fp_5x6" .
+<Gary_Matthews> <sports.drafted_athlete.drafted> "m.04vwvh1" .
+<1923_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<San_Francisco_Giants> <sports.sports_team.league> "m.0crtd80" .
+<New_York_City> <sports.sports_team_location.teams> "New York Giants" .
+<m.0k03zbd> <base.schemastaging.team_training_ground_relationship.team> "New York Mets" .
+<Bruce_Bochy> <baseball.baseball_player.position_s> "Catcher" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6dy4" .
+<1995_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<m.0crt7n9> <sports.sports_league_participation.league> "National League" .
+<m.05n6911> <baseball.baseball_team_stats.team> "New York Giants" .
+<Bruce_Bochy> <baseball.baseball_player.batting_stats> "m.06pfq0m" .
+<m.04w1x4c> <sports.sports_league_draft_pick.player> "Tim Lincecum" .
+<1997_Major_League_Baseball_Season> <time.event.next_in_series> "1998 Major League Baseball Season" .
+<Los_Angeles_Angels_of_Anaheim> <award.award_nominee.award_nominations> "m.0z7wqcb" .
+<Polo_Grounds_III> <sports.sports_facility.teams> "San Francisco Giants" .
+<National_League_West> <baseball.baseball_division.teams> "Arizona Diamondbacks" .
+<m.04knm9b> <business.employment_tenure.company> "San Francisco Giants" .
+<m.0gv_kdl> <business.employment_tenure.company> "National League" .
+<Rangers_Ballpark_in_Arlington> <common.topic.notable_types> "Sports Facility" .
+<Hilltop_Park> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k2_6lb" .
+<Polo_Grounds> <sports.sports_facility.home_venue_for> "m.0w_jy61" .
+<Terry_Mulholland> <sports.drafted_athlete.drafted> "m.04vx0zw" .
+<1983_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<Third_Base_Coach> <baseball.baseball_coaching_position.current_coaches> "m.0527cyq" .
+<National_League_East> <baseball.baseball_division.teams> "Philadelphia Phillies" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6f0f" .
+<San_Francisco_Giants> <business.employer.employees> "m.04m2rx3" .
+<m.04vy0my> <sports.sports_league_draft_pick.player> "Matt Williams" .
+<National_League> <business.employer.employees> "m.0wj485k" .
+<1985_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<National_League> <sports.sports_league.teams> "m.0crt7hd" .
+<Baseball_Team> <freebase.type_hints.included_types> "Sports Team" .
+<1990_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<2012_Major_League_Baseball_season> <time.event.next_in_series> "2013 Major League Baseball season" .
+<Albert_Goodwill_Spalding> <people.person.profession> "Baseball player" .
+<National_League> <sports.sports_league.teams> "m.0crt79q" .
+<m.0w_jy61> <sports.team_venue_relationship.venue> "Polo Grounds" .
+<National_League_Central> <baseball.baseball_division.teams> "Pittsburgh Pirates" .
+<m.0k079s6> <freebase.valuenotation.has_no_value> "To" .
+<1921_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<m.04vws61> <sports.sports_league_draft_pick.school> "Santa Clara University" .
+<m.0crt4b6> <sports.sports_league_participation.league> "Major League Baseball" .
+<1954_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<National_League> <business.employer.employees> "m.0wksrt6" .
+<1971_Major_League_Baseball_Season> <time.event.next_in_series> "1972 Major League Baseball Season" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n67c8" .
+<New_York_Giants> <sports.sports_team.championships> "1905 World Series" .
+<Comerica_Park> <common.topic.notable_types> "Sports Facility" .
+<1984_Major_League_Baseball_Season> <time.event.next_in_series> "1985 Major League Baseball season" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1xsz" .
+<Polo_Grounds> <location.location.geolocation> "m.02_tynf" .
+<Philadelphia_Phillies> <baseball.baseball_team.division> "National League East" .
+<m.05n6ftt> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Saturday closing time" .
+<1994_Major_League_Baseball_Season> <time.event.previous_in_series> "1993 Major League Baseball Season" .
+<Marlins_Park> <architecture.structure.architecture_firm> "Populous" .
+<St._George_Cricket_Grounds> <architecture.structure.owner> "m.06hbpvh" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n65p7" .
+<Arizona_Diamondbacks> <sports.sports_team.league> "m.0crt79z" .
+<m.04vy4g_> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<2010_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<m.04vy42h> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<2002_World_Series> <sports.sports_championship_event.champion> "Los Angeles Angels of Anaheim" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527d0s" .
+<m.05n6dq4> <baseball.baseball_team_stats.season> "1997 Major League Baseball Season" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1vl_" .
+<Candlestick_Park> <location.location.street_address> "m.0hmxtkc" .
+<Sports_Team> <type.type.domain> "Sports" .
+<m.05n69ys> <baseball.baseball_team_stats.season> "1964 Major League Baseball Season" .
+<Marietta_College> <education.educational_institution_campus.educational_institution> "Marietta College" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy32q" .
+<m.0gx5kz6> <business.employment_tenure.company> "National League" .
+<National_League> <business.employer.employees> "m.0hnzsbs" .
+<Mark_Gardner> <people.person.profession> "Coach" .
+<m.09w81b7> <common.webpage.resource> "NFL flattens ratings competition" .
+<m.04w1sxn> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.0gmjnjy> <business.employment_tenure.company> "National League" .
+<University_of_Nebraska–Lincoln> <education.educational_institution.colors> "Cream" .
+<2010_World_Series> <time.event.locations> "Rangers Ballpark in Arlington" .
+<Polo_Grounds_III> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079sf" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6czg" .
+<1951_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<1912_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<Bruce_Bochy> <baseball.baseball_player.batting_stats> "m.06pfprc" .
+<Matt_Williams> <sports.drafted_athlete.drafted> "m.04vy0my" .
+<Professional_Sports_Team> <freebase.type_hints.included_types> "Sports Team" .
+<Noah_Lowry> <sports.drafted_athlete.drafted> "m.04w1v6c" .
+<m.0crtd8j> <sports.sports_league_participation.team> "Colorado Rockies" .
+<National_League> <sports.sports_league.teams> "m.0crt7dk" .
+<San_Francisco_Giants> <time.participant.event> "2010 World Series" .
+<m.04vy4xh> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.09wk3mx> <common.webpage.topic> "Polo Grounds" .
+<New_York_Gothams> <sports.defunct_sports_team.later_known_as> "San Francisco Giants" .
+<New_York_Giants> <sports.sports_team.sport> "Baseball" .
+<m.0crt7dv> <sports.sports_league_participation.team> "Cincinnati Reds" .
+<AT&T_Park> <location.location.events> "Love on the Inside Tour, San Francisco, CA Concert" .
+<University_of_Tennessee> <location.location.containedby> "United States of America" .
+<Brooklyn_Dodgers> <base.rivalries.rival.rivals> "Dodgers–Giants rivalry" .
+<m.04vwvh1> <sports.sports_league_draft_pick.draft> "1968 Major League Baseball Draft" .
+<m.0crt7hd> <sports.sports_league_participation.league> "National League" .
+<m.09w9hyc> <common.webpage.resource> "Ratings: 'Sunday Night Football' scores a weekly win for NBC" .
+<Dusty_Baker> <people.person.gender> "Male" .
+<Orange> <base.schemastaging.context_name.pronunciation> "g.125_r_tdq" .
+<Baseball's_Sad_Lexicon> <book.written_work.subjects> "Chicago Cubs" .
+<Youngstown_State_University> <location.location.containedby> "United States of America" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n685b" .
+<Ron_Wotus> <people.person.profession> "Coach" .
+<New_York_Gothams> <baseball.baseball_team.team_stats> "m.05n657x" .
+<San_Francisco_Giants> <sports.sports_team.league> "m.0crt7c2" .
+<Matt_Cain> <people.person.gender> "Male" .
+<Bruce_Bochy> <people.person.education> "m.05yyy17" .
+<Sports> <type.domain.types> "Sports League Season" .
+<Tim_Alderson> <common.topic.notable_types> "Baseball Player" .
+<Major_League_Baseball> <sports.sports_league.sport> "Baseball" .
+<Venue> <freebase.type_profile.strict_included_types> "Topic" .
+<m.05n65s2> <baseball.baseball_team_stats.team> "New York Giants" .
+<1921_World_Series> <time.event.locations> "Polo Grounds" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Micaela Reis" .
+<AT&T_Park> <location.location.events> "2011 Kraft Fight Hunger Bowl" .
+<m.04w1sx4> <sports.sports_league_draft_pick.draft> "1998 Major League Baseball Draft" .
+<2003_Major_League_Baseball_season> <time.event.previous_in_series> "2002 Major League Baseball Season" .
+<Brooklyn_Dodgers> <sports.defunct_sports_team.sport> "Baseball" .
+<Marietta_College> <location.location.containedby> "United States of America" .
+<Contact_webpages> <rdf-schema#range> "Localized URI" .
+<Santa_Clara_University> <education.educational_institution_campus.educational_institution> "Santa Clara University" .
+<Louisiana_State_University> <education.educational_institution_campus.educational_institution> "Louisiana State University" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy3r2" .
+<AT&T_Park> <base.playball.baseball_stadium.naming_rights> "m.05lm821" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Wednesday open time" .
+<New_York_City> <base.biblioness.bibs_topic.subsumes> "New York City" .
+<AT&T_Park> <location.location.events> "2010 World Series" .
+<1983_Major_League_Baseball_Season> <time.event.next_in_series> "1984 Major League Baseball Season" .
+<1994_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy4g_" .
+<Rob_Dressler> <people.person.gender> "Male" .
+<Teams_Owned> <type.property.schema> "Sports Team Owner" .
+<1972_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwzlm" .
+<1936_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<2010_Major_League_Baseball_season> <common.topic.image> "Target Field - Opening Day of Inaugural Season" .
+<m.04vwvh1> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Albert_Goodwill_Spalding> <common.topic.notable_types> "Baseball Player" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwxt7" .
+<Terry_Lee> <common.topic.notable_types> "Baseball Player" .
+<San_Diego_Padres> <baseball.baseball_team.division> "National League West" .
+<New_York_Giants> <book.book_subject.works> "Baseball's Sad Lexicon" .
+<Rice_University> <location.location.containedby> "United States of America" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Monday closing time" .
+<St._George_Cricket_Grounds> <common.topic.notable_types> "Sports Facility" .
+<Colorado_Rockies> <sports.sports_team.league> "m.0crt7dk" .
+<Candlestick_Park> <location.location.events> "1989 World Series" .
+<m.04vw__f> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Muthu Tharanga" .
+<1993_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<AT&T_Park> <common.topic.notable_for> "g.1254xb_jg" .
+<1923_World_Series> <sports.sports_championship_event.runner_up> "New York Giants" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527d0b" .
+<St._George_Cricket_Grounds> <sports.sports_facility.teams> "New York Metropolitans" .
+<1997_Major_League_Baseball_Season> <time.event.previous_in_series> "1996 Major League Baseball Season" .
+<National_League> <baseball.baseball_league.teams> "Arizona Diamondbacks" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1tvv" .
+<1976_Major_League_Baseball_Season> <time.event.next_in_series> "1977 Major League Baseball Season" .
+<2012_World_Series> <sports.sports_championship_event.champion> "San Francisco Giants" .
+<Bill_Neukom> <people.person.education> "m.0hvn4gv" .
+<m.04vwv0m> <sports.sports_league_draft_pick.player> "Dave Rader" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69wc" .
+<Boof_Bonser> <common.topic.notable_types> "Baseball Player" .
+<m.04vwywv> <sports.sports_league_draft_pick.draft> "1977 Major League Baseball Draft" .
+<m.04w1xs2> <sports.sports_league_draft_pick.player> "Tim Alderson" .
+<m.0dl37x6> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.0crt7fc> <sports.sports_league_participation.team> "San Diego Padres" .
+<1913_World_Series> <sports.sports_championship_event.runner_up> "New York Giants" .
+<San_Francisco_Giants> <sports.sports_team.sport> "Baseball" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n68ws" .
+<m.04vwywv> <sports.sports_league_draft_pick.player> "Craig Landis" .
+<1973_Major_League_Baseball_Season> <time.event.next_in_series> "1974 Major League Baseball Season" .
+<San_Francisco_Giants> <sports.sports_team.league> "m.0crt4b6" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Topic" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66zt" .
+<National_League> <sports.sports_league.teams> "m.0crt7f4" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66jl" .
+<California_State_University,_Fresno> <education.educational_institution_campus.educational_institution> "California State University, Fresno" .
+<AT&T_Park> <location.location.events> "2013 Fight Hunger Bowl" .
+<m.05n6729> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.0ggfpt5> <business.employment_tenure.company> "National League" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n65k9" .
+<Language> <type.property.schema> "Localized URI" .
+<Bruce_Bochy> <baseball.baseball_player.position_s> "Manager" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079ry" .
+<m.04vy293> <sports.sports_league_draft_pick.draft> "1988 Major League Baseball Draft" .
+<m.06pfpss> <baseball.batting_statistics.team> "New York Mets" .
+<Dante_Powell> <people.person.gender> "Male" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n68gj" .
+<New_York_Giants> <sports.sports_team.roster> "m.0z1sfsp" .
+<1954_World_Series> <sports.sports_championship_event.champion> "New York Giants" .
+<m.0w_jzv2> <freebase.valuenotation.has_no_value> "To" .
+<David_Aardsma> <people.person.profession> "Baseball player" .
+<National_League_West> <baseball.baseball_division.teams> "San Diego Padres" .
+<Gold> <common.topic.notable_types> "Color" .
+<Location> <rdf-schema#domain> "Localized URI" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n67xt" .
+<Hilltop_Park> <location.location.containedby> "New York City" .
+<m.05n6f7n> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<National_League> <baseball.baseball_league.teams> "Los Angeles Dodgers" .
+<m.0crtd8b> <sports.sports_league_participation.league> "National League West" .
+<Atlanta_Braves> <common.topic.notable_types> "Professional Sports Team" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079pf" .
+<San_Mateo> <location.location.containedby> "United States of America" .
+<m.0k079rd> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<Roberto_Kelly> <common.topic.notable_types> "Baseball Player" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "Seals Stadium" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079pz" .
+<m.05n6bdf> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.04vy32q> <sports.sports_league_draft_pick.draft> "1990 Major League Baseball Draft" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6brp" .
+<Baseball_League> <freebase.type_profile.strict_included_types> "Topic" .
+<Terry_Mulholland> <people.person.profession> "Baseball player" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n697d" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy326" .
+<m.052w1bg> <baseball.baseball_historical_managerial_position.manager> "Dusty Baker" .
+<Major_League_Baseball> <common.topic.notable_types> "Baseball League" .
+<2007_Emerald_Bowl> <time.event.locations> "AT&T Park" .
+<m.0527d1b> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<National_League> <business.employer.employees> "m.0hn_3bj" .
+<Al_Gallagher> <people.person.place_of_birth> "San Francisco" .
+<New_York_Metropolitans> <sports.sports_team.venue> "m.0w_jyj9" .
+<m.04vy1xn> <sports.sports_league_draft_pick.player> "Mike Remlinger" .
+<National_League_Central> <common.topic.notable_types> "Baseball Division" .
+<m.0k079s6> <base.schemastaging.team_training_ground_relationship.facility> "AT&T Park" .
+<San_Francisco_Giants> <award.award_nominee.award_nominations> "m.0z7wqcb" .
+<m.0527d0k> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<Gold> <fictional_universe.fictional_substance.fictional_object> "Vilya" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n69k1" .
+<Candlestick_Park> <sports.sports_facility.teams> "San Francisco 49ers" .
+<m.0crt7t1> <sports.sports_league_participation.league> "National League" .
+<m.0s8skc6> <business.employment_tenure.company> "National League" .
+<California_State_University,_Fullerton> <location.location.containedby> "United States of America" .
+<Baseball> <sports.sport.positions> "Catcher" .
+<New_York_Giants> <sports.sports_team.championships> "1954 World Series" .
+<National_League_Championship_Series> <sports.sports_championship.league> "National League" .
+<St._George_Cricket_Grounds> <location.location.geolocation> "m.0dgc82j" .
+<m.04m2rx3> <business.employment_tenure.company> "San Francisco Giants" .
+<m.04vws61> <sports.sports_league_draft_pick.player> "Al Gallagher" .
+<Bruce_Bochy> <baseball.baseball_player.batting_stats> "m.06pfpss" .
+<Mark_Gardner> <people.person.gender> "Male" .
+<San_Francisco_Giants> <freebase.valuenotation.is_reviewed> "Contact webpages" .
+<National_League> <sports.sports_league.teams> "m.0crt7fc" .
+<Royce_Clayton> <people.person.gender> "Male" .
+<Lou_seal_giants_mascot> <common.image.appears_in_topic_gallery> "Lou Seal" .
+<m.0k079r4> <base.schemastaging.team_training_ground_relationship.facility> "Seals Stadium" .
+<m.0hnzsbs> <business.employment_tenure.company> "National League" .
+<m.06pfprc> <baseball.batting_statistics.season> "1980 Major League Baseball Season" .
+<Major_League_Baseball> <freebase.valuenotation.is_reviewed> "Contact webpages" .
+<m.0527d13> <baseball.current_coaching_tenure.baseball_coach> "Bill Hayes" .
+<Sports_Facility> <freebase.type_hints.included_types> "Topic" .
+<Brett_Bochy> <common.topic.notable_types> "Baseball Player" .
+<Jessica_White> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwwn6" .
+<m.0crt7p9> <sports.sports_league_participation.league> "National League" .
+<1917_World_Series> <time.event.locations> "Polo Grounds" .
+<m.05n6dtn> <baseball.baseball_team_stats.season> "1998 Major League Baseball Season" .
+<m.0j_y8z4> <sports.team_venue_relationship.venue> "Hilltop Park" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Jessica White" .
+<m.04w1sx4> <sports.sports_league_draft_pick.player> "Nathan Bump" .
+<1992_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy3r2" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6d9g" .
+<San_Francisco_Giants> <sports.professional_sports_team.owner_s> "Bill Neukom" .
+<Matt_White> <people.person.gender> "Male" .
+<Mississippi_State_University> <education.educational_institution.campuses> "Mississippi State University" .
+<University_of_Washington> <education.educational_institution.campuses> "University of Washington" .
+<San_Francisco_Giants> <sports.sports_team.championships> "2010 World Series" .
+<m.04w1sd8> <sports.sports_league_draft_pick.player> "Jason Grilli" .
+<m.0crt7yh> <sports.sports_league_participation.league> "National League" .
+<1989_Major_League_Baseball_Season> <time.event.previous_in_series> "1988 Major League Baseball Season" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6d1j" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Sunday open time" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.010q_p9h" .
+<Dante_Powell> <people.person.profession> "Baseball player" .
+<m.04vx17d> <sports.sports_league_draft_pick.draft> "1985 Major League Baseball Draft" .
+<m.05n6799> <baseball.baseball_team_stats.team> "New York Giants" .
+<Dave_Righetti> <people.person.profession> "Baseball player" .
+<m.05n657x> <baseball.baseball_team_stats.team> "New York Gothams" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6b9l" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.0dl3646" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n6879" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6djp" .
+<m.04vws61> <sports.sports_league_draft_pick.draft> "1965 Major League Baseball Draft" .
+<Sports_Facility> <type.type.domain> "Sports" .
+<National_League> <sports.sports_league.teams> "m.0crt7kf" .
+<m.05n680j> <baseball.baseball_team_stats.team> "New York Giants" .
+<New_York_City> <sports.sports_team_location.teams> "New York Mets" .
+<1999_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1tcm" .
+<San_Francisco_Giants> <award.award_nominee.award_nominations> "m.0z2pd9m" .
+<Larry_Baer> <people.person.gender> "Male" .
+<California_State_University,_Fullerton> <education.educational_institution.campuses> "California State University, Fullerton" .
+<National_League_West> <sports.sports_league.teams> "m.0crtd8b" .
+<Hitting_coach> <baseball.baseball_coaching_position.current_coaches> "m.0527d03" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66q8" .
+<Sports_Team_Owner> <type.type.expected_by> "Owner(s)" .
+<Sports_Facility> <freebase.type_profile.kind> "Definition" .
+<m.0crt79d> <sports.sports_league_participation.league> "National League" .
+<m.05n6chh> <baseball.baseball_team_stats.season> "1983 Major League Baseball Season" .
+<m.010brg8l> <freebase.valuenotation.is_reviewed> "Language" .
+<m.06pfpps> <baseball.batting_statistics.season> "1979 Major League Baseball Season" .
+<m.06wgl0n> <education.education.student> "Bill Neukom" .
+<National_League> <business.employer.employees> "m.0wkx11x" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6dq4" .
+<Rice_University> <education.educational_institution.campuses> "Rice University" .
+<National_League> <baseball.baseball_league.teams> "New York Mets" .
+<Baseball_player> <people.profession.corresponding_type> "Baseball Player" .
+<1937_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<San_Francisco_Giants> <base.schemastaging.organization_extra.contact_webpages> "m.010brg8l" .
+<m.05n67gs> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.04vx0x_> <sports.sports_league_draft_pick.school> "University of Tennessee" .
+<m.04vy4g_> <sports.sports_league_draft_pick.school> "California State University, Fullerton" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n667m" .
+<New_York_City> <location.administrative_division.country> "United States of America" .
+<m.0crt7wx> <sports.sports_league_participation.league> "National League" .
+<2010_Major_League_Baseball_season> <common.topic.notable_for> "g.125bw8_0z" .
+<Quiana_Grant> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Al_Gallagher> <sports.drafted_athlete.drafted> "m.04vws61" .
+<Candlestick_Park> <common.topic.notable_types> "Sports Facility" .
+<National_League> <sports.sports_league.teams> "m.0crt7gj" .
+<Larry_Baer> <business.board_member.leader_of> "m.011zsc4_" .
+<National_League> <business.employer.employees> "m.0gl1_8b" .
+<m.0y4rnv0> <business.employment_tenure.person> "Bill Neukom" .
+<Kang_Seung-hyun> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<1998_Major_League_Baseball_Season> <time.event.previous_in_series> "1997 Major League Baseball Season" .
+<Arturo_McDowell> <sports.drafted_athlete.drafted> "m.04w1sxn" .
+<m.05n6fgn> <baseball.baseball_team_stats.season> "2004 Major League Baseball season" .
+<m.04vwwn6> <sports.sports_league_draft_pick.draft> "1971 Major League Baseball Draft" .
+<m.0crtd77> <sports.sports_league_participation.league> "National League West" .
+<1970_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vww5g" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6fy2" .
+<2003_Major_League_Baseball_season> <time.event.next_in_series> "2004 Major League Baseball season" .
+<1989_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy2qp" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6fgn" .
+<Matt_White> <common.topic.notable_types> "Baseball Player" .
+<1997_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1sd8" .
+<National_League> <business.employer.employees> "m.0hvmqkx" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwywv" .
+<Vanya_Seager> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Baseball_Division> <freebase.type_profile.strict_included_types> "Topic" .
+<2011_Kraft_Fight_Hunger_Bowl> <time.event.locations> "AT&T Park" .
+<m.0ck2dtv> <organization.organization_relationship.parent> "National League" .
+<1976_Major_League_Baseball_Season> <time.event.previous_in_series> "1975 Major League Baseball Season" .
+<Tim_Flannery> <baseball.baseball_coach.current_team_coaching> "m.0527cyq" .
+<m.04226rk> <common.webpage.resource> "New York Times" .
+<m.04vy1xn> <sports.sports_league_draft_pick.school> "Dartmouth College" .
+<Bill_Neukom> <people.person.education> "m.06wgl0n" .
+<m.05n66lk> <baseball.baseball_team_stats.team> "New York Giants" .
+<Owner(s)> <type.property.schema> "Professional Sports Team" .
+<m.0ck2dt_> <organization.organization_relationship.child> "National League Central" .
+<New_York_Giants> <baseball.baseball_team.league> "National League" .
+<Bruce_Bochy> <sports.pro_athlete.sports_played_professionally> "m.0d61jyc" .
+<m.0crt7br> <sports.sports_league_participation.team> "St. Louis Cardinals" .
+<Baseball_Team> <freebase.type_hints.included_types> "Topic" .
+<m.0whh4z5> <business.employment_tenure.company> "National League" .
+<2006_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<2014_Major_League_Baseball_season> <time.event.previous_in_series> "2013 Major League Baseball season" .
+<m.075ff2m> <architecture.ownership.structure> "Candlestick Park" .
+<National_League> <baseball.baseball_league.teams> "Colorado Rockies" .
+<m.04vw__f> <sports.sports_league_draft_pick.draft> "1982 Major League Baseball Draft" .
+<St._George_Cricket_Grounds> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079q4" .
+<Best_Game_ESPY_Award> <award.award_category.nominees> "m.0z7wqcb" .
+<Bruce_Bochy> <baseball.baseball_player.batting_stats> "m.06pfpv3" .
+<Managing_General_Partner> <business.job_title.people_with_this_title> "m.04knm9b" .
+<m.04vx0x_> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<1989_World_Series> <sports.sports_championship_event.season> "1989 Major League Baseball Season" .
+<AT&T_Park> <base.bowlgames.bowl_game_stadium.bowl_game_hosted> "Foster Farms Bowl" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6bdf" .
+<New_York_Giants> <common.topic.notable_types> "Baseball Team" .
+<Owner(s)> <owl#inverseOf> "Teams Owned" .
+<m.0j_wkpw> <business.employment_tenure.company> "National League" .
+<m.0crt7hq> <sports.sports_league_participation.league> "National League" .
+<m.05n68bl> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.04vwzlm> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Philadelphia_Phillies> <sports.sports_team.league> "m.0crt7bg" .
+<AT&T_Park> <location.location.events> "2007 Emerald Bowl" .
+<1991_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<2010_Major_League_Baseball_season> <common.topic.article> "m.07s3z6v" .
+<Sports_Team_Owner> <type.type.domain> "Sports" .
+<1971_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<San_Francisco_Giants> <common.topic.webpage> "m.09w9hyc" .
+<Crazy_Crab> <common.topic.notable_for> "g.125gc_w31" .
+<Polo_Grounds> <location.location.events> "1933 World Series" .
+<Target_Field_April_2010> <common.image.appears_in_topic_gallery> "2010 Major League Baseball season" .
+<2012–13_NFL_playoffs> <time.event.locations> "Candlestick Park" .
+<m.05n68v0> <baseball.baseball_team_stats.team> "New York Giants" .
+<AT&T_Park> <location.location.events> "2002 San Francisco Bowl" .
+<1996_Major_League_Baseball_Season> <time.event.previous_in_series> "1995 Major League Baseball Season" .
+<National_League> <baseball.baseball_league.teams> "Washington Nationals" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66n9" .
+<National_League> <sports.sports_league.championship> "National League Championship Series" .
+<m.0crt7fm> <sports.sports_league_participation.league> "National League" .
+<m.0crt7k4> <sports.sports_league_participation.league> "National League" .
+<m.0k079s6> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<m.04w1tvv> <sports.sports_league_draft_pick.player> "Boof Bonser" .
+<m.010r3xsl> <sports.sports_league_draft_pick.draft> "2014 Major League Baseball season" .
+<Terry_Lee> <people.person.profession> "Baseball player" .
+<San_Francisco_Giants> <common.topic.notable_types> "Professional Sports Team" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6fpw" .
+<Sports_Team_Owner> <type.type.properties> "Teams Owned" .
+<Team> <rdf-schema#range> "Professional Sports Team" .
+<m.0crt7xg> <sports.sports_league_participation.league> "National League" .
+<Ron_Wotus> <baseball.baseball_coach.current_team_coaching> "m.0527d0b" .
+<Bill_Neukom> <people.person.profession> "Lawyer" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69rf" .
+<m.04w1tvv> <sports.sports_league_draft_pick.draft> "2000 Major League Baseball Draft" .
+<National_League> <sports.sports_league.teams> "m.0crt7dv" .
+<m.06pfpwr> <baseball.batting_statistics.season> "1984 Major League Baseball Season" .
+<New_York_Giants> <sports.sports_team.sport> "Baseball" .
+<m.0gb19w8> <business.employment_tenure.company> "National League" .
+<m.06pfpn2> <baseball.batting_statistics.season> "1978 Major League Baseball Season" .
+<Adam_Hyzdu> <people.person.profession> "Baseball player" .
+<1984_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vx0zw" .
+<m.04vx0zw> <sports.sports_league_draft_pick.school> "Marietta College" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Kang Seung-hyun" .
+<AT&T_Park_Logo> <common.image.appears_in_topic_gallery> "AT&T Park" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n69h9" .
+<m.0y_rn4y> <award.award_nomination.award_nominee> "San Francisco Giants" .
+<Candlestick_Park> <location.location.events> "1962 World Series" .
+<m.05n69sr> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n67l1" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vww5g" .
+<m.04vy326> <sports.sports_league_draft_pick.player> "Adam Hyzdu" .
+<Steve_Soderstrom> <people.person.gender> "Male" .
+<m.0527cyq> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<m.04w1w0t> <sports.sports_league_draft_pick.school> "Rice University" .
+<m.05n6fby> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<2012_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527d0k" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66lk" .
+<New_York_Mets> <baseball.baseball_team.league> "National League" .
+<National_League> <sports.sports_league.teams> "m.0crt7j6" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n6898" .
+<Steve_Hosey> <people.person.profession> "Baseball player" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1s2s" .
+<Polo_Grounds> <location.location.events> "1912 World Series" .
+<National_League> <business.employer.employees> "m.0wj216x" .
+<New_York_Metropolitans> <sports.defunct_sports_team.sport> "Baseball" .
+<National_League> <common.topic.notable_for> "g.125cl9wvb" .
+<Polo_Grounds> <sports.sports_facility.home_venue_for> "m.0j_y8yw" .
+<m.05n6czg> <baseball.baseball_team_stats.season> "1989 Major League Baseball Season" .
+<San_Diego_State_University> <education.educational_institution.campuses> "San Diego State University" .
+<m.0wkk21m> <business.employment_tenure.company> "National League" .
+<m.05n66wr> <baseball.baseball_team_stats.team> "New York Giants" .
+<Bruce_Bochy> <common.topic.image> "Bruce Bochy" .
+<1978_Major_League_Baseball_Season> <time.event.previous_in_series> "1977 Major League Baseball Season" .
+<Marlins_Park> <sports.sports_facility.teams> "Miami Marlins" .
+<Tim_Lincecum> <people.person.gender> "Male" .
+<m.05n6dq4> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.0crt7kf> <sports.sports_league_participation.league> "National League" .
+<National_League> <business.employer.employees> "m.0gvylst" .
+<Frank_Riccelli> <people.person.gender> "Male" .
+<m.06pfq0m> <baseball.batting_statistics.season> "1987 Major League Baseball Season" .
+<m.0hhz4v4> <business.employment_tenure.company> "National League" .
+<National_League> <sports.sports_league.teams> "m.0crt7br" .
+<m.05yyy17> <education.education.student> "Bruce Bochy" .
+<New_York_Giants> <book.book_subject.works> "The Old Ball Game: How John McGraw, Christy Mathewson, and the New York Giants Created Modern Baseball" .
+<Micaela_Reis> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Marlins_Park> <location.location.events> "2012 Major League Baseball season" .
+<m.04w1tcm> <sports.sports_league_draft_pick.draft> "1999 Major League Baseball Draft" .
+<2002_San_Francisco_Bowl> <time.event.locations> "AT&T Park" .
+<Orange> <common.topic.notable_types> "Color" .
+<m.0crt7dv> <sports.sports_league_participation.league> "National League" .
+<Santa_Clara_University> <location.location.containedby> "United States of America" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n695f" .
+<Detroit_Tigers> <sports.sports_team.sport> "Baseball" .
+<1967_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwv0m" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Saturday open time" .
+<1979_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwzlm" .
+<m.0crt7b4> <sports.sports_league_participation.team> "Milwaukee Brewers" .
+<National_League> <sports.sports_league.teams> "m.0crt7wm" .
+<National_League_East> <baseball.baseball_division.teams> "Atlanta Braves" .
+<m.04vwvtp> <sports.sports_league_draft_pick.draft> "1969 Major League Baseball Draft" .
+<Matt_Cain> <sports.drafted_athlete.drafted> "m.04w1vl_" .
+<m.0crt7bg> <sports.sports_league_participation.league> "National League" .
+<m.0crt7g4> <sports.sports_league_participation.team> "Syracuse Stars" .
+<Colorado_Rockies> <sports.sports_team.colors> "Black" .
+<2010_World_Series> <sports.sports_championship_event.champion> "San Francisco Giants" .
+<World_Series> <sports.sports_championship.league> "Major League Baseball" .
+<New_York_City> <location.location.time_zones> "Eastern Time Zone" .
+<Roberto_Kelly> <people.person.profession> "Baseball player" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66bx" .
+<Los_Angeles_Dodgers> <baseball.baseball_team.division> "National League West" .
+<m.0z2pd9m> <award.award_nomination.ceremony> "2011 ESPY Awards" .
+<m.04w1v57> <sports.sports_league_draft_pick.player> "Brad Hennessey" .
+<m.04w1v6c> <sports.sports_league_draft_pick.school> "Pepperdine University" .
+<m.0wj2wxd> <business.employment_tenure.company> "National League" .
+<National_League_East> <sports.sports_league.championship> "National League Division Series" .
+<m.0wh19gl> <business.employment_tenure.company> "National League" .
+<1971_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwwn6" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6cb0" .
+<m.04w1swd> <sports.sports_league_draft_pick.player> "Tony Torcato" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6clb" .
+<m.0crt7c2> <sports.sports_league_participation.team> "San Francisco Giants" .
+<m.0527d03> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<m.0527d13> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6b62" .
+<1961_Major_League_Baseball_All-Star_Game_(first_game)> <time.event.locations> "Candlestick Park" .
+<National_League> <business.employer.employees> "m.0gt_kst" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1xql" .
+<New_York_Giants> <sports.defunct_sports_team.later_known_as> "San Francisco Giants" .
+<Candlestick_Park> <sports.sports_facility.home_venue_for> "m.0n9gjdd" .
+<m.04vy326> <sports.sports_league_draft_pick.draft> "1990 Major League Baseball Draft" .
+<m.04vwx8j> <sports.sports_league_draft_pick.draft> "1974 Major League Baseball Draft" .
+<Carney_Lansford> <baseball.baseball_coach.current_team_coaching> "m.0527d03" .
+<Staten_Island> <location.us_county.county_seat> "Staten Island" .
+<m.04vy3r2> <sports.sports_league_draft_pick.player> "Calvin Murray" .
+<National_League_East> <baseball.baseball_division.teams> "New York Mets" .
+<2013_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<AT&T_Park> <base.playball.baseball_stadium.naming_rights> "m.05lm82b" .
+<m.04vwycv> <sports.sports_league_draft_pick.player> "Mark Kuecker" .
+<National_League_West> <sports.sports_league.teams> "m.0crtd8j" .
+<m.0527d0b> <baseball.current_coaching_tenure.baseball_coach> "Ron Wotus" .
+<1987_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<Carney_Lansford> <people.person.nationality> "United States of America" .
+<Mascot> <type.type.domain> "Sports" .
+<1954_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<National_League> <sports.sports_league.teams> "m.0crt7cg" .
+<m.05n6cb0> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6flc" .
+<2010_World_Series> <time.event.locations> "AT&T Park" .
+<2014_Major_League_Baseball_season> <sports.sports_league_draft.picks> "m.010r3xsl" .
+<m.04w1xsz> <sports.sports_league_draft_pick.draft> "2007 Major League Baseball Draft" .
+<m.0wk3sls> <business.employment_tenure.company> "National League" .
+<Mississippi_State_University> <location.location.containedby> "United States of America" .
+<m.05n6f0f> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66f2" .
+<m.010brjkc> <freebase.valuenotation.is_reviewed> "Caller category" .
+<Terry_Lee> <sports.drafted_athlete.drafted> "m.04vwx8j" .
+<m.0w_jyj9> <sports.team_venue_relationship.venue> "St. George Cricket Grounds" .
+<National_League_Central> <baseball.baseball_division.teams> "Cincinnati Reds" .
+<National_League> <business.employer.employees> "m.0hvzbcn" .
+<Seals_Stadium> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079r4" .
+<2002_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vw__f" .
+<m.04vwwn6> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Steve_Stanicek> <people.person.gender> "Male" .
+<Kurt_Ainsworth> <sports.drafted_athlete.drafted> "m.04w1tcm" .
+<m.05n6fpw> <baseball.baseball_team_stats.season> "2006 Major League Baseball season" .
+<Alan_Cockrell> <people.person.gender> "Male" .
+<Professional_Sports_Team> <common.topic.article> "m.06_rt7r" .
+<National_League> <business.employer.employees> "m.0gmjnjy" .
+<m.05n6c1y> <baseball.baseball_team_stats.season> "1978 Major League Baseball Season" .
+<2012_World_Series> <sports.sports_championship_event.runner_up> "Detroit Tigers" .
+<National_League> <business.employer.employees> "m.0hhz8bh" .
+<m.05n69wc> <baseball.baseball_team_stats.season> "1963 Major League Baseball Season" .
+<Steve_Hosey> <people.person.nationality> "United States of America" .
+<2012_Major_League_Baseball_season> <sports.sports_league_season.league> "Major League Baseball" .
+<National_League> <business.employer.employees> "m.0gb18ht" .
+<m.010brjkc> <base.schemastaging.phone_sandbox.service_location> "United States of America" .
+<1936_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<2002_World_Series> <sports.sports_championship_event.runner_up> "San Francisco Giants" .
+<Polo_Grounds> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079pf" .
+<Professional_Sports_Team> <freebase.type_hints.included_types> "Topic" .
+<University_of_Nevada,_Las_Vegas> <education.educational_institution_campus.educational_institution> "University of Nevada, Las Vegas" .
+<m.0dl37x6> <baseball.baseball_team_stats.season> "2010 Major League Baseball season" .
+<National_League> <business.employer.employees> "m.0wlytp8" .
+<Texas_Rangers> <common.topic.notable_types> "Professional Sports Team" .
+<Brad_Hennessey> <sports.drafted_athlete.drafted> "m.04w1v57" .
+<San_Francisco> <architecture.architectural_structure_owner.structures_owned> "m.075ff2m" .
+<m.05n6605> <baseball.baseball_team_stats.team> "New York Giants" .
+<California_State_University,_Fullerton> <education.educational_institution_campus.educational_institution> "California State University, Fullerton" .
+<Pepperdine_University> <education.educational_institution_campus.educational_institution> "Pepperdine University" .
+<Adam_Hyzdu> <sports.drafted_athlete.drafted> "m.04vy326" .
+<m.05n69_j> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n680j" .
+<m.05n6fpw> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.05n68db> <baseball.baseball_team_stats.team> "New York Giants" .
+<2010_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n68v0" .
+<Baseball_League> <freebase.type_hints.included_types> "Topic" .
+<National_League> <sports.sports_league.teams> "m.0crt7bg" .
+<Professional_Sports_Team> <freebase.type_profile.strict_included_types> "Topic" .
+<Polo_Grounds> <location.location.events> "1922 World Series" .
+<Charo_Ronquillo> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Chicago_Cubs> <common.topic.notable_types> "Professional Sports Team" .
+<m.0w_jzv2> <sports.team_venue_relationship.venue> "AT&T Park" .
+<Colorado_Rockies> <baseball.baseball_team.league> "National League" .
+<2002_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1vl_" .
+<2012_Major_League_Baseball_season> <sports.sports_league_season.championship> "2012 World Series" .
+<1923_World_Series> <time.event.locations> "Polo Grounds" .
+<Bruce_Bochy> <baseball.baseball_manager.current_team_managed> "San Francisco Giants" .
+<Marietta_College> <education.educational_institution.campuses> "Marietta College" .
+<1921_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<m.0hn_d6k> <business.employment_tenure.company> "National League" .
+<m.0wj216x> <business.employment_tenure.company> "National League" .
+<National_League> <business.employer.employees> "m.0whw58q" .
+<m.0gx65w5> <business.employment_tenure.company> "National League" .
+<1996_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1s2s" .
+<Dodgers–Giants_rivalry> <base.rivalries.rivalry.rival> "New York Giants" .
+<Candlestick_Park> <film.film_location.featured_in_films> "Freebie and the Bean" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n68jq" .
+<m.04vwvh1> <sports.sports_league_draft_pick.player> "Gary Matthews" .
+<m.0crt7cg> <sports.sports_league_participation.league> "National League" .
+<Madison_Bumgarner> <people.person.nationality> "United States of America" .
+<2014_Major_League_Baseball_season> <time.event.next_in_series> "2015 Major League Baseball season" .
+<Polo_Grounds> <common.topic.notable_types> "Sports Facility" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n65hk" .
+<San_Francisco_Giants> <sports.sports_team.previously_known_as> "New York Gothams" .
+<Washington_Nationals> <baseball.baseball_team.league> "National League" .
+<University_of_Washington> <location.location.containedby> "United States of America" .
+<1913_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<Bruce_Bochy> <baseball.baseball_player.lifetime_batting_statistics> "m.09kq4xm" .
+<Adam_Hyzdu> <common.topic.notable_types> "Baseball Player" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6d4c" .
+<m.05n66bx> <baseball.baseball_team_stats.team> "New York Giants" .
+<Bill_Neukom> <people.person.employment_history> "m.0y4rnv0" .
+<m.0whwtf3> <business.employment_tenure.company> "National League" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6cdf" .
+<Muthu_Tharanga> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<m.04w1xql> <sports.sports_league_draft_pick.player> "Madison Bumgarner" .
+<Orange> <common.topic.article> "m.0jc__" .
+<Sports_League_Season> <freebase.type_profile.kind> "Definition" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66gm" .
+<Pittsburgh_Pirates> <sports.sports_team.league> "m.0crt7cg" .
+<Pittsburgh_Pirates> <sports.sports_team.sport> "Baseball" .
+<1905_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<Bruce_Bochy> <people.person.children> "Greg Bochy" .
+<San_Francisco_Giants> <base.ontologies.ontology_instance.equivalent_instances> "m.07nfvgp" .
+<Hilltop_Park> <common.topic.notable_for> "g.125b9dtk5" .
+<Rick_Luecken> <common.topic.notable_types> "Baseball Player" .
+<1968_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwvh1" .
+<Baseball_Player> <freebase.type_profile.equivalent_topic> "Baseball player" .
+<m.05n67w7> <baseball.baseball_team_stats.team> "New York Giants" .
+<Matt_Williams> <people.person.profession> "Coach" .
+<Texas_Rangers> <sports.sports_team.sport> "Baseball" .
+<National_League> <sports.sports_league.teams> "m.0crt7gs" .
+<1974_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<m.05n6cr0> <baseball.baseball_team_stats.season> "1986 Major League Baseball Season" .
+<San_Francisco_Giants> <sports.sports_team.venue> "m.0x1wcv3" .
+<m.05n69l5> <baseball.baseball_team_stats.season> "1958 Major League Baseball Season" .
+<m.04w1xsz> <sports.sports_league_draft_pick.player> "Wendell Fairley" .
+<Hilltop_Park> <common.topic.image> "Hilltop Park" .
+<University_of_Nevada,_Las_Vegas> <location.location.containedby> "United States of America" .
+<Professional_Sports_Team> <freebase.type_profile.kind> "Definition" .
+<National_League_West> <sports.sports_league.teams> "m.0crtd77" .
+<Tim_Alderson> <sports.drafted_athlete.drafted> "m.04w1xs2" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy293" .
+<Colorado_Rockies> <common.topic.notable_types> "Professional Sports Team" .
+<Noah_Lowry> <people.person.gender> "Male" .
+<Polo_Grounds> <location.location.containedby> "Eighth Avenue" .
+<Polo_Grounds> <common.topic.article> "m.02mjnt" .
+<m.04w1w0t> <sports.sports_league_draft_pick.draft> "2003 Major League Baseball Draft" .
+<Eric_Christopherson> <sports.drafted_athlete.drafted> "m.04vy32q" .
+<m.05n6ftt> <baseball.baseball_team_stats.season> "2007 Major League Baseball season" .
+<Kansas_City_Royals> <common.topic.notable_types> "Professional Sports Team" .
+<2012_World_Series> <freebase.valuenotation.is_reviewed> "Start date" .
+<m.0j6tpdh> <people.marriage.spouse> "Bruce Bochy" .
+<San_Diego_Padres> <common.topic.notable_types> "Professional Sports Team" .
+<m.0crt7mg> <sports.sports_league_participation.league> "National League" .
+<m.06pfpv3> <baseball.batting_statistics.team> "San Diego Padres" .
+<Polo_Grounds> <location.location.events> "1934 Major League Baseball All-Star Game" .
+<Bruce_Bochy> <people.person.profession> "Coach" .
+<AT&T_Park> <location.location.events> "2012 Kraft Fight Hunger Bowl" .
+<m.0gb258f> <business.employment_tenure.company> "National League" .
+<National_League> <business.employer.employees> "m.0wh19gl" .
+<m.0gv1q_p> <business.employment_tenure.company> "National League" .
+<New_York_Gothams> <sports.defunct_sports_team.sport> "Baseball" .
+<National_League> <business.employer.employees> "m.0gl1kl3" .
+<Al_Gallagher> <people.person.profession> "Baseball player" .
+<m.05n6643> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.010brjkc> <base.schemastaging.phone_sandbox.service_language> "English Language" .
+<m.05n6chh> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Owner(s)> <rdf-schema#domain> "Professional Sports Team" .
+<m.04vwttf> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<National_League> <sports.sports_league.teams> "m.0crt7c2" .
+<1922_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<Candlestick_Park> <location.location.time_zones> "Pacific Time Zone" .
+<m.05n6dmr> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Polo_Grounds> <location.location.events> "Shot Heard 'Round the World" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6cp1" .
+<m.06pfq0m> <baseball.batting_statistics.team> "San Diego Padres" .
+<Peter_A._Magowan> <people.person.gender> "Male" .
+<2010_World_Series> <sports.sports_championship_event.runner_up> "Texas Rangers" .
+<1923_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<National_League> <baseball.baseball_league.teams> "Miami Marlins" .
+<2014_World_Series> <sports.sports_championship_event.runner_up> "Kansas City Royals" .
+<1966_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwttf" .
+<Bruce_Bochy> <baseball.baseball_player.batting_stats> "m.06pfpn2" .
+<m.05n65k9> <baseball.baseball_team_stats.team> "New York Giants" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "Hilltop Park" .
+<2012_Kraft_Fight_Hunger_Bowl> <time.event.locations> "AT&T Park" .
+<1921_World_Series> <sports.sports_championship_event.champion> "New York Giants" .
+<2006_Emerald_Bowl> <time.event.locations> "AT&T Park" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69ys" .
+<Major_League_Baseball> <sports.sports_league.seasons> "2012 Major League Baseball season" .
+<National_League> <sports.sports_league.teams> "m.0crt7ct" .
+<m.05n6d4c> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.05n6cp1> <baseball.baseball_team_stats.season> "1985 Major League Baseball season" .
+<AT&T_Park> <location.location.events> "2011 Kraft Fight Hunger Bowl" .
+<1933_World_Series> <time.event.locations> "Polo Grounds" .
+<m.04w1tcm> <sports.sports_league_draft_pick.player> "Kurt Ainsworth" .
+<National_League_West> <common.topic.article> "m.07fdfx" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1xs2" .
+<m.0x1wcv3> <sports.team_venue_relationship.team> "San Francisco Giants" .
+<Philadelphia_Phillies> <sports.sports_team.sport> "Baseball" .
+<m.09kq4xm> <baseball.lifetime_batting_statistics.last_statistics_season> "1987 Major League Baseball Season" .
+<University_of_Tennessee> <education.educational_institution.colors> "Orange" .
+<1924_World_Series> <sports.sports_championship_event.runner_up> "New York Giants" .
+<National_League> <business.employer.employees> "m.0hv_lsb" .
+<National_League> <business.employer.employees> "m.0gv0r6n" .
+<Sun_City_Carnival_Tour,_San_Francisco,_CA_Concert> <time.event.locations> "AT&T Park" .
+<m.04w1x4c> <sports.sports_league_draft_pick.school> "University of Washington" .
+<2011–12_NFL_playoffs> <time.event.locations> "Candlestick Park" .
+<1968_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<2010_Major_League_Baseball_season> <common.topic.image> "Target Field April 2010" .
+<m.010q_p9h> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<Ron_Schueler> <people.person.profession> "Baseball player" .
+<m.0k2_6kx> <base.schemastaging.team_training_ground_relationship.facility> "Polo Grounds" .
+<Polo_Grounds_I> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079qm" .
+<1905_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<Noah_Lowry> <common.topic.notable_types> "Baseball Player" .
+<Dusty_Baker> <people.person.profession> "Baseball player" .
+<Hilltop_Park> <location.location.street_address> "m.04hvw73" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n68sy" .
+<1975_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<Jason_Grilli> <people.person.profession> "Baseball player" .
+<Tim_Flannery> <people.person.profession> "Baseball player" .
+<2002_Major_League_Baseball_Season> <sports.sports_league_season.championship> "2002 World Series" .
+<Polo_Grounds> <location.location.events> "1905 World Series" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "Candlestick Park" .
+<2012_Major_League_Baseball_season> <time.event.participant> "San Francisco Giants" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Muthu Tharanga" .
+<m.05n6b_j> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Bruce_Bochy> <common.topic.notable_types> "Baseball Player" .
+<2012_World_Series> <common.topic.article> "m.0ds8qcy" .
+<m.0gw2qfj> <business.employment_tenure.company> "National League" .
+<1996_Major_League_Baseball_Season> <time.event.next_in_series> "1997 Major League Baseball Season" .
+<m.05n6943> <baseball.baseball_team_stats.team> "New York Giants" .
+<Frank_Riccelli> <common.topic.notable_types> "Baseball Player" .
+<m.05n6c7m> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<San_Francisco_Giants> <common.topic.article> "m.07141" .
+<New_York_Mets> <base.schemastaging.sports_team_extra.training_ground> "m.0k03zbd" .
+<Mississippi_State_University> <education.educational_institution_campus.educational_institution> "Mississippi State University" .
+<m.010q_p9h> <sports.sports_league_draft_pick.draft> "2014 Major League Baseball season" .
+<Calvin_Murray> <people.person.profession> "Baseball player" .
+<Candlestick_Point_State_Recreation_Area> <symbols.name_source.namesakes> "Candlestick Park" .
+<Syracuse_Stars> <sports.sports_team.league> "m.0crt7g4" .
+<1996_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<Matt_Williams> <people.person.gender> "Male" .
+<Los_Angeles_Dodgers> <sports.sports_team.sport> "Baseball" .
+<National_League> <business.employer.employees> "m.0s8skc6" .
+<m.010brjkc> <base.schemastaging.phone_sandbox.caller_category> "Consumer Service" .
+<St._George_Cricket_Grounds> <sports.sports_facility.teams> "New York Giants" .
+<National_League> <business.employer.employees> "m.0gb258f" .
+<m.09w81b7> <common.webpage.topic> "San Francisco Giants" .
+<Sports_League_Championship_Event> <freebase.type_hints.included_types> "Topic" .
+<Polo_Grounds> <sports.sports_facility.teams> "New York Giants" .
+<San_Francisco_49ers> <sports.sports_team.venue> "m.0n9gjdd" .
+<m.0k079q4> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<m.05n69my> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Adam_Hyzdu> <people.person.gender> "Male" .
+<m.04vy2qp> <sports.sports_league_draft_pick.player> "Steve Hosey" .
+<2008_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<1975_Major_League_Baseball_Season> <time.event.next_in_series> "1976 Major League Baseball Season" .
+<Alan_Cockrell> <people.person.profession> "Baseball player" .
+<AT&T_Park> <location.location.events> "2008 Emerald Bowl" .
+<Major_League_Baseball> <organization.organization.child> "m.0ck2dsc" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Micaela Reis" .
+<Candlestick_Park> <business.sponsored_recipient.sponsorship> "m.03p966n" .
+<m.05n6dtn> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<1995_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy4xh" .
+<Washington_Nationals> <common.topic.notable_types> "Professional Sports Team" .
+<m.0crtd80> <sports.sports_league_participation.league> "National League West" .
+<Rick_Luecken> <people.person.gender> "Male" .
+<1917_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<Polo_Grounds_II> <common.topic.notable_types> "Venue" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079qc" .
+<m.05n6b3x> <baseball.baseball_team_stats.season> "1967 Major League Baseball Season" .
+<Peter_A._Magowan> <people.person.employment_history> "m.04knm9b" .
+<Lou_Seal> <common.topic.image> "Lou seal giants mascot" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwycv" .
+<Dodgers–Giants_rivalry> <base.rivalries.rivalry.rival> "Brooklyn Dodgers" .
+<St._George_Cricket_Grounds> <common.topic.image> "StGeorgeCricketGrounds1" .
+<San_Francisco> <sports.sports_team_location.teams> "San Francisco 49ers" .
+<The_Old_Ball_Game:_How_John_McGraw,_Christy_Mathewson,_and_the_New_York_Giants_Created_Modern_Baseball> <book.written_work.subjects> "Baseball" .
+<m.0gmj3vg> <business.employment_tenure.company> "National League" .
+<Los_Angeles_Angels_of_Anaheim> <sports.professional_sports_team.draft_picks> "m.010r3xsl" .
+<1973_Major_League_Baseball_Season> <time.event.previous_in_series> "1972 Major League Baseball Season" .
+<1970_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<1978_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwz4x" .
+<m.0wkx11x> <business.employment_tenure.company> "National League" .
+<m.04w1xs2> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<National_League> <business.employer.employees> "m.0wkc_7g" .
+<San_Francisco_Giants> <sports.sports_team.location> "San Francisco" .
+<m.05n6flc> <baseball.baseball_team_stats.season> "2005 Major League Baseball season" .
+<m.05n67l1> <baseball.baseball_team_stats.team> "New York Giants" .
+<Hilltop_Park> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079pz" .
+<m.07nfvgp> <base.ontologies.ontology_instance_mapping.freebase_topic> "San Francisco Giants" .
+<Texas_Rangers> <sports.sports_team.arena_stadium> "Rangers Ballpark in Arlington" .
+<San_Francisco_Giants> <sports.sports_team.team_mascot> "Crazy Crab" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69sr" .
+<Lou-Seal.jpg> <common.image.appears_in_topic_gallery> "Lou Seal" .
+<Venue> <freebase.type_hints.included_types> "Topic" .
+<United_States_of_America> <location.location.time_zones> "Eastern Time Zone" .
+<1987_Major_League_Baseball_Season> <time.event.next_in_series> "1988 Major League Baseball Season" .
+<Polo_Grounds> <location.location.events> "1923 World Series" .
+<National_League> <business.employer.employees> "m.0gk7ykt" .
+<National_League> <business.employer.employees> "m.0gmhps0" .
+<Language> <rdf-schema#domain> "Localized URI" .
+<Steve_Hosey> <common.topic.notable_types> "Baseball Player" .
+<New_York_Times> <common.resource.annotations> "m.04226rk" .
+<1989_Major_League_Baseball_Season> <sports.sports_league_season.championship> "1989 World Series" .
+<Kurt_Ainsworth> <people.person.gender> "Male" .
+<National_League> <sports.sports_league.teams> "m.0crt7g4" .
+<Mark_Gardner> <people.person.profession> "Baseball player" .
+<m.0crtd7p> <sports.sports_league_participation.team> "Arizona Diamondbacks" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n67rj" .
+<National_League> <sports.sports_league.teams> "m.0crt7yh" .
+<m.04vwwym> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<2014_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0gl1qtd> <business.employment_tenure.company> "National League" .
+<Candlestick_Park> <sports.sports_facility.teams> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy42h" .
+<1989_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<2010_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<m.06pfq0m> <baseball.batting_statistics.player> "Bruce Bochy" .
+<New_York_Gothams> <sports.defunct_sports_team.active> "m.05kycm6" .
+<Orange> <base.roses.rose_color.roses_of_this_color> "Rosa 'Chippendale'" .
+<m.010brjkc> <freebase.valuenotation.is_reviewed> "Hearing impaired" .
+<m.05n6d1j> <baseball.baseball_team_stats.season> "1990 Major League Baseball Season" .
+<Milwaukee_Brewers> <baseball.baseball_team.league> "National League" .
+<1912_World_Series> <sports.sports_championship_event.runner_up> "New York Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwvh1" .
+<San_Francisco> <location.location.containedby> "United States of America" .
+<1933_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0crt7ct> <sports.sports_league_participation.team> "New York Mets" .
+<m.0w_jy5x> <sports.team_venue_relationship.venue> "Polo Grounds" .
+<Hilltop_Park> <common.topic.article> "m.039nj4" .
+<Kurt_Ainsworth> <people.person.profession> "Baseball player" .
+<Seals_Stadium> <common.topic.notable_for> "g.1257tm2w2" .
+<m.0gmhps0> <business.employment_tenure.company> "National League" .
+<m.0w_jqq9> <sports.team_venue_relationship.venue> "Candlestick Park" .
+<University_of_Nebraska–Lincoln> <location.location.containedby> "United States of America" .
+<m.05n6bdf> <baseball.baseball_team_stats.season> "1970 Major League Baseball Season" .
+<Brett_Bochy> <people.person.gender> "Male" .
+<National_League> <business.employer.employees> "m.0gv179v" .
+<1905_World_Series> <sports.sports_championship_event.champion> "New York Giants" .
+<2007_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1xs2" .
+<Chicago_Cubs> <sports.sports_team.sport> "Baseball" .
+<m.0gv179v> <business.employment_tenure.company> "National League" .
+<National_League_West> <organization.organization.parent> "m.0ck2dtp" .
+<Draft_Picks> <type.property.master_property> "Team" .
+<Bill_Hayes> <common.topic.notable_types> "Baseball Player" .
+<Bill_Neukom> <people.person.education> "m.0n0kvkq" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Muzammil Ibrahim" .
+<m.04vwxt7> <sports.sports_league_draft_pick.school> "Jacksonville State University" .
+<m.0crt7br> <sports.sports_league_participation.league> "National League" .
+<Outstanding_Team_ESPY_Award> <award.award_category.nominees> "m.0z2pd9m" .
+<Noah_Lowry> <people.person.profession> "Baseball player" .
+<1964_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<m.04vwxt7> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Dartmouth_College> <education.educational_institution.campuses> "Dartmouth College" .
+<Polo_Grounds> <location.location.events> "1954 World Series" .
+<Tim_Flannery> <common.topic.notable_types> "Baseball Player" .
+<1999_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<m.05n6fby> <baseball.baseball_team_stats.season> "2003 Major League Baseball season" .
+<2012_Major_League_Baseball_season> <time.event.previous_in_series> "2011 Major League Baseball season" .
+<1974_Major_League_Baseball_Season> <time.event.previous_in_series> "1973 Major League Baseball Season" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n67mt" .
+<National_League> <sports.sports_league.teams> "m.0crt7t1" .
+<Will_Clark> <common.topic.notable_types> "Baseball Player" .
+<San_Francisco_Giants> <baseball.baseball_team.current_manager> "Bruce Bochy" .
+<William_Hulbert> <people.person.gender> "Male" .
+<Foster_Farms_Bowl> <base.bowlgames.bowl_game.stadium> "AT&T Park" .
+<m.0crtd80> <sports.sports_league_participation.team> "San Francisco Giants" .
+<m.04vwz4x> <sports.sports_league_draft_pick.draft> "1978 Major League Baseball Draft" .
+<Dante_Powell> <common.topic.notable_types> "Baseball Player" .
+<First_Base_Coach> <baseball.baseball_coaching_position.current_coaches> "m.0527d0k" .
+<m.0n4jf2q> <sports.sports_award.season> "2012 Major League Baseball season" .
+<2012_World_Series> <common.topic.notable_for> "g.125fqv3d3" .
+<1962_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<Candlestick_Park> <location.location.containedby> "San Francisco" .
+<1999_Major_League_Baseball_Season> <time.event.previous_in_series> "1998 Major League Baseball Season" .
+<Orange> <base.roses.rose_color.roses_of_this_color> "Rosa 'Dame of Sark'" .
+<m.0w_jyj4> <sports.team_venue_relationship.team> "New York Giants" .
+<m.0527cyq> <baseball.current_coaching_tenure.baseball_coach> "Tim Flannery" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n699v" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n6943" .
+<San_Francisco_Giants> <baseball.baseball_team.historical_managers> "m.052w1bg" .
+<m.0gltz1_> <business.employment_tenure.company> "National League" .
+<Sports> <type.domain.types> "Sports League Championship Event" .
+<National_League> <business.employer.employees> "m.0gx8gn7" .
+<Rick_Luecken> <people.person.profession> "Baseball player" .
+<California_State_University,_Fresno> <location.location.containedby> "United States of America" .
+<University_of_Nebraska–Lincoln> <education.educational_institution_campus.educational_institution> "University of Nebraska–Lincoln" .
+<m.05n6f44> <baseball.baseball_team_stats.season> "2001 Major League Baseball Season" .
+<AT&T_Park> <architecture.structure.architecture_firm> "Populous" .
+<National_League> <business.employer.employees> "m.0hhyxhx" .
+<1998_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1swd" .
+<Staten_Island> <location.location.containedby> "United States of America" .
+<San_Francisco> <location.administrative_division.country> "United States of America" .
+<Jason_Grilli> <common.topic.notable_types> "Baseball Player" .
+<Dusty_Baker> <people.person.profession> "Coach" .
+<William_Hulbert> <people.person.nationality> "United States of America" .
+<m.0hhz8bh> <business.employment_tenure.company> "National League" .
+<Comerica_Park> <architecture.structure.architecture_firm> "Populous" .
+<University_of_Texas_at_Austin> <education.educational_institution_campus.educational_institution> "University of Texas at Austin" .
+<m.010vxy7j> <business.employment_tenure.company> "National League" .
+<m.04vwwn6> <sports.sports_league_draft_pick.player> "Frank Riccelli" .
+<2002_World_Series> <time.event.locations> "AT&T Park" .
+<m.05n66k0> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.05n65p7> <baseball.baseball_team_stats.team> "New York Giants" .
+<Pepperdine_University> <education.educational_institution.colors> "Orange" .
+<m.0527d1b> <baseball.current_coaching_tenure.baseball_coach> "Dave Righetti" .
+<1924_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<San_Francisco> <sports.sports_team_location.teams> "San Francisco Giants" .
+<m.05n6879> <baseball.baseball_team_stats.team> "New York Giants" .
+<San_Francisco_Giants> <business.employer.employees> "m.04lrc4c" .
+<Gold> <common.topic.article> "m.01l84l" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6cxh" .
+<Mark_Grant> <common.topic.notable_types> "Baseball Player" .
+<Mike_Phillips> <common.topic.notable_types> "Baseball Player" .
+<1989_World_Series> <time.event.locations> "Candlestick Park" .
+<Detroit_Tigers> <sports.sports_team.arena_stadium> "Comerica Park" .
+<Candlestick_Park> <location.location.events> "2014 USA vs. Azerbaijan football match" .
+<Freebie_and_the_Bean> <film.film.featured_film_locations> "San Francisco" .
+<1975_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vwxt7" .
+<Brett_Bochy> <people.person.profession> "Baseball player" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n67zs" .
+<m.011zsc4_> <organization.leadership.organization> "San Francisco Giants" .
+<m.0w_jyj4> <sports.team_venue_relationship.venue> "St. George Cricket Grounds" .
+<1969_Major_League_Baseball_Season> <time.event.next_in_series> "1970 Major League Baseball Season" .
+<David_Aardsma> <people.person.nationality> "United States of America" .
+<2014_World_Series> <common.topic.notable_for> "g.11b5pgvyp1" .
+<Mark_Grant> <people.person.profession> "Baseball player" .
+<1951_World_Series> <sports.sports_championship_event.runner_up> "New York Giants" .
+<New_York_Gothams> <baseball.baseball_team.team_stats> "m.05n6596" .
+<m.0crt7qm> <sports.sports_league_participation.league> "National League" .
+<National_League> <sports.sports_league.teams> "m.0crt7q_" .
+<m.0n0kvkq> <education.education.student> "Bill Neukom" .
+<m.0crt7jk> <sports.sports_league_participation.league> "National League" .
+<m.0crt7qm> <sports.sports_league_participation.team> "New York Gothams" .
+<m.04vwz4x> <sports.sports_league_draft_pick.player> "Bob Cummings" .
+<m.0xn04tf> <sports.team_venue_relationship.venue> "Polo Grounds" .
+<AT&T_Park> <sports.sports_facility.teams> "San Francisco Giants" .
+<1911_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<Bill_Neukom> <common.topic.notable_types> "Sports Team Owner" .
+<AT&T_Park> <location.location.events> "2003 San Francisco Bowl" .
+<Alan_Cockrell> <sports.drafted_athlete.drafted> "m.04vx0x_" .
+<m.04vy1xn> <sports.sports_league_draft_pick.draft> "1987 Major League Baseball Draft" .
+<m.05n69dx> <baseball.baseball_team_stats.team> "New York Giants" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n65v1" .
+<Scott_Garrelts> <people.person.profession> "Baseball player" .
+<m.04w1xql> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Black> <common.topic.notable_types> "Color" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66y8" .
+<m.04w1swd> <sports.sports_league_draft_pick.draft> "1998 Major League Baseball Draft" .
+<Contact_webpages> <type.property.schema> "Organization extra" .
+<National_League> <business.employer.employees> "m.0gv1q_p" .
+<Dodgers–Giants_rivalry> <base.rivalries.rivalry.rival> "San Francisco Giants" .
+<1951_World_Series> <time.event.locations> "Polo Grounds" .
+<San_Diego_Padres> <baseball.baseball_team.historical_managers> "m.0j7zl02" .
+<m.0crtd8j> <sports.sports_league_participation.league> "National League West" .
+<m.04hvw73> <location.mailing_address.citytown> "New York City" .
+<National_League> <business.employer.employees> "m.0gmhpkk" .
+<University_of_Tennessee> <education.educational_institution.campuses> "University of Tennessee" .
+<1911_World_Series> <sports.sports_championship_event.runner_up> "New York Giants" .
+<Foster_Farms_Bowl> <time.recurring_event.instances> "2006 Emerald Bowl" .
+<Sports> <type.domain.types> "Mascot" .
+<Cincinnati_Reds> <baseball.baseball_team.league> "National League" .
+<2002_San_Francisco_Bowl> <time.event.instance_of_recurring_event> "Foster Farms Bowl" .
+<Orange> <base.roses.rose_color.roses_of_this_color> "Rosa 'Avocet'" .
+<Ron_Schueler> <people.person.gender> "Male" .
+<Baseball_Player> <freebase.type_profile.strict_included_types> "Topic" .
+<Tim_Flannery> <people.person.gender> "Male" .
+<Washington_Nationals> <baseball.baseball_team.current_manager> "Matt Williams" .
+<San_Francisco_Giants> <baseball.baseball_team.division> "National League West" .
+<m.05n65bj> <baseball.baseball_team_stats.team> "New York Giants" .
+<Dodgers–Giants_rivalry> <base.rivalries.rivalry.kind_of_rivalry> "Baseball" .
+<m.0crt7fc> <sports.sports_league_participation.league> "National League" .
+<Syracuse_Stars> <baseball.baseball_team.league> "National League" .
+<m.04lrc4c> <business.employment_tenure.company> "San Francisco Giants" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6c7m" .
+<Arturo_McDowell> <people.person.gender> "Male" .
+<Brad_Hennessey> <people.person.profession> "Baseball player" .
+<2005_Emerald_Bowl> <time.event.locations> "AT&T Park" .
+<Carney_Lansford> <people.person.profession> "Baseball player" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Kang Seung-hyun" .
+<National_League_West> <sports.sports_league.sport> "Baseball" .
+<m.0y_rn4y> <award.award_nomination.ceremony> "2013 ESPY Awards" .
+<Calvin_Murray> <sports.drafted_athlete.drafted> "m.04vy3r2" .
+<Bullpen_Catcher_Coach> <baseball.baseball_coaching_position.current_coaches> "m.0527d13" .
+<San_Francisco_Giants> <sports.sports_team.colors> "Orange" .
+<Chicago_Cubs> <sports.sports_team.league> "m.0crt7f4" .
+<National_League> <organization.organization.founders> "Albert Goodwill Spalding" .
+<Johnnie_LeMaster> <people.person.profession> "Baseball player" .
+<AT&T_Park> <location.location.events> "Sun City Carnival Tour, San Francisco, CA Concert" .
+<Steve_Stanicek> <common.topic.notable_types> "Baseball Player" .
+<m.04w1sx4> <sports.sports_league_draft_pick.school> "Penn State Nittany Lions football" .
+<National_League> <sports.sports_league.teams> "m.0crt7qm" .
+<m.0z2pd9m> <award.award_nomination.award_nominee> "San Francisco Giants" .
+<Miami_Marlins> <sports.sports_team.colors> "Black" .
+<St._George_Cricket_Grounds> <sports.sports_facility.teams> "San Francisco Giants" .
+<Cream> <base.schemastaging.context_name.pronunciation> "g.125_r6vwy" .
+<Ted_Barnicle> <people.person.gender> "Male" .
+<Matt_Williams> <baseball.baseball_manager.current_team_managed> "Washington Nationals" .
+<Tim_Alderson> <people.person.nationality> "United States of America" .
+<San_Francisco_Giants> <common.topic.webpage> "m.09w81b7" .
+<m.0527cyq> <baseball.current_coaching_tenure.coaching_position> "Third Base Coach" .
+<Dusty_Baker> <people.person.nationality> "United States of America" .
+<Teams_Owned> <type.property.expected_type> "Professional Sports Team" .
+<m.06pfpss> <baseball.batting_statistics.season> "1982 Major League Baseball Season" .
+<m.0crt7cg> <sports.sports_league_participation.team> "Pittsburgh Pirates" .
+<m.04m2rx3> <business.employment_tenure.person> "Brian Sabean" .
+<San_Diego_Padres> <sports.sports_team.league> "m.0crt7fc" .
+<Washington_Nationals> <sports.sports_team.league> "m.0crt79k" .
+<Crazy_Crab> <common.topic.notable_types> "Mascot" .
+<m.04vwywv> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<1922_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<m.04w1v57> <sports.sports_league_draft_pick.school> "Youngstown State University" .
+<1965_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vws61" .
+<10301> <location.location.containedby> "Staten Island" .
+<2012_Major_League_Baseball_season> <common.topic.notable_for> "g.125cvd8mm" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Thursday closing time" .
+<m.04knm9b> <business.employment_tenure.title> "Managing General Partner" .
+<Brett_Bochy> <people.person.parents> "Bruce Bochy" .
+<m.04vx0zw> <sports.sports_league_draft_pick.player> "Terry Mulholland" .
+<Chris_Tiu> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Mark_Grant> <people.person.gender> "Male" .
+<Bob_Reynolds> <common.topic.notable_types> "Baseball Player" .
+<m.0gl1kl3> <business.employment_tenure.company> "National League" .
+<1985_Major_League_Baseball_season> <time.event.previous_in_series> "1984 Major League Baseball Season" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n65n4" .
+<Dave_Righetti> <baseball.baseball_coach.current_team_coaching> "m.0527d1b" .
+<m.05n69k1> <baseball.baseball_team_stats.team> "New York Giants" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n67f0" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n6605" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Monday open time" .
+<m.04vy3r2> <sports.sports_league_draft_pick.school> "University of Texas at Austin" .
+<2009_Emerald_Bowl> <time.event.locations> "AT&T Park" .
+<m.04vx0zw> <sports.sports_league_draft_pick.draft> "1984 Major League Baseball Draft" .
+<National_League> <business.employer.employees> "m.0hhz4v4" .
+<1954_World_Series> <time.event.locations> "Polo Grounds" .
+<Jason_Grilli> <people.person.gender> "Male" .
+<Orange> <common.topic.notable_for> "g.125h4lt_3" .
+<National_League> <business.employer.employees> "m.0gv_kdl" .
+<San_Francisco_Giants> <time.participant.event> "2012 Major League Baseball season" .
+<1999_Major_League_Baseball_Season> <time.event.next_in_series> "2000 Major League Baseball season" .
+<1937_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<1961_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527d03" .
+<m.04w1v6c> <sports.sports_league_draft_pick.player> "Noah Lowry" .
+<Bruce_Bochy> <people.person.gender> "Male" .
+<San_Francisco> <base.biblioness.bibs_location.country> "United States of America" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n67w7" .
+<San_Diego_Padres> <sports.sports_team.league> "m.0crtd8b" .
+<m.04w1sd8> <sports.sports_league_draft_pick.school> "Seton Hall University" .
+<Cream> <base.roses.rose_color.roses_of_this_color> "Rosa 'Joanna Hill'" .
+<National_League> <business.employer.employees> "m.0hhzwjv" .
+<2012_World_Series> <time.event.participant> "San Francisco Giants" .
+<Quiana_Grant> <people.person.nationality> "United States of America" .
+<1917_World_Series> <sports.sports_championship_event.runner_up> "New York Giants" .
+<m.0crtd7p> <sports.sports_league_participation.league> "National League West" .
+<m.0k079qm> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "AT&T Park" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n68q2" .
+<Candlestick_Park> <business.sponsored_recipient.sponsorship> "m.03p9638" .
+<m.04vwvtp> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<San_Francisco_49ers> <sports.sports_team.colors> "Gold" .
+<New_York_City> <location.hud_county_place.county> "Staten Island" .
+<New_York_Giants> <common.topic.notable_for> "g.1259rkmgf" .
+<National_League> <sports.sports_league.teams> "m.0crt7z6" .
+<Cream> <common.topic.article> "m.04fny5" .
+<m.05n6cr0> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<1967_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527d1b" .
+<National_League> <sports.sports_league.teams> "m.0crt7rm" .
+<m.010brg8l> <freebase.valuenotation.is_reviewed> "URI" .
+<Tony_Torcato> <common.topic.notable_types> "Baseball Player" .
+<Boof_Bonser> <people.person.nationality> "United States of America" .
+<m.04vw__f> <sports.sports_league_draft_pick.school> "University of Nebraska–Lincoln" .
+<1922_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<1975_Major_League_Baseball_Season> <time.event.previous_in_series> "1974 Major League Baseball Season" .
+<Miami_Marlins> <common.topic.notable_types> "Professional Sports Team" .
+<m.0crt79z> <sports.sports_league_participation.team> "Arizona Diamondbacks" .
+<m.0crt7vw> <sports.sports_league_participation.league> "National League" .
+<National_League> <sports.sports_league.teams> "m.0crt79d" .
+<Polo_Grounds> <sports.sports_facility.teams> "San Francisco Giants" .
+<Colorado_Rockies> <sports.sports_team.league> "m.0crtd8j" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Vanya Seager" .
+<m.05n6c4s> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.04w1sx4> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.04vwzl_> <sports.sports_league_draft_pick.player> "Rick Luecken" .
+<National_League> <business.employer.employees> "m.0gmjj6h" .
+<National_League> <baseball.baseball_league.divisions> "National League West" .
+<m.05n6cdf> <baseball.baseball_team_stats.season> "1982 Major League Baseball Season" .
+<m.05n6ct6> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Major_League_Baseball> <sports.sports_league.championship> "World Series" .
+<Bill_Neukom> <people.person.place_of_birth> "San Mateo" .
+<Bruce_Bochy> <common.topic.article> "m.06v0wq" .
+<m.05n6fy2> <baseball.baseball_team_stats.season> "2008 Major League Baseball season" .
+<Mark_Gardner> <baseball.baseball_coach.current_team_coaching> "m.0527d0s" .
+<2012_NFC_Championship_Game> <freebase.valuenotation.is_reviewed> "Start date" .
+<m.0hnzr64> <business.employment_tenure.company> "National League" .
+<m.0ck2dsc> <organization.organization_relationship.parent> "Major League Baseball" .
+<m.0wlytp8> <business.employment_tenure.company> "National League" .
+<m.06pfpzv> <baseball.batting_statistics.season> "1986 Major League Baseball Season" .
+<2012_Major_League_Baseball_season> <time.event.locations> "Tokyo Dome" .
+<2008_Emerald_Bowl> <time.event.instance_of_recurring_event> "Foster Farms Bowl" .
+<Comerica_Park> <location.location.events> "2012 World Series" .
+<Cream> <common.topic.notable_for> "g.125fh9zv8" .
+<m.0dl3192> <sports.sports_team_season_record.season> "2010 Major League Baseball season" .
+<Brad_Hennessey> <common.topic.notable_types> "Baseball Player" .
+<m.0glwt2h> <business.employment_tenure.company> "National League" .
+<Candlestick_Park> <location.location.events> "2012–13 NFL playoffs" .
+<m.05n6czg> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.05n6b62> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.05n69q3> <baseball.baseball_team_stats.season> "1960 Major League Baseball Season" .
+<m.09kmdg4> <base.ontologies.ontology_instance_mapping.ontology> "OpenCyc" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n65x0" .
+<m.0527d1b> <baseball.current_coaching_tenure.coaching_position> "Pitching Coach" .
+<1966_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<Dave_Righetti> <people.person.gender> "Male" .
+<National_League_Central> <organization.organization.parent> "m.0ck2dt_" .
+<m.0n9gjdm> <sports.team_venue_relationship.team> "San Francisco Giants" .
+<1963_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<Rick_Luecken> <sports.drafted_athlete.drafted> "m.04vwzl_" .
+<New_York_Giants> <sports.sports_team.previously_known_as> "New York Gothams" .
+<Polo_Grounds> <location.location.containedby> "New York City" .
+<m.05n6bl3> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<National_League> <business.employer.employees> "m.0s8sk0k" .
+<Bruce_Bochy> <baseball.baseball_player.batting_stats> "m.06pfpzv" .
+<m.05n6brp> <baseball.baseball_team_stats.season> "1974 Major League Baseball Season" .
+<1962_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<Comerica_Park> <location.location.containedby> "United States of America" .
+<Muthu_Tharanga> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League> <organization.organization.child> "m.0ck2dt_" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n68bl" .
+<1911_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy1xn" .
+<Dave_Rader> <people.person.profession> "Baseball player" .
+<Bruce_Bochy> <common.topic.notable_for> "g.125ddf5q1" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Muzammil Ibrahim" .
+<Mike_Phillips> <sports.drafted_athlete.drafted> "m.04vwvtp" .
+<Kansas_City_Royals> <sports.sports_team.sport> "Baseball" .
+<Kansas_City_Royals> <time.participant.event> "2014 Major League Baseball season" .
+<m.06pfpn2> <baseball.batting_statistics.player> "Bruce Bochy" .
+<m.0527d0s> <baseball.current_coaching_tenure.coaching_position> "Bullpen Coach" .
+<National_League> <sports.sports_league.teams> "m.0crt7fy" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Tuesday closing time" .
+<m.0crt7gj> <sports.sports_league_participation.league> "National League" .
+<1989_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<New_York_Giants> <sports.sports_team.championships> "1922 World Series" .
+<Matt_Williams> <common.topic.notable_types> "Baseball Player" .
+<Orange> <base.roses.rose_color.roses_of_this_color> "Rosa 'Soleil d'Or'" .
+<Ratings:_'Sunday_Night_Football'_scores_a_weekly_win_for_NBC> <common.resource.annotations> "m.09w9hyc" .
+<Lou_Seal> <sports.mascot.team> "San Francisco Giants" .
+<m.0crt7b4> <sports.sports_league_participation.league> "National League" .
+<Madison_Bumgarner> <people.person.profession> "Baseball player" .
+<m.0crtd8b> <sports.sports_league_participation.team> "San Diego Padres" .
+<m.05n6cb0> <baseball.baseball_team_stats.season> "1981 Major League Baseball Season" .
+<John_Savage_Bolles> <people.person.gender> "Male" .
+<Miami_Marlins> <sports.sports_team.league> "m.0crt79d" .
+<National_League> <business.employer.employees> "m.0j2fxs4" .
+<m.04vy0my> <sports.sports_league_draft_pick.school> "University of Nevada, Las Vegas" .
+<Bill_Neukom> <people.person.nationality> "United States of America" .
+<1913_World_Series> <time.event.locations> "Polo Grounds" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Sara Nuru" .
+<m.04226rk> <common.webpage.category> "Topic Webpage" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1v6c" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwz4x" .
+<m.05n670k> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.05n66f2> <baseball.baseball_team_stats.team> "New York Giants" .
+<Atlanta_Braves> <sports.sports_team.sport> "Baseball" .
+<Sports_Team> <freebase.type_hints.included_types> "Topic" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079s6" .
+<m.06pfpzv> <baseball.batting_statistics.team> "San Diego Padres" .
+<Cincinnati_Reds> <sports.sports_team.colors> "Black" .
+<m.04vwx8j> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy0my" .
+<Bruce_Bochy> <people.person.spouse_s> "m.0j6tpdh" .
+<Mike_Remlinger> <people.person.profession> "Baseball player" .
+<Los_Angeles_Angels_of_Anaheim> <sports.sports_team.championships> "2002 World Series" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6ftt" .
+<2014_Major_League_Baseball_season> <time.event.participant> "San Francisco Giants" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n6643" .
+<National_League> <business.employer.employees> "m.0hn_84p" .
+<Arizona_Diamondbacks> <sports.sports_team.colors> "Black" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6b_j" .
+<San_Francisco_Giants> <sports.sports_team.previously_known_as> "New York Giants" .
+<National_League> <sports.sports_league.teams> "m.0crt7zj" .
+<m.010brjkc> <freebase.valuenotation.is_reviewed> "Contact category" .
+<m.04w1swd> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<National_League> <business.employer.employees> "m.0ytwp01" .
+<National_League> <sports.sports_league.teams> "m.0crt7rx" .
+<Muzammil_Ibrahim> <people.person.gender> "Male" .
+<m.0wkjpb_> <business.employment_tenure.company> "National League" .
+<San_Francisco_Giants> <time.participant.event> "2014 Major League Baseball season" .
+<Bruce_Bochy> <people.person.profession> "Baseball player" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69l5" .
+<m.09kmdg4> <base.ontologies.ontology_instance_mapping.freebase_topic> "National League" .
+<AT&T_Park> <location.location.geolocation> "m.0d30jxq" .
+<St._Louis_Cardinals> <sports.sports_team.sport> "Baseball" .
+<San_Francisco_Giants> <sports.sports_team.colors> "Gold" .
+<Major_League_Baseball> <sports.sports_league.seasons> "1974 Major League Baseball Season" .
+<m.0w_jzv2> <sports.team_venue_relationship.team> "San Francisco Giants" .
+<Los_Angeles_Dodgers> <sports.sports_team.league> "m.0crt7d6" .
+<m.05n6dmr> <baseball.baseball_team_stats.season> "1996 Major League Baseball Season" .
+<Freebie_and_the_Bean> <film.film.featured_film_locations> "Candlestick Park" .
+<David_Aardsma> <people.person.gender> "Male" .
+<m.04w1s2s> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Brooklyn_Dodgers> <sports.sports_team.league> "m.0crt7k_" .
+<m.04226rk> <common.webpage.topic> "San Francisco Giants" .
+<m.0crt7sw> <sports.sports_league_participation.league> "National League" .
+<m.011zsc4_> <organization.leadership.role> "CEO" .
+<National_League> <business.employer.employees> "m.0gx65w5" .
+<m.05n68z6> <baseball.baseball_team_stats.team> "New York Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vw_l9" .
+<2013_Fight_Hunger_Bowl> <time.event.locations> "AT&T Park" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079qm" .
+<1977_Major_League_Baseball_Season> <time.event.next_in_series> "1978 Major League Baseball Season" .
+<National_League> <business.employer.employees> "m.0j_wkpw" .
+<m.0wl8k_z> <business.employment_tenure.company> "National League" .
+<National_League> <baseball.baseball_league.teams> "Pittsburgh Pirates" .
+<National_League> <sports.sports_league.teams> "m.0crt7sq" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwwym" .
+<m.0d61jyc> <sports.pro_sports_played.sport> "Baseball" .
+<1974_Major_League_Baseball_Season> <sports.sports_league_season.league> "Major League Baseball" .
+<m.0n9gjdm> <sports.team_venue_relationship.venue> "Candlestick Park" .
+<m.05n66sg> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.0xn04tf> <sports.team_venue_relationship.team> "New York Giants" .
+<Chris_Tiu> <people.person.gender> "Male" .
+<1913_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<Sports> <type.domain.types> "Sports Team" .
+<Dodgers–Giants_rivalry> <common.topic.article> "m.06v6nt" .
+<San_Francisco> <location.administrative_division.second_level_division_of> "United States of America" .
+<1986_Major_League_Baseball_Season> <time.event.previous_in_series> "1985 Major League Baseball season" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527cyq" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "Polo Grounds II" .
+<Pepperdine_University> <location.location.containedby> "United States of America" .
+<2007_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<Tim_Flannery> <people.person.profession> "Coach" .
+<m.05n69my> <baseball.baseball_team_stats.season> "1959 Major League Baseball Season" .
+<Royce_Clayton> <people.person.nationality> "United States of America" .
+<Seals_Stadium> <common.topic.notable_types> "Sports Facility" .
+<Johnnie_LeMaster> <common.topic.notable_types> "Baseball Player" .
+<Detroit_Tigers> <common.topic.notable_types> "Professional Sports Team" .
+<Los_Angeles_Angels_of_Anaheim> <sports.sports_team.sport> "Baseball" .
+<m.0crt7gs> <sports.sports_league_participation.league> "National League" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<m.04w1xsz> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<National_League> <baseball.baseball_league.teams> "New York Giants" .
+<Joe_Fontenot> <people.person.gender> "Male" .
+<San_Francisco> <base.biblioness.bibs_topic.subsumes> "San Francisco" .
+<Los_Angeles_Dodgers> <baseball.baseball_team.league> "National League" .
+<m.0crt7q9> <sports.sports_league_participation.league> "National League" .
+<Miami_Marlins> <baseball.baseball_team.division> "National League East" .
+<Jason_Grilli> <sports.drafted_athlete.drafted> "m.04w1sd8" .
+<California_State_University,_Fresno> <education.educational_institution.campuses> "California State University, Fresno" .
+<m.05n69wc> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<National_League> <business.employer.employees> "m.0whh4z5" .
+<Catcher> <sports.sports_position.sport> "Baseball" .
+<2010_Major_League_Baseball_season> <sports.sports_league_season.championship> "2010 World Series" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n67ty" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6btw" .
+<Chicago_Cubs> <baseball.baseball_team.division> "National League Central" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6c1y" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1swd" .
+<m.05n697d> <baseball.baseball_team_stats.team> "New York Giants" .
+<St._Louis_Cardinals> <common.topic.notable_types> "Professional Sports Team" .
+<San_Diego_State_University> <location.location.containedby> "United States of America" .
+<Terry_Lee> <people.person.gender> "Male" .
+<m.05n68q2> <baseball.baseball_team_stats.team> "New York Giants" .
+<m.04w1vl_> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.04w1v6c> <sports.sports_league_draft_pick.draft> "2001 Major League Baseball Draft" .
+<1976_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<Bob_Reynolds> <people.person.profession> "Baseball player" .
+<2014_USA_vs._Azerbaijan_football_match> <soccer.football_match.held_at> "Candlestick Park" .
+<1936_World_Series> <sports.sports_championship_event.runner_up> "New York Giants" .
+<m.04vy0my> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n66sg" .
+<2012_NFC_Championship_Game> <freebase.valuenotation.is_reviewed> "End date" .
+<2001_Major_League_Baseball_Season> <time.event.previous_in_series> "2000 Major League Baseball season" .
+<1994_Major_League_Baseball_Season> <time.event.next_in_series> "1995 Major League Baseball Season" .
+<1922_World_Series> <time.event.locations> "Polo Grounds" .
+<Candlestick_Park> <symbols.namesake.named_after> "Candlestick Point State Recreation Area" .
+<2001_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<m.05n68gj> <baseball.baseball_team_stats.team> "New York Giants" .
+<Kang_Seung-hyun> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League> <baseball.baseball_league.teams> "St. Louis Cardinals" .
+<m.05n6bn9> <baseball.baseball_team_stats.season> "1973 Major League Baseball Season" .
+<Ron_Wotus> <common.topic.notable_types> "Baseball Player" .
+<m.04w1v57> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<1962_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<Bruce_Bochy> <baseball.baseball_player.batting_stats> "m.06pfpyf" .
+<m.04vy2qp> <sports.sports_league_draft_pick.school> "California State University, Fresno" .
+<Brad_Hennessey> <people.person.gender> "Male" .
+<San_Francisco_Giants> <business.employer.employees> "m.04knm9b" .
+<1921_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<Ted_Barnicle> <sports.drafted_athlete.drafted> "m.04vwxt7" .
+<San_Francisco_Giants> <common.topic.webpage> "m.04226rk" .
+<National_League> <sports.sports_league.teams> "m.0crt7wx" .
+<m.0crtd77> <sports.sports_league_participation.team> "Los Angeles Dodgers" .
+<m.0n9gjdd> <sports.team_venue_relationship.venue> "Candlestick Park" .
+<1985_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vx17d" .
+<National_League_West> <sports.sports_league.championship> "National League Division Series" .
+<10301> <location.postal_code.country> "United States of America" .
+<National_League_East> <baseball.baseball_division.teams> "Washington Nationals" .
+<Oakland_Park,_New_Jersey> <common.topic.notable_types> "Sports Facility" .
+<Mike_Phillips> <people.person.gender> "Male" .
+<Milwaukee_Brewers> <sports.sports_team.sport> "Baseball" .
+<Draft_Picks> <rdf-schema#domain> "Professional Sports Team" .
+<m.0ck2dsc> <organization.organization_relationship.child> "National League" .
+<m.04w1xql> <sports.sports_league_draft_pick.draft> "2007 Major League Baseball Draft" .
+<National_League> <sports.sports_league.teams> "m.0crt7mg" .
+<National_League> <sports.sports_league.teams> "m.0crt7fm" .
+<m.05n6clb> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<1962_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<m.04vy32q> <sports.sports_league_draft_pick.player> "Eric Christopherson" .
+<m.04w1xs2> <sports.sports_league_draft_pick.draft> "2007 Major League Baseball Draft" .
+<Candlestick_Park> <soccer.football_pitch.matches> "2014 USA vs. Azerbaijan football match" .
+<Dusty_Baker> <common.topic.notable_types> "Baseball Player" .
+<m.05n69rf> <baseball.baseball_team_stats.season> "1961 Major League Baseball Season" .
+<David_Aardsma> <common.topic.notable_types> "Baseball Player" .
+<m.0hmxtkc> <location.mailing_address.citytown> "San Francisco" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69my" .
+<m.0527d13> <baseball.current_coaching_tenure.coaching_position> "Bullpen Catcher Coach" .
+<San_Francisco_Giants> <sports.sports_team.colors> "Cream" .
+<National_League> <sports.sports_league.teams> "m.0crt7y4" .
+<New_York_Giants> <sports.sports_team.arena_stadium> "St. George Cricket Grounds" .
+<m.06pfpwr> <baseball.batting_statistics.player> "Bruce Bochy" .
+<m.04vwzlm> <sports.sports_league_draft_pick.draft> "1979 Major League Baseball Draft" .
+<Matt_Williams> <people.person.profession> "Baseball player" .
+<m.0k079pz> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<m.04vx17d> <sports.sports_league_draft_pick.school> "Mississippi State University" .
+<m.05n6b1q> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<National_League> <sports.sports_league.teams> "m.0crt7nm" .
+<AT&T_Park> <location.location.events> "2009 Emerald Bowl" .
+<Candlestick_Park> <architecture.structure.owner> "m.075ff2m" .
+<2014_Major_League_Baseball_season> <common.topic.notable_for> "g.1z2sszz2k" .
+<Sara_Nuru> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<m.0crt7fy> <sports.sports_league_participation.league> "National League" .
+<1973_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<m.0527d0b> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<m.0wksrt6> <business.employment_tenure.company> "National League" .
+<National_League> <organization.organization.child> "m.0ck2dtv" .
+<m.0crt7dk> <sports.sports_league_participation.league> "National League" .
+<United_States_of_America> <location.country.administrative_divisions> "New York City" .
+<m.05n6ct6> <baseball.baseball_team_stats.season> "1987 Major League Baseball Season" .
+<1968_Major_League_Baseball_Season> <time.event.next_in_series> "1969 Major League Baseball Season" .
+<Arizona_Diamondbacks> <baseball.baseball_team.league> "National League" .
+<m.03p9638> <business.sponsorship.sponsored_recipient> "Candlestick Park" .
+<National_League> <business.employer.employees> "m.010vxy7j" .
+<m.010brg8l> <internet.localized_uri.language> "English" .
+<Tim_Lincecum> <common.topic.notable_types> "Baseball Player" .
+<1978_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<Ron_Schueler> <common.topic.notable_types> "Baseball Player" .
+<m.0crt7tq> <sports.sports_league_participation.league> "National League" .
+<2007_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1xsz" .
+<New_York_Mets> <common.topic.notable_types> "Professional Sports Team" .
+<Tim_Lincecum> <people.person.nationality> "United States of America" .
+<New_York_Giants> <sports.defunct_sports_team.active> "m.05ll6c6" .
+<San_Francisco_Giants> <common.topic.notable_for> "g.125bx0r9v" .
+<National_League> <business.employer.employees> "m.0ggf8wh" .
+<San_Diego_Padres> <sports.sports_team.sport> "Baseball" .
+<m.05n6cxh> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Gold> <base.schemastaging.context_name.pronunciation> "g.125_mp9qb" .
+<Candlestick_Park> <projects.project_focus.projects> "Initial design and construction of Candlestick Park" .
+<Polo_Grounds> <sports.sports_facility.home_venue_for> "m.0w_jy5x" .
+<m.05n6flc> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.04vwttf> <sports.sports_league_draft_pick.player> "Bob Reynolds" .
+<Polo_Grounds_I> <common.topic.notable_types> "Venue" .
+<m.05n68m7> <baseball.baseball_team_stats.team> "New York Giants" .
+<Johnnie_LeMaster> <sports.drafted_athlete.drafted> "m.04vwwym" .
+<2000_Major_League_Baseball_season> <time.event.next_in_series> "2001 Major League Baseball Season" .
+<St._Louis_Cardinals> <sports.sports_team.league> "m.0crt7br" .
+<Jacksonville_State_University> <location.location.containedby> "United States of America" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n68db" .
+<Mark_Grant> <sports.drafted_athlete.drafted> "m.04vw_l9" .
+<San_Francisco_Giants> <time.participant.event> "2012 World Series" .
+<m.04vy293> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Arizona_Diamondbacks> <sports.sports_team.league> "m.0crtd7p" .
+<m.010brjkc> <freebase.valuenotation.has_value> "Thursday open time" .
+<New_York_Gothams> <sports.defunct_sports_team.later_known_as> "New York Giants" .
+<National_League> <baseball.baseball_league.divisions> "National League East" .
+<m.0z7wqcb> <award.award_nomination.award> "Best Game ESPY Award" .
+<Seton_Hall_University> <education.educational_institution.campuses> "Seton Hall University" .
+<2014_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<National_League> <business.employer.employees> "m.0123wc3n" .
+<St._George_Cricket_Grounds> <location.location.containedby> "Staten Island" .
+<Los_Angeles_Dodgers> <sports.sports_team.previously_known_as> "Brooklyn Dodgers" .
+<2012_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<1994_Major_League_Baseball_Season> <common.topic.notable_types> "Sports League Season" .
+<San_Francisco_49ers> <common.topic.notable_types> "Professional Sports Team" .
+<2006_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1x4c" .
+<National_League> <business.employer.employees> "m.0wl8k_z" .
+<Professional_Sports_Team> <type.type.expected_by> "Teams Owned" .
+<California_State_University,_Fullerton> <education.educational_institution.colors> "Orange" .
+<2000_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1tvv" .
+<Bullpen_Coach> <baseball.baseball_coaching_position.current_coaches> "m.0527d0s" .
+<m.0n9gjdv> <sports.team_venue_relationship.venue> "Candlestick Park" .
+<m.0j7zl02> <baseball.baseball_historical_managerial_position.team> "San Diego Padres" .
+<1962_World_Series> <sports.sports_championship_event.season> "1962 Major League Baseball Season" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n67j9" .
+<San_Francisco_Giants> <time.participant.event> "2010 Major League Baseball season" .
+<National_League> <business.employer.employees> "m.0hnzr64" .
+<National_League> <sports.sports_league.teams> "m.0crt7s8" .
+<m.04vwwym> <sports.sports_league_draft_pick.draft> "1973 Major League Baseball Draft" .
+<m.0gmjj6h> <business.employment_tenure.company> "National League" .
+<Bruce_Bochy> <people.person.nationality> "France" .
+<m.0hvzbcn> <business.employment_tenure.company> "National League" .
+<1988_Major_League_Baseball_Season> <time.event.previous_in_series> "1987 Major League Baseball Season" .
+<National_League> <business.employer.employees> "m.0gmj3vg" .
+<Bruce_Bochy> <baseball.baseball_player.batting_stats> "m.06pfpps" .
+<Brooklyn_Dodgers> <sports.defunct_sports_team.later_known_as> "Los Angeles Dodgers" .
+<m.05n6dy4> <baseball.baseball_team_stats.season> "1999 Major League Baseball Season" .
+<m.0ggf8wh> <business.employment_tenure.company> "National League" .
+<2001_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1v57" .
+<m.0j_y8yw> <sports.team_venue_relationship.venue> "Polo Grounds" .
+<m.0527d0k> <baseball.current_coaching_tenure.baseball_coach> "Roberto Kelly" .
+<m.05n6cdf> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Mike_Phillips> <people.person.profession> "Baseball player" .
+<John_D'Acquisto> <people.person.profession> "Baseball player" .
+<National_League> <sports.sports_league.teams> "m.0crt7td" .
+<1924_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1sx4" .
+<1936_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<1998_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1sx4" .
+<Pittsburgh_Pirates> <baseball.baseball_team.division> "National League Central" .
+<m.05n67zs> <baseball.baseball_team_stats.team> "New York Giants" .
+<2012_World_Series> <freebase.valuenotation.has_no_value> "Comment" .
+<1993_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy42h" .
+<m.0crt7x2> <sports.sports_league_participation.league> "National League" .
+<New_York_Giants> <sports.sports_team.venue> "m.0w_jyj4" .
+<National_League> <sports.sports_league.teams> "m.0crt7ys" .
+<1912_World_Series> <time.event.locations> "Polo Grounds" .
+<National_League> <sports.sports_league.teams> "m.0crt7tq" .
+<National_League> <sports.sports_league.teams> "m.0crt7n9" .
+<m.0dl3192> <sports.sports_team_season_record.team> "San Francisco Giants" .
+<Pittsburgh_Pirates> <sports.sports_team.colors> "Black" .
+<New_York_Giants> <baseball.baseball_team.team_stats> "m.05n6g1g" .
+<Pepperdine_University> <education.educational_institution.campuses> "Pepperdine University" .
+<Arizona_Diamondbacks> <sports.sports_team.sport> "Baseball" .
+<San_Francisco_Giants> <sports.sports_team.colors> "Black" .
+<Peter_A._Magowan> <people.person.place_of_birth> "New York City" .
+<2010_Major_League_Baseball_season> <common.topic.notable_types> "Sports League Season" .
+<AT&T_Park> <location.location.events> "2004 Emerald Bowl" .
+<m.0k079r4> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<m.0k079qc> <base.schemastaging.team_training_ground_relationship.facility> "Candlestick Park" .
+<AT&T_Park> <common.topic.image> "AT&T Park Logo" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6c4s" .
+<National_League_West> <common.topic.notable_types> "Baseball Division" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6dmr" .
+<Polo_Grounds> <common.topic.notable_for> "g.125ckpjm_" .

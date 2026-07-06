@@ -1,0 +1,1151 @@
+<Benjamin_Orr> <people.deceased_person.place_of_death> "Atlanta" .
+<Ocean_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Val_Ackerman> <people.person.nationality> "United States of America" .
+<Michigan> <location.location.time_zones> "Eastern Time Zone" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Minnesota" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Georgian_Court_University> <location.location.containedby> "New Jersey" .
+<Michael_Kelber> <people.person.gender> "Male" .
+<Beth_Medrash_Govoha> <education.educational_institution_campus.educational_institution> "Beth Medrash Govoha" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Texas" .
+<Illinois> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<North_Dakota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<West_Virginia> <location.location.time_zones> "Eastern Time Zone" .
+<United_States_of_America> <base.aareas.schema.administrative_area.pertinent_type> "U.S. state" .
+<Maine> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Michigan" .
+<United_States_of_America> <location.country.administrative_divisions> "New Mexico" .
+<Obstructive_sleep_apnea> <medicine.disease.risk_factors> "Male" .
+<Alabama> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Delaware" .
+<m.02wnk1w> <education.education.student> "Stan Kasten" .
+<Montana> <base.locations.states_and_provences.country> "United States of America" .
+<Gout> <medicine.icd_9_cm_classification.parent_classification> "Gout" .
+<Ankylosing_spondylitis> <medicine.disease_cause.diseases> "Kyphosis" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Kidney_Stone> <medicine.disease.causes> "Gout" .
+<Hirschsprung's_disease> <medicine.disease.risk_factors> "Male" .
+<Mississippi> <location.location.containedby> "United States, with Territories" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<West_Virginia> <location.administrative_division.country> "United States of America" .
+<Alaska> <location.location.containedby> "United States, with Territories" .
+<Lakewood> <location.location.people_born_here> "Mylo Carbia" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Maryland" .
+<Lakewood> <location.location.time_zones> "Eastern Time Zone" .
+<Stan_Kasten> <people.person.place_of_birth> "Lakewood" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<Lakewood> <location.location.people_born_here> "Penina Taylor" .
+<Michigan> <location.administrative_division.country> "United States of America" .
+<Utah> <location.administrative_division.country> "United States of America" .
+<Stan_Kasten> <common.topic.image> "Stan Kasten 06-05-10 Nats Blogger Day" .
+<Georgia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "North Dakota" .
+<Oregon> <location.location.containedby> "United States of America" .
+<United_States,_with_Territories> <location.country.first_level_divisions> "United States of America" .
+<Inguinal_hernia> <medicine.disease.risk_factors> "Male" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<Virginia> <location.administrative_division.first_level_division_of> "United States of America" .
+<Georgian_Court_University> <location.location.containedby> "United States of America" .
+<Iowa> <base.biblioness.bibs_location.country> "United States of America" .
+<Delaware> <location.administrative_division.first_level_division_of> "United States of America" .
+<Maryland> <location.location.containedby> "United States of America" .
+<Minnesota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Hawaii> <base.biblioness.bibs_location.country> "United States of America" .
+<Person> <rdf-schema#range> "Organization leader" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Vermont" .
+<Risk_Factor> <freebase.type_profile.strict_included_types> "Topic" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Hawaii" .
+<New_Jersey> <location.location.containedby> "United States of America" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Wyoming" .
+<Oregon> <base.locations.states_and_provences.country> "United States of America" .
+<Ocean_County> <location.location.time_zones> "Eastern Time Zone" .
+<m.0_yv0g3> <organization.leadership.role> "CEO" .
+<Arkansas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Stan_Kasten> <common.topic.notable_for> "g.1255ddhbf" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Arizona" .
+<Stuttering> <medicine.disease.risk_factors> "Male" .
+<Lakewood> <location.location.people_born_here> "Steve Tisch" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Colorado" .
+<Alaska> <location.administrative_division.first_level_division_of> "United States of America" .
+<Lakewood> <location.location.people_born_here> "Val Ackerman" .
+<North_Carolina> <base.biblioness.bibs_location.country> "United States of America" .
+<Texas> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Maryland" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<Lakewood> <location.location.contains> "Star Technical Institute-Lakewood" .
+<United_States_of_America> <location.country.first_level_divisions> "New Jersey" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<California> <base.biblioness.bibs_location.country> "United States of America" .
+<New_York_University> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Hampshire" .
+<Shadow_Figure> <fictional_universe.fictional_character.place_of_birth> "Male" .
+<New_Hampshire> <location.administrative_division.first_level_division_of> "United States of America" .
+<Columbia_Law_School> <education.educational_institution.parent_institution> "Columbia University" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<Georgian_Court_University> <education.educational_institution_campus.educational_institution> "Georgian Court University" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<Louisiana> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Tennessee" .
+<United_States_of_America> <location.country.first_level_divisions> "Utah" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "California" .
+<United_States_of_America> <location.country.administrative_divisions> "Minnesota" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<Idaho> <location.location.containedby> "United States, with Territories" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<Ohio> <location.location.time_zones> "Eastern Time Zone" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Missouri" .
+<United_States_of_America> <location.location.partially_containedby> "North America" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Utah> <location.location.containedby> "United States, with Territories" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<Barbara_P._Norfleet> <people.person.nationality> "United States of America" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<Texas> <location.administrative_division.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<Virginia> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Pennsylvania" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<Georgia> <location.location.containedby> "United States of America" .
+<Florida> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Utah" .
+<Montana> <location.administrative_division.first_level_division_of> "United States of America" .
+<California> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Florida" .
+<Wyoming> <location.administrative_division.country> "United States of America" .
+<Lakewood> <location.location.people_born_here> "David Lee Russek" .
+<Delaware> <location.administrative_division.country> "United States of America" .
+<Hair_loss> <medicine.symptom.symptom_of> "Syphilis" .
+<South_Dakota> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "West Virginia" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<Kansas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Connecticut" .
+<Montana> <base.locations.states_and_provences.continent> "North America" .
+<United_States_of_America> <location.country.first_level_divisions> "Georgia" .
+<Spider_Bennett> <people.person.nationality> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdividing_type> "U.S. federal district" .
+<John_Reppy> <people.person.place_of_birth> "Lakewood" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<Kyphosis> <medicine.disease.causes> "Ankylosing spondylitis" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<Connecticut> <location.administrative_division.first_level_division_of> "United States of America" .
+<South_Dakota> <base.locations.states_and_provences.country> "United States of America" .
+<Washington,_D.C.> <location.location.containedby> "United States, with Territories" .
+<Kidney_Stone> <medicine.disease_cause.diseases> "Urolithiasis" .
+<Mylo_Carbia> <people.person.place_of_birth> "Lakewood" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.subdividing_place> "United States of America" .
+<Arizona> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "California" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Kansas" .
+<Nephrotic_syndrome> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "Maine" .
+<Alabama> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<New_Hampshire> <location.location.containedby> "United States, with Territories" .
+<Georgia> <base.aareas.schema.administrative_area.capital> "Atlanta" .
+<m.03pwsxn> <people.place_lived.location> "Atlanta" .
+<Georgia> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Hawaii" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Ankylosing_spondylitis> <medicine.disease.risk_factors> "Male" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<Oklahoma> <location.location.containedby> "United States, with Territories" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<Georgia> <location.us_state.capital> "Atlanta" .
+<Hawaii> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<United_States_of_America> <location.country.administrative_divisions> "Nebraska" .
+<North_America> <location.location.contains_major_portion_of> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Connecticut" .
+<Kentucky> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0n1b_8b> <education.education.institution> "New York University" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Liver_tumour> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<Minnesota> <location.administrative_division.country> "United States of America" .
+<Armin_Shimerman> <people.person.place_of_birth> "Lakewood" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Maine" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Organization_leader> <freebase.type_profile.equivalent_topic> "board member" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Stan_Kasten> <people.person.nationality> "United States of America" .
+<Florida> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Atlanta> <location.location.containedby> "Georgia" .
+<Atlanta> <common.topic.notable_types> "City/Town/Village" .
+<m.0_yv0g3> <freebase.valuenotation.has_no_value> "To" .
+<Hypospadias> <medicine.disease.risk_factors> "Male" .
+<08701-7874> <location.postal_code.country> "United States of America" .
+<West_Virginia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Barrett's_esophagus> <medicine.disease.risk_factors> "Male" .
+<North_Dakota> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Arizona" .
+<Lakewood> <common.topic.webpage> "m.040jjtv" .
+<Hawaii> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<United_States_of_America> <location.country.administrative_divisions> "Oklahoma" .
+<m.02wnk1w> <education.education.institution> "Rutgers University" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Iowa" .
+<Risk_Factor> <freebase.type_profile.kind> "Role" .
+<Idaho> <base.locations.states_and_provences.country> "United States of America" .
+<Montana> <location.location.containedby> "United States, with Territories" .
+<Myocardial_Ischemia> <medicine.disease.risk_factors> "Male" .
+<Sam_Aaron> <people.person.nationality> "United States of America" .
+<U.S._state> <base.aareas.schema.administrative_area_type.subdivides_place> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Pennsylvania" .
+<Massachusetts> <location.administrative_division.country> "United States of America" .
+<Massachusetts> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Multiple_myeloma> <medicine.disease.risk_factors> "Male" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<Lakewood> <location.statistical_region.population> "m.066dl3v" .
+<Organization_leader> <freebase.type_hints.included_types> "Topic" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oregon" .
+<Hawaii> <location.administrative_division.country> "United States of America" .
+<Alabama> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Wisconsin" .
+<U.S._federal_district> <base.aareas.schema.administrative_area_type.sovereignty> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Illinois" .
+<Lakewood> <location.location.contains> "Strand Theatre" .
+<Star_Technical_Institute-Lakewood> <location.location.containedby> "United States of America" .
+<Myocardial_Ischemia> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Corneal_abrasion> <medicine.disease.risk_factors> "Male" .
+<Illinois> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Iowa" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Tennessee" .
+<Urolithiasis> <medicine.disease.causes> "Kidney Stone" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<Oklahoma> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Dick_Estelle> <people.person.place_of_birth> "Lakewood" .
+<Organization_leader> <freebase.type_profile.published> "Published" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Idaho" .
+<Lakewood> <location.statistical_region.population> "m.066dl40" .
+<Seborrheic_dermatitis> <medicine.disease.symptoms> "Hair loss" .
+<South_Carolina> <base.locations.states_and_provences.country> "United States of America" .
+<Lakewood> <location.location.contains> "Bais Medrash Toras Chesed" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oregon" .
+<Kentucky> <base.locations.states_and_provences.country> "United States of America" .
+<Vermont> <location.location.containedby> "United States of America" .
+<Tennessee> <base.biblioness.bibs_location.country> "United States of America" .
+<Stan_Kasten> <people.person.places_lived> "m.03pwsxn" .
+<New_Mexico> <base.locations.states_and_provences.country> "United States of America" .
+<Michael_Kelber> <people.person.place_of_birth> "Lakewood" .
+<Kentucky> <base.biblioness.bibs_location.country> "United States of America" .
+<Washington,_D.C.> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<Alabama> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Mississippi> <location.location.containedby> "United States of America" .
+<Lakewood> <location.location.nearby_airports> "Lakewood Airport" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Stroke" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Nebraska" .
+<Ohio> <base.biblioness.bibs_location.country> "United States of America" .
+<David_Lee_Russek> <people.person.place_of_birth> "Lakewood" .
+<Virginia> <location.location.time_zones> "Eastern Time Zone" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<South_Carolina> <location.location.time_zones> "Eastern Time Zone" .
+<08701> <location.location.containedby> "United States of America" .
+<Kentucky> <location.location.time_zones> "Eastern Time Zone" .
+<Acute_myeloid_leukemia> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "Virginia" .
+<Montana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Massachusetts> <location.location.time_zones> "Eastern Time Zone" .
+<Georgia> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<Arizona> <location.administrative_division.country> "United States of America" .
+<Indiana> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.first_level_divisions> "Arizona" .
+<Kidney_Stone> <medicine.disease.risk_factors> "Male" .
+<Alaska> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<Kansas> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Connecticut" .
+<Lakewood> <location.location.people_born_here> "Michael Kelber" .
+<Ocean_County> <location.location.containedby> "New Jersey" .
+<North_Carolina> <location.administrative_division.country> "United States of America" .
+<New_York> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Wyoming" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<Colorado> <location.administrative_division.first_level_division_of> "United States of America" .
+<Actinic_keratosis> <medicine.disease.risk_factors> "Male" .
+<California> <base.locations.states_and_provences.country> "United States of America" .
+<U.S._federal_district> <base.aareas.schema.administrative_area_type.subdivides_place> "United States of America" .
+<Tennessee> <location.location.containedby> "United States of America" .
+<John_Reppy> <people.person.nationality> "United States of America" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<Connecticut> <base.biblioness.bibs_location.country> "United States of America" .
+<Stan_Kasten> <people.person.gender> "Male" .
+<Wisconsin> <location.location.containedby> "United States of America" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<Lakewood> <location.location.people_born_here> "Menashe Miller" .
+<United_States_of_America> <location.country.first_level_divisions> "Missouri" .
+<Nevada> <location.location.containedby> "United States of America" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<Texas> <base.aareas.schema.administrative_area.administrative_area_type> "U.S. state" .
+<Spider_Bennett> <people.person.gender> "Male" .
+<Benjamin_Orr> <people.person.place_of_birth> "Lakewood" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Colorado" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<United_States_of_America> <location.country.administrative_divisions> "North Dakota" .
+<West_Virginia> <location.location.containedby> "United States of America" .
+<Idaho> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Georgia" .
+<m.0n1b_8b> <education.education.student> "Stan Kasten" .
+<Maryland> <location.administrative_division.first_level_division_of> "United States of America" .
+<Maryland> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Florida" .
+<Idaho> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Oklahoma" .
+<Washington,_D.C.> <base.biblioness.bibs_location.country> "United States of America" .
+<Alaska> <location.administrative_division.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<Mylo_Carbia> <people.person.nationality> "United States of America" .
+<Nevada> <base.locations.states_and_provences.country> "United States of America" .
+<North_Dakota> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Vermont" .
+<United_States_of_America> <base.militaryinfiction.location_in_fiction.contains> "Kansas" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<Person> <type.property.expected_type> "Organization leader" .
+<Lakewood> <location.location.people_born_here> "Brandon Carter" .
+<Kansas> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Louisiana" .
+<Wisconsin> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Lakewood> <location.location.people_born_here> "John Reppy" .
+<Star_Technical_Institute-Lakewood> <education.educational_institution_campus.educational_institution> "Star Technical Institute-Lakewood" .
+<United_States_of_America> <location.country.administrative_divisions> "Virginia" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Male" .
+<Louisiana> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Tennessee" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Delaware" .
+<Iowa> <location.administrative_division.country> "United States of America" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<United_States_of_America> <location.country.administrative_divisions> "Kentucky" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Nevada" .
+<Kyphosis> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <location.country.administrative_divisions> "Ohio" .
+<Nebraska> <location.administrative_division.country> "United States of America" .
+<Iowa> <location.location.containedby> "United States, with Territories" .
+<Colorado> <location.administrative_division.country> "United States of America" .
+<West_Virginia> <base.locations.states_and_provences.country> "United States of America" .
+<Benjamin_Orr> <people.person.nationality> "United States of America" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<Syphilis> <medicine.disease.symptoms> "Hair loss" .
+<Oklahoma> <base.locations.states_and_provences.country> "United States of America" .
+<South_Dakota> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Colorado" .
+<m.0_qxdpj> <award.award_honor.award_winner> "Stan Kasten" .
+<United_States_of_America> <location.country.administrative_divisions> "South Dakota" .
+<New_Hampshire> <location.administrative_division.country> "United States of America" .
+<Myocardial_Ischemia> <medicine.disease.symptoms> "heart attack" .
+<United_States_of_America> <location.country.administrative_divisions> "Delaware" .
+<Stan_Kasten> <business.board_member.leader_of> "m.0_yv0g3" .
+<Los_Angeles_Dodgers> <organization.organization.leadership> "m.0_yv0g3" .
+<United_States_of_America> <location.country.first_level_divisions> "Montana" .
+<Virginia> <base.biblioness.bibs_location.country> "United States of America" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<Steve_Tisch> <people.person.place_of_birth> "Lakewood" .
+<Lakewood> <location.location.people_born_here> "Benjamin Orr" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Texas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Kentucky> <location.administrative_division.country> "United States of America" .
+<Colorado> <base.biblioness.bibs_location.country> "United States of America" .
+<Sam_Aaron> <people.person.place_of_birth> "Lakewood" .
+<South_Dakota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Bais_Medrash_Toras_Chesed> <location.location.containedby> "New Jersey" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Rhode Island" .
+<Mississippi> <location.administrative_division.country> "United States of America" .
+<Rhode_Island> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Nevada> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oklahoma" .
+<United_States_of_America> <location.country.administrative_divisions> "Idaho" .
+<Indiana> <location.location.containedby> "United States of America" .
+<Arkansas> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Jersey" .
+<m.04hn2xg> <education.education.student> "Stan Kasten" .
+<Arizona> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Oregon> <base.biblioness.bibs_location.country> "United States of America" .
+<Morton_I._Abramowitz> <people.person.place_of_birth> "Lakewood" .
+<United_States_of_America> <location.country.administrative_divisions> "Pennsylvania" .
+<United_States_of_America> <location.country.first_level_divisions> "Massachusetts" .
+<Autism> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Alaska" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Armin_Shimerman> <people.person.gender> "Male" .
+<North_America> <base.locations.continents.states_provinces_within> "Wisconsin" .
+<Oklahoma> <location.administrative_division.country> "United States of America" .
+<Maryland> <base.locations.states_and_provences.country> "United States of America" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Urolithiasis> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Meningococcal_disease> <medicine.disease.risk_factors> "Male" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<North_Carolina> <location.location.containedby> "United States of America" .
+<Kansas> <base.militaryinfiction.location_in_fiction.contained_by> "United States of America" .
+<m.04hn2xg> <education.education.institution> "Columbia Law School" .
+<Mississippi> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<Iowa> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Nebraska> <location.location.containedby> "United States of America" .
+<New_Jersey> <location.administrative_division.country> "United States of America" .
+<Rhode_Island> <location.location.containedby> "United States, with Territories" .
+<Organization_leader> <freebase.type_profile.strict_included_types> "Topic" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<Myocardial_Ischemia> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Stan_Kasten> <people.person.education> "m.02wnk1w" .
+<Iowa> <base.locations.states_and_provences.country> "United States of America" .
+<South_Carolina> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Georgia" .
+<Washington> <location.administrative_division.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<Lakewood> <common.topic.article> "m.0xrht" .
+<Wisconsin> <base.locations.states_and_provences.continent> "North America" .
+<United_States_of_America> <location.location.primarily_containedby> "North America" .
+<Maryland> <location.location.time_zones> "Eastern Time Zone" .
+<United_States_of_America> <location.country.first_level_divisions> "Minnesota" .
+<Missouri> <location.administrative_division.first_level_division_of> "United States of America" .
+<Sam_Aaron> <people.person.gender> "Male" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<Vermont> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Kentucky" .
+<Seborrheic_dermatitis> <medicine.symptom.symptom_of> "Parkinson's disease" .
+<Alaska> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "New York" .
+<New_York_University> <education.educational_institution_campus.educational_institution> "New York University" .
+<Lakewood> <location.location.people_born_here> "Dick Estelle" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<Organization_leader> <type.type.domain> "Organization" .
+<United_States_of_America> <location.country.administrative_divisions> "New Jersey" .
+<Lakewood> <location.location.people_born_here> "Nicolas Roye" .
+<West_Virginia> <base.biblioness.bibs_location.country> "United States of America" .
+<Washington,_D.C.> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Kaposi's_sarcoma> <medicine.disease.risk_factors> "Male" .
+<Leader_of> <rdf-schema#domain> "Organization leader" .
+<Nebraska> <location.administrative_division.first_level_division_of> "United States of America" .
+<New_York_University> <education.educational_institution.campuses> "New York University" .
+<New_York> <location.administrative_division.country> "United States of America" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Lakewood> <common.topic.notable_for> "g.125dv4cnh" .
+<Yeshiva_Toras_Chaim> <location.location.containedby> "Lakewood" .
+<Atlanta> <location.location.time_zones> "Eastern Time Zone" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Kentucky" .
+<Kentucky> <location.location.containedby> "United States, with Territories" .
+<Georgia> <location.location.time_zones> "Eastern Time Zone" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Attention deficit hyperactivity disorder" .
+<United_States_of_America> <location.country.administrative_divisions> "Alabama" .
+<m.0_yv0g3> <organization.leadership.person> "Stan Kasten" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<Ohio> <location.administrative_division.country> "United States of America" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Transient_ischemic_attack> <medicine.disease.causes> "Cardiovascular disease" .
+<Alabama> <base.biblioness.bibs_location.country> "United States of America" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<Ohio> <location.administrative_division.first_level_division_of> "United States of America" .
+<Maine> <base.locations.states_and_provences.country> "United States of America" .
+<Morton_I._Abramowitz> <people.person.gender> "Male" .
+<Lakewood> <location.location.contains> "Georgian Court University" .
+<Iowa> <location.administrative_division.first_level_division_of> "United States of America" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<Ohio> <location.location.containedby> "United States of America" .
+<Illinois> <location.location.containedby> "United States of America" .
+<Wyoming> <base.biblioness.bibs_location.country> "United States of America" .
+<Atlanta> <location.location.containedby> "United States of America" .
+<Tennessee> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Lakewood> <location.location.containedby> "Ocean County" .
+<Missouri> <location.location.containedby> "United States of America" .
+<Utah> <base.biblioness.bibs_location.country> "United States of America" .
+<Michigan> <base.biblioness.bibs_location.country> "United States of America" .
+<Stan_Kasten_06-05-10_Nats_Blogger_Day> <common.image.size> "m.02bd_n8" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<Maryland> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Transient_ischemic_attack> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <location.country.administrative_divisions> "Connecticut" .
+<Retroperitoneal_fibrosis> <medicine.disease.risk_factors> "Male" .
+<Strand_Theatre> <location.location.containedby> "New Jersey" .
+<Columbia_Law_School> <location.location.containedby> "United States of America" .
+<08701> <location.postal_code.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Indiana" .
+<Illinois> <location.location.containedby> "United States, with Territories" .
+<08701> <location.location.containedby> "New Jersey" .
+<Michigan> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Wisconsin> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Louisiana" .
+<Washington,_D.C.> <location.administrative_division.country> "United States of America" .
+<David_Lee_Russek> <people.person.gender> "Male" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<Georgia> <location.location.containedby> "United States, with Territories" .
+<South_Carolina> <location.administrative_division.country> "United States of America" .
+<Yeshiva_Toras_Chaim> <education.educational_institution.campuses> "Yeshiva Toras Chaim" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Washington" .
+<Washington> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Texas" .
+<United_States_of_America> <location.country.administrative_divisions> "Washington, D.C." .
+<United_States_of_America> <location.country.first_level_divisions> "Vermont" .
+<United_States_of_America> <location.country.first_level_divisions> "Washington, D.C." .
+<Louisiana> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Alabama" .
+<Idaho> <location.location.containedby> "United States of America" .
+<North_Carolina> <location.location.containedby> "United States, with Territories" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Lakewood> <location.statistical_region.population> "m.04lyd9y" .
+<Pennsylvania> <base.biblioness.bibs_location.country> "United States of America" .
+<Supreme_Court_of_the_United_States> <government.governmental_body.jurisdiction> "United States of America" .
+<Leader_of> <type.property.schema> "Organization leader" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Wisconsin" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "South Dakota" .
+<United_States_of_America> <location.country.first_level_divisions> "Hawaii" .
+<Vermont> <location.location.containedby> "United States, with Territories" .
+<Nicolas_Roye> <people.person.nationality> "United States of America" .
+<Lakewood> <location.location.people_born_here> "Armin Shimerman" .
+<Montana> <base.biblioness.bibs_location.country> "United States of America" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Hawaii" .
+<United_States_of_America> <location.country.administrative_divisions> "Tennessee" .
+<Nebraska> <base.biblioness.bibs_location.country> "United States of America" .
+<Pennsylvania> <base.locations.states_and_provences.country> "United States of America" .
+<Rhode_Island> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.administrative_children> "United States of America" .
+<Florida> <location.administrative_division.country> "United States of America" .
+<Gastritis> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Idaho" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Ohio" .
+<Minnesota> <base.locations.states_and_provences.country> "United States of America" .
+<Arizona> <location.location.containedby> "United States, with Territories" .
+<Georgia> <base.biblioness.bibs_location.country> "United States of America" .
+<Nicolas_Roye> <people.person.place_of_birth> "Lakewood" .
+<Menashe_Miller> <people.person.place_of_birth> "Lakewood" .
+<Seborrheic_dermatitis> <medicine.disease.risk_factors> "Male" .
+<Rutgers_University> <location.location.containedby> "New Jersey" .
+<Pennsylvania> <location.location.containedby> "United States of America" .
+<Vive_Targi_Kielce> <sports.sports_team.gender> "Male" .
+<Hair_loss> <medicine.risk_factor.diseases> "Stroke" .
+<Hawaii> <base.locations.states_and_provences.country> "United States of America" .
+<Maine> <base.biblioness.bibs_location.country> "United States of America" .
+<Will_Hayes> <people.person.nationality> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Maryland" .
+<Nebraska> <base.locations.states_and_provences.country> "United States of America" .
+<Lakewood> <location.location.contains> "Yeshiva Toras Chaim" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Arkansas" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New York" .
+<United_States_of_America> <location.country.administrative_divisions> "North Carolina" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Lakewood> <location.statistical_region.population> "m.066dl2x" .
+<Lakewood> <location.location.people_born_here> "Sam Aaron" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Mexico" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Rhode Island" .
+<Indiana> <location.administrative_division.first_level_division_of> "United States of America" .
+<Organization_leader> <type.type.expected_by> "Person" .
+<Yeshiva_Toras_Chaim> <location.location.containedby> "New Jersey" .
+<Columbia_Law_School> <education.educational_institution.campuses> "Columbia Law School" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<Stan_Kasten> <award.award_winner.awards_won> "m.0_qxdpj" .
+<Wyoming> <location.location.containedby> "United States of America" .
+<Texas> <base.locations.states_and_provences.country> "United States of America" .
+<Benign_prostatic_hyperplasia> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "South Carolina" .
+<South_Carolina> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<08701-7874> <location.location.containedby> "Lakewood" .
+<Vermont> <base.locations.states_and_provences.country> "United States of America" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "South Dakota" .
+<Steve_Tisch> <people.person.gender> "Male" .
+<Minnesota> <base.biblioness.bibs_location.country> "United States of America" .
+<Person> <owl#inverseOf> "Leader of" .
+<Alaska> <base.locations.states_and_provences.country> "United States of America" .
+<Ocean_County> <location.us_county.hud_county_place> "Lakewood" .
+<Benjamin_Orr> <people.deceased_person.cause_of_death> "Pancreatic cancer" .
+<Michigan> <location.location.containedby> "United States of America" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<Georgian_Court_University> <location.location.containedby> "Lakewood" .
+<United_States_of_America> <location.country.administrative_divisions> "Arkansas" .
+<United_States_of_America> <location.country.first_level_divisions> "Idaho" .
+<Lakewood> <location.location.people_born_here> "Will Hayes" .
+<Tennessee> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Washington" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<Indiana> <location.administrative_division.country> "United States of America" .
+<Stan_Kasten> <people.person.education> "m.0n1b_8b" .
+<Hawaii> <location.location.containedby> "United States, with Territories" .
+<New_York> <location.administrative_division.first_level_division_of> "United States of America" .
+<Washington> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Florida> <location.location.time_zones> "Eastern Time Zone" .
+<United_States_of_America> <location.country.administrative_divisions> "Georgia" .
+<Male> <common.topic.image> "male.jpg" .
+<Indiana> <base.locations.states_and_provences.country> "United States of America" .
+<Connecticut> <location.location.time_zones> "Eastern Time Zone" .
+<United_States_of_America> <location.country.first_level_divisions> "Iowa" .
+<Virginia> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdivides_place> "United States, with Territories" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<Brandon_Carter> <people.person.place_of_birth> "Lakewood" .
+<United_States_of_America> <location.country.administrative_divisions> "Louisiana" .
+<Male> <common.topic.article> "m.05zpq8" .
+<United_States_of_America> <location.country.administrative_divisions> "Nevada" .
+<Gout> <medicine.disease_cause.diseases> "Kidney Stone" .
+<California> <location.administrative_division.country> "United States of America" .
+<Barbara_P._Norfleet> <people.person.place_of_birth> "Lakewood" .
+<United_States_of_America> <location.country.first_level_divisions> "Nevada" .
+<Oregon> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <government.governmental_jurisdiction.government_bodies> "Supreme Court of the United States" .
+<Person> <freebase.type_profile.published> "Published" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Montana" .
+<08701> <location.location.contains> "Lakewood Airport" .
+<Washington,_D.C.> <location.location.containedby> "United States of America" .
+<Idaho> <location.administrative_division.country> "United States of America" .
+<Hair_loss> <medicine.disease.risk_factors> "Male" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Star_Technical_Institute-Lakewood> <location.location.containedby> "New Jersey" .
+<Ventricular_tachycardia> <medicine.symptom.symptom_of> "heart attack" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Emphysema> <medicine.disease.risk_factors> "Male" .
+<Michael_Kelber> <people.person.nationality> "United States of America" .
+<Kawasaki_disease> <medicine.disease.risk_factors> "Male" .
+<New_Mexico> <base.biblioness.bibs_location.country> "United States of America" .
+<Lakewood> <location.location.people_born_here> "Stan Kasten" .
+<m.0_qx8_r> <award.award_honor.award_winner> "Stan Kasten" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<Stan_Kasten> <award.award_winner.awards_won> "m.0_qx8_r" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Pennsylvania" .
+<Lakewood> <location.location.contains> "Lakewood" .
+<United_States_of_America> <base.locations.countries.continent> "North America" .
+<Lakewood> <location.statistical_region.population> "m.066dl32" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<Ectodermal_dysplasia> <medicine.disease.symptoms> "Hair loss" .
+<Alaska> <base.biblioness.bibs_location.country> "United States of America" .
+<Texas> <location.location.containedby> "United States of America" .
+<Maine> <location.location.containedby> "United States, with Territories" .
+<West_Virginia> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Michigan" .
+<Antisocial_personality_disorder> <medicine.disease.risk_factors> "Male" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<Leader_of> <type.property.master_property> "Person" .
+<Gout> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "Rhode Island" .
+<Nicolas_Roye> <people.person.gender> "Male" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<Ocean_County> <location.location.nearby_airports> "Lakewood Airport" .
+<Hodgkin's_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Ectodermal_dysplasia> <medicine.disease.risk_factors> "Male" .
+<Organization_leader> <type.type.expected_by> "Person" .
+<New_Jersey> <location.location.time_zones> "Eastern Time Zone" .
+<Georgian_Court> <location.location.containedby> "New Jersey" .
+<U.S._state> <base.aareas.schema.administrative_area_type.sovereignty> "United States of America" .
+<Star_Technical_Institute-Lakewood> <location.location.containedby> "Lakewood" .
+<Lakewood> <location.statistical_region.population> "m.066dl3n" .
+<Bais_Medrash_Toras_Chesed> <location.location.containedby> "Lakewood" .
+<North_Carolina> <location.administrative_division.first_level_division_of> "United States of America" .
+<Maine> <location.location.time_zones> "Eastern Time Zone" .
+<Vermont> <location.location.time_zones> "Eastern Time Zone" .
+<Washington,_D.C.> <base.biblioness.bibs_topic.is_really> "Washington, D.C." .
+<08701-7874> <location.location.containedby> "Ocean County" .
+<United_States_of_America> <location.country.first_level_divisions> "New York" .
+<Anaplastic_thyroid_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Organization_leader> <type.type.properties> "Governance of" .
+<Delaware> <location.location.containedby> "United States, with Territories" .
+<Mississippi> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Washington" .
+<Ventricular_tachycardia> <medicine.disease.risk_factors> "Male" .
+<South_Carolina> <location.administrative_division.first_level_division_of> "United States of America" .
+<South_Carolina> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.administrative_divisions> "Vermont" .
+<Indiana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0_qxdpj> <freebase.valuenotation.has_no_value> "Winning work" .
+<New_Jersey> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Indiana" .
+<Oklahoma> <location.location.containedby> "United States of America" .
+<Stan_Kasten> <people.person.education> "m.02wnnnm" .
+<ZasPorn> <common.topic.subject_of> "Male" .
+<Atlanta> <location.hud_county_place.place> "Atlanta" .
+<Delaware> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<United_States_of_America> <location.country.administrative_divisions> "Mississippi" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Maryland" .
+<Transient_ischemic_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Colorado> <base.locations.states_and_provences.country> "United States of America" .
+<North_Dakota> <location.location.containedby> "United States, with Territories" .
+<08701> <location.location.containedby> "Lakewood" .
+<Missouri> <base.locations.states_and_provences.country> "United States of America" .
+<Stan_Kasten_06-05-10_Nats_Blogger_Day> <common.image.appears_in_topic_gallery> "Stan Kasten" .
+<United_States_of_America> <location.country.first_level_divisions> "Florida" .
+<New_Jersey> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <law.court_jurisdiction_area.courts> "Supreme Court of the United States" .
+<Lakewood> <location.statistical_region.population> "m.066dl2q" .
+<Person> <type.property.expected_type> "Organization leader" .
+<New_Mexico> <location.location.containedby> "United States, with Territories" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<08701-7874> <location.location.containedby> "New Jersey" .
+<United_States_of_America> <location.country.first_level_divisions> "North Carolina" .
+<Rhode_Island> <base.locations.states_and_provences.country> "United States of America" .
+<Rhode_Island> <base.biblioness.bibs_location.country> "United States of America" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<m.0_qx8_r> <freebase.valuenotation.has_no_value> "Winning work" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "South Dakota" .
+<United_States_of_America> <location.country.administrative_divisions> "Michigan" .
+<North_Dakota> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<Yeshiva_Toras_Chaim> <education.educational_institution_campus.educational_institution> "Yeshiva Toras Chaim" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<Supreme_Court_of_the_United_States> <law.court.jurisdiction> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Iowa" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Louisiana> <base.locations.states_and_provences.country> "United States of America" .
+<Lakewood> <location.location.people_born_here> "Arthur Siegel" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<Tetralogy_of_Fallot> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<United_States_of_America> <location.country.administrative_divisions> "Wyoming" .
+<Organization_leader> <freebase.type_hints.included_types> "Person" .
+<Natalie_Hays_Hammond> <people.person.place_of_birth> "Lakewood" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Delaware" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Bais_Medrash_Toras_Chesed> <location.location.containedby> "United States of America" .
+<U.S._federal_district> <base.aareas.schema.administrative_area_type.pertains_to> "United States of America" .
+<North_Carolina> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oklahoma" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Hair_loss> <medicine.symptom.symptom_of> "Ectodermal dysplasia" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Colorado> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Nebraska> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Virginia" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "South Carolina" .
+<New_York> <location.location.time_zones> "Eastern Time Zone" .
+<Dupuytren's_contracture> <medicine.disease.risk_factors> "Male" .
+<Vermont> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Missouri> <base.biblioness.bibs_location.country> "United States of America" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<Missouri> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Illinois" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "Washington" .
+<Lakewood> <location.location.contains> "Beth Medrash Govoha" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<Maine> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "California" .
+<Non-Hodgkin_lymphoma> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <location.country.administrative_divisions> "Massachusetts" .
+<John_Reppy> <people.person.gender> "Male" .
+<Atlanta> <base.biblioness.bibs_location.country> "United States of America" .
+<Colorado> <location.location.containedby> "United States, with Territories" .
+<Florida> <location.location.containedby> "United States of America" .
+<Arkansas> <base.locations.states_and_provences.country> "United States of America" .
+<North_Dakota> <location.location.containedby> "United States of America" .
+<Illinois> <base.locations.states_and_provences.country> "United States of America" .
+<Lakewood> <common.topic.image> "Map of Lakewood Township in Ocean County" .
+<Florida> <base.locations.states_and_provences.country> "United States of America" .
+<Utah> <location.administrative_division.first_level_division_of> "United States of America" .
+<Person> <rdf-schema#range> "Organization leader" .
+<Hair_loss> <medicine.symptom.symptom_of> "Seborrheic dermatitis" .
+<Aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<NBA_Executive_of_the_Year_Award> <award.award_category.winners> "m.0_qx8_r" .
+<Lakewood> <location.location.people_born_here> "Spider Bennett" .
+<Bais_Medrash_Toras_Chesed> <education.educational_institution_campus.educational_institution> "Bais Medrash Toras Chesed" .
+<Georgian_Court_University> <education.educational_institution.campuses> "Georgian Court University" .
+<Lakewood> <location.citytown.postal_codes> "08701-7874" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<United_States_of_America> <location.country.capital> "Washington, D.C." .
+<Utah> <base.locations.states_and_provences.country> "United States of America" .
+<Wyoming> <base.locations.states_and_provences.country> "United States of America" .
+<Lake_Carasaljo> <geography.lake.basin_countries> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<Wisconsin> <location.administrative_division.country> "United States of America" .
+<Lakewood> <location.location.geolocation> "m.0kf89b" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Nevada" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<Rhode_Island> <location.administrative_division.country> "United States of America" .
+<Natalie_Hays_Hammond> <people.person.nationality> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Kansas" .
+<Connecticut> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Wisconsin" .
+<Louisiana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Strand_Theatre> <location.location.containedby> "Lakewood" .
+<New_Jersey> <base.biblioness.bibs_location.country> "United States of America" .
+<U.S._federal_district> <freebase.type_hints.included_types> "Topic" .
+<Lakewood> <location.location.contains> "Lake Carasaljo" .
+<Pectus_excavatum> <medicine.disease.risk_factors> "Male" .
+<Tennessee> <location.location.time_zones> "Eastern Time Zone" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<Maine> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<Utah> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<New_Mexico> <location.administrative_division.country> "United States of America" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<Person> <type.property.reverse_property> "Leader of" .
+<Washington,_D.C.> <location.location.time_zones> "Eastern Time Zone" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Mexico" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Washington, D.C." .
+<Star_Technical_Institute-Lakewood> <education.educational_institution.campuses> "Star Technical Institute-Lakewood" .
+<Lakewood> <location.location.people_born_here> "Morton I. Abramowitz" .
+<United_States_of_America> <location.country.first_level_divisions> "Kentucky" .
+<Yeshiva_Toras_Chaim> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Florida" .
+<Pyloric_stenosis> <medicine.disease.risk_factors> "Male" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<United_States_of_America> <location.country.first_level_divisions> "New Mexico" .
+<Nebraska> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<m.0_qx8_r> <award.award_honor.award> "NBA Executive of the Year Award" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Jersey" .
+<United_States_of_America> <location.country.administrative_divisions> "Illinois" .
+<Wisconsin> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "North Dakota" .
+<New_Hampshire> <location.location.time_zones> "Eastern Time Zone" .
+<m.0_qx8_r> <freebase.valuenotation.has_no_value> "Ceremony" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Minnesota" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Ohio" .
+<Maine> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<08701-7874> <location.location.containedby> "08701" .
+<Mississippi> <location.administrative_division.first_level_division_of> "United States of America" .
+<Nevada> <base.biblioness.bibs_location.country> "United States of America" .
+<North_America> <location.location.partially_contains> "United States of America" .
+<Maryland> <location.location.containedby> "United States, with Territories" .
+<Spider_Bennett> <people.person.place_of_birth> "Lakewood" .
+<New_York> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Mississippi" .
+<North_America> <location.location.time_zones> "Eastern Time Zone" .
+<Missouri> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_parent> "United States, with Territories" .
+<Lake_Carasaljo> <location.location.containedby> "Lakewood" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<Ohio> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<m.0_qxdpj> <freebase.valuenotation.has_no_value> "Ceremony" .
+<U.S._state> <freebase.type_hints.included_types> "Topic" .
+<Organization_leader> <freebase.type_profile.strict_included_types> "Person" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<male.jpg> <common.image.appears_in_topic_gallery> "Male" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "North Carolina" .
+<Maryland> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Arizona" .
+<Organization_leader> <type.type.properties> "Leader of" .
+<United_States_of_America> <location.country.administrative_divisions> "Alaska" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Kansas" .
+<Delaware> <location.location.time_zones> "Eastern Time Zone" .
+<Delaware> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<United_States_of_America> <location.country.administrative_divisions> "Missouri" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<Oklahoma> <base.biblioness.bibs_location.country> "United States of America" .
+<m.040jjtv> <common.webpage.topic> "Lakewood" .
+<United_States_of_America> <location.country.administrative_divisions> "West Virginia" .
+<United_States_of_America> <location.country.first_level_divisions> "Kansas" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Indiana" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<New_Mexico> <location.location.containedby> "United States of America" .
+<Nevada> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Washington> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.first_level_divisions> "Mississippi" .
+<Louisiana> <location.location.containedby> "United States, with Territories" .
+<Leprosy> <medicine.disease.risk_factors> "Male" .
+<Washington> <base.biblioness.bibs_location.country> "United States of America" .
+<Wyoming> <location.location.containedby> "United States, with Territories" .
+<Nevada> <location.administrative_division.first_level_division_of> "United States of America" .
+<Minnesota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Area_codes_732_and_848> <location.location.containedby> "New Jersey" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<United_States_of_America> <location.location.time_zones> "Eastern Time Zone" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<New_York> <base.locations.states_and_provences.country> "United States of America" .
+<Beth_Medrash_Govoha> <location.location.containedby> "Lakewood" .
+<neilplus's_types> <freebase.domain_profile.category> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "West Virginia" .
+<North_Dakota> <base.biblioness.bibs_location.country> "United States of America" .
+<Lakewood> <location.location.contains> "Georgian Court" .
+<New_Jersey> <location.administrative_division.first_level_division_of> "United States of America" .
+<Massachusetts> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Rhode_Island> <location.location.time_zones> "Eastern Time Zone" .
+<Non-gonococcal_urethritis> <medicine.disease.risk_factors> "Male" .
+<Organization_leader> <common.topic.article> "m.0d9tvr2" .
+<South_Dakota> <location.administrative_division.country> "United States of America" .
+<Lakewood> <location.citytown.postal_codes> "08701" .
+<NBA_Executive_of_the_Year_Award> <award.award_category.winners> "m.0_qxdpj" .
+<United_States_of_America> <location.country.administrative_divisions> "Montana" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Hampshire" .
+<New_York_University> <location.location.containedby> "New York" .
+<Georgian_Court> <location.location.containedby> "Lakewood" .
+<Vermont> <location.administrative_division.country> "United States of America" .
+<Armin_Shimerman> <people.person.nationality> "United States of America" .
+<Arkansas> <location.location.containedby> "United States, with Territories" .
+<Gout> <medicine.icd_9_cm_classification.includes_classifications> "Gout" .
+<Lakewood> <location.location.contains> "08701" .
+<United_States_of_America> <location.country.administrative_divisions> "Texas" .
+<United_States_of_America> <location.country.administrative_divisions> "Wisconsin" .
+<Rhode_Island> <location.location.containedby> "United States of America" .
+<New_York> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<Person> <type.property.reverse_property> "Governance of" .
+<United_States_of_America> <location.country.first_level_divisions> "Alabama" .
+<Minnesota> <base.locations.states_and_provences.continent> "North America" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<South_Dakota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<U.S._federal_district> <base.aareas.schema.administrative_area_type.iso_country> "United States of America" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<Columbia_University> <education.educational_institution.subsidiary_or_constituent_schools> "Columbia Law School" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<Montana> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Indiana" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Montana" .
+<08701> <location.location.containedby> "Ocean County" .
+<United_States_of_America> <location.country.first_level_divisions> "Arkansas" .
+<Kansas> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "North Carolina" .
+<Brandon_Carter> <people.person.gender> "Male" .
+<Athlete's_foot> <medicine.disease.risk_factors> "Male" .
+<Nevada> <location.administrative_division.country> "United States of America" .
+<Kentucky> <location.location.containedby> "United States of America" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<Indiana> <location.location.time_zones> "Eastern Time Zone" .
+<m.02wnnnm> <education.education.institution> "Columbia University" .
+<Paget's_disease_of_bone> <medicine.disease.risk_factors> "Male" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.country> "United States of America" .
+<Connecticut> <location.location.containedby> "United States of America" .
+<Delaware> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "New Hampshire" .
+<Tennessee> <location.administrative_division.country> "United States of America" .
+<Oregon> <location.location.containedby> "United States, with Territories" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<Tetralogy_of_Fallot> <medicine.disease.risk_factors> "Male" .
+<Urethritis> <medicine.disease.risk_factors> "Male" .
+<Organization_leader> <freebase.type_profile.kind> "Role" .
+<United_States_of_America> <location.country.first_level_divisions> "Alaska" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Mississippi" .
+<Columbia_Law_School> <education.educational_institution_campus.educational_institution> "Columbia Law School" .
+<Massachusetts> <location.location.containedby> "United States of America" .
+<Bais_Medrash_Toras_Chesed> <education.educational_institution.campuses> "Bais Medrash Toras Chesed" .
+<United_States_of_America> <location.country.first_level_divisions> "Colorado" .
+<Mississippi> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Alaska" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<Ohio> <base.locations.states_and_provences.country> "United States of America" .
+<Arizona> <base.aareas.schema.administrative_area.administrative_area_type> "U.S. state" .
+<New_Mexico> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Massachusetts" .
+<United_States_of_America> <location.country.first_level_divisions> "Oregon" .
+<Washington> <location.location.containedby> "United States of America" .
+<Benjamin_Orr> <people.person.gender> "Male" .
+<New_Hampshire> <location.location.containedby> "North America" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<Missouri> <location.location.containedby> "United States, with Territories" .
+<Montana> <location.location.containedby> "United States of America" .
+<Colorado> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Michigan" .
+<Lakewood> <location.statistical_region.population> "g.11bc85kxbj" .
+<South_Carolina> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdividing_type> "U.S. state" .
+<Connecticut> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Washington,_D.C.> <base.biblioness.bibs_topic.subsumes> "Washington, D.C." .
+<North_America> <base.locations.continents.states_provinces_within> "Minnesota" .
+<Oklahoma> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Utah" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Indiana> <base.biblioness.bibs_location.country> "United States of America" .
+<Val_Ackerman> <people.person.place_of_birth> "Lakewood" .
+<South_Dakota> <location.location.containedby> "United States, with Territories" .
+<Texas> <base.biblioness.bibs_location.country> "United States of America" .
+<Lakewood> <location.location.contains> "08701-7874" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Arkansas" .
+<m.02wnnnm> <education.education.student> "Stan Kasten" .
+<Lakewood> <location.statistical_region.population> "m.066dl38" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<United_States_of_America> <location.country.first_level_divisions> "New Hampshire" .
+<Lakewood> <location.location.contains> "FirstEnergy Park" .
+<Lakewood> <base.wikipedia_infobox.settlement.area_code> "Area codes 732 and 848" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Virginia" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<North_America> <base.locations.continents.states_provinces_within> "Montana" .
+<U.S._state> <base.aareas.schema.administrative_area_type.iso_country> "United States of America" .
+<Lakewood> <location.location.containedby> "New Jersey" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<United_States_of_America> <location.country.administrative_divisions> "South Carolina" .
+<Lakewood> <location.statistical_region.population> "m.066dl3g" .
+<United_States,_with_Territories> <base.aareas.schema.earth.sovereign_domain.sovereign_state> "United States of America" .
+<Illinois> <base.biblioness.bibs_location.country> "United States of America" .
+<Georgia> <location.administrative_division.first_level_division_of> "United States of America" .
+<Beth_Medrash_Govoha> <location.location.containedby> "United States of America" .
+<Multiple_myeloma> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Washington,_D.C.> <common.topic.notable_types> "City/Town/Village" .
+<Wyoming> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Massachusetts" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New York" .
+<Kansas> <location.administrative_division.first_level_division_of> "United States of America" .
+<Columbia_Law_School> <location.location.containedby> "New York" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "California" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Alabama" .
+<New_Hampshire> <base.biblioness.bibs_location.country> "United States of America" .
+<Ohio> <location.location.containedby> "United States, with Territories" .
+<Stan_Kasten> <common.topic.notable_types> "Organization leader" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Golfer's_elbow> <medicine.disease.risk_factors> "Male" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Massachusetts> <location.administrative_division.first_level_division_of> "United States of America" .
+<Stan_Kasten> <people.person.education> "m.04hn2xg" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Sebaceous_cyst> <medicine.disease.risk_factors> "Male" .
+<m.03pwsxn> <people.place_lived.person> "Stan Kasten" .
+<Club_foot> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Nebraska" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<08701> <location.location.contains> "08701-7874" .
+<North_Carolina> <location.location.time_zones> "Eastern Time Zone" .
+<Iowa> <location.location.containedby> "United States of America" .
+<United_States,_with_Territories> <location.location.partially_containedby> "North America" .
+<United_States_of_America> <location.country.administrative_divisions> "Rhode Island" .
+<North_America> <location.location.partially_contains> "United States, with Territories" .
+<Kentucky> <location.administrative_division.first_level_division_of> "United States of America" .
+<Menashe_Miller> <common.topic.notable_types> "Person" .
+<Florida> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Maine" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Louisiana" .
+<New_Jersey> <base.aareas.schema.administrative_area.administrative_area_type> "U.S. state" .
+<Lakewood> <location.location.people_born_here> "Barbara P. Norfleet" .
+<Dick_Estelle> <people.person.gender> "Male" .
+<Oregon> <location.administrative_division.first_level_division_of> "United States of America" .
+<Washington> <location.administrative_division.first_level_division_of> "United States of America" .
+<Massachusetts> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.first_level_divisions> "Nebraska" .
+<Will_Hayes> <people.person.place_of_birth> "Lakewood" .
+<Pennsylvania> <location.administrative_division.first_level_division_of> "United States of America" .
+<Michigan> <base.locations.states_and_provences.country> "United States of America" .
+<West_Virginia> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Lakewood> <location.location.people_born_here> "Haakon Chevalier" .
+<Arizona> <location.administrative_division.first_level_division_of> "United States of America" .
+<Lakewood> <location.location.containedby> "United States of America" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Pennsylvania> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Pennsylvania> <location.location.time_zones> "Eastern Time Zone" .
+<Wisconsin> <location.administrative_division.first_level_division_of> "United States of America" .
+<Illinois> <location.administrative_division.first_level_division_of> "United States of America" .
+<Arizona> <base.biblioness.bibs_location.country> "United States of America" .
+<Lakewood> <location.location.people_born_here> "Cliff Kresge" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<Tennessee> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Illinois" .
+<United_States_of_America> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.aareas.schema.administrative_area.pertinent_type> "U.S. federal district" .
+<Person> <owl#inverseOf> "Governance of" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Kansas> <location.location.containedby> "United States of America" .
+<North_Carolina> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Missouri" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<Washington,_D.C.> <location.hud_county_place.place> "Washington, D.C." .
+<New_Mexico> <location.administrative_division.first_level_division_of> "United States of America" .
+<Arkansas> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.administrative_division.first_level_division_of> "United States, with Territories" .
+<New_Hampshire> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<Wyoming> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "South Carolina" .
+<Risk_Factor> <freebase.type_hints.included_types> "Topic" .
+<Oregon> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<David_Lee_Russek> <people.person.nationality> "United States of America" .
+<Atlanta> <base.biblioness.bibs_location.state> "Georgia" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<m.0_qxdpj> <award.award_honor.award> "NBA Executive of the Year Award" .
+<Arizona> <location.location.containedby> "United States of America" .
+<Steve_Tisch> <people.person.nationality> "United States of America" .
+<Stan_Kasten> <common.topic.article> "m.0fpx_d" .
+<Virginia> <location.location.containedby> "United States of America" .
+<New_Hampshire> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Michigan> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "North Dakota" .
+<Males> <base.skosbase.skos_concept.equivalent_topic> "Male" .
+<California> <location.administrative_division.first_level_division_of> "United States of America" .
+<Connecticut> <location.administrative_division.country> "United States of America" .
+<Lakewood> <location.statistical_region.population> "m.052b4vj" .
+<m.0_yv0g3> <organization.leadership.organization> "Los Angeles Dodgers" .
+<Minnesota> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Maine" .
+<Will_Hayes> <people.person.gender> "Male" .
+<Utah> <location.location.containedby> "United States of America" .
+<Vermont> <location.administrative_division.first_level_division_of> "United States of America" .
+<Virginia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Minnesota> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "West Virginia" .
+<Pennsylvania> <location.administrative_division.country> "United States of America" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<United_States_of_America> <location.country.first_level_divisions> "Wyoming" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Utah" .
+<Lakewood> <common.topic.notable_types> "City/Town/Village" .
+<United_States_of_America> <location.country.administrative_divisions> "Oregon" .
+<Syphilis> <medicine.disease.risk_factors> "Male" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<Beth_Medrash_Govoha> <location.location.containedby> "New Jersey" .
+<Louisiana> <location.administrative_division.country> "United States of America" .
+<New_Hampshire> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<Val_Ackerman> <common.topic.notable_types> "Organization leader" .
+<08701-7874> <location.location.containedby> "United States of America" .
+<Arkansas> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Ohio" .
+<U.S._state> <base.aareas.schema.administrative_area_type.pertains_to> "United States of America" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Tennessee> <location.location.containedby> "United States, with Territories" .
+<Idaho> <base.biblioness.bibs_location.country> "United States of America" .
+<Alabama> <location.administrative_division.country> "United States of America" .
+<California> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Massachusetts> <base.biblioness.bibs_location.country> "United States of America" .
+<Beth_Medrash_Govoha> <education.educational_institution.campuses> "Beth Medrash Govoha" .
+<Arkansas> <location.administrative_division.country> "United States of America" .
+<Hawaii> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Delaware> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<United_States_of_America> <location.country.first_level_divisions> "Texas" .
+<Lakewood> <location.location.people_born_here> "Natalie Hays Hammond" .
+<North_America> <base.locations.continents.countries_within> "United States of America" .
+<Wisconsin> <location.location.containedby> "United States, with Territories" .

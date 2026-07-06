@@ -1,0 +1,2219 @@
+<m.0hm0y13> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Union_City> <location.statistical_region.population> "m.0hm2gds" .
+<73099> <common.topic.notable_types> "Postal Code" .
+<Okarche> <location.statistical_region.population> "m.0hm1vlk" .
+<US_Census_2000_Tract_40017300202> <location.location.containedby> "Canadian County" .
+<Calumet> <location.statistical_region.population> "g.11x1d0x7l" .
+<m.07332y5> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Airport> <freebase.type_hints.included_types> "Location" .
+<US_Census_2000_Tract_40017301405> <location.census_tract.oth_vac> "m.073333r" .
+<m.07gt152> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301005> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdpk" .
+<Bridgeport_Hill-Hydro_OK_66_Segment> <location.location.containedby> "Canadian County" .
+<US_Census_2000_Tract_40017300903> <location.census_tract.bus_vac> "m.07332jx" .
+<Geary> <location.statistical_region.population> "m.0hm11rj" .
+<Concho,_Oklahoma> <location.location.geolocation> "m.04bhxpc" .
+<El_Reno_Regional_Airport> <location.location.containedby> "Canadian County" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<El_Reno> <location.statistical_region.population> "m.0hm0xyq" .
+<US_Census_2000_Tract_40017301202> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdw0" .
+<US_Census_2000_Tract_40017301003> <location.census_tract.ams_oth> "m.07332n8" .
+<Piedmont> <location.statistical_region.population> "g.11x1jzv6v" .
+<m.0hm2gg3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0566lls> <location.geometry.delineates_location> "73090" .
+<73090> <location.location.geometry> "m.0566lls" .
+<2013_El_Reno_tornado> <common.topic.notable_types> "Disaster" .
+<m.0hm11vw> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.contains> "El Reno" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvd1" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv7y" .
+<US_Census_2000_Tract_40017300903> <location.census_tract.ams_oth> "m.07332jg" .
+<Yukon> <location.statistical_region.population> "g.11bymhym3f" .
+<Union_City> <location.statistical_region.population> "m.0hm2gg_" .
+<m.06zwxqc> <protected_sites.natural_or_cultural_site_listing.listed_site> "Fort Reno" .
+<Union_City> <location.statistical_region.population> "g.11x1djlhw" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Piedmont> <location.statistical_region.population> "g.11x1djhr5" .
+<US_Census_2000_Tract_40017300201> <location.census_tract.ams_oth> "m.07331wb" .
+<Canadian_County> <location.location.contains> "Yukon" .
+<m.06_p94x> <protected_sites.natural_or_cultural_site_listing.listed_site> "Mennoville Mennonite Church" .
+<US_Census_2000_Tract_40017301005> <location.census_tract.ams_res> "m.07332rg" .
+<m.0gx5g2h> <book.periodical_format_period.periodical> "Yukon Review" .
+<Mustang> <location.statistical_region.population> "g.11x1lkc5r" .
+<US_Census_2000_Tract_40017300901> <location.census_tract.ams_res> "m.07332d0" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.administrative_children> "United States of America" .
+<Calumet> <location.statistical_region.population> "g.11x1ls70s" .
+<Redlands_Community_College> <education.educational_institution.campuses> "Redlands Community College" .
+<Newspaper> <freebase.type_profile.strict_included_types> "Topic" .
+<m.07gvd6n> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300201> <location.census_tract.res_vac> "m.07331w3" .
+<Geary> <location.statistical_region.population> "m.0hm11sn" .
+<Lincoln_County> <location.location.containedby> "Oklahoma" .
+<Blaine_County> <location.location.adjoin_s> "m.03jpzyc" .
+<El_Reno> <location.statistical_region.population> "g.11x1hxr6j" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvjl" .
+<Union_City> <location.statistical_region.population> "g.11x1fqbvr" .
+<El_Reno_High_School> <location.location.containedby> "Oklahoma" .
+<73064> <common.topic.notable_types> "Postal Code" .
+<El_Reno_Regional_Airport> <common.topic.notable_types> "Airport" .
+<Okarche> <location.statistical_region.population> "m.0hm1vkg" .
+<US_Census_2000_Tract_40017301001> <location.census_tract.ams_oth> "m.07332lc" .
+<Concho,_Oklahoma> <common.topic.notable_types> "City/Town/Village" .
+<m.07gvf00> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07gvc_l> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv9h" .
+<Calumet> <location.location.containedby> "Oklahoma" .
+<Yukon> <location.location.containedby> "Oklahoma" .
+<Scott,_Oklahoma> <location.location.time_zones> "Central Time Zone" .
+<US_Census_2000_Tract_40017301404> <location.census_tract.avg_vac_b> "m.0733316" .
+<m.0hm2gd_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oklahoma> <location.location.containedby> "United States of America" .
+<m.07331ws> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Caddo_County> <location.location.contains> "Scott, Oklahoma" .
+<m.0hm1z3h> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm11t9> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.people_born_here> "Gideon Tinsley" .
+<m.0hm1rp0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm0jf3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300802" .
+<m.07331_4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm1rqt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm1rpx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdwm> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301201> <common.topic.notable_types> "US Census Tract" .
+<m.07gvdcq> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvjz" .
+<Canadian_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Jesse_L._Reno> <people.person.nationality> "United States of America" .
+<m.0k6wwhc> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Okarche> <location.location.people_born_here> "Chris Schroder" .
+<US_Census_2000_Tract_40017301406> <location.census_tract.oth_vac> "m.073335z" .
+<Piedmont> <location.statistical_region.population> "g.11x1f72yz" .
+<US_Census_2000_Tract_40017301405> <location.census_tract.avg_vac_b> "m.0733333" .
+<m.0hm0jfs> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvd79> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07gvdg6> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<2013_El_Reno_tornado> <time.event.locations> "Canadian County" .
+<Administrative_Division> <freebase.type_hints.included_types> "Statistical region" .
+<Canadian_County> <location.statistical_region.population> "g.11x1jby_z" .
+<Mustang> <periodicals.newspaper_circulation_area.newspapers> "Mustang News" .
+<Canadian_County> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gsszv" .
+<Canadian_County> <location.statistical_region.population> "g.11x1jxjr0" .
+<El_Reno> <location.statistical_region.population> "m.0hm0xzd" .
+<El_Reno> <location.statistical_region.population> "m.0hm0x_r" .
+<m.07gt1cn> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hjstf7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstgs" .
+<m.07331zy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300903> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdhx" .
+<Fort_Reno> <common.topic.notable_types> "Listed Site" .
+<Central_Time_Zone> <base.schemastaging.context_name.pronunciation> "g.125_mmrcv" .
+<m.07gvdfd> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301202> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdvt" .
+<US_Census_2000_Tract_40017300600> <common.topic.notable_for> "g.125cng95s" .
+<Union_City> <common.topic.image> "OKMap-doton-UnionCity" .
+<Calumet> <location.statistical_region.population> "m.0hm0jf_" .
+<Mustang> <location.statistical_region.population> "m.0hm1rmx" .
+<US_Census_2000_Tract_40017300100> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvcyt" .
+<m.07gvd6w> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300400> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvd3_" .
+<Canadian_County_/_County_Place_4001799999> <location.hud_county_place.county> "Canadian County" .
+<El_Reno> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gt16s" .
+<US_Census_2000_Tract_40017301300> <location.census_tract.oth_vac> "m.07332_y" .
+<Mustang> <location.location.containedby> "Oklahoma" .
+<Canadian_County> <location.statistical_region.population> "g.11x1hzknx" .
+<Canadian_County_/_Piedmont_city> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gt1h3" .
+<Scott,_Oklahoma> <location.location.containedby> "Oklahoma" .
+<m.0hm2phc> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oklahoma_City,_OK_HUD_Metro_FMR_Area> <location.hud_section_8_area.county> "Logan County" .
+<Yukon> <location.statistical_region.population> "m.0hm2pft" .
+<Union_City> <location.statistical_region.population> "m.0hm2ggs" .
+<Union_City> <location.statistical_region.population> "g.11x1kc5nh" .
+<US_Census_2000_Tract_40017301404> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdy2" .
+<Kingfisher_County> <location.location.contains> "Okarche" .
+<Okarche> <location.citytown.postal_codes> "73762" .
+<Calumet> <location.statistical_region.population> "m.0hm0jd6" .
+<Caddo_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<m.0hjstk0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.073322r> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.09x5rwq> <common.webpage.topic> "Yukon" .
+<Lincoln_County> <location.location.containedby> "Oklahoma City, OK Metropolitan Statistical Area" .
+<US_Census_2000_Tract_40017300500> <location.census_tract.ams_oth> "m.073322z" .
+<73762> <location.location.containedby> "Canadian County" .
+<US_Census_2000_Tract_40017301406> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvf0g" .
+<US_Census_2000_Tract_40017300400> <common.topic.notable_types> "US Census Tract" .
+<Calumet> <location.statistical_region.population> "g.11x1cgnv_" .
+<El_Reno> <location.citytown.postal_codes> "73036" .
+<US_Census_2000_Tract_40017300400> <location.census_tract.ams_res> "m.073320f" .
+<73762> <common.topic.notable_for> "g.12594n1f3" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Canadian_County_/_Okarche_town> <location.hud_county_place.county> "Canadian County" .
+<US_Census_2000_Tract_40017300600> <location.census_tract.avg_vac_r> "m.073325j" .
+<m.07gt14n> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301404> <common.topic.notable_for> "g.1259h09l3" .
+<Union_City> <location.citytown.postal_codes> "73090" .
+<El_Reno> <location.statistical_region.population> "m.0hm0y0x" .
+<Union_City> <location.statistical_region.population> "m.0hm2gdk" .
+<Red_Cross_Canteen> <location.location.containedby> "El Reno" .
+<El_Reno_Regional_Airport> <aviation.airport.serves> "El Reno" .
+<US_Census_2000_Tract_40017300202> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvd11" .
+<Mustang> <location.statistical_region.population> "g.11bymk7dc0" .
+<US_Census_2000_Tract_40017300801> <location.census_tract.oth_vac> "m.0733291" .
+<Richland> <location.location.containedby> "Oklahoma" .
+<US_Census_2000_Tract_40017301404> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdyz" .
+<m.0hm2gfx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07332d0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstkg" .
+<Canadian_County> <location.location.adjoin_s> "m.03jrpkl" .
+<m.0hm0xzd> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Disaster> <freebase.type_hints.included_types> "Topic" .
+<m.0k6jw_8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Darlington_Agency_Site> <common.topic.notable_types> "Listed Site" .
+<Calumet> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gt14n" .
+<US_Census_2000_Tract_40017301406> <location.hud_foreclosure_area.hhuniv> "m.07gvd_t" .
+<US_Census_2000_Tract_40017300903> <location.census_tract.res_vac> "m.07332j7" .
+<m.07gt16s> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301003> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdlm" .
+<m.07gt1p5> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.location.contains> "73078" .
+<Oklahoma_County> <location.us_county.county_seat> "Oklahoma City" .
+<m.0hm0y05> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdr0> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Yukon> <location.statistical_region.population> "g.11x1h5c6y" .
+<Calumet> <common.topic.notable_types> "City/Town/Village" .
+<Canadian_County> <location.statistical_region.population> "g.11b674hjx8" .
+<US_Census_2000_Tract_40017301005> <location.hud_foreclosure_area.hhuniv> "m.07gvdpb" .
+<Oklahoma_City,_OK_HUD_Metro_FMR_Area> <location.hud_section_8_area.median_family_income> "m.075l6xr" .
+<US_Census_2000_Tract_40017301202> <location.hud_foreclosure_area.hhuniv> "m.07gvdty" .
+<El_Reno> <periodicals.newspaper_circulation_area.newspapers> "El Reno Tribune" .
+<US_Census_2000_Tract_40017300901> <location.census_tract.ams_oth> "m.07332dn" .
+<Statistical_region> <type.type.domain> "Location" .
+<El_Reno> <location.location.people_born_here> "Jim Kamp" .
+<m.03jrsfx> <location.adjoining_relationship.adjoins> "Canadian County" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvdn" .
+<m.05gf8qk> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<El_Reno> <location.hud_county_place.place> "El Reno" .
+<73064> <location.location.geometry> "m.0587kd9" .
+<m.07332s2> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Calumet> <common.topic.article> "m.0z4jq" .
+<Calumet> <location.statistical_region.population> "m.0hm0jcs" .
+<m.07332nh> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<73022> <location.location.geolocation> "m.03dw71c" .
+<Clarence_E._Page_Municipal_Airport> <location.location.geolocation> "m.0dgblbf" .
+<Okarche> <location.location.containedby> "Canadian County" .
+<Okarche> <base.wikipedia_infobox.settlement.area_code> "Area code 405" .
+<Powers> <common.topic.notable_for> "g.1258b_t0c" .
+<Mustang> <location.statistical_region.population> "g.11x1h7580" .
+<Blaine_County> <location.location.contains> "Geary" .
+<m.0hjstkx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.adjoin_s> "m.03jrsfx" .
+<US_Census_2000_Tract_40017301001> <location.census_tract.ams_res> "m.07332kr" .
+<m.07332r0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.location.people_born_here> "Joe Albertson" .
+<Canadian_County_/_Okarche_town> <location.location.containedby> "Canadian County" .
+<m.0hjstg_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301004> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdnz" .
+<Canadian_County> <location.location.contains> "Geary" .
+<m.0733339> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Union_City> <location.location.geolocation> "m.0kgbxh" .
+<m.07gvczk> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Mustang> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gt1bk" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstd3" .
+<Canadian_County_/_Piedmont_city> <location.hud_foreclosure_area.hhuniv> "m.07gt1gm" .
+<Canadian_County> <location.statistical_region.population> "g.11x1kw8tv" .
+<Administrative_Division> <freebase.type_hints.included_types> "Dated location" .
+<Fort_Reno> <common.topic.image> "Fort reno oklahoma 1891" .
+<El_Reno> <location.statistical_region.population> "m.0hm0y13" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017301406" .
+<m.0hm2ghx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301003> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdm8" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017301201" .
+<El_Reno> <location.location.contains> "Henry Lassen House" .
+<m.0hjsthw> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gt1mj> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300700" .
+<Central_Time_Zone> <common.topic.article> "m.0j7mzvm" .
+<Grady_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Piedmont> <location.statistical_region.population> "g.11x1llnxj" .
+<m.0hm1z2v> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.location.events> "1955 NCAA Men's Division I Basketball Tournament" .
+<Mustang> <location.location.time_zones> "Central Time Zone" .
+<Geary> <location.statistical_region.population> "g.11x1lpxd0" .
+<El_Reno_High_School> <education.educational_institution.campuses> "El Reno High School" .
+<US_Census_2000_Tract_40017300202> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvd0v" .
+<US_Census_2000_Tract_40017301001> <common.topic.notable_for> "g.1255g20vp" .
+<m.07gvds8> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301001> <location.census_tract.avg_vac_r> "m.07332m0" .
+<m.03jshff> <location.adjoining_relationship.adjoins> "Cleveland County" .
+<US_Census_2000_Tract_40017301404> <location.census_tract.ams_res> "m.073330_" .
+<m.07332lc> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Okarche> <location.statistical_region.population> "m.0hm1vjs" .
+<m.0hm0jfb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oklahoma_City> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States,_with_Territories> <base.aareas.schema.earth.sovereign_domain.sovereign_state> "United States of America" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <location.location.contains> "Grady County, OK HUD Metro FMR Area" .
+<US_Census_2000_Tract_40017300600> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvd79" .
+<1955_NCAA_Men's_Division_I_Basketball_Tournament-_West_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1955 NCAA Men's Division I Basketball Tournament" .
+<Union_City> <location.hud_county_place.county> "Canadian County" .
+<Newspaper> <freebase.type_profile.kind> "Definition" .
+<US_Census_2000_Tract_40017300801> <location.census_tract.bus_vac> "m.0733298" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv8b" .
+<US_Census_2000_Tract_40017300201> <location.census_tract.ams_bus> "m.07331x5" .
+<73036> <location.location.contains> "El Reno Regional Airport" .
+<Geary> <location.statistical_region.population> "g.11x1cfpg_" .
+<m.0hm0jc_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstgk" .
+<Canadian_County> <location.location.contains> "Niles" .
+<73762> <common.topic.notable_types> "Postal Code" .
+<Canadian_County> <location.us_county.hud_section_8_area> "Oklahoma City, OK HUD Metro FMR Area" .
+<Canadian_County_/_Piedmont_city> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gt1gx" .
+<Calumet> <location.statistical_region.population> "g.11x1mc38p" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv5t" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvk4" .
+<m.07gvdxw> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm2gh6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mustang> <location.statistical_region.population> "g.11x1hnl4w" .
+<Canadian_County> <location.statistical_region.population> "g.11x1h1ry_" .
+<m.0hm2gfn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Union_City> <location.statistical_region.population> "m.0hm2ggk" .
+<El_Reno> <location.location.containedby> "Canadian County" .
+<El_Reno> <location.statistical_region.population> "g.11x1jbzlp" .
+<US_Census_2000_Tract_40017300201> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvc_t" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvcw" .
+<Blaine_County> <location.location.containedby> "Oklahoma" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Topic" .
+<m.07331zj> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301404> <location.census_tract.bus_vac> "m.0733321" .
+<Richland> <location.location.geolocation> "m.04bh_gn" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300903" .
+<Mustang> <location.statistical_region.population> "g.11x1lvk88" .
+<Canadian_County> <location.location.adjoin_s> "m.03jpzyc" .
+<Geary> <location.statistical_region.population> "g.11x1lyrcn" .
+<m.07gvdm8> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<El_Reno> <location.location.contains> "g.11btsv_rvx" .
+<US_Census_2000_Tract_40017301300> <common.topic.notable_for> "g.125czzm0x" .
+<Josh_Cooper> <people.person.nationality> "United States of America" .
+<Calumet> <location.statistical_region.population> "m.0hm0jfk" .
+<US_Census_2000_Tract_40017301005> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdq6" .
+<m.0hzw063> <location.mailing_address.citytown> "Yukon" .
+<Yukon> <location.statistical_region.population> "m.0hm2pg0" .
+<Yukon> <common.topic.article> "m.0z4l2" .
+<US_Census_2000_Tract_40017300202> <location.census_tract.avg_vac_b> "m.07331xv" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017301003" .
+<m.07gt1nn> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300802> <location.census_tract.avg_vac_b> "m.07332bb" .
+<US_Census_2000_Tract_40017300202> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvd18" .
+<Oklahoma_City> <location.hud_county_place.place> "Oklahoma City" .
+<m.07gvd_t> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Cleveland_County> <location.location.time_zones> "Central Time Zone" .
+<Darlington_Agency_Site> <location.location.containedby> "Canadian County" .
+<m.0jvw321> <location.administrative_division_capital_relationship.capital> "El Reno" .
+<US_Census_2000_Tract_40017301005> <location.census_tract.avg_vac_r> "m.07332sr" .
+<Yukon> <location.statistical_region.population> "g.11x1fbql_" .
+<US_Census_2000_Tract_40017301004> <location.census_tract.ams_res> "m.07332pk" .
+<m.07gvd1h> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Yukon> <location.statistical_region.population> "m.0hm2pjp" .
+<Mustang> <location.statistical_region.population> "g.11x1j50h9" .
+<US_Census_2000_Tract_40017301004> <common.topic.notable_for> "g.12578bzdg" .
+<Canadian_County_/_Okarche_town> <location.hud_foreclosure_area.total_residential_addresses> "m.07gt1fn" .
+<m.07gsszv> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.subdividing_place> "United States of America" .
+<Okarche> <location.statistical_region.population> "m.0k6jw_8" .
+<m.0hm0jdx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Calumet> <location.statistical_region.population> "g.11x1fxwj_" .
+<Canadian_County> <location.statistical_region.population> "m.0hjsthf" .
+<US_Census_2000_Tract_40017301300> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdwm" .
+<m.0hm1rmg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<73099> <location.location.geolocation> "m.03dw7qd" .
+<US_Census_2000_Tract_40017300202> <location.census_tract.res_vac> "m.07331y0" .
+<Mennoville_Mennonite_Church> <location.location.geolocation> "m.06_p94q" .
+<Canadian_County> <location.location.contains> "Calumet" .
+<Canadian_County> <location.statistical_region.population> "g.11x1kprt5" .
+<Banner> <common.topic.notable_for> "g.125bl_wjm" .
+<US_County> <freebase.type_hints.included_types> "Location" .
+<m.07gvdwd> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07gvdvt> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Calumet> <location.location.geolocation> "m.0kg6lh" .
+<m.0hm0xyy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvmr" .
+<Canadian_County> <location.statistical_region.population> "g.12b01zl_3" .
+<Yukon> <location.statistical_region.population> "g.11x1fs5rb" .
+<m.0hm0jg6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mustang> <base.wikipedia_infobox.settlement.area_code> "Area code 405" .
+<Mustang> <location.statistical_region.population> "m.0hm1rmp" .
+<Calumet> <location.statistical_region.population> "m.0jtp065" .
+<m.07331_l> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mustang> <location.statistical_region.population> "g.11x1jrglf" .
+<Kingfisher_County> <location.location.adjoin_s> "m.03jptbj" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017301100" .
+<73014> <location.location.geolocation> "m.03dw6_8" .
+<73099> <location.location.contains> "Clarence E. Page Municipal Airport" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstjt" .
+<US_Census_2000_Tract_40017301004> <location.location.containedby> "Canadian County" .
+<Canadian_County_/_Piedmont_city> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gt1j0" .
+<US_Census_2000_Tract_40017300700> <location.census_tract.ams_bus> "m.073327s" .
+<Geary_Star> <book.newspaper.circulation_areas> "Canadian County" .
+<m.03jpzyc> <location.adjoining_relationship.adjoins> "Canadian County" .
+<Canadian_County> <periodicals.newspaper_circulation_area.newspapers> "Yukon Review" .
+<Canadian_County> <location.us_county.hud_county_place> "Calumet" .
+<Logan_County> <location.us_county.hud_section_8_area> "Oklahoma City, OK HUD Metro FMR Area" .
+<US_Census_2000_Tract_40017301201> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdsr" .
+<Geary> <location.statistical_region.population> "g.11x1hhz0w" .
+<m.07332_2> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Grady_County> <common.topic.notable_types> "US County" .
+<Geary> <location.statistical_region.population> "m.0hm11s6" .
+<Geary> <location.statistical_region.population> "g.11x1lqw5g" .
+<US_Census_2000_Tract_40017300202> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvd1q" .
+<El_Reno> <location.statistical_region.population> "g.11x1ggg36" .
+<Geary> <location.statistical_region.population> "g.11x1f2jyt" .
+<US_Census_2000_Tract_40017301202> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdvl" .
+<Calumet> <location.location.people_born_here> "Mike Balenti" .
+<m.07gvdn2> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07332ts> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<United_States_of_America> <location.location.time_zones> "Central Time Zone" .
+<m.07gvdpk> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Yukon> <location.statistical_region.population> "g.11x1hxr70" .
+<m.0hm1z45> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdb0> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Calumet> <location.statistical_region.population> "m.0hm0jhr" .
+<m.0733211> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm1vkg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Red_Cross_Canteen> <location.location.containedby> "Oklahoma" .
+<Richland> <common.topic.notable_for> "g.1259xm00w" .
+<m.07gvdbg> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<El_Reno> <location.hud_county_place.county> "Canadian County" .
+<US_Census_2000_Tract_40017300100> <location.census_tract.ams_bus> "m.07331v8" .
+<Mustang> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gt1c_" .
+<US_Census_2000_Tract_40017300902> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdgf" .
+<US_Census_2000_Tract_40017300901> <location.census_tract.ams_bus> "m.07332fh" .
+<m.07gvcyt> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Geary> <common.topic.article> "m.013k3d" .
+<m.046cwm6> <location.adjoining_relationship.adjoins> "Oklahoma City" .
+<m.075mjwz> <common.topic.notable_types> "Location" .
+<Canadian_County> <location.location.contains> "Canadian County / County Place 4001799999" .
+<US_Census_2000_Tract_40017301300> <location.census_tract.ams_bus> "m.073330k" .
+<El_Reno> <common.topic.image> "Panoramic map of El Reno, 1891" .
+<Bridgeport_Hill-Hydro_OK_66_Segment> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.075mk2v" .
+<US_Census_2000_Tract_40017300400> <common.topic.notable_for> "g.1256h5xq_" .
+<m.07gt194> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<El_Reno> <location.statistical_region.population> "g.11b66dl61h" .
+<Canadian_County_/_Okarche_town> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gt1f5" .
+<US_Census_2000_Tract_40017300902> <common.topic.notable_for> "g.125fb908g" .
+<Union_City> <location.statistical_region.population> "g.11x1c9yq1" .
+<m.0hjstfx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300600> <location.location.containedby> "Canadian County" .
+<Okarche> <location.statistical_region.population> "g.11x1kl4tp" .
+<m.073328v> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Calumet> <location.statistical_region.population> "g.11x1f9svk" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstfx" .
+<m.0hm1vj3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_Valley_Technology_Center> <education.educational_institution_campus.educational_institution> "Canadian Valley Technology Center" .
+<Karns> <common.topic.notable_for> "g.1256x4gdn" .
+<m.07gvdc1> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Union_City> <location.statistical_region.population> "g.11x1dh4d1" .
+<Calumet> <location.hud_foreclosure_area.total_residential_addresses> "m.07gt15b" .
+<US_Census_2000_Tract_40017301404> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdyr" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300801" .
+<m.07gt1k5> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Bridgeport_Hill_Service_Station> <location.location.containedby> "Oklahoma" .
+<m.07gvdzs> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm11tk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Disaster> <freebase.type_profile.strict_included_types> "Topic" .
+<Okarche> <location.statistical_region.population> "m.0hm1vjk" .
+<US_Census_2000_Tract_40017300700> <location.census_tract.res_vac> "m.073326q" .
+<Piedmont> <location.citytown.postal_codes> "73078" .
+<m.07gvdzb> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<El_Reno_High_School> <education.educational_institution_campus.educational_institution> "El Reno High School" .
+<Mennoville_Mennonite_Church> <base.usnris.nris_listing.significance_level> "State" .
+<El_Reno> <location.statistical_region.population> "g.11x1ljw11" .
+<m.07gt1kf> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm2gdk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300901> <location.census_tract.avg_vac_b> "m.07332d7" .
+<Piedmont> <location.statistical_region.population> "m.0hm1y_y" .
+<m.07gss_1> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Clarence_E._Page_Municipal_Airport> <common.topic.notable_types> "Location" .
+<US_Census_2000_Tract_40017300700> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvd8_" .
+<73064> <location.location.geolocation> "m.03dw7dq" .
+<Canadian_County_/_Okarche_town> <location.hud_foreclosure_area.hhuniv> "m.07gt1dp" .
+<Canadian_County> <location.location.contains> "Piedmont" .
+<m.07gt1lk> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Piedmont> <location.statistical_region.population> "g.11x1kdmxg" .
+<Calumet> <location.statistical_region.population> "g.11b66dwnhb" .
+<m.0hm0xz4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Union_City> <location.statistical_region.population> "g.11x1f16d1" .
+<m.07332pk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County_/_Piedmont_city> <location.location.containedby> "Canadian County" .
+<US_Census_2000_Tract_40017301005> <location.census_tract.ams_bus> "m.07332sy" .
+<m.07331wb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm2pl1> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301201> <common.topic.notable_for> "g.125cnxncx" .
+<Union_City> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gt1kx" .
+<Oklahoma_County> <location.location.time_zones> "Central Time Zone" .
+<m.07gvdkc> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm1rl_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.adjoin_s> "m.03js5fl" .
+<Sally_Kirkland> <people.person.place_of_birth> "El Reno" .
+<Piedmont> <location.statistical_region.population> "g.11x1hqwk8" .
+<US_Census_2000_Tract_40017300201> <location.hud_foreclosure_area.hhuniv> "m.07gvc_4" .
+<Oklahoma_City> <location.location.containedby> "United States of America" .
+<Fort_Reno> <common.topic.notable_for> "g.125glfr3h" .
+<73099> <location.location.containedby> "Canadian County" .
+<Building> <freebase.type_profile.strict_included_types> "Topic" .
+<Concho,_Oklahoma> <location.location.containedby> "Canadian County" .
+<m.073331v> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07332x3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Calumet> <common.topic.notable_for> "g.1256594td" .
+<m.0hm0y0x> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300400> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvd46" .
+<US_Census_2000_Tract_40017301405> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdzs" .
+<m.07331wk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno_Regional_Airport> <common.topic.notable_for> "g.125g6pht6" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Calumet> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gt15l" .
+<US_Census_2000_Tract_40017301404> <location.census_tract.ams_oth> "m.073331m" .
+<Union_City> <location.location.containedby> "Oklahoma" .
+<US_Census_2000_Tract_40017301003> <location.census_tract.ams_bus> "m.07332p3" .
+<Canadian_County> <location.us_county.hud_county_place> "El Reno" .
+<Okarche> <location.statistical_region.population> "g.11x1k2hl6" .
+<Yukon> <location.hud_foreclosure_area.hhuniv> "m.07gt1lk" .
+<Mustang> <location.statistical_region.population> "m.0hm1rpx" .
+<73099> <common.topic.notable_for> "g.1257kpfpg" .
+<Union_City> <location.statistical_region.population> "m.0hm2gg3" .
+<US_Census_2000_Tract_40017300300> <location.census_tract.bus_vac> "m.07331_l" .
+<Yukon> <location.statistical_region.population> "m.0hm2pkt" .
+<Oklahoma> <location.administrative_division.country> "United States of America" .
+<Union_City> <location.statistical_region.population> "m.0hm2ghf" .
+<US_Census_2000_Tract_40017300802> <location.census_tract.ams_bus> "m.07332cl" .
+<US_Census_2000_Tract_40017300300> <location.census_tract.ams_res> "m.07331zj" .
+<El_Reno> <location.location.contains> "Avant's Cities Service Station" .
+<Canadian_County_/_Piedmont_city> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gt1hb" .
+<m.07gvddr> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<El_Reno> <location.statistical_region.population> "g.11x1g2rhx" .
+<Yukon> <location.statistical_region.population> "m.0k6wwk3" .
+<m.07331tn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.statistical_region.population> "m.0hm0x_z" .
+<US_Census_2000_Tract_40017301405> <location.census_tract.ams_oth> "m.073333j" .
+<2013_El_Reno_tornado> <common.topic.notable_for> "g.12h2x3n2r" .
+<m.0hm2pgg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdcy> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Geary> <location.statistical_region.population> "m.0hm11v6" .
+<United_States_of_America> <location.location.containedby> "United States, with Territories" .
+<Calumet> <location.hud_county_place.place> "Calumet" .
+<City/Town/Village> <type.type.domain> "Location" .
+<US_Census_2000_Tract_40017300500> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvd5p" .
+<US_Census_2000_Tract_40017300901> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdfd" .
+<Mustang> <location.statistical_region.population> "g.11x1dzvn5" .
+<m.0hjstg3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Piedmont> <location.location.containedby> "United States of America" .
+<US_Census_2000_Tract_40017300100> <location.census_tract.res_vac> "m.07331s_" .
+<US_Census_2000_Tract_40017300100> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvczk" .
+<m.07332dn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301201> <location.census_tract.avg_vac_r> "m.07332xk" .
+<US_Census_2000_Tract_40017301100> <common.topic.notable_for> "g.1256pg34w" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <location.location.contains> "Grady County" .
+<El_Reno> <location.statistical_region.population> "g.11x1j1tdt" .
+<Yukon> <location.location.contains> "Chisholm Trail Park" .
+<US_Census_2000_Tract_40017300300> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvd2z" .
+<El_Reno> <location.statistical_region.population> "m.0hm0xyh" .
+<m.07332gs> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oklahoma> <location.location.containedby> "United States, with Territories" .
+<m.07332bz> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.statistical_region.population> "g.11x1j33tx" .
+<m.0hm2gg_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07332_q> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<1955_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1955 NCAA Men's Division I Basketball Tournament- West Regional First Round" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvgh" .
+<US_Census_2000_Tract_40017300600> <location.hud_foreclosure_area.hhuniv> "m.07gvd6n" .
+<El_Reno> <location.statistical_region.population> "g.11x1dstrm" .
+<Piedmont> <location.statistical_region.population> "g.11x1jh5zc" .
+<Cleveland_County> <location.location.containedby> "Oklahoma" .
+<US_Census_2000_Tract_40017300201> <location.census_tract.oth_vac> "m.07331wk" .
+<US_Census_2000_Tract_40017300902> <location.hud_foreclosure_area.hhuniv> "m.07gvdf_" .
+<Canadian_County> <location.statistical_region.population> "g.11x1hg2_l" .
+<Mustang> <location.statistical_region.population> "g.11x1lbjg_" .
+<m.057z02_> <location.geometry.delineates_location> "73762" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <location.location.containedby> "Oklahoma" .
+<m.07gt1dy> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Calumet> <location.statistical_region.population> "m.0hm0jdx" .
+<m.05gf8qs> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.075l6xr> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Canadian_County> <location.location.contains> "Canadian County / Okarche town" .
+<m.0hm0jh9> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301003> <location.census_tract.res_vac> "m.07332n1" .
+<Oklahoma_County> <common.topic.notable_types> "US County" .
+<m.07332l4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<McClain_County> <location.location.containedby> "Oklahoma" .
+<Canadian_County_/_Geary_city> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gt194" .
+<m.0hm2pgp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017301202" .
+<US_Census_2000_Tract_40017300802> <location.census_tract.avg_vac_r> "m.07332cd" .
+<US_Census_2000_Tract_40017301201> <location.hud_foreclosure_area.hhuniv> "m.07gvds8" .
+<Union_City> <common.topic.notable_for> "g.1258tcxdz" .
+<US_Census_2000_Tract_40017300902> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdgn" .
+<m.07gvdlm> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07gvd9t> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Bridgeport_Hill-Hydro_OK_66_Segment> <location.location.containedby> "Oklahoma" .
+<US_Census_2000_Tract_40017301100> <location.location.containedby> "Canadian County" .
+<Yukon> <location.location.time_zones> "Central Time Zone" .
+<Fort_Reno> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.06zwxqc" .
+<Canadian_County> <location.administrative_division.capital> "m.0jvw321" .
+<Yukon> <location.location.people_born_here> "Justin James" .
+<Geary> <common.topic.image> "OKMap-doton-Geary" .
+<m.07332br> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdr7> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Yukon> <location.statistical_region.population> "m.0hm2pjg" .
+<Canadian_County_/_Okarche_town> <common.topic.notable_types> "Location" .
+<m.07gvcyl> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Administrative_Division> <freebase.type_hints.included_types> "Topic" .
+<Calumet> <location.statistical_region.population> "m.0hm0jdf" .
+<Yukon> <location.hud_county_place.place> "Yukon" .
+<US_County> <freebase.type_profile.kind> "Definition" .
+<Okarche> <location.location.containedby> "Kingfisher County" .
+<Geary_Star> <common.topic.notable_types> "Newspaper" .
+<m.03jrpkl> <location.adjoining_relationship.adjoins> "Canadian County" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z3z" .
+<m.0hm2pft> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "g.11x1mfvcy" .
+<El_Reno> <location.location.time_zones> "Central Time Zone" .
+<El_Reno> <location.location.people_born_here> "Harlond Clift" .
+<El_Reno> <location.location.people_born_here> "Harvey Pratt" .
+<Canadian_County> <location.statistical_region.population> "g.11x1k4cnh" .
+<m.07331t6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.citytown.postal_codes> "73099" .
+<m.0hm1vhp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Kingfisher_County> <common.topic.notable_types> "US County" .
+<Bridgeport_Hill_Service_Station> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.075mjxf" .
+<US_Census_2000_Tract_40017301202> <location.census_tract.bus_vac> "m.07332z7" .
+<Building> <freebase.type_profile.kind> "Definition" .
+<Mustang> <location.statistical_region.population> "g.11x1hn2fg" .
+<El_Reno> <location.location.people_born_here> "Sam Rivers" .
+<m.0733365> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Area_code_405> <location.location.containedby> "Oklahoma" .
+<m.07332wp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm2pj0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm11qw> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm0y0p> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.statistical_region.population> "m.0k6wwhv" .
+<Calumet> <location.statistical_region.population> "g.11x1fxwk0" .
+<Yukon> <location.statistical_region.population> "g.11x1hqdn4" .
+<m.07gvd5g> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Clarence_E._Page_Municipal_Airport> <common.topic.image> "Clarence E. Page Municipal Airport - USGS 19 Feb 1995" .
+<Okarche> <location.statistical_region.population> "g.11x1g8hj1" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <common.topic.notable_for> "g.125913n3y" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvc3" .
+<US_Census_2000_Tract_40017300400> <location.census_tract.res_vac> "m.073320v" .
+<73022> <common.topic.notable_for> "g.1256npgld" .
+<Geary> <location.statistical_region.population> "g.11x1j6cw8" .
+<Mustang> <location.statistical_region.population> "m.0k6wwjf" .
+<US_Census_2000_Tract_40017300801> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvd9t" .
+<Mustang> <location.statistical_region.population> "m.0hm1rq3" .
+<US_Census_2000_Tract_40017300500> <location.census_tract.avg_vac_r> "m.073323m" .
+<Union_City> <location.statistical_region.population> "g.11x1f0r5x" .
+<Mustang> <location.statistical_region.population> "m.0jtdr9_" .
+<US_County> <freebase.type_hints.included_types> "Topic" .
+<Canadian_County_/_County_Place_4001799999> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gt1nn" .
+<m.07gt1fd> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <location.location.contains> "Lincoln County, OK HUD Metro FMR Area" .
+<US_Census_2000_Tract_40017301003> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdm1" .
+<US_County> <type.type.domain> "Location" .
+<m.07gvdkl> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Union_City> <location.statistical_region.population> "g.11x1klnpj" .
+<m.07332dw> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.073331m> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Building> <freebase.type_profile.published> "Published" .
+<US_Census_2000_Tract_40017300801> <location.census_tract.ams_bus> "m.073329p" .
+<El_Reno> <location.location.people_born_here> "Erik Rhodes" .
+<Union_City> <location.hud_foreclosure_area.total_residential_addresses> "m.07gt1kn" .
+<Mennoville_Mennonite_Church> <common.topic.article> "m.0pc31pl" .
+<m.07gvddj> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<El_Reno> <location.location.events> "2013 El Reno tornado" .
+<Authentic_Custom_Homes> <organization.organization.geographic_scope> "Yukon" .
+<Canadian_County> <location.hud_foreclosure_area.hhuniv> "m.07gssz5" .
+<m.0hm11sf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Banner> <location.location.containedby> "Oklahoma" .
+<Geary> <location.statistical_region.population> "m.0hm11t9" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017301005" .
+<m.06_pbsx> <protected_sites.natural_or_cultural_site_listing.listed_site> "Darlington Agency Site" .
+<US_Census_2000_Tract_40017300902> <location.census_tract.res_vac> "m.07332gb" .
+<Piedmont> <location.statistical_region.population> "g.11x1jtbh9" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstcp" .
+<Cleveland_County> <common.topic.notable_types> "US County" .
+<73090> <common.topic.notable_for> "g.1258hr38m" .
+<m.07gvdqt> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<1955_NCAA_Men's_Division_I_Basketball_Tournament-_West_Regional_First_Round> <time.event.locations> "El Reno" .
+<m.07gvdx8> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Calumet> <location.location.time_zones> "Central Time Zone" .
+<m.07332_y> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.statistical_region.population> "g.11x1htl9z" .
+<m.0hjstgk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Geary> <location.location.containedby> "Oklahoma" .
+<m.07332fy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301202> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdv4" .
+<Canadian_County_/_Geary_city> <location.location.containedby> "Canadian County" .
+<m.07332xr> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.contains> "Bridgeport Hill-Hydro OK 66 Segment" .
+<Mennoville_Mennonite_Church> <common.topic.notable_for> "g.1255djtkq" .
+<Calumet> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gt152" .
+<Okarche> <location.statistical_region.population> "g.11x1jf8sh" .
+<m.0hm1vhx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301005> <location.census_tract.ams_oth> "m.07332s2" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Location" .
+<m.0k6wwjw> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdvl> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Piedmont> <location.statistical_region.population> "m.0hm1y_7" .
+<Piedmont> <location.statistical_region.population> "g.11x1g8zl_" .
+<Geary_Star> <common.topic.notable_for> "g.1258ch5cm" .
+<Canadian_County> <common.topic.article> "m.0my9f" .
+<Darlington_Agency_Site> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.06_pbsx" .
+<m.0jt9fmb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301405> <location.census_tract.res_vac> "m.0733339" .
+<2013_El_Reno_tornado> <common.topic.article> "m.0vxf2p2" .
+<Okarche> <location.statistical_region.population> "g.11x1kc6lv" .
+<US_Census_2000_Tract_40017301100> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdrx" .
+<m.07gvdty> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Okarche> <location.statistical_region.population> "m.0k6jw_h" .
+<Central_Time_Zone> <time.time_zone.day_dst_begins> "Second Sunday in March" .
+<US_Census_2000_Tract_40017300600> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvd72" .
+<Mustang> <location.location.people_born_here> "Josh Cooper" .
+<Canadian_County_/_County_Place_4001799999> <location.hud_foreclosure_area.hhuniv> "m.07gt1nf" .
+<Mustang> <location.statistical_region.population> "m.0hm1rmg" .
+<m.07gvddz> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.statistical_region.rent50_1> "m.05gf8qs" .
+<Yukon_Review> <common.topic.webpage> "m.0bd47dk" .
+<m.073323d> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Geary> <location.location.containedby> "Blaine County" .
+<m.0hm1vkx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<73036> <location.location.geometry> "m.058w2qt" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvmy" .
+<m.0hm2gjb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Geary> <location.statistical_region.population> "m.0k6jwzl" .
+<m.07gt1jz> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Mustang> <location.statistical_region.population> "g.11x1h1shz" .
+<m.0733298> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm0jcs> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <freebase.type_hints.included_types> "Dated location" .
+<US_Census_2000_Tract_40017301406> <location.census_tract.avg_vac_b> "m.0733357" .
+<Canadian_County_/_Geary_city> <location.hud_foreclosure_area.total_residential_addresses> "m.07gt19c" .
+<m.07gvdps> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Oklahoma_City,_OK_HUD_Metro_FMR_Area> <common.topic.notable_for> "g.125ck_w9b" .
+<Darlington_Agency_Site> <location.location.containedby> "Oklahoma" .
+<US_County> <freebase.type_profile.equivalent_topic> "U.S. County" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z1c" .
+<US_Census_2000_Tract_40017300802> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdcq" .
+<United_States_Dollar> <base.coinsdaily.coin_type.country> "United States of America" .
+<Canadian_County> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gss_8" .
+<US_Census_2000_Tract_40017300400> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvd4f" .
+<Piedmont> <common.topic.article> "m.013k4f" .
+<Canadian_County_/_County_Place_4001799999> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gt1p5" .
+<m.0733252> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Okarche> <location.location.containedby> "Oklahoma" .
+<Okarche> <common.topic.notable_for> "g.1257bgzw0" .
+<Union_City> <location.statistical_region.population> "m.0hm2gjb" .
+<Building> <freebase.type_hints.included_types> "Location" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv42" .
+<m.07gvd0v> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Bridgeport_Hill_Service_Station> <common.topic.notable_types> "Building" .
+<US_County> <type.type.properties> "HUD County Place" .
+<Calumet> <location.statistical_region.population> "m.0hm0jf3" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oklahoma" .
+<m.07gvdgw> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm1vjs> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.073321h> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.statistical_region.population> "g.11x1m3756" .
+<Calumet> <location.statistical_region.population> "m.0hm0jh2" .
+<m.0hm1z38> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Okarche> <location.statistical_region.population> "g.11x1gy1l4" .
+<Geary> <location.statistical_region.population> "m.0jt09qk" .
+<m.07gt14f> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Clarence_E._Page_Municipal_Airport> <common.topic.article> "m.080ppzj" .
+<Kingfisher_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Piedmont> <location.location.containedby> "Canadian County" .
+<Canadian_County> <location.statistical_region.population> "g.11x1kptkn" .
+<m.0hm0jdf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0vv4xvz> <measurement_unit.money_value.currency> "United States Dollar" .
+<Lincoln_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Okarche> <common.topic.article> "m.013k42" .
+<m.058w2qt> <location.geometry.delineates_location> "73036" .
+<Yukon> <location.location.adjoin_s> "m.046cwm6" .
+<US_Census_2000_Tract_40017301405> <location.hud_foreclosure_area.hhuniv> "m.07gvdzb" .
+<m.07gvdgf> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Building> <freebase.type_profile.strict_included_types> "Location" .
+<US_Census_2000_Tract_40017301202> <common.topic.notable_types> "US Census Tract" .
+<El_Reno> <location.statistical_region.population> "g.11x1mnrht" .
+<Oklahoma_City> <organization.organization_scope.organizations_with_this_scope> "Authentic Custom Homes" .
+<US_Census_2000_Tract_40017300500> <location.census_tract.res_vac> "m.073322r" .
+<2013_El_Reno_tornado> <event.disaster.type_of_disaster> "Tornado" .
+<Yukon> <location.hud_foreclosure_area.total_residential_addresses> "m.07gt1mj" .
+<m.07gvdy2> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.012gl32c> <people.place_lived.location> "El Reno" .
+<Yukon> <base.wikipedia_infobox.settlement.area_code> "Area code 405" .
+<m.07332b3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "g.11x1l34yz" .
+<m.07gvd5x> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.location.contains> "Scott, Oklahoma" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvjs" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvfy" .
+<m.07332sy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mustang> <location.statistical_region.population> "g.11x1d973y" .
+<m.07gvd00> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07332hv> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Piedmont> <location.statistical_region.population> "m.0hm1y_0" .
+<Yukon> <organization.organization_scope.organizations_with_this_scope> "Authentic Custom Homes" .
+<Okarche> <location.statistical_region.population> "g.11x1mdy9h" .
+<m.03js5fl> <location.adjoining_relationship.adjoins> "Canadian County" .
+<Airport> <freebase.type_profile.strict_included_types> "Location" .
+<El_Reno> <location.location.contains> "Carnegie Library" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvcp" .
+<US_Census_2000_Tract_40017300201> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvd00" .
+<Piedmont> <location.statistical_region.population> "g.11x1kz1sp" .
+<Yukon> <location.statistical_region.population> "g.11x1g2rjg" .
+<Canadian_County> <location.statistical_region.population> "m.0hjsthn" .
+<Mustang> <location.statistical_region.population> "m.0hm1rnk" .
+<Place_of_worship> <freebase.type_hints.included_types> "Topic" .
+<m.0733321> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0k6wwhv> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.us_county.hud_county_place> "Mustang" .
+<Yukon> <location.statistical_region.population> "g.11x1f7205" .
+<Canadian_County> <location.location.events> "2013 El Reno tornado" .
+<Edwin_R._Gilliland> <people.person.nationality> "United States of America" .
+<Elmer_E._Kirkpatrick> <people.person.place_of_birth> "Yukon" .
+<m.0hm1y_q> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07332kr> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Okarche> <location.statistical_region.population> "g.11x1jch6_" .
+<Geary> <common.topic.notable_for> "g.125d31svr" .
+<m.056kf_k> <location.geometry.delineates_location> "73022" .
+<Canadian_County> <location.statistical_region.population> "g.11x1dzwwd" .
+<US_Census_2000_Tract_40017301001> <location.census_tract.res_vac> "m.07332l4" .
+<US_Census_2000_Tract_40017301004> <location.census_tract.ams_oth> "m.07332q5" .
+<73022> <location.location.containedby> "Canadian County" .
+<US_Census_2000_Tract_40017300300> <location.census_tract.oth_vac> "m.07331_c" .
+<US_Census_2000_Tract_40017301406> <location.census_tract.bus_vac> "m.0733365" .
+<m.0hjsthf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.us_county.hud_county_place> "Canadian County / Geary city" .
+<Blaine_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<m.07gvdf5> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm2ghf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Union_City> <location.statistical_region.population> "g.11bc88kb63" .
+<m.07gvf0g> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Concho,_Oklahoma> <common.topic.notable_for> "g.1256fv2n7" .
+<Oklahoma_City,_OK_HUD_Metro_FMR_Area> <common.topic.notable_types> "US Core Based Statistical Area" .
+<US_Census_2000_Tract_40017300802> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdd4" .
+<Canadian_County> <location.location.contains> "Mennoville Mennonite Church" .
+<m.07gt1lw> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Union_City> <location.statistical_region.population> "m.0hm2gfn" .
+<US_Census_2000_Tract_40017300802> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdcy" .
+<m.07gvc_c> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300902> <location.census_tract.oth_vac> "m.07332gs" .
+<Calumet> <common.topic.image> "Location of Calumet, Oklahoma" .
+<Geary> <location.statistical_region.population> "m.0hm11qw" .
+<Mustang> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gt1bs" .
+<US_County> <freebase.type_profile.kind> "Significant" .
+<El_Reno> <location.statistical_region.population> "g.11x1m0j7r" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstg3" .
+<73022> <common.topic.notable_types> "Postal Code" .
+<United_States,_with_Territories> <location.country.first_level_divisions> "United States of America" .
+<Mustang> <location.statistical_region.population> "g.11b66dwnbk" .
+<Canadian_County_/_Geary_city> <common.topic.notable_types> "Location" .
+<US_Census_2000_Tract_40017301405> <common.topic.notable_types> "US Census Tract" .
+<m.0k6wwj6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07332tc> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07332df> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.statistical_region.population> "m.0hm0y0p" .
+<m.0bd47dk> <common.webpage.topic> "Yukon Review" .
+<US_Census_2000_Tract_40017301201> <location.census_tract.bus_vac> "m.07332xb" .
+<Yukon_Review> <book.periodical.format> "m.0gx5g2h" .
+<m.07332nq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.073332g> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Okarche> <location.location.geolocation> "m.0kg9fm" .
+<m.07gvdgn> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm0jfk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Darlington_Agency_Site> <location.location.geolocation> "m.06_pbsq" .
+<Geary> <location.statistical_region.population> "m.0k6jwzc" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvch" .
+<m.012gl32c> <people.place_lived.person> "Gideon Tinsley" .
+<US_Census_2000_Tract_40017301004> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdnr" .
+<Canadian_County_/_County_Place_4001799999> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gt1ny" .
+<US_Census_2000_Tract_40017300902> <common.topic.notable_types> "US Census Tract" .
+<Mennoville_Mennonite_Church> <location.location.street_address> "m.06_p94f" .
+<US_Census_2000_Tract_40017300801> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdb7" .
+<US_Census_2000_Tract_40017300300> <location.location.containedby> "Canadian County" .
+<US_Census_2000_Tract_40017301003> <location.hud_foreclosure_area.hhuniv> "m.07gvdld" .
+<Union_City> <location.statistical_region.population> "m.0hm2ghp" .
+<Yukon> <location.statistical_region.population> "g.11b66kbfsm" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstj4" .
+<Mustang> <location.statistical_region.population> "g.11x1g16kf" .
+<Disaster> <freebase.type_profile.kind> "Definition" .
+<Mustang> <location.statistical_region.population> "m.0hm1rn3" .
+<Geary> <location.statistical_region.population> "m.0hm11vw" .
+<m.03jshff> <location.adjoining_relationship.adjoins> "Canadian County" .
+<US_Census_2000_Tract_40017301202> <location.census_tract.oth_vac> "m.07332z0" .
+<US_Census_2000_Tract_40017301003> <location.census_tract.ams_res> "m.07332mn" .
+<Union_City> <location.statistical_region.population> "m.0hm2gj3" .
+<m.0hm1rp7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300500> <common.topic.notable_for> "g.125czpf_3" .
+<US_Census_2000_Tract_40017300700> <location.census_tract.bus_vac> "m.073327c" .
+<El_Reno> <location.statistical_region.population> "m.0jt9fhr" .
+<US_Census_2000_Tract_40017301001> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdkt" .
+<Geary> <location.location.containedby> "Canadian County" .
+<US_Census_2000_Tract_40017301100> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdrg" .
+<Yukon_Beauty_College_Inc> <education.educational_institution.campuses> "Yukon Beauty College Inc" .
+<m.0hjstd3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017301004" .
+<US_Census_2000_Tract_40017301300> <location.location.containedby> "Canadian County" .
+<2013_El_Reno_tornado> <event.disaster.damage> "m.0vv4xvz" .
+<Yukon> <location.statistical_region.population> "m.0hm2phc" .
+<Okarche> <location.statistical_region.population> "m.0hm1vj3" .
+<US_County> <type.type.expected_by> "County" .
+<US_Census_2000_Tract_40017301003> <location.census_tract.oth_vac> "m.07332nh" .
+<Scott,_Oklahoma> <common.topic.notable_for> "g.1256fvdbp" .
+<Okarche> <location.statistical_region.population> "m.0hm1vh7" .
+<Geary> <location.statistical_region.population> "m.0hm11rr" .
+<m.07332qd> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<73036> <common.topic.notable_types> "Postal Code" .
+<Richland> <common.topic.notable_types> "City/Town/Village" .
+<Yukon> <location.statistical_region.population> "m.0hm2pl1" .
+<m.07gvdp_> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_County> <freebase.type_hints.included_types> "Administrative Division" .
+<Canadian_County> <location.location.contains> "Powers" .
+<US_Census_2000_Tract_40017300300> <location.census_tract.avg_vac_b> "m.07331zr" .
+<Canadian_County_/_Okarche_town> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gt1fx" .
+<m.0hm1rmx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Piedmont> <base.wikipedia_infobox.settlement.area_code> "Area code 405" .
+<m.07gvd2r> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.073336m> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdrg> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Piedmont> <location.statistical_region.population> "g.11bymls8w3" .
+<m.07gvd29> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hjstgb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300202> <common.topic.notable_for> "g.125bwx4_r" .
+<Piedmont> <common.topic.image> "OKMap-doton-Piedmont" .
+<Canadian_County> <location.location.contains> "73022" .
+<m.0hm11r2> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <common.topic.notable_types> "US County" .
+<Administrative_Division> <freebase.type_profile.published> "Published" .
+<El_Reno> <location.location.contains> "Red Cross Canteen" .
+<Canadian_County_/_Geary_city> <location.hud_county_place.place> "Geary" .
+<m.07331tf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Geary> <common.topic.notable_types> "City/Town/Village" .
+<m.0hm0x_r> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0733350> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.contains> "Mustang" .
+<Sally_Kirkland> <people.person.nationality> "United States of America" .
+<Mennoville_Mennonite_Church> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.06_p94x" .
+<US_Census_2000_Tract_40017301300> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdx1" .
+<Canadian_County> <location.statistical_region.population> "g.12b01tjgj" .
+<Calumet> <location.statistical_region.population> "g.11x1j4228" .
+<m.07331__> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301201> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdsz" .
+<Geary> <location.statistical_region.population> "g.11x1h0s0j" .
+<m.0jtmmng> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300202> <location.census_tract.oth_vac> "m.07331yg" .
+<2013_El_Reno_tornado> <event.disaster.victims> "Carl Young" .
+<Calumet> <location.statistical_region.population> "g.11x1g42s_" .
+<Union_City> <location.statistical_region.population> "m.0hm2ghx" .
+<Okarche> <location.statistical_region.population> "m.0hm1vl_" .
+<US_Census_2000_Tract_40017300500> <location.census_tract.bus_vac> "m.073323d" .
+<Piedmont> <location.statistical_region.population> "m.0hm1yzt" .
+<US_County> <common.topic.article> "m.03bnlhd" .
+<US_County> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0hm1z2d> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.statistical_region.population> "g.11x1m6hy0" .
+<73036> <location.location.containedby> "Canadian County" .
+<Yukon> <location.statistical_region.population> "g.11x1lyrc_" .
+<m.0hjstcx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Geary> <location.statistical_region.population> "g.11x1m29fd" .
+<El_Reno> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gt17q" .
+<Niles> <location.location.containedby> "Oklahoma" .
+<US_Census_2000_Tract_40017300700> <common.topic.notable_types> "US Census Tract" .
+<Okarche> <location.statistical_region.population> "g.11x1l34m6" .
+<m.07gt1jr> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County_/_County_Place_4001799999> <common.topic.notable_for> "g.125fmxnxr" .
+<Piedmont> <location.statistical_region.population> "g.11x1lbkbn" .
+<US_Census_2000_Tract_40017300902> <location.census_tract.ams_res> "m.07332fy" .
+<Concho,_Oklahoma> <location.statistical_region.population> "g.11bymljg5j" .
+<Okarche> <location.statistical_region.population> "g.11x1gxkq5" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvhv" .
+<El_Reno> <location.location.contains> "El Reno High School" .
+<Oklahoma_City,_OK_HUD_Metro_FMR_Area> <location.hud_section_8_area.county> "McClain County" .
+<US_Census_2000_Tract_40017300202> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvd1h" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z3r" .
+<Canadian_County_/_Piedmont_city> <location.hud_county_place.place> "Piedmont" .
+<Union_City> <location.hud_foreclosure_area.hhuniv> "m.07gt1jr" .
+<Niles> <location.location.containedby> "Canadian County" .
+<Niles> <location.location.geolocation> "m.04bj89f" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvc9" .
+<m.0hm1vl_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gt1b9> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.location.contains> "73090" .
+<US_Census_2000_Tract_40017300400> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvd3s" .
+<Geary> <location.statistical_region.population> "g.11x1lt4m4" .
+<m.0hm0xyh> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon_Review> <common.topic.article> "m.0bbyy2l" .
+<m.0hm1rpp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Calumet> <location.statistical_region.population> "g.11x1l1p_z" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300400" .
+<Union_City> <location.statistical_region.population> "m.0jtpv53" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvfr" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstf0" .
+<m.0hm2gj3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Disaster> <freebase.type_profile.published> "Published" .
+<US_Census_2000_Tract_40017301004> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdn2" .
+<Mustang> <location.statistical_region.population> "g.11x1dd9lb" .
+<Mustang> <location.hud_foreclosure_area.total_residential_addresses> "m.07gt1cn" .
+<Union_City> <location.statistical_region.population> "g.11x1mp6ty" .
+<Yukon> <common.topic.image> "OKMap-doton-Yukon" .
+<Okarche> <location.statistical_region.population> "g.11x1cnk7n" .
+<m.07332t_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Union_City> <location.statistical_region.population> "g.11x1mfd1h" .
+<Location> <type.type.domain> "Location" .
+<m.073328m> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Gideon_Tinsley> <people.person.nationality> "United States of America" .
+<Canadian_County_/_Okarche_town> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gt1dy" .
+<Mustang> <location.statistical_region.population> "g.11x1hg4hq" .
+<Mustang> <location.statistical_region.population> "g.11x1lt4mc" .
+<Piedmont> <location.statistical_region.population> "g.11x1m4pjg" .
+<Airport> <freebase.type_hints.included_types> "Topic" .
+<Okarche> <common.topic.notable_types> "City/Town/Village" .
+<Yukon> <location.statistical_region.population> "g.11x1mhpy6" .
+<Kingfisher_County> <location.location.containedby> "Oklahoma" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvkb" .
+<Canadian_County> <location.hud_foreclosure_area.total_residential_addresses> "m.07gss_1" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<Oklahoma_City,_OK_HUD_Metro_FMR_Area> <location.location.containedby> "Oklahoma City, OK Metropolitan Statistical Area" .
+<Oklahoma_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Scott,_Oklahoma> <location.location.geolocation> "m.04bjbf9" .
+<US_Census_2000_Tract_40017300700> <location.hud_foreclosure_area.hhuniv> "m.07gvd83" .
+<Clarence_E._Page_Municipal_Airport> <location.location.containedby> "73099" .
+<US_Census_2000_Tract_40017301004> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdnj" .
+<Yukon> <location.statistical_region.population> "g.11x1chmpf" .
+<Place_of_worship> <freebase.type_profile.strict_included_types> "Location" .
+<Canadian_County> <location.location.contains> "Canadian County / Geary city" .
+<Geary> <location.citytown.postal_codes> "73040" .
+<Yukon> <location.location.people_born_here> "Elmer E. Kirkpatrick" .
+<Geary> <location.statistical_region.population> "g.11x1h1rkl" .
+<US_Census_2000_Tract_40017300901> <common.topic.notable_for> "g.1257_k496" .
+<El_Reno> <location.statistical_region.population> "m.0hm0xzm" .
+<73090> <location.location.geolocation> "m.03dw7mm" .
+<Area_code_405> <location.location.contains> "Oklahoma City" .
+<Yukon> <location.statistical_region.population> "g.11x1lgzh9" .
+<US_Census_2000_Tract_40017300300> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvd2r" .
+<Okarche> <location.statistical_region.population> "m.0hm1vhg" .
+<Union_City> <location.statistical_region.population> "m.0hm2gh6" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<Oklahoma_County> <location.us_county.hud_section_8_area> "Oklahoma City, OK HUD Metro FMR Area" .
+<Canadian_County> <location.location.geolocation> "m.0k9bn8" .
+<US_Census_2000_Tract_40017300901> <location.census_tract.bus_vac> "m.07332f2" .
+<US_Census_2000_Tract_40017301202> <common.topic.notable_for> "g.125dx7tb2" .
+<m.0hm1z0j> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_County> <freebase.type_profile.strict_included_types> "Dated location" .
+<US_Census_2000_Tract_40017300801> <common.topic.notable_types> "US Census Tract" .
+<El_Reno> <location.statistical_region.population> "g.11x1h_10z" .
+<Piedmont> <location.statistical_region.population> "g.11x1mmv0r" .
+<Bridgeport_Hill-Hydro_OK_66_Segment> <base.usnris.nris_listing.significance_level> "Local" .
+<m.0k6wwh4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07332jx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300300> <common.topic.notable_types> "US Census Tract" .
+<US_Census_2000_Tract_40017301201> <location.census_tract.avg_vac_b> "m.07332wh" .
+<m.07gvd57> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301005> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdp_" .
+<m.0hm11vn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301405> <common.topic.notable_for> "g.125crtdw0" .
+<m.07gvdz_> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301405> <location.census_tract.ams_bus> "m.073334c" .
+<Piedmont> <location.statistical_region.population> "g.11x1h8j_t" .
+<m.07332s9> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.location.nearby_airports> "El Reno Regional Airport" .
+<El_Reno_Regional_Airport> <common.topic.article> "m.0b73nnd" .
+<US_Census_2000_Tract_40017300903> <location.census_tract.avg_vac_b> "m.07332j1" .
+<m.07332cl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Fort_Reno> <location.location.containedby> "Canadian County" .
+<McClain_County> <common.topic.notable_types> "US County" .
+<2013_El_Reno_tornado> <event.disaster.areas_affected> "Canadian County" .
+<Union_City> <location.statistical_region.population> "g.11x1dttxn" .
+<m.0hm1z1c> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300201> <location.census_tract.avg_vac_b> "m.07331vy" .
+<m.07331_c> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oklahoma" .
+<US_Census_2000_Tract_40017300400> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvd4n" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z1x" .
+<Mustang> <location.statistical_region.population> "m.0hm1rp7" .
+<Geary> <location.statistical_region.population> "g.11x1m54cw" .
+<Union_City> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gt1jz" .
+<US_Census_2000_Tract_40017300903> <location.location.containedby> "Canadian County" .
+<m.07gt1cb> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301405> <location.census_tract.avg_vac_r> "m.0733345" .
+<Okarche> <location.statistical_region.population> "m.0hm1vm6" .
+<Okarche> <location.statistical_region.population> "g.11bymmgkln" .
+<US_Census_2000_Tract_40017300600> <location.census_tract.avg_vac_b> "m.073324g" .
+<Okarche> <location.statistical_region.population> "g.11x1cbddj" .
+<m.07gvd11> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301100> <location.census_tract.avg_vac_r> "m.07332vn" .
+<m.07gvd3s> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07332ll> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdnr> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301004> <common.topic.notable_types> "US Census Tract" .
+<US_County> <freebase.type_hints.included_types> "Statistical region" .
+<Piedmont> <location.statistical_region.population> "g.11x1gk_lj" .
+<US_Census_2000_Tract_40017300700> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvd96" .
+<m.073334c> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.statistical_region.population> "m.0hm2pgy" .
+<73014> <common.topic.notable_for> "g.12551k14t" .
+<Yukon> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gt1lw" .
+<US_Census_2000_Tract_40017301404> <location.hud_foreclosure_area.hhuniv> "m.07gvdxw" .
+<US_Census_2000_Tract_40017301202> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdvc" .
+<US_Census_2000_Tract_40017301300> <common.topic.notable_types> "US Census Tract" .
+<Karns> <location.location.geolocation> "m.04bj6d7" .
+<United_States_of_America> <location.country.first_level_divisions> "Oklahoma" .
+<m.0hm1y_h> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Logan_County> <location.location.time_zones> "Central Time Zone" .
+<US_Census_2000_Tract_40017300901> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdf5" .
+<m.0hjstfp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm1z31> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Bridgeport_Hill_Service_Station> <location.location.geolocation> "m.075mjx7" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z25" .
+<Canadian_County_/_County_Place_4001799999> <location.location.containedby> "Canadian County" .
+<Redlands_Community_College> <location.location.containedby> "Oklahoma" .
+<US_Census_2000_Tract_40017301005> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdps" .
+<m.0hm0jgf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <common.topic.notable_for> "g.125dy0t_h" .
+<73078> <common.topic.notable_types> "Postal Code" .
+<US_Census_2000_Tract_40017301406> <location.census_tract.ams_oth> "m.073335p" .
+<Calumet> <location.statistical_region.population> "m.0hm0jhj" .
+<m.07gt18f> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv3g" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z38" .
+<US_Census_2000_Tract_40017300903> <location.census_tract.ams_res> "m.07332hv" .
+<Banner> <location.location.geolocation> "m.04bhwt_" .
+<Concho,_Oklahoma> <common.topic.article> "m.0286kpv" .
+<Banner> <common.topic.notable_types> "City/Town/Village" .
+<Canadian_County> <location.location.contains> "73036" .
+<m.07332g_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Scott,_Oklahoma> <common.topic.article> "m.0c02t3h" .
+<Calumet> <location.statistical_region.population> "m.0hm0jgw" .
+<Bridgeport_Hill-Hydro_OK_66_Segment> <common.topic.notable_for> "g.1255csh6d" .
+<Calumet> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gt14w" .
+<Canadian_County> <location.location.contains> "73064" .
+<US_Census_2000_Tract_40017300902> <location.census_tract.avg_vac_r> "m.07332h6" .
+<m.0hm2ghp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301005> <location.census_tract.res_vac> "m.07332rw" .
+<Clarence_E._Page_Municipal_Airport> <common.topic.notable_for> "g.125cdpb7j" .
+<Union_City> <location.statistical_region.population> "g.11x1kvszl" .
+<m.03jrsfx> <location.adjoining_relationship.adjoins> "Caddo County" .
+<US_Census_2000_Tract_40017301201> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdt5" .
+<m.0hm1vk7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_County> <type.type.expected_by> "County" .
+<US_Census_2000_Tract_40017301404> <location.census_tract.avg_vac_r> "m.0733328" .
+<US_Census_2000_Tract_40017301406> <location.location.containedby> "Canadian County" .
+<m.073330_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvmk" .
+<Canadian_Valley_Technology_Center> <location.location.containedby> "El Reno" .
+<Geary> <location.location.people_born_here> "Dewey Sullivan" .
+<m.0hm2ggb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County_/_Okarche_town> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gt1fd" .
+<El_Reno> <location.location.people_born_here> "William Trulock Beeks" .
+<US_Census_2000_Tract_40017300202> <location.hud_foreclosure_area.hhuniv> "m.07gvd0m" .
+<Mustang> <location.statistical_region.population> "m.0hm1rqk" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300100" .
+<Clarence_E._Page_Municipal_Airport> <location.location.containedby> "Canadian County" .
+<US_Census_2000_Tract_40017300700> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvd8s" .
+<Union_City> <location.statistical_region.population> "g.11x1hg3kz" .
+<m.07gvd46> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.statistical_region.rent50_0> "m.05gf8qk" .
+<Canadian_County> <location.location.contains> "Okarche" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300600" .
+<m.07331sl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07332k9> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301005> <location.location.containedby> "Canadian County" .
+<m.0hm1y_y> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Central_Time_Zone> <common.topic.notable_for> "g.125dhx05_" .
+<El_Reno> <location.statistical_region.population> "g.11x1fxvm9" .
+<US_Census_2000_Tract_40017301201> <location.census_tract.res_vac> "m.07332wp" .
+<US_Census_2000_Tract_40017301004> <location.census_tract.bus_vac> "m.07332qm" .
+<McClain_County> <location.location.containedby> "Oklahoma City, OK Metropolitan Statistical Area" .
+<Calumet> <location.statistical_region.population> "g.11x1jh42l" .
+<m.07gvdrp> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Authentic_Custom_Homes> <organization.organization.geographic_scope> "El Reno" .
+<Yukon> <location.statistical_region.population> "m.0hm2pgp" .
+<m.0hm1vjb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Bridgeport_Hill_Service_Station> <location.location.containedby> "Canadian County" .
+<El_Reno> <location.location.contains> "Redlands Community College" .
+<Darlington_Agency_Site> <base.usnris.nris_listing.significance_level> "State" .
+<US_Census_2000_Tract_40017300700> <location.census_tract.ams_res> "m.0733269" .
+<Canadian_County> <location.statistical_region.population> "g.11x1fhfhn" .
+<US_Census_2000_Tract_40017301003> <common.topic.notable_for> "g.125fj_w7j" .
+<McClain_County> <location.us_county.hud_section_8_area> "Oklahoma City, OK HUD Metro FMR Area" .
+<m.0jt943s> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mustang> <location.statistical_region.population> "m.0hm1rr0" .
+<m.0hm0x_z> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "g.11x1l1699" .
+<US_Census_2000_Tract_40017300202> <location.census_tract.ams_res> "m.07331xm" .
+<US_Census_2000_Tract_40017300700> <common.topic.notable_for> "g.12583n_7d" .
+<Union_City> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gt1kf" .
+<Place_of_worship> <freebase.type_hints.included_types> "Building" .
+<m.073330k> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.location.people_born_here> "Kenzie Ruston" .
+<Canadian_County_/_Okarche_town> <location.hud_county_place.place> "Okarche" .
+<US_Census_2000_Tract_40017300201> <common.topic.notable_for> "g.125gv1bql" .
+<Redlands_Community_College> <location.location.containedby> "United States of America" .
+<Calumet> <location.statistical_region.population> "g.11x1hcf63" .
+<US_Census_2000_Tract_40017301300> <location.census_tract.bus_vac> "m.0733304" .
+<m.0hjstf0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.statistical_region.population> "m.0k6wwkb" .
+<US_Census_2000_Tract_40017300100> <location.census_tract.ams_oth> "m.07331t6" .
+<m.07332xb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<73078> <location.postal_code.country> "United States of America" .
+<m.07gvdy9> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07gsszm> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Geary> <location.statistical_region.population> "m.0hm11t_" .
+<Canadian_County> <location.statistical_region.population> "g.11x1dq25j" .
+<US_Census_2000_Tract_40017301406> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvf07" .
+<m.07gssz5> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300901> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdfm" .
+<Yukon> <location.statistical_region.population> "m.0hm2phl" .
+<US_Census_2000_Tract_40017301100> <location.census_tract.ams_oth> "m.07332t_" .
+<m.0hm2pgy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.statistical_region.population> "m.0hm0y0g" .
+<Cleveland_County> <location.location.adjoin_s> "m.03jshff" .
+<m.0hm2pkt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm0jdp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.contains> "Banner" .
+<El_Reno> <location.location.people_born_here> "Edwin R. Gilliland" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300202" .
+<Yukon_Beauty_College_Inc> <location.location.containedby> "Oklahoma" .
+<Oklahoma_City,_OK_HUD_Metro_FMR_Area> <location.hud_section_8_area.county> "Canadian County" .
+<m.07gvdpb> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07gt1h3> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm0jf_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm11rr> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Time_Zone> <freebase.type_hints.included_types> "Topic" .
+<m.073335z> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.statistical_region.population> "m.0hm0xy8" .
+<Gideon_Tinsley> <people.person.place_of_birth> "Canadian County" .
+<m.07gt1bk> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.073325q> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Yukon> <location.statistical_region.population> "g.11x1jp547" .
+<Grady_County> <location.location.time_zones> "Central Time Zone" .
+<El_Reno> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gt176" .
+<City/Town/Village> <freebase.type_hints.included_types> "Statistical region" .
+<m.07331yp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oklahoma_City,_OK_HUD_Metro_FMR_Area> <location.hud_section_8_area.county> "Oklahoma County" .
+<m.07gvdb7> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Calumet> <location.statistical_region.population> "m.0hm0jgn" .
+<El_Reno> <location.statistical_region.population> "g.11x1hbgp4" .
+<Powers> <common.topic.notable_types> "City/Town/Village" .
+<US_Census_2000_Tract_40017300201> <location.census_tract.ams_res> "m.07331vq" .
+<El_Reno> <common.topic.notable_for> "g.1255pdr8k" .
+<m.0hm1y_7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<Central_Time_Zone> <common.topic.article> "m.02fqx0" .
+<US_Census_2000_Tract_40017300500> <location.census_tract.ams_res> "m.073322b" .
+<Canadian_County> <location.us_county.county_seat> "El Reno" .
+<US_Census_2000_Tract_40017300903> <location.hud_foreclosure_area.hhuniv> "m.07gvdhg" .
+<m.0hm1rqk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.statistical_region.population> "m.0hm0x_j" .
+<US_Census_2000_Tract_40017301001> <location.census_tract.oth_vac> "m.07332ll" .
+<m.0hm0jhj> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstkx" .
+<El_Reno> <location.location.people_born_here> "Kenneth Peach" .
+<m.073333r> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300100> <location.location.containedby> "Canadian County" .
+<Canadian_County_/_County_Place_4001799999> <common.topic.notable_types> "Location" .
+<73014> <common.topic.notable_types> "Postal Code" .
+<US_Census_2000_Tract_40017301100> <location.census_tract.res_vac> "m.07332ts" .
+<US_Census_2000_Tract_40017301202> <location.census_tract.avg_vac_b> "m.07332yd" .
+<Oklahoma_City> <base.biblioness.bibs_location.state> "Oklahoma" .
+<Okarche> <location.statistical_region.population> "m.0hm1vlb" .
+<m.0733218> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv3x" .
+<m.073321x> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300802> <location.census_tract.res_vac> "m.07332bj" .
+<Canadian_County> <location.statistical_region.co2_emissions_mobile> "m.045kzh0" .
+<m.07332j7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hjsthn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "g.12b025gxx" .
+<Geary> <location.statistical_region.population> "g.11x1gzfnx" .
+<US_Census_2000_Tract_40017300202> <common.topic.notable_types> "US Census Tract" .
+<m.07gvd8_> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<El_Reno> <location.location.geolocation> "m.0kg7dr" .
+<Scott,_Oklahoma> <location.location.containedby> "Canadian County" .
+<Yukon> <location.statistical_region.population> "m.0hm2pjx" .
+<US_Census_2000_Tract_40017301406> <location.census_tract.ams_res> "m.0733350" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstfg" .
+<Calumet> <location.statistical_region.population> "m.0hm0jfs" .
+<Mustang> <location.statistical_region.population> "g.11x1k2hl5" .
+<El_Reno_Regional_Airport> <location.location.geolocation> "m.0ghc8pv" .
+<US_Census_2000_Tract_40017300300> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvd35" .
+<Geary> <location.statistical_region.population> "m.0hm11sf" .
+<US_Census_2000_Tract_40017300100> <common.topic.notable_for> "g.1255vf76m" .
+<m.07331y0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_County> <type.type.properties> "HUD Section 8 Area" .
+<m.0hm1vlk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300300> <location.hud_foreclosure_area.hhuniv> "m.07gvd22" .
+<US_Census_2000_Tract_40017300100> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvczb" .
+<Scott,_Oklahoma> <base.wikipedia_infobox.settlement.area_code> "Area code 405" .
+<US_Census_2000_Tract_40017301005> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdqf" .
+<m.0hjsth6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gt15b> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Karns> <common.topic.notable_types> "City/Town/Village" .
+<El_Reno_High_School> <base.usnris.nris_listing.significance_level> "Local" .
+<US_Census_2000_Tract_40017301404> <location.census_tract.res_vac> "m.073331d" .
+<Grady_County> <location.location.containedby> "Oklahoma" .
+<US_Census_2000_Tract_40017300700> <location.census_tract.avg_vac_b> "m.073326j" .
+<US_Census_2000_Tract_40017300600> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvd6w" .
+<Logan_County> <location.location.containedby> "Oklahoma City, OK Metropolitan Statistical Area" .
+<Fort_Reno> <location.location.containedby> "Oklahoma" .
+<Yukon> <location.statistical_region.population> "m.0hm2pj0" .
+<m.07gvdm1> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301003> <location.census_tract.avg_vac_r> "m.07332ny" .
+<Lincoln_County> <location.us_county.hud_section_8_area> "Lincoln County, OK HUD Metro FMR Area" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvn3" .
+<US_Census_2000_Tract_40017301404> <location.census_tract.oth_vac> "m.073331v" .
+<m.07gt1gx> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300500> <location.census_tract.avg_vac_b> "m.073322k" .
+<m.07gvd_6> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301404> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdyj" .
+<73099> <location.postal_code.country> "United States of America" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstk0" .
+<Okarche> <location.statistical_region.population> "m.0hm1vl3" .
+<2013_El_Reno_tornado> <event.disaster.areas_affected> "El Reno" .
+<Piedmont> <location.statistical_region.population> "m.0k6jw_r" .
+<m.07332p3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0k6wwk3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<1955_NCAA_Men's_Division_I_Basketball_Tournament> <time.event.locations> "El Reno" .
+<Piedmont> <common.topic.notable_for> "g.125d12y3q" .
+<m.0hm11t_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.location.people_born_here> "Suzan Shown Harjo" .
+<m.073323t> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Niles> <common.topic.notable_types> "City/Town/Village" .
+<US_Census_2000_Tract_40017301100> <location.census_tract.avg_vac_b> "m.07332tl" .
+<m.07331yg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Piedmont> <location.statistical_region.population> "m.0jtcf0j" .
+<Caddo_County> <location.location.adjoin_s> "m.03jrsfx" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstdb" .
+<m.07gvd3k> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstf7" .
+<73022> <location.postal_code.country> "United States of America" .
+<Canadian_County> <location.statistical_region.population> "g.11x1frqz0" .
+<m.07gt1kn> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300500> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvd5g" .
+<US_Census_2000_Tract_40017300802> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdc8" .
+<US_Census_2000_Tract_40017300500> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvd68" .
+<m.05gf8q_> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Oklahoma> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.07332zn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.contains> "73099" .
+<El_Reno> <location.statistical_region.population> "m.0hm0xz4" .
+<m.0jt09qk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm1vl3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "g.11x1d7r9g" .
+<US_Census_2000_Tract_40017300903> <common.topic.notable_types> "US Census Tract" .
+<Mennoville_Mennonite_Church> <location.location.containedby> "Canadian County" .
+<m.0jtcf0j> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oklahoma> <base.locations.states_and_provences.country> "United States of America" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Dated location" .
+<El_Reno> <location.location.contains> "William I. and Magdalen M. Goff House" .
+<US_Census_2000_Tract_40017301300> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdwv" .
+<Canadian_County> <location.statistical_region.population> "g.12b020b1y" .
+<Yukon> <location.location.contains> "Yukon Beauty College Inc" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017301405" .
+<US_Census_2000_Tract_40017301100> <location.hud_foreclosure_area.hhuniv> "m.07gvdqt" .
+<US_Census_2000_Tract_40017300100> <common.topic.notable_types> "US Census Tract" .
+<El_Reno> <location.statistical_region.population> "m.0hm0x_8" .
+<Piedmont> <location.statistical_region.population> "m.0hm1y_h" .
+<Grady_County> <location.us_county.hud_section_8_area> "Grady County, OK HUD Metro FMR Area" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstjc" .
+<Okarche> <location.statistical_region.population> "g.11b66dql_h" .
+<Yukon> <location.statistical_region.population> "m.0jtmmng" .
+<m.0hjstdb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm1z2m> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Piedmont> <location.statistical_region.population> "g.11x1cm6p1" .
+<US_Census_2000_Tract_40017300600> <common.topic.notable_types> "US Census Tract" .
+<US_Census_2000_Tract_40017300500> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvd57" .
+<m.07gvd3_> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.statistical_region.population> "m.0hjsth6" .
+<Canadian_County> <location.statistical_region.population> "g.12b020b1w" .
+<m.073329p> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Union_City> <location.location.time_zones> "Central Time Zone" .
+<US_Census_2000_Tract_40017301406> <common.topic.notable_types> "US Census Tract" .
+<Oklahoma> <location.administrative_division.first_level_division_of> "United States of America" .
+<Union_City> <location.statistical_region.population> "m.0hm2gdb" .
+<Okarche> <location.statistical_region.population> "g.11x1hqxfm" .
+<Okarche> <location.statistical_region.population> "m.0jt9fmb" .
+<Canadian_County_/_Geary_city> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gt18y" .
+<Canadian_County_/_County_Place_4001799999> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gt1pm" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvfk" .
+<Yukon_Review> <common.topic.notable_types> "Newspaper" .
+<m.07gt1gm> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<2013_El_Reno_tornado> <event.disaster.victims> "Paul Samaras" .
+<m.0hm11rz> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.statistical_region.population> "m.0hm2ph4" .
+<m.07gt14w> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv8x" .
+<US_Census_2000_Tract_40017300903> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdhp" .
+<Canadian_County> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gsszm" .
+<m.0733274> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gsszd" .
+<Time_Zone> <freebase.type_profile.published> "Published" .
+<m.03jptbj> <location.adjoining_relationship.adjoins> "Kingfisher County" .
+<m.0hm11sw> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Piedmont> <location.location.containedby> "Oklahoma" .
+<US_County> <type.type.properties> "County Seat" .
+<m.07332n1> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300903> <location.census_tract.avg_vac_r> "m.07332k3" .
+<Calumet> <location.statistical_region.population> "g.11bc87wmm1" .
+<m.07gvf07> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County_/_Geary_city> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gt18n" .
+<Canadian_County_/_Piedmont_city> <location.hud_county_place.county> "Canadian County" .
+<Canadian_County> <location.location.contains> "Karns" .
+<US_Census_2000_Tract_40017301100> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdrp" .
+<m.0hm11vf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301201> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdsh" .
+<m.07gvdvc> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Yukon> <location.statistical_region.population> "m.0hm2pk4" .
+<Bridgeport_Hill_Service_Station> <base.usnris.nris_listing.significance_level> "Local" .
+<US_Census_2000_Tract_40017301004> <location.census_tract.res_vac> "m.07332pz" .
+<m.073331d> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301001> <location.location.containedby> "Canadian County" .
+<US_Census_2000_Tract_40017301201> <location.location.containedby> "Canadian County" .
+<United_States_of_America> <location.country.administrative_divisions> "Oklahoma" .
+<Calumet> <location.statistical_region.population> "g.11x1gd4_k" .
+<US_Census_2000_Tract_40017301406> <location.census_tract.ams_bus> "m.073336m" .
+<US_Census_2000_Tract_40017301300> <location.census_tract.avg_vac_b> "m.07332_9" .
+<m.0733235> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301003> <location.census_tract.bus_vac> "m.07332nq" .
+<Canadian_County> <location.statistical_region.rent50_3> "m.05gf8r6" .
+<Okarche> <location.statistical_region.population> "g.11x1j8r4z" .
+<Canadian_County> <location.us_county.hud_county_place> "Union City" .
+<US_Census_2000_Tract_40017300201> <location.census_tract.bus_vac> "m.07331ws" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvj6" .
+<m.07gvdkt> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301202> <location.census_tract.ams_res> "m.07332y5" .
+<m.0587kd9> <location.geometry.delineates_location> "73064" .
+<Administrative_Division> <freebase.type_hints.included_types> "Location" .
+<m.07331y7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07332q5> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Union_City> <base.wikipedia_infobox.settlement.area_code> "Area code 405" .
+<Location> <freebase.type_profile.published> "Published" .
+<United_States_of_America> <location.country.currency_used> "United States Dollar" .
+<Logan_County> <location.location.containedby> "Oklahoma" .
+<m.07gvdhp> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Grady_County> <location.location.containedby> "Oklahoma City, OK Metropolitan Statistical Area" .
+<Mustang> <location.statistical_region.population> "g.11x1k0pk3" .
+<Airport> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0kgpck2> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301005> <location.census_tract.bus_vac> "m.07332sj" .
+<m.0hm2pjp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0k6wwjn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300600> <location.census_tract.ams_res> "m.0733247" .
+<Fort_Reno> <location.location.geolocation> "m.06zwxq5" .
+<Mustang> <location.statistical_region.population> "m.0k6wwj6" .
+<m.075mjwz> <location.mailing_address.state_province_region> "Oklahoma" .
+<Mustang> <common.topic.notable_for> "g.125g4w7yc" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z2v" .
+<Canadian_County> <location.location.containedby> "Oklahoma" .
+<Mustang> <location.statistical_region.population> "m.0hm1rns" .
+<US_Census_2000_Tract_40017300802> <common.topic.notable_types> "US Census Tract" .
+<m.07gvd2z> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.073320f> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Authentic_Custom_Homes> <organization.organization.geographic_scope> "Oklahoma City" .
+<Place_of_worship> <freebase.type_hints.included_types> "Location" .
+<Airport> <freebase.type_profile.published> "Published" .
+<US_Census_2000_Tract_40017300903> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdjb" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvj0" .
+<Piedmont> <location.statistical_region.population> "m.0k6jw_z" .
+<Calumet> <location.statistical_region.population> "m.0hm0jc_" .
+<m.0733304> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301005> <location.census_tract.avg_vac_b> "m.07332rp" .
+<m.07gt19c> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Yukon_Review> <book.newspaper.circulation_areas> "Canadian County" .
+<Bridgeport_Hill-Hydro_OK_66_Segment> <location.location.geolocation> "m.075mk2n" .
+<73014> <location.location.containedby> "Canadian County" .
+<m.07gvf0p> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07gvd9l> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300400> <location.census_tract.ams_bus> "m.073321x" .
+<US_Census_2000_Tract_40017301300> <location.census_tract.ams_oth> "m.07332_q" .
+<Okarche> <location.statistical_region.population> "m.0hm1vk0" .
+<Mustang> <location.statistical_region.population> "m.0hm1rm6" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <location.location.contains> "Lincoln County" .
+<US_Census_2000_Tract_40017301404> <common.topic.notable_types> "US Census Tract" .
+<Edwin_R._Gilliland> <people.person.place_of_birth> "El Reno" .
+<m.07331x5> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm2pg0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<73036> <common.topic.notable_for> "g.125601m3x" .
+<Calumet> <location.statistical_region.population> "g.11x1lqw58" .
+<Geary> <location.statistical_region.population> "g.11x1m4pj8" .
+<m.07332lt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvd22> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301202> <location.census_tract.ams_oth> "m.07332yt" .
+<Canadian_County> <location.us_county.hud_county_place> "Yukon" .
+<m.073324w> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<73014> <location.postal_code.country> "United States of America" .
+<Bridgeport_Hill_Service_Station> <common.topic.notable_for> "g.125c4kl1l" .
+<m.0hm0jh2> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.046cwm6> <location.adjoining_relationship.adjoins> "Yukon" .
+<Calumet> <location.statistical_region.population> "m.0hm0jg6" .
+<m.07gvczb> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Redlands_Community_College> <education.educational_institution_campus.educational_institution> "Redlands Community College" .
+<m.0hm2pjx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.us_county.hud_county_place> "Canadian County / Piedmont city" .
+<Canadian_County> <location.statistical_region.population> "g.11x1jztng" .
+<Mustang> <location.statistical_region.population> "g.11x1dsst1" .
+<US_Census_2000_Tract_40017300801> <location.census_tract.avg_vac_b> "m.073328f" .
+<Cleveland_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<m.0hm0x_1> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "g.12vqhwjj2" .
+<Lincoln_County> <common.topic.notable_types> "US County" .
+<73762> <location.postal_code.country> "United States of America" .
+<Mustang> <location.hud_county_place.place> "Mustang" .
+<Yukon> <location.statistical_region.population> "g.11x1g2580" .
+<Okarche> <location.location.time_zones> "Central Time Zone" .
+<Gideon_Tinsley> <government.politician.party> "m.0130lqfs" .
+<m.07332pz> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdzk> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07332bj> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm2pfl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mustang> <location.statistical_region.population> "g.12vqj2v37" .
+<m.0hzw063> <common.topic.notable_types> "Location" .
+<Piedmont> <location.statistical_region.population> "g.11x1d967l" .
+<Banner> <location.location.containedby> "Canadian County" .
+<m.07332rw> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.rent50_4> "m.05gf8rf" .
+<Calumet> <location.statistical_region.population> "g.11x1kf354" .
+<US_Census_2000_Tract_40017300902> <location.census_tract.avg_vac_b> "m.07332g4" .
+<Okarche> <location.statistical_region.population> "m.0hm1vkx" .
+<Canadian_County> <location.statistical_region.population> "g.11x1m28vk" .
+<US_Census_2000_Tract_40017301406> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvf0x" .
+<US_Census_2000_Tract_40017300902> <location.census_tract.ams_oth> "m.07332gk" .
+<El_Reno> <location.statistical_region.population> "m.0hm0xzv" .
+<US_Census_2000_Tract_40017301001> <location.census_tract.bus_vac> "m.07332lt" .
+<Canadian_County> <location.location.contains> "Fort Reno" .
+<US_Census_2000_Tract_40017300202> <location.census_tract.ams_oth> "m.07331y7" .
+<US_Census_2000_Tract_40017301003> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdmh" .
+<US_Census_2000_Tract_40017300400> <location.hud_foreclosure_area.hhuniv> "m.07gvd3k" .
+<US_Census_2000_Tract_40017301405> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdzk" .
+<m.07gt1pd> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07332hd> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "g.11x1h073b" .
+<Calumet> <location.statistical_region.population> "g.11x1m7xw1" .
+<Yukon> <common.topic.notable_for> "g.1258z773s" .
+<m.0k6jw_h> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstds" .
+<Blaine_County> <location.location.contains> "73040" .
+<US_Census_2000_Tract_40017300300> <location.census_tract.res_vac> "m.07331zy" .
+<Union_City> <location.statistical_region.population> "m.0k6wwjw" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Scott,_Oklahoma> <location.location.containedby> "Caddo County" .
+<US_County> <freebase.type_hints.included_types> "Dated location" .
+<US_Census_2000_Tract_40017300201> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvc_l" .
+<US_Census_2000_Tract_40017301405> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvd_6" .
+<US_Census_2000_Tract_40017301100> <location.census_tract.ams_res> "m.07332tc" .
+<Piedmont> <location.statistical_region.population> "m.0hm1y_q" .
+<US_Census_2000_Tract_40017300600> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvd7r" .
+<United_States_Department_of_Housing_and_Urban_Development> <government.government_agency.jurisdiction> "United States of America" .
+<Karns> <location.location.containedby> "Canadian County" .
+<m.07332z7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300801> <location.census_tract.avg_vac_r> "m.073329h" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<US_Census_2000_Tract_40017300802> <location.hud_foreclosure_area.hhuniv> "m.07gvdc1" .
+<US_Census_2000_Tract_40017300903> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdjk" .
+<El_Reno> <location.location.people_born_here> "Kent Cullers" .
+<m.0hm0xyq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z3h" .
+<Canadian_County> <location.statistical_region.population> "g.12b01rvzr" .
+<Geary> <location.statistical_region.population> "m.0hm11r9" .
+<Mustang> <location.statistical_region.population> "m.0hm1rpg" .
+<US_Census_2000_Tract_40017300100> <location.census_tract.bus_vac> "m.07331tn" .
+<m.0hm1yzt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.time_zones> "Central Time Zone" .
+<US_Census_2000_Tract_40017300802> <location.location.containedby> "Canadian County" .
+<Gideon_Tinsley> <people.person.places_lived> "m.012gl32c" .
+<m.07gvdf_> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300700> <location.census_tract.avg_vac_r> "m.073327l" .
+<Canadian_County> <location.statistical_region.co2_emissions_commercial> "m.045jqbj" .
+<US_Census_2000_Tract_40017300901> <location.census_tract.res_vac> "m.07332df" .
+<m.07gt1bs> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Mustang> <common.topic.notable_types> "City/Town/Village" .
+<US_Census_2000_Tract_40017300202> <location.census_tract.ams_bus> "m.07331z2" .
+<Canadian_County> <location.location.contains> "Canadian County / Piedmont city" .
+<Canadian_County> <location.location.contains> "73762" .
+<US_Census_2000_Tract_40017301004> <location.census_tract.avg_vac_b> "m.07332ps" .
+<m.07gt1hm> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Geary> <location.statistical_region.population> "g.11x1knv3v" .
+<El_Reno> <location.hud_foreclosure_area.total_residential_addresses> "m.07gt17g" .
+<US_Census_2000_Tract_40017301004> <location.census_tract.oth_vac> "m.07332qd" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z45" .
+<Calumet> <location.statistical_region.population> "g.12vqhvb8m" .
+<Jesse_L._Reno> <symbols.name_source.namesakes> "El Reno" .
+<m.03jrpkl> <location.adjoining_relationship.adjoins> "Grady County" .
+<Canadian_County> <location.location.contains> "Union City" .
+<US_Census_2000_Tract_40017301300> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdx8" .
+<m.07gt169> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300801> <common.topic.notable_for> "g.125cm1fsx" .
+<US_Census_2000_Tract_40017301406> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvf0p" .
+<Mennoville_Mennonite_Church> <location.location.containedby> "Oklahoma" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv92" .
+<Yukon> <location.location.geolocation> "m.0kgcdm" .
+<Richland> <location.location.containedby> "Canadian County" .
+<Union_City> <location.statistical_region.population> "g.11x1k06ht" .
+<Oklahoma_City> <common.topic.notable_types> "City/Town/Village" .
+<US_Census_2000_Tract_40017301405> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdz_" .
+<El_Reno> <location.location.containedby> "Oklahoma" .
+<73036> <location.postal_code.country> "United States of America" .
+<m.0hjstj4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm0x_8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdk4> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Powers> <location.location.containedby> "Oklahoma" .
+<US_Census_2000_Tract_40017300700> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvd8k" .
+<Geary> <location.statistical_region.population> "g.11x1f71_k" .
+<Union_City> <common.topic.notable_types> "City/Town/Village" .
+<Yukon> <location.statistical_region.population> "m.0hm2pfl" .
+<Bridgeport_Hill-Hydro_OK_66_Segment> <common.topic.notable_types> "Listed Site" .
+<m.07gvdwv> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.073320v> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County_/_Okarche_town> <common.topic.notable_for> "g.1258s3m9r" .
+<m.0jtdr9_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm1y_0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Caddo_County> <common.topic.notable_types> "US County" .
+<m.07gvdv4> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0jtnl8r> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Geary> <location.statistical_region.population> "g.11x1mckqw" .
+<US_Census_2000_Tract_40017300500> <location.location.containedby> "Canadian County" .
+<m.0hm2pj7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <common.topic.webpage> "m.09x5rwq" .
+<m.0hm1rm6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z2d" .
+<Union_City> <location.location.containedby> "Canadian County" .
+<Canadian_County> <location.statistical_region.population> "g.11x1m28vl" .
+<m.07332vv> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300100> <location.hud_foreclosure_area.hhuniv> "m.07gvcyc" .
+<Geary> <base.wikipedia_infobox.settlement.area_code> "Area code 405" .
+<US_Census_2000_Tract_40017300500> <location.census_tract.ams_bus> "m.073323t" .
+<El_Reno> <location.location.people_born_here> "Howie McFarland" .
+<m.07gvdch> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm1rmp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv84" .
+<m.0hm2ggs> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mustang> <location.statistical_region.population> "g.11x1g8jf6" .
+<Union_City> <location.statistical_region.population> "g.11x1lbjh6" .
+<Yukon_Review> <book.newspaper.headquarters> "m.0hzw063" .
+<m.0hm2gdb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300500> <location.census_tract.oth_vac> "m.0733235" .
+<m.07gt1f5> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301100> <location.census_tract.bus_vac> "m.07332vf" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstjl" .
+<m.07gvdt5> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm11s6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301001> <location.census_tract.ams_bus> "m.07332m6" .
+<US_Census_2000_Tract_40017301005> <location.census_tract.oth_vac> "m.07332s9" .
+<US_Census_2000_Tract_40017301300> <location.census_tract.avg_vac_r> "m.073330c" .
+<US_Census_2000_Tract_40017301100> <location.census_tract.ams_bus> "m.07332vv" .
+<Okarche> <location.statistical_region.population> "g.11x1h8lvd" .
+<Canadian_County> <location.statistical_region.population> "g.12b020b1x" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z2m" .
+<m.07gt16_> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.location.adjoin_s> "m.03jptbj" .
+<Oklahoma> <location.us_state.capital> "Oklahoma City" .
+<m.0jt9fhr> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.statistical_region.population> "m.0hm0y1b" .
+<m.07gt1hb> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Oklahoma_County> <location.location.containedby> "Oklahoma" .
+<m.0hm0y1b> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.us_county.hud_county_place> "Canadian County / County Place 4001799999" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvn9" .
+<Geary> <location.statistical_region.population> "g.12vqj6d_1" .
+<Okarche> <location.statistical_region.population> "m.0hm1vls" .
+<US_Census_2000_Tract_40017301404> <location.location.containedby> "Canadian County" .
+<US_Census_2000_Tract_40017300801> <location.location.containedby> "Canadian County" .
+<Fort_Reno> <common.topic.article> "m.0gvc_0" .
+<US_Census_2000_Tract_40017300300> <common.topic.notable_for> "g.125gpgv_3" .
+<Geary> <location.statistical_region.population> "m.0hm11rz" .
+<m.0733286> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0jvw321> <location.administrative_division_capital_relationship.administrative_division> "Canadian County" .
+<Canadian_County> <location.statistical_region.population> "g.11x1fqt42" .
+<m.07gt17g> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301202> <location.census_tract.res_vac> "m.07332yl" .
+<US_Census_2000_Tract_40017300202> <location.census_tract.bus_vac> "m.07331yp" .
+<United_States_Dollar> <finance.currency.countries_used> "United States of America" .
+<m.0hm11r9> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mustang> <location.hud_foreclosure_area.hhuniv> "m.07gt1b9" .
+<73078> <common.topic.notable_for> "g.1257hvlyw" .
+<m.0hjstkp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Okarche> <location.statistical_region.population> "m.0hm1vhx" .
+<El_Reno> <location.capital_of_administrative_division.capital_of> "m.0jvw321" .
+<m.0hm1rr0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Blaine_County> <common.topic.notable_types> "US County" .
+<Canadian_County> <location.statistical_region.population> "m.0hjsthw" .
+<m.073335g> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <common.topic.notable_types> "US Core Based Statistical Area" .
+<US_Census_2000_Tract_40017301404> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdy9" .
+<m.0hm1vjk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Okarche> <location.statistical_region.population> "m.0hm1vhp" .
+<m.0hm1z1x> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Geary> <location.statistical_region.population> "g.11bc84r5hy" .
+<Yukon> <location.statistical_region.population> "g.11x1g696w" .
+<Union_City> <location.hud_county_place.place> "Union City" .
+<US_Census_2000_Tract_40017300901> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvddr" .
+<Okarche> <location.statistical_region.population> "m.0hm1vjb" .
+<m.0hjstdk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Okarche> <location.statistical_region.population> "g.11x1gxlmx" .
+<Canadian_Valley_Technology_Center> <education.educational_institution.campuses> "Canadian Valley Technology Center" .
+<Logan_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<m.07332wx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.statistical_region.population> "g.11x1jyyk2" .
+<m.0hm11ts> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County_/_Geary_city> <common.topic.notable_for> "g.125576n0n" .
+<US_Census_2000_Tract_40017301202> <location.census_tract.ams_bus> "m.07332zn" .
+<m.07gvd8k> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301406> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvf00" .
+<US_Census_2000_Tract_40017300100> <location.census_tract.oth_vac> "m.07331tf" .
+<US_Census_2000_Tract_40017300801> <location.hud_foreclosure_area.hhuniv> "m.07gvd9l" .
+<m.0k6jw_z> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm1vk0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <location.location.contains> "Oklahoma City, OK HUD Metro FMR Area" .
+<m.07gvd8s> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Mustang> <location.statistical_region.population> "g.11x1cjhfg" .
+<m.0hm0jhr> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300100> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvczs" .
+<US_Census_2000_Tract_40017300500> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvd5x" .
+<Oklahoma> <base.biblioness.bibs_location.country> "United States of America" .
+<Newspaper> <freebase.type_hints.included_types> "Topic" .
+<El_Reno> <location.statistical_region.population> "g.11bymkbcfk" .
+<m.0hm1rq3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Calumet> <location.statistical_region.population> "g.11x1fdjh5" .
+<73064> <location.location.containedby> "Canadian County" .
+<m.0hm2ph4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County_/_Piedmont_city> <location.hud_foreclosure_area.total_residential_addresses> "m.07gt1hm" .
+<US_Census_2000_Tract_40017300300> <location.census_tract.avg_vac_r> "m.07331_t" .
+<US_Census_2000_Tract_40017300700> <location.census_tract.oth_vac> "m.0733274" .
+<El_Reno> <location.location.people_born_here> "Sally Kirkland" .
+<Union_City> <location.statistical_region.population> "m.0hm2gfx" .
+<m.0hm2phl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07332vf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301005> <common.topic.notable_for> "g.12595jzk4" .
+<US_Census_2000_Tract_40017300600> <location.census_tract.bus_vac> "m.0733259" .
+<m.07gsszd> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300901> <location.census_tract.oth_vac> "m.07332dw" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017301300" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<m.0733247> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Time_Zone> <freebase.type_profile.kind> "Definition" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstkp" .
+<Newspaper> <freebase.type_profile.published> "Published" .
+<Calumet> <location.statistical_region.population> "m.0k6wwhc" .
+<US_Census_2000_Tract_40017301300> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdxh" .
+<m.0k6wwjf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.co2_emissions_residential> "m.045k0_6" .
+<Canadian_County> <location.statistical_region.population> "m.0jtnl8r" .
+<Canadian_County> <location.location.contains> "Clarence E. Page Municipal Airport" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstgb" .
+<Yukon_Beauty_College_Inc> <location.location.containedby> "Yukon" .
+<US_Census_2000_Tract_40017301202> <location.location.containedby> "Canadian County" .
+<US_Census_2000_Tract_40017300801> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdbg" .
+<Canadian_County> <location.location.contains> "73014" .
+<Cleveland_County> <location.us_county.hud_section_8_area> "Oklahoma City, OK HUD Metro FMR Area" .
+<Niles> <common.topic.notable_for> "g.125965773" .
+<El_Reno_Regional_Airport> <common.topic.image> "El Reno Regional Airport-OK-19Feb1995-USGS" .
+<US_Census_2000_Tract_40017300901> <location.location.containedby> "Canadian County" .
+<Geary> <location.statistical_region.population> "m.0hm11vf" .
+<m.07gvdyj> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<El_Reno> <location.statistical_region.population> "g.11x1m3s85" .
+<Place_of_worship> <freebase.type_profile.published> "Published" .
+<Geary> <location.statistical_region.population> "m.0hm11t2" .
+<US_Census_2000_Tract_40017301201> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdtk" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300300" .
+<US_Census_2000_Tract_40017301201> <location.census_tract.ams_bus> "m.07332xr" .
+<Yukon_Beauty_College_Inc> <education.educational_institution_campus.educational_institution> "Yukon Beauty College Inc" .
+<m.073335p> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<73064> <location.postal_code.country> "United States of America" .
+<Canadian_County> <location.statistical_region.population> "g.11x1j6yh_" .
+<Okarche> <location.statistical_region.population> "m.0hm1vk7" .
+<m.07331v8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv48" .
+<US_Census_2000_Tract_40017300902> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdh2" .
+<m.073327c> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County_/_County_Place_4001799999> <location.hud_foreclosure_area.total_residential_addresses> "m.07gt1pd" .
+<73090> <location.location.containedby> "Canadian County" .
+<m.0hm2pg7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.co2_emissions_total> "m.045hdqt" .
+<Okarche> <location.statistical_region.population> "g.12vqj56w5" .
+<m.0hm2pk4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm1z3r> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Fort_Reno> <location.location.people_born_here> "Peter Hauser" .
+<Calumet> <location.hud_foreclosure_area.hhuniv> "m.07gt14f" .
+<US_Census_2000_Tract_40017301201> <location.census_tract.ams_oth> "m.07332wx" .
+<Yukon> <location.statistical_region.population> "g.11x1k6qj5" .
+<m.07332fh> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oklahoma_City> <location.location.adjoin_s> "m.046cwm6" .
+<m.07gvd4f> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300902> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdg6" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <location.location.contains> "Cleveland County" .
+<Central_Time_Zone> <common.topic.notable_types> "Time Zone" .
+<Calumet> <location.location.containedby> "Canadian County" .
+<m.0hjstk7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300400> <location.census_tract.oth_vac> "m.0733218" .
+<US_Census_2000_Tract_40017301201> <location.census_tract.ams_res> "m.07332w8" .
+<US_Census_2000_Tract_40017300300> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvd29" .
+<m.0k6jw_r> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300300> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvd2j" .
+<Canadian_County> <location.statistical_region.population> "g.11x1d_cl4" .
+<El_Reno> <common.topic.notable_types> "City/Town/Village" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstcx" .
+<US_Census_2000_Tract_40017300901> <location.census_tract.avg_vac_r> "m.07332f9" .
+<m.07331vq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <common.topic.article> "m.0z4k1" .
+<Canadian_County> <location.statistical_region.population> "g.11x1fxvzw" .
+<m.03jptbj> <location.adjoining_relationship.adjoins> "Canadian County" .
+<Canadian_County_/_Geary_city> <location.hud_foreclosure_area.hhuniv> "m.07gt18f" .
+<m.07332w8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gt1m9" .
+<m.075mk2v> <protected_sites.natural_or_cultural_site_listing.listed_site> "Bridgeport Hill-Hydro OK 66 Segment" .
+<Concho,_Oklahoma> <location.citytown.postal_codes> "73022" .
+<Oklahoma_City> <location.location.containedby> "Oklahoma" .
+<Scott,_Oklahoma> <common.topic.notable_types> "City/Town/Village" .
+<El_Reno> <location.statistical_region.population> "g.12vqht3dk" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <location.location.contains> "Oklahoma County" .
+<US_Census_2000_Tract_40017301405> <location.census_tract.bus_vac> "m.073333z" .
+<US_Census_2000_Tract_40017300802> <location.census_tract.ams_oth> "m.07332br" .
+<m.0hm11sn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.01261cbh" .
+<El_Reno> <symbols.namesake.named_after> "Jesse L. Reno" .
+<Oklahoma_City> <location.location.containedby> "Area code 405" .
+<m.07332mn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Piedmont> <location.statistical_region.population> "g.11b66bnd6b" .
+<Piedmont> <location.statistical_region.population> "g.11x1g362s" .
+<Mustang> <location.hud_county_place.county> "Canadian County" .
+<m.07gvdx1> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Oklahoma_County> <location.location.adjoin_s> "m.03js5fl" .
+<m.0hjstjt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mustang> <common.topic.image> "OKMap-doton-Mustang" .
+<m.0566k_c> <location.geometry.delineates_location> "73099" .
+<US_Census_2000_Tract_40017301004> <location.census_tract.avg_vac_r> "m.07332qv" .
+<Geary> <location.statistical_region.population> "m.0hm11ts" .
+<m.07332sj> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300202> <location.census_tract.avg_vac_r> "m.07331yx" .
+<US_Census_2000_Tract_40017300802> <location.census_tract.oth_vac> "m.07332bz" .
+<73099> <location.location.geometry> "m.0566k_c" .
+<m.07gvdq6> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300201> <location.census_tract.avg_vac_r> "m.07331w_" .
+<m.07332f2> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.statistical_region.population> "m.0hm2pht" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Dated location" .
+<Canadian_County> <location.statistical_region.population> "g.11x1gk_xk" .
+<Canadian_County> <location.location.contains> "Bridgeport Hill Service Station" .
+<m.07332v6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdnj> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301005> <common.topic.notable_types> "US Census Tract" .
+<m.07331w3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<73090> <location.postal_code.country> "United States of America" .
+<Caddo_County> <location.location.containedby> "Oklahoma" .
+<US_Census_2000_Tract_40017300802> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdch" .
+<Darlington_Agency_Site> <common.topic.notable_for> "g.125dw0n89" .
+<m.0hm1vhg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07332_h> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gt18n> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Calumet> <location.statistical_region.population> "m.0k6wwh4" .
+<m.0130lqfs> <government.political_party_tenure.politician> "Gideon Tinsley" .
+<m.0hm11t2> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gt1m2" .
+<Josh_Cooper> <people.person.place_of_birth> "Mustang" .
+<2013_El_Reno_tornado> <time.event.locations> "El Reno" .
+<m.0hjstfg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300902> <location.census_tract.ams_bus> "m.07332hd" .
+<US_Census_2000_Tract_40017301001> <location.census_tract.avg_vac_b> "m.07332kz" .
+<m.07332rg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301001> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdk4" .
+<El_Reno> <location.location.events> "1955 NCAA Men's Division I Basketball Tournament- West Regional First Round" .
+<Concho,_Oklahoma> <location.location.containedby> "Oklahoma" .
+<m.0733259> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.statistical_region.population> "m.0hm2pgg" .
+<El_Reno> <location.hud_foreclosure_area.hhuniv> "m.07gt169" .
+<Mustang> <location.location.containedby> "Canadian County" .
+<Mustang> <location.statistical_region.population> "m.0hm1rp0" .
+<Concho,_Oklahoma> <location.location.time_zones> "Central Time Zone" .
+<m.07gvdjb> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Location_of_Canadian_County,_Oklahoma> <common.image.appears_in_topic_gallery> "Canadian County" .
+<US_Census_2000_Tract_40017300801> <location.census_tract.res_vac> "m.073328m" .
+<Canadian_County> <location.statistical_region.population> "g.11x1gzf3q" .
+<Powers> <location.location.containedby> "Canadian County" .
+<m.0hjstjl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Piedmont> <location.location.time_zones> "Central Time Zone" .
+<m.073324n> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Union_City> <location.statistical_region.population> "m.0hm2gf6" .
+<Fort_Reno> <common.topic.image> "Fort Reno" .
+<US_Census_2000_Tract_40017300700> <location.census_tract.ams_oth> "m.073326y" .
+<m.0k6jwzl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdlv> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Mennoville_Mennonite_Church> <common.topic.notable_types> "Place of worship" .
+<73078> <location.location.containedby> "Canadian County" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017301001" .
+<m.07gvcyc> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<El_Reno> <location.location.contains> "Canadian Valley Technology Center" .
+<Geary> <location.location.time_zones> "Central Time Zone" .
+<Geary> <location.location.geolocation> "m.0kg7r_" .
+<m.0hm1z3z> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Union_City> <location.statistical_region.population> "g.11b66bsm5w" .
+<Geary> <location.statistical_region.population> "m.0hm11tk" .
+<US_Census_2000_Tract_40017300500> <location.hud_foreclosure_area.hhuniv> "m.07gvd50" .
+<US_Census_2000_Tract_40017300903> <common.topic.notable_for> "g.1259ntkb6" .
+<US_Census_2000_Tract_40017301300> <location.census_tract.res_vac> "m.07332_h" .
+<US_Census_2000_Tract_40017300903> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdj3" .
+<m.07gt1m2> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Mustang> <location.statistical_region.population> "m.0hm1rqb" .
+<Canadian_County> <location.statistical_region.population> "g.11x1l5x3z" .
+<m.07gt1ny> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.statistical_region.population> "g.11x1gmts7" .
+<Oklahoma_County> <location.location.containedby> "Oklahoma City, OK Metropolitan Statistical Area" .
+<Canadian_County> <location.statistical_region.population> "m.0kgpck2" .
+<US_Census_2000_Tract_40017301100> <common.topic.notable_types> "US Census Tract" .
+<Geary> <location.statistical_region.population> "g.11x1fxbx0" .
+<Geary> <location.statistical_region.population> "g.11x1jj2sv" .
+<City/Town/Village> <freebase.type_profile.kind> "Significant" .
+<El_Reno> <location.statistical_region.population> "g.11x1f3z5c" .
+<Canadian_County> <location.location.contains> "Richland" .
+<Calumet> <location.statistical_region.population> "g.11x1mnrhq" .
+<m.07332jg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301201> <location.census_tract.oth_vac> "m.07332x3" .
+<Piedmont> <common.topic.notable_types> "City/Town/Village" .
+<73036> <location.location.geolocation> "m.03dw74p" .
+<m.0hm2gds> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm1rqb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.073327s> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Piedmont> <location.statistical_region.population> "g.11x1gvs83" .
+<m.07gvdsr> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<El_Reno> <location.statistical_region.population> "g.11x1m9r4q" .
+<m.07gvd0m> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.statistical_region.co2_emissions_industrial> "m.045km7l" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv5m" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z31" .
+<Location_of_Canadian_County,_Oklahoma> <common.image.size> "m.0291lwz" .
+<m.0hm2pht> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301406> <location.census_tract.res_vac> "m.073335g" .
+<Mustang> <location.statistical_region.population> "g.11x1cn38r" .
+<m.07gvdsz> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300400> <location.census_tract.avg_vac_b> "m.073320n" .
+<US_Census_2000_Tract_40017300400> <location.census_tract.ams_oth> "m.0733211" .
+<Canadian_County_/_Piedmont_city> <common.topic.notable_types> "Location" .
+<Mustang> <location.statistical_region.population> "g.11x1jh50c" .
+<Central_Time_Zone> <location.location.events> "2013 Festival Colima de Cine" .
+<US_Census_2000_Tract_40017301001> <common.topic.notable_types> "US Census Tract" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300500" .
+<m.0jtp065> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.06_p94f> <common.topic.notable_types> "Location" .
+<73078> <location.location.geometry> "m.0570fr9" .
+<Union_City> <location.statistical_region.population> "g.11x1dq2t1" .
+<m.03js5fl> <location.adjoining_relationship.adjoins> "Oklahoma County" .
+<m.0hm1z25> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gt1fn> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0k6jwzc> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Calumet> <location.statistical_region.population> "m.0hm0jfb" .
+<US_Census_2000_Tract_40017300801> <location.census_tract.ams_res> "m.0733286" .
+<US_Census_2000_Tract_40017300300> <location.census_tract.ams_oth> "m.07331_4" .
+<m.0hm0x_j> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Calumet> <location.statistical_region.population> "m.0hm0jgf" .
+<United_States_of_America> <location.administrative_division.first_level_division_of> "United States, with Territories" .
+<Canadian_County> <location.location.contains> "Concho, Oklahoma" .
+<m.07gvdn9> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.055yxbb> <location.geometry.delineates_location> "73014" .
+<Yukon_Review> <common.topic.notable_for> "g.12552ywbd" .
+<Calumet> <location.statistical_region.population> "g.11x1mhpxs" .
+<Union_City> <location.statistical_region.population> "m.0hm2ggb" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdivides_place> "United States, with Territories" .
+<US_Census_2000_Tract_40017301300> <location.hud_foreclosure_area.hhuniv> "m.07gvdwd" .
+<US_Census_2000_Tract_40017300201> <location.location.containedby> "Canadian County" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstfp" .
+<US_Census_2000_Tract_40017300902> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvdgw" .
+<Logan_County> <common.topic.notable_types> "US County" .
+<Piedmont> <location.statistical_region.population> "g.11x1lfmlb" .
+<m.07gvd72> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300802> <location.census_tract.bus_vac> "m.07332c5" .
+<m.0hm1rnb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Union_City> <location.statistical_region.population> "g.12vqhvb9f" .
+<73022> <location.location.geometry> "m.056kf_k" .
+<m.07332gb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Red_Cross_Canteen> <common.topic.notable_types> "Building" .
+<Geary> <location.statistical_region.population> "g.11x1d77rq" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv8q" .
+<El_Reno> <location.statistical_region.population> "m.0k6wwhm" .
+<m.073326y> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300600> <location.census_tract.res_vac> "m.073324n" .
+<m.07gvdjy> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300600> <location.census_tract.ams_oth> "m.073324w" .
+<m.07332yt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdsh> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07gt1m9> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300100> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvcyl" .
+<m.0hm1rpg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301004> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdn9" .
+<US_Census_2000_Tract_40017300500> <common.topic.notable_types> "US Census Tract" .
+<m.07gvd50> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07332m6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Okarche> <location.statistical_region.population> "m.0hm1vkp" .
+<US_Census_2000_Tract_40017300100> <location.census_tract.ams_res> "m.07331sl" .
+<m.0jtpv53> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.citytown.postal_codes> "73085" .
+<m.073332x> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.statistical_region.population> "g.11x1dqzs9" .
+<US_Census_2000_Tract_40017300901> <location.hud_foreclosure_area.hhuniv> "m.07gvddj" .
+<Geary> <location.statistical_region.population> "m.0hm11r2" .
+<El_Reno> <location.statistical_region.population> "g.11x1h08m9" .
+<Administrative_Division> <type.type.domain> "Location" .
+<Piedmont> <location.statistical_region.population> "g.11x1lb09g" .
+<Yukon> <location.hud_county_place.county> "Canadian County" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_parent> "United States, with Territories" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <location.location.contains> "Logan County" .
+<m.07gvdj3> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm1vh7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301404> <location.census_tract.ams_bus> "m.073332g" .
+<Place_of_worship> <freebase.type_profile.strict_included_types> "Topic" .
+<US_Census_2000_Tract_40017301001> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdl0" .
+<m.07332jp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07331s_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <location.location.contains> "Canadian County" .
+<Central_Time_Zone> <time.time_zone.day_dst_ends> "First Sunday in November" .
+<m.07332z0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017300903> <location.census_tract.oth_vac> "m.07332jp" .
+<US_Census_2000_Tract_40017300700> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvd8b" .
+<m.07331z2> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Time_Zone> <freebase.type_profile.strict_included_types> "Topic" .
+<Central_Time_Zone> <common.topic.image> "Timezoneswest" .
+<m.07gt1nf> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm0y0g> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.073322b> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstg_" .
+<US_Census_2000_Tract_40017300902> <location.location.containedby> "Canadian County" .
+<2013_El_Reno_tornado> <event.disaster.victims> "Tim Samaras" .
+<Canadian_County> <location.statistical_region.population> "g.11x1djj_x" .
+<m.0570fr9> <location.geometry.delineates_location> "73078" .
+<m.073326q> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gt1ms" .
+<Mustang> <location.statistical_region.population> "m.0hm1rpp" .
+<US_Census_2000_Tract_40017301202> <location.census_tract.avg_vac_r> "m.07332zg" .
+<Airport> <freebase.type_profile.kind> "Definition" .
+<US_Census_2000_Tract_40017300100> <location.census_tract.avg_vac_b> "m.07331st" .
+<73762> <location.location.geolocation> "m.03dw9wn" .
+<Canadian_County> <common.topic.image> "Location of Canadian County, Oklahoma" .
+<Canadian_County> <location.location.containedby> "Oklahoma City, OK Metropolitan Statistical Area" .
+<m.0hm1rns> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <organization.organization_scope.organizations_with_this_scope> "Authentic Custom Homes" .
+<m.06_p94f> <location.mailing_address.state_province_region> "Oklahoma" .
+<Canadian_County> <location.statistical_region.population> "m.0jt943s" .
+<El_Reno> <location.statistical_region.population> "g.11x1flkg3" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300201" .
+<Yukon> <location.statistical_region.population> "g.11x1d4nq8" .
+<Calumet> <location.statistical_region.population> "m.0hm0jh9" .
+<Union_City> <location.statistical_region.population> "g.11x1h8mtw" .
+<US_Census_2000_Tract_40017301004> <location.census_tract.ams_bus> "m.07332r0" .
+<US_Census_2000_Tract_40017301405> <location.census_tract.ams_res> "m.073332x" .
+<73078> <location.location.geolocation> "m.03dw7js" .
+<US_Census_2000_Tract_40017301405> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvd_f" .
+<m.05gf8r6> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Canadian_County_/_Geary_city> <location.hud_county_place.county> "Canadian County" .
+<m.0hm0jd6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Calumet> <location.statistical_region.population> "g.11x1dldk1" .
+<Oklahoma_City> <location.location.time_zones> "Central Time Zone" .
+<US_Census_2000_Tract_40017300902> <location.census_tract.bus_vac> "m.07332g_" .
+<Building> <freebase.type_hints.included_types> "Topic" .
+<m.0hm1vm6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301001> <location.hud_foreclosure_area.hhuniv> "m.07gvdjy" .
+<Geary> <location.statistical_region.population> "m.0hm11vn" .
+<m.0hm1rnk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <common.topic.notable_types> "City/Town/Village" .
+<Canadian_County> <location.location.contains> "El Reno Regional Airport" .
+<El_Reno> <common.topic.image> "Location of El Reno, Oklahoma" .
+<US_Census_2000_Tract_40017300801> <location.census_tract.ams_oth> "m.073328v" .
+<Geary> <location.statistical_region.population> "g.11b66f8s_8" .
+<Red_Cross_Canteen> <base.usnris.nris_listing.significance_level> "State" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstk7" .
+<Union_City> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gt1k5" .
+<m.0hjstkg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdhx> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm0xzm> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon_Beauty_College_Inc> <location.location.containedby> "United States of America" .
+<Okarche> <location.statistical_region.population> "g.11x1l77g0" .
+<Oklahoma> <base.aareas.schema.administrative_area.capital> "Oklahoma City" .
+<m.07332qm> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<McClain_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<El_Reno> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gt16_" .
+<El_Reno> <location.statistical_region.population> "g.11x1grkpl" .
+<m.07gvd83> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.statistical_region.rent50_2> "m.05gf8q_" .
+<US_Census_2000_Tract_40017301100> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdr7" .
+<73064> <common.topic.notable_for> "g.125563jmg" .
+<Okarche> <location.statistical_region.population> "g.11x1l35jr" .
+<US_Census_2000_Tract_40017300100> <location.census_tract.avg_vac_r> "m.07331v2" .
+<Yukon> <location.location.containedby> "Canadian County" .
+<Piedmont> <location.location.geolocation> "m.02kjylw" .
+<US_Census_2000_Tract_40017301300> <location.census_tract.ams_res> "m.07332_2" .
+<Oklahoma_City,_OK_HUD_Metro_FMR_Area> <location.hud_section_8_area.county> "Cleveland County" .
+<US_County> <type.type.expected_by> "county" .
+<US_Census_2000_Tract_40017300400> <location.location.containedby> "Canadian County" .
+<Union_City> <location.statistical_region.population> "g.11x1mdgxb" .
+<Mustang> <location.location.geolocation> "m.0kg977" .
+<m.0hm0jgw> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Okarche> <location.location.people_born_here> "Stanley Rother" .
+<Mustang> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gt1cb" .
+<Piedmont> <location.statistical_region.population> "g.12vqhxrbp" .
+<US_Census_2000_Tract_40017300901> <common.topic.notable_types> "US Census Tract" .
+<US_Census_2000_Tract_40017300802> <location.census_tract.ams_res> "m.07332b3" .
+<m.07gt18y> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017301406> <common.topic.notable_for> "g.1256fvl4_" .
+<m.07gvd18> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_Census_2000_Tract_40017300802> <common.topic.notable_for> "g.125ckjxt7" .
+<El_Reno> <location.location.containedby> "Indian Territory" .
+<US_Census_2000_Tract_40017300901> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvddz" .
+<Geary> <location.statistical_region.population> "g.11x1ckdp6" .
+<m.0hm11v6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm11rj> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.statistical_region.population> "m.0hm2pj7" .
+<Canadian_County> <location.statistical_region.population> "g.12b01nfh8" .
+<Okarche> <location.statistical_region.population> "g.11x1f3z5j" .
+<Yukon> <location.statistical_region.population> "m.0hm2pg7" .
+<US_Census_2000_Tract_40017301003> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdlv" .
+<Union_City> <location.statistical_region.population> "g.11x1dj01v" .
+<m.07332yl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07332n8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.075mjxf> <protected_sites.natural_or_cultural_site_listing.listed_site> "Bridgeport Hill Service Station" .
+<Calumet> <location.statistical_region.population> "g.11x1l5ylz" .
+<m.0hm0xzv> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm0xy8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdld> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Bridgeport_Hill_Service_Station> <location.location.street_address> "m.075mjwz" .
+<US_Census_2000_Tract_40017300400> <location.census_tract.bus_vac> "m.073321h" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300902" .
+<Oklahoma_City,_OK_Metropolitan_Statistical_Area> <location.location.contains> "McClain County" .
+<Okarche> <common.topic.image> "OKMap-doton-Okarche" .
+<US_County> <type.type.expected_by> "county" .
+<Oklahoma> <location.location.time_zones> "Central Time Zone" .
+<US_Census_2000_Tract_40017301100> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvdr0" .
+<m.0hm2ggk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm0jgn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hjstcp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <location.location.contains> "Canadian County Jail and Stable" .
+<Fort_Reno> <base.usnris.nris_listing.significance_level> "National" .
+<US_Census_2000_Tract_40017301406> <location.census_tract.avg_vac_r> "m.073336f" .
+<m.0733291> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oklahoma_City> <base.wikipedia_infobox.settlement.area_code> "Area code 405" .
+<m.07332gk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County_/_Geary_city> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gt19m" .
+<m.07332c5> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon_Review> <book.periodical.first_issue_date> "m.0gx5zf3" .
+<US_Census_2000_Tract_40017301003> <location.census_tract.avg_vac_b> "m.07332mw" .
+<m.0hm2pjg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301001> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdkc" .
+<m.0hjstds> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.location.contains> "Grady's 66 Pub" .
+<US_Census_2000_Tract_40017300600> <location.census_tract.oth_vac> "m.0733252" .
+<Piedmont> <location.statistical_region.population> "m.0hm1z0j" .
+<Mustang> <common.topic.article> "m.0z4kd" .
+<Okarche> <location.statistical_region.population> "g.11x1fxvmj" .
+<m.0k6wwhm> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno> <base.wikipedia_infobox.settlement.area_code> "Area code 405" .
+<El_Reno> <location.statistical_region.population> "m.0hm0xyy" .
+<m.07gvdmw> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.073322z> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<El_Reno_High_School> <location.location.containedby> "El Reno" .
+<Geary> <location.statistical_region.population> "m.0hm11sw" .
+<m.0hm2gff> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.073333z> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yukon> <location.statistical_region.population> "g.11x1l7qs2" .
+<Mustang> <location.statistical_region.population> "m.0hm1rqt" .
+<Okarche> <location.statistical_region.population> "g.11x1jmb6z" .
+<73762> <location.location.geometry> "m.057z02_" .
+<US_Census_2000_Tract_40017300201> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvd07" .
+<Union_City> <location.statistical_region.population> "m.0k6wwjn" .
+<US_Census_2000_Tract_40017300600> <location.hud_foreclosure_area.total_residential_addresses> "m.07gvd7j" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvv8j" .
+<Canadian_County> <location.statistical_region.population> "m.0hjstdk" .
+<m.0hjstjc> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.statistical_region.population> "g.12b01rvzq" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017301404" .
+<US_Census_2000_Tract_40017300801> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gvdbp" .
+<US_Census_2000_Tract_40017301004> <location.hud_foreclosure_area.hhuniv> "m.07gvdmw" .
+<Canadian_County> <location.us_county.hud_county_place> "Canadian County / Okarche town" .
+<Calumet> <location.citytown.postal_codes> "73014" .
+<Union_City> <location.statistical_region.population> "g.11x1lmlb9" .
+<El_Reno> <location.statistical_region.population> "g.11x1f72yk" .
+<m.0hm1vkp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvdc8> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<US_County> <base.descriptive_names.names.descriptive_name> "m.012zvvjd" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<Canadian_Valley_Technology_Center> <location.location.containedby> "United States of America" .
+<73014> <location.location.geometry> "m.055yxbb" .
+<m.07gvd7j> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Union_City> <location.statistical_region.population> "m.0hm2gd_" .
+<Union_City> <location.statistical_region.population> "g.11x1cdr7h" .
+<Piedmont> <location.statistical_region.population> "g.11x1hglvh" .
+<m.07gt176> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<El_Reno> <location.statistical_region.population> "m.0hm0x_1" .
+<US_Census_2000_Tract_40017300801> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gvdb0" .
+<Yukon> <location.statistical_region.population> "g.12vqj40s5" .
+<Canadian_County> <location.location.contains> "Darlington Agency Site" .
+<Union_City> <common.topic.article> "m.0z4kr" .
+<Yukon> <location.statistical_region.population> "g.11x1lb09p" .
+<Canadian_Valley_Technology_Center> <location.location.containedby> "Oklahoma" .
+<El_Reno_Regional_Airport> <location.location.containedby> "73036" .
+<m.07gvd8b> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hm1vlb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_County> <freebase.type_profile.published> "Published" .
+<m.07gvc_4> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.statistical_region.population> "g.12b01zl_4" .
+<m.07gvdyr> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <periodicals.newspaper_circulation_area.newspapers> "Geary Star" .
+<US_Census_2000_Tract_40017301003> <common.topic.notable_types> "US Census Tract" .
+<US_Census_2000_Tract_40017300700> <location.location.containedby> "Canadian County" .
+<Calumet> <location.hud_county_place.county> "Canadian County" .
+<Mustang> <location.statistical_region.population> "m.0hm1rnb" .
+<m.07331xm> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Union_City> <location.statistical_region.population> "m.0hm2gff" .
+<m.0k6wwkb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Canadian_County> <location.location.contains> "US Census 2000 Tract 40017300901" .
+<US_Census_2000_Tract_40017300300> <location.census_tract.ams_bus> "m.07331__" .
+<El_Reno> <location.location.people_born_here> "Charles W. Blackwell" .
+<m.0hm1rn3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_Census_2000_Tract_40017301003> <location.location.containedby> "Canadian County" .
+<m.073333j> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07gvc_t> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<Mustang> <location.statistical_region.population> "m.0hm1rl_" .
+<Calumet> <location.statistical_region.population> "m.0hm0jdp" .
+<Geary> <location.statistical_region.population> "g.11x1kc5n2" .
+<Calumet> <location.statistical_region.population> "g.11x1kknyq" .
+<Union_City> <location.statistical_region.population> "g.11x1khx8h" .
+<US_Census_2000_Tract_40017300201> <common.topic.notable_types> "US Census Tract" .
+<US_Census_2000_Tract_40017300201> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gvc_c" .
+<m.0733269> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hm1vls> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Okarche> <location.statistical_region.population> "g.11x1hxq91" .
+<Mustang> <location.citytown.postal_codes> "73064" .
+<US_County> <type.type.properties> "FIPS 6-4 Code" .
+<Yukon> <location.statistical_region.population> "g.11x1jtcfq" .
+<m.0hm2gf6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Cleveland_County> <location.location.containedby> "Oklahoma City, OK Metropolitan Statistical Area" .
+<US_Census_2000_Tract_40017301001> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gvdkl" .
+<US_Census_2000_Tract_40017300903> <location.census_tract.ams_bus> "m.07332k9" .
+<Redlands_Community_College> <location.location.containedby> "El Reno" .
+<Canadian_County> <location.statistical_region.population> "g.11x1fn1mh" .
+<Canadian_County_/_Piedmont_city> <common.topic.notable_for> "g.1258ng3d_" .
+<El_Reno> <location.statistical_region.population> "m.0hm0y05" .
+<US_Census_2000_Tract_40017300600> <location.census_tract.ams_bus> "m.073325q" .
+<US_Census_2000_Tract_40017301100> <location.census_tract.oth_vac> "m.07332v6" .
+<US_Census_2000_Tract_40017301405> <location.location.containedby> "Canadian County" .
+<m.07gvd5p> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07gt1dp> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Powers> <location.location.geolocation> "m.04bj9kh" .
+<m.07gvdhg> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Canadian_County> <location.statistical_region.population> "g.11x1j3383" .
+<US_Census_2000_Tract_40017300400> <location.census_tract.avg_vac_r> "m.073321q" .
+<m.0hjstgs> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<73090> <common.topic.notable_types> "Postal Code" .
+<Grady_County> <location.location.adjoin_s> "m.03jrpkl" .
+<m.07gvd2j> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Calumet> <base.wikipedia_infobox.settlement.area_code> "Area code 405" .
+<m.03jpzyc> <location.adjoining_relationship.adjoins> "Blaine County" .
+<m.05gf8rf> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Karns> <location.location.containedby> "Oklahoma" .
+<Canadian_County> <location.location.adjoin_s> "m.03jshff" .

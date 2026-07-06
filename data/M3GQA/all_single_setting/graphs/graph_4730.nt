@@ -1,0 +1,1160 @@
+<Francis_Bacon> <influence.influence_node.influenced_by> "Plato" .
+<Antonio_Negri> <people.person.profession> "Writer" .
+<Harvey_Mansfield> <people.person.gender> "Male" .
+<Baccina_Machiavelli> <people.person.parents> "Niccolò Machiavelli" .
+<Leo_Strauss> <influence.influence_node.influenced> "Alexandre Kojève" .
+<Niccolò_Machiavelli> <book.author.works_written> "Life of Castruccio Castracani" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Author> <type.property.schema> "Quotation" .
+<Niccolò_Machiavelli> <people.person.quotations> "Men nearly always follow the tracks made by others and proceed in their affairs by imitation, even though they cannot entirely keep to the tracks of others or emulate the prowess of their models. So a prudent man should always follow in the footsteps of great men and imitate those who have been outstanding. If his own prowess fails to compare with theirs, at least it has an air of greatness about it. He should behave like those archers who, if they are skilful, when the target seems too distant, know the capabilities of their bow and aim a good deal higher than their objective, not in order to shoot so high but so that by aiming high they can reach the target." .
+<Kenneth_Waltz> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Jean-Jacques_Rousseau> <freebase.valuenotation.has_value> "Height" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Quotation> <type.type.properties> "Author" .
+<Anti-Machiavel> <book.written_work.author> "Niccolò Machiavelli" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Niccolò_Machiavelli> <people.person.quotations> "The promise given was a necessity of the past: the word broken is a necessity of the present." .
+<In_1505,_when_he_succeeded_in_getting_a_law_passed_to_establish_a_militia,_the_Florentine_Republic's_territory_was_divided_up_into_districts,__levies_were_set,_and_Macchiavelli_was_made_Secretary_of_the_Council_with_authority_over_the_militia.> <base.kwebbase.kwsentence.previous_sentence> "He also read widely and conversed with scholars like Trissino." .
+<Denis_Diderot> <freebase.valuenotation.is_reviewed> "Gender" .
+<Antonio_Negri> <freebase.valuenotation.is_reviewed> "Gender" .
+<Primerana_Machiavelli> <freebase.valuenotation.has_value> "Country of nationality" .
+<Two_years_later,_the_Holy_Roman_Emperor_Maximilian_I,_threatened_to_invade_Italy,_and_Florence_sent_Macchiavelli_to_Germany_to_report_on_his_strengths_and_weaknesses.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Ion_Luca_Caragiale> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced> "David Hume" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Bartolommea_di_Stefano_Nelli> <freebase.valuenotation.has_value> "Place of birth" .
+<There_is_nothing_more_difficult_to_take_in_hand,_more_perilous_to_conduct,_or_more_uncertain_in_its_success_than_to_take_the_lead_in_the_introduction_of_a_new_order_of_things.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<The_one_who_adapts_his_policy_to_the_times_prospers,_and_likewise_that_the_one_whose_policy_clashes_with_the_demands_of_the_times_does_not.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Quotation> <freebase.type_profile.published> "Published" .
+<Six_months_later,_he_returned_to_an_Italy_that_was_in_political_chaos.> <base.kwebbase.kwsentence.previous_sentence> "In France Macchiavelli recognized the immense power that could be wielded by a strong central authority." .
+<Leo_Strauss> <influence.influence_node.influenced_by> "Jean-Jacques Rousseau" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Place of death" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <music.artist.track> "Airlock" .
+<Piero_Machiavelli> <people.person.parents> "Niccolò Machiavelli" .
+<The_Mandrake_Root> <film.film.story_by> "Niccolò Machiavelli" .
+<John_Adams> <people.person.gender> "Male" .
+<Italy_was_at_war_with_the_forces_of_the_Holy_Roman_Emperor_and_Macchiavelli_was_in_service_with_the_Italian_army.> <base.kwebbase.kwsentence.next_sentence> "In 1527, Rome was sacked, Florence captured and the Medicis driven out of power." .
+<Niccolò_Machiavelli> <freebase.valuenotation.has_value> "Cause of death" .
+<Dante_Alighieri> <people.person.religion> "Catholicism" .
+<Dante_Alighieri> <influence.influence_node.influenced_by> "Aristotle" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Plato> <freebase.valuenotation.has_value> "Height" .
+<Living_thoughts_of_Machiavelli> <book.written_work.author> "Niccolò Machiavelli" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Georg Wilhelm Friedrich Hegel" .
+<Adam_Mickiewicz> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<The_Mandrake> <film.film.story_by> "Niccolò Machiavelli" .
+<In_1526,_he_was_appointed_secretary_of_a_committee_set_up_to_oversee_the_fortifications_of_Florence_being_undertaken_by_Pietro_Navarra,_a_famous_military_engineer_and_Spanish_refugee.> <base.kwebbase.kwsentence.previous_sentence> "Guilio became Pope Clement VII in 1523 and Macchiavelli was back in power." .
+<Thucydides> <people.person.profession> "Historian" .
+<Niccolò_Machiavelli> <people.person.children> "Primerana Machiavelli" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "He returned to France in 1511, in an attempt to persuade the king to remove the French-supported council in Pisa." .
+<Two_years_later,_the_Holy_Roman_Emperor_Maximilian_I,_threatened_to_invade_Italy,_and_Florence_sent_Macchiavelli_to_Germany_to_report_on_his_strengths_and_weaknesses.> <base.kwebbase.kwsentence.previous_sentence> "In 1505, when he succeeded in getting a law passed to establish a militia, the Florentine Republic's territory was divided up into districts,  levies were set, and Macchiavelli was made Secretary of the Council with authority over the militia." .
+<A_prince_must_be_prudent_enough_to_know_how_to_escape_the_bad_reputation_of_those_vices_that_would_lose_the_state_for_him,_and_must_protect_himself_from_those_that_will_not_lose_it_for_him,_if_this_is_possible;_but_if_he_cannot,_he_need_not_concern_himself_unduly_if_he_ignores_these_less_serious_vices.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Thomas_Hobbes> <influence.influence_node.influenced_by> "Francis Bacon" .
+<Leo_Strauss> <influence.influence_node.influenced_by> "Georg Wilhelm Friedrich Hegel" .
+<Fear> <common.topic.notable_types> "Symptom" .
+<Alexandre_Kojève> <influence.influence_node.influenced_by> "Carl Schmitt" .
+<Baccina_Machiavelli> <freebase.valuenotation.has_value> "Cause of death" .
+<niccolo_machiavelli_adviser_to_cesare_borgia> <base.kwebbase.kwconnection.subject> "Niccolò Machiavelli" .
+<Antonio_Negri> <freebase.valuenotation.has_value> "Parents" .
+<Allan_Bloom> <influence.influence_node.influenced_by> "Georg Wilhelm Friedrich Hegel" .
+<Vilfredo_Pareto> <influence.influence_node.influenced> "Carl Schmitt" .
+<Niccolò_Machiavelli> <book.author.works_written> "The Second Decade" .
+<Thucydides> <freebase.valuenotation.has_value> "Place of death" .
+<Guilio_became_Pope_Clement_VII_in_1523_and_Macchiavelli_was_back_in_power.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<The_Prince> <book.book.editions> "The Prince" .
+<The_team_included_Macchiavelli,_who_managed_to_keep_discussions_going_until_French_troops_arrived_in_the_Republic.> <base.kwebbase.kwsentence.previous_sentence> "The Florentines,  feeling themselves threatened sent a group for talks with Boria." .
+<Vilfredo_Pareto> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <book.author.works_written> "The First Decade" .
+<Piero_Machiavelli> <freebase.valuenotation.has_value> "Country of nationality" .
+<Harvey_Mansfield> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Quotation> <freebase.type_profile.strict_included_types> "Topic" .
+<Allan_Bloom> <influence.influence_node.influenced_by> "Raymond Aron" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Francis_Bacon> <influence.influence_node.influenced> "David Hume" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Leo_Strauss> <influence.influence_node.influenced_by> "Cicero" .
+<The_Mandrake> <film.film.country> "Italy" .
+<Tardiness_often_robs_us_opportunity,_and_the_dispatch_of_our_forces.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Harvey_Mansfield> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Cesare_Borgia_had_embarked_on_a_military_campaign_to_grab_as_much_of_the_Romagna_area_as_he_could,__in_order_to_form_his_own_state_in_the_center_of_Italy.> <base.kwebbase.kwsentence.next_sentence> "The Florentines,  feeling themselves threatened sent a group for talks with Boria." .
+<The_Mandrake> <book.written_work.author> "Niccolò Machiavelli" .
+<He_retired_to_a_small_property_at_Sant'Andrea_in_Percussina_outside_Florence_and_began_writing_his_\"Discourses_on_the_First_Ten_Books_of_Livy\",_a_treatise_on_Republics.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Denis_Diderot> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Adam_Mickiewicz> <freebase.valuenotation.is_reviewed> "Gender" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Robert Greene" .
+<Niccolò_Machiavelli> <book.book_subject.works> "Machiavelli" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Macchiavelli found Borgia to be the ultimate bold, energetic and respected leader of his soldiers, characteristics which Macchiavelli later described in his book on statecraft:  \'The Prince\'." .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Because of his past loyalties, Macchiavelli was given no position by the new rulers and he died, in Florence, in the same year." .
+<The_Prince> <book.book.editions> "The Prince" .
+<Returning_to_Italy,_Macchiavelli_himself_removed_the_council.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Stimulated by his research, in 1513 he also wrote his most famous work, \'The Prince,\' a book on the principles of statecraft." .
+<There_is_no_avoiding_war;_it_can_only_be_postponed_to_the_advantage_of_others.> <common.topic.notable_types> "Quotation" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "He was so impressed he wrote an account titled: \'On the Manner Adopted by the Duke. to Kill Vitellozzo\'." .
+<Cicero> <influence.influence_node.influenced> "Tacitus" .
+<He_returned_to_France_in_1511,_in_an_attempt_to_persuade_the_king_to_remove_the_French-supported_council_in_Pisa.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Philip_Pettit> <people.person.profession> "Philosopher" .
+<Italy_was_at_war_with_the_forces_of_the_Holy_Roman_Emperor_and_Macchiavelli_was_in_service_with_the_Italian_army.> <base.kwebbase.kwsentence.previous_sentence> "In 1526, he was appointed secretary of a committee set up to oversee the fortifications of Florence being undertaken by Pietro Navarra, a famous military engineer and Spanish refugee." .
+<Dante_Alighieri> <people.person.gender> "Male" .
+<Adam_Mickiewicz> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<In_1504_Macchiavelli_wrote_the_poem_\"Annals_of_Italy\"_and_a_play_based_on_Aristophanes_satirizing_various_leading_religious_and_political_figures.> <base.kwebbase.kwsentence.next_sentence> "He also read widely and conversed with scholars like Trissino." .
+<Quotation> <freebase.type_profile.equivalent_topic> "Quotation" .
+<Robert_Greene> <influence.influence_node.influenced_by> "Friedrich Nietzsche" .
+<The_Essential_Writings_of_Machiavelli> <book.written_work.author> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <book.author.works_written> "Discourse about the Provision of Money" .
+<Michael_Walzer> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<It_is_better_to_be_feared_than_loved,_if_you_cannot_be_both.> <common.topic.notable_types> "Quotation" .
+<Ernesto_Laclau> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Guido_Machiavelli> <freebase.valuenotation.has_value> "Cause of death" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Cicero> <freebase.valuenotation.has_value> "Height" .
+<Cicero> <people.person.profession> "Politician" .
+<Francis_Bacon> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Philip_Pettit> <kp_lw.philosopher.influenced_by> "Niccolò Machiavelli" .
+<Hannah_Arendt> <freebase.valuenotation.is_reviewed> "Gender" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Quotation> <type.type.expected_by> "Quotations" .
+<Baruch_Spinoza> <freebase.valuenotation.has_value> "Education" .
+<Tardiness_often_robs_us_opportunity,_and_the_dispatch_of_our_forces.> <common.topic.notable_types> "Quotation" .
+<Niccolò_Machiavelli> <people.person.children> "Bernardo Machiavelli" .
+<Lodovico_Machiavelli> <people.person.parents> "Niccolò Machiavelli" .
+<Politician> <people.profession.corresponding_type> "Politician" .
+<Georg_Wilhelm_Friedrich_Hegel> <influence.influence_node.influenced_by> "Jean-Jacques Rousseau" .
+<Carl_Schmitt> <people.person.gender> "Male" .
+<A_Description_of_the_Manner_in_which_Duke_Valentino_put_Vitellozzo_Vitelli,_Oliverotto_da_Fermo,_Lord_Pagola_and_the_Duke_of_Gravina_to_Death> <book.written_work.author> "Niccolò Machiavelli" .
+<He_then_wrote_\"The_Mandrake\"_in_1518,_a_dark_satire_on_the_corruption_of_the_clergy_and_the_evil_in_men_In_1520,_he_took_a_job_as_official_historian_of_the_Republic_at_the_University_of_Florence_and_wrote_to_Pope_Leo_X,_advising_him_to_restore_the_Republic's_freedom.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<He_was_also_made_Secretary_to_the_Magistracy,_which_was_responsible_for_foreign_affairs_and_defence.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Isaiah_Berlin> <influence.influence_node.influenced_by> "David Hume" .
+<Baruch_Spinoza> <people.person.gender> "Male" .
+<John_Adams> <influence.influence_node.influenced_by> "Cicero" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Hannah_Arendt> <freebase.valuenotation.has_value> "Height" .
+<Media> <type.domain.types> "Quotation" .
+<Quotation> <type.type.expected_by> "Quotations about this subject" .
+<Michael_Walzer> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Piero_Machiavelli> <freebase.valuenotation.has_value> "Date of death" .
+<Leo_Strauss> <people.person.profession> "Philosopher" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Diplomat" .
+<A_prince_never_lacks_legitimate_reasons_to_break_his_promise.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Primerana_Machiavelli> <freebase.valuenotation.has_value> "Date of birth" .
+<Desiderius_Erasmus> <people.person.religion> "Catholicism" .
+<Niccolò_Machiavelli> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Quotation> <type.type.expected_by> "Quotations" .
+<David_Hume> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Despite_this,_he_was_impressed_by_the_loyalty_of_Borgia's_soldiers,_contrasted_with_the_mutiny_of_the_Swiss_mercenaries_Florence_had_employed_at_Pisa.> <base.kwebbase.kwsentence.next_sentence> "In 1504 Macchiavelli wrote the poem \'Annals of Italy\' and a play based on Aristophanes satirizing various leading religious and political figures." .
+<Andria> <book.written_work.author> "Niccolò Machiavelli" .
+<Stimulated_by_his_research,_in_1513_he_also_wrote_his_most_famous_work,_\"The_Prince,\"_a_book_on_the_principles_of_statecraft.> <base.kwebbase.kwsentence.previous_sentence> "He retired to a small property at Sant'Andrea in Percussina outside Florence and began writing his \'Discourses on the First Ten Books of Livy\', a treatise on Republics." .
+<Niccolò_Machiavelli> <people.person.sibling_s> "m.0nhnvqy" .
+<Many_have_dreamed_up_republics_and_principalities_that_have_never_in_truth_been_known_to_exist;_the_gulf_between_how_one_should_live_and_how_one_does_live_is_so_wide_that_a_man_who_neglects_what_is_actually_done_for_what_should_be_done_learns_the_way_to_self-destruction_rather_than_self-preservation.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "David Hume" .
+<Niccolò_Machiavelli> <freebase.valuenotation.has_value> "Height" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "He also read widely and conversed with scholars like Trissino." .
+<niccolo_machiavelli_knew_giovanni_giorgio_trissino> <base.kwebbase.kwconnection.subject> "Niccolò Machiavelli" .
+<Thomas_Hobbes> <influence.influence_node.influenced_by> "Thucydides" .
+<Aristotle> <freebase.valuenotation.is_reviewed> "Parents" .
+<Louis_Althusser> <influence.influence_node.influenced_by> "Baruch Spinoza" .
+<Aristotle> <influence.influence_node.influenced_by> "Plato" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Ion Luca Caragiale" .
+<Leonardo_da_Vinci> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Niccolò_Machiavelli> <media_common.dedicator.dedications> "m.0c1nbsh" .
+<Dante_Alighieri> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced_by> "Leonardo da Vinci" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.connections_to> "leonardo da vinci involved with niccolo machiavelli" .
+<Quotation> <type.type.expected_by> "Quotations About This Subject" .
+<Christopher_Marlowe> <people.person.gender> "Male" .
+<Hatred_is_gained_as_much_by_good_works_as_by_evil.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Thomas_Schelling> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Niccolò_Machiavelli> <people.person.parents> "Bartolommea di Stefano Nelli" .
+<He_also_read_widely_and_conversed_with_scholars_like_Trissino.> <base.kwebbase.kwsentence.next_sentence> "In 1505, when he succeeded in getting a law passed to establish a militia, the Florentine Republic's territory was divided up into districts,  levies were set, and Macchiavelli was made Secretary of the Council with authority over the militia." .
+<Adam_Mickiewicz> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <people.person.profession> "Politician" .
+<Niccolò_Machiavelli> <book.author.works_written> "Clizia" .
+<Leonardo_da_Vinci> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Louis_Althusser> <people.person.profession> "Philosopher" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Macchiavelli had more dealings with Borgia and in 1502, when Borgia tricked his enemies at Senigallia and then had them killed, Macchiavelli recognised the logic of the action and commended Borgia's decisiveness." .
+<Niccolò_Machiavelli> <book.author.works_written> "On the method of dealing with the Rebellious Peoples of Valdichiana" .
+<Niccolò_Machiavelli> <common.topic.image> "Portrait of NiccolÃ² Machiavelli by Santi di Tito" .
+<The_Pope_died_in_1521,_before_he_could_reply,__but_Giulio_de'Medici_asked_for_advice_and_Macchiavelli_sent_him_a_revised_version_of_the_letter.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Of_mankind_we_may_say_in_general_they_are_fickle,_hypocritical,_and_greedy_of_gain.> <common.topic.notable_types> "Quotation" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced_by> "Cicero" .
+<Niccolò_Machiavelli> <people.person.parents> "Bernardo di Niccolò Machiavelli" .
+<Herbert_Marcuse> <people.person.profession> "Philosopher" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Thucydides> <influence.influence_node.influenced> "Thomas Hobbes" .
+<Leonardo_da_Vinci> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Antonio_Gramsci> <people.person.profession> "Politician" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Pope Julius II then demanded that the Florentines join the League against France but they refused." .
+<holy_roman_emperor_maximilian_i_spied_on_by_niccolo_machiavelli> <base.kwebbase.kwconnection.other> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Quentin Skinner" .
+<Niccolò_Machiavelli> <book.author.works_written> "Escritos Politicos Breves" .
+<Bernardo_Machiavelli> <people.person.gender> "Male" .
+<Leo_Strauss> <influence.influence_node.influenced_by> "Baruch Spinoza" .
+<Macchiavelli_had_more_dealings_with_Borgia_and_in_1502,_when_Borgia_tricked_his_enemies_at_Senigallia_and_then_had_them_killed,_Macchiavelli_recognised_the_logic_of_the_action_and_commended_Borgia's_decisiveness.> <base.kwebbase.kwsentence.previous_sentence> "Macchiavelli found Borgia to be the ultimate bold, energetic and respected leader of his soldiers, characteristics which Macchiavelli later described in his book on statecraft:  \'The Prince\'." .
+<Giambattista_Vico> <influence.influence_node.influenced_by> "Francis Bacon" .
+<Baruch_Spinoza> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Gender" .
+<Georg_Wilhelm_Friedrich_Hegel> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Cicero> <people.person.profession> "Philosopher" .
+<Aristotle> <freebase.valuenotation.is_reviewed> "Height" .
+<Quotation> <freebase.type_profile.strict_included_types> "Abstract" .
+<Georg_Wilhelm_Friedrich_Hegel> <people.person.profession> "Philosopher" .
+<Vilfredo_Pareto> <people.person.profession> "Philosopher" .
+<niccolo_machiavelli_influenced_gabriel_naude> <base.kwebbase.kwconnection.subject> "Niccolò Machiavelli" .
+<Antonio_Gramsci> <influence.influence_node.influenced> "Louis Althusser" .
+<Airlock> <music.recording.artist> "Niccolò Machiavelli" .
+<Men_sooner_forget_the_death_of_their_father_than_the_loss_of_their_patrimony.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Guido_Machiavelli> <freebase.valuenotation.has_value> "Place of death" .
+<Tacitus> <influence.influence_node.influenced> "Thomas Hobbes" .
+<Princes_and_governments_are_far_more_dangerous_than_other_elements_within_society.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Six_months_later,_he_returned_to_an_Italy_that_was_in_political_chaos.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Allan_Bloom> <influence.influence_node.influenced_by> "Friedrich Nietzsche" .
+<Quotation> <type.type.expected_by> "Quotation" .
+<Niccolò_Machiavelli> <people.person.quotations> "Since it is difficult to join them together, it is safer to be feared than to be loved when one of the two must be lacking." .
+<The_Pope_died_in_1521,_before_he_could_reply,__but_Giulio_de'Medici_asked_for_advice_and_Macchiavelli_sent_him_a_revised_version_of_the_letter.> <base.kwebbase.kwsentence.next_sentence> "Guilio became Pope Clement VII in 1523 and Macchiavelli was back in power." .
+<Kenneth_Waltz> <people.person.profession> "Politician" .
+<He_was_obviously_a_good_learner_because,_in_1498,_at_the_age_of_twenty-nine,_he_was_given_the_key_government_post_of_Head_of_the_Second_Chancery,_dealing_with_government_affairs_in_the_Republic_of_Florence.> <base.kwebbase.kwsentence.next_sentence> "He was also made Secretary to the Magistracy, which was responsible for foreign affairs and defence." .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<He_was_obviously_a_good_learner_because,_in_1498,_at_the_age_of_twenty-nine,_he_was_given_the_key_government_post_of_Head_of_the_Second_Chancery,_dealing_with_government_affairs_in_the_Republic_of_Florence.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Quentin_Skinner> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced_by> "Dante Alighieri" .
+<Niccolò_Machiavelli> <people.person.quotations> "There is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success than to take the lead in the introduction of a new order of things." .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced_by> "Cicero" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<It_should_be_noted_that_when_he_seizes_a_state_the_new_ruler_ought_to_determine_all_the_injuries_that_he_will_need_to_inflict._He_should_inflict_them_once_and_for_all,_and_not_have_to_renew_them_every_day.> <common.topic.notable_types> "Quotation" .
+<Because_just_as_good_morals,_if_they_are_to_be_maintained,_have_need_of_the_laws,_so_the_laws,_if_they_are_to_be_observed,_have_need_of_good_morals.> <common.topic.notable_types> "Quotation" .
+<Harvey_Mansfield> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Hannah_Arendt> <people.person.profession> "Writer" .
+<States_that_rise_quickly,_just_as_all_the_other_things_of_nature_that_are_born_and_grow_rapidly,_cannot_have_roots_and_ramifications;_the_first_bad_weather_kills_them.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.connections_from> "niccolo machiavelli influenced gabriel naude" .
+<Thomas_Hobbes> <influence.influence_node.influenced> "Ernesto Laclau" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<He_was_obviously_a_good_learner_because,_in_1498,_at_the_age_of_twenty-nine,_he_was_given_the_key_government_post_of_Head_of_the_Second_Chancery,_dealing_with_government_affairs_in_the_Republic_of_Florence.> <base.kwebbase.kwsentence.previous_sentence> "Macchiavelli's father, a doctor of law, was an undischarged bankrupt, so Macchiavelli was largely self-taught with occasional help from tutors." .
+<Thomas_Hobbes> <influence.influence_node.influenced> "Leo Strauss" .
+<Desiderius_Erasmus> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Friedrich Nietzsche" .
+<Niccolò_Machiavelli> <people.person.quotations> "A prince never lacks legitimate reasons to break his promise." .
+<Men_sooner_forget_the_death_of_their_father_than_the_loss_of_their_patrimony.> <common.topic.notable_types> "Quotation" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Thomas_Hobbes> <influence.influence_node.influenced> "Antonio Negri" .
+<Thomas_Hobbes> <influence.influence_node.influenced> "Jean-Jacques Rousseau" .
+<Antonio_Negri> <influence.influence_node.influenced_by> "Carl Schmitt" .
+<The_Golden_Ass> <book.written_work.author> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <people.person.children> "Guido Machiavelli" .
+<Raymond_Aron> <people.person.profession> "Philosopher" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "He then wrote \'The Mandrake\' in 1518, a dark satire on the corruption of the clergy and the evil in men In 1520, he took a job as official historian of the Republic at the University of Florence and wrote to Pope Leo X, advising him to restore the Republic's freedom." .
+<Leonardo_da_Vinci> <freebase.valuenotation.is_reviewed> "Parents" .
+<Niccolò_Machiavelli> <book.author.works_written> "The Essential Writings of Machiavelli" .
+<Guido_Machiavelli> <freebase.valuenotation.has_value> "Date of death" .
+<When_he_returned_to_Florence,_he_was_sure_that_they_would_be_drawn_into_any_conflict_between_the_Pope_and_the_French_king_and_did_everything_he_could_to_strengthen_the_militia.> <base.kwebbase.kwsentence.next_sentence> "He returned to France in 1511, in an attempt to persuade the king to remove the French-supported council in Pisa." .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<The_works_of_..._Nicolas_Machiavel> <book.written_work.author> "Niccolò Machiavelli" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Quotation> <type.type.expected_by> "Favorite Quote" .
+<Aristotle> <people.person.profession> "Writer" .
+<m.07nf0xw> <base.ontologies.ontology_instance_mapping.freebase_topic> "Fear" .
+<Later,_against_the_wishes_of_fellow_members_of_the_Council,_Macchiavelli_mobilized_the_militia_in_a_successful_campaign_against_Pisa_and,_in_1510,_he_went_to_France_again_to_try_to_avert_war_between_France_and_the_Papal_States.> <base.kwebbase.kwsentence.previous_sentence> "Two years later, the Holy Roman Emperor Maximilian I, threatened to invade Italy, and Florence sent Macchiavelli to Germany to report on his strengths and weaknesses." .
+<Giambattista_Vico> <people.person.religion> "Catholicism" .
+<Antonio_Negri> <influence.influence_node.influenced_by> "Thomas Hobbes" .
+<Machiavelli's_Virtue> <book.written_work.subjects> "Niccolò Machiavelli" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Bernardo_Machiavelli> <people.person.parents> "Niccolò Machiavelli" .
+<Giambattista_Vico> <influence.influence_node.influenced> "Georg Wilhelm Friedrich Hegel" .
+<Leo_Strauss> <influence.influence_node.influenced_by> "Thomas Hobbes" .
+<The_Florentines,__feeling_themselves_threatened_sent_a_group_for_talks_with_Boria.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<He_was_so_impressed_he_wrote_an_account_titled:_\"On_the_Manner_Adopted_by_the_Duke._to_Kill_Vitellozzo\".> <base.kwebbase.kwsentence.next_sentence> "After Borgia's father, Pope Alexander VI, died in 1503, Macchiavelli was sent to Rome to meet the new Pope Julius II ." .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "After Borgia's father, Pope Alexander VI, died in 1503, Macchiavelli was sent to Rome to meet the new Pope Julius II ." .
+<Allan_Bloom> <influence.influence_node.influenced> "Harvey Mansfield" .
+<Georg_Wilhelm_Friedrich_Hegel> <influence.influence_node.influenced_by> "Giambattista Vico" .
+<Niccolò_Machiavelli> <book.author.works_written> "Portrait of the affairs of France" .
+<Niccolò_Machiavelli> <film.film_story_contributor.film_story_credits> "The Mandrake" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Despite this, he was impressed by the loyalty of Borgia's soldiers, contrasted with the mutiny of the Swiss mercenaries Florence had employed at Pisa." .
+<Niccolò_Machiavelli> <people.person.quotations> "No one should be astonished if in the following discussion of completely new princedoms and of the prince and of government, I bring up the noblest examples. Because, since men almost always walk in the paths beaten by others and carry on their affairs by imitatingeven though it is not possible to keep wholly in the paths of others or to attain the ability of those you imitatea prudent man will always choose to take paths beaten by great men and to imitate those who have been especially admirable, in order that if his ability does not reach theirs, at least it may offer some suggestion of it; and he will act like prudent archers, who, seeing that the mark they plan to hit is too far away and knowing what space can be covered by the power of their bows, take an aim much higher than their mark, not in order to reach with their arrows so great a height, but to be able, with the aid of so high an aim, to attain their purpose." .
+<Niccolò_Machiavelli> <people.person.quotations> "The wish to acquire more is admittedly a very natural and common thing; and when men succeed in this they are always praised rather than condemned. But when they lack the ability to do so and yet want to acquire more at all costs, they deserve condemnation for their mistakes." .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Ambition_is_so_powerful_a_passion_in_the_human_breast,_that_however_high_we_reach_we_are_never_satisfied.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Alexandre_Kojève> <influence.influence_node.influenced> "Raymond Aron" .
+<Niccolò_Machiavelli> <book.author.works_written> "A summary of the affairs of the city of Lucca" .
+<Antonio_Negri> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Plutarch> <influence.influence_node.influenced_by> "Plato" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Adam_Mickiewicz> <freebase.valuenotation.is_reviewed> "Parents" .
+<It_should_be_noted_that_when_he_seizes_a_state_the_new_ruler_ought_to_determine_all_the_injuries_that_he_will_need_to_inflict._He_should_inflict_them_once_and_for_all,_and_not_have_to_renew_them_every_day.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Benedetto_Croce> <people.person.nationality> "Italy" .
+<Cesare_Borgia_had_embarked_on_a_military_campaign_to_grab_as_much_of_the_Romagna_area_as_he_could,__in_order_to_form_his_own_state_in_the_center_of_Italy.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<The_Florentines,__feeling_themselves_threatened_sent_a_group_for_talks_with_Boria.> <base.kwebbase.kwsentence.previous_sentence> "Cesare Borgia had embarked on a military campaign to grab as much of the Romagna area as he could,  in order to form his own state in the center of Italy." .
+<Allan_Bloom> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Louis_Althusser> <influence.influence_node.influenced> "Ernesto Laclau" .
+<m.0c1nbsh> <media_common.dedication.work_dedicated> "The Art of War" .
+<Niccolò_Machiavelli> <people.person.quotations> "Many have dreamed up republics and principalities that have never in truth been known to exist; the gulf between how one should live and how one does live is so wide that a man who neglects what is actually done for what should be done learns the way to self-destruction rather than self-preservation." .
+<The_fact_is_that_a_man_who_wants_to_act_virtuously_in_every_way_necessarily_comes_to_grief_among_so_many_who_are_not_virtuous.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Thomas_Hobbes> <influence.influence_node.influenced> "Kenneth Waltz" .
+<Michael_Walzer> <people.person.gender> "Male" .
+<Pope_Julius_II_then_demanded_that_the_Florentines_join_the_League_against_France_but_they_refused.> <base.kwebbase.kwsentence.next_sentence> "There was panic in the city as Spanish troops approached and, by 1512, the exiled Medici faction had seized power in Florence." .
+<Adam_Mickiewicz> <freebase.valuenotation.has_value> "Height" .
+<He_also_read_widely_and_conversed_with_scholars_like_Trissino.> <base.kwebbase.kwsentence.contains_connections> "niccolo machiavelli knew giovanni giorgio trissino" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Education" .
+<The_following_year,_he_was_imprisoned_and_tortured_for_plotting_to_overthrow_the_Medicis_but_he_was_eventually_released.> <base.kwebbase.kwsentence.previous_sentence> "Macchiavelli was dismissed from his job." .
+<Piero_Machiavelli> <freebase.valuenotation.has_value> "Place of death" .
+<Quotation> <type.type.expected_by> "Quotations" .
+<Antonio_Gramsci> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <people.person.quotations> "Of mankind we may say in general they are fickle, hypocritical, and greedy of gain." .
+<Niccolò_Machiavelli> <people.person.profession> "Writer" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced_by> "Livy" .
+<Ion_Luca_Caragiale> <freebase.valuenotation.has_value> "Education" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced> "Georg Wilhelm Friedrich Hegel" .
+<Quotation> <type.type.expected_by> "Descriptive quote" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Baruch_Spinoza> <influence.influence_node.influenced> "Antonio Negri" .
+<Tacitus> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <people.person.spouse_s> "m.0k2xms2" .
+<Macchiavelli_found_Borgia_to_be_the_ultimate_bold,_energetic_and_respected_leader_of_his_soldiers,_characteristics_which_Macchiavelli_later_described_in_his_book_on_statecraft:__\"The_Prince\".> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<John_Adams> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Niccolò_Machiavelli> <people.person.quotations> "It is better to be feared than loved, if you cannot be both." .
+<Leo_Strauss> <influence.influence_node.influenced> "Allan Bloom" .
+<Vilfredo_Pareto> <people.person.nationality> "Italy" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Baruch Spinoza" .
+<Macchiavelli_had_more_dealings_with_Borgia_and_in_1502,_when_Borgia_tricked_his_enemies_at_Senigallia_and_then_had_them_killed,_Macchiavelli_recognised_the_logic_of_the_action_and_commended_Borgia's_decisiveness.> <base.kwebbase.kwsentence.next_sentence> "He was so impressed he wrote an account titled: \'On the Manner Adopted by the Duke. to Kill Vitellozzo\'." .
+<Livy> <people.person.profession> "Historian" .
+<Many_have_dreamed_up_republics_and_principalities_that_have_never_in_truth_been_known_to_exist;_the_gulf_between_how_one_should_live_and_how_one_does_live_is_so_wide_that_a_man_who_neglects_what_is_actually_done_for_what_should_be_done_learns_the_way_to_self-destruction_rather_than_self-preservation.> <common.topic.notable_types> "Quotation" .
+<Macchiavelli_had_more_dealings_with_Borgia_and_in_1502,_when_Borgia_tricked_his_enemies_at_Senigallia_and_then_had_them_killed,_Macchiavelli_recognised_the_logic_of_the_action_and_commended_Borgia's_decisiveness.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<m.0nhnvqy> <people.sibling_relationship.sibling> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Allan Bloom" .
+<Harvey_Mansfield> <influence.influence_node.influenced_by> "Allan Bloom" .
+<Ernesto_Laclau> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Thomas Hobbes" .
+<Carl_Schmitt> <people.person.profession> "Philosopher" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Herbert_Marcuse> <influence.influence_node.influenced_by> "Georg Wilhelm Friedrich Hegel" .
+<Quotation> <type.type.expected_by> "Quotation" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Thomas Schelling" .
+<Thomas_Hobbes> <influence.influence_node.influenced> "Herbert Marcuse" .
+<Allan_Bloom> <people.person.gender> "Male" .
+<Stimulated_by_his_research,_in_1513_he_also_wrote_his_most_famous_work,_\"The_Prince,\"_a_book_on_the_principles_of_statecraft.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Cicero> <kp_lw.philosophy_influencer.influencee> "Philip Pettit" .
+<Macchiavelli_was_the_first_to_base_a_political_theory_on_the_study_of_human_nature.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.connections_to> "holy roman emperor maximilian i spied on by niccolo machiavelli" .
+<Livy> <freebase.valuenotation.has_value> "Parents" .
+<John_Adams> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Aristotle> <people.person.gender> "Male" .
+<The_Prince_&_Other_Stories> <book.written_work.author> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <people.person.children> "Baccina Machiavelli" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "In 1526, he was appointed secretary of a committee set up to oversee the fortifications of Florence being undertaken by Pietro Navarra, a famous military engineer and Spanish refugee." .
+<Cicero> <influence.influence_node.influenced> "Dante Alighieri" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Two years later, the Holy Roman Emperor Maximilian I, threatened to invade Italy, and Florence sent Macchiavelli to Germany to report on his strengths and weaknesses." .
+<Men_shrink_less_from_offending_one_who_inspires_love_than_one_who_inspires_fear.> <common.topic.notable_types> "Quotation" .
+<A_wise_man_will_see_to_it_that_his_acts_always_seem_voluntary_and_not_done_by_compulsion,_however_much_he_may_be_compelled_by_necessity.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Florence> <location.location.containedby> "Italy" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Six months later, he returned to an Italy that was in political chaos." .
+<Niccolò_Machiavelli> <common.topic.notable_for> "g.1257jlt2l" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced> "Leo Strauss" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced> "Herbert Marcuse" .
+<Allan_Bloom> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Raymond_Aron> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<niccolo_machiavelli_knew_giovanni_giorgio_trissino> <base.kwebbase.kwconnection.sentence> "He also read widely and conversed with scholars like Trissino." .
+<The_Mandrake_Root> <film.film.country> "Italy" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.connections_from> "niccolo machiavelli knew giovanni giorgio trissino" .
+<Benefits_should_be_conferred_gradually;_and_in_that_way_they_will_taste_better.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <people.person.quotations> "Men sooner forget the death of their father than the loss of their patrimony." .
+<Georg_Wilhelm_Friedrich_Hegel> <people.person.profession> "Writer" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Quotation> <type.type.properties> "Source" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Allan_Bloom> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Leonardo_da_Vinci> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Men_in_general_judge_more_from_appearances_than_from_reality._All_men_have_eyes,_but_few_have_the_gift_of_penetration.> <common.topic.notable_types> "Quotation" .
+<Niccolò_Machiavelli> <people.person.quotations> "I consider it a mark of great prudence in a man to abstain from threats or any contemptuous expressions, for neither of these weaken the enemy, but threats make him more cautious, and the other excites his hatred, and a desire to revenge himself." .
+<He_influenced_Naude.> <base.kwebbase.kwsentence.contains_connections> "niccolo machiavelli influenced gabriel naude" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced_by> "Desiderius Erasmus" .
+<Baruch_Spinoza> <influence.influence_node.influenced> "Georg Wilhelm Friedrich Hegel" .
+<Fear> <base.schemastaging.context_name.pronunciation> "g.125_qgx9d" .
+<Christopher_Marlowe> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Antonio_Gramsci> <influence.influence_node.influenced_by> "Benedetto Croce" .
+<Antonio_Negri> <people.person.profession> "Philosopher" .
+<The_Florentines,__feeling_themselves_threatened_sent_a_group_for_talks_with_Boria.> <base.kwebbase.kwsentence.next_sentence> "The team included Macchiavelli, who managed to keep discussions going until French troops arrived in the Republic." .
+<Men_shrink_less_from_offending_one_who_inspires_love_than_one_who_inspires_fear.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced_by> "Tacitus" .
+<Thucydides> <influence.influence_node.influenced> "Leo Strauss" .
+<The_Second_Decade> <book.written_work.author> "Niccolò Machiavelli" .
+<Robert_Greene> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.connections_to> "giovanni giorgio trissino knew niccolo machiavelli" .
+<Fear> <book.book_subject.works> "The Unintended Horror" .
+<Ambition_is_so_powerful_a_passion_in_the_human_breast,_that_however_high_we_reach_we_are_never_satisfied.> <common.topic.notable_types> "Quotation" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced_by> "Aristotle" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Height" .
+<Leonardo_da_Vinci> <freebase.valuenotation.has_value> "Cause of death" .
+<He_retired_to_a_small_property_at_Sant'Andrea_in_Percussina_outside_Florence_and_began_writing_his_\"Discourses_on_the_First_Ten_Books_of_Livy\",_a_treatise_on_Republics.> <base.kwebbase.kwsentence.next_sentence> "Stimulated by his research, in 1513 he also wrote his most famous work, \'The Prince,\' a book on the principles of statecraft." .
+<Antonio_Gramsci> <common.topic.notable_types> "Politician" .
+<He_influenced_Naude.> <base.kwebbase.kwsentence.previous_sentence> "He was involved with a project by Da Vinci." .
+<Allan_Bloom> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<He_then_wrote_\"The_Mandrake\"_in_1518,_a_dark_satire_on_the_corruption_of_the_clergy_and_the_evil_in_men_In_1520,_he_took_a_job_as_official_historian_of_the_Republic_at_the_University_of_Florence_and_wrote_to_Pope_Leo_X,_advising_him_to_restore_the_Republic's_freedom.> <base.kwebbase.kwsentence.previous_sentence> "He dedicated the book to Lorenzo de'Medici, the ruler of Florence, in an unsuccessful bid to get back into favor." .
+<The_Prince> <book.book.editions> "The Prince" .
+<The_Prince> <book.written_work.previous_in_series> "Discourses on Livy" .
+<Niccolò_Machiavelli> <book.author.works_written> "The Art of War" .
+<Giambattista_Vico> <people.person.profession> "Philosopher" .
+<Leonardo_da_Vinci> <freebase.valuenotation.has_value> "Education" .
+<Thomas_Hobbes> <influence.influence_node.influenced> "David Hume" .
+<Cicero> <people.person.gender> "Male" .
+<Thomas_Hobbes> <influence.influence_node.influenced_by> "Tacitus" .
+<leonardo_da_vinci_involved_with_niccolo_machiavelli> <base.kwebbase.kwconnection.subject> "Leonardo da Vinci" .
+<Plato> <freebase.valuenotation.has_value> "Date of death" .
+<Niccolò_Machiavelli> <book.author.works_written> "The Prince & Other Stories" .
+<Chancery_employees_were_often_sent_abroad_on_missions_thought_to_be_too_sensitive_for_ordinary_ambassadors_and,_in_1500,_he_went_to_the_French_to_encourage_them_to_honor_their_agreement_to_help_Florence_regain_Pisa.> <base.kwebbase.kwsentence.next_sentence> "In France Macchiavelli recognized the immense power that could be wielded by a strong central authority." .
+<Quotation> <type.type.properties> "Subjects" .
+<Allan_Bloom> <people.person.profession> "Writer" .
+<Niccolò_Machiavelli> <people.person.quotations> "Men in general judge more by the sense of sight than by the sense of touch, because everyone can see, but only a few can test by feeling. Everyone sees what you seem to be, few know what you really are, and those few do not dare take a stand against the general opinion." .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Louis Althusser" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Macchiavelli was the first to base a political theory on the study of human nature." .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Leo Strauss" .
+<Friedrich_Nietzsche> <influence.influence_node.influenced_by> "Baruch Spinoza" .
+<Isaiah_Berlin> <influence.influence_node.influenced> "Michael Walzer" .
+<Bartolommea_di_Stefano_Nelli> <freebase.valuenotation.has_value> "Country of nationality" .
+<Adam_Mickiewicz> <people.person.profession> "Writer" .
+<Dante_Alighieri> <freebase.valuenotation.has_value> "Height" .
+<Allan_Bloom> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Antonio_Gramsci> <people.person.profession> "Writer" .
+<Men_nearly_always_follow_the_tracks_made_by_others_and_proceed_in_their_affairs_by_imitation,_even_though_they_cannot_entirely_keep_to_the_tracks_of_others_or_emulate_the_prowess_of_their_models._So_a_prudent_man_should_always_follow_in_the_footsteps_of_great_men_and_imitate_those_who_have_been_outstanding._If_his_own_prowess_fails_to_compare_with_theirs,_at_least_it_has_an_air_of_greatness_about_it._He_should_behave_like_those_archers_who,_if_they_are_skilful,_when_the_target_seems_too_distant,_know_the_capabilities_of_their_bow_and_aim_a_good_deal_higher_than_their_objective,_not_in_order_to_shoot_so_high_but_so_that_by_aiming_high_they_can_reach_the_target.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Macchiavelli_was_dismissed_from_his_job.> <base.kwebbase.kwsentence.previous_sentence> "There was panic in the city as Spanish troops approached and, by 1512, the exiled Medici faction had seized power in Florence." .
+<Niccolò_Machiavelli> <book.author.works_written> "Living thoughts of Machiavelli" .
+<Alexandre_Kojève> <influence.influence_node.influenced_by> "Plato" .
+<Livy> <influence.influence_node.influenced> "Niccolò Machiavelli" .
+<He_was_also_made_Secretary_to_the_Magistracy,_which_was_responsible_for_foreign_affairs_and_defence.> <base.kwebbase.kwsentence.previous_sentence> "He was obviously a good learner because, in 1498, at the age of twenty-nine, he was given the key government post of Head of the Second Chancery, dealing with government affairs in the Republic of Florence." .
+<Antonio_Gramsci> <people.person.profession> "Philosopher" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Antonio Negri" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Baruch_Spinoza> <influence.influence_node.influenced_by> "Aristotle" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "He retired to a small property at Sant'Andrea in Percussina outside Florence and began writing his \'Discourses on the First Ten Books of Livy\', a treatise on Republics." .
+<Discourses_on_Livy> <book.written_work.next_in_series> "The Prince" .
+<Desiderius_Erasmus> <influence.influence_node.influenced_by> "Cicero" .
+<m.09ymn7c> <common.webpage.topic> "Fear" .
+<Quotation> <type.type.expected_by> "Quotations" .
+<Antonio_Negri> <influence.influence_node.influenced_by> "Baruch Spinoza" .
+<David_Hume> <influence.influence_node.influenced_by> "Jean-Jacques Rousseau" .
+<Baruch_Spinoza> <influence.influence_node.influenced> "Giambattista Vico" .
+<Frammenti_storici> <book.written_work.author> "Niccolò Machiavelli" .
+<There_is_no_avoiding_war;_it_can_only_be_postponed_to_the_advantage_of_others.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <book.author.works_written> "Discourse on Reforming the Government of Florence" .
+<Cesare_Borgia_had_embarked_on_a_military_campaign_to_grab_as_much_of_the_Romagna_area_as_he_could,__in_order_to_form_his_own_state_in_the_center_of_Italy.> <base.kwebbase.kwsentence.contains_connections> "niccolo machiavelli adviser to cesare borgia" .
+<Men_nearly_always_follow_the_tracks_made_by_others_and_proceed_in_their_affairs_by_imitation,_even_though_they_cannot_entirely_keep_to_the_tracks_of_others_or_emulate_the_prowess_of_their_models._So_a_prudent_man_should_always_follow_in_the_footsteps_of_great_men_and_imitate_those_who_have_been_outstanding._If_his_own_prowess_fails_to_compare_with_theirs,_at_least_it_has_an_air_of_greatness_about_it._He_should_behave_like_those_archers_who,_if_they_are_skilful,_when_the_target_seems_too_distant,_know_the_capabilities_of_their_bow_and_aim_a_good_deal_higher_than_their_objective,_not_in_order_to_shoot_so_high_but_so_that_by_aiming_high_they_can_reach_the_target.> <common.topic.notable_types> "Quotation" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced> "Allan Bloom" .
+<David_Hume> <people.person.profession> "Philosopher" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Michael Walzer" .
+<In_1505,_when_he_succeeded_in_getting_a_law_passed_to_establish_a_militia,_the_Florentine_Republic's_territory_was_divided_up_into_districts,__levies_were_set,_and_Macchiavelli_was_made_Secretary_of_the_Council_with_authority_over_the_militia.> <base.kwebbase.kwsentence.next_sentence> "Two years later, the Holy Roman Emperor Maximilian I, threatened to invade Italy, and Florence sent Macchiavelli to Germany to report on his strengths and weaknesses." .
+<Michael_Walzer> <influence.influence_node.influenced_by> "Isaiah Berlin" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Bernardo_di_Niccolò_Machiavelli> <people.person.children> "Niccolò Machiavelli" .
+<Quotation> <freebase.documented_object.documentation> "m.02hylcq" .
+<Giambattista_Vico> <influence.influence_node.influenced_by> "Plato" .
+<Quotation> <type.type.expected_by> "Quotations" .
+<Louis_Althusser> <people.person.gender> "Male" .
+<The_main_foundations_of_every_state,_new_states_as_well_as_ancient_or_composite_ones,_are_good_laws_and_good_arms_you_cannot_have_good_laws_without_good_arms,_and_where_there_are_good_arms,_good_laws_inevitably_follow.> <common.topic.notable_types> "Quotation" .
+<Hannah_Arendt> <people.person.profession> "Philosopher" .
+<Leonardo_da_Vinci> <freebase.valuenotation.is_reviewed> "Education" .
+<Louis_Althusser> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Hannah_Arendt> <influence.influence_node.influenced> "Philip Pettit" .
+<In_France_Macchiavelli_recognized_the_immense_power_that_could_be_wielded_by_a_strong_central_authority.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Isaiah_Berlin> <influence.influence_node.influenced_by> "Giambattista Vico" .
+<Niccolò_Machiavelli> <people.person.quotations> "There are three kinds of intelligence: one kind understands things for itself, the other appreciates what others can understand, the third understands neither for itself nor through others. This first kind is excellent, the second good, and the third kind useless." .
+<Fear> <common.topic.notable_for> "g.1258cgcl5" .
+<Niccolò_Machiavelli> <people.person.quotations> "It should be noted that when he seizes a state the new ruler ought to determine all the injuries that he will need to inflict. He should inflict them once and for all, and not have to renew them every day." .
+<Giambattista_Vico> <influence.influence_node.influenced_by> "Cicero" .
+<Niccolò_Machiavelli> <book.author.works_written> "Discourses on Livy" .
+<Niccolò_Machiavelli> <people.person.quotations> "The main foundations of every state, new states as well as ancient or composite ones, are good laws and good arms you cannot have good laws without good arms, and where there are good arms, good laws inevitably follow." .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.connections_from> "niccolo machiavelli involved with project of leonardo da vinci" .
+<Vilfredo_Pareto> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <people.person.quotations> "From this we learn that a wise prince sees to it that never, in order to attack someone, does he become the ally of a prince more powerful than himself, except when necessity forces him, as I said above. If you win, you are the powerful kings prisoner, and wise princes avoid as much as they can being in other mens power." .
+<There_was_panic_in_the_city_as_Spanish_troops_approached_and,_by_1512,_the_exiled_Medici_faction_had_seized_power_in_Florence.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Fear> <book.book_subject.musical_compositions_about_this_topic> "Black-Dove (January)" .
+<Leo_Strauss> <influence.influence_node.influenced> "Carl Schmitt" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Alexandre_Kojève> <people.person.profession> "Philosopher" .
+<Leo_Strauss> <influence.influence_node.influenced_by> "Thucydides" .
+<Santi_di_Tito_-_Niccolo_Machiavelli's_portrait_headcrop> <common.image.appears_in_topic_gallery> "Niccolò Machiavelli" .
+<The_promise_given_was_a_necessity_of_the_past:_the_word_broken_is_a_necessity_of_the_present.> <common.topic.notable_types> "Quotation" .
+<Niccolò_Machiavelli> <people.person.quotations> "A prince must be prudent enough to know how to escape the bad reputation of those vices that would lose the state for him, and must protect himself from those that will not lose it for him, if this is possible; but if he cannot, he need not concern himself unduly if he ignores these less serious vices." .
+<Alexandre_Kojève> <influence.influence_node.influenced_by> "Leo Strauss" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Macchiavelli's_father,_a_doctor_of_law,_was_an_undischarged_bankrupt,_so_Macchiavelli_was_largely_self-taught_with_occasional_help_from_tutors.> <base.kwebbase.kwsentence.next_sentence> "He was obviously a good learner because, in 1498, at the age of twenty-nine, he was given the key government post of Head of the Second Chancery, dealing with government affairs in the Republic of Florence." .
+<Leonardo_da_Vinci> <people.person.profession> "Writer" .
+<Niccolò_Machiavelli> <people.person.quotations> "Benefits should be conferred gradually; and in that way they will taste better." .
+<Niccolò_Machiavelli> <book.author.works_written> "Discourse on Pisa" .
+<Machiavelli_on_Modern_Leadership:_Why_Machiavelli's_Iron_Rules_Are_As_Timely_and_Important_Today_As_Five_Centuries_Ago> <book.written_work.subjects> "Niccolò Machiavelli" .
+<Thomas_Hobbes> <people.person.profession> "Philosopher" .
+<Dante_Alighieri> <people.person.profession> "Writer" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <people.person.quotations> "States that rise quickly, just as all the other things of nature that are born and grow rapidly, cannot have roots and ramifications; the first bad weather kills them." .
+<Kenneth_Waltz> <influence.influence_node.influenced_by> "Thomas Hobbes" .
+<One_change_always_leaves_the_way_open_for_the_establishment_of_others.> <common.topic.notable_types> "Quotation" .
+<Thomas_Schelling> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Adam_Mickiewicz> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Primerana_Machiavelli> <freebase.valuenotation.has_value> "Date of death" .
+<Ernesto_Laclau> <influence.influence_node.influenced_by> "Georg Wilhelm Friedrich Hegel" .
+<Herbert_Marcuse> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Denis_Diderot> <freebase.valuenotation.is_reviewed> "Parents" .
+<Aristotle> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Niccolò_Machiavelli> <people.person.profession> "Diplomat" .
+<Carl_Schmitt> <influence.influence_node.influenced> "Hannah Arendt" .
+<He_dedicated_the_book_to_Lorenzo_de'Medici,_the_ruler_of_Florence,_in_an_unsuccessful_bid_to_get_back_into_favor.> <base.kwebbase.kwsentence.previous_sentence> "Stimulated by his research, in 1513 he also wrote his most famous work, \'The Prince,\' a book on the principles of statecraft." .
+<The_Prince> <book.book.editions> "The Prince" .
+<Hatred_is_gained_as_much_by_good_works_as_by_evil.> <common.topic.notable_types> "Quotation" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Herbert Marcuse" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced> "Friedrich Nietzsche" .
+<He_also_read_widely_and_conversed_with_scholars_like_Trissino.> <base.kwebbase.kwsentence.previous_sentence> "In 1504 Macchiavelli wrote the poem \'Annals of Italy\' and a play based on Aristophanes satirizing various leading religious and political figures." .
+<Niccolò_Machiavelli> <people.person.profession> "Historian" .
+<Niccolò_Machiavelli> <book.author.works_written> "Anti-Machiavel" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Edward Gibbon" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.connections_to> "lorenzo de' medici a fan was niccolo machiavelli" .
+<Ion_Luca_Caragiale> <people.person.gender> "Male" .
+<David_Hume> <influence.influence_node.influenced_by> "Thomas Hobbes" .
+<Friedrich_Nietzsche> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Raymond_Aron> <people.person.gender> "Male" .
+<Cicero> <influence.influence_node.influenced> "Francis Bacon" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced_by> "Plutarch" .
+<Dante_Alighieri> <influence.influence_node.influenced> "Giambattista Vico" .
+<Leo_Strauss> <influence.influence_node.influenced_by> "Carl Schmitt" .
+<David_Hume> <influence.influence_node.influenced_by> "Francis Bacon" .
+<Men_in_general_judge_more_by_the_sense_of_sight_than_by_the_sense_of_touch,_because_everyone_can_see,_but_only_a_few_can_test_by_feeling._Everyone_sees_what_you_seem_to_be,_few_know_what_you_really_are,_and_those_few_do_not_dare_take_a_stand_against_the_general_opinion.> <common.topic.notable_types> "Quotation" .
+<Antonio_Negri> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Plato> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<The_Mandrake> <theater.play.country_of_origin> "Italy" .
+<Isaiah_Berlin> <people.person.profession> "Historian" .
+<Fear> <book.book_subject.works> "House of Leaves" .
+<He_was_involved_with_a_project_by_Da_Vinci.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Plato> <freebase.valuenotation.is_reviewed> "Gender" .
+<19730_Machiavelli> <symbols.namesake.named_after> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <book.book_subject.works> "Machiavelli on Modern Leadership: Why Machiavelli's Iron Rules Are As Timely and Important Today As Five Centuries Ago" .
+<Baruch_Spinoza> <freebase.valuenotation.has_value> "Height" .
+<In_1526,_he_was_appointed_secretary_of_a_committee_set_up_to_oversee_the_fortifications_of_Florence_being_undertaken_by_Pietro_Navarra,_a_famous_military_engineer_and_Spanish_refugee.> <base.kwebbase.kwsentence.next_sentence> "Italy was at war with the forces of the Holy Roman Emperor and Macchiavelli was in service with the Italian army." .
+<The_fact_is_that_a_man_who_wants_to_act_virtuously_in_every_way_necessarily_comes_to_grief_among_so_many_who_are_not_virtuous.> <common.topic.notable_types> "Quotation" .
+<A_summary_of_the_affairs_of_the_city_of_Lucca> <book.written_work.author> "Niccolò Machiavelli" .
+<Dante_Alighieri> <influence.influence_node.influenced_by> "Cicero" .
+<Quotation> <type.type.properties> "Addressee" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Clizia> <book.written_work.author> "Niccolò Machiavelli" .
+<Fear> <common.topic.webpage> "m.09ynqkg" .
+<Niccolò_Machiavelli> <book.author.works_written> "Florentine Histories" .
+<Niccolò_Machiavelli> <people.person.profession> "Philosopher" .
+<Pope_Julius_II_then_demanded_that_the_Florentines_join_the_League_against_France_but_they_refused.> <base.kwebbase.kwsentence.previous_sentence> "Returning to Italy, Macchiavelli himself removed the council." .
+<Dante_Alighieri> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Quotation> <type.type.properties> "Incorrectly attributed to" .
+<A_prince_never_lacks_legitimate_reasons_to_break_his_promise.> <common.topic.notable_types> "Quotation" .
+<Carl_Schmitt> <influence.influence_node.influenced> "Antonio Negri" .
+<Baccina_Machiavelli> <freebase.valuenotation.has_value> "Country of nationality" .
+<Thomas_Hobbes> <people.person.gender> "Male" .
+<Philip_Pettit> <influence.influence_node.influenced_by> "Cicero" .
+<Baccina_Machiavelli> <freebase.valuenotation.has_value> "Date of death" .
+<Jean-Jacques_Rousseau> <people.person.profession> "Writer" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Benedetto Croce" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "There was panic in the city as Spanish troops approached and, by 1512, the exiled Medici faction had seized power in Florence." .
+<From_this_we_learn_that_a_wise_prince_sees_to_it_that_never,_in_order_to_attack_someone,_does_he_become_the_ally_of_a_prince_more_powerful_than_himself,_except_when_necessity_forces_him,_as_I_said_above._If_you_win,_you_are_the_powerful_kings_prisoner,_and_wise_princes_avoid_as_much_as_they_can_being_in_other_mens_power.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Thucydides> <influence.influence_node.influenced> "Niccolò Machiavelli" .
+<No_one_should_be_astonished_if_in_the_following_discussion_of_completely_new_princedoms_and_of_the_prince_and_of_government,_I_bring_up_the_noblest_examples._Because,_since_men_almost_always_walk_in_the_paths_beaten_by_others_and_carry_on_their_affairs_by_imitatingeven_though_it_is_not_possible_to_keep_wholly_in_the_paths_of_others_or_to_attain_the_ability_of_those_you_imitatea_prudent_man_will_always_choose_to_take_paths_beaten_by_great_men_and_to_imitate_those_who_have_been_especially_admirable,_in_order_that_if_his_ability_does_not_reach_theirs,_at_least_it_may_offer_some_suggestion_of_it;_and_he_will_act_like_prudent_archers,_who,_seeing_that_the_mark_they_plan_to_hit_is_too_far_away_and_knowing_what_space_can_be_covered_by_the_power_of_their_bows,_take_an_aim_much_higher_than_their_mark,_not_in_order_to_reach_with_their_arrows_so_great_a_height,_but_to_be_able,_with_the_aid_of_so_high_an_aim,_to_attain_their_purpose.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Antonio_Gramsci> <people.person.nationality> "Italy" .
+<He_was_involved_with_a_project_by_Da_Vinci.> <base.kwebbase.kwsentence.next_sentence> "He influenced Naude." .
+<Raymond_Aron> <influence.influence_node.influenced_by> "Alexandre Kojève" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced_by> "Denis Diderot" .
+<Baruch_Spinoza> <people.person.profession> "Philosopher" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Antonio Gramsci" .
+<Adam_Mickiewicz> <influence.influence_node.influenced> "Friedrich Nietzsche" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Niccolò_Machiavelli> <people.person.quotations> "Ambition is so powerful a passion in the human breast, that however high we reach we are never satisfied." .
+<Quotation> <type.type.expected_by> "Quotations" .
+<Niccolò_Machiavelli> <common.topic.image> "Santi di Tito - Niccolo Machiavelli's portrait headcrop" .
+<Thomas_Schelling> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Leo_Strauss> <influence.influence_node.influenced_by> "Plato" .
+<Raymond_Aron> <influence.influence_node.influenced_by> "Georg Wilhelm Friedrich Hegel" .
+<Niccolò_Machiavelli> <people.person.quotations> "Hatred is gained as much by good works as by evil." .
+<Niccolò_Machiavelli> <people.person.nationality> "Republic of Florence" .
+<Bartolommea_di_Stefano_Nelli> <freebase.valuenotation.has_value> "Cause of death" .
+<Because_of_his_past_loyalties,_Macchiavelli_was_given_no_position_by_the_new_rulers_and_he_died,_in_Florence,_in_the_same_year.> <base.kwebbase.kwsentence.previous_sentence> "In 1527, Rome was sacked, Florence captured and the Medicis driven out of power." .
+<The_Pope_died_in_1521,_before_he_could_reply,__but_Giulio_de'Medici_asked_for_advice_and_Macchiavelli_sent_him_a_revised_version_of_the_letter.> <base.kwebbase.kwsentence.previous_sentence> "He then wrote \'The Mandrake\' in 1518, a dark satire on the corruption of the clergy and the evil in men In 1520, he took a job as official historian of the Republic at the University of Florence and wrote to Pope Leo X, advising him to restore the Republic's freedom." .
+<Fortune_is_a_River:_Leonardo_Da_Vinci_and_Niccolo_Machiavelli's_Magnificent_Dream_to_Change_the_Course_of_Florentine_History> <book.written_work.subjects> "Leonardo da Vinci" .
+<The_works_of_the_famous_Nicolas_Machiavel> <book.written_work.author> "Niccolò Machiavelli" .
+<Antonio_Negri> <people.person.gender> "Male" .
+<Plutarch> <influence.influence_node.influenced> "Niccolò Machiavelli" .
+<David_Hume> <people.person.gender> "Male" .
+<Baruch_Spinoza> <influence.influence_node.influenced> "Denis Diderot" .
+<Primerana_Machiavelli> <freebase.valuenotation.has_value> "Cause of death" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced_by> "Plato" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Denis_Diderot> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<In_1527,_Rome_was_sacked,_Florence_captured_and_the_Medicis_driven_out_of_power.> <base.kwebbase.kwsentence.next_sentence> "Because of his past loyalties, Macchiavelli was given no position by the new rulers and he died, in Florence, in the same year." .
+<Giambattista_Vico> <influence.influence_node.influenced_by> "Thomas Hobbes" .
+<m.03pgb55> <people.place_lived.person> "Niccolò Machiavelli" .
+<Thomas_Hobbes> <influence.influence_node.influenced> "Carl Schmitt" .
+<Baruch_Spinoza> <influence.influence_node.influenced> "Friedrich Nietzsche" .
+<Later,_against_the_wishes_of_fellow_members_of_the_Council,_Macchiavelli_mobilized_the_militia_in_a_successful_campaign_against_Pisa_and,_in_1510,_he_went_to_France_again_to_try_to_avert_war_between_France_and_the_Papal_States.> <base.kwebbase.kwsentence.next_sentence> "When he returned to Florence, he was sure that they would be drawn into any conflict between the Pope and the French king and did everything he could to strengthen the militia." .
+<Niccolò_Machiavelli> <film.film_story_contributor.film_story_credits> "The Mandrake Root" .
+<Quotation> <type.type.properties> "Spoken by character (if from fictional work)" .
+<Thomas_Hobbes> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Francis_Bacon> <influence.influence_node.influenced_by> "Aristotle" .
+<Leonardo_da_Vinci> <book.book_subject.works> "Fortune is a River: Leonardo Da Vinci and Niccolo Machiavelli's Magnificent Dream to Change the Course of Florentine History" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Ernesto_Laclau> <influence.influence_node.influenced_by> "Louis Althusser" .
+<Leo_Strauss> <influence.influence_node.influenced_by> "Aristotle" .
+<Desiderius_Erasmus> <people.person.profession> "Philosopher" .
+<Robert_Greene> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Francis Bacon" .
+<Piero_Machiavelli> <people.person.gender> "Male" .
+<Dante_Alighieri> <people.person.nationality> "Italy" .
+<Dante_Alighieri> <people.person.profession> "Politician" .
+<Thomas_Hobbes> <influence.influence_node.influenced_by> "Plato" .
+<Harvey_Mansfield> <book.author.works_written> "Machiavelli's Virtue" .
+<Herbert_Marcuse> <influence.influence_node.influenced_by> "Jean-Jacques Rousseau" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced> "Carl Schmitt" .
+<Politician> <freebase.type_profile.equivalent_topic> "Politician" .
+<Leonardo_da_Vinci> <freebase.valuenotation.is_reviewed> "Height" .
+<Cicero> <influence.influence_node.influenced> "Desiderius Erasmus" .
+<Plato> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced> "Benedetto Croce" .
+<Discourse_on_Pisa> <book.written_work.author> "Niccolò Machiavelli" .
+<Lodovico_Machiavelli> <freebase.valuenotation.has_value> "Place of birth" .
+<In_1504_Macchiavelli_wrote_the_poem_\"Annals_of_Italy\"_and_a_play_based_on_Aristophanes_satirizing_various_leading_religious_and_political_figures.> <base.kwebbase.kwsentence.previous_sentence> "Despite this, he was impressed by the loyalty of Borgia's soldiers, contrasted with the mutiny of the Swiss mercenaries Florence had employed at Pisa." .
+<Hannah_Arendt> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Michael_Walzer> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Symptom> <freebase.type_profile.strict_included_types> "Topic" .
+<Guido_Machiavelli> <people.person.gender> "Male" .
+<Aristotle> <freebase.valuenotation.is_reviewed> "Gender" .
+<Leonardo_da_Vinci> <freebase.valuenotation.is_reviewed> "Place of death" .
+<m.0w17g3f> <people.sibling_relationship.sibling> "Niccolò Machiavelli" .
+<Harvey_Mansfield> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Carl_Schmitt> <people.person.profession> "Politician" .
+<He_dedicated_the_book_to_Lorenzo_de'Medici,_the_ruler_of_Florence,_in_an_unsuccessful_bid_to_get_back_into_favor.> <base.kwebbase.kwsentence.next_sentence> "He then wrote \'The Mandrake\' in 1518, a dark satire on the corruption of the clergy and the evil in men In 1520, he took a job as official historian of the Republic at the University of Florence and wrote to Pope Leo X, advising him to restore the Republic's freedom." .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Ernesto_Laclau> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<On_the_method_of_dealing_with_the_Rebellious_Peoples_of_Valdichiana> <book.written_work.author> "Niccolò Machiavelli" .
+<Leo_Strauss> <people.person.profession> "Writer" .
+<He_dedicated_the_book_to_Lorenzo_de'Medici,_the_ruler_of_Florence,_in_an_unsuccessful_bid_to_get_back_into_favor.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Bernardo_di_Niccolò_Machiavelli> <people.person.nationality> "Italy" .
+<Niccolò_Machiavelli> <freebase.valuenotation.has_value> "Education" .
+<Plutarch> <people.person.profession> "Philosopher" .
+<Despite_this,_he_was_impressed_by_the_loyalty_of_Borgia's_soldiers,_contrasted_with_the_mutiny_of_the_Swiss_mercenaries_Florence_had_employed_at_Pisa.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<In_1504_Macchiavelli_wrote_the_poem_\"Annals_of_Italy\"_and_a_play_based_on_Aristophanes_satirizing_various_leading_religious_and_political_figures.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Cicero> <influence.influence_node.influenced> "David Hume" .
+<Bernardo_Machiavelli> <freebase.valuenotation.has_value> "Place of birth" .
+<Guido_Machiavelli> <freebase.valuenotation.has_value> "Country of nationality" .
+<There_are_three_kinds_of_intelligence:_one_kind_understands_things_for_itself,_the_other_appreciates_what_others_can_understand,_the_third_understands_neither_for_itself_nor_through_others._This_first_kind_is_excellent,_the_second_good,_and_the_third_kind_useless.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Bartolommea_di_Stefano_Nelli> <freebase.valuenotation.has_value> "Place of death" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "The Pope died in 1521, before he could reply,  but Giulio de'Medici asked for advice and Macchiavelli sent him a revised version of the letter." .
+<Francis_Bacon> <influence.influence_node.influenced> "Denis Diderot" .
+<Benedetto_Croce> <people.person.profession> "Politician" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "He influenced Naude." .
+<Discourses_on_Livy> <book.written_work.author> "Niccolò Machiavelli" .
+<Guilio_became_Pope_Clement_VII_in_1523_and_Macchiavelli_was_back_in_power.> <base.kwebbase.kwsentence.previous_sentence> "The Pope died in 1521, before he could reply,  but Giulio de'Medici asked for advice and Macchiavelli sent him a revised version of the letter." .
+<Quentin_Skinner> <influence.influence_node.influenced_by> "Hannah Arendt" .
+<Returning_to_Italy,_Macchiavelli_himself_removed_the_council.> <base.kwebbase.kwsentence.next_sentence> "Pope Julius II then demanded that the Florentines join the League against France but they refused." .
+<Alexandre_Kojève> <people.person.gender> "Male" .
+<Macchiavelli_was_dismissed_from_his_job.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Louis_Althusser> <influence.influence_node.influenced_by> "Antonio Gramsci" .
+<In_1527,_Rome_was_sacked,_Florence_captured_and_the_Medicis_driven_out_of_power.> <base.kwebbase.kwsentence.previous_sentence> "Italy was at war with the forces of the Holy Roman Emperor and Macchiavelli was in service with the Italian army." .
+<Where_the_willingness_is_great,_the_difficulties_cannot_be_great.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Primerana_Machiavelli> <freebase.valuenotation.has_value> "Place of birth" .
+<Ernesto_Laclau> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Carl_Schmitt> <influence.influence_node.influenced> "Leo Strauss" .
+<He_also_read_widely_and_conversed_with_scholars_like_Trissino.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<The_Ninth_Configuration> <film.film.subjects> "Fear" .
+<Denis_Diderot> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Niccolò_Machiavelli> <symbols.name_source.namesakes> "19730 Machiavelli" .
+<Despite_this,_he_was_impressed_by_the_loyalty_of_Borgia's_soldiers,_contrasted_with_the_mutiny_of_the_Swiss_mercenaries_Florence_had_employed_at_Pisa.> <base.kwebbase.kwsentence.previous_sentence> "Macchiavelli then witnessed the fall of Borgia, who now lacked Papal support,  and his admiration for Cesare slowly turned to contempt." .
+<Christopher_Marlowe> <freebase.valuenotation.has_value> "Date of birth" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Chancery employees were often sent abroad on missions thought to be too sensitive for ordinary ambassadors and, in 1500, he went to the French to encourage them to honor their agreement to help Florence regain Pisa." .
+<Leo_Strauss> <people.person.gender> "Male" .
+<Carl_Schmitt> <influence.influence_node.influenced_by> "Thomas Hobbes" .
+<Benedetto_Croce> <people.person.gender> "Male" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Harvey Mansfield" .
+<It_is_better_to_be_feared_than_loved,_if_you_cannot_be_both.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<After_Borgia's_father,_Pope_Alexander_VI,_died_in_1503,_Macchiavelli_was_sent_to_Rome_to_meet_the_new_Pope_Julius_II_.> <base.kwebbase.kwsentence.previous_sentence> "He was so impressed he wrote an account titled: \'On the Manner Adopted by the Duke. to Kill Vitellozzo\'." .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Bernardo_Machiavelli> <freebase.valuenotation.has_value> "Country of nationality" .
+<Niccolò_Machiavelli> <common.topic.notable_types> "Politician" .
+<Plutarch> <people.person.gender> "Male" .
+<Machiavelli's_Virtue> <book.written_work.author> "Harvey Mansfield" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Returning to Italy, Macchiavelli himself removed the council." .
+<Cicero> <influence.influence_node.influenced> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Giambattista_Vico> <influence.influence_node.influenced_by> "Tacitus" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Alexandre Kojève" .
+<Lodovico_Machiavelli> <freebase.valuenotation.has_value> "Date of birth" .
+<Denis_Diderot> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Denis_Diderot> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Niccolò_Machiavelli> <book.author.works_written> "The works of ... Nicolas Machiavel" .
+<Thomas_Hobbes> <influence.influence_node.influenced> "Giambattista Vico" .
+<Carl_Schmitt> <influence.influence_node.influenced_by> "Jean-Jacques Rousseau" .
+<Baruch_Spinoza> <influence.influence_node.influenced_by> "Thomas Hobbes" .
+<Carl_Schmitt> <influence.influence_node.influenced_by> "Vilfredo Pareto" .
+<John_Adams> <people.person.profession> "Politician" .
+<Giambattista_Vico> <influence.influence_node.influenced> "Antonio Gramsci" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Adam Mickiewicz" .
+<Niccolò_Machiavelli> <people.deceased_person.place_of_death> "Florence" .
+<Niccolò_Machiavelli> <book.author.works_written> "A Description of the Manner in which Duke Valentino put Vitellozzo Vitelli, Oliverotto da Fermo, Lord Pagola and the Duke of Gravina to Death" .
+<Cicero> <common.topic.notable_types> "Politician" .
+<Escritos_Politicos_Breves> <book.written_work.author> "Niccolò Machiavelli" .
+<Francis_Bacon> <influence.influence_node.influenced> "Thomas Hobbes" .
+<Discourse_about_the_Provision_of_Money> <book.written_work.author> "Niccolò Machiavelli" .
+<Hannah_Arendt> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Friedrich_Nietzsche> <influence.influence_node.influenced_by> "Adam Mickiewicz" .
+<Quotation> <type.type.expected_by> "Quotations" .
+<Thucydides> <freebase.valuenotation.has_value> "Education" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <people.person.quotations> "Men are more apt to be mistaken in their generalizations than in their particular observations." .
+<Allan_Bloom> <influence.influence_node.influenced_by> "Alexandre Kojève" .
+<Bernardo_Machiavelli> <freebase.valuenotation.has_value> "Place of death" .
+<Niccolò_Machiavelli> <people.person.quotations> "Because just as good morals, if they are to be maintained, have need of the laws, so the laws, if they are to be observed, have need of good morals." .
+<niccolo_machiavelli_involved_with_project_of_leonardo_da_vinci> <base.kwebbase.kwconnection.subject> "Niccolò Machiavelli" .
+<Giambattista_Vico> <influence.influence_node.influenced> "Benedetto Croce" .
+<Giambattista_Vico> <influence.influence_node.influenced_by> "Baruch Spinoza" .
+<Francis_Bacon> <people.person.profession> "Philosopher" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "He was involved with a project by Da Vinci." .
+<Quotation> <common.topic.article> "m.02hylcq" .
+<Cicero> <influence.influence_node.influenced> "Jean-Jacques Rousseau" .
+<Niccolò_Machiavelli> <people.person.quotations> "Men shrink less from offending one who inspires love than one who inspires fear." .
+<Life_of_Castruccio_Castracani> <book.written_work.author> "Niccolò Machiavelli" .
+<Philip_Pettit> <influence.influence_node.influenced_by> "Quentin Skinner" .
+<Leonardo_da_Vinci> <base.kwebbase.kwtopic.connections_from> "leonardo da vinci involved with niccolo machiavelli" .
+<Plutarch> <freebase.valuenotation.has_value> "Height" .
+<Ernesto_Laclau> <freebase.valuenotation.is_reviewed> "Cause of death" .
+<Plato> <freebase.valuenotation.has_value> "Date of birth" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced_by> "Aristotle" .
+<The_Art_of_War> <book.written_work.author> "Niccolò Machiavelli" .
+<Leonardo_da_Vinci> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <freebase.valuenotation.is_reviewed> "Gender" .
+<Thucydides> <people.person.gender> "Male" .
+<cesare_borgia_opposed_successfully_by_niccolo_machiavelli> <base.kwebbase.kwconnection.other> "Niccolò Machiavelli" .
+<Friedrich_Nietzsche> <influence.influence_node.influenced_by> "Georg Wilhelm Friedrich Hegel" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Isaiah Berlin" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Denis_Diderot> <influence.influence_node.influenced_by> "Francis Bacon" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<In_1526,_he_was_appointed_secretary_of_a_committee_set_up_to_oversee_the_fortifications_of_Florence_being_undertaken_by_Pietro_Navarra,_a_famous_military_engineer_and_Spanish_refugee.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <symbols.name_source.namesakes> "Machiavellianism" .
+<Fear> <film.film_subject.films> "The Ninth Configuration" .
+<Antonio_Gramsci> <influence.influence_node.influenced> "Ernesto Laclau" .
+<The_team_included_Macchiavelli,_who_managed_to_keep_discussions_going_until_French_troops_arrived_in_the_Republic.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Georg_Wilhelm_Friedrich_Hegel> <influence.influence_node.influenced_by> "Plato" .
+<Two_years_later,_the_Holy_Roman_Emperor_Maximilian_I,_threatened_to_invade_Italy,_and_Florence_sent_Macchiavelli_to_Germany_to_report_on_his_strengths_and_weaknesses.> <base.kwebbase.kwsentence.next_sentence> "Later, against the wishes of fellow members of the Council, Macchiavelli mobilized the militia in a successful campaign against Pisa and, in 1510, he went to France again to try to avert war between France and the Papal States." .
+<Thucydides> <freebase.valuenotation.has_value> "Height" .
+<The_following_year,_he_was_imprisoned_and_tortured_for_plotting_to_overthrow_the_Medicis_but_he_was_eventually_released.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Ernesto_Laclau> <freebase.valuenotation.is_reviewed> "Date of death" .
+<niccolo_machiavelli_involved_with_project_of_leonardo_da_vinci> <base.kwebbase.kwconnection.sentence> "He was involved with a project by Da Vinci." .
+<Alexandre_Kojève> <influence.influence_node.influenced_by> "Georg Wilhelm Friedrich Hegel" .
+<There_was_panic_in_the_city_as_Spanish_troops_approached_and,_by_1512,_the_exiled_Medici_faction_had_seized_power_in_Florence.> <base.kwebbase.kwsentence.next_sentence> "Macchiavelli was dismissed from his job." .
+<Quotation> <freebase.type_hints.included_types> "Topic" .
+<Dante_Alighieri> <influence.influence_node.influenced> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Raymond Aron" .
+<Macchiavelli_was_dismissed_from_his_job.> <base.kwebbase.kwsentence.next_sentence> "The following year, he was imprisoned and tortured for plotting to overthrow the Medicis but he was eventually released." .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Lodovico_Machiavelli> <freebase.valuenotation.has_value> "Cause of death" .
+<Six_months_later,_he_returned_to_an_Italy_that_was_in_political_chaos.> <base.kwebbase.kwsentence.next_sentence> "Cesare Borgia had embarked on a military campaign to grab as much of the Romagna area as he could,  in order to form his own state in the center of Italy." .
+<Herbert_Marcuse> <influence.influence_node.influenced_by> "Thomas Hobbes" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Jean-Jacques Rousseau" .
+<Lodovico_Machiavelli> <people.person.gender> "Male" .
+<I_consider_it_a_mark_of_great_prudence_in_a_man_to_abstain_from_threats_or_any_contemptuous_expressions,_for_neither_of_these_weaken_the_enemy,_but_threats_make_him_more_cautious,_and_the_other_excites_his_hatred,_and_a_desire_to_revenge_himself.> <common.topic.notable_types> "Quotation" .
+<Niccolò_Machiavelli> <book.author.works_written> "The Prince" .
+<There_was_panic_in_the_city_as_Spanish_troops_approached_and,_by_1512,_the_exiled_Medici_faction_had_seized_power_in_Florence.> <base.kwebbase.kwsentence.previous_sentence> "Pope Julius II then demanded that the Florentines join the League against France but they refused." .
+<Bernardo_di_Niccolò_Machiavelli> <freebase.valuenotation.has_value> "Place of birth" .
+<Fear> <common.topic.webpage> "m.09y7ct1" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Later, against the wishes of fellow members of the Council, Macchiavelli mobilized the militia in a successful campaign against Pisa and, in 1510, he went to France again to try to avert war between France and the Papal States." .
+<Politician> <freebase.type_profile.strict_included_types> "Topic" .
+<Antonio_Negri> <influence.influence_node.influenced_by> "Louis Althusser" .
+<Machiavelli> <book.written_work.subjects> "Niccolò Machiavelli" .
+<In_1527,_Rome_was_sacked,_Florence_captured_and_the_Medicis_driven_out_of_power.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Dante_Alighieri> <freebase.valuenotation.is_reviewed> "Gender" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "In France Macchiavelli recognized the immense power that could be wielded by a strong central authority." .
+<Quotation> <type.type.expected_by> "Quotations" .
+<Niccolò_Machiavelli> <people.person.children> "Lodovico Machiavelli" .
+<Francis_Bacon> <people.person.gender> "Male" .
+<Quotation> <type.type.domain> "Media" .
+<Quentin_Skinner> <people.person.profession> "Historian" .
+<Niccolò_Machiavelli> <people.person.quotations> "God is not willing to do everything, and thus take away our free will and that share of glory which belongs to us." .
+<Allan_Bloom> <freebase.valuenotation.is_reviewed> "Place of death" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<He_retired_to_a_small_property_at_Sant'Andrea_in_Percussina_outside_Florence_and_began_writing_his_\"Discourses_on_the_First_Ten_Books_of_Livy\",_a_treatise_on_Republics.> <base.kwebbase.kwsentence.previous_sentence> "The following year, he was imprisoned and tortured for plotting to overthrow the Medicis but he was eventually released." .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<God_is_not_willing_to_do_everything,_and_thus_take_away_our_free_will_and_that_share_of_glory_which_belongs_to_us.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Cicero> <influence.influence_node.influenced_by> "Plato" .
+<Niccolò_Machiavelli> <kp_lw.philosophy_influencer.influencee> "Philip Pettit" .
+<Belfagor_arcidiavolo> <book.written_work.author> "Niccolò Machiavelli" .
+<Friedrich_Nietzsche> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <people.person.children> "Piero Machiavelli" .
+<God_is_not_willing_to_do_everything,_and_thus_take_away_our_free_will_and_that_share_of_glory_which_belongs_to_us.> <common.topic.notable_types> "Quotation" .
+<Niccolò_Machiavelli> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Alexandre_Kojève> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Cicero> <influence.influence_node.influenced> "Leo Strauss" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Ernesto Laclau" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<m.09ynqkg> <common.webpage.topic> "Fear" .
+<The_Prince> <book.book.editions> "The Prince" .
+<The_one_who_adapts_his_policy_to_the_times_prospers,_and_likewise_that_the_one_whose_policy_clashes_with_the_demands_of_the_times_does_not.> <common.topic.notable_types> "Quotation" .
+<Cicero> <influence.influence_node.influenced> "John Adams" .
+<Michael_Walzer> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Just_After_Sunset> <book.written_work.subjects> "Fear" .
+<Bernardo_di_Niccolò_Machiavelli> <freebase.valuenotation.has_value> "Date of birth" .
+<Bernardo_di_Niccolò_Machiavelli> <freebase.valuenotation.has_value> "Parents" .
+<Allan_Bloom> <freebase.valuenotation.is_reviewed> "Gender" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "He dedicated the book to Lorenzo de'Medici, the ruler of Florence, in an unsuccessful bid to get back into favor." .
+<Tacitus> <people.person.profession> "Writer" .
+<Denis_Diderot> <people.person.gender> "Male" .
+<Thomas_Schelling> <people.person.gender> "Male" .
+<Edward_Gibbon> <people.person.gender> "Male" .
+<Author> <rdf-schema#domain> "Quotation" .
+<Tacitus> <influence.influence_node.influenced_by> "Cicero" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced> "Louis Althusser" .
+<Livy> <freebase.valuenotation.has_value> "Cause of death" .
+<Allan_Bloom> <people.person.profession> "Philosopher" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Philip Pettit" .
+<Baruch_Spinoza> <influence.influence_node.influenced> "Louis Althusser" .
+<Author> <owl#inverseOf> "Quotations" .
+<Baruch_Spinoza> <influence.influence_node.influenced> "Leo Strauss" .
+<Politician> <freebase.equivalent_topic.equivalent_type> "Politician" .
+<Jean-Jacques_Rousseau> <people.person.profession> "Philosopher" .
+<The_First_Decade> <book.written_work.author> "Niccolò Machiavelli" .
+<Symptom> <freebase.type_profile.kind> "Definition" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Antonio_Negri> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Benedetto_Croce> <people.person.profession> "Philosopher" .
+<Carl_Schmitt> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Tacitus> <common.topic.notable_types> "Politician" .
+<Dante_Alighieri> <freebase.valuenotation.has_value> "Education" .
+<Niccolò_Machiavelli> <freebase.valuenotation.is_reviewed> "Parents" .
+<Macchiavelli_then_witnessed_the_fall_of_Borgia,_who_now_lacked_Papal_support,__and_his_admiration_for_Cesare_slowly_turned_to_contempt.> <base.kwebbase.kwsentence.previous_sentence> "After Borgia's father, Pope Alexander VI, died in 1503, Macchiavelli was sent to Rome to meet the new Pope Julius II ." .
+<Tacitus> <influence.influence_node.influenced> "Giambattista Vico" .
+<Leonardo_da_Vinci> <base.kwebbase.kwtopic.connections_to> "niccolo machiavelli involved with project of leonardo da vinci" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Hannah Arendt" .
+<Alexandre_Kojève> <influence.influence_node.influenced> "Leo Strauss" .
+<Quotation> <type.type.properties> "Date" .
+<Denis_Diderot> <people.person.profession> "Writer" .
+<Leo_Strauss> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Quotation> <type.type.properties> "QuotationsBook ID" .
+<Alexandre_Kojève> <influence.influence_node.influenced> "Allan Bloom" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "In 1504 Macchiavelli wrote the poem \'Annals of Italy\' and a play based on Aristophanes satirizing various leading religious and political figures." .
+<Baruch_Spinoza> <influence.influence_node.influenced_by> "Francis Bacon" .
+<Guido_Machiavelli> <freebase.valuenotation.has_value> "Place of birth" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Guilio_became_Pope_Clement_VII_in_1523_and_Macchiavelli_was_back_in_power.> <base.kwebbase.kwsentence.next_sentence> "In 1526, he was appointed secretary of a committee set up to oversee the fortifications of Florence being undertaken by Pietro Navarra, a famous military engineer and Spanish refugee." .
+<Plato> <people.person.profession> "Writer" .
+<Niccolò_Machiavelli> <common.topic.article> "m.05cw2" .
+<m.03pgb55> <people.place_lived.location> "Florence" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Parents" .
+<Edward_Gibbon> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <book.book_subject.works> "Machiavelli's Virtue" .
+<Friedrich_Nietzsche> <influence.influence_node.influenced_by> "Aristotle" .
+<Men_are_more_apt_to_be_mistaken_in_their_generalizations_than_in_their_particular_observations.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<The_Prince> <book.written_work.author> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "In 1527, Rome was sacked, Florence captured and the Medicis driven out of power." .
+<Machiavellianism> <symbols.namesake.named_after> "Niccolò Machiavelli" .
+<Giambattista_Vico> <people.person.gender> "Male" .
+<Thomas_Hobbes> <influence.influence_node.influenced_by> "Aristotle" .
+<House_of_Leaves> <book.written_work.subjects> "Fear" .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced_by> "Thomas Hobbes" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Niccolò_Machiavelli> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Portrait_of_the_affairs_of_France> <book.written_work.author> "Niccolò Machiavelli" .
+<Plato> <people.person.gender> "Male" .
+<Hannah_Arendt> <influence.influence_node.influenced> "Quentin Skinner" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Vilfredo Pareto" .
+<Hannah_Arendt> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Niccolò_Machiavelli> <people.person.place_of_birth> "Florence" .
+<Niccolò_Machiavelli> <book.author.works_written> "The Golden Ass" .
+<Niccolò_Machiavelli> <people.person.quotations> "Princes and governments are far more dangerous than other elements within society." .
+<Carl_Schmitt> <influence.influence_node.influenced> "Alexandre Kojève" .
+<Fear> <base.ontologies.ontology_instance.equivalent_instances> "m.07nf0xw" .
+<Bernardo_Machiavelli> <freebase.valuenotation.has_value> "Date of birth" .
+<Because_just_as_good_morals,_if_they_are_to_be_maintained,_have_need_of_the_laws,_so_the_laws,_if_they_are_to_be_observed,_have_need_of_good_morals.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Fear> <common.topic.article> "m.02xrr" .
+<The_Art_of_War> <media_common.dedicated_work.dedication> "m.0c1nbsh" .
+<Carl_Schmitt> <common.topic.notable_types> "Politician" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<niccolo_machiavelli_adviser_to_cesare_borgia> <base.kwebbase.kwconnection.sentence> "Cesare Borgia had embarked on a military campaign to grab as much of the Romagna area as he could,  in order to form his own state in the center of Italy." .
+<I_consider_it_a_mark_of_great_prudence_in_a_man_to_abstain_from_threats_or_any_contemptuous_expressions,_for_neither_of_these_weaken_the_enemy,_but_threats_make_him_more_cautious,_and_the_other_excites_his_hatred,_and_a_desire_to_revenge_himself.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Aristotle> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "When he returned to Florence, he was sure that they would be drawn into any conflict between the Pope and the French king and did everything he could to strengthen the militia." .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Denis Diderot" .
+<Louis_Althusser> <influence.influence_node.influenced_by> "Georg Wilhelm Friedrich Hegel" .
+<Ernesto_Laclau> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Denis_Diderot> <people.person.profession> "Philosopher" .
+<Guido_Machiavelli> <people.person.parents> "Niccolò Machiavelli" .
+<Denis_Diderot> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Primerana_Machiavelli> <people.person.parents> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Macchiavelli's father, a doctor of law, was an undischarged bankrupt, so Macchiavelli was largely self-taught with occasional help from tutors." .
+<Pope_Julius_II_then_demanded_that_the_Florentines_join_the_League_against_France_but_they_refused.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Adam_Mickiewicz> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Philip_Pettit> <people.person.gender> "Male" .
+<Adam_Mickiewicz> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Piero_Machiavelli> <freebase.valuenotation.has_value> "Place of birth" .
+<Isaiah_Berlin> <people.person.profession> "Writer" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <people.person.places_lived> "m.03pgb55" .
+<In_1505,_when_he_succeeded_in_getting_a_law_passed_to_establish_a_militia,_the_Florentine_Republic's_territory_was_divided_up_into_districts,__levies_were_set,_and_Macchiavelli_was_made_Secretary_of_the_Council_with_authority_over_the_militia.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Politician> <freebase.type_hints.included_types> "Topic" .
+<Niccolò_Machiavelli> <people.person.quotations> "The one who adapts his policy to the times prospers, and likewise that the one whose policy clashes with the demands of the times does not." .
+<Leonardo_da_Vinci> <freebase.valuenotation.is_reviewed> "Gender" .
+<Niccolò_Machiavelli> <people.person.quotations> "Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration." .
+<Tacitus> <people.person.profession> "Historian" .
+<Men_in_general_judge_more_from_appearances_than_from_reality._All_men_have_eyes,_but_few_have_the_gift_of_penetration.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Princes_and_governments_are_far_more_dangerous_than_other_elements_within_society.> <common.topic.notable_types> "Quotation" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Georg_Wilhelm_Friedrich_Hegel> <influence.influence_node.influenced_by> "Baruch Spinoza" .
+<Michael_Walzer> <people.person.profession> "Philosopher" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "He was also made Secretary to the Magistracy, which was responsible for foreign affairs and defence." .
+<Niccolò_Machiavelli> <people.person.religion> "Catholicism" .
+<Allan_Bloom> <influence.influence_node.influenced_by> "Aristotle" .
+<Harvey_Mansfield> <influence.influence_node.influenced_by> "Leo Strauss" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<When_he_returned_to_Florence,_he_was_sure_that_they_would_be_drawn_into_any_conflict_between_the_Pope_and_the_French_king_and_did_everything_he_could_to_strengthen_the_militia.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<The_wish_to_acquire_more_is_admittedly_a_very_natural_and_common_thing;_and_when_men_succeed_in_this_they_are_always_praised_rather_than_condemned._But_when_they_lack_the_ability_to_do_so_and_yet_want_to_acquire_more_at_all_costs,_they_deserve_condemnation_for_their_mistakes.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Bartolommea_di_Stefano_Nelli> <freebase.valuenotation.has_value> "Parents" .
+<Lodovico_Machiavelli> <freebase.valuenotation.has_value> "Country of nationality" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Guilio became Pope Clement VII in 1523 and Macchiavelli was back in power." .
+<Francis_Bacon> <influence.influence_node.influenced> "Baruch Spinoza" .
+<He_was_so_impressed_he_wrote_an_account_titled:_\"On_the_Manner_Adopted_by_the_Duke._to_Kill_Vitellozzo\".> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Chancery_employees_were_often_sent_abroad_on_missions_thought_to_be_too_sensitive_for_ordinary_ambassadors_and,_in_1500,_he_went_to_the_French_to_encourage_them_to_honor_their_agreement_to_help_Florence_regain_Pisa.> <base.kwebbase.kwsentence.previous_sentence> "He was also made Secretary to the Magistracy, which was responsible for foreign affairs and defence." .
+<Macchiavelli's_father,_a_doctor_of_law,_was_an_undischarged_bankrupt,_so_Macchiavelli_was_largely_self-taught_with_occasional_help_from_tutors.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<He_was_involved_with_a_project_by_Da_Vinci.> <base.kwebbase.kwsentence.contains_connections> "niccolo machiavelli involved with project of leonardo da vinci" .
+<Quotation> <type.type.expected_by> "Zitat" .
+<Quotation> <freebase.type_profile.strict_included_types> "Inanimate" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Niccolò_Machiavelli> <book.author.works_written> "Belfagor arcidiavolo" .
+<m.0nhnvrk> <people.sibling_relationship.sibling> "Niccolò Machiavelli" .
+<Quotation> <type.type.expected_by> "Quotations" .
+<The_team_included_Macchiavelli,_who_managed_to_keep_discussions_going_until_French_troops_arrived_in_the_Republic.> <base.kwebbase.kwsentence.next_sentence> "Macchiavelli found Borgia to be the ultimate bold, energetic and respected leader of his soldiers, characteristics which Macchiavelli later described in his book on statecraft:  \'The Prince\'." .
+<Baccina_Machiavelli> <freebase.valuenotation.has_value> "Date of birth" .
+<Ernesto_Laclau> <influence.influence_node.influenced_by> "Antonio Gramsci" .
+<Niccolò_Machiavelli> <book.author.works_written> "Frammenti storici" .
+<leonardo_da_vinci_involved_with_niccolo_machiavelli> <base.kwebbase.kwconnection.other> "Niccolò Machiavelli" .
+<Hannah_Arendt> <influence.influence_node.influenced_by> "Aristotle" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Fear> <book.book_subject.works> "How Poets and Words Burn Truth into Love" .
+<Quotation> <type.type.expected_by> "Quotations" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Ion_Luca_Caragiale> <freebase.valuenotation.has_value> "Height" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Florentine_Histories> <book.written_work.author> "Niccolò Machiavelli" .
+<Isaiah_Berlin> <people.person.profession> "Philosopher" .
+<Friedrich_Nietzsche> <influence.influence_node.influenced_by> "Jean-Jacques Rousseau" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "He was obviously a good learner because, in 1498, at the age of twenty-nine, he was given the key government post of Head of the Second Chancery, dealing with government affairs in the Republic of Florence." .
+<Portrait_of_the_affairs_of_Germany> <book.written_work.author> "Niccolò Machiavelli" .
+<It_is_better_to_be_feared_than_loved,_if_you_cannot_be_both.> <common.topic.notable_for> "g.1255jhzkt" .
+<Of_mankind_we_may_say_in_general_they_are_fickle,_hypocritical,_and_greedy_of_gain.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Michael_Walzer> <freebase.valuenotation.is_reviewed> "Gender" .
+<Lodovico_Machiavelli> <freebase.valuenotation.has_value> "Place of death" .
+<Lodovico_Machiavelli> <freebase.valuenotation.has_value> "Date of death" .
+<Leo_Strauss> <influence.influence_node.influenced_by> "Friedrich Nietzsche" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Niccolò_Machiavelli> <people.person.sibling_s> "m.0nhnvrk" .
+<Discourse_on_Reforming_the_Government_of_Florence> <book.written_work.author> "Niccolò Machiavelli" .
+<Allan_Bloom> <influence.influence_node.influenced_by> "Jean-Jacques Rousseau" .
+<Ernesto_Laclau> <people.person.gender> "Male" .
+<Leo_Strauss> <influence.influence_node.influenced_by> "Alexandre Kojève" .
+<Men_are_more_apt_to_be_mistaken_in_their_generalizations_than_in_their_particular_observations.> <common.topic.notable_types> "Quotation" .
+<Fear> <common.topic.image> "Scared Child at Nighttime" .
+<Men_in_general_judge_more_by_the_sense_of_sight_than_by_the_sense_of_touch,_because_everyone_can_see,_but_only_a_few_can_test_by_feeling._Everyone_sees_what_you_seem_to_be,_few_know_what_you_really_are,_and_those_few_do_not_dare_take_a_stand_against_the_general_opinion.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<There_is_nothing_more_difficult_to_take_in_hand,_more_perilous_to_conduct,_or_more_uncertain_in_its_success_than_to_take_the_lead_in_the_introduction_of_a_new_order_of_things.> <common.topic.notable_types> "Quotation" .
+<The_main_foundations_of_every_state,_new_states_as_well_as_ancient_or_composite_ones,_are_good_laws_and_good_arms_you_cannot_have_good_laws_without_good_arms,_and_where_there_are_good_arms,_good_laws_inevitably_follow.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Benedetto_Croce> <influence.influence_node.influenced_by> "Georg Wilhelm Friedrich Hegel" .
+<Adam_Mickiewicz> <freebase.valuenotation.is_reviewed> "Place of death" .
+<After_Borgia's_father,_Pope_Alexander_VI,_died_in_1503,_Macchiavelli_was_sent_to_Rome_to_meet_the_new_Pope_Julius_II_.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Hannah_Arendt> <influence.influence_node.influenced_by> "Plato" .
+<Philip_Pettit> <kp_lw.philosopher.influenced_by> "Cicero" .
+<Niccolò_Machiavelli> <people.person.nationality> "Italy" .
+<Quotation> <type.type.expected_by> "Quotations" .
+<Antonio_Gramsci> <influence.influence_node.influenced_by> "Giambattista Vico" .
+<Fortune_is_a_River:_Leonardo_Da_Vinci_and_Niccolo_Machiavelli's_Magnificent_Dream_to_Change_the_Course_of_Florentine_History> <book.written_work.subjects> "Niccolò Machiavelli" .
+<Macchiavelli_found_Borgia_to_be_the_ultimate_bold,_energetic_and_respected_leader_of_his_soldiers,_characteristics_which_Macchiavelli_later_described_in_his_book_on_statecraft:__\"The_Prince\".> <base.kwebbase.kwsentence.previous_sentence> "The team included Macchiavelli, who managed to keep discussions going until French troops arrived in the Republic." .
+<niccolo_machiavelli_influenced_gabriel_naude> <base.kwebbase.kwconnection.sentence> "He influenced Naude." .
+<Chancery_employees_were_often_sent_abroad_on_missions_thought_to_be_too_sensitive_for_ordinary_ambassadors_and,_in_1500,_he_went_to_the_French_to_encourage_them_to_honor_their_agreement_to_help_Florence_regain_Pisa.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<The_promise_given_was_a_necessity_of_the_past:_the_word_broken_is_a_necessity_of_the_present.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Aristotle> <freebase.valuenotation.has_value> "Height" .
+<Quentin_Skinner> <influence.influence_node.influenced> "Philip Pettit" .
+<Later,_against_the_wishes_of_fellow_members_of_the_Council,_Macchiavelli_mobilized_the_militia_in_a_successful_campaign_against_Pisa_and,_in_1510,_he_went_to_France_again_to_try_to_avert_war_between_France_and_the_Papal_States.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Baccina_Machiavelli> <freebase.valuenotation.has_value> "Place of death" .
+<Benedetto_Croce> <influence.influence_node.influenced_by> "Giambattista Vico" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<He_was_so_impressed_he_wrote_an_account_titled:_\"On_the_Manner_Adopted_by_the_Duke._to_Kill_Vitellozzo\".> <base.kwebbase.kwsentence.previous_sentence> "Macchiavelli had more dealings with Borgia and in 1502, when Borgia tricked his enemies at Senigallia and then had them killed, Macchiavelli recognised the logic of the action and commended Borgia's decisiveness." .
+<He_returned_to_France_in_1511,_in_an_attempt_to_persuade_the_king_to_remove_the_French-supported_council_in_Pisa.> <base.kwebbase.kwsentence.previous_sentence> "When he returned to Florence, he was sure that they would be drawn into any conflict between the Pope and the French king and did everything he could to strengthen the militia." .
+<Baruch_Spinoza> <influence.influence_node.influenced_by> "Plato" .
+<In_France_Macchiavelli_recognized_the_immense_power_that_could_be_wielded_by_a_strong_central_authority.> <base.kwebbase.kwsentence.next_sentence> "Six months later, he returned to an Italy that was in political chaos." .
+<Tacitus> <influence.influence_node.influenced> "Niccolò Machiavelli" .
+<Philip_Pettit> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Louis_Althusser> <influence.influence_node.influenced_by> "Jean-Jacques Rousseau" .
+<Since_it_is_difficult_to_join_them_together,_it_is_safer_to_be_feared_than_to_be_loved_when_one_of_the_two_must_be_lacking.> <common.topic.notable_types> "Quotation" .
+<Raymond_Aron> <influence.influence_node.influenced> "Allan Bloom" .
+<Fear> <common.topic.image> "Michelangelo Caravaggio" .
+<Leonardo_da_Vinci> <people.person.religion> "Catholicism" .
+<Cesare_Borgia_had_embarked_on_a_military_campaign_to_grab_as_much_of_the_Romagna_area_as_he_could,__in_order_to_form_his_own_state_in_the_center_of_Italy.> <base.kwebbase.kwsentence.previous_sentence> "Six months later, he returned to an Italy that was in political chaos." .
+<Thomas_Hobbes> <influence.influence_node.influenced> "Baruch Spinoza" .
+<Niccolò_Machiavelli> <people.person.quotations> "The fact is that a man who wants to act virtuously in every way necessarily comes to grief among so many who are not virtuous." .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Giambattista_Vico> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Cesare Borgia had embarked on a military campaign to grab as much of the Romagna area as he could,  in order to form his own state in the center of Italy." .
+<Cicero> <influence.influence_node.influenced_by> "Aristotle" .
+<Leonardo_da_Vinci> <people.person.nationality> "Republic of Florence" .
+<Stimulated_by_his_research,_in_1513_he_also_wrote_his_most_famous_work,_\"The_Prince,\"_a_book_on_the_principles_of_statecraft.> <base.kwebbase.kwsentence.next_sentence> "He dedicated the book to Lorenzo de'Medici, the ruler of Florence, in an unsuccessful bid to get back into favor." .
+<niccolo_machiavelli_involved_with_project_of_leonardo_da_vinci> <base.kwebbase.kwconnection.other> "Leonardo da Vinci" .
+<It_is_better_to_be_feared_than_loved,_if_you_cannot_be_both.> <media_common.quotation.subjects> "Fear" .
+<In_France_Macchiavelli_recognized_the_immense_power_that_could_be_wielded_by_a_strong_central_authority.> <base.kwebbase.kwsentence.previous_sentence> "Chancery employees were often sent abroad on missions thought to be too sensitive for ordinary ambassadors and, in 1500, he went to the French to encourage them to honor their agreement to help Florence regain Pisa." .
+<Quotation> <type.type.expected_by> "Quotations addressed to this addressee" .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<lorenzo_de'_medici_a_fan_was_niccolo_machiavelli> <base.kwebbase.kwconnection.other> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <people.person.quotations> "One change always leaves the way open for the establishment of others." .
+<Republic_of_Florence> <location.country.capital> "Florence" .
+<Plato> <people.person.profession> "Philosopher" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "John Adams" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "The team included Macchiavelli, who managed to keep discussions going until French troops arrived in the Republic." .
+<Jean-Jacques_Rousseau> <people.person.religion> "Catholicism" .
+<John_Adams> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<He_was_also_made_Secretary_to_the_Magistracy,_which_was_responsible_for_foreign_affairs_and_defence.> <base.kwebbase.kwsentence.next_sentence> "Chancery employees were often sent abroad on missions thought to be too sensitive for ordinary ambassadors and, in 1500, he went to the French to encourage them to honor their agreement to help Florence regain Pisa." .
+<Leo_Strauss> <influence.influence_node.influenced> "Harvey Mansfield" .
+<Aristotle> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0c1nbsh> <media_common.dedication.dedicated_by> "Niccolò Machiavelli" .
+<Since_it_is_difficult_to_join_them_together,_it_is_safer_to_be_feared_than_to_be_loved_when_one_of_the_two_must_be_lacking.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Livy> <people.person.gender> "Male" .
+<John_Adams> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Giambattista Vico" .
+<The_following_year,_he_was_imprisoned_and_tortured_for_plotting_to_overthrow_the_Medicis_but_he_was_eventually_released.> <base.kwebbase.kwsentence.next_sentence> "He retired to a small property at Sant'Andrea in Percussina outside Florence and began writing his \'Discourses on the First Ten Books of Livy\', a treatise on Republics." .
+<Baccina_Machiavelli> <freebase.valuenotation.has_value> "Place of birth" .
+<Florence> <base.biblioness.bibs_location.country> "Italy" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "The following year, he was imprisoned and tortured for plotting to overthrow the Medicis but he was eventually released." .
+<Kenneth_Waltz> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Francis_Bacon> <influence.influence_node.influenced> "Giambattista Vico" .
+<Philip_Pettit> <influence.influence_node.influenced_by> "Hannah Arendt" .
+<Carl_Schmitt> <influence.influence_node.influenced_by> "Leo Strauss" .
+<Isaiah_Berlin> <people.person.gender> "Male" .
+<Macchiavelli_found_Borgia_to_be_the_ultimate_bold,_energetic_and_respected_leader_of_his_soldiers,_characteristics_which_Macchiavelli_later_described_in_his_book_on_statecraft:__\"The_Prince\".> <base.kwebbase.kwsentence.next_sentence> "Macchiavelli had more dealings with Borgia and in 1502, when Borgia tricked his enemies at Senigallia and then had them killed, Macchiavelli recognised the logic of the action and commended Borgia's decisiveness." .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "The Florentines,  feeling themselves threatened sent a group for talks with Boria." .
+<Christopher_Marlowe> <people.person.profession> "Writer" .
+<Dante_Alighieri> <freebase.valuenotation.is_reviewed> "Parents" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Denis_Diderot> <influence.influence_node.influenced_by> "Baruch Spinoza" .
+<Niccolò_Machiavelli> <people.person.quotations> "There is no avoiding war; it can only be postponed to the advantage of others." .
+<Allan_Bloom> <influence.influence_node.influenced_by> "Plato" .
+<Bartolommea_di_Stefano_Nelli> <people.person.children> "Niccolò Machiavelli" .
+<Herbert_Marcuse> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Plato> <freebase.valuenotation.has_value> "Education" .
+<Antonio_Negri> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Macchiavelli_then_witnessed_the_fall_of_Borgia,_who_now_lacked_Papal_support,__and_his_admiration_for_Cesare_slowly_turned_to_contempt.> <base.kwebbase.kwsentence.next_sentence> "Despite this, he was impressed by the loyalty of Borgia's soldiers, contrasted with the mutiny of the Swiss mercenaries Florence had employed at Pisa." .
+<Quotation> <freebase.type_profile.kind> "Definition" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Kenneth Waltz" .
+<Benedetto_Croce> <influence.influence_node.influenced> "Antonio Gramsci" .
+<Francis_Bacon> <influence.influence_node.influenced_by> "Cicero" .
+<Bernardo_Machiavelli> <freebase.valuenotation.has_value> "Date of death" .
+<Fear> <book.book_subject.works> "Just After Sunset" .
+<Denis_Diderot> <influence.influence_node.influenced> "Jean-Jacques Rousseau" .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Piero_Machiavelli> <freebase.valuenotation.has_value> "Date of birth" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.connections_from> "niccolo machiavelli adviser to cesare borgia" .
+<m.0k2xms2> <people.marriage.spouse> "Niccolò Machiavelli" .
+<Friedrich_Nietzsche> <influence.influence_node.influenced_by> "Plato" .
+<The_Prince> <book.book.editions> "The Prince" .
+<Niccolò_Machiavelli> <people.person.quotations> "Where the willingness is great, the difficulties cannot be great." .
+<Cicero> <influence.influence_node.influenced> "Philip Pettit" .
+<Thomas_Schelling> <freebase.valuenotation.is_reviewed> "Gender" .
+<Alexandre_Kojève> <influence.influence_node.influenced_by> "Aristotle" .
+<Hannah_Arendt> <influence.influence_node.influenced_by> "Carl Schmitt" .
+<Hannah_Arendt> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Giambattista_Vico> <influence.influence_node.influenced_by> "Dante Alighieri" .
+<Ion_Luca_Caragiale> <people.person.profession> "Writer" .
+<He_returned_to_France_in_1511,_in_an_attempt_to_persuade_the_king_to_remove_the_French-supported_council_in_Pisa.> <base.kwebbase.kwsentence.next_sentence> "Returning to Italy, Macchiavelli himself removed the council." .
+<Edward_Gibbon> <people.person.profession> "Historian" .
+<When_he_returned_to_Florence,_he_was_sure_that_they_would_be_drawn_into_any_conflict_between_the_Pope_and_the_French_king_and_did_everything_he_could_to_strengthen_the_militia.> <base.kwebbase.kwsentence.previous_sentence> "Later, against the wishes of fellow members of the Council, Macchiavelli mobilized the militia in a successful campaign against Pisa and, in 1510, he went to France again to try to avert war between France and the Papal States." .
+<The_Prince> <book.book_edition.author_editor> "Niccolò Machiavelli" .
+<Georg_Wilhelm_Friedrich_Hegel> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Italy was at war with the forces of the Holy Roman Emperor and Macchiavelli was in service with the Italian army." .
+<Jean-Jacques_Rousseau> <influence.influence_node.influenced_by> "Baruch Spinoza" .
+<Niccolò_Machiavelli> <book.author.works_written> "The Mandrake" .
+<Georg_Wilhelm_Friedrich_Hegel> <influence.influence_node.influenced_by> "Aristotle" .
+<Niccolò_Machiavelli> <people.person.gender> "Male" .
+<Fear> <common.topic.webpage> "m.09ymn7c" .
+<Giambattista_Vico> <influence.influence_node.influenced> "Isaiah Berlin" .
+<Benedetto_Croce> <influence.influence_node.influenced_by> "Jean-Jacques Rousseau" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Carl Schmitt" .
+<Portrait_of_NiccolÃ²_Machiavelli_by_Santi_di_Tito> <common.image.appears_in_topic_gallery> "Niccolò Machiavelli" .
+<Italy_was_at_war_with_the_forces_of_the_Holy_Roman_Emperor_and_Macchiavelli_was_in_service_with_the_Italian_army.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Bernardo_di_Niccolò_Machiavelli> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced_by> "Plato" .
+<He_then_wrote_\"The_Mandrake\"_in_1518,_a_dark_satire_on_the_corruption_of_the_clergy_and_the_evil_in_men_In_1520,_he_took_a_job_as_official_historian_of_the_Republic_at_the_University_of_Florence_and_wrote_to_Pope_Leo_X,_advising_him_to_restore_the_Republic's_freedom.> <base.kwebbase.kwsentence.next_sentence> "The Pope died in 1521, before he could reply,  but Giulio de'Medici asked for advice and Macchiavelli sent him a revised version of the letter." .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "In 1505, when he succeeded in getting a law passed to establish a militia, the Florentine Republic's territory was divided up into districts,  levies were set, and Macchiavelli was made Secretary of the Council with authority over the militia." .
+<Bernardo_Machiavelli> <freebase.valuenotation.has_value> "Cause of death" .
+<Antonio_Gramsci> <people.person.gender> "Male" .
+<Thomas_Schelling> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Macchiavelli then witnessed the fall of Borgia, who now lacked Papal support,  and his admiration for Cesare slowly turned to contempt." .
+<giovanni_giorgio_trissino_knew_niccolo_machiavelli> <base.kwebbase.kwconnection.other> "Niccolò Machiavelli" .
+<Cicero> <influence.influence_node.influenced> "Giambattista Vico" .
+<Antonio_Gramsci> <influence.influence_node.influenced_by> "Georg Wilhelm Friedrich Hegel" .
+<Desiderius_Erasmus> <influence.influence_node.influenced> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <book.author.works_written> "Portrait of the affairs of Germany" .
+<One_change_always_leaves_the_way_open_for_the_establishment_of_others.> <media_common.quotation.author> "Niccolò Machiavelli" .
+<Guido_Machiavelli> <freebase.valuenotation.has_value> "Date of birth" .
+<Baruch_Spinoza> <influence.influence_node.influenced> "Jean-Jacques Rousseau" .
+<Aristotle> <people.person.profession> "Philosopher" .
+<Leonardo_da_Vinci> <influence.influence_node.influenced> "Niccolò Machiavelli" .
+<Because_of_his_past_loyalties,_Macchiavelli_was_given_no_position_by_the_new_rulers_and_he_died,_in_Florence,_in_the_same_year.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Symptom> <freebase.type_hints.included_types> "Topic" .
+<Primerana_Machiavelli> <freebase.valuenotation.has_value> "Place of death" .
+<Friedrich_Nietzsche> <people.person.profession> "Philosopher" .
+<Niccolò_Machiavelli> <people.person.quotations> "Tardiness often robs us opportunity, and the dispatch of our forces." .
+<The_Prince> <book.book_edition.book> "The Prince" .
+<Niccolò_Machiavelli> <book.author.book_editions_published> "The Prince" .
+<Quotation> <type.type.expected_by> "Motto" .
+<He_influenced_Naude.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Plato> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Dante_Alighieri> <people.person.place_of_birth> "Florence" .
+<Niccolò_Machiavelli> <people.person.quotations> "A wise man will see to it that his acts always seem voluntary and not done by compulsion, however much he may be compelled by necessity." .
+<David_Hume> <people.person.profession> "Historian" .
+<The_Mandrake> <media_common.adapted_work.adaptations> "The Mandrake Root" .
+<The_Mandrake_Root> <media_common.adaptation.adapted_from> "The Mandrake" .
+<Isaiah_Berlin> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Kenneth_Waltz> <people.person.profession> "Philosopher" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Ernesto_Laclau> <freebase.valuenotation.is_reviewed> "Gender" .
+<Benedetto_Croce> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Harvey_Mansfield> <freebase.valuenotation.is_reviewed> "Gender" .
+<Cicero> <people.person.profession> "Writer" .
+<States_that_rise_quickly,_just_as_all_the_other_things_of_nature_that_are_born_and_grow_rapidly,_cannot_have_roots_and_ramifications;_the_first_bad_weather_kills_them.> <common.topic.notable_types> "Quotation" .
+<David_Hume> <influence.influence_node.influenced_by> "Cicero" .
+<Benefits_should_be_conferred_gradually;_and_in_that_way_they_will_taste_better.> <common.topic.notable_types> "Quotation" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.has_sentences> "Macchiavelli was dismissed from his job." .
+<David_Hume> <influence.influence_node.influenced> "Isaiah Berlin" .
+<Livy> <people.person.profession> "Writer" .
+<Piero_Machiavelli> <freebase.valuenotation.has_value> "Cause of death" .
+<Herbert_Marcuse> <influence.influence_node.influenced_by> "Friedrich Nietzsche" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced_by> "Thucydides" .
+<Where_the_willingness_is_great,_the_difficulties_cannot_be_great.> <common.topic.notable_types> "Quotation" .
+<Quotation> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<Louis_Althusser> <influence.influence_node.influenced> "Antonio Negri" .
+<Niccolò_Machiavelli> <book.author.works_written> "The works of the famous Nicolas Machiavel" .
+<Niccolò_Machiavelli> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Jean-Jacques_Rousseau> <people.person.gender> "Male" .
+<Niccolò_Machiavelli> <base.kwebbase.kwtopic.connections_to> "cesare borgia opposed successfully by niccolo machiavelli" .
+<Fear> <tv.tv_subject.tv_episodes> "Pastor and Author - Thad Carter - New Book \'Jesus and Fear\'" .
+<Symptom> <freebase.type_profile.published> "Published" .
+<Niccolò_Machiavelli> <book.author.works_written> "Andria" .
+<Ernesto_Laclau> <influence.influence_node.influenced_by> "Thomas Hobbes" .
+<Niccolò_Machiavelli> <people.person.sibling_s> "m.0w17g3f" .
+<Allan_Bloom> <influence.influence_node.influenced_by> "Leo Strauss" .
+<The_wish_to_acquire_more_is_admittedly_a_very_natural_and_common_thing;_and_when_men_succeed_in_this_they_are_always_praised_rather_than_condemned._But_when_they_lack_the_ability_to_do_so_and_yet_want_to_acquire_more_at_all_costs,_they_deserve_condemnation_for_their_mistakes.> <common.topic.notable_types> "Quotation" .
+<Returning_to_Italy,_Macchiavelli_himself_removed_the_council.> <base.kwebbase.kwsentence.previous_sentence> "He returned to France in 1511, in an attempt to persuade the king to remove the French-supported council in Pisa." .
+<After_Borgia's_father,_Pope_Alexander_VI,_died_in_1503,_Macchiavelli_was_sent_to_Rome_to_meet_the_new_Pope_Julius_II_.> <base.kwebbase.kwsentence.next_sentence> "Macchiavelli then witnessed the fall of Borgia, who now lacked Papal support,  and his admiration for Cesare slowly turned to contempt." .
+<Quentin_Skinner> <influence.influence_node.influenced_by> "Niccolò Machiavelli" .
+<Niccolò_Machiavelli> <book.book_subject.works> "Fortune is a River: Leonardo Da Vinci and Niccolo Machiavelli's Magnificent Dream to Change the Course of Florentine History" .
+<m.09y7ct1> <common.webpage.topic> "Fear" .
+<Macchiavelli_then_witnessed_the_fall_of_Borgia,_who_now_lacked_Papal_support,__and_his_admiration_for_Cesare_slowly_turned_to_contempt.> <base.kwebbase.kwsentence.kwtopic> "Niccolò Machiavelli" .
+<Antonio_Negri> <people.person.nationality> "Italy" .
+<Author> <type.property.reverse_property> "Quotations" .
+<There_are_three_kinds_of_intelligence:_one_kind_understands_things_for_itself,_the_other_appreciates_what_others_can_understand,_the_third_understands_neither_for_itself_nor_through_others._This_first_kind_is_excellent,_the_second_good,_and_the_third_kind_useless.> <common.topic.notable_types> "Quotation" .
+<Politician> <freebase.type_profile.published> "Published" .
+<Niccolò_Machiavelli> <influence.influence_node.influenced> "Christopher Marlowe" .

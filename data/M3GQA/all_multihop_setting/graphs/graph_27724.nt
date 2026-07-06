@@ -1,0 +1,2604 @@
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc37x3y" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4zjfj" .
+<1900_Summer_Olympics> <olympics.olympic_games.participating_countries> "Belgium" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3s6ql" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4d1" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.12460zfpc" .
+<Albert_II_of_Belgium> <people.person.parents> "Leopold III of Belgium" .
+<Belgium> <organization.organization_member.member_of> "m.04dds82" .
+<m.04c6shz> <location.imports_and_exports.exported_to> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460tbl2" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4ppbw" .
+<Spiritual_Exercises:_10_Films_by_Olivier_Smolders> <film.film.language> "French" .
+<Luke_and_Lucy:_The_Texas_Rangers> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmmn" .
+<m.05nq7fr> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <location.location.events> "Battle of Pilckem Ridge" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc403qn" .
+<Third_level_divisions> <type.property.schema> "Country" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc50pk6" .
+<m.04yw370> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4cbmh" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3v5rf" .
+<Arrondissement_of_Dendermonde> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc4yx2w" .
+<Triple_Entente> <military.military_combatant.includes_allies> "Belgium" .
+<Sauer> <geography.river.basin_countries> "Belgium" .
+<Antwerp> <base.aareas.schema.administrative_area.administrative_parent> "Flemish Region" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wy6" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsdl1" .
+<Dirty_Mind> <film.film.language> "Dutch Language" .
+<The_Devil's_Double> <film.film.country> "Belgium" .
+<Battle_of_France> <military.military_conflict.commanders> "m.048z_mf" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4nfwq" .
+<m.04dj53f> <organization.organization_membership.member> "Belgium" .
+<Scales_of_Gold> <book.written_work.subjects> "Belgium" .
+<A_Soldier_of_the_71st> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4rrvz" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc390vg" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc3f_7q" .
+<Wallonia> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian region" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4bps7" .
+<Battle_of_the_Yser> <military.military_conflict.combatants> "m.04fvncw" .
+<Tervuren> <biology.animal_breed.place_of_origin> "Belgium" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc43hv9" .
+<Fourth_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Belgium> <location.statistical_region.diesel_price_liter> "g.12cp_kgfv" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4n75s" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3n_2c" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn7l" .
+<Country> <freebase.type_profile.published> "Published" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245zn3w0" .
+<Flemish_Region> <base.aareas.schema.administrative_area.administrative_children> "West Flanders" .
+<Senate> <government.governmental_body.body_this_is_a_component_of> "Belgian Federal Parliament" .
+<m.0wkt1wl> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<m.04fvnbt> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.0gkjnx1" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4ts6n" .
+<m.03w602d> <organization.organization_membership.member> "Belgium" .
+<Third_level_division_of> <rdf-schema#range> "Country" .
+<Financial_Services_and_Markets_Authority> <government.government_agency.jurisdiction> "Belgium" .
+<Our> <geography.river.mouth> "Sauer" .
+<Belgium> <media_common.netflix_genre.titles> "The Curiosity of Chance" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsrk0" .
+<Arrondissement_of_Dendermonde> <location.administrative_division.second_level_division_of> "Belgium" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc3hg58" .
+<Belgium> <location.location.events> "German invasion of Belgium" .
+<Yser> <location.location.containedby> "Europe" .
+<City_of_Brussels> <periodicals.newspaper_circulation_area.newspapers> "Metro" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc4f7qc" .
+<Arrondissement_of_Tournai> <location.location.time_zones> "Central European Time Zone" .
+<West_Flanders> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian province" .
+<Flemish_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian region" .
+<Second_level_division_of> <type.property.master_property> "Second level divisions" .
+<Belgium> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3wv8r" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wzt" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.0w8p9dq" .
+<m.0hzxw0n> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4bxzp" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc492_n" .
+<United_Nations> <organization.organization.founders> "Belgium" .
+<Belgium> <location.statistical_region.time_required_to_start_a_business> "g.11b6p03l7_" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc43__y" .
+<Belgium> <base.aareas.schema.administrative_area.administrative_parent> "Earth" .
+<Belgium> <location.statistical_region.net_migration> "g.1q5k22m53" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.12tb6h52t" .
+<m.04p5pd3> <military.military_combatant_group.combatants> "Belgium" .
+<Trait_du_Nord> <biology.animal_breed.place_of_origin> "Belgium" .
+<Missing_Link> <film.film.language> "Dutch Language" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zpms3" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc4zfj1" .
+<Baudouin_of_Belgium> <people.person.nationality> "Belgium" .
+<Belgium> <olympics.olympic_participating_country.olympics_participated_in> "1980 Winter Olympics" .
+<Belgium> <location.country.official_language> "German Language" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc44j_s" .
+<Arrondissement_of_Neufchâteau,_Belgium> <location.administrative_division.second_level_division_of> "Belgium" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.1245_mkp0" .
+<My_Queen_Karo> <film.film.language> "French" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc51_f9" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsdyn" .
+<Leie> <geography.river.mouth> "Scheldt" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.1245_wmn5" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrz58" .
+<Belgian_province> <base.aareas.schema.administrative_area_type.pertains_to> "Belgium" .
+<m.03z967f> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wy_" .
+<Belgium> <media_common.netflix_genre.titles> "Ex Drummer" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4n7c1" .
+<Crazy_Love> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3hn" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsrh7" .
+<m.04g9ysp> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4g943" .
+<1052_Belgica> <symbols.namesake.named_after> "Belgium" .
+<Arrondissement_of_Huy> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsgk9" .
+<Belgium> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc4mh6_" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.010gg1t2" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3pyhn" .
+<Prime_Minister_of_Belgium> <government.government_office_or_title.office_holders> "m.0df84j2" .
+<Administrative_Division> <type.type.expected_by> "Administrative Divisions" .
+<Belgium> <location.location.events> "2005 NATO Headquarters summit" .
+<Lady_Chatterley> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Belgian Shepherd" .
+<Third_level_divisions> <rdf-schema#domain> "Country" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245z7hrp" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12461b1ps" .
+<Belgian_Blue> <biology.animal_breed.place_of_origin> "Belgium" .
+<First_level_division_of> <rdf-schema#range> "Country" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc38hnc" .
+<Chamber_of_Representatives> <government.governmental_body.jurisdiction> "Belgium" .
+<French> <language.human_language.region> "Europe" .
+<White_Snow> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Liège> <location.location.containedby> "Wallonia" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrx94" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc3glml" .
+<Arrondissement_of_Hasselt> <location.administrative_division.second_level_division_of> "Belgium" .
+<m.0hzxw2b> <measurement_unit.recurring_money_value.currency> "Euro" .
+<m.048z_mf> <military.military_command.military_commander> "Leopold III of Belgium" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.1245yxxz9" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Barbu de Watermael" .
+<Belgium> <location.country.official_language> "French" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245z_1zj" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wxw" .
+<Oise> <geography.river.basin_countries> "Belgium" .
+<Belgium> <location.location.partially_contains> "Meuse" .
+<Arrondissement_of_Bastogne> <location.administrative_division.second_level_division_of> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "Spiritual Exercises: 10 Films by Olivier Smolders" .
+<Steve_+_Sky> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460pbl1" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245yv023" .
+<Belfries_of_Belgium_and_France> <location.location.partially_containedby> "Belgium" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc41klr" .
+<Arrondissement_of_Ath> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wyp" .
+<3_Guys,_1_Girl,_2_Weddings> <media_common.netflix_title.netflix_genres> "Belgium" .
+<m.0hzxw3g> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <book.book_subject.works> "The Allies" .
+<Belgium> <book.book_subject.works> "The Great War Generals on the Western Front, 1914-18" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.124615p8b" .
+<Schipperke> <biology.animal_breed.place_of_origin> "Belgium" .
+<Dutch_Language> <media_common.netflix_genre.titles> "22nd of May" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3mggf" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245_802_" .
+<Calvaire> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsrfr" .
+<Belgium> <military.military_combatant.military_conflicts> "m.05cmcb3" .
+<Mylène_Farmer_en_tournée> <time.event.locations> "Belgium" .
+<Flemish_Region> <location.location.contains> "East Flanders" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245yxj6v" .
+<Sambre> <location.location.containedby> "Europe" .
+<Belgium> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3tp0q" .
+<Luxembourgish_franc> <finance.currency.countries_formerly_used> "Belgium" .
+<Les_Démoniaques> <media_common.netflix_title.netflix_genres> "French" .
+<Private_Lessons> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "g.124614qhp" .
+<A_Town_Called_Panic> <film.film.language> "Dutch Language" .
+<Battle_of_the_Frontiers> <time.event.locations> "Belgium" .
+<m.09sdm4p> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4jxtm" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmr2" .
+<Dutch_Language> <media_common.netflix_genre.titles> "Slaughter Night" .
+<Euregio_Scheldemond> <location.location.partially_containedby> "Belgium" .
+<Belgian_municipality> <freebase.type_hints.included_types> "Location" .
+<Flemish_Brabant> <location.administrative_division.country> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsvk" .
+<Sovereign_state> <freebase.type_hints.included_types> "Location" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrx9n" .
+<Dutch_Language> <language.human_language.region> "Europe" .
+<Flanders_Campaign> <time.event.included_in_event> "War of the First Coalition" .
+<Belgium> <common.topic.article> "m.0154v" .
+<m.04ddtwz> <organization.organization_membership.member> "Belgium" .
+<m.05ckfjn> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc37_k9" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc46rc9" .
+<m.05nnmxx> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4gdtb" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs680" .
+<Belgium> <location.country.languages_spoken> "French" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc44k1l" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4fz_c" .
+<Belgium> <location.location.containedby> "Europe" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc3ltys" .
+<Allied_advance_from_Paris_to_the_Rhine> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4pgl3" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn64_" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4yc2j" .
+<Metro> <book.newspaper.circulation_areas> "Belgium" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4_k2n" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmn4" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.12cp_jzrq" .
+<Country> <owl#inverseOf> "Administrative Divisions" .
+<Belgium> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3y9nz" .
+<Belgian_municipality> <freebase.type_hints.included_types> "Topic" .
+<2012_Festival_Lesbien_Gay_Bi_Trans_de_Belgique> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc5197q" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4r9sy" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245_j1bl" .
+<Country> <type.property.schema> "Administrative Division" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc481pl" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04lkt5r" .
+<m.0jrbymy> <symbols.flag_use.flag_user> "Belgium" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Schipperke" .
+<Brussels> <base.biblioness.bibs_location.country> "Belgium" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs7gl" .
+<Belgium> <location.location.events> "Allied advance from Paris to the Rhine" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.12460g3qp" .
+<Haine> <geography.river.basin_countries> "Belgium" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3lmbt" .
+<Leopold_II_of_Belgium> <people.person.place_of_birth> "Brussels" .
+<Flemish_Region> <location.location.contains> "Limburg" .
+<Belgium> <base.aareas.schema.administrative_area.pertinent_type> "Belgian region" .
+<Belgium> <location.location.adjoin_s> "m.046cvbh" .
+<Blonde_tour> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245zt78k" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc44wms" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4hyz4" .
+<Villa_Des_Roses> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Flemish_Brabant> <location.location.containedby> "Belgium" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.subdivides_place> "Earth" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.12cp_h_8k" .
+<Western_Europe> <location.location.containedby> "Europe" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.11b71v6t7d" .
+<Leie> <location.location.containedby> "Europe" .
+<Belgium> <location.statistical_region.places_imported_from> "m.049375p" .
+<Belgium> <organization.organization_member.member_of> "m.03wm62b" .
+<Belgium> <location.statistical_region.diesel_price_liter> "g.12cp_h_98" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wyc" .
+<Country> <type.type.properties> "Second level divisions" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmrw" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4wh1l" .
+<Dutch_Language> <media_common.netflix_genre.titles> "Ben X" .
+<m.0gvws35> <military.military_combatant_group.combatants> "Belgium" .
+<Administrative_Division> <type.type.expected_by> "City Seat" .
+<Belgium> <location.statistical_region.minimum_wage> "g.12vqj0992" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Kortrijk" .
+<The_Promise> <film.film.language> "French" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw02" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3j5zc" .
+<Antwerp> <common.topic.notable_types> "Administrative Division" .
+<Bichon_Frise> <biology.animal_breed.place_of_origin> "Belgium" .
+<2012_Tour_de_France> <time.event.locations> "Belgium" .
+<Hainaut> <location.location.containedby> "Wallonia" .
+<The_Embrace_of_the_River> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4d8nt" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4_jzq" .
+<Haine> <location.location.partially_contained_by> "m.0wg8wzz" .
+<Belgium> <location.location.events> "Battle of the Bulge" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3fl1s" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3w6mc" .
+<Belgium> <military.military_combatant.military_conflicts> "m.0gvws35" .
+<Les_Démoniaques> <film.film.country> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "Dirty Mind" .
+<Steve_+_Sky> <film.film.country> "Belgium" .
+<Altiplano> <film.film.prequel> "Khadak" .
+<Namur> <location.location.containedby> "Wallonia" .
+<Wallonia> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4bpfx" .
+<Namur> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian province" .
+<Belgium> <location.location.events> "Mylène Farmer en tournée" .
+<Wiltz> <geography.river.basin_countries> "Belgium" .
+<Inde> <geography.river.mouth> "Rur" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrswg" .
+<Belgium> <organization.organization_member.member_of> "m.05988g3" .
+<m.0wkt1wl> <location.partial_containment_relationship.partially_contains> "Jeker" .
+<Belgium> <common.topic.image> "belgium.GIF" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs745" .
+<m.010gg2pp> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<Belgium> <travel.travel_destination.tourist_attractions> "Manneken Pis" .
+<Hundred_Days> <time.event.includes_event> "Battle of Fleurus" .
+<m.0wg8wy6> <location.partial_containment_relationship.partially_contains> "Yser" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3npsp" .
+<Lady_Chatterley> <film.film.country> "Belgium" .
+<Belgium> <base.aareas.schema.administrative_area.administrative_area_type> "Sovereign state" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4rf4s" .
+<Location> <freebase.type_profile.published> "Published" .
+<Wiltz> <geography.river.mouth> "Sauer" .
+<Arrondissement_of_Thuin> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <book.book_subject.works> "Niccolo Rising" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc4m8dm" .
+<Arrondissement_of_Tournai> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245zylw7" .
+<Belgium> <media_common.netflix_genre.titles> "Lorna's Silence" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zx1yg" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4tnzk" .
+<Europe> <organization.organization_scope.organizations_with_this_scope> "Council of Europe" .
+<m.0df84j2> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<m.0j5pgq5> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<m.0wg8wxc> <location.partial_containment_relationship.partially_contains> "Meuse–Rhine Euroregion" .
+<Representative_democracy> <government.form_of_government.countries> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "Lady Chatterley" .
+<Belgium> <location.location.partiallycontains> "m.0wq9stg" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4xf80" .
+<Belgium> <location.country.capital> "City of Brussels" .
+<Luxembourg> <location.location.containedby> "Wallonia" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc488__" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3b2mh" .
+<Scheldt> <geography.river.basin_countries> "Belgium" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3n9m_" .
+<Irish_Wolfhound> <biology.animal_breed.place_of_origin> "Belgium" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460yhxd" .
+<Earth> <base.aareas.schema.administrative_area.subdividing_type> "Sovereign state" .
+<Arrondissement_of_Kortrijk> <common.topic.notable_types> "Administrative Division" .
+<Belgian_Federal_Parliament> <government.governmental_body.jurisdiction> "Belgium" .
+<Fourth_level_division_of> <type.property.expected_type> "Country" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3rdp8" .
+<Belgium> <location.statistical_region.diesel_price_liter> "g.12cp_j7hs" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs68j" .
+<Belgium> <location.country.languages_spoken> "Picard Language" .
+<Belgium> <media_common.netflix_genre.titles> "The Embrace of the River" .
+<Just_Friends> <film.film.language> "French" .
+<Administrative_Division> <type.type.domain> "Location" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245yyny2" .
+<Dommel> <geography.river.basin_countries> "Belgium" .
+<Belgium> <location.statistical_region.diesel_price_liter> "g.12cp_jvjk" .
+<Belgium> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4c3xh" .
+<m.0hzxw2x> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw0n" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw68" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3n9ps" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4lzjs" .
+<m.0hzxw40> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Just_Friends> <media_common.netflix_title.netflix_genres> "French" .
+<Belgium> <location.country.administrative_divisions> "West Flanders" .
+<Belgian_Revolution> <time.event.locations> "Belgium" .
+<m.0b6s3tc> <common.webpage.topic> "Belgium" .
+<A_Town_Called_Panic> <media_common.netflix_title.netflix_genres> "French" .
+<Belgium> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3kg6r" .
+<Belgium> <media_common.netflix_genre.titles> "Missing Link" .
+<Slaughter_Night> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3r_p5" .
+<Belgium> <location.statistical_region.net_migration> "g.1s05_djlq" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4859c" .
+<Battle_of_the_Yser> <time.event.included_in_event> "Western Front" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc3yfkx" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3pmv0" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Tongeren" .
+<Arrondissement_of_Tongeren> <location.location.containedby> "Belgium" .
+<Belgium> <location.location.partially_contains> "Rur" .
+<Belgium> <media_common.netflix_genre.titles> "The Wall: 2000 Seen By..." .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Namur" .
+<Just_Friends> <film.film.country> "Belgium" .
+<Belgium> <military.military_combatant.military_conflicts> "m.0bb_l1q" .
+<Belgium> <location.statistical_region.time_required_to_start_a_business> "g.1hhc54vd9" .
+<Belgium> <location.statistical_region.brain_drain_percent> "g.1hhc38d4k" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4bxr0" .
+<Belgium> <location.location.events> "Belgian regional elections, 2014" .
+<Belgium> <location.statistical_region.diesel_price_liter> "g.12cp_kgfw" .
+<Hainaut> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian province" .
+<Administrative_Divisions> <type.property.schema> "Country" .
+<Belgian_Revolution> <military.military_conflict.combatants> "m.05nnmxx" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3pj86" .
+<Belgium> <organization.organization_member.member_of> "m.0b6_42s" .
+<Wallonia> <location.location.contains> "Liège" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4h4p4" .
+<Arrondissement_of_Bastogne> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <sports.sport_country.multi_event_tournaments_participated_in> "2012 World Mountain Running Championships" .
+<The_German_Terror_In_Belgium> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.1245zyd3w" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc403nz" .
+<Ex_Drummer> <film.film.language> "Dutch Language" .
+<m.0wg8w_3> <location.partial_containment_relationship.partially_contains> "Scheldt" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3clbd" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc3w09p" .
+<Country> <type.type.domain> "Location" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245ytnkq" .
+<Second_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn3cy" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc45tgm" .
+<Waterloo> <book.written_work.subjects> "Europe" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrz5h" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn3y" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245_z6m9" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_blpj" .
+<Flanders_Campaign> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4894n" .
+<Country> <type.property.expected_type> "Country" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Location" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1s064wnch" .
+<m.04fvncw> <military.military_combatant_group.combatants> "Belgium" .
+<m.0wg8wyv> <location.partial_containment_relationship.partially_contains> "Our" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw2b" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs74p" .
+<Belgium> <book.book_subject.works> "All for love" .
+<Lagotto_Romagnolo> <biology.animal_breed.place_of_origin> "Belgium" .
+<m.062trqn> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <military.military_combatant.military_conflicts> "m.03z967f" .
+<Belgium> <organization.organization_founder.organizations_founded> "Council of Europe" .
+<Chiers> <geography.river.mouth> "Meuse" .
+<Arrondissement_of_Mechelen> <location.administrative_division.second_level_division_of> "Belgium" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc53gq6" .
+<Belgium> <media_common.netflix_genre.titles> "The Memory of a Killer" .
+<Inde> <location.location.containedby> "Europe" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245_f_fz" .
+<m.0hzxw0c> <measurement_unit.recurring_money_value.currency> "Euro" .
+<City_of_Brussels> <location.location.containedby> "Belgium" .
+<The_Wall:_2000_Seen_By...> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3vpps" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4hrt1" .
+<Belgium> <book.book_subject.works> "The Seacoast of Bohemia" .
+<Belgium> <common.topic.webpage> "m.09w2w3d" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3kp06" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4tfs9" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Agent" .
+<Belgium> <location.country.official_language> "Dutch Language" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3m3sx" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4b1_y" .
+<Location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc388pb" .
+<Wallonia> <base.aareas.schema.administrative_area.administrative_children> "Walloon Brabant" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn67m" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Brabanter" .
+<Belgium> <location.location.partially_contains> "Attert" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.11b60qw9vh" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245y_0dg" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.1246105bk" .
+<Belgium> <location.location.events> "2009 Afrika Film Festival" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Inanimate" .
+<1980_Winter_Olympics> <olympics.olympic_games.participating_countries> "Belgium" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc3ts6r" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsdy1" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc45dn7" .
+<Brussels-Capital_Region> <location.location.containedby> "Belgium" .
+<m.05kyh1n> <organization.organization_membership.organization> "United Nations" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw49" .
+<Altiplano> <film.film.language> "French" .
+<Belgium> <location.location.events> "Hundred Days" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc37cx1" .
+<The_Devil's_Double> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc3lmcj" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4rrrf" .
+<m.0hzxw1h> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsrj0" .
+<North_European_Plain> <location.location.partially_contains> "Belgium" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn39j" .
+<Belgium> <olympics.olympic_participating_country.olympics_participated_in> "1952 Summer Olympics" .
+<Senate> <government.governmental_body.jurisdiction> "Belgium" .
+<m.0wg8wzt> <location.partial_containment_relationship.partially_contains> "Inde" .
+<Arrondissement_of_Hasselt> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3kx23" .
+<Belgium> <location.location.partially_contains> "Jeker" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn8l7" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc47k54" .
+<The_Memory_of_a_Killer> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<The_Memory_of_a_Killer> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc40r9y" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wyj" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc39wrq" .
+<Belgium> <location.location.events> "Belgian Linguistic Case" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc55448" .
+<Leie> <geography.river.basin_countries> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "g.12460chl6" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.010gg22t" .
+<Arrondissement_of_Bastogne> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc40452" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw4w" .
+<Moscow,_Belgium> <film.film.country> "Belgium" .
+<Limburg> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_t0dx" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc537zf" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.pertains_to> "Earth" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxv_t" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw5q" .
+<Albert_II_of_Belgium> <royalty.monarch.kingdom> "Belgium" .
+<Fourth_level_divisions> <type.property.reverse_property> "Fourth level division of" .
+<Belgium> <location.statistical_region.places_imported_from> "m.04bc960" .
+<m.04lkt86> <military.force_strength.combatant> "Belgium" .
+<Moscow,_Belgium> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Second_level_division_of> <type.property.expected_type> "Country" .
+<Ex_Drummer> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs6yf" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1246034y4" .
+<Belgian_province> <base.aareas.schema.administrative_area_type.subdividing_type> "Belgian arrondissement" .
+<Fourth_level_divisions> <owl#inverseOf> "Fourth level division of" .
+<Belgium> <military.military_combatant.military_conflicts> "m.062trqn" .
+<Belgium> <location.country.form_of_government> "Federation" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wzn" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Belgium> <location.location.events> "Battle of the Scheldt" .
+<Belgium> <media_common.netflix_genre.titles> "Angel At Sea" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc50x9h" .
+<First_level_division_of> <type.property.expected_type> "Country" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4ywzj" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3sb52" .
+<We_Shall_Not_Sleep> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsrjj" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc403ft" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4ywzh" .
+<Meuse–Rhine_Euroregion> <location.location.contains> "Limburg" .
+<My_Life_in_Pink> <film.film.country> "Belgium" .
+<ArrAalstLocation> <common.image.appears_in_topic_gallery> "Arrondissement of Aalst" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc403m5" .
+<Administrative_Division> <type.type.expected_by> "First level divisions" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc46hw8" .
+<Belgium> <location.location.partiallycontains> "m.0wkt1wl" .
+<Haine> <location.location.partially_containedby> "Belgium" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc4czn4" .
+<Arrondissement_of_Marche-en-Famenne> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc3xph7" .
+<Belgium> <book.book_subject.works> "Decision at St Vith" .
+<Sovereign_state> <base.aareas.administrative_area_level.examples> "Sovereign state" .
+<French> <language.human_language.countries_spoken_in> "Belgium" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4cgk6" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs7g1" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245zv4s0" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.010gg6pr" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsgkr" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw1h" .
+<The_Folding_Star> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxb2" .
+<m.0wg8wx6> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Belgium> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4dyd1" .
+<m.0k3t3gr> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc52j3q" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3zxt2" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc38v8g" .
+<m.0wg8wyc> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<When_the_Sea_Rises> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc4q5d_" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4q8mb" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn45" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.1245_bzr7" .
+<Administrative_Division> <type.type.expected_by> "location_administrative_divisions" .
+<Country> <freebase.type_profile.strict_included_types> "Agent" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.1245_06sh" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Abstract" .
+<Flemish_Region> <base.aareas.schema.administrative_area.administrative_parent> "Belgium" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmnn" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3hg77" .
+<Third_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Limburg> <location.location.containedby> "Meuse–Rhine Euroregion" .
+<Liège> <location.location.containedby> "Meuse–Rhine Euroregion" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3tkpj" .
+<The_Stars_Caravan> <film.film.country> "Belgium" .
+<Arrondissement_of_Neufchâteau,_Belgium> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1q5jpwt7d" .
+<Just_Friends> <film.film.language> "Dutch Language" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wx6" .
+<West_Flanders> <base.aareas.schema.administrative_area.administrative_parent> "Flemish Region" .
+<Belgium> <location.location.events> "Flanders Campaign" .
+<The_Memory_of_a_Killer> <film.film.language> "Dutch Language" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245_6fhw" .
+<Belgium> <base.ontologies.ontology_instance.equivalent_instances> "m.07ndmq7" .
+<m.04y_th0> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.0df84jb" .
+<Belgium> <location.location.partiallycontains> "m.0wg8w_8" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3w9l9" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc3vps7" .
+<m.09j2xly> <military.military_combatant_group.combatants> "Belgium" .
+<m.04hy1tc> <location.adjoining_relationship.adjoins> "Belgium" .
+<Belgium> <periodicals.newspaper_circulation_area.newspapers> "De Dag" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3mc25" .
+<Belgium> <location.location.adjoin_s> "m.046cvbp" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc52j4s" .
+<Leopold_III_of_Belgium> <royalty.monarch.kingdom> "Belgium" .
+<Statistical_region> <type.type.domain> "Location" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3dmk8" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Belgian Blue" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc54y9d" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrt3d" .
+<Belgium> <location.country.form_of_government> "Popular monarchy" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc47bj2" .
+<Arrondissement_of_Oudenaarde> <common.topic.notable_types> "Statistical region" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3s3cx" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc4s84t" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<Luxembourg> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian province" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4r9mb" .
+<Scales_of_Gold> <book.written_work.subjects> "Europe" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsdhv" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc3s3cl" .
+<La_Libre_Belgique_during_World_War_II> <book.newspaper.circulation_areas> "Belgium" .
+<m.0z1_dzl> <location.adjoining_relationship.adjoins> "Belgium" .
+<Semois> <geography.river.basin_countries> "Belgium" .
+<Sur_James_Ensor> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245z505z" .
+<Calvaire> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc53x59" .
+<Europe> <base.locations.continents.planet> "Earth" .
+<Western_Europe> <common.topic.notable_types> "Time Zone" .
+<Meuse> <location.location.partially_containedby> "Belgium" .
+<Country> <rdf-schema#domain> "Administrative Division" .
+<Belgium> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4kjxn" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Abstract" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4tfn2" .
+<belgium.GIF> <common.image.appears_in_topic_gallery> "Belgium" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn96k" .
+<Belgium> <location.country.administrative_divisions> "Liège" .
+<Ben_X> <media_common.netflix_title.netflix_genres> "Belgium" .
+<S.> <media_common.netflix_title.netflix_genres> "Belgium" .
+<22nd_of_May> <film.film.language> "French" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Flemish_Region> <common.topic.notable_types> "Administrative Division" .
+<Les_Démoniaques> <film.film.language> "French" .
+<Leie> <location.location.partially_contained_by> "m.0wg8wzh" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460_spc" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4dycf" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.11b60yppqq" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn42z" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4115h" .
+<Ben_X> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<Arrondissement_of_Namur> <location.administrative_division.second_level_division_of> "Belgium" .
+<Arrondissement_of_Tielt> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn9cv" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc40460" .
+<Location_Belgium_EU_Europe> <common.image.appears_in_topic_gallery> "Belgium" .
+<Parliamentary_system> <government.form_of_government.countries> "Belgium" .
+<Flemish_Region> <location.location.containedby> "Belgium" .
+<Wiltz> <location.location.containedby> "Europe" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245zw41l" .
+<m.0wg8wxp> <location.partial_containment_relationship.partially_contains> "Euregio Scheldemond" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3bf13" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.1245_wchc" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3gk" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3jtvm" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc4zyjr" .
+<m.05tfsm2> <military.military_combatant_group.combatants> "Belgium" .
+<Griffon_Bruxellois> <biology.animal_breed.place_of_origin> "Belgium" .
+<Angel_At_Sea> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "g.11b60gm1gl" .
+<Gazette_van_Detroit> <book.newspaper.circulation_areas> "Belgium" .
+<Steve_+_Sky> <film.film.language> "Dutch Language" .
+<Hop> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsrf_" .
+<m.048z_dd> <military.military_combatant_group.combatants> "Belgium" .
+<Telenet_BC_Oostende> <sports.sports_team.location> "Belgium" .
+<Women> <film.film.language> "French" .
+<m.0wg8wxj> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Belgium_women's_national_volleyball_team> <sports.sports_team.location> "Belgium" .
+<Calvaire> <film.film.language> "French" .
+<Loft> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<Battle_of_Belgium> <base.culturalevent.event.entity_involved> "Leopold III of Belgium" .
+<Belgium> <olympics.olympic_participating_country.olympics_participated_in> "1936 Summer Olympics" .
+<Wallonia> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc39wyb" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4c5" .
+<Belgium> <location.location.partially_contains> "Meuse–Rhine Euroregion" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1s067ykqf" .
+<Battle_of_the_Scheldt> <base.culturalevent.event.entity_involved> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4jthv" .
+<Belgium> <book.book_subject.works> "The Unicorn Hunt" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3lq" .
+<Brussels-Capital_Region> <film.film_location.featured_in_films> "My Queen Karo" .
+<m.0wg94h4> <location.partial_containment_relationship.partially_contains> "Belgium" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc4lzjf" .
+<2001_NATO_Headquarters_summit> <time.event.locations> "Belgium" .
+<Leopold_III_of_Belgium> <military.military_commander.military_commands> "m.048z_mf" .
+<m.0hzxw4l> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.statistical_region.net_migration> "g.1q5k0kxqm" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3_4ld" .
+<Belgium> <location.country.currency_formerly_used> "Belgian franc" .
+<Belgium> <government.governmental_jurisdiction.agencies> "Federal Public Service Justice" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrx3g" .
+<Belgium> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4_s79" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.12460rflh" .
+<Brussels> <location.location.containedby> "Belgium" .
+<Arrondissement_of_Tongeren> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.location.partiallycontains> "m.0y63ww3" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4b1h8" .
+<Belgium> <media_common.netflix_genre.titles> "Combat" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4ypnb" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_2hrr" .
+<Belgium> <location.location.events> "Action of Elouges" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245yryzb" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4b1h7" .
+<Wallonia> <location.location.contains> "Namur" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460z1tf" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4p1vt" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4ygw7" .
+<Belgium> <base.locations.countries.continent> "Europe" .
+<The_King_Incorporated> <book.written_work.subjects> "Belgium" .
+<m.04yzz7m> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw21" .
+<Wallonia> <location.location.contains> "Hainaut" .
+<Battle_of_the_Yser> <base.culturalevent.event.entity_involved> "Albert I of Belgium" .
+<Waterloo> <book.written_work.subjects> "Belgium" .
+<Ex_Drummer> <film.film.country> "Belgium" .
+<Belgium> <sports.sports_team_location.teams> "Spirou Charleroi" .
+<Pulsar> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Administrative_Division> <type.type.properties> "Country" .
+<Oise> <location.location.partially_containedby> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw0c" .
+<Belgium> <base.statistics.motor_vehicle_producer.commerical_vehicles_produced> "m.010r1l75" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4pglw" .
+<m.0wg8w_f> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Yser> <location.location.partially_containedby> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "The Stars Caravan" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3qwsc" .
+<Belgium> <book.book_subject.works> "The King Incorporated" .
+<The_Child> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn43d" .
+<2005_NATO_Headquarters_summit> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.1245zx_c9" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Belgian horse" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3p94_" .
+<Belgian_arrondissement> <base.uncommon.topic.exceptions> "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District." .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245zdrg3" .
+<Belgium> <location.location.events> "Western Front" .
+<Arrondissement_of_Tielt> <location.location.time_zones> "Central European Time Zone" .
+<Man_Bites_Dog> <film.film.language> "French" .
+<German_Language> <language.human_language.countries_spoken_in> "Belgium" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4b1vz" .
+<Belgium> <location.statistical_region.places_imported_from> "m.04c6shz" .
+<Belgium> <location.country.capital> "Brussels" .
+<Belgium> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3pn15" .
+<Belgium> <media_common.netflix_genre.titles> "Alias" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.12460f5x_" .
+<Council_of_Europe> <organization.organization.geographic_scope> "Europe" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4h7rs" .
+<Limburg> <location.location.containedby> "Flemish Region" .
+<Belgium> <book.book_subject.works> "To lie with lions" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrz73" .
+<First_level_division_of> <type.property.master_property> "First level divisions" .
+<2002_Winter_Olympics> <olympics.olympic_games.participating_countries> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw0y" .
+<Wallonia> <base.aareas.schema.administrative_area.administrative_parent> "Belgium" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn8q5" .
+<m.04fvknf> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc45tk_" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3rxg_" .
+<Flemish_Brabant> <location.location.containedby> "Flemish Region" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245zk6cl" .
+<Our> <location.location.partially_containedby> "Belgium" .
+<Leopold_II_of_Belgium> <people.person.nationality> "Belgium" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsdlh" .
+<Pulsar> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc45qc7" .
+<Rur> <geography.river.mouth> "Meuse" .
+<The_Unicorn_Hunt> <book.written_work.subjects> "Belgium" .
+<m.0khz2b9> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245ywr6s" .
+<Dutch_Language> <media_common.netflix_genre.titles> "Crazy Love" .
+<Belgium> <location.location.events> "Battle of Steppes" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn52" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc3h6_7" .
+<Belgium> <sports.sports_team_location.teams> "Belgium national football team" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.11b61jk1pw" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.12cp_jhfc" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3jq90" .
+<Loft> <film.film.language> "Dutch Language" .
+<Belgium> <location.statistical_region.net_migration> "g.1s065jdj5" .
+<Meuse> <location.location.partially_contained_by> "m.0wg8wyp" .
+<Walloon_Brabant> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245zx_cf" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc45ts6" .
+<The_Wall:_2000_Seen_By...> <film.film.language> "Dutch Language" .
+<Belgium> <location.statistical_region.brain_drain_percent> "g.1hhc3rdp6" .
+<Women> <media_common.netflix_title.netflix_genres> "French" .
+<Chamber_of_Representatives> <government.governmental_body.body_this_is_a_component_of> "Belgian Federal Parliament" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245_gy6y" .
+<Metro> <book.periodical.language> "Dutch Language" .
+<Belgium> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc4b1y7" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3k5" .
+<Groenendael> <biology.animal_breed.place_of_origin> "Belgium" .
+<Belgium> <military.military_combatant.military_conflicts> "m.05tfqxr" .
+<Belgium> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4_7qc" .
+<Battle_of_the_Bulge> <time.event.locations> "Belgium" .
+<Belgium> <base.aareas.schema.administrative_area.subdividing_type> "Belgian region" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3xpbd" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.12460r14p" .
+<Belgium> <location.location.events> "Battle of Rijmenam" .
+<Administrative_Division> <type.type.expected_by> "Second level divisions" .
+<In_the_company_of_angels> <book.written_work.subjects> "Belgium" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.010gg6fw" .
+<Arrondissement_of_Tongeren> <location.administrative_division.second_level_division_of> "Belgium" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.12460qw3l" .
+<2013_Afrika_Film_Festival> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc3d2pn" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Location" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc3qgb4" .
+<The_Curiosity_of_Chance> <film.film.country> "Belgium" .
+<Belgium> <location.country.languages_spoken> "German Language" .
+<m.04dj472> <organization.organization_membership.member> "Belgium" .
+<Euregio_Scheldemond> <location.location.partially_contained_by> "m.0wg8wxp" .
+<Flemish_Region> <base.aareas.schema.administrative_area.administrative_children> "Flemish Brabant" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3cc1z" .
+<Central_European_Summer_Time> <time.time_zone.day_dst_ends> "Last Sunday in October" .
+<Brussels> <travel.travel_destination.tourist_attractions> "Manneken Pis" .
+<Lorna's_Silence> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Mr._Average> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245_j19d" .
+<Belgium> <location.location.partially_contains> "Belfries of Belgium and France" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc499rg" .
+<m.04fvncw> <military.military_combatant_group.conflict> "Battle of the Yser" .
+<Belgium> <base.uncommon.topic.exceptions> "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District." .
+<Belgium> <sports.sports_team_location.teams> "Belgium women's national volleyball team" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs7ft" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3kv" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc403w0" .
+<Inde> <location.location.partially_containedby> "Belgium" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc44657" .
+<European_Union> <organization.membership_organization.members> "m.03w602d" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.1245_pvm4" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc526br" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245zy5y7" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wzh" .
+<Alias> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4f7rv" .
+<Belgian_Linguistic_Case> <time.event.locations> "Belgium" .
+<Oise> <location.location.containedby> "Europe" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrs_5" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrswx" .
+<Arrondissement_of_Thuin> <common.topic.notable_types> "Administrative Division" .
+<Wallonia> <location.administrative_division.country> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4f7pl" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4c0by" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4v9k1" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3z8gw" .
+<Sovereign_state> <freebase.type_hints.included_types> "Topic" .
+<m.0y63ww3> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Ben_X> <film.film.language> "Dutch Language" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245_ltdn" .
+<Administrative_Divisions> <rdf-schema#domain> "Country" .
+<Dated_location> <freebase.type_hints.included_types> "Location" .
+<EuRegio_SaarLorLuxRhin> <location.location.partially_contained_by> "m.0wg8wx6" .
+<Belgium> <location.location.events> "War of the First Coalition" .
+<Administrative_Division> <freebase.type_profile.published> "Published" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3drdc" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wy0" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460w6dt" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4gdq7" .
+<Leopold_I_of_Belgium> <people.person.nationality> "Belgium" .
+<Just_Friends> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxlv" .
+<Belgium> <media_common.netflix_genre.titles> "Women" .
+<m.04lkt8z> <military.casualties.combatant> "Belgium" .
+<The_Allies> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460jztm" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.12tb6hbx4" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.124618ydb" .
+<m.0cl9ld5> <location.imports_and_exports.exported_to> "Belgium" .
+<m.0hzxw16> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Missing_Link> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<22nd_of_May> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4dt9v" .
+<Dommel> <location.location.partially_contained_by> "m.0wg8wyj" .
+<Decision_at_St_Vith> <book.written_work.subjects> "Belgium" .
+<Arrondissement_of_Brussels-Capital> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1s0609kg8" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn62" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.12461305l" .
+<Croix_Scaille> <location.location.containedby> "Europe" .
+<When_the_Sea_Rises> <media_common.netflix_title.netflix_genres> "French" .
+<Papillon> <biology.animal_breed.place_of_origin> "Belgium" .
+<3_Guys,_1_Girl,_2_Weddings> <film.film.country> "Belgium" .
+<Battle_of_the_Frontiers> <military.military_conflict.combatants> "m.062trqn" .
+<Combat> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.1245_z6nh" .
+<Arrondissement_of_Antwerp> <location.administrative_division.second_level_division_of> "Belgium" .
+<West_Flanders> <location.administrative_division.country> "Belgium" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3p98f" .
+<Belgium> <organization.organization_founder.organizations_founded> "United Nations" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3j5sr" .
+<Iceberg> <media_common.netflix_title.netflix_genres> "French" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs72d" .
+<The_Misfortunates> <film.film.language> "Dutch Language" .
+<Lady_Chatterley> <film.film.language> "French" .
+<Brussels-Capital_Region> <base.aareas.schema.administrative_area.administrative_parent> "Belgium" .
+<Administrative_Division> <type.type.expected_by> "Administrative divisions" .
+<Alias> <film.film.language> "Dutch Language" .
+<Dutch_Language> <media_common.netflix_genre.titles> "Steve + Sky" .
+<m.06wj_vg> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <book.book_subject.works> "Desire" .
+<Battle_of_the_Frontiers> <time.event.included_in_event> "Western Front" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3yf19" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245z4g3p" .
+<Race_of_Scorpions> <book.written_work.subjects> "Belgium" .
+<Dated_location> <freebase.type_hints.included_types> "Topic" .
+<Flanders> <location.location.containedby> "Belgium" .
+<Western_Front> <time.event.locations> "Belgium" .
+<m.04dds82> <organization.organization_membership.member> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3cc3m" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn82p" .
+<Walloon_Brabant> <base.aareas.schema.administrative_area.administrative_parent> "Wallonia" .
+<Third_level_divisions> <type.property.reverse_property> "Third level division of" .
+<Statistics_Belgium> <government.government_agency.government> "Federal Government of Belgium" .
+<All_for_love> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc37crx" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4qpk8" .
+<Administrative_Division> <freebase.documented_object.documentation> "m.02hpzsm" .
+<Central_European_Time_Zone> <base.schemastaging.context_name.pronunciation> "g.125_n1f0t" .
+<Administrative_Division> <freebase.type_hints.included_types> "Location" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.11b60z05br" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.11b71qnfgh" .
+<Arrondissement_of_Huy> <location.administrative_division.second_level_division_of> "Belgium" .
+<Crazy_Love> <film.film.language> "Dutch Language" .
+<Everybody's_Famous!> <film.film.language> "Dutch Language" .
+<Laekenois> <biology.animal_breed.place_of_origin> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "Crazy Love" .
+<Battle_of_Rijmenam> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3h6" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc3bn0y" .
+<m.0wg8wxp> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3c4nq" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.12cp_jm9d" .
+<Fourth_level_division_of> <type.property.schema> "Administrative Division" .
+<A_Turtle's_Tale:_Sammy's_Adventures> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Administrative_Division> <type.type.expected_by> "Fourth level divisions" .
+<Belgium> <sports.sport_country.athletic_performances> "m.011p1tvv" .
+<Campine> <biology.animal_breed.place_of_origin> "Belgium" .
+<Tzdiff-Europe-winter> <common.image.appears_in_topic_gallery> "Central European Time Zone" .
+<Belgian_region> <freebase.type_hints.included_types> "Location" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc43hyj" .
+<Administrative_Division> <type.type.properties> "Third level division of" .
+<Belgium> <location.location.events> "2014 Gent–Wevelgem" .
+<Slaughter_Night> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgian_province> <freebase.type_hints.included_types> "Location" .
+<m.0hzxw5f> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245_1qdx" .
+<Statistics_Belgium> <government.government_agency.jurisdiction> "Belgium" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Malinois" .
+<m.0hzxw21> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs7gv" .
+<Central_European_Time_Zone> <common.topic.image> "Tzdiff-Europe-winter" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4g2bf" .
+<Belgium> <location.country.administrative_divisions> "Walloon Brabant" .
+<Sauer> <location.location.partially_contained_by> "m.0wg8wz5" .
+<Belgium> <location.statistical_region.diesel_price_liter> "g.1hhc3r1zs" .
+<Belgium> <periodicals.newspaper_circulation_area.newspapers> "Metro" .
+<Altiplano> <media_common.netflix_title.netflix_genres> "French" .
+<Belgium> <location.location.partially_contains> "Yser" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460jddm" .
+<East_Flanders> <base.aareas.schema.administrative_area.administrative_parent> "Flemish Region" .
+<Flanders> <common.topic.notable_types> "Administrative Division" .
+<Administrative_Division> <type.type.properties> "Fourth level division of" .
+<Belgium> <sports.sport_country.athletic_performances> "m.0b65633" .
+<Belgium> <media_common.netflix_genre.titles> "Crainquebille" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc51wym" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.12460j0d3" .
+<Belgium> <media_common.netflix_genre.titles> "Mr. Average" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3h6xq" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs755" .
+<Belgium> <location.location.events> "Battle of the Yser" .
+<Namur> <common.topic.notable_types> "Administrative Division" .
+<Arrondissement_of_Hasselt> <location.location.containedby> "Belgium" .
+<Earth> <base.uncommon.topic.exceptions> "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District." .
+<The_lady_and_the_unicorn> <book.written_work.subjects> "Belgium" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrz4m" .
+<Belgium> <book.book_subject.works> "A Soldier of the 71st" .
+<Fourth_level_divisions> <rdf-schema#domain> "Country" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Barbu d'Everberg" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4vtzc" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0khz2b9" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3w6fg" .
+<Fourth_level_division_of> <type.property.master_property> "Fourth level divisions" .
+<Dommel> <location.location.partially_containedby> "Belgium" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_rxjz" .
+<Scheldt> <location.location.partially_contained_by> "m.0wg8w_3" .
+<Belgium> <military.military_combatant.military_conflicts> "m.052b2k5" .
+<Albert_I_of_Belgium> <people.person.place_of_birth> "Brussels" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.1245z25p2" .
+<Flandria> <sports.sports_team.location> "Belgium" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04yvx77" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc3y9ph" .
+<Hop> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs7h2" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.12tb6g4g7" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3h74b" .
+<Hop> <film.film.language> "Dutch Language" .
+<Belgium> <military.military_combatant.military_conflicts> "m.05nq7fr" .
+<Administrative_Divisions> <rdf-schema#range> "Administrative Division" .
+<Belgium> <location.location.adjoin_s> "m.0z1_dzl" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04z6cs3" .
+<Belgium_national_football_team> <sports.sports_team.location> "Belgium" .
+<Sauer> <location.location.partially_containedby> "Belgium" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc3w9kv" .
+<Altiplano> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc3wv0m" .
+<Rur> <geography.river.basin_countries> "Belgium" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc48tgt" .
+<Cartes_et_lettres> <book.written_work.subjects> "Belgium" .
+<Hainaut> <location.administrative_division.country> "Belgium" .
+<Belgium> <book.book_subject.works> "Remembrance" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs6d6" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc46r13" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460c41f" .
+<Third_level_division_of> <type.property.master_property> "Third level divisions" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4bpfw" .
+<Arrondissement_of_Aalst> <location.location.containedby> "Belgium" .
+<m.04yvx77> <military.military_combatant_group.combatants> "Belgium" .
+<Wiltz> <location.location.partially_containedby> "Belgium" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3p2hr" .
+<Belgium> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4j8qt" .
+<Belgium> <location.location.time_zones> "Central European Time Zone" .
+<Khadak> <film.film.sequel> "Altiplano" .
+<Dutch_Language> <media_common.netflix_genre.titles> "Pulsar" .
+<Black_Night> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3j2" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1q5k0_2mz" .
+<Meuse–Rhine_Euroregion> <location.location.partially_containedby> "Belgium" .
+<Belgium> <military.military_combatant.military_commanders> "m.048z_mf" .
+<S.> <film.film.country> "Belgium" .
+<Villa_Des_Roses> <media_common.netflix_title.netflix_genres> "French" .
+<Lorna's_Silence> <media_common.netflix_title.netflix_genres> "French" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3kkl8" .
+<State/Province/Region> <type.property.expected_type> "Administrative Division" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.12cp_k2rj" .
+<Private_Lessons> <film.film.country> "Belgium" .
+<Prime_Minister_of_Belgium> <government.government_office_or_title.office_holders> "m.0df84jb" .
+<First_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsdl8" .
+<Just_Friends> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc37h9_" .
+<Belgium> <location.location.events> "2012 Tour de France" .
+<Black_Night> <film.film.language> "French" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.12460fdmv" .
+<Central_European_Time_Zone> <time.time_zone.day_dst_begins> "Last Sunday in March" .
+<Rur> <location.location.partially_contained_by> "m.0wg8wy0" .
+<Brussels> <base.biblioness.bibs_topic.is_really> "Brussels" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs73d" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc3yf47" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4_w9x" .
+<Sambre> <location.location.partially_containedby> "Belgium" .
+<Angel_At_Sea> <film.film.language> "French" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn7r9" .
+<Luxembourg> <common.topic.notable_types> "Administrative Division" .
+<Gemini> <book.written_work.subjects> "Belgium" .
+<Country> <type.property.reverse_property> "Administrative Divisions" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3m5" .
+<m.0j5pgq5> <government.government_position_held.office_holder> "Albert II of Belgium" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc3r2kb" .
+<Arrondissement_of_Tournai> <location.location.containedby> "Belgium" .
+<Belgium> <olympics.olympic_participating_country.olympics_participated_in> "2010 Winter Olympics" .
+<Euro> <finance.currency.countries_used> "Belgium" .
+<Belgium> <book.book_subject.works> "With The Allies" .
+<Europe> <base.locations.continents.countries_within> "Belgium" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4vm7s" .
+<Belgium> <government.governmental_jurisdiction.government_bodies> "Chamber of Representatives" .
+<Belgium> <sports.sports_team_location.teams> "Telenet BC Oostende" .
+<Slaughter_Night> <film.film.language> "Dutch Language" .
+<Arrondissement_of_Ath> <location.administrative_division.second_level_division_of> "Belgium" .
+<Belgian_province> <base.aareas.schema.administrative_area_type.sovereignty> "Belgium" .
+<Belgium> <organization.organization_member.member_of> "m.04ddtwz" .
+<Belgian_arrondissement> <base.aareas.schema.administrative_area_type.subdivides_type> "Belgian province" .
+<Belgian_region> <base.aareas.schema.administrative_area_type.subdivides_place> "Belgium" .
+<m.02hvbn3> <common.webpage.topic> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245zzj8m" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4zyh4" .
+<Character> <film.film.language> "French" .
+<Belgium> <location.location.events> "Tactical development on the Western Front in 1917" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.1245zzhvq" .
+<m.06gcn27> <type.property.expected_type> "Administrative Division" .
+<Belgium> <media_common.netflix_genre.titles> "Iceberg" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrt0_" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrx43" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc51lsm" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs74y" .
+<Sambre> <location.location.partially_contained_by> "m.0wg8wyc" .
+<Belgium> <media_common.netflix_genre.titles> "A Turtle's Tale: Sammy's Adventures" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<Arrondissement_of_Kortrijk> <location.administrative_division.second_level_division_of> "Belgium" .
+<The_Child> <media_common.netflix_title.netflix_genres> "French" .
+<Barbu_de_Watermael> <biology.animal_breed.place_of_origin> "Belgium" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Thuin" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4vt_f" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245_mkmn" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3fg_8" .
+<Belgian_franc> <finance.currency.countries_formerly_used> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "When the Sea Rises" .
+<Belgium> <location.location.containedby> "Western Europe" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn7z7" .
+<m.0j1c3dd> <common.webpage.topic> "Belgium" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3hsd2" .
+<Belgium> <location.location.events> "2001 NATO Headquarters summit" .
+<Belgium> <military.military_combatant.military_conflicts> "m.05ckfjn" .
+<Arrondissement_of_Ath> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.1245_bz9_" .
+<Belfries_of_Belgium_and_France> <location.location.partially_contained_by> "m.0wg8wxw" .
+<Albert_II_of_Belgium> <government.politician.government_positions_held> "m.0j5pgq5" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245_jl_3" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw5_" .
+<Phalène> <biology.animal_breed.place_of_origin> "Belgium" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc46qsc" .
+<Oise> <geography.river.origin> "Hainaut" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4pwrj" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.124615p89" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4bxxf" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsz2" .
+<m.0wg8wyv> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Picard_Language> <language.human_language.countries_spoken_in> "Belgium" .
+<Belgium> <organization.organization_member.member_of> "m.05kyh1n" .
+<A_Turtle's_Tale:_Sammy's_Adventures> <film.film.country> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "Man Bites Dog" .
+<East_Flanders> <location.location.containedby> "Belgium" .
+<Belgium> <location.location.events> "2011 Afrika Film Festival" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.12460n660" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3qklw" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4wpfs" .
+<Central_European_Summer_Time> <time.time_zone.day_dst_begins> "Last Sunday in March" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsdlq" .
+<Administrative_Division> <freebase.type_hints.included_types> "Dated location" .
+<Second_level_divisions> <owl#inverseOf> "Second level division of" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4mhry" .
+<Administrative_Division> <type.type.expected_by> "State/Province/Region" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.1245_70p9" .
+<Belgium> <media_common.netflix_genre.titles> "Luke and Lucy: The Texas Rangers" .
+<The_Embrace_of_the_River> <film.film.country> "Belgium" .
+<Administrative_Division> <type.type.properties> "Capital" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Trait du Nord" .
+<Lady_Chatterley> <media_common.netflix_title.netflix_genres> "French" .
+<Character> <film.film.language> "German Language" .
+<Belgium> <location.location.partially_contains> "Dommel" .
+<Liège> <common.topic.notable_types> "Administrative Division" .
+<Hop> <film.film.language> "French" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.1245zbntq" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245_rbwr" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc54y9f" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrz5q" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc39x1s" .
+<Operation_Bodenplatte> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1q5k2q589" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc47k89" .
+<Belgium> <location.statistical_region.minimum_wage> "g.12460zmw_" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn7mk" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245zqd3h" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc3zljq" .
+<Arrondissement_of_Aalst> <location.location.geolocation> "m.0k2ydfd" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrt1n" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc45tqg" .
+<Battle_of_Langemarck> <time.event.locations> "Belgium" .
+<Belgium> <royalty.kingdom.rulers> "Leopold I of Belgium" .
+<Arrondissement_of_Mechelen> <location.location.time_zones> "Central European Time Zone" .
+<Luxembourg> <base.aareas.schema.administrative_area.administrative_parent> "Wallonia" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.1245_9v_t" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3nplt" .
+<Arrondissement_of_Aalst> <location.administrative_division.second_level_division_of> "Belgium" .
+<Flemish_Region> <location.location.contains> "Antwerp" .
+<Haine> <geography.river.origin> "Hainaut" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc52mg_" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245ytnxq" .
+<Albert_I_of_Belgium> <people.person.children> "Leopold III of Belgium" .
+<Solvay_Process_Company> <organization.organization.founders> "Belgium" .
+<m.0hzxw6k> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.location.events> "Vivian" .
+<The_Wall:_2000_Seen_By...> <film.film.language> "French" .
+<Remembrance> <book.written_work.subjects> "Belgium" .
+<m.0wg8wzz> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<m.046cvbp> <location.adjoining_relationship.adjoins> "Belgium" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc3nwxq" .
+<Belgium> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc52ml5" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3v2ht" .
+<Belgian_horse> <biology.animal_breed.place_of_origin> "Belgium" .
+<The_Wall:_2000_Seen_By...> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3nr" .
+<Belgium> <royalty.kingdom.rulers> "Leopold III of Belgium" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3h320" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245ysxnq" .
+<The_Secret_in_the_Old_Lace> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3f1ks" .
+<A_Town_Called_Panic> <film.film.country> "Belgium" .
+<Belgium> <location.country.administrative_divisions> "East Flanders" .
+<Belgium> <media_common.netflix_genre.titles> "Steve + Sky" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_qf0n" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_yp4h" .
+<Namur> <base.aareas.schema.administrative_area.administrative_parent> "Wallonia" .
+<Iceberg> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.diesel_price_liter> "g.12cp_kbjf" .
+<Dutch_Language> <media_common.netflix_genre.titles> "Just Friends" .
+<Belgium> <base.aareas.schema.administrative_area.pertinent_type> "Belgian municipality" .
+<Flemish_Brabant> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <media_common.netflix_genre.titles> "Khadak" .
+<Belgium> <organization.organization_founder.organizations_founded> "Solvay Process Company" .
+<Belgium> <book.book_subject.works> "In the company of angels" .
+<Artifacts> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.1245_q0yr" .
+<Arrondissement_of_Aalst> <location.statistical_region.population> "g.11bc8853ds" .
+<Battle_of_France> <base.culturalevent.event.entity_involved> "Leopold III of Belgium" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Ath" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmsc" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc54ybp" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrspd" .
+<First_level_divisions> <type.property.reverse_property> "First level division of" .
+<North_Atlantic_Treaty_Organization_(NATO)> <organization.organization.founders> "Belgium" .
+<East_Flanders> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsdgz" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3kp59" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4261g" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3kwwf" .
+<m.03wm62b> <organization.organization_membership.member> "Belgium" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4zykn" .
+<Belgium> <olympics.olympic_participating_country.olympics_participated_in> "1900 Summer Olympics" .
+<Belgian_region> <freebase.type_hints.included_types> "Topic" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc45tpq" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsdj8" .
+<Arrondissement_of_Namur> <common.topic.notable_types> "Administrative Division" .
+<Cóndor> <book.periodical.language> "German Language" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.12461bfmb" .
+<Belgium> <media_common.netflix_genre.titles> "Slaughter Night" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc4lnzp" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.124601tnb" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsrj8" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc5199d" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3rxm7" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc37h8t" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3m3q0" .
+<Dirty_Mind> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Attert> <geography.river.basin_countries> "Belgium" .
+<Belgium> <olympics.olympic_participating_country.olympics_participated_in> "2014 Winter Olympics" .
+<Planned_French_invasion_of_Britain> <time.event.locations> "Belgium" .
+<Administrative_Division> <common.topic.article> "m.02hpzsm" .
+<Walloon_Brabant> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian province" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zhr3y" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3kd" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc42f68" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4dlvt" .
+<European_Union> <organization.organization.founders> "Belgium" .
+<Spirou_Charleroi> <sports.sports_team.location> "Belgium" .
+<Belgian_region> <base.aareas.schema.administrative_area_type.iso_country> "Belgium" .
+<Missing_Link> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn7zp" .
+<Federal_Government_of_Belgium> <government.government.government_for> "Belgium" .
+<Statistics_Belgium> <base.statistics.statistics_agency.geographic_scope> "Belgium" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn3p" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3lj1d" .
+<m.04z2vny> <military.military_combatant_group.combatants> "Belgium" .
+<West_Flemish> <language.human_language.countries_spoken_in> "Belgium" .
+<Yser> <geography.river.basin_countries> "Belgium" .
+<Belgium> <book.book_subject.works> "Cartes et lettres" .
+<Belgium> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6dn2ynj" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw6k" .
+<Flemish_Brabant> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian province" .
+<Black_Night> <media_common.netflix_title.netflix_genres> "French" .
+<m.04fsf9x> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Ypres" .
+<m.0hzxw68> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <common.topic.notable_for> "g.125fwck5w" .
+<Belgium> <periodicals.newspaper_circulation_area.newspapers> "Cóndor" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn65f" .
+<Belgian_region> <base.aareas.schema.administrative_area_type.pertains_to> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4rrv_" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4tntd" .
+<Administrative_Division> <type.type.expected_by> "Third level divisions" .
+<m.0wg8wzb> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<m.0wg8wz5> <location.partial_containment_relationship.partially_contains> "Sauer" .
+<Belgium> <location.location.partially_containedby> "North European Plain" .
+<m.0hzxv_t> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3bjpc" .
+<m.0hzxw35> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Dutch_Language> <media_common.netflix_genre.titles> "The Memory of a Killer" .
+<Battle_of_Elixheim> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsdhd" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4lnxr" .
+<Belgium> <common.topic.webpage> "m.0b6s3tc" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc44s8z" .
+<m.0hzxw54> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Battle_of_Belgium> <time.event.locations> "Belgium" .
+<Administrative_Division> <type.type.expected_by> "Administrative division" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4mhl2" .
+<Administrative_Division> <type.type.expected_by> "estado" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Huy" .
+<m.02sd_yv> <location.adjoining_relationship.adjoins> "Belgium" .
+<Country> <freebase.type_hints.included_types> "Dated location" .
+<Wallonia> <location.location.contains> "Walloon Brabant" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc38m4f" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc3mc1q" .
+<Belgium> <media_common.netflix_genre.titles> "A Couch in New York" .
+<Belgium> <media_common.netflix_genre.titles> "Loft" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.124604xq6" .
+<Third_level_divisions> <owl#inverseOf> "Third level division of" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.11b71qs27j" .
+<Khadak> <film.film.country> "Belgium" .
+<Albert_I_of_Belgium> <people.person.nationality> "Belgium" .
+<Belgium> <location.location.partially_contained_by> "m.0wg94h4" .
+<Belgium> <location.statistical_region.foreign_direct_investment_net_inflows> "g.12tb6gtgq" .
+<m.0w9vm11> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<Belgium> <common.topic.webpage> "m.0j1c3dd" .
+<Leie> <location.location.partially_containedby> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245_wmn6" .
+<The_Spring_of_the_Ram> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc3hsh2" .
+<Manneken_Pis> <travel.tourist_attraction.near_travel_destination> "Brussels" .
+<A_Couch_in_New_York> <media_common.netflix_title.netflix_genres> "Belgium" .
+<m.02sd_zh> <location.adjoining_relationship.adjoins> "Belgium" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1q5k9vlvj" .
+<Alias> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<Belgian_municipality> <base.aareas.schema.administrative_area_type.subdivides_type> "Belgian arrondissement" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrt1f" .
+<Arrondissement_of_Oudenaarde> <location.administrative_division.second_level_division_of> "Belgium" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Griffon Bruxellois" .
+<Hainaut> <common.topic.notable_types> "Administrative Division" .
+<S.> <film.film.language> "French" .
+<Belgium> <government.governmental_jurisdiction.agencies> "Statistics Belgium" .
+<Brussels-Capital_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian region" .
+<The_Misfortunates> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Fourth_level_division_of> <rdf-schema#range> "Country" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4j1q3" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc51hjk" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3vhhs" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc4t_j7" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw54" .
+<Belgium> <base.statistics.motor_vehicle_producer.cars_produced> "m.010r1l5d" .
+<Spiritual_Exercises:_10_Films_by_Olivier_Smolders> <film.film.country> "Belgium" .
+<Loft> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.renewable_freshwater_per_capita> "g.11b6p301k3" .
+<Women> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Arrondissement_of_Mechelen> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4ypp3" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw16" .
+<Belgium> <government.governmental_jurisdiction.government_positions> "Prime Minister of Belgium" .
+<m.05tfqxr> <military.military_combatant_group.combatants> "Belgium" .
+<Jeker> <location.location.containedby> "Europe" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc53x3k" .
+<Arrondissement_of_Aalst> <common.topic.notable_types> "Administrative Division" .
+<Arrondissement_of_Ypres> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245zpmq5" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wxj" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.12460gj09" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn3f" .
+<Western_Front> <time.event.includes_event> "Battle of the Yser" .
+<Belgium> <location.country.administrative_divisions> "Namur" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4116q" .
+<Belgium> <book.book_subject.works> "The Spring of the Ram" .
+<Belgium> <location.location.partially_contains> "Scheldt" .
+<Council_of_Europe> <organization.organization.founders> "Belgium" .
+<Crazy_Love> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245_zlqs" .
+<Battle_of_Belgium> <time.event.included_in_event> "Battle of France" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3hgfk" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04g9ysp" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Bastogne" .
+<m.0wg8wxc> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3qbqn" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc3glrt" .
+<Belgian_Federal_Parliament> <government.governmental_body.component_bodies> "Chamber of Representatives" .
+<Flemish_Brabant> <base.biblioness.bibs_location.country> "Belgium" .
+<Arrondissement_of_Tournai> <location.administrative_division.second_level_division_of> "Belgium" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc4nfsg" .
+<War_of_the_First_Coalition> <time.event.includes_event> "Flanders Campaign" .
+<Steve_+_Sky> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<Arrondissement_of_Thuin> <location.location.containedby> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "Pulsar" .
+<m.010gg22t> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245z4gg0" .
+<White_Snow> <media_common.netflix_title.netflix_genres> "French" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3lt_n" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrx8h" .
+<Country> <type.type.properties> "Administrative Divisions" .
+<Belgian_arrondissement> <base.aareas.schema.administrative_area_type.subdividing_type> "Belgian municipality" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4110_" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245z_w46" .
+<Council_of_Europe> <organization.membership_organization.members> "m.059_nwh" .
+<Hundred_Days> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3p99_" .
+<Belgium> <location.statistical_region.minimum_wage> "g.11b7gnqr4p" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn8lp" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wz5" .
+<Arrondissement_of_Kortrijk> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc50pnk" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4nw9p" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3kp9z" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs6bd" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1245y_0fz" .
+<Belgium> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3yzf4" .
+<Arrondissement_of_Marche-en-Famenne> <location.location.time_zones> "Central European Time Zone" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Belgium> <media_common.netflix_genre.titles> "Black Night" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4yx1d" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245_zlqt" .
+<First_level_divisions> <rdf-schema#domain> "Country" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4b1my" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.124606trl" .
+<Walloon_Brabant> <location.location.containedby> "Wallonia" .
+<Belgium> <book.book_subject.works> "The Folding Star" .
+<Liège> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.time_required_to_start_a_business> "g.1hhc489l5" .
+<White_Snow> <film.film.language> "French" .
+<Belgium> <organization.organization_founder.organizations_founded> "World Trade Organization" .
+<Location> <type.type.domain> "Location" .
+<Belgium> <location.country.administrative_divisions> "Antwerp" .
+<Crainquebille> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Arrondissement_of_Neufchâteau,_Belgium> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc5161n" .
+<Prime_Minister_of_Belgium> <government.government_office_or_title.office_holders> "m.0j5pgr7" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3gxnl" .
+<Belgium> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3lv1y" .
+<Belgium> <book.book_subject.works> "The exiled" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245zxfq_" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4zjlc" .
+<Country> <type.type.properties> "First level divisions" .
+<Belgium> <media_common.netflix_genre.titles> "Moscow, Belgium" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc3yvhz" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3v91z" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn8n6" .
+<m.04dj2hm> <organization.organization_membership.member> "Belgium" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4qq00" .
+<m.0df84jb> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<Liège> <base.aareas.schema.administrative_area.administrative_parent> "Wallonia" .
+<Belgium> <government.governmental_jurisdiction.agencies> "Banking, Finance and Insurance Commission" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsgn5" .
+<Central_European_Time_Zone> <common.topic.image> "ToÄen srednjeevropski Äas" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc50x4_" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.1245z3434" .
+<Arrondissement_of_Mechelen> <location.location.containedby> "Belgium" .
+<The_Misfortunates> <media_common.netflix_title.netflix_genres> "French" .
+<Belgium> <location.location.time_zones> "Central European Summer Time" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrz66" .
+<Arrondissement_of_Turnhout> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <book.book_subject.works> "Race of Scorpions" .
+<m.010gg1kt> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<m.0w9vnj9> <location.location_symbol_relationship.administrative_division> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrt2z" .
+<Belgium> <government.governmental_jurisdiction.agencies> "Financial Services and Markets Authority" .
+<Belgium> <location.statistical_region.diesel_price_liter> "g.12cp_jcf2" .
+<Chiers> <location.location.partially_contained_by> "m.0wg8wzb" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc3xkwl" .
+<North_European_Plain> <location.location.containedby> "Europe" .
+<m.0wg8wyp> <location.partial_containment_relationship.partially_contains> "Meuse" .
+<Belgium> <organization.organization_member.member_of> "m.059w8yf" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3xt7f" .
+<Allies_of_World_War_I> <military.military_combatant.includes_allies> "Belgium" .
+<World_Trade_Organization> <organization.organization.founders> "Belgium" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn81c" .
+<Liège> <location.administrative_division.country> "Belgium" .
+<Arrondissement_of_Ath> <location.location.containedby> "Belgium" .
+<Belgium> <location.country.form_of_government> "Parliamentary system" .
+<Leopold_III_of_Belgium> <people.person.children> "Baudouin of Belgium" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc3r2k9" .
+<Scheldt> <location.location.events> "Battle of the Scheldt" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3wt_x" .
+<m.011p1tvv> <sports.competitor_competition_relationship.country> "Belgium" .
+<m.0b6_42s> <organization.organization_membership.member> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc403sl" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc3_s_2" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.12461535s" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc3xkvv" .
+<Hainaut> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.1245z9b8v" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.12460tj41" .
+<m.0wg8wy6> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc42fkk" .
+<Fourth_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc522_s" .
+<Central_European_Time_Zone> <common.topic.notable_for> "g.1254yq_hs" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsp5" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4q8mc" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Campine" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc38hnr" .
+<Attert> <location.location.containedby> "Europe" .
+<Women> <film.film.country> "Belgium" .
+<Belgium> <location.location.partially_contains> "Haine" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn44b" .
+<22nd_of_May> <film.film.country> "Belgium" .
+<Artifacts> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Arrondissement_of_Thuin> <location.administrative_division.second_level_division_of> "Belgium" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.010gg1kt" .
+<West_Flemish> <language.human_language.main_country> "Belgium" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc45tmr" .
+<Spiritual_Exercises:_10_Films_by_Olivier_Smolders> <media_common.netflix_title.netflix_genres> "French" .
+<Battle_of_the_Bulge> <time.event.includes_event> "Operation Bodenplatte" .
+<My_Life_in_Pink> <film.film.language> "French" .
+<Private_Lessons> <media_common.netflix_title.netflix_genres> "French" .
+<Belgium> <media_common.netflix_genre.titles> "Vampires" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn8pr" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4k6ky" .
+<Sambre> <geography.river.basin_countries> "Belgium" .
+<Pulsar> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.124619h4x" .
+<A_Town_Called_Panic> <film.film.language> "French" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4vdmq" .
+<Niccolo_Rising> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3vxsh" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc3fgvy" .
+<ToÄen_srednjeevropski_Äas> <common.image.appears_in_topic_gallery> "Central European Time Zone" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.1245zw9_4" .
+<Herman_Maes> <people.person.nationality> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.12tb6f6w_" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3_pqn" .
+<Vampires> <media_common.netflix_title.netflix_genres> "French" .
+<Liège> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian province" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.1245z8zdk" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245z6jyn" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245ytngp" .
+<m.04p8xbs> <organization.organization_membership.member> "Belgium" .
+<m.05cmcb3> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.12460r1hg" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04fv50v" .
+<The_Memory_of_a_Killer> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc4h7n8" .
+<S.> <film.film.language> "Dutch Language" .
+<Barbu_d'Everberg> <biology.animal_breed.place_of_origin> "Belgium" .
+<Belgian_Ministry_of_Defence> <government.government_agency.jurisdiction> "Belgium" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3l8" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "g.123b3xm4" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.124615hgz" .
+<Belgium> <location.country.administrative_divisions> "Flanders" .
+<Metro> <book.newspaper.circulation_areas> "City of Brussels" .
+<Belgium> <media_common.netflix_genre.titles> "My Life in Pink" .
+<Belgium> <location.location.events> "1985 Brussels summit" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4bpgn" .
+<2012_World_Mountain_Running_Championships> <sports.multi_event_tournament.participating_countries> "Belgium" .
+<Battle_of_the_Yser> <time.event.locations> "Belgium" .
+<A_Couch_in_New_York> <film.film.language> "French" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc53pjf" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245zj9d0" .
+<2010_Winter_Olympics> <olympics.olympic_games.participating_countries> "Belgium" .
+<Belgium> <location.country.administrative_divisions> "Wallonia" .
+<Belgium> <media_common.netflix_genre.titles> "Just Friends" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3x417" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsdkl" .
+<Belgium> <media_common.netflix_genre.titles> "My Queen Karo" .
+<Belgium> <military.military_combatant.military_conflicts> "m.09hywvz" .
+<Administrative_Division> <freebase.type_profile.kind> "Description" .
+<Belgium> <location.location.events> "Operation Crossbow" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3mgk_" .
+<m.010gg17t> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<ArrAalstLocation> <common.image.size> "m.029fslz" .
+<m.0hzxw0y> <measurement_unit.recurring_money_value.currency> "Euro" .
+<State/Province/Region> <rdf-schema#range> "Administrative Division" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrt0h" .
+<Brabanter> <biology.animal_breed.place_of_origin> "Belgium" .
+<22nd_of_May> <film.film.language> "Dutch Language" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Belgian Warmblood" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4mt_n" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3gs" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsgws" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsrgh" .
+<Arrondissement_of_Neufchâteau,_Belgium> <common.topic.notable_types> "Administrative Division" .
+<Our> <location.location.partially_contained_by> "m.0wg8wyv" .
+<Belgium> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6cp2k4b" .
+<Arrondissement_of_Aalst> <common.topic.image> "ArrAalstLocation" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Dendermonde" .
+<Belgium> <base.aareas.schema.administrative_area.administrative_children> "Flemish Region" .
+<Villa_Des_Roses> <film.film.language> "French" .
+<Scheldt> <location.location.partially_containedby> "Belgium" .
+<m.0gkjnx1> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<Yser> <location.location.partially_contained_by> "m.0wg8wy6" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.level> "Sovereign state" .
+<Dutch_Language> <media_common.netflix_genre.titles> "Loft" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0k3t3gr" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc53cf7" .
+<Belgium> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc4hch0" .
+<Dutch_Language> <media_common.netflix_genre.titles> "Ex Drummer" .
+<A_Town_Called_Panic> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4h3" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zbng9" .
+<Altiplano> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4j5gg" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245zg_f8" .
+<Cóndor> <book.newspaper.circulation_areas> "Belgium" .
+<Belgium> <base.aareas.schema.administrative_area.administrative_children> "Brussels-Capital Region" .
+<Tactical_development_on_the_Western_Front_in_1917> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.12cp_h_gp" .
+<Arrondissement_of_Ypres> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3wmfz" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4c0cr" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs734" .
+<Luke_and_Lucy:_The_Texas_Rangers> <media_common.netflix_title.netflix_genres> "Belgium" .
+<m.0wg8wzn> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Leopold_III_of_Belgium> <people.person.children> "Albert II of Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245zzj8l" .
+<Inde> <location.location.partially_contained_by> "m.0wg8wzt" .
+<German_Language> <language.human_language.region> "Europe" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3n9mp" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3vhb0" .
+<m.0hzxw49> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgian_province> <base.aareas.schema.administrative_area_type.iso_country> "Belgium" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245z0p_4" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw5f" .
+<m.09xh6d2> <common.webpage.topic> "Belgium" .
+<Belgium> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3bjkv" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3_gqy" .
+<Leopold_I_of_Belgium> <royalty.monarch.kingdom> "Belgium" .
+<m.0wg8wxw> <location.partial_containment_relationship.partially_contains> "Belfries of Belgium and France" .
+<Second_level_divisions> <type.property.reverse_property> "Second level division of" .
+<m.062trqn> <military.military_combatant_group.conflict> "Battle of the Frontiers" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3wv8x" .
+<Belgium> <location.location.events> "Planned French invasion of Britain" .
+<m.0bb_l1q> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "22nd of May" .
+<m.059_nwh> <organization.organization_membership.organization> "Council of Europe" .
+<Belgium> <military.military_combatant.force_deployments> "m.04lkt86" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn38q" .
+<Dutch_Language> <media_common.netflix_genre.titles> "Everybody's Famous!" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1246043ty" .
+<Moscow,_Belgium> <film.film.language> "Dutch Language" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc3v5vz" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxk2" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw3r" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4cp1b" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.1245z1mpk" .
+<m.05nnmxx> <military.military_combatant_group.conflict> "Belgian Revolution" .
+<Third_level_division_of> <type.property.expected_type> "Country" .
+<Belgium> <base.aareas.schema.administrative_area.pertinent_type> "Belgian province" .
+<m.04z6cs3> <military.military_combatant_group.combatants> "Belgium" .
+<Belgian_Shepherd> <biology.animal_breed.place_of_origin> "Belgium" .
+<EuRegio_SaarLorLuxRhin> <location.location.partially_containedby> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "3 Guys, 1 Girl, 2 Weddings" .
+<Arrondissement_of_Turnhout> <location.location.containedby> "Belgium" .
+<Belgium> <location.country.form_of_government> "Representative democracy" .
+<First_level_divisions> <owl#inverseOf> "First level division of" .
+<m.0wg8wy0> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Ex_Drummer> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc41c1y" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc3hsh1" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.12cp_k2rz" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4391x" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn8ks" .
+<Arrondissement_of_Ypres> <location.administrative_division.second_level_division_of> "Belgium" .
+<Metro> <book.periodical.language> "French" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs73x" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc37pq9" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4pp7v" .
+<Belgium> <location.statistical_region.minimum_wage> "g.12460kjlh" .
+<Arrondissement_of_Kortrijk> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc388km" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3l214" .
+<Battle_of_Lanzerath_Ridge> <time.event.included_in_event> "Battle of the Bulge" .
+<Arrondissement_of_Namur> <location.location.containedby> "Belgium" .
+<Meuse–Rhine_Euroregion> <location.location.contains> "Liège" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrz4v" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3d34c" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460bkt4" .
+<Rur> <location.location.containedby> "Europe" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3msnl" .
+<Belgium> <media_common.netflix_genre.titles> "The Promise" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc47p04" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc38qp0" .
+<Dated_location> <freebase.type_profile.published> "Published" .
+<Character> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsgpz" .
+<Belgium> <media_common.netflix_genre.titles> "White Snow" .
+<Belgium> <common.topic.notable_types> "Country" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc51hml" .
+<m.05kyh1n> <organization.organization_membership.member> "Belgium" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn3b5" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc3f_h3" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4gdtc" .
+<Manneken_Pis> <location.location.containedby> "Belgium" .
+<The_Child> <film.film.language> "French" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc38hlg" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmpd" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc53smj" .
+<Wallonia> <base.aareas.schema.administrative_area.administrative_children> "Liège" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Aalst" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc42vz1" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc4l7yl" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4yx4w" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsrhs" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.124604q7f" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.12tb6h4t2" .
+<Belgium> <common.topic.webpage> "m.0b48k0z" .
+<m.046cvbh> <location.adjoining_relationship.adjoins> "Belgium" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsgpr" .
+<Belgium> <common.topic.image> "belgium.jpg" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc45mg9" .
+<Central_European_Time_Zone> <common.topic.article> "m.02llzr" .
+<Belgium> <location.location.geolocation> "m.046vxk2" .
+<m.0wg8wx6> <location.partial_containment_relationship.partially_contains> "EuRegio SaarLorLuxRhin" .
+<Belgium> <location.location.events> "Battle of Lanzerath Ridge" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3yv42" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.124602dd0" .
+<m.04fv50v> <military.military_combatant_group.combatants> "Belgium" .
+<Belfius_Mons-Hainaut> <sports.sports_team.location> "Belgium" .
+<Mr._Average> <film.film.language> "French" .
+<Belgium> <media_common.netflix_genre.titles> "The Misfortunates" .
+<When_the_Sea_Rises> <media_common.netflix_title.netflix_genres> "Belgium" .
+<The_Curiosity_of_Chance> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Jeker> <location.location.partially_containedby> "Belgium" .
+<Earth> <base.aareas.schema.administrative_area.pertinent_type> "Sovereign state" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrx88" .
+<Leopold_III_of_Belgium> <people.person.place_of_birth> "Brussels" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245_n39c" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4cm" .
+<Limburg> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.124606mk0" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3hf" .
+<Administrative_Divisions> <type.property.expected_type> "Administrative Division" .
+<Belgium> <military.military_combatant.military_conflicts> "m.09j2xly" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.124601tzj" .
+<Belgium> <military.military_combatant.military_conflicts> "m.09l3xk3" .
+<Arrondissement_of_Aalst> <common.topic.article> "m.01p_mj" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245zd09x" .
+<Belgium> <military.military_combatant.belongs_to_combatant_group> "Allies of World War I" .
+<1952_Summer_Olympics> <olympics.olympic_games.participating_countries> "Belgium" .
+<Vampires> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3sm_4" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc51ps9" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc47bbx" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4bh4l" .
+<Belgian_arrondissement> <base.aareas.schema.administrative_area_type.iso_country> "Belgium" .
+<East_Flanders> <location.location.containedby> "Flemish Region" .
+<Belgium> <location.statistical_region.net_migration> "g.1s05_3r8s" .
+<Belgium> <military.military_combatant.military_conflicts> "m.06wj_vg" .
+<Belgium> <location.country.administrative_divisions> "Flemish Brabant" .
+<Belgium> <location.country.languages_spoken> "West Flemish" .
+<Belgium> <location.statistical_region.net_migration> "g.1q5jlcsgj" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw2x" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Bouvier des Flandres" .
+<Herman_Maes> <common.topic.subject_of> "Belgium" .
+<Flemish_Region> <base.aareas.schema.administrative_area.administrative_children> "Limburg" .
+<Prime_Minister_of_Belgium> <government.government_office_or_title.jurisdiction> "Belgium" .
+<Vampires> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc53x2c" .
+<Belgium> <location.statistical_region.foreign_direct_investment_net_inflows> "g.11b71rkqgt" .
+<m.0wg8w_f> <location.partial_containment_relationship.partially_contains> "Wiltz" .
+<Dutch_Language> <language.human_language.countries_spoken_in> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4f8h_" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw35" .
+<Flemish_Brabant> <base.aareas.schema.administrative_area.administrative_parent> "Flemish Region" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrt08" .
+<m.052b2k5> <military.military_combatant_group.combatants> "Belgium" .
+<Glenn:_The_Flying_Robot> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc44f90" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.12460dnjs" .
+<Belgium> <sports.sports_team_location.teams> "Belfius Mons-Hainaut" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04y_th0" .
+<Second_level_division_of> <type.property.schema> "Administrative Division" .
+<Arrondissement_of_Diksmuide> <location.location.time_zones> "Central European Time Zone" .
+<Flemish_Region> <location.location.contains> "Flemish Brabant" .
+<Belgium> <military.military_combatant.military_conflicts> "m.048z_dd" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wxc" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs7f9" .
+<Belgian_Federal_Parliament> <government.governmental_body.component_bodies> "Senate" .
+<Arrondissement_of_Tielt> <common.topic.notable_types> "Administrative Division" .
+<Belgian_municipality> <base.aareas.schema.administrative_area_type.pertains_to> "Belgium" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.12460h6v8" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrz6n" .
+<Administrative_Division> <freebase.type_profile.equivalent_topic> "Administrative division" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc47nrf" .
+<Arrondissement_of_Brussels-Capital> <location.administrative_division.country> "Belgium" .
+<m.0d89jcn> <government.national_anthem_of_a_country.country> "Belgium" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Lagotto Romagnolo" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.12460ghnv" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc42rrr" .
+<Belgium> <book.book_subject.works> "Scales of Gold" .
+<m.0wg94h4> <location.partial_containment_relationship.partially_contained_by> "North European Plain" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs74f" .
+<Alias> <media_common.netflix_title.netflix_genres> "Belgium" .
+<1974_Brussels_summit> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs7gb" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4lz65" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw1s" .
+<m.0hzxw3r> <measurement_unit.recurring_money_value.currency> "Euro" .
+<m.0gkjnx1> <government.government_position_held.office_position_or_title> "Prime Minister of Belgium" .
+<m.0df84jb> <government.government_position_held.office_position_or_title> "Prime Minister of Belgium" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc39w_h" .
+<Belgium> <location.statistical_region.minimum_wage> "g.124618rl3" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1s05y9gwh" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.12tb6h4r2" .
+<Belgium> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4nnj9" .
+<m.06gcn27> <rdf-schema#range> "Administrative Division" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrt01" .
+<Country> <type.type.properties> "Fourth level divisions" .
+<m.0wg8wzz> <location.partial_containment_relationship.partially_contains> "Haine" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.11b60t8r8d" .
+<Antwerp> <location.administrative_division.country> "Belgium" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn6l" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1246035pf" .
+<Leopold_II_of_Belgium> <people.person.parents> "Leopold I of Belgium" .
+<Barbu_d'Anvers> <biology.animal_breed.place_of_origin> "Belgium" .
+<Chiers> <location.location.containedby> "Europe" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsrg7" .
+<Federal_Public_Service_Justice> <government.government_agency.jurisdiction> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1q5jlcrmg" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Antwerp" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3g_" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc45_yr" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Marche-en-Famenne" .
+<Belgium> <location.statistical_region.time_required_to_start_a_business> "g.1s05_dl3w" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3m0lg" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3gb" .
+<Second_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.12460f5y0" .
+<Administrative_Division> <freebase.type_hints.included_types> "Topic" .
+<Federal_Government_of_Belgium> <government.government.agency> "Statistics Belgium" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Groenendael" .
+<Belgium> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4stwz" .
+<Belgium> <periodicals.newspaper_circulation_area.newspapers> "Gazette van Detroit" .
+<Belgium> <location.location.events> "Blonde tour" .
+<Antwerp> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian province" .
+<Missing_Link> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4xdxy" .
+<Crainquebille> <film.film.country> "Belgium" .
+<Belgian_arrondissement> <freebase.type_hints.included_types> "Topic" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc52y_r" .
+<1985_Brussels_summit> <time.event.locations> "Belgium" .
+<Belgium> <location.location.partially_contains> "Sauer" .
+<Belgium> <location.country.form_of_government> "Constitutional monarchy" .
+<m.0wg8wxj> <location.partial_containment_relationship.partially_contains> "Euregio Benelux-Middengebied" .
+<Belgium> <media_common.netflix_genre.titles> "Everybody's Famous!" .
+<Battle_of_the_Scheldt> <time.event.locations> "Scheldt" .
+<Belgium> <media_common.netflix_genre.titles> "Artifacts" .
+<Belgium> <base.statistics.motor_vehicle_producer.motor_vehicles_produced> "m.010r1fw_" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3qgb6" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc403j4" .
+<Battle_of_France> <time.event.includes_event> "Battle of Belgium" .
+<The_Seacoast_of_Bohemia> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsgk2" .
+<Battle_of_France> <military.military_conflict.combatants> "m.048z_dd" .
+<Belgium> <location.location.events> "Operation Bodenplatte" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4b5gb" .
+<Belgium> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3mxk_" .
+<2014_Gent–Wevelgem> <time.event.locations> "Belgium" .
+<Belgium> <book.book_subject.works> "We Shall Not Sleep" .
+<Belgium> <location.statistical_region.net_migration> "g.1s05w_1rg" .
+<Loft> <media_common.netflix_title.netflix_genres> "Belgium" .
+<City_of_Brussels> <location.location.time_zones> "Central European Time Zone" .
+<My_Queen_Karo> <film.film.language> "Dutch Language" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc40yr7" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4390m" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wyv" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc522zz" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3sr57" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc4s4xh" .
+<Character> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<When_the_Sea_Rises> <film.film.language> "French" .
+<Belgium> <military.military_combatant.casualties> "m.04lkt8z" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Diksmuide" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsyf" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_wdbb" .
+<Belgium> <location.statistical_region.net_migration> "g.1q5jj_y4z" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc49n6n" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3qkrd" .
+<Belgium> <location.location.events> "1994 Brussels summit" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc403gb" .
+<Belgium> <book.book_subject.works> "The Ardennes Offensive 1 Armee & VII Armee" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12461303q" .
+<Belgium> <location.location.partially_contains> "Wiltz" .
+<Belgium> <location.location.events> "Battle of Château-Thierry" .
+<m.0wg8wzb> <location.partial_containment_relationship.partially_contains> "Chiers" .
+<Arrondissement_of_Diksmuide> <common.topic.notable_types> "Administrative Division" .
+<Walloon_Brabant> <common.topic.notable_types> "Administrative Division" .
+<Haine> <geography.river.mouth> "Scheldt" .
+<The_Child> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245_4_nd" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc46qtr" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.0j5pgr7" .
+<Wallonia> <location.location.contains> "Luxembourg" .
+<Belgium> <location.location.partially_contains> "Semois" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw3g" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4hb" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wzz" .
+<Bloodhound> <biology.animal_breed.place_of_origin> "Belgium" .
+<Euregio_Benelux-Middengebied> <location.location.partially_contained_by> "m.0wg8wxj" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3hg11" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc4wh4f" .
+<m.0wg8wyc> <location.partial_containment_relationship.partially_contains> "Sambre" .
+<Bouvier_des_Flandres> <biology.animal_breed.place_of_origin> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245_mknn" .
+<Antwerp> <location.location.containedby> "Belgium" .
+<Belgian_province> <base.aareas.schema.administrative_area_type.subdivides_type> "Belgian region" .
+<Central_European_Time_Zone> <common.topic.notable_types> "Time Zone" .
+<Dutch_Language> <media_common.netflix_genre.titles> "Alias" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.010gg2pp" .
+<Croix_Scaille> <location.location.partially_containedby> "Belgium" .
+<m.02sd_z8> <location.adjoining_relationship.adjoins> "Belgium" .
+<Spiritual_Exercises:_10_Films_by_Olivier_Smolders> <media_common.netflix_title.netflix_genres> "Belgium" .
+<First_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.1245_rbvk" .
+<Time_Zone> <freebase.type_profile.published> "Published" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3p5" .
+<Belgium> <location.location.events> "Battle of France" .
+<Time_Zone> <freebase.type_hints.included_types> "Topic" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxm9" .
+<Dutch_Language> <media_common.netflix_genre.titles> "My Queen Karo" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.12460h778" .
+<West_Flanders> <location.location.containedby> "Flemish Region" .
+<m.0j5pgr7> <government.government_position_held.office_position_or_title> "Prime Minister of Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc45_xk" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245_m00c" .
+<Herman_Maes> <people.person.languages> "French" .
+<Brussels-Capital_Region> <common.topic.notable_types> "Administrative Division" .
+<Belgian_arrondissement> <base.aareas.schema.administrative_area_type.pertains_to> "Belgium" .
+<Leopold_I_of_Belgium> <people.person.children> "Leopold II of Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460q38z" .
+<European_Union> <organization.organization.geographic_scope> "Europe" .
+<Action_of_Elouges> <time.event.locations> "Belgium" .
+<War_of_the_First_Coalition> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3fsgd" .
+<Belgium> <location.location.adjoin_s> "m.02sd_zh" .
+<Semois> <location.location.partially_contained_by> "m.0wg8wzn" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3pmz6" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3wv8y" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc42dtf" .
+<Third_level_division_of> <type.property.schema> "Administrative Division" .
+<The_King_Incorporated> <book.written_work.subjects> "Europe" .
+<Belgium> <government.governmental_jurisdiction.government> "Federal Government of Belgium" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc3mbyg" .
+<Belgium> <media_common.netflix_genre.titles> "Altiplano" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245_yp5k" .
+<The_Stars_Caravan> <media_common.netflix_title.netflix_genres> "Belgium" .
+<m.0hzxw5_> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <olympics.olympic_participating_country.olympics_participated_in> "2002 Winter Olympics" .
+<Operation_Bodenplatte> <time.event.included_in_event> "Battle of the Bulge" .
+<Haine> <location.location.containedby> "Europe" .
+<Belgium> <media_common.netflix_genre.titles> "Character" .
+<Albert_I_of_Belgium> <royalty.monarch.kingdom> "Belgium" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zcmsd" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4n73z" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3n9mn" .
+<m.0wq9stg> <location.partial_containment_relationship.partially_contains> "Croix Scaille" .
+<Arrondissement_of_Antwerp> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <common.topic.webpage> "m.02hvbn3" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.12460847r" .
+<Belgium> <location.location.partially_contains> "Euregio Scheldemond" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrx9w" .
+<Belgian_Warmblood> <biology.animal_breed.place_of_origin> "Belgium" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Papillon" .
+<Limburg> <location.administrative_division.country> "Belgium" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245zrvwq" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsgqf" .
+<West_Flanders> <location.location.containedby> "Europe" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1q5jby6tx" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3xgkd" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3zl50" .
+<Picard_Language> <language.human_language.region> "Europe" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn3ch" .
+<Belgium> <location.location.events> "Battle of Fleurus" .
+<Eurasia> <common.topic.notable_types> "Location" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4tfw9" .
+<Belgium> <location.country.internet_tld> "be" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc4114c" .
+<Administrative_Division> <type.type.expected_by> "m.06gcn27" .
+<m.049375p> <location.imports_and_exports.exported_to> "Belgium" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04yw370" .
+<Belgium> <media_common.netflix_genre.titles> "Glenn: The Flying Robot" .
+<m.0hzxw2m> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3n9h_" .
+<Combat> <media_common.netflix_title.netflix_genres> "French" .
+<Belgium> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4g9dl" .
+<Banking,_Finance_and_Insurance_Commission> <government.government_agency.jurisdiction> "Belgium" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_ltrk" .
+<The_exiled> <book.written_work.subjects> "Belgium" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.0w9vm11" .
+<Belgium> <organization.organization_member.member_of> "m.04dj2hm" .
+<Limburg> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian province" .
+<Administrative_Division> <type.type.properties> "FIPS 10-4 Region Code" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsxs" .
+<Wallonia> <base.aareas.schema.administrative_area.administrative_children> "Namur" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc41kng" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4q27y" .
+<Luke_and_Lucy:_The_Texas_Rangers> <film.film.language> "French" .
+<Belgium> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4r37m" .
+<Belgium> <organization.organization_founder.organizations_founded> "North Atlantic Treaty Organization (NATO)" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460lht3" .
+<Central_European_Summer_Time> <time.time_zone.locations_in_this_time_zone> "Belgium" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc53l3t" .
+<Belgium> <base.aareas.schema.administrative_area.administrative_children> "Wallonia" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn662" .
+<m.0w8p9dq> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<Belgium> <common.topic.subjects> "Herman Maes" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3ff" .
+<m.0wg8wzh> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Crazy_Love> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Western_Front> <time.event.includes_event> "Battle of the Frontiers" .
+<m.010gg1t2> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<German_invasion_of_Belgium> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsxb" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4dh" .
+<m.0wg8wy_> <location.partial_containment_relationship.partially_contains> "Oise" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsgl5" .
+<Inde> <geography.river.basin_countries> "Belgium" .
+<Belgium> <location.location.events> "2012 Festival Lesbien Gay Bi Trans de Belgique" .
+<Belgium> <base.aareas.schema.administrative_area.pertinent_type> "Belgian arrondissement" .
+<Wallonia> <base.aareas.schema.administrative_area.administrative_children> "Hainaut" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245__jpx" .
+<Jeker> <geography.river.basin_countries> "Belgium" .
+<First_level_division_of> <type.property.schema> "Administrative Division" .
+<Popular_monarchy> <government.form_of_government.countries> "Belgium" .
+<Arrondissement_of_Turnhout> <location.administrative_division.second_level_division_of> "Belgium" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Statistical region" .
+<German_Language> <book.translation.language> "German Language" .
+<To_lie_with_lions> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3zlb9" .
+<Flanders> <location.administrative_division.country> "Belgium" .
+<Belgium> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4hz2m" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.12460pqnp" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.1245_8rs5" .
+<Walloon_Brabant> <location.administrative_division.country> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "Hop" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxkr" .
+<The_Ardennes_Offensive_1_Armee_&_VII_Armee> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4t0_2" .
+<Belgium> <book.book_subject.works> "The lady and the unicorn" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3bf8z" .
+<Third_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Lorna's_Silence> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "g.12cp_kgf2" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245yztd0" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.124601tk4" .
+<m.04lkt5r> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460szwj" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Oudenaarde" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmp4" .
+<Braekel> <biology.animal_breed.place_of_origin> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "A Town Called Panic" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc39slh" .
+<Brussels> <base.biblioness.bibs_topic.subsumes> "Brussels" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4zqz0" .
+<m.010gg6pr> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<Vampires> <film.film.language> "French" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4630g" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc42fln" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Turnhout" .
+<Belgium> <location.location.partiallycontains> "m.0wg8w_f" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs7dt" .
+<North_European_Plain> <common.topic.notable_types> "Location" .
+<Chiers> <location.location.partially_containedby> "Belgium" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4ppdc" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245y_rmb" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4sh1d" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245zydw6" .
+<Central_European_Time_Zone> <time.time_zone.day_dst_ends> "Last Sunday in October" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wxp" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.1245zb8k2" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc45tgl" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc403ng" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn49l" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn43x" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04yzz7m" .
+<La_Dama_Y_El_Unicornio> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.location.events> "1988 Brussels summit" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc49f4f" .
+<Meuse> <location.location.containedby> "Europe" .
+<Country> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Second_level_division_of> <rdf-schema#range> "Country" .
+<Belgium> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6dbbq49" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrx4k" .
+<Battle_of_Pilckem_Ridge> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245_rxgy" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc53pjd" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<Character> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.1245zvjrj" .
+<Black_Night> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs6cn" .
+<Rur> <location.location.partially_containedby> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxld" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3d2rs" .
+<Belgium> <location.statistical_region.net_migration> "g.1q5k23sdg" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Tournai" .
+<m.0hzxw1s> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Chiers> <geography.river.basin_countries> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "m.05nc0kt" .
+<Battle_of_Fleurus> <time.event.locations> "Belgium" .
+<m.0wg8wy_> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.124609vmf" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4ypp2" .
+<Arrondissement_of_Ypres> <location.location.containedby> "Belgium" .
+<Arrondissement_of_Dendermonde> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <government.governmental_jurisdiction.government_bodies> "Belgian Federal Parliament" .
+<m.0hzxw6v> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4wppb" .
+<Belgium> <location.location.partially_contains> "Euregio Benelux-Middengebied" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Phalène" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.0j5pgq5" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmpn" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc38hmf" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc53837" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3gt79" .
+<Vivian> <event.disaster.areas_affected> "Belgium" .
+<Arrondissement_of_Diksmuide> <location.location.containedby> "Belgium" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Braekel" .
+<Private_Lessons> <film.film.language> "French" .
+<m.0hzxw02> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Operation_Crossbow> <time.event.locations> "Belgium" .
+<Belgium> <location.location.partially_contains> "Sambre" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc47nrd" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4zyj7" .
+<The_Promise> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.11b60w919n" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245z342l" .
+<Combat> <film.film.country> "Belgium" .
+<Luke_and_Lucy:_The_Texas_Rangers> <film.film.language> "Dutch Language" .
+<Pulsar> <film.film.language> "Dutch Language" .
+<Belgium> <location.location.adjoin_s> "m.02shm4h" .
+<Belgium> <location.statistical_region.places_imported_from> "m.0cl9ld5" .
+<Belgium> <sports.sports_team_location.teams> "Flandria" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc3z8fb" .
+<Baudouin_of_Belgium> <royalty.monarch.kingdom> "Belgium" .
+<Arrondissement_of_Tongeren> <location.location.time_zones> "Central European Time Zone" .
+<Sauer> <location.location.containedby> "Europe" .
+<Belgian_arrondissement> <base.aareas.schema.administrative_area_type.sovereignty> "Belgium" .
+<Belgium> <military.military_combatant.military_conflicts> "m.05nnmxx" .
+<Second_level_divisions> <type.property.schema> "Country" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Bichon Frise" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4j59t" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4mhd8" .
+<Europe> <organization.organization_scope.organizations_with_this_scope> "European Union" .
+<Federation> <government.form_of_government.countries> "Belgium" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3n6k8" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc51627" .
+<Belgium> <media_common.netflix_genre.titles> "Private Lessons" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4b1lt" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.11b60ptk6n" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsrgr" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw2m" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.12460jdf3" .
+<The_Battle_of_the_Bulge> <book.written_work.subjects> "Belgium" .
+<De_Dag> <book.newspaper.circulation_areas> "Belgium" .
+<Attert> <location.location.partially_containedby> "Belgium" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc3msff" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3tsk3" .
+<m.0hzxw4w> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245_vdk4" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs68s" .
+<m.09w2w3d> <common.webpage.topic> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrszj" .
+<Belgium> <location.location.events> "Battle of the Frontiers" .
+<Antwerp> <location.location.containedby> "Flemish Region" .
+<Belgium> <location.location.adjoin_s> "m.02sd_yv" .
+<Belgium> <government.governmental_jurisdiction.agencies> "Belgian Ministry of Defence" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3m79m" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245yvz6r" .
+<Battle_of_Lanzerath_Ridge> <time.event.locations> "Belgium" .
+<The_Promise> <media_common.netflix_title.netflix_genres> "Belgium" .
+<m.0wg8wzh> <location.partial_containment_relationship.partially_contains> "Leie" .
+<m.0wg8w_8> <location.partial_containment_relationship.partially_contains> "Attert" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4vdv5" .
+<m.0wg8w_3> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Les_Démoniaques> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.12tb6flv2" .
+<Administrative_Division> <freebase.type_hints.included_types> "Statistical region" .
+<My_Life_in_Pink> <media_common.netflix_title.netflix_genres> "French" .
+<Second_level_divisions> <rdf-schema#domain> "Country" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs678" .
+<Dated_location> <type.type.domain> "Location" .
+<2011_Afrika_Film_Festival> <time.event.locations> "Belgium" .
+<Battle_of_the_Bulge> <time.event.includes_event> "Battle of Lanzerath Ridge" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3jtsm" .
+<Luxembourg> <location.administrative_division.country> "Belgium" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsdly" .
+<Battle_of_the_Scheldt> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw6v" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.1245_0sh7" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc46r3x" .
+<East_Flanders> <base.aareas.schema.administrative_area.administrative_area_type> "Belgian province" .
+<Belgium> <location.statistical_region.net_migration> "g.1s0609k4c" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.1245z03h7" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc51_fb" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3d6bl" .
+<Battle_of_France> <time.event.locations> "Belgium" .
+<Belgium> <location.location.events> "2013 Afrika Film Festival" .
+<m.05988g3> <organization.organization_membership.member> "Belgium" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3r2hh" .
+<m.09l3xk3> <military.military_combatant_group.combatants> "Belgium" .
+<m.0j5pgr7> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<m.048z_mf> <military.military_command.military_conflict> "Battle of France" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.12460hg2g" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3drgq" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc425x0" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4748h" .
+<Belgium> <book.book_subject.works> "Waterloo" .
+<Belgium> <military.military_combatant.military_conflicts> "m.09sdm4p" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245z_vvn" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4pp7t" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.1q5jt4470" .
+<Mr._Average> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "g.120rrddc" .
+<North_European_Plain> <location.location.partiallycontains> "m.0wg94h4" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrt22" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc4t0x6" .
+<Administrative_Divisions> <type.property.master_property> "Country" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4zfdw" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zql1g" .
+<Belgium> <location.country.form_of_government> "Monarchy" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc485dw" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Abstract" .
+<Belgium> <royalty.kingdom.rulers> "Baudouin of Belgium" .
+<Battle_of_Fleurus> <time.event.included_in_event> "Hundred Days" .
+<Belgium> <location.country.administrative_divisions> "Limburg" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.12tb6h4vb" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3pyjl" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsrjs" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_9gmj" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc53sm_" .
+<With_The_Allies> <book.written_work.subjects> "Belgium" .
+<Belgium> <location.country.administrative_divisions> "Arrondissement of Brussels-Capital" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Neufchâteau, Belgium" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc4shcp" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn8qd" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc37crw" .
+<Belgium> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3rdmt" .
+<My_Queen_Karo> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "The Devil's Double" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Barbu d'Anvers" .
+<Belgium> <location.location.events> "Battle of Langemarck" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Tielt" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3lmb1" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4qlhx" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw40" .
+<Battle_of_Steppes> <time.event.locations> "Belgium" .
+<Manneken_Pis> <travel.tourist_attraction.near_travel_destination> "Belgium" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc52mmx" .
+<Administrative_Division> <type.type.properties> "ISO 3166-2 Code" .
+<Angel_At_Sea> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Battle_of_the_Yser> <time.event.locations> "Yser" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.12460s64g" .
+<Semois> <location.location.partially_containedby> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245zlp0k" .
+<Baudouin_of_Belgium> <people.person.parents> "Leopold III of Belgium" .
+<m.0wg8wyj> <location.partial_containment_relationship.partially_contains> "Dommel" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3jm9x" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxmj" .
+<Attert> <location.location.partially_contained_by> "m.0wg8w_8" .
+<Villa_Des_Roses> <film.film.country> "Belgium" .
+<Arrondissement_of_Marche-en-Famenne> <location.administrative_division.second_level_division_of> "Belgium" .
+<Arrondissement_of_Marche-en-Famenne> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4p4td" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.12tb6g_c8" .
+<Belgian_regional_elections,_2014> <time.event.locations> "Belgium" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Hasselt" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3nprh" .
+<Country> <rdf-schema#range> "Country" .
+<My_Life_in_Pink> <media_common.netflix_title.netflix_genres> "Belgium" .
+<West_Flanders> <common.topic.notable_types> "Administrative Division" .
+<Limburg> <base.aareas.schema.administrative_area.administrative_parent> "Flemish Region" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460wdss" .
+<The_Spring_of_the_Ram> <book.written_work.subjects> "Europe" .
+<Meuse–Rhine_Euroregion> <location.location.partially_contained_by> "m.0wg8wxc" .
+<Belgium> <location.location.events> "Battle of Belgium" .
+<m.03w602d> <organization.organization_membership.organization> "European Union" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs67s" .
+<Belgium> <location.location.adjoin_s> "m.02sd_z8" .
+<Man_Bites_Dog> <film.film.country> "Belgium" .
+<Belgium> <location.location.partiallycontains> "m.0wg8wzb" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc4xn0z" .
+<Albert_II_of_Belgium> <people.person.nationality> "Belgium" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc5132y" .
+<1988_Brussels_summit> <time.event.locations> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460kbf2" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460xxjl" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04z2vny" .
+<m.0wg8wy0> <location.partial_containment_relationship.partially_contains> "Rur" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.0df84j2" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn5l" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4b1gg" .
+<m.02shm4h> <location.adjoining_relationship.adjoins> "Belgium" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_0_93" .
+<Belgium> <location.country.currency_used> "Euro" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc40jvl" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3s6p6" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc4krfy" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs688" .
+<Vivian> <time.event.locations> "Belgium" .
+<Earth> <base.locations.planets.continents_within> "Europe" .
+<Belgium> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6dbbq31" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4z3b6" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.12460brw2" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn72" .
+<Flanders> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3qx31" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.12460x4ss" .
+<Pulsar> <film.film.language> "French" .
+<Belgium> <book.book_subject.works> "The German Terror In Belgium" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4kb2b" .
+<Belgium> <location.statistical_region.minimum_wage> "g.12460n63y" .
+<Belgium> <location.statistical_region.minimum_wage> "m.0hzxw4l" .
+<m.0wg8wz5> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Fourth_level_divisions> <type.property.schema> "Country" .
+<Administrative_Division> <type.type.properties> "Second level division of" .
+<Belgian_municipality> <base.aareas.schema.administrative_area_type.sovereignty> "Belgium" .
+<The_Promise> <media_common.netflix_title.netflix_genres> "French" .
+<Namur> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrt2j" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3gh8v" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245_qf02" .
+<Brussels> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <symbols.name_source.namesakes> "1052 Belgica" .
+<Arrondissement_of_Aalst> <common.topic.article> "m.02pnnnq" .
+<Hainaut> <base.aareas.schema.administrative_area.administrative_parent> "Wallonia" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4nwbc" .
+<Arrondissement_of_Antwerp> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4czb_" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3gt6j" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4wgvx" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Irish Wolfhound" .
+<Belgium> <location.location.adjoin_s> "m.04hy1tc" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.124614y1s" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4t_m1" .
+<Country> <freebase.type_hints.included_types> "Location" .
+<The_Misfortunates> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4qhbv" .
+<Belgian_arrondissement> <freebase.type_hints.included_types> "Location" .
+<Belgium> <book.book_subject.works> "Gemini" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc3z831" .
+<Belgium> <location.statistical_region.diesel_price_liter> "g.12cp_k6lf" .
+<Belgium> <symbols.flag_referent.flag> "m.0jrbymy" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3v2ns" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245_gjwc" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3fsjz" .
+<Everybody's_Famous!> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxjn" .
+<Namur> <location.administrative_division.country> "Belgium" .
+<Herman_Maes> <people.person.languages> "Dutch Language" .
+<3_Guys,_1_Girl,_2_Weddings> <media_common.netflix_title.netflix_genres> "French" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.12460cp_0" .
+<Arrondissement_of_Brussels-Capital> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs73n" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Bloodhound" .
+<m.059w8yf> <organization.organization_membership.member> "Belgium" .
+<Belgian_region> <base.aareas.schema.administrative_area_type.subdividing_type> "Belgian province" .
+<m.06wgtwf> <military.military_combatant_group.combatants> "Belgium" .
+<Mr._Average> <media_common.netflix_title.netflix_genres> "French" .
+<Belgium> <location.location.partially_contains> "Our" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4w15m" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc3w9kw" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3r2dt" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1245z9pwj" .
+<Belgium> <organization.organization_member.member_of> "m.0w03wcl" .
+<Calvaire> <media_common.netflix_title.netflix_genres> "French" .
+<My_Queen_Karo> <film.film.country> "Belgium" .
+<Administrative_Division> <type.type.expected_by> "location_state_province_region" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc49d_1" .
+<Belgium> <book.book_subject.works> "The Secret in the Old Lace" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245z9bd1" .
+<Central_European_Summer_Time> <common.topic.notable_types> "Time Zone" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.1245zx_cb" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "m.0nfn443" .
+<Belgium> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3j9ll" .
+<Belgium> <location.location.events> "1975 Brussels summit" .
+<Prime_Minister_of_Belgium> <government.government_office_or_title.office_holders> "m.0gkjnx1" .
+<Time_Zone> <freebase.type_profile.strict_included_types> "Topic" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4p563" .
+<Fourth_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Belgium> <location.country.currency_formerly_used> "Luxembourgish franc" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc4y_s2" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc4bxx1" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3v92t" .
+<Belgium> <location.country.languages_spoken> "Dutch Language" .
+<Euregio_Benelux-Middengebied> <location.location.partially_containedby> "Belgium" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Dated location" .
+<Belgium> <organization.organization_member.member_of> "m.03w602d" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1245z8dxn" .
+<m.0wg8wzn> <location.partial_containment_relationship.partially_contains> "Semois" .
+<Arrondissement_of_Hasselt> <common.topic.notable_types> "Administrative Division" .
+<Khadak> <media_common.netflix_title.netflix_genres> "Belgium" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Laekenois" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc47nx7" .
+<Belgium> <organization.organization_founder.organizations_founded> "European Union" .
+<Belgium> <royalty.kingdom.rulers> "Albert II of Belgium" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4zqzb" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245zj9sh" .
+<Belgium> <location.statistical_region.labor_participation_rate> "g.1hhc3cbw_" .
+<Country> <freebase.type_profile.strict_included_types> "Dated location" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4xvky" .
+<m.0hzxw5q> <measurement_unit.recurring_money_value.currency> "Euro" .
+<Leopold_II_of_Belgium> <royalty.monarch.kingdom> "Belgium" .
+<A_Couch_in_New_York> <film.film.country> "Belgium" .
+<Arrondissement_of_Dendermonde> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245yygcj" .
+<m.0b48k0z> <common.webpage.topic> "Belgium" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3h6wt" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4dy6q" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.1245_t__r" .
+<Europe> <location.location.time_zones> "Central European Time Zone" .
+<Jeker> <location.location.partially_contained_by> "m.0wkt1wl" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc3sn18" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Country> <type.type.properties> "Third level divisions" .
+<Belgium> <location.statistical_region.renewable_freshwater_per_capita> "g.11b6czxztj" .
+<Belgium> <media_common.netflix_genre.titles> "Villa Des Roses" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc3fsdh" .
+<East_Flanders> <location.administrative_division.country> "Belgium" .
+<Slaughter_Night> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<Belgium> <location.location.events> "Battle of Elixheim" .
+<Our> <geography.river.basin_countries> "Belgium" .
+<m.07ndmq7> <base.ontologies.ontology_instance_mapping.freebase_topic> "Belgium" .
+<Belgium> <location.location.partiallycontains> "m.0wg8w_3" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4f7zt" .
+<Man_Bites_Dog> <media_common.netflix_title.netflix_genres> "French" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4_k2m" .
+<Dutch_Language> <media_common.netflix_genre.titles> "Missing Link" .
+<m.059_nwh> <organization.organization_membership.member> "Belgium" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245__rg8" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.12460qw3m" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc4qpyg" .
+<Belgium> <location.location.partially_contains> "Chiers" .
+<Belgium> <organization.organization_member.member_of> "m.04p8xbs" .
+<Battle_of_Château-Thierry> <time.event.locations> "Belgium" .
+<m.010gg6fw> <government.government_position_held.jurisdiction_of_office> "Belgium" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.1245yzt93" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04fvknf" .
+<Iceberg> <film.film.language> "French" .
+<Combat> <film.film.language> "French" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04fvnbt" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1245yztbk" .
+<Belgium> <biology.breed_origin.breeds_originating_here> "Tervuren" .
+<West_Flanders> <location.location.containedby> "Belgium" .
+<Country> <freebase.type_profile.strict_included_types> "Location" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3fn" .
+<Country> <freebase.type_hints.included_types> "Statistical region" .
+<Country> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Time_Zone> <freebase.type_profile.strict_included_types> "Inanimate" .
+<My_Queen_Karo> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<Iceberg> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3hw" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs6y5" .
+<Belgium> <location.country.national_anthem> "m.0d89jcn" .
+<Belgium> <location.statistical_region.government_debt_percent_gdp> "g.1245yvkv5" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3h31_" .
+<Man_Bites_Dog> <media_common.netflix_title.netflix_genres> "Belgium" .
+<m.048z_mf> <military.military_command.military_combatant> "Belgium" .
+<2014_Winter_Olympics> <olympics.olympic_games.participating_countries> "Belgium" .
+<Belgium> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6cy8pvb" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc44whm" .
+<Belgium> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc429hq" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245zrvt8" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc3jqmx" .
+<Belgium> <media_common.netflix_genre.titles> "Les Démoniaques" .
+<Belgium> <military.military_combatant.military_conflicts> "m.05tfsm2" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3zxtj" .
+<Belgium> <media_common.netflix_genre.titles> "S." .
+<Everybody's_Famous!> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc3j5z2" .
+<Belgium> <book.book_subject.works> "The Battle of the Bulge" .
+<Oise> <location.location.partially_contained_by> "m.0wg8wy_" .
+<m.0wg8wzt> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<m.048z_dd> <military.military_combatant_group.conflict> "Battle of France" .
+<1948_Winter_Olympics> <olympics.olympic_games.participating_countries> "Belgium" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1q5k2q3pn" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs7fk" .
+<Meuse> <geography.river.basin_countries> "Belgium" .
+<Yser> <location.location.events> "Battle of the Yser" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4_45d" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc45dh_" .
+<Luxembourg> <location.location.containedby> "Belgium" .
+<Belgium> <location.location.partially_contains> "Croix Scaille" .
+<Belgium> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc499h5" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4rr86" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs7f1" .
+<Belgium> <location.location.partially_contains> "Oise" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245_ry7x" .
+<Belgium> <periodicals.newspaper_circulation_area.newspapers> "La Libre Belgique during World War II" .
+<m.0wg8wyj> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Arrondissement_of_Namur> <location.location.time_zones> "Central European Time Zone" .
+<Wiltz> <location.location.partially_contained_by> "m.0wg8w_f" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc49n7x" .
+<m.0wg8wyp> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Belgium> <location.country.administrative_divisions> "Luxembourg" .
+<Dirty_Mind> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3p62g" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn7m_" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Topic" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.1245_dgwn" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc459kd" .
+<Belgium> <organization.organization_member.member_of> "m.059_nwh" .
+<Dommel> <location.location.containedby> "Europe" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3r2tg" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<Arrondissement_of_Tielt> <location.administrative_division.second_level_division_of> "Belgium" .
+<Belgium> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4667n" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "g.1245z4g2l" .
+<Belgian_municipality> <base.aareas.schema.administrative_area_type.iso_country> "Belgium" .
+<m.04bc960> <location.imports_and_exports.exported_to> "Belgium" .
+<Belgium> <organization.organization_member.member_of> "m.04dj53f" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04fsf9x" .
+<1975_Brussels_summit> <time.event.locations> "Belgium" .
+<Ben_X> <film.film.country> "Belgium" .
+<Belgium> <location.statistical_region.minimum_wage> "g.1245_hj64" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsgw_" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.1245zx78z" .
+<First_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsw0" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3kg61" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc488x4" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "m.0nfn8lg" .
+<m.09hywvz> <military.military_combatant_group.combatants> "Belgium" .
+<Belgium> <royalty.kingdom.rulers> "Leopold II of Belgium" .
+<Arrondissement_of_Antwerp> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <location.location.partially_contains> "Inde" .
+<Belgium> <royalty.kingdom.rulers> "Albert I of Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrz51" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.124611vvv" .
+<2009_Afrika_Film_Festival> <time.event.locations> "Belgium" .
+<Dutch_Language> <media_common.netflix_genre.titles> "Character" .
+<Belgium> <organization.organization_member.member_of> "m.04dj472" .
+<1936_Summer_Olympics> <olympics.olympic_games.participating_countries> "Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "Ben X" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsgkj" .
+<Arrondissement_of_Aalst> <common.topic.notable_for> "g.12552sfw7" .
+<Belgium> <book.book_subject.works> "Sur James Ensor" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.11b60wmkzr" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc537yc" .
+<Belgium> <location.country.second_level_divisions> "Arrondissement of Mechelen" .
+<Third_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Malinois> <biology.animal_breed.place_of_origin> "Belgium" .
+<Western_Europe> <location.location.contains> "Belgium" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4kwjc" .
+<Belgium> <location.statistical_region.size_of_armed_forces> "g.1hhc4bh6w" .
+<m.0w03wcl> <organization.organization_membership.member> "Belgium" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs67j" .
+<Belgium> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4wh40" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Topic" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc4czg5" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4vdwb" .
+<Belgium> <common.topic.image> "Location Belgium EU Europe" .
+<m.0wg8wxw> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Belgium> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc48tpz" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3mz" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3h6v8" .
+<Belgium> <olympics.olympic_participating_country.olympics_participated_in> "1948 Winter Olympics" .
+<Belgium> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12tb6gnb6" .
+<m.0wq9stg> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<White_Snow> <film.film.country> "Belgium" .
+<Arrondissement_of_Oudenaarde> <location.location.time_zones> "Central European Time Zone" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc46qzd" .
+<Scheldt> <location.location.containedby> "Europe" .
+<Belgium> <government.governmental_jurisdiction.official_symbols> "m.0w9vnj9" .
+<Belgium> <location.location.containedby> "Eurasia" .
+<Arrondissement_of_Diksmuide> <location.administrative_division.second_level_division_of> "Belgium" .
+<1994_Brussels_summit> <time.event.locations> "Belgium" .
+<m.0wg8w_8> <location.partial_containment_relationship.partially_contained_by> "Belgium" .
+<Belgium> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4cnsk" .
+<Our> <location.location.containedby> "Europe" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04p5pd3" .
+<3_Guys,_1_Girl,_2_Weddings> <film.film.language> "French" .
+<Desire> <book.written_work.subjects> "Belgium" .
+<Arrondissement_of_Turnhout> <common.topic.notable_types> "Administrative Division" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3j9" .
+<Croix_Scaille> <location.location.partially_contained_by> "m.0wq9stg" .
+<Belgium> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3bf0j" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "g.124603knp" .
+<Arrondissement_of_Aalst> <location.location.time_zones> "Central European Time Zone" .
+<m.0df84j2> <government.government_position_held.office_position_or_title> "Prime Minister of Belgium" .
+<Belgium> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsgp1" .
+<Flemish_Region> <base.aareas.schema.administrative_area.administrative_children> "Antwerp" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "g.11b61jk23f" .
+<Administrative_Division> <type.type.properties> "First level division of" .
+<Belgium> <location.statistical_region.cpi_inflation_rate> "g.1hhc4ygtg" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrx8q" .
+<First_level_divisions> <type.property.schema> "Country" .
+<Everybody's_Famous!> <media_common.netflix_title.netflix_genres> "Dutch Language" .
+<Arrondissement_of_Oudenaarde> <location.location.containedby> "Belgium" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "g.12460c4c9" .
+<Belgium> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3_45n" .
+<Belgium> <location.location.partially_contains> "Leie" .
+<Character> <film.film.language> "Dutch Language" .
+<Belgium> <military.military_combatant.military_conflicts> "m.06wgtwf" .
+<Arrondissement_of_Brussels-Capital> <location.location.containedby> "Belgium" .
+<Belgium> <location.location.events> "1974 Brussels summit" .
+<Belgium> <location.statistical_region.consumer_price_index> "g.1hhc48thc" .
+<22nd_of_May> <media_common.netflix_title.netflix_genres> "Belgium" .
+<My_Queen_Karo> <film.film.featured_film_locations> "Brussels-Capital Region" .
+<Flemish_Region> <location.location.contains> "West Flanders" .
+<Belgium> <location.statistical_region.deposit_interest_rate> "g.1hhc47k55" .
+<Belgium> <book.book_subject.works> "La Dama Y El Unicornio" .
+<Belgium> <location.location.partially_contains> "EuRegio SaarLorLuxRhin" .
+<Leopold_III_of_Belgium> <people.person.parents> "Albert I of Belgium" .
+<Belgium> <media_common.netflix_genre.titles> "Calvaire" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<Belgium> <location.statistical_region.part_time_employment_percent> "g.1hhc50cvm" .
+<Belgium> <location.statistical_region.co2_emissions_per_capita> "m.0nfrx8y" .
+<Lorna's_Silence> <film.film.language> "French" .
+<Belgium> <media_common.netflix_genre.titles> "The Child" .
+<Semois> <location.location.containedby> "Europe" .
+<Belgium> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1q5jsymt8" .
+<Belgium> <location.statistical_region.net_migration> "g.1s067rr7w" .
+<Belgium> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3f526" .
+<Second_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Belgian_region> <base.aareas.schema.administrative_area_type.sovereignty> "Belgium" .
+<Belgium> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4vttd" .
+<Belgium> <military.military_combatant.belongs_to_combatant_group> "Triple Entente" .
+<Belgium> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6cy3yny" .
+<Belgium> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmpx" .
+<Sambre> <geography.river.mouth> "Meuse" .
+<Wallonia> <base.aareas.schema.administrative_area.administrative_children> "Luxembourg" .
+<Belgium> <location.statistical_region.internet_users_percent_population> "m.0nfs3jz" .
+<Hop> <media_common.netflix_title.netflix_genres> "French" .
+<belgium.jpg> <common.image.appears_in_topic_gallery> "Belgium" .
+<Arrondissement_of_Huy> <location.location.containedby> "Belgium" .
+<The_Great_War_Generals_on_the_Western_Front,_1914-18> <book.written_work.subjects> "Belgium" .
+<Belgian_Revolution> <base.culturalevent.event.entity_involved> "Belgium" .
+<Arrondissement_of_Bastogne> <common.topic.notable_types> "Administrative Division" .
+<m.0b65633> <sports.competitor_competition_relationship.country> "Belgium" .
+<Flemish_Region> <base.aareas.schema.administrative_area.administrative_children> "East Flanders" .
+<Belgium> <common.topic.webpage> "m.09xh6d2" .
+<Glenn:_The_Flying_Robot> <film.film.country> "Belgium" .
+<Belgium> <government.governmental_jurisdiction.governing_officials> "m.010gg17t" .
+<Belgium> <government.governmental_jurisdiction.government_bodies> "Senate" .
+<Belgium> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc499lg" .
+<Belgium> <location.statistical_region.broadband_penetration_rate> "g.1245_38my" .
+<Belgium> <location.country.administrative_divisions> "Hainaut" .
+<Arrondissement_of_Huy> <location.location.time_zones> "Central European Time Zone" .
+<Belgian_province> <freebase.type_hints.included_types> "Topic" .
+<Belgium> <location.location.events> "Belgian Revolution" .
+<Belgium> <military.military_combatant.military_conflicts> "m.04fvncw" .
+<Belgium> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc37crn" .

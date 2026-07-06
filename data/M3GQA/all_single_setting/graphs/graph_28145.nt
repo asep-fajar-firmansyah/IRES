@@ -1,0 +1,1300 @@
+<Haruki_Murakami> <people.person.profession> "Novelist" .
+<Book_Edition> <type.type.expected_by> "Book edition covers" .
+<Derek_Marlowe> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Bookcassette(r) Edition)" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<The_novel_captured_the_post-war_spirit_of_rebellion_among_wealthy_youngsters_and_it_reflected_the_manners_and_morals_of_a_new_era.> <base.kwebbase.kwsentence.previous_sentence> "'This Side of Paradise', Based on his Princeton experiences, it was finally published in March 1920 and, a month later, he and Zelda married." .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Gender" .
+<The_Off-Shore_Pirate> <film.film.story_by> "F. Scott Fitzgerald" .
+<At_the_same_time,_'The_Great_Gatsby'_was_successfully_dramatized.> <base.kwebbase.kwsentence.next_sentence> "In 1927, Fitzgerald went to Hollywood, where he met Lois Moran, who provided the inspiration for the character of Rosemary Hoyt in his next novel, 'Tender is the Night'." .
+<critical_reputation_of_F._Scott_Fitzgerald,_a_bibliographical_study> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<Book> <type.type.properties> "Editions" .
+<The_next_year,_badly_in_debt,_he_went_to_Hollywood_to_work_as_a_scriptwriter_and_met_Sheilah_Graham,_who_became_his_constant_companion_and_lover.> <base.kwebbase.kwsentence.next_sentence> "When his scriptwriting was rejected, he started to write stories for 'Esquire' then, in 1939, he began his final novel, 'The Last Tycoon'." .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "In 1926, he published 'The Rich Boy', a short story that contains the words 'They are different from you and me', his continual statement about the rich." .
+<Jack_Kerouac> <common.topic.notable_types> "Author" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<Book_Edition> <freebase.type_hints.included_types> "Topic" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Edition_Of> <type.property.expected_type> "Book" .
+<Edith_Wharton> <freebase.valuenotation.is_reviewed> "Gender" .
+<This_Side_of_Paradise_(The_Classic_Collection)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced_by> "R. D. Blackmore" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "His career was promoted by Mencken." .
+<John_Green> <people.person.profession> "Writer" .
+<Book_Edition> <type.type.expected_by> "Digitized Version of" .
+<Jack_Kerouac> <influence.influence_node.influenced> "Haruki Murakami" .
+<Saint_Paul> <base.biblioness.bibs_location.country> "United States of America" .
+<This_Side_of_Paradise_(The_World's_Best_Reading)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<William_Styron> <people.person.nationality> "United States of America" .
+<m.0h2mpy1> <award.ranking.item> "This Side of Paradise" .
+<F._Scott_Fitzgerald> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Edith_Wharton> <people.person.profession> "Novelist" .
+<Edith_Wharton> <people.person.profession> "Writer" .
+<Jack_Kerouac> <freebase.valuenotation.is_reviewed> "Date of death" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<m.0cq4hqc> <common.webpage.topic> "F. Scott Fitzgerald" .
+<Personality_is_an_unbroken_series_of_successful_gestures.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Modern Library)" .
+<Francis_Scott_Key> <people.person.nationality> "United States of America" .
+<John_Cheever> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Richard_Hofstadter> <freebase.valuenotation.is_reviewed> "Place of death" .
+<critical_reputation_of_F._Scott_Fitzgerald,_a_bibliographical_study> <common.topic.notable_types> "Book" .
+<Hunter_S._Thompson> <people.person.profession> "Novelist" .
+<Notes_on_a_screenplay_for_F._Scott_Fitzgerald's_Tender_is_the_night> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "They became friendly with Hemingway who, as a young writer trying to make his way, accepted Fitzgerald's help on his unpublished novel 'The Sun Also Rises'." .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "The Curious Case of Benjamin Button" .
+<Her_voice_is_full_of_money.> <media_common.quotation.spoken_by_character> "Jay Gatsby" .
+<Ann_Beattie> <freebase.valuenotation.is_reviewed> "Gender" .
+<Tim_O'Brien> <people.person.gender> "Male" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "The character of Jay Gatsby is a brash, self-made man from the West, who dreams of social success in the East." .
+<Author> <type.type.properties> "Book editions edited" .
+<Book_Edition> <type.type.properties> "LCCN" .
+<This_Side_of_Paradise_(Classic_Collection)> <common.topic.notable_types> "Book Edition" .
+<'Tales_of_the_Jazz_Age',_a_collection_of_more_upbeat_stories,_was_published_the_same_year_and_allowed_the_Fitzgeralds_to_continue_what_was_by_now_an_extravagant_lifestyle.> <base.kwebbase.kwsentence.next_sentence> "In 1923, he spent most of his time writing a play, 'The Vegetable', which opened in Atlantic City and failed." .
+<Richard_Yates> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Book_Edition> <type.type.expected_by> "First edition" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "Over the next four years, Fitzgerald split his time between America and Europe and, in 1926, some of his best short stories appeared in 'All the Sad Young Men'." .
+<F._Scott_Fitzgerald> <common.topic.webpage> "m.0b4949z" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Book_Edition> <type.type.expected_by> "Book editions illustrated" .
+<Ann_Beattie> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "The Last Tycoon" .
+<He_left_the_army_in_February_1919_and_went_to_New_York,_where_he_took_a_job_in_an_advertising_agency.> <base.kwebbase.kwsentence.previous_sentence> "The couple fell in love and planned to marry as soon as Fitzgerald was earning a decent living." .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Making_his_mind_up_to_be_a_successful_writer,_Fitzgerald_gave_up_his_advertising_job_and_went_to_his_parents'_home_where_he_polished_his_novel.> <base.kwebbase.kwsentence.previous_sentence> "At last, a magazine accepted his story, 'Babes in the Woods' but  Zelda broke off their engagement, not believing he would ever be able to support her." .
+<Americans,_while_occasionally_willing_to_be_serfs,_have_always_been_obstinate_about_being_peasantry.> <media_common.quotation.spoken_by_character> "Nick Carraway" .
+<This_Side_of_Paradise_(Classic_Collection)> <book.book_edition.book> "This Side of Paradise" .
+<This_Side_of_Paradise> <common.topic.notable_types> "Book" .
+<Under_the_Biltmore_Clock> <film.film.country> "United States of America" .
+<Novelist> <people.profession.specialization_of> "Writer" .
+<This_Side_of_Paradise> <book.book_edition.book> "This Side of Paradise" .
+<George_R._R._Martin> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise_(Twelve-Point)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<m.09y81hw> <common.webpage.topic> "F. Scott Fitzgerald" .
+<Frances_Scott_Fitzgerald> <people.person.place_of_birth> "Saint Paul" .
+<Mollie_McQuillan_Fitzgerald> <freebase.valuenotation.has_value> "Place of birth" .
+<When_America_entered_World_War_I_in_1917,_Fitzgerald_left_Princeton_and_joined_the_army_as_Second_Lieutenant,_but_never_served_abroad.> <base.kwebbase.kwsentence.next_sentence> "During his military training, he had time to revise his novel, which had been turned down by the publishers." .
+<The_Great_Gatsby> <film.film.language> "English Language" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Grace Andreacchi" .
+<Edith_Wharton> <influence.influence_node.influenced> "Michael Chabon" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Webster's German Thesaurus Edition)" .
+<Ann_Beattie> <common.topic.notable_types> "Author" .
+<J._D._Salinger> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<No_amount_of_fire_or_freshness_can_challenge_what_a_man_will_store_up_in_his_ghostly_heart.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<Once_again,_he_revised_his_novel_and_tried_hard_to_get_some_of_his_short_stories_published.> <base.kwebbase.kwsentence.previous_sentence> "He left the army in February 1919 and went to New York, where he took a job in an advertising agency." .
+<John_Keats> <influence.influence_node.influenced> "F. Scott Fitzgerald" .
+<notebooks_of_F._Scott_Fitzgerald> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <fictional_universe.fictional_character_creator.fictional_characters_created> "Myrtle Wilson" .
+<Francis_Scott_Key> <base.kwebbase.kwtopic.connections_from> "francis scott key descendant was f scott fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "J. D. Salinger" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "He was one of the writers of  the Great American Novel." .
+<The_following_year,_he_was_given_another_chance_and_when_he_returned_to_Princeton,_he_put_all_his_energy_into_his_literary_studies_rather_than_his_social_life.> <base.kwebbase.kwsentence.previous_sentence> "He fell behind in his studies and in 1915, knowing that he was going to fail his exams, he left university." .
+<The_Glimpses_of_the_Moon> <film.film.written_by> "F. Scott Fitzgerald" .
+<Correspondence_of_F._Scott_Fitzgerald> <common.topic.notable_types> "Book" .
+<This_Side_of_Paradise> <book.written_work.subjects> "Chinese food" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "John Cheever" .
+<After_publication,_the_Fitzgerald's_went_to_Paris_for_the_summer_and_were_received_with_open_arms.> <base.kwebbase.kwsentence.next_sentence> "They became friendly with Hemingway who, as a young writer trying to make his way, accepted Fitzgerald's help on his unpublished novel 'The Sun Also Rises'." .
+<Shane_Leslie> <people.person.gender> "Male" .
+<F._Scott_Fitzgerald> <symbols.name_source.namesakes> "Fitzgerald Theater" .
+<F._Scott_Fitzgerald> <people.person.place_of_birth> "Saint Paul" .
+<Hunter_S._Thompson> <people.person.gender> "Male" .
+<Oswald_Spengler> <people.person.gender> "Male" .
+<Sara_Murphy> <people.person.nationality> "United States of America" .
+<This_Side_of_Paradise_(The_Classic_Edition)> <book.book_edition.book> "This Side of Paradise" .
+<Clive_James> <people.person.profession> "Poet" .
+<Paul_Auster> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Jonathan_Franzen> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "Once again, he revised his novel and tried hard to get some of his short stories published." .
+<Frances_Scott_Fitzgerald> <people.person.nationality> "United States of America" .
+<Richard_Yates> <influence.influence_node.influenced> "Michael Chabon" .
+<Haruki_Murakami> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Editions> <type.property.schema> "Book" .
+<m.02nc280> <influence.peer_relationship.peers> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "George R. R. Martin" .
+<Jack_Kerouac> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Ronald_Malfi> <common.topic.notable_types> "Author" .
+<The_letters_of_F._Scott_Fitzgerald> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<George_R._R._Martin> <people.person.gender> "Male" .
+<He_was_a_favorite_of_Stein.> <base.kwebbase.kwsentence.contains_connections> "f scott fitzgerald a favorite of gertrude stein" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "After publication, the Fitzgerald's went to Paris for the summer and were received with open arms." .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<John_Cheever> <people.person.profession> "Writer" .
+<They_became_friendly_with_Hemingway_who,_as_a_young_writer_trying_to_make_his_way,_accepted_Fitzgerald's_help_on_his_unpublished_novel_'The_Sun_Also_Rises'.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<The_novel_reflects_Fitzgerald's_own_feelings_about_his_marriage_and_the_nature_of_his_success.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<m.0j6wt02> <film.personal_film_appearance.person> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "T. S. Eliot" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<J._D._Salinger> <influence.influence_node.influenced> "John Green" .
+<T._S._Eliot> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Richard_Yates> <influence.influence_node.influenced_by> "J. D. Salinger" .
+<This_Side_of_Paradise> <book.book.genre> "Novel" .
+<G> <film.film.story_by> "F. Scott Fitzgerald" .
+<Mr._Gatz> <fictional_universe.fictional_character.gender> "Male" .
+<Grace_Andreacchi> <people.person.nationality> "United States of America" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<In_1922,_he_published_'The_Beautiful_and_the_Damned',_which_has_since_been_seen_as_prophetic_of_the_Fitzgeralds'_future_life.> <base.kwebbase.kwsentence.next_sentence> "It told the story of Anthony and Gloria Patch, a young, privileged couple living,  in expectation of a large inheritance,  in drunkenness and extravagance." .
+<On_his_father's_side,_Fitzgerald_was_related_to_Key,_who_wrote_the_words_of_'The_Star-Spangled_Banner',_while_his_mother's_family_were_Irish-American.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <common.topic.webpage> "m.09yv9c_" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<This_Side_of_Paradise_(Webster's_Portuguese_Thesaurus_Edition)> <book.book_edition.book> "This Side of Paradise" .
+<By_the_time_they_came_into_the_inheritance,_they_were_too_jaded_and_worn_out_to_participate_fully_in_a_worthwhile_life.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<The_book_repeats_Fitzgerald's_recurring_theme_of_a_poor,__aspiring_young_man_investing_his_hopes_in_a_rich,_carelessly_superior_young_woman_who_uses_him_and_then_leaves_him.> <base.kwebbase.kwsentence.next_sentence> "The novel reflects Fitzgerald's own feelings about his marriage and the nature of his success." .
+<George_R._R._Martin> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<She_went_into_hospital_in_Switzerland_until_September_1931,_then_they_returned_to_America.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Rahadyan_Sastrowardoyo> <people.person.gender> "Male" .
+<Jazz_Age> <book.school_or_movement.associated_authors> "Edith Wharton" .
+<Michael_Chabon> <common.topic.notable_types> "Author" .
+<This_Side_of_Paradise> <book.book.characters> "Monsignor Darcy" .
+<They_became_friendly_with_Hemingway_who,_as_a_young_writer_trying_to_make_his_way,_accepted_Fitzgerald's_help_on_his_unpublished_novel_'The_Sun_Also_Rises'.> <base.kwebbase.kwsentence.next_sentence> "Over the next four years, Fitzgerald split his time between America and Europe and, in 1926, some of his best short stories appeared in 'All the Sad Young Men'." .
+<m.02h52nm> <education.education.student> "F. Scott Fitzgerald" .
+<Michael_Chabon> <freebase.valuenotation.is_reviewed> "Gender" .
+<F._Scott_Fitzgerald> <people.person.quotations> "Americans, while occasionally willing to be serfs, have always been obstinate about being peasantry." .
+<The_following_year,_he_was_given_another_chance_and_when_he_returned_to_Princeton,_he_put_all_his_energy_into_his_literary_studies_rather_than_his_social_life.> <base.kwebbase.kwsentence.next_sentence> "Fitzgerald worked on the undergraduate literary magazine and wrote the first version of his novel, 'This Side of Paradise.'  Around the same time, he made friends with Edmund Wilson, who later became a distinguished writer and critic." .
+<F._Scott_Fitzgerald> <freebase.valuenotation.is_reviewed> "Height" .
+<This_Side_of_Paradise> <book.written_work.subjects> "United States of America" .
+<Sherwood_Anderson> <book.author.school_or_movement> "Jazz Age" .
+<This_Side_of_Paradise_(Webster's_Portuguese_Thesaurus_Edition)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise_(Dodo_Press)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Jonathan_Lamas> <common.topic.notable_types> "Author" .
+<This_Side_of_Paradise_(Webster's_Korean_Thesaurus_Edition)> <book.book_edition.book> "This Side of Paradise" .
+<Fitzgerald_was_now_seen_as_the_voice_of_the_Jazz_Age_and_he_became_instantly_famous.> <base.kwebbase.kwsentence.previous_sentence> "The novel captured the post-war spirit of rebellion among wealthy youngsters and it reflected the manners and morals of a new era." .
+<Michael_Chabon> <influence.influence_node.influenced_by> "John Keats" .
+<F._Scott_Fitzgerald> <people.person.education> "m.02h52nm" .
+<Over_the_next_four_years,_Fitzgerald_split_his_time_between_America_and_Europe_and,_in_1926,_some_of_his_best_short_stories_appeared_in_'All_the_Sad_Young_Men'.> <base.kwebbase.kwsentence.next_sentence> "At the same time, 'The Great Gatsby' was successfully dramatized." .
+<Gatsby_turned_out_all_right_at_the_end;_it_is_what_preyed_on_Gatsby,_what_foul_dust_floated_in_the_wake_of_his_dreams_that_temporarily_closed_out_my_interest_in_the_abortive_sorrows_and_short-winded_elations_of_men.> <media_common.quotation.spoken_by_character> "Nick Carraway" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<F._Scott_Fitzgerald> <common.image.appears_in_topic_gallery> "In a real dark night of the soul it is always three o'clock in the morning, day after day." .
+<F._Scott_Fitzgerald> <book.book_subject.works> "critical reputation of F. Scott Fitzgerald, a bibliographical study" .
+<Book_Edition> <type.type.properties> "Height" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<Francis_Scott_Key> <symbols.name_source.namesakes> "F. Scott Fitzgerald" .
+<Jonathan_Lamas> <influence.influence_node.influenced_by> "Jack Kerouac" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<Ann_Beattie> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "G" .
+<The_Women> <film.film.language> "English Language" .
+<Clive_James> <people.person.gender> "Male" .
+<Conversations_with_F._Scott_Fitzgerald> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<Book_Edition> <type.type.expected_by> "Books published" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "Conversations with F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.written_work.subjects> "Education" .
+<Betrayed_by_F._Scott_Fitzgerald> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<Ross_Macdonald> <people.person.nationality> "United States of America" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<William_Styron> <people.person.gender> "Male" .
+<F._Scott_Fitzgerald> <freebase.domain_profile.equivalent_topic> "F. Scott Fitzgerald" .
+<Rahadyan_Sastrowardoyo> <people.person.profession> "Writer" .
+<Joseph_O'Neill> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Clive_James> <people.person.profession> "Novelist" .
+<F._Scott_Fitzgerald> <people.person.places_lived> "m.03pltn9" .
+<Oswald_Spengler> <common.topic.notable_types> "Author" .
+<Fitzgerald_used_his_own_recent_experiences_to_create_a_new_work_and,_in_1936,_published_the_'Crack-Up',_which_described_his_own_collapse.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Book_Edition> <type.type.properties> "Publisher" .
+<George_R._R._Martin> <common.topic.notable_types> "Author" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "notebooks of F. Scott Fitzgerald" .
+<When_America_entered_World_War_I_in_1917,_Fitzgerald_left_Princeton_and_joined_the_army_as_Second_Lieutenant,_but_never_served_abroad.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "When he was two, his father's business collapsed and the family moved around, so he spent his early years in Buffalo and Syracuse, New York then, in 1908, they moved back to Minnesota." .
+<This_Side_of_Paradise_(A_Scribner_Classic)> <book.book_edition.book> "This Side of Paradise" .
+<This_Side_of_Paradise_(Webster's_Korean_Thesaurus_Edition)> <common.topic.notable_types> "Book Edition" .
+<This_Side_of_Paradise_(A_Scribner_Classic)> <common.topic.notable_types> "Book Edition" .
+<The_Women> <film.film.written_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <film.writer.film> "Marie Antoinette" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "The book repeats Fitzgerald's recurring theme of a poor,  aspiring young man investing his hopes in a rich, carelessly superior young woman who uses him and then leaves him." .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "On his father's side, Fitzgerald was related to Key, who wrote the words of 'The Star-Spangled Banner', while his mother's family were Irish-American." .
+<m.09yv9c_> <common.webpage.topic> "F. Scott Fitzgerald" .
+<Michael_Chabon> <influence.influence_node.influenced_by> "John Cheever" .
+<Correspondence_of_F._Scott_Fitzgerald> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<Clive_James> <people.person.profession> "Writer" .
+<Jack_Kerouac> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Michael_Chabon> <influence.influence_node.influenced_by> "Edith Wharton" .
+<francis_scott_key_descendant_was_f_scott_fitzgerald> <base.kwebbase.kwconnection.subject> "Francis Scott Key" .
+<Fitzgerald_worked_on_the_undergraduate_literary_magazine_and_wrote_the_first_version_of_his_novel,_'This_Side_of_Paradise.'__Around_the_same_time,_he_made_friends_with_Edmund_Wilson,_who_later_became_a_distinguished_writer_and_critic.> <base.kwebbase.kwsentence.next_sentence> "When America entered World War I in 1917, Fitzgerald left Princeton and joined the army as Second Lieutenant, but never served abroad." .
+<Gatsby_turned_out_all_right_at_the_end;_it_is_what_preyed_on_Gatsby,_what_foul_dust_floated_in_the_wake_of_his_dreams_that_temporarily_closed_out_my_interest_in_the_abortive_sorrows_and_short-winded_elations_of_men.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise_(Webster's_Chinese-Simplified_Thesaurus_Edition)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<John_Green> <influence.influence_node.influenced_by> "J. D. Salinger" .
+<No_amount_of_fire_or_freshness_can_challenge_what_a_man_will_store_up_in_his_ghostly_heart.> <media_common.quotation.spoken_by_character> "Nick Carraway" .
+<Rich_was_no_longer_a_term_used_to_describe_Fitzgerald's_life_because,_over_the_next_decade,_money_dwindled,_he_gave_up_hope_of_a_cure_for_Zelda's_depression_and_his_own_drinking_problem_became_worse.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "The Great Gatsby" .
+<Francis_Scott_Key> <base.kwebbase.kwtopic.connections_to> "f scott fitzgerald distant relative of francis scott key" .
+<Haruki_Murakami> <freebase.valuenotation.has_value> "Height" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced_by> "Edith Wharton" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Richard Hofstadter" .
+<William_Goldman> <people.person.gender> "Male" .
+<This_Side_of_Paradise> <book.book.characters> "Beatrice Blaine" .
+<At_last,_a_magazine_accepted_his_story,_'Babes_in_the_Woods'_but__Zelda_broke_off_their_engagement,_not_believing_he_would_ever_be_able_to_support_her.> <base.kwebbase.kwsentence.next_sentence> "Making his mind up to be a successful writer, Fitzgerald gave up his advertising job and went to his parents' home where he polished his novel." .
+<In_1918,_he_was_stationed_near_Montgomery,_Alabama_and,_at_a_local_dance,_he_met_Zelda_Sayre,_the_daughter_of_an_Alabama_Supreme_Court_judge.> <base.kwebbase.kwsentence.previous_sentence> "During his military training, he had time to revise his novel, which had been turned down by the publishers." .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<William_Styron> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise_(Modern_Library)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Book_Edition> <type.type.properties> "ISFDB ID" .
+<F._Scott_Fitzgerald> <common.topic.webpage> "m.09y81hw" .
+<The_Last_Time_I_Saw_Paris> <film.film.story_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.connections_from> "f scott fitzgerald a pal of ernest miller hemingway" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "In 1918, he was stationed near Montgomery, Alabama and, at a local dance, he met Zelda Sayre, the daughter of an Alabama Supreme Court judge." .
+<Daisy_Buchanan> <fictional_universe.fictional_character.character_created_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.connections_to> "francis scott key descendant was f scott fitzgerald" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<F._Scott_Fitzgerald> <people.person.education> "m.0n0klvz" .
+<Mohsin_Hamid> <freebase.valuenotation.has_value> "Parents" .
+<This_Side_of_Paradise> <common.topic.article> "m.02_n6c" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Mohsin_Hamid> <freebase.valuenotation.is_reviewed> "Gender" .
+<Betrayed_by_F._Scott_Fitzgerald> <common.topic.notable_types> "Book" .
+<Making_his_mind_up_to_be_a_successful_writer,_Fitzgerald_gave_up_his_advertising_job_and_went_to_his_parents'_home_where_he_polished_his_novel.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<f_scott_fitzgerald_a_pal_of_ernest_miller_hemingway> <base.kwebbase.kwconnection.sentence> "They became friendly with Hemingway who, as a young writer trying to make his way, accepted Fitzgerald's help on his unpublished novel 'The Sun Also Rises'." .
+<F._Scott_Fitzgerald> <fictional_universe.person_in_fiction.representations_in_fiction> "F. Scott Fitzgerald" .
+<One_writes_of_scars_healed,_a_loose_parallel_to_the_pathology_of_the_skin,_but_there_is_no_such_thing_in_the_life_of_an_individual._There_are_open_wounds,_shrunk_sometimes_to_the_size_of_a_pin-prick_but_wounds_still._The_marks_of_suffering_are_more_comparable_to_the_loss_of_a_finger,_or_the_sight_of_an_eye._We_may_not_miss_them,_either,_for_one_minute_in_a_year,_but_if_we_should_there_is_nothing_to_be_done_about_it.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<She_is_a_wealthy_young_woman_called_Nicole_Warren,_who_ultimately_destroys_Diver.> <base.kwebbase.kwsentence.previous_sentence> "The central character, Dick Diver, is a psychiatrist who marries one of his patients." .
+<Book_Edition> <type.type.expected_by> "Book editions published" .
+<He_and_Zelda_went_to_Europe_for_the_first_time_in_1921_and_his_collection_of_short_stories,_'Flappers_and_Philosophers'_came_out.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<m.03pltn9> <people.place_lived.person> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise_(Webster's_Chinese-Simplified_Thesaurus_Edition)> <book.book_edition.book> "This Side of Paradise" .
+<Sherwood_Anderson> <common.topic.notable_types> "Author" .
+<The_Great_Gatsby> <film.film.story_by> "F. Scott Fitzgerald" .
+<f_scott_fitzgerald_a_favorite_of_gertrude_stein> <base.kwebbase.kwconnection.sentence> "He was a favorite of Stein." .
+<John_Keats> <common.topic.notable_types> "Author" .
+<The_Beautiful_and_Damned> <film.film.country> "United States of America" .
+<F._Scott_Fitzgerald_and_the_art_of_social_fiction> <common.topic.notable_types> "Book" .
+<F._Scott_Fitzgerald> <people.person.quotations> "The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function." .
+<Edith_Wharton> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Jonathan_Franzen> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<Sherwood_Anderson> <influence.influence_node.influenced> "J. D. Salinger" .
+<George_R._R._Martin> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<The_letters_of_F._Scott_Fitzgerald> <common.topic.notable_types> "Book" .
+<The_Great_Gatsby> <film.film.country> "United States of America" .
+<This_Side_of_Paradise> <book.book.genre> "Fiction" .
+<Grace_Andreacchi> <people.person.profession> "Writer" .
+<The_test_of_a_first-rate_intelligence_is_the_ability_to_hold_two_opposed_ideas_in_the_mind_at_the_same_time,_and_still_retain_the_ability_to_function.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Jonathan Lamas" .
+<F._Scott_Fitzgerald> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Book> <freebase.type_profile.strict_included_types> "Topic" .
+<The_Last_Tycoon> <film.film.country> "United States of America" .
+<In_1926,_he_published_'The_Rich_Boy',_a_short_story_that_contains_the_words_'They_are_different_from_you_and_me',_his_continual_statement_about_the_rich.> <base.kwebbase.kwsentence.next_sentence> "Rich was no longer a term used to describe Fitzgerald's life because, over the next decade, money dwindled, he gave up hope of a cure for Zelda's depression and his own drinking problem became worse." .
+<In_1926,_he_published_'The_Rich_Boy',_a_short_story_that_contains_the_words_'They_are_different_from_you_and_me',_his_continual_statement_about_the_rich.> <base.kwebbase.kwsentence.previous_sentence> "The novel reflects Fitzgerald's own feelings about his marriage and the nature of his success." .
+<ISBN> <type.type.expected_by> "ISBN" .
+<This_Side_of_Paradise_(A_Scribner_Classic)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<John_Green> <people.person.gender> "Male" .
+<He_smiled_understandingly—much_more_than_understandingly._It_was_one_of_those_rare_smiles_with_a_quality_of_eternal_reassurance_in_it,_that_you_may_come_across_four_or_five_times_in_life._It_faced--or_seemed_to_face--the_whole_external_world_for_an_instant,_and_then_concentrated_on_you_with_an_irresistible_prejudice_in_your_favor._It_understood_you_just_as_far_as_you_wanted_to_be_understood,_believed_in_you_as_you_would_like_to_believe_in_yourself,_and_assured_you_that_it_had_precisely_the_impression_of_you_that,_at_your_best,_you_hoped_to_convey.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<Book_Edition> <type.type.expected_by> "Book Editions" .
+<He_left_the_army_in_February_1919_and_went_to_New_York,_where_he_took_a_job_in_an_advertising_agency.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<The_central_character,_Dick_Diver,_is_a_psychiatrist_who_marries_one_of_his_patients.> <base.kwebbase.kwsentence.next_sentence> "She is a wealthy young woman called Nicole Warren, who ultimately destroys Diver." .
+<m.0b6rmd3> <common.webpage.topic> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Jack Kerouac" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "After her father died in 1932, she had another breakdown, which put her back in hospital." .
+<F._Scott_Fitzgerald> <influence.influence_node.peers> "m.02yqj6m" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.connections_to> "h. l. mencken promoted work of f scott fitzgerald" .
+<Jack_Kerouac> <influence.influence_node.influenced> "Jonathan Lamas" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<F._Scott_Fitzgerald> <common.topic.webpage> "m.09y8gz5" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (The Classic Collection)" .
+<Richard_Yates> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Joseph_O'Neill> <common.topic.notable_types> "Author" .
+<Stephen_Chbosky> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "He left the army in February 1919 and went to New York, where he took a job in an advertising agency." .
+<Paul_Auster> <people.person.gender> "Male" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<Jonathan_Lamas> <people.person.nationality> "United States of America" .
+<Richard_Yates> <common.topic.notable_types> "Author" .
+<Sherwood_Anderson> <influence.influence_node.influenced> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<F._Scott_Fitzgerald> <freebase.equivalent_topic.equivalent_domain> "F. Scott Fitzgerald" .
+<Richard_Hofstadter> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "Fitzgerald was now seen as the voice of the Jazz Age and he became instantly famous." .
+<T._S._Eliot> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "The novel captured the post-war spirit of rebellion among wealthy youngsters and it reflected the manners and morals of a new era." .
+<The_test_of_a_first-rate_intelligence_is_the_ability_to_hold_two_opposed_ideas_in_the_mind_at_the_same_time,_and_still_retain_the_ability_to_function.> <common.topic.image> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <common.image.appears_in_topic_gallery> "The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function." .
+<John_Cheever> <influence.influence_node.influenced> "Ann Beattie" .
+<The_next_year,_badly_in_debt,_he_went_to_Hollywood_to_work_as_a_scriptwriter_and_met_Sheilah_Graham,_who_became_his_constant_companion_and_lover.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Clive_James> <common.topic.notable_types> "Author" .
+<They_settled_at_St_Raphael_in_the_South_of_France_and_the_novel_was_published_in_April_1925.> <base.kwebbase.kwsentence.previous_sentence> "To pay his rising debts, he spent the next few months writing popular stories, then began his more serious work: 'The Great Gatsby' in 1924, the year they decided to move to France to save money." .
+<When_his_scriptwriting_was_rejected,_he_started_to_write_stories_for_'Esquire'_then,_in_1939,_he_began_his_final_novel,_'The_Last_Tycoon'.> <base.kwebbase.kwsentence.previous_sentence> "The next year, badly in debt, he went to Hollywood to work as a scriptwriter and met Sheilah Graham, who became his constant companion and lover." .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced_by> "T. S. Eliot" .
+<Bret_Easton_Ellis> <common.topic.notable_types> "Author" .
+<Hunter_S._Thompson> <influence.influence_node.influenced_by> "Jack Kerouac" .
+<John_Green> <people.person.nationality> "United States of America" .
+<Ann_Beattie> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<I_know_myself,_but_that_is_all.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<John_Green> <freebase.valuenotation.is_reviewed> "Gender" .
+<Three_Comrades> <film.film.written_by> "F. Scott Fitzgerald" .
+<Bernice_Bobs_Her_Hair> <film.film.story_by> "F. Scott Fitzgerald" .
+<Book> <type.type.properties> "First edition" .
+<Hunter_S._Thompson> <people.person.nationality> "United States of America" .
+<Fitzgerald_used_his_own_recent_experiences_to_create_a_new_work_and,_in_1936,_published_the_'Crack-Up',_which_described_his_own_collapse.> <base.kwebbase.kwsentence.previous_sentence> "Rich was no longer a term used to describe Fitzgerald's life because, over the next decade, money dwindled, he gave up hope of a cure for Zelda's depression and his own drinking problem became worse." .
+<Chinese_food> <book.book_subject.works> "This Side of Paradise" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<This_Side_of_Paradise_(Penguin_Twentieth-Century_Classics)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Book_Edition> <type.type.expected_by> "Book editions" .
+<Gilles_Deleuze> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<The_Last_Time_I_Saw_Paris> <film.film.country> "United States of America" .
+<Red-Headed_Woman> <film.film.country> "United States of America" .
+<After_publication,_the_Fitzgerald's_went_to_Paris_for_the_summer_and_were_received_with_open_arms.> <base.kwebbase.kwsentence.previous_sentence> "The central character of Gatsby's dream is Daisy Buchanan, a shallow but charming young woman married to a rich man." .
+<Marie_Antoinette> <film.film.written_by> "F. Scott Fitzgerald" .
+<Show_me_a_hero_and_I_will_write_you_a_tragedy.> <common.topic.image> "F. Scott Fitzgerald" .
+<Bret_Easton_Ellis> <people.person.gender> "Male" .
+<Richard_Yates> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "Both Zelda and Fitzgerald were now drinking heavily and in 1930, Zelda had a nervous breakdown." .
+<He_fell_behind_in_his_studies_and_in_1915,_knowing_that_he_was_going_to_fail_his_exams,_he_left_university.> <base.kwebbase.kwsentence.next_sentence> "The following year, he was given another chance and when he returned to Princeton, he put all his energy into his literary studies rather than his social life." .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<This_Side_of_Paradise_(Bookcassette(r)_Edition)> <book.book_edition.book> "This Side of Paradise" .
+<This_Side_of_Paradise_(A_Scribner_Classic)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Richard_Yates> <people.person.nationality> "United States of America" .
+<Sherwood_Anderson> <people.person.profession> "Writer" .
+<Richard_Hofstadter> <people.person.gender> "Male" .
+<It_told_the_story_of_Anthony_and_Gloria_Patch,_a_young,_privileged_couple_living,__in_expectation_of_a_large_inheritance,__in_drunkenness_and_extravagance.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (The World's Best Reading)" .
+<In_1927,_Fitzgerald_went_to_Hollywood,_where_he_met_Lois_Moran,_who_provided_the_inspiration_for_the_character_of_Rosemary_Hoyt_in_his_next_novel,_'Tender_is_the_Night'.> <base.kwebbase.kwsentence.next_sentence> "Both Zelda and Fitzgerald were now drinking heavily and in 1930, Zelda had a nervous breakdown." .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<Once_again,_he_revised_his_novel_and_tried_hard_to_get_some_of_his_short_stories_published.> <base.kwebbase.kwsentence.next_sentence> "At last, a magazine accepted his story, 'Babes in the Woods' but  Zelda broke off their engagement, not believing he would ever be able to support her." .
+<Derek_Marlowe> <freebase.valuenotation.is_reviewed> "Gender" .
+<After_publication,_the_Fitzgerald's_went_to_Paris_for_the_summer_and_were_received_with_open_arms.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Gilles Deleuze" .
+<What_people_are_ashamed_of,_usually_makes_a_good_story.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.written_work.subjects> "Ambition" .
+<J._D._Salinger> <people.person.gender> "Male" .
+<Under_the_Biltmore_Clock> <film.film.language> "English Language" .
+<Book_Edition> <type.type.properties> "Contributing authors" .
+<F._Scott_Fitzgerald_House> <symbols.namesake.named_after> "F. Scott Fitzgerald" .
+<Rich_was_no_longer_a_term_used_to_describe_Fitzgerald's_life_because,_over_the_next_decade,_money_dwindled,_he_gave_up_hope_of_a_cure_for_Zelda's_depression_and_his_own_drinking_problem_became_worse.> <base.kwebbase.kwsentence.next_sentence> "Fitzgerald used his own recent experiences to create a new work and, in 1936, published the 'Crack-Up', which described his own collapse." .
+<During_his_military_training,_he_had_time_to_revise_his_novel,_which_had_been_turned_down_by_the_publishers.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Sara_Murphy> <influence.influence_node.influenced> "F. Scott Fitzgerald" .
+<Her_voice_is_full_of_money.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<Richard_Hofstadter> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "The letters of F. Scott Fitzgerald" .
+<The_next_year,_badly_in_debt,_he_went_to_Hollywood_to_work_as_a_scriptwriter_and_met_Sheilah_Graham,_who_became_his_constant_companion_and_lover.> <base.kwebbase.kwsentence.previous_sentence> "Fitzgerald used his own recent experiences to create a new work and, in 1936, published the 'Crack-Up', which described his own collapse." .
+<The_Curious_Case_of_Benjamin_Button> <film.film.language> "English Language" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.connections_from> "f scott fitzgerald distant relative of francis scott key" .
+<This_Side_of_Paradise> <book.written_work.original_language> "English Language" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<R._D._Blackmore> <influence.influence_node.influenced> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "Betrayed by F. Scott Fitzgerald" .
+<Jay_Gatsby> <fictional_universe.fictional_character.parents> "Mr. Gatz" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Michael Chabon" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<F._Scott_Fitzgerald_and_the_art_of_social_fiction> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<His_career_was_promoted_by_Mencken.> <base.kwebbase.kwsentence.contains_connections> "f scott fitzgerald promoted by h. l. mencken" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "'This Side of Paradise', Based on his Princeton experiences, it was finally published in March 1920 and, a month later, he and Zelda married." .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<The_book_repeats_Fitzgerald's_recurring_theme_of_a_poor,__aspiring_young_man_investing_his_hopes_in_a_rich,_carelessly_superior_young_woman_who_uses_him_and_then_leaves_him.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<William_Styron> <freebase.valuenotation.is_reviewed> "Date of death" .
+<F._Scott_Fitzgerald> <people.deceased_person.cause_of_death> "heart attack" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<F._Scott_Fitzgerald> <people.person.profession> "Writer" .
+<Book_Edition> <type.type.expected_by> "Online Edition of" .
+<Book> <freebase.type_profile.kind> "Definition" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Dodo Press)" .
+<Richard_Hofstadter> <freebase.valuenotation.is_reviewed> "Date of death" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<The_novel_captured_the_post-war_spirit_of_rebellion_among_wealthy_youngsters_and_it_reflected_the_manners_and_morals_of_a_new_era.> <base.kwebbase.kwsentence.next_sentence> "Fitzgerald was now seen as the voice of the Jazz Age and he became instantly famous." .
+<f_scott_fitzgerald_distant_relative_of_francis_scott_key> <base.kwebbase.kwconnection.other> "Francis Scott Key" .
+<F._Scott_Fitzgerald> <fictional_universe.fictional_character_creator.fictional_characters_created> "Mr. Gatz" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "The central character of Gatsby's dream is Daisy Buchanan, a shallow but charming young woman married to a rich man." .
+<J._D._Salinger> <influence.influence_node.influenced> "Ann Beattie" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<The_Last_Time_I_Saw_Paris> <film.film.language> "English Language" .
+<Bret_Easton_Ellis> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Richard Yates" .
+<William_Styron> <influence.influence_node.influenced_by> "Richard Yates" .
+<Jonathan_Franzen> <people.person.profession> "Novelist" .
+<William_Styron> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<John_Cheever> <freebase.valuenotation.is_reviewed> "Gender" .
+<Books> <type.domain.types> "Book Edition" .
+<Under_the_Biltmore_Clock> <film.film.story_by> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<J._D._Salinger> <people.person.profession> "Writer" .
+<During_this_time,_Fitzgerald_finally_completed_his_most_deeply_emotional_novel,__'Tender_is_the_Night'.> <base.kwebbase.kwsentence.next_sentence> "The central character, Dick Diver, is a psychiatrist who marries one of his patients." .
+<Richard_Yates> <people.person.gender> "Male" .
+<Rich_was_no_longer_a_term_used_to_describe_Fitzgerald's_life_because,_over_the_next_decade,_money_dwindled,_he_gave_up_hope_of_a_cure_for_Zelda's_depression_and_his_own_drinking_problem_became_worse.> <base.kwebbase.kwsentence.previous_sentence> "In 1926, he published 'The Rich Boy', a short story that contains the words 'They are different from you and me', his continual statement about the rich." .
+<This_Side_of_Paradise_(Webster's_German_Thesaurus_Edition)> <book.book_edition.book> "This Side of Paradise" .
+<John_Cheever> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<f_scott_fitzgerald_promoted_by_h._l._mencken> <base.kwebbase.kwconnection.sentence> "His career was promoted by Mencken." .
+<The_couple_fell_in_love_and_planned_to_marry_as_soon_as_Fitzgerald_was_earning_a_decent_living.> <base.kwebbase.kwsentence.next_sentence> "He left the army in February 1919 and went to New York, where he took a job in an advertising agency." .
+<This_Side_of_Paradise_(The_Classic_Collection)> <common.topic.notable_types> "Book Edition" .
+<Clive_James> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<The_functional_technique_of_Scott_Fitzgerald> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<T._S._Eliot> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<Ross_Macdonald> <people.person.gender> "Male" .
+<notebooks_of_F._Scott_Fitzgerald> <book.written_work.author> "F. Scott Fitzgerald" .
+<Advertising> <book.book_subject.works> "This Side of Paradise" .
+<F._Scott_Fitzgerald> <people.person.education> "m.0n0mxgb" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<After_her_father_died_in_1932,_she_had_another_breakdown,_which_put_her_back_in_hospital.> <base.kwebbase.kwsentence.previous_sentence> "She went into hospital in Switzerland until September 1931, then they returned to America." .
+<During_this_time,_Fitzgerald_finally_completed_his_most_deeply_emotional_novel,__'Tender_is_the_Night'.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Correspondence_of_F._Scott_Fitzgerald> <book.written_work.author> "F. Scott Fitzgerald" .
+<English_Language> <language.human_language.main_country> "United States of America" .
+<Michael_Chabon> <influence.influence_node.influenced_by> "Paul Auster" .
+<Books> <type.domain.types> "ISBN" .
+<At_the_same_time,_'The_Great_Gatsby'_was_successfully_dramatized.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Rahadyan_Sastrowardoyo> <common.topic.notable_types> "Author" .
+<F._Scott_Fitzgerald> <freebase.valuenotation.is_reviewed> "Gender" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "F. Scott Fitzgerald and the art of social fiction" .
+<This_Side_of_Paradise_(The_Classic_Collection)> <common.topic.notable_types> "Book Edition" .
+<Edith_Wharton> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<F._Scott_Fitzgerald> <film.writer.film> "The Glimpses of the Moon" .
+<Ronald_Malfi> <people.person.gender> "Male" .
+<Ann_Scott> <common.topic.notable_types> "Author" .
+<Book_Edition> <type.type.expected_by> "Book" .
+<f_scott_fitzgerald_a_favorite_of_gertrude_stein> <base.kwebbase.kwconnection.subject> "F. Scott Fitzgerald" .
+<Edition_Of> <owl#inverseOf> "Editions" .
+<The_six_chapters_he_completed_show_signs_of_a_reawakened_talent_but,_before_he_could_finish_the_book,_he_died_suddenly_of_a_heart_attack.> <base.kwebbase.kwsentence.previous_sentence> "When his scriptwriting was rejected, he started to write stories for 'Esquire' then, in 1939, he began his final novel, 'The Last Tycoon'." .
+<Richard_Yates> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Jonathan_Lamas> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<Derek_Marlowe> <freebase.valuenotation.is_reviewed> "Date of death" .
+<F._Scott_Fitzgerald:_a_study_of_the_stories> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<Book_Edition> <type.type.properties> "Publication date" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<The_book,_sometimes_referred_to_as_the_Great_American_Novel_because_of_its_very_American_theme_based_on_the_ideal_of_unlimited_dreams_that_are_impossible_to_fulfil,_was_a_critical_success,_but_not_a_financial_one.> <base.kwebbase.kwsentence.next_sentence> "The character of Jay Gatsby is a brash, self-made man from the West, who dreams of social success in the East." .
+<'This_Side_of_Paradise',_Based_on_his_Princeton_experiences,_it_was_finally_published_in_March_1920_and,_a_month_later,_he_and_Zelda_married.> <base.kwebbase.kwsentence.previous_sentence> "Making his mind up to be a successful writer, Fitzgerald gave up his advertising job and went to his parents' home where he polished his novel." .
+<Hunter_S._Thompson> <common.topic.notable_types> "Author" .
+<Jack_Kerouac> <people.person.gender> "Male" .
+<They_settled_at_St_Raphael_in_the_South_of_France_and_the_novel_was_published_in_April_1925.> <base.kwebbase.kwsentence.next_sentence> "The book, sometimes referred to as the Great American Novel because of its very American theme based on the ideal of unlimited dreams that are impossible to fulfil, was a critical success, but not a financial one." .
+<Francis_Scott_Key> <common.topic.notable_types> "Author" .
+<The_central_character_of_Gatsby's_dream_is_Daisy_Buchanan,_a_shallow_but_charming_young_woman_married_to_a_rich_man.> <base.kwebbase.kwsentence.next_sentence> "After publication, the Fitzgerald's went to Paris for the summer and were received with open arms." .
+<Book_Edition> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<William_Styron> <common.topic.notable_types> "Author" .
+<Mr._Gatz> <fictional_universe.fictional_character.children> "Jay Gatsby" .
+<Edition_Of> <type.property.reverse_property> "Editions" .
+<F._Scott_Fitzgerald> <people.person.quotations> "Sometimes it is harder to deprive oneself of a pain than of a pleasure." .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.connections_from> "f scott fitzgerald a favorite of gertrude stein" .
+<This_Side_of_Paradise_(Classic_Collection)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <people.person.children> "Frances Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Classic Collection)" .
+<The_novel_reflects_Fitzgerald's_own_feelings_about_his_marriage_and_the_nature_of_his_success.> <base.kwebbase.kwsentence.previous_sentence> "The book repeats Fitzgerald's recurring theme of a poor,  aspiring young man investing his hopes in a rich, carelessly superior young woman who uses him and then leaves him." .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<After_her_father_died_in_1932,_she_had_another_breakdown,_which_put_her_back_in_hospital.> <base.kwebbase.kwsentence.next_sentence> "During this time, Fitzgerald finally completed his most deeply emotional novel,  'Tender is the Night'." .
+<Jonathan_Franzen> <freebase.valuenotation.is_reviewed> "Parents" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "William Goldman" .
+<This_Side_Of_Paradise_(Classic_Books_on_Cassettes_Collection)> <common.topic.notable_types> "Book Edition" .
+<Saint_Paul> <location.location.containedby> "United States of America" .
+<The_Great_Gatsby> <film.film.language> "English Language" .
+<F._Scott_Fitzgerald> <common.image.appears_in_topic_gallery> "F. Scott Fitzgerald" .
+<Joseph_O'Neill> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<John_Cheever> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<During_this_time,_Fitzgerald_finally_completed_his_most_deeply_emotional_novel,__'Tender_is_the_Night'.> <base.kwebbase.kwsentence.previous_sentence> "After her father died in 1932, she had another breakdown, which put her back in hospital." .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<The_intimate_revelations_of_young_men,_or_at_least_the_terms_in_which_they_express_them,_are_usually_plagiaristic_and_marred_by_obvious_suppressions.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<The_Great_Gatsby> <film.film.language> "English Language" .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "Bernice Bobs Her Hair" .
+<In_1927,_Fitzgerald_went_to_Hollywood,_where_he_met_Lois_Moran,_who_provided_the_inspiration_for_the_character_of_Rosemary_Hoyt_in_his_next_novel,_'Tender_is_the_Night'.> <base.kwebbase.kwsentence.previous_sentence> "At the same time, 'The Great Gatsby' was successfully dramatized." .
+<F._Scott_Fitzgerald> <film.writer.film> "Red-Headed Woman" .
+<Michael_Chabon> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "He and Zelda went to Europe for the first time in 1921 and his collection of short stories, 'Flappers and Philosophers' came out." .
+<William_Goldman> <influence.influence_node.influenced_by> "Ross Macdonald" .
+<Nick_Carraway> <fictional_universe.fictional_character.gender> "Male" .
+<This_Side_of_Paradise_(The_World's_Best_Reading)> <common.topic.notable_types> "Book Edition" .
+<Author> <freebase.type_hints.included_types> "Topic" .
+<Jack_Kerouac> <people.person.profession> "Poet" .
+<Jonathan_Franzen> <people.person.nationality> "United States of America" .
+<Everything_Happens_at_Night> <film.film.country> "United States of America" .
+<The_couple_fell_in_love_and_planned_to_marry_as_soon_as_Fitzgerald_was_earning_a_decent_living.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <people.person.profession> "Poet" .
+<The_book,_sometimes_referred_to_as_the_Great_American_Novel_because_of_its_very_American_theme_based_on_the_ideal_of_unlimited_dreams_that_are_impossible_to_fulfil,_was_a_critical_success,_but_not_a_financial_one.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Book_Edition> <type.type.properties> "Credited to" .
+<This_Side_of_Paradise_(The_Classic_Collection)> <book.book_edition.book> "This Side of Paradise" .
+<Both_Zelda_and_Fitzgerald_were_now_drinking_heavily_and_in_1930,_Zelda_had_a_nervous_breakdown.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<In_1927,_Fitzgerald_went_to_Hollywood,_where_he_met_Lois_Moran,_who_provided_the_inspiration_for_the_character_of_Rosemary_Hoyt_in_his_next_novel,_'Tender_is_the_Night'.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<In_1923,_he_spent_most_of_his_time_writing_a_play,_'The_Vegetable',_which_opened_in_Atlantic_City_and_failed.> <base.kwebbase.kwsentence.next_sentence> "To pay his rising debts, he spent the next few months writing popular stories, then began his more serious work: 'The Great Gatsby' in 1924, the year they decided to move to France to save money." .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<f_scott_fitzgerald_distant_relative_of_francis_scott_key> <base.kwebbase.kwconnection.sentence> "On his father's side, Fitzgerald was related to Key, who wrote the words of 'The Star-Spangled Banner', while his mother's family were Irish-American." .
+<Red-Headed_Woman> <film.film.written_by> "F. Scott Fitzgerald" .
+<Oswald_Spengler> <influence.influence_node.influenced> "F. Scott Fitzgerald" .
+<T._S._Eliot> <people.person.profession> "Poet" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (The Classic Edition)" .
+<Tom_Buchanan> <fictional_universe.fictional_character.gender> "Male" .
+<Life_Begins_at_Eight-Thirty> <film.film.country> "United States of America" .
+<Paul_Auster> <people.person.nationality> "United States of America" .
+<Mr._Gatz> <fictional_universe.fictional_character.character_created_by> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <media_common.adapted_work.adaptations> "The Pursuit of Persephone" .
+<Haruki_Murakami> <influence.influence_node.influenced> "Mohsin Hamid" .
+<Book_Edition> <type.type.properties> "Reader (audio book)" .
+<Place_of_publication> <type.property.schema> "Book Edition" .
+<Edna_O'Brien> <common.topic.notable_types> "Author" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (A Scribner Classic)" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Ross Macdonald" .
+<Frances_Scott_Fitzgerald> <people.person.profession> "Writer" .
+<At_last,_a_magazine_accepted_his_story,_'Babes_in_the_Woods'_but__Zelda_broke_off_their_engagement,_not_believing_he_would_ever_be_able_to_support_her.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Richard_Hofstadter> <people.person.nationality> "United States of America" .
+<John_Green> <people.person.profession> "Novelist" .
+<F._Scott_Fitzgerald> <people.person.quotations> "Either you think -- or else others have to think for you and take power from you, pervert and discipline your natural tastes, civilize and sterilize you." .
+<Place_of_publication> <rdf-schema#domain> "Book Edition" .
+<Haruki_Murakami> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Life_Begins_at_Eight-Thirty> <film.film.written_by> "F. Scott Fitzgerald" .
+<When_America_entered_World_War_I_in_1917,_Fitzgerald_left_Princeton_and_joined_the_army_as_Second_Lieutenant,_but_never_served_abroad.> <base.kwebbase.kwsentence.previous_sentence> "Fitzgerald worked on the undergraduate literary magazine and wrote the first version of his novel, 'This Side of Paradise.'  Around the same time, he made friends with Edmund Wilson, who later became a distinguished writer and critic." .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Webster's Chinese-Simplified Thesaurus Edition)" .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "The Great Gatsby" .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "Under the Biltmore Clock" .
+<John_Cheever> <people.person.profession> "Novelist" .
+<m.0j6n41d> <tv.tv_guest_personal_appearance.person> "F. Scott Fitzgerald" .
+<Book_Edition> <type.type.expected_by> "Edition" .
+<Book_Edition> <type.type.properties> "Binding/format" .
+<Michael_Chabon> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<This_Side_of_Paradise_(Modern_Library_Classics)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <common.topic.webpage> "m.0b6rmd3" .
+<f_scott_fitzgerald_distant_relative_of_francis_scott_key> <base.kwebbase.kwconnection.subject> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "The next year, badly in debt, he went to Hollywood to work as a scriptwriter and met Sheilah Graham, who became his constant companion and lover." .
+<Sometimes_it_is_harder_to_deprive_oneself_of_a_pain_than_of_a_pleasure.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<The_book_repeats_Fitzgerald's_recurring_theme_of_a_poor,__aspiring_young_man_investing_his_hopes_in_a_rich,_carelessly_superior_young_woman_who_uses_him_and_then_leaves_him.> <base.kwebbase.kwsentence.previous_sentence> "She is a wealthy young woman called Nicole Warren, who ultimately destroys Diver." .
+<Hollywood> <location.location.containedby> "United States of America" .
+<The_Off-Shore_Pirate> <film.film.language> "English Language" .
+<Nick_Carraway> <fictional_universe.fictional_character.character_created_by> "F. Scott Fitzgerald" .
+<Nick_Carraway> <fictional_universe.fictional_character.quotations> "Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known." .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise" .
+<This_Side_of_Paradise> <base.schemastaging.context_name.pronunciation> "m.011m1qdq" .
+<Richard_Yates> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<Winter_Carnival> <film.film.language> "English Language" .
+<F._Scott_Fitzgerald> <common.image.appears_in_topic_gallery> "Sometimes it is harder to deprive oneself of a pain than of a pleasure." .
+<An_F._Scott_Fitzgerald_encyclopedia> <common.topic.notable_types> "Book" .
+<Shane_Leslie> <people.person.religion> "Catholicism" .
+<Jonathan_Franzen> <freebase.valuenotation.is_reviewed> "Gender" .
+<In_1913,_he_started_at_Princeton_University.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "They settled at St Raphael in the South of France and the novel was published in April 1925." .
+<The_Man_Who_Would_Be_F._Scott_Fitzgerald> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<Edith_Wharton> <book.author.school_or_movement> "Jazz Age" .
+<F._Scott_Fitzgerald> <people.person.quotations> "Gatsby turned out all right at the end; it is what preyed on Gatsby, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men." .
+<This_Side_of_Paradise> <common.topic.notable_types> "Book Edition" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<Francis_Scott_Key> <people.person.profession> "Poet" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<Derek_Marlowe> <people.person.gender> "Male" .
+<Jonathan_Lamas> <people.person.gender> "Male" .
+<F._Scott_Fitzgerald> <freebase.valuenotation.is_reviewed> "Spouse (or domestic partner)" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "In 1922, he published 'The Beautiful and the Damned', which has since been seen as prophetic of the Fitzgeralds' future life." .
+<William_Goldman> <common.topic.notable_types> "Author" .
+<This_side_of_paradise> <common.topic.notable_for> "g.125b9r7_c" .
+<William_Styron> <people.person.profession> "Writer" .
+<m.04_l5vt> <media_common.dedication.dedicated_by> "F. Scott Fitzgerald" .
+<In_1922,_he_published_'The_Beautiful_and_the_Damned',_which_has_since_been_seen_as_prophetic_of_the_Fitzgeralds'_future_life.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<First_edition> <type.property.expected_type> "Book Edition" .
+<An_F._Scott_Fitzgerald_encyclopedia> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<Michael_Chabon> <people.person.gender> "Male" .
+<Everything_Happens_at_Night> <film.film.language> "English Language" .
+<Marie_Antoinette> <film.film.country> "United States of America" .
+<Mollie_McQuillan_Fitzgerald> <freebase.valuenotation.has_value> "Date of birth" .
+<Bernice_Bobs_Her_Hair> <film.film.language> "English Language" .
+<Edith_Wharton> <freebase.valuenotation.is_reviewed> "Parents" .
+<Paul_Auster> <freebase.valuenotation.is_reviewed> "Gender" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced_by> "John Keats" .
+<Winter_Carnival> <film.film.written_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <people.person.profession> "Novelist" .
+<Ann_Beattie> <influence.influence_node.influenced_by> "J. D. Salinger" .
+<Bret_Easton_Ellis> <people.person.profession> "Writer" .
+<The_couple_fell_in_love_and_planned_to_marry_as_soon_as_Fitzgerald_was_earning_a_decent_living.> <base.kwebbase.kwsentence.previous_sentence> "In 1918, he was stationed near Montgomery, Alabama and, at a local dance, he met Zelda Sayre, the daughter of an Alabama Supreme Court judge." .
+<This_Side_of_Paradise_(The_Classic_Edition)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "Making his mind up to be a successful writer, Fitzgerald gave up his advertising job and went to his parents' home where he polished his novel." .
+<By_the_time_they_came_into_the_inheritance,_they_were_too_jaded_and_worn_out_to_participate_fully_in_a_worthwhile_life.> <base.kwebbase.kwsentence.next_sentence> "'Tales of the Jazz Age', a collection of more upbeat stories, was published the same year and allowed the Fitzgeralds to continue what was by now an extravagant lifestyle." .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "To pay his rising debts, he spent the next few months writing popular stories, then began his more serious work: 'The Great Gatsby' in 1924, the year they decided to move to France to save money." .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "The six chapters he completed show signs of a reawakened talent but, before he could finish the book, he died suddenly of a heart attack." .
+<Jazz_Age> <book.school_or_movement.associated_authors> "F. Scott Fitzgerald" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Stephen_Chbosky> <people.person.profession> "Novelist" .
+<Book_Edition> <type.type.properties> "Cover artist" .
+<Mollie_McQuillan_Fitzgerald> <people.person.children> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "Fitzgerald worked on the undergraduate literary magazine and wrote the first version of his novel, 'This Side of Paradise.'  Around the same time, he made friends with Edmund Wilson, who later became a distinguished writer and critic." .
+<Book> <type.type.domain> "Books" .
+<F._Scott_Fitzgerald> <people.person.quotations> "The intimate revelations of young men, or at least the terms in which they express them, are usually plagiaristic and marred by obvious suppressions." .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "g.1hc0qq31b" .
+<Jack_Kerouac> <people.person.languages> "English Language" .
+<William_Styron> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Book_Edition> <type.type.properties> "Book edition series" .
+<F._Scott_Fitzgerald> <tv.tv_subject.tv_episodes> "F. Scott Fitzgerald: the Great American Dreamer" .
+<Book_Edition> <type.type.expected_by> "Book Editions" .
+<Mohsin_Hamid> <influence.influence_node.influenced_by> "Haruki Murakami" .
+<J._D._Salinger> <influence.influence_node.influenced> "Stephen Chbosky" .
+<At_the_same_time,_'The_Great_Gatsby'_was_successfully_dramatized.> <base.kwebbase.kwsentence.previous_sentence> "Over the next four years, Fitzgerald split his time between America and Europe and, in 1926, some of his best short stories appeared in 'All the Sad Young Men'." .
+<Paul_Auster> <people.person.profession> "Writer" .
+<'Tales_of_the_Jazz_Age',_a_collection_of_more_upbeat_stories,_was_published_the_same_year_and_allowed_the_Fitzgeralds_to_continue_what_was_by_now_an_extravagant_lifestyle.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<The_Off-Shore_Pirate> <film.film.country> "United States of America" .
+<F._Scott_Fitzgerald> <people.person.quotations> "No amount of fire or freshness can challenge what a man will store up in his ghostly heart." .
+<Jonathan_Franzen> <common.topic.notable_types> "Author" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "Rich was no longer a term used to describe Fitzgerald's life because, over the next decade, money dwindled, he gave up hope of a cure for Zelda's depression and his own drinking problem became worse." .
+<This_Side_of_Paradise_(World_Clissics_in_Large_Print)> <book.book_edition.book> "This Side of Paradise" .
+<This_Side_of_Paradise_(The_Classic_Collection)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<The_Beautiful_and_Damned> <film.film.story_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced_by> "Sherwood Anderson" .
+<Fitzgerald_worked_on_the_undergraduate_literary_magazine_and_wrote_the_first_version_of_his_novel,_'This_Side_of_Paradise.'__Around_the_same_time,_he_made_friends_with_Edmund_Wilson,_who_later_became_a_distinguished_writer_and_critic.> <base.kwebbase.kwsentence.previous_sentence> "The following year, he was given another chance and when he returned to Princeton, he put all his energy into his literary studies rather than his social life." .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Modern Library Classics)" .
+<Tender_Is_the_Night> <film.film.country> "United States of America" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Ross_Macdonald> <people.person.profession> "Writer" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Jonathan Franzen" .
+<F._Scott_Fitzgerald> <common.topic.webpage> "m.09ymgng" .
+<Bret_Easton_Ellis> <people.person.nationality> "United States of America" .
+<Rahadyan_Sastrowardoyo> <people.person.nationality> "United States of America" .
+<Book_Edition> <freebase.type_profile.strict_included_types> "Topic" .
+<This_Side_of_Paradise> <common.topic.notable_types> "Book Edition" .
+<Paul_Auster> <influence.influence_node.influenced> "Michael Chabon" .
+<F._Scott_Fitzgerald:_a_study_of_the_stories> <common.topic.notable_types> "Book" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "By the time they came into the inheritance, they were too jaded and worn out to participate fully in a worthwhile life." .
+<F._Scott_Fitzgerald> <people.person.quotations> "In a real dark night of the soul it is always three o'clock in the morning, day after day." .
+<In_1918,_he_was_stationed_near_Montgomery,_Alabama_and,_at_a_local_dance,_he_met_Zelda_Sayre,_the_daughter_of_an_Alabama_Supreme_Court_judge.> <base.kwebbase.kwsentence.next_sentence> "The couple fell in love and planned to marry as soon as Fitzgerald was earning a decent living." .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "At last, a magazine accepted his story, 'Babes in the Woods' but  Zelda broke off their engagement, not believing he would ever be able to support her." .
+<On_his_father's_side,_Fitzgerald_was_related_to_Key,_who_wrote_the_words_of_'The_Star-Spangled_Banner',_while_his_mother's_family_were_Irish-American.> <base.kwebbase.kwsentence.contains_connections> "f scott fitzgerald distant relative of francis scott key" .
+<George_R._R._Martin> <freebase.valuenotation.is_reviewed> "Gender" .
+<F._Scott_Fitzgerald> <fictional_universe.fictional_character_creator.fictional_characters_created> "Nick Carraway" .
+<By_the_time_they_came_into_the_inheritance,_they_were_too_jaded_and_worn_out_to_participate_fully_in_a_worthwhile_life.> <base.kwebbase.kwsentence.previous_sentence> "It told the story of Anthony and Gloria Patch, a young, privileged couple living,  in expectation of a large inheritance,  in drunkenness and extravagance." .
+<William_Styron> <people.person.profession> "Novelist" .
+<F._Scott_Fitzgerald> <base.cinemainspector.person_sign.star_sign> "Libra" .
+<This_Side_of_Paradise> <common.topic.image> "This Side of Paradise dust jacket" .
+<Over_the_next_four_years,_Fitzgerald_split_his_time_between_America_and_Europe_and,_in_1926,_some_of_his_best_short_stories_appeared_in_'All_the_Sad_Young_Men'.> <base.kwebbase.kwsentence.previous_sentence> "They became friendly with Hemingway who, as a young writer trying to make his way, accepted Fitzgerald's help on his unpublished novel 'The Sun Also Rises'." .
+<Either_you_think_--_or_else_others_have_to_think_for_you_and_take_power_from_you,_pervert_and_discipline_your_natural_tastes,_civilize_and_sterilize_you.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise_(Webster's_Korean_Thesaurus_Edition)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<John_Cheever> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Book_Edition> <type.type.expected_by> "Book Edition" .
+<In_a_real_dark_night_of_the_soul_it_is_always_three_o'clock_in_the_morning,_day_after_day.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Webster's Chinese-Traditional Thesaurus Edition)" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <people.person.parents> "Mollie McQuillan Fitzgerald" .
+<This_Side_of_Paradise> <book.written_work.subjects> "Classics" .
+<Book_Edition> <type.type.expected_by> "Editions in this series" .
+<The_letters_of_F._Scott_Fitzgerald> <book.written_work.author> "F. Scott Fitzgerald" .
+<In_1923,_he_spent_most_of_his_time_writing_a_play,_'The_Vegetable',_which_opened_in_Atlantic_City_and_failed.> <base.kwebbase.kwsentence.previous_sentence> "'Tales of the Jazz Age', a collection of more upbeat stories, was published the same year and allowed the Fitzgeralds to continue what was by now an extravagant lifestyle." .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "When his scriptwriting was rejected, he started to write stories for 'Esquire' then, in 1939, he began his final novel, 'The Last Tycoon'." .
+<Nick_Carraway> <fictional_universe.fictional_character.quotations> "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it, that you may come across four or five times in life. It faced--or seemed to face--the whole external world for an instant, and then concentrated on you with an irresistible prejudice in your favor. It understood you just as far as you wanted to be understood, believed in you as you would like to believe in yourself, and assured you that it had precisely the impression of you that, at your best, you hoped to convey." .
+<Sherwood_Anderson> <people.person.nationality> "United States of America" .
+<Book> <freebase.type_profile.published> "Published" .
+<Edition_Of> <rdf-schema#range> "Book" .
+<Joseph_O'Neill> <people.person.profession> "Writer" .
+<Haruki_Murakami> <influence.influence_node.influenced_by> "Jack Kerouac" .
+<F._Scott_Fitzgerald> <fictional_universe.fictional_character_creator.fictional_characters_created> "Daisy Buchanan" .
+<He_and_Zelda_went_to_Europe_for_the_first_time_in_1921_and_his_collection_of_short_stories,_'Flappers_and_Philosophers'_came_out.> <base.kwebbase.kwsentence.previous_sentence> "Fitzgerald was now seen as the voice of the Jazz Age and he became instantly famous." .
+<This_Side_of_Paradise_(A_Scribner_Classic)> <common.topic.notable_types> "Book Edition" .
+<This_Side_of_Paradise> <book.book_edition.book> "This Side of Paradise" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Haruki Murakami" .
+<This_side_of_paradise> <book.book_edition.isbn> "9780375758867" .
+<He_was_a_favorite_of_Stein.> <base.kwebbase.kwsentence.previous_sentence> "His career was promoted by Mencken." .
+<F._Scott_Fitzgerald> <influence.influence_node.peers> "m.02nc2ft" .
+<John_Cheever> <influence.influence_node.influenced> "Michael Chabon" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced_by> "Sara Murphy" .
+<William_Goldman> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0j6n41d> <tv.tv_guest_personal_appearance.episode> "F. Scott Fitzgerald: the Great American Dreamer" .
+<Bret_Easton_Ellis> <people.person.profession> "Novelist" .
+<The_book,_sometimes_referred_to_as_the_Great_American_Novel_because_of_its_very_American_theme_based_on_the_ideal_of_unlimited_dreams_that_are_impossible_to_fulfil,_was_a_critical_success,_but_not_a_financial_one.> <base.kwebbase.kwsentence.previous_sentence> "They settled at St Raphael in the South of France and the novel was published in April 1925." .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "The Great Gatsby" .
+<Book_Edition> <type.type.expected_by> "Book editions published" .
+<Jack_Kerouac> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.written_work.subjects> "Struggle" .
+<Tim_O'Brien> <people.person.profession> "Novelist" .
+<Tim_O'Brien> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Writer> <people.profession.specializations> "Novelist" .
+<Editions> <rdf-schema#domain> "Book" .
+<Conversations_with_F._Scott_Fitzgerald> <book.written_work.author> "F. Scott Fitzgerald" .
+<In_a_real_dark_night_of_the_soul_it_is_always_three_o'clock_in_the_morning,_day_after_day.> <common.topic.image> "F. Scott Fitzgerald" .
+<Edna_O'Brien> <people.person.profession> "Writer" .
+<m.0n0klvz> <education.education.student> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<She_is_a_wealthy_young_woman_called_Nicole_Warren,_who_ultimately_destroys_Diver.> <base.kwebbase.kwsentence.next_sentence> "The book repeats Fitzgerald's recurring theme of a poor,  aspiring young man investing his hopes in a rich, carelessly superior young woman who uses him and then leaves him." .
+<Show_me_a_hero_and_I_will_write_you_a_tragedy.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<Fitzgerald_Theater> <symbols.namesake.named_after> "F. Scott Fitzgerald" .
+<Tim_O'Brien> <freebase.valuenotation.has_value> "Parents" .
+<She_is_a_wealthy_young_woman_called_Nicole_Warren,_who_ultimately_destroys_Diver.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Webster's Portuguese Thesaurus Edition)" .
+<F._Scott_Fitzgerald> <people.person.quotations> "Her voice is full of money." .
+<Book_Edition> <type.type.domain> "Books" .
+<Joseph_O'Neill> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<F._Scott_Fitzgerald> <people.person.quotations> "Let me tell you about the very rich. They are different from you and me. They possess and enjoy early, and it does something to them, makes them soft where we are hard, and cynical where we are trustful, in a way that, unless you were born rich, it is very difficult to understand. They think, deep in their hearts, that they are better than we are because we had to discover the compensations and refuges of life for ourselves. Even when they enter deep into our world or sink below us, they still think that they are better than we are. They are different." .
+<Ann_Scott> <people.person.profession> "Novelist" .
+<The_character_of_Jay_Gatsby_is_a_brash,_self-made_man_from_the_West,_who_dreams_of_social_success_in_the_East.> <base.kwebbase.kwsentence.previous_sentence> "The book, sometimes referred to as the Great American Novel because of its very American theme based on the ideal of unlimited dreams that are impossible to fulfil, was a critical success, but not a financial one." .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Ivy Classics)" .
+<This_Side_of_Paradise> <book.book.editions> "This Side Of Paradise (Classic Books on Cassettes Collection)" .
+<Author> <type.type.expected_by> "Editor of this edition" .
+<Fitzgerald_used_his_own_recent_experiences_to_create_a_new_work_and,_in_1936,_published_the_'Crack-Up',_which_described_his_own_collapse.> <base.kwebbase.kwsentence.next_sentence> "The next year, badly in debt, he went to Hollywood to work as a scriptwriter and met Sheilah Graham, who became his constant companion and lover." .
+<Bernice_Bobs_Her_Hair> <film.film.country> "United States of America" .
+<Stephen_Chbosky> <freebase.valuenotation.is_reviewed> "Gender" .
+<This_Side_of_Paradise_(Webster's_Chinese-Traditional_Thesaurus_Edition)> <common.topic.notable_types> "Book Edition" .
+<J._D._Salinger> <influence.influence_node.influenced> "Haruki Murakami" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<F._Scott_Fitzgerald> <people.person.quotations> "There are no second acts in American lives." .
+<F._Scott_Fitzgerald> <book.book_subject.works> "F. Scott Fitzgerald and the craft of fiction" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<Jonathan_Franzen> <people.person.profession> "Writer" .
+<Ann_Beattie> <influence.influence_node.influenced_by> "Richard Yates" .
+<R._D._Blackmore> <people.person.gender> "Male" .
+<To_pay_his_rising_debts,_he_spent_the_next_few_months_writing_popular_stories,_then_began_his_more_serious_work:_'The_Great_Gatsby'_in_1924,_the_year_they_decided_to_move_to_France_to_save_money.> <base.kwebbase.kwsentence.previous_sentence> "In 1923, he spent most of his time writing a play, 'The Vegetable', which opened in Atlantic City and failed." .
+<Book_Edition> <common.topic.article> "m.021ynhc" .
+<F._Scott_Fitzgerald> <common.topic.image> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "The novel reflects Fitzgerald's own feelings about his marriage and the nature of his success." .
+<Ann_Beattie> <people.person.profession> "Novelist" .
+<Book_Edition> <type.type.properties> "Edition Of" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "She is a wealthy young woman called Nicole Warren, who ultimately destroys Diver." .
+<F._Scott_Fitzgerald> <fictional_universe.fictional_character.based_on> "F. Scott Fitzgerald" .
+<Mohsin_Hamid> <people.person.profession> "Writer" .
+<Derek_Marlowe> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Mohsin_Hamid> <common.topic.notable_types> "Author" .
+<Book_Edition> <type.type.properties> "Dewey decimal number" .
+<Tim_O'Brien> <people.person.nationality> "United States of America" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced_by> "Oswald Spengler" .
+<Jack_Kerouac> <people.person.profession> "Novelist" .
+<Book_Edition> <type.type.expected_by> "Book Editions" .
+<F._Scott_Fitzgerald> <book.author.school_or_movement> "Jazz Age" .
+<f_scott_fitzgerald_promoted_by_h._l._mencken> <base.kwebbase.kwconnection.subject> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <award.ranked_item.appears_in_ranked_lists> "m.0h2mpy1" .
+<Poet> <people.profession.specialization_of> "Writer" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<Shane_Leslie> <people.person.profession> "Writer" .
+<Book_Edition> <type.type.properties> "LCC" .
+<Book_Edition> <type.type.properties> "Number of pages" .
+<When_his_scriptwriting_was_rejected,_he_started_to_write_stories_for_'Esquire'_then,_in_1939,_he_began_his_final_novel,_'The_Last_Tycoon'.> <base.kwebbase.kwsentence.next_sentence> "The six chapters he completed show signs of a reawakened talent but, before he could finish the book, he died suddenly of a heart attack." .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "The Last Time I Saw Paris" .
+<Michael_Chabon> <people.person.profession> "Writer" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Mollie_McQuillan_Fitzgerald> <freebase.valuenotation.has_value> "Parents" .
+<John_Green> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.written_work.author> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "During this time, Fitzgerald finally completed his most deeply emotional novel,  'Tender is the Night'." .
+<Ross_Macdonald> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Both_Zelda_and_Fitzgerald_were_now_drinking_heavily_and_in_1930,_Zelda_had_a_nervous_breakdown.> <base.kwebbase.kwsentence.previous_sentence> "In 1927, Fitzgerald went to Hollywood, where he met Lois Moran, who provided the inspiration for the character of Rosemary Hoyt in his next novel, 'Tender is the Night'." .
+<Author> <type.type.expected_by> "Contributing authors" .
+<The_Great_Gatsby> <film.film.country> "United States of America" .
+<Paul_Auster> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Grace_Andreacchi> <people.person.profession> "Poet" .
+<Book> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<This_Side_of_Paradise_(Modern_Library)> <book.book_edition.book> "This Side of Paradise" .
+<9780375758867> <common.topic.notable_for> "g.125h3zr54" .
+<This_Side_of_Paradise_(World_Clissics_in_Large_Print)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Rahadyan_Sastrowardoyo> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <people.person.quotations> "It occurred to me that there was no difference between men, in intelligence or race, so profound as the difference between the sick and the well." .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Barnes & Noble Classics Series) (Barnes & Noble Classics)" .
+<J._D._Salinger> <people.person.nationality> "United States of America" .
+<R._D._Blackmore> <common.topic.notable_types> "Author" .
+<Nick_Carraway> <fictional_universe.fictional_character.quotations> "Gatsby turned out all right at the end; it is what preyed on Gatsby, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men." .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "During his military training, he had time to revise his novel, which had been turned down by the publishers." .
+<T._S._Eliot> <common.topic.notable_types> "Author" .
+<Nick_Carraway> <fictional_universe.fictional_character.quotations> "No amount of fire or freshness can challenge what a man will store up in his ghostly heart." .
+<Ross_Macdonald> <freebase.valuenotation.has_value> "Parents" .
+<At_last,_a_magazine_accepted_his_story,_'Babes_in_the_Woods'_but__Zelda_broke_off_their_engagement,_not_believing_he_would_ever_be_able_to_support_her.> <base.kwebbase.kwsentence.previous_sentence> "Once again, he revised his novel and tried hard to get some of his short stories published." .
+<Ann_Beattie> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise_(Penguin_Twentieth-Century_Classics)> <book.book_edition.book> "This Side of Paradise" .
+<Haruki_Murakami> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<Stephen_Chbosky> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Edition_Of> <type.property.schema> "Book Edition" .
+<Edith_Wharton> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Paul_Auster> <people.person.profession> "Poet" .
+<The_six_chapters_he_completed_show_signs_of_a_reawakened_talent_but,_before_he_could_finish_the_book,_he_died_suddenly_of_a_heart_attack.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Ross_Macdonald> <freebase.valuenotation.is_reviewed> "Gender" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<John_Keats> <influence.influence_node.influenced> "Richard Yates" .
+<Richard_Hofstadter> <common.topic.notable_types> "Author" .
+<His_career_was_promoted_by_Mencken.> <base.kwebbase.kwsentence.next_sentence> "He was a favorite of Stein." .
+<F._Scott_Fitzgerald> <people.person.quotations> "Personality is an unbroken series of successful gestures." .
+<Class_Conflict_in_F._Scott_Fitzgerald's_the_Great_Gatsby> <common.topic.notable_types> "Book" .
+<This_Side_of_Paradise> <book.written_work.subjects> "Language" .
+<William_Goldman> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<John_Green> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "The functional technique of Scott Fitzgerald" .
+<This_Side_of_Paradise_(Webster's_German_Thesaurus_Edition)> <common.topic.notable_types> "Book Edition" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<On_his_father's_side,_Fitzgerald_was_related_to_Key,_who_wrote_the_words_of_'The_Star-Spangled_Banner',_while_his_mother's_family_were_Irish-American.> <base.kwebbase.kwsentence.next_sentence> "When he was two, his father's business collapsed and the family moved around, so he spent his early years in Buffalo and Syracuse, New York then, in 1908, they moved back to Minnesota." .
+<This_Side_of_Paradise_(Ivy_Classics)> <common.topic.notable_types> "Book Edition" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (The Classic Collection)" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "When America entered World War I in 1917, Fitzgerald left Princeton and joined the army as Second Lieutenant, but never served abroad." .
+<ISBN> <freebase.type_profile.strict_included_types> "Topic" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "At the same time, 'The Great Gatsby' was successfully dramatized." .
+<F._Scott_Fitzgerald> <symbols.name_source.namesakes> "F. Scott Fitzgerald House" .
+<During_his_military_training,_he_had_time_to_revise_his_novel,_which_had_been_turned_down_by_the_publishers.> <base.kwebbase.kwsentence.next_sentence> "In 1918, he was stationed near Montgomery, Alabama and, at a local dance, he met Zelda Sayre, the daughter of an Alabama Supreme Court judge." .
+<T._S._Eliot> <freebase.valuenotation.is_reviewed> "Parents" .
+<In_1918,_he_was_stationed_near_Montgomery,_Alabama_and,_at_a_local_dance,_he_met_Zelda_Sayre,_the_daughter_of_an_Alabama_Supreme_Court_judge.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Tim_O'Brien> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ann_Scott> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<Making_his_mind_up_to_be_a_successful_writer,_Fitzgerald_gave_up_his_advertising_job_and_went_to_his_parents'_home_where_he_polished_his_novel.> <base.kwebbase.kwsentence.next_sentence> "'This Side of Paradise', Based on his Princeton experiences, it was finally published in March 1920 and, a month later, he and Zelda married." .
+<Joseph_O'Neill> <people.person.gender> "Male" .
+<Novelist> <people.profession.corresponding_type> "Author" .
+<F._Scott_Fitzgerald> <people.person.quotations> "No such thing as a man willing to be honest --that would be like a blind man willing to see." .
+<Shane_Leslie> <common.topic.notable_types> "Author" .
+<The_character_of_Jay_Gatsby_is_a_brash,_self-made_man_from_the_West,_who_dreams_of_social_success_in_the_East.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise_(Barnes_&_Noble_Classics_Series)_(Barnes_&_Noble_Classics)> <common.topic.notable_types> "Book Edition" .
+<Tender_Is_the_Night> <film.film.story_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <common.topic.webpage> "m.09y23g9" .
+<m.02nc2ft> <influence.peer_relationship.peers> "F. Scott Fitzgerald" .
+<Jazz_Age> <book.school_or_movement.associated_authors> "Sherwood Anderson" .
+<The_Great_Gatsby> <film.film.story_by> "F. Scott Fitzgerald" .
+<This_Side_Of_Paradise_(Classic_Books_on_Cassettes_Collection)> <book.book_edition.book> "This Side of Paradise" .
+<The_central_character,_Dick_Diver,_is_a_psychiatrist_who_marries_one_of_his_patients.> <base.kwebbase.kwsentence.previous_sentence> "During this time, Fitzgerald finally completed his most deeply emotional novel,  'Tender is the Night'." .
+<William_Styron> <influence.influence_node.influenced> "Richard Yates" .
+<ISBN> <freebase.type_hints.included_types> "Topic" .
+<Book_Edition> <type.type.expected_by> "Editions" .
+<Red-Headed_Woman> <film.film.language> "English Language" .
+<In_1913,_he_started_at_Princeton_University.> <base.kwebbase.kwsentence.next_sentence> "He fell behind in his studies and in 1915, knowing that he was going to fail his exams, he left university." .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "In 1923, he spent most of his time writing a play, 'The Vegetable', which opened in Atlantic City and failed." .
+<F._Scott_Fitzgerald> <people.person.parents> "Edward Fitzgerald" .
+<Book_Edition> <type.type.properties> "Place of publication" .
+<Richard_Yates> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<When_he_was_two,_his_father's_business_collapsed_and_the_family_moved_around,_so_he_spent_his_early_years_in_Buffalo_and_Syracuse,_New_York_then,_in_1908,_they_moved_back_to_Minnesota.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Author> <type.type.properties> "Contributing author to" .
+<Tim_O'Brien> <common.topic.notable_types> "Author" .
+<F._Scott_Fitzgerald_House> <location.location.containedby> "Saint Paul" .
+<Jack_Kerouac> <people.person.religion> "Catholicism" .
+<Book_Edition> <freebase.documented_object.documentation> "m.021ynhc" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Hunter S. Thompson" .
+<Author> <freebase.type_profile.published> "Published" .
+<John_Keats> <people.person.profession> "Poet" .
+<Book_Edition> <type.type.expected_by> "Audio books read" .
+<francis_scott_key_descendant_was_f_scott_fitzgerald> <base.kwebbase.kwconnection.other> "F. Scott Fitzgerald" .
+<m.04hdfy7> <people.place_lived.person> "F. Scott Fitzgerald" .
+<Derek_Marlowe> <people.person.profession> "Novelist" .
+<She_went_into_hospital_in_Switzerland_until_September_1931,_then_they_returned_to_America.> <base.kwebbase.kwsentence.next_sentence> "After her father died in 1932, she had another breakdown, which put her back in hospital." .
+<George_R._R._Martin> <people.person.profession> "Novelist" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "The following year, he was given another chance and when he returned to Princeton, he put all his energy into his literary studies rather than his social life." .
+<Bret_Easton_Ellis> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Tim_O'Brien> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Twelve-Point)" .
+<When_he_was_two,_his_father's_business_collapsed_and_the_family_moved_around,_so_he_spent_his_early_years_in_Buffalo_and_Syracuse,_New_York_then,_in_1908,_they_moved_back_to_Minnesota.> <base.kwebbase.kwsentence.previous_sentence> "On his father's side, Fitzgerald was related to Key, who wrote the words of 'The Star-Spangled Banner', while his mother's family were Irish-American." .
+<This_Side_of_Paradise_(Twelve-Point)> <book.book_edition.book> "This Side of Paradise" .
+<m.03pltn9> <people.place_lived.location> "Saint Paul" .
+<John_Keats> <influence.influence_node.influenced> "Michael Chabon" .
+<This_Side_of_Paradise_(Ivy_Classics)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Book_Edition> <type.type.properties> "Author/editor" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<To_pay_his_rising_debts,_he_spent_the_next_few_months_writing_popular_stories,_then_began_his_more_serious_work:_'The_Great_Gatsby'_in_1924,_the_year_they_decided_to_move_to_France_to_save_money.> <base.kwebbase.kwsentence.next_sentence> "They settled at St Raphael in the South of France and the novel was published in April 1925." .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "The couple fell in love and planned to marry as soon as Fitzgerald was earning a decent living." .
+<Ronald_Malfi> <people.person.profession> "Writer" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Ronald Malfi" .
+<This_Side_of_Paradise_(Dodo_Press)> <book.book_edition.book> "This Side of Paradise" .
+<The_Glimpses_of_the_Moon> <film.film.country> "United States of America" .
+<No_such_thing_as_a_man_willing_to_be_honest_--that_would_be_like_a_blind_man_willing_to_see.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<F._Scott_Fitzgerald> <people.deceased_person.place_of_death> "Hollywood" .
+<F._Scott_Fitzgerald> <people.person.gender> "Male" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<The_Curious_Case_of_Benjamin_Button> <film.film.country> "United States of America" .
+<Ross_Macdonald> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "He fell behind in his studies and in 1915, knowing that he was going to fail his exams, he left university." .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Paul Auster" .
+<Derek_Marlowe> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<Edna_O'Brien> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<Grace_Andreacchi> <people.person.profession> "Novelist" .
+<Nick_Carraway> <fictional_universe.fictional_character.quotations> "It occurred to me that there was no difference between men, in intelligence or race, so profound as the difference between the sick and the well." .
+<Richard_Yates> <freebase.valuenotation.is_reviewed> "Gender" .
+<George_R._R._Martin> <people.person.profession> "Writer" .
+<Myrtle_Wilson> <fictional_universe.fictional_character.character_created_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Stephen Chbosky" .
+<The_Glimpses_of_the_Moon> <film.film.story_by> "Edith Wharton" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Parents" .
+<F._Scott_Fitzgerald_and_the_craft_of_fiction> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<h._l._mencken_promoted_work_of_f_scott_fitzgerald> <base.kwebbase.kwconnection.other> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <common.topic.notable_for> "g.125b0w0ff" .
+<Winter_Carnival> <film.film.country> "United States of America" .
+<m.0n0mxgb> <education.education.student> "F. Scott Fitzgerald" .
+<J._D._Salinger> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced_by> "Shane Leslie" .
+<Once_again,_he_revised_his_novel_and_tried_hard_to_get_some_of_his_short_stories_published.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Stephen_Chbosky> <people.person.nationality> "United States of America" .
+<Bret_Easton_Ellis> <freebase.valuenotation.is_reviewed> "Gender" .
+<Michael_Chabon> <people.person.nationality> "United States of America" .
+<Jack_Kerouac> <freebase.valuenotation.is_reviewed> "Gender" .
+<Paul_Auster> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<Paul_Auster> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Fitzgerald_worked_on_the_undergraduate_literary_magazine_and_wrote_the_first_version_of_his_novel,_'This_Side_of_Paradise.'__Around_the_same_time,_he_made_friends_with_Edmund_Wilson,_who_later_became_a_distinguished_writer_and_critic.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<J._D._Salinger> <influence.influence_node.influenced_by> "Sherwood Anderson" .
+<Hunter_S._Thompson> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<Ronald_Malfi> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "The Man Who Would Be F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<Jonathan_Franzen> <people.person.gender> "Male" .
+<This_Side_of_Paradise_(Webster's_German_Thesaurus_Edition)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<John_Cheever> <people.person.gender> "Male" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Webster's Korean Thesaurus Edition)" .
+<Book_Edition> <freebase.type_hints.included_types> "Cataloged instance" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Both_Zelda_and_Fitzgerald_were_now_drinking_heavily_and_in_1930,_Zelda_had_a_nervous_breakdown.> <base.kwebbase.kwsentence.next_sentence> "She went into hospital in Switzerland until September 1931, then they returned to America." .
+<John_Cheever> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Ross_Macdonald> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Jonathan_Lamas> <people.person.profession> "Writer" .
+<Fitzgerald_was_now_seen_as_the_voice_of_the_Jazz_Age_and_he_became_instantly_famous.> <base.kwebbase.kwsentence.next_sentence> "He and Zelda went to Europe for the first time in 1921 and his collection of short stories, 'Flappers and Philosophers' came out." .
+<F._Scott_Fitzgerald's_the_Great_Gatsby> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <people.person.quotations> "Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known." .
+<Book_Edition> <type.type.properties> "ISBN" .
+<William_Goldman> <people.person.profession> "Novelist" .
+<The_functional_technique_of_Scott_Fitzgerald> <common.topic.notable_types> "Book" .
+<This_Side_of_Paradise_(Penguin_Twentieth-Century_Classics)> <common.topic.notable_types> "Book Edition" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Rahadyan Sastrowardoyo" .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "The Great Gatsby" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Clive James" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "Class Conflict in F. Scott Fitzgerald's the Great Gatsby" .
+<This_Side_of_Paradise_(Bookcassette(r)_Edition)> <common.topic.notable_types> "Book Edition" .
+<He_left_the_army_in_February_1919_and_went_to_New_York,_where_he_took_a_job_in_an_advertising_agency.> <base.kwebbase.kwsentence.next_sentence> "Once again, he revised his novel and tried hard to get some of his short stories published." .
+<'This_Side_of_Paradise',_Based_on_his_Princeton_experiences,_it_was_finally_published_in_March_1920_and,_a_month_later,_he_and_Zelda_married.> <base.kwebbase.kwsentence.next_sentence> "The novel captured the post-war spirit of rebellion among wealthy youngsters and it reflected the manners and morals of a new era." .
+<This_Side_of_Paradise_(The_Classic_Collection)> <book.book_edition.book> "This Side of Paradise" .
+<The_central_character_of_Gatsby's_dream_is_Daisy_Buchanan,_a_shallow_but_charming_young_woman_married_to_a_rich_man.> <base.kwebbase.kwsentence.previous_sentence> "The character of Jay Gatsby is a brash, self-made man from the West, who dreams of social success in the East." .
+<This_Side_of_Paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<The_Women> <film.film.country> "United States of America" .
+<F._Scott_Fitzgerald> <people.person.religion> "Catholicism" .
+<This_Side_of_Paradise> <book.written_work.subjects> "Music" .
+<The_Great_Gatsby> <film.film.language> "English Language" .
+<J._D._Salinger> <common.topic.notable_types> "Author" .
+<Everything_Happens_at_Night> <film.film.written_by> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Edith_Wharton> <common.topic.notable_types> "Author" .
+<William_Goldman> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "The Off-Shore Pirate" .
+<Michael_Chabon> <influence.influence_node.influenced_by> "George R. R. Martin" .
+<F._Scott_Fitzgerald> <film.writer.film> "Three Comrades" .
+<Mollie_McQuillan_Fitzgerald> <freebase.valuenotation.has_value> "Country of nationality" .
+<Edith_Wharton> <freebase.valuenotation.is_reviewed> "Spouse (or domestic partner)" .
+<Jack_Kerouac> <people.person.nationality> "United States of America" .
+<Notes_on_a_screenplay_for_F._Scott_Fitzgerald's_Tender_is_the_night> <common.topic.notable_types> "Book" .
+<F._Scott_Fitzgerald> <common.topic.webpage> "m.09ybqrt" .
+<Jonathan_Franzen> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<Stephen_Chbosky> <people.person.gender> "Male" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "F. Scott Fitzgerald's the Great Gatsby" .
+<T._S._Eliot> <freebase.valuenotation.is_reviewed> "Gender" .
+<J._D._Salinger> <people.person.profession> "Novelist" .
+<John_Cheever> <freebase.valuenotation.is_reviewed> "Place of death" .
+<The_Man_Who_Would_Be_F._Scott_Fitzgerald> <book.written_work.original_language> "English Language" .
+<Book> <freebase.type_hints.included_types> "Topic" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "In 1913, he started at Princeton University." .
+<Ann_Scott> <people.person.profession> "Writer" .
+<Author> <type.type.expected_by> "Author/editor" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<They_settled_at_St_Raphael_in_the_South_of_France_and_the_novel_was_published_in_April_1925.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Grace_Andreacchi> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald_and_the_craft_of_fiction> <common.topic.notable_types> "Book" .
+<T._S._Eliot> <influence.influence_node.influenced> "F. Scott Fitzgerald" .
+<Richard_Yates> <influence.influence_node.influenced> "Ann Beattie" .
+<He_was_a_favorite_of_Stein.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Ann Scott" .
+<This_Side_of_Paradise_(Webster's_Chinese-Traditional_Thesaurus_Edition)> <book.book_edition.book> "This Side of Paradise" .
+<The_following_year,_he_was_given_another_chance_and_when_he_returned_to_Princeton,_he_put_all_his_energy_into_his_literary_studies_rather_than_his_social_life.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Book_Edition> <type.type.expected_by> "Book edition" .
+<When_he_was_two,_his_father's_business_collapsed_and_the_family_moved_around,_so_he_spent_his_early_years_in_Buffalo_and_Syracuse,_New_York_then,_in_1908,_they_moved_back_to_Minnesota.> <base.kwebbase.kwsentence.next_sentence> "In 1913, he started at Princeton University." .
+<'This_Side_of_Paradise',_Based_on_his_Princeton_experiences,_it_was_finally_published_in_March_1920_and,_a_month_later,_he_and_Zelda_married.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<In_1922,_he_published_'The_Beautiful_and_the_Damned',_which_has_since_been_seen_as_prophetic_of_the_Fitzgeralds'_future_life.> <base.kwebbase.kwsentence.previous_sentence> "He and Zelda went to Europe for the first time in 1921 and his collection of short stories, 'Flappers and Philosophers' came out." .
+<Joseph_O'Neill> <people.person.profession> "Novelist" .
+<Marie_Antoinette> <film.film.language> "English Language" .
+<This_side_of_paradise> <book.book_edition.number_of_pages> "m.04v7pkn" .
+<R._D._Blackmore> <people.person.profession> "Novelist" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise" .
+<Richard_Yates> <influence.influence_node.influenced> "William Styron" .
+<J._D._Salinger> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Bret Easton Ellis" .
+<Book_Edition> <type.type.expected_by> "For Giveaway" .
+<Tim_O'Brien> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<He_smiled_understandingly—much_more_than_understandingly._It_was_one_of_those_rare_smiles_with_a_quality_of_eternal_reassurance_in_it,_that_you_may_come_across_four_or_five_times_in_life._It_faced--or_seemed_to_face--the_whole_external_world_for_an_instant,_and_then_concentrated_on_you_with_an_irresistible_prejudice_in_your_favor._It_understood_you_just_as_far_as_you_wanted_to_be_understood,_believed_in_you_as_you_would_like_to_believe_in_yourself,_and_assured_you_that_it_had_precisely_the_impression_of_you_that,_at_your_best,_you_hoped_to_convey.> <media_common.quotation.spoken_by_character> "Nick Carraway" .
+<Jay_Gatsby> <fictional_universe.fictional_character.character_created_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "Fitzgerald used his own recent experiences to create a new work and, in 1936, published the 'Crack-Up', which described his own collapse." .
+<This_Side_of_Paradise_(World_Clissics_in_Large_Print)> <common.topic.notable_types> "Book Edition" .
+<The_central_character_of_Gatsby's_dream_is_Daisy_Buchanan,_a_shallow_but_charming_young_woman_married_to_a_rich_man.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Frances_Scott_Fitzgerald> <people.person.parents> "F. Scott Fitzgerald" .
+<Richard_Yates> <people.person.profession> "Writer" .
+<This_Side_of_Paradise_(Bookcassette(r)_Edition)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<Richard_Yates> <people.person.profession> "Novelist" .
+<F._Scott_Fitzgerald> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<This_Side_Of_Paradise_(Classic_Books_on_Cassettes_Collection)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Edna_O'Brien> <people.person.profession> "Novelist" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<Nick_Carraway> <fictional_universe.fictional_character.quotations> "Americans, while occasionally willing to be serfs, have always been obstinate about being peasantry." .
+<'Tales_of_the_Jazz_Age',_a_collection_of_more_upbeat_stories,_was_published_the_same_year_and_allowed_the_Fitzgeralds_to_continue_what_was_by_now_an_extravagant_lifestyle.> <base.kwebbase.kwsentence.previous_sentence> "By the time they came into the inheritance, they were too jaded and worn out to participate fully in a worthwhile life." .
+<notebooks_of_F._Scott_Fitzgerald> <common.topic.notable_types> "Book" .
+<Ann_Beattie> <influence.influence_node.influenced_by> "John Cheever" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "The book, sometimes referred to as the Great American Novel because of its very American theme based on the ideal of unlimited dreams that are impossible to fulfil, was a critical success, but not a financial one." .
+<F._Scott_Fitzgerald> <freebase.valuenotation.is_reviewed> "Parents" .
+<F._Scott_Fitzgerald> <film.writer.film> "g.1hc0qq31b" .
+<Sherwood_Anderson> <people.person.profession> "Novelist" .
+<Jack_Kerouac> <freebase.valuenotation.is_reviewed> "Parents" .
+<The_Last_Tycoon> <film.film.language> "English Language" .
+<Ross_Macdonald> <people.person.profession> "Novelist" .
+<T._S._Eliot> <people.person.nationality> "United States of America" .
+<This_Side_of_Paradise_(Barnes_&_Noble_Classics_Series)_(Barnes_&_Noble_Classics)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<The_novel_reflects_Fitzgerald's_own_feelings_about_his_marriage_and_the_nature_of_his_success.> <base.kwebbase.kwsentence.next_sentence> "In 1926, he published 'The Rich Boy', a short story that contains the words 'They are different from you and me', his continual statement about the rich." .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<They_became_friendly_with_Hemingway_who,_as_a_young_writer_trying_to_make_his_way,_accepted_Fitzgerald's_help_on_his_unpublished_novel_'The_Sun_Also_Rises'.> <base.kwebbase.kwsentence.contains_connections> "f scott fitzgerald a pal of ernest miller hemingway" .
+<John_Green> <freebase.valuenotation.has_value> "Parents" .
+<It_occurred_to_me_that_there_was_no_difference_between_men,_in_intelligence_or_race,_so_profound_as_the_difference_between_the_sick_and_the_well.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<Tim_O'Brien> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<He_and_Zelda_went_to_Europe_for_the_first_time_in_1921_and_his_collection_of_short_stories,_'Flappers_and_Philosophers'_came_out.> <base.kwebbase.kwsentence.next_sentence> "In 1922, he published 'The Beautiful and the Damned', which has since been seen as prophetic of the Fitzgeralds' future life." .
+<F._Scott_Fitzgerald> <fictional_universe.fictional_character_creator.fictional_characters_created> "Tom Buchanan" .
+<F._Scott_Fitzgerald> <people.person.nationality> "United States of America" .
+<m.0b4949z> <common.webpage.topic> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<Derek_Marlowe> <people.person.profession> "Writer" .
+<Fitzgerald_Theater> <location.location.containedby> "Saint Paul" .
+<F._Scott_Fitzgerald> <film.writer.film> "Life Begins at Eight-Thirty" .
+<Hunter_S._Thompson> <people.person.profession> "Writer" .
+<Michael_Chabon> <freebase.valuenotation.is_reviewed> "Parents" .
+<F._Scott_Fitzgerald> <film.writer.film> "Winter Carnival" .
+<m.09x0b01> <common.webpage.topic> "F. Scott Fitzgerald" .
+<Richard_Hofstadter> <freebase.valuenotation.is_reviewed> "Gender" .
+<F._Scott_Fitzgerald> <film.person_or_entity_appearing_in_film.films> "m.0j6wt02" .
+<It_occurred_to_me_that_there_was_no_difference_between_men,_in_intelligence_or_race,_so_profound_as_the_difference_between_the_sick_and_the_well.> <media_common.quotation.spoken_by_character> "Nick Carraway" .
+<This_Side_of_Paradise_(Modern_Library_Classics)> <book.book_edition.book> "This Side of Paradise" .
+<The_Man_Who_Would_Be_F._Scott_Fitzgerald> <common.topic.notable_types> "Book" .
+<Ross_Macdonald> <influence.influence_node.influenced> "William Goldman" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Derek Marlowe" .
+<F._Scott_Fitzgerald> <influence.influence_node.peers> "m.02nc280" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "In 1927, Fitzgerald went to Hollywood, where he met Lois Moran, who provided the inspiration for the character of Rosemary Hoyt in his next novel, 'Tender is the Night'." .
+<The_Last_Tycoon> <film.film.story_by> "F. Scott Fitzgerald" .
+<Stephen_Chbosky> <common.topic.notable_types> "Author" .
+<F._Scott_Fitzgerald> <people.person.sibling_s> "m.0j6x1c5" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<This_Side_of_Paradise_(Twelve-Point)> <common.topic.notable_types> "Book Edition" .
+<Michael_Chabon> <people.person.profession> "Novelist" .
+<John_Green> <freebase.valuenotation.has_value> "Height" .
+<Shane_Leslie> <influence.influence_node.influenced> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise_(Barnes_&_Noble_Classics_Series)_(Barnes_&_Noble_Classics)> <book.book_edition.book> "This Side of Paradise" .
+<Derek_Marlowe> <freebase.valuenotation.is_reviewed> "Place of death" .
+<George_R._R._Martin> <people.person.nationality> "United States of America" .
+<F._Scott_Fitzgerald> <people.person.quotations> "I know myself, but that is all." .
+<William_Goldman> <freebase.valuenotation.is_reviewed> "Gender" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise" .
+<Michael_Chabon> <influence.influence_node.influenced_by> "Richard Yates" .
+<His_career_was_promoted_by_Mencken.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<ISBN> <type.type.properties> "Book Editions" .
+<Book_Edition> <freebase.type_profile.kind> "Definition" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (Penguin Twentieth-Century Classics)" .
+<Stephen_Chbosky> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<Three_Comrades> <film.film.country> "United States of America" .
+<Mohsin_Hamid> <people.person.profession> "Novelist" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "An F. Scott Fitzgerald encyclopedia" .
+<Book_Edition> <type.type.properties> "Interior illustrations by" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "Notes on a screenplay for F. Scott Fitzgerald's Tender is the night" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<Joseph_O'Neill> <people.person.nationality> "United States of America" .
+<Edith_Wharton> <film.film_story_contributor.film_story_credits> "The Glimpses of the Moon" .
+<Stephen_Chbosky> <influence.influence_node.influenced_by> "J. D. Salinger" .
+<Ann_Beattie> <people.person.profession> "Writer" .
+<The_novel_captured_the_post-war_spirit_of_rebellion_among_wealthy_youngsters_and_it_reflected_the_manners_and_morals_of_a_new_era.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<J._D._Salinger> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<m.09y23g9> <common.webpage.topic> "F. Scott Fitzgerald" .
+<Book_Edition> <type.type.expected_by> "Contributing author to" .
+<This_Side_of_Paradise_(The_World's_Best_Reading)> <book.book_edition.book> "This Side of Paradise" .
+<Book_Edition> <type.type.properties> "Editor of this edition" .
+<It_told_the_story_of_Anthony_and_Gloria_Patch,_a_young,_privileged_couple_living,__in_expectation_of_a_large_inheritance,__in_drunkenness_and_extravagance.> <base.kwebbase.kwsentence.next_sentence> "By the time they came into the inheritance, they were too jaded and worn out to participate fully in a worthwhile life." .
+<In_1926,_he_published_'The_Rich_Boy',_a_short_story_that_contains_the_words_'They_are_different_from_you_and_me',_his_continual_statement_about_the_rich.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<ISBN> <type.type.domain> "Books" .
+<Richard_Hofstadter> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald's_the_Great_Gatsby> <common.topic.notable_types> "Book" .
+<Jack_Kerouac> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Mohsin_Hamid> <influence.influence_node.influenced_by> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<The_Great_Gatsby> <film.film.story_by> "F. Scott Fitzgerald" .
+<m.09y8gz5> <common.webpage.topic> "F. Scott Fitzgerald" .
+<m.0j6x1c5> <people.sibling_relationship.sibling> "F. Scott Fitzgerald" .
+<Michael_Chabon> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<The_Great_Gatsby> <film.film.country> "United States of America" .
+<Ronald_Malfi> <people.person.profession> "Novelist" .
+<Sometimes_it_is_harder_to_deprive_oneself_of_a_pain_than_of_a_pleasure.> <common.topic.image> "F. Scott Fitzgerald" .
+<First_edition> <rdf-schema#range> "Book Edition" .
+<ISBN> <freebase.type_profile.kind> "Definition" .
+<The_Cambridge_Introduction_to_F._Scott_Fitzgerald> <common.topic.notable_types> "Book" .
+<The_Cambridge_Introduction_to_F._Scott_Fitzgerald> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <common.topic.article> "m.02zjq" .
+<T._S._Eliot> <people.person.profession> "Writer" .
+<Michael_Chabon> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Class_Conflict_in_F._Scott_Fitzgerald's_the_Great_Gatsby> <book.written_work.subjects> "F. Scott Fitzgerald" .
+<Joseph_O'Neill> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.02yqj6m> <influence.peer_relationship.peers> "F. Scott Fitzgerald" .
+<Bret_Easton_Ellis> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<m.09ymgng> <common.webpage.topic> "F. Scott Fitzgerald" .
+<Paul_Auster> <common.topic.notable_types> "Author" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<Book_Edition> <freebase.type_profile.published> "Published" .
+<There_are_no_second_acts_in_American_lives.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<Edith_Wharton> <influence.influence_node.influenced> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<The_Great_Gatsby> <film.film.story_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "It told the story of Anthony and Gloria Patch, a young, privileged couple living,  in expectation of a large inheritance,  in drunkenness and extravagance." .
+<This_Side_of_Paradise_(A_Scribner_Classic)> <book.book_edition.book> "This Side of Paradise" .
+<F._Scott_Fitzgerald> <people.person.spouse_s> "m.02h5232" .
+<In_1913,_he_started_at_Princeton_University.> <base.kwebbase.kwsentence.previous_sentence> "When he was two, his father's business collapsed and the family moved around, so he spent his early years in Buffalo and Syracuse, New York then, in 1908, they moved back to Minnesota." .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Joseph O'Neill" .
+<Book> <type.type.expected_by> "Edition Of" .
+<Derek_Marlowe> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Spouse (or domestic partner)" .
+<Book_Edition> <freebase.type_profile.strict_included_types> "Cataloged instance" .
+<Over_the_next_four_years,_Fitzgerald_split_his_time_between_America_and_Europe_and,_in_1926,_some_of_his_best_short_stories_appeared_in_'All_the_Sad_Young_Men'.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Ross_Macdonald> <freebase.valuenotation.is_reviewed> "Date of death" .
+<F._Scott_Fitzgerald> <people.person.quotations> "One writes of scars healed, a loose parallel to the pathology of the skin, but there is no such thing in the life of an individual. There are open wounds, shrunk sometimes to the size of a pin-prick but wounds still. The marks of suffering are more comparable to the loss of a finger, or the sight of an eye. We may not miss them, either, for one minute in a year, but if we should there is nothing to be done about it." .
+<F._Scott_Fitzgerald> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Haruki_Murakami> <common.topic.notable_types> "Author" .
+<This_Side_of_Paradise_(Webster's_Chinese-Simplified_Thesaurus_Edition)> <common.topic.notable_types> "Book Edition" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Edna O'Brien" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "F. Scott Fitzgerald: a study of the stories" .
+<Edward_Fitzgerald> <freebase.valuenotation.has_value> "Place of birth" .
+<The_character_of_Jay_Gatsby_is_a_brash,_self-made_man_from_the_West,_who_dreams_of_social_success_in_the_East.> <base.kwebbase.kwsentence.next_sentence> "The central character of Gatsby's dream is Daisy Buchanan, a shallow but charming young woman married to a rich man." .
+<Jay_Gatsby> <fictional_universe.fictional_character.quotations> "Her voice is full of money." .
+<m.09ybqrt> <common.webpage.topic> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.characters> "Isabelle Borgé" .
+<Mohsin_Hamid> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<F._Scott_Fitzgerald> <common.image.appears_in_topic_gallery> "Show me a hero and I will write you a tragedy." .
+<This_Side_of_Paradise_(Modern_Library_Classics)> <common.topic.notable_types> "Book Edition" .
+<Editions> <rdf-schema#range> "Book Edition" .
+<Book_Edition> <type.type.expected_by> "Editions" .
+<Let_me_tell_you_about_the_very_rich._They_are_different_from_you_and_me._They_possess_and_enjoy_early,_and_it_does_something_to_them,_makes_them_soft_where_we_are_hard,_and_cynical_where_we_are_trustful,_in_a_way_that,_unless_you_were_born_rich,_it_is_very_difficult_to_understand._They_think,_deep_in_their_hearts,_that_they_are_better_than_we_are_because_we_had_to_discover_the_compensations_and_refuges_of_life_for_ourselves._Even_when_they_enter_deep_into_our_world_or_sink_below_us,_they_still_think_that_they_are_better_than_we_are._They_are_different.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<J._D._Salinger> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Conversations_with_F._Scott_Fitzgerald> <common.topic.notable_types> "Book" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "The Cambridge Introduction to F. Scott Fitzgerald" .
+<Jonathan_Franzen> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Editions> <type.property.master_property> "Edition Of" .
+<F._Scott_Fitzgerald> <film.writer.film> "The Women" .
+<Edward_Fitzgerald> <freebase.valuenotation.has_value> "Country of nationality" .
+<John_Cheever> <people.person.nationality> "United States of America" .
+<G> <film.film.language> "English Language" .
+<Writer> <people.profession.specializations> "Poet" .
+<Edward_Fitzgerald> <people.person.children> "F. Scott Fitzgerald" .
+<Frances_Scott_Fitzgerald> <common.topic.notable_types> "Author" .
+<F._Scott_Fitzgerald> <common.topic.notable_types> "Author" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<First_edition> <type.property.schema> "Book" .
+<f_scott_fitzgerald_a_pal_of_ernest_miller_hemingway> <base.kwebbase.kwconnection.subject> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.connections_from> "f scott fitzgerald promoted by h. l. mencken" .
+<J._D._Salinger> <influence.influence_node.influenced> "Richard Yates" .
+<F._Scott_Fitzgerald> <tv.tv_program_guest.appeared_on> "m.0j6n41d" .
+<This_Side_of_Paradise> <book.book_edition.book> "This Side of Paradise" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "John Green" .
+<m.02h5232> <people.marriage.spouse> "F. Scott Fitzgerald" .
+<The_Curious_Case_of_Benjamin_Button> <film.film.story_by> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "He was a favorite of Stein." .
+<Richard_Yates> <influence.influence_node.influenced_by> "John Keats" .
+<Edition_Of> <rdf-schema#domain> "Book Edition" .
+<This_Side_of_Paradise> <book.book.characters> "Amory Blaine" .
+<Gilles_Deleuze> <people.person.gender> "Male" .
+<G> <film.film.country> "United States of America" .
+<Edith_Wharton> <people.person.nationality> "United States of America" .
+<There_are_no_second_acts_in_American_lives.> <media_common.quotation.subjects> "United States of America" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<F._Scott_Fitzgerald> <film.writer.film> "Everything Happens at Night" .
+<F._Scott_Fitzgerald> <fictional_universe.fictional_character_creator.fictional_characters_created> "Jay Gatsby" .
+<Author> <type.type.properties> "Book editions published" .
+<This_Side_of_Paradise_(Webster's_Chinese-Traditional_Thesaurus_Edition)> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "The central character, Dick Diver, is a psychiatrist who marries one of his patients." .
+<During_his_military_training,_he_had_time_to_revise_his_novel,_which_had_been_turned_down_by_the_publishers.> <base.kwebbase.kwsentence.previous_sentence> "When America entered World War I in 1917, Fitzgerald left Princeton and joined the army as Second Lieutenant, but never served abroad." .
+<T._S._Eliot> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Jay_Gatsby> <fictional_universe.fictional_character.gender> "Male" .
+<Editions> <type.property.expected_type> "Book Edition" .
+<Edward_Fitzgerald> <freebase.valuenotation.has_value> "Date of birth" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<This_Side_of_Paradise> <book.book.characters> "Rosalind Connage" .
+<Writer> <people.profession.corresponding_type> "Author" .
+<John_Cheever> <common.topic.notable_types> "Author" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Ross_Macdonald> <common.topic.notable_types> "Author" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<Book_Edition> <type.type.properties> "Cover price" .
+<J._D._Salinger> <freebase.valuenotation.is_reviewed> "Gender" .
+<Haruki_Murakami> <people.person.profession> "Writer" .
+<In_1923,_he_spent_most_of_his_time_writing_a_play,_'The_Vegetable',_which_opened_in_Atlantic_City_and_failed.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (A Scribner Classic)" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise" .
+<F._Scott_Fitzgerald> <people.person.quotations> "Show me a hero and I will write you a tragedy." .
+<Americans,_while_occasionally_willing_to_be_serfs,_have_always_been_obstinate_about_being_peasantry.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <common.topic.webpage> "m.09x0b01" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<Book_Edition> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<This_Side_of_Paradise> <book.written_work.subjects> "Literary" .
+<They_became_friendly_with_Hemingway_who,_as_a_young_writer_trying_to_make_his_way,_accepted_Fitzgerald's_help_on_his_unpublished_novel_'The_Sun_Also_Rises'.> <base.kwebbase.kwsentence.previous_sentence> "After publication, the Fitzgerald's went to Paris for the summer and were received with open arms." .
+<Haruki_Murakami> <freebase.valuenotation.has_value> "Parents" .
+<This_Side_of_Paradise> <book.written_work.subjects> "Literature" .
+<Sherwood_Anderson> <people.person.gender> "Male" .
+<Mohsin_Hamid> <people.person.gender> "Male" .
+<F._Scott_Fitzgerald> <people.person.quotations> "For a transitory enchanted moment man must have held his breath in the presence of this continent, compelled into an aesthetic contemplation he neither understood nor desired, face to face for the last time in history with something commensurate to his capacity for wonder." .
+<This_Side_of_Paradise_(The_Classic_Edition)> <common.topic.notable_types> "Book Edition" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Tim O'Brien" .
+<Book_Edition> <type.type.properties> "Language" .
+<F._Scott_Fitzgerald> <book.book_subject.works> "Correspondence of F. Scott Fitzgerald" .
+<Grace_Andreacchi> <common.topic.notable_types> "Author" .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "Tender Is the Night" .
+<To_pay_his_rising_debts,_he_spent_the_next_few_months_writing_popular_stories,_then_began_his_more_serious_work:_'The_Great_Gatsby'_in_1924,_the_year_they_decided_to_move_to_France_to_save_money.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Life_Begins_at_Eight-Thirty> <film.film.language> "English Language" .
+<This_Side_of_Paradise_(Dodo_Press)> <common.topic.notable_types> "Book Edition" .
+<Stephen_Chbosky> <people.person.profession> "Writer" .
+<Everyone_suspects_himself_of_at_least_one_of_the_cardinal_virtues,_and_this_is_mine:_I_am_one_of_the_few_honest_people_that_I_have_ever_known.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<Ross_Macdonald> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Tender_Is_the_Night> <film.film.language> "English Language" .
+<He_fell_behind_in_his_studies_and_in_1915,_knowing_that_he_was_going_to_fail_his_exams,_he_left_university.> <base.kwebbase.kwsentence.previous_sentence> "In 1913, he started at Princeton University." .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Ann Beattie" .
+<Haruki_Murakami> <influence.influence_node.influenced_by> "J. D. Salinger" .
+<F._Scott_Fitzgerald_House> <base.usnris.nris_listing.significant_person> "F. Scott Fitzgerald" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "William Styron" .
+<T._S._Eliot> <people.person.gender> "Male" .
+<F._Scott_Fitzgerald> <people.person.quotations> "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it, that you may come across four or five times in life. It faced--or seemed to face--the whole external world for an instant, and then concentrated on you with an irresistible prejudice in your favor. It understood you just as far as you wanted to be understood, believed in you as you would like to believe in yourself, and assured you that it had precisely the impression of you that, at your best, you hoped to convey." .
+<9780375758867> <common.topic.notable_types> "ISBN" .
+<He_fell_behind_in_his_studies_and_in_1915,_knowing_that_he_was_going_to_fail_his_exams,_he_left_university.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Edward_Fitzgerald> <people.person.gender> "Male" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "She went into hospital in Switzerland until September 1931, then they returned to America." .
+<F._Scott_Fitzgerald> <common.topic.webpage> "m.0cq4hqc" .
+<John_Keats> <people.person.gender> "Male" .
+<Jack_Kerouac> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Books> <type.domain.types> "Book" .
+<He_was_one_of_the_writers_of__the_Great_American_Novel.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<F._Scott_Fitzgerald> <base.kwebbase.kwtopic.has_sentences> "'Tales of the Jazz Age', a collection of more upbeat stories, was published the same year and allowed the Fitzgeralds to continue what was by now an extravagant lifestyle." .
+<First_edition> <rdf-schema#domain> "Book" .
+<For_a_transitory_enchanted_moment_man_must_have_held_his_breath_in_the_presence_of_this_continent,_compelled_into_an_aesthetic_contemplation_he_neither_understood_nor_desired,_face_to_face_for_the_last_time_in_history_with_something_commensurate_to_his_capacity_for_wonder.> <media_common.quotation.author> "F. Scott Fitzgerald" .
+<William_Styron> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ronald_Malfi> <people.person.nationality> "United States of America" .
+<Book_Edition> <type.type.properties> "OCLC number" .
+<When_his_scriptwriting_was_rejected,_he_started_to_write_stories_for_'Esquire'_then,_in_1939,_he_began_his_final_novel,_'The_Last_Tycoon'.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Tom_Buchanan> <fictional_universe.fictional_character.character_created_by> "F. Scott Fitzgerald" .
+<Everyone_suspects_himself_of_at_least_one_of_the_cardinal_virtues,_and_this_is_mine:_I_am_one_of_the_few_honest_people_that_I_have_ever_known.> <media_common.quotation.spoken_by_character> "Nick Carraway" .
+<F._Scott_Fitzgerald> <people.person.places_lived> "m.04hdfy7" .
+<The_central_character,_Dick_Diver,_is_a_psychiatrist_who_marries_one_of_his_patients.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<It_told_the_story_of_Anthony_and_Gloria_Patch,_a_young,_privileged_couple_living,__in_expectation_of_a_large_inheritance,__in_drunkenness_and_extravagance.> <base.kwebbase.kwsentence.previous_sentence> "In 1922, he published 'The Beautiful and the Damned', which has since been seen as prophetic of the Fitzgeralds' future life." .
+<F._Scott_Fitzgerald> <people.person.quotations> "What people are ashamed of, usually makes a good story." .
+<Book_Edition> <type.type.expected_by> "Book editions edited" .
+<William_Goldman> <people.person.nationality> "United States of America" .
+<F._Scott_Fitzgerald> <common.topic.notable_for> "g.125c74n30" .
+<This_side_of_paradise> <book.book_edition.book> "This Side of Paradise" .
+<Author> <freebase.type_profile.strict_included_types> "Topic" .
+<Fitzgerald_was_now_seen_as_the_voice_of_the_Jazz_Age_and_he_became_instantly_famous.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Ann_Beattie> <people.person.nationality> "United States of America" .
+<This_Side_of_Paradise> <book.written_work.subjects> "Advertising" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<Jack_Kerouac> <influence.influence_node.influenced> "Hunter S. Thompson" .
+<John_Green> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<After_her_father_died_in_1932,_she_had_another_breakdown,_which_put_her_back_in_hospital.> <base.kwebbase.kwsentence.kwtopic> "F. Scott Fitzgerald" .
+<Haruki_Murakami> <freebase.valuenotation.is_reviewed> "Gender" .
+<Book_Edition> <freebase.type_profile.equivalent_topic> "Edition" .
+<Ross_Macdonald> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Book_Edition> <type.type.properties> "OpenLibrary ID" .
+<The_Great_Gatsby> <film.film.country> "United States of America" .
+<This_Side_of_Paradise> <book.book.editions> "This Side of Paradise (World Clissics in Large Print)" .
+<Francis_Scott_Key> <people.person.gender> "Male" .
+<She_went_into_hospital_in_Switzerland_until_September_1931,_then_they_returned_to_America.> <base.kwebbase.kwsentence.previous_sentence> "Both Zelda and Fitzgerald were now drinking heavily and in 1930, Zelda had a nervous breakdown." .
+<Three_Comrades> <film.film.language> "English Language" .
+<Joseph_O'Neill> <freebase.valuenotation.is_reviewed> "Gender" .
+<Haruki_Murakami> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<George_R._R._Martin> <influence.influence_node.influenced> "Michael Chabon" .
+<Hollywood> <base.biblioness.bibs_location.country> "United States of America" .
+<John_Green> <common.topic.notable_types> "Author" .
+<This_Side_of_Paradise_(Webster's_Portuguese_Thesaurus_Edition)> <common.topic.notable_types> "Book Edition" .
+<Haruki_Murakami> <people.person.gender> "Male" .
+<F._Scott_Fitzgerald> <media_common.dedicator.dedications> "m.04_l5vt" .
+<Richard_Yates> <influence.influence_node.influenced_by> "William Styron" .
+<Bret_Easton_Ellis> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<F._Scott_Fitzgerald> <film.film_story_contributor.film_story_credits> "The Beautiful and Damned" .
+<F._Scott_Fitzgerald> <influence.influence_node.influenced> "Mohsin Hamid" .
+<This_Side_of_Paradise> <book.book.editions> "This side of paradise" .
+<This_side_of_paradise> <common.topic.notable_types> "Book Edition" .
+<This_Side_of_Paradise_(Ivy_Classics)> <book.book_edition.book> "This Side of Paradise" .
+<This_side_of_paradise> <book.book_edition.author_editor> "F. Scott Fitzgerald" .
+<Tim_O'Brien> <people.person.profession> "Writer" .
+<F._Scott_Fitzgerald> <symbols.namesake.named_after> "Francis Scott Key" .
+<Book_Edition> <type.type.properties> "ISBN (Old Property)" .

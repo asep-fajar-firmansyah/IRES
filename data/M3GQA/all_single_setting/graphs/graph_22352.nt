@@ -1,0 +1,1516 @@
+<2012_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Chris_Andersen> <basketball.basketball_player.position_s> "Power forward" .
+<Steve_Smith> <sports.pro_athlete.teams> "m.0z45640" .
+<Tyler_Johnson> <basketball.basketball_player.position_s> "Guard" .
+<The_NBA_Finals> <sports.sports_championship.events> "2012 NBA Finals" .
+<Miami_Marlins> <sports.sports_team.location> "Miami" .
+<Greg_Oden> <sports.pro_athlete.teams> "m.0wfv1fk" .
+<Erik_Spoelstra> <people.person.employment_history> "m.05n6rd_" .
+<m.0j2drs8> <sports.sports_team_roster.team> "Miami Heat" .
+<Basketball_Player> <freebase.type_profile.strict_included_types> "Topic" .
+<120px-Miami_Heat_logo.png> <common.image.size> "m.022qjz8" .
+<Sports_commentator> <broadcast.genre.content> "Sid Rosenberg Show" .
+<Philadelphia_76ers> <basketball.basketball_team.conference> "Eastern Conference" .
+<m.0j2drpv> <sports.sports_team_roster.team> "Miami Heat" .
+<Carnival_Corporation_&_plc> <organization.organization.board_members> "m.09tnx__" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_South_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "2009 NCAA Men's Division I Basketball Tournament" .
+<Sherman_Douglas> <people.person.nationality> "United States of America" .
+<P._J._Brown> <basketball.basketball_player.position_s> "Power forward" .
+<m.09t71cs> <organization.leadership.person> "Micky Arison" .
+<Dallas_Mavericks> <base.sportbase.sport_sport_club.involves_in> "Basketball" .
+<Atlantic_Division> <basketball.basketball_division.teams> "Brooklyn Nets" .
+<Milwaukee_Bucks> <basketball.basketball_team.conference> "Eastern Conference" .
+<Sid_Rosenberg_Show> <radio.radio_program.subjects> "Sports entertainment" .
+<Miami_Heat> <sports.sports_team.roster> "m.0z44g2t" .
+<Advance_Scout> <business.job_title.people_with_this_title> "m.05n6rf3" .
+<Professional_Sports_Team> <type.type.properties> "Draft Picks" .
+<Michael_Beasley> <basketball.basketball_player.position_s> "Small forward" .
+<m.0xnm5sy> <sports.sports_team_roster.position> "Guard" .
+<Miami_Heat> <sports.sports_team.roster> "m.0k2rm2x" .
+<American_Airlines_Arena> <location.location.containedby> "Miami" .
+<Mickell_Gladness> <common.topic.notable_types> "Basketball Player" .
+<Video_Coordinator> <business.job_title.people_with_this_title> "m.05n6rdw" .
+<DeAndre_Liggins> <people.person.gender> "Male" .
+<m.08__ny0> <sports.sports_team_roster.team> "Miami Heat" .
+<Jamaal_Magloire> <people.person.gender> "Male" .
+<American_Airlines_Arena> <location.location.geolocation> "m.02_t4bt" .
+<Sports_Team> <freebase.type_profile.strict_included_types> "Topic" .
+<m.011x2q3m> <sports.sports_team_roster.position> "Center" .
+<American_Airlines_Arena> <location.location.events> "Royal Rumble (2006)" .
+<Miami_Heat> <sports.sports_team.venue> "m.0tl0lm4" .
+<Sports_League_Championship_Event> <type.type.domain> "Sports" .
+<Miami_Heat> <business.employer.employees> "m.05n6rd_" .
+<Dexter_Pittman> <people.person.gender> "Male" .
+<Miami_Heat> <sports.sports_team.arena_stadium> "American Airlines Arena" .
+<Southeast_Division> <basketball.basketball_division.teams> "Orlando Magic" .
+<Laureus_World_Sports_Award_for_Comeback_of_the_Year> <award.award_category.nominees> "m.0yzk2rj" .
+<American_Airlines_Arena> <location.location.events> "Arizona-Cleveland State 2009 NCAA Men's Division I Basketball Tournament Game" .
+<m.0w_g57t> <sports.sports_team_roster.team> "Miami Heat" .
+<Eastern_Conference> <common.topic.article> "m.04rk0m" .
+<Assistant_Coach> <business.job_title.people_with_this_title> "m.05n6rd_" .
+<m.0110pv4s> <sports.sports_league_draft_pick.draft> "2014 NBA draft" .
+<Michael_Beasley> <basketball.basketball_player.position_s> "Power forward" .
+<m.04_bxx9> <sports.sports_league_draft_pick.team> "Miami Heat" .
+<Area_codes_305_and_786> <location.location.contains> "Miami" .
+<m.0114cv90> <sports.sports_team_roster.team> "Miami Heat" .
+<2011_NBA_Finals> <sports.sports_championship_event.champion> "Dallas Mavericks" .
+<Miami> <location.location.containedby> "United States of America" .
+<m.0yx5ksp> <award.award_nomination.award_nominee> "Miami Heat" .
+<m.011jhydy> <sports.sports_team_roster.position> "Shooting guard" .
+<Wayne_Simien> <people.person.nationality> "United States of America" .
+<Team> <owl#inverseOf> "Draft Picks" .
+<Greg_Oden> <common.topic.notable_types> "Basketball Player" .
+<Robert_Dozier> <people.person.gender> "Male" .
+<Teams_Owned> <rdf-schema#range> "Professional Sports Team" .
+<Shaquille_O'Neal> <basketball.basketball_player.position_s> "Center" .
+<m.0j2drnj> <sports.sports_team_roster.player> "Dorell Wright" .
+<Washington_Wizards> <sports.sports_team.sport> "Basketball" .
+<m.011361z3> <organization.leadership.person> "Micky Arison" .
+<Miami_Heat> <sports.sports_team.roster> "m.02398d8" .
+<Miami_Heat> <common.topic.notable_types> "Professional Sports Team" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "2009 NCAA Men's Division I Basketball Tournament - Midwest Regional First Round" .
+<World_Domination_Tour,_Miami,_FL_Concert> <time.event.locations> "American Airlines Arena" .
+<2014_NBA_draft> <sports.sports_league_draft.picks> "m.0110pv4s" .
+<m.0114q6w7> <sports.sports_team_roster.team> "Miami Heat" .
+<James_Ennis> <people.person.nationality> "United States of America" .
+<Jarvis_Varnado> <basketball.basketball_player.position_s> "Center" .
+<Erik_Spoelstra> <common.topic.notable_for> "g.1257dmgy8" .
+<Forward-center> <basketball.basketball_position.players> "Earl Barron" .
+<m.08s4cgk> <sports.sports_team_roster.position> "Shooting guard" .
+<Michael_Beasley> <people.person.gender> "Male" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Miami" .
+<Isaac_Austin> <people.person.gender> "Male" .
+<Norris_Cole> <basketball.basketball_player.position_s> "Point guard" .
+<m.0pd2tpm> <freebase.valuenotation.has_value> "Position" .
+<2011_NBA_Finals> <time.event.instance_of_recurring_event> "The NBA Finals" .
+<m.0422byw> <common.webpage.category> "Topic Webpage" .
+<2013_NBA_Finals> <common.topic.notable_for> "g.12h2yyv6w" .
+<Mike_Miller> <people.person.gender> "Male" .
+<m.0b48ftm> <common.webpage.topic> "Miami Heat" .
+<Roger_Mason,_Jr.> <basketball.basketball_player.position_s> "Point guard" .
+<Director_of_Scouting> <business.job_title.people_with_this_title> "m.05n6rf7" .
+<m.0n9g3hp> <freebase.valuenotation.has_value> "Number" .
+<Toronto_Raptors> <basketball.basketball_team.conference> "Eastern Conference" .
+<m.08s4cln> <sports.sports_team_roster.player> "Joel Anthony" .
+<Central_Division> <basketball.basketball_division.conference> "Eastern Conference" .
+<Miami_Heat> <sports.sports_team.roster> "m.0x1sq8_" .
+<m.02397wx> <sports.sports_team_roster.team> "Miami Heat" .
+<Sid_Rosenberg> <broadcast.artist.content> "Sid Rosenberg Show" .
+<m.0x1sq8_> <freebase.valuenotation.has_value> "Number" .
+<m.0j2drs8> <sports.sports_team_roster.player> "Quentin Richardson" .
+<DeAndre_Liggins> <people.person.nationality> "United States of America" .
+<Miami_Heat> <sports.sports_team.roster> "m.0pd6p_q" .
+<P._J._Brown> <people.person.nationality> "United States of America" .
+<Shawne_Williams> <sports.pro_athlete.teams> "m.011dgbn_" .
+<Erik_Spoelstra> <people.person.employment_history> "m.05n6rf3" .
+<m.0z522yr> <award.award_nomination.award> "Outstanding Team ESPY Award" .
+<American_Airlines_Arena> <location.location.events> "Syracuse-Stephen F. Austin 2009 NCAA Men's Division I Basketball Tournament Game" .
+<Professional_Sports_Team> <type.type.domain> "Sports" .
+<Burnie> <common.topic.notable_for> "g.125ck1rpv" .
+<Quentin_Richardson> <basketball.basketball_player.position_s> "Shooting guard" .
+<Miami_University> <education.educational_institution_campus.educational_institution> "Miami University" .
+<Ronny_Turiaf> <basketball.basketball_player.position_s> "Center" .
+<m.08s4cjh> <freebase.valuenotation.has_no_value> "To" .
+<m.05n6rfc> <business.employment_tenure.title> "Head coach" .
+<m.0yx5ksp> <award.award_nomination.ceremony> "2013 ESPY Awards" .
+<Owner(s)> <type.property.reverse_property> "Teams Owned" .
+<m.0_qx45g> <sports.sports_team_roster.player> "Rony Seikaly" .
+<Michael_Beasley> <sports.pro_athlete.teams> "m.0cskfnv" .
+<Dwyane_Wade> <sports.drafted_athlete.drafted> "m.02h7nlr" .
+<Miami_Heat> <award.award_nominee.award_nominations> "m.0ytt7dc" .
+<AT&T_Center> <sports.sports_facility.teams> "San Antonio Spurs" .
+<m.0j2drmn> <sports.sports_team_roster.team> "Miami Heat" .
+<Florida> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Florida" .
+<Miami-Dade_County> <location.location.containedby> "United States of America" .
+<Micky_Arison> <people.person.employment_history> "m.03x09hm" .
+<Norris_Cole> <sports.pro_athlete.teams> "m.0j2drvs" .
+<Chris_Bosh> <people.person.nationality> "United States of America" .
+<m.0ck2f0_> <organization.organization_relationship.child> "Southeast Division" .
+<Shane_Battier> <people.person.gender> "Male" .
+<m.0j2drnj> <sports.sports_team_roster.team> "Miami Heat" .
+<Oklahoma_City_Thunder> <sports.sports_team.arena_stadium> "Chesapeake Energy Arena" .
+<m.011jgsnh> <sports.sports_team_roster.team> "Miami Heat" .
+<Dwyane_Wade> <common.topic.notable_types> "Basketball Player" .
+<Power_forward> <sports.sports_position.sport> "Basketball" .
+<Roger_Mason,_Jr.> <sports.pro_athlete.teams> "m.0xn56yq" .
+<Garrett_Temple> <basketball.basketball_player.position_s> "Guard" .
+<South_Beach> <location.location.time_zones> "Eastern Time Zone" .
+<Ted_Arison> <people.person.children> "Micky Arison" .
+<m.0w_g57t> <sports.sports_team_roster.player> "Michael Beasley" .
+<Miami> <location.location.containedby> "Area codes 305 and 786" .
+<Area_codes_305_and_786> <location.location.containedby> "Florida" .
+<m.0ck2f0m> <organization.organization_relationship.child> "Atlantic Division" .
+<Indiana_Pacers> <sports.sports_team.sport> "Basketball" .
+<m.05n6rf3> <business.employment_tenure.person> "Erik Spoelstra" .
+<Isaac_Austin> <sports.pro_athlete.teams> "m.0zv2mx_" .
+<m.0_qwtys> <sports.sports_team_roster.position> "Point guard" .
+<Miami_Heat> <sports.sports_team.roster> "m.0n9hcbr" .
+<South_Beach> <location.hud_county_place.place> "South Beach" .
+<P._J._Hairston> <basketball.basketball_player.position_s> "Guard" .
+<Josh_Harrellson> <people.person.nationality> "United States of America" .
+<Chesapeake_Energy_Arena> <common.topic.notable_types> "Sports Facility" .
+<Erik_Spoelstra> <sports.pro_athlete.teams> "m.0123x94q" .
+<Sid_Rosenberg> <broadcast.content.broadcast> "Sid Rosenberg Show" .
+<m.0123x94q> <sports.sports_team_roster.position> "Head coach" .
+<Miami_Arena> <common.topic.notable_types> "Sports Facility" .
+<Chris_Johnson> <people.person.nationality> "United States of America" .
+<Southeast_Division> <basketball.basketball_division.teams> "Charlotte Hornets" .
+<Charlie_Westbrook> <sports.pro_athlete.teams> "m.0xnm5sy" .
+<Jason_Smith> <people.person.nationality> "United States of America" .
+<Tyler_Johnson> <sports.pro_athlete.teams> "m.011jgsnh" .
+<Colorado_State_University> <location.location.containedby> "United States of America" .
+<Miami_Heat> <sports.sports_team.roster> "m.0w2rvyx" .
+<Teams_Owned> <type.property.master_property> "Owner(s)" .
+<University_of_Kansas> <education.educational_institution_campus.educational_institution> "University of Kansas" .
+<m.05n5876> <sports.sports_team_roster.position> "Point guard" .
+<Khem_Birch> <sports.pro_athlete.teams> "m.01112tvq" .
+<m.0wfv1fk> <sports.sports_team_roster.player> "Greg Oden" .
+<Miami_Heat> <sports.sports_team.roster> "m.0xn56yq" .
+<Miami> <location.location.time_zones> "Eastern Time Zone" .
+<m.0yx5jkd> <award.award_honor.award_winner> "Miami Heat" .
+<m.09kmjnl> <base.ontologies.ontology_instance_mapping.ontology> "OpenCyc" .
+<Caron_Butler> <people.person.gender> "Male" .
+<Miami_Heat> <sports.sports_team.venue> "m.0tl0lpv" .
+<m.0pd2tpm> <sports.sports_team_roster.player> "Terrel Harris" .
+<Miami_Heat> <sports.sports_team.sport> "Basketball" .
+<Shaquille_O'Neal> <people.person.nationality> "United States of America" .
+<m.03x7yry> <business.employment_tenure.person> "Micky Arison" .
+<Mickell_Gladness> <people.person.gender> "Male" .
+<Shane_Battier> <basketball.basketball_player.position_s> "Shooting guard" .
+<Shannon_Brown> <basketball.basketball_player.position_s> "Point guard" .
+<Robert_Dozier> <common.topic.notable_types> "Basketball Player" .
+<m.05n6rfc> <business.employment_tenure.company> "Miami Heat" .
+<Toronto_Raptors> <basketball.basketball_team.division> "Atlantic Division" .
+<AT&T_Center> <common.topic.notable_types> "Sports Facility" .
+<Shooting_guard> <sports.sports_position.sport> "Basketball" .
+<m.04_bxx9> <sports.sports_league_draft_pick.player> "Michael Beasley" .
+<m.0y_rbb5> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Justin_Hamilton> <sports.pro_athlete.teams> "m.0_y3w7y" .
+<Oklahoma_City_Thunder> <sports.sports_team.sport> "Basketball" .
+<m.0pd6p_q> <sports.sports_team_roster.team> "Miami Heat" .
+<Carnival_Corporation_&_plc> <business.employer.employees> "m.03x09hm" .
+<Carnival_Corporation_&_plc> <organization.organization.founders> "Micky Arison" .
+<P._J._Brown> <basketball.basketball_player.position_s> "Center" .
+<m.011jhydy> <sports.sports_team_roster.team> "Miami Heat" .
+<Zydrunas_Ilgauskas> <common.topic.notable_types> "Basketball Player" .
+<Ted_Arison> <people.person.nationality> "United States of America" .
+<Cleveland_Cavaliers> <basketball.basketball_team.division> "Central Division" .
+<Miami_Heat> <sports.sports_team.roster> "m.0110s94k" .
+<Eastern_Conference> <organization.organization.parent> "m.0ck2ds0" .
+<m.0114vssh> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0110pv4s> <sports.sports_league_draft_pick.player> "P. J. Hairston" .
+<Miami> <location.hud_county_place.place> "Miami" .
+<m.011dgbn_> <sports.sports_team_roster.team> "Miami Heat" .
+<P._J._Brown> <people.person.gender> "Male" .
+<Central_Division> <organization.organization.parent> "m.0ck2f0t" .
+<Evanston> <location.location.containedby> "United States of America" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Sports radio" .
+<Justin_Hamilton> <people.person.nationality> "United States of America" .
+<2014_NBA_Finals> <time.event.locations> "American Airlines Arena" .
+<m.0n7wv1p> <sports.sports_team_roster.team> "Miami Heat" .
+<Florida> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Shavlik_Randolph> <people.person.gender> "Male" .
+<American_Airlines_Arena> <location.location.events> "Arizona State-Temple 2009 NCAA Men's Division I Basketball Tournament Game" .
+<m.08s4cln> <sports.sports_team_roster.position> "Center" .
+<AAAMiami> <common.image.appears_in_topic_gallery> "American Airlines Arena" .
+<Philadelphia_76ers> <common.topic.notable_types> "Professional Sports Team" .
+<National_Basketball_Association> <organization.organization.sectors> "Sports" .
+<Chris_Bosh> <common.topic.notable_types> "Basketball Player" .
+<Dwyane_Wade> <basketball.basketball_player.position_s> "Shooting guard" .
+<Erik_Spoelstra> <people.person.places_lived> "m.0wk4n2r" .
+<Shavlik_Randolph> <people.person.nationality> "United States of America" .
+<Caron_Butler> <sports.pro_athlete.teams> "m.0z3z6l8" .
+<Miami_Heat> <sports.professional_sports_team.draft_picks> "m.04_ng00" .
+<Luol_Deng> <people.person.gender> "Male" .
+<m.0j2drt9> <sports.sports_team_roster.player> "Yakhouba Diawara" .
+<Keyon_Dooling> <basketball.basketball_player.position_s> "Shooting guard" .
+<Arison_family> <people.family.country> "Israel" .
+<m.0yx5jkd> <award.award_honor.ceremony> "2013 ESPY Awards" .
+<Udonis_Haslem> <sports.pro_athlete.teams> "m.023983s" .
+<Miami_University> <location.location.containedby> "United States of America" .
+<m.0_qr4qg> <award.award_honor.award_winner> "Miami Heat" .
+<American_Airlines_Arena> <location.location.events> "World Domination Tour, Miami, FL Concert" .
+<Earl_Barron> <basketball.basketball_player.position_s> "Forward" .
+<2014_NBA_draft> <freebase.valuenotation.is_reviewed> "Location(s)" .
+<m.0z4zq71> <basketball.basketball_historical_coach_position.team> "Miami Heat" .
+<Tim_Hardaway> <common.topic.notable_types> "Basketball Player" .
+<m.0z45640> <sports.sports_team_roster.position> "Shooting guard" .
+<m.0_qr4qg> <freebase.valuenotation.has_no_value> "Ceremony" .
+<2013_NBA_Finals> <time.event.locations> "American Airlines Arena" .
+<Sports> <freebase.equivalent_topic.equivalent_domain> "Sports" .
+<Erik_Spoelstra> <people.person.employment_history> "m.05n6rf7" .
+<m.0_qr4qg> <freebase.valuenotation.has_no_value> "Winning work" .
+<Miami_Heat> <sports.sports_team.roster> "m.0j2drqn" .
+<Miami_Heat> <sports.sports_team.roster> "m.0q_4v0f" .
+<m.0_qwtys> <sports.sports_team_roster.player> "Tim Hardaway" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Professional sports" .
+<2011_NBA_Finals> <freebase.valuenotation.is_reviewed> "Start date" .
+<m.0zv2mx_> <sports.sports_team_roster.position> "Center" .
+<Jarvis_Varnado> <people.person.nationality> "United States of America" .
+<American_Airlines_Arena> <location.location.time_zones> "Eastern Time Zone" .
+<m.023983s> <sports.sports_team_roster.team> "Miami Heat" .
+<Team> <type.property.reverse_property> "Draft Picks" .
+<Keyon_Dooling> <people.person.nationality> "United States of America" .
+<Micky_Arison> <organization.organization_founder.organizations_founded> "Carnival Corporation & plc" .
+<Organization_leader> <freebase.type_hints.included_types> "Topic" .
+<Yakhouba_Diawara> <people.person.gender> "Male" .
+<American_Airlines_Arena> <location.location.events> "Survivor Series" .
+<m.023983s> <freebase.valuenotation.has_no_value> "To" .
+<m.0kd6rlf> <sports.sports_team_roster.player> "Ronny Turiaf" .
+<m.05n6rf7> <business.employment_tenure.person> "Erik Spoelstra" .
+<Earl_Barron> <common.topic.notable_types> "Basketball Player" .
+<m.0j2drmn> <freebase.valuenotation.is_reviewed> "Team" .
+<Mickell_Gladness> <sports.pro_athlete.teams> "m.0n7wv1p" .
+<2014_NBA_Finals> <time.event.instance_of_recurring_event> "The NBA Finals" .
+<Reggie_Williams> <people.person.nationality> "United States of America" .
+<2013_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Erik_Spoelstra> <people.person.places_lived> "m.05lts83" .
+<Arizona_State-Temple_2009_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "2009 NCAA Men's Division I Basketball Tournament - South Regional First Round" .
+<m.0k2rm2x> <sports.sports_team_roster.player> "Rashard Lewis" .
+<Michael_Beasley> <people.person.nationality> "United States of America" .
+<Micky_Arison> <business.board_member.organization_board_memberships> "m.09tx2fr" .
+<m.0_spt56> <award.award_nomination.ceremony> "2014 Laureus World Sports Awards" .
+<Miami_Heat> <basketball.basketball_team.previous_coaches> "m.0j2t6hs" .
+<m.04_bxx9> <sports.sports_league_draft_pick.school> "Kansas State University" .
+<American_Airlines_Arena> <location.location.events> "2009 NCAA Men's Division I Basketball Tournament - Midwest Regional First Round" .
+<AmericanAirlines_Arena> <common.image.appears_in_topic_gallery> "American Airlines Arena" .
+<m.0vshxxv> <sports.sports_team_coach_tenure.team> "Miami Heat" .
+<University_of_Kansas> <location.location.containedby> "United States of America" .
+<Miami> <broadcast.genre.content> "Sid Rosenberg Show" .
+<Sports_League_Championship_Event> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0yzmsgh> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0yzmsgh> <award.award_nomination.award_nominee> "Erik Spoelstra" .
+<m.0n7wv1p> <freebase.valuenotation.has_value> "Number" .
+<Garrett_Temple> <people.person.nationality> "United States of America" .
+<Rashard_Lewis> <common.topic.notable_types> "Basketball Player" .
+<m.0ck2f0_> <organization.organization_relationship.parent> "Eastern Conference" .
+<Charlotte_Hornets> <sports.sports_team.sport> "Basketball" .
+<Florida_Panthers> <sports.sports_team.arena_stadium> "Miami Arena" .
+<New_York_Knicks> <sports.sports_team.sport> "Basketball" .
+<m.0xn56yq> <sports.sports_team_roster.team> "Miami Heat" .
+<m.011dgbn_> <sports.sports_team_roster.position> "Small forward" .
+<Ted_Arison> <organization.organization_founder.organizations_founded> "Carnival Corporation & plc" .
+<m.0wfv1fk> <sports.sports_team_roster.team> "Miami Heat" .
+<Professional_Sports_Team> <type.type.expected_by> "Team" .
+<2006_NBA_Finals> <sports.sports_championship_event.champion> "Miami Heat" .
+<2013_ESPY_Awards> <freebase.valuenotation.is_reviewed> "Start date" .
+<Joel_Anthony> <common.topic.notable_types> "Basketball Player" .
+<Chris_Bosh> <basketball.basketball_player.position_s> "Power forward" .
+<Jamaal_Magloire> <basketball.basketball_player.position_s> "Center" .
+<2012_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<2012_NBA_Finals> <sports.sports_championship_event.champion> "Miami Heat" .
+<Miami_Heat> <sports.sports_team.roster> "m.023983s" .
+<m.0j2drvs> <freebase.valuenotation.has_no_value> "To" .
+<m.0j2ds31> <sports.sports_team_roster.position> "Shooting guard" .
+<Erik_Spoelstra> <basketball.basketball_player.career_averages> "m.05ltpn3" .
+<m.0_qt6cj> <award.award_honor.award_winner> "Miami Heat" .
+<m.0yx5jkd> <award.award_honor.award_winner> "San Antonio Spurs" .
+<Laureus_World_Sports_Award_for_Team_of_the_Year> <award.award_category.nominees> "m.0ytt7dc" .
+<m.03x09hm> <business.employment_tenure.person> "Micky Arison" .
+<Ronny_Turiaf> <sports.pro_athlete.teams> "m.0kd6rlf" .
+<Greg_Oden> <people.person.nationality> "United States of America" .
+<Miami_Heat> <sports.sports_team.roster> "m.0z84pjl" .
+<Erik_Spoelstra> <people.person.place_of_birth> "Evanston" .
+<Miami_Heat> <business.employer.employees> "m.05n6rdw" .
+<Miami> <location.location.containedby> "Florida" .
+<2012–13_NBA_season> <sports.sports_league_season.championship> "2013 NBA Finals" .
+<m.05lts83> <people.place_lived.person> "Erik Spoelstra" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "2009 NCAA Men's Division I Basketball Tournament - South Regional Second Round" .
+<m.011dgbn_> <sports.sports_team_roster.player> "Shawne Williams" .
+<National_Basketball_Association> <sports.sports_league.teams> "m.0crt3jy" .
+<m.0pdk3r8> <sports.sports_team_roster.position> "Power forward" .
+<Miami_Heat> <sports.sports_team.roster> "m.0j2ds3n" .
+<Alonzo_Mourning> <sports.pro_athlete.teams> "m.0z84pjl" .
+<Danny_Granger> <sports.pro_athlete.teams> "m.0114q6w7" .
+<Dexter_Pittman> <common.topic.notable_types> "Basketball Player" .
+<Sports> <type.domain.types> "Professional Sports Team" .
+<2006_NBA_Finals> <sports.sports_championship_event.season> "2005–06 NBA season" .
+<2012_NBA_Finals> <time.event.locations> "Chesapeake Energy Arena" .
+<Miami_Heat> <sports.sports_team.roster> "m.08s4cgk" .
+<The_NBA_Finals> <sports.sports_championship.events> "2014 NBA Finals" .
+<Jason_Smith> <common.topic.notable_types> "Basketball Player" .
+<m.011x2q3m> <freebase.valuenotation.has_no_value> "To" .
+<UFC_42> <time.event.locations> "American Airlines Arena" .
+<Sid_Rosenberg_Show> <common.topic.notable_for> "g.12blsjq5t" .
+<Premio_Lo_Nuestro_2013> <freebase.valuenotation.is_reviewed> "Start date" .
+<Mickell_Gladness> <people.person.nationality> "United States of America" .
+<m.0110pv4s> <sports.sports_league_draft_pick.school> "University of North Carolina at Chapel Hill" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Florida" .
+<Basketball> <sports.sport.positions> "Guard" .
+<2013_NBA_Finals> <common.topic.article> "m.0vpt91k" .
+<m.02398d8> <freebase.valuenotation.is_reviewed> "Team" .
+<2012–13_NBA_season> <freebase.valuenotation.is_reviewed> "End date" .
+<Keyon_Dooling> <common.topic.notable_types> "Basketball Player" .
+<Jason_Smith> <people.person.gender> "Male" .
+<Dexter_Pittman> <basketball.basketball_player.position_s> "Center" .
+<Miami_Heat> <sports.sports_team.roster> "m.0j2drs8" .
+<m.0z1q217> <freebase.valuenotation.has_no_value> "Nominated work" .
+<2013_NBA_Finals> <sports.sports_championship_event.runner_up> "San Antonio Spurs" .
+<Sports_Team> <type.type.expected_by> "Team" .
+<m.0n9hcbr> <sports.sports_team_roster.player> "Garrett Temple" .
+<Sid_Rosenberg_Show> <broadcast.content.artist> "Sid Rosenberg" .
+<Dorell_Wright> <sports.pro_athlete.teams> "m.0j2drnj" .
+<Miami_Heat> <sports.sports_team.roster> "m.0j2drmn" .
+<m.0w2rvyx> <sports.sports_team_roster.position> "Point guard" .
+<Stanko_Barać> <people.person.gender> "Male" .
+<Ronny_Turiaf> <common.topic.notable_types> "Basketball Player" .
+<Basketball> <base.sportbase.sport.played_by_clubs> "Dallas Mavericks" .
+<Miami_Heat> <basketball.basketball_team.head_coach> "Erik Spoelstra" .
+<m.0z3z6l8> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0_y3w7y> <sports.sports_team_roster.team> "Miami Heat" .
+<Miami_Heat> <sports.sports_team.roster> "m.011x2q3m" .
+<Shari_Arison1> <common.image.appears_in_topic_gallery> "Ted Arison" .
+<Mario_Chalmers> <people.person.gender> "Male" .
+<Sid_Rosenberg_Show> <common.topic.notable_types> "Radio program" .
+<m.0j2ds3n> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0422byw> <common.webpage.resource> "New York Times" .
+<2013_NBA_Finals> <time.event.instance_of_recurring_event> "The NBA Finals" .
+<National_Basketball_Association> <sports.sports_league.seasons> "2011–12 NBA season" .
+<Filipino_American> <people.ethnicity.people> "Erik Spoelstra" .
+<m.011jgsnh> <sports.sports_team_roster.player> "Tyler Johnson" .
+<Basketball_Player> <freebase.type_hints.included_types> "Topic" .
+<Arizona_State-Syracuse_2009_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "American Airlines Arena" .
+<m.02397wx> <sports.sports_team_roster.position> "Shooting guard" .
+<American_Airlines_Arena> <location.location.events> "2014 Premios Tu Mundo" .
+<m.0w6h2mq> <sports.sports_team_roster.team> "Miami Heat" .
+<m.04_nfk2> <sports.sports_league_draft_pick.draft> "2005 NBA draft" .
+<Josh_McRoberts> <basketball.basketball_player.position_s> "Center" .
+<Pat_Riley> <people.person.gender> "Male" .
+<Basketball> <sports.sport.positions> "Forward-center" .
+<The_NBA_Finals> <time.recurring_event.instances> "2012 NBA Finals" .
+<Miami_Heat> <sports.sports_team.roster> "m.01112tvq" .
+<m.08s4cjh> <sports.sports_team_roster.team> "Miami Heat" .
+<South_Beach> <location.location.containedby> "Florida" .
+<New_York_Knicks> <basketball.basketball_team.conference> "Eastern Conference" .
+<American_Airlines_Arena> <common.topic.notable_for> "g.1256tk0sw" .
+<Basketball> <sports.sport.positions> "Center" .
+<LeBron_James> <people.person.nationality> "United States of America" .
+<m.02398d8> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0vshxxv> <freebase.valuenotation.has_no_value> "To" .
+<m.0114vssh> <sports.sports_team_roster.player> "James Ennis" .
+<Sex_and_Love_Tour> <time.event.locations> "American Airlines Arena" .
+<San_Antonio_Spurs> <sports.sports_team.sport> "Basketball" .
+<Udonis_Haslem> <basketball.basketball_player.position_s> "Power forward" .
+<m.0z1xnp9> <award.award_honor.ceremony> "2012 ESPY Awards" .
+<Atlanta_Hawks> <basketball.basketball_team.conference> "Eastern Conference" .
+<Rodney_Carney> <people.person.nationality> "United States of America" .
+<Draft_Picks> <type.property.schema> "Professional Sports Team" .
+<AT&T_Center> <location.location.events> "2013 NBA Finals" .
+<Central_Division> <common.topic.notable_types> "Basketball Division" .
+<2012_NBA_Finals> <common.topic.article> "m.0jwzhbn" .
+<The_NBA_Finals> <time.recurring_event.instances> "2014 NBA Finals" .
+<Miami_Heat> <common.topic.webpage> "m.0422byw" .
+<Isaac_Austin> <basketball.basketball_player.position_s> "Center" .
+<m.0w_g57t> <sports.sports_team_roster.position> "Power forward" .
+<Basketball_Division> <freebase.type_profile.strict_included_types> "Topic" .
+<Chris_Andersen> <common.topic.notable_types> "Basketball Player" .
+<m.0114cv90> <freebase.valuenotation.has_no_value> "Number" .
+<Carlos_Arroyo> <people.person.gender> "Male" .
+<m.02nqx5q> <sports.sports_league_draft_pick.draft> "2007 NBA draft" .
+<Erik_Spoelstra> <basketball.basketball_coach.team> "Miami Heat" .
+<2012_NBA_Finals> <sports.sports_championship_event.season> "2011–12 NBA season" .
+<m.0j2drmn> <freebase.valuenotation.is_reviewed> "Number" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Toronto Raptors" .
+<Mike_Miller> <basketball.basketball_player.position_s> "Small forward" .
+<Carnival_Corporation_&_plc> <organization.organization.leadership> "m.09t71cs" .
+<Toney_Douglas> <basketball.basketball_player.position_s> "Point guard" .
+<m.0_5djvh> <sports.sports_team_roster.team> "Miami Heat" .
+<m.03x09ht> <business.employment_tenure.company> "Carnival Corporation & plc" .
+<m.0j2drmn> <sports.sports_team_roster.position> "Power forward" .
+<Miami_Heat> <sports.sports_team.roster> "m.0n4lrs6" .
+<Professional_sports> <radio.radio_subject.programs_with_this_subject> "Sid Rosenberg Show" .
+<Miami_Arena> <location.location.containedby> "Miami" .
+<m.02nqx7y> <sports.sports_league_draft_pick.player> "Stanko Barać" .
+<m.01112tvq> <sports.sports_team_roster.player> "Khem Birch" .
+<Miami_Heat> <sports.sports_team.roster> "m.0114cv90" .
+<m.0z1xnp9> <award.award_honor.award> "Outstanding Team ESPY Award" .
+<Greg_Oden> <basketball.basketball_player.position_s> "Center" .
+<Chesapeake_Energy_Arena> <sports.sports_facility.teams> "Oklahoma City Thunder" .
+<Jamaal_Magloire> <common.topic.notable_types> "Basketball Player" .
+<2012–13_NBA_season> <freebase.valuenotation.is_reviewed> "Start date" .
+<m.0yx5ksp> <award.award_nomination.award> "Best Game ESPY Award" .
+<Chris_Johnson> <sports.pro_athlete.teams> "m.011x2q3m" .
+<Dwyane_Wade> <basketball.basketball_player.position_s> "Point guard" .
+<National_Basketball_Association> <sports.sports_league.sport> "Basketball" .
+<2006_NBA_Finals> <common.topic.notable_for> "g.1259r2sjt" .
+<Myck_Kabongo> <sports.pro_athlete.teams> "m.0w2rvyx" .
+<Shabazz_Napier> <people.person.nationality> "United States of America" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_Midwest_Regional_First_Round> <time.event.locations> "American Airlines Arena" .
+<m.0pd2tpm> <sports.sports_team_roster.team> "Miami Heat" .
+<2013_NBA_Finals> <freebase.valuenotation.is_reviewed> "End date" .
+<Juwan_Howard> <basketball.basketball_player.position_s> "Power forward" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Miami Heat" .
+<Shane_Battier> <sports.pro_athlete.teams> "m.0j2drv0" .
+<Mascot> <freebase.type_profile.strict_included_types> "Topic" .
+<Micky_Arison> <people.person.education> "m.0n1lkbq" .
+<m.011jgsnh> <sports.sports_team_roster.position> "Shooting guard" .
+<m.0_sk1h6> <sports.sports_team_roster.player> "DeAndre Liggins" .
+<m.0_y3w7y> <sports.sports_team_roster.player> "Justin Hamilton" .
+<Team> <type.property.expected_type> "Sports Team" .
+<m.0n9g3hp> <sports.sports_team_roster.position> "Shooting guard" .
+<m.0vshxxv> <sports.sports_team_coach_tenure.coach> "Erik Spoelstra" .
+<m.04_nfk2> <sports.sports_league_draft_pick.team> "Miami Heat" .
+<Shawne_Williams> <basketball.basketball_player.position_s> "Small forward" .
+<Tyler_Johnson> <people.person.nationality> "United States of America" .
+<m.09kmjnl> <base.ontologies.ontology_instance_mapping.freebase_topic> "Miami Heat" .
+<m.0b491sw> <common.webpage.resource> "Shaq Gains New Team, Drops Old Mansion" .
+<Jarvis_Varnado> <people.person.gender> "Male" .
+<Dwyane_Wade> <sports.pro_athlete.teams> "m.02397wx" .
+<Sports> <type.domain.types> "Sports Facility" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Philadelphia 76ers" .
+<m.08s4cgk> <sports.sports_team_roster.player> "Ray Allen" .
+<m.0yq00kf> <sports.sports_team_roster.position> "Center" .
+<Miami_Heat> <common.topic.webpage> "m.0b491sw" .
+<2012_ESPY_Awards> <award.award_ceremony.awards_presented> "m.0z1xnp9" .
+<Miami_Heat> <sports.professional_sports_team.draft_picks> "m.04_bxx9" .
+<Erik_Spoelstra> <people.person.education> "m.05lt7zm" .
+<2014_NBA_Finals> <freebase.valuenotation.is_reviewed> "Start date" .
+<Basketball> <organization.organization_sector.organizations_in_this_sector> "National Basketball Association" .
+<Justin_Hamilton> <common.topic.notable_types> "Basketball Player" .
+<2006_NBA_Finals> <common.topic.article> "m.0bq7gb" .
+<Jarvis_Varnado> <common.topic.notable_types> "Basketball Player" .
+<Southeast_Division> <common.topic.image> "NBA Southeast Division all-time standings" .
+<Basketball> <sports.sport.positions> "Shooting guard" .
+<Toronto_Raptors> <sports.sports_team.sport> "Basketball" .
+<m.09t6ywp> <organization.leadership.person> "Micky Arison" .
+<m.02nqx5q> <sports.sports_league_draft_pick.player> "Jason Smith" .
+<Miami_Heat> <sports.sports_team.roster> "m.0n7wv0t" .
+<Reggie_Williams> <sports.pro_athlete.teams> "m.011jhydy" .
+<Quentin_Richardson> <people.person.nationality> "United States of America" .
+<Latin_Grammy_Awards_of_2003> <time.event.locations> "American Airlines Arena" .
+<Ronny_Turiaf> <people.person.gender> "Male" .
+<Micky_Arison> <business.board_member.organization_board_memberships> "m.09tm_b7" .
+<Chris_Johnson> <basketball.basketball_player.position_s> "Center" .
+<Toney_Douglas> <people.person.gender> "Male" .
+<Central_Division> <basketball.basketball_division.teams> "Indiana Pacers" .
+<m.0j2drmn> <sports.sports_team_roster.position> "Center" .
+<Sid_Rosenberg_Show> <broadcast.content.location> "South Beach" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Cleveland Cavaliers" .
+<James_Jones> <basketball.basketball_player.position_s> "Shooting guard" .
+<m.011dgbn_> <sports.sports_team_roster.position> "Power forward" .
+<Micky_Arison> <people.person.gender> "Male" .
+<Tyler_Johnson> <common.topic.notable_types> "Basketball Player" .
+<m.0n9g3hp> <sports.sports_team_roster.team> "Miami Heat" .
+<AmericanAirlines_Arena> <common.image.appears_in_topic_gallery> "American Airlines Arena" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "2009 NCAA Men's Division I Basketball Tournament - South Regional First Round" .
+<Organization_leader> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0j2drqn> <sports.sports_team_roster.team> "Miami Heat" .
+<Miami_Heat> <sports.sports_team.roster> "m.04fw72v" .
+<Eastern_Conference> <common.topic.notable_for> "g.1254yr30d" .
+<m.0z1q217> <award.award_nomination.ceremony> "2012 ESPY Awards" .
+<Eddy_Curry> <people.person.gender> "Male" .
+<m.02397wx> <sports.sports_team_roster.player> "Dwyane Wade" .
+<Mario_Chalmers> <people.person.nationality> "United States of America" .
+<Myck_Kabongo> <basketball.basketball_player.position_s> "Guard" .
+<American_Airlines_Arena> <common.topic.image> "AmericanAirlines Arena" .
+<Miami_Heat> <sports.sports_team.roster> "m.0n4syd8" .
+<Micky_Arison> <people.person.nationality> "Israel" .
+<DeAndre_Liggins> <sports.pro_athlete.teams> "m.0_sk1h6" .
+<San_Antonio_Spurs> <common.topic.notable_types> "Professional Sports Team" .
+<Danny_Granger> <basketball.basketball_player.position_s> "Power forward" .
+<Micky_Arison> <people.person.profession> "Businessperson" .
+<Miami_Heat> <sports.sports_team.roster> "m.0j2drt9" .
+<Dallas_Mavericks> <sports.sports_team.championships> "2011 NBA Finals" .
+<2007_Laureus_World_Sports_Awards> <award.award_ceremony.nominees> "m.0yzk2rj" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Washington Wizards" .
+<Michael_Beasley> <sports.drafted_athlete.drafted> "m.04_bxx9" .
+<Detroit_Pistons> <basketball.basketball_team.division> "Central Division" .
+<Ted_Arison> <common.topic.image> "Shari Arison1" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Milwaukee Bucks" .
+<m.02nqx7y> <sports.sports_league_draft_pick.team> "Miami Heat" .
+<Rodney_Carney> <people.person.gender> "Male" .
+<Boston_Celtics> <common.topic.notable_types> "Professional Sports Team" .
+<Miami_Heat> <business.employer.employees> "m.05n6rf7" .
+<Forward-center> <sports.sports_position.sport> "Basketball" .
+<Rodney_Carney> <basketball.basketball_player.position_s> "Small forward" .
+<Ted_Arison> <people.person.place_of_birth> "Tel Aviv" .
+<Team> <rdf-schema#range> "Sports Team" .
+<Boston_Celtics> <basketball.basketball_team.division> "Atlantic Division" .
+<m.0q_4v0f> <sports.sports_team_roster.team> "Miami Heat" .
+<Sid_Rosenberg_Show> <broadcast.content.location> "Miami Springs" .
+<Brooklyn_Nets> <common.topic.notable_types> "Professional Sports Team" .
+<Detroit_Pistons> <basketball.basketball_team.conference> "Eastern Conference" .
+<The_NBA_Finals> <sports.sports_championship.events> "2011 NBA Finals" .
+<m.0n9hcbr> <sports.sports_team_roster.team> "Miami Heat" .
+<Professional_Sports_Team> <type.type.properties> "Owner(s)" .
+<Justin_Hamilton> <basketball.basketball_player.position_s> "Center" .
+<Team> <type.property.expected_type> "Professional Sports Team" .
+<Detroit_Pistons> <common.topic.notable_types> "Professional Sports Team" .
+<Miami> <sports.sports_team_location.teams> "Miami Heat" .
+<m.0z3z6l8> <sports.sports_team_roster.position> "Small forward" .
+<Wake_Forest-Cleveland_State_2009_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "2009 NCAA Men's Division I Basketball Tournament - Midwest Regional First Round" .
+<m.0xnm5sy> <sports.sports_team_roster.player> "Charlie Westbrook" .
+<Ronny_Turiaf> <basketball.basketball_player.position_s> "Power forward" .
+<m.023983s> <sports.sports_team_roster.position> "Center" .
+<Erik_Spoelstra> <people.person.employment_history> "m.05n6rfc" .
+<m.023983s> <sports.sports_team_roster.position> "Power forward" .
+<Eastern_Conference> <common.topic.webpage> "m.09xjjnh" .
+<Udonis_Haslem> <people.person.place_of_birth> "Miami" .
+<Charlotte_Hornets> <basketball.basketball_team.division> "Southeast Division" .
+<Caron_Butler> <people.person.nationality> "United States of America" .
+<Central_Division> <basketball.basketball_division.teams> "Chicago Bulls" .
+<m.0yx5ksp> <award.award_nomination.award_nominee> "San Antonio Spurs" .
+<m.0z522yr> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Sports films" .
+<James_Ennis> <sports.pro_athlete.teams> "m.0114vssh" .
+<Miami-Dade_County> <location.us_county.hud_county_place> "Miami Springs" .
+<Survivor_Series> <time.event.locations> "American Airlines Arena" .
+<Milwaukee_Bucks> <basketball.basketball_team.division> "Central Division" .
+<m.0n4syd8> <sports.sports_team_roster.team> "Miami Heat" .
+<Miami_Heat> <sports.sports_team.roster> "m.0_qx45g" .
+<Indiana_Pacers> <basketball.basketball_team.conference> "Eastern Conference" .
+<m.0j2drvs> <sports.sports_team_roster.position> "Point guard" .
+<James_Ennis> <people.person.gender> "Male" .
+<m.0j2drv0> <sports.sports_team_roster.team> "Miami Heat" .
+<Erik_Spoelstra> <sports.sports_award_winner.awards> "m.05ltp_s" .
+<Miami> <location.hud_county_place.county> "Miami-Dade County" .
+<Arizona-Cleveland_State_2009_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "2009 NCAA Men's Division I Basketball Tournament - Midwest Regional Second Round" .
+<Earl_Barron> <basketball.basketball_player.position_s> "Forward-center" .
+<m.05ltpn3> <basketball.basketball_player_career_stats.player> "Erik Spoelstra" .
+<Oklahoma_City_Thunder> <common.topic.notable_types> "Professional Sports Team" .
+<m.0y_rsz6> <award.award_honor.award_winner> "Miami Heat" .
+<American_Airlines_Arena> <location.location.events> "Arizona State-Syracuse 2009 NCAA Men's Division I Basketball Tournament Game" .
+<Micky_Arison> <people.person.place_of_birth> "Tel Aviv" .
+<Wayne_Simien> <common.topic.notable_types> "Basketball Player" .
+<South_Beach> <location.location.containedby> "United States of America" .
+<Eddy_Curry> <people.person.nationality> "United States of America" .
+<m.0ck2ds0> <organization.organization_relationship.child> "Eastern Conference" .
+<American_Airlines_Arena> <business.sponsored_recipient.sponsorship> "m.05_g6f6" .
+<Florida_Panthers> <broadcast.genre.content> "Sid Rosenberg Show" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_Midwest_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Arizona-Cleveland State 2009 NCAA Men's Division I Basketball Tournament Game" .
+<m.09tx2g5> <organization.organization_board_membership.member> "Micky Arison" .
+<2005–06_NBA_season> <sports.sports_league_season.championship> "2006 NBA Finals" .
+<Miami_Heat> <sports.sports_team.roster> "m.0_qwr_8" .
+<m.0xn56yq> <sports.sports_team_roster.player> "Roger Mason, Jr." .
+<m.0z84pjl> <sports.sports_team_roster.player> "Alonzo Mourning" .
+<m.0_qr04p> <award.award_honor.award> "National Basketball Association Awards - Larry O'Brien Championship Trophy" .
+<New_York_Knicks> <common.topic.notable_types> "Professional Sports Team" .
+<m.0j2drmn> <freebase.valuenotation.is_reviewed> "From" .
+<m.0pdk3r8> <sports.sports_team_roster.player> "Jarvis Varnado" .
+<Joel_Anthony> <people.person.gender> "Male" .
+<Earl_Barron> <sports.pro_athlete.teams> "m.079r51_" .
+<Eastern_Conference> <organization.organization.child> "m.0ck2f0m" .
+<Miami_Arena> <sports.sports_facility.teams> "Florida Panthers" .
+<Mascot> <freebase.type_hints.included_types> "Topic" .
+<Eastern_Conference> <basketball.basketball_conference.divisions> "Atlantic Division" .
+<Shaquille_O'Neal> <sports.pro_athlete.teams> "m.04fw72v" .
+<Mario_Chalmers> <basketball.basketball_player.position_s> "Point guard" .
+<m.08s4cln> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0j2drv0> <sports.sports_team_roster.position> "Power forward" .
+<Shawne_Williams> <common.topic.notable_types> "Basketball Player" .
+<Mike_Miller> <basketball.basketball_player.position_s> "Shooting guard" .
+<Miami_Heat> <sports.sports_team.roster> "m.0w6h2mq" .
+<Miami> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<2014_NBA_Finals> <time.event.locations> "AT&T Center" .
+<Outstanding_Team_ESPY_Award> <award.award_category.nominees> "m.0z1xmzt" .
+<m.02398d8> <freebase.valuenotation.is_reviewed> "Position" .
+<Erik_Spoelstra> <award.award_nominee.award_nominations> "m.0z1q217" .
+<m.0z1xnp9> <freebase.valuenotation.has_no_value> "Winning work" .
+<Erik_Spoelstra> <people.person.ethnicity> "Filipino American" .
+<Robert_Dozier> <sports.pro_athlete.teams> "m.0n7wv0t" .
+<National_Basketball_Association_Awards_-_Larry_O'Brien_Championship_Trophy> <award.award_category.winners> "m.0_qt6cj" .
+<Mike_Miller> <sports.pro_athlete.teams> "m.0j2ds31" .
+<Erik_Spoelstra> <common.topic.image> "Erik Spoelstra" .
+<m.08__ny0> <sports.sports_team_roster.position> "Shooting guard" .
+<Miami_Heat> <basketball.basketball_team.previous_coaches> "m.0z4zq71" .
+<Southeast_Division> <common.topic.notable_types> "Basketball Division" .
+<m.079r51_> <sports.sports_team_roster.player> "Earl Barron" .
+<American_Airlines_Arena> <location.location.events> "Sex and Love Tour" .
+<m.04_nfk2> <sports.sports_league_draft_pick.player> "Wayne Simien" .
+<m.0yx5jkd> <award.award_honor.award> "Best Game ESPY Award" .
+<American_Airlines_Arena> <location.location.events> "Utah-Arizona 2009 NCAA Men's Division I Basketball Tournament Game" .
+<LeBron_James> <people.person.gender> "Male" .
+<m.0yzk2rj> <award.award_nomination.award_nominee> "Miami Heat" .
+<San_Antonio_Spurs> <sports.sports_team.championships> "2014 NBA Finals" .
+<m.0114py7p> <sports.sports_team_roster.player> "Josh McRoberts" .
+<Miami_Heat> <sports.sports_team.roster> "m.0pxml9d" .
+<Tim_Hardaway> <sports.pro_athlete.teams> "m.0_qwtys" .
+<Joel_Anthony> <basketball.basketball_player.position_s> "Center" .
+<m.0yzmsgh> <award.award_nomination.ceremony> "2013 ESPY Awards" .
+<m.0123x94q> <sports.sports_team_roster.player> "Erik Spoelstra" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_South_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "2009 NCAA Men's Division I Basketball Tournament" .
+<m.0ytt7dc> <award.award_nomination.ceremony> "2013 Laureus World Sports Awards" .
+<Sid_Rosenberg_Show> <radio.radio_program.subjects> "Sports" .
+<Sports> <radio.radio_subject.programs_with_this_subject> "Sid Rosenberg Show" .
+<Shawne_Williams> <people.person.nationality> "United States of America" .
+<Miami> <location.location.containedby> "United States of America" .
+<m.02398d8> <sports.sports_team_roster.position> "Small forward" .
+<m.0j2drqn> <sports.sports_team_roster.player> "Carlos Arroyo" .
+<Keyon_Dooling> <basketball.basketball_player.position_s> "Point guard" .
+<Erik_Spoelstra> <people.person.parents> "Jon Spoelstra" .
+<2012–13_NBA_season> <sports.sports_league_season.league> "National Basketball Association" .
+<Charlie_Westbrook> <people.person.gender> "Male" .
+<Miami_Heat> <sports.sports_team.roster> "m.0j2drv0" .
+<Micky_Arison> <common.topic.article> "m.027f70" .
+<Isaac_Austin> <people.person.nationality> "United States of America" .
+<Jarvis_Varnado> <sports.pro_athlete.teams> "m.0pdk3r8" .
+<m.05n6rf3> <business.employment_tenure.company> "Miami Heat" .
+<Florida> <location.administrative_division.country> "United States of America" .
+<m.0z1xmzt> <award.award_nomination.award> "Outstanding Team ESPY Award" .
+<The_NBA_Finals> <time.recurring_event.instances> "2011 NBA Finals" .
+<Erik_Spoelstra> <people.person.education> "m.05lt7zt" .
+<Miami> <location.location.containedby> "Miami-Dade County" .
+<m.0w2rvyx> <sports.sports_team_roster.team> "Miami Heat" .
+<Zydrunas_Ilgauskas> <people.person.profession> "Businessperson" .
+<Carnival_Corporation_&_plc> <business.employer.employees> "m.03x09ht" .
+<Shaquille_O'Neal> <people.person.gender> "Male" .
+<Stanko_Barać> <sports.drafted_athlete.drafted> "m.02nqx7y" .
+<Indiana_Pacers> <basketball.basketball_team.division> "Central Division" .
+<Erik_Spoelstra> <people.person.nationality> "United States of America" .
+<m.02h7nlr> <sports.sports_league_draft_pick.draft> "2003 NBA draft" .
+<Outstanding_Team_ESPY_Award> <award.award_category.winners> "m.0y_rsz6" .
+<Garrett_Temple> <sports.pro_athlete.teams> "m.0n9hcbr" .
+<Atlantic_Division> <basketball.basketball_division.teams> "Boston Celtics" .
+<DeAndre_Liggins> <common.topic.notable_types> "Basketball Player" .
+<m.0pd6p_q> <sports.sports_team_roster.player> "Josh Harrellson" .
+<Jason_Smith> <sports.drafted_athlete.drafted> "m.02nqx5q" .
+<2004_NBA_draft> <sports.sports_league_draft.picks> "m.04_ng00" .
+<Stanko_Barać> <common.topic.notable_types> "Basketball Player" .
+<m.05n6rf7> <business.employment_tenure.title> "Director of Scouting" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Miami Marlins" .
+<Dallas_Mavericks> <common.topic.notable_types> "Professional Sports Team" .
+<m.0_spt56> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0pxml9d> <freebase.valuenotation.has_value> "Number" .
+<m.011jhydy> <freebase.valuenotation.has_no_value> "To" .
+<Sports_Team> <type.type.domain> "Sports" .
+<m.0x1sq8_> <sports.sports_team_roster.team> "Miami Heat" .
+<m.011jgsnh> <freebase.valuenotation.has_value> "Number" .
+<Miami_Heat> <sports.professional_sports_team.draft_picks> "m.02nqx7y" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Boston Celtics" .
+<m.0pdk3r8> <sports.sports_team_roster.team> "Miami Heat" .
+<National_Basketball_Association> <organization.organization.sectors> "Basketball" .
+<Professional_sports> <broadcast.genre.content> "Sid Rosenberg Show" .
+<Milwaukee_Bucks> <sports.sports_team.sport> "Basketball" .
+<m.04hg6cp> <people.place_lived.person> "Erik Spoelstra" .
+<P._J._Hairston> <people.person.gender> "Male" .
+<m.02398d8> <sports.sports_team_roster.player> "LeBron James" .
+<Micky_Arison> <people.person.ethnicity> "Jewish people" .
+<Ted_Arison> <people.person.profession> "Businessperson" .
+<m.0j2drst> <sports.sports_team_roster.team> "Miami Heat" .
+<Evanston> <location.hud_county_place.place> "Evanston" .
+<Professional_Sports_Team> <freebase.type_hints.included_types> "Sports Team" .
+<Miami_Heat> <sports.sports_team.team_mascot> "Burnie" .
+<Dwyane_Wade> <people.person.gender> "Male" .
+<Miami_Heat> <sports.sports_team.roster> "m.079r51_" .
+<m.0_qwr_8> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0_5djvh> <freebase.valuenotation.has_no_value> "To" .
+<American_Airlines_Arena> <common.topic.notable_types> "Sports Facility" .
+<Josh_McRoberts> <sports.pro_athlete.teams> "m.0114py7p" .
+<Steve_Smith> <common.topic.notable_types> "Basketball Player" .
+<The_NBA_Finals> <sports.sports_championship.league> "National Basketball Association" .
+<m.0n4lrqy> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0w6h2mq> <freebase.valuenotation.has_no_value> "To" .
+<LeBron_James> <sports.pro_athlete.teams> "m.02398d8" .
+<2014_NBA_Finals> <sports.sports_championship_event.champion> "San Antonio Spurs" .
+<Stanko_Barać> <basketball.basketball_player.position_s> "Center" .
+<Premio_Lo_Nuestro_2013> <freebase.valuenotation.is_reviewed> "End date" .
+<Utah-Arizona_2009_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "2009 NCAA Men's Division I Basketball Tournament - Midwest Regional First Round" .
+<Miami_Heat> <sports.sports_team.roster> "m.0j2drvs" .
+<m.05n5876> <freebase.valuenotation.has_value> "Number" .
+<m.0yx5ksp> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0z1xnp9> <award.award_honor.award_winner> "Miami Heat" .
+<m.0j2drst> <sports.sports_team_roster.position> "Power forward" .
+<m.0j2drt9> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0_qwr_8> <sports.sports_team_roster.player> "P. J. Brown" .
+<Josh_Harrellson> <people.person.gender> "Male" .
+<Zydrunas_Ilgauskas> <basketball.basketball_player.position_s> "Center" .
+<m.0ck2ds0> <organization.organization_relationship.parent> "National Basketball Association" .
+<Miami_Heat> <sports.sports_team.roster> "m.0z45640" .
+<Miami_Heat> <sports.professional_sports_team.owner_s> "Micky Arison" .
+<Miami_Heat> <business.employer.employees> "m.05n6rf3" .
+<Atlanta_Hawks> <basketball.basketball_team.division> "Southeast Division" .
+<Erik_Spoelstra> <award.award_nominee.award_nominations> "m.0yzmsgh" .
+<Mario_Chalmers> <sports.pro_athlete.teams> "m.08s4cjh" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Miami_Heat> <basketball.basketball_team.conference> "Eastern Conference" .
+<The_NBA_Finals> <time.recurring_event.instances> "2013 NBA Finals" .
+<Sid_Rosenberg_Show> <broadcast.artist.content> "WMEN" .
+<m.0z522yr> <award.award_nomination.ceremony> "2006 ESPY Awards" .
+<National_Basketball_Association_Awards_-_Larry_O'Brien_Championship_Trophy> <award.award_category.winners> "m.0_qr04p" .
+<Miami_Dolphins> <broadcast.genre.content> "Sid Rosenberg Show" .
+<m.0k6lq3k> <people.sibling_relationship.sibling> "Micky Arison" .
+<Hell_in_a_Cell_(2013)> <time.event.locations> "American Airlines Arena" .
+<Florida> <location.location.time_zones> "Eastern Time Zone" .
+<m.09tnx__> <organization.organization_board_membership.organization> "Carnival Corporation & plc" .
+<Miami_Heat> <award.award_winner.awards_won> "m.0_qr04p" .
+<Miami> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0x1sq8_> <sports.sports_team_roster.player> "Larry Drew II" .
+<Terrel_Harris> <common.topic.notable_types> "Basketball Player" .
+<Sports> <media_common.media_genre_equivalent_topic.media_genre_equivalent> "Sports films" .
+<Larry_Drew_II> <people.person.gender> "Male" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Topic" .
+<Center> <sports.sports_position.sport> "Basketball" .
+<m.09t71cs> <organization.leadership.organization> "Carnival Corporation & plc" .
+<m.04fw72v> <sports.sports_team_roster.position> "Center" .
+<2003_NBA_draft> <sports.sports_league_draft.picks> "m.02h7nlr" .
+<m.05lt7zt> <education.education.student> "Erik Spoelstra" .
+<Miami_Marlins> <broadcast.genre.content> "Sid Rosenberg Show" .
+<m.0kd6rlf> <sports.sports_team_roster.team> "Miami Heat" .
+<2011_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Earl_Barron> <basketball.basketball_player.position_s> "Power forward" .
+<American_Airlines_Arena> <location.location.events> "Hell in a Cell (2013)" .
+<Miami_Heat> <common.topic.article> "m.0jm34" .
+<m.09tm_b7> <organization.organization_board_membership.member> "Micky Arison" .
+<m.0_qr04p> <freebase.valuenotation.has_no_value> "Winning work" .
+<Filipino_American> <people.ethnicity.geographic_distribution> "United States of America" .
+<American_Airlines_Arena> <location.location.events> "2011 NBA Finals" .
+<m.0w_g57t> <freebase.valuenotation.is_reviewed> "Player" .
+<Erik_Spoelstra> <sports.pro_athlete.teams> "m.05n5876" .
+<Udonis_Haslem> <common.topic.notable_types> "Basketball Player" .
+<Micky_Arison> <people.person.spouse_s> "m.0n4hz5r" .
+<m.0tl0lpv> <sports.team_venue_relationship.venue> "American Airlines Arena" .
+<m.0pxml9d> <sports.sports_team_roster.position> "Center" .
+<m.02nqx5q> <sports.sports_league_draft_pick.team> "Miami Heat" .
+<m.0y_rsz6> <award.award_honor.award> "Outstanding Team ESPY Award" .
+<m.08s4cjh> <sports.sports_team_roster.player> "Mario Chalmers" .
+<m.05n6rdw> <business.employment_tenure.person> "Erik Spoelstra" .
+<Roger_Mason,_Jr.> <common.topic.notable_types> "Basketball Player" .
+<m.0ytt7dc> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0z1q217> <award.award_nomination.award_nominee> "Erik Spoelstra" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_South_Regional_Second_Round> <time.event.locations> "American Airlines Arena" .
+<Ted_Arison> <people.family_member.family> "Arison family" .
+<Miami_Heat> <sports.sports_team.roster> "m.08__ny0" .
+<Miami_Heat> <sports.sports_team.roster> "m.0n4lrqy" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Florida Panthers" .
+<Ted_Arison> <people.deceased_person.place_of_death> "Tel Aviv" .
+<m.0jw9_sn> <common.webpage.category> "Official Website" .
+<Sports_radio> <broadcast.genre.content> "Sid Rosenberg Show" .
+<m.0w_g57t> <freebase.valuenotation.is_reviewed> "Number" .
+<m.0_5djvh> <sports.sports_team_roster.position> "Guard" .
+<m.02nqx5q> <sports.sports_league_draft_pick.school> "Colorado State University" .
+<Miami_Heat> <award.award_nominee.award_nominations> "m.0y_rbb5" .
+<m.0j2drmn> <freebase.valuenotation.is_reviewed> "Player" .
+<Miami_Heat> <sports.sports_team.championships> "2006 NBA Finals" .
+<Afternoon_Roundup:_Michael_Jackson_a_Homicide,_Coroner_Rules;_Michael_Beasley_Twitter_Drama;_Robin_Williams_Playing_Susan_Boyle?> <common.resource.annotations> "m.0b48ftm" .
+<Tyler_Johnson> <people.person.gender> "Male" .
+<American_Airlines_Arena> <location.location.events> "Survivor Series (2007)" .
+<m.0pd6p_q> <sports.sports_team_roster.position> "Center" .
+<Erik_Spoelstra> <basketball.basketball_player.position_s> "Point guard" .
+<m.0pd2tpm> <freebase.valuenotation.has_value> "Number" .
+<Larry_Drew_II> <sports.pro_athlete.teams> "m.0x1sq8_" .
+<Miami-Dade_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<m.0n4lrs6> <sports.sports_team_roster.team> "Miami Heat" .
+<2005–06_NBA_season> <sports.sports_league_season.league> "National Basketball Association" .
+<Sid_Rosenberg_Show> <broadcast.broadcast.content> "Sid Rosenberg" .
+<Indiana_Pacers> <common.topic.notable_types> "Professional Sports Team" .
+<Miami_Heat> <sports.sports_team.championships> "2012 NBA Finals" .
+<Eastern_Conference> <organization.organization.child> "m.0ck2f0t" .
+<Micky_Arison> <people.person.employment_history> "m.03x7ys3" .
+<American_Airlines_Arena> <sports.sports_facility.teams> "Miami Heat" .
+<Sports_Facility> <freebase.type_hints.included_types> "Topic" .
+<Forward-center> <sports.sports_position.players> "m.0w6h2mq" .
+<Brooklyn_Nets> <basketball.basketball_team.conference> "Eastern Conference" .
+<Rashard_Lewis> <people.person.nationality> "United States of America" .
+<Atlantic_Division> <basketball.basketball_division.teams> "New York Knicks" .
+<DeAndre_Liggins> <basketball.basketball_player.position_s> "Shooting guard" .
+<Sports_films> <media_common.media_genre.equivalent_topic> "Sports" .
+<m.0jw9_sj> <common.resource.annotations> "m.0jw9_sn" .
+<Burnie> <common.topic.article> "m.03lqz3" .
+<m.0_qx45g> <sports.sports_team_roster.position> "Center" .
+<m.0yq00kf> <sports.sports_team_roster.player> "Zydrunas Ilgauskas" .
+<American_Airlines_Arena> <common.topic.article> "m.01wczk" .
+<m.011x2q3m> <sports.sports_team_roster.team> "Miami Heat" .
+<Burnie> <common.topic.notable_types> "Mascot" .
+<National_Basketball_Association> <sports.sports_league.seasons> "2012–13 NBA season" .
+<m.0_qr4qg> <award.award_honor.award> "National Basketball Association Awards - Larry O'Brien Championship Trophy" .
+<Quentin_Richardson> <sports.pro_athlete.teams> "m.0j2drs8" .
+<Sid_Rosenberg_Show> <broadcast.content.location> "Miami-Dade County" .
+<2013_NBA_Finals> <sports.sports_championship_event.champion> "Miami Heat" .
+<Sid_Rosenberg_Show> <radio.radio_program.subjects> "Professional sports" .
+<Erik_Spoelstra> <people.person.gender> "Male" .
+<Sports_Facility> <type.type.domain> "Sports" .
+<m.011jhydy> <freebase.valuenotation.has_value> "Number" .
+<Eastern_Conference> <basketball.basketball_conference.divisions> "Southeast Division" .
+<Miami_Heat> <sports.sports_team.roster> "m.0z3z6l8" .
+<Sid_Rosenberg> <people.person.gender> "Male" .
+<American_Airlines_Arena> <location.location.events> "2013 NBA Finals" .
+<Tel_Aviv> <location.location.containedby> "Israel" .
+<m.0yzk2rj> <award.award_nomination.ceremony> "2007 Laureus World Sports Awards" .
+<m.0110pv4s> <sports.sports_league_draft_pick.team> "Miami Heat" .
+<Miami_Dolphins> <common.topic.notable_types> "Professional Sports Team" .
+<Tim_Hardaway> <basketball.basketball_player.position_s> "Point guard" .
+<Miami_University> <education.educational_institution.campuses> "Miami University" .
+<Royal_Rumble_(2006)> <time.event.locations> "American Airlines Arena" .
+<Danny_Granger> <basketball.basketball_player.position_s> "Small forward" .
+<Chesapeake_Energy_Arena> <location.location.events> "2012 NBA Finals" .
+<Sports_Facility> <freebase.type_profile.kind> "Definition" .
+<Reggie_Williams> <people.person.gender> "Male" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Sports entertainment" .
+<Shabazz_Napier> <common.topic.notable_types> "Basketball Player" .
+<Luol_Deng> <basketball.basketball_player.position_s> "Small forward" .
+<Miami_Heat> <award.award_winner.awards_won> "m.0_qt6cj" .
+<Sid_Rosenberg> <people.person.nationality> "United States of America" .
+<Miami_Heat> <sports.sports_team.roster> "m.0r9k6rk" .
+<m.0z522yr> <award.award_nomination.award_nominee> "Miami Heat" .
+<Central_Division> <basketball.basketball_division.teams> "Cleveland Cavaliers" .
+<Luol_Deng> <sports.pro_athlete.teams> "m.0114cv90" .
+<Miami_Heat> <award.award_nominee.award_nominations> "m.0z522yr" .
+<m.0pxml9d> <sports.sports_team_roster.team> "Miami Heat" .
+<Josh_Harrellson> <sports.pro_athlete.teams> "m.0pd6p_q" .
+<2011_NBA_Finals> <time.event.locations> "American Airlines Arena" .
+<Forward> <sports.sports_position.sport> "Basketball" .
+<Best_Game_ESPY_Award> <award.award_category.nominees> "m.0yx5ksp" .
+<m.0b48ftm> <common.webpage.in_index> "WSJ Speakeasy Index" .
+<Carnival_Corporation_&_plc> <organization.organization.founders> "Ted Arison" .
+<Eddy_Curry> <common.topic.notable_types> "Basketball Player" .
+<2008_NBA_draft> <sports.sports_league_draft.picks> "m.04_bxx9" .
+<Myck_Kabongo> <common.topic.notable_types> "Basketball Player" .
+<Philadelphia_76ers> <sports.sports_team.sport> "Basketball" .
+<Owner(s)> <type.property.schema> "Professional Sports Team" .
+<Miami_Heat> <common.topic.webpage> "m.0jw9_sn" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_Midwest_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "2009 NCAA Men's Division I Basketball Tournament" .
+<Guard> <sports.sports_position.sport> "Basketball" .
+<Survivor_Series_(2007)> <time.event.locations> "American Airlines Arena" .
+<Utah-Arizona_2009_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "American Airlines Arena" .
+<m.08__ny0> <sports.sports_team_roster.position> "Small forward" .
+<Miami_Heat> <sports.professional_sports_team.draft_picks> "m.04_nfk2" .
+<m.011dgbn_> <freebase.valuenotation.has_no_value> "To" .
+<Shavlik_Randolph> <common.topic.notable_types> "Basketball Player" .
+<m.0z44g2t> <sports.sports_team_roster.player> "Sherman Douglas" .
+<The_NBA_Finals> <sports.sports_championship.events> "2006 NBA Finals" .
+<Sid_Rosenberg_Show> <broadcast.artist.content> "Sid Rosenberg" .
+<m.0wk4n2r> <people.place_lived.location> "Evanston" .
+<Larry_Drew_II> <common.topic.notable_types> "Basketball Player" .
+<Eddy_Curry> <basketball.basketball_player.position_s> "Center" .
+<Miami_Heat> <sports.sports_team.roster> "m.0zv2mx_" .
+<m.0pdk3r8> <sports.sports_team_roster.position> "Center" .
+<Owner(s)> <owl#inverseOf> "Teams Owned" .
+<Yakhouba_Diawara> <basketball.basketball_player.position_s> "Small forward" .
+<Micky_Arison> <business.board_member.organization_board_memberships> "m.09tx2g5" .
+<United_States_of_America> <location.country.first_level_divisions> "Florida" .
+<m.0zv2mx_> <sports.sports_team_roster.player> "Isaac Austin" .
+<Micky_Arison> <people.family_member.family> "Arison family" .
+<2011_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Miami_Heat> <sports.sports_team.roster> "m.0xnm5sy" .
+<Keyon_Dooling> <sports.pro_athlete.teams> "m.0n4syd8" .
+<P._J._Hairston> <basketball.basketball_player.position_s> "Shooting guard" .
+<American_Airlines_Arena> <location.location.events> "Wake Forest-Cleveland State 2009 NCAA Men's Division I Basketball Tournament Game" .
+<Erik_Spoelstra> <common.topic.article> "m.03qfs0g" .
+<Kansas_State_University> <location.location.containedby> "United States of America" .
+<Carlos_Arroyo> <common.topic.notable_types> "Basketball Player" .
+<Michael_Beasley> <sports.pro_athlete.teams> "m.0w_g57t" .
+<Small_forward> <sports.sports_position.sport> "Basketball" .
+<Team> <rdf-schema#range> "Professional Sports Team" .
+<m.023983s> <sports.sports_team_roster.player> "Udonis Haslem" .
+<Basketball> <sports.sport.positions> "Small forward" .
+<Miami_Heat> <broadcast.genre.content> "Sid Rosenberg Show" .
+<Myck_Kabongo> <people.person.gender> "Male" .
+<Miami_Springs> <location.location.containedby> "United States of America" .
+<m.0j2ds31> <sports.sports_team_roster.player> "Mike Miller" .
+<Basketball> <sports.sport.positions> "Power forward" .
+<Pat_Riley> <common.topic.notable_types> "Basketball Player" .
+<Atlanta_Hawks> <common.topic.notable_types> "Professional Sports Team" .
+<Erik_Spoelstra> <common.topic.notable_types> "Basketball Player" .
+<Alonzo_Mourning> <basketball.basketball_player.position_s> "Center" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "2009 NCAA Men's Division I Basketball Tournament - Midwest Regional Second Round" .
+<m.08__ny0> <sports.sports_team_roster.player> "James Jones" .
+<Luol_Deng> <common.topic.notable_types> "Basketball Player" .
+<2014_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0k2rm2x> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0d65y8c> <sports.pro_sports_played.athlete> "Erik Spoelstra" .
+<Earl_Barron> <people.person.nationality> "United States of America" .
+<Shannon_Brown> <people.person.gender> "Male" .
+<Premio_Lo_Nuestro_2013> <freebase.valuenotation.is_reviewed> "Location(s)" .
+<Reggie_Williams> <basketball.basketball_player.position_s> "Shooting guard" .
+<Israel> <base.locations.countries.cities_within> "Tel Aviv" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_Midwest_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Wake Forest-Cleveland State 2009 NCAA Men's Division I Basketball Tournament Game" .
+<m.03x09ht> <business.employment_tenure.person> "Micky Arison" .
+<Miami-Dade_County> <location.location.containedby> "Florida" .
+<Yakhouba_Diawara> <sports.pro_athlete.teams> "m.0j2drt9" .
+<Toney_Douglas> <common.topic.notable_types> "Basketball Player" .
+<2007_NBA_draft> <sports.sports_league_draft.picks> "m.02nqx7y" .
+<Charlotte_Hornets> <basketball.basketball_team.conference> "Eastern Conference" .
+<m.0pd6p_q> <freebase.valuenotation.has_value> "Number" .
+<Caron_Butler> <basketball.basketball_player.position_s> "Small forward" .
+<Micky_Arison> <common.topic.notable_for> "g.1257qk2h0" .
+<Orlando_Magic> <basketball.basketball_team.division> "Southeast Division" .
+<Erik_Spoelstra> <common.topic.image> "Erik Spoelstra2" .
+<m.0n4syd8> <sports.sports_team_roster.player> "Keyon Dooling" .
+<Point_guard> <sports.sports_position.sport> "Basketball" .
+<Terrel_Harris> <basketball.basketball_player.position_s> "Shooting guard" .
+<Miami_Springs> <location.hud_county_place.county> "Miami-Dade County" .
+<m.011nf6gq> <sports.sports_team_roster.player> "Shannon Brown" .
+<Shane_Battier> <basketball.basketball_player.position_s> "Small forward" .
+<Danny_Granger> <people.person.nationality> "United States of America" .
+<University_of_North_Carolina_at_Chapel_Hill> <location.location.containedby> "United States of America" .
+<m.0j2drmn> <freebase.valuenotation.has_no_value> "To" .
+<Washington_Wizards> <basketball.basketball_team.division> "Southeast Division" .
+<Eastern_Conference> <basketball.basketball_conference.divisions> "Central Division" .
+<Terrel_Harris> <people.person.gender> "Male" .
+<m.0x1sq8_> <sports.sports_team_roster.position> "Point guard" .
+<m.04_ng00> <sports.sports_league_draft_pick.team> "Miami Heat" .
+<Tim_Hardaway> <people.person.gender> "Male" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament> <time.event.locations> "American Airlines Arena" .
+<m.0w_g57t> <freebase.valuenotation.is_reviewed> "Position" .
+<m.0z44g2t> <sports.sports_team_roster.team> "Miami Heat" .
+<Eastern_Conference> <sports.sports_league.teams> "m.0crtdcs" .
+<Pat_Riley> <basketball.basketball_coach.previous_teams> "m.0z4zq71" .
+<New_York_Knicks> <basketball.basketball_team.division> "Atlantic Division" .
+<m.0j2t6hs> <basketball.basketball_historical_coach_position.coach> "Pat Riley" .
+<Chicago_Bulls> <basketball.basketball_team.conference> "Eastern Conference" .
+<m.0_qwtys> <sports.sports_team_roster.team> "Miami Heat" .
+<Khem_Birch> <basketball.basketball_player.position_s> "Forward" .
+<Miami_Heat> <award.award_nominee.award_nominations> "m.0yzk2rj" .
+<m.0r9k6rk> <sports.sports_team_roster.position> "Forward" .
+<m.0_qwr_8> <sports.sports_team_roster.position> "Power forward" .
+<m.0crtdcs> <sports.sports_league_participation.league> "Eastern Conference" .
+<m.0pxml9d> <sports.sports_team_roster.player> "Josh Harrellson" .
+<m.0j2ds31> <sports.sports_team_roster.position> "Small forward" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_Midwest_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "2009 NCAA Men's Division I Basketball Tournament" .
+<Shaq_Gains_New_Team,_Drops_Old_Mansion> <common.resource.annotations> "m.0b491sw" .
+<m.0yzk2rj> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0jw9_sn> <common.webpage.topic> "Miami Heat" .
+<Mascot> <type.type.domain> "Sports" .
+<m.0ytt7dc> <award.award_nomination.award> "Laureus World Sports Award for Team of the Year" .
+<2014_Premios_Tu_Mundo> <time.event.locations> "American Airlines Arena" .
+<University_of_Kansas> <education.educational_institution.campuses> "University of Kansas" .
+<m.0_sk1h6> <sports.sports_team_roster.team> "Miami Heat" .
+<Arison_family> <people.person.nationality> "United States of America" .
+<Chris_Andersen> <sports.pro_athlete.teams> "m.0w6h2mq" .
+<Philadelphia_76ers> <basketball.basketball_team.division> "Atlantic Division" .
+<P._J._Hairston> <common.topic.notable_types> "Basketball Player" .
+<2012_ESPY_Awards> <freebase.valuenotation.is_reviewed> "Start date" .
+<m.0114q6w7> <freebase.valuenotation.has_value> "Number" .
+<m.0ck2f0m> <organization.organization_relationship.parent> "Eastern Conference" .
+<Mike_Miller> <people.person.nationality> "United States of America" .
+<Rashard_Lewis> <people.person.gender> "Male" .
+<Miami> <location.hud_county_place.place> "Miami" .
+<Professional_Sports_Team> <common.topic.article> "m.06_rt7r" .
+<Miami_Heat> <sports.sports_team.roster> "m.0114q6w7" .
+<Miami_Heat> <sports.sports_team.roster> "m.08s4cln" .
+<m.09tx2fr> <organization.organization_board_membership.member> "Micky Arison" .
+<m.0j2drvs> <sports.sports_team_roster.team> "Miami Heat" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_Midwest_Regional_Second_Round> <time.event.locations> "American Airlines Arena" .
+<Professional_Sports_Team> <freebase.type_hints.included_types> "Topic" .
+<Earl_Barron> <people.person.gender> "Male" .
+<m.02nqx7y> <sports.sports_league_draft_pick.draft> "2007 NBA draft" .
+<Dorell_Wright> <people.person.gender> "Male" .
+<Florida> <location.location.containedby> "United States of America" .
+<m.0110s94k> <sports.sports_team_roster.team> "Miami Heat" .
+<Joel_Anthony> <sports.pro_athlete.teams> "m.08s4cln" .
+<Alonzo_Mourning> <people.person.nationality> "United States of America" .
+<m.0z44g2t> <sports.sports_team_roster.position> "Point guard" .
+<Josh_McRoberts> <common.topic.notable_types> "Basketball Player" .
+<Florida> <base.locations.states_and_provences.country> "United States of America" .
+<Miami_Heat> <common.topic.image> "120px-Miami Heat logo.png" .
+<m.0cskfnv> <sports.sports_team_roster.player> "Michael Beasley" .
+<Professional_Sports_Team> <freebase.type_profile.strict_included_types> "Topic" .
+<Mickell_Gladness> <basketball.basketball_player.position_s> "Center" .
+<2013_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<New_York_Times> <common.resource.annotations> "m.0422byw" .
+<Carlos_Arroyo> <basketball.basketball_player.position_s> "Point guard" .
+<2006_NBA_Finals> <common.topic.image> "Game 3 of the 2006 NBA Finals at the AmericanAirlines Arena in Miami." .
+<The_NBA_Finals> <sports.sports_championship.events> "2013 NBA Finals" .
+<Josh_McRoberts> <basketball.basketball_player.position_s> "Power forward" .
+<m.0vshxxv> <sports.sports_team_coach_tenure.position> "Head coach" .
+<Micky_Arison> <people.person.sibling_s> "m.0k6lq3k" .
+<National_Basketball_Association_Awards_-_Larry_O'Brien_Championship_Trophy> <award.award_category.winners> "m.0_qr4qg" .
+<Miami_Heat> <sports.sports_team.roster> "m.0_sk1h6" .
+<m.0y_rsz6> <freebase.valuenotation.has_no_value> "Winning work" .
+<m.08s4cjh> <sports.sports_team_roster.position> "Point guard" .
+<Syracuse-Stephen_F._Austin_2009_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "2009 NCAA Men's Division I Basketball Tournament - South Regional First Round" .
+<Arizona_State-Temple_2009_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "American Airlines Arena" .
+<Atlantic_Division> <basketball.basketball_division.teams> "Toronto Raptors" .
+<m.0j2drmn> <freebase.valuenotation.is_reviewed> "Position" .
+<James_Jones> <people.person.place_of_birth> "Miami" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_South_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Arizona State-Syracuse 2009 NCAA Men's Division I Basketball Tournament Game" .
+<Miami_Heat> <sports.sports_team.roster> "m.0114vssh" .
+<m.05n6rdw> <business.employment_tenure.company> "Miami Heat" .
+<m.0w2rvyx> <freebase.valuenotation.has_value> "Number" .
+<Eastern_Conference> <common.topic.notable_types> "Basketball Conference" .
+<Josh_Harrellson> <common.topic.notable_types> "Basketball Player" .
+<m.0xnm5sy> <sports.sports_team_roster.team> "Miami Heat" .
+<Alonzo_Mourning> <common.topic.notable_types> "Basketball Player" .
+<m.0110s94k> <sports.sports_team_roster.position> "Point guard" .
+<m.0n4hz5r> <people.marriage.spouse> "Micky Arison" .
+<American_Airlines_Arena> <location.location.events> "The Circus Tour Miami, FL Concert" .
+<m.0wfv1fk> <sports.sports_team_roster.position> "Center" .
+<Pat_Riley> <people.person.nationality> "United States of America" .
+<Burnie> <sports.mascot.team> "Miami Heat" .
+<m.0q_4v0f> <sports.sports_team_roster.position> "Center" .
+<San_Antonio_Spurs> <award.award_winner.awards_won> "m.0yx5jkd" .
+<m.0n9g3hp> <sports.sports_team_roster.player> "Rodney Carney" .
+<Erik_Spoelstra> <sports.sports_team_coach.teams_coached> "m.0vshxxv" .
+<m.05n6rf7> <business.employment_tenure.company> "Miami Heat" .
+<Sports> <freebase.domain_profile.equivalent_topic> "Sports" .
+<Miami_Heat> <sports.professional_sports_team.draft_picks> "m.02nqx5q" .
+<2013_Laureus_World_Sports_Awards> <award.award_ceremony.nominees> "m.0ytt7dc" .
+<m.09tnx__> <organization.organization_board_membership.member> "Micky Arison" .
+<Professional_Sports_Team> <freebase.type_profile.kind> "Definition" .
+<Zydrunas_Ilgauskas> <people.person.gender> "Male" .
+<m.04_ng00> <sports.sports_league_draft_pick.player> "Dorell Wright" .
+<Shannon_Brown> <common.topic.notable_types> "Basketball Player" .
+<Zydrunas_Ilgauskas> <sports.pro_athlete.teams> "m.0yq00kf" .
+<Tim_Hardaway> <people.person.nationality> "United States of America" .
+<Khem_Birch> <people.person.gender> "Male" .
+<Miami_Heat> <award.award_nominee.award_nominations> "m.0yx5ksp" .
+<m.0_qt6cj> <award.award_honor.award> "National Basketball Association Awards - Larry O'Brien Championship Trophy" .
+<m.0n7wv0t> <sports.sports_team_roster.team> "Miami Heat" .
+<Miami> <sports.sports_team_location.teams> "Miami Marlins" .
+<m.0j2drvs> <sports.sports_team_roster.player> "Norris Cole" .
+<m.0w6h2mq> <sports.sports_team_roster.player> "Chris Andersen" .
+<Atlantic_Division> <common.topic.notable_types> "Basketball Division" .
+<Pat_Riley> <basketball.basketball_coach.previous_teams> "m.0j2t6hs" .
+<American_Airlines_Arena> <sports.sports_facility.home_venue_for> "m.0tl0lpv" .
+<Dorell_Wright> <basketball.basketball_player.position_s> "Small forward" .
+<Miami_Heat> <sports.professional_sports_team.draft_picks> "m.0110pv4s" .
+<m.0422byw> <common.webpage.topic> "Miami Heat" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Florida" .
+<Danny_Granger> <people.person.gender> "Male" .
+<Terrel_Harris> <sports.pro_athlete.teams> "m.0pd2tpm" .
+<Owner(s)> <rdf-schema#domain> "Professional Sports Team" .
+<m.0114vssh> <freebase.valuenotation.has_value> "Number" .
+<Miami_University> <broadcast.genre.content> "Sid Rosenberg Show" .
+<Dexter_Pittman> <sports.pro_athlete.teams> "m.0q_4v0f" .
+<Miami_Heat> <sports.sports_team.roster> "m.0pd2tpm" .
+<Greg_Oden> <people.person.gender> "Male" .
+<Miami_Heat> <sports.sports_team.roster> "m.0w_g57t" .
+<m.0110s94k> <sports.sports_team_roster.player> "Shabazz Napier" .
+<Carlos_Arroyo> <sports.pro_athlete.teams> "m.0j2drqn" .
+<2011_NBA_Finals> <freebase.valuenotation.is_reviewed> "End date" .
+<m.0k2rm2x> <sports.sports_team_roster.position> "Small forward" .
+<m.0z1xmzt> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0crt3jy> <sports.sports_league_participation.league> "National Basketball Association" .
+<James_Jones> <common.topic.notable_types> "Basketball Player" .
+<Micky_Arison> <business.board_member.leader_of> "m.09t71cs" .
+<Eastern_Conference> <basketball.basketball_conference.league> "National Basketball Association" .
+<m.0ck2f0t> <organization.organization_relationship.parent> "Eastern Conference" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_South_Regional_First_Round> <time.event.locations> "American Airlines Arena" .
+<Shabazz_Napier> <people.person.gender> "Male" .
+<m.0_spt56> <award.award_nomination.award> "Laureus World Sports Award for Team of the Year" .
+<m.0zv2mx_> <sports.sports_team_roster.team> "Miami Heat" .
+<m.01112tvq> <sports.sports_team_roster.position> "Power forward" .
+<Shannon_Brown> <people.person.nationality> "United States of America" .
+<Orlando_Magic> <common.topic.notable_types> "Professional Sports Team" .
+<m.0w_g57t> <sports.sports_team_roster.position> "Small forward" .
+<Cleveland_Cavaliers> <sports.sports_team.sport> "Basketball" .
+<m.0r9k6rk> <sports.sports_team_roster.player> "Juwan Howard" .
+<2007_NBA_draft> <sports.sports_league_draft.picks> "m.02nqx5q" .
+<m.09tx2g5> <organization.organization_board_membership.organization> "Carnival Corporation & plc" .
+<Ted_Arison> <people.person.nationality> "Israel" .
+<Central_Division> <basketball.basketball_division.teams> "Milwaukee Bucks" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Brooklyn Nets" .
+<Eastern_Conference> <organization.organization.child> "m.0ck2f0_" .
+<Dallas_Mavericks> <sports.sports_team.sport> "Basketball" .
+<Southeast_Division> <organization.organization.parent> "m.0ck2f0_" .
+<Quentin_Richardson> <basketball.basketball_player.position_s> "Small forward" .
+<Chris_Johnson> <common.topic.notable_types> "Basketball Player" .
+<Sports_League_Championship_Event> <freebase.type_hints.included_types> "Topic" .
+<2014_NBA_Finals> <sports.sports_championship_event.runner_up> "Miami Heat" .
+<Micky_Arison> <business.board_member.leader_of> "m.09t6ywp" .
+<2012_NBA_Finals> <sports.sports_championship_event.runner_up> "Oklahoma City Thunder" .
+<Tel_Aviv> <base.locations.cities_and_towns.country> "Israel" .
+<2012_NBA_Finals> <common.topic.notable_for> "g.1256psg2g" .
+<2014_NBA_draft> <freebase.valuenotation.is_reviewed> "End date" .
+<Steve_Smith> <basketball.basketball_player.position_s> "Shooting guard" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Chicago Bulls" .
+<James_Jones> <sports.pro_athlete.teams> "m.08__ny0" .
+<Miami_Heat> <sports.sports_team.roster> "m.0j2drst" .
+<Charlotte_Hornets> <common.topic.notable_types> "Professional Sports Team" .
+<m.0z1xmzt> <award.award_nomination.award_nominee> "Miami Heat" .
+<Miami_Heat> <sports.sports_team.location> "Miami" .
+<Norris_Cole> <people.person.gender> "Male" .
+<Rony_Seikaly> <sports.pro_athlete.teams> "m.0_qx45g" .
+<Udonis_Haslem> <people.person.nationality> "United States of America" .
+<m.0cskfnv> <sports.sports_team_roster.team> "Miami Heat" .
+<Larry_Drew_II> <basketball.basketball_player.position_s> "Guard" .
+<m.02397wx> <freebase.valuenotation.has_no_value> "To" .
+<Jarvis_Varnado> <basketball.basketball_player.position_s> "Power forward" .
+<Miami-Dade_County> <location.us_county.hud_county_place> "Miami" .
+<Juwan_Howard> <basketball.basketball_player.position_s> "Center" .
+<Erik_Spoelstra> <sports.pro_athlete.sports_played_professionally> "m.0d65y8c" .
+<Miami_Heat> <sports.sports_team.roster> "m.011nf6gq" .
+<m.0cskfnv> <sports.sports_team_roster.position> "Small forward" .
+<Milwaukee_Bucks> <common.topic.notable_types> "Professional Sports Team" .
+<Erik_Spoelstra> <freebase.valuenotation.has_value> "Weight" .
+<Rashard_Lewis> <basketball.basketball_player.position_s> "Small forward" .
+<Rony_Seikaly> <people.person.gender> "Male" .
+<Chris_Bosh> <people.person.gender> "Male" .
+<Miami_Heat> <sports.sports_team.coaches> "m.0vshxxv" .
+<m.011nf6gq> <sports.sports_team_roster.position> "Guard" .
+<m.0n7wv1p> <sports.sports_team_roster.player> "Mickell Gladness" .
+<m.0cskfnv> <sports.sports_team_roster.position> "Power forward" .
+<Miami_Heat> <common.topic.webpage> "m.0b48ftm" .
+<Reggie_Williams> <common.topic.notable_types> "Basketball Player" .
+<United_States_of_America> <location.location.time_zones> "Eastern Time Zone" .
+<Boston_Celtics> <sports.sports_team.league> "m.0crtdcs" .
+<Miami_Heat> <basketball.basketball_team.division> "Southeast Division" .
+<m.0_qt6cj> <freebase.valuenotation.has_no_value> "Ceremony" .
+<American_Airlines_Arena> <location.location.events> "2009 NCAA Men's Division I Basketball Tournament - South Regional Second Round" .
+<Basketball> <sports.sport.positions> "Forward" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Miami Dolphins" .
+<2006_NBA_Finals> <sports.sports_championship_event.runner_up> "Dallas Mavericks" .
+<m.0d65y8c> <sports.pro_sports_played.sport> "Basketball" .
+<m.0n7wv1p> <freebase.valuenotation.has_value> "Position" .
+<m.011x2q3m> <sports.sports_team_roster.player> "Chris Johnson" .
+<m.0y_rbb5> <award.award_nomination.ceremony> "2013 ESPY Awards" .
+<m.0tl0lm4> <sports.team_venue_relationship.team> "Miami Heat" .
+<Sherman_Douglas> <sports.pro_athlete.teams> "m.0z44g2t" .
+<LeBron_James> <common.topic.notable_types> "Basketball Player" .
+<Carnival_Corporation_&_plc> <organization.organization.board_members> "m.09tx2g5" .
+<Brooklyn_Nets> <sports.sports_team.sport> "Basketball" .
+<m.0z4zq71> <basketball.basketball_historical_coach_position.coach> "Pat Riley" .
+<m.0z3z6l8> <sports.sports_team_roster.player> "Caron Butler" .
+<Mario_Chalmers> <common.topic.notable_types> "Basketball Player" .
+<Detroit_Pistons> <sports.sports_team.sport> "Basketball" .
+<m.0z1xmzt> <award.award_nomination.ceremony> "2012 ESPY Awards" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Miami University" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_Midwest_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Utah-Arizona 2009 NCAA Men's Division I Basketball Tournament Game" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.gender> "Male" .
+<San_Antonio_Spurs> <award.award_nominee.award_nominations> "m.0yx5ksp" .
+<Rodney_Carney> <common.topic.notable_types> "Basketball Player" .
+<Draft_Picks> <type.property.master_property> "Team" .
+<Orlando_Magic> <sports.sports_team.sport> "Basketball" .
+<Micky_Arison> <business.board_member.organization_board_memberships> "m.09tnx__" .
+<Sports> <organization.organization_sector.organizations_in_this_sector> "National Basketball Association" .
+<2013_NBA_Finals> <freebase.valuenotation.is_reviewed> "Location(s)" .
+<Syracuse-Stephen_F._Austin_2009_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "American Airlines Arena" .
+<Micky_Arison> <common.topic.notable_types> "Organization leader" .
+<Quentin_Richardson> <common.topic.notable_types> "Basketball Player" .
+<Miami_Heat> <sports.sports_team.roster> "m.0pdk3r8" .
+<Erik_Spoelstra> <people.person.employment_history> "m.05n6rdw" .
+<Roger_Mason,_Jr.> <people.person.nationality> "United States of America" .
+<Miami_Heat> <sports.sports_team.roster> "m.0wfv1fk" .
+<Outstanding_Team_ESPY_Award> <award.award_category.nominees> "m.0z522yr" .
+<m.02398d8> <freebase.valuenotation.is_reviewed> "From" .
+<Sid_Rosenberg> <broadcast.content.artist> "Sid Rosenberg Show" .
+<Miami_Heat> <sports.sports_team.roster> "m.0_qwtys" .
+<2013_NBA_Finals> <sports.sports_championship_event.season> "2012–13 NBA season" .
+<m.0114py7p> <sports.sports_team_roster.team> "Miami Heat" .
+<Miami_Arena> <location.location.containedby> "Miami-Dade County" .
+<m.01112tvq> <sports.sports_team_roster.team> "Miami Heat" .
+<Atlantic_Division> <basketball.basketball_division.conference> "Eastern Conference" .
+<Sports> <type.domain.types> "Sports League Championship Event" .
+<Miami_Heat> <sports.sports_team.roster> "m.011jgsnh" .
+<Quentin_Richardson> <people.person.gender> "Male" .
+<Chris_Bosh> <sports.pro_athlete.teams> "m.0j2drmn" .
+<m.011jhydy> <sports.sports_team_roster.player> "Reggie Williams" .
+<Eddy_Curry> <sports.pro_athlete.teams> "m.0n4lrqy" .
+<Juwan_Howard> <common.topic.notable_types> "Basketball Player" .
+<Miami_Heat> <sports.sports_team.roster> "m.08s4cjh" .
+<Miami_Heat> <sports.sports_team.roster> "m.0kd6rlf" .
+<Washington_Wizards> <basketball.basketball_team.conference> "Eastern Conference" .
+<Miami_Heat> <sports.sports_team.roster> "m.0n7wv1p" .
+<m.02h7nlr> <sports.sports_league_draft_pick.player> "Dwyane Wade" .
+<m.0114vssh> <sports.sports_team_roster.position> "Small forward" .
+<2011_NBA_Finals> <sports.sports_championship_event.runner_up> "Miami Heat" .
+<m.0y_rbb5> <award.award_nomination.award> "Outstanding Team ESPY Award" .
+<Sid_Rosenberg_Show> <broadcast.content.broadcast> "WMEN" .
+<Micky_Arison> <people.person.employment_history> "m.03x7yry" .
+<m.0yx5jkd> <freebase.valuenotation.has_no_value> "Winning work" .
+<Garrett_Temple> <common.topic.notable_types> "Basketball Player" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Indiana Pacers" .
+<m.0114cv90> <sports.sports_team_roster.position> "Small forward" .
+<P._J._Brown> <sports.pro_athlete.teams> "m.0_qwr_8" .
+<Micky_Arison> <base.schemastaging.person_extra.net_worth> "m.0n4hydj" .
+<m.0j2drpv> <sports.sports_team_roster.player> "Jamaal Magloire" .
+<2011_NBA_Finals> <freebase.valuenotation.is_reviewed> "Location(s)" .
+<Larry_Drew_II> <people.person.nationality> "United States of America" .
+<m.0crtdcs> <sports.sports_league_participation.team> "Boston Celtics" .
+<Micky_Arison> <common.topic.image> "Shari Arison1" .
+<Miami_Heat> <sports.sports_team.roster> "m.0cskfnv" .
+<Micky_Arison> <people.person.parents> "Ted Arison" .
+<m.05n6rd_> <business.employment_tenure.company> "Miami Heat" .
+<2014_NBA_draft> <freebase.valuenotation.is_reviewed> "Start date" .
+<Arison_family> <people.family.country> "United States of America" .
+<Southeast_Division> <common.topic.article> "m.0clj2q" .
+<Miami_Heat> <sports.sports_team.roster> "m.0n9g3hp" .
+<m.0jw9_sn> <common.webpage.resource> "m.0jw9_sj" .
+<Atlanta_Hawks> <sports.sports_team.sport> "Basketball" .
+<Miami_Springs> <location.location.time_zones> "Eastern Time Zone" .
+<Micky_Arison> <business.board_member.leader_of> "m.011361z3" .
+<Florida_Panthers> <common.topic.notable_types> "Professional Sports Team" .
+<m.0ytt7dc> <award.award_nomination.award_nominee> "Miami Heat" .
+<m.0xn56yq> <sports.sports_team_roster.position> "Shooting guard" .
+<Dorell_Wright> <people.person.nationality> "United States of America" .
+<Rashard_Lewis> <sports.pro_athlete.teams> "m.0k2rm2x" .
+<Justin_Hamilton> <people.person.gender> "Male" .
+<m.0114cv90> <sports.sports_team_roster.player> "Luol Deng" .
+<m.0n1lkbq> <education.education.student> "Micky Arison" .
+<Chris_Johnson> <basketball.basketball_player.position_s> "Power forward" .
+<Pat_Riley> <people.person.profession> "Coach" .
+<m.011nf6gq> <sports.sports_team_roster.team> "Miami Heat" .
+<Sports> <type.domain.types> "Mascot" .
+<m.0y_rsz6> <award.award_honor.ceremony> "2013 ESPY Awards" .
+<Wayne_Simien> <people.person.gender> "Male" .
+<Ray_Allen> <common.topic.notable_types> "Basketball Player" .
+<National_Basketball_Association> <sports.sports_league.seasons> "2005–06 NBA season" .
+<Southeast_Division> <basketball.basketball_division.teams> "Washington Wizards" .
+<Juwan_Howard> <people.person.gender> "Male" .
+<2013_Premios_Tu_Mundo> <time.event.locations> "American Airlines Arena" .
+<m.0tl0lpv> <sports.team_venue_relationship.team> "Miami Heat" .
+<Head_coach> <business.job_title.people_with_this_title> "m.05n6rfc" .
+<Arison_family> <people.family.members> "Ted Arison" .
+<m.0z45640> <sports.sports_team_roster.team> "Miami Heat" .
+<Chris_Andersen> <people.person.gender> "Male" .
+<Southeast_Division> <basketball.basketball_division.teams> "Miami Heat" .
+<m.0w6h2mq> <sports.sports_team_roster.position> "Forward-center" .
+<American_Airlines_Arena> <common.topic.image> "AAAMiami" .
+<m.0n9g3hp> <sports.sports_team_roster.position> "Small forward" .
+<Arizona-Cleveland_State_2009_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "American Airlines Arena" .
+<Erik_Spoelstra> <people.person.profession> "Coach" .
+<Basketball_Division> <freebase.type_hints.included_types> "Topic" .
+<Toronto_Raptors> <common.topic.notable_types> "Professional Sports Team" .
+<m.0_y3w7y> <freebase.valuenotation.has_no_value> "To" .
+<Rony_Seikaly> <basketball.basketball_player.position_s> "Center" .
+<Tel_Aviv> <base.biblioness.bibs_location.country> "Israel" .
+<Wayne_Simien> <basketball.basketball_player.position_s> "Power forward" .
+<m.0114q6w7> <freebase.valuenotation.has_no_value> "To" .
+<m.0114cv90> <freebase.valuenotation.has_no_value> "To" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Atlanta Hawks" .
+<Miami_Heat> <award.award_winner.awards_won> "m.0yx5jkd" .
+<Teams_Owned> <type.property.expected_type> "Professional Sports Team" .
+<Evanston> <base.biblioness.bibs_location.country> "United States of America" .
+<Ray_Allen> <sports.pro_athlete.teams> "m.08s4cgk" .
+<m.0114q6w7> <sports.sports_team_roster.player> "Danny Granger" .
+<American_Airlines_Arena> <common.topic.image> "AmericanAirlines Arena" .
+<Brooklyn_Nets> <basketball.basketball_team.division> "Atlantic Division" .
+<Steve_Smith> <people.person.nationality> "United States of America" .
+<m.0crt3jy> <sports.sports_league_participation.team> "Miami Heat" .
+<m.0_qr04p> <freebase.valuenotation.has_no_value> "Ceremony" .
+<m.0r9k6rk> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0yzk2rj> <award.award_nomination.award> "Laureus World Sports Award for Comeback of the Year" .
+<American_Airlines_Arena> <location.location.events> "Latin Grammy Awards of 2003" .
+<m.05n6rdw> <business.employment_tenure.title> "Video Coordinator" .
+<Josh_McRoberts> <people.person.gender> "Male" .
+<Basketball_Division> <freebase.type_profile.kind> "Definition" .
+<Miami_Heat> <business.employer.employees> "m.05n6rfc" .
+<Rodney_Carney> <sports.pro_athlete.teams> "m.0n9g3hp" .
+<2012_NBA_Finals> <freebase.valuenotation.is_reviewed> "End date" .
+<Miami_Heat> <sports.sports_team.championships> "2013 NBA Finals" .
+<m.0_sk1h6> <sports.sports_team_roster.position> "Shooting guard" .
+<2006_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.05ltp_s> <sports.sports_award.award_winner> "Erik Spoelstra" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_South_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Syracuse-Stephen F. Austin 2009 NCAA Men's Division I Basketball Tournament Game" .
+<LeBron_James> <freebase.valuenotation.is_reviewed> "Weight" .
+<2006_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Ted_Arison> <people.person.gender> "Male" .
+<m.03x7ys3> <business.employment_tenure.person> "Micky Arison" .
+<m.011jhydy> <sports.sports_team_roster.position> "Small forward" .
+<Josh_McRoberts> <people.person.nationality> "United States of America" .
+<Arison_family> <common.topic.image> "Shari Arison1" .
+<Miami_Heat> <sports.sports_team.roster> "m.011dgbn_" .
+<Cleveland_Cavaliers> <common.topic.notable_types> "Professional Sports Team" .
+<m.0114vssh> <freebase.valuenotation.has_no_value> "To" .
+<m.0wk4n2r> <people.place_lived.person> "Erik Spoelstra" .
+<Miami_Heat> <sports.sports_team.roster> "m.0j2drpv" .
+<Miami_Marlins> <common.topic.notable_types> "Professional Sports Team" .
+<2012_NBA_Finals> <time.event.instance_of_recurring_event> "The NBA Finals" .
+<Jason_Smith> <basketball.basketball_player.position_s> "Power forward" .
+<2013_ESPY_Awards> <award.award_ceremony.awards_presented> "m.0y_rsz6" .
+<Atlantic_Division> <basketball.basketball_division.teams> "Philadelphia 76ers" .
+<m.0w2rvyx> <sports.sports_team_roster.player> "Myck Kabongo" .
+<National_Basketball_Association> <sports.sports_league.championship> "The NBA Finals" .
+<Isaac_Austin> <common.topic.notable_types> "Basketball Player" .
+<American_Airlines_Arena> <location.location.events> "2012 NBA Finals" .
+<Miami> <base.biblioness.bibs_location.state> "Florida" .
+<Laureus_World_Sports_Award_for_Team_of_the_Year> <award.award_category.nominees> "m.0_spt56" .
+<The_Circus_Tour_Miami,_FL_Concert> <time.event.locations> "American Airlines Arena" .
+<Garrett_Temple> <people.person.gender> "Male" .
+<m.08s4cgk> <sports.sports_team_roster.team> "Miami Heat" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Sports commentator" .
+<Miami_Heat> <sports.sports_team.roster> "m.0j2drnj" .
+<Earl_Barron> <basketball.basketball_player.position_s> "Center" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Talk radio" .
+<Wayne_Simien> <sports.drafted_athlete.drafted> "m.04_nfk2" .
+<Ray_Allen> <people.person.nationality> "United States of America" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Miami Heat" .
+<2012_NBA_Finals> <freebase.valuenotation.is_reviewed> "Location(s)" .
+<Miami_Heat> <award.award_winner.awards_won> "m.0z1xnp9" .
+<Shabazz_Napier> <sports.pro_athlete.teams> "m.0110s94k" .
+<m.0z45640> <sports.sports_team_roster.player> "Steve Smith" .
+<Miami_Heat> <sports.sports_team.roster> "m.0114py7p" .
+<Alonzo_Mourning> <people.person.gender> "Male" .
+<Erik_Spoelstra> <people.person.places_lived> "m.04hg6cp" .
+<m.0y_rbb5> <award.award_nomination.award_nominee> "Miami Heat" .
+<m.0b48ftm> <common.webpage.resource> "Afternoon Roundup: Michael Jackson a Homicide, Coroner Rules; Michael Beasley Twitter Drama; Robin Williams Playing Susan Boyle?" .
+<Miami_Heat> <sports.sports_team.roster> "m.011jhydy" .
+<m.04_ng00> <sports.sports_league_draft_pick.school> "South Kent School" .
+<m.0_y3w7y> <sports.sports_team_roster.position> "Center" .
+<Outstanding_Team_ESPY_Award> <award.award_category.winners> "m.0z1xnp9" .
+<Miami_Springs> <location.hud_county_place.place> "Miami Springs" .
+<m.011nf6gq> <freebase.valuenotation.has_no_value> "To" .
+<m.0j2drst> <sports.sports_team_roster.player> "Shavlik Randolph" .
+<m.02398d8> <freebase.valuenotation.is_reviewed> "Number" .
+<m.011jgsnh> <freebase.valuenotation.has_no_value> "To" .
+<Chicago_Bulls> <basketball.basketball_team.division> "Central Division" .
+<National_Basketball_Association> <organization.organization.child> "m.0ck2ds0" .
+<Miami_Heat> <sports.sports_team.roster> "m.0_5djvh" .
+<Josh_Harrellson> <sports.pro_athlete.teams> "m.0pxml9d" .
+<m.0ck2f0t> <organization.organization_relationship.child> "Central Division" .
+<Sports_Team> <freebase.type_hints.included_types> "Topic" .
+<Robert_Dozier> <people.person.nationality> "United States of America" .
+<James_Ennis> <common.topic.notable_types> "Basketball Player" .
+<Dwyane_Wade> <people.person.nationality> "United States of America" .
+<P._J._Hairston> <sports.drafted_athlete.drafted> "m.0110pv4s" .
+<Miami_Arena> <sports.sports_facility.home_venue_for> "m.0tl0lm4" .
+<American_Airlines_Arena> <location.location.events> "2009 NCAA Men's Division I Basketball Tournament" .
+<2013_ESPY_Awards> <award.award_ceremony.awards_presented> "m.0yx5jkd" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "New York Knicks" .
+<m.0_qr04p> <award.award_honor.award_winner> "Miami Heat" .
+<m.0_qt6cj> <freebase.valuenotation.has_no_value> "Winning work" .
+<m.02398d8> <sports.sports_team_roster.position> "Power forward" .
+<Chris_Andersen> <basketball.basketball_player.position_s> "Center" .
+<Florida> <location.administrative_division.first_level_division_of> "United States of America" .
+<Terrel_Harris> <people.person.nationality> "United States of America" .
+<m.02397wx> <sports.sports_team_roster.position> "Point guard" .
+<m.04_ng00> <sports.sports_league_draft_pick.draft> "2004 NBA draft" .
+<Sherman_Douglas> <people.person.gender> "Male" .
+<Chris_Johnson> <people.person.gender> "Male" .
+<m.0n4lrqy> <sports.sports_team_roster.player> "Eddy Curry" .
+<2014_Laureus_World_Sports_Awards> <freebase.valuenotation.is_reviewed> "Start date" .
+<Sherman_Douglas> <basketball.basketball_player.position_s> "Point guard" .
+<Outstanding_Team_ESPY_Award> <award.award_category.nominees> "m.0y_rbb5" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Orlando Magic" .
+<m.04_nfk2> <sports.sports_league_draft_pick.school> "University of Kansas" .
+<m.079r51_> <sports.sports_team_roster.team> "Miami Heat" .
+<Shannon_Brown> <sports.pro_athlete.teams> "m.011nf6gq" .
+<American_Airlines_Arena> <location.location.events> "2009 NCAA Men's Division I Basketball Tournament - South Regional First Round" .
+<Miami_Heat> <award.award_winner.awards_won> "m.0y_rsz6" .
+<Jamaal_Magloire> <sports.pro_athlete.teams> "m.0j2drpv" .
+<m.0j2ds31> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0z84pjl> <sports.sports_team_roster.position> "Center" .
+<m.0_5djvh> <sports.sports_team_roster.player> "Toney Douglas" .
+<m.0114py7p> <freebase.valuenotation.has_no_value> "To" .
+<Sports> <type.domain.types> "Sports Team" .
+<Micky_Arison> <sports.sports_team_owner.teams_owned> "Miami Heat" .
+<Shavlik_Randolph> <basketball.basketball_player.position_s> "Power forward" .
+<Shabazz_Napier> <basketball.basketball_player.position_s> "Point guard" .
+<American_Airlines_Arena> <location.location.events> "2013 Premios Tu Mundo" .
+<Micky_Arison> <people.person.nationality> "United States of America" .
+<m.0j2t6hs> <basketball.basketball_historical_coach_position.team> "Miami Heat" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<m.0yq00kf> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0114q6w7> <sports.sports_team_roster.position> "Small forward" .
+<m.05n6rf3> <business.employment_tenure.title> "Advance Scout" .
+<m.04fw72v> <sports.sports_team_roster.team> "Miami Heat" .
+<m.05n6rd_> <business.employment_tenure.person> "Erik Spoelstra" .
+<Rashard_Lewis> <basketball.basketball_player.position_s> "Power forward" .
+<Chris_Andersen> <people.person.nationality> "United States of America" .
+<m.0114py7p> <sports.sports_team_roster.position> "Power forward" .
+<Josh_Harrellson> <basketball.basketball_player.position_s> "Center" .
+<Wake_Forest-Cleveland_State_2009_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "American Airlines Arena" .
+<Chicago_Bulls> <sports.sports_team.sport> "Basketball" .
+<2014_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Micky_Arison> <people.person.employment_history> "m.03x09ht" .
+<m.0tl0lm4> <sports.team_venue_relationship.venue> "Miami Arena" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Detroit Pistons" .
+<Boston_Celtics> <sports.sports_team.sport> "Basketball" .
+<Rony_Seikaly> <people.person.nationality> "United States of America" .
+<m.01112tvq> <freebase.valuenotation.has_no_value> "To" .
+<Dorell_Wright> <sports.drafted_athlete.drafted> "m.04_ng00" .
+<m.05n6rd_> <business.employment_tenure.title> "Assistant Coach" .
+<2012_NBA_Finals> <time.event.locations> "American Airlines Arena" .
+<Shawne_Williams> <basketball.basketball_player.position_s> "Power forward" .
+<m.05n5876> <sports.sports_team_roster.player> "Erik Spoelstra" .
+<James_Jones> <basketball.basketball_player.position_s> "Small forward" .
+<Washington_Wizards> <common.topic.notable_types> "Professional Sports Team" .
+<m.02h7nlr> <sports.sports_league_draft_pick.team> "Miami Heat" .
+<Shane_Battier> <people.person.nationality> "United States of America" .
+<Roger_Mason,_Jr.> <basketball.basketball_player.position_s> "Small forward" .
+<Reggie_Williams> <basketball.basketball_player.position_s> "Small forward" .
+<m.0n7wv0t> <sports.sports_team_roster.player> "Robert Dozier" .
+<Best_Game_ESPY_Award> <award.award_category.winners> "m.0yx5jkd" .
+<2005_NBA_draft> <sports.sports_league_draft.picks> "m.04_nfk2" .
+<m.0110s94k> <freebase.valuenotation.has_no_value> "To" .
+<m.0j2drv0> <sports.sports_team_roster.position> "Small forward" .
+<2014_Laureus_World_Sports_Awards> <award.award_ceremony.nominees> "m.0_spt56" .
+<Miami_Heat> <sports.sports_team.roster> "m.0_y3w7y" .
+<Shari_Arison1> <common.image.appears_in_topic_gallery> "Micky Arison" .
+<American_Airlines_Arena> <location.location.events> "2009 NCAA Men's Division I Basketball Tournament - Midwest Regional Second Round" .
+<Southeast_Division> <common.topic.notable_for> "g.1258dczw6" .
+<m.0b491sw> <common.webpage.in_index> "WSJ Speakeasy Index" .
+<Draft_Picks> <rdf-schema#domain> "Professional Sports Team" .
+<Cleveland_Cavaliers> <basketball.basketball_team.conference> "Eastern Conference" .
+<2011–12_NBA_season> <sports.sports_league_season.league> "National Basketball Association" .
+<Miami_Heat> <sports.professional_sports_team.draft_picks> "m.02h7nlr" .
+<Miami_Heat> <award.award_nominee.award_nominations> "m.0z1xmzt" .
+<m.0b491sw> <common.webpage.topic> "Miami Heat" .
+<Southeast_Division> <basketball.basketball_division.conference> "Eastern Conference" .
+<Roger_Mason,_Jr.> <people.person.gender> "Male" .
+<Miami_Heat> <common.topic.notable_for> "g.125dkxbjc" .
+<m.04fw72v> <sports.sports_team_roster.player> "Shaquille O'Neal" .
+<Keyon_Dooling> <people.person.gender> "Male" .
+<Dorell_Wright> <common.topic.notable_types> "Basketball Player" .
+<Arison_family> <people.family.members> "Micky Arison" .
+<American_Airlines_Arena> <location.location.events> "UFC 42" .
+<Toney_Douglas> <people.person.nationality> "United States of America" .
+<Ray_Allen> <people.person.gender> "Male" .
+<m.09xjjnh> <common.webpage.topic> "Eastern Conference" .
+<Jason_Smith> <basketball.basketball_player.position_s> "Center" .
+<Udonis_Haslem> <people.person.gender> "Male" .
+<2011–12_NBA_season> <sports.sports_league_season.championship> "2012 NBA Finals" .
+<m.04_bxx9> <sports.sports_league_draft_pick.draft> "2008 NBA draft" .
+<Miami_Heat> <sports.sports_team.league> "m.0crt3jy" .
+<Chicago_Bulls> <common.topic.notable_types> "Professional Sports Team" .
+<Shawne_Williams> <people.person.gender> "Male" .
+<m.0tl0lpv> <freebase.valuenotation.has_no_value> "To" .
+<2013_NBA_Finals> <freebase.valuenotation.is_reviewed> "Start date" .
+<m.0j2drv0> <sports.sports_team_roster.player> "Shane Battier" .
+<120px-Miami_Heat_logo.png> <common.image.appears_in_topic_gallery> "Miami Heat" .
+<Miami_Heat> <sports.sports_team.roster> "m.0j2ds31" .
+<Basketball> <sports.sport.positions> "Point guard" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament_-_South_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Arizona State-Temple 2009 NCAA Men's Division I Basketball Tournament Game" .
+<Premio_Lo_Nuestro_2013> <time.event.locations> "American Airlines Arena" .
+<Dexter_Pittman> <people.person.nationality> "United States of America" .
+<American_Airlines_Arena> <location.location.events> "Premio Lo Nuestro 2013" .
+<2013_NBA_Finals> <time.event.locations> "AT&T Center" .
+<Robert_Dozier> <basketball.basketball_player.position_s> "Power forward" .
+<Miami_Heat> <sports.sports_team.roster> "m.0yq00kf" .
+<P._J._Hairston> <people.person.nationality> "United States of America" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Florida Sports" .
+<James_Jones> <people.person.gender> "Male" .
+<m.0_qx45g> <sports.sports_team_roster.team> "Miami Heat" .
+<m.0q_4v0f> <sports.sports_team_roster.player> "Dexter Pittman" .
+<Southeast_Division> <basketball.basketball_division.teams> "Atlanta Hawks" .
+<Miami_Heat> <sports.sports_team.roster> "m.02397wx" .
+<Yakhouba_Diawara> <common.topic.notable_types> "Basketball Player" .
+<Miami_Heat> <base.ontologies.ontology_instance.equivalent_instances> "m.09kmjnl" .
+<2012_NBA_Finals> <freebase.valuenotation.is_reviewed> "Start date" .
+<m.05lts83> <people.place_lived.location> "Miami" .
+<Norris_Cole> <people.person.nationality> "United States of America" .
+<Miami_Springs> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<San_Antonio_Spurs> <sports.sports_team.arena_stadium> "AT&T Center" .
+<Toney_Douglas> <sports.pro_athlete.teams> "m.0_5djvh" .
+<Norris_Cole> <common.topic.notable_types> "Basketball Player" .
+<Shannon_Brown> <basketball.basketball_player.position_s> "Shooting guard" .
+<Orlando_Magic> <basketball.basketball_team.conference> "Eastern Conference" .
+<Atlantic_Division> <organization.organization.parent> "m.0ck2f0m" .
+<Miami_Springs> <location.location.containedby> "Miami-Dade County" .
+<2014_NBA_Finals> <freebase.valuenotation.is_reviewed> "Location(s)" .
+<Miami_Heat> <award.award_nominee.award_nominations> "m.0_spt56" .
+<Professional_Sports_Team> <type.type.expected_by> "Teams Owned" .
+<m.05lt7zm> <education.education.student> "Erik Spoelstra" .
+<m.05n6rfc> <business.employment_tenure.person> "Erik Spoelstra" .
+<m.0j2drmn> <sports.sports_team_roster.player> "Chris Bosh" .
+<m.03x09hm> <business.employment_tenure.company> "Carnival Corporation & plc" .
+<Juwan_Howard> <people.person.nationality> "United States of America" .
+<AT&T_Center> <location.location.events> "2014 NBA Finals" .
+<m.0w_g57t> <freebase.valuenotation.is_reviewed> "Team" .
+<Roger_Mason,_Jr.> <basketball.basketball_player.position_s> "Shooting guard" .
+<James_Jones> <people.person.nationality> "United States of America" .
+<Steve_Smith> <people.person.gender> "Male" .
+<Yakhouba_Diawara> <basketball.basketball_player.position_s> "Shooting guard" .
+<Erik_Spoelstra> <people.person.parents> "Elisa Celino" .
+<Shari_Arison1> <common.image.appears_in_topic_gallery> "Arison family" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Charlotte Hornets" .
+<Miami_Springs> <location.location.containedby> "Florida" .
+<m.0z84pjl> <sports.sports_team_roster.team> "Miami Heat" .
+<m.02398d8> <freebase.valuenotation.is_reviewed> "Player" .
+<American_Airlines_Arena> <location.location.events> "2014 NBA Finals" .
+<LeBron_James> <basketball.basketball_player.position_s> "Power forward" .
+<m.05_g6f6> <business.sponsorship.sponsored_recipient> "American Airlines Arena" .
+<Arizona_State-Syracuse_2009_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "2009 NCAA Men's Division I Basketball Tournament - South Regional Second Round" .
+<2014_NBA_Finals> <freebase.valuenotation.is_reviewed> "End date" .
+<2009_NCAA_Men's_Division_I_Basketball_Tournament> <common.topic.notable_types> "Sports League Championship Event" .
+<Miami_Heat> <award.award_winner.awards_won> "m.0_qr4qg" .
+<Shavlik_Randolph> <sports.pro_athlete.teams> "m.0j2drst" .
+<Central_Division> <basketball.basketball_division.teams> "Detroit Pistons" .
+<Ray_Allen> <basketball.basketball_player.position_s> "Shooting guard" .
+<m.0_spt56> <award.award_nomination.award_nominee> "Miami Heat" .
+<Juwan_Howard> <sports.pro_athlete.teams> "m.0r9k6rk" .
+<Boston_Celtics> <basketball.basketball_team.conference> "Eastern Conference" .
+<m.0114py7p> <freebase.valuenotation.has_value> "Number" .
+<Khem_Birch> <common.topic.notable_types> "Basketball Player" .
+<LeBron_James> <basketball.basketball_player.position_s> "Small forward" .

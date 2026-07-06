@@ -1,0 +1,1329 @@
+<Mascot> <type.type.expected_by> "sports_team_mascot" .
+<m.0_y32g5> <sports.sports_team_roster.team> "Boston Celtics" .
+<1976_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<1956_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0qzlbgy" .
+<Los_Angeles_Lakers> <base.schemastaging.organization_extra.phone_number> "m.010bg0vv" .
+<Sports_League_Championship_Event> <type.type.expected_by> "Championship" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0w7q4pg" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j2gklv" .
+<m.0_qxxr_> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<2002_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.09yfwgp> <common.webpage.topic> "Los Angeles Lakers" .
+<Byron_Scott> <sports.sports_team_coach.teams_coached> "m.011cjmbm" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.04_byx8" .
+<Events> <rdf-schema#range> "Sports League Championship Event" .
+<2011_NBA_Finals> <time.event.instance_of_recurring_event> "The NBA Finals" .
+<Boston_Celtics> <tv.tv_actor.guest_roles> "m.0gh_3bj" .
+<m.030qgnd> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "2000 NBA Finals" .
+<m.0wz1_wj> <sports.team_venue_relationship.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0z3tkwb" .
+<m.030qh4w> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.0w6404h> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0z45nr1" .
+<m.0pd51gh> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0110w4h7" .
+<m.030qgpl> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.0110q448" .
+<Sports_League_Championship> <freebase.type_hints.included_types> "Topic" .
+<Sports_League_Championship_Event> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0z3ztq1" .
+<1974_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0kr0lft> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qxt49" .
+<m.030qgv0> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.030qh1f> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Team_Mascot> <owl#inverseOf> "Team" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j2gmr7" .
+<The_NBA_Finals> <freebase.valuenotation.is_reviewed> "Date of first occurrence" .
+<Sports_League_Championship> <freebase.type_profile.strict_included_types> "Topic" .
+<Byron_Scott> <basketball.basketball_coach.team> "Los Angeles Lakers" .
+<m.0lb4yqk> <sports.team_venue_relationship.venue> "Staples Center" .
+<Boston_Celtics> <tv.tv_actor.guest_roles> "m.0ghyxcc" .
+<m.0110w4h7> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Eastern_Conference> <sports.sports_league.teams> "m.0crtdcs" .
+<m.0wp8ltr> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0k8h69v" .
+<m.0z3zm63> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdd_" .
+<m.0k8hh28> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0115f60_> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0wb745r" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.owner_s> "Jerry Buss" .
+<m.0sw5h8g> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0w2s9yt> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.championships> "1957 NBA Finals" .
+<m.0crtdcs> <sports.sports_league_participation.team> "Boston Celtics" .
+<m.0z45nr1> <sports.sports_team_roster.player> "Byron Scott" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0wccc30" .
+<2014_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0j_98d6> <business.company_name_change.company> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.051r7g2" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.08s4c7s" .
+<Team_Mascot> <type.property.reverse_property> "Team" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdfp" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.05gp0fp" .
+<Boston_Celtics> <sports.sports_team.roster> "m.011y25qz" .
+<m.0113xbxb> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<2007_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<The_NBA_Finals> <sports.sports_championship.events> "1990 NBA Finals" .
+<m.0crt3dd> <sports.sports_league_participation.league> "National Basketball Association" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdhr" .
+<1969_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Boston_Celtics> <tv.tv_subject.tv_episodes> "1976 NBA Finals Game 6" .
+<Sports_League_Season> <freebase.type_hints.included_types> "Event" .
+<1959_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0r62b6w" .
+<National_Basketball_Association> <sports.sports_league.championship> "The NBA Finals" .
+<m.0cr2khn> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<1970_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "1948 NBL Finals" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdh1" .
+<m.0j2k_nb> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0kjrh8t" .
+<m.0w_jqnb> <sports.team_venue_relationship.venue> "TD Garden" .
+<The_NBA_Finals> <sports.sports_championship.events> "2014 NBA Finals" .
+<m.0ztw1_3> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0110p_t3> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<Professional_Sports_Team> <freebase.type_profile.strict_included_types> "Topic" .
+<The_NBA_Finals> <sports.sports_championship.events> "2005 NBA Finals" .
+<2002_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.051r7g2> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Mascot> <type.type.expected_by> "Team Mascot" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0_y32g5" .
+<1996_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0n4hh_3> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <tv.tv_actor.guest_roles> "m.0gh_ptn" .
+<Los_Angeles_Lakers> <basketball.basketball_team.previous_coaches> "m.0q2cp48" .
+<The_NBA_Finals> <sports.sports_championship.events> "1953 NBA Finals" .
+<Los_Angeles_Lakers> <business.employer.employees> "m.0pd1rqz" .
+<1973_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.venue> "m.0lb4yqt" .
+<m.0_qxq69> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0wb6zc8" .
+<m.030qdfp> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Lucky_the_Leprechaun> <common.topic.image> "Lucky-The-Leprechaun.jpg" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdgc" .
+<Boston> <location.hud_county_place.place> "Boston" .
+<The_NBA_Finals> <time.recurring_event.instances> "2011 NBA Finals" .
+<m.0q2cp48> <basketball.basketball_historical_coach_position.team> "Los Angeles Lakers" .
+<m.0w3_qv3> <sports.sports_team_coach_tenure.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.02nqx8b" .
+<Boston_Celtics> <sports.sports_team.roster> "m.051r766" .
+<m.0sgp5_l> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<m.030qdhd> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.coaches> "m.0nch_ms" .
+<The_NBA_Finals> <sports.sports_championship.events> "1954 NBA Finals" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qxt_d" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgtb" .
+<m.0ztygd7> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0_qxv1m" .
+<m.0bhcryc> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <business.employer.employees> "m.030qlmh" .
+<Los_Angeles_Lakers> <base.schemastaging.organization_extra.contact_webpages> "m.010bfd5j" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.05ssdh2" .
+<Events> <type.property.reverse_property> "Championship" .
+<Boston_Celtics> <tv.tv_actor.guest_roles> "m.0gj1wvs" .
+<Boston_Celtics> <common.topic.notable_types> "Professional Sports Team" .
+<2012_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0_r3p_7> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0n8hs6f" .
+<Los_Angeles_Lakers> <base.ontologies.ontology_instance.equivalent_instances> "m.09kmjvw" .
+<Atlantic_Division> <basketball.basketball_division.conference> "Eastern Conference" .
+<m.0z45nr1> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Lucky-The-Leprechaun.jpg> <common.image.size> "m.0kksz7" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0sxfyw9" .
+<m.0cr2kf4> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<m.0k5jgfm> <sports.sports_team_roster.team> "Boston Celtics" .
+<1973_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<m.011w_f9t> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.championships> "1974 NBA Finals" .
+<m.030qgwd> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <common.topic.webpage> "m.09wdcm7" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.01141hcl" .
+<m.0115xf8p> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qxwwl" .
+<m.05hy04s> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0_qwylx> <award.award_honor.award_winner> "Boston Celtics" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qg__" .
+<Lucky-The-Leprechaun.jpg> <common.image.appears_in_topic_gallery> "Lucky the Leprechaun" .
+<m.0_qw7bc> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qh2w" .
+<1951_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0wz1_wj> <sports.team_venue_relationship.venue> "XL Center" .
+<m.0n60lgf> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "1980 NBA Finals" .
+<m.04_ng0n> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<The_NBA_Finals> <sports.sports_championship.events> "2006 NBA Finals" .
+<2004_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<m.02nqxf1> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<m.0z46x2b> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<1985_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<The_NBA_Finals> <sports.sports_championship.events> "1964 NBA Finals" .
+<1950_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.030qjbl> <business.employment_tenure.company> "Los Angeles Lakers" .
+<1971_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.04_ngyc" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0k8hcr4" .
+<Boston_Celtics> <sports.sports_team.championships> "1968 NBA Finals" .
+<m.04_byx8> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<1986_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<1996_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0nch_n2> <sports.sports_team_coach_tenure.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kcw" .
+<Basketball> <organization.organization_sector.organizations_in_this_sector> "National Basketball Association" .
+<The_NBA_Finals> <sports.sports_championship.events> "1960 NBA Finals" .
+<2010_NBA_Finals> <sports.sports_championship_event.runner_up> "Boston Celtics" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgnt" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0113xbxb" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.04fw72l" .
+<1984_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<Team> <rdf-schema#domain> "Mascot" .
+<m.011x6hjb> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.04gcfpm" .
+<2010_NBA_Finals> <sports.sports_championship_event.season> "2009–10 NBA season" .
+<Los_Angeles_Lakers> <sports.sports_team.coaches> "m.0nch_n2" .
+<Sports_League_Championship_Event> <freebase.type_profile.strict_included_types> "Topic" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qxxr_" .
+<The_NBA_Finals> <common.topic.webpage> "m.09wdc12" .
+<Boston_Celtics> <sports.sports_team.championships> "1962 NBA Finals" .
+<1949_BAA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Boston_Celtics> <sports.sports_team.roster> "m.04mt_wf" .
+<The_NBA_Finals> <sports.sports_championship.events> "1973 NBA Finals" .
+<m.05sskzh> <business.employment_tenure.company> "Boston Celtics" .
+<Sports> <type.domain.types> "Sports League Championship Event" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0k2pqbc" .
+<m.0n60lxj> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <common.topic.article> "m.0jmkk" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "2002 NBA Finals" .
+<Sports_League_Season> <type.type.domain> "Sports" .
+<m.030qj9k> <business.employment_tenure.company> "Los Angeles Lakers" .
+<m.0_qysl7> <sports.sports_team_roster.team> "Boston Celtics" .
+<2009–10_NBA_season> <sports.sports_league_season.championship> "2010 NBA Finals" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qrhnt" .
+<m.0wkhw5q> <business.employment_tenure.company> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0wct5kg" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0n60lgf" .
+<Boston_Celtics> <tv.tv_subject.tv_episodes> "1974 NBA Finals Game 7" .
+<Los_Angeles_Lakers> <sports.sports_team.colors> "Gold" .
+<m.0kr0mnb> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0w310mt> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <organization.organization.headquarters> "m.0ng_lzq" .
+<2009–10_NBA_season> <common.topic.image> "Jordan Lipofsky" .
+<The_NBA_Finals> <common.topic.webpage> "m.09w74wk" .
+<The_NBA_Finals> <sports.sports_championship.events> "1963 NBA Finals" .
+<1980_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <business.employer.employees> "m.030qjdb" .
+<m.0n9gs9q> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0w7bdcp" .
+<m.0nchvs_> <basketball.basketball_historical_coach_position.team> "Los Angeles Lakers" .
+<m.0j2gtp7> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0w7psvt> <sports.sports_team_roster.team> "Boston Celtics" .
+<2013_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0wb6zc8> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0t_jmw1> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.011cjmbm> <sports.sports_team_coach_tenure.coach> "Byron Scott" .
+<1970_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Byron_Scott> <sports.pro_athlete.teams> "m.0z45nr1" .
+<The_NBA_Finals> <common.topic.webpage> "m.09wzs_4" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0115xf8p" .
+<m.04mv48t> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<1982_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.05cghnb> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Mascot> <freebase.documented_object.documentation> "m.02ht4bx" .
+<m.0_qrhnt> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<m.0y4l8_m> <sports.sports_award.team> "Los Angeles Lakers" .
+<m.0_6y7kr> <sports.sports_team_roster.team> "Boston Celtics" .
+<2014_NBA_Finals> <time.event.instance_of_recurring_event> "The NBA Finals" .
+<m.064jl9m> <base.popstra.support.supported_organization> "Los Angeles Lakers" .
+<2006_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j2gtg9" .
+<Los_Angeles_Lakers> <business.employer.employees> "m.0kbx9hz" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0w7pb_7" .
+<m.0_qwy6n> <award.award_honor.award_winner> "Boston Celtics" .
+<The_NBA_Finals> <common.topic.article> "m.03m5xb" .
+<m.0_qrm59> <award.award_honor.award_winner> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j2gtfv" .
+<Boston_Celtics> <sports.sports_team.league> "m.0crtdcs" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0z46419" .
+<Boston_Celtics> <tv.tv_actor.guest_roles> "m.0gh_mx7" .
+<Eastern_Conference> <basketball.basketball_conference.league> "National Basketball Association" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "1953 NBA Finals" .
+<1969_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<1960_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <common.topic.notable_types> "Professional Sports Team" .
+<m.0_qwb4x> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<Boston_Celtics> <basketball.basketball_team.previous_coaches> "m.0w2j6hy" .
+<Event> <freebase.type_hints.included_types> "Topic" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "2010 NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0zrjpfv" .
+<1976_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.01145k7g" .
+<1987_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0w7dhrf> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.030qgtb> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Lucky_the_Leprechaun> <common.topic.notable_types> "Mascot" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0114zmkl" .
+<180px-Los_Angeles_Lakers_logo.png> <common.image.appears_in_topic_gallery> "Los Angeles Lakers" .
+<m.0z43nms> <award.award_nomination.award_nominee> "Boston Celtics" .
+<m.07ng6g6> <base.ontologies.ontology_instance_mapping.freebase_topic> "Boston Celtics" .
+<m.030qdgq> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgyv" .
+<The_NBA_Finals> <sports.sports_championship.events> "2012 NBA Finals" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdg0" .
+<The_NBA_Finals> <sports.sports_championship.events> "1985 NBA Finals" .
+<m.04_ngzc> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<m.030qgvq> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<2005_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0w8gv2l" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qh0d" .
+<Boston_Celtics> <base.ontologies.ontology_instance.equivalent_instances> "m.07ng6g6" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0n7wd_q" .
+<1991_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.030qh12> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.0_r3qgm> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <tv.tv_subject.tv_programs> "NBA Finals" .
+<National_Basketball_Association> <sports.sports_league.teams> "m.0crt3dd" .
+<The_NBA_Finals> <sports.sports_championship.events> "1982 NBA Finals" .
+<Los_Angeles_Lakers> <common.topic.webpage> "m.04223yb" .
+<m.0x0sm17> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<1962_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<m.064jkw1> <base.popstra.support.supported_organization> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "1982 NBA Finals" .
+<m.0k2plv9> <sports.sports_team_roster.team> "Boston Celtics" .
+<1972_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.04d1zj6> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<m.0zrjpfv> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Championships> <rdf-schema#range> "Sports League Championship Event" .
+<m.0w2xnk1> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<1948_BAA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<2008_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<m.0_qxqsb> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "1987 NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0kr0lft" .
+<m.0z46m0q> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0_4wx6j" .
+<1960_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<1950_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "1972 NBA Finals" .
+<m.0j2dtm7> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <basketball.basketball_team.conference> "Western Conference" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0_qz5yn" .
+<Boston_Celtics> <tv.tv_subject.tv_episodes> "1976 NBA Finals Game 5" .
+<m.0w8gv2l> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0gh_mx7> <tv.tv_guest_role.actor> "Boston Celtics" .
+<Boston_Celtics> <tv.tv_subject.tv_episodes> "1976 NBA Finals Game 3" .
+<The_NBA_Finals> <sports.sports_championship.events> "2009 NBA Finals" .
+<m.011wnnb1> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<2009–10_NBA_season> <sports.sports_league_season.awards> "m.0_qrm1m" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.04_ng0n" .
+<1991_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0z3zm63" .
+<m.08s4c7s> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.011x6hjb" .
+<m.0j31td5> <sports.sports_award.season> "2009–10 NBA season" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qxqdw" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qxx3x" .
+<Events> <owl#inverseOf> "Championship" .
+<m.011y3d1_> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.011wy9q6" .
+<m.0r62b6w> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgsn" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0_qydl1" .
+<m.02nqxgf> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.04mv48t" .
+<The_NBA_Finals> <sports.sports_championship.events> "1956 NBA Finals" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0_c3znb" .
+<Sports> <type.domain.types> "Mascot" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qw4bv" .
+<Sports_League_Season> <freebase.type_profile.strict_included_types> "Event" .
+<m.030qgxm> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qwyjd" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0110t5pm" .
+<m.0cr2jqf> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.0z43nq2> <award.award_honor.award_winner> "Boston Celtics" .
+<Championships> <type.property.master_property> "Champion" .
+<m.0zv1l6n> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0zw_ktw> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.arena_stadium> "TD Garden" .
+<2000_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.02nqx4h" .
+<m.0n9hc4f> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "2013 NBA Finals" .
+<m.011wy9q6> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0yw7b_r" .
+<1993_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<1983_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0z44dnl" .
+<The_NBA_Finals> <sports.sports_championship.events> "1948 BAA Finals" .
+<Brad_Stevens> <sports.sports_team_coach.sports_coached> "Basketball" .
+<Brad_Stevens> <sports.sports_team_coach.teams_coached> "m.0w3_qv3" .
+<m.030qdjf> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j2gtfp" .
+<The_NBA_Finals> <sports.sports_championship.events> "1965 NBA Finals" .
+<m.0ywwrmg> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<1954_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<1985_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Boston_Celtics> <sports.sports_team.championships> "1966 NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0n4hh_3" .
+<m.0z3tkxf> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<m.01145k7g> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0sgp9ml> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<TD_Garden> <sports.sports_facility.home_venue_for> "m.0w_jqnb" .
+<m.0_qz5yn> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <organization.organization.leadership> "m.010gj7my" .
+<2011_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0sgp0_r> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "2001 NBA Finals" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0sgp0_r" .
+<m.08tngmb> <sports.sports_team_roster.team> "Boston Celtics" .
+<The_NBA_Finals> <sports.sports_championship.events> "1998 NBA Finals" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0n60lxj" .
+<Staples_Center> <travel.tourist_attraction.near_travel_destination> "Los Angeles" .
+<1983_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "1950 NBA Finals" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qg_1" .
+<The_NBA_Finals> <common.topic.notable_types> "Sports League Championship" .
+<m.0ghyxcc> <tv.tv_guest_role.actor> "Boston Celtics" .
+<Boston_Celtics> <tv.tv_subject.tv_episodes> "1974 NBA Finals Game 6" .
+<m.0ztyzr5> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0fq7jy2> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0_5vznw> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.030qgvc> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qwy6n" .
+<m.0cr2kfx> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.sport> "Basketball" .
+<m.0_qrm1m> <sports.sports_award.season> "2009–10 NBA season" .
+<m.030qh2j> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.0ghqdhf> <tv.tv_guest_role.actor> "Boston Celtics" .
+<1947_BAA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Boston_Celtics> <tv.tv_subject.tv_episodes> "1976 NBA Finals Game 1" .
+<Boston_Celtics> <basketball.basketball_team.division> "Atlantic Division" .
+<2008_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<1981_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0_qwxvg> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <basketball.basketball_team.division> "Pacific Division" .
+<2009–10_NBA_season> <sports.sports_league_season.awards> "m.0y4l8_m" .
+<m.030qgtp> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2khn" .
+<1947_BAA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0w7pb_7> <sports.sports_team_roster.team> "Boston Celtics" .
+<1987_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.04g31k3" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0w7qk0x" .
+<The_NBA_Finals> <sports.sports_championship.events> "1989 NBA Finals" .
+<1969_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<m.0n4nbfr> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<2013_NBA_Finals> <time.event.instance_of_recurring_event> "The NBA Finals" .
+<Boston_Celtics> <sports.sports_team.roster> "m.08tngmb" .
+<Los_Angeles_Lakers> <organization.organization.phone_number> "m.0ng_m3l" .
+<2009–10_NBA_season> <common.topic.article> "m.05zwpx2" .
+<m.0n4hsdz> <sports.sports_team_roster.team> "Boston Celtics" .
+<The_NBA_Finals> <sports.sports_championship.events> "1984 NBA Finals" .
+<Los_Angeles_Lakers> <common.topic.webpage> "m.09yfwgp" .
+<Los_Angeles> <sports.sports_team_location.teams> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0_qysl7" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qxq69" .
+<Sports_League_Championship_Event> <type.type.properties> "Championship" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgvc" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgvq" .
+<Lucky_the_Leprechaun> <common.topic.article> "m.0jvt57q" .
+<1976_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgwd" .
+<Sports_League_Championship_Event> <type.type.properties> "Champion" .
+<2010_NBA_Finals> <common.topic.notable_for> "g.1256_nyyl" .
+<1984_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<1949_BAA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "2008 NBA Finals" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0r5ds1t" .
+<1969_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0sgp9qt" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0j2dths" .
+<m.030qgwr> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Pacific_Division> <basketball.basketball_division.teams> "Los Angeles Lakers" .
+<m.0_qwy8c> <award.award_honor.award_winner> "Boston Celtics" .
+<Mascot> <freebase.type_profile.strict_included_types> "Topic" .
+<1957_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<1982_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<1980_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0k8hkhn" .
+<Basketball> <sports.sport.team_coaches> "Brad Stevens" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.04mv48j" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdk3" .
+<Boston_Celtics> <sports.professional_sports_team.owner_s> "Wyc Grousbeck" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0sgp_7m" .
+<m.0_qwxb8> <award.award_honor.award_winner> "Boston Celtics" .
+<1965_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0z43hm7> <award.award_nomination.award_nominee> "Boston Celtics" .
+<Los_Angeles_Lakers> <business.employer.employees> "m.030rdvc" .
+<m.0_qxtb9> <award.award_honor.award_winner> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0kt8y52" .
+<m.02397wj> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <tv.tv_subject.tv_episodes> "1974 NBA Finals Game 2" .
+<m.09wzszy> <common.webpage.topic> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgtp" .
+<2006_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.011cjmbm> <sports.sports_team_coach_tenure.team> "Los Angeles Lakers" .
+<Sports> <type.domain.types> "Sports League Season" .
+<1979_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qwxvg" .
+<The_NBA_Finals> <sports.sports_championship.events> "1987 NBA Finals" .
+<Sports_League_Season> <type.type.properties> "Championship" .
+<Los_Angeles_Lakers> <basketball.basketball_team.previous_coaches> "m.0q2cp40" .
+<The_NBA_Finals> <sports.sports_championship.league> "National Basketball Association" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0z46x2b" .
+<m.0n4pnkt> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0j2gkc0> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0jn5jml> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.coaches> "m.0w1g5hx" .
+<XL_Center> <sports.sports_facility.home_venue_for> "m.0wz1_wj" .
+<m.030qh25> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.030qdg0> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0113ztjw" .
+<m.0z44dnl> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0kq8zyx" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qw7bc" .
+<1999_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Sports_League_Championship> <freebase.type_profile.published> "Published" .
+<m.030qdd_> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0z5k297" .
+<2014_NBA_Finals> <freebase.valuenotation.is_reviewed> "Result" .
+<m.0n5ffdf> <sports.sports_team_coach_tenure.team> "Los Angeles Lakers" .
+<1994_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qh45" .
+<m.0_qz6j0> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.030qgyv> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0w7cx25" .
+<1952_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<m.0z46cvj> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j2gtp7" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qwy8c" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0113ywh7" .
+<Events> <type.property.schema> "Sports League Championship" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "1949 BAA Finals" .
+<1975_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0sgp1ds" .
+<m.0_qrckh> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0jlstl7" .
+<m.0crt3dd> <sports.sports_league_participation.team> "Los Angeles Lakers" .
+<m.0_qy714> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0j2dtm2" .
+<The_NBA_Finals> <base.popstra.business_location.customer> "m.064wg_z" .
+<2003_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0lb4yr2> <sports.team_venue_relationship.team> "Los Angeles Lakers" .
+<m.0_qw4bv> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<Sports_League_Season> <freebase.type_profile.strict_included_types> "Topic" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdj2" .
+<m.0k8h69v> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0y4l8_m> <sports.sports_award.season> "2009–10 NBA season" .
+<Event> <freebase.type_profile.strict_included_types> "Topic" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0sgpjyp" .
+<Boston_Celtics> <tv.tv_actor.guest_roles> "m.0ghxhg7" .
+<The_NBA_Finals> <sports.sports_championship.events> "1961 NBA Finals" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgxm" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.011wgt8r" .
+<2013_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<1961_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0pd51c6" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "1985 NBA Finals" .
+<m.030r3bf> <business.employment_tenure.company> "Los Angeles Lakers" .
+<m.030qh0r> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "1983 NBA Finals" .
+<The_NBA_Finals> <sports.sports_championship.events> "1959 NBA Finals" .
+<1962_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0n9gsbf" .
+<Boston_Celtics> <sports.sports_team.championships> "1969 NBA Finals" .
+<2001_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<2010_NBA_Finals> <common.topic.article> "m.0bx_x89" .
+<m.0b4992q> <common.webpage.topic> "The NBA Finals" .
+<m.0crt3m_> <sports.sports_league_participation.league> "National Basketball Association" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0j2qrz4" .
+<m.0zv1g8b> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <business.employer.employees> "m.05ssc8d" .
+<1965_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0j2dtm7" .
+<m.0lb4yqk> <sports.team_venue_relationship.team> "Los Angeles Lakers" .
+<m.030qh3j> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<1988_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Sid_Hartman> <organization.organization_founder.organizations_founded> "Los Angeles Lakers" .
+<m.05sskzy> <business.employment_tenure.company> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0sgrygv" .
+<The_NBA_Finals> <sports.sports_championship.events> "1996 NBA Finals" .
+<1959_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<m.011y25qz> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0z4tlyt> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0ztw1_3" .
+<The_NBA_Finals> <sports.sports_championship.events> "1979 NBA Finals" .
+<2004_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Sports_League_Championship> <type.type.properties> "Events" .
+<2000_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<1952_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<1958_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Jerry_Buss> <sports.sports_team_owner.teams_owned> "Los Angeles Lakers" .
+<m.030qgxz> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.0j2qrz4> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <basketball.basketball_team.head_coach> "Brad Stevens" .
+<m.09wytr4> <common.webpage.topic> "The NBA Finals" .
+<m.0z46419> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0ztz0ph" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0k8hh28" .
+<Los_Angeles_Lakers> <basketball.basketball_team.previous_coaches> "m.0nchvs_" .
+<m.04gcfpm> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.010gj7my> <organization.leadership.organization> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0bhcryc" .
+<m.04g31k3> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<m.04_nf_j> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<m.0_qz550> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0wyr_sv" .
+<The_NBA_Finals> <sports.sports_championship.events> "1968 NBA Finals" .
+<m.0m5fxyx> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0_qwmq0> <award.award_honor.award_winner> "Boston Celtics" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qh12" .
+<180px-Los_Angeles_Lakers_logo.png> <common.image.image_tags> "Basketball" .
+<Sports_League_Championship> <type.type.domain> "Sports" .
+<1971_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<1997_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0jn5jml" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.04d1zj6" .
+<m.0wyr_sv> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Lucky_the_Leprechaun> <sports.mascot.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.01148mlh" .
+<The_NBA_Finals> <sports.sports_championship.events> "2004 NBA Finals" .
+<The_NBA_Finals> <sports.sports_championship.events> "1962 NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "2009 NBA Finals" .
+<Boston_Celtics> <sports.sports_team.championships> "1986 NBA Finals" .
+<m.010g06sf> <sports.sports_team_coach_tenure.team> "Los Angeles Lakers" .
+<Sports_League_Championship_Event> <freebase.type_hints.included_types> "Topic" .
+<2009_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.05ssdk5" .
+<m.09wzxjq> <common.webpage.topic> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0z43hm7" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0j2dtf_" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0z3_6c4" .
+<1983_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0w3wn11> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<m.0_qxv1m> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.championships> "1964 NBA Finals" .
+<m.09wzs_4> <common.webpage.topic> "The NBA Finals" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0z85g2w" .
+<Mascot> <freebase.type_profile.published> "Published" .
+<m.0n7wd_q> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0w7bdcp> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <tv.tv_subject.tv_episodes> "1974 NBA Finals Game 5" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0k2plv9" .
+<m.064hlt1> <base.popstra.support.supported_organization> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.championships> "1963 NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0_qyvf1" .
+<1966_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0ztvp5j" .
+<m.04fw72l> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "2010 NBA Finals" .
+<1980_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0_qxhyf> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<2012_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<The_NBA_Finals> <sports.sports_championship.events> "1997 NBA Finals" .
+<m.05t791y> <business.employment_tenure.company> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0j2dtls" .
+<m.0jlstl7> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <freebase.valuenotation.is_reviewed> "Current frequency" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0kr0v2_" .
+<1984_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Boston_Celtics> <business.employer.employees> "m.05t791y" .
+<The_NBA_Finals> <common.topic.notable_for> "g.1254y3jh4" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qxwv_" .
+<Mascot> <common.topic.article> "m.02ht4bx" .
+<1968_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0m5fxyx" .
+<m.030qdfb> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "1970 NBA Finals" .
+<m.02nqx4h> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<m.0crtdcs> <sports.sports_league_participation.league> "Eastern Conference" .
+<m.09wdc12> <common.webpage.topic> "The NBA Finals" .
+<m.0110pz2r> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0_qxwwl> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<m.05ssc8d> <business.employment_tenure.company> "Boston Celtics" .
+<Boston_Celtics> <common.topic.webpage> "m.04228m4" .
+<The_NBA_Finals> <common.topic.webpage> "m.09wytr4" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.05hy1fr" .
+<The_NBA_Finals> <sports.sports_championship.events> "1972 NBA Finals" .
+<m.0sgpjyp> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <common.topic.webpage> "m.09wzxjq" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0w310mt" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j2gtf_" .
+<2014_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<1951_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0k2_4y3" .
+<Boston_Celtics> <sports.sports_team.roster> "m.05yr4cz" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0k5jgfm" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0115f60_" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.02nqxf1" .
+<Los_Angeles_Lakers> <sports.sports_team.coaches> "m.0n5ffdf" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qh25" .
+<1968_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0z82vm0> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<Boston_Celtics> <award.award_nominee.award_nominations> "m.0z43nms" .
+<m.04_ng10> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdjf" .
+<m.0wccc30> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.030qlmh> <business.employment_tenure.company> "Los Angeles Lakers" .
+<Mascot> <freebase.type_profile.equivalent_topic> "Mascot" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0k5y550" .
+<Boston_Celtics> <sports.sports_team.roster> "m.011w_f9t" .
+<1986_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.0cr2jqp" .
+<m.0_c3znb> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.030qh4j> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<1987_NBA_Finals> <sports.sports_championship_event.runner_up> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.coaches> "m.0w3_qv3" .
+<Boston_Celtics> <sports.sports_team.championships> "1976 NBA Finals" .
+<m.09wytqj> <common.webpage.topic> "Los Angeles Lakers" .
+<Eastern_Conference> <basketball.basketball_conference.teams> "Boston Celtics" .
+<1993_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<1984_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<2005_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Team> <type.property.master_property> "Team Mascot" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qh1s" .
+<m.0z43hm7> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<Boston_Celtics> <tv.tv_subject.tv_episodes> "1974 NBA Finals Game 3" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.04_ngyw" .
+<m.0_qwmkb> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<m.0w7cx25> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.coaches> "m.011cjmbm" .
+<Los_Angeles> <travel.travel_destination.tourist_attractions> "Staples Center" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qh2j" .
+<Sports_League_Championship> <freebase.type_profile.strict_included_types> "Abstract" .
+<m.0w7q4pg> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0j2gklv> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.030qgrw> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.0k6bgj5> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0w7psvt" .
+<m.0j2gtfj> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Sports_League_Championship_Event> <freebase.type_profile.published> "Published" .
+<Los_Angeles_Lakers> <business.employer.employees> "m.030qjbl" .
+<m.04_nfhq> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<Sports_League_Championship_Event> <type.type.properties> "Runner-up" .
+<1965_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<m.01148mlh> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.04_bzkp> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0j2dzwh" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qh0r" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0ndtw33" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0sgp9ml" .
+<1989_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<m.0cr2l07> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <common.topic.article> "m.0bwjv" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0z4403l" .
+<1961_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<2004_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0j2gtf_> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0w2xnk1" .
+<Boston_Celtics> <sports.sports_team.roster> "m.011y3d1_" .
+<Boston_Celtics> <sports.sports_team.team_mascot> "Lucky the Leprechaun" .
+<1991_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.02397wj" .
+<m.0sgp1ds> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.location> "Los Angeles" .
+<Mascot> <freebase.type_profile.kind> "Title" .
+<m.0_qxwv_> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<m.0r5drlp> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0kbx9hz> <business.employment_tenure.company> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0ywwrmg" .
+<Event> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0zv1l6n" .
+<m.02397dj> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<2010_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0j2dzwh> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0z82vjy" .
+<Los_Angeles_Lakers> <common.topic.image> "180px-Los Angeles Lakers logo.png" .
+<m.0cr2kdt> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<1974_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<1998_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0t_jmw1" .
+<m.0k2_4y3> <sports.sports_team_roster.team> "Boston Celtics" .
+<The_NBA_Finals> <sports.sports_championship.events> "1957 NBA Finals" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdhd" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0fq7jy2" .
+<m.0cr2kgy> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qwmq0" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qxt5p" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0n4hr_g" .
+<Sports_League_Championship_Event> <type.type.expected_by> "Championships" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0zw_ktw" .
+<m.0j2gtfp> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Professional_Sports_Team> <freebase.type_hints.included_types> "Topic" .
+<Mascot> <freebase.type_hints.included_types> "Topic" .
+<1986_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0w6404h" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.04_ng0s" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0n4pnkt" .
+<Sports_League_Championship_Event> <type.type.expected_by> "sports_undefined" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.0w3wn11" .
+<Eastern_Conference> <basketball.basketball_conference.divisions> "Atlantic Division" .
+<m.0z462y1> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0z5g4mw> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "2011 NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0_qyxq2" .
+<The_NBA_Finals> <sports.sports_championship.events> "2002 NBA Finals" .
+<m.05ssdk5> <sports.sports_team_roster.team> "Boston Celtics" .
+<1995_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<2014_NBA_Finals> <freebase.valuenotation.is_reviewed> "Runner-up" .
+<Boston_Celtics> <sports.sports_team.roster> "m.05hy04s" .
+<The_NBA_Finals> <sports.sports_championship.events> "1971 NBA Finals" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0n9gs9q" .
+<m.0gcl47r> <film.personal_film_appearance.person> "Boston Celtics" .
+<The_NBA_Finals> <sports.sports_championship.events> "2003 NBA Finals" .
+<Los_Angeles_Lakers> <business.employer.employees> "m.0wl71r2" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0pd6p3b" .
+<1961_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<The_NBA_Finals> <sports.sports_championship.events> "1995 NBA Finals" .
+<Sports_League_Championship_Event> <freebase.type_profile.strict_included_types> "Abstract" .
+<m.09kmjvw> <base.ontologies.ontology_instance_mapping.freebase_topic> "Los Angeles Lakers" .
+<1966_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <organization.organization.founders> "Morris Chalfen" .
+<1964_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<1952_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.league> "m.0crt3dd" .
+<m.030qgs_> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kh5" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0k6bgj5" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0j2n1tp" .
+<1950_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0n7wf5h> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston> <sports.sports_team_location.teams> "Boston Celtics" .
+<Sports_League_Championship_Event> <freebase.type_profile.kind> "Description" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qxwv5" .
+<m.0nch_ms> <sports.sports_team_coach_tenure.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.venue> "m.0wz1_wj" .
+<Los_Angeles_Lakers> <base.popstra.organization.supporter> "m.064jkw1" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qwmkb" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qwms8" .
+<National_Basketball_Association> <organization.organization.sectors> "Basketball" .
+<m.0ndtw33> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0cr2jqf> <basketball.basketball_team_stats.season> "2009–10 NBA season" .
+<The_NBA_Finals> <sports.sports_championship.events> "1949 BAA Finals" .
+<The_NBA_Finals> <time.recurring_event.instances> "2014 NBA Finals" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kg9" .
+<m.0w1g5hx> <sports.sports_team_coach_tenure.team> "Boston Celtics" .
+<m.0qzlbgy> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kck" .
+<Boston_Celtics> <film.person_or_entity_appearing_in_film.films> "m.0gcl47r" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0z3_ck4" .
+<Atlantic_Division> <basketball.basketball_division.teams> "Boston Celtics" .
+<Boston_Celtics> <tv.tv_actor.guest_roles> "m.0ghq5d9" .
+<The_NBA_Finals> <sports.sports_championship.events> "1947 BAA Finals" .
+<2010_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<m.030qdk3> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Sports_League_Championship_Event> <freebase.type_hints.included_types> "Event" .
+<Boston_Celtics> <sports.sports_team.championships> "1981 NBA Finals" .
+<1972_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.030qdhr> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<TD_Garden> <location.location.containedby> "Boston" .
+<m.030r368> <business.employment_tenure.company> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "1999 NBA Finals" .
+<Boston_Celtics> <sports.sports_team.colors> "Black" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0r5drlp" .
+<1963_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0cr2jqp> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0n7wf5h" .
+<The_NBA_Finals> <time.recurring_event.instances> "2013 NBA Finals" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.04_nfhq" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kdg" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0239714" .
+<1959_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<The_NBA_Finals> <sports.sports_championship.events> "1978 NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0kr0mnb" .
+<The_NBA_Finals> <sports.sports_championship.events> "1974 NBA Finals" .
+<1965_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.04g311r" .
+<m.0n4hr_g> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0113ztjw> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qxt92" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0z5g4mw" .
+<m.0ghq5d9> <tv.tv_guest_role.actor> "Boston Celtics" .
+<m.02396wx> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgqf" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qwpgd" .
+<1958_NBA_Finals> <sports.sports_championship_event.runner_up> "Boston Celtics" .
+<Lucky_the_Leprechaun> <common.topic.notable_for> "g.1257jmbbb" .
+<m.0k2sqk2> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0j2dtly> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.colors> "Purple" .
+<m.0cr2kgn> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "1977 NBA Finals" .
+<Brad_Stevens> <basketball.basketball_coach.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.04_ngzc" .
+<m.0gj1wvs> <tv.tv_guest_role.actor> "Boston Celtics" .
+<Los_Angeles_Lakers> <basketball.basketball_team.head_coach> "Byron Scott" .
+<m.0239714> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgwr" .
+<The_NBA_Finals> <sports.sports_championship.events> "1975 NBA Finals" .
+<Sports_League_Championship_Event> <type.type.properties> "Result" .
+<m.0gh_ptn> <tv.tv_guest_role.actor> "Boston Celtics" .
+<The_NBA_Finals> <sports.sports_championship.events> "1950 NBA Finals" .
+<m.0j2n1tp> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.04_ngyc> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<2009_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.04_ng10" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0z462y1" .
+<m.030rdvc> <business.employment_tenure.company> "Los Angeles Lakers" .
+<m.0gh_3bj> <tv.tv_guest_role.actor> "Boston Celtics" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdfb" .
+<m.0_hh874> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.05yr4cz> <sports.sports_team_roster.team> "Boston Celtics" .
+<1990_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kfd" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0_qxftc" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0j2h1r8" .
+<2008_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0z4403l> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0_th72d" .
+<Jerry_Buss> <people.deceased_person.place_of_death> "Los Angeles" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0n4hs8t" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qwb4x" .
+<m.0kt8y52> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0w_jqnb> <sports.team_venue_relationship.team> "Boston Celtics" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.04_bzhk" .
+<Morris_Chalfen> <organization.organization_founder.organizations_founded> "Los Angeles Lakers" .
+<Staples_Center> <sports.sports_facility.home_venue_for> "m.0lb4yqk" .
+<National_Basketball_Association> <sports.sports_league.seasons> "2009–10 NBA season" .
+<m.0_qybpp> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<1975_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0_qwyjd> <award.award_honor.award_winner> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.02nqxgf" .
+<Event> <freebase.type_profile.published> "Published" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0z3rhgb" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0j2dtmd" .
+<1962_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qwylx" .
+<Los_Angeles_Lakers> <sports.sports_team.colors> "White" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.0cr2jqf" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qwmkw" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "2000 NBA Finals" .
+<m.0_qwx1_> <award.award_honor.award_winner> "Boston Celtics" .
+<1948_NBL_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<2003_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <base.popstra.organization.supporter> "m.064vwrv" .
+<m.0cr2kfd> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <time.recurring_event.current_frequency> "Yearly" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qh3j" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0_qz550" .
+<The_NBA_Finals> <sports.sports_championship.events> "1992 NBA Finals" .
+<2009–10_NBA_season> <sports.sports_league_season.league> "National Basketball Association" .
+<The_NBA_Finals> <sports.sports_championship.events> "1991 NBA Finals" .
+<m.0kr0v2_> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kd6" .
+<m.0ztvp5j> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0z3ztq1> <sports.sports_team_roster.team> "Boston Celtics" .
+<1957_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.030qh0d> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <common.topic.webpage> "m.0b4992q" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "2001 NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.venue> "m.0lb4yr2" .
+<1981_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<1992_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.05gp0fp> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.030qgnt> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.0cr2kck> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<m.0y4sbmz> <sports.sports_award.season> "2009–10 NBA season" .
+<The_NBA_Finals> <sports.sports_championship.events> "1967 NBA Finals" .
+<The_NBA_Finals> <time.recurring_event.instances> "2012 NBA Finals" .
+<m.0_qwykr> <award.award_honor.award_winner> "Boston Celtics" .
+<Sports_League_Championship> <type.type.expected_by> "Championship" .
+<Boston_Celtics> <sports.sports_team.colors> "Buff" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j2gkc0" .
+<Team_Mascot> <type.property.expected_type> "Mascot" .
+<Boston_Celtics> <sports.sports_team.colors> "Green" .
+<m.0113ywh7> <sports.sports_team_roster.team> "Boston Celtics" .
+<2002_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qrm59" .
+<m.0cr2kg9> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<Western_Conference> <basketball.basketball_conference.league> "National Basketball Association" .
+<TD_Garden> <sports.sports_facility.teams> "Boston Celtics" .
+<Sports_League_Season> <freebase.type_hints.included_types> "Topic" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0n4nbfr" .
+<The_NBA_Finals> <common.topic.webpage> "m.09wddf9" .
+<m.04g311r> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Staples_Center> <sports.sports_facility.teams> "Los Angeles Lakers" .
+<Boston_Celtics> <tv.tv_subject.tv_episodes> "1976 NBA Finals Game 2" .
+<1955_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0lb4yqt> <sports.team_venue_relationship.team> "Los Angeles Lakers" .
+<m.011cmy66> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<m.0j2h1w7> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j2k_nb" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0zv066w" .
+<m.0j2dtm2> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.03h95d7> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0_qxt_d> <award.award_honor.award_winner> "Boston Celtics" .
+<1959_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<1953_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0zv1g8b" .
+<Boston_Celtics> <sports.sports_team.arena_stadium> "XL Center" .
+<m.0j2dtls> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0_6y7kr" .
+<1987_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <base.popstra.organization.supporter> "m.064jl9m" .
+<1985_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<m.011wgt8r> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "1988 NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0z46m0q" .
+<1967_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qxqsb" .
+<m.0z3tkwb> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<m.0n823d1> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0j2h1r8> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <award.award_nominee.award_nominations> "m.0z43hm7" .
+<m.0q2cp40> <basketball.basketball_historical_coach_position.team> "Los Angeles Lakers" .
+<m.0_qyxq2> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0kq8zyx> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.04_nfgq> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<1966_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qwx1_" .
+<m.0jk015f> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<1982_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0_qwms8> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<1985_NBA_Finals> <sports.sports_championship_event.runner_up> "Boston Celtics" .
+<m.0_th72d> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.030qdj2> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.0k8hkhn> <sports.sports_team_roster.team> "Boston Celtics" .
+<Sports_League_Championship> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<1957_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<The_NBA_Finals> <sports.sports_championship.events> "1966 NBA Finals" .
+<1948_BAA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0n4hsdz" .
+<m.0pd6p3b> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "2007 NBA Finals" .
+<m.0sxfyw9> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <common.topic.webpage> "m.09wytqj" .
+<1967_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0110t5pm> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "1969 NBA Finals" .
+<The_NBA_Finals> <sports.sports_championship.events> "1988 NBA Finals" .
+<m.010g06hl> <basketball.basketball_historical_coach_position.team> "Los Angeles Lakers" .
+<m.0r5ds1t> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.04_ngyw> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<2009–10_NBA_season> <sports.sports_league_season.awards> "m.0j31td5" .
+<Boston> <base.biblioness.bibs_topic.subsumes> "Boston" .
+<Sports> <type.domain.types> "Professional Sports Team" .
+<Boston> <travel.travel_destination.tourist_attractions> "TD Garden" .
+<m.0z3rhgb> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgs9" .
+<m.0k2pqbc> <sports.sports_team_roster.team> "Boston Celtics" .
+<The_NBA_Finals> <sports.sports_championship.events> "1993 NBA Finals" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0_qz6j0" .
+<1979_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.05cghnb" .
+<m.0j2gmr7> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.030qgw1> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.064vwrv> <base.popstra.support.supported_organization> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "1986 NBA Finals" .
+<1981_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<1963_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<Mascot> <type.type.domain> "Sports" .
+<Boston_Celtics> <sports.sports_team.championships> "2008 NBA Finals" .
+<1998_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgxz" .
+<1977_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0110pz2r" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.02nqx59" .
+<Jordan_Lipofsky> <common.image.appears_in_topic_gallery> "2009–10 NBA season" .
+<m.0114zmkl> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0k8hcr4> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0k5y550> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.04_bzkp" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0_r3p_7" .
+<m.04_ng0s> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<Sports> <type.domain.types> "Sports League Championship" .
+<m.030qh45> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0k2pdrr" .
+<m.0h6lfnd> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.championships> "1984 NBA Finals" .
+<1963_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0jvt57q> <common.document.content> "m.0jvt57f" .
+<National_Basketball_Association> <sports.sports_league.teams> "m.0crt3m_" .
+<Boston_Celtics> <business.employer.employees> "m.05sskzh" .
+<m.010_3zfk> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0_qwmkw> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<m.02nqx59> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "1952 NBA Finals" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qxt8j" .
+<Boston_Celtics> <sports.sports_team.championships> "1960 NBA Finals" .
+<m.0z82vjy> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<1949_BAA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Ben_Berger> <organization.organization_founder.organizations_founded> "Los Angeles Lakers" .
+<m.0z3_ck4> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0_r3qgm" .
+<m.0_qxftc> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0_qxx3x> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<m.0j2gtg9> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<1994_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0w2s9yt" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0z9z7kp" .
+<m.05hy1fr> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<m.0ztw1qz> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0_qy714" .
+<m.051r766> <sports.sports_team_roster.team> "Boston Celtics" .
+<1989_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0cr2kfn> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<1999_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<1964_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<2009_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<2001_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qh4w" .
+<1954_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <business.employer.employees> "m.030r3bf" .
+<m.0zv066w> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0z5k297> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.030qdjs> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Staples_Center> <location.location.containedby> "Los Angeles" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.04_nfgq" .
+<m.0j5fs5z> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0n8hq68> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.011wnnb1" .
+<1953_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qwykr" .
+<m.0110yf9m> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0cr2l07" .
+<m.0_qxqdw> <award.award_honor.award_winner> "Boston Celtics" .
+<The_NBA_Finals> <sports.sports_championship.events> "1955 NBA Finals" .
+<m.0ghxhg7> <tv.tv_guest_role.actor> "Boston Celtics" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdjs" .
+<m.0_qxt5p> <award.award_honor.award_winner> "Boston Celtics" .
+<The_NBA_Finals> <freebase.valuenotation.has_no_value> "Date of final occurrence" .
+<Boston_Celtics> <award.award_nominee.award_nominations> "m.0yx5c6w" .
+<m.0sgp612> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<The_NBA_Finals> <sports.sports_championship.events> "1958 NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.coaches> "m.010g06sf" .
+<Sports_League_Championship_Event> <type.type.domain> "Sports" .
+<m.0sgp_7m> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<1955_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <common.topic.webpage> "m.09wzszy" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0ztw1qz" .
+<Los_Angeles> <location.hud_county_place.place> "Los Angeles" .
+<Western_Conference> <basketball.basketball_conference.divisions> "Pacific Division" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0z4tlyt" .
+<m.011w_hdh> <sports.sports_team_roster.team> "Boston Celtics" .
+<Events> <rdf-schema#domain> "Sports League Championship" .
+<m.0j2dtf_> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0n823d1" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kdt" .
+<Los_Angeles_Lakers> <organization.organization.founders> "Sid Hartman" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qwxb8" .
+<m.030qh1s> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j2h1w7" .
+<Boston_Celtics> <sports.sports_team.championships> "1965 NBA Finals" .
+<Sports_League_Season> <freebase.type_profile.published> "Published" .
+<Sports_League_Championship_Event> <type.type.expected_by> "Events" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0lthf4p" .
+<m.0j2gtg4> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Championships> <type.property.expected_type> "Sports League Championship Event" .
+<m.04mt_wf> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.04228m4> <common.webpage.topic> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.sport> "Basketball" .
+<m.0wb745r> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0sgp9qt> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<1968_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<Sports_League_Season> <type.type.expected_by> "Season" .
+<Team> <type.property.schema> "Mascot" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgs_" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0wzb6gc" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0z82vm0" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0z43nq2" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.011cmy66" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgnd" .
+<1989_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Boston_Celtics> <sports.sports_team.championships> "1959 NBA Finals" .
+<m.0n4hs8t> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0_qxt8j> <award.award_honor.award_winner> "Boston Celtics" .
+<m.0n9gsbf> <sports.sports_team_roster.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.011w_hdh" .
+<m.0z3_6c4> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.02397dj" .
+<m.0j2gtfv> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.0wl71r2> <business.employment_tenure.company> "Los Angeles Lakers" .
+<2009–10_NBA_season> <common.topic.notable_for> "g.1258bjxwr" .
+<m.0z85g2w> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <common.topic.webpage> "m.09wbbn7" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0n8hq68" .
+<Boston_Celtics> <sports.sports_team.roster> "m.02396wx" .
+<m.0cr2kcw> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.04_nf_j" .
+<m.030qjdb> <business.employment_tenure.company> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgv0" .
+<m.0n8hs6f> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<2010_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<1958_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Team_Mascot> <rdf-schema#range> "Mascot" .
+<NBA_Finals> <tv.tv_program.subjects> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.championships> "1961 NBA Finals" .
+<The_NBA_Finals> <sports.sports_championship.events> "1976 NBA Finals" .
+<m.02nqx8b> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<XL_Center> <sports.sports_facility.teams> "Boston Celtics" .
+<Wyc_Grousbeck> <sports.sports_team_owner.teams_owned> "Boston Celtics" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qdgq" .
+<Los_Angeles_Lakers> <organization.organization.previous_names> "m.0j_98d6" .
+<m.0sgrygv> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.01141hcl> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<2011_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<The_NBA_Finals> <sports.sports_championship.events> "1980 NBA Finals" .
+<Los_Angeles_Lakers> <basketball.basketball_team.previous_coaches> "m.010g06hl" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qh1f" .
+<1973_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <sports.sports_team.arena_stadium> "Staples Center" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0z46cvj" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0pd51gh" .
+<Boston_Celtics> <award.award_winner.awards_won> "m.0_qxtb9" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0j2dtly" .
+<m.0_qyvf1> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<1953_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<m.0z45_rs> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0x0sm17" .
+<m.0kjrh8t> <sports.sports_team_roster.team> "Boston Celtics" .
+<1992_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Boston_Celtics> <basketball.basketball_team.conference> "Eastern Conference" .
+<m.030qgqf> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<1978_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0_qxt92> <award.award_honor.award_winner> "Boston Celtics" .
+<1972_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<m.030qg_1> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<2009–10_NBA_season> <common.topic.notable_types> "Sports League Season" .
+<m.064wg_z> <base.popstra.hangout.business_location> "The NBA Finals" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0_qybpp" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0_qxhyf" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0z3tkxf" .
+<Los_Angeles_Lakers> <organization.organization.founders> "Ben Berger" .
+<Boston_Celtics> <business.employer.employees> "m.0wkhw5q" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j2gtg4" .
+<1954_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<2008_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0jk015f" .
+<Boston_Celtics> <sports.sports_team.location> "Boston" .
+<The_NBA_Finals> <sports.sports_championship.events> "1951 NBA Finals" .
+<The_NBA_Finals> <sports.sports_championship.events> "1952 NBA Finals" .
+<Boston> <base.biblioness.bibs_topic.is_really> "Boston" .
+<m.0ztz0ph> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.0z9z7kp> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<m.09w74wk> <common.webpage.topic> "The NBA Finals" .
+<1974_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<1977_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0j2dtlm> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <business.employer.employees> "m.030r368" .
+<m.0_qwpgd> <award.award_honor.award_winner> "Boston Celtics" .
+<m.0j2dths> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0n9hc4f" .
+<m.0pd1rqz> <business.employment_tenure.company> "Los Angeles Lakers" .
+<m.0w7qk0x> <sports.sports_team_roster.team> "Boston Celtics" .
+<1964_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kfx" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.010_3zfk" .
+<m.030qdgc> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0ztyzr5" .
+<1988_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0pd51c6> <sports.sports_team_roster.team> "Boston Celtics" .
+<1997_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<m.0_4wx6j> <sports.sports_team_roster.team> "Boston Celtics" .
+<m.030qg__> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Boston_Celtics> <tv.tv_subject.tv_episodes> "1976 NBA Finals Game 4" .
+<m.0cr2kd6> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgpl" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgrw" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j5fs5z" .
+<Western_Conference> <basketball.basketball_conference.teams> "Los Angeles Lakers" .
+<Boston_Celtics> <common.topic.notable_for> "g.125dcb2tv" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0h6lfnd" .
+<1995_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<2014_NBA_Finals> <freebase.valuenotation.is_reviewed> "Championship" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0sw5h8g" .
+<Los_Angeles_Lakers> <sports.sports_team.venue> "m.0lb4yqk" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kgy" .
+<2014_NBA_Finals> <freebase.valuenotation.is_reviewed> "Champion" .
+<1978_NBA_Finals> <common.topic.notable_types> "Sports League Championship Event" .
+<Boston_Celtics> <sports.sports_team.roster> "m.03h95d7" .
+<m.0yx5c6w> <award.award_nomination.award_nominee> "Boston Celtics" .
+<TD_Garden> <travel.tourist_attraction.near_travel_destination> "Boston" .
+<m.030qgsn> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.0j2dtmd> <sports.sports_team_roster.team> "Boston Celtics" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qh4j" .
+<2000_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<1970_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<2012_NBA_Finals> <time.event.instance_of_recurring_event> "The NBA Finals" .
+<Professional_Sports_Team> <type.type.domain> "Sports" .
+<1962_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Boston_Celtics> <tv.tv_actor.guest_roles> "m.0ghqdhf" .
+<Pacific_Division> <basketball.basketball_division.conference> "Western Conference" .
+<The_NBA_Finals> <sports.sports_championship.events> "1994 NBA Finals" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0r91kbr" .
+<m.030qgzq> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<m.0crt3m_> <sports.sports_league_participation.team> "Boston Celtics" .
+<m.030qgs9> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0w7dhrf" .
+<m.0cr2kh5> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <base.popstra.organization.supporter> "m.064hlt1" .
+<m.0r91kbr> <sports.sports_team_roster.team> "Boston Celtics" .
+<1963_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<m.09wdcm7> <common.webpage.topic> "The NBA Finals" .
+<m.0wzb6gc> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<m.04mv48j> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.colors> "White" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0_5vznw" .
+<Boston_Celtics> <sports.sports_team.venue> "m.0w_jqnb" .
+<m.0lthf4p> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<1990_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Sports_League_Championship_Event> <type.type.properties> "Season" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgzq" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0z45_rs" .
+<m.0k2pdrr> <sports.sports_team_roster.team> "Boston Celtics" .
+<1966_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kfn" .
+<m.04_bzhk> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<m.0110q448> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<Boston_Celtics> <business.employer.employees> "m.05sskzy" .
+<1956_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<1948_NBL_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<Sports_League_Championship_Event> <common.topic.article> "m.02_xg_3" .
+<m.0yw7b_r> <award.award_nomination.award_nominee> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0_hh874" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0wp8ltr" .
+<2007_NBA_Finals> <sports.sports_championship_event.championship> "The NBA Finals" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0sgp5_l" .
+<The_NBA_Finals> <sports.sports_championship.events> "1981 NBA Finals" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kgn" .
+<m.0w2j6hy> <basketball.basketball_historical_coach_position.team> "Boston Celtics" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0j2dtlm" .
+<m.0cr2kdg> <sports.sports_league_draft_pick.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <basketball.basketball_team.team_stats> "m.030qgw1" .
+<Boston_Celtics> <sports.sports_team.league> "m.0crt3m_" .
+<Los_Angeles_Lakers> <award.award_winner.awards_won> "m.0_qrckh" .
+<1988_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<m.09wddf9> <common.webpage.topic> "The NBA Finals" .
+<2001_NBA_Finals> <sports.sports_championship_event.champion> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <common.topic.notable_for> "g.1255jk0tf" .
+<m.04223yb> <common.webpage.topic> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0110yf9m" .
+<m.030qdh1> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<2009–10_NBA_season> <sports.sports_league_season.awards> "m.0y4sbmz" .
+<m.05ssdh2> <sports.sports_league_draft_pick.team> "Boston Celtics" .
+<1968_NBA_Finals> <sports.sports_championship_event.runner_up> "Los Angeles Lakers" .
+<m.030qh2w> <basketball.basketball_team_stats.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.championships> "1954 NBA Finals" .
+<Los_Angeles_Lakers> <sports.professional_sports_team.draft_picks> "m.0cr2kf4" .
+<Events> <type.property.expected_type> "Sports League Championship Event" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0j2gtfj" .
+<m.0_qxwv5> <award.award_honor.award_winner> "Los Angeles Lakers" .
+<m.0w3_qv3> <sports.sports_team_coach_tenure.coach> "Brad Stevens" .
+<m.0wct5kg> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Los_Angeles_Lakers> <sports.sports_team.roster> "m.0k2sqk2" .
+<Sports_League_Championship_Event> <freebase.type_profile.strict_included_types> "Event" .
+<2014_NBA_Finals> <freebase.valuenotation.is_reviewed> "Season" .
+<Mascot> <type.type.properties> "Team" .
+<m.0_qxt49> <award.award_honor.award_winner> "Boston Celtics" .
+<Los_Angeles_Lakers> <business.employer.employees> "m.030qj9k" .
+<m.0_qydl1> <sports.sports_team_roster.team> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.colors> "Gold" .
+<National_Basketball_Association> <sports.sports_league.sport> "Basketball" .
+<1960_NBA_Finals> <sports.sports_championship_event.champion> "Boston Celtics" .
+<Boston_Celtics> <sports.professional_sports_team.draft_picks> "m.0110p_t3" .
+<m.09wbbn7> <common.webpage.topic> "Los Angeles Lakers" .
+<Boston_Celtics> <sports.sports_team.roster> "m.0ztygd7" .
+<Los_Angeles_Lakers> <award.award_nominee.award_nominations> "m.0sgp612" .

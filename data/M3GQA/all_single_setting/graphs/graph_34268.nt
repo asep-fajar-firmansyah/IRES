@@ -1,0 +1,1892 @@
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h5200" .
+<Sherrill> <common.topic.notable_types> "City/Town/Village" .
+<m.06_3x9p> <location.mailing_address.state_province_region> "New York" .
+<Oneida_County> <location.us_county.hud_county_place> "Yorkville" .
+<m.0jvm41z> <common.webpage.topic> "Saint Elizabeth Medical Center School of Radiography" .
+<Observer-Dispatch> <common.topic.article> "m.0cskx7" .
+<Mohawk_Valley_Community_College-Utica_Branch> <location.location.containedby> "United States of America" .
+<Mohawk_Valley_Community_College> <education.educational_institution.campuses> "Mohawk Valley Community College" .
+<Eastern_Time_Zone> <common.topic.notable_for> "g.125bn2wcf" .
+<Waterbury> <location.hud_county_place.place> "Waterbury" .
+<Airport> <freebase.type_hints.included_types> "Location" .
+<Syracuse> <common.topic.notable_types> "City/Town/Village" .
+<Vernon> <location.hud_county_place.place> "Vernon" .
+<Springfield> <base.biblioness.bibs_location.country> "United States of America" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<Oneida_County> <location.location.containedby> "Utica-Rome, NY Metropolitan Statistical Area" .
+<m.0cnp43v> <location.mailing_address.citytown> "Utica" .
+<Utica_Public_Library> <library.public_library.address> "m.0jfn04h" .
+<Area_code_315> <common.topic.notable_types> "Area code" .
+<Saint_Elizabeth_College_of_Nursing> <education.university.domestic_tuition> "m.0k7dz8s" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Ames" .
+<Oneida_County> <location.location.time_zones> "UTC−05:00" .
+<Utica> <location.location.contains> "Rutger-Steuben Park Historic District" .
+<Gen._John_G._Weaver_House> <architecture.structure.architectural_style> "Federal architecture" .
+<Observer-Dispatch> <common.topic.notable_for> "g.1259xsrcx" .
+<Uptown_Theatre> <common.topic.notable_types> "Venue" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Herkimer_County> <location.location.adjoin_s> "m.03jqhnq" .
+<Prospect> <location.location.containedby> "New York" .
+<New_York_City> <base.biblioness.bibs_topic.subsumes> "New York City" .
+<Utica> <location.statistical_region.population> "m.0jtcy6m" .
+<Sherrill> <location.hud_county_place.place> "Sherrill" .
+<Wichita> <common.topic.notable_types> "City/Town/Village" .
+<Newspaper> <freebase.type_profile.strict_included_types> "Topic" .
+<First_Baptist_Church_of_Deerfield> <location.location.containedby> "Utica" .
+<m.07042pm> <location.mailing_address.state_province_region> "New York" .
+<Oneida_County> <location.statistical_region.population> "g.11x1lm2y4" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<Utica> <location.statistical_region.population> "g.11x1cctp9" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0lw" .
+<Tampa> <location.location.events> "One More from the Road Tour" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <education.university.number_of_undergraduates> "m.0k7hd26" .
+<Griffiss_International_Airport> <common.topic.notable_types> "Airport" .
+<Stanley_Theater> <common.topic.notable_types> "Theater" .
+<Pensacola> <common.topic.notable_types> "City/Town/Village" .
+<Lewiston> <location.location.containedby> "United States of America" .
+<Oneida_County> <location.statistical_region.population> "m.066hqkz" .
+<Oneida_County> <location.statistical_region.population> "m.066hqkl" .
+<Oneida_Castle> <location.location.containedby> "New York" .
+<Utica> <location.hud_county_place.place> "Utica" .
+<Utica_Memorial_Auditorium> <common.topic.notable_for> "g.12564h_w9" .
+<Stanley_Theater> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.070435l" .
+<Oneida_County> <location.location.nearby_airports> "Griffiss International Airport" .
+<Stephen_Moulton_Babcock> <people.person.place_of_birth> "Oneida County" .
+<SUNY_Polytechnic_Institute> <education.educational_institution.students_graduates> "m.012fvf7f" .
+<Millar-Wheeler_House> <location.location.containedby> "Utica" .
+<University_of_Denver_Arena> <location.location.events> "One More from the Road Tour" .
+<Utica> <location.location.contains> "Union Station" .
+<2014_Boilermaker_Road_Race> <common.topic.notable_types> "Competition" .
+<m.0j_vsb4> <location.mailing_address.citytown> "Utica" .
+<Memorial_Church_of_the_Holy_Cross> <architecture.structure.architectural_style> "Gothic architecture" .
+<m.040gm7c> <common.webpage.topic> "Utica College" .
+<Knebworth_House> <architecture.structure.architectural_style> "Gothic Revival architecture" .
+<Yorkville> <location.hud_county_place.place> "Yorkville" .
+<13502> <location.postal_code.country> "United States of America" .
+<Macon> <location.hud_county_place.place> "Macon" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Seattle" .
+<Ithaca> <location.location.time_zones> "Eastern Time Zone" .
+<Milwaukee> <location.hud_county_place.place> "Milwaukee" .
+<Utica_College> <base.schemastaging.non_profit_extra.classification> "Undergraduate College (4-year)" .
+<m.07d_wl9> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0jq93yk> <location.mailing_address.postal_code> "13501" .
+<Utica_College> <location.location.containedby> "Utica" .
+<Event> <type.type.properties> "Start date" .
+<Utica_Psychiatric_Center> <common.topic.image> "UticaStateHospital center December2007" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Birmingham" .
+<South_Yarmouth> <location.location.events> "One More from the Road Tour" .
+<m.0hls13d> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Tampa> <location.location.containedby> "United States of America" .
+<Philip_Hooker> <architecture.architect.structures_designed> "Roscoe Conkling House" .
+<Oneida_County> <location.statistical_region.population> "g.12b01zlsm" .
+<Oneida_County> <location.statistical_region.population> "m.066hqhq" .
+<Oneida_County> <location.statistical_region.population> "g.11x1jztn0" .
+<Grace_Church> <architecture.structure.architect> "Richard Upjohn" .
+<Oneida_County> <location.us_county.hud_section_8_area> "Utica-Rome, NY MSA HUD Section 8 Area" .
+<13504> <common.topic.notable_types> "Postal Code" .
+<Lewiston> <common.topic.notable_types> "City/Town/Village" .
+<New_York> <base.aareas.schema.administrative_area.administrative_children> "New York City" .
+<Utica> <location.statistical_region.population> "g.11x1dq2q1" .
+<m.0h_3w7m> <location.mailing_address.postal_code> "13502" .
+<Oneida_County> <location.location.people_born_here> "James H. DeVotie" .
+<Holland_Patent> <location.hud_county_place.county> "Oneida County" .
+<La_Crosse> <location.location.containedby> "United States of America" .
+<Yorkville> <location.location.containedby> "United States of America" .
+<m.0hjr0mt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Utica_College> <education.educational_institution.colors> "Orange" .
+<SUNY_Polytechnic_Institute> <education.university.domestic_tuition> "m.0k7hcyj" .
+<13502> <location.location.containedby> "Oneida County" .
+<m.07042pm> <location.mailing_address.citytown> "Utica" .
+<SUNY_Polytechnic_Institute> <education.university.local_tuition> "m.0h_3yy6" .
+<One_More_from_the_Road_Tour> <time.event.locations> "University of Denver Arena" .
+<Whitesboro> <location.location.time_zones> "Eastern Time Zone" .
+<m.0cnm_cw> <common.topic.notable_types> "Location" .
+<Oneida_County> <location.location.adjoin_s> "m.03jqdys" .
+<Utica> <base.biblioness.bibs_topic.subsumes> "Utica" .
+<m.07f63gf> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Saint_Paul> <common.topic.notable_types> "City/Town/Village" .
+<Oneida_County> <location.statistical_region.population> "m.066hqmp" .
+<m.0w5m65t> <education.education.institution> "Mohawk Valley Community College" .
+<Passaic> <location.location.events> "One More from the Road Tour" .
+<m.0cp_57r> <common.webpage.topic> "Mohawk Valley Community College-Utica Branch" .
+<m.0101plc4> <government.government_position_held.office_holder> "Robert M. Palmieri" .
+<SUNY_Polytechnic_Institute> <education.educational_institution.phone_number> "m.0h_3w8l" .
+<Oneida_County> <location.statistical_region.population> "g.11x1kf_cq" .
+<13502> <location.location.geometry> "m.057gtfs" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Eastern_Time_Zone> <common.topic.article> "m.0j62c65" .
+<Oneida_County> <location.statistical_region.co2_emissions_industrial> "m.045kcl0" .
+<Saint_Elizabeth_College_of_Nursing> <location.location.containedby> "New York" .
+<Mohawk_Valley_Community_College> <location.location.containedby> "United States of America" .
+<Sylvan_Beach> <location.location.containedby> "United States of America" .
+<m.0101plc4> <government.government_position_held.office_position_or_title> "Mayor of Utica" .
+<Clark_Mills> <location.hud_county_place.county> "Oneida County" .
+<Utica_Memorial_Auditorium> <common.topic.notable_types> "Sports Facility" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Hemel Hempstead" .
+<Oneida_County> <location.us_county.hud_county_place> "Waterville" .
+<First_Presbyterian_Church> <common.topic.article> "m.0404n5z" .
+<Lewiston> <location.location.events> "One More from the Road Tour" .
+<Grace_Church> <location.location.containedby> "New York" .
+<Lower_Genesee_Street_Historic_District> <common.topic.article> "m.09v7dlk" .
+<Area_code_315> <common.topic.image> "The blue area is New York State; the red area is area code 315" .
+<Utica> <location.location.contains> "Millar-Wheeler House" .
+<Oneida_County> <location.hud_foreclosure_area.total_residential_addresses> "m.07d_wqm" .
+<m.06_3xgl> <location.mailing_address.citytown> "Utica" .
+<Mohawk_Valley_Community_College-Utica_Branch> <organization.organization.headquarters> "m.0cnnq2h" .
+<m.0h9hftp> <award.ranking.item> "Utica College" .
+<Utica> <periodicals.newspaper_circulation_area.newspapers> "Syracuse New Times" .
+<m.05h64g7> <location.mailing_address.state_province_region> "New York" .
+<Oneida_County> <location.us_county.hud_county_place> "Oriskany" .
+<Oneida_County_Airport> <location.location.containedby> "Oneida County" .
+<New_York_City> <location.location.containedby> "New York" .
+<Utica_Devils> <common.topic.notable_for> "g.1256pg4dg" .
+<13501> <location.location.geolocation> "m.03dv7yl" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <location.location.containedby> "United States of America" .
+<Utica_College> <common.topic.notable_types> "College/University" .
+<Sherrill> <location.location.containedby> "New York" .
+<Callahan> <location.location.time_zones> "Eastern Time Zone" .
+<Oneida_County> <location.statistical_region.rent50_0> "m.05gdz4b" .
+<Milwaukee> <base.biblioness.bibs_location.country> "United States of America" .
+<Birmingham> <location.location.containedby> "United States of America" .
+<Postal_codes> <rdf-schema#range> "Postal Code" .
+<Billings> <location.hud_county_place.place> "Billings" .
+<Oneida_County> <location.statistical_region.population> "g.11x1kl38b" .
+<Whitesboro> <location.hud_county_place.place> "Whitesboro" .
+<Utica_Devils> <sports.sports_team.arena_stadium> "Utica Memorial Auditorium" .
+<Oneida_County> <location.statistical_region.population> "g.11x1d3q0g" .
+<Utica> <location.statistical_region.population> "m.066h6fn" .
+<Statistical_region> <type.type.domain> "Location" .
+<Little_Falls> <common.topic.notable_types> "City/Town/Village" .
+<Prospect> <location.hud_county_place.place> "Prospect" .
+<Remsen> <location.location.containedby> "Oneida County" .
+<SUNY_Polytechnic_Institute> <common.topic.webpage> "m.07sk_8b" .
+<Sherrill> <location.location.time_zones> "Eastern Time Zone" .
+<Oneida_County> <location.statistical_region.population> "m.066hqlb" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Spokane" .
+<Oneida_County> <location.us_county.hud_county_place> "Vernon" .
+<Oneida_County> <location.us_county.hud_county_place> "Clark Mills" .
+<m.03jq_qr> <location.adjoining_relationship.adjoins> "Oneida County" .
+<m.06_3xb4> <protected_sites.natural_or_cultural_site_listing.listed_site> "Utica Psychiatric Center" .
+<San_Francisco> <location.us_county.county_seat> "San Francisco" .
+<Competition> <freebase.type_hints.included_types> "Event" .
+<Oneida_County> <location.statistical_region.population> "g.11x1hm58f" .
+<Hampton> <location.hud_county_place.place> "Hampton" .
+<Little_Falls> <location.location.containedby> "United States of America" .
+<Utica_Psychiatric_Center> <location.location.geolocation> "m.06_3x9z" .
+<Rutger-Steuben_Park_Historic_District> <location.location.geolocation> "m.06zxxnq" .
+<Mohawk_Valley_Community_College> <education.educational_institution.subsidiary_or_constituent_schools> "Mohawk Valley Community College-Utica Branch" .
+<New_York> <travel.travel_destination.tourist_attractions> "Niagara Falls" .
+<Time_Zone> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Millar-Wheeler_House> <location.location.geolocation> "m.070bjrb" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <education.educational_institution.faculty> "m.0k7bvlc" .
+<New_Century_Club> <common.topic.notable_for> "g.1255l0h9v" .
+<Oneida_County> <location.us_county.hud_county_place> "New Hartford" .
+<Cooperstown> <location.location.time_zones> "Eastern Time Zone" .
+<Salt_Lake_City> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0w7zdf9> <education.education.institution> "Utica College" .
+<Boonville> <location.hud_county_place.county> "Oneida County" .
+<Auburn> <location.location.time_zones> "Eastern Time Zone" .
+<Utica_College> <organization.non_profit_organization.registered_with> "m.0ppgnnl" .
+<Area_code_315> <location.location.geolocation> "m.0wmfvt5" .
+<Detroit> <location.hud_county_place.place> "Detroit" .
+<Utica> <sports.sports_team_location.teams> "Utica Devils" .
+<m.0hls113> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hls14h> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hjr0jv> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Utica> <location.statistical_region.population> "m.0hls141" .
+<Utica> <periodicals.newspaper_circulation_area.newspapers> "Observer-Dispatch" .
+<Clinton> <location.location.containedby> "Oneida County" .
+<Oneida_County> <location.location.people_born_here> "Russell Sage" .
+<Bridgewater> <location.location.time_zones> "Eastern Time Zone" .
+<Houston> <base.biblioness.bibs_location.country> "United States of America" .
+<Oneida_County> <location.us_county.hud_county_place> "Oneida Castle" .
+<Utica> <location.statistical_region.population> "g.11x1lfmhw" .
+<Utica_School_of_Commerce> <education.university.number_of_undergraduates> "m.0h78d79" .
+<Utica_Devils> <common.topic.notable_types> "Ice hockey team" .
+<Calvary_Episcopal_Church> <architecture.structure.architectural_style> "Late Gothic Revival" .
+<Herkimer_County> <base.aareas.schema.administrative_area.administrative_parent> "New York" .
+<Hemel_Hempstead> <common.topic.notable_types> "City/Town/Village" .
+<2013_UNSPOKEN_Human_Rights_Film_Festival> <film.film_festival_event.festival> "UNSPOKEN Human Rights Film Festival" .
+<Buffalo> <base.biblioness.bibs_location.state> "New York" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011lvjc_" .
+<Clark_Mills> <location.hud_county_place.place> "Clark Mills" .
+<Utica> <location.statistical_region.population> "m.066h6f8" .
+<Oneida_Castle> <location.location.time_zones> "Eastern Time Zone" .
+<Region> <freebase.type_profile.published> "Published" .
+<Concord> <common.topic.notable_types> "City/Town/Village" .
+<Omaha> <location.hud_county_place.place> "Omaha" .
+<Portland> <base.biblioness.bibs_location.country> "United States of America" .
+<Utica> <location.location.contains> "Saint Elizabeth College of Nursing" .
+<Oneida> <periodicals.newspaper_circulation_area.newspapers> "Syracuse New Times" .
+<Utica_Parks_and_Parkway_Historic_District> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11btv6v5zh" .
+<Oriskany_Falls> <location.location.containedby> "Oneida County" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Hampton" .
+<Utica_School_of_Commerce> <common.topic.notable_for> "g.125b5lfxr" .
+<Whitestown> <location.location.containedby> "Oneida County" .
+<Saint_Elizabeth_College_of_Nursing> <location.location.containedby> "United States of America" .
+<13504> <location.postal_code.country> "United States of America" .
+<Ralph_Adams_Cram> <architecture.architect.structures_designed> "First Presbyterian Church" .
+<m.0ppg7mc> <organization.non_profit_registration.non_profit_organization> "Utica Public Library" .
+<Oneida_County> <location.statistical_region.population> "g.11x1gf3kf" .
+<Newspaper> <freebase.type_profile.kind> "Definition" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Austin" .
+<Saint_Elizabeth_College_of_Nursing> <education.university.domestic_tuition> "m.0kdpzl2" .
+<2013_UNSPOKEN_Human_Rights_Film_Festival> <time.event.instance_of_recurring_event> "UNSPOKEN Human Rights Film Festival" .
+<John_C._Hieber_Building> <common.topic.article> "m.09v6_fs" .
+<Sports_Facility> <freebase.type_profile.kind> "Definition" .
+<Prospect> <common.topic.notable_types> "City/Town/Village" .
+<John_C._Hieber_Building> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11btv6zyz9" .
+<Gen._John_G._Weaver_House> <location.location.containedby> "Utica" .
+<Albany> <base.biblioness.bibs_topic.is_really> "Albany" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0ks" .
+<End_date> <type.property.schema> "Event" .
+<m.0hls11k> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Spokane> <location.location.containedby> "United States of America" .
+<Utica_Armory> <common.topic.notable_types> "Location" .
+<SUNY_Polytechnic_Institute> <education.university.number_of_postgraduates> "m.0k7bw8j" .
+<Oneida_County> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07d_wrq" .
+<San_Francisco> <base.biblioness.bibs_topic.subsumes> "San Francisco" .
+<13504> <common.topic.notable_for> "g.125cjmnq2" .
+<Oneida_County> <location.us_county.hud_county_place> "Boonville" .
+<Memorial_Church_of_the_Holy_Cross> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11btv6s8bd" .
+<Area_code_315> <location.location.containedby> "New York" .
+<One_More_from_the_Road_Tour> <time.event.locations> "New York City" .
+<Cooperstown> <common.topic.notable_types> "City/Town/Village" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Omaha" .
+<Herkimer_County> <location.us_county.hud_section_8_area> "Utica-Rome, NY MSA HUD Section 8 Area" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Cooperstown" .
+<m.0j_vsb4> <common.topic.notable_types> "Location" .
+<Seattle> <location.location.containedby> "United States of America" .
+<Milwaukee> <common.topic.notable_types> "City/Town/Village" .
+<m.0h9hpmq> <organization.leadership.organization> "Utica College" .
+<Utica> <location.statistical_region.population> "m.0hls113" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012z3l2r" .
+<Oneida_County> <location.location.people_born_here> "Ashbel P. Willard" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51zj" .
+<Seattle> <common.topic.notable_types> "City/Town/Village" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <education.university.number_of_undergraduates> "m.0k7hbk0" .
+<m.0cnnvpv> <common.topic.notable_types> "Location" .
+<Herkimer_County> <location.location.containedby> "Utica-Rome, NY Metropolitan Statistical Area" .
+<Utica_School_of_Commerce> <education.university.number_of_undergraduates> "m.0k7zv_w" .
+<One_More_from_the_Road_Tour> <common.topic.notable_types> "Event" .
+<Oneida_County> <location.statistical_region.population> "g.12b028wz9" .
+<Utica_School_of_Commerce> <education.educational_institution_campus.educational_institution> "Utica School of Commerce" .
+<Utica> <base.biblioness.bibs_topic.is_really> "Utica" .
+<Utica_College> <education.educational_institution.students_graduates> "m.0svw1fs" .
+<Whitesboro> <location.location.containedby> "New York" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010rnll5" .
+<Union_Station> <common.topic.article> "m.0c451j" .
+<m.04m1vrm> <education.education.institution> "Utica College" .
+<Barneveld> <location.location.containedby> "Oneida County" .
+<Oneida_County> <location.us_county.hud_county_place> "New York Mills" .
+<m.04yz_n0> <location.mailing_address.citytown> "Syracuse" .
+<US_County> <freebase.type_hints.included_types> "Location" .
+<m.0h9hnm_> <award.ranking.item> "Utica College" .
+<Stanley_Theater> <common.topic.image> "Stanley Theater Utica NY Jun 07" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0kb" .
+<Sylvan_Beach> <common.topic.notable_types> "City/Town/Village" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.university.domestic_tuition> "m.0h6_426" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckkfd" .
+<Oneida_County> <location.location.adjoin_s> "m.03jpywq" .
+<One_More_from_the_Road_Tour> <time.event.locations> "La Crosse" .
+<Oneida_County> <location.statistical_region.population> "g.11x1h16q_" .
+<First_Presbyterian_Church> <location.location.street_address> "m.07045xf" .
+<Mohawk_Valley_Community_College> <organization.organization.leadership> "m.0nbls9f" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Nashville" .
+<Oneida_County> <location.statistical_region.population> "g.11x1dpm6p" .
+<m.0h_3w7m> <location.mailing_address.country> "United States of America" .
+<Nashville> <common.topic.notable_types> "City/Town/Village" .
+<Oneida_County> <location.statistical_region.rent50_4> "m.05gdz56" .
+<Oneida_County> <location.statistical_region.rent50_3> "m.05gdz4_" .
+<Rutger-Steuben_Park_Historic_District> <common.topic.notable_for> "g.1259rjx_s" .
+<m.0cnpjk3> <location.mailing_address.postal_code> "13503" .
+<Utica_Public_Library> <library.public_library.phone_number> "m.0jfn0mp" .
+<Buffalo> <base.ndbcd.buoy.region> "New York" .
+<Syracuse_New_Times> <book.periodical.format> "m.02npc1p" .
+<New_Century_Club> <location.location.containedby> "Utica" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjwd" .
+<Whitestown> <common.topic.notable_types> "City/Town/Village" .
+<Utica_Armory> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11btv6qgy6" .
+<Frankfort-Highland_Airport> <location.location.containedby> "Herkimer County" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckk64" .
+<Utica_97_002> <common.image.size> "m.0k127w" .
+<13503> <common.topic.notable_for> "g.1259q0nrh" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Memphis" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0lf" .
+<New_York_Mills> <location.hud_county_place.county> "Oneida County" .
+<Region> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Oneida_County> <location.statistical_region.population> "m.066hqjn" .
+<Utica> <location.statistical_region.population> "g.12vqj0c74" .
+<First_Presbyterian_Church> <common.topic.notable_for> "g.1254yl5qy" .
+<City/Town/Village> <common.topic.article> "m.03bnd2c" .
+<m.05h64gp> <protected_sites.natural_or_cultural_site_listing.listed_site> "Roscoe Conkling House" .
+<Binghamton> <location.location.events> "One More from the Road Tour" .
+<United_States_of_America> <location.location.partially_contains> "Niagara Falls" .
+<Camden> <location.location.containedby> "United States of America" .
+<m.04m218j> <education.education.institution> "Utica College" .
+<Millar-Wheeler_House> <common.topic.image> "MillarWheelerHouse" .
+<Utica> <government.governmental_jurisdiction.governing_officials> "m.0101plc4" .
+<New_York> <location.administrative_division.country> "United States of America" .
+<Grace_Church> <common.topic.image> "GraceChurchUticaSide" .
+<Utica> <location.location.contains> "Mohawk Valley Community College-Utica Branch" .
+<m.0cnp43v> <location.mailing_address.state_province_region> "New York" .
+<Oneida_County> <location.statistical_region.population> "m.066hqj2" .
+<Roscoe_Conkling_House> <architecture.structure.architectural_style> "Greek Revival" .
+<New_Century_Club> <common.topic.article> "m.0404qj5" .
+<Oneida_County> <location.location.people_born_here> "Franklin W. Lutes" .
+<Grace_Church> <common.topic.notable_types> "Place of worship" .
+<Saint_Elizabeth_College_of_Nursing> <common.topic.notable_for> "g.12579ftjv" .
+<Seattle> <location.hud_county_place.place> "Seattle" .
+<Flint> <common.topic.notable_types> "City/Town/Village" .
+<Event> <freebase.type_profile.kind> "Definition" .
+<m.0ccdzlp> <location.mailing_address.country> "United States of America" .
+<m.070kh83> <location.mailing_address.state_province_region> "New York" .
+<Detroit> <location.location.containedby> "United States of America" .
+<Oneida_County> <location.statistical_region.population> "g.12b0209vv" .
+<Hurd_&_Fitzgerald_Building> <base.usnris.nris_listing.significance_level> "National" .
+<Houston> <location.location.containedby> "United States of America" .
+<Saint_Elizabeth_College_of_Nursing> <education.university.local_tuition> "m.0k7bq8n" .
+<College/University> <freebase.type_profile.published> "Published" .
+<13501> <location.postal_code.country> "United States of America" .
+<Waterville> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Saint_Elizabeth_College_of_Nursing> <education.university.acceptance_rate> "m.0h74kh2" .
+<Start_date> <type.property.schema> "Event" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Minot" .
+<Springfield> <location.location.time_zones> "Eastern Time Zone" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Waterbury" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.educational_institution.parent_institution> "Mohawk Valley Community College" .
+<m.0hjr0lf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kk9vk" .
+<13505> <location.postal_code.country> "United States of America" .
+<Mohawk_Valley_Community_College> <location.location.containedby> "Utica" .
+<Austin> <location.hud_county_place.place> "Austin" .
+<m.0cnpjk3> <common.topic.notable_types> "Location" .
+<m.0h_3wb8> <organization.leadership.organization> "SUNY Polytechnic Institute" .
+<Uptown_Theatre> <location.location.containedby> "Utica" .
+<m.05hqb3r> <protected_sites.natural_or_cultural_site_listing.listed_site> "Millar-Wheeler House" .
+<Philip_Hooker> <people.person.place_of_birth> "United States of America" .
+<Oneida_County> <location.location.people_born_here> "Herman L. Page" .
+<Oneida_Castle> <common.topic.notable_types> "City/Town/Village" .
+<Stanley_Theater> <architecture.structure.architectural_style> "Baroque architecture" .
+<Oriskany> <location.hud_county_place.county> "Oneida County" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Maple Leaf Gardens" .
+<Wichita> <location.hud_county_place.place> "Wichita" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Abstract" .
+<Utica> <common.topic.notable_for> "g.1257xk015" .
+<Utica_Memorial_Auditorium> <location.location.events> "Indestructible Tour, Utica, NY, Concert" .
+<Albany> <common.topic.notable_types> "City/Town/Village" .
+<Oneida_County> <location.statistical_region.population> "g.11x1k9vrm" .
+<Utica_College> <education.university.number_of_undergraduates> "m.0h782cn" .
+<m.0hjr0hh> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Rutger-Steuben_Park_Historic_District> <common.topic.notable_types> "Listed Site" .
+<Utica_College> <education.educational_institution.students_graduates> "m.0sv_yxz" .
+<Oneida_County> <location.location.containedby> "New York" .
+<Mohawk_Valley_Community_College> <education.educational_institution.students_graduates> "m.0w5h7bc" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <common.topic.notable_for> "g.1256w2j49" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Wichita" .
+<United_States_of_America> <location.country.administrative_divisions> "New York" .
+<Whitestown> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<m.0hjr0ks> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Syracuse> <periodicals.newspaper_circulation_area.newspapers> "Syracuse New Times" .
+<Utica> <common.topic.notable_types> "City/Town/Village" .
+<Utica> <location.statistical_region.population> "m.0hls14h" .
+<Oneida_County> <location.statistical_region.population> "g.12b023rwy" .
+<UTC−05:00> <common.topic.notable_types> "Time Zone" .
+<Building> <freebase.type_profile.strict_included_types> "Topic" .
+<Grace_Church> <location.location.containedby> "Utica" .
+<Oswego> <periodicals.newspaper_circulation_area.newspapers> "Syracuse New Times" .
+<Fountain_Elms> <common.topic.notable_types> "Location" .
+<Portland> <location.hud_county_place.place> "Portland" .
+<Memphis> <location.location.events> "One More from the Road Tour" .
+<Utica> <location.statistical_region.population> "g.11x1l1pyv" .
+<Vernon> <location.location.containedby> "New York" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Whitestown> <location.location.containedby> "New York" .
+<Utica_Public_Library> <common.topic.notable_for> "g.12552ytyg" .
+<Roscoe_Conkling> <people.deceased_person.place_of_death> "New York City" .
+<Macon> <location.location.containedby> "United States of America" .
+<Oriskany> <location.location.containedby> "New York" .
+<Hammersmith_Apollo> <common.topic.notable_types> "Venue" .
+<Fort_Worth> <common.topic.notable_types> "City/Town/Village" .
+<Oneida_County> <location.statistical_region.population> "g.11x1kz161" .
+<Cooperstown> <location.hud_county_place.place> "Cooperstown" .
+<New_York_City> <base.militaryinfiction.location_in_fiction.contained_by> "New York" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0np" .
+<Kent> <location.location.events> "One More from the Road Tour" .
+<One_More_from_the_Road_Tour> <common.topic.notable_for> "g.11b5pgwt9p" .
+<Whitestown> <location.location.time_zones> "Eastern Time Zone" .
+<Utica> <location.statistical_region.population> "g.11x1cvfbh" .
+<Utica> <location.capital_of_administrative_division.capital_of> "m.0jvvpzr" .
+<Roscoe_Conkling_House> <common.topic.notable_types> "Listed Site" .
+<Utica> <location.statistical_region.population> "g.11x1fg1q8" .
+<New_York> <base.aareas.schema.administrative_area.administrative_children> "Herkimer County" .
+<Rutger-Steuben_Park_Historic_District> <base.usnris.nris_listing.significance_level> "State" .
+<Utica> <location.location.contains> "Utica College" .
+<m.0ppgnnl> <organization.non_profit_registration.non_profit_organization> "Utica College" .
+<Herkimer_County> <common.topic.notable_types> "US County" .
+<Utica> <location.location.contains> "SUNY Polytechnic Institute" .
+<m.0hjr0ng> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.070435b> <location.mailing_address.state_province_region> "New York" .
+<City/Town/Village> <type.type.domain> "Location" .
+<Camden> <location.location.time_zones> "Eastern Time Zone" .
+<Oneida> <common.topic.notable_types> "City/Town/Village" .
+<Utica> <location.location.time_zones> "Eastern Time Zone" .
+<Hurd_&_Fitzgerald_Building> <common.topic.article> "m.09v7_pl" .
+<Waterbury> <location.location.containedby> "United States of America" .
+<One_More_from_the_Road_Tour> <freebase.valuenotation.is_reviewed> "Artist" .
+<Passaic> <common.topic.notable_types> "City/Town/Village" .
+<New_Century_Club> <location.location.containedby> "New York" .
+<m.0hls135> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oriskany_Falls> <location.hud_county_place.place> "Oriskany Falls" .
+<Clinton> <location.location.time_zones> "Eastern Time Zone" .
+<Spokane> <location.location.events> "One More from the Road Tour" .
+<Utica_College> <education.university.acceptance_rate> "m.0h747z6" .
+<Waterville> <location.location.containedby> "Oneida County" .
+<Oneida_County> <location.us_county.hud_county_place> "Prospect" .
+<Herkimer_County> <location.location.containedby> "New York" .
+<Observer-Dispatch> <book.periodical.frequency_or_issues_per_year> "m.09s40dq" .
+<Herkimer_County> <location.location.time_zones> "Eastern Time Zone" .
+<Oneida_County> <location.statistical_region.population> "g.11x1mhp9m" .
+<Doyle_Hardware_Building> <location.location.geolocation> "m.0z8h15y" .
+<Frankfort-Highland_Airport> <location.location.geolocation> "m.0ghd1tn" .
+<New_York> <location.location.containedby> "United States of America" .
+<Postal_codes> <type.property.expected_type> "Postal Code" .
+<Roscoe_Conkling_House> <location.location.street_address> "m.05h64g7" .
+<Birmingham> <location.location.events> "One More from the Road Tour" .
+<Bridgewater> <location.location.containedby> "United States of America" .
+<New_York> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.05hqb3j> <common.topic.notable_types> "Location" .
+<Eastern_Time_Zone> <common.topic.article> "m.0j44rkj" .
+<m.0sv_yxz> <education.education.institution> "Utica College" .
+<Utica_Devils> <sports.sports_team.venue> "m.0wz2drf" .
+<m.0pqps1c> <location.mailing_address.country> "United States of America" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <education.university.number_of_undergraduates> "m.0h78zyc" .
+<Oneida_County> <location.statistical_region.population> "g.11x1jj25h" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Detroit" .
+<Ashbel_P._Willard> <people.person.place_of_birth> "Oneida County" .
+<Yorkville> <location.location.time_zones> "Eastern Time Zone" .
+<Mohawk_Valley_Community_College> <common.topic.article> "m.02xp4v" .
+<Roscoe_Conkling_House> <base.usnris.nris_listing.significant_person> "Roscoe Conkling" .
+<Utica_Psychiatric_Center> <location.location.containedby> "Utica" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<One_More_from_the_Road_Tour> <time.event.locations> "U.S. Bank Arena" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0114s4js" .
+<Oneida_County> <location.statistical_region.population> "g.12vqj0bcb" .
+<Mohawk_Valley_Community_College> <common.topic.webpage> "m.0cvlv7m" .
+<m.0cp_n1d> <common.webpage.topic> "Faxton-St Luke's Healthcare School of Radiologic Technology" .
+<Oneida_County> <location.statistical_region.rent50_2> "m.05gdz4s" .
+<Syracuse_New_Times> <common.topic.webpage> "m.03lmfr5" .
+<m.0cnph1w> <location.mailing_address.citytown> "Utica" .
+<Flint> <location.location.containedby> "United States of America" .
+<Callahan> <location.location.events> "One More from the Road Tour" .
+<Nashville> <base.biblioness.bibs_location.country> "United States of America" .
+<Oneida_County> <location.location.time_zones> "Eastern Time Zone" .
+<Yorkville> <location.hud_county_place.county> "Oneida County" .
+<Whitesboro> <common.topic.notable_types> "City/Town/Village" .
+<Utica> <location.statistical_region.population> "m.0hls10f" .
+<Utica> <location.statistical_region.population> "m.0jt1vzl" .
+<13501> <common.topic.notable_for> "g.125fpr7fd" .
+<Chicago> <base.biblioness.bibs_topic.is_really> "Chicago" .
+<Oneida_County> <location.statistical_region.population> "g.11x1mdg9p" .
+<Prospect> <location.location.containedby> "Oneida County" .
+<m.0hjr0hr> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_County> <freebase.type_profile.kind> "Definition" .
+<Millar-Wheeler_House> <location.location.containedby> "New York" .
+<Clinton> <location.hud_county_place.county> "Oneida County" .
+<Boonville> <location.location.containedby> "New York" .
+<Holland_Patent> <location.location.time_zones> "Eastern Time Zone" .
+<m.0hjr0lw> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Fort_Schuyler_Club> <location.location.street_address> "m.070kh83" .
+<SUNY_Polytechnic_Institute> <organization.organization.parent> "m.0h_3zgy" .
+<m.0jfn04h> <location.mailing_address.citytown> "Utica" .
+<Oneida_County> <location.statistical_region.population> "g.11x1k2zj_" .
+<Nassau_Veterans_Memorial_Coliseum> <location.location.containedby> "New York City" .
+<Memphis> <base.biblioness.bibs_location.country> "United States of America" .
+<Clayville> <location.location.containedby> "Oneida County" .
+<Frankfort-Highland_Airport> <common.topic.notable_for> "g.1259zm10y" .
+<Observer-Dispatch> <award.award_winning_work.awards_won> "m.05t_990" .
+<Fort_Schuyler_Club> <location.location.containedby> "Utica" .
+<First_Presbyterian_Church> <location.location.geolocation> "m.07045xq" .
+<Building> <freebase.type_profile.kind> "Definition" .
+<Utica> <location.hud_foreclosure_area.total_residential_addresses> "m.07f63gw" .
+<U.S._Bank_Arena> <common.topic.notable_types> "Sports Facility" .
+<Saint_Elizabeth_College_of_Nursing> <common.topic.webpage> "m.0cpzwpz" .
+<Hurd_&_Fitzgerald_Building> <common.topic.notable_types> "Building" .
+<Utica> <location.statistical_region.population> "m.0hls12g" .
+<Oneida_County> <location.statistical_region.population> "g.11x1cvdtr" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51_h" .
+<Niagara_Falls> <location.location.partially_containedby> "United States of America" .
+<m.05h64g7> <location.mailing_address.citytown> "Utica" .
+<Region> <type.type.domain> "Location" .
+<Sherrill> <location.hud_county_place.county> "Oneida County" .
+<Clinton> <location.location.containedby> "United States of America" .
+<Buffalo> <base.biblioness.bibs_location.country> "United States of America" .
+<Oneida_County> <location.statistical_region.co2_emissions_total> "m.045hq0_" .
+<New_York> <base.locations.states_and_provences.country> "United States of America" .
+<Road_running> <award.competition_type.competitions_of_this_type> "2014 Boilermaker Road Race" .
+<US_County> <freebase.type_hints.included_types> "Topic" .
+<US_County> <type.type.domain> "Location" .
+<Syracuse> <base.biblioness.bibs_location.country> "United States of America" .
+<Oneida_County> <location.statistical_region.population> "m.066hqlj" .
+<Building> <freebase.type_profile.published> "Published" .
+<13501> <location.location.contains> "Forest Hill Cemetery, Utica" .
+<Lower_Genesee_Street_Historic_District> <location.location.containedby> "Utica" .
+<Macon> <location.location.time_zones> "Eastern Time Zone" .
+<SUNY_Polytechnic_Institute> <education.university.local_tuition> "m.0k7bxfx" .
+<Utica_College> <common.topic.notable_for> "g.125dd34vr" .
+<13501> <common.topic.notable_types> "Postal Code" .
+<Yorkville> <location.location.containedby> "New York" .
+<Little_Falls> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Utica_Parks_and_Parkway_Historic_District> <common.topic.notable_for> "g.125bnx2r9" .
+<SUNY_Polytechnic_Institute> <education.university.domestic_tuition> "m.0k7hcf5" .
+<Maple_Leaf_Gardens> <common.topic.notable_types> "Sports Facility" .
+<Utica_School_of_Commerce> <organization.organization.headquarters> "m.0cnph1w" .
+<Mayor_of_Utica> <government.government_office_or_title.office_holders> "m.0101plc4" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Tampa" .
+<United_States_of_America> <location.country.first_level_divisions> "New York" .
+<Fort_Worth> <location.location.containedby> "United States of America" .
+<Cooperstown> <location.location.containedby> "New York" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Landover" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Abstract" .
+<Santa_Barbara> <base.biblioness.bibs_location.country> "United States of America" .
+<Utica_Devils> <sports.sports_team.sport> "Ice Hockey" .
+<Mohawk_Valley_Community_College> <common.topic.notable_types> "College/University" .
+<Oneida_County> <location.statistical_region.population> "m.066hqhx" .
+<Utica> <location.location.events> "2012 UNSPOKEN Human Rights Film Festival" .
+<Concord> <location.location.containedby> "United States of America" .
+<Buffalo> <location.location.events> "One More from the Road Tour" .
+<Utica_School_of_Commerce> <education.university.domestic_tuition> "m.0h6_xby" .
+<Wichita> <location.location.events> "One More from the Road Tour" .
+<Utica_Parks_and_Parkway_Historic_District> <common.topic.article> "m.09v1mrb" .
+<Camden> <location.location.containedby> "Oneida County" .
+<m.0hls13v> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<SUNY_Polytechnic_Institute> <location.location.containedby> "New York" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0m3" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Ithaca" .
+<Grace_Church> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.06zxy81" .
+<Lower_Genesee_Street_Historic_District> <common.topic.notable_types> "Region" .
+<Millar-Wheeler_House> <common.topic.notable_types> "Building" .
+<Asbury_Park> <common.topic.notable_types> "City/Town/Village" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <common.topic.notable_types> "College/University" .
+<Utica> <location.statistical_region.population> "g.11x1dtsx9" .
+<Utica_Memorial_Auditorium> <sports.sports_facility.teams> "Utica Comets" .
+<Waterbury> <location.location.time_zones> "Eastern Time Zone" .
+<Utica> <location.statistical_region.population> "g.11x1hqxc2" .
+<First_Presbyterian_Church> <architecture.structure.architectural_style> "Beaux-Arts architecture" .
+<New_Century_Club> <architecture.structure.architectural_style> "Italianate architecture" .
+<Mohawk_Valley_Community_College> <education.educational_institution.phone_number> "m.0nbls4v" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kkbry" .
+<Hampton> <location.location.time_zones> "UTC−05:00" .
+<Syracuse_New_Times> <book.newspaper.headquarters> "m.04yz_n0" .
+<San_Francisco> <location.location.containedby> "United States of America" .
+<City/Town/Village> <freebase.type_hints.included_types> "Dated location" .
+<Fountain_Elms> <location.location.geolocation> "m.0z8jx8h" .
+<m.07042q2> <protected_sites.natural_or_cultural_site_listing.listed_site> "New Century Club" .
+<New_Orleans> <location.location.events> "One More from the Road Tour" .
+<Utica_School_of_Commerce> <common.topic.article> "m.03g46w" .
+<Springfield> <base.biblioness.bibs_topic.subsumes> "Springfield" .
+<Nassau_Veterans_Memorial_Coliseum> <location.location.events> "One More from the Road Tour" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0n0" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <common.topic.webpage> "m.0cp_n1d" .
+<New_Century_Club> <base.usnris.nris_listing.significance_level> "Local" .
+<Griffiss_International_Airport> <location.location.containedby> "United States of America" .
+<Buffalo> <location.hud_county_place.place> "Buffalo" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Macon" .
+<m.0cnph1w> <location.mailing_address.postal_code> "13501" .
+<Utica_College> <education.educational_institution.students_graduates> "m.0n55b2g" .
+<Building> <freebase.type_hints.included_types> "Location" .
+<John_C._Hieber_Building> <common.topic.notable_types> "Location" .
+<m.0jq93yk> <location.mailing_address.citytown> "Utica" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0mb" .
+<Oriskany_Falls> <location.hud_county_place.county> "Oneida County" .
+<Oneida_County> <location.us_county.hud_county_place> "Sherrill" .
+<Mohawk_Valley_Community_College-Utica_Branch> <common.topic.webpage> "m.0cp_57r" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Ford Auditorium" .
+<Utica> <location.statistical_region.population> "g.11b66mljjp" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Utica" .
+<m.0hjr0kk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0pb" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.educational_institution.school_type> "Community college" .
+<Competition> <freebase.type_profile.kind> "Definition" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <common.topic.notable_for> "g.125595vml" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Springfield" .
+<Utica> <location.location.contains> "Utica Psychiatric Center" .
+<Marcy> <common.topic.notable_types> "City/Town/Village" .
+<m.04yz_n0> <location.mailing_address.state_province_region> "New York" .
+<m.0101plc4> <freebase.valuenotation.has_no_value> "To" .
+<Postal_codes> <type.property.schema> "City/Town/Village" .
+<m.0hjr0l6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Utica_School_of_Commerce> <education.educational_institution.faculty> "m.0kdpq19" .
+<United_States_of_America> <location.location.time_zones> "Eastern Time Zone" .
+<Utica> <location.location.contains> "Utica Memorial Auditorium" .
+<Building> <freebase.type_profile.strict_included_types> "Location" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <education.university.number_of_undergraduates> "m.0h7900s" .
+<Clayville> <common.topic.notable_types> "City/Town/Village" .
+<Oneida_County> <location.us_county.hud_county_place> "Sylvan Beach" .
+<Fort_Schuyler_Club> <location.location.geolocation> "m.070kh9g" .
+<Saint_Elizabeth_College_of_Nursing> <education.university.number_of_undergraduates> "m.0h78l_1" .
+<United_States_of_America> <location.country.administrative_divisions> "San Francisco" .
+<m.05hqb3j> <location.mailing_address.state_province_region> "New York" .
+<Competition> <freebase.type_profile.strict_included_types> "Topic" .
+<Calvary_Episcopal_Church> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11b7w01kpk" .
+<Boonville> <location.location.containedby> "United States of America" .
+<m.0jvvpzr> <location.administrative_division_capital_relationship.capital> "Utica" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Fulton" .
+<m.04m97yl> <book.periodical_format_period.periodical> "Observer-Dispatch" .
+<Roscoe_Conkling_House> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.05h64gp" .
+<2012_UNSPOKEN_Human_Rights_Film_Festival> <film.film_festival_event.festival> "UNSPOKEN Human Rights Film Festival" .
+<m.0pqps1c> <common.topic.notable_types> "Location" .
+<Utica> <location.location.contains> "First Baptist Church of Deerfield" .
+<Utica> <location.location.events> "2013 UNSPOKEN Human Rights Film Festival" .
+<Area_code_315> <common.topic.article> "m.03c5d5" .
+<Airport> <freebase.type_profile.strict_included_types> "Location" .
+<Millar-Wheeler_House> <common.topic.notable_for> "g.125fm8x55" .
+<Competition> <freebase.type_profile.strict_included_types> "Event" .
+<Mohawk_Valley_Community_College> <base.schemastaging.educational_institution_extra.libraries> "MVCC Utica Campus Library" .
+<m.0h_3w7m> <common.topic.notable_types> "Location" .
+<m.0cnpjk3> <location.mailing_address.citytown> "Utica" .
+<Utica> <location.statistical_region.population> "g.11bymks6z8" .
+<Utica_Psychiatric_Center> <common.topic.article> "m.08dtg_" .
+<Memphis> <location.location.containedby> "United States of America" .
+<Place_of_worship> <freebase.type_hints.included_types> "Topic" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Venue" .
+<Albany> <location.location.containedby> "United States of America" .
+<Robert_M._Palmieri> <people.person.nationality> "United States of America" .
+<Utica-Rome,_NY_Metropolitan_Statistical_Area> <location.location.containedby> "United States of America" .
+<Ames> <location.location.events> "One More from the Road Tour" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0hr" .
+<Oneida_County> <location.statistical_region.population> "g.11x1k4cmv" .
+<Oneida_County> <location.statistical_region.population> "g.12b01tj8f" .
+<Utica> <location.location.contains> "New Century Club" .
+<Oneida_County> <location.statistical_region.population> "g.11x1g17tm" .
+<Oneida_County> <location.us_county.hud_county_place> "Bridgewater" .
+<m.03jpywq> <location.adjoining_relationship.adjoins> "Oneida County" .
+<Oneida_County> <location.location.people_born_here> "Joanne Shenandoah" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <education.university.local_tuition> "m.0h6zn1b" .
+<m.0hls12g> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oneida_Castle> <location.location.containedby> "United States of America" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Lawrence" .
+<Oneida_County> <location.statistical_region.population> "m.066hql4" .
+<Eastern_Time_Zone> <common.topic.webpage> "m.03hc_rb" .
+<Sherrill> <location.location.containedby> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011x4lp6" .
+<Utica_College> <organization.endowed_organization.endowment> "m.0h9hf26" .
+<Robert_M._Palmieri> <government.politician.government_positions_held> "m.0101plc4" .
+<Albany> <base.biblioness.bibs_topic.subsumes> "Albany" .
+<Utica> <location.location.contains> "Faxton-St Luke's Healthcare School of Radiologic Technology" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0jv" .
+<Competition> <freebase.type_hints.included_types> "Topic" .
+<Utica> <location.statistical_region.population> "m.066h6fg" .
+<Barneveld> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<US_County> <freebase.type_profile.kind> "Significant" .
+<Waterville> <location.location.time_zones> "Eastern Time Zone" .
+<New_York_Mills> <location.location.containedby> "New York" .
+<Oneida_County> <location.statistical_region.population> "g.11x1j1bgs" .
+<Utica> <location.location.contains> "Byington Mill (Frisbie & Stansfield Knitting Company)" .
+<Oriskany_Falls> <location.location.containedby> "New York" .
+<Oneida_County_Airport> <aviation.airport.serves> "Oriskany" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011nbp0r" .
+<Camden> <common.topic.notable_types> "City/Town/Village" .
+<Utica> <location.location.contains> "John C. Hieber Building" .
+<Oswego> <location.hud_county_place.place> "Oswego" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Utica" .
+<Salt_Lake_City> <location.location.containedby> "United States of America" .
+<2014_Boilermaker_Road_Race> <award.competition.type_of_competition> "Road running" .
+<Utica> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07f63g6" .
+<Utica_College> <education.university.number_of_postgraduates> "m.0k7kx1z" .
+<Observer-Dispatch> <common.topic.notable_types> "Newspaper" .
+<m.0hls141> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mohawk_Valley_Community_College> <organization.endowed_organization.endowment> "m.0nblstl" .
+<Utica> <location.statistical_region.population> "m.0hls12r" .
+<Waterville> <location.hud_county_place.place> "Waterville" .
+<m.0n1m_0m> <education.education.institution> "Mohawk Valley Community College" .
+<Oneida_County> <location.statistical_region.population> "g.12b01q48l" .
+<Santa_Barbara> <location.location.containedby> "United States of America" .
+<Utica_Public_Library> <organization.organization.headquarters> "m.0pqps1c" .
+<Utica> <common.topic.image> "Downtown Utica" .
+<Utica> <location.location.containedby> "Oneida County" .
+<Calvary_Episcopal_Church> <common.topic.notable_for> "g.1yl5vzc1l" .
+<Remsen> <location.location.containedby> "New York" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <location.location.containedby> "United States of America" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.university.domestic_tuition> "m.0k8t655" .
+<Area_code_315> <location.location.contains> "Syracuse" .
+<Sylvan_Beach> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Utica> <location.statistical_region.population> "g.11x1dm9sr" .
+<New_York_City> <location.administrative_division.country> "United States of America" .
+<Oneida_County> <location.statistical_region.population> "g.11x1m7x8d" .
+<Mohawk_Valley_Community_College-Utica_Branch> <common.topic.notable_for> "g.125cg5k7y" .
+<Utica_Public_Library> <location.location.containedby> "Utica" .
+<Mohawk_Valley_Community_College> <common.topic.notable_for> "g.125bn2lkm" .
+<Wichita> <base.biblioness.bibs_topic.is_really> "Wichita" .
+<Fort_Schuyler_Club> <common.topic.notable_for> "g.125bjkqzp" .
+<m.07d_wqm> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Auburn> <common.topic.notable_types> "City/Town/Village" .
+<Barneveld> <location.location.containedby> "United States of America" .
+<New_York> <location.us_state.capital> "Albany" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<Oneida_County> <location.statistical_region.population> "g.11x1d95nv" .
+<m.05h8rxm> <protected_sites.natural_or_cultural_site_listing.listed_site> "Rutger-Steuben Park Historic District" .
+<Frankfort-Highland_Airport> <aviation.airport.serves> "Utica" .
+<Milwaukee> <location.location.events> "One More from the Road Tour" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Utica> <location.location.contains> "Doyle Hardware Building" .
+<Utica_College> <award.ranked_item.appears_in_ranked_lists> "m.0h9hftp" .
+<Utica_Devils> <common.topic.article> "m.07rdqx" .
+<Roscoe_Conkling_House> <architecture.structure.architect> "Philip Hooker" .
+<Utica_Memorial_Auditorium> <sports.sports_facility.teams> "Utica Devils" .
+<New_Hartford> <location.hud_county_place.county> "Oneida County" .
+<Rome> <location.location.containedby> "Oneida County" .
+<m.070kh9y> <protected_sites.natural_or_cultural_site_listing.listed_site> "Fort Schuyler Club" .
+<Whitesboro> <location.location.containedby> "Oneida County" .
+<New_Century_Club> <location.location.geolocation> "m.07042px" .
+<Utica_College> <education.educational_institution.students_graduates> "m.0w7zdf9" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Syracuse" .
+<Memphis> <common.topic.notable_types> "City/Town/Village" .
+<Utica> <location.location.contains> "St. Joseph's Church" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <education.educational_institution.campuses> "Faxton-St Luke's Healthcare School of Radiologic Technology" .
+<Marcy> <location.location.contains> "SUNY Polytechnic Institute" .
+<Fort_Schuyler_Club> <common.topic.notable_types> "Building" .
+<Mohawk_Valley_Community_College> <organization.organization.headquarters> "m.0jq93yk" .
+<SUNY_Polytechnic_Institute> <education.university.domestic_tuition> "m.0h6_mql" .
+<Austin> <location.location.containedby> "United States of America" .
+<Sports_Facility> <freebase.type_profile.published> "Published" .
+<First_Presbyterian_Church> <location.location.containedby> "New York" .
+<Byington_Mill_(Frisbie_&_Stansfield_Knitting_Company)> <location.location.geolocation> "m.0dg9b8k" .
+<Boston> <location.hud_county_place.place> "Boston" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.university.domestic_tuition> "m.0k7c3s_" .
+<SUNY_Polytechnic_Institute> <education.university.local_tuition> "m.0k7bt65" .
+<m.0wz2drf> <sports.team_venue_relationship.team> "Utica Devils" .
+<Clinton> <location.location.containedby> "New York" .
+<SUNY_Polytechnic_Institute> <education.educational_institution.colors> "Blue" .
+<Utica> <location.statistical_region.population> "m.0hls11s" .
+<New_Hartford> <location.location.containedby> "Oneida County" .
+<m.012fvf7f> <education.education.institution> "SUNY Polytechnic Institute" .
+<United_States_of_America> <location.country.administrative_divisions> "New York City" .
+<Oneida_County> <location.statistical_region.population> "m.0kgnw49" .
+<Cooperstown> <periodicals.newspaper_circulation_area.newspapers> "Syracuse New Times" .
+<Oneida_County> <location.us_county.hud_county_place> "Remsen" .
+<Utica_College> <education.university.domestic_tuition> "m.0k7k_ys" .
+<m.0hls12r> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Miami Stadium" .
+<m.0hjr0mb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Grace_Church> <location.location.geolocation> "m.06zxy7w" .
+<US_County> <freebase.type_profile.strict_included_types> "Topic" .
+<Wichita> <base.biblioness.bibs_location.country> "United States of America" .
+<Utica> <location.location.contains> "Uptown Theatre" .
+<Stanley_Theater> <location.location.containedby> "United States of America" .
+<Houston> <location.hud_county_place.place> "Houston" .
+<New_York_City> <base.aareas.schema.administrative_area.administrative_parent> "New York" .
+<m.07f63f_> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07045xf> <common.topic.notable_types> "Location" .
+<Utica_College> <education.university.domestic_tuition> "m.0k7gms1" .
+<SUNY_Polytechnic_Institute> <education.university.international_tuition> "m.0h_3yzl" .
+<Fulton> <common.topic.notable_types> "City/Town/Village" .
+<New_Century_Club> <common.topic.image> "NewCenturyClub" .
+<Pensacola> <location.hud_county_place.place> "Pensacola" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Fox Theatre" .
+<m.0hls120> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Rome> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Mohawk_Valley_Community_College> <education.educational_institution.students_graduates> "m.0w5m65t" .
+<Oneida_Castle> <location.hud_county_place.county> "Oneida County" .
+<Oneida_County> <location.statistical_region.population> "g.12b0220w2" .
+<Oneida_County> <location.statistical_region.population> "g.11x1cy7bl" .
+<2013_UNSPOKEN_Human_Rights_Film_Festival> <common.topic.notable_types> "Film festival event" .
+<m.07sk_8b> <common.webpage.topic> "SUNY Polytechnic Institute" .
+<Start_date> <rdf-schema#domain> "Event" .
+<Yorkville> <location.location.containedby> "Oneida County" .
+<Utica> <location.location.contains> "Grace Church" .
+<m.0hls11s> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Holland_Patent> <location.location.containedby> "Oneida County" .
+<m.0hls12z> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.university.local_tuition> "m.0k7c61w" .
+<m.0cnm_cw> <location.mailing_address.postal_code> "13501" .
+<Remsen> <location.location.containedby> "United States of America" .
+<Oneida_County> <location.location.people_born_here> "Henry Halleck" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Asbury Park" .
+<Eastern_Time_Zone> <common.topic.image> "Timezoneswest" .
+<Remsen> <location.location.time_zones> "Eastern Time Zone" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Passaic" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Santa Barbara" .
+<John_C._Hieber_Building> <architecture.structure.architectural_style> "Renaissance architecture" .
+<Marcy> <location.location.time_zones> "Eastern Time Zone" .
+<m.07f63gw> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.06zxy7k> <location.mailing_address.state_province_region> "New York" .
+<SUNY_Polytechnic_Institute> <education.university.number_of_undergraduates> "m.0k7hd2t" .
+<Rome> <location.location.nearby_airports> "Griffiss International Airport" .
+<Memorial_Church_of_the_Holy_Cross> <location.location.geolocation> "m.0z8j0zd" .
+<Oneida_County> <location.statistical_region.population> "m.066hqk0" .
+<Frankfort-Highland_Airport> <location.location.containedby> "13340" .
+<New_Orleans> <location.hud_county_place.place> "New Orleans" .
+<Wichita> <base.biblioness.bibs_topic.subsumes> "Wichita" .
+<Location> <type.type.domain> "Location" .
+<Utica> <location.hud_county_place.county> "Oneida County" .
+<Oneida_County> <location.us_county.hud_county_place> "Utica" .
+<Roscoe_Conkling_House> <location.location.geolocation> "m.06zwk5p" .
+<Waterville> <location.location.containedby> "New York" .
+<Airport> <freebase.type_hints.included_types> "Topic" .
+<Syracuse> <location.location.containedby> "United States of America" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Utica> <location.location.contains> "Fort Schuyler Club" .
+<College/University> <freebase.type_profile.kind> "Definition" .
+<m.0kn0ybz> <education.education.institution> "Utica College" .
+<Ralph_Adams_Cram> <architecture.architect.architectural_style> "Gothic Revival architecture" .
+<m.07f63g6> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Chicago" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<Saint_Paul> <location.location.containedby> "United States of America" .
+<2012_UNSPOKEN_Human_Rights_Film_Festival> <time.event.locations> "Utica" .
+<m.06zxy7k> <common.topic.notable_types> "Location" .
+<Utica> <location.statistical_region.population> "m.066h6gl" .
+<Oneida_County> <location.statistical_region.population> "g.12b01nf8c" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0p3" .
+<Utica> <location.statistical_region.population> "g.11x1l0b9v" .
+<New_York_Mills> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<m.0cnnq2h> <location.mailing_address.state_province_region> "New York" .
+<Saint_Paul> <location.location.events> "One More from the Road Tour" .
+<Utica_Armory> <location.location.containedby> "Utica" .
+<Place_of_worship> <freebase.type_profile.strict_included_types> "Location" .
+<Minot> <common.topic.notable_types> "City/Town/Village" .
+<Mohawk_Valley_Community_College-Utica_Branch> <location.location.containedby> "Utica" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jtngz" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.university.local_tuition> "m.0h6_41_" .
+<Saint_Elizabeth_College_of_Nursing> <education.university.domestic_tuition> "m.0h6_fx4" .
+<Utica_College> <common.topic.article> "m.0285cw3" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<Oneida> <location.location.time_zones> "Eastern Time Zone" .
+<Auburn> <location.location.containedby> "New York" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <education.university.domestic_tuition> "m.0h6_fxl" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0nx" .
+<New_Century_Club> <common.topic.notable_types> "Building" .
+<Utica> <location.statistical_region.population> "m.0k6lflw" .
+<Oneida> <location.location.containedby> "New York" .
+<Oneida_County> <location.statistical_region.co2_emissions_mobile> "m.045l4c0" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Civic Arena" .
+<Utica_College> <location.location.containedby> "United States of America" .
+<US_County> <freebase.type_profile.strict_included_types> "Dated location" .
+<Rome> <location.location.time_zones> "Eastern Time Zone" .
+<Utica_College> <education.educational_institution.students_graduates> "m.04m218j" .
+<Stanley_Theater> <common.topic.notable_for> "g.1258k460d" .
+<Utica> <location.statistical_region.population> "m.0hls12z" .
+<Little_Falls> <location.location.containedby> "New York" .
+<Frankfort-Highland_Airport> <aviation.airport.serves> "Frankfort" .
+<Utica_Psychiatric_Center> <common.topic.notable_types> "Hospital" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0k1" .
+<Marcy> <location.location.containedby> "United States of America" .
+<Oneida_County> <location.statistical_region.population> "m.066hqk6" .
+<First_Presbyterian_Church> <base.usnris.nris_listing.significance_level> "Local" .
+<Landover> <location.location.time_zones> "Eastern Time Zone" .
+<Chicago> <location.hud_county_place.place> "Chicago" .
+<St._Joseph's_Church> <common.topic.article> "m.09v1q6l" .
+<m.0hjr0h8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Gen._John_G._Weaver_House> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11btv6tfwr" .
+<New_Century_Club> <architecture.structure.architectural_style> "Renaissance architecture" .
+<Clinton> <common.topic.notable_types> "City/Town/Village" .
+<Ithaca> <common.topic.notable_types> "City/Town/Village" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011f9yg3" .
+<Utica> <location.location.contains> "Utica Daily Press Building" .
+<Sherrill> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Mohawk_Valley_Community_College> <location.location.geolocation> "m.0wmjmjm" .
+<Stanley_Theater> <common.topic.image> "StanleyTheater" .
+<Ice_hockey_team> <freebase.type_profile.strict_included_types> "Topic" .
+<m.070435b> <location.mailing_address.citytown> "Utica" .
+<Utica_Public_Library> <common.topic.image> "Utica Public Library" .
+<San_Francisco> <common.topic.notable_types> "City/Town/Village" .
+<Clayville> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<SUNY_Polytechnic_Institute> <location.location.time_zones> "Eastern Time Zone" .
+<Mohawk_Valley_Community_College> <education.university.number_of_undergraduates> "m.0nblsr4" .
+<Utica> <location.location.contains> "Fountain Elms" .
+<Millar-Wheeler_House> <base.usnris.nris_listing.significance_level> "Local" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Topic" .
+<Sylvan_Beach> <location.location.containedby> "New York" .
+<m.0hjr0pb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Utica> <location.location.events> "2014 Boilermaker Road Race" .
+<m.0jfn04h> <location.mailing_address.postal_code> "13501" .
+<Bridgewater> <common.topic.notable_types> "City/Town/Village" .
+<Fort_Schuyler_Club> <location.location.containedby> "New York" .
+<Memorial_Church_of_the_Holy_Cross> <common.topic.notable_for> "g.1yl5lhwlz" .
+<Spokane> <common.topic.notable_types> "City/Town/Village" .
+<One_More_from_the_Road_Tour> <time.event.locations> "San Francisco" .
+<Frankfort> <location.location.containedby> "New York" .
+<m.0jtcy6m> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Lawrence> <location.location.containedby> "United States of America" .
+<Calvary_Episcopal_Church> <common.topic.notable_types> "Location" .
+<US_County> <freebase.type_hints.included_types> "Statistical region" .
+<Roscoe_Conkling> <people.person.place_of_birth> "Albany" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Fort Worth" .
+<Saint_Elizabeth_College_of_Nursing> <education.university.domestic_tuition> "m.0k7hb7z" .
+<m.0hls10n> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Observer-Dispatch> <book.periodical.first_issue_date> "m.03lkxkk" .
+<Observer-Dispatch> <common.topic.webpage> "m.06zyr2m" .
+<Utica> <location.location.events> "One More from the Road Tour" .
+<m.0h_3w7m> <location.mailing_address.citytown> "Utica" .
+<St._Joseph's_Church> <location.location.geolocation> "m.01227d3_" .
+<Little_Falls> <periodicals.newspaper_circulation_area.newspapers> "Syracuse New Times" .
+<Cooperstown> <base.biblioness.bibs_location.state> "New York" .
+<Cortland> <location.location.containedby> "New York" .
+<Utica> <location.statistical_region.population> "m.066h6d4" .
+<Oneida_County> <location.statistical_region.population> "m.066hqhj" .
+<Oneida_County> <location.statistical_region.population> "g.12b01w60f" .
+<m.0jsv4_4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<College/University> <freebase.type_hints.included_types> "Topic" .
+<Mohawk_Valley_Community_College> <common.topic.image> "Mvcclogo" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0k_" .
+<City/Town/Village> <type.type.properties> "Postal codes" .
+<m.0cnm_cw> <location.mailing_address.state_province_region> "New York" .
+<m.0cnpjk3> <location.mailing_address.state_province_region> "New York" .
+<Hampton> <common.topic.notable_types> "City/Town/Village" .
+<Bridgewater> <location.hud_county_place.county> "Oneida County" .
+<Grace_Church> <location.location.street_address> "m.06zxy7k" .
+<Pensacola> <location.location.events> "One More from the Road Tour" .
+<Mohawk_Valley_Community_College> <education.educational_institution.colors> "Grey" .
+<Utica_Daily_Press_Building> <common.topic.notable_for> "g.1yl5r95pl" .
+<m.0svw1fs> <education.education.institution> "Utica College" .
+<Millar-Wheeler_House> <location.location.street_address> "m.05hqb3j" .
+<Boston> <common.topic.notable_types> "City/Town/Village" .
+<Oriskany> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<New_York> <base.biblioness.bibs_location.country> "United States of America" .
+<Whitesboro> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Ashbel_P._Willard> <people.person.nationality> "United States of America" .
+<Byington_Mill_(Frisbie_&_Stansfield_Knitting_Company)> <common.topic.notable_for> "g.125fhh82d" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011nr3__" .
+<Utica_College> <award.ranked_item.appears_in_ranked_lists> "m.0h9hnm_" .
+<Clark_Mills> <location.location.containedby> "Oneida County" .
+<Bridgewater> <location.location.containedby> "Oneida County" .
+<John_N._Hungerford> <people.person.place_of_birth> "Oneida County" .
+<Hurd_&_Fitzgerald_Building> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.06_3xh2" .
+<Minot> <location.location.events> "One More from the Road Tour" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0kk" .
+<Kent> <location.location.time_zones> "Eastern Time Zone" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Concord" .
+<m.0cvlv7m> <common.webpage.topic> "Mohawk Valley Community College" .
+<Event> <freebase.type_profile.published> "Published" .
+<Fountain_Elms> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11c3j2vc2c" .
+<Utica_College> <award.ranked_item.appears_in_ranked_lists> "m.0h9hnmm" .
+<Utica> <location.hud_foreclosure_area.ofheo_price_change> "m.07f63h8" .
+<Ithaca> <location.location.containedby> "United States of America" .
+<Syracuse_New_Times> <common.topic.notable_for> "g.1257jmykq" .
+<Asbury_Park> <location.location.events> "One More from the Road Tour" .
+<Oneida_County_Airport> <aviation.airport.serves> "Utica" .
+<Utica_College> <education.university.domestic_tuition> "m.0h6_xbh" .
+<m.0cnnzmy> <location.mailing_address.citytown> "Utica" .
+<Portland> <location.location.containedby> "United States of America" .
+<Fort_Worth> <location.location.events> "One More from the Road Tour" .
+<Springfield> <base.biblioness.bibs_topic.is_really> "Springfield" .
+<SUNY_Polytechnic_Institute> <education.university.local_tuition> "m.0h6_mqc" .
+<New_York_Mills> <location.location.containedby> "Oneida County" .
+<New_York_Mills> <location.hud_county_place.place> "New York Mills" .
+<Event> <freebase.type_profile.strict_included_types> "Inanimate" .
+<New_Hartford> <location.location.containedby> "United States of America" .
+<Millar-Wheeler_House> <architecture.structure.architectural_style> "Italianate architecture" .
+<Cortland> <periodicals.newspaper_circulation_area.newspapers> "Syracuse New Times" .
+<Clark_Mills> <location.location.containedby> "New York" .
+<Place_of_worship> <freebase.type_hints.included_types> "Building" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0jm" .
+<Camden> <location.hud_county_place.place> "Camden" .
+<Frankfort> <common.topic.notable_types> "City/Town/Village" .
+<Detroit> <location.location.events> "One More from the Road Tour" .
+<Roscoe_Conkling_House> <location.location.containedby> "Utica" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Location" .
+<Utica> <location.location.contains> "Hurd & Fitzgerald Building" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012_74vb" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <organization.organization.headquarters> "m.0cnpjk3" .
+<2012_UNSPOKEN_Human_Rights_Film_Festival> <common.topic.notable_for> "g.11b61jprb9" .
+<13503> <location.postal_code.country> "United States of America" .
+<Oneida_County> <location.hud_foreclosure_area.hhuniv> "m.07d_wl9" .
+<Utica_College> <education.educational_institution.students_graduates> "m.0kn0ybz" .
+<Cooperstown> <base.biblioness.bibs_location.country> "United States of America" .
+<Syracuse> <base.biblioness.bibs_location.state> "New York" .
+<Stanley_Theater> <location.location.containedby> "Utica" .
+<Albany> <base.biblioness.bibs_location.state> "New York" .
+<Gen._John_G._Weaver_House> <location.location.geolocation> "m.0z8tc76" .
+<Mohawk_Valley_Community_College> <education.educational_institution.total_enrollment> "m.0nblsrf" .
+<Holland_Patent> <location.hud_county_place.place> "Holland Patent" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51y0" .
+<New_Orleans> <base.biblioness.bibs_location.country> "United States of America" .
+<Oriskany> <location.location.time_zones> "Eastern Time Zone" .
+<Utica> <location.statistical_region.population> "g.11x1kprct" .
+<Ice_hockey_team> <freebase.type_profile.published> "Published" .
+<San_Francisco> <base.biblioness.bibs_location.country> "United States of America" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Binghamton" .
+<Utica> <location.statistical_region.population> "m.0hls11b" .
+<Callahan> <common.topic.notable_types> "City/Town/Village" .
+<Bridgewater> <location.location.containedby> "New York" .
+<Utica_College> <education.educational_institution.phone_number> "m.0h9hc2v" .
+<SUNY_Polytechnic_Institute> <organization.organization.headquarters> "m.0h_3w7m" .
+<Utica_Public_Library> <library.public_library.library_system> "Utica Public Library" .
+<Utica> <location.statistical_region.population> "m.0hls10w" .
+<New_York_City> <base.biblioness.bibs_location.country> "United States of America" .
+<Knebworth_House> <location.location.events> "One More from the Road Tour" .
+<Utica> <location.statistical_region.population> "m.0hls127" .
+<Utica_Parks_and_Parkway_Historic_District> <common.topic.notable_types> "Location" .
+<Utica> <location.statistical_region.population> "m.066h6cz" .
+<SUNY_Polytechnic_Institute> <education.university.number_of_undergraduates> "m.0h7830g" .
+<Concord> <location.hud_county_place.place> "Concord" .
+<Time_Zone> <freebase.type_hints.included_types> "Topic" .
+<Ames> <location.location.containedby> "United States of America" .
+<Fort_Worth> <base.biblioness.bibs_location.country> "United States of America" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Statistical region" .
+<New_York_Mills> <common.topic.notable_types> "City/Town/Village" .
+<City/Town/Village> <freebase.type_hints.included_types> "Statistical region" .
+<Doyle_Hardware_Building> <common.topic.article> "m.09v61b8" .
+<Vernon> <location.hud_county_place.county> "Oneida County" .
+<Oneida_County> <location.us_county.hud_county_place> "Clayville" .
+<Birmingham> <common.topic.notable_types> "City/Town/Village" .
+<Hammersmith_Apollo> <location.location.events> "One More from the Road Tour" .
+<m.03js108> <location.adjoining_relationship.adjoins> "Oneida County" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<Event> <freebase.type_profile.strict_included_types> "Topic" .
+<Oneida_County> <location.statistical_region.population> "g.11x1h59qn" .
+<m.0wz2drw> <sports.team_venue_relationship.venue> "Utica Memorial Auditorium" .
+<Grace_Church> <architecture.structure.architectural_style> "Gothic Revival architecture" .
+<Lawrence> <base.biblioness.bibs_location.country> "United States of America" .
+<Utica_School_of_Commerce> <location.location.containedby> "United States of America" .
+<2012_UNSPOKEN_Human_Rights_Film_Festival> <common.topic.notable_types> "Film festival event" .
+<Doyle_Hardware_Building> <common.topic.notable_types> "Location" .
+<Lower_Genesee_Street_Historic_District> <common.topic.notable_for> "g.125cnxwz8" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <education.university.local_tuition> "m.0h6_fxc" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Los Angeles" .
+<Utica> <location.statistical_region.population> "g.11x1fk5x2" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0105y_05" .
+<Asbury_Park> <location.location.time_zones> "Eastern Time Zone" .
+<Asbury_Park> <location.hud_county_place.place> "Asbury Park" .
+<Byington_Mill_(Frisbie_&_Stansfield_Knitting_Company)> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11btv6t10q" .
+<South_Yarmouth> <location.location.containedby> "United States of America" .
+<Clayville> <location.location.time_zones> "Eastern Time Zone" .
+<Gothic_Revival_architecture> <architecture.architectural_style.architects> "Ralph Adams Cram" .
+<Utica> <location.location.containedby> "New York" .
+<Oneida_County_Airport> <location.location.geolocation> "m.02_jn_9" .
+<m.0svyv0m> <education.education.institution> "Mohawk Valley Community College" .
+<Eastern_Time_Zone> <base.schemastaging.context_name.pronunciation> "g.125_rxy8r" .
+<Rome> <periodicals.newspaper_circulation_area.newspapers> "Syracuse New Times" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0mt" .
+<Union_Station> <architecture.structure.architectural_style> "Beaux-Arts architecture" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Saint Paul" .
+<Sylvan_Beach> <location.location.time_zones> "Eastern Time Zone" .
+<Sylvan_Beach> <location.hud_county_place.county> "Oneida County" .
+<New_York_City> <common.topic.notable_types> "City/Town/Village" .
+<m.07042pm> <common.topic.notable_types> "Location" .
+<Omaha> <common.topic.notable_types> "City/Town/Village" .
+<Oneida_County> <location.us_county.hud_county_place> "Oneida County / County Place 3606599999" .
+<Bridgewater> <location.hud_county_place.place> "Bridgewater" .
+<New_Hartford> <location.location.containedby> "New York" .
+<Utica> <location.citytown.postal_codes> "13502" .
+<Oneida_County> <location.statistical_region.population> "g.11x1mbnln" .
+<Utica> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Marcy> <location.location.containedby> "Oneida County" .
+<Minot> <location.hud_county_place.place> "Minot" .
+<Lower_Genesee_Street_Historic_District> <location.location.geolocation> "m.0cm42tw" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <education.educational_institution_campus.educational_institution> "Faxton-St Luke's Healthcare School of Radiologic Technology" .
+<Utica> <location.citytown.postal_codes> "13505" .
+<Utica_College> <education.educational_institution.students_graduates> "m.04m1vrm" .
+<Syracuse> <location.location.containedby> "New York" .
+<Billings> <location.location.events> "One More from the Road Tour" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "Town" .
+<Chicago> <base.biblioness.bibs_topic.subsumes> "Chicago" .
+<m.0cnnq2h> <location.mailing_address.postal_code> "13501" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <common.topic.notable_types> "College/University" .
+<Oneida_County_Airport> <aviation.airport.serves> "Whitestown" .
+<m.0hjr0p3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011m9jg_" .
+<Flint> <location.location.time_zones> "Eastern Time Zone" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjyy" .
+<m.05h64g7> <common.topic.notable_types> "Location" .
+<Oneida_County> <common.topic.notable_for> "g.12568bblx" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <education.educational_institution.faculty> "m.0k7bspr" .
+<Rutger-Steuben_Park_Historic_District> <location.location.containedby> "New York" .
+<Utica_Public_Library> <location.location.geolocation> "m.0wmy5l6" .
+<One_More_from_the_Road_Tour> <freebase.valuenotation.is_reviewed> "Start date" .
+<Salt_Lake_City> <common.topic.notable_types> "City/Town/Village" .
+<Vernon> <common.topic.notable_types> "City/Town/Village" .
+<Ralph_Adams_Cram> <people.person.nationality> "United States of America" .
+<Oneida_County_Airport> <location.location.containedby> "13424" .
+<Birmingham> <base.biblioness.bibs_location.country> "United States of America" .
+<Gen._John_G._Weaver_House> <common.topic.notable_types> "Location" .
+<Syracuse> <location.location.containedby> "Area code 315" .
+<13599> <common.topic.notable_types> "Postal Code" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Little Falls" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012_976x" .
+<Lawrence> <location.location.events> "One More from the Road Tour" .
+<13599> <location.postal_code.country> "United States of America" .
+<Utica_Armory> <common.topic.notable_for> "g.1yl5pmp06" .
+<Oneida_Castle> <location.location.containedby> "Oneida County" .
+<Memorial_Church_of_the_Holy_Cross> <location.location.containedby> "Utica" .
+<Los_Angeles> <location.location.containedby> "United States of America" .
+<m.0h9hnmm> <award.ranking.item> "Utica College" .
+<SUNY_Polytechnic_Institute> <common.topic.notable_types> "College/University" .
+<United_States_of_America> <location.country.administrative_divisions> "Chicago" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0jd" .
+<Oneida_County> <location.us_county.hud_county_place> "Oriskany Falls" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Dated location" .
+<Utica_Public_Library> <common.topic.article> "m.09v1dy9" .
+<Frankfort> <location.location.containedby> "Herkimer County" .
+<Saint_Elizabeth_College_of_Nursing> <location.location.containedby> "Utica" .
+<Roscoe_Conkling_House> <common.topic.article> "m.02z5b60" .
+<Saint_Elizabeth_College_of_Nursing> <education.educational_institution.faculty> "m.0k90b_2" .
+<Utica_School_of_Commerce> <education.university.domestic_tuition> "m.0k7zwkl" .
+<Oneida_County> <location.us_county.hud_county_place> "Rome" .
+<Boonville> <location.location.time_zones> "Eastern Time Zone" .
+<Sylvan_Beach> <location.hud_county_place.place> "Sylvan Beach" .
+<Oneida_County> <location.hud_foreclosure_area.ofheo_price_change> "m.07d_wsh" .
+<Utica> <location.statistical_region.population> "m.0hls148" .
+<m.0cnnvpv> <location.mailing_address.postal_code> "13502" .
+<m.0nbls9f> <organization.leadership.organization> "Mohawk Valley Community College" .
+<Griffiss_International_Airport> <aviation.airport.serves> "Rome" .
+<Austin> <base.biblioness.bibs_location.country> "United States of America" .
+<Salt_Lake_City> <location.hud_county_place.place> "Salt Lake City" .
+<Lawrence> <common.topic.notable_types> "City/Town/Village" .
+<La_Crosse> <common.topic.notable_types> "City/Town/Village" .
+<San_Francisco> <location.administrative_division.second_level_division_of> "United States of America" .
+<Utica> <location.citytown.postal_codes> "13501" .
+<SUNY_Polytechnic_Institute> <education.university.acceptance_rate> "m.0h74b6k" .
+<Oneida_County> <location.location.adjoin_s> "m.03js108" .
+<Hampton> <location.location.time_zones> "Eastern Time Zone" .
+<Oneida_County_Airport> <common.topic.image> "UCA-FAA airport diagram" .
+<Utica> <location.statistical_region.population> "m.066h6gs" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Kent" .
+<m.0nbls_k> <organization.organization_relationship.child> "Mohawk Valley Community College" .
+<Oneida_Castle> <location.hud_county_place.place> "Oneida Castle" .
+<Mohawk_Valley_Community_College> <base.schemastaging.educational_institution_extra.libraries> "MVCC Rome Campus Library" .
+<Sports_Facility> <freebase.type_hints.included_types> "Topic" .
+<Oneida_County_Airport> <common.topic.notable_types> "Airport" .
+<Boonville> <common.topic.notable_types> "City/Town/Village" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Cortland" .
+<Union_Station> <common.topic.notable_for> "g.125bl3pzt" .
+<m.0hjr0k_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Santa_Barbara> <common.topic.notable_types> "City/Town/Village" .
+<Utica> <location.location.contains> "Gen. John G. Weaver House" .
+<Oneida_County> <location.location.people_born_here> "Stephen Moulton Babcock" .
+<m.0hls10f> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Sports_Facility> <freebase.type_hints.included_types> "Venue" .
+<Time_Zone> <freebase.type_profile.published> "Published" .
+<Buffalo> <location.location.containedby> "United States of America" .
+<Utica_Public_Library> <organization.organization.headquarters> "m.0wlshzf" .
+<Utica_Daily_Press_Building> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11b7vz9tzy" .
+<SUNY_Polytechnic_Institute> <education.educational_institution.students_graduates> "m.0w5byt6" .
+<Region> <freebase.type_hints.included_types> "Location" .
+<College/University> <freebase.type_profile.strict_included_types> "Topic" .
+<First_Presbyterian_Church> <common.topic.image> "FirstPresbyterianChurchUtica" .
+<Oswego> <common.topic.notable_types> "City/Town/Village" .
+<Marcy> <location.location.containedby> "New York" .
+<Utica> <location.location.contains> "Mohawk Valley Community College" .
+<New_York_Mills> <location.location.containedby> "United States of America" .
+<Oneida_County> <location.location.people_born_here> "Samuel Eells" .
+<Saint_Elizabeth_College_of_Nursing> <education.university.domestic_tuition> "m.0k7jpkk" .
+<SUNY_Polytechnic_Institute> <location.location.containedby> "Utica" .
+<m.0hjr0m3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Macon> <location.location.events> "One More from the Road Tour" .
+<Building> <freebase.type_profile.strict_included_types> "Inanimate" .
+<SUNY_Polytechnic_Institute> <education.university.domestic_tuition> "m.0h_3yzc" .
+<Grace_Church> <common.topic.article> "m.04051q2" .
+<Doyle_Hardware_Building> <location.location.containedby> "Utica" .
+<Auburn> <location.hud_county_place.place> "Auburn" .
+<Binghamton> <common.topic.notable_types> "City/Town/Village" .
+<Utica_Memorial_Auditorium> <sports.sports_facility.home_venue_for> "m.0wz2drn" .
+<Waterville> <location.location.containedby> "United States of America" .
+<Mohawk_Valley_Community_College> <education.university.international_tuition> "m.0nblskp" .
+<Location> <freebase.type_profile.published> "Published" .
+<Byington_Mill_(Frisbie_&_Stansfield_Knitting_Company)> <common.topic.notable_types> "Location" .
+<Airport> <freebase.type_profile.strict_included_types> "Topic" .
+<Cooperstown> <location.location.containedby> "United States of America" .
+<Binghamton> <location.location.time_zones> "Eastern Time Zone" .
+<m.06_3x9p> <location.mailing_address.citytown> "Utica" .
+<m.0hjr0n0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Utica_Memorial_Auditorium> <sports.sports_facility.teams> "Mohawk Valley Comets" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0ng" .
+<Roscoe_Conkling_House> <common.topic.notable_for> "g.1259pqxsx" .
+<m.0wz2drn> <sports.team_venue_relationship.venue> "Utica Memorial Auditorium" .
+<Los_Angeles> <freebase.valuenotation.is_reviewed> "Postal codes" .
+<Utica> <location.statistical_region.population> "m.066h6fv" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Rome" .
+<John_C._Hieber_Building> <common.topic.notable_for> "g.1yl5j0n71" .
+<m.03hc_rb> <common.webpage.topic> "Eastern Time Zone" .
+<Prospect> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<SUNY_Polytechnic_Institute> <education.educational_institution.campuses> "SUNY Polytechnic Institute" .
+<La_Crosse> <location.hud_county_place.place> "La Crosse" .
+<Utica> <location.statistical_region.population> "g.11x1kl3tn" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Milwaukee" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Auburn" .
+<Utica_Psychiatric_Center> <architecture.structure.architect> "Andrew Jackson Downing" .
+<Place_of_worship> <freebase.type_hints.included_types> "Location" .
+<Airport> <freebase.type_profile.published> "Published" .
+<13502> <common.topic.notable_types> "Postal Code" .
+<Oneida_County> <location.statistical_region.population> "g.11x1gq498" .
+<Oneida_County> <location.us_county.hud_county_place> "Barneveld" .
+<Clayville> <location.hud_county_place.place> "Clayville" .
+<Boston> <base.biblioness.bibs_topic.is_really> "Boston" .
+<Utica_Psychiatric_Center> <location.location.containedby> "New York" .
+<Boonville> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Utica> <location.location.contains> "Stanley Theater" .
+<Utica> <location.statistical_region.population> "g.11x1htl76" .
+<Albany> <location.hud_county_place.place> "Albany" .
+<m.03jqhnq> <location.adjoining_relationship.adjoins> "Oneida County" .
+<m.0cpzwpz> <common.webpage.topic> "Saint Elizabeth College of Nursing" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.university.local_tuition> "m.0k7hhzm" .
+<Utica> <location.statistical_region.population> "m.0hls10n" .
+<Rutger-Steuben_Park_Historic_District> <common.topic.article> "m.03crtft" .
+<13505> <common.topic.notable_types> "Postal Code" .
+<Utica_School_of_Commerce> <education.educational_institution.faculty> "m.0k879f4" .
+<Hurd_&_Fitzgerald_Building> <location.location.containedby> "Utica" .
+<Oneida_County> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07d_wmq" .
+<Callahan> <location.location.containedby> "United States of America" .
+<m.0sw1_bz> <education.education.institution> "Utica College" .
+<Barneveld> <location.location.containedby> "New York" .
+<13502> <common.topic.notable_for> "g.1255b7fgx" .
+<Billings> <location.location.containedby> "United States of America" .
+<New_York_City> <base.biblioness.bibs_topic.is_really> "New York City" .
+<SUNY_Polytechnic_Institute> <location.location.containedby> "United States of America" .
+<Oneida> <location.location.containedby> "United States of America" .
+<Yorkville> <common.topic.notable_types> "City/Town/Village" .
+<Frankfort-Highland_Airport> <common.topic.article> "m.0dll3sy" .
+<Oswego> <base.ndbcd.buoy.region> "New York" .
+<Roscoe_Conkling> <people.person.nationality> "United States of America" .
+<Waterbury> <location.location.events> "One More from the Road Tour" .
+<Hemel_Hempstead> <location.location.events> "One More from the Road Tour" .
+<m.07f63gn> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0hls10w> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<New_York> <base.aareas.schema.administrative_area.capital> "Albany" .
+<m.0hjr0np> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oneida_County> <location.statistical_region.population> "g.11x1m8s9f" .
+<South_Yarmouth> <common.topic.notable_types> "Statistical region" .
+<First_Presbyterian_Church> <common.topic.notable_types> "Place of worship" .
+<Marcy> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Saint_Elizabeth_College_of_Nursing> <education.university.local_tuition> "m.0h6_fwy" .
+<m.0jvvpzr> <location.administrative_division_capital_relationship.administrative_division> "Oneida County" .
+<Buffalo> <common.topic.notable_types> "City/Town/Village" .
+<Observer-Dispatch> <book.periodical.format> "m.04m97yl" .
+<m.0jq93yk> <common.topic.notable_types> "Location" .
+<Doyle_Hardware_Building> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11b7vt_2td" .
+<Vernon> <location.location.containedby> "United States of America" .
+<Herkimer_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<m.0jt1vzl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0kgnw49> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Los_Angeles> <base.biblioness.bibs_location.country> "United States of America" .
+<Syracuse> <location.hud_county_place.place> "Syracuse" .
+<Fox_Theatre> <location.location.containedby> "United States of America" .
+<Utica> <location.statistical_region.population> "m.066h6db" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Flint" .
+<Remsen> <location.hud_county_place.county> "Oneida County" .
+<Frankfort> <location.location.containedby> "United States of America" .
+<m.0cnnzmy> <location.mailing_address.postal_code> "13502" .
+<Utica> <location.citytown.postal_codes> "13504" .
+<Stanley_Theater> <architecture.structure.architect> "Thomas W. Lamb" .
+<Utica> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07f63h2" .
+<Syracuse_New_Times> <common.topic.notable_types> "Newspaper" .
+<m.02npc1p> <book.periodical_format_period.periodical> "Syracuse New Times" .
+<Oneida_County> <common.topic.notable_types> "US County" .
+<Cortland> <location.hud_county_place.place> "Cortland" .
+<Barneveld> <location.hud_county_place.place> "Barneveld" .
+<m.0cnp43v> <location.mailing_address.postal_code> "13501" .
+<Kent> <location.location.containedby> "United States of America" .
+<Utica_Daily_Press_Building> <common.topic.notable_types> "Location" .
+<Utica> <location.statistical_region.population> "g.11x1d4mp_" .
+<Utica_Daily_Press_Building> <common.topic.article> "m.09v2fhy" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Hammersmith Apollo" .
+<US_County> <freebase.type_hints.included_types> "Dated location" .
+<Utica_College> <education.university.domestic_tuition> "m.0k7gmfq" .
+<Oneida_County> <periodicals.newspaper_circulation_area.newspapers> "Rome Sentinel" .
+<m.0hjr0jm> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011tz0b1" .
+<United_States_Department_of_Housing_and_Urban_Development> <government.government_agency.jurisdiction> "United States of America" .
+<Ames> <location.hud_county_place.place> "Ames" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Sherrill" .
+<New_York_City> <location.location.containedby> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0111t6pl" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New York" .
+<Oneida_County> <location.statistical_region.population> "m.0jsv4_4" .
+<Utica> <location.statistical_region.population> "g.11x1hxq6b" .
+<Nashville> <location.location.events> "One More from the Road Tour" .
+<Oriskany> <location.hud_county_place.place> "Oriskany" .
+<m.0hls148> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0n55b2g> <education.education.institution> "Utica College" .
+<SUNY_Polytechnic_Institute> <education.educational_institution.school_type> "Public university" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Nassau Veterans Memorial Coliseum" .
+<Roscoe_Conkling_House> <base.usnris.nris_listing.significance_level> "National" .
+<Rutger-Steuben_Park_Historic_District> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.05h8rxm" .
+<m.0jfn04h> <location.mailing_address.state_province_region> "New York" .
+<2013_UNSPOKEN_Human_Rights_Film_Festival> <time.event.locations> "Utica" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0j5" .
+<Memphis> <location.hud_county_place.place> "Memphis" .
+<Utica> <location.statistical_region.population> "m.066h6cl" .
+<Spokane> <location.hud_county_place.place> "Spokane" .
+<SUNY_Polytechnic_Institute> <organization.organization.headquarters> "m.0cnnzmy" .
+<Callahan> <location.hud_county_place.place> "Callahan" .
+<m.010vxvyr> <education.education.institution> "Utica College" .
+<Oneida_County> <location.statistical_region.population> "m.0jtcj2l" .
+<Sports_Facility> <freebase.type_hints.included_types> "Location" .
+<Tampa> <location.location.time_zones> "Eastern Time Zone" .
+<Buffalo> <location.location.time_zones> "Eastern Time Zone" .
+<m.07d_wmq> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Stanley_Theater> <location.location.containedby> "New York" .
+<Boston> <base.biblioness.bibs_location.country> "United States of America" .
+<Rome> <location.hud_county_place.county> "Oneida County" .
+<Binghamton> <location.hud_county_place.place> "Binghamton" .
+<Eastern_Time_Zone> <common.topic.image> "UnionSquareAtomicClock" .
+<Region> <freebase.type_hints.included_types> "Topic" .
+<Ames> <common.topic.notable_types> "City/Town/Village" .
+<San_Francisco> <location.administrative_division.country> "United States of America" .
+<Postal_codes> <rdf-schema#domain> "City/Town/Village" .
+<m.0w5byt6> <education.education.institution> "SUNY Polytechnic Institute" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckj_k" .
+<m.05hqb3j> <location.mailing_address.citytown> "Utica" .
+<Ithaca> <periodicals.newspaper_circulation_area.newspapers> "Syracuse New Times" .
+<Oneida_County> <location.statistical_region.population> "g.11b66g7msw" .
+<m.0crtdyh> <sports.sports_league_participation.team> "Utica Devils" .
+<m.06zyr2m> <common.webpage.topic> "Observer-Dispatch" .
+<Utica> <location.location.contains> "Roscoe Conkling House" .
+<m.0wz2drw> <sports.team_venue_relationship.team> "Mohawk Valley Comets" .
+<Landover> <common.topic.notable_types> "City/Town/Village" .
+<Whitestown> <location.location.nearby_airports> "Oneida County Airport" .
+<Detroit> <location.location.time_zones> "Eastern Time Zone" .
+<Saint_Elizabeth_College_of_Nursing> <education.educational_institution_campus.educational_institution> "Saint Elizabeth College of Nursing" .
+<Utica-Rome,_NY_Metropolitan_Statistical_Area> <location.location.containedby> "New York" .
+<m.0hjr0n7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Utica> <location.location.contains> "Calvary Episcopal Church" .
+<m.06zxy7k> <location.mailing_address.citytown> "Utica" .
+<First_Baptist_Church_of_Deerfield> <common.topic.article> "m.09v30g8" .
+<m.0k6lflw> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Lewiston> <location.location.time_zones> "Eastern Time Zone" .
+<Fountain_Elms> <location.location.containedby> "Utica" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0l6" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Hara Arena" .
+<Albany> <location.location.containedby> "New York" .
+<Oneida_County> <location.location.adjoin_s> "m.03jq_qr" .
+<Utica_School_of_Commerce> <education.university.domestic_tuition> "m.0k8wbth" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Knebworth House" .
+<Stanley_Theater> <base.usnris.nris_listing.significance_level> "Local" .
+<Utica-Rome,_NY_Metropolitan_Statistical_Area> <location.location.contains> "Oneida County" .
+<Utica> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07f63gn" .
+<m.0cnnq2h> <location.mailing_address.citytown> "Utica" .
+<Utica_97_002> <common.image.appears_in_topic_gallery> "Utica" .
+<2013_UNSPOKEN_Human_Rights_Film_Festival> <common.topic.notable_for> "g.1q69pt3cv" .
+<New_Orleans> <location.location.containedby> "United States of America" .
+<Tampa> <location.hud_county_place.place> "Tampa" .
+<Utica_College> <education.educational_institution.colors> "Navy Blue" .
+<Fountain_Elms> <common.topic.notable_for> "g.1yl5v9jqm" .
+<13505> <common.topic.notable_for> "g.1254y3slq" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <education.educational_institution_campus.educational_institution> "Saint Elizabeth Medical Center School of Radiography" .
+<m.0cnnvpv> <location.mailing_address.state_province_region> "New York" .
+<Utica_College> <education.educational_institution_campus.educational_institution> "Utica College" .
+<Flint> <location.location.events> "One More from the Road Tour" .
+<New_Hartford> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Hurd_&_Fitzgerald_Building> <location.location.containedby> "New York" .
+<Utica_Psychiatric_Center> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.06_3xb4" .
+<Eastern_Time_Zone> <common.topic.article> "m.0k83440" .
+<m.070kh83> <common.topic.notable_types> "Location" .
+<Chicago> <location.administrative_division.country> "United States of America" .
+<Utica_College> <location.location.geolocation> "m.0wm__h4" .
+<Utica_College> <education.university.number_of_undergraduates> "m.0k7czfp" .
+<South_Yarmouth> <location.location.time_zones> "Eastern Time Zone" .
+<m.0cnnvpv> <location.mailing_address.country> "United States of America" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <location.location.containedby> "Utica" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <location.location.containedby> "Utica" .
+<m.0101plc4> <government.government_position_held.basic_title> "Mayor" .
+<Fulton> <periodicals.newspaper_circulation_area.newspapers> "Syracuse New Times" .
+<m.0h_3w7m> <location.mailing_address.state_province_region> "New York" .
+<Hampton> <location.location.events> "One More from the Road Tour" .
+<Union_Station> <common.topic.image> "Utica Railroad Station" .
+<Birmingham> <location.hud_county_place.place> "Birmingham" .
+<Oriskany> <location.location.nearby_airports> "Oneida County Airport" .
+<Utica_College> <education.educational_institution.students_graduates> "m.010vxvyr" .
+<Oneida_County_Airport> <aviation.airport.hub_for> "Empire Airlines" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Salt Lake City" .
+<Byington_Mill_(Frisbie_&_Stansfield_Knitting_Company)> <common.topic.article> "m.09v5qxq" .
+<John_C._Hieber_Building> <location.location.containedby> "Utica" .
+<New_York> <location.location.time_zones> "UTC−05:00" .
+<m.0hjr0nx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oneida_County> <location.statistical_region.population> "m.066hqj8" .
+<Utica> <location.statistical_region.population> "g.11x1jvpn_" .
+<Eastern_Time_Zone> <time.time_zone.day_dst_begins> "Second Sunday in March" .
+<Utica> <location.statistical_region.population> "g.11x1cs3c4" .
+<Oriskany_Falls> <common.topic.notable_types> "City/Town/Village" .
+<Herkimer_County> <location.location.time_zones> "UTC−05:00" .
+<m.0pqps1c> <location.mailing_address.state_province_region> "New York" .
+<Calvary_Episcopal_Church> <location.location.containedby> "Utica" .
+<Clark_Mills> <location.location.time_zones> "Eastern Time Zone" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Houston" .
+<Holland_Patent> <common.topic.notable_types> "City/Town/Village" .
+<Omaha> <location.location.containedby> "United States of America" .
+<Passaic> <location.hud_county_place.place> "Passaic" .
+<Fox_Theatre> <base.usnris.nris_listing.significance_level> "National" .
+<SUNY_Polytechnic_Institute> <location.location.containedby> "Oneida County" .
+<One_More_from_the_Road_Tour> <freebase.valuenotation.is_reviewed> "End date" .
+<Lawrence> <location.hud_county_place.place> "Lawrence" .
+<Utica_Parks_and_Parkway_Historic_District> <location.location.geolocation> "m.0cnlcnx" .
+<Utica> <location.location.contains> "Utica School of Commerce" .
+<Oneida_County> <common.topic.article> "m.0fc_h" .
+<m.05t_990> <award.award_honor.honored_for> "Observer-Dispatch" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.educational_institution.faculty> "m.0k7c70g" .
+<Utica_School_of_Commerce> <location.location.containedby> "New York" .
+<Fort_Schuyler_Club> <architecture.structure.architectural_style> "Federal architecture" .
+<Pensacola> <base.biblioness.bibs_location.country> "United States of America" .
+<Location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Oneida_County> <location.location.adjoin_s> "m.03jqhnq" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Pensacola" .
+<Lewiston> <location.hud_county_place.place> "Lewiston" .
+<m.0cnnq2h> <common.topic.notable_types> "Location" .
+<Utica_Psychiatric_Center> <base.usnris.nris_listing.significance_level> "National" .
+<New_York_City> <location.location.time_zones> "Eastern Time Zone" .
+<Boonville> <location.location.containedby> "Oneida County" .
+<Utica_College> <education.educational_institution.campuses> "Utica College" .
+<Auburn> <location.location.containedby> "United States of America" .
+<Utica> <location.location.contains> "Lower Genesee Street Historic District" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jt6z3" .
+<Boonville> <location.hud_county_place.place> "Boonville" .
+<Flint> <location.hud_county_place.place> "Flint" .
+<Griffiss_International_Airport> <aviation.airport.serves> "Oneida County" .
+<Ithaca> <location.hud_county_place.place> "Ithaca" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0h8" .
+<Newspaper> <freebase.type_hints.included_types> "Topic" .
+<Chicago> <location.location.containedby> "United States of America" .
+<m.07045xf> <location.mailing_address.citytown> "Utica" .
+<Oneida_County> <location.us_county.hud_county_place> "Camden" .
+<m.07d_wm3> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<SUNY_Polytechnic_Institute> <education.university.domestic_tuition> "m.0k7btw8" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012w3hyx" .
+<Fox_Theatre> <location.location.events> "One More from the Road Tour" .
+<13502> <location.location.geolocation> "m.03dv7yv" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <organization.organization.headquarters> "m.0cnp43v" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.educational_institution.campuses> "Mohawk Valley Community College-Utica Branch" .
+<Calvary_Episcopal_Church> <common.topic.article> "m.09v2j60" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<Wichita> <location.location.containedby> "United States of America" .
+<Houston> <common.topic.notable_types> "City/Town/Village" .
+<Time_Zone> <freebase.type_profile.kind> "Definition" .
+<Newspaper> <freebase.type_profile.published> "Published" .
+<Oneida_County> <location.statistical_region.population> "g.11x1j9__m" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Pawtucket" .
+<Utica_Daily_Press_Building> <location.location.geolocation> "m.0z8y25h" .
+<m.070435l> <protected_sites.natural_or_cultural_site_listing.listed_site> "Stanley Theater" .
+<Oriskany_Falls> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Waterville> <location.hud_county_place.county> "Oneida County" .
+<Oneida_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Fort_Schuyler_Club> <common.topic.article> "m.0405294" .
+<Stanley_Theater> <common.topic.article> "m.06zy56" .
+<Union_Station> <location.location.containedby> "Utica" .
+<First_Baptist_Church_of_Deerfield> <location.location.geolocation> "m.01259qbs" .
+<Kent> <common.topic.notable_types> "City/Town/Village" .
+<SUNY_Polytechnic_Institute> <location.location.containedby> "Marcy" .
+<Utica_College> <common.topic.webpage> "m.040gm7c" .
+<Place_of_worship> <freebase.type_profile.published> "Published" .
+<Rutger-Steuben_Park_Historic_District> <location.location.containedby> "Utica" .
+<m.0cp_7kq> <common.webpage.topic> "Utica College" .
+<Oswego> <location.location.time_zones> "Eastern Time Zone" .
+<Oneida_County> <location.location.people_born_here> "Al Schnier" .
+<Oneida_County> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07d_wpn" .
+<m.03jqhnq> <location.adjoining_relationship.adjoins> "Herkimer County" .
+<Chicago> <common.topic.notable_types> "City/Town/Village" .
+<Utica_School_of_Commerce> <common.topic.notable_types> "College/University" .
+<Grace_Church> <common.topic.notable_for> "g.1259zl51f" .
+<Utica_Public_Library> <organization.non_profit_organization.registered_with> "m.0ppg7mc" .
+<New_Hartford> <location.hud_county_place.place> "New Hartford" .
+<Oriskany> <location.location.containedby> "Oneida County" .
+<Fort_Schuyler_Club> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.070kh9y" .
+<Utica_Memorial_Auditorium> <location.location.geolocation> "m.0cnlclj" .
+<Clayville> <location.location.containedby> "United States of America" .
+<Utica> <location.citytown.postal_codes> "13503" .
+<Oneida_County> <location.statistical_region.population> "m.066hqjv" .
+<Event> <freebase.type_hints.included_types> "Topic" .
+<Utica_School_of_Commerce> <education.university.number_of_undergraduates> "m.0kdppwy" .
+<m.0101plc4> <government.government_position_held.jurisdiction_of_office> "Utica" .
+<Fountain_Elms> <common.topic.article> "m.09v7xnk" .
+<Waterbury> <common.topic.notable_types> "City/Town/Village" .
+<Saint_Paul> <base.biblioness.bibs_location.country> "United States of America" .
+<Billings> <common.topic.notable_types> "City/Town/Village" .
+<Utica> <location.statistical_region.population> "m.0hls120" .
+<Utica> <location.hud_foreclosure_area.hhuniv> "m.07f63f_" .
+<Ames> <base.biblioness.bibs_location.country> "United States of America" .
+<Ithaca> <base.biblioness.bibs_location.country> "United States of America" .
+<Boston> <location.location.time_zones> "Eastern Time Zone" .
+<Utica> <location.statistical_region.population> "g.11x1ct3_7" .
+<m.0wz2drn> <sports.team_venue_relationship.team> "Mohawk Valley Comets" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011vl2ss" .
+<U.S._Bank_Arena> <location.location.events> "One More from the Road Tour" .
+<Eastern_Time_Zone> <time.time_zone.day_dst_ends> "First Sunday in November" .
+<Utica_School_of_Commerce> <location.location.containedby> "Utica" .
+<New_York_Mills> <location.location.time_zones> "Eastern Time Zone" .
+<13501> <location.location.containedby> "Oneida County" .
+<Oneida_County> <location.statistical_region.population> "g.11x1fg06k" .
+<Mohawk_Valley_Community_College> <education.educational_institution.students_graduates> "m.0n1m_0m" .
+<Rome> <location.hud_county_place.place> "Rome" .
+<Utica> <location.statistical_region.population> "m.0hls135" .
+<Utica> <location.location.contains> "Saint Elizabeth Medical Center School of Radiography" .
+<Nashville> <location.location.containedby> "United States of America" .
+<Bridgewater> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Lower_Genesee_Street_Historic_District> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11btv6xgr3" .
+<m.07d_wpn> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Passaic> <location.location.containedby> "United States of America" .
+<Sylvan_Beach> <location.location.containedby> "Oneida County" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <education.university.domestic_tuition> "m.0h6zn1k" .
+<SUNY_Polytechnic_Institute> <education.educational_institution_campus.educational_institution> "SUNY Polytechnic Institute" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <common.topic.webpage> "m.0jvm41z" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010r12s4" .
+<Utica_Psychiatric_Center> <location.location.street_address> "m.06_3x9p" .
+<Santa_Barbara> <location.location.events> "One More from the Road Tour" .
+<SUNY_Polytechnic_Institute> <education.educational_institution.faculty> "m.0k7hcs2" .
+<Region> <freebase.type_profile.strict_included_types> "Topic" .
+<New_York> <base.militaryinfiction.location_in_fiction.contains> "New York City" .
+<Portland> <common.topic.notable_types> "City/Town/Village" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.university.number_of_undergraduates> "m.0h77ybr" .
+<Vernon> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<m.0hjr0jd> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Utica_Daily_Press_Building> <location.location.containedby> "Utica" .
+<New_York> <location.location.time_zones> "Eastern Time Zone" .
+<Rome> <common.topic.notable_types> "City/Town/Village" .
+<Maple_Leaf_Gardens> <location.location.events> "One More from the Road Tour" .
+<Utica> <base.biblioness.bibs_location.state> "New York" .
+<m.0hls127> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Area_code_315> <common.topic.notable_for> "g.1259wzj1g" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011c38cw" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "City" .
+<Utica_School_of_Commerce> <education.university.domestic_tuition> "m.0k7d_7z" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51yy" .
+<Remsen> <location.hud_county_place.place> "Remsen" .
+<2013_UNSPOKEN_Human_Rights_Film_Festival> <film.film_festival_event.films> "The People and the Olive" .
+<m.0wlshzf> <common.topic.notable_types> "Location" .
+<Prospect> <location.location.time_zones> "Eastern Time Zone" .
+<Austin> <common.topic.notable_types> "City/Town/Village" .
+<SUNY_Polytechnic_Institute> <common.topic.article> "m.02qfp6" .
+<Ice_hockey_team> <freebase.type_hints.included_types> "Topic" .
+<Union_Station> <common.topic.notable_types> "Location" .
+<SUNY_Polytechnic_Institute> <common.topic.notable_for> "g.1256pxhf6" .
+<Springfield> <location.location.containedby> "United States of America" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Central New York" .
+<Place_of_worship> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Utica-Rome,_NY_Metropolitan_Statistical_Area> <location.location.contains> "Herkimer County" .
+<Utica_College> <education.educational_institution.school_type> "Private university" .
+<Oneida> <location.hud_county_place.place> "Oneida" .
+<First_Presbyterian_Church> <architecture.structure.architect> "Ralph Adams Cram" .
+<m.0hjr0ml> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<First_Presbyterian_Church> <location.location.containedby> "Utica" .
+<Utica_Parks_and_Parkway_Historic_District> <location.location.containedby> "Utica" .
+<New_York> <location.location.partially_contains> "Niagara Falls" .
+<Downtown_Utica> <common.image.appears_in_topic_gallery> "Utica" .
+<Mohawk_Valley_Community_College> <education.educational_institution.colors> "Sea green" .
+<New_York_City> <location.hud_county_place.place> "New York City" .
+<New_Hartford> <location.location.time_zones> "Eastern Time Zone" .
+<Saint_Elizabeth_College_of_Nursing> <common.topic.notable_types> "College/University" .
+<m.06_3x9p> <common.topic.notable_types> "Location" .
+<Event> <type.type.properties> "End date" .
+<Utica_Devils> <sports.sports_team.league> "m.0crtdyh" .
+<Chicago> <base.biblioness.bibs_location.country> "United States of America" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.university.number_of_undergraduates> "m.0k7c45c" .
+<Camden> <location.hud_county_place.county> "Oneida County" .
+<Utica_Memorial_Auditorium> <location.location.containedby> "Utica" .
+<Barneveld> <common.topic.notable_types> "City/Town/Village" .
+<Utica> <location.statistical_region.population> "m.066h6gd" .
+<City/Town/Village> <freebase.type_profile.kind> "Significant" .
+<Oneida_County> <location.statistical_region.population> "g.11x1m0hp_" .
+<Memorial_Church_of_the_Holy_Cross> <common.topic.notable_types> "Location" .
+<13503> <common.topic.notable_types> "Postal Code" .
+<SUNY_Polytechnic_Institute> <organization.organization.leadership> "m.0h_3wb8" .
+<Oneida_County> <location.statistical_region.population> "g.11x1kf2lm" .
+<Passaic> <location.location.time_zones> "Eastern Time Zone" .
+<Oneida_County> <location.statistical_region.population> "m.066hqks" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0111t6vw" .
+<Cortland> <location.location.containedby> "United States of America" .
+<John_C._Hieber_Building> <location.location.geolocation> "m.0z8r039" .
+<Mohawk_Valley_Community_College> <organization.organization.parent> "m.0nbls_k" .
+<Oneida_County> <location.us_county.hud_county_place> "Holland Patent" .
+<Hurd_&_Fitzgerald_Building> <location.location.street_address> "m.06_3xgl" .
+<Utica> <location.statistical_region.population> "m.066h6cs" .
+<Stephen_Moulton_Babcock> <people.person.nationality> "United States of America" .
+<m.0cnnvpv> <location.mailing_address.citytown> "Utica" .
+<m.0cnph1w> <location.mailing_address.state_province_region> "New York" .
+<Utica> <location.statistical_region.population> "m.0hls13v" .
+<Remsen> <common.topic.notable_types> "City/Town/Village" .
+<Oneida_County> <location.statistical_region.population> "m.066hqkd" .
+<Prospect> <location.location.containedby> "United States of America" .
+<Syracuse_New_Times> <book.periodical.frequency_or_issues_per_year> "m.09s5zvh" .
+<2014_Boilermaker_Road_Race> <common.topic.notable_for> "g.1q6jvq6mz" .
+<Memorial_Church_of_the_Holy_Cross> <common.topic.article> "m.09v47fv" .
+<Syracuse_New_Times> <common.topic.article> "m.0dl9w3" .
+<Stanley_Theater> <location.location.geolocation> "m.02_sp0_" .
+<Oneida_County_Airport> <common.topic.notable_for> "g.125fxs622" .
+<Utica> <location.statistical_region.population> "m.066h6g0" .
+<Venue> <freebase.type_profile.strict_included_types> "Topic" .
+<Seattle> <base.biblioness.bibs_location.country> "United States of America" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.university.domestic_tuition> "m.0k8t6nr" .
+<Santa_Barbara> <location.hud_county_place.place> "Santa Barbara" .
+<Omaha> <location.location.events> "One More from the Road Tour" .
+<Oneida_County> <location.statistical_region.population> "m.066hqmh" .
+<Spokane> <base.biblioness.bibs_location.country> "United States of America" .
+<Utica_School_of_Commerce> <location.location.geolocation> "m.0jrb_3q" .
+<Waterville> <common.topic.notable_types> "City/Town/Village" .
+<Utica_College> <education.university.local_tuition> "m.0h6_xb8" .
+<Utica_College> <education.educational_institution.students_graduates> "m.0j1fmbh" .
+<Eastern_Time_Zone> <common.topic.notable_types> "Time Zone" .
+<One_More_from_the_Road_Tour> <music.concert_tour.artist> "Lynyrd Skynyrd" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <location.location.containedby> "New York" .
+<Oneida_County> <location.statistical_region.population> "g.11x1fk5fs" .
+<Niagara_Falls> <location.location.partially_containedby> "New York" .
+<Oneida_County> <location.statistical_region.population> "g.12b01q48m" .
+<Utica_Memorial_Auditorium> <sports.sports_facility.home_venue_for> "m.0wz2drw" .
+<Oriskany_Falls> <location.location.containedby> "United States of America" .
+<m.0jq93yk> <location.mailing_address.state_province_region> "New York" .
+<Utica> <location.statistical_region.population> "m.066h6g6" .
+<Little_Falls> <location.location.containedby> "Herkimer County" .
+<m.0cnnzmy> <common.topic.notable_types> "Location" .
+<Syracuse> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Callahan" .
+<Saint_Elizabeth_College_of_Nursing> <education.university.number_of_undergraduates> "m.0k7bsnx" .
+<m.057gtfs> <location.geometry.delineates_location> "13502" .
+<Niagara_Falls> <travel.tourist_attraction.near_travel_destination> "New York" .
+<One_More_from_the_Road_Tour> <time.event.locations> "South Yarmouth" .
+<Utica> <location.statistical_region.population> "m.0hls13d" .
+<m.0hjr0j5> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<University_of_Denver_Arena> <common.topic.notable_types> "Sports Facility" .
+<Concord> <location.location.events> "One More from the Road Tour" .
+<Los_Angeles> <common.topic.notable_types> "City/Town/Village" .
+<Ice_hockey_team> <freebase.type_profile.kind> "Definition" .
+<Mohawk_Valley_Community_College> <education.university.local_tuition> "m.0nblsjb" .
+<Hurd_&_Fitzgerald_Building> <common.topic.notable_for> "g.1254y8jmm" .
+<Concord> <base.biblioness.bibs_location.country> "United States of America" .
+<Oneida_County> <location.location.people_born_here> "John N. Hungerford" .
+<Ithaca> <base.biblioness.bibs_location.state> "New York" .
+<m.0hls11b> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Utica> <location.statistical_region.population> "m.066h6dq" .
+<Utica> <location.statistical_region.population> "g.11x1flkcj" .
+<m.0hjr0kb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Calvary_Episcopal_Church> <location.location.geolocation> "m.0z8m3d0" .
+<Auburn> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Saint_Elizabeth_College_of_Nursing> <education.university.local_tuition> "m.0k7bsb3" .
+<Utica> <location.statistical_region.population> "g.11x1hqy86" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0hz" .
+<Mohawk_Valley_Community_College> <location.location.containedby> "New York" .
+<Gen._John_G._Weaver_House> <common.topic.article> "m.09v9j1y" .
+<Utica_College> <education.educational_institution.mascot> "TRAX" .
+<Doyle_Hardware_Building> <common.topic.notable_for> "g.1yl5vzc1m" .
+<Miami_Stadium> <location.location.events> "One More from the Road Tour" .
+<Place_of_worship> <freebase.type_profile.strict_included_types> "Topic" .
+<Utica_Armory> <location.location.geolocation> "m.0z8zsld" .
+<Oneida_County> <location.us_county.hud_county_place> "Clinton" .
+<m.06zxy81> <protected_sites.natural_or_cultural_site_listing.listed_site> "Grace Church" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0ln" .
+<Time_Zone> <freebase.type_profile.strict_included_types> "Topic" .
+<Remsen> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<2014_Boilermaker_Road_Race> <time.event.locations> "Utica" .
+<Utica> <location.location.contains> "Utica Parks and Parkway Historic District" .
+<New_York_City> <base.biblioness.bibs_location.state> "New York" .
+<Oneida_County> <location.statistical_region.rent50_1> "m.05gdz4k" .
+<m.0wz2drf> <sports.team_venue_relationship.venue> "Utica Memorial Auditorium" .
+<Stanley_Theater> <location.location.street_address> "m.070435b" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Oneida" .
+<Cortland> <common.topic.notable_types> "City/Town/Village" .
+<Holland_Patent> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<New_Hartford> <common.topic.notable_types> "City/Town/Village" .
+<Utica> <location.location.contains> "First Presbyterian Church" .
+<Utica_College> <freebase.valuenotation.is_reviewed> "Headquarters" .
+<Airport> <freebase.type_profile.kind> "Definition" .
+<Millar-Wheeler_House> <common.topic.article> "m.03m4nt9" .
+<Barneveld> <location.hud_county_place.county> "Oneida County" .
+<m.03jqdys> <location.adjoining_relationship.adjoins> "Oneida County" .
+<13501> <location.location.geometry> "m.057gtc3" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51x5" .
+<Nassau_Veterans_Memorial_Coliseum> <common.topic.notable_types> "Sports Facility" .
+<Tampa> <common.topic.notable_types> "City/Town/Village" .
+<Los_Angeles> <location.hud_county_place.place> "Los Angeles" .
+<m.0hjr0hz> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Utica_Memorial_Auditorium> <sports.sports_facility.teams> "Mohawk Valley Comets" .
+<Landover> <location.location.events> "One More from the Road Tour" .
+<m.0cnm_cw> <location.mailing_address.citytown> "Utica" .
+<Ithaca> <location.location.containedby> "New York" .
+<Utica_College> <education.educational_institution.faculty> "m.0k7lpdg" .
+<Building> <freebase.type_hints.included_types> "Topic" .
+<Utica_Devils> <sports.sports_team.location> "Utica" .
+<Milwaukee> <location.location.containedby> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011m57bw" .
+<Hemel_Hempstead> <travel.travel_destination.tourist_attractions> "Knebworth House" .
+<San_Francisco> <base.biblioness.bibs_topic.is_really> "San Francisco" .
+<Springfield> <location.location.events> "One More from the Road Tour" .
+<Mohawk_Valley_Community_College-Utica_Branch> <common.topic.notable_types> "College/University" .
+<Prospect> <location.hud_county_place.county> "Oneida County" .
+<m.0wlshzf> <location.mailing_address.citytown> "Utica" .
+<First_Presbyterian_Church> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.07045xy" .
+<New_Century_Club> <architecture.structure.architectural_style> "Greek Revival" .
+<Utica> <common.topic.article> "m.0lpkb" .
+<Syracuse_New_Times> <book.newspaper.circulation_areas> "Oswego" .
+<Utica> <location.location.geolocation> "m.0kfm3p" .
+<Utica_Psychiatric_Center> <architecture.structure.architectural_style> "Greek Revival" .
+<Utica> <location.location.contains> "Memorial Church of the Holy Cross" .
+<Miami_Stadium> <common.topic.notable_types> "Sports Facility" .
+<One_More_from_the_Road_Tour> <time.event.locations> "New Orleans" .
+<m.0w5h7bc> <education.education.institution> "Mohawk Valley Community College" .
+<m.057gtc3> <location.geometry.delineates_location> "13501" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New York" .
+<m.0cp_ld6> <common.webpage.topic> "Utica School of Commerce" .
+<New_York> <location.administrative_division.first_level_division_of> "United States of America" .
+<Oneida_County> <location.location.geolocation> "m.0k972y" .
+<Utica> <location.statistical_region.population> "g.11x1klmq2" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Oneida_County> <location.location.people_born_here> "Thomas Lopton Campbell, Jr." .
+<Oneida_County_Airport> <common.topic.article> "m.081rpz" .
+<Utica_School_of_Commerce> <education.educational_institution.campuses> "Utica School of Commerce" .
+<Kent> <location.hud_county_place.place> "Kent" .
+<Utica> <location.statistical_region.population> "m.066h6f2" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Lewiston" .
+<m.06_3xgl> <location.mailing_address.state_province_region> "New York" .
+<Union_Station> <location.location.geolocation> "m.0wmn9jq" .
+<Uptown_Theatre> <common.topic.notable_for> "g.1255bx24k" .
+<Springfield> <location.hud_county_place.place> "Springfield" .
+<Fox_Theatre> <common.topic.notable_types> "Venue" .
+<Clayville> <location.hud_county_place.county> "Oneida County" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0ml" .
+<m.0cnnzmy> <location.mailing_address.state_province_region> "New York" .
+<Oneida_County> <location.statistical_region.co2_emissions_residential> "m.045js8q" .
+<m.0ccdzlp> <common.topic.notable_types> "Location" .
+<Observer-Dispatch> <book.newspaper.circulation_areas> "Utica" .
+<Grace_Church> <base.usnris.nris_listing.significance_level> "State" .
+<Detroit> <base.biblioness.bibs_location.country> "United States of America" .
+<Utica> <location.statistical_region.population> "m.0hls13m" .
+<Frankfort-Highland_Airport> <common.topic.notable_types> "Airport" .
+<Vernon> <location.location.containedby> "Oneida County" .
+<Omaha> <base.biblioness.bibs_location.country> "United States of America" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0n7" .
+<New_Century_Club> <location.location.street_address> "m.07042pm" .
+<Rome> <location.location.containedby> "New York" .
+<Barneveld> <location.location.time_zones> "Eastern Time Zone" .
+<Syracuse> <location.location.time_zones> "Eastern Time Zone" .
+<Holland_Patent> <location.location.containedby> "New York" .
+<End_date> <rdf-schema#domain> "Event" .
+<m.0cnph1w> <common.topic.notable_types> "Location" .
+<Clinton> <location.hud_county_place.place> "Clinton" .
+<m.070435b> <common.topic.notable_types> "Location" .
+<Cortland> <location.location.time_zones> "Eastern Time Zone" .
+<m.0jq93yk> <location.mailing_address.country> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kkbfd" .
+<Downtown_Utica> <common.image.size> "m.02929bf" .
+<Utica_College> <organization.organization.headquarters> "m.0cnnvpv" .
+<Oneida_County> <location.statistical_region.population> "g.11x1ckb6c" .
+<Utica> <location.statistical_region.population> "m.0hls11k" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Boston" .
+<m.07045xy> <protected_sites.natural_or_cultural_site_listing.listed_site> "First Presbyterian Church" .
+<Utica_College> <education.educational_institution.phone_number> "m.0h9hcp8" .
+<South_Yarmouth> <base.biblioness.bibs_location.country> "United States of America" .
+<Pensacola> <location.location.containedby> "United States of America" .
+<Utica> <location.citytown.postal_codes> "13599" .
+<La_Crosse> <location.location.events> "One More from the Road Tour" .
+<Boston> <location.location.containedby> "United States of America" .
+<Utica> <common.topic.image> "Utica 97 002" .
+<Clark_Mills> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Millar-Wheeler_House> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.05hqb3r" .
+<Utica> <location.location.nearby_airports> "Frankfort-Highland Airport" .
+<Fulton> <location.location.containedby> "United States of America" .
+<Oneida_County> <location.statistical_region.population> "m.066hqm8" .
+<Sherrill> <periodicals.newspaper_circulation_area.newspapers> "Syracuse New Times" .
+<Whitestown> <location.location.containedby> "United States of America" .
+<Oneida_County> <location.statistical_region.population> "m.0hjr0hh" .
+<Utica_College> <education.educational_institution.students_graduates> "m.0sw1_bz" .
+<Albany> <base.biblioness.bibs_location.country> "United States of America" .
+<Whitesboro> <location.hud_county_place.county> "Oneida County" .
+<Fort_Schuyler_Club> <common.topic.image> "FortSchuylerClubBuilding" .
+<Competition> <freebase.type_profile.strict_included_types> "Abstract" .
+<City/Town/Village> <type.type.properties> "City Limits" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jt74t" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.educational_institution_campus.educational_institution> "Mohawk Valley Community College-Utica Branch" .
+<Frankfort> <location.location.nearby_airports> "Frankfort-Highland Airport" .
+<College/University> <freebase.type_profile.strict_included_types> "Agent" .
+<Utica_Memorial_Auditorium> <common.topic.article> "m.067cyw" .
+<m.0j1fmbh> <education.education.institution> "Utica College" .
+<Fort_Schuyler_Club> <base.usnris.nris_listing.significance_level> "Local" .
+<Oneida_County> <location.administrative_division.capital> "m.0jvvpzr" .
+<Utica_Armory> <common.topic.article> "m.09v5qsb" .
+<Mohawk_Valley_Community_College> <education.university.domestic_tuition> "m.0nblsk4" .
+<Oswego> <location.location.containedby> "New York" .
+<Saint_Elizabeth_College_of_Nursing> <education.university.local_tuition> "m.0k7bs6f" .
+<Camden> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<m.0jfn04h> <common.topic.notable_types> "Location" .
+<Utica_Memorial_Auditorium> <sports.sports_facility.home_venue_for> "m.0wz2drf" .
+<Mohawk_Valley_Community_College-Utica_Branch> <location.location.containedby> "New York" .
+<Ashbel_P._Willard> <people.deceased_person.place_of_death> "Saint Paul" .
+<Venue> <freebase.type_hints.included_types> "Topic" .
+<m.06_3xh2> <protected_sites.natural_or_cultural_site_listing.listed_site> "Hurd & Fitzgerald Building" .
+<m.0jtcj2l> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<New_Orleans> <common.topic.notable_types> "City/Town/Village" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Portland" .
+<Saint_Elizabeth_Medical_Center_School_of_Radiography> <education.educational_institution.campuses> "Saint Elizabeth Medical Center School of Radiography" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "Village" .
+<Utica> <base.biblioness.bibs_location.country> "United States of America" .
+<Oriskany_Falls> <location.location.time_zones> "Eastern Time Zone" .
+<Oneida_County> <location.statistical_region.co2_emissions_commercial> "m.045jfjd" .
+<SUNY_Polytechnic_Institute> <education.educational_institution.colors> "Grey" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <education.educational_institution.parent_institution> "Faxton St. Luke's Healthcare" .
+<m.0hjr0k1> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Oswego> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<Springfield> <common.topic.notable_types> "City/Town/Village" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<Utica_School_of_Commerce> <common.topic.webpage> "m.0cp_ld6" .
+<Lewiston> <base.biblioness.bibs_location.country> "United States of America" .
+<Eastern_Time_Zone> <common.topic.article> "m.02hcvg" .
+<Utica_College> <location.location.containedby> "New York" .
+<Oriskany> <common.topic.notable_types> "City/Town/Village" .
+<Boston> <base.biblioness.bibs_topic.subsumes> "Boston" .
+<Buffalo> <location.location.containedby> "New York" .
+<Roscoe_Conkling_House> <common.topic.image> "Roscoeconklinghouse" .
+<Mohawk_Valley_Community_College> <education.educational_institution_campus.educational_institution> "Mohawk Valley Community College" .
+<Fort_Worth> <location.hud_county_place.place> "Fort Worth" .
+<Oneida_County> <location.us_county.county_seat> "Utica" .
+<m.0h_3zgy> <organization.organization_relationship.child> "SUNY Polytechnic Institute" .
+<One_More_from_the_Road_Tour> <common.topic.article> "m.0h1hlb3" .
+<Tampa> <base.biblioness.bibs_location.country> "United States of America" .
+<13599> <common.topic.notable_for> "g.12582gkyw" .
+<Detroit> <common.topic.notable_types> "City/Town/Village" .
+<Saint_Elizabeth_College_of_Nursing> <organization.organization.headquarters> "m.0cnm_cw" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckk2n" .
+<US_County> <freebase.type_profile.published> "Published" .
+<Utica> <location.location.contains> "Utica Public Library" .
+<Camden> <location.location.containedby> "New York" .
+<m.070kh83> <location.mailing_address.citytown> "Utica" .
+<Observer-Dispatch> <book.newspaper.owner> "GateHouse Media" .
+<Clayville> <location.location.containedby> "New York" .
+<Auburn> <periodicals.newspaper_circulation_area.newspapers> "Syracuse New Times" .
+<Oneida> <base.wikipedia_infobox.settlement.area_code> "Area code 315" .
+<m.0hjr0ln> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjv4" .
+<New_Century_Club> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.07042q2" .
+<m.03lmfr5> <common.webpage.topic> "Syracuse New Times" .
+<Saint_Elizabeth_College_of_Nursing> <education.educational_institution.campuses> "Saint Elizabeth College of Nursing" .
+<Utica> <location.statistical_region.population> "m.066h6dx" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Billings" .
+<Gen._John_G._Weaver_House> <common.topic.notable_for> "g.1yl5pwym6" .
+<Observer-Dispatch> <book.newspaper.headquarters> "m.0j_vsb4" .
+<m.0hls13m> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.066hql4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<St._Joseph's_Church> <location.location.containedby> "Utica" .
+<Oriskany> <location.citytown.postal_codes> "13424" .
+<Utica> <location.location.contains> "Utica Armory" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<Roscoe_Conkling_House> <location.location.containedby> "New York" .
+<Mohawk_Valley_Community_College> <education.educational_institution.students_graduates> "m.0svyv0m" .
+<m.07045xf> <location.mailing_address.state_province_region> "New York" .
+<Utica> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07f63gf" .
+<Syracuse_New_Times> <book.newspaper.headquarters> "m.0ccdzlp" .
+<Oneida_County> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07d_wm3" .
+<Macon> <common.topic.notable_types> "City/Town/Village" .
+<Mohawk_Valley_Community_College-Utica_Branch> <education.university.local_tuition> "m.0k90t2p" .
+<United_States_of_America> <location.country.administrative_divisions> "New Orleans" .
+<SUNY_Polytechnic_Institute> <education.university.local_tuition> "m.0k7hcy0" .
+<Oneida_County> <location.us_county.hud_county_place> "Whitesboro" .
+<Hurd_&_Fitzgerald_Building> <location.location.geolocation> "m.06_3xgx" .
+<m.06_3xgl> <common.topic.notable_types> "Location" .
+<m.04yz_n0> <common.topic.notable_types> "Location" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Buffalo" .
+<Sherrill> <location.location.containedby> "Oneida County" .
+<Utica_Public_Library> <common.topic.notable_types> "Public Library" .
+<Vernon> <location.location.time_zones> "Eastern Time Zone" .
+<First_Presbyterian_Church> <architecture.structure.architectural_style> "Colonial Revival architecture" .
+<Utica> <location.location.nearby_airports> "Oneida County Airport" .
+<Byington_Mill_(Frisbie_&_Stansfield_Knitting_Company)> <location.location.containedby> "Utica" .
+<Binghamton> <location.location.containedby> "New York" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Albany> <location.location.time_zones> "Eastern Time Zone" .
+<Faxton-St_Luke's_Healthcare_School_of_Radiologic_Technology> <location.location.containedby> "New York" .
+<m.0cnp43v> <common.topic.notable_types> "Location" .
+<Fulton> <location.location.containedby> "New York" .
+<Utica_College> <organization.organization.leadership> "m.0h9hpmq" .
+<Utica_School_of_Commerce> <education.university.local_tuition> "m.0h6_xbq" .
+<SUNY_Polytechnic_Institute> <location.location.geolocation> "m.0wmsg1m" .
+<Utica_Psychiatric_Center> <common.topic.notable_for> "g.125hbcxl4" .
+<New_Orleans> <location.administrative_division.country> "United States of America" .
+<Knebworth_House> <travel.tourist_attraction.near_travel_destination> "Hemel Hempstead" .
+<Utica_College> <common.topic.webpage> "m.0cp_7kq" .
+<Little_Falls> <location.location.time_zones> "Eastern Time Zone" .

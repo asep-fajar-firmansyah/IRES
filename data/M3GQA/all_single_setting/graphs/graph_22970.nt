@@ -1,0 +1,2619 @@
+<Lisa_Kristal> <film.film_character.portrayed_in_films> "m.0vmy743" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Sequel> <rdf-schema#range> "Film" .
+<Gene_Serdena> <freebase.valuenotation.has_value> "Date of birth" .
+<Hockinson> <location.hud_county_place.place> "Hockinson" .
+<Radio_Free_Albemuth> <film.film.starring> "m.05kdryk" .
+<m.0z83xqy> <award.award_nomination.ceremony> "2012 Teen Choice Awards" .
+<m.0gb4nng> <film.film_crew_gig.film> "Twilight" .
+<Twilight> <film.film.release_date_s> "m.0l3pc8m" .
+<m.0z8zb_t> <award.award_nomination.ceremony> "2009 Teen Choice Awards" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0_lsbvm" .
+<Alice_Cullen> <fictional_universe.fictional_character.character_created_by> "Stephenie Meyer" .
+<m.0y59x08> <award.award_honor.award> "Young Hollywood Award for Female Superstar of Tomorrow" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Vancouver> <location.location.time_zones> "Pacific Time Zone" .
+<Eclipse> <film.film.genre> "Romance Film" .
+<Jackson_Rathbone> <film.actor.film> "m.065qgp_" .
+<m.0gb4nr0> <film.film_crew_gig.film> "Twilight" .
+<Portland> <location.location.containedby> "United States of America" .
+<m.0z8hkq8> <award.award_nomination.ceremony> "2010 Teen Choice Awards" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.sequel> "The Twilight Saga: Breaking Dawn - Part 2" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Twilight> <film.film.produced_by> "Wyck Godfrey" .
+<The_Twilight_Saga:_New_Moon> <award.award_nominated_work.award_nominations> "m.0z8hkq8" .
+<City> <freebase.equivalent_topic.equivalent_type> "City/Town/Village" .
+<m.07hrq7y> <film.performance.film> "Twilight" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.production_companies> "Temple Hill Productions" .
+<m.05kdsj2> <film.performance.actor> "Ashley Greene" .
+<Teen_Choice_Award_for_Choice_Movie_Breakout_Star_-_Female> <award.award_category.nominees> "m.0z8z93p" .
+<Yacolt> <location.location.containedby> "Washington" .
+<m.0kbb5yq> <award.award_honor.ceremony> "2012 Teen Choice Awards" .
+<936full-ashley-greene.jpg> <common.image.size> "m.0j3xp3f" .
+<Orchards> <location.location.time_zones> "Pacific Time Zone" .
+<Twilight> <film.film.starring> "m.07m168g" .
+<Ashley_Greene> <common.topic.webpage> "m.09wfs4p" .
+<Alice_Cullen> <book.book_character.appears_in_book> "Twilight" .
+<Oregon> <location.location.containedby> "United States of America" .
+<m.0b0gzbc> <award.award_honor.honored_for> "Twilight" .
+<Ashley_Greene> <award.award_nominee.award_nominations> "m.0z83xqy" .
+<Clark_County> <location.statistical_region.population> "g.11x1ddrsv" .
+<m.0sx8zgp> <film.performance.actor> "Ashley Greene" .
+<m.07xzqyp> <award.ranking.item> "Ashley Greene" .
+<Eclipse> <media_common.adaptation.adapted_from> "Twilight" .
+<m.0z87zy6> <award.award_honor.award> "Teen Choice Award for Choice Movie Scene Stealer: Female" .
+<Ashley_Greene> <award.award_winner.awards_won> "m.0z8hbf8" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.rating> "PG-13 (USA)" .
+<Twilight> <film.film.featured_film_locations> "Vancouver" .
+<Olympia> <location.location.containedby> "Washington" .
+<Film> <type.type.properties> "Art direction by" .
+<Clark_County> <location.us_county.hud_county_place> "Battle Ground" .
+<Ashley_Greene> <film.actor.film> "m.0gbwhsv" .
+<Washougal> <location.statistical_region.population> "m.0hmncwt" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51yy" .
+<Ashley_Greene> <people.person.place_of_birth> "Jacksonville" .
+<Mark_Morgan> <film.producer.films_executive_produced> "Eclipse" .
+<La_Center> <location.location.containedby> "Clark County" .
+<m.0z8xxjq> <award.award_nomination.ceremony> "2009 Teen Choice Awards" .
+<m.0l3pc66> <film.film_regional_release_date.film> "Twilight" .
+<Karen_Rosenfelt> <film.producer.film> "The Twilight Saga: New Moon" .
+<Country_of_origin> <rdf-schema#range> "Country" .
+<Ashley_Greene_Photos> <common.resource.annotations> "m.09dwnw2" .
+<The_Twilight_Saga:_New_Moon> <film.film.executive_produced_by> "Mark Morgan" .
+<m.0gb4np7> <film.film_crew_gig.film> "Twilight" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <award.award_winning_work.awards_won> "m.0kbb5yq" .
+<Richard_Gardner> <people.deceased_person.place_of_death> "Los Angeles" .
+<Ashley_Greene> <award.award_winner.awards_won> "m.0z83xpm" .
+<Teen_Choice_Award_for_Choice_Movie_Breakout_Star_-_Female> <award.award_category.winners> "m.0gc_p7d" .
+<Portland> <base.biblioness.bibs_location.country> "United States of America" .
+<Stephenie_Meyer> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0105y_05" .
+<Twilight> <media_common.adapted_work.adaptations> "Twilight" .
+<m.0j3xnnf> <tv.regular_tv_appearance.series> "Pan Am" .
+<Portland> <location.location.containedby> "Oregon" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Clark_County> <location.us_county.hud_section_8_area> "Portland-Vancouver-Beaverton, OR-WA MSA HUD Section 8 Area" .
+<m.09yhcg1> <common.webpage.resource> "Rob Pattinson, Kristen Stewart, and Taylor Lautner screen 'New Moon' footage. Cue screams." .
+<Country> <freebase.type_hints.included_types> "Dated location" .
+<Joe_Jonas> <celebrities.celebrity.sexual_relationships> "m.0h3c4x8" .
+<Wyck_Godfrey> <film.producer.film> "Twilight" .
+<La_Center> <location.location.containedby> "Washington" .
+<Joe_Greene> <people.person.parents> "Joe Greene" .
+<Battle_Ground> <common.topic.notable_types> "City/Town/Village" .
+<m.0z83xpm> <award.award_honor.award> "Teen Choice Award for Choice Movie Scene Stealer: Female" .
+<m.0hjz077> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Twilight> <film.film.release_date_s> "m.0l3pbzq" .
+<Spanish_Language> <language.human_language.countries_spoken_in> "United States of America" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <media_common.adaptation.adapted_from> "Twilight" .
+<Mary_Tricia_Wood> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<m.0ptzk9f> <celebrities.sexual_orientation_phase.celebrity> "Ashley Greene" .
+<2012_Young_Hollywood_Awards> <time.event.locations> "Los Angeles" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "California" .
+<Oregon> <location.location.time_zones> "Pacific Time Zone" .
+<Sequel> <type.property.expected_type> "Film" .
+<m.0l3pc0m> <film.film_regional_release_date.film> "Twilight" .
+<m.0h3c4x8> <celebrities.romantic_relationship.relationship_type> "Dated" .
+<Ashley_Greene> <film.actor.film> "g.11b64bx_m5" .
+<Significant> <freebase.type_kind.types> "Country" .
+<m.0pdgl_g> <award.award_nomination.award> "Golden Raspberry Award for Worst Supporting Actress" .
+<m.0nfjvh1> <award.award_honor.honored_for> "Twilight" .
+<Wyck_Godfrey> <freebase.valuenotation.has_value> "Parents" .
+<Carter_Burwell> <music.artist.album> "Twilight" .
+<Clark_County> <location.statistical_region.population> "m.0hjz05p" .
+<Washington_Student_Math_Association> <base.charities.charity.geographic_scope> "Washington" .
+<Hollywood> <film.film_location.featured_in_films> "Shrink" .
+<American_National_Biography> <book.written_work.subjects> "Americans" .
+<m.05hv23h> <film.performance.actor> "Ashley Greene" .
+<m.05kdsg3> <tv.tv_guest_role.actor> "Ashley Greene" .
+<Twilight> <film.film.other_crew> "m.0gb4nv9" .
+<Chace_Crawford> <people.person.profession> "Model" .
+<California> <location.location.containedby> "United States of America" .
+<Clark_County> <location.statistical_region.population> "g.11x1ktf59" .
+<m.09x471x> <common.webpage.topic> "Ashley Greene" .
+<Twilight> <award.award_winning_work.awards_won> "m.0sgmqpp" .
+<Parents> <type.property.expected_type> "Person" .
+<Gresham> <location.location.time_zones> "Pacific Time Zone" .
+<Clark_County> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07ftmzq" .
+<The_Twilight_Saga:_New_Moon> <freebase.valuenotation.is_reviewed> "Costume design by" .
+<Americans> <common.topic.image> "People of the United States" .
+<Eclipse> <film.film.produced_by> "Karen Rosenfelt" .
+<The_Twilight_Saga:_New_Moon> <film.film.language> "English Language" .
+<Alice_Cullen> <film.film_character.portrayed_in_films> "m.05hv23h" .
+<Washougal> <location.hud_foreclosure_area.total_residential_addresses> "m.07fttk8" .
+<Michele_Imperato> <freebase.valuenotation.has_value> "Place of birth" .
+<Catherine_Hardwicke> <film.director.film> "Twilight" .
+<Clackamas_Community_College> <location.location.containedby> "United States of America" .
+<US_County> <freebase.type_profile.strict_included_types> "Dated location" .
+<Wendy_Chuck> <film.film_costumer_designer.costume_design_for_film> "Twilight" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<Santa_Clarita> <location.hud_county_place.place> "Santa Clarita" .
+<m.0nfjt4v> <award.award_honor.honored_for> "Twilight" .
+<m.09sgm77> <award.award_nomination.nominated_for> "Twilight" .
+<Twilight> <book.book.genre> "Fantasy" .
+<100_1574.jpg> <common.image.size> "m.029vppm" .
+<m.0gb4ns5> <film.film_crew_gig.film> "Twilight" .
+<Portland-Vancouver-Beaverton,_OR-WA_Metropolitan_Statistical_Area> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "California" .
+<Carter_Burwell> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<City/Town/Village> <type.type.domain> "Location" .
+<Mill_Plain> <location.location.containedby> "Washington" .
+<The_Twilight_Saga:_New_Moon> <freebase.valuenotation.is_reviewed> "Screenplay by" .
+<The_Twilight_Saga:_New_Moon> <film.film.starring> "m.05kdrx4" .
+<Ashley_Greene> <people.person.parents> "Michele Greene" .
+<Lakewood> <location.hud_county_place.place> "Lakewood" .
+<Theodore> <biology.organism.sex> "Male" .
+<Taylor_Lautner_at_New_York_'New_Moon'_premiere:_'Werewolves_are_sexier'> <common.resource.annotations> "m.09wfs4p" .
+<Washougal> <location.statistical_region.population> "g.11x1kpqq2" .
+<m.0z87zy6> <award.award_honor.award_winner> "Ashley Greene" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.film_series> "The Twilight Saga" .
+<Americans> <book.book_subject.works> "Why Race Mattered in Barack Obama's Re-election" .
+<Twilight> <award.award_winning_work.awards_won> "m.0nf3c0c" .
+<m.0hmnc_b> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Clark_County> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07ftmzh" .
+<Twilight> <film.film.release_date_s> "m.0l3pc4j" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <time.event.locations> "New Berlin" .
+<Columbia_Gorge_International_Film_Festival> <film.film_festival.individual_festivals> "2008 Columbia Gorge International Film Festival" .
+<m.02nc8qj> <common.webpage.category> "Topic Webpage" .
+<Shrink> <film.film.subjects> "Hollywood" .
+<m.0gb4nry> <film.film_crew_gig.film> "Twilight" .
+<Twilight> <film.film.release_date_s> "m.0l3pbs6" .
+<Sacramento> <location.location.time_zones> "Pacific Time Zone" .
+<m.0z8hkq8> <award.award_nomination.award_nominee> "Ashley Greene" .
+<Wendy_Chuck> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Lake_Shore> <location.hud_county_place.county> "Clark County" .
+<Wendy_Chuck> <people.person.gender> "Female" .
+<Twilight> <film.film.release_date_s> "m.0l3pc1b" .
+<m.07fttk1> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <media_common.netflix_title.netflix_genres> "Vampire Movies" .
+<Country> <freebase.type_profile.published> "Published" .
+<Karen_Rosenfelt> <freebase.valuenotation.is_reviewed> "Gender" .
+<Cinematography> <rdf-schema#domain> "Film" .
+<City/Town/Village> <freebase.type_profile.kind> "Significant" .
+<A_Warrior's_Heart> <media_common.netflix_title.netflix_genres> "Drama" .
+<100_1574.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<Santa_Clarita> <common.topic.notable_types> "City/Town/Village" .
+<Ashley_Greene> <award.award_nominee.award_nominations> "m.0pdgl_g" .
+<Five_Corners> <location.location.containedby> "Washington" .
+<Twilight> <film.film.other_crew> "m.0gb4nvk" .
+<Clark_County> <location.us_county.hud_county_place> "Clark County / County Place 5301199999" .
+<normal_004.jpg> <common.image.size> "m.02br0yg" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011nr3__" .
+<Jackson_Rathbone> <celebrities.celebrity.celebrity_friends> "m.05k73s9" .
+<Joe_Greene> <common.topic.notable_types> "Person" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51x5" .
+<LOL> <film.film.country> "United States of America" .
+<Santa_Clarita> <location.location.containedby> "California" .
+<m.0hjz050> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Clark_County> <location.statistical_region.population> "m.0hjz07x" .
+<m.0l3pcfp> <film.film_regional_release_date.film> "Twilight" .
+<Orchards> <location.hud_county_place.county> "Clark County" .
+<Temple_Hill_Productions> <film.production_company.films> "The Twilight Saga: New Moon" .
+<Clark_County> <location.statistical_region.population> "m.0hjz06l" .
+<Washougal> <common.topic.article> "m.010q6v" .
+<Washington> <location.location.time_zones> "Pacific Time Zone" .
+<Clark_County> <location.us_county.hud_county_place> "Five Corners" .
+<m.07ftmzh> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.09yqc68> <common.webpage.topic> "Ashley Greene" .
+<Ashley_Greene> <tv.tv_actor.guest_roles> "m.0ghmng3" .
+<Americans> <base.inspiration.inspiration.inspired_by> "\'History dressed up in the glow of love’s kiss turned grief into beauty.\'" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.produced_by> "Wyck Godfrey" .
+<The_Twilight_Saga:_New_Moon> <freebase.valuenotation.is_reviewed> "Music by" .
+<Ashley_Greene> <common.topic.webpage> "m.09x1rnr" .
+<Stephenie_Meyer> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0hjz03p> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Art_direction_by> <type.property.schema> "Film" .
+<Twilight> <film.film.featured_film_locations> "Corbett" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Country of origin" .
+<Joe_Greene> <common.topic.notable_types> "Person" .
+<Twilight> <book.literary_series.author_s> "Stephenie Meyer" .
+<Nancy_Richardson> <freebase.valuenotation.is_reviewed> "Gender" .
+<Joe_Greene> <people.person.spouse_s> "m.0t4s187" .
+<m.0hjz07x> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0l3pccn> <film.film_regional_release_date.film> "Twilight" .
+<Portland> <base.biblioness.bibs_location.state> "Oregon" .
+<Santa_Clarita> <film.film_location.featured_in_films> "Twilight" .
+<m.07fttjv> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Guy_Oseary> <film.producer.films_executive_produced> "Eclipse" .
+<The_Twilight_Saga> <film.film_series.films_in_series> "The Twilight Saga: New Moon" .
+<Ashley_Greene> <common.topic.image> "Teen_Vogue_Jan31newsnea.jpg" .
+<Music_by> <rdf-schema#domain> "Film" .
+<Guy_Oseary> <people.person.nationality> "United States of America" .
+<Ashley_Greene> <people.person.education> "m.0b6zmzb" .
+<m.0j3xnnf> <tv.regular_tv_appearance.actor> "Ashley Greene" .
+<Portland> <film.film_location.featured_in_films> "The Twilight Saga: New Moon" .
+<Time_Zone> <freebase.type_profile.kind> "Definition" .
+<Twilight> <book.literary_series.works_in_this_series> "Twilight" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oregon" .
+<Country> <freebase.type_profile.kind> "Definition" .
+<Place_of_birth> <owl#inverseOf> "People born here" .
+<Oxbow_Regional_Park> <film.film_location.featured_in_films> "Twilight" .
+<Twilight> <award.award_winning_work.awards_won> "m.0_lsbds" .
+<Mechanicsville> <location.location.containedby> "United States of America" .
+<Meadow_Glade> <location.location.time_zones> "Pacific Time Zone" .
+<'Twilight'_sequel:_Vanessa_Hudgens_reportedly_auditioned_for_'New_Moon'> <common.resource.annotations> "m.09wsdbm" .
+<Ashley_Greene> <people.person.places_lived> "m.0gxw4_8" .
+<m.0djz0zv> <film.performance.character> "Alice Cullen" .
+<Ashley_Greene> <common.topic.image> "100_1574.jpg" .
+<Summit_Entertainment> <film.production_company.films> "The Twilight Saga: New Moon" .
+<Vancouver> <common.topic.notable_types> "City/Town/Village" .
+<Washougal> <common.topic.image> "Downtown Washougal facing west" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Music by" .
+<Kaitlen_Pickler> <film.film_character.portrayed_in_films> "m.0dh6lz0" .
+<m.0l3pbyg> <film.film_regional_release_date.film> "Twilight" .
+<Twilight> <film.film.other_crew> "m.0gb4nwg" .
+<Gender> <rdf-schema#domain> "Person" .
+<Ashley_Greene> <common.topic.webpage> "m.09dwnw2" .
+<Stephenie_Meyer> <freebase.valuenotation.is_reviewed> "Parents" .
+<Romance_Film> <media_common.media_genre.parent_genre> "Drama" .
+<m.0gc_p7d> <award.award_honor.award_winner> "Ashley Greene" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <time.event.locations> "Washougal" .
+<Why_Race_Mattered_in_Barack_Obama's_Re-election> <book.written_work.original_language> "American English" .
+<Twilight> <film.film.executive_produced_by> "Marty Bowen" .
+<Stephenie_Meyer> <book.author.series_written_or_contributed_to> "Twilight" .
+<Americans> <people.ethnicity.languages_spoken> "Spanish Language" .
+<m.0yr9fh1> <award.award_honor.award_winner> "Ashley Greene" .
+<Karen_Rosenfelt> <freebase.valuenotation.has_value> "Date of birth" .
+<Twilight> <film.film.distributors> "m.05mnl64" .
+<Location> <type.type.domain> "Location" .
+<Clark_County> <location.us_county.hud_county_place> "Lewisville" .
+<2010_Young_Hollywood_Awards> <award.award_ceremony.awards_presented> "m.0yr9fh1" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.written_by> "Melissa Rosenberg" .
+<Twilight> <film.film.starring> "m.065qgp_" .
+<Random> <common.topic.notable_types> "Film" .
+<m.0l3pbvh> <film.film_regional_release_date.film> "Twilight" .
+<m.0l3pb_0> <film.film_regional_release_date.film> "Twilight" .
+<Twilight> <film.film.release_date_s> "m.0l3pc89" .
+<m.075xjjf> <film.performance.actor> "Ashley Greene" .
+<Twilight> <film.film.release_date_s> "m.0l3pbwm" .
+<Walnut_Grove> <location.hud_county_place.place> "Walnut Grove" .
+<m.0l3pbz9> <film.film_regional_release_date.film> "Twilight" .
+<m.03jqq19> <location.adjoining_relationship.adjoins> "Clark County" .
+<Melissa_Rosenberg> <film.writer.film> "Twilight" .
+<Maverick_Films> <organization.organization.founders> "Guy Oseary" .
+<m.04m6lb4> <film.performance.film> "Twilight" .
+<Ashley_Greene> <film.actor.film> "m.05kdrx4" .
+<Twilight> <film.film.release_date_s> "m.0l3pc66" .
+<Ulalume:_Howling_at_New_Moon> <film.film.language> "English Language" .
+<m.0l3pcbf> <film.film_regional_release_date.film> "Twilight" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011x4lp6" .
+<m.0cf_7fl> <film.film_cut.film> "Twilight" .
+<m.05mndm7> <film.film_regional_release_date.film> "Twilight" .
+<Ashley> <film.film_character.portrayed_in_films> "m.0dlr3qp" .
+<m.0z88088> <award.award_nomination.award_nominee> "Ashley Greene" .
+<m.0fprd5b> <film.performance.character> "Brooklyn" .
+<m.0z8zcln> <award.award_nomination.nominated_for> "Twilight" .
+<m.0zn7f58> <film.performance.actor> "Ashley Greene" .
+<Teen_Vogue_Jan31newsnea.jpg> <common.image.size> "m.0knfrp" .
+<m.0b0bmb5> <award.award_honor.honored_for> "Twilight" .
+<m.02nc8qj> <common.webpage.resource> "m.0bjrg4z" .
+<Maverick_Films> <film.production_company.films> "Twilight" .
+<Celebrity> <common.topic.article> "m.047jqv5" .
+<m.0gxw4_8> <people.place_lived.person> "Ashley Greene" .
+<Clark_County> <location.location.adjoin_s> "m.03jqdt8" .
+<m.0g784jh> <tv.tv_guest_role.actor> "Ashley Greene" .
+<Eclipse> <film.film.executive_produced_by> "Marty Bowen" .
+<Columbia_River_Gorge> <film.film_location.featured_in_films> "Twilight" .
+<Joe_Greene> <people.person.place_of_birth> "Jacksonville" .
+<Clark_County> <location.statistical_region.population> "m.0hjz043" .
+<Joe_Jonas> <people.person.profession> "Actor" .
+<m.0b0b974> <award.award_honor.honored_for> "Twilight" .
+<Twilight> <film.film.other_crew> "m.0gb4nv1" .
+<Pacific_Time_Zone> <common.topic.article> "m.0j_5n57" .
+<People_born_here> <type.property.schema> "Location" .
+<Marty_Bowen> <freebase.valuenotation.has_value> "Date of birth" .
+<Joe_Jonas> <people.person.gender> "Male" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Casting director" .
+<Eclipse> <common.topic.notable_types> "Film" .
+<Twilight> <film.film.starring> "m.07m164r" .
+<Twilight> <film.film.release_date_s> "m.0l3pc9c" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Produced by" .
+<Person> <type.type.properties> "Gender" .
+<'Twilight'_star_threatens_lawsuit_over_nude_pics> <common.resource.annotations> "m.09x0lh_" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kk9vk" .
+<m.05mnl64> <film.film_film_distributor_relationship.film> "Twilight" .
+<The_Apparition> <film.film.language> "English Language" .
+<m.0bvyr3g> <tv.tv_guest_role.episodes_appeared_in> "The Not-So-Perfect Couple" .
+<Pacific_Time_Zone> <time.time_zone.day_dst_ends> "First Sunday in November" .
+<Ashley_Greene> <common.topic.article> "m.03w9v1j" .
+<m.0b3wcbm> <award.award_nomination.nominated_for> "Twilight" .
+<Twilight> <award.award_winning_work.awards_won> "m.0z97m9n" .
+<Twilight> <film.film.starring> "m.04z4zlp" .
+<Skateland> <film.film.country> "United States of America" .
+<The_Twilight_Saga:_New_Moon> <media_common.netflix_title.netflix_genres> "Drama" .
+<Los_Angeles> <base.ndbcd.buoy.region> "California" .
+<Clark_County> <location.hud_foreclosure_area.ofheo_price_change> "m.07ftm_n" .
+<m.0l3pcbr> <film.film_regional_release_date.film> "Twilight" .
+<Mount_Vista> <location.location.containedby> "Clark County" .
+<Clark_County> <periodicals.newspaper_circulation_area.newspapers> "The Oregonian" .
+<Ridgefield> <location.hud_county_place.place> "Ridgefield" .
+<m.0hjz05p> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0v4ym33> <film.performance.character> "Alice Garano" .
+<m.05hv4jz> <people.place_lived.person> "Ashley Greene" .
+<Deborah_Aquila> <freebase.valuenotation.has_value> "Place of birth" .
+<Ashley_Greene> <award.award_winner.awards_won> "m.0yr9fh1" .
+<Ashley_Greene> <celebrities.celebrity.celebrity_friends> "m.05k73s9" .
+<Radio_Free_Albemuth> <media_common.netflix_title.netflix_genres> "Sci-Fi & Fantasy" .
+<m.05hv4jz> <people.place_lived.location> "Los Angeles" .
+<m.056hczv> <location.geometry.delineates_location> "98671" .
+<m.0rzck1q> <film.film_crew_gig.film> "Twilight" .
+<m.0gc_p7d> <award.award_honor.honored_for> "Twilight" .
+<Time_zone(s)> <rdf-schema#domain> "Location" .
+<Ian_Phillips> <freebase.valuenotation.has_value> "Parents" .
+<2012_Young_Hollywood_Awards> <award.award_ceremony.awards_presented> "m.0y59x08" .
+<Punk'd> <tv.tv_program.regular_personal_appearances> "m.05kds3_" .
+<m.0t4s187> <people.marriage.spouse> "Joe Greene" .
+<Jacksonville> <base.biblioness.bibs_location.state> "Florida" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012z3l2r" .
+<Clark_County> <location.statistical_region.population> "g.12b01zmmt" .
+<Olympia> <base.biblioness.bibs_location.state> "Washington" .
+<m.0gb4ns1> <film.film_crew_gig.film> "Twilight" .
+<Washougal> <location.statistical_region.population> "g.11x1lspyz" .
+<Michele_Greene> <common.topic.notable_for> "g.125dyshb5" .
+<Oxbow_Regional_Park> <common.topic.notable_types> "Location" .
+<m.0gb4nrf> <film.film_crew_gig.film> "Twilight" .
+<Washougal> <location.location.time_zones> "Pacific Time Zone" .
+<Clark_County> <location.statistical_region.rent50_0> "m.05ggldg" .
+<m.0sx8zgp> <film.performance.film> "The Apparition" .
+<Wish_I_Was_Here> <film.film.genre> "Drama" .
+<Twilight> <media_common.adapted_work.adaptations> "The Twilight Saga: Breaking Dawn - Part 2" .
+<Ethnicity> <freebase.type_profile.strict_included_types> "Topic" .
+<m.072f06g> <education.education.institution> "University Christian School" .
+<m.09yp1b0> <common.webpage.resource> "Ashley Greene's new projects: Is there life beyond 'Twilight'?" .
+<Mark_Morgan> <freebase.valuenotation.is_reviewed> "Gender" .
+<Pacific_Time_Zone> <common.topic.article> "m.02lcqz" .
+<Jacksonville> <base.biblioness.bibs_location.country> "United States of America" .
+<Rachelle_Lefevre> <celebrities.celebrity.celebrity_friends> "m.0b7bkvl" .
+<Camas> <location.hud_county_place.place> "Camas" .
+<Mark_Morgan> <people.person.nationality> "United States of America" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <media_common.netflix_title.netflix_genres> "Horror" .
+<Joe_Greene> <people.person.parents> "Michele Greene" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.country> "United States of America" .
+<m.0gb4nrp> <film.film_crew_gig.film> "Twilight" .
+<Twilight> <film.film.release_date_s> "m.0l3pc0m" .
+<Area_code_360> <common.topic.notable_for> "g.12h312fk1" .
+<Americana> <common.topic.notable_types> "Film" .
+<Twilight> <film.film.production_companies> "DMG Entertainment" .
+<Washougal> <location.statistical_region.population> "m.0k6j7y0" .
+<Ashley_Greene> <tv.tv_actor.starring_roles> "m.0j3xnnf" .
+<Washington> <location.us_state.capital> "Olympia" .
+<Michele_Imperato> <freebase.valuenotation.has_value> "Date of birth" .
+<m.0gbwhrn> <film.performance.character> "Missy" .
+<Los_Angeles> <base.biblioness.bibs_location.state> "California" .
+<Twilight> <award.award_winning_work.awards_won> "m.0nfjv5h" .
+<Eclipse> <film.film.production_companies> "Maverick Films" .
+<Washougal> <location.statistical_region.population> "g.11x1dpm1s" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<Richard_Gardner> <people.person.profession> "Actor" .
+<Clark_County> <location.administrative_division.capital> "m.0jvvpsr" .
+<Costume_design_by> <type.property.schema> "Film" .
+<Camas> <location.location.containedby> "Washington" .
+<Joe_Jonas> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<100_1574.jpg> <common.image.size> "m.02dgmlj" .
+<Twilight> <media_common.adapted_work.adaptations> "Eclipse" .
+<Clark_County> <location.statistical_region.population> "g.12vqj7m_v" .
+<Radio_Free_Albemuth> <common.topic.notable_types> "Film" .
+<m.0hjz07g> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Film> <type.type.properties> "Produced by" .
+<Walnut_Grove> <location.location.containedby> "Washington" .
+<Kalama> <location.location.containedby> "Washington" .
+<m.04m6l9_> <film.performance.film> "Twilight" .
+<Michele_Greene> <people.person.gender> "Female" .
+<Clark_County> <location.statistical_region.population> "g.12b01rwl1" .
+<Twilight> <film.film.featured_film_locations> "Mount St. Helens National Volcanic Monument" .
+<Twilight> <film.film.starring> "m.075xk63" .
+<Clark_County> <location.statistical_region.population> "m.0jtc8nq" .
+<Oregon> <base.biblioness.bibs_location.country> "United States of America" .
+<Twilight> <film.film.starring> "m.04z4zm9" .
+<m.0gb4nv9> <film.film_crew_gig.film> "Twilight" .
+<Cannon_Beach> <location.location.containedby> "Oregon" .
+<Clackamas_Community_College> <education.educational_institution.campuses> "Clackamas Community College" .
+<m.0hmncxy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mechanicsville> <location.location.events> "2014 Lucas Oil Pro Motocross Championship" .
+<Film_festival_event> <freebase.type_hints.included_types> "Event" .
+<Jacksonville> <location.hud_county_place.place> "Jacksonville" .
+<Twilight> <film.film.release_date_s> "m.0l3pbt1" .
+<m.0gb4nvy> <film.film_crew_gig.film> "Twilight" .
+<Ridgefield> <location.location.time_zones> "Pacific Time Zone" .
+<The_Twilight_Saga:_New_Moon> <film.film.executive_produced_by> "Guy Oseary" .
+<Carter_Burwell> <freebase.valuenotation.is_reviewed> "Gender" .
+<m.0pdgl_g> <award.award_nomination.ceremony> "33rd Golden Raspberry Awards" .
+<Skateland> <common.topic.notable_types> "Film" .
+<m.0ghmng3> <tv.tv_guest_role.episodes_appeared_in> "The 12th Annual Teen Choice Awards" .
+<Twilight> <film.film.release_date_s> "m.0l3pcc_" .
+<Teen_Choice_Award_for_Choice_Movie_Scene_Stealer:_Female> <award.award_category.winners> "m.0z8hbf8" .
+<m.0j2d64g> <tv.tv_regular_personal_appearance.person> "Ashley Greene" .
+<New_Berlin> <location.location.containedby> "United States of America" .
+<Eclipse> <film.film.country> "United States of America" .
+<English_Language> <language.human_language.main_country> "United States of America" .
+<Twilight> <film.film.story_by> "Stephenie Meyer" .
+<Clark_County> <location.statistical_region.population> "m.0hjz04k" .
+<Gresham> <location.hud_county_place.place> "Gresham" .
+<m.0z8hbf8> <award.award_honor.honored_for> "The Twilight Saga: New Moon" .
+<m.0vmy743> <film.performance.actor> "Ashley Greene" .
+<Americans> <book.poem_character.appears_in_poems> "Astride the Promise of Change" .
+<Washougal> <location.statistical_region.population> "g.11x1lg1g6" .
+<\"History_dressed_up_in_the_glow_of_love’s_kiss_turned_grief_into_beauty.\"> <base.inspiration.inspiration.inspiration_for> "Americans" .
+<Twilight> <film.film.featured_film_locations> "Multnomah Falls" .
+<Joe_Greene> <people.person.sibling_s> "m.05hv585" .
+<m.05k73s9> <celebrities.friendship.friend> "Ashley Greene" .
+<Film_Series> <type.property.schema> "Film" .
+<Downtown_Washougal_facing_west> <common.image.size> "m.0290xbz" .
+<Mark_Morgan> <film.producer.film> "Twilight" .
+<The_Boom_Boom_Room> <common.topic.notable_types> "Film" .
+<m.0599wh5> <base.wfilmbase.siteid.film> "Twilight" .
+<Washington> <location.administrative_division.country> "United States of America" .
+<Michele_Greene> <common.topic.article> "m.0h76dv2" .
+<US_County> <freebase.type_profile.published> "Published" .
+<Ashley_Greene> <tv.tv_actor.guest_roles> "m.0ghjc5w" .
+<Country_of_nationality> <type.property.schema> "Person" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.subjects> "Vampire" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0111t6pl" .
+<Eclipse> <film.film.edited_by> "Nancy Richardson" .
+<Gender> <type.property.schema> "Person" .
+<m.07fttjd> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jtngz" .
+<Chace_Crawford> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Twilight> <film.film.other_crew> "m.0gb4npw" .
+<Film> <type.type.properties> "Sequel" .
+<Twilight> <film.film.featured_film_locations> "Kalama" .
+<Mary_Tricia_Wood> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Languages" .
+<Ashley_Greene> <celebrities.celebrity.sexual_relationships> "m.0h3c4x8" .
+<Stephenie_Meyer> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Ashley_Greene> <film.actor.film> "m.05kdrxh" .
+<m.0z8hbf8> <award.award_honor.award_winner> "Ashley Greene" .
+<m.0l3pc6k> <film.film_regional_release_date.film> "Twilight" .
+<Person> <type.type.properties> "Date of birth" .
+<Twilight> <film.film.starring> "m.07n6ph9" .
+<ashleybday.jpg> <common.image.size> "m.02bfw_3" .
+<m.0hmnczg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0gc_w1j> <base.popstra.friendship.participant> "Ashley Greene" .
+<m.05kdrx4> <film.performance.actor> "Ashley Greene" .
+<Cannon_Beach> <common.topic.notable_types> "City/Town/Village" .
+<Reeve_Carney> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Ashley_Greene> <film.actor.film> "m.0dlr3qp" .
+<m.07ftmz3> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Clark_County> <location.location.geolocation> "m.0k9p1t" .
+<The_Twilight_Saga:_New_Moon> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<m.08pfxwr> <film.performance.film> "Twilight" .
+<Twilight> <film.film.production_companies> "Temple Hill Productions" .
+<Eclipse> <film.film.executive_produced_by> "Mark Morgan" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.executive_produced_by> "Mark Morgan" .
+<Twilight> <film.film.release_date_s> "m.0l3pbr6" .
+<United_States_of_America> <base.inspiration.inspiration.inspiration_for> "\'History dressed up in the glow of love’s kiss turned grief into beauty.\'" .
+<Ian_Phillips> <freebase.valuenotation.has_value> "Date of birth" .
+<Catherine_Hardwicke> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Otis> <film.film.language> "English Language" .
+<Joe_Greene> <common.topic.notable_for> "g.1254zzhqn" .
+<Village> <freebase.equivalent_topic.equivalent_type> "City/Town/Village" .
+<m.09wfs4p> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<m.05kdrxh> <film.performance.actor> "Ashley Greene" .
+<Twilight> <film.film.release_date_s> "m.0l3pby4" .
+<Twilight> <film.film.genre> "Fantasy" .
+<Film> <freebase.type_profile.strict_included_types> "Abstract" .
+<Lake_Shore> <location.location.time_zones> "Pacific Time Zone" .
+<Ashley_Greene> <tv.tv_personality.tv_regular_appearances> "m.05kds3_" .
+<m.05mndl_> <film.film_regional_release_date.film_release_region> "United States of America" .
+<Karen_Rosenfelt> <film.producer.film> "Eclipse" .
+<Celebrity> <freebase.type_profile.kind> "Description" .
+<Twilight> <film.film.release_date_s> "m.0l3pb_0" .
+<Twilight> <film.film.featured_film_locations> "Columbia River Gorge" .
+<Mary_Tricia_Wood> <freebase.valuenotation.has_value> "Parents" .
+<Languages> <rdf-schema#domain> "Film" .
+<Lakewood> <location.location.containedby> "United States of America" .
+<Portland> <location.location.time_zones> "Pacific Time Zone" .
+<Dollar_Corner> <location.location.time_zones> "Pacific Time Zone" .
+<m.07hrghk> <film.performance.film> "Twilight" .
+<Ashley_Greene> <common.topic.notable_for> "g.1257s1_dg" .
+<Prequel> <rdf-schema#range> "Film" .
+<m.09yp1b0> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Sequel> <type.property.reverse_property> "Prequel" .
+<m.0l3pc3q> <film.film_regional_release_date.film> "Twilight" .
+<m.09x67lt> <common.webpage.resource> "'Gossip Girl' star Sebastian Stan cast in 'The Apparition'" .
+<m.07ftm_4> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Kalama> <base.wikipedia_infobox.settlement.area_code> "Area code 360" .
+<Sequel> <rdf-schema#domain> "Film" .
+<Ashley_Greene> <base.popstra.celebrity.friendship> "m.0gc_w1j" .
+<Casting_director> <type.property.schema> "Film" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Prequel" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "Town" .
+<Sacramento> <base.biblioness.bibs_location.country> "United States of America" .
+<Ashley_Greene> <film.actor.film> "m.0gbwhrn" .
+<m.0hmncxq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Location> <freebase.type_profile.published> "Published" .
+<m.09x0lh_> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Ashley_Greene> <film.person_or_entity_appearing_in_film.films> "m.0j2qpcz" .
+<Skateland> <media_common.netflix_title.netflix_genres> "Drama" .
+<The_Twilight_Saga:_New_Moon> <film.film.production_companies> "Summit Entertainment" .
+<Actor> <base.lightweight.profession.professions_similar> "Model" .
+<Twilight> <media_common.netflix_title.netflix_genres> "Romantic Dramas" .
+<Twilight> <film.film.runtime> "m.05mndrs" .
+<m.070536_> <film.performance.actor> "Ashley Greene" .
+<Kellan_Lutz> <people.person.profession> "Actor" .
+<American_National_Biography> <book.written_work.subjects> "United States of America" .
+<Hollywood> <location.location.containedby> "United States of America" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.executive_produced_by> "Mark Morgan" .
+<Twilight> <film.film.directed_by> "Catherine Hardwicke" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Washington" .
+<Elliot_Davis> <film.cinematographer.film> "Twilight" .
+<Battle_Ground> <location.location.containedby> "Clark County" .
+<Karen_Rosenfelt> <people.person.gender> "Female" .
+<m.09x0lh_> <common.webpage.resource> "'Twilight' star threatens lawsuit over nude pics" .
+<Clark_County> <location.us_county.hud_county_place> "Camas" .
+<Karen_Rosenfelt> <freebase.valuenotation.has_value> "Place of birth" .
+<m.0dlr3qp> <film.performance.film> "LOL" .
+<The_Twilight_Saga:_New_Moon> <media_common.netflix_title.netflix_genres> "Dramas Based on Bestsellers" .
+<Eclipse> <media_common.netflix_title.netflix_genres> "Vampire Movies" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Twilight> <film.film.release_date_s> "m.0l3pcbr" .
+<Nancy_Richardson> <freebase.valuenotation.has_value> "Date of birth" .
+<Clark_County> <location.statistical_region.population> "m.0hjz01n" .
+<Skateland> <media_common.netflix_title.netflix_genres> "Romantic Dramas" .
+<Ashley_Greene> <common.topic.image> "normal_004.jpg" .
+<m.05kdrsw> <education.education.student> "Ashley Greene" .
+<Eclipse> <film.film.production_companies> "Temple Hill Productions" .
+<m.0y59x08> <award.award_honor.award_winner> "Ashley Greene" .
+<Film> <type.type.properties> "Executive produced by" .
+<Pacific_Time_Zone> <common.topic.image> "Pst" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.administrative_children> "United States of America" .
+<Twilight> <common.topic.notable_types> "Film" .
+<City_Limits> <rdf-schema#domain> "City/Town/Village" .
+<New_Berlin> <common.topic.notable_types> "City/Town/Village" .
+<100_1574.jpg> <common.image.size> "m.0klnvj" .
+<Twilight> <award.award_winning_work.awards_won> "m.0nfjvh1" .
+<m.0bl2x8m> <common.webpage.topic> "Ashley Greene" .
+<Michele_Greene> <freebase.valuenotation.has_value> "Date of birth" .
+<m.0gbwhs7> <film.performance.film> "Otis" .
+<2009_Columbia_Gorge_International_Film_Festival> <time.event.locations> "Washougal High School" .
+<Americana> <film.film.starring> "m.0v4ym33" .
+<Five_Corners> <location.hud_county_place.place> "Five Corners" .
+<m.070536_> <film.performance.film> "Summer's Blood" .
+<Nancy_Richardson> <people.person.profession> "Actor" .
+<m.063hcxz> <base.popstra.friendship.participant> "Chace Crawford" .
+<Twilight> <film.film.other_crew> "m.0gb4ns9" .
+<Americans> <common.topic.article> "m.043_z2j" .
+<Orchards> <location.hud_county_place.place> "Orchards" .
+<Twilight> <film.film.other_crew> "m.0gb4ns1" .
+<Clark_County> <location.us_county.hud_county_place> "Hazel Dell South" .
+<98671> <common.topic.notable_types> "Postal Code" .
+<2008_Columbia_Gorge_International_Film_Festival> <time.event.locations> "Washougal" .
+<Ashley_Greene> <common.topic.webpage> "m.09yhcg1" .
+<The_Apparition> <film.film.genre> "Horror" .
+<Washougal> <location.statistical_region.population> "g.11x1cxs6_" .
+<La_Center> <base.wikipedia_infobox.settlement.area_code> "Area code 360" .
+<Minnehaha> <location.location.containedby> "Washington" .
+<Place_of_birth> <type.property.reverse_property> "People born here" .
+<Twilight> <film.film.release_date_s> "m.0l3pbpv" .
+<m.05kdrx4> <film.performance.character> "Alice Cullen" .
+<Twilight> <film.film.starring> "m.07m15q5" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.film_series> "The Twilight Saga" .
+<m.0n3js80> <award.award_honor.honored_for> "Twilight" .
+<m.09yqc68> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<98671> <location.location.geolocation> "m.03f8b19" .
+<m.0jvvpsr> <location.administrative_division_capital_relationship.administrative_division> "Clark County" .
+<Gene_Serdena> <film.film_set_designer.film_sets_designed> "Twilight" .
+<m.0l3pbpg> <film.film_regional_release_date.film> "Twilight" .
+<Orchards> <location.location.containedby> "Clark County" .
+<98671> <location.postal_code.country> "United States of America" .
+<Kim_#4> <film.film_character.portrayed_in_films> "m.0gbwhs7" .
+<'Gossip_Girl'_star_Sebastian_Stan_cast_in_'The_Apparition'> <common.resource.annotations> "m.09x67lt" .
+<Twilight> <film.film.release_date_s> "m.0l3pbpg" .
+<Clark_County> <location.statistical_region.population> "m.0hjz050" .
+<Initial_release_date> <type.property.schema> "Film" .
+<Film_festival_event> <freebase.type_profile.strict_included_types> "Event" .
+<Twilight> <film.film.other_crew> "m.0gb4nrp" .
+<Amboy> <location.location.time_zones> "Pacific Time Zone" .
+<m.0gll_z8> <award.award_nomination.nominated_for> "Twilight" .
+<Why_Race_Mattered_in_Barack_Obama's_Re-election> <book.written_work.subjects> "Americans" .
+<Wendy_Chuck> <freebase.valuenotation.has_value> "Date of birth" .
+<US_County> <freebase.type_hints.included_types> "Statistical region" .
+<m.0g9b4dd> <base.famouspets.pet_ownership.owner> "Ashley Greene" .
+<Carter_Burwell> <award.award_winner.awards_won> "m.0nfjvcx" .
+<m.0bns7w2> <common.webpage.category> "Curated Topic" .
+<m.0gb4nt5> <film.film_crew_gig.film> "Twilight" .
+<Clark_County> <location.location.containedby> "Washington" .
+<Clark_County> <location.statistical_region.co2_emissions_industrial> "m.045klpk" .
+<Brush_Prairie> <base.wikipedia_infobox.settlement.area_code> "Area code 360" .
+<Ethnicity> <freebase.type_hints.included_types> "Topic" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jt74t" .
+<Washougal> <location.hud_foreclosure_area.ofheo_price_change> "m.07fttkp" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0b3w_ry" .
+<Eclipse> <film.film.genre> "Drama" .
+<Date_of_birth> <rdf-schema#range> "Date/Time" .
+<Pacific_Time_Zone> <base.schemastaging.context_name.pronunciation> "g.125_qgx8x" .
+<m.04z4zm4> <film.performance.film> "Twilight" .
+<Hollywood> <location.neighborhood.neighborhood_of> "Los Angeles" .
+<Celebrity> <common.topic.article> "m.047jsth" .
+<Ashley_Greene> <common.topic.image> "936full-ashley-greene.jpg" .
+<m.09x471x> <common.webpage.resource> "Ashley Greene of 'Twilight' in talks for 'The Apparition'" .
+<m.0j2d64g> <tv.tv_regular_personal_appearance.appearance_type> "Him/Herself" .
+<Americans> <people.ethnicity.includes_groups> "Southerner" .
+<m.0b0gnvy> <award.award_honor.honored_for> "Twilight" .
+<Wish_I_Was_Here> <common.topic.notable_types> "Film" .
+<'Twilight'_star_Ashley_Greene_to_work_VMA_red_carpet_as_fashion_correspondent> <common.resource.annotations> "m.09x1rnr" .
+<Stephenie_Meyer> <people.person.gender> "Female" .
+<United_States_of_America> <location.country.administrative_divisions> "Washington" .
+<Temple_Hill_Productions> <film.production_company.films> "The Twilight Saga: Breaking Dawn - Part 2" .
+<m.05kdryk> <film.performance.actor> "Ashley Greene" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Abstract" .
+<Meadow_Glade> <location.location.containedby> "Clark County" .
+<Twilight> <film.film.written_by> "Melissa Rosenberg" .
+<Clark_County> <location.location.adjoin_s> "m.03jqq19" .
+<Washington> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Karen_Rosenfelt> <film.producer.film> "The Twilight Saga: Breaking Dawn - Part 1" .
+<m.0l3pc1b> <film.film_regional_release_date.film> "Twilight" .
+<Carter_Burwell> <people.person.gender> "Male" .
+<Clark_County> <location.statistical_region.population> "m.0hjz07p" .
+<2009_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0nfjtn2" .
+<Twilight> <film.film.starring> "m.0dk9g33" .
+<Twilight> <film.film.featured_film_locations> "Oregon City" .
+<m.065qgp_> <film.performance.actor> "Jackson Rathbone" .
+<Minnehaha> <location.hud_county_place.county> "Clark County" .
+<m.0hmncvy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Washougal> <location.statistical_region.population> "g.11x1f7330" .
+<Twilight> <media_common.netflix_title.netflix_genres> "Vampire" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdivides_place> "United States, with Territories" .
+<The_Twilight_Saga> <film.film_series.films_in_series> "The Twilight Saga: Breaking Dawn - Part 2" .
+<m.05kds3_> <tv.tv_regular_personal_appearance.program> "Punk'd" .
+<Eclipse> <film.film.film_series> "The Twilight Saga" .
+<Greg_Mooradian> <film.producer.films_executive_produced> "The Twilight Saga: New Moon" .
+<Columbia_Gorge_International_Film_Festival> <film.film_festival.location> "Washougal" .
+<2009_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0z97m9n" .
+<California> <location.administrative_division.country> "United States of America" .
+<Twilight> <film.film.film_casting_director> "Deborah Aquila" .
+<m.0gb4nqs> <film.film_crew_gig.film> "Twilight" .
+<m.05hv4wx> <people.place_lived.person> "Ashley Greene" .
+<Washougal> <common.topic.image> "Location of Washougal, Washington" .
+<Oregon> <location.administrative_division.country> "United States of America" .
+<Twilight> <film.film.starring> "m.04z4zmg" .
+<m.0y59znc> <award.award_nomination.award> "Young Hollywood Award for Female Superstar of Tomorrow" .
+<Eclipse> <film.film.rating> "PG-13 (USA)" .
+<Twilight> <film.film.film_art_direction_by> "Ian Phillips" .
+<2009_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0z8z747" .
+<Person> <freebase.type_profile.published> "Published" .
+<m.0vmy743> <film.performance.character> "Lisa Kristal" .
+<Americans> <people.ethnicity.languages_spoken> "Yue Chinese" .
+<The_Twilight_Saga:_New_Moon> <film.film.production_companies> "Maverick Films" .
+<m.0l3pbrk> <film.film_regional_release_date.film> "Twilight" .
+<LOL> <film.film.starring> "m.0dlr3qp" .
+<New_Berlin> <location.hud_county_place.place> "New Berlin" .
+<Celebrity> <type.type.expected_by> "Celebrity represented" .
+<Pan_Am> <tv.tv_program.regular_cast> "m.0j3xnnf" .
+<The_Boom_Boom_Room> <film.film.starring> "m.0gbwhsv" .
+<m.0l3pbq5> <film.film_regional_release_date.film> "Twilight" .
+<Clark_County> <location.statistical_region.population> "g.12b01lr7f" .
+<A_Warrior's_Heart> <common.topic.notable_types> "Film" .
+<Ashley_Greene> <common.topic.webpage> "m.09yqc68" .
+<m.09w_3h_> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Eclipse> <award.award_nominated_work.award_nominations> "m.0z88088" .
+<m.0pdgl_g> <award.award_nomination.nominated_for> "The Twilight Saga: Breaking Dawn - Part 2" .
+<Americans> <people.ethnicity.includes_groups> "Californian" .
+<Twilight> <award.award_winning_work.awards_won> "m.0nfjt4v" .
+<Vampire> <film.film_subject.films> "Eclipse" .
+<Celebrity> <type.type.properties> "Legal entanglements" .
+<Twilight> <media_common.netflix_title.netflix_genres> "Romantic Movies" .
+<Postal_codes> <rdf-schema#range> "Postal Code" .
+<Nancy_Richardson> <freebase.valuenotation.has_value> "Country of nationality" .
+<100_1574.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<The_Twilight_Saga:_New_Moon> <film.film.executive_produced_by> "Greg Mooradian" .
+<Mark_Morgan> <film.producer.films_executive_produced> "The Twilight Saga: New Moon" .
+<100_1574.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<Americana> <film.film.genre> "Drama" .
+<m.0hmncyt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Guy_Oseary> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<The_Oregonian> <book.newspaper.circulation_areas> "Clark County" .
+<Edited_by> <type.property.schema> "Film" .
+<Melissa_Rosenberg> <people.person.nationality> "United States of America" .
+<Clark_County> <location.us_county.hud_county_place> "Lake Shore" .
+<Washougal> <location.location.events> "2008 Columbia Gorge International Film Festival" .
+<Eclipse> <film.film.executive_produced_by> "Greg Mooradian" .
+<m.0sxhtll> <celebrities.romantic_relationship.celebrity> "Ashley Greene" .
+<m.0ptzk9f> <celebrities.sexual_orientation_phase.sexual_orientation> "Heterosexuality" .
+<Skateland> <film.film.genre> "Romance Film" .
+<Vancouver> <base.biblioness.bibs_location.country> "United States of America" .
+<Joe_Greene> <people.person.profession> "Entrepreneur" .
+<United_States_of_America> <common.topic.subject_of> "\'If there is such a thing as healing wounds from the past by applying acts of grace in the present, it may be possible that people in the United States are becoming more and more proficient at it.\'" .
+<Olympia> <base.wikipedia_infobox.settlement.area_code> "Area code 360" .
+<Film> <type.type.properties> "Directed by" .
+<Chace_Crawford> <people.person.nationality> "United States of America" .
+<m.07m164r> <film.performance.film> "Twilight" .
+<Americana> <film.film.country> "United States of America" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <time.event.locations> "Buchanan" .
+<2009_Columbia_Gorge_International_Film_Festival> <time.event.locations> "Washougal" .
+<Hazel_Dell_North> <location.location.time_zones> "Pacific Time Zone" .
+<Ridgefield> <location.hud_county_place.county> "Clark County" .
+<Summit_Entertainment> <film.production_company.films> "The Twilight Saga: Breaking Dawn - Part 1" .
+<m.0l3pc89> <film.film_regional_release_date.film_release_region> "United States of America" .
+<m.09wsdbm> <common.webpage.resource> "'Twilight' sequel: Vanessa Hudgens reportedly auditioned for 'New Moon'" .
+<Multnomah_Falls> <location.location.containedby> "Columbia River Gorge" .
+<Catherine_Hardwicke> <people.person.gender> "Female" .
+<Christopher_Brown> <people.person.gender> "Male" .
+<Ian_Phillips> <people.person.gender> "Male" .
+<m.0z8zcln> <award.award_nomination.ceremony> "2009 Teen Choice Awards" .
+<Ashley_Greene> <film.actor.film> "g.11b6q2ggx4" .
+<m.0gb4nsy> <film.film_crew_gig.film> "Twilight" .
+<Set_Decoration_by> <rdf-schema#domain> "Film" .
+<Twilight> <film.film.release_date_s> "m.0l3pb_d" .
+<Skateland> <film.film.genre> "Drama" .
+<m.05kds7t> <tv.tv_guest_role.character> "Ann Rappaport" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Washington" .
+<Carter_Burwell> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<Ashley_Greene> <award.award_winner.awards_won> "m.0y59x08" .
+<Michele_Imperato> <freebase.valuenotation.has_value> "Parents" .
+<Mary_Tricia_Wood> <people.person.nationality> "United States of America" .
+<Screenplay_by> <type.property.schema> "Film" .
+<m.0hjz04s> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Rachelle_Lefevre> <common.topic.notable_types> "Celebrity" .
+<m.0bvmdbn> <award.ranking.list> "Maxim Hot 100" .
+<Michele_Imperato> <people.person.gender> "Female" .
+<Ashley_Greene> <common.topic.image> "100_1574.jpg" .
+<The_Twilight_Saga:_New_Moon> <film.film.prequel> "Twilight" .
+<Los_Angeles> <freebase.valuenotation.is_reviewed> "Postal codes" .
+<m.05kdrxh> <film.performance.film> "Skateland" .
+<100_1574.jpg> <common.image.size> "m.02dgmlj" .
+<m.0hjz07p> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<The_Columbian> <book.periodical.language> "English Language" .
+<Americans> <common.topic.notable_types> "Ethnicity" .
+<Film_festival_event> <freebase.type_profile.strict_included_types> "Topic" .
+<Washington> <base.aareas.schema.administrative_area.capital> "Olympia" .
+<Ulalume:_Howling_at_New_Moon> <tv.tv_program.regular_personal_appearances> "m.0j2d64g" .
+<Shrink> <common.topic.notable_types> "Film" .
+<m.0l3pcfc> <film.film_regional_release_date.film> "Twilight" .
+<Hockinson> <location.location.containedby> "Washington" .
+<San_Bernardino> <location.hud_county_place.place> "San Bernardino" .
+<m.0z83xqy> <award.award_nomination.nominated_for> "The Twilight Saga: Breaking Dawn - Part 1" .
+<Area_code_360> <location.location.contains> "Vancouver" .
+<PG-13_(USA)> <film.content_rating.country> "United States of America" .
+<Portland> <periodicals.newspaper_circulation_area.newspapers> "The Oregonian" .
+<Clackamas_Community_College> <location.location.containedby> "Oregon" .
+<Twilight> <film.film.film_set_decoration_by> "Gene Serdena" .
+<m.0k1bfj_> <film.film_regional_release_date.film> "Twilight" .
+<Wyck_Godfrey> <freebase.valuenotation.has_value> "Date of birth" .
+<United_States_of_America> <location.country.first_level_divisions> "Florida" .
+<The_Apparition> <film.film.country> "United States of America" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <award.award_winning_work.awards_won> "m.0z83xpm" .
+<Sacramento> <common.topic.notable_types> "City/Town/Village" .
+<Olympia> <common.topic.notable_types> "City/Town/Village" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.production_companies> "Temple Hill Productions" .
+<The_Twilight_Saga:_New_Moon> <film.film.genre> "Drama" .
+<m.0hjz043> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Film> <freebase.type_profile.strict_included_types> "Inanimate" .
+<m.0z97skd> <award.award_nomination.ceremony> "2009 Teen Choice Awards" .
+<Twilight> <media_common.netflix_title.netflix_genres> "Sci-Fi & Fantasy" .
+<m.0gbwhrn> <film.performance.film> "Shrink" .
+<Twilight> <film.film.production_companies> "Twilight Productions" .
+<Country_of_nationality> <type.property.expected_type> "Country" .
+<Greg_Mooradian> <freebase.valuenotation.has_value> "Place of birth" .
+<Samuel_W._Wolfson_High_School> <location.location.containedby> "Jacksonville" .
+<m.070536_> <film.performance.character> "Summer Matthews" .
+<The_Twilight_Saga:_New_Moon> <media_common.netflix_title.netflix_genres> "Romantic Dramas" .
+<Film> <type.type.properties> "Story by" .
+<m.0vmy7yg> <film.performance.film> "Random" .
+<Film> <type.type.properties> "Screenplay by" .
+<Twilight> <media_common.netflix_title.netflix_genres> "Dramas Based on Bestsellers" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0z8zbq7" .
+<Mount_Vista> <location.location.containedby> "Washington" .
+<King_of_California> <film.film.genre> "Drama" .
+<Prequel> <rdf-schema#domain> "Film" .
+<m.0l3pb_v> <film.film_regional_release_date.film> "Twilight" .
+<98671> <location.location.contains> "Washougal River" .
+<Joe_Greene> <people.person.nationality> "United States of America" .
+<Summer's_Blood> <film.film.language> "English Language" .
+<Vernonia> <common.topic.notable_types> "City/Town/Village" .
+<m.0bns7w2> <common.webpage.in_index> "Blissful Celebrities" .
+<m.065qgp_> <film.performance.film> "Twilight" .
+<Florida_State_College_at_Jacksonville> <education.educational_institution.students_graduates> "m.0b6zmzb" .
+<m.0z8xxjq> <award.award_nomination.nominated_for> "Twilight" .
+<Jackson_Rathbone> <people.person.profession> "Actor" .
+<Random> <film.film.starring> "m.0vmy7yg" .
+<Twilight> <film.film.estimated_budget> "m.05mndxq" .
+<Kellan_Lutz> <people.person.gender> "Male" .
+<Salmon_River> <film.film_location.featured_in_films> "Twilight" .
+<The_Twilight_Saga:_New_Moon> <award.award_winning_work.awards_won> "m.0z8hbf8" .
+<Genres> <type.property.schema> "Film" .
+<98671> <location.location.geometry> "m.056hczv" .
+<Americans> <symbols.namesake.named_after> "Amerigo Vespucci" .
+<Twilight> <film.film.starring> "m.07hrghk" .
+<Shrink> <media_common.netflix_title.netflix_genres> "Drama" .
+<Washougal> <location.location.containedby> "Clark County" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.story_by> "Stephenie Meyer" .
+<Mark_Morgan> <people.person.gender> "Male" .
+<Summer_Matthews> <film.film_character.portrayed_in_films> "m.070536_" .
+<Brush_Prairie> <location.location.containedby> "Clark County" .
+<Clark_County> <location.us_county.hud_county_place> "Hockinson" .
+<LOL> <film.film.language> "English Language" .
+<m.0z8hbf8> <award.award_honor.ceremony> "2010 Teen Choice Awards" .
+<Eclipse> <media_common.netflix_title.netflix_genres> "Horror" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Topic" .
+<CBGB> <film.film.language> "English Language" .
+<Ashley_Greene> <common.topic.image> "ashleybday.jpg" .
+<US_County> <freebase.type_profile.strict_included_types> "Topic" .
+<Michele_Imperato> <film.producer.films_executive_produced> "Twilight" .
+<Melissa_Rosenberg> <film.writer.film> "The Twilight Saga: Breaking Dawn - Part 2" .
+<US_County> <freebase.type_hints.included_types> "Topic" .
+<m.0l3pbs6> <film.film_regional_release_date.film> "Twilight" .
+<Eclipse> <media_common.netflix_title.netflix_genres> "Dramas Based on Bestsellers" .
+<Brush_Prairie> <location.location.time_zones> "Pacific Time Zone" .
+<m.0l3pcc_> <film.film_regional_release_date.film> "Twilight" .
+<United_States_of_America> <location.country.first_level_divisions> "Washington" .
+<47_Percenters_and_Guerrilla_Decontextualization_(Part_1):_Dreams_and_Nightmares> <book.written_work.original_language> "English Language" .
+<Michele_Greene> <people.person.children> "Ashley Greene" .
+<Twilight> <film.film.other_crew> "m.0gb4nqj" .
+<Postal_codes> <rdf-schema#domain> "City/Town/Village" .
+<m.0nfjv5h> <award.award_honor.ceremony> "2009 Teen Choice Awards" .
+<OregonLive.com> <book.newspaper.circulation_areas> "Clark County" .
+<m.075xjjf> <film.performance.film> "The Twilight Saga: Breaking Dawn - Part 1" .
+<Vampire> <film.film_subject.films> "The Twilight Saga: Breaking Dawn - Part 1" .
+<m.0nfjt4v> <award.award_honor.ceremony> "2009 Teen Choice Awards" .
+<Film> <type.type.properties> "Country of origin" .
+<m.0nf3ss7> <film.film_regional_release_date.film> "Twilight" .
+<Art_direction_by> <rdf-schema#domain> "Film" .
+<Music_by> <type.property.schema> "Film" .
+<Marty_Bowen> <freebase.valuenotation.is_reviewed> "Gender" .
+<United_States_of_America> <location.country.administrative_divisions> "California" .
+<Washougal> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07fttjv" .
+<Twilight> <film.film.starring> "m.0774yfx" .
+<Clark_County> <location.statistical_region.population> "m.0hjz03x" .
+<Washington_Student_Math_Association> <organization.organization.geographic_scope> "Washington" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.story_by> "Stephenie Meyer" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<Samuel_W._Wolfson_High_School> <education.educational_institution.students_graduates> "m.05kdrsw" .
+<Clark_County> <location.statistical_region.population> "g.12b01ng2t" .
+<Twilight> <film.film.release_date_s> "m.0l3pbtr" .
+<Samuel_W._Wolfson_High_School> <education.educational_institution.campuses> "Samuel W. Wolfson High School" .
+<Ashley_Greene> <award.ranked_item.appears_in_ranked_lists> "m.0bvmdbn" .
+<San_Bernardino> <location.location.containedby> "California" .
+<m.05kdsj2> <film.performance.film> "King of California" .
+<m.0h3c4x8> <celebrities.romantic_relationship.celebrity> "Joe Jonas" .
+<m.0z87zy6> <award.award_honor.ceremony> "2011 Teen Choice Awards" .
+<Clark_County> <location.statistical_region.population> "g.11x1djk14" .
+<Twilight> <media_common.adapted_work.adaptations> "The Twilight Saga" .
+<Silver_Falls_State_Park> <film.film_location.featured_in_films> "Twilight" .
+<Mill_Plain> <location.location.time_zones> "Pacific Time Zone" .
+<City/Town/Village> <freebase.type_hints.included_types> "Dated location" .
+<Ashley_Greene> <common.topic.notable_types> "Celebrity" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<Washougal> <base.wikipedia_infobox.settlement.area_code> "Area code 360" .
+<United_States_of_America> <location.country.languages_spoken> "Spanish Language" .
+<2008_Columbia_Gorge_International_Film_Festival> <time.event.instance_of_recurring_event> "Columbia Gorge International Film Festival" .
+<Amerigo_Vespucci> <people.person.gender> "Male" .
+<Florida> <base.locations.states_and_provences.country> "United States of America" .
+<m.0l3pcf0> <film.film_regional_release_date.film> "Twilight" .
+<Lewisville> <location.location.containedby> "Washington" .
+<m.0z83xqy> <award.award_nomination.award_nominee> "Ashley Greene" .
+<Clark_County> <location.us_county.hud_county_place> "Walnut Grove" .
+<Vernonia> <location.hud_county_place.place> "Vernonia" .
+<Person> <type.type.properties> "Parents" .
+<Olympia> <location.location.containedby> "United States of America" .
+<Elliot_Davis> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Mark_Morgan> <film.producer.films_executive_produced> "The Twilight Saga: Breaking Dawn - Part 2" .
+<Felida> <location.location.time_zones> "Pacific Time Zone" .
+<m.0l3pcdc> <film.film_regional_release_date.film> "Twilight" .
+<The_Twilight_Saga:_New_Moon> <film.film.produced_by> "Wyck Godfrey" .
+<m.01086803> <award.award_honor.honored_for> "Twilight" .
+<The_Columbian> <book.newspaper.circulation_areas> "Clark County" .
+<Twilight> <media_common.adapted_work.adaptations> "The Twilight Saga: New Moon" .
+<2009_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0nfjt4v" .
+<m.0hmncz0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Carter_Burwell> <film.music_contributor.film> "The Twilight Saga: Breaking Dawn - Part 2" .
+<Lake_Shore> <location.location.containedby> "Washington" .
+<Vancouver> <base.biblioness.bibs_location.state> "Washington" .
+<m.05kds7t> <tv.tv_guest_role.episodes_appeared_in> "The Elephant in the Room" .
+<Ashley_Greene> <people.person.gender> "Female" .
+<Ashley_Greene> <people.person.places_lived> "m.05k64xr" .
+<Washougal> <location.location.events> "2014 Lucas Oil Pro Motocross Championship" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "City" .
+<33rd_Golden_Raspberry_Awards> <award.award_ceremony.nominees> "m.0pdgl_g" .
+<Location_of_Washougal,_Washington> <common.image.appears_in_topic_gallery> "Washougal" .
+<The_Twilight_Saga:_New_Moon> <film.film.sequel> "Eclipse" .
+<Clark_County> <location.statistical_region.population> "m.0hjz07g" .
+<King_of_California> <film.film.language> "English Language" .
+<Sci-Fi_&_Fantasy> <media_common.media_genre.parent_genre> "Fantasy" .
+<Twilight> <film.film.starring> "m.04z4zlv" .
+<Richard_Gardner> <people.person.nationality> "United States of America" .
+<Twilight> <award.award_winning_work.awards_won> "m.0b0b974" .
+<Ashley_Greene> <award.ranked_item.appears_in_ranked_lists> "m.07xzqyp" .
+<Mill_Plain> <location.hud_county_place.place> "Mill Plain" .
+<Blountville> <location.location.events> "2014 Lucas Oil Pro Motocross Championship" .
+<Jacksonville> <common.topic.notable_types> "City/Town/Village" .
+<m.0_lsbds> <award.award_honor.honored_for> "Twilight" .
+<100_1574.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<Gresham> <common.topic.notable_types> "City/Town/Village" .
+<Pan_Am> <tv.tv_program.country_of_origin> "United States of America" .
+<Celebrity> <type.type.expected_by> "Celebrity" .
+<Film> <type.type.properties> "Edited by" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.genre> "Fantasy" .
+<100_1574.jpg> <common.image.size> "m.0kkxkl" .
+<Place_of_birth> <type.property.schema> "Person" .
+<Lake_Shore> <location.location.containedby> "Clark County" .
+<Americana> <tv.tv_program.languages> "English Language" .
+<Stephenie_Meyer> <freebase.valuenotation.is_reviewed> "Gender" .
+<Clark_County> <location.statistical_region.co2_emissions_commercial> "m.045jl0b" .
+<Vancouver> <location.location.containedby> "Clark County" .
+<Twilight> <film.film.rating> "PG-13 (USA)" .
+<Guy_Oseary> <film.producer.films_executive_produced> "The Twilight Saga: New Moon" .
+<Catherine_Hardwicke> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Washougal> <location.statistical_region.population> "g.11x1ccbwb" .
+<Twilight> <film.film.release_date_s> "m.0l3pc91" .
+<m.04z4zmm> <film.performance.film> "Twilight" .
+<m.0djz0zv> <film.performance.film> "The Twilight Saga: Breaking Dawn - Part 2" .
+<m.09x1rnr> <common.webpage.resource> "'Twilight' star Ashley Greene to work VMA red carpet as fashion correspondent" .
+<American_English> <language.language_dialect.language> "English Language" .
+<Clark_County> <periodicals.newspaper_circulation_area.newspapers> "OregonLive.com" .
+<m.0djz0zv> <film.performance.actor> "Ashley Greene" .
+<Celebrity> <type.type.properties> "Net worth" .
+<m.09tm0tf> <award.award_nomination.nominated_for> "Twilight" .
+<Cinematography> <type.property.schema> "Film" .
+<m.0j21l7j> <people.place_lived.location> "Hollywood" .
+<Twilight> <film.film.distributors> "m.05mnl6j" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0b3tz38" .
+<m.075xjjm> <film.performance.actor> "Ashley Greene" .
+<Twilight> <base.wfilmbase.film.w_id> "m.0599wh5" .
+<Ashley_Greene> <people.person.parents> "Joe Greene" .
+<William_Clark> <symbols.name_source.namesakes> "Clark County" .
+<Washougal> <location.statistical_region.population> "g.11x1jxjk7" .
+<m.0y59znc> <award.award_nomination.award_nominee> "Ashley Greene" .
+<Punk'd> <tv.tv_program.country_of_origin> "United States of America" .
+<Twilight> <film.film.release_date_s> "m.0l3pc3q" .
+<Directed_by> <type.property.schema> "Film" .
+<Teen_Choice_Award_for_Choice_Movie_Scene_Stealer:_Female> <award.award_category.nominees> "m.0z88088" .
+<Event> <freebase.type_profile.kind> "Definition" .
+<Time_zone(s)> <type.property.schema> "Location" .
+<The_Twilight_Saga:_New_Moon> <freebase.valuenotation.is_reviewed> "Edited by" .
+<Story_by> <type.property.schema> "Film" .
+<Ashley_Greene> <film.actor.film> "g.11btxft46m" .
+<\"History_dressed_up_in_the_glow_of_love’s_kiss_turned_grief_into_beauty.\"> <base.inspiration.inspiration.inspired_by> "United States of America" .
+<Twilight> <film.film.production_companies> "Goldcrest Films" .
+<Twilight> <film.film.release_date_s> "m.0l3pbvw" .
+<Wyck_Godfrey> <film.producer.film> "The Twilight Saga: Breaking Dawn - Part 1" .
+<m.0l3pc0_> <film.film_regional_release_date.film> "Twilight" .
+<Twilight> <film.film.sequel> "The Twilight Saga: New Moon" .
+<m.0gb4nty> <film.film_crew_gig.film> "Twilight" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Ashley_Greene> <award.award_nominee.award_nominations> "m.0y59znc" .
+<Dated_location> <type.type.domain> "Location" .
+<m.09dwnw2> <common.webpage.resource> "Ashley Greene Photos" .
+<Columbia_Gorge_International_Film_Festival> <film.film_festival.individual_festivals> "2009 Columbia Gorge International Film Festival" .
+<Greg_Mooradian> <film.producer.film> "Twilight" .
+<Hazel_Dell_South> <location.location.containedby> "Washington" .
+<Sequel> <type.property.schema> "Film" .
+<Area_code> <freebase.type_hints.included_types> "Topic" .
+<Joe_Jonas> <common.topic.notable_types> "Celebrity" .
+<Eclipse> <award.award_winning_work.awards_won> "m.0z87zy6" .
+<Battle_Ground> <base.wikipedia_infobox.settlement.area_code> "Area code 360" .
+<Twilight> <film.film.other_crew> "m.0gb4np2" .
+<Twilight> <film.film.release_date_s> "m.0k1bfj_" .
+<Location> <type.type.properties> "People born here" .
+<People_born_here> <type.property.master_property> "Place of birth" .
+<Ashley_Greene> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Goldcrest_Films> <film.production_company.films> "Twilight" .
+<Twilight> <film.film.other_crew> "m.0gb4npc" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Edited by" .
+<Twilight> <film.film.release_date_s> "m.0l3pccn" .
+<Twilight> <film.film.other_crew> "m.0gb4nvy" .
+<100_1574.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<California> <location.us_state.capital> "Sacramento" .
+<Mount_Morris> <location.location.events> "2014 Lucas Oil Pro Motocross Championship" .
+<Washington> <location.location.containedby> "United States, with Territories" .
+<Cherry_Grove> <location.location.containedby> "Clark County" .
+<Clark_County> <common.topic.notable_for> "g.1259y2j00" .
+<m.0v4ym33> <film.performance.actor> "Ashley Greene" .
+<Washougal> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07fttjm" .
+<Washington> <base.biblioness.bibs_location.country> "United States of America" .
+<Twilight> <film.film.release_date_s> "m.0j56hbd" .
+<Crawfordsville> <location.location.events> "2014 Lucas Oil Pro Motocross Championship" .
+<Eclipse> <film.film.written_by> "Melissa Rosenberg" .
+<Salmon_Creek> <location.hud_county_place.county> "Clark County" .
+<Ashley_Greene> <common.topic.image> "100_1574.jpg" .
+<m.0jtfyky> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0l3pb_d> <film.film_regional_release_date.film> "Twilight" .
+<Kellan_Lutz> <people.person.nationality> "United States of America" .
+<100_1574.jpg> <common.image.size> "m.0kk44w" .
+<Elliot_Davis> <freebase.valuenotation.is_reviewed> "Gender" .
+<Celebrity> <type.type.properties> "Celebrity rivals" .
+<US_County> <freebase.type_profile.kind> "Significant" .
+<Alice_Cullen> <film.film_character.portrayed_in_films> "m.075xjjm" .
+<Wendy_Chuck> <freebase.valuenotation.has_value> "Place of birth" .
+<m.0z8zcln> <award.award_nomination.award> "Teen Choice Award for Choice Movie Breakout Star - Female" .
+<m.0gb4nwg> <film.film_crew_gig.film> "Twilight" .
+<Nancy_Richardson> <people.person.gender> "Female" .
+<m.0774tj2> <film.performance.film> "Twilight" .
+<m.075xjjm> <film.performance.film> "Eclipse" .
+<Radio_Free_Albemuth> <film.film.genre> "Drama" .
+<2009_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0gc_p7d" .
+<m.0sxhtll> <celebrities.romantic_relationship.celebrity> "Reeve Carney" .
+<Middleburg> <common.topic.notable_types> "Statistical region" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjyy" .
+<2009_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0nfjtkv" .
+<Country_of_origin> <type.property.expected_type> "Country" .
+<Taylor_Lautner_to_star_in_'Cancun':_Spring_break_and_drug_cartels,_eh?> <common.resource.annotations> "m.09yrkyg" .
+<Washougal> <location.hud_county_place.place> "Washougal" .
+<Twilight> <film.film.music> "Carter Burwell" .
+<Los_Angeles> <location.location.time_zones> "Pacific Time Zone" .
+<Clark_County> <location.location.adjoin_s> "m.03jt7cd" .
+<Clark_County> <location.statistical_region.population> "g.11b66dqlnp" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckj_k" .
+<Twilight> <film.film.release_date_s> "m.0l3pbys" .
+<Clark_County> <location.us_county.hud_county_place> "La Center" .
+<Joe_Greene> <people.person.profession> "Model" .
+<Clark_County> <common.topic.article> "m.0d1y1" .
+<Clark_County> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07ftm_d" .
+<\"If_there_is_such_a_thing_as_healing_wounds_from_the_past_by_applying_acts_of_grace_in_the_present,_it_may_be_possible_that_people_in_the_United_States_are_becoming_more_and_more_proficient_at_it.\"> <common.topic.subjects> "Americans" .
+<Ethnicity> <freebase.type_profile.strict_included_types> "Abstract" .
+<Country> <freebase.type_profile.strict_included_types> "Agent" .
+<Film> <type.type.properties> "Languages" .
+<Venersborg> <location.hud_county_place.county> "Clark County" .
+<Clark_County> <location.statistical_region.population> "g.11x1c9y4p" .
+<Twilight> <film.film.release_date_s> "m.0l3pcc9" .
+<Amanda_Mason> <tv.tv_character.appeared_in_tv_program> "m.0j3xnnf" .
+<m.0j56hbd> <film.film_regional_release_date.film> "Twilight" .
+<m.0j2qpcz> <film.personal_film_appearance.film> "Ulalume: Howling at New Moon" .
+<Washougal> <location.statistical_region.population> "g.11x1kpsj1" .
+<\"History_dressed_up_in_the_glow_of_love’s_kiss_turned_grief_into_beauty.\"> <media_common.quotation.subjects> "United States of America" .
+<The_Twilight_Saga:_New_Moon> <media_common.netflix_title.netflix_genres> "Romance Film" .
+<Twilight> <common.topic.image> "The Cullens" .
+<Celebrity> <freebase.type_profile.strict_included_types> "Topic" .
+<Clark_County> <location.statistical_region.population> "g.12b01tk08" .
+<m.0hmncxh> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0l3pc7l> <film.film_regional_release_date.film> "Twilight" .
+<Kellan_Lutz> <celebrities.celebrity.celebrity_friends> "m.05k73s3" .
+<Time_zone(s)> <rdf-schema#range> "Time Zone" .
+<Washougal> <location.statistical_region.population> "g.11x1ljw5s" .
+<Amboy> <location.location.containedby> "Clark County" .
+<Dated_location> <freebase.type_hints.included_types> "Topic" .
+<Twilight> <film.film.release_date_s> "m.05mndm7" .
+<Country_of_origin> <type.property.schema> "Film" .
+<Deborah_Aquila> <people.person.gender> "Female" .
+<Venersborg> <location.location.containedby> "Clark County" .
+<Film_festival_event> <freebase.type_profile.kind> "Definition" .
+<CBGB> <film.film.country> "United States of America" .
+<Eclipse> <film.film.subjects> "Vampire" .
+<Eclipse> <media_common.netflix_title.netflix_genres> "Romance Film" .
+<m.05kdrxh> <film.performance.character> "Michelle Burkham" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.genre> "Drama" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010rnll5" .
+<Celebrity> <type.type.properties> "Celebrity friends" .
+<m.0yr9fh1> <award.award_honor.award> "Young Hollywood Award for Style Icon" .
+<Oregon_City> <location.location.containedby> "Oregon" .
+<The_Twilight_Saga:_New_Moon> <freebase.valuenotation.is_reviewed> "Casting director" .
+<m.0l3pc6x> <film.film_regional_release_date.film> "Twilight" .
+<m.0hjz070> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Clark_County> <location.statistical_region.population> "g.11x1lghcp" .
+<m.0yrbqyc> <award.award_nomination.award_nominee> "Catherine Hardwicke" .
+<Clark_County> <location.us_county.hud_county_place> "Meadow Glade" .
+<Vancouver> <location.hud_county_place.county> "Clark County" .
+<Prequel> <type.property.schema> "Film" .
+<m.0y59znc> <award.award_nomination.ceremony> "2012 Young Hollywood Awards" .
+<m.05hv4wx> <people.place_lived.location> "Jacksonville" .
+<Ashley_Greene> <film.actor.film> "m.05hv23h" .
+<Mary_Tricia_Wood> <freebase.valuenotation.is_reviewed> "Gender" .
+<m.0g9b4ds> <base.famouspets.pet_ownership.pet> "Marlo" .
+<m.0bvyr3g> <tv.tv_guest_role.actor> "Ashley Greene" .
+<Los_Angeles> <location.location.containedby> "California" .
+<Twilight> <film.film.starring> "m.0b7dpl1" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <time.event.locations> "Blountville" .
+<m.0l3pc2q> <film.film_regional_release_date.film> "Twilight" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.starring> "m.075xjjf" .
+<m.05k73s3> <celebrities.friendship.friend> "Kellan Lutz" .
+<m.0gb4ntp> <film.film_crew_gig.film> "Twilight" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <time.event.locations> "Mechanicsville" .
+<Los_Angeles> <location.location.containedby> "United States of America" .
+<Mechanicsville> <common.topic.notable_types> "City/Town/Village" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Hazel_Dell_North> <location.location.containedby> "Washington" .
+<m.05mndl_> <film.film_regional_release_date.film> "Twilight" .
+<Corbett> <location.location.time_zones> "Pacific Time Zone" .
+<100_1574.jpg> <common.image.size> "m.02dgmlj" .
+<m.0l3pcdq> <film.film_regional_release_date.film> "Twilight" .
+<Walnut_Grove> <location.location.containedby> "Clark County" .
+<Vancouver> <location.capital_of_administrative_division.capital_of> "m.0jvvpsr" .
+<Location_of_Washougal,_Washington> <common.image.size> "m.0292xgt" .
+<Clark_County> <location.location.time_zones> "Pacific Time Zone" .
+<m.0b7bkvl> <celebrities.friendship.friend> "Ashley Greene" .
+<The_Twilight_Saga:_New_Moon> <media_common.netflix_title.netflix_genres> "Romantic Movies" .
+<Americans> <common.topic.image> "Americans" .
+<Clark_County> <location.statistical_region.population> "m.0hjz02_" .
+<Twilight> <book.book.characters> "Alice Cullen" .
+<Town> <freebase.equivalent_topic.equivalent_type> "City/Town/Village" .
+<Mark_Morgan> <film.producer.films_executive_produced> "The Twilight Saga: Breaking Dawn - Part 1" .
+<The_Twilight_Saga> <media_common.adaptation.adapted_from> "Twilight" .
+<Butter> <film.film.language> "English Language" .
+<Alice_Cullen> <film.film_character.portrayed_in_films> "m.075xjjf" .
+<Twilight> <film.film.starring> "m.0774bnx" .
+<Florida_State_College_at_Jacksonville> <location.location.containedby> "United States of America" .
+<Clark_County> <location.statistical_region.rent50_4> "m.05gglfb" .
+<Kalama> <location.hud_county_place.place> "Kalama" .
+<Barberton> <location.hud_county_place.place> "Barberton" .
+<Twilight> <book.written_work.part_of_series> "Twilight" .
+<m.0z8zcf3> <award.award_nomination.ceremony> "2009 Teen Choice Awards" .
+<m.0774bnx> <film.performance.film> "Twilight" .
+<Clark_County> <location.statistical_region.co2_emissions_mobile> "m.045kvp3" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Film Series" .
+<Millville> <location.location.containedby> "United States of America" .
+<Time_Zone> <freebase.type_profile.published> "Published" .
+<m.0n3js80> <award.award_honor.ceremony> "2009 Teen Choice Awards" .
+<Twilight> <film.film.starring> "m.04z4zl_" .
+<Twilight> <film.film.starring> "m.05hv23h" .
+<Radio_Free_Albemuth> <media_common.netflix_title.netflix_genres> "Dramas Based on the Book" .
+<City/Town/Village> <type.type.properties> "City Limits" .
+<Wish_I_Was_Here> <freebase.valuenotation.has_no_value> "Sequel" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011m57bw" .
+<Michele_Greene> <freebase.valuenotation.has_value> "Parents" .
+<Cherry_Grove> <location.location.containedby> "Washington" .
+<The_Cullens> <common.image.appears_in_topic_gallery> "Twilight" .
+<m.09wsdbm> <common.webpage.topic> "Ashley Greene" .
+<Nancy_Richardson> <freebase.valuenotation.has_value> "Parents" .
+<m.0z87zy6> <award.award_honor.honored_for> "Eclipse" .
+<m.0z8hkq8> <award.award_nomination.award> "Teen Choice Award for Choice Movie Scene Stealer: Female" .
+<DMG_Entertainment> <film.production_company.films> "Twilight" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0z8z93p" .
+<m.075xk63> <film.performance.film> "Twilight" .
+<m.0dh6lz0> <film.performance.film> "Butter" .
+<Olympia> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0nfjv6x> <award.award_honor.ceremony> "2009 Teen Choice Awards" .
+<Portland> <location.hud_county_place.place> "Portland" .
+<United_States,_with_Territories> <base.aareas.schema.earth.sovereign_domain.sovereign_state> "United States of America" .
+<Melissa_Rosenberg> <film.writer.film> "The Twilight Saga: Breaking Dawn - Part 1" .
+<m.05hv585> <people.sibling_relationship.sibling> "Joe Greene" .
+<Olympia> <location.hud_county_place.place> "Olympia" .
+<Joe_Greene> <people.person.profession> "Actor" .
+<Barberton> <location.location.time_zones> "Pacific Time Zone" .
+<Clackamas_Community_College> <film.film_location.featured_in_films> "Twilight" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "California" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0n3js4_" .
+<m.0k1bfj_> <film.film_regional_release_date.film_release_region> "Los Angeles" .
+<Twilight> <film.film.release_date_s> "m.0l3pc45" .
+<m.07m15q5> <film.performance.film> "Twilight" .
+<m.0l3pc3b> <film.film_regional_release_date.film> "Twilight" .
+<Jackson_Rathbone> <people.person.gender> "Male" .
+<Clark_County> <location.statistical_region.population> "m.0hjz05g" .
+<m.0bns7w2> <common.webpage.topic> "Ashley Greene" .
+<Alice_Cullen> <film.film_character.portrayed_in_films> "m.05kdrx4" .
+<Twilight> <book.written_work.author> "Stephenie Meyer" .
+<m.0kgnvhk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Vernonia> <film.film_location.featured_in_films> "Twilight" .
+<Middleburg> <location.hud_county_place.place> "Middleburg" .
+<m.0gb4nr5> <film.film_crew_gig.film> "Twilight" .
+<m.0b6zmzb> <education.education.student> "Ashley Greene" .
+<m.0n3js4_> <award.award_nomination.nominated_for> "Twilight" .
+<Reeve_Carney> <common.topic.notable_types> "Celebrity" .
+<Stephenie_Meyer> <book.author.works_written> "Twilight" .
+<m.0nfjvk2> <award.award_honor.honored_for> "Twilight" .
+<Ashley_Greene> <award.award_winner.awards_won> "m.0z87zy6" .
+<Elliot_Davis> <people.person.nationality> "United States of America" .
+<Ashley_Greene> <award.award_nominee.award_nominations> "m.0z8hkq8" .
+<Washougal> <location.statistical_region.population> "g.11x1l34s8" .
+<Twilight> <film.film.country> "United States of America" .
+<Event> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Ashley_Greene> <common.topic.webpage> "m.09x0lh_" .
+<Clark_County> <location.statistical_region.population> "m.0hjz01w" .
+<Clark_County> <location.statistical_region.population> "g.11x1hnjq3" .
+<Ashley_Greene> <award.award_nominee.award_nominations> "m.0z8z93p" .
+<People_born_here> <rdf-schema#range> "Person" .
+<m.0gb4nqj> <film.film_crew_gig.film> "Twilight" .
+<m.0gbwhrn> <film.performance.actor> "Ashley Greene" .
+<Joe_Greene> <freebase.valuenotation.has_value> "Date of birth" .
+<m.0l3pc4j> <film.film_regional_release_date.film> "Twilight" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51zj" .
+<m.0l3pbxr> <film.film_regional_release_date.film> "Twilight" .
+<Clark_County> <location.statistical_region.co2_emissions_residential> "m.045k4mr" .
+<Twilight> <film.film.soundtrack> "Twilight" .
+<Clark_County> <location.statistical_region.population> "g.12b025hjv" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <common.topic.notable_types> "Event" .
+<Yacolt> <location.location.containedby> "Clark County" .
+<Washougal> <location.statistical_region.population> "g.11bc889bnr" .
+<Reeve_Carney> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Place_of_birth> <rdf-schema#domain> "Person" .
+<Ashley_Greene> <tv.tv_actor.guest_roles> "m.0g784jh" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.produced_by> "Karen Rosenfelt" .
+<Twilight> <film.film.release_date_s> "m.0l3pbrx" .
+<m.09wfs4p> <common.webpage.topic> "Ashley Greene" .
+<m.0dh6lz0> <film.performance.actor> "Ashley Greene" .
+<City/Town/Village> <common.topic.article> "m.03bnd2c" .
+<Oregon> <location.administrative_division.first_level_division_of> "United States of America" .
+<Washington> <location.administrative_division.first_level_division_of> "United States of America" .
+<Carter_Burwell> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.produced_by> "Wyck Godfrey" .
+<Twilight> <film.film.starring> "m.04m6lb4" .
+<Mount_Vista> <location.hud_county_place.place> "Mount Vista" .
+<Mark_Morgan> <freebase.valuenotation.has_value> "Parents" .
+<Clark_County> <location.us_county.hud_county_place> "Venersborg" .
+<Cherry_Grove> <location.hud_county_place.place> "Cherry Grove" .
+<m.09yqc68> <common.webpage.resource> "Ashley Greene: Interview with 'New Moon's' Alice Cullen" .
+<m.05k73s9> <celebrities.friendship.friend> "Jackson Rathbone" .
+<Date_of_birth> <rdf-schema#domain> "Person" .
+<390px-AshleyGreene.jpg> <common.image.size> "m.03sw_5s" .
+<Wish_I_Was_Here> <freebase.valuenotation.has_no_value> "Prequel" .
+<Summit_Entertainment> <film.production_company.films> "Twilight" .
+<Clark_County> <location.statistical_region.population> "m.0hjz022" .
+<Twilight> <film.film.release_date_s> "m.0l3pcfp" .
+<Twilight> <film.film.release_date_s> "m.0l3pc2q" .
+<Ashley_Greene> <common.topic.webpage> "m.0bns7w2" .
+<Washougal> <location.statistical_region.population> "g.11x1klntm" .
+<Nancy_Richardson> <film.editor.film> "Eclipse" .
+<Film> <type.type.properties> "Music by" .
+<Ashley_Greene> <people.person.education> "m.0n1gt75" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Washougal> <common.topic.notable_for> "g.1255l0b3g" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <media_common.netflix_title.netflix_genres> "Drama" .
+<Gene_Serdena> <people.person.gender> "Male" .
+<Produced_by> <type.property.schema> "Film" .
+<Washougal> <location.statistical_region.population> "m.0hmncxy" .
+<m.0nfjtkv> <award.award_honor.honored_for> "Twilight" .
+<Vampire> <film.film_subject.films> "Twilight" .
+<m.0n3js4_> <award.award_nomination.ceremony> "2009 Teen Choice Awards" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.country> "United States of America" .
+<Time_zone(s)> <type.property.expected_type> "Time Zone" .
+<m.0b7ctq9> <film.performance.film> "Twilight" .
+<m.0l3pbv3> <film.film_regional_release_date.film> "Twilight" .
+<Executive_produced_by> <rdf-schema#domain> "Film" .
+<Maverick_Films> <organization.organization.place_founded> "Hollywood" .
+<m.05kdry0> <film.performance.film> "A Warrior's Heart" .
+<Clark_County> <location.statistical_region.population> "m.0hjz02s" .
+<Kalama> <location.location.time_zones> "Pacific Time Zone" .
+<m.09rpwg7> <award.award_honor.honored_for> "Twilight" .
+<m.0hmncwt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Felida> <location.location.containedby> "Washington" .
+<Jackson_Rathbone> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Twilight> <award.award_winning_work.awards_won> "m.0b0bmb5" .
+<Twilight> <film.film.release_date_s> "m.0l3pbxd" .
+<Clark_County> <location.statistical_region.population> "m.0hjz029" .
+<Americans> <people.ethnicity.includes_groups> "White Anglo-Saxon Protestant" .
+<Clark_County> <location.us_county.hud_county_place> "Hazel Dell North" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.production_companies> "Summit Entertainment" .
+<m.0nf3rxg> <film.performance.film> "Twilight" .
+<m.0jtc8nq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yacolt> <location.location.time_zones> "Pacific Time Zone" .
+<United_States_of_America> <location.administrative_division.first_level_division_of> "United States, with Territories" .
+<Florida_State_College_at_Jacksonville> <location.location.containedby> "Jacksonville" .
+<Clackamas_Community_College> <education.educational_institution_campus.educational_institution> "Clackamas Community College" .
+<Twilight> <film.film.starring> "m.0774tj2" .
+<Twilight> <award.award_winning_work.awards_won> "m.0z8z747" .
+<Clark_County> <location.us_county.hud_county_place> "Clark County / Woodland city" .
+<m.07ftmyw> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<New_Berlin> <location.location.events> "2014 Lucas Oil Pro Motocross Championship" .
+<Celebrity> <type.type.expected_by> "Celebrities with this Hairstyle" .
+<Minnehaha> <location.location.time_zones> "Pacific Time Zone" .
+<Ashley_Greene> <tv.tv_actor.guest_roles> "m.05kds7t" .
+<Los_Angeles> <common.topic.notable_types> "City/Town/Village" .
+<William_Clark> <people.person.gender> "Male" .
+<Person> <type.type.properties> "Country of nationality" .
+<Gender> <rdf-schema#range> "Gender" .
+<Greg_Mooradian> <film.producer.films_executive_produced> "Eclipse" .
+<Janine> <film.film_character.portrayed_in_films> "m.0zn7f58" .
+<Ashley_Greene> <film.actor.film> "m.075xjjf" .
+<Gene_Serdena> <freebase.valuenotation.has_value> "Place of birth" .
+<Camas> <base.wikipedia_infobox.settlement.area_code> "Area code 360" .
+<Radio_Free_Albemuth> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Oregon> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Clark_County> <location.statistical_region.population> "g.11x1cn2rk" .
+<Twilight> <film.film.executive_produced_by> "Michele Imperato" .
+<Clark_County> <location.statistical_region.population> "m.0hjz077" .
+<Elliot_Davis> <people.person.gender> "Male" .
+<m.0z83xpm> <award.award_honor.ceremony> "2012 Teen Choice Awards" .
+<m.0bjrg4z> <common.resource.annotations> "m.02nc8qj" .
+<Clackamas_Community_College> <location.location.containedby> "Oregon City" .
+<m.0z8z93p> <award.award_nomination.nominated_for> "Twilight" .
+<California> <location.administrative_division.first_level_division_of> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010r12s4" .
+<m.07h4stj> <film.performance.film> "Twilight" .
+<Washougal> <location.statistical_region.population> "m.0hmnczp" .
+<Corbett> <location.location.containedby> "Oregon" .
+<Battle_Ground> <location.location.time_zones> "Pacific Time Zone" .
+<Washougal> <location.hud_foreclosure_area.hhuniv> "m.07fttjd" .
+<m.0gb4nyh> <film.film_crew_gig.film> "Twilight" .
+<m.0gb4ns9> <film.film_crew_gig.film> "Twilight" .
+<Twilight> <film.film.featured_film_locations> "Santa Clarita" .
+<Edited_by> <rdf-schema#domain> "Film" .
+<Twilight> <media_common.netflix_title.netflix_genres> "Fantasy" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <time.event.locations> "Tooele" .
+<Barberton> <location.hud_county_place.county> "Clark County" .
+<Washougal> <location.statistical_region.population> "m.0hmnczx" .
+<Place_of_birth> <rdf-schema#range> "Location" .
+<m.04z4zm9> <film.performance.film> "Twilight" .
+<Area_code_360> <common.topic.notable_types> "Area code" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <media_common.netflix_title.netflix_genres> "Sci-Fi & Fantasy" .
+<CBGB> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<United_States_of_America> <location.country.administrative_divisions> "Oregon" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<m.07gyrcy> <film.performance.special_performance_type> "Uncredited" .
+<Washougal> <location.statistical_region.population> "m.0hmnc_b" .
+<m.0j56xy2> <film.film_regional_release_date.film> "Twilight" .
+<Twilight> <film.film.other_crew> "m.0gb4nrk" .
+<m.07fttjm> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Ashley_Greene> <film.actor.film> "m.0fprd5b" .
+<Ashley_Greene> <common.topic.image> "100_1574.jpg" .
+<Languages> <type.property.schema> "Film" .
+<San_Bernardino> <location.location.time_zones> "Pacific Time Zone" .
+<Clark_County> <location.statistical_region.population> "g.11x1htksp" .
+<Olympia> <location.location.time_zones> "Pacific Time Zone" .
+<Michele_Greene> <people.person.children> "Joe Greene" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <time.event.locations> "Lakewood" .
+<m.0t4s187> <people.marriage.spouse> "Michele Greene" .
+<Butter> <common.topic.notable_types> "Film" .
+<Twilight> <film.film.produced_by> "Mark Morgan" .
+<Twilight> <film.film.other_crew> "m.0gb4nr5" .
+<The_Twilight_Saga:_New_Moon> <freebase.valuenotation.is_reviewed> "Produced by" .
+<Joe_Jonas> <people.person.nationality> "United States of America" .
+<Ashley_Greene> <common.topic.webpage> "m.09yp1b0" .
+<Model> <base.lightweight.profession.similar_professions> "Actor" .
+<Time_Zone> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Tooele> <location.hud_county_place.place> "Tooele" .
+<Radio_Free_Albemuth> <film.film.country> "United States of America" .
+<Teen_Choice_Award_for_Choice_Movie_Scene_Stealer:_Female> <award.award_category.winners> "m.0z87zy6" .
+<Theodore> <base.famouspets.pet.owner> "m.0g9b4dd" .
+<Washougal> <location.location.geolocation> "m.02kjsv7" .
+<Downtown_Washougal_facing_west> <common.image.appears_in_topic_gallery> "Washougal" .
+<Young_Hollywood_Award_for_Female_Superstar_of_Tomorrow> <award.award_category.nominees> "m.0y59znc" .
+<\"If_there_is_such_a_thing_as_healing_wounds_from_the_past_by_applying_acts_of_grace_in_the_present,_it_may_be_possible_that_people_in_the_United_States_are_becoming_more_and_more_proficient_at_it.\"> <common.topic.subjects> "United States of America" .
+<Clark_County> <location.us_county.hud_county_place> "Amboy" .
+<m.0hjz064> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Twilight> <film.film.other_crew> "m.0gb4nr0" .
+<m.0l3pc7y> <film.film_regional_release_date.film> "Twilight" .
+<Significant> <freebase.type_kind.types> "US County" .
+<Clark_County> <location.statistical_region.population> "g.12b020bpg" .
+<m.02nc8qj> <common.webpage.topic> "Washougal" .
+<Clark_County> <location.statistical_region.rent50_3> "m.05gglf3" .
+<Celebrity> <type.type.expected_by> "Celebrity" .
+<Twilight> <film.film.release_date_s> "m.05mndl_" .
+<Mary_Tricia_Wood> <film.film_casting_director.films_casting_directed> "Twilight" .
+<Battle_Ground> <location.location.containedby> "Washington" .
+<m.0hmncyc> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<2012_Young_Hollywood_Awards> <award.award_ceremony.nominees> "m.0y59znc" .
+<Oregon_City> <common.topic.notable_types> "City/Town/Village" .
+<m.0j2qpcz> <film.personal_film_appearance.person> "Ashley Greene" .
+<Clark_County> <location.statistical_region.population> "g.11x1hqc3x" .
+<Catherine_Hardwicke> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Twilight> <film.film.other_crew> "m.0gb4npm" .
+<m.0l3pc9c> <film.film_regional_release_date.film> "Twilight" .
+<2009_Columbia_Gorge_International_Film_Festival> <common.topic.notable_for> "g.1s05bndkg" .
+<m.09x67lt> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.prequel> "Eclipse" .
+<CBGB> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Twilight> <film.film.release_date_s> "m.0l3pbrk" .
+<Clark_County> <location.statistical_region.population> "g.11x1g8_xh" .
+<Clark_County> <location.statistical_region.population> "m.0hjz05x" .
+<m.0kbb5yq> <award.award_honor.award_winner> "Ashley Greene" .
+<98671> <common.topic.notable_for> "g.125h3htfn" .
+<Twilight> <book.written_work.subjects> "Vampire" .
+<m.0l3pbxd> <film.film_regional_release_date.film> "Twilight" .
+<Shrink> <film.film.starring> "m.0gbwhrn" .
+<m.0k6j7y0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Twilight> <common.topic.notable_for> "g.125b6c5cj" .
+<Ashley_Greene> <film.actor.film> "m.0zn7f58" .
+<Melissa_Rosenberg> <film.writer.film> "The Twilight Saga: New Moon" .
+<Multnomah_Falls> <film.film_location.featured_in_films> "Twilight" .
+<Guy_Oseary> <freebase.valuenotation.is_reviewed> "Gender" .
+<United_States_of_America> <location.location.time_zones> "Pacific Time Zone" .
+<Twilight> <film.film.featured_film_locations> "Salmon River" .
+<Melissa_Rosenberg> <film.writer.film> "Eclipse" .
+<United_States,_with_Territories> <location.country.first_level_divisions> "United States of America" .
+<Pacific_Time_Zone> <common.topic.notable_for> "g.12570qvz6" .
+<Middleburg> <location.location.containedby> "Florida" .
+<Twilight> <film.film.other_crew> "m.0gb4nqs" .
+<m.05hv23h> <film.performance.film> "Twilight" .
+<m.0z8zbq7> <award.award_nomination.nominated_for> "Twilight" .
+<The_Twilight_Saga:_New_Moon> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Imprint_Entertainment> <film.production_company.films> "The Twilight Saga: New Moon" .
+<Country> <freebase.type_profile.kind> "Significant" .
+<Twilight> <film.film.cinematography> "Elliot Davis" .
+<m.0gb4nvk> <film.film_crew_gig.film> "Twilight" .
+<Ulalume:_Howling_at_New_Moon> <film.film.country> "United States of America" .
+<Film_festival_event> <freebase.type_hints.included_types> "Topic" .
+<m.0l3pbwm> <film.film_regional_release_date.film> "Twilight" .
+<m.05kds3_> <tv.tv_regular_personal_appearance.appearance_type> "Him/Herself" .
+<Eclipse> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Skateland> <film.film.film_casting_director> "Mary Tricia Wood" .
+<Clark_County> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Celebrity> <type.type.expected_by> "Celebrity" .
+<Kalama> <film.film_location.featured_in_films> "Twilight" .
+<La_Center> <common.topic.notable_types> "City/Town/Village" .
+<Clark_County> <location.statistical_region.population> "m.0hjz064" .
+<Vancouver> <location.location.time_zones> "Pacific Time Zone" .
+<Film> <type.type.properties> "Genres" .
+<Ashley_Greene> <common.topic.image> "100_1574.jpg" .
+<Twilight> <film.film.starring> "m.0b7ctq9" .
+<Oregon> <base.locations.states_and_provences.country> "United States of America" .
+<Ashley_Greene> <common.topic.image> "normal_001.jpg" .
+<m.0b6zmzb> <education.education.institution> "Florida State College at Jacksonville" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.09tm0tf" .
+<m.0gb4nw2> <film.film_crew_gig.film> "Twilight" .
+<Lewisville> <location.location.time_zones> "Pacific Time Zone" .
+<Greg_Mooradian> <freebase.valuenotation.has_value> "Parents" .
+<m.0z8zb_t> <award.award_nomination.nominated_for> "Twilight" .
+<Kellan_Lutz> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0z8hkq8> <award.award_nomination.nominated_for> "The Twilight Saga: New Moon" .
+<Story_by> <rdf-schema#domain> "Film" .
+<ashleybday.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<Wendy_Chuck> <freebase.valuenotation.is_reviewed> "Gender" .
+<m.0z83xqy> <award.award_nomination.award> "Teen Choice Award for Choice Movie Scene Stealer: Female" .
+<Santa_Clarita> <location.location.time_zones> "Pacific Time Zone" .
+<Mount_St._Helens_National_Volcanic_Monument> <film.film_location.featured_in_films> "Twilight" .
+<Twilight> <film.film.film_series> "The Twilight Saga" .
+<Sacramento> <location.location.containedby> "California" .
+<Pst> <common.image.appears_in_topic_gallery> "Pacific Time Zone" .
+<Twilight> <film.film.starring> "m.07gyrcy" .
+<Catherine_Hardwicke> <award.award_nominee.award_nominations> "m.0yrbqyc" .
+<m.0n1gt75> <education.education.institution> "Lee Strasberg Theatre and Film Institute" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Executive produced by" .
+<Washougal> <location.statistical_region.population> "m.0hmncvy" .
+<California> <base.biblioness.bibs_location.country> "United States of America" .
+<Twilight> <common.topic.article> "m.03nm_fm" .
+<m.0l3pc5s> <film.film_regional_release_date.film> "Twilight" .
+<m.0sxhtll> <celebrities.romantic_relationship.relationship_type> "Dated" .
+<Clark_County> <location.statistical_region.population> "g.11x1l76yv" .
+<Parents> <rdf-schema#range> "Person" .
+<Pan_Am> <tv.tv_program.genre> "Drama" .
+<Hockinson> <location.location.containedby> "Clark County" .
+<Twilight> <media_common.netflix_title.netflix_genres> "Vampire Movies" .
+<Hazel_Dell_South> <location.hud_county_place.county> "Clark County" .
+<Melissa_Rosenberg> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Twilight> <film.film.featured_film_locations> "Gresham" .
+<United_States_of_America> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Twilight> <award.award_winning_work.awards_won> "m.0b0gnvy" .
+<Mary_Tricia_Wood> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0gc_p7d> <award.award_honor.award> "Teen Choice Award for Choice Movie Breakout Star - Female" .
+<Eclipse> <media_common.netflix_title.netflix_genres> "Dramas Based on the Book" .
+<Tooele> <common.topic.notable_types> "City/Town/Village" .
+<Ashley_Greene> <common.topic.webpage> "m.09wsdbm" .
+<Adeline_Winter> <film.film_character.portrayed_in_films> "m.0gbwhsv" .
+<Vampire> <film.film_subject.films> "The Twilight Saga: New Moon" .
+<2009_Columbia_Gorge_International_Film_Festival> <time.event.instance_of_recurring_event> "Columbia Gorge International Film Festival" .
+<m.0z88088> <award.award_nomination.nominated_for> "Eclipse" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.language> "English Language" .
+<m.0nf3c0c> <award.award_honor.honored_for> "Twilight" .
+<m.0l3pbw7> <film.film_regional_release_date.film> "Twilight" .
+<Ashley_Greene> <common.topic.image> "100_1574.jpg" .
+<Florida> <base.biblioness.bibs_location.country> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kkbry" .
+<United_States_of_America> <location.country.administrative_divisions> "Florida" .
+<Gene_Serdena> <freebase.valuenotation.has_value> "Country of nationality" .
+<Teen_Choice_Award_for_Choice_Movie_Scene_Stealer:_Female> <award.award_category.winners> "m.0z83xpm" .
+<Brush_Prairie> <location.hud_county_place.county> "Clark County" .
+<Ashley_Greene> <common.topic.image> "100_1574.jpg" .
+<Twilight> <film.film.other_crew> "m.0gb4nng" .
+<Twilight> <film.film.release_date_s> "m.05mndlr" .
+<m.0b7bkvl> <celebrities.friendship.friend> "Rachelle Lefevre" .
+<m.0hjz029> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Camas> <location.location.containedby> "Clark County" .
+<m.0zn7f58> <film.performance.character> "Janine" .
+<m.0k6j7xt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hmncx1> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Kelly> <film.film_character.portrayed_in_films> "m.0sx8zgp" .
+<Twilight> <award.award_winning_work.awards_won> "m.0nfjvk2" .
+<Country_of_nationality> <rdf-schema#range> "Country" .
+<Jackson_Rathbone> <freebase.valuenotation.is_reviewed> "Gender" .
+<Shrink> <film.film.genre> "Drama" .
+<Stephenie_Meyer> <film.film_story_contributor.film_story_credits> "Eclipse" .
+<Mark_Morgan> <freebase.valuenotation.has_value> "Date of birth" .
+<California> <location.location.time_zones> "Pacific Time Zone" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.subdividing_place> "United States of America" .
+<m.0vmy7yg> <film.performance.character> "Violet" .
+<Meadow_Glade> <location.hud_county_place.place> "Meadow Glade" .
+<Teen_Choice_Award_for_Choice_Movie_Scene_Stealer:_Female> <award.award_category.nominees> "m.0z8hkq8" .
+<m.0z8z93p> <award.award_nomination.award_nominee> "Ashley Greene" .
+<m.07fttk8> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Los_Angeles> <location.hud_county_place.place> "Los Angeles" .
+<Barberton> <location.location.containedby> "Clark County" .
+<Celebrity> <type.type.expected_by> "Partners" .
+<Twilight> <film.film.featured_film_locations> "Cannon Beach" .
+<Ashley_Greene> <film.actor.film> "m.0gbwhs7" .
+<Wish_I_Was_Here> <film.film.language> "English Language" .
+<Area_code> <freebase.type_hints.included_types> "Location" .
+<Ridgefield> <location.location.containedby> "Washington" .
+<Washougal> <location.statistical_region.population> "g.11x1k2104" .
+<m.0gxw4_8> <people.place_lived.location> "California" .
+<City_Limits> <type.property.schema> "City/Town/Village" .
+<Area_code_360> <location.location.containedby> "Washington" .
+<Twilight> <film.film.featured_film_locations> "Silver Falls State Park" .
+<m.0g9b4ds> <base.famouspets.pet_ownership.owner> "Ashley Greene" .
+<Hollywood> <film.film_subject.films> "Shrink" .
+<Country> <freebase.type_profile.strict_included_types> "Dated location" .
+<m.0l3pc8m> <film.film_regional_release_date.film> "Twilight" .
+<Tooele> <location.location.events> "2014 Lucas Oil Pro Motocross Championship" .
+<Twilight> <award.award_winning_work.awards_won> "m.0nfjv6x" .
+<m.0774yfx> <film.performance.film> "Twilight" .
+<Washougal> <location.statistical_region.population> "m.0hmncx8" .
+<Twilight> <award.award_winning_work.awards_won> "m.0_ls_d7" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<Initial_release_date> <type.property.expected_type> "Date/Time" .
+<normal_004.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<Brush_Prairie> <location.location.containedby> "Washington" .
+<Otis> <film.film.genre> "Horror" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<Guy_Oseary> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Postal_codes> <type.property.schema> "City/Town/Village" .
+<The_Twilight_Saga> <film.film_series.films_in_series> "Eclipse" .
+<ashleybday.jpg> <common.image.size> "m.03rsm8p" .
+<A_Warrior's_Heart> <film.film.starring> "m.0fprd5b" .
+<Ashley_Greene> <people.person.education> "m.05kdrsw" .
+<m.04z4zlp> <film.performance.film> "Twilight" .
+<m.05hv585> <people.sibling_relationship.sibling> "Ashley Greene" .
+<m.0nfjv6x> <award.award_honor.honored_for> "Twilight" .
+<Clark_County> <location.statistical_region.population> "g.11x1fr8qw" .
+<Film> <freebase.type_profile.strict_included_types> "Topic" .
+<Jacksonville> <location.location.containedby> "United States of America" .
+<Temple_Hill_Productions> <film.production_company.films> "Eclipse" .
+<normal_001.jpg> <common.image.size> "m.0kkcly" .
+<Drama> <media_common.media_genre.child_genres> "Romance Film" .
+<Heterosexuality> <celebrities.sexual_orientation.celebrities> "m.0ptzk9f" .
+<Parents> <type.property.schema> "Person" .
+<Twilight> <film.film.featured_film_locations> "Corbett Elementary School" .
+<Elliot_Davis> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Washougal> <location.location.containedby> "Washington" .
+<Teen_Choice_Award_for_Choice_Movie_Scene_Stealer:_Female> <award.award_category.winners> "m.0kbb5yq" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <award.award_nominated_work.award_nominations> "m.0z83xqy" .
+<m.0j56hbd> <film.film_regional_release_date.film_release_region> "United States of America" .
+<m.0bns7w2> <common.webpage.in_index> "Blissful Master Index" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0z8zcf3" .
+<m.0z83xpm> <award.award_honor.honored_for> "The Twilight Saga: Breaking Dawn - Part 1" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Story by" .
+<Significant> <freebase.type_kind.types> "City/Town/Village" .
+<Twilight> <film.film.executive_produced_by> "Guy Oseary" .
+<Florida> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Clark_County> <location.statistical_region.population> "m.0hjz036" .
+<Vancouver> <location.location.containedby> "United States of America" .
+<Deborah_Aquila> <freebase.valuenotation.has_value> "Parents" .
+<Twilight> <film.film.featured_film_locations> "Washougal" .
+<The_Twilight_Saga> <film.film_series.films_in_series> "Twilight" .
+<MacDonalds_Customer> <film.film_character.portrayed_in_films> "m.05kdsj2" .
+<Marlo> <base.famouspets.pet.owner> "m.0g9b4ds" .
+<Lewisville> <location.hud_county_place.place> "Lewisville" .
+<Yacolt> <common.topic.notable_types> "City/Town/Village" .
+<m.0hjz02_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<The_Twilight_Saga:_New_Moon> <freebase.valuenotation.is_reviewed> "Executive produced by" .
+<Twilight> <film.film.release_date_s> "m.0nf3ss7" .
+<m.05mnl6j> <film.film_film_distributor_relationship.film> "Twilight" .
+<Missy> <film.film_character.portrayed_in_films> "m.0gbwhrn" .
+<Twilight> <film.film.release_date_s> "m.0l3pc7l" .
+<Washougal> <location.statistical_region.population> "g.11x1h5bft" .
+<Twilight> <film.film.release_date_s> "m.0l3pcbf" .
+<m.0h3c4x8> <celebrities.romantic_relationship.celebrity> "Ashley Greene" .
+<m.09wfs4p> <common.webpage.resource> "Taylor Lautner at New York 'New Moon' premiere: 'Werewolves are sexier'" .
+<City/Town/Village> <type.type.properties> "Postal codes" .
+<Minnehaha> <location.hud_county_place.place> "Minnehaha" .
+<Battle_Ground> <location.hud_county_place.place> "Battle Ground" .
+<Celebrity> <type.type.properties> "Substance abuse problems" .
+<m.0gb4nwv> <film.film_crew_gig.film> "Twilight" .
+<Carter_Burwell> <people.person.nationality> "United States of America" .
+<m.0z8z93p> <award.award_nomination.award> "Teen Choice Award for Choice Movie Breakout Star - Female" .
+<Twilight> <film.film.edited_by> "Nancy Richardson" .
+<Washougal> <location.statistical_region.population> "m.0hmncz0" .
+<100_1574.jpg> <common.image.size> "m.04rdsgk" .
+<Twilight> <film.film.starring> "m.07l5tnw" .
+<Alice_Cullen> <film.film_character.portrayed_in_films> "m.0djz0zv" .
+<Person> <freebase.type_profile.strict_included_types> "Agent" .
+<Samuel_W._Wolfson_High_School> <education.educational_institution_campus.educational_institution> "Samuel W. Wolfson High School" .
+<Twilight> <film.film.other_crew> "m.0gb4ns5" .
+<Wish_I_Was_Here> <freebase.valuenotation.has_no_value> "Film Series" .
+<Chace_Crawford> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Ashley_Greene> <film.actor.film> "m.0v4ym33" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Sequel" .
+<Guy_Oseary> <freebase.valuenotation.has_value> "Parents" .
+<m.0sx8zgp> <film.performance.character> "Kelly" .
+<Crawfordsville> <location.location.containedby> "United States of America" .
+<Maverick_Films> <film.production_company.films> "The Twilight Saga: New Moon" .
+<m.0hjz04b> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0z8_3ck> <award.award_nomination.ceremony> "2009 Teen Choice Awards" .
+<Reeve_Carney> <freebase.valuenotation.is_reviewed> "Gender" .
+<m.0gb4nvp> <film.film_crew_gig.film> "Twilight" .
+<m.0fprd5b> <film.performance.actor> "Ashley Greene" .
+<Columbia_Gorge_International_Film_Festival> <film.film_festival.location> "Vancouver" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjwd" .
+<Twilight> <film.film.executive_produced_by> "Karen Rosenfelt" .
+<Twilight> <film.film.other_crew> "m.0gb4nrt" .
+<Washougal> <location.location.containedby> "United States of America" .
+<Twilight> <film.film.featured_song> "Decode" .
+<The_Twilight_Saga:_New_Moon> <film.film.production_companies> "Temple Hill Productions" .
+<m.07l5tnw> <film.performance.film> "Twilight" .
+<Michele_Greene> <freebase.valuenotation.has_value> "Place of birth" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oregon" .
+<m.0gb4nnb> <film.film_crew_gig.film> "Twilight" .
+<Gender> <type.property.expected_type> "Gender" .
+<m.0y59x08> <freebase.valuenotation.has_no_value> "Winning work" .
+<Marty_Bowen> <film.producer.films_executive_produced> "Twilight" .
+<m.0v4ym33> <film.performance.film> "Americana" .
+<Sacramento> <base.biblioness.bibs_location.state> "California" .
+<m.0l3pbtd> <film.film_regional_release_date.film> "Twilight" .
+<2009_Columbia_Gorge_International_Film_Festival> <common.topic.notable_types> "Film festival event" .
+<m.0l3pbr6> <film.film_regional_release_date.film> "Twilight" .
+<m.0gb4nnz> <film.film_crew_gig.film> "Twilight" .
+<Reeve_Carney> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.09x1rnr> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Twilight> <award.award_winning_work.awards_won> "m.0nfjvcx" .
+<Clark_County> <location.statistical_region.population> "g.11x1kln4y" .
+<Americans> <common.topic.article> "m.04q7gbm" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0z8zb_t" .
+<Twilight> <film.film.release_date_s> "m.0l3pbnt" .
+<m.04z4zlv> <film.performance.actor> "Rachelle Lefevre" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011c38cw" .
+<Eclipse> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Marty_Bowen> <freebase.valuenotation.has_value> "Place of birth" .
+<Twilight> <film.film.other_crew> "m.0gb4np7" .
+<Twilight> <film.film.release_date_s> "m.0l3pc4z" .
+<Washougal> <location.statistical_region.population> "g.12vqh_51c" .
+<Twilight> <film.film.produced_by> "Greg Mooradian" .
+<Michele_Greene> <people.person.profession> "Insurance Broker" .
+<Twilight> <film.film.other_crew> "m.0gb4nyh" .
+<Twilight> <film.film.other_crew> "m.0gb4nvp" .
+<Ashley_Greene> <people.person.profession> "Actor" .
+<Twilight> <award.award_winning_work.awards_won> "m.01086803" .
+<m.09x1rnr> <common.webpage.topic> "Ashley Greene" .
+<Multnomah_Falls> <location.location.time_zones> "Pacific Time Zone" .
+<Greg_Mooradian> <freebase.valuenotation.is_reviewed> "Gender" .
+<Twilight> <film.film.starring> "m.07h4stj" .
+<Clark_County> <location.us_county.hud_county_place> "Felida" .
+<2008_Columbia_Gorge_International_Film_Festival> <common.topic.notable_types> "Film festival event" .
+<Washougal> <film.film_location.featured_in_films> "Twilight" .
+<Twilight> <music.album.artist> "Carter Burwell" .
+<California> <base.locations.states_and_provences.country> "United States of America" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.music> "Carter Burwell" .
+<City/Town/Village> <freebase.type_hints.included_types> "Statistical region" .
+<Film> <freebase.type_profile.published> "Published" .
+<Twilight> <film.film.release_date_s> "m.0l3pc3b" .
+<Salmon_Creek> <location.location.time_zones> "Pacific Time Zone" .
+<Rachelle_Lefevre> <freebase.valuenotation.is_reviewed> "Gender" .
+<100_1574.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<Twilight> <film.film.release_date_s> "m.0l3pbqw" .
+<m.05k73s3> <celebrities.friendship.friend> "Ashley Greene" .
+<Ridgefield> <common.topic.notable_types> "City/Town/Village" .
+<Violet> <film.film_character.portrayed_in_films> "m.0vmy7yg" .
+<Hazel_Dell_South> <location.location.time_zones> "Pacific Time Zone" .
+<2009_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0nf3c0c" .
+<m.0nfjvcx> <award.award_honor.honored_for> "Twilight" .
+<m.0_lsbvm> <award.award_nomination.nominated_for> "Twilight" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51y0" .
+<Twilight> <film.film.release_date_s> "m.0l3pc0_" .
+<Imprint_Entertainment> <film.production_company.films> "Eclipse" .
+<Country> <freebase.type_hints.included_types> "Location" .
+<Venersborg> <location.hud_county_place.place> "Venersborg" .
+<Celebrity> <type.type.properties> "Sexual orientation" .
+<Americana> <film.film.language> "English Language" .
+<Ashley_Greene> <tv.tv_personality.tv_regular_appearances> "m.0j2d64g" .
+<Clark_County> <location.us_county.hud_county_place> "Cherry Grove" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0z8yszf" .
+<Crawfordsville> <location.hud_county_place.place> "Crawfordsville" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Florida" .
+<Ashley_Greene> <common.topic.webpage> "m.09yn34l" .
+<Michele_Imperato> <freebase.valuenotation.has_value> "Country of nationality" .
+<Wyck_Godfrey> <people.person.gender> "Male" .
+<San_Bernardino> <common.topic.notable_types> "City/Town/Village" .
+<Hazel_Dell_North> <location.hud_county_place.place> "Hazel Dell North" .
+<United_States,_with_Territories> <common.topic.notable_types> "Country" .
+<San_Bernardino> <location.location.containedby> "United States of America" .
+<Clark_County> <location.location.adjoin_s> "m.03jr051" .
+<Reeve_Carney> <people.person.gender> "Male" .
+<Twilight> <film.film.genre> "Romance Film" .
+<m.0hmnczx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Clark_County> <location.statistical_region.rent50_1> "m.05ggldp" .
+<Washougal> <location.location.events> "2009 Columbia Gorge International Film Festival" .
+<m.0j21l7j> <people.place_lived.person> "Ashley Greene" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Hazel_Dell_North> <location.hud_county_place.county> "Clark County" .
+<Ashley_Greene> <celebrities.celebrity.celebrity_friends> "m.0b7bkvl" .
+<Oregon> <film.film_location.featured_in_films> "Twilight" .
+<Film> <type.type.properties> "Cinematography" .
+<m.0gb4nrt> <film.film_crew_gig.film> "Twilight" .
+<Minnehaha> <location.location.containedby> "Clark County" .
+<The_Twilight_Saga:_New_Moon> <film.film.executive_produced_by> "Marty Bowen" .
+<California> <base.aareas.schema.administrative_area.capital> "Sacramento" .
+<Film> <type.type.expected_by> "Sequel" .
+<Los_Angeles> <base.biblioness.bibs_location.country> "United States of America" .
+<Event> <freebase.type_hints.included_types> "Topic" .
+<m.0z8zbq7> <award.award_nomination.ceremony> "2009 Teen Choice Awards" .
+<m.0vmy743> <film.performance.film> "CBGB" .
+<Clark_County> <location.statistical_region.population> "m.0hjz057" .
+<Twilight> <film.film.release_date_s> "m.0l3pc2c" .
+<Oregon_City> <film.film_location.featured_in_films> "Twilight" .
+<Skateland> <media_common.netflix_title.netflix_genres> "Romantic Movies" .
+<Celebrity> <freebase.type_hints.included_types> "Topic" .
+<Celebrity> <type.type.expected_by> "Celebrity" .
+<Twilight> <film.film.other_crew> "m.0gb4ntp" .
+<San_Bernardino> <location.location.events> "2014 Lucas Oil Pro Motocross Championship" .
+<Middleburg> <location.location.containedby> "United States of America" .
+<Carter_Burwell> <film.music_contributor.film> "The Twilight Saga: Breaking Dawn - Part 1" .
+<The_Twilight_Saga:_New_Moon> <film.film.country> "United States of America" .
+<Country> <type.type.domain> "Location" .
+<Battle_Ground> <location.hud_county_place.county> "Clark County" .
+<Twilight> <film.film.starring> "m.04z4zm4" .
+<Jackson_Rathbone> <common.topic.notable_types> "Celebrity" .
+<Reeve_Carney> <freebase.valuenotation.has_value> "Parents" .
+<Twilight> <media_common.adapted_work.adaptations> "Twilight" .
+<Twilight> <media_common.netflix_title.netflix_genres> "Romance Film" .
+<m.0gbwhs7> <film.performance.actor> "Ashley Greene" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011m9jg_" .
+<Lewisville> <location.location.containedby> "Clark County" .
+<Mount_Vista> <location.hud_county_place.county> "Clark County" .
+<100_1574.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<m.04z4zl_> <film.performance.film> "Twilight" .
+<United_States_of_America> <common.topic.notable_types> "Country" .
+<The_Twilight_Saga:_New_Moon> <film.film.written_by> "Melissa Rosenberg" .
+<Silver_Falls_State_Park> <location.location.containedby> "Oregon" .
+<Twilight> <film.film.release_date_s> "m.0l3pbqh" .
+<Ashley_Greene> <common.topic.webpage> "m.0bl2x8m" .
+<Five_Corners> <location.location.time_zones> "Pacific Time Zone" .
+<Blountville> <location.hud_county_place.place> "Blountville" .
+<m.0kbb5yq> <award.award_honor.honored_for> "The Twilight Saga: Breaking Dawn - Part 1" .
+<Ridgefield> <location.location.containedby> "Clark County" .
+<m.0l3pbt1> <film.film_regional_release_date.film> "Twilight" .
+<Clark_County> <location.statistical_region.population> "g.11x1fmjqn" .
+<Brush_Prairie> <location.hud_county_place.place> "Brush Prairie" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.production_companies> "Summit Entertainment" .
+<Pan_Am> <tv.tv_program.languages> "English Language" .
+<Clark_County> <location.statistical_region.population> "g.11x1fk5hn" .
+<Why_Race_Mattered_in_Barack_Obama's_Re-election> <book.written_work.subjects> "United States of America" .
+<Date_of_birth> <type.property.schema> "Person" .
+<Twilight> <book.written_work.original_language> "English Language" .
+<Camas> <location.location.time_zones> "Pacific Time Zone" .
+<Joe_Jonas> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Event> <freebase.type_profile.published> "Published" .
+<100_1574.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<Buchanan> <location.location.events> "2014 Lucas Oil Pro Motocross Championship" .
+<Greg_Mooradian> <people.person.gender> "Male" .
+<Alice_Cullen> <fictional_universe.fictional_character.gender> "Female" .
+<m.075xjjm> <film.performance.character> "Alice Cullen" .
+<Eclipse> <media_common.netflix_title.netflix_genres> "Sci-Fi & Fantasy" .
+<Ashley_Greene> <common.topic.webpage> "m.09x471x" .
+<Nancy_Richardson> <freebase.valuenotation.has_value> "Place of birth" .
+<Eclipse> <film.film.prequel> "The Twilight Saga: New Moon" .
+<Joe_Greene> <people.person.children> "Joe Greene" .
+<Carter_Burwell> <film.music_contributor.film> "Twilight" .
+<m.09yn34l> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<The_Twilight_Saga:_New_Moon> <film.film.produced_by> "Karen Rosenfelt" .
+<US_County> <freebase.type_hints.included_types> "Location" .
+<m.0hmncz7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Clark_County> <location.statistical_region.population> "g.11x1glxzb" .
+<Eclipse> <media_common.netflix_title.netflix_genres> "Romantic Movies" .
+<m.05kdsg3> <tv.tv_guest_role.character> "Natalie Faber" .
+<Punk'd> <tv.tv_program.languages> "English Language" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.genre> "Drama" .
+<Twilight> <media_common.adaptation.adapted_from> "Twilight" .
+<Ashley_Greene> <people.person.places_lived> "m.05hv4jz" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Twilight> <film.film.subjects> "Vampire" .
+<Twilight> <film.film.other_crew> "m.0gb4nnz" .
+<m.0l3pc89> <film.film_regional_release_date.film> "Twilight" .
+<Ian_Phillips> <film.film_art_director.films_art_directed> "Twilight" .
+<Temple_Hill_Productions> <film.production_company.films> "Twilight" .
+<m.075xjjf> <film.performance.character> "Alice Cullen" .
+<Oregon_City> <location.location.contains> "Clackamas Community College" .
+<100_1574.jpg> <common.image.size> "m.04s5fwz" .
+<m.0z83xpm> <award.award_honor.award_winner> "Ashley Greene" .
+<2009_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0n3js80" .
+<Deborah_Aquila> <freebase.valuenotation.has_value> "Date of birth" .
+<Ashley_Greene> <people.person.places_lived> "m.0j21l7j" .
+<Elliot_Davis> <people.person.place_of_birth> "United States of America" .
+<Clark_County> <location.statistical_region.population> "g.11x1f2m2c" .
+<The_Twilight_Saga:_New_Moon> <freebase.valuenotation.is_reviewed> "Story by" .
+<Twilight> <film.film.release_date_s> "m.0j56xy2" .
+<Otis> <film.film.starring> "m.0gbwhs7" .
+<Joe_Jonas> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Hazel_Dell_South> <location.location.containedby> "United States of America" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0z8zcln" .
+<m.0l3pcc9> <film.film_regional_release_date.film> "Twilight" .
+<Chace_Crawford> <base.popstra.celebrity.friendship> "m.063hcxz" .
+<Salmon_Creek> <location.hud_county_place.place> "Salmon Creek" .
+<Young_Hollywood_Award_for_Female_Superstar_of_Tomorrow> <award.award_category.winners> "m.0y59x08" .
+<University_Christian_School> <education.educational_institution.students_graduates> "m.072f06g" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0111t6vw" .
+<Washougal> <location.statistical_region.population> "g.11x1klmz8" .
+<m.0y59znc> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Americans> <common.topic.subject_of> "\'If there is such a thing as healing wounds from the past by applying acts of grace in the present, it may be possible that people in the United States are becoming more and more proficient at it.\'" .
+<The_Twilight_Saga:_New_Moon> <film.film.production_companies> "Imprint Entertainment" .
+<Ashley_Greene> <people.person.profession> "Model" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <time.event.locations> "Mount Morris" .
+<Columbia_Gorge_International_Film_Festival> <time.recurring_event.instances> "2008 Columbia Gorge International Film Festival" .
+<Jackson_Rathbone> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0l3pbvw> <film.film_regional_release_date.film> "Twilight" .
+<Vancouver> <location.hud_county_place.place> "Vancouver" .
+<The_Twilight_Saga:_New_Moon> <media_common.netflix_title.netflix_genres> "Vampire" .
+<Ian_Phillips> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ashley_Greene> <people.person.nationality> "United States of America" .
+<Eclipse> <film.film.starring> "m.075xjjm" .
+<Stephenie_Meyer> <people.person.nationality> "United States of America" .
+<Joe_Greene> <common.topic.article> "m.0h76dsf" .
+<Stephenie_Meyer> <film.producer.film> "The Twilight Saga: Breaking Dawn - Part 1" .
+<m.05kdsj2> <film.performance.character> "MacDonalds Customer" .
+<Americans> <people.ethnicity.geographic_distribution> "United States of America" .
+<Twilight> <film.film.genre> "Drama" .
+<Ashley_Greene> <common.topic.image> "100_1574.jpg" .
+<Twilight> <film.film.release_date_s> "m.0l3pbxr" .
+<Nancy_Richardson> <film.editor.film> "Twilight" .
+<The_Twilight_Saga> <film.film_series.films_in_series> "The Twilight Saga: Breaking Dawn - Part 1" .
+<Twilight> <award.award_winning_work.awards_won> "m.0n3js80" .
+<Buchanan> <common.topic.notable_types> "City/Town/Village" .
+<m.0hjz04k> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Hockinson> <location.hud_county_place.county> "Clark County" .
+<Washougal> <location.statistical_region.population> "m.0hmncxq" .
+<Salmon_Creek> <location.location.containedby> "Washington" .
+<Clark_County> <location.statistical_region.population> "m.0hjz06t" .
+<Dollar_Corner> <location.location.containedby> "Washington" .
+<Hollywood> <location.location.containedby> "California" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kkbfd" .
+<Meadow_Glade> <location.location.containedby> "Washington" .
+<Chace_Crawford> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<2011_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0z87zy6" .
+<Celebrity> <type.type.expected_by> "Rival" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.produced_by> "Karen Rosenfelt" .
+<Eclipse> <film.film.story_by> "Stephenie Meyer" .
+<Twilight> <film.film.release_date_s> "m.0l3pc5d" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjv4" .
+<Otis> <film.film.country> "United States of America" .
+<Twilight> <award.award_winning_work.awards_won> "m.0gc_p7d" .
+<Twilight> <film.film.release_date_s> "m.0l3pc1p" .
+<Buchanan> <location.location.containedby> "United States of America" .
+<Twilight> <film.film.release_date_s> "m.0l3pcdc" .
+<m.0hjz01n> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.03jr051> <location.adjoining_relationship.adjoins> "Clark County" .
+<100_1574.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<Clark_County> <location.statistical_region.population> "m.0hjz04s" .
+<Stephenie_Meyer> <film.film_story_contributor.film_story_credits> "The Twilight Saga: New Moon" .
+<Twilight> <film.film.featured_film_locations> "Oregon" .
+<Santa_Clarita> <location.location.containedby> "United States of America" .
+<Twilight> <film.film.release_date_s> "m.0l3pbvh" .
+<m.0z88088> <award.award_nomination.ceremony> "2011 Teen Choice Awards" .
+<m.0nf3rq8> <film.performance.film> "Twilight" .
+<Area_code> <freebase.type_profile.strict_included_types> "Topic" .
+<Twilight> <film.film.runtime> "m.0cf_7fl" .
+<Twilight> <film.film.featured_film_locations> "Portland" .
+<m.0vmy7yg> <film.performance.actor> "Ashley Greene" .
+<m.0g784jh> <tv.tv_guest_role.episodes_appeared_in> "July 2, 2010" .
+<Ashley_Greene> <celebrities.celebrity.sexual_orientation> "m.0ptzk9f" .
+<Corbett> <film.film_location.featured_in_films> "Twilight" .
+<Ashley_Greene> <common.topic.image> "100_1574.jpg" .
+<Alice_Garano> <film.film_character.portrayed_in_films> "m.0v4ym33" .
+<Rachelle_Lefevre> <people.person.profession> "Actor" .
+<The_Twilight_Saga:_New_Moon> <film.film.film_series> "The Twilight Saga" .
+<2012_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0z83xpm" .
+<Dollar_Corner> <location.location.containedby> "Clark County" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.subjects> "Vampire" .
+<Karen_Rosenfelt> <film.producer.films_executive_produced> "Twilight" .
+<The_Apparition> <media_common.netflix_title.netflix_genres> "Horror" .
+<2009_Columbia_Gorge_International_Film_Festival> <film.film_festival_event.festival> "Columbia Gorge International Film Festival" .
+<2009_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0nfjv6x" .
+<Lakewood> <location.location.events> "2014 Lucas Oil Pro Motocross Championship" .
+<Washougal> <location.statistical_region.population> "m.0hmnczg" .
+<Ashley_Greene> <common.topic.webpage> "m.09yrkyg" .
+<Washougal> <location.statistical_region.population> "g.11x1gp6f0" .
+<Ashley_Greene> <people.person.places_lived> "m.05hv4wx" .
+<Washougal> <location.statistical_region.population> "g.11x1frrq4" .
+<m.09yrkyg> <common.webpage.resource> "Taylor Lautner to star in 'Cancun': Spring break and drug cartels, eh?" .
+<Twilight> <award.award_winning_work.awards_won> "m.09rpwg7" .
+<m.0hjz01w> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Ashley_Greene> <film.actor.film> "m.0sx8zgp" .
+<100_1574.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<English_Language> <language.human_language.dialects> "American English" .
+<m.0l3pc2c> <film.film_regional_release_date.film> "Twilight" .
+<m.07ftmzq> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Richard_Gardner> <freebase.valuenotation.has_value> "Parents" .
+<Executive_produced_by> <type.property.schema> "Film" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0b3v0g1" .
+<Guy_Oseary> <people.person.gender> "Male" .
+<Twilight> <award.award_winning_work.awards_won> "m.0nfjtn2" .
+<Portland> <common.topic.notable_types> "City/Town/Village" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jt6z3" .
+<Chace_Crawford> <people.person.gender> "Male" .
+<Wyck_Godfrey> <film.producer.film> "Eclipse" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012w3hyx" .
+<Washougal> <location.statistical_region.population> "m.0hmncx1" .
+<Corbett> <common.topic.notable_types> "City/Town/Village" .
+<The_Twilight_Saga:_New_Moon> <common.topic.notable_types> "Film" .
+<Film> <type.type.properties> "Casting director" .
+<Celebrity> <freebase.type_profile.equivalent_topic> "Celebrity" .
+<m.07n6ph9> <film.performance.film> "Twilight" .
+<m.0dk9g33> <film.performance.film> "Twilight" .
+<Location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Eclipse> <film.film.language> "English Language" .
+<Person> <type.type.properties> "Place of birth" .
+<Clark_County> <location.statistical_region.population> "g.11x1cbcwd" .
+<Directed_by> <rdf-schema#domain> "Film" .
+<Orchards> <location.location.containedby> "Washington" .
+<Clark_County> <location.statistical_region.co2_emissions_total> "m.045hyny" .
+<Richard_Gardner> <people.person.place_of_birth> "Clark County" .
+<Multnomah_Falls> <location.location.containedby> "Oregon" .
+<Otis> <media_common.netflix_title.netflix_genres> "Horror" .
+<m.05kdryk> <film.performance.character> "Rhonda" .
+<Twilight> <film.film.release_date_s> "m.0l3pbtd" .
+<Washington> <base.locations.states_and_provences.country> "United States of America" .
+<Shrink> <media_common.netflix_title.netflix_genres> "Drama" .
+<Twilight> <film.film.release_date_s> "m.0l3pc7y" .
+<Chace_Crawford> <freebase.valuenotation.is_reviewed> "Gender" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012_976x" .
+<Clark_County> <location.us_county.hud_county_place> "Minnehaha" .
+<Jackson_Rathbone> <base.popstra.celebrity.friendship> "m.0gc_w1j" .
+<m.0b7dpl1> <film.performance.film> "Twilight" .
+<Eclipse> <film.film.executive_produced_by> "Guy Oseary" .
+<Hollywood> <location.location.containedby> "Los Angeles" .
+<Twilight> <film.film.gross_revenue> "m.0g4w3y6" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Location" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011nbp0r" .
+<Ashley_Greene> <tv.tv_actor.guest_roles> "m.05kdsg3" .
+<Twilight> <film.film.release_date_s> "m.0l3pc9w" .
+<100_1574.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<m.0nf3c0c> <award.award_honor.ceremony> "2009 Teen Choice Awards" .
+<Clark_County> <location.us_county.hud_county_place> "Yacolt" .
+<Melissa_Rosenberg> <people.person.gender> "Female" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<m.0yrbqyc> <award.award_nomination.nominated_for> "Twilight" .
+<Florida> <location.administrative_division.country> "United States of America" .
+<Twilight> <film.film.other_crew> "m.0gb4nnb" .
+<Reeve_Carney> <people.person.nationality> "United States of America" .
+<Clark_County> <location.statistical_region.population> "g.12b020bpf" .
+<Five_Corners> <location.hud_county_place.county> "Clark County" .
+<Mount_Vista> <location.location.time_zones> "Pacific Time Zone" .
+<Twilight> <film.film.starring> "m.07hrq7y" .
+<Film> <freebase.type_profile.kind> "Definition" .
+<m.05mnl6j> <film.film_film_distributor_relationship.distributor> "Summit Entertainment" .
+<Guy_Oseary> <organization.organization_founder.organizations_founded> "Maverick Films" .
+<Twilight> <media_common.netflix_title.netflix_genres> "Horror" .
+<Guy_Oseary> <film.producer.films_executive_produced> "Twilight" .
+<The_Twilight_Saga:_New_Moon> <film.film.genre> "Romance Film" .
+<Clark_County> <location.us_county.hud_county_place> "Orchards" .
+<m.0nfjvk2> <award.award_honor.award_winner> "Catherine Hardwicke" .
+<Clark_County> <location.statistical_region.population> "m.0hjz03g" .
+<m.0hjz05g> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011lvjc_" .
+<Washougal> <location.statistical_region.population> "m.0hmncyc" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Dated location" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <film.film.produced_by> "Stephenie Meyer" .
+<Ashley_Greene> <people.person.education> "m.072f06g" .
+<Vancouver> <location.location.containedby> "Washington" .
+<2010_Young_Hollywood_Awards> <time.event.locations> "Los Angeles" .
+<Cannon_Beach> <location.location.time_zones> "Pacific Time Zone" .
+<Twilight> <music.soundtrack.film> "Twilight" .
+<Ian_Phillips> <freebase.valuenotation.has_value> "Place of birth" .
+<m.0nfjtkv> <award.award_honor.ceremony> "2009 Teen Choice Awards" .
+<Ashley_Greene> <common.topic.image> "390px-AshleyGreene.jpg" .
+<Greg_Mooradian> <freebase.valuenotation.has_value> "Country of nationality" .
+<m.0gc_p7d> <award.award_honor.ceremony> "2009 Teen Choice Awards" .
+<United_States_Department_of_Housing_and_Urban_Development> <government.government_agency.jurisdiction> "United States of America" .
+<Washougal> <common.topic.webpage> "m.02nc8qj" .
+<Wyck_Godfrey> <freebase.valuenotation.has_value> "Place of birth" .
+<Ashley_Greene> <film.actor.film> "m.0vmy7yg" .
+<Decode> <film.film_featured_song.featured_in_film> "Twilight" .
+<Washougal> <location.statistical_region.population> "m.0hmncyl" .
+<Walnut_Grove> <location.location.time_zones> "Pacific Time Zone" .
+<Ashley_Greene> <award.award_winner.awards_won> "m.0kbb5yq" .
+<m.09yhcg1> <common.webpage.topic> "Ashley Greene" .
+<The_Twilight_Saga:_New_Moon> <media_common.netflix_title.netflix_genres> "Dramas Based on the Book" .
+<m.07gyrcy> <film.performance.film> "Twilight" .
+<Joe_Greene> <people.person.children> "Ashley Greene" .
+<Casting_director> <rdf-schema#domain> "Film" .
+<The_Twilight_Saga:_New_Moon> <freebase.valuenotation.is_reviewed> "Cinematography" .
+<King_of_California> <film.film.rating> "PG-13 (USA)" .
+<Clark_County> <location.statistical_region.population> "g.11x1cgmdb" .
+<Vancouver> <base.wikipedia_infobox.settlement.area_code> "Area code 360" .
+<Topic> <freebase.type_profile.published> "Published" .
+<The_Twilight_Saga:_New_Moon> <freebase.valuenotation.is_reviewed> "Set Decoration by" .
+<Initial_release_date> <rdf-schema#range> "Date/Time" .
+<m.05hv23h> <film.performance.character> "Alice Cullen" .
+<m.0l3pc04> <film.film_regional_release_date.film> "Twilight" .
+<Skateland> <film.film.rating> "PG-13 (USA)" .
+<m.03jqdt8> <location.adjoining_relationship.adjoins> "Clark County" .
+<m.0gbwhsv> <film.performance.film> "The Boom Boom Room" .
+<m.0z97skd> <award.award_nomination.nominated_for> "Twilight" .
+<m.0ghmng3> <tv.tv_guest_role.actor> "Ashley Greene" .
+<m.0l3pbrx> <film.film_regional_release_date.film> "Twilight" .
+<Kellan_Lutz> <common.topic.notable_types> "Celebrity" .
+<Stephenie_Meyer> <film.film_story_contributor.film_story_credits> "Twilight" .
+<Florida_State_College_at_Jacksonville> <location.location.containedby> "Florida" .
+<m.09yrkyg> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Film> <type.type.properties> "Costume design by" .
+<2012_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0kbb5yq" .
+<Natalie_Faber> <tv.tv_character.appeared_in_tv_episodes> "m.05kdsg3" .
+<Film> <type.type.properties> "Film Series" .
+<Twilight> <film.film.starring> "m.0nf3rq8" .
+<Twilight> <film.film.other_crew> "m.0gb4nty" .
+<m.0l3pc91> <film.film_regional_release_date.film> "Twilight" .
+<Ashley_Greene> <film.actor.film> "m.070536_" .
+<Young_Hollywood_Award_for_Style_Icon> <award.award_category.winners> "m.0yr9fh1" .
+<Columbia_River_Gorge> <location.location.contains> "Multnomah Falls" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Postal_codes> <type.property.expected_type> "Postal Code" .
+<Felida> <location.location.containedby> "Clark County" .
+<m.0hjz022> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Marty_Bowen> <film.producer.films_executive_produced> "The Twilight Saga: New Moon" .
+<m.05kdry0> <film.performance.character> "Brooklyn" .
+<Twilight> <film.film.production_companies> "Imprint Entertainment" .
+<m.0j2qpcz> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0hjz06t> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Cinematography" .
+<m.05mndlr> <film.film_regional_release_date.film> "Twilight" .
+<The_Twilight_Saga:_New_Moon> <media_common.adaptation.adapted_from> "Twilight" .
+<Ashley_Greene> <film.actor.film> "m.0djz0zv" .
+<LOL> <common.topic.notable_types> "Film" .
+<Eclipse> <media_common.netflix_title.netflix_genres> "Romantic Dramas" .
+<Twilight_Productions> <film.production_company.films> "Twilight" .
+<Eclipse> <film.film.production_companies> "Imprint Entertainment" .
+<Country> <freebase.type_profile.strict_included_types> "Location" .
+<Country> <freebase.type_hints.included_types> "Statistical region" .
+<Country> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Clark_County> <location.statistical_region.population> "m.0jtfyky" .
+<Place_of_birth> <type.property.expected_type> "Location" .
+<The_Twilight_Saga:_New_Moon> <film.film.featured_film_locations> "Portland" .
+<King_of_California> <film.film.starring> "m.05kdsj2" .
+<Deborah_Aquila> <freebase.valuenotation.has_value> "Country of nationality" .
+<Carter_Burwell> <people.person.profession> "Actor" .
+<Clark_County> <location.location.containedby> "Portland-Vancouver-Beaverton, OR-WA Metropolitan Statistical Area" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<Clark_County> <symbols.namesake.named_after> "William Clark" .
+<Clark_County> <location.statistical_region.population> "g.11x1f56vd" .
+<Vancouver> <location.location.containedby> "Area code 360" .
+<Vernonia> <location.location.containedby> "Oregon" .
+<Twilight> <film.film.release_date_s> "m.0l3pbw7" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Hazel_Dell_North> <location.location.containedby> "Clark County" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckk64" .
+<m.0hmnc_3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Clark_County> <location.statistical_region.population> "g.11x1cy7dt" .
+<King_of_California> <film.film.country> "United States of America" .
+<Ashley_Greene> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Washougal> <common.topic.notable_types> "City/Town/Village" .
+<Twilight> <film.film.release_date_s> "m.0l3pc6x" .
+<m.09wsdbm> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.0pdgl_g> <award.award_nomination.award_nominee> "Ashley Greene" .
+<La_Center> <location.hud_county_place.place> "La Center" .
+<Ashley_Greene> <film.actor.film> "m.05kdryk" .
+<m.0nfjtn2> <award.award_honor.ceremony> "2009 Teen Choice Awards" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.genre> "Romance Film" .
+<Clark_County> <location.statistical_region.population> "g.11x1fzmgp" .
+<m.0l3pbqh> <film.film_regional_release_date.film> "Twilight" .
+<Radio_Free_Albemuth> <film.film.language> "English Language" .
+<Film> <type.type.expected_by> "Prequel" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Screenplay by" .
+<Orchards> <base.wikipedia_infobox.settlement.area_code> "Area code 360" .
+<Washington> <base.charities.geographic_scope.charities> "Washington Student Math Association" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckkfd" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.rating> "PG-13 (USA)" .
+<Country_of_origin> <rdf-schema#domain> "Film" .
+<Amboy> <location.hud_county_place.county> "Clark County" .
+<m.0gbwhs7> <film.performance.character> "Kim #4" .
+<Ashley_Greene's_new_projects:_Is_there_life_beyond_'Twilight'?> <common.resource.annotations> "m.09yp1b0" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<m.07xzqyp> <award.ranking.list> "Maxim Hot 100" .
+<Celebrity> <type.type.expected_by> "Friend" .
+<m.0hjz036> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Sacramento> <location.hud_county_place.place> "Sacramento" .
+<2009_Teen_Choice_Awards> <award.award_ceremony.awards_presented> "m.0nfjv5h" .
+<Washougal> <location.statistical_region.population> "m.0hmncz7" .
+<Time_Zone> <type.type.expected_by> "Time zone(s)" .
+<m.04z4zlv> <film.performance.film> "Twilight" .
+<Ashley_Greene> <common.topic.webpage> "m.09x67lt" .
+<Gene_Serdena> <freebase.valuenotation.has_value> "Parents" .
+<Clark_County> <location.hud_foreclosure_area.total_residential_addresses> "m.07ftm_4" .
+<Clark_County> <location.us_county.county_seat> "Vancouver" .
+<Washougal> <location.statistical_region.population> "m.0jtlvqv" .
+<The_Apparition> <film.film.starring> "m.0sx8zgp" .
+<Venersborg> <location.location.time_zones> "Pacific Time Zone" .
+<m.09yhcg1> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <time.event.locations> "Crawfordsville" .
+<m.05kds3_> <tv.tv_regular_personal_appearance.person> "Ashley Greene" .
+<m.0hzvgk4> <film.film_film_distributor_relationship.film> "Twilight" .
+<m.0l3pbtr> <film.film_regional_release_date.film> "Twilight" .
+<m.05kds7t> <tv.tv_guest_role.actor> "Ashley Greene" .
+<Melissa_Rosenberg> <freebase.valuenotation.is_reviewed> "Gender" .
+<m.09x0lh_> <common.webpage.topic> "Ashley Greene" .
+<The_Twilight_Saga:_New_Moon> <film.film.subjects> "Vampire" .
+<CBGB> <film.film.starring> "m.0vmy743" .
+<m.05kdry0> <film.performance.actor> "Ashley Greene" .
+<Americans> <book.book_subject.works> "American National Biography" .
+<m.0l3pby4> <film.film_regional_release_date.film> "Twilight" .
+<m.0l3pbnt> <film.film_regional_release_date.film> "Twilight" .
+<Salmon_River> <location.location.containedby> "United States of America" .
+<Mark_Morgan> <freebase.valuenotation.has_value> "Place of birth" .
+<Amerigo_Vespucci> <symbols.name_source.namesakes> "Americans" .
+<Twilight> <film.film.release_date_s> "m.0l3pb_v" .
+<Guy_Oseary> <people.person.profession> "Actor" .
+<Michele_Greene> <freebase.valuenotation.has_value> "Country of nationality" .
+<Deborah_Aquila> <freebase.valuenotation.is_reviewed> "Gender" .
+<Twilight> <film.film.starring> "m.04m6l9_" .
+<Corbett_Elementary_School> <film.film_location.featured_in_films> "Twilight" .
+<Clark_County> <location.statistical_region.population> "g.11x1fbq_n" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.produced_by> "Stephenie Meyer" .
+<Portland> <film.film_location.featured_in_films> "Twilight" .
+<Chace_Crawford> <people.person.profession> "Actor" .
+<CBGB> <film.film.genre> "Drama" .
+<98671> <location.location.containedby> "Clark County" .
+<m.0z88088> <award.award_nomination.award> "Teen Choice Award for Choice Movie Scene Stealer: Female" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51_h" .
+<Ridgefield> <base.wikipedia_infobox.settlement.area_code> "Area code 360" .
+<Sequel> <owl#inverseOf> "Prequel" .
+<Amboy> <base.wikipedia_infobox.settlement.area_code> "Area code 360" .
+<Ashley_Greene> <film.actor.film> "m.05kdry0" .
+<Reeve_Carney> <celebrities.celebrity.sexual_relationships> "m.0sxhtll" .
+<m.0hmncy4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0yr9fh1> <award.award_honor.ceremony> "2010 Young Hollywood Awards" .
+<Ashley_Greene> <common.topic.image> "100_1574.jpg" .
+<Five_Corners> <location.location.containedby> "Clark County" .
+<Clark_County> <location.statistical_region.population> "m.0hjz02k" .
+<m.0jtlvqv> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Cannon_Beach> <location.location.containedby> "United States of America" .
+<King_of_California> <film.film.language> "Spanish Language" .
+<m.0l3pc1_> <film.film_regional_release_date.film> "Twilight" .
+<Twilight> <freebase.valuenotation.has_no_value> "Prequel" .
+<Shrink> <film.film.featured_film_locations> "Los Angeles" .
+<Clark_County> <location.statistical_region.rent50_2> "m.05ggldx" .
+<Clark_County> <location.us_county.hud_county_place> "Mill Plain" .
+<Clark_County> <periodicals.newspaper_circulation_area.newspapers> "The Columbian" .
+<Americans> <people.ethnicity.includes_groups> "Texan" .
+<Time_Zone> <freebase.type_hints.included_types> "Topic" .
+<m.0hjz02k> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<A_Warrior's_Heart> <film.film.genre> "Drama" .
+<Twilight> <film.film.other_crew> "m.0gb4nw2" .
+<Mark_Morgan> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Radio_Free_Albemuth> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Clark_County> <location.us_county.hud_county_place> "Barberton" .
+<Hazel_Dell_South> <location.location.containedby> "Clark County" .
+<Ashley_Greene> <people.person.sibling_s> "m.05hv585" .
+<Eclipse> <film.film.produced_by> "Wyck Godfrey" .
+<m.0hjz06c> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Yacolt> <base.wikipedia_infobox.settlement.area_code> "Area code 360" .
+<Butter> <film.film.country> "United States of America" .
+<Skateland> <film.film.language> "English Language" .
+<Clark_County> <location.statistical_region.population> "m.0hjz070" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<Summer's_Blood> <film.film.starring> "m.070536_" .
+<m.0l3pc4z> <film.film_regional_release_date.film> "Twilight" .
+<People_born_here> <rdf-schema#domain> "Location" .
+<Clark_County> <location.statistical_region.population> "g.11x1j339h" .
+<Washougal> <location.statistical_region.population> "g.11x1fyrlm" .
+<m.0b3tz38> <award.award_nomination.nominated_for> "Twilight" .
+<m.072f06g> <education.education.student> "Ashley Greene" .
+<Felida> <location.hud_county_place.county> "Clark County" .
+<Joe_Jonas> <freebase.valuenotation.is_reviewed> "Gender" .
+<Joe_Greene> <people.person.gender> "Male" .
+<Pacific_Time_Zone> <common.topic.webpage> "m.09w_3h_" .
+<US_County> <freebase.type_profile.kind> "Definition" .
+<m.0g9b4dd> <base.famouspets.pet_ownership.pet> "Theodore" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Art direction by" .
+<Ashley_Greene> <base.famouspets.pet_owner.pets_owned> "m.0g9b4ds" .
+<Gene_Serdena> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ashley_Greene> <people.person.ethnicity> "Americans" .
+<m.0b3t_9z> <award.award_nomination.nominated_for> "Twilight" .
+<Screenplay_by> <rdf-schema#domain> "Film" .
+<Marty_Bowen> <people.person.gender> "Male" .
+<A_Warrior's_Heart> <media_common.netflix_title.netflix_genres> "Drama" .
+<Gresham> <film.film_location.featured_in_films> "Twilight" .
+<Clark_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Reeve_Carney> <people.person.profession> "Actor" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <time.event.locations> "San Bernardino" .
+<Summit_Entertainment> <film.production_company.films> "The Twilight Saga: Breaking Dawn - Part 2" .
+<Twilight> <film.film.release_date_s> "m.0l3pbx0" .
+<Salmon_Creek> <location.location.containedby> "Clark County" .
+<m.0gb4nrk> <film.film_crew_gig.film> "Twilight" .
+<Ashley_Greene> <base.famouspets.pet_owner.pets_owned> "m.0g9b4dd" .
+<Wish_I_Was_Here> <film.film.country> "United States of America" .
+<Celebrity> <type.type.expected_by> "Celebrity" .
+<Jackson_Rathbone> <people.person.nationality> "United States of America" .
+<m.0kbb5yq> <award.award_honor.award> "Teen Choice Award for Choice Movie Scene Stealer: Female" .
+<Clark_County> <location.us_county.hud_county_place> "Washougal" .
+<Columbia_Gorge_International_Film_Festival> <time.recurring_event.instances> "2009 Columbia Gorge International Film Festival" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011f9yg3" .
+<Greg_Mooradian> <freebase.valuenotation.has_value> "Date of birth" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0b3t_9z" .
+<Imprint_Entertainment> <film.production_company.films> "Twilight" .
+<Twilight> <media_common.adaptation.adapted_from> "Twilight" .
+<m.0dlr3qp> <film.performance.actor> "Ashley Greene" .
+<m.0hjz03x> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Fantasy> <media_common.media_genre.child_genres> "Sci-Fi & Fantasy" .
+<m.0gb4npc> <film.film_crew_gig.film> "Twilight" .
+<Stephenie_Meyer> <people.person.profession> "Actor" .
+<Twilight> <film.film.release_date_s> "m.0l3pbz9" .
+<m.09x67lt> <common.webpage.topic> "Ashley Greene" .
+<m.04z4zmg> <film.performance.film> "Twilight" .
+<Eclipse> <film.film.sequel> "The Twilight Saga: Breaking Dawn - Part 1" .
+<Florida> <location.location.containedby> "United States of America" .
+<Statistical_region> <type.type.domain> "Location" .
+<Washougal> <location.statistical_region.population> "g.11x1dsty9" .
+<Costume_design_by> <rdf-schema#domain> "Film" .
+<100_1574.jpg> <common.image.size> "m.02db3k6" .
+<Pacific_Time_Zone> <time.time_zone.day_dst_begins> "Second Sunday in March" .
+<Shrink> <film.film.language> "English Language" .
+<Dollar_Corner> <location.hud_county_place.county> "Clark County" .
+<m.05mnl6j> <film.film_film_distributor_relationship.region> "United States of America" .
+<Melissa_Rosenberg> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Cannon_Beach> <film.film_location.featured_in_films> "Twilight" .
+<m.0l3pbp4> <film.film_regional_release_date.film> "Twilight" .
+<The_Twilight_Saga:_New_Moon> <film.film.rating> "PG-13 (USA)" .
+<LOL> <film.film.genre> "Drama" .
+<Event> <freebase.type_profile.strict_included_types> "Topic" .
+<Stephenie_Meyer> <film.film_story_contributor.film_story_credits> "The Twilight Saga: Breaking Dawn - Part 1" .
+<Celebrity> <type.type.properties> "Romantic relationships (with celebrities)" .
+<m.05kdrsw> <education.education.institution> "Samuel W. Wolfson High School" .
+<Dated_location> <freebase.type_hints.included_types> "Location" .
+<Area_code_360> <common.topic.article> "m.0cd4kc" .
+<Film_Series> <rdf-schema#domain> "Film" .
+<Felida> <location.hud_county_place.place> "Felida" .
+<Film> <type.type.properties> "Initial release date" .
+<m.0hmnczp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0gb4npm> <film.film_crew_gig.film> "Twilight" .
+<Vancouver> <common.topic.notable_types> "City/Town/Village" .
+<Washougal> <location.statistical_region.population> "m.0hmncxh" .
+<m.0y59x08> <award.award_honor.ceremony> "2012 Young Hollywood Awards" .
+<Wish_I_Was_Here> <film.film.starring> "m.0zn7f58" .
+<m.0hjz057> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.04z4zlp> <film.performance.actor> "Kellan Lutz" .
+<Chace_Crawford> <common.topic.notable_types> "Celebrity" .
+<Twilight> <award.award_winning_work.awards_won> "m.0nfjtkv" .
+<m.0hjz03g> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Rachelle_Lefevre> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Twilight> <film.film.release_date_s> "m.0l3pc5s" .
+<Ashley_Greene> <tv.tv_actor.guest_roles> "m.0bvyr3g" .
+<Location> <type.type.properties> "Time zone(s)" .
+<Americans> <common.topic.notable_for> "g.1256192zh" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "Village" .
+<US_County> <type.type.domain> "Location" .
+<Eclipse> <media_common.netflix_title.netflix_genres> "Vampire" .
+<m.07m168g> <film.performance.film> "Twilight" .
+<m.0j3xnnf> <tv.regular_tv_appearance.character> "Amanda Mason" .
+<Twilight> <film.film.other_crew> "m.0gb4nwq" .
+<A_Warrior's_Heart> <film.film.starring> "m.05kdry0" .
+<m.0gb4nwq> <film.film_crew_gig.film> "Twilight" .
+<m.0sgmqpp> <award.award_honor.honored_for> "Twilight" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <media_common.netflix_title.netflix_genres> "Fantasy" .
+<Twilight> <film.film.release_date_s> "m.0l3pcfc" .
+<Prequel> <type.property.master_property> "Sequel" .
+<Washougal> <location.statistical_region.population> "m.0k6j7xt" .
+<m.0zn7f58> <film.performance.film> "Wish I Was Here" .
+<Clark_County> <location.statistical_region.population> "g.11x1mmbj1" .
+<Vernonia> <location.location.time_zones> "Pacific Time Zone" .
+<Twilight> <film.film.other_crew> "m.0rzck1q" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Florida" .
+<m.0hjz05x> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0z97skd" .
+<Brooklyn> <film.film_character.portrayed_in_films> "m.0fprd5b" .
+<Ashley_Greene> <film.actor.film> "m.075xjjm" .
+<m.0z8z747> <award.award_honor.ceremony> "2009 Teen Choice Awards" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0b3wcbm" .
+<Ashley_Greene> <film.actor.film> "m.0dh6lz0" .
+<Twilight> <award.award_winning_work.awards_won> "m.0b0bvk8" .
+<Clark_County> <periodicals.newspaper_circulation_area.newspapers> "The Vancouver Voice" .
+<Twilight> <film.film.other_crew> "m.0gb4nry" .
+<Twilight> <film.film.featured_film_locations> "Clackamas Community College" .
+<Ethnicity> <freebase.type_profile.published> "Published" .
+<William_Clark> <people.person.nationality> "United States of America" .
+<Rob_Pattinson,_Kristen_Stewart,_and_Taylor_Lautner_screen_'New_Moon'_footage._Cue_screams.> <common.resource.annotations> "m.09yhcg1" .
+<Wyck_Godfrey> <freebase.valuenotation.has_value> "Country of nationality" .
+<Dated_location> <freebase.type_profile.published> "Published" .
+<Clark_County> <location.statistical_region.population> "g.11x1fhfjv" .
+<Ashley_Greene> <common.topic.image> "ashleybday.jpg" .
+<Twilight> <film.film.release_date_s> "m.0l3pbyg" .
+<Washougal> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07fttk1" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0yrbqyc" .
+<Rachelle_Lefevre> <film.actor.film> "m.04z4zlv" .
+<Clark_County> <location.statistical_region.population> "g.11x1ggfm2" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.language> "English Language" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0z8_3ck" .
+<Clark_County> <location.us_county.hud_county_place> "Mount Vista" .
+<Camas> <common.topic.notable_types> "City/Town/Village" .
+<Americans> <common.topic.image> "Americans2-3" .
+<m.0bvmdbn> <award.ranking.item> "Ashley Greene" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0z8xxjq" .
+<Catherine_Hardwicke> <award.award_winner.awards_won> "m.0nfjvk2" .
+<Oregon_City> <location.location.time_zones> "Pacific Time Zone" .
+<2008_Columbia_Gorge_International_Film_Festival> <film.film_festival_event.festival> "Columbia Gorge International Film Festival" .
+<Initial_release_date> <rdf-schema#domain> "Film" .
+<m.0l3pbsk> <film.film_regional_release_date.film> "Twilight" .
+<The_Twilight_Saga:_New_Moon> <media_common.netflix_title.netflix_genres> "Vampire Movies" .
+<936full-ashley-greene.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<The_Oregonian> <book.periodical.language> "English Language" .
+<Clark_County> <location.statistical_region.population> "g.11x1l2mfb" .
+<Washougal> <location.citytown.postal_codes> "98671" .
+<Oregon_City> <location.hud_county_place.place> "Oregon City" .
+<m.0n1gt75> <education.education.student> "Ashley Greene" .
+<The_Twilight_Saga:_New_Moon> <film.film.genre> "Fantasy" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_parent> "United States, with Territories" .
+<Americans> <people.ethnicity.languages_spoken> "English Language" .
+<m.0gbwhsv> <film.performance.actor> "Ashley Greene" .
+<ashleybday.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<m.09w_3h_> <common.webpage.topic> "Pacific Time Zone" .
+<Washougal> <location.statistical_region.population> "g.11x1f6mkd" .
+<Clark_County> <location.statistical_region.population> "g.11x1fpdc0" .
+<Washougal> <location.statistical_region.population> "g.11b66hy4_r" .
+<Twilight> <film.film.starring> "m.04z4zmm" .
+<Clark_County> <location.statistical_region.population> "g.12b01xxcs" .
+<People_born_here> <type.property.expected_type> "Person" .
+<Maverick_Films> <film.production_company.films> "Eclipse" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.music> "Carter Burwell" .
+<Lewisville> <location.hud_county_place.county> "Clark County" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckk2n" .
+<Skateland> <media_common.netflix_title.netflix_genres> "Drama" .
+<m.0l3pbqw> <film.film_regional_release_date.film> "Twilight" .
+<m.0b0bvk8> <award.award_honor.honored_for> "Twilight" .
+<m.0b3v0g1> <award.award_nomination.nominated_for> "Twilight" .
+<Clark_County> <location.us_county.hud_county_place> "Salmon Creek" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_1> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Clark_County> <location.us_county.hud_county_place> "Vancouver" .
+<Ashley_Greene> <base.popstra.celebrity.friendship> "m.063hcxz" .
+<m.0l3pc9w> <film.film_regional_release_date.film> "Twilight" .
+<Teen_Choice_Award_for_Choice_Movie_Scene_Stealer:_Female> <award.award_category.nominees> "m.0z83xqy" .
+<Mary_Tricia_Wood> <film.film_casting_director.films_casting_directed> "Skateland" .
+<m.0dlr3qp> <film.performance.character> "Ashley" .
+<Twilight> <film.film.release_date_s> "m.0l3pc1_" .
+<m.0l3pb_0> <film.film_regional_release_date.film_release_region> "United States of America" .
+<Mill_Plain> <location.location.containedby> "Clark County" .
+<Joe_Greene> <people.person.gender> "Male" .
+<m.09yrkyg> <common.webpage.topic> "Ashley Greene" .
+<m.0j2d64g> <tv.tv_regular_personal_appearance.program> "Ulalume: Howling at New Moon" .
+<Brooklyn> <film.film_character.portrayed_in_films> "m.05kdry0" .
+<Butter> <film.film.starring> "m.0dh6lz0" .
+<Clark_County> <common.topic.notable_types> "US County" .
+<Twilight> <film.film.release_date_s> "m.0l3pc04" .
+<Marty_Bowen> <freebase.valuenotation.has_value> "Country of nationality" .
+<m.05k64xr> <people.place_lived.location> "Middleburg" .
+<m.03jt7cd> <location.adjoining_relationship.adjoins> "Clark County" .
+<San_Bernardino> <base.biblioness.bibs_location.state> "California" .
+<Twilight> <film.film.distributors> "m.0hzvgk4" .
+<Clark_County> <location.us_county.hud_county_place> "Brush Prairie" .
+<Kalama> <common.topic.notable_types> "City/Town/Village" .
+<m.05kdryk> <film.performance.film> "Radio Free Albemuth" .
+<Genres> <rdf-schema#domain> "Film" .
+<Marty_Bowen> <freebase.valuenotation.has_value> "Parents" .
+<Otis> <common.topic.notable_types> "Film" .
+<Shrink> <film.film.country> "United States of America" .
+<m.0z8yszf> <award.award_nomination.nominated_for> "Twilight" .
+<Catherine_Hardwicke> <people.person.nationality> "United States of America" .
+<m.0l3pbys> <film.film_regional_release_date.film> "Twilight" .
+<m.05mndmh> <film.film_regional_release_date.film> "Twilight" .
+<La_Center> <location.hud_county_place.county> "Clark County" .
+<m.09yn34l> <common.webpage.topic> "Ashley Greene" .
+<m.05kdsg3> <tv.tv_guest_role.episodes_appeared_in> "Partners in Crime" .
+<Washougal> <location.hud_county_place.county> "Clark County" .
+<m.0jvvpsr> <location.administrative_division_capital_relationship.capital> "Vancouver" .
+<A_Warrior's_Heart> <film.film.country> "United States of America" .
+<m.05kdsg3> <tv.tv_guest_role.special_performance_type> "Uncredited" .
+<Twilight> <book.book.genre> "Horror" .
+<A_Warrior's_Heart> <film.film.language> "English Language" .
+<Ian_Phillips> <freebase.valuenotation.has_value> "Country of nationality" .
+<Twilight> <film.film.featured_film_locations> "Vernonia" .
+<Summer's_Blood> <common.topic.notable_types> "Film" .
+<m.063hcxz> <base.popstra.friendship.participant> "Ashley Greene" .
+<Ashley_Greene> <celebrities.celebrity.celebrity_friends> "m.05k73s3" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Abstract" .
+<m.09yn34l> <common.webpage.resource> "Ashley Greene of 'Twilight' moonlights with twisted family thriller" .
+<m.0nfjtn2> <award.award_honor.honored_for> "Twilight" .
+<Twilight> <film.film.other_crew> "m.0gb4nwv" .
+<Marty_Bowen> <film.producer.films_executive_produced> "Eclipse" .
+<Clark_County> <location.statistical_region.population> "m.0hjz06c" .
+<Film> <freebase.type_hints.included_types> "Topic" .
+<Prequel> <type.property.expected_type> "Film" .
+<Christopher_Brown> <film.film_art_director.films_art_directed> "Twilight" .
+<Meadow_Glade> <location.hud_county_place.county> "Clark County" .
+<Millville> <common.topic.notable_types> "City/Town/Village" .
+<Clark_County> <location.statistical_region.population> "g.11x1dzv3n" .
+<Mary_Tricia_Wood> <people.person.gender> "Female" .
+<Celebrity> <type.type.properties> "Rehab history" .
+<Ashley_Greene_of_'Twilight'_moonlights_with_twisted_family_thriller> <common.resource.annotations> "m.09yn34l" .
+<LOL> <film.film.genre> "Romance Film" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <time.event.locations> "Sacramento" .
+<LOL> <film.film.rating> "PG-13 (USA)" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0b3tz45" .
+<Twilight> <film.film.film_casting_director> "Mary Tricia Wood" .
+<Florida_State_College_at_Jacksonville> <education.educational_institution.campuses> "Florida State College at Jacksonville" .
+<m.05mndrs> <film.film_cut.film> "Twilight" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.0gll_z8" .
+<Yacolt> <location.hud_county_place.county> "Clark County" .
+<Ashley_Greene> <celebrities.celebrity.sexual_relationships> "m.0sxhtll" .
+<Twilight> <film.film.starring> "m.0nf3rxg" .
+<Twilight> <film.film.other_crew> "m.0gb4nt5" .
+<Washougal> <location.statistical_region.population> "g.11x1fbrr9" .
+<Ashley_Greene> <film.actor.film> "m.0vmy743" .
+<Gresham> <location.location.containedby> "Oregon" .
+<Set_Decoration_by> <type.property.schema> "Film" .
+<m.0hjz02s> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Americans> <people.ethnicity.languages_spoken> "American English" .
+<Rachelle_Lefevre> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0gc_w1j> <base.popstra.friendship.participant> "Jackson Rathbone" .
+<m.09dwnw2> <common.webpage.topic> "Ashley Greene" .
+<Twilight> <film.film.release_date_s> "m.05mndlh" .
+<Oregon> <location.location.containedby> "United States, with Territories" .
+<Catherine_Hardwicke> <freebase.valuenotation.is_reviewed> "Gender" .
+<Stephenie_Meyer> <film.producer.film> "The Twilight Saga: Breaking Dawn - Part 2" .
+<Wendy_Chuck> <freebase.valuenotation.has_value> "Parents" .
+<San_Bernardino> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0z97m9n> <award.award_honor.ceremony> "2009 Teen Choice Awards" .
+<Twilight> <film.film.release_date_s> "m.05mndmh" .
+<Teen_Vogue_Jan31newsnea.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<Rachelle_Lefevre> <people.person.languages> "English Language" .
+<m.0ghjc5w> <tv.tv_guest_role.actor> "Ashley Greene" .
+<m.0gb4npw> <film.film_crew_gig.film> "Twilight" .
+<m.0l3pbx0> <film.film_regional_release_date.film> "Twilight" .
+<Elliot_Davis> <freebase.valuenotation.has_value> "Parents" .
+<Sacramento> <location.location.containedby> "United States of America" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.written_by> "Melissa Rosenberg" .
+<Mill_Plain> <location.hud_county_place.county> "Clark County" .
+<m.0hmncx8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.05mndlh> <film.film_regional_release_date.film> "Twilight" .
+<Michele_Greene> <common.topic.notable_types> "Person" .
+<La_Center> <location.location.time_zones> "Pacific Time Zone" .
+<Rachelle_Lefevre> <people.person.gender> "Female" .
+<m.0_ls_d7> <award.award_honor.honored_for> "Twilight" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011tz0b1" .
+<Shrink> <film.film.featured_film_locations> "Hollywood" .
+<Film> <type.type.properties> "Set Decoration by" .
+<Yacolt> <location.hud_county_place.place> "Yacolt" .
+<United_States_of_America> <location.country.first_level_divisions> "Oregon" .
+<Teen_Choice_Award_for_Choice_Movie_Breakout_Star_-_Female> <award.award_category.nominees> "m.0z8zcln" .
+<Ashley_Greene_of_'Twilight'_in_talks_for_'The_Apparition'> <common.resource.annotations> "m.09x471x" .
+<Crawfordsville> <common.topic.notable_types> "City/Town/Village" .
+<Clark_County> <location.statistical_region.population> "g.11x1j6yjw" .
+<Washington> <location.location.containedby> "United States of America" .
+<Ashley_Greene> <common.topic.image> "100_1574.jpg" .
+<Twilight> <film.film.starring> "m.08pfxwr" .
+<Kellan_Lutz> <freebase.valuenotation.is_reviewed> "Gender" .
+<m.0bl2x8m> <common.webpage.category> "Topic Webpage" .
+<Twilight> <film.film.release_date_s> "m.0l3pbsk" .
+<390px-AshleyGreene.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<m.09yp1b0> <common.webpage.topic> "Ashley Greene" .
+<Summer's_Blood> <film.film.genre> "Horror" .
+<Amboy> <location.hud_county_place.place> "Amboy" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.prequel> "The Twilight Saga: Breaking Dawn - Part 1" .
+<47_Percenters_and_Guerrilla_Decontextualization_(Part_1):_Dreams_and_Nightmares> <book.written_work.subjects> "Americans" .
+<Rhonda> <film.film_character.portrayed_in_films> "m.05kdryk" .
+<Lakewood> <common.topic.notable_types> "City/Town/Village" .
+<Ashley_Greene:_Interview_with_'New_Moon's'_Alice_Cullen> <common.resource.annotations> "m.09yqc68" .
+<Country> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Celebrity> <type.type.domain> "Celebrities" .
+<Washougal> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07fttkh" .
+<Clark_County> <location.statistical_region.population> "m.0hjz04b" .
+<Cherry_Grove> <location.location.time_zones> "Pacific Time Zone" .
+<m.0nfjvcx> <award.award_honor.award_winner> "Carter Burwell" .
+<Wyck_Godfrey> <freebase.valuenotation.is_reviewed> "Gender" .
+<Vampire> <film.film_subject.films> "The Twilight Saga: Breaking Dawn - Part 2" .
+<OregonLive.com> <book.newspaper.circulation_areas> "Portland" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Costume design by" .
+<98671> <location.location.contains> "Reed Island State Park" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011vl2ss" .
+<Washougal> <location.statistical_region.population> "m.0hmnc_3" .
+<m.0hmncyl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Time_Zone> <freebase.type_profile.strict_included_types> "Topic" .
+<Washington> <organization.organization_scope.organizations_with_this_scope> "Washington Student Math Association" .
+<m.0l3pc45> <film.film_regional_release_date.film> "Twilight" .
+<m.0z8yszf> <award.award_nomination.ceremony> "2009 Teen Choice Awards" .
+<m.0ghjc5w> <tv.tv_guest_role.episodes_appeared_in> "The 11th Annual Teen Choice Awards" .
+<Cannon_Beach> <location.hud_county_place.place> "Cannon Beach" .
+<Twilight> <film.film.costume_design_by> "Wendy Chuck" .
+<Twilight> <film.film.release_date_s> "m.0l3pbq5" .
+<Wyck_Godfrey> <film.producer.film> "The Twilight Saga: Breaking Dawn - Part 2" .
+<Clark_County> <location.us_county.hud_county_place> "Ridgefield" .
+<Twilight> <award.award_winning_work.awards_won> "m.0b0gzbc" .
+<Cherry_Grove> <location.hud_county_place.county> "Clark County" .
+<Ashley_Greene> <film.actor.film> "m.05kdsj2" .
+<m.0nfjv5h> <award.award_honor.honored_for> "Twilight" .
+<Millville> <location.hud_county_place.place> "Millville" .
+<Twilight> <film.film.featured_film_locations> "Oxbow Regional Park" .
+<m.0hjz06l> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Washougal> <location.statistical_region.population> "m.0hmncyt" .
+<normal_001.jpg> <common.image.appears_in_topic_gallery> "Ashley Greene" .
+<Twilight> <film.film.other_crew> "m.0gb4nvt" .
+<m.0gll_z8> <award.award_nomination.ceremony> "2009 Teen Choice Awards" .
+<Area_code> <freebase.type_hints.included_types> "Dated location" .
+<Twilight> <film.film.language> "English Language" .
+<Parents> <rdf-schema#domain> "Person" .
+<Why_Race_Mattered_in_Barack_Obama's_Re-election> <book.written_work.original_language> "English Language" .
+<Kellan_Lutz> <film.actor.film> "m.04z4zlp" .
+<100_1574.jpg> <common.image.size> "m.04rdsgk" .
+<Clark_County> <location.statistical_region.population> "g.12b020bph" .
+<Hollywood> <base.biblioness.bibs_location.state> "California" .
+<Florida> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0gb4nvt> <film.film_crew_gig.film> "Twilight" .
+<Americana> <tv.tv_program.country_of_origin> "United States of America" .
+<m.0z8z747> <award.award_honor.honored_for> "Twilight" .
+<Twilight> <film.film.other_crew> "m.0gb4nrf" .
+<m.0b3tz45> <award.award_nomination.nominated_for> "Twilight" .
+<Ulalume:_Howling_at_New_Moon> <film.film.personal_appearances> "m.0j2qpcz" .
+<m.0z8hbf8> <award.award_honor.award> "Teen Choice Award for Choice Movie Scene Stealer: Female" .
+<The_Apparition> <film.film.rating> "PG-13 (USA)" .
+<Eclipse> <media_common.netflix_title.netflix_genres> "Fantasy" .
+<Clark_County> <location.location.people_born_here> "Richard Gardner" .
+<m.0yr9fh1> <freebase.valuenotation.has_no_value> "Winning work" .
+<m.05kdrx4> <film.performance.film> "The Twilight Saga: New Moon" .
+<Barberton> <location.location.containedby> "Washington" .
+<Eclipse> <media_common.netflix_title.netflix_genres> "Drama" .
+<Twilight> <film.film.other_crew> "m.0gb4nsy" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012_74vb" .
+<m.0l3pc5d> <film.film_regional_release_date.film> "Twilight" .
+<Buchanan> <location.hud_county_place.place> "Buchanan" .
+<Temple_Hill_Productions> <film.production_company.films> "The Twilight Saga: Breaking Dawn - Part 1" .
+<The_Twilight_Saga:_New_Moon> <media_common.netflix_title.netflix_genres> "Horror" .
+<Karen_Rosenfelt> <film.producer.film> "The Twilight Saga: Breaking Dawn - Part 2" .
+<m.0l3pbpv> <film.film_regional_release_date.film> "Twilight" .
+<m.0hmncw4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Venersborg> <location.location.containedby> "Washington" .
+<US_County> <freebase.type_hints.included_types> "Dated location" .
+<The_Oregonian> <book.newspaper.circulation_areas> "Portland" .
+<Clark_County> <common.topic.image> "Map of Washington highlighting Clark County" .
+<Melissa_Rosenberg> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Country_of_nationality> <rdf-schema#domain> "Person" .
+<Twilight> <film.film.film_art_direction_by> "Christopher Brown" .
+<m.0dh6lz0> <film.performance.character> "Kaitlen Pickler" .
+<Jackson_Rathbone> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Amboy> <location.location.containedby> "Washington" .
+<Clark_County> <location.statistical_region.population> "m.0kgnvhk" .
+<The_Twilight_Saga:_New_Moon> <film.film.story_by> "Stephenie Meyer" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <award.award_nominated_work.award_nominations> "m.0pdgl_g" .
+<Film> <type.type.properties> "Prequel" .
+<United_States_of_America> <location.location.containedby> "United States, with Territories" .
+<m.0z97m9n> <award.award_honor.honored_for> "Twilight" .
+<Americans> <book.book_subject.works> "47 Percenters and Guerrilla Decontextualization (Part 1): Dreams and Nightmares" .
+<Washougal> <location.statistical_region.population> "g.11x1g69cd" .
+<Skateland> <film.film.starring> "m.05kdrxh" .
+<m.0z8zcf3> <award.award_nomination.nominated_for> "Twilight" .
+<Rachelle_Lefevre> <freebase.valuenotation.has_value> "Parents" .
+<Ashley_Greene> <award.award_winner.awards_won> "m.0gc_p7d" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0114s4js" .
+<Ashley_Greene> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Hazel_Dell_South> <location.hud_county_place.place> "Hazel Dell South" .
+<Jacksonville> <location.location.containedby> "Florida" .
+<Twilight> <film.film.production_companies> "Summit Entertainment" .
+<Ashley_Greene> <award.award_nominee.award_nominations> "m.0z88088" .
+<Produced_by> <rdf-schema#domain> "Film" .
+<Washougal> <location.statistical_region.population> "m.0hmncy4" .
+<m.0gb4np2> <film.film_crew_gig.film> "Twilight" .
+<Ashley_Greene> <freebase.valuenotation.is_reviewed> "Gender" .
+<Twilight> <film.film.release_date_s> "m.0l3pcdq" .
+<The_Boom_Boom_Room> <film.film.genre> "Drama" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h5200" .
+<Twilight> <film.film.release_date_s> "m.0l3pcf0" .
+<Twilight> <film.film.production_companies> "Maverick Films" .
+<Clark_County> <location.statistical_region.population> "g.11x1d7844" .
+<Stephenie_Meyer> <film.film_story_contributor.film_story_credits> "The Twilight Saga: Breaking Dawn - Part 2" .
+<Lake_Shore> <location.hud_county_place.place> "Lake Shore" .
+<2008_Columbia_Gorge_International_Film_Festival> <common.topic.notable_for> "g.1s055cfbp" .
+<Hockinson> <location.location.time_zones> "Pacific Time Zone" .
+<m.0fprd5b> <film.performance.film> "A Warrior's Heart" .
+<Guy_Oseary> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Twilight> <media_common.netflix_title.netflix_genres> "Drama" .
+<Portland> <periodicals.newspaper_circulation_area.newspapers> "OregonLive.com" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Set Decoration by" .
+<Clark_County> <location.statistical_region.population> "m.0hjz03p" .
+<Walnut_Grove> <location.hud_county_place.county> "Clark County" .
+<Karen_Rosenfelt> <freebase.valuenotation.has_value> "Country of nationality" .
+<Washougal> <location.statistical_region.population> "m.0hmncw4" .
+<Celebrity> <freebase.type_profile.published> "Published" .
+<m.0z8_3ck> <award.award_nomination.nominated_for> "Twilight" .
+<Sacramento> <location.location.events> "2014 Lucas Oil Pro Motocross Championship" .
+<Michelle_Burkham> <film.film_character.portrayed_in_films> "m.05kdrxh" .
+<Twilight> <media_common.netflix_title.netflix_genres> "Dramas Based on the Book" .
+<Richard_Gardner> <people.person.gender> "Male" .
+<Ann_Rappaport> <tv.tv_character.appeared_in_tv_episodes> "m.05kds7t" .
+<Date_of_birth> <type.property.expected_type> "Date/Time" .
+<Pacific_Time_Zone> <common.topic.notable_types> "Time Zone" .
+<King_of_California> <common.topic.notable_types> "Film" .
+<Deborah_Aquila> <people.person.profession> "Actor" .
+<m.0gbwhsv> <film.performance.character> "Adeline Winter" .
+<Florida_State_College_at_Jacksonville> <education.educational_institution_campus.educational_institution> "Florida State College at Jacksonville" .
+<Clark_County> <location.us_county.hud_county_place> "Dollar Corner" .
+<Millville> <location.location.events> "2014 Lucas Oil Pro Motocross Championship" .
+<m.0gb4nv1> <film.film_crew_gig.film> "Twilight" .
+<Twilight> <award.award_nominated_work.award_nominations> "m.09sgm77" .
+<CBGB> <common.topic.notable_types> "Film" .
+<m.0l3pbzq> <film.film_regional_release_date.film> "Twilight" .
+<Clark_County> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07ftmz3" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Abstract" .
+<m.0z8z93p> <award.award_nomination.ceremony> "2009 Teen Choice Awards" .
+<Twilight> <film.film.release_date_s> "m.0l3pbp4" .
+<m.0l3pc1p> <film.film_regional_release_date.film> "Twilight" .
+<m.09x471x> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Michele_Greene> <people.person.spouse_s> "m.0t4s187" .
+<m.0b3w_ry> <award.award_nomination.nominated_for> "Twilight" .
+<Hollywood> <base.biblioness.bibs_location.country> "United States of America" .
+<Rachelle_Lefevre> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <time.event.locations> "Millville" .
+<Kellan_Lutz> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Clark_County> <location.hud_foreclosure_area.hhuniv> "m.07ftmyw" .
+<California> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Twilight> <film.film.release_date_s> "m.0l3pc6k" .
+<The_Twilight_Saga:_Breaking_Dawn_-_Part_2> <film.film.genre> "Fantasy" .
+<The_Apparition> <common.topic.notable_types> "Film" .
+<Kellan_Lutz> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.05k64xr> <people.place_lived.person> "Ashley Greene" .
+<Wyck_Godfrey> <film.producer.film> "The Twilight Saga: New Moon" .
+<2014_Lucas_Oil_Pro_Motocross_Championship> <common.topic.notable_for> "g.11bbsns6vv" .
+<Twilight> <film.film.release_date_s> "m.0l3pbv3" .
+<Twilight> <freebase.valuenotation.is_reviewed> "Genres" .
+<Camas> <location.hud_county_place.county> "Clark County" .
+<Dollar_Corner> <location.hud_county_place.place> "Dollar Corner" .

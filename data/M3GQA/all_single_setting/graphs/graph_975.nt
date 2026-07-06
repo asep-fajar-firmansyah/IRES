@@ -1,0 +1,2096 @@
+<Western_Conference> <ice_hockey.hockey_conference.teams> "St. Louis Blues" .
+<Ice_Hockey> <sports.sport.officials> "Mark Faucette" .
+<British_Columbia> <base.aareas.schema.administrative_area.administrative_parent> "Canada" .
+<Ice_Hockey> <sports.sport.related_equipment> "Hockey puck" .
+<m.0w1yrsm> <sports.sports_team_coach_tenure.position> "Head coach" .
+<Hockey_Chronicles> <book.written_work.subjects> "Ice Hockey" .
+<1980_Winter_Olympics> <olympics.olympic_games.bidding_cities> "m.04dwjb3" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Henrik_Sedin> <people.person.parents> "Tora Sedin" .
+<Matt_Pavelich> <people.person.gender> "Male" .
+<m.0yqhn59> <base.schemastaging.athlete_salary.team> "Vancouver Canucks" .
+<Ice_Hockey> <sports.sport.officials> "Red Storey" .
+<Stéphane_Provost> <people.person.nationality> "Canada" .
+<m.0422fbt> <common.webpage.category> "Topic Webpage" .
+<m.02_321p> <location.adjoining_relationship.adjoins> "Vancouver" .
+<Vancouver> <location.statistical_region.population> "m.0kcl45t" .
+<Ice_Hockey> <sports.sport.officials> "Pierre Racicot" .
+<Ian_Walsh> <sports.sports_official.sport> "Ice Hockey" .
+<Craig_Bonner> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Alex_Romeril> <sports.sports_official.sport> "Ice Hockey" .
+<Dan_Marouelli> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.010f_rds> <base.schemastaging.phone_sandbox.service_language> "English Language" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Marpole" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Playland" .
+<Professional_Sports_Team> <type.type.properties> "Draft Picks" .
+<Athlete> <people.profession.specializations> "Ice hockey player" .
+<The_Beanpot_50th_Anniversary> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<It's_Our_Game> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Vancouver> <location.location.adjoin_s> "m.02yxjx9" .
+<Japantown,_Vancouver> <location.location.time_zones> "Pacific Time Zone" .
+<Wayne_Bonney> <base.fight.sports_official.sport> "Ice Hockey" .
+<The_Great_One> <book.written_work.subjects> "Sports" .
+<NHL_Slapshot> <cvg.computer_videogame.subjects> "Ice Hockey" .
+<Dave_Smith> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<m.010f_rds> <base.schemastaging.phone_open_times.time_zone> "Pacific Time Zone" .
+<Vancouver_Canucks> <sports.sports_team.venue> "m.0wz1_07" .
+<Playland> <location.location.time_zones> "Pacific Time Zone" .
+<Henrik_Sedin> <common.topic.image> "HenrikSedin2009" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1960 Winter Olympics" .
+<Fin_the_Whale> <sports.mascot.team> "Vancouver Canucks" .
+<m.059f2p7> <travel.travel_destination_monthly_climate.travel_destination> "Vancouver" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Youngblood" .
+<m.0b6rzh0> <common.webpage.topic> "Vancouver" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Miracle" .
+<Chaucer_Elliott> <people.person.nationality> "Canada" .
+<Bill_Chadwick> <people.person.gender> "Male" .
+<Ice_Hockey> <base.events.type_of_event.event_feeds_for_this_type_of_event> "m.0774ylr" .
+<Vancouver> <travel.travel_destination.climate> "m.059f2n7" .
+<Sport> <freebase.type_profile.equivalent_topic> "Sports" .
+<Sport> <freebase.type_profile.strict_included_types> "Topic" .
+<Rogers_Arena> <sports.sports_facility.teams> "Vancouver Voodoo" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "Los Angeles Kings" .
+<Sports_Team> <freebase.type_profile.strict_included_types> "Topic" .
+<Vancouver> <location.statistical_region.population> "m.0kcl44r" .
+<Craig_Bonner> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "University Golf Club" .
+<Pretty_Little_Liars> <tv.tv_program.filming_locations> "Vancouver" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Greektown, Vancouver" .
+<m.04xh7cx> <travel.transportation.travel_destination> "Vancouver" .
+<Örnsköldsvik> <location.location.people_born_here> "Henrik Sedin" .
+<Vancouver_Grizzlies> <sports.sports_team.arena_stadium> "Rogers Arena" .
+<Los_Angeles_Kings> <ice_hockey.hockey_team.division> "Pacific Division" .
+<Vancouver_Canucks> <sports.professional_sports_team.owner_s> "Canucks Sports & Entertainment" .
+<Rogers_Arena> <location.location.events> "48th National Hockey League All-Star Game" .
+<Vancouver> <travel.travel_destination.accommodation> "Empire Landmark Hotel" .
+<Ice_Hockey> <sports.sport.officials> "Dan Marouelli" .
+<Calgary_Flames> <ice_hockey.hockey_team.division> "Pacific Division" .
+<Bruce_Hood> <base.fight.sports_official.sport> "Ice Hockey" .
+<Western_Conference> <ice_hockey.hockey_conference.divisions> "Central Division" .
+<NHL:_Vintage_Collection:_Overtime> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<m.04sx2r1> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Alain_Vigneault> <people.person.profession> "Coach" .
+<No_Sleep_'Til_Madison> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Shane Heyer" .
+<m.0wz1_0p> <sports.team_venue_relationship.team> "Vancouver Grizzlies" .
+<m.04vywd9> <government.government_position_held.district_represented> "Vancouver" .
+<Rogers_Arena> <sports.sports_facility.teams> "Vancouver Ravens" .
+<Ice_Hockey> <olympics.olympic_sport.events> "Women's Ice Hockey" .
+<Vancouver> <architecture.architectural_structure_owner.structures_owned> "m.04xg_6k" .
+<Neil_Armstrong> <people.person.nationality> "Canada" .
+<Ice_Hockey> <sports.sport.officials> "John D'Amico" .
+<The_Chiefs> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Team> <owl#inverseOf> "Draft Picks" .
+<1936_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Blackberry_Lambic> <food.beer.from_region> "Canada" .
+<Henrik_Sedin> <sports.pro_athlete.teams> "m.0_hnfb9" .
+<Teams_Owned> <rdf-schema#range> "Professional Sports Team" .
+<Jim_Paek> <people.person.gender> "Male" .
+<Wes_McCauley> <people.person.gender> "Male" .
+<m.065pb_f> <base.popstra.vacation_choice.location> "Vancouver" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Little Mountain" .
+<One_Hundred_Years_of_Hockey> <book.written_work.subjects> "Sports" .
+<Vancouver> <common.topic.webpage> "m.09yt3tb" .
+<NHL_Stanley_Cup_2006> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Ice_Hockey> <cvg.cvg_genre.games> "NHL 2003" .
+<Ice_Hockey> <sports.sport.team_coaches> "Tom Pokel" .
+<The_Game_of_Our_Lives> <book.written_work.subjects> "Ice Hockey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Dave Bidini: The Hockey Nomad" .
+<Vancouver> <location.location.time_zones> "Pacific Time Zone" .
+<Craig_Bonner> <people.person.profession> "Ice hockey player" .
+<Vancouver> <sports.sports_team_location.teams> "Vancouver Grizzlies" .
+<Greg_Walters> <people.person.profession> "Coach" .
+<Marcus_Vinnerborg> <people.person.gender> "Male" .
+<m.0113nw_t> <business.employment_tenure.company> "Canucks Sports & Entertainment" .
+<Leon_Stickle> <sports.sports_official.sport> "Ice Hockey" .
+<m.09wwb7z> <common.webpage.topic> "Vancouver" .
+<m.059f2nr> <travel.travel_destination_monthly_climate.travel_destination> "Vancouver" .
+<Vancouver> <common.topic.webpage> "m.09wcqp6" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Nitobe Memorial Garden" .
+<Ice_Hockey> <book.book_subject.works> "Starvation Lake: A Mystery" .
+<Vancouver> <travel.travel_destination.climate> "m.059f2m_" .
+<West_Point_Grey> <location.neighborhood.neighborhood_of> "Vancouver" .
+<The_Mighty_Ducks> <film.film.language> "English Language" .
+<Ted_Nolan> <people.person.gender> "Male" .
+<Matt_Pavelich> <sports.sports_official.sport> "Ice Hockey" .
+<m.04vyw0f> <government.government_position_held.district_represented> "Vancouver" .
+<Wally_Harris> <people.person.gender> "Male" .
+<Shane_Heyer> <sports.sports_official.sport> "Ice Hockey" .
+<D2:_The_Mighty_Ducks> <film.film.sequel> "D3: The Mighty Ducks" .
+<Ted_Nolan> <ice_hockey.hockey_player.hockey_position> "Left wing" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL: Just Like Me: The Legends, The Next Gen" .
+<Henrik_Sedin> <people.person.gender> "Male" .
+<1924_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Tom_Kowal> <base.fight.sports_official.sport> "Ice Hockey" .
+<2010_Winter_Olympics> <olympics.olympic_games.events> "Women's Ice Hockey" .
+<Pat_Dapuzzo> <sports.sports_official.sport> "Ice Hockey" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Hastings–Sunrise" .
+<m.059f2nh> <travel.travel_destination_monthly_climate.travel_destination> "Vancouver" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Grandview–Woodland" .
+<Mark_Faucette> <people.person.gender> "Male" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "Chicago Blackhawks" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Henrik_Sedin> <base.schemastaging.athlete_extra.salary> "m.0yqhn38" .
+<Right_wing> <sports.sports_position.sport> "Ice Hockey" .
+<Gastown> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Vancouver> <government.political_district.representatives> "m.04sx3nz" .
+<Vancouver> <common.topic.webpage> "m.09ynzt2" .
+<Canada> <olympics.olympic_participating_country.olympics_participated_in> "2010 Winter Olympics" .
+<m.010671n8> <organization.leadership.organization> "Vancouver Canucks" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "Dose" .
+<Hurricane_I.P.A.> <food.beer.from_region> "Vancouver" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1952 Winter Olympics" .
+<Canada> <olympics.olympic_participating_country.olympics_participated_in> "1980 Winter Olympics" .
+<Terry_Ewasiuk> <people.person.nationality> "Canada" .
+<Greg_Walters> <common.topic.notable_types> "Ice hockey coach" .
+<Ron_Wicks> <sports.sports_official.sport> "Ice Hockey" .
+<Vancouver> <government.political_district.representatives> "m.04vyvtz" .
+<Kevin_Maguire> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.09wbxn5> <common.webpage.topic> "Vancouver" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Tooth Fairy" .
+<Ken_Tyler> <freebase.valuenotation.is_reviewed> "Gender" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "World Journal" .
+<Henrik_Sedin> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ice_Hockey> <sports.sport.team_coaches> "Dave Smith" .
+<Brad_Watson> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.0j2gpfz> <people.marriage.spouse> "Henrik Sedin" .
+<St._Louis_Blues> <common.topic.notable_types> "Professional Sports Team" .
+<NHL:_All_Access!> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Bill Chadwick" .
+<Rogers_Arena> <location.location.events> "Mechanical Bull Tour" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Twice as Nice: Wisconsin's 2006 Men's and Women's Hockey National Championships" .
+<Kevin_Collins> <base.fight.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "2002 NCAA Division I: Men's Ice Hockey National Championship: Minnesota vs. Maine" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Stanley Park" .
+<South_Granville> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Metro_Vancouver> <location.location.containedby> "British Columbia" .
+<m.02z_wxt> <common.webpage.category> "Topic Webpage" .
+<Pacific_Division> <common.topic.notable_types> "Ice hockey division" .
+<Vancouver> <government.political_district.representatives> "m.04sx3jd" .
+<Vancouver> <location.statistical_region.population> "m.0kcl46w" .
+<Vancouver> <organization.organization_scope.organizations_with_this_scope> "Vancouver Organizing Committee" .
+<m.07nf61y> <base.ontologies.ontology_instance_mapping.freebase_topic> "Ice Hockey" .
+<Mike_Rodden> <sports.sports_official.sport> "Ice Hockey" .
+<Jim_Benning> <ice_hockey.hockey_player.hockey_position> "Defenseman" .
+<It's_Our_Game> <film.film.language> "English Language" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Miracle on Ice" .
+<m.09xy_qx> <common.webpage.topic> "Vancouver" .
+<m.0b46r1j> <common.webpage.topic> "Vancouver" .
+<Professional_Sports_Team> <type.type.domain> "Sports" .
+<m.010f_q6s> <base.schemastaging.phone_sandbox.caller_category> "Consumer Service" .
+<m.0b479k5> <common.webpage.topic> "Vancouver" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Vancouver Marathon" .
+<Stéphane_Provost> <sports.sports_official.sport> "Ice Hockey" .
+<Henrik_Sedin> <people.person.sibling_s> "m.0_hlr_5" .
+<Vancouver> <architecture.architectural_structure_owner.structures_owned> "m.04xgzbn" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1998 Winter Olympics" .
+<m.0wz1_0x> <sports.team_venue_relationship.team> "Vancouver Ravens" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "D2: The Mighty Ducks" .
+<Forward> <sports.sports_position.sport> "Ice Hockey" .
+<Miracle> <film.film.featured_film_locations> "Canada" .
+<Ice_Hockey> <sports.sport.positions> "Right wing" .
+<Dennis_LaRue> <base.fight.sports_official.sport> "Ice Hockey" .
+<Owner(s)> <type.property.reverse_property> "Teams Owned" .
+<m.04vyv_5> <government.government_position_held.district_represented> "Vancouver" .
+<Jim_Benning> <base.schemastaging.sports_team_manager.teams_managed> "m.010nvcrq" .
+<Rogers_Arena> <common.topic.image> "Rogers Arena" .
+<Ice_Hockey> <sports.sport.officials> "Kevin Collins" .
+<Vancouver> <common.topic.webpage> "m.09wp7j7" .
+<Scott_Carter> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Vancouver> <travel.travel_destination.how_to_get_here> "m.059f36y" .
+<Ice_Hockey> <common.topic.notable_for> "g.125b466gp" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Queen Elizabeth Park, British Columbia" .
+<m.010nvcrq> <base.schemastaging.sports_team_manager_tenure.position> "General Manager" .
+<Vancouver> <government.political_district.representatives> "m.04vyw7n" .
+<Vancouver_Canucks> <base.schemastaging.sports_team_extra.managers> "m.010nvcrq" .
+<Vancouver> <location.statistical_region.population> "m.0kcl45m" .
+<Ken_Tyler> <people.person.profession> "Coach" .
+<Vancouver> <location.location.containedby> "Greater Vancouver" .
+<Andy_Van_Hellemond> <sports.sports_official.sport> "Ice Hockey" .
+<Dave_Smith> <people.person.gender> "Male" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "The Puck Hogs" .
+<Central_Division> <ice_hockey.hockey_division.teams> "Nashville Predators" .
+<Jim_Paek> <ice_hockey.hockey_player.hockey_position> "Defenseman" .
+<Open_net> <book.written_work.subjects> "Ice Hockey" .
+<Vancouver> <base.infrastructure.infrastructural_municipality.landfill> "Delta landfill" .
+<Terry_Ewasiuk> <people.person.profession> "Coach" .
+<Sports> <business.industry.companies> "Canucks Sports & Entertainment" .
+<m.09wx9rl> <common.webpage.topic> "Vancouver" .
+<Central_Division> <ice_hockey.hockey_division.teams> "Colorado Avalanche" .
+<Vancouver> <location.statistical_region.population> "m.0kcl45g" .
+<Downtown_Eastside> <location.location.containedby> "Vancouver" .
+<m.04sx3nk> <government.government_position_held.district_represented> "Vancouver" .
+<Empire_Landmark_Hotel> <location.location.containedby> "British Columbia" .
+<m.06v106f> <architecture.ownership.owner> "Canucks Sports & Entertainment" .
+<m.059f2lh> <travel.travel_destination_monthly_climate.travel_destination> "Vancouver" .
+<Vancouver> <tv.tv_location.tv_shows_filmed_here> "Pretty Little Liars" .
+<NHL_History_of_the_Philadelphia_Flyers> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<John_D'Amico> <base.fight.sports_official.sport> "Ice Hockey" .
+<Men's_Ice_Hockey> <olympics.olympic_event.sport> "Ice Hockey" .
+<Dave_Bidini:_The_Hockey_Nomad> <film.film.country> "Canada" .
+<2010_Winter_Olympics> <olympics.olympic_games.venues> "Rogers Arena" .
+<Craig_Bonner> <people.person.gender> "Male" .
+<Kitsilano> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Tom_Pokel> <freebase.valuenotation.is_reviewed> "Gender" .
+<m.04sx3pc> <government.government_position_held.district_represented> "Vancouver" .
+<Gérard_Gauthier> <base.fight.sports_official.sport> "Ice Hockey" .
+<2014_Winter_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<London_Knights> <sports.sports_team.sport> "Ice Hockey" .
+<Vancouver_Canadians> <sports.sports_team.location> "Vancouver" .
+<Vancouver_Canucks> <base.schemastaging.organization_extra.phone_number> "m.010f_q6s" .
+<Scotty_Morrison> <people.person.nationality> "Canada" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "False Creek" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1964 Winter Olympics" .
+<Teams_Owned> <type.property.master_property> "Owner(s)" .
+<m.060c0t_> <business.sponsorship.sponsored_recipient> "Rogers Arena" .
+<Vancouver_International_Airport> <location.location.containedby> "Canada" .
+<Henrik_Sedin> <people.person.profession> "Athlete" .
+<Vancouver> <government.governmental_jurisdiction.agencies> "Vancouver Fire and Rescue Services" .
+<m.09yq8h_> <common.webpage.topic> "Vancouver" .
+<Henrik_Sedin> <people.person.children> "Harry Sedin" .
+<m.04sx2wt> <government.government_position_held.district_represented> "Vancouver" .
+<Sasquatch> <fictional_universe.fictional_character.place_of_birth> "Vancouver" .
+<Rogers_Arena> <location.location.events> "Rock Bottom: In Your House" .
+<m.04_j5gs> <business.employment_tenure.company> "Vancouver" .
+<Slap_Shot_2:_Breaking_the_Ice> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Vancouver Maritime Museum" .
+<NHL_Stanley_Cup_Champions_2008-2009:_Pittsburgh_Penguins> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Ian_Walsh> <people.person.gender> "Male" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL: Vintage Collection: Greatest Goals" .
+<The_Game> <book.written_work.original_language> "English Language" .
+<Vancouver> <government.political_district.representatives> "m.04sx3b7" .
+<m.046csxh> <location.adjoining_relationship.adjoins> "Vancouver" .
+<Vancouver> <base.infrastructure.infrastructural_municipality.landfill> "Cache Creek landfill" .
+<Vancouver> <sports.sports_team_location.teams> "Calgary Cowboys" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL Stanley Cup Champions 2003 - 2004: Tampa Bay Lightning" .
+<Odie_Cleghorn> <people.person.gender> "Male" .
+<Ultimate_Skating:_Skills_&_Drills_for_Beginners_to_Pros:_Vol._1> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<m.04vyw7n> <government.government_position_held.district_represented> "Vancouver" .
+<Cache_Creek_landfill> <location.location.containedby> "British Columbia" .
+<Vancouver> <travel.travel_destination.climate> "m.059f2lr" .
+<m.0_hnfb9> <sports.sports_team_roster.player> "Henrik Sedin" .
+<Craig_Bonner> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<2014_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Scott_Carter> <people.person.profession> "Coach" .
+<Ryan_Bozak> <people.person.gender> "Male" .
+<Gérard_Gauthier> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <book.book_subject.works> "Ultimate Bad Boys" .
+<Calgary_Cowboys> <sports.sports_team.location> "Vancouver" .
+<Bill_McCreary> <base.fight.sports_official.sport> "Ice Hockey" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "The Peak" .
+<m.04sx3b7> <government.government_position_held.district_represented> "Vancouver" .
+<Ken_Tyler> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Ice_Hockey> <book.book_subject.works> "The Blue and White Book 1997" .
+<Vancouver> <common.topic.image> "Vancouver Panorama" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1956 Winter Olympics" .
+<Henrik_Sedin> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "New England Hockey: A Life at the Rink" .
+<Museum_of_Anthropology_at_UBC> <travel.tourist_attraction.near_travel_destination> "Vancouver" .
+<Vancouver> <food.beer_country_region.beers_from_here> "Black Cherry Lambic" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04vyv_5" .
+<Good_old_days_of_ice_hockey> <common.image.appears_in_topic_gallery> "Ice Hockey" .
+<Ron_Asselstine> <base.fight.sports_official.sport> "Ice Hockey" .
+<Vancouver_Giants> <sports.sports_team.location> "Vancouver" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Denman Street" .
+<George_Hayes> <sports.sports_official.sport> "Ice Hockey" .
+<m.04vyv_n> <government.government_position_held.district_represented> "Vancouver" .
+<Peter_Horachek> <people.person.profession> "Coach" .
+<NHL_2003> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Rob Shick" .
+<Vancouver_Canucks> <sports.sports_team.coaches> "m.010yzbv3" .
+<Vancouver> <common.topic.article> "m.080hd" .
+<Kerry_Fraser> <base.fight.sports_official.sport> "Ice Hockey" .
+<Vancouver> <location.statistical_region.population> "m.0kcl450" .
+<Ice_Hockey> <sports.sport.officials> "Ron Finn" .
+<NHL_Minnesota_Wild:_The_State_of_Hockey> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Henrik_Sedin> <common.topic.notable_for> "g.1254xc1jp" .
+<Women's_Ice_Hockey> <olympics.olympic_event.sport> "Ice Hockey" .
+<Henrik_Sedin> <sports.pro_athlete.teams> "m.02h5kvd" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Vancouver 2010: Winter Olympics Highlights" .
+<Vancouver> <sports.sports_team_location.teams> "Vancouver Giants" .
+<Rogers_Arena> <location.location.events> "UFC 174" .
+<Mike_Leggo> <people.person.gender> "Male" .
+<Playland> <travel.tourist_attraction.near_travel_destination> "Vancouver" .
+<m.0wz1_07> <sports.team_venue_relationship.venue> "Rogers Arena" .
+<Vancouver> <government.governmental_jurisdiction.government_bodies> "Vancouver City Council" .
+<Rogers_Arena> <location.location.events> "Viva la Vida World Tour, Vancouver, BC Concert" .
+<m.0yqhn38> <base.schemastaging.athlete_salary.team> "Vancouver Canucks" .
+<Rob_Shick> <people.person.gender> "Male" .
+<British_Columbia> <location.administrative_division.country> "Canada" .
+<24_Hours> <book.newspaper.circulation_areas> "Vancouver" .
+<Ice_Hockey> <sports.sport.officials> "Kerry Fraser" .
+<m.04sx3bn> <government.government_position_held.district_represented> "Vancouver" .
+<Ice_Hockey> <book.book_subject.works> "The New Ice Age" .
+<Dave_Bidini:_The_Hockey_Nomad> <tv.tv_program.country_of_origin> "Canada" .
+<National_Hockey_League> <sports.sports_league.sport> "Ice Hockey" .
+<Ice_Hockey> <base.disaster2.dangerous_activity.connected_with_this_type_of_injuy_event> "Ice hockey accident" .
+<Vancouver_Art_Gallery> <location.location.containedby> "Canada" .
+<Bob_Hodges> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_hockey_at_the_2010_Winter_Olympics_–_Women's_tournament> <olympics.olympic_event_competition.event> "Women's Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Kevin Maguire" .
+<Sojourn> <film.film.language> "English Language" .
+<Rogers_Arena> <location.location.street_address> "m.04swgp2" .
+<m.0113n9pr> <sports.sports_team_coach_tenure.team> "Vancouver Canucks" .
+<Daniel_Podgaichenko> <people.person.languages> "English Language" .
+<Goaltender_mask> <sports.sports_equipment.sport_used_for> "Ice Hockey" .
+<Canucks_Sports_&_Entertainment> <sports.sports_team_owner.teams_owned> "Vancouver Canucks" .
+<Vancouver_Millionaires> <sports.sports_team.location> "Vancouver" .
+<National_Hockey_League> <sports.sports_league.teams> "m.0crt43r" .
+<m.04xg_dx> <architecture.ownership.owner> "Vancouver" .
+<1920_Summer_Olympics> <olympics.olympic_games.participating_countries> "Canada" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Slap Shot 2: Breaking the Ice" .
+<Canada> <location.country.administrative_divisions> "British Columbia" .
+<Vancouver> <government.political_district.representatives> "m.04vyv_n" .
+<Vancouver> <sports.sports_team_location.teams> "Vancouver Millionaires" .
+<Sports> <freebase.equivalent_topic.equivalent_domain> "Sports" .
+<Vancouver> <location.statistical_region.population> "m.0kcl448" .
+<Ron_Finn> <sports.sports_official.sport> "Ice Hockey" .
+<André_Tourigny> <common.topic.notable_types> "Ice hockey coach" .
+<Strathcona,_Vancouver> <location.location.time_zones> "Pacific Time Zone" .
+<Official_2002_Stanley_Cup_Championship:_Detroit_Red_Wings> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Ice_Hockey> <cvg.computer_game_subject.games> "NHL Slapshot" .
+<Calgary_Cowboys> <sports.sports_team.sport> "Ice Hockey" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "24 Hours" .
+<Ice_Hockey> <book.book_subject.works> "Night Undone" .
+<Team> <type.property.reverse_property> "Draft Picks" .
+<m.02h5kvd> <sports.sports_team_roster.position> "Centerman" .
+<Ice_Hockey> <cvg.cvg_genre.games> "Slap Shot" .
+<False_Creek> <location.location.containedby> "Canada" .
+<Mike_Gilligan> <freebase.valuenotation.is_reviewed> "Gender" .
+<Henrik_Sedin> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.04vyw0f> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<A_Canadian_Saturday_Night> <book.written_work.subjects> "Ice Hockey" .
+<André_Tourigny> <people.person.gender> "Male" .
+<Mike_Gilligan> <people.person.gender> "Male" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1994 Winter Olympics" .
+<Strathcona,_Vancouver> <base.wikipedia_infobox.settlement.area_code> "Area code 604" .
+<Ice_Hockey> <sports.sport.officials> "Bruce Hood" .
+<Vancouver> <food.beer_country_region.beers_from_here> "Granville Island Honey Lager" .
+<John_Tortorella> <people.person.profession> "Coach" .
+<Vancouver> <government.political_district.representatives> "m.04sx3c1" .
+<m.010f_rds> <base.schemastaging.phone_sandbox.contact_category> "Sales" .
+<Vancouver> <common.topic.article> "m.02z_wrl" .
+<m.04sx30k> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Jay_Sharrers> <people.person.gender> "Male" .
+<Playland> <location.location.containedby> "British Columbia" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Canadian Rockies" .
+<Tom_Pokel> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Ice_Hockey> <sports.sport.officials> "Kevin Pollock" .
+<Jim_Benning> <people.person.gender> "Male" .
+<MVP:_Most_Valuable_Primate> <film.film.language> "English Language" .
+<Ice_Hockey> <sports.sport.officials> "Brad Meier" .
+<André_Tourigny> <ice_hockey.hockey_coach.current_team> "Colorado Avalanche" .
+<m.0113n9pr> <freebase.valuenotation.has_no_value> "To" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL Greatest Moments" .
+<Queen_Elizabeth_Park,_British_Columbia> <base.vancouver.location_in_neighborhood.neighborhood> "Queen Elizabeth Park, British Columbia" .
+<Odie_Cleghorn> <sports.sports_official.sport> "Ice Hockey" .
+<2007_NCAA_Division_I_Men's_Ice_Hockey_National_Championship:_Michigan_State_vs._Boston_College> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.team_coaches> "Ken Tyler" .
+<1960_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Kevin_Pollock> <base.fight.sports_official.sport> "Ice Hockey" .
+<Rogers_Arena> <common.topic.notable_types> "Olympic venue" .
+<Canada> <film.film_location.featured_in_films> "Miracle" .
+<Nitobe_Memorial_Garden> <location.location.containedby> "British Columbia" .
+<1956_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<m.04xg_bg> <architecture.ownership.owner> "Vancouver" .
+<Granville_Island> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Vancouver> <sports.sports_team_location.teams> "Vancouver Royals" .
+<Vancouver> <travel.travel_destination.climate> "m.059f2n_" .
+<Rogers_Arena> <common.topic.article> "m.038hp8" .
+<New_York_Times> <common.resource.annotations> "m.0422fbt" .
+<1980_Winter_Olympics> <olympics.olympic_games.participating_countries> "Canada" .
+<Women's_Ice_Hockey> <olympics.olympic_event.olympic_games_contested> "1998 Winter Olympics" .
+<Vancouver> <base.popstra.location.vacationers> "m.064spdr" .
+<Canada> <location.country.official_language> "English Language" .
+<Ice_Hockey> <sports.sport.officials> "Jay Sharrers" .
+<Vancouver> <location.statistical_region.population> "m.0kcl468" .
+<Stanley_Cup_2006-2007_Champions> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<m.0yqhn59> <base.schemastaging.athlete_salary.athlete> "Henrik Sedin" .
+<m.02z_yh3> <location.adjoining_relationship.adjoins> "Vancouver" .
+<Ice_Hockey> <sports.sport.officials> "Mike Rodden" .
+<Vancouver> <common.topic.webpage> "m.09w9jxx" .
+<Gerard_Gallant> <people.person.profession> "Coach" .
+<m.0b47dx8> <common.webpage.topic> "Vancouver" .
+<m.010f_pr8> <internet.localized_uri.location> "Canada" .
+<Anaheim_Ducks> <common.topic.notable_types> "Professional Sports Team" .
+<Andy_Van_Hellemond> <people.person.gender> "Male" .
+<m.04sx30t> <government.government_position_held.district_represented> "Vancouver" .
+<Ice_Hockey> <sports.sport.officials> "Frank Udvari" .
+<Wally_Harris> <sports.sports_official.sport> "Ice Hockey" .
+<Pacific_Division> <ice_hockey.hockey_division.teams> "Calgary Flames" .
+<Vancouver> <government.political_district.representatives> "m.04sx2t2" .
+<Marpole> <location.location.containedby> "Vancouver" .
+<Vancouver> <government.political_district.representatives> "m.04vywb_" .
+<m.04dwjb3> <olympics.olympic_city_bid.olympic_games> "1980 Winter Olympics" .
+<m.02z_xdz> <location.adjoining_relationship.adjoins> "Vancouver" .
+<D2:_The_Mighty_Ducks> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Ice_Hockey> <cvg.cvg_genre.games> "NHL" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL Stanley Cup Champions 2008-2009: Pittsburgh Penguins" .
+<m.09yq45_> <common.webpage.topic> "Vancouver" .
+<Ice_hockey_at_the_2010_Winter_Olympics_–_Men's_tournament> <olympics.olympic_event_competition.venue> "Rogers Arena" .
+<Museum_of_Anthropology_at_UBC> <location.location.containedby> "British Columbia" .
+<Ice_Hockey> <sports.sport.officials> "Bob Hodges" .
+<Canada> <location.country.first_level_divisions> "British Columbia" .
+<Chaucer_Elliott> <base.fight.sports_official.sport> "Ice Hockey" .
+<Face-Off> <film.film.country> "Canada" .
+<Vancouver> <base.popstra.location.vacationers> "m.064tkxj" .
+<Ice_Hockey> <sports.sport.officials> "Gérard Gauthier" .
+<Defenseman> <sports.sports_position.sport> "Ice Hockey" .
+<Anaheim_Ducks> <sports.sports_team.sport> "Ice Hockey" .
+<Victoria–Fraserview> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Lower_Mainland> <location.location.contains> "Vancouver" .
+<Chris_Lee> <sports.sports_official.sport> "Ice Hockey" .
+<Junior> <film.film.country> "Canada" .
+<Henrik_Sedin> <people.person.parents> "Tommy Sedin" .
+<Business_Operation> <freebase.type_profile.strict_included_types> "Topic" .
+<m.04sx2x1> <government.government_position_held.district_represented> "Vancouver" .
+<Hockey_Stars_Speak> <book.written_work.subjects> "Ice Hockey" .
+<Vancouver> <location.statistical_region.population> "m.0kcl44g" .
+<Sticks_and_Stones> <film.film.country> "Canada" .
+<Andy_Van_Hellemond> <people.person.nationality> "Canada" .
+<Vancouver> <base.popstra.location.vacationers> "m.064snv_" .
+<Canada> <olympics.olympic_participating_country.olympics_participated_in> "2014 Winter Olympics" .
+<2010_Winter_Olympics> <olympics.olympic_games.participating_countries> "Canada" .
+<Jay_Sharrers> <sports.sports_official.sport> "Ice Hockey" .
+<Neil_Armstrong> <sports.sports_official.sport> "Ice Hockey" .
+<Vancouver> <government.governmental_jurisdiction.government_bodies> "Vancouver Park Board" .
+<Mike_Sertich> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Vancouver> <location.statistical_region.population> "m.0kcl459" .
+<Vancouver> <location.location.adjoin_s> "m.02_3225" .
+<D3:_The_Mighty_Ducks> <film.film.language> "English Language" .
+<Professional_Sports_Team> <type.type.expected_by> "Team" .
+<Ultimate_Bad_Boys> <book.written_work.subjects> "Canada" .
+<Wayne_Bonney> <sports.sports_official.sport> "Ice Hockey" .
+<Henrik_Sedin> <common.topic.image> "Henrik Sedin" .
+<Vancouver> <common.topic.image> "Vancouver ib" .
+<People's_Voice> <book.newspaper.circulation_areas> "Canada" .
+<m.09ynzt2> <common.webpage.topic> "Vancouver" .
+<Ice_Hockey> <sports.sport.officials> "Neil Armstrong" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Maurice Richard" .
+<Vancouver> <olympics.olympic_bidding_city.olympics_bid_on> "m.04dwjb3" .
+<No_Sleep_'Til_Madison> <film.film.language> "English Language" .
+<Greg_Walters> <people.person.profession> "Ice hockey player" .
+<Ice_Hockey> <cvg.computer_game_subject.games> "NHL 2K10" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Kitsilano" .
+<Vancouver> <government.political_district.representatives> "m.04sx2wk" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04vyv_n" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Sidney Crosby: On the Ice and Beyond" .
+<Cache_Creek_landfill> <base.infrastructure.landfill.serves_location> "Vancouver" .
+<Canucks_Sports_&_Entertainment> <architecture.architectural_structure_owner.structures_owned> "m.06v106f" .
+<Slap_Shot_2:_Breaking_the_Ice> <film.film.prequel> "Slap Shot" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Downtown Eastside" .
+<Don_Van_Massenhoven> <base.fight.sports_official.sport> "Ice Hockey" .
+<Paul_Devorski> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.02z_yc9> <location.adjoining_relationship.adjoins> "Vancouver" .
+<Mike_Corbett> <people.person.profession> "Coach" .
+<Gerard_Gallant> <people.person.gender> "Male" .
+<Brett_Hull_Hockey_'95> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "Vancouver Courier" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "Xtra Vancouver" .
+<Swede_Knox> <people.person.gender> "Male" .
+<m.04lq0g9> <location.mailing_address.citytown> "Vancouver" .
+<m.010f_q6s> <base.schemastaging.phone_sandbox.service_language> "English Language" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL Minnesota Wild: The State of Hockey" .
+<John_Tortorella> <sports.sports_team_coach.teams_coached> "m.0w1yrsm" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1984 Winter Olympics" .
+<Vancouver> <sports.sports_team_location.teams> "Vancouver Ravens" .
+<Alain_Vigneault> <people.person.nationality> "Canada" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Dunbar-Southlands" .
+<Henrik_Sedin2> <common.image.appears_in_topic_gallery> "Henrik Sedin" .
+<Vancouver> <government.political_district.representatives> "m.04sx3ps" .
+<Kevin_Collins> <people.person.gender> "Male" .
+<m.09wvph8> <common.webpage.topic> "Vancouver" .
+<Ice_Hockey> <sports.sport.officials> "Paul Devorski" .
+<Willie_Desjardins> <common.topic.notable_for> "g.1259nc0p2" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL: All Access!" .
+<Dave_Smith> <people.person.profession> "Ice hockey player" .
+<Sports> <type.domain.types> "Professional Sports Team" .
+<Ryan_Bozak> <sports.sports_official.sport> "Ice Hockey" .
+<Mystery,_Alaska> <film.film.language> "English Language" .
+<Canada> <olympics.olympic_participating_country.olympics_participated_in> "1948 Winter Olympics" .
+<Los_Angeles_Kings> <ice_hockey.hockey_team.conference> "Western Conference" .
+<Precipitation_Pilsner> <food.beer.from_region> "Canada" .
+<Seahawk:_Confessions_of_an_Old_Hockey_Goalie> <book.written_work.subjects> "Ice Hockey" .
+<Vancouver> <common.topic.webpage> "m.09wbkzx" .
+<D2:_The_Mighty_Ducks> <film.film.prequel> "The Mighty Ducks" .
+<Western_Conference> <ice_hockey.hockey_conference.divisions> "Northwest Division" .
+<Kerrisdale> <location.location.containedby> "Vancouver" .
+<Brad_Watson> <people.person.gender> "Male" .
+<Slap_Shot_2:_Breaking_the_Ice> <film.film.sequel> "Slap Shot 3: The Junior League" .
+<NHL:_Vintage_Collection:_Masked_Men> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Matt Pavelich" .
+<Canadian_Rockies> <location.location.containedby> "Canada" .
+<Ice_Hockey> <book.book_subject.works> "Hockey Chronicles" .
+<Kerry_Fraser> <sports.sports_official.sport> "Ice Hockey" .
+<Men's_Ice_Hockey> <olympics.olympic_event.olympic_games_contested> "1998 Winter Olympics" .
+<Peter_Horachek> <common.topic.notable_types> "Ice hockey coach" .
+<Ice_Hockey> <sports.sport.officials> "Franz Baader" .
+<Vancouver> <common.topic.webpage> "m.09wjs6l" .
+<NHL:_All_Access!> <film.film.language> "English Language" .
+<Ron_Finn> <base.fight.sports_official.sports_association> "National Hockey League" .
+<Rogers_Arena> <location.location.events> "Black Ice World Tour, Vancouver, BC - General Motors Place Concert" .
+<m.059f2mh> <travel.travel_destination_monthly_climate.travel_destination> "Vancouver" .
+<Henrik_Sedin> <people.person.spouse_s> "m.0j2gpfz" .
+<m.09w18fn> <common.webpage.topic> "Vancouver" .
+<Winger> <sports.sports_position.sport> "Ice Hockey" .
+<Willie_Desjardins> <sports.sports_team_coach.teams_coached> "m.010yzbv3" .
+<NHL_Eastside_Hockey_Manager_2007> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<Vancouver_Grizzlies> <sports.sports_team.location> "Vancouver" .
+<Ice_hockey_at_the_2010_Winter_Olympics_–_Women's_tournament> <olympics.olympic_event_competition.venue> "Rogers Arena" .
+<2006_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Slap_Shot_3:_The_Junior_League> <film.film.language> "English Language" .
+<Mike_Rodden> <people.person.nationality> "Canada" .
+<Ice_Hockey> <sports.sport.officials> "Fred Waghorne" .
+<Örnsköldsvik> <common.topic.notable_types> "City/Town/Village" .
+<m.059f2n7> <travel.travel_destination_monthly_climate.travel_destination> "Vancouver" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "Anaheim Ducks" .
+<André_Tourigny> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ice_Hockey> <sports.sport.team_coaches> "Andrew Allen" .
+<Cooper_Smeaton> <people.person.place_of_birth> "Canada" .
+<Greg_Kimmerly> <people.person.gender> "Male" .
+<m.0crt43r> <sports.sports_league_participation.league> "National Hockey League" .
+<Vancouver> <travel.travel_destination.climate> "m.059f2p7" .
+<Trevor_Linden> <ice_hockey.hockey_player.hockey_position> "Centerman" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "South Granville" .
+<D3:_The_Mighty_Ducks> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.positions> "Centerman" .
+<Pierre_Champoux> <base.fight.sports_official.sport> "Ice Hockey" .
+<Henrik_Sedin> <ice_hockey.hockey_player.shoots> "Left-handed" .
+<Don_Koharski> <people.person.gender> "Male" .
+<Vancouver> <common.topic.webpage> "m.059kv84" .
+<Ice_Hockey> <sports.sport.team_coaches> "Ted Nolan" .
+<Rogers_Arena> <location.location.events> "UFC 131" .
+<Vancouver_International_Airport> <location.location.containedby> "British Columbia" .
+<Vancouver> <travel.travel_destination.accommodation> "Sheraton Wall Centre" .
+<m.064snv_> <base.popstra.vacation_choice.location> "Vancouver" .
+<Lee_Davidson> <people.person.nationality> "Canada" .
+<NHL_2003> <cvg.computer_videogame.game_series> "NHL" .
+<Alain_Vigneault> <sports.sports_team_coach.teams_coached> "m.0vbljnd" .
+<Hotel_Vancouver> <location.location.containedby> "Vancouver" .
+<m.0crt43r> <sports.sports_league_participation.team> "Vancouver Canucks" .
+<Sport> <freebase.type_profile.kind> "Definition" .
+<Ice_hockey_at_the_2010_Winter_Olympics_–_Men's_tournament> <olympics.olympic_event_competition.olympic_games_contested> "2010 Winter Olympics" .
+<Mike_Leggo> <sports.sports_official.sport> "Ice Hockey" .
+<1948_Winter_Olympics> <olympics.olympic_games.participating_countries> "Canada" .
+<Vancouver> <location.location.adjoin_s> "m.02z_yh3" .
+<Tom_Pokel> <people.person.profession> "Coach" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Robson Street" .
+<VanDusen_Botanical_Garden> <location.location.time_zones> "Pacific Time Zone" .
+<Brad_Meier> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.0wz1_07> <freebase.valuenotation.has_no_value> "To" .
+<Ice_Hockey> <sports.sport.team_coaches> "Jim Paek" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1988 Winter Olympics" .
+<Ken_Tyler> <people.person.gender> "Male" .
+<Vancouver_Canucks> <sports.sports_team.league> "m.0crt43r" .
+<Vancouver_Millionaires> <sports.sports_team.sport> "Ice Hockey" .
+<Vancouver> <government.political_district.representatives> "m.04sx3q5" .
+<Vancouver> <government.political_district.representatives> "m.04vyw8n" .
+<Winnipeg_Jets> <ice_hockey.hockey_team.conference> "Western Conference" .
+<Ice_Hockey> <sports.sport.officials> "Bobby Hewitson" .
+<Ice_Hockey> <sports.sport.related_equipment> "Goaltender mask" .
+<Vancouver> <common.topic.webpage> "m.09wvph8" .
+<Canucks_Sports_&_Entertainment> <business.business_operation.industry> "Amusement and Recreation Services, NEC" .
+<m.09kmk0b> <base.ontologies.ontology_instance_mapping.freebase_topic> "Vancouver Canucks" .
+<Ice_Hockey> <cvg.cvg_genre.games> "Brett Hull Hockey" .
+<Stanley_Park> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Sports> <common.topic.subjects> "Daniel Podgaichenko" .
+<Charley_McVeigh> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.positions> "Left wing" .
+<Metro_Vancouver> <location.administrative_division.second_level_division_of> "Canada" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Dickens, Vancouver" .
+<Draft_Picks> <type.property.schema> "Professional Sports Team" .
+<Marsh_Ryman> <sports.sports_official.sport> "Ice Hockey" .
+<Coal_Harbour> <location.location.nearby_airports> "Vancouver Harbour Flight Centre" .
+<Ice_Hockey> <sports.sport.team_coaches> "Mike Corbett" .
+<1980_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<NHL_Greatest_Moments> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Vancouver> <government.political_district.representatives> "m.04sx3n4" .
+<English_Language> <language.human_language.countries_spoken_in> "Canada" .
+<Denis_Morel> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.team_coaches> "Scott Carter" .
+<Pacific_Division> <ice_hockey.hockey_division.teams> "Los Angeles Kings" .
+<Vancouver> <travel.travel_destination.climate> "m.059f2mh" .
+<Hockey_Stars_Speak> <book.written_work.subjects> "Sports" .
+<1968_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Youngblood> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Coal_Harbour> <location.location.time_zones> "Pacific Time Zone" .
+<Vancouver> <location.location.adjoin_s> "m.02z_yfm" .
+<Pat_Dapuzzo> <base.fight.sports_official.sport> "Ice Hockey" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Riley Park–Little Mountain" .
+<Frank_Udvari> <people.person.gender> "Male" .
+<m.064b4w1> <base.popstra.vacation_choice.location> "Vancouver" .
+<Rogers_Arena> <location.location.events> "The Circus Tour Vancouver, Canada Concert" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1920 Summer Olympics" .
+<Sports> <freebase.equivalent_topic.equivalent_type> "Sport" .
+<Highland_Scottish_Ale> <food.beer.from_region> "Canada" .
+<Vancouver> <government.political_district.representatives> "m.04sx30k" .
+<m.04vyw93> <government.government_position_held.governmental_body> "Vancouver Park Board" .
+<m.05gr8lp> <common.webpage.category> "Topic Webpage" .
+<Sylvio_Mantha> <ice_hockey.hockey_player.hockey_position> "Defenseman" .
+<Bill_Chadwick> <sports.sports_official.sport> "Ice Hockey" .
+<Edmonton_Oilers> <ice_hockey.hockey_team.conference> "Western Conference" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Don Cherry's Hard-Hitting Hockey 3" .
+<Vancouver> <travel.travel_destination.local_transportation> "SeaBus" .
+<Marcus_Vinnerborg> <base.fight.sports_official.sport> "Ice Hockey" .
+<Vancouver> <business.employer.employees> "m.04_j5gs" .
+<Terry_Ewasiuk> <ice_hockey.hockey_player.shoots> "Left-handed" .
+<Henrik_Sedin> <base.schemastaging.athlete_extra.salary> "m.0j2g7qm" .
+<m.09xwnm6> <common.webpage.topic> "Vancouver" .
+<Ice_Hockey> <sports.sport.team_coaches> "Gerard Gallant" .
+<2010_Winter_Olympics> <time.event.locations> "Vancouver" .
+<Canada> <location.location.time_zones> "Pacific Time Zone" .
+<Eddie_Livingstone> <people.person.nationality> "Canada" .
+<Henrik_Sedin> <award.award_nominee.award_nominations> "m.0z3slm5" .
+<Vancouver_Canucks> <sports.sports_team.team_mascot> "Fin the Whale" .
+<Vancouver> <government.political_district.representatives> "m.04vyv_z" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "No Sleep 'Til Madison" .
+<m.06v7p_h> <olympics.olympic_medal_honor.medalist> "Henrik Sedin" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Face-Off" .
+<m.04sx37z> <government.government_position_held.district_represented> "Vancouver" .
+<Ernie_Leacock> <people.person.gender> "Male" .
+<Ice_Hockey> <sports.sport.officials> "Dennis LaRue" .
+<Edmonton_Oilers> <ice_hockey.hockey_team.division> "Pacific Division" .
+<m.04vyw93> <government.government_position_held.district_represented> "Vancouver" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1980 Winter Olympics" .
+<Mascot> <freebase.type_profile.strict_included_types> "Topic" .
+<2002_Winter_Olympics> <olympics.olympic_games.participating_countries> "Canada" .
+<Don_Van_Massenhoven> <people.person.gender> "Male" .
+<m.09w_hvw> <common.webpage.topic> "Vancouver" .
+<Mechanical_Bull_Tour> <time.event.locations> "Rogers Arena" .
+<Face-Off> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<George_Hardy> <common.topic.notable_types> "Ice hockey coach" .
+<Business_Operation> <freebase.type_hints.included_types> "Topic" .
+<Kevin_Pollock> <people.person.gender> "Male" .
+<Ultimate_Bad_Boys> <book.written_work.subjects> "Ice Hockey" .
+<Vancouver> <travel.travel_destination.how_to_get_here> "m.04xh7d8" .
+<m.059kv84> <common.webpage.topic> "Vancouver" .
+<Canucks_Sports_&_Entertainment> <business.employer.employees> "m.0113nw_t" .
+<Central_Division> <ice_hockey.hockey_division.teams> "Chicago Blackhawks" .
+<Junior> <film.film.language> "English Language" .
+<2014_IIHF_World_Championship> <common.topic.subjects> "Ice Hockey" .
+<m.059f2m_> <travel.travel_destination_monthly_climate.travel_destination> "Vancouver" .
+<Vancouver> <travel.travel_destination.accommodation> "Comfort Inn Downtown Vancouver" .
+<m.04sx3ps> <government.government_position_held.district_represented> "Vancouver" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Fairview, Vancouver" .
+<André_Tourigny> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Vancouver_Canucks> <ice_hockey.hockey_team.captain> "Henrik Sedin" .
+<Dan_Bylsma> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Mike_Gilligan> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Ted_Nolan> <common.topic.notable_types> "Ice hockey coach" .
+<NHL_Eastside_Hockey_Manager_2005> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<Sidney_Crosby:_On_the_Ice_and_Beyond> <film.film.language> "English Language" .
+<Ice_Hockey> <sports.sport.officials> "Wayne Bonney" .
+<Mickey_Ion> <people.person.gender> "Male" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "The Chiefs" .
+<Dave_Smith> <people.person.nationality> "Canada" .
+<Henrik_Sedin> <people.person.place_of_birth> "Örnsköldsvik" .
+<Mick_McGeough> <people.person.gender> "Male" .
+<Sylvia_Hotel> <location.location.containedby> "Vancouver" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "Calgary Flames" .
+<Vancouver_Mounties> <sports.sports_team.location> "Vancouver" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "2014 Winter Olympics" .
+<m.04vyvtz> <government.government_position_held.district_represented> "Vancouver" .
+<Ice_Hockey> <sports.sport.officials> "Tom Kowal" .
+<Franz_Baader> <base.fight.sports_official.sport> "Ice Hockey" .
+<Dan_O'Rourke> <sports.sports_official.sport> "Ice Hockey" .
+<NHL:_Just_Like_Me:_The_Legends,_The_Next_Gen> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<m.010f_rds> <freebase.valuenotation.has_no_value> "Saturday closing time" .
+<m.064snzq> <base.popstra.vacation_choice.location> "Vancouver" .
+<Yaletown> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Punjabi Market, Vancouver" .
+<Vancouver> <government.political_district.representatives> "m.04sx38n" .
+<Craig_Bonner> <people.person.profession> "Coach" .
+<Vancouver> <travel.travel_destination.accommodation> "Ramada Inns and Suites Downtown Vancouver" .
+<m.04sx3nz> <government.government_position_held.district_represented> "Vancouver" .
+<NHL_Slapshot> <cvg.computer_videogame.game_series> "NHL" .
+<Pat_Dapuzzo> <people.person.gender> "Male" .
+<Ice_Hockey> <sports.sport.officials> "George Hayes" .
+<The_Game> <book.written_work.subjects> "Ice Hockey" .
+<Athlete> <base.lightweight.profession.similar_professions> "Coach" .
+<Vancouver> <government.political_district.representatives> "m.04sx34_" .
+<Edmonton_Oilers> <common.topic.notable_types> "Professional Sports Team" .
+<Dan_Marouelli> <people.person.nationality> "Canada" .
+<Motor_City_muscle> <book.written_work.subjects> "Sports" .
+<Gérard_Gauthier> <people.person.nationality> "Canada" .
+<m.04vyw83> <government.government_position_held.governmental_body> "Vancouver Park Board" .
+<John_Tortorella> <ice_hockey.hockey_player.hockey_position> "Right wing" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "Minnesota Wild" .
+<m.010f_pr8> <internet.localized_uri.language> "English" .
+<m.064spdr> <base.popstra.vacation_choice.location> "Vancouver" .
+<Vancouver> <government.governmental_jurisdiction.agencies> "Vancouver Police Department" .
+<Pacific_Division> <common.topic.notable_for> "g.1256g4cnw" .
+<Ernie_Leacock> <people.person.nationality> "Canada" .
+<Coach> <base.lightweight.profession.professions_similar> "Athlete" .
+<m.010yzbv3> <sports.sports_team_coach_tenure.position> "Head coach" .
+<Ice_Hockey> <sports.sport.officials> "Marsh Ryman" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "Arizona Coyotes" .
+<Ice_Hockey> <common.topic.webpage> "m.09y8fd0" .
+<Ice_Hockey> <sports.sport.team_coaches> "Mike Sertich" .
+<Dallas_Stars> <sports.sports_team.sport> "Ice Hockey" .
+<Vancouver> <common.topic.webpage> "m.09w18fn" .
+<Vancouver_Canucks> <sports.sports_team.coaches> "m.0w1yrsm" .
+<m.09wfldz> <common.webpage.topic> "Vancouver" .
+<Pacific_Division> <ice_hockey.hockey_division.teams> "Arizona Coyotes" .
+<Inside_Hockey> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Pacific_Division> <ice_hockey.hockey_division.teams> "Edmonton Oilers" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Science World" .
+<Power_Play> <film.film.language> "English Language" .
+<Vancouver> <common.topic.webpage> "m.02z_wxt" .
+<VanDusen_Botanical_Garden> <location.location.containedby> "Canada" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL All-Access (2008)" .
+<Alex_Romeril> <base.fight.sports_official.sport> "Ice Hockey" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Renfrew–Collingwood" .
+<m.010671n8> <organization.leadership.person> "Trevor Linden" .
+<Dan_O'Halloran> <people.person.gender> "Male" .
+<Don_Koharski> <people.person.nationality> "Canada" .
+<Raspberry_Lambic> <food.beer.from_region> "Canada" .
+<Vancouver> <common.topic.webpage> "m.09w_hvw" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Museum of Vancouver" .
+<Central_Division> <ice_hockey.hockey_division.teams> "Minnesota Wild" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Arbutus Ridge" .
+<Canada> <base.aareas.schema.administrative_area.administrative_children> "British Columbia" .
+<Fred_Waghorne> <people.person.gender> "Male" .
+<Ice_Hockey> <sports.sport.officials> "Dan O'Halloran" .
+<Area_code_604> <location.location.containedby> "British Columbia" .
+<Precipitation_Pilsner> <food.beer.from_region> "Vancouver" .
+<Shane_Heyer> <base.fight.sports_official.sport> "Ice Hockey" .
+<Vancouver> <base.ontologies.ontology_instance.equivalent_instances> "m.09kln8c" .
+<Amusement_and_Recreation_Services,_NEC> <business.industry.companies> "Canucks Sports & Entertainment" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Davie Village" .
+<m.04vyv_z> <government.government_position_held.district_represented> "Vancouver" .
+<Dave_Bidini:_The_Hockey_Nomad> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<m.02z_xbv> <location.adjoining_relationship.adjoins> "Vancouver" .
+<Professional_Sports_Team> <type.type.properties> "Owner(s)" .
+<Henrik_Sedin> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Team> <type.property.expected_type> "Professional Sports Team" .
+<Women's_Ice_Hockey> <olympics.olympic_event.competitions> "Ice hockey at the 2010 Winter Olympics – Women's tournament" .
+<Tom_Pokel> <common.topic.notable_types> "Ice hockey coach" .
+<Vancouver> <government.political_district.representatives> "m.04sx2rm" .
+<Ice_Hockey> <olympics.olympic_sport.events> "Men's Ice Hockey" .
+<Dallas_Stars> <ice_hockey.hockey_team.division> "Central Division" .
+<West_Point_Grey> <location.location.time_zones> "Pacific Time Zone" .
+<Assistant_Coach> <sports.coaching_position.coaches> "m.0113n9pr" .
+<Vancouver_International_Water_Airport> <location.location.containedby> "British Columbia" .
+<m.04lq0g9> <location.mailing_address.state_province_region> "British Columbia" .
+<m.059kw4_> <travel.transportation.transport_terminus> "Vancouver International Airport" .
+<Gastown> <location.location.containedby> "Vancouver" .
+<2014_Winter_Olympics> <olympics.olympic_games.events> "Men's Ice Hockey" .
+<m.059f36y> <travel.transportation.travel_destination> "Vancouver" .
+<NHL> <cvg.game_series.games_in_series> "NHL 2003" .
+<Shaughnessy,_Vancouver> <location.location.time_zones> "Pacific Time Zone" .
+<Kevin_Collins> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Ultimate Skating: Skills & Drills for Beginners to Pros: Vol. 1" .
+<m.04swgp2> <location.mailing_address.state_province_region> "British Columbia" .
+<Red_Storey> <people.person.gender> "Male" .
+<Sticks_and_Stones> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Vancouver> <travel.travel_destination.local_transportation> "SkyTrain" .
+<Net_Worth> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<People's_Voice> <book.newspaper.circulation_areas> "Vancouver" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "South Cambie" .
+<Coal_Harbour> <location.neighborhood.neighborhood_of> "Vancouver" .
+<m.09x31nr> <common.webpage.topic> "Vancouver" .
+<Vancouver_Art_Gallery> <location.location.containedby> "Vancouver" .
+<Vancouver_Whitecaps_FC> <sports.sports_team.location> "Vancouver" .
+<m.09dvdwg> <olympics.olympic_athlete_affiliation.athlete> "Henrik Sedin" .
+<Kevin_Maguire> <ice_hockey.hockey_player.hockey_position> "Forward" .
+<Searching_for_Bobby_Orr> <book.written_work.subjects> "Ice Hockey" .
+<Ken_Tyler> <freebase.valuenotation.is_reviewed> "Profession" .
+<2014_IIHF_World_Championship> <common.topic.notable_types> "Sport" .
+<Blackberry_Lambic> <food.beer.from_region> "Vancouver" .
+<Vancouver> <location.location.nearby_airports> "Vancouver Harbour Flight Centre" .
+<Ice_Hockey> <sports.sport.officials> "Dan O'Rourke" .
+<Ice_Hockey> <common.topic.image> "Ilves-Blues Feb 2008" .
+<Men's_Ice_Hockey> <olympics.olympic_event.competitions> "Ice hockey at the 2010 Winter Olympics – Men's tournament" .
+<Vancouver> <food.beer_country_region.beers_from_here> "Blackberry Lambic" .
+<Science_World> <travel.tourist_attraction.near_travel_destination> "Vancouver" .
+<Central_Division> <ice_hockey.hockey_division.teams> "St. Louis Blues" .
+<Junior> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Japantown,_Vancouver> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Vancouver> <common.topic.webpage> "m.09w85zc" .
+<Ice_Hockey> <base.ontologies.ontology_instance.equivalent_instances> "m.07nf61y" .
+<San_Jose_Sharks> <ice_hockey.hockey_team.conference> "Western Conference" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "South Main" .
+<Mike_Hasenfratz> <sports.sports_official.sport> "Ice Hockey" .
+<St._Louis_Blues> <sports.sports_team.sport> "Ice Hockey" .
+<Dan_O'Rourke> <people.person.gender> "Male" .
+<Pacific_Division> <ice_hockey.hockey_division.conference> "Western Conference" .
+<Andrew_Allen> <people.person.nationality> "Canada" .
+<Mike_Sertich> <people.person.profession> "Athlete" .
+<San_Jose_Sharks> <common.topic.notable_types> "Professional Sports Team" .
+<Ice_Hockey> <sports.sport.officials> "Bill Stewart" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1968 Winter Olympics" .
+<Metro_Vancouver> <location.location.containedby> "Lower Mainland" .
+<Vancouver_Nats> <sports.sports_team.location> "Vancouver" .
+<Ice_Hockey> <sports.sport.officials> "Chris Lee" .
+<Ted_Nolan> <people.person.nationality> "Canada" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "The Ubyssey" .
+<Ice_Hockey> <sports.sport.officials> "Mike Hasenfratz" .
+<Score:_A_Hockey_Musical> <film.film.country> "Canada" .
+<Paul_Loicq> <base.fight.sports_official.sport> "Ice Hockey" .
+<NHL:_Mark_Messier:_Leader,_Champion_and_Legend> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Mascot> <freebase.type_hints.included_types> "Topic" .
+<m.02h5kvd> <sports.sports_team_roster.team> "Vancouver Canucks" .
+<NHL_2K11> <cvg.computer_videogame.subjects> "Ice Hockey" .
+<Ice_Hockey> <book.book_subject.works> "Open net" .
+<Slap_Shot_2:_Breaking_the_Ice> <film.film.language> "English Language" .
+<San_Jose_Sharks> <ice_hockey.hockey_team.division> "Pacific Division" .
+<South_Granville> <location.location.containedby> "Vancouver" .
+<Miracle_on_Ice> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Pierre_Racicot> <sports.sports_official.sport> "Ice Hockey" .
+<2010_Winter_Olympics> <olympics.olympic_games.bidding_cities> "m.063x27y" .
+<Chaucer_Elliott> <sports.sports_official.sport> "Ice Hockey" .
+<Ron_Wicks> <base.fight.sports_official.sport> "Ice Hockey" .
+<Rogers_Arena> <location.location.containedby> "Vancouver" .
+<Vancouver_International_Airport> <travel.transport_terminus.travel_destinations_served> "m.04xh7dj" .
+<Shaughnessy,_Vancouver> <location.location.containedby> "Vancouver" .
+<m.0j2g7qm> <base.schemastaging.athlete_salary.athlete> "Henrik Sedin" .
+<Sticks_and_Stones> <film.film.language> "English Language" .
+<m.010f_q6s> <freebase.valuenotation.has_no_value> "Sunday open time" .
+<Rogers_Arena> <location.location.events> "In Your House 9: International Incident" .
+<Vancouver> <government.political_district.representatives> "m.04sx38c" .
+<m.04sx309> <government.government_position_held.district_represented> "Vancouver" .
+<Vancouver> <common.topic.webpage> "m.09wbxn5" .
+<Ice_Hockey> <book.book_subject.works> "The Game" .
+<George_Hayes> <base.fight.sports_official.sport> "Ice Hockey" .
+<Bobby_Hewitson> <sports.sports_official.sport> "Ice Hockey" .
+<Museum_of_Vancouver> <travel.tourist_attraction.near_travel_destination> "Vancouver" .
+<Ice_Hockey> <book.book_subject.works> "Home Game" .
+<Western_Conference> <ice_hockey.hockey_conference.divisions> "Pacific Division" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1948 Winter Olympics" .
+<m.04sx38n> <government.government_position_held.district_represented> "Vancouver" .
+<m.06v7p_h> <olympics.olympic_medal_honor.olympics> "2006 Winter Olympics" .
+<Vancouver_Canucks> <sports.sports_team.sport> "Ice Hockey" .
+<William_Earl_Ormshaw> <people.person.gender> "Male" .
+<Open_net> <book.written_work.subjects> "Sports" .
+<VanDusen_Botanical_Garden> <travel.tourist_attraction.near_travel_destination> "Vancouver" .
+<Vancouver> <olympics.olympic_host_city.olympics_hosted> "2010 Winter Olympics" .
+<Sojourn> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Junior" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "2002 Winter Olympics" .
+<Bob_Hodges> <base.fight.sports_official.sport> "Ice Hockey" .
+<Vancouver> <common.topic.webpage> "m.09xwnm6" .
+<John_Tortorella> <people.person.gender> "Male" .
+<Vancouver> <symbols.namesake.named_after> "George Vancouver" .
+<San_Jose_Sharks> <sports.sports_team.sport> "Ice Hockey" .
+<On_With_The_Show_Tour> <time.event.locations> "Rogers Arena" .
+<Scott_Carter> <people.person.profession> "Ice hockey player" .
+<Willie_Desjardins> <ice_hockey.hockey_coach.current_team> "Vancouver Canucks" .
+<Vancouver> <common.topic.webpage> "m.03ldss0" .
+<Daniel_Podgaichenko> <people.person.nationality> "Canada" .
+<m.0vbljnd> <sports.sports_team_coach_tenure.team> "Vancouver Canucks" .
+<Vancouver> <government.political_district.representatives> "m.04sx3pc" .
+<Home_Game> <book.written_work.subjects> "Canada" .
+<Vancouver> <sports.sports_team_location.teams> "Vancouver Canadians" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "San Jose Sharks" .
+<Science_World> <location.location.containedby> "Vancouver" .
+<Stanley_Park> <base.vancouver.location_in_neighborhood.neighborhood> "Stanley Park" .
+<Ice_Hockey> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<Dan_Bylsma> <people.person.gender> "Male" .
+<Vancouver> <travel.travel_destination.climate> "m.059f2l_" .
+<m.0422fbt> <common.webpage.topic> "Vancouver Canucks" .
+<Peter_Horachek> <people.person.gender> "Male" .
+<Slap_Shot> <film.film.language> "English Language" .
+<VanDusen_Botanical_Garden> <location.location.containedby> "British Columbia" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL: The History of the Boston Bruins" .
+<Vancouver_Art_Gallery> <travel.tourist_attraction.near_travel_destination> "Vancouver" .
+<Wally_Harris> <base.fight.sports_official.sport> "Ice Hockey" .
+<South_Granville> <location.location.time_zones> "Pacific Time Zone" .
+<Ray_Scapinello> <base.fight.sports_official.sport> "Ice Hockey" .
+<Face-Off> <film.film.language> "English Language" .
+<2010_Winter_Olympics> <olympics.olympic_games.competitions> "Ice hockey at the 2010 Winter Olympics – Women's tournament" .
+<m.09x5z5y> <common.webpage.topic> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Ron Hoggarth" .
+<Nashville_Predators> <ice_hockey.hockey_team.division> "Central Division" .
+<Granville_Island_Honey_Lager> <food.beer.from_region> "Canada" .
+<Maurice_Richard:_The_Man,_the_Myth,_the_Rocket> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Arizona_Coyotes> <ice_hockey.hockey_team.conference> "Western Conference" .
+<m.04vywcn> <government.government_position_held.district_represented> "Vancouver" .
+<m.04sx312> <government.government_position_held.district_represented> "Vancouver" .
+<Shane_Heyer> <people.person.gender> "Male" .
+<Franz_Baader> <people.person.gender> "Male" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Granville Island" .
+<m.09w996s> <common.webpage.topic> "Vancouver" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "The Beanpot 50th Anniversary" .
+<m.0w1yrsm> <sports.sports_team_coach_tenure.coach> "John Tortorella" .
+<m.0yqhn38> <base.schemastaging.athlete_salary.athlete> "Henrik Sedin" .
+<D3:_The_Mighty_Ducks> <film.film.prequel> "D2: The Mighty Ducks" .
+<Slap_Shot> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<1972_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Vancouver_Canucks> <sports.sports_team.arena_stadium> "Rogers Arena" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Futuresport" .
+<Vancouver> <base.popstra.location.vacationers> "m.065pb_f" .
+<Score:_A_Hockey_Musical> <film.film.language> "English Language" .
+<Marcus_Vinnerborg> <sports.sports_official.sport> "Ice Hockey" .
+<m.0z3slm5> <award.award_nomination.award_nominee> "Henrik Sedin" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04vyw0f" .
+<m.09w9jxx> <common.webpage.topic> "Vancouver" .
+<Queen_Elizabeth_Park,_British_Columbia> <location.location.containedby> "Vancouver" .
+<m.09wp7j7> <common.webpage.topic> "Vancouver" .
+<Andrew_Allen> <people.person.profession> "Athlete" .
+<Vancouver> <travel.travel_destination.climate> "m.059f2nh" .
+<Nitobe_Memorial_Garden> <travel.tourist_attraction.near_travel_destination> "Vancouver" .
+<Vancouver> <location.statistical_region.population> "m.0kcl454" .
+<St._Louis_Blues> <ice_hockey.hockey_team.conference> "Western Conference" .
+<Vancouver> <sports.sports_team_location.teams> "Vancouver Cougars" .
+<Ice_Hockey> <sports.sport.officials> "Ray Scapinello" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Vancouver International Film Festival" .
+<Vancouver> <fictional_universe.fictional_setting.works_set_here> "Mario & Sonic at the Olympic Winter Games" .
+<Vancouver> <location.location.geolocation> "m.022lvvt" .
+<Mark_Faucette> <sports.sports_official.sport> "Ice Hockey" .
+<Vancouver_Canucks> <common.topic.webpage> "m.0422fbt" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Inside Hockey" .
+<Tom_Kowal> <people.person.place_of_birth> "British Columbia" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04sx30t" .
+<Vancouver_Grizzlies> <sports.sports_team.venue> "m.0wz1_0p" .
+<Vancouver> <fictional_universe.fictional_setting.fictional_characters_born_here> "Sasquatch" .
+<Anaheim_Ducks> <ice_hockey.hockey_team.division> "Pacific Division" .
+<Vancouver> <government.political_district.representatives> "m.04sx3mr" .
+<Dan_O'Rourke> <base.fight.sports_official.sport> "Ice Hockey" .
+<Sports_Team> <type.type.domain> "Sports" .
+<m.02z_xnl> <location.adjoining_relationship.adjoins> "Vancouver" .
+<Ted_Nolan> <ice_hockey.hockey_player.shoots> "Left-handed" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Lord Stanley's Cup: Hockey's Ultimate Prize" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1936 Winter Olympics" .
+<Vancouver> <base.localfood.csa_coverage_area.supplied_by> "NOWBC Co-op" .
+<Ice_Hockey> <book.book_subject.works> "The Great One" .
+<Vancouver> <government.political_district.representatives> "m.04vyv_5" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Museum of Anthropology at UBC" .
+<Professional_Sports_Team> <freebase.type_hints.included_types> "Sports Team" .
+<Vancouver_Harbour_Flight_Centre> <aviation.airport.serves> "Coal Harbour" .
+<Ice_Hockey> <sports.sport.officials> "William Earl Ormshaw" .
+<Henrik_Sedin> <ice_hockey.hockey_player.hockey_position> "Centerman" .
+<Stephen_Walkom> <base.fight.sports_official.sport> "Ice Hockey" .
+<Nashville_Predators> <sports.sports_team.sport> "Ice Hockey" .
+<Eddie_Livingstone> <base.fight.sports_official.sport> "Ice Hockey" .
+<Eddie_Livingstone> <sports.sports_official.sport> "Ice Hockey" .
+<m.04sx2t2> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Andrew_Allen> <common.topic.notable_types> "Ice hockey coach" .
+<m.09wcqp6> <common.webpage.topic> "Vancouver" .
+<Kerrisdale> <location.location.time_zones> "Pacific Time Zone" .
+<Vancouver_Harbour_Flight_Centre> <aviation.airport.serves> "Vancouver" .
+<Vancouver> <location.location.adjoin_s> "m.02z_xbv" .
+<Neil_Armstrong> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.010f_rds> <base.schemastaging.phone_sandbox.service_location> "Canada" .
+<Sylvio_Mantha> <people.person.gender> "Male" .
+<Kitsilano> <location.location.time_zones> "Pacific Time Zone" .
+<Ryan_Bozak> <base.fight.sports_official.sport> "Ice Hockey" .
+<NHL_2K10> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<Canada> <location.country.languages_spoken> "English Language" .
+<m.0c55w2g> <sports.pro_sports_played.sport> "Ice Hockey" .
+<Ray_Scapinello> <people.person.gender> "Male" .
+<Scotty_Morrison> <people.person.gender> "Male" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "The Mighty Ducks" .
+<Metallica:_World_Magnetic_Tour,_Vancouver,_BC_Concert> <time.event.locations> "Rogers Arena" .
+<Ice_Hockey> <sports.sport.officials> "Pierre Champoux" .
+<John_Tortorella> <common.topic.notable_types> "Ice hockey coach" .
+<m.09yt3tb> <common.webpage.topic> "Vancouver" .
+<Canada> <periodicals.newspaper_circulation_area.newspapers> "People's Voice" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Queen Elizabeth Park, British Columbia" .
+<Vancouver> <location.location.adjoin_s> "m.02z_yc9" .
+<Ice_Hockey> <sports.sport.officials> "Denis Morel" .
+<m.04vyv_5> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<m.02_322r> <location.adjoining_relationship.adjoins> "Vancouver" .
+<Ron_Hoggarth> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.09w87b7> <common.webpage.topic> "Vancouver" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "Sing Tao Daily" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL Stanley Cup 2003" .
+<Olympic_athlete> <freebase.type_profile.strict_included_types> "Topic" .
+<The_Puck_Hogs> <film.film.language> "English Language" .
+<m.09x5ph2> <common.webpage.topic> "Vancouver" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Strathcona, Vancouver" .
+<Ron_Finn> <base.fight.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Ron Wicks" .
+<m.04vyw83> <government.government_position_held.district_represented> "Vancouver" .
+<Denis_Morel> <people.person.gender> "Male" .
+<Mike_Corbett> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Business_Operation> <freebase.type_profile.kind> "Definition" .
+<Gérard_Gauthier> <people.person.gender> "Male" .
+<Henrik_Sedin> <olympics.olympic_athlete.medals_won> "m.06v7p_h" .
+<Gerard_Gallant> <common.topic.notable_types> "Ice hockey coach" .
+<Strathcona,_Vancouver> <location.location.containedby> "Vancouver" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "Winnipeg Jets" .
+<Climax> <common.topic.notable_types> "City/Town/Village" .
+<m.05gr8lp> <common.webpage.topic> "Vancouver" .
+<Mike_Hasenfratz> <people.person.gender> "Male" .
+<Sylvio_Mantha> <base.fight.sports_official.sport> "Ice Hockey" .
+<Stanley_Park> <location.location.contains> "Vancouver Aquarium" .
+<Rogers_Arena> <olympics.olympic_venue.olympic_events_contested_here> "Ice hockey at the 2010 Winter Olympics – Women's tournament" .
+<m.059f2n_> <travel.travel_destination_monthly_climate.travel_destination> "Vancouver" .
+<Ilves-Blues_Feb_2008> <common.image.appears_in_topic_gallery> "Ice Hockey" .
+<Craig_Bonner> <freebase.valuenotation.is_reviewed> "Profession" .
+<Rogers_Arena> <location.location.events> "Todd Bertuzzi–Steve Moore incident" .
+<Greg_Devorski> <base.fight.sports_official.sport> "Ice Hockey" .
+<Mike_Corbett> <ice_hockey.hockey_player.hockey_position> "Defenseman" .
+<Pierre_Racicot> <people.person.gender> "Male" .
+<Canucks_Sports_&_Entertainment> <common.topic.article> "m.06xt8k" .
+<Vancouver> <base.vancouver.podcaster.podcast> "Four Pillars Drug Strategy Podcast" .
+<NHL_Stanley_Cup_Champions_2007-2008> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Fin_the_Whale> <common.topic.notable_types> "Mascot" .
+<Ice_Hockey> <sports.sport.officials> "Greg Devorski" .
+<1998_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<General_Manager> <base.schemastaging.sports_team_manager_position.managers> "m.010nvcrq" .
+<Coal_Harbour> <location.location.containedby> "Vancouver" .
+<Vancouver> <location.statistical_region.population> "m.0kcl44w" .
+<Chris_Lee> <people.person.gender> "Male" .
+<Vancouver> <common.topic.webpage> "m.09w87b7" .
+<Vancouver> <olympics.olympic_bidding_city.olympics_bid_on> "m.063x27y" .
+<Ron_Asselstine> <people.person.nationality> "Canada" .
+<Ice_Hockey> <sports.sport.team_coaches> "Dan Bylsma" .
+<Centerman> <sports.sports_position.sport> "Ice Hockey" .
+<Vancouver> <government.political_district.representatives> "m.04vyw0f" .
+<Jean_Morin> <sports.sports_official.sport> "Ice Hockey" .
+<Don_Cherry's_Hard-Hitting_Hockey_3> <film.film.subjects> "Ice Hockey" .
+<Vancouver> <sports.sports_team_location.teams> "Vancouver Whitecaps FC" .
+<Don_Koharski> <sports.sports_official.sport> "Ice Hockey" .
+<George_Hayes> <people.person.gender> "Male" .
+<Willie_Desjardins> <people.person.education> "m.0w5kc2r" .
+<Central_Division> <ice_hockey.hockey_division.conference> "Western Conference" .
+<Miracle> <film.film.language> "English Language" .
+<Ken_Tyler> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Ice_Hockey> <sports.sport.officials> "Ian Walsh" .
+<Women's_Ice_Hockey> <olympics.olympic_event.olympic_games_contested> "2010 Winter Olympics" .
+<Stanley_Park> <location.location.time_zones> "Pacific Time Zone" .
+<The_Blue_and_White_Book_1997> <book.written_work.subjects> "Sports" .
+<Vancouver_Canucks> <base.schemastaging.organization_extra.contact_webpages> "m.010f_pr8" .
+<Sylvio_Mantha> <common.topic.notable_types> "Ice hockey coach" .
+<NHL_Eastside_Hockey_Manager> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<British_Columbia> <location.location.containedby> "Canada" .
+<NHL_2K10> <cvg.computer_videogame.subjects> "Ice Hockey" .
+<Greg_Kimmerly> <base.fight.sports_official.sport> "Ice Hockey" .
+<Kevin_Pollock> <sports.sports_official.sport> "Ice Hockey" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Sunset, Vancouver" .
+<Ice_Hockey> <cvg.computer_game_subject.games> "NHL 2K11" .
+<English_Language> <language.human_language.main_country> "Canada" .
+<Vancouver_Canucks> <sports.sports_team.coaches> "m.0vbljnd" .
+<Western_Conference> <common.topic.article> "m.0c9n_9" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04sx2r1" .
+<The_Puck_Hogs> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Vancouver> <organization.organization_scope.organizations_with_this_scope> "Hawksworth Restaurant" .
+<John_D'Amico> <people.person.gender> "Male" .
+<Pierre_Champoux> <people.person.gender> "Male" .
+<2002_NCAA_Division_I:_Men's_Ice_Hockey_National_Championship:_Minnesota_vs._Maine> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Frank_Udvari> <base.fight.sports_official.sport> "Ice Hockey" .
+<Marc_Joannette> <people.person.gender> "Male" .
+<m.02xk__t> <location.adjoining_relationship.adjoins> "Vancouver" .
+<Henrik_Sedin> <people.person.places_lived> "m.0wlvc50" .
+<m.0wz1_0g> <sports.team_venue_relationship.venue> "Rogers Arena" .
+<Searching_for_Bobby_Orr> <book.written_work.subjects> "Sports" .
+<Fin_the_Whale> <common.topic.article> "m.086d48" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "2006 Winter Olympics" .
+<London_Knights> <ice_hockey.hockey_team.conference> "Western Conference" .
+<Arizona_Coyotes> <ice_hockey.hockey_team.division> "Pacific Division" .
+<British_Columbia> <base.biblioness.bibs_location.country> "Canada" .
+<Örnsköldsvik> <location.location.containedby> "Sweden" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04sx312" .
+<m.059f2m7> <travel.travel_destination_monthly_climate.travel_destination> "Vancouver" .
+<Vancouver> <travel.travel_destination.climate> "m.059f2nr" .
+<Ice_Hockey> <book.book_subject.works> "Shooting stars" .
+<The_Game_of_Our_Lives> <book.written_work.subjects> "Sports" .
+<Vancouver> <architecture.architectural_structure_owner.structures_owned> "m.06v12gr" .
+<Craig_Bonner> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Charley_McVeigh> <base.fight.sports_official.sport> "Ice Hockey" .
+<Henrik_Sedin> <people.person.nationality> "Sweden" .
+<1998_Olympic_Hockey_Highlights> <film.film.language> "English Language" .
+<Vancouver> <organization.organization_scope.organizations_with_this_scope> "King Edward High School" .
+<m.04vyv_n> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Vancouver Aquarium" .
+<Rogers_Arena> <location.location.geolocation> "m.02_vl87" .
+<Harry_Sedin> <people.person.parents> "Henrik Sedin" .
+<m.0j2g7qm> <base.schemastaging.athlete_salary.team> "Vancouver Canucks" .
+<Youngblood> <film.film.language> "English Language" .
+<Ice_Hockey> <sports.sport.officials> "Swede Knox" .
+<Greg_Walters> <people.person.gender> "Male" .
+<D2:_The_Mighty_Ducks> <film.film.language> "English Language" .
+<Craig_Bonner> <freebase.valuenotation.is_reviewed> "Gender" .
+<Vancouver_Harbour_Flight_Centre> <location.location.containedby> "British Columbia" .
+<Ice_Hockey> <sports.sport.positions> "Winger" .
+<Mike_Hasenfratz> <base.fight.sports_official.sport> "Ice Hockey" .
+<Doug_Lidster> <ice_hockey.hockey_player.hockey_position> "Defenseman" .
+<Vancouver> <base.popstra.location.vacationers> "m.064snzq" .
+<Ice_Hockey> <sports.sport.officials> "Mick McGeough" .
+<Mike_Corbett> <people.person.gender> "Male" .
+<m.04sx3bn> <government.government_position_held.governmental_body> "Vancouver Park Board" .
+<Pacific_Division> <ice_hockey.hockey_division.teams> "Vancouver Canucks" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "West End" .
+<Vancouver> <common.topic.webpage> "m.09yq45_" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04vyvtz" .
+<Vancouver> <common.topic.webpage> "m.09x31nr" .
+<Mario_&_Sonic_at_the_Olympic_Winter_Games> <cvg.computer_videogame.subjects> "2010 Winter Olympics" .
+<Vancouver> <government.political_district.representatives> "m.04vyw73" .
+<m.07lfv36> <business.employment_tenure.company> "Canucks Sports & Entertainment" .
+<Vancouver> <location.statistical_region.population> "m.0kcl444" .
+<Sport> <freebase.type_hints.included_types> "Topic" .
+<Canada> <olympics.olympic_participating_country.olympics_participated_in> "1920 Summer Olympics" .
+<Rogers_Arena> <common.topic.notable_for> "g.125bkcb1m" .
+<Vancouver> <sports.sports_team_location.teams> "Furious George" .
+<Ken_Tyler> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Stanley Park" .
+<2010_Winter_Olympics> <time.event.includes_event> "Ice hockey at the 2010 Winter Olympics" .
+<Maurice_Richard> <film.film.language> "English Language" .
+<Dennis_LaRue> <people.person.gender> "Male" .
+<Ice_Hockey> <sports.sport.officials> "Ryan Bozak" .
+<Hastings–Sunrise> <location.location.time_zones> "Pacific Time Zone" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Little Italy, Vancouver" .
+<Nashville_Predators> <common.topic.notable_types> "Professional Sports Team" .
+<Greg_Walters> <people.person.nationality> "Canada" .
+<Ice_hockey_at_the_2010_Winter_Olympics_–_Men's_tournament> <olympics.olympic_event_competition.event> "Men's Ice Hockey" .
+<Arbutus_Ridge> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Shooting_stars> <book.written_work.subjects> "Sports" .
+<m.04xh7dj> <travel.transportation.transport_terminus> "Vancouver International Airport" .
+<MVP:_Most_Valuable_Primate> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Andrew_Allen> <people.person.gender> "Male" .
+<Museum_of_Vancouver> <location.location.containedby> "Vancouver" .
+<Ice_Hockey> <common.topic.notable_types> "Sport" .
+<Vancouver> <travel.travel_destination.local_transportation> "TransLink" .
+<Slap_Shot_3:_The_Junior_League> <film.film.prequel> "Slap Shot 2: Breaking the Ice" .
+<Red_Storey> <sports.sports_official.sport> "Ice Hockey" .
+<m.02_3225> <location.adjoining_relationship.adjoins> "Vancouver" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04sx301" .
+<Sing_Tao_Daily> <book.newspaper.circulation_areas> "Vancouver" .
+<Kerrisdale> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Scotty_Morrison> <base.fight.sports_official.sport> "Ice Hockey" .
+<George_Hardy> <people.person.gender> "Male" .
+<m.04_j5hh> <business.employment_tenure.company> "Vancouver" .
+<Minnesota_Wild> <ice_hockey.hockey_team.conference> "Western Conference" .
+<The_Great_One> <book.written_work.subjects> "Ice Hockey" .
+<Vancouver> <common.topic.webpage> "m.09x5ph2" .
+<Bill_Chadwick> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.04sx309> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Minnesota_Wild> <sports.sports_team.sport> "Ice Hockey" .
+<Other_Spectator_Sports> <business.industry.companies> "Canucks Sports & Entertainment" .
+<Bob_Hodges> <people.person.gender> "Male" .
+<Rogers_Arena> <location.location.events> "World Domination Tour, Vancouver, BC Concert" .
+<Randy_Mitton> <people.person.gender> "Male" .
+<Starvation_Lake:_A_Mystery> <book.written_work.original_language> "English Language" .
+<Tom_Pokel> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Anaheim_Ducks> <ice_hockey.hockey_team.conference> "Western Conference" .
+<Winnipeg_Jets> <sports.sports_team.sport> "Ice Hockey" .
+<Score:_A_Hockey_Musical> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Winnipeg_Jets> <ice_hockey.hockey_team.division> "Central Division" .
+<m.04sx3q5> <government.government_position_held.district_represented> "Vancouver" .
+<Ice_Hockey> <cvg.computer_videogame.subjects> "Ice Hockey" .
+<Valter_Sedin> <people.person.nationality> "Canada" .
+<Colorado_Avalanche> <ice_hockey.hockey_team.conference> "Western Conference" .
+<Wes_McCauley> <sports.sports_official.sport> "Ice Hockey" .
+<Neil_Armstrong> <people.person.gender> "Male" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1932 Winter Olympics" .
+<Bryan_Lewis> <people.person.gender> "Male" .
+<Willie_Desjardins> <people.person.gender> "Male" .
+<Hastings–Sunrise> <location.location.containedby> "Vancouver" .
+<Gord_Broseker> <people.person.gender> "Male" .
+<Ice_Hockey> <film.film_subject.films> "Don Cherry's Hard-Hitting Hockey 3" .
+<Owner(s)> <type.property.schema> "Professional Sports Team" .
+<Daniel_Podgaichenko> <common.topic.subject_of> "Sports" .
+<Hotel_Vancouver> <location.location.containedby> "British Columbia" .
+<Ice_hockey_at_the_2010_Winter_Olympics_–_Men's_tournament> <time.event.included_in_event> "Ice hockey at the 2010 Winter Olympics" .
+<2010_Winter_Olympics> <book.book_subject.works> "Night Undone" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04sx2t2" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "The Jewish Tribune" .
+<Wes_McCauley> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.09w85zc> <common.webpage.topic> "Vancouver" .
+<Black_Plague_Stout> <food.beer.from_region> "Vancouver" .
+<Edmonton_Oilers> <sports.sports_team.sport> "Ice Hockey" .
+<Vancouver_Maritime_Museum> <location.location.containedby> "British Columbia" .
+<m.09dvdwg> <olympics.olympic_athlete_affiliation.country> "Sweden" .
+<Tommy_Sedin> <people.person.children> "Henrik Sedin" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Vancouver Sun Run" .
+<Strathcona,_Vancouver> <location.neighborhood.neighborhood_of> "Vancouver" .
+<m.04sx3c1> <government.government_position_held.district_represented> "Vancouver" .
+<Ice_Hockey> <sports.sport.officials> "Wes McCauley" .
+<Vancouver> <travel.travel_destination.accommodation> "Metropolitan Vancouver Hotel" .
+<Dave_Bidini:_The_Hockey_Nomad> <film.film.language> "English Language" .
+<Front_wing> <sports.sports_position.sport> "Ice Hockey" .
+<Doug_Lidster> <people.person.profession> "Ice hockey player" .
+<m.0_hlr_5> <people.sibling_relationship.sibling> "Henrik Sedin" .
+<Terry_Ewasiuk> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Jim_Benning> <people.person.nationality> "Canada" .
+<m.0rqg3gr> <common.webpage.topic> "Vancouver" .
+<Pacific_Division> <ice_hockey.hockey_division.teams> "Anaheim Ducks" .
+<Greg_Walters> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Owner(s)> <owl#inverseOf> "Teams Owned" .
+<Vancouver> <sports.sports_team_location.teams> "Vancouver Nats" .
+<George_Vancouver> <symbols.name_source.namesakes> "Vancouver" .
+<2014_Winter_Olympics> <olympics.olympic_games.events> "Women's Ice Hockey" .
+<Dose> <book.newspaper.circulation_areas> "Vancouver" .
+<Ice_Hockey> <sports.sport.officials> "Wally Harris" .
+<Colorado_Avalanche> <ice_hockey.hockey_team.division> "Central Division" .
+<NHL:_Mark_Messier:_Leader,_Champion_and_Legend> <film.film.language> "English Language" .
+<1976_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Vancouver> <common.topic.webpage> "m.09x5vcr" .
+<1988_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "The Province" .
+<George_Hardy> <people.person.profession> "Coach" .
+<Greg_Devorski> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Jean Morin" .
+<Hotel_Vancouver> <location.location.containedby> "Canada" .
+<VanDusen_Botanical_Garden> <base.vancouver.location_in_neighborhood.neighborhood> "Shaughnessy, Vancouver" .
+<Ice_skate> <sports.sports_equipment.sport_used_for> "Ice Hockey" .
+<Raspberry_Lambic> <food.beer.from_region> "Vancouver" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Commercial Drive, Vancouver" .
+<Dan_Bylsma> <freebase.valuenotation.is_reviewed> "Gender" .
+<Vancouver> <common.topic.webpage> "m.05gr8lp" .
+<Vancouver> <location.location.containedby> "Lower Mainland" .
+<Vancouver> <common.topic.webpage> "m.0b47dx8" .
+<m.09x5vcr> <common.webpage.topic> "Vancouver" .
+<Marpole> <location.neighborhood.neighborhood_of> "Vancouver" .
+<m.063x27y> <olympics.olympic_city_bid.olympic_games> "2010 Winter Olympics" .
+<Tommy_Sedin> <people.person.gender> "Male" .
+<Vancouver> <common.topic.webpage> "m.09xy_qx" .
+<Vancouver> <location.location.nearby_airports> "Vancouver International Airport" .
+<Central_Division> <ice_hockey.hockey_division.teams> "Dallas Stars" .
+<Climax> <location.location.people_born_here> "Willie Desjardins" .
+<1928_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Ron_Asselstine> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Gord Broseker" .
+<Pierre_Racicot> <base.fight.sports_official.sport> "Ice Hockey" .
+<Men's_Ice_Hockey> <olympics.olympic_event.olympic_games_contested> "2010 Winter Olympics" .
+<Bill_McCreary> <people.person.gender> "Male" .
+<m.0113n9pr> <sports.sports_team_coach_tenure.position> "Assistant Coach" .
+<1952_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Arizona_Coyotes> <sports.sports_team.sport> "Ice Hockey" .
+<Chris_Lee> <base.fight.sports_official.sport> "Ice Hockey" .
+<Ron_Hoggarth> <sports.sports_official.sport> "Ice Hockey" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Fraser Street" .
+<m.03ldss0> <common.webpage.topic> "Vancouver" .
+<Chicago_Blackhawks> <sports.sports_team.sport> "Ice Hockey" .
+<Paul_Devorski> <sports.sports_official.sport> "Ice Hockey" .
+<Team> <rdf-schema#range> "Professional Sports Team" .
+<Vancouver> <common.topic.image> "Vancouver Photo Montage" .
+<Chicago_Blackhawks> <ice_hockey.hockey_team.division> "Central Division" .
+<Ice_Hockey> <common.topic.image> "Good old days of ice hockey" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Mount Pleasant, Vancouver" .
+<m.04sx2t2> <government.government_position_held.district_represented> "Vancouver" .
+<Vancouver_International_Water_Airport> <aviation.airport.serves> "Vancouver" .
+<National_Hockey_League> <base.fight.sports_official_tenure.sports_official> "Ron Finn" .
+<Home_Game> <book.written_work.subjects> "Ice Hockey" .
+<Queen_Elizabeth_Park,_British_Columbia> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Victoria Drive" .
+<Ice_Hockey> <sports.sport.officials> "Marc Joannette" .
+<Futuresport> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Olympic_venue> <freebase.type_hints.included_types> "Topic" .
+<Red_Storey> <base.fight.sports_official.sport> "Ice Hockey" .
+<Vancouver> <government.political_district.representatives> "m.04vyw83" .
+<Vancouver> <travel.travel_destination.accommodation> "Sylvia Hotel" .
+<m.04sx2r1> <government.government_position_held.district_represented> "Vancouver" .
+<1948_Winter_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04sx2wk" .
+<Canucks_Sports_&_Entertainment> <business.business_operation.industry> "Sports" .
+<Mystery,_Alaska> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Vancouver> <travel.travel_destination.climate> "m.059f2mr" .
+<Dan_Bylsma> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Public_Storage_Canada> <common.topic.notable_types> "Business Operation" .
+<Bill_Stewart> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.0774ylr> <base.events.event_feed.type_of_event> "Ice Hockey" .
+<Vancouver> <common.topic.webpage> "m.09wwb7z" .
+<Lee_Davidson> <people.person.profession> "Ice hockey player" .
+<Vancouver_Nats> <sports.sports_team.sport> "Ice Hockey" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1972 Winter Olympics" .
+<Pacific_Division> <common.topic.article> "m.0c7bbp" .
+<Vancouver> <organization.organization_scope.organizations_with_this_scope> "Proto3000" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<Henrik_Sedin> <freebase.valuenotation.is_reviewed> "Profession" .
+<Vancouver> <location.location.adjoin_s> "m.02z_xnl" .
+<Vancouver> <travel.travel_destination.local_transportation> "Aquabus Ferries" .
+<Ice_Hockey> <sports.sport.officials> "Cooper Smeaton" .
+<Bobby_Hewitson> <base.fight.sports_official.sport> "Ice Hockey" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "Nashville Predators" .
+<Odie_Cleghorn> <ice_hockey.hockey_player.hockey_position> "Right wing" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Killarney, Vancouver" .
+<m.04sx2wk> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Daniel_Podgaichenko> <freebase.valuenotation.has_value> "Height" .
+<Vancouver> <common.topic.webpage> "m.0b47pkk" .
+<Ice_Hockey> <sports.sport.officials> "Mickey Ion" .
+<m.0b47pkk> <common.webpage.topic> "Vancouver" .
+<Stanley_Park> <travel.tourist_attraction.near_travel_destination> "Vancouver" .
+<m.010yzbv3> <sports.sports_team_coach_tenure.coach> "Willie Desjardins" .
+<The_New_Ice_Age> <book.written_work.subjects> "Ice Hockey" .
+<m.04xg_6k> <architecture.ownership.owner> "Vancouver" .
+<Net_Worth> <film.film.language> "English Language" .
+<Henrik_Sedin> <common.image.appears_in_topic_gallery> "Henrik Sedin" .
+<Ice_Hockey> <sports.sport.officials> "Terry Gregson" .
+<m.02z_yfm> <location.adjoining_relationship.adjoins> "Vancouver" .
+<m.04sx3n4> <government.government_position_held.district_represented> "Vancouver" .
+<Doug_Lidster> <sports.sports_team_coach.teams_coached> "m.0113n9pr" .
+<Vancouver> <travel.travel_destination.accommodation> "Marriott Vancouver Pinnacle Downtown" .
+<Marc_Joannette> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <common.topic.subjects> "Daniel Podgaichenko" .
+<Brad_Meier> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Stephen Walkom" .
+<Home_Game> <book.written_work.subjects> "Sports" .
+<1992_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Gerard_Gallant> <people.person.nationality> "Canada" .
+<Vancouver> <organization.organization_scope.organizations_with_this_scope> "Public Storage Canada" .
+<24_Hours> <book.periodical.language> "English Language" .
+<Gord_Broseker> <sports.sports_official.sport> "Ice Hockey" .
+<Tablet> <book.newspaper.circulation_areas> "Vancouver" .
+<Los_Angeles_Kings> <sports.sports_team.sport> "Ice Hockey" .
+<Rogers_Arena> <business.sponsored_recipient.sponsorship> "m.060c0t_" .
+<Terry_Ewasiuk> <people.person.gender> "Male" .
+<Japantown,_Vancouver> <location.location.containedby> "Vancouver" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL Stanley Cup Champions 2007-2008" .
+<m.02ht_lg> <people.sibling_relationship.sibling> "Henrik Sedin" .
+<Vancouver> <base.musiteca.situation.performers_living_here> "Norine Braun" .
+<Marsh_Ryman> <common.topic.notable_types> "Ice hockey coach" .
+<m.0b4795k> <common.webpage.topic> "Vancouver" .
+<Hockey_Mom> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Vancouver> <common.topic.subject_of> "Circa 1948" .
+<Henrik_Sedin> <common.topic.article> "m.02p5c4" .
+<Vancouver_Canucks> <organization.organization.leadership> "m.010671n8" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "Edmonton Oilers" .
+<Bill_Stewart> <people.person.gender> "Male" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "Ming Pao" .
+<VanDusen_Botanical_Garden> <location.location.containedby> "Vancouver" .
+<m.04sx312> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Arizona_Coyotes> <common.topic.notable_types> "Professional Sports Team" .
+<Cooper_Smeaton> <people.person.gender> "Male" .
+<Super_Ice_Hockey> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<m.04sx3mr> <government.government_position_held.district_represented> "Vancouver" .
+<Trevor_Linden> <people.person.profession> "Ice hockey player" .
+<Slap_Shot_3:_The_Junior_League> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<St._Louis_Blues> <ice_hockey.hockey_team.division> "Central Division" .
+<m.09w5nzv> <common.webpage.topic> "Vancouver" .
+<Marsh_Ryman> <base.fight.sports_official.sport> "Ice Hockey" .
+<Odie_Cleghorn> <people.person.nationality> "Canada" .
+<NHL_All-Access_(2008)> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<NHL_Slapshot> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<Mike_Corbett> <people.person.profession> "Athlete" .
+<m.09kmk0b> <base.ontologies.ontology_instance_mapping.ontology> "OpenCyc" .
+<Kevin_Maguire> <sports.sports_official.sport> "Ice Hockey" .
+<Vancouver> <location.location.adjoin_s> "m.02_321p" .
+<m.04vyw8n> <government.government_position_held.district_represented> "Vancouver" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Shaughnessy, Vancouver" .
+<Bryan_Lewis> <sports.sports_official.sport> "Ice Hockey" .
+<Mascot> <type.type.domain> "Sports" .
+<Dallas_Stars> <ice_hockey.hockey_team.conference> "Western Conference" .
+<m.04vywb_> <government.government_position_held.district_represented> "Vancouver" .
+<Vancouver> <common.topic.webpage> "m.09w996s" .
+<Tooth_Fairy> <film.film.language> "English Language" .
+<Calgary_Flames> <sports.sports_team.sport> "Ice Hockey" .
+<Ice_Hockey> <book.book_subject.works> "Searching for Bobby Orr" .
+<Vancouver> <common.topic.webpage> "m.09w5nzv" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Downtown Vancouver" .
+<Ice_Hockey> <base.onlineadvertising.ad_network_vertical.ad_networks> "Hockey Ad Network" .
+<Ice_Hockey> <book.book_subject.works> "Quest for the Cup" .
+<Dan_O'Halloran> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL: Honor & Courage: Tough Guys of the NHL" .
+<Stephen_Walkom> <people.person.gender> "Male" .
+<Professional_Sports_Team> <common.topic.article> "m.06_rt7r" .
+<m.010f_rds> <freebase.valuenotation.has_no_value> "Sunday open time" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "2014 Winter Olympics" .
+<Black_Cherry_Lambic> <food.beer.from_region> "Vancouver" .
+<Vancouver> <food.beer_country_region.beers_from_here> "Precipitation Pilsner" .
+<Vancouver> <business.employer.employees> "m.04_j5hh" .
+<Professional_Sports_Team> <freebase.type_hints.included_types> "Topic" .
+<Eddie_Livingstone> <people.person.gender> "Male" .
+<Ice_Hockey> <common.topic.webpage> "m.09x5z5y" .
+<Tooth_Fairy> <film.film.country> "Canada" .
+<Canucks_Sports_&_Entertainment> <business.employer.employees> "m.07lfv3d" .
+<Metro_Vancouver> <location.location.contains> "Vancouver" .
+<m.059gh2f> <travel.transportation.travel_destination> "Vancouver" .
+<Professional_Sports_Team> <freebase.type_profile.strict_included_types> "Topic" .
+<Henrik_Sedin> <sports.pro_athlete.sports_played_professionally> "m.0c55w2g" .
+<Vancouver> <travel.travel_destination.how_to_get_here> "m.059gh2f" .
+<m.010f_q6s> <freebase.valuenotation.has_no_value> "Sunday closing time" .
+<Net_Worth> <film.film.country> "Canada" .
+<m.04xgzbn> <architecture.ownership.owner> "Vancouver" .
+<Vancouver_Giants> <sports.sports_team.sport> "Ice Hockey" .
+<Hockey_Mom> <film.film.language> "English Language" .
+<Kitsilano> <location.location.containedby> "Vancouver" .
+<Canucks_Sports_&_Entertainment> <common.topic.notable_for> "g.1258sfbr9" .
+<Marpole> <location.location.time_zones> "Pacific Time Zone" .
+<NHL:_Honor_&_Courage:_Tough_Guys_of_the_NHL> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Bryan_Lewis> <base.fight.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <book.book_subject.works> "Hockey Stars Speak" .
+<Charley_McVeigh> <people.person.nationality> "Canada" .
+<Mike_Rodden> <base.fight.sports_official.sport> "Ice Hockey" .
+<Vancouver_Public_Library> <location.location.containedby> "British Columbia" .
+<Vancouver> <government.political_district.representatives> "m.04sx37z" .
+<Bill_McCreary> <sports.sports_official.sport> "Ice Hockey" .
+<Tom_Kowal> <sports.sports_official.sport> "Ice Hockey" .
+<Mike_Sertich> <people.person.gender> "Male" .
+<Vancouver> <common.topic.notable_for> "g.125bw8_fm" .
+<m.09wxldv> <common.webpage.topic> "Vancouver" .
+<Vancouver> <common.topic.notable_types> "City/Town/Village" .
+<m.010671n8> <freebase.valuenotation.has_no_value> "To" .
+<Dennis_LaRue> <sports.sports_official.sport> "Ice Hockey" .
+<Sylvio_Mantha> <sports.sports_official.sport> "Ice Hockey" .
+<m.04sx2wt> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Futuresport> <film.film.language> "English Language" .
+<Ice_Hockey> <sports.sport.team_coaches> "André Tourigny" .
+<Ice_Hockey> <sports.sport.officials> "Greg Kimmerly" .
+<Vancouver> <location.location.adjoin_s> "m.046csxh" .
+<Ice_Hockey> <common.topic.article> "m.03tn1" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Chinatown" .
+<Vancouver_International_Airport> <aviation.airport.serves> "Vancouver" .
+<m.02z_yg7> <location.adjoining_relationship.adjoins> "Vancouver" .
+<Left_wing> <sports.sports_position.sport> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.team_coaches> "Peter Horachek" .
+<1920_Summer_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<m.010nvcrq> <base.schemastaging.sports_team_manager_tenure.team> "Vancouver Canucks" .
+<Gerard_Gallant> <ice_hockey.hockey_player.shoots> "Left-handed" .
+<m.04sx3b7> <government.government_position_held.governmental_body> "Vancouver Park Board" .
+<Andrew_Allen> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL History of the Philadelphia Flyers" .
+<Canucks_Sports_&_Entertainment> <organization.organization.headquarters> "m.04lq0g9" .
+<Ice_Hockey> <sports.sport.positions> "Front wing" .
+<Vancouver> <government.political_district.representatives> "m.04vywd9" .
+<Sports> <freebase.domain_profile.equivalent_topic> "Sports" .
+<Scott_Carter> <people.person.nationality> "Canada" .
+<Men's_Ice_Hockey> <olympics.olympic_event.olympic_games_contested> "1994 Winter Olympics" .
+<Vancouver_Canucks> <common.topic.article> "m.0jnp5" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Railtown" .
+<Terry_Gregson> <base.fight.sports_official.sport> "Ice Hockey" .
+<Professional_Sports_Team> <freebase.type_profile.kind> "Definition" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Sticks and Stones" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1924 Winter Olympics" .
+<One_Hundred_Years_of_Hockey> <book.written_work.subjects> "Ice Hockey" .
+<Vancouver_Mounties> <common.topic.notable_types> "Sports Team" .
+<The_Rhino_Brothers> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Mike_Rodden> <people.person.gender> "Male" .
+<Don_Koharski> <base.fight.sports_official.sport> "Ice Hockey" .
+<Vancouver> <location.citytown.postal_codes> "V6C 1H2" .
+<Ice_Hockey> <common.topic.webpage> "m.0b48zpz" .
+<Vancouver> <food.beer_country_region.beers_from_here> "Raspberry Lambic" .
+<Pierre_Champoux> <sports.sports_official.sport> "Ice Hockey" .
+<Trevor_Linden> <people.person.nationality> "Canada" .
+<m.04sx2wk> <government.government_position_held.district_represented> "Vancouver" .
+<m.010f_q6s> <freebase.valuenotation.has_no_value> "Saturday closing time" .
+<Public_Storage_Canada> <organization.organization.geographic_scope> "Canada" .
+<Motor_City_muscle> <book.written_work.subjects> "Ice Hockey" .
+<Randy_Mitton> <base.fight.sports_official.sport> "Ice Hockey" .
+<Ron_Asselstine> <people.person.gender> "Male" .
+<m.059kv84> <common.webpage.category> "Topic Webpage" .
+<Western_Conference> <common.topic.notable_types> "Ice hockey conference" .
+<Ice_Hockey> <sports.sport.team_coaches> "Terry Ewasiuk" .
+<m.04sx2rm> <government.government_position_held.district_represented> "Vancouver" .
+<Ice_hockey_accident> <base.disaster2.type_of_injury_causing_event.caused_by_activity> "Ice Hockey" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04sx2x1" .
+<Vancouver> <base.biblioness.bibs_location.state> "British Columbia" .
+<Vancouver> <travel.travel_destination.how_to_get_here> "m.059kw4_" .
+<m.09dvdwg> <olympics.olympic_athlete_affiliation.sport> "Ice Hockey" .
+<Lower_Mainland> <location.location.containedby> "Canada" .
+<Owner(s)> <rdf-schema#domain> "Professional Sports Team" .
+<Chaucer_Elliott> <people.person.gender> "Male" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "2010 Winter Olympics" .
+<m.010f_q6s> <base.schemastaging.phone_sandbox.service_location> "Canada" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "2007 NCAA Division I Men's Ice Hockey National Championship: Michigan State vs. Boston College" .
+<Vancouver> <travel.travel_destination.climate> "m.059f2m7" .
+<Quest_for_the_Cup> <book.written_work.subjects> "Sports" .
+<Vancouver> <base.biblioness.bibs_location.country> "Canada" .
+<Vancouver> <travel.travel_destination.accommodation> "St. Regis Hotel Vancouver" .
+<Rogers_Arena> <location.location.events> "Metallica: World Magnetic Tour, Vancouver, BC Concert" .
+<Vancouver> <organization.organization_scope.organizations_with_this_scope> "Vancouver Drupal Users Group" .
+<m.04sx30k> <government.government_position_held.district_represented> "Vancouver" .
+<m.09wcjj0> <common.webpage.topic> "Vancouver" .
+<Lord_Stanley's_Cup:_Hockey's_Ultimate_Prize> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<m.0wz1_0g> <sports.team_venue_relationship.team> "Vancouver Voodoo" .
+<m.04sx2x1> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Power_Play> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Dan_Bylsma> <people.person.profession> "Coach" .
+<Canucks_Sports_&_Entertainment> <common.topic.notable_types> "Business Operation" .
+<Stephen_Walkom> <people.person.nationality> "Canada" .
+<Bobby_Hewitson> <people.person.gender> "Male" .
+<m.0w1yrsm> <sports.sports_team_coach_tenure.team> "Vancouver Canucks" .
+<Vancouver> <government.political_district.representatives> "m.04sx3nk" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04sx2rm" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Yaletown" .
+<m.059f2lr> <travel.travel_destination_monthly_climate.travel_destination> "Vancouver" .
+<Proto3000> <organization.organization.geographic_scope> "Vancouver" .
+<m.09kln8c> <base.ontologies.ontology_instance_mapping.freebase_topic> "Vancouver" .
+<2002_Winter_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Quilchena" .
+<Vancouver_Maritime_Museum> <travel.tourist_attraction.near_travel_destination> "Vancouver" .
+<Delta_landfill> <base.infrastructure.landfill.serves_location> "Vancouver" .
+<West_Point_Grey> <location.location.containedby> "Vancouver" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "VanDusen Botanical Garden" .
+<Rogers_Arena> <sports.sports_facility.teams> "Vancouver Canucks" .
+<Canucks_Sports_&_Entertainment> <organization.organization.previous_names> "m.04lq0h7" .
+<It's_Our_Game> <film.film.country> "Canada" .
+<Kevin_Maguire> <people.person.gender> "Male" .
+<2010_Winter_Olympics> <olympics.olympic_games.events> "Men's Ice Hockey" .
+<m.09dvdwg> <olympics.olympic_athlete_affiliation.olympics> "2006 Winter Olympics" .
+<m.04vywbf> <government.government_position_held.district_represented> "Vancouver" .
+<Vancouver> <government.political_district.representatives> "m.04sx2wt" .
+<Stéphane_Provost> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.04sx38c> <government.government_position_held.district_represented> "Vancouver" .
+<Olympic_athlete> <freebase.type_hints.included_types> "Topic" .
+<Vancouver> <location.location.nearby_airports> "Vancouver International Water Airport" .
+<Vancouver> <government.political_district.representatives> "m.04sx309" .
+<Granville_Island> <location.location.time_zones> "Pacific Time Zone" .
+<Vancouver> <government.governmental_jurisdiction.agencies> "Vancouver Public Library" .
+<National_Hockey_League> <film.film_subject.films> "Don Cherry's Hard-Hitting Hockey 3" .
+<Vancouver> <location.statistical_region.population> "m.0kcl46q" .
+<Tora_Sedin> <people.person.children> "Henrik Sedin" .
+<Rogers_Arena> <location.location.events> "Ice hockey at the 2010 Winter Olympics" .
+<2014_Winter_Olympics> <olympics.olympic_games.participating_countries> "Canada" .
+<Greater_Vancouver> <location.location.time_zones> "Pacific Time Zone" .
+<Ice_Hockey> <sports.sport.positions> "Forward" .
+<Trevor_Linden> <people.person.gender> "Male" .
+<Yaletown> <location.location.containedby> "Vancouver" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "London Knights" .
+<Vancouver> <common.topic.webpage> "m.09ww8yl" .
+<Don_Van_Massenhoven> <sports.sports_official.sport> "Ice Hockey" .
+<m.06v106f> <architecture.ownership.structure> "Rogers Arena" .
+<Ian_Walsh> <base.fight.sports_official.sport> "Ice Hockey" .
+<Chicago_Blackhawks> <common.topic.notable_types> "Professional Sports Team" .
+<Climax> <location.location.containedby> "Canada" .
+<m.02yxjx9> <location.adjoining_relationship.adjoins> "Vancouver" .
+<NHL_Stanley_Cup_2003> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<NHL_2K11> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<Vancouver_Canucks> <sports.sports_team.location> "Vancouver" .
+<Ice_Hockey> <sports.sport.officials> "Leon Stickle" .
+<Ice_Hockey> <sports.sport.officials> "Sylvio Mantha" .
+<The_Circus_Tour_Vancouver,_Canada_Concert> <time.event.locations> "Rogers Arena" .
+<Tom_Pokel> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Minnesota_Wild> <ice_hockey.hockey_team.division> "Central Division" .
+<Vancouver> <travel.travel_destination.accommodation> "Budget Inn Patricia Hotel" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "People's Voice" .
+<Futuresport> <film.film.country> "Canada" .
+<New_England_Hockey:_A_Life_at_the_Rink> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Tom_Pokel> <people.person.gender> "Male" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "2010 Winter Olympics" .
+<Queen_Elizabeth_Park,_British_Columbia> <base.vancouver.location_in_neighborhood.neighborhood> "Riley Park–Little Mountain" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Power Play" .
+<Daniel_Podgaichenko> <people.person.gender> "Male" .
+<Randy_Mitton> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Official 2002 Stanley Cup Championship: Detroit Red Wings" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "1998 Olympic Hockey Highlights" .
+<Rogers_Arena> <sports.sports_facility.home_venue_for> "m.0wz1_0p" .
+<m.010f_rds> <freebase.valuenotation.has_no_value> "Saturday open time" .
+<Vancouver> <government.political_district.representatives> "m.04sx30t" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Kerrisdale" .
+<Barrie_Christian_Hockey_League> <sports.sports_league.sport> "Ice Hockey" .
+<Property_management> <business.industry.companies> "Canucks Sports & Entertainment" .
+<Colorado_Avalanche> <ice_hockey.hockey_team.coach> "André Tourigny" .
+<Scott_Carter> <people.person.gender> "Male" .
+<m.010nvcrq> <freebase.valuenotation.has_no_value> "To" .
+<Mike_Sertich> <people.person.profession> "Coach" .
+<m.04sx37z> <government.government_position_held.governmental_body> "Vancouver Park Board" .
+<Ron_Wicks> <people.person.gender> "Male" .
+<Gerard_Gallant> <ice_hockey.hockey_player.hockey_position> "Left wing" .
+<Mike_Sertich> <people.person.profession> "Ice hockey player" .
+<Ice_Hockey> <sports.sport.officials> "Don Van Massenhoven" .
+<Stéphane_Provost> <people.person.place_of_birth> "Canada" .
+<Ice_Hockey> <sports.sport.officials> "Paul Loicq" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "The Georgia Straight" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "Tablet" .
+<NHL> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<m.09ww8yl> <common.webpage.topic> "Vancouver" .
+<John_D'Amico> <sports.sports_official.sport> "Ice Hockey" .
+<Black_Plague_Stout> <food.beer.from_region> "Canada" .
+<Hockey_Ad_Network> <base.onlineadvertising.ad_network.verticals> "Ice Hockey" .
+<Ice_hockey_player> <people.profession.specialization_of> "Athlete" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Slap Shot 3: The Junior League" .
+<Wayne_Bonney> <people.person.gender> "Male" .
+<m.02xky5f> <location.adjoining_relationship.adjoins> "Vancouver" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Hockey Night" .
+<The_Mighty_Ducks> <film.film.sequel> "D2: The Mighty Ducks" .
+<The_Jewish_Tribune> <book.newspaper.circulation_areas> "Vancouver" .
+<Jim_Paek> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Queen_Elizabeth_Park,_British_Columbia> <location.location.time_zones> "Pacific Time Zone" .
+<The_Game> <book.written_work.subjects> "Sports" .
+<NHL_Stanley_Cup_Champions_2003_-_2004:_Tampa_Bay_Lightning> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Andy_Van_Hellemond> <base.fight.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "It's Our Game" .
+<The_Jewish_Tribune> <book.periodical.language> "English Language" .
+<Henrik_Sedin> <olympics.olympic_athlete.country> "m.09dvdwg" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04sx2wt" .
+<Valter_Sedin> <people.person.parents> "Henrik Sedin" .
+<Rogers_Arena> <sports.sports_facility.home_venue_for> "m.0wz1_0g" .
+<Ernie_Leacock> <sports.sports_official.sport> "Ice Hockey" .
+<Odie_Cleghorn> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.04vyv_z> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "The Rhino Brothers" .
+<Ice_Hockey> <sports.sport.officials> "Marcus Vinnerborg" .
+<John_McCaw,_Jr.> <organization.organization_founder.organizations_founded> "Canucks Sports & Entertainment" .
+<m.063x27y> <olympics.olympic_city_bid.bidding_city> "Vancouver" .
+<Vancouver_Canucks> <common.topic.notable_for> "g.125h3vf1s" .
+<Ice_Hockey> <cvg.cvg_genre.games> "NHL Eastside Hockey Manager 2005" .
+<Vancouver> <sports.sports_team_location.teams> "Vancouver Mounties" .
+<m.04sx3c1> <government.government_position_held.governmental_body> "Vancouver Park Board" .
+<Mickey_Ion> <people.person.nationality> "Canada" .
+<Rogers_Arena> <architecture.structure.owner> "m.06v106f" .
+<Doug_Lidster> <people.person.gender> "Male" .
+<m.0w5kc2r> <education.education.student> "Willie Desjardins" .
+<Vancouver> <food.beer_country_region.beers_from_here> "Black Plague Stout" .
+<m.059f2l_> <travel.travel_destination_monthly_climate.travel_destination> "Vancouver" .
+<Night_Undone> <book.written_work.subjects> "Ice Hockey" .
+<Women's_Ice_Hockey> <olympics.olympic_event.olympic_games_contested> "2014 Winter Olympics" .
+<Lower_Mainland> <location.location.contains> "Metro Vancouver" .
+<Peter_Horachek> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Bruce_Hood> <people.person.gender> "Male" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Japantown, Vancouver" .
+<Black_Cherry_Lambic> <food.beer.from_region> "Canada" .
+<Colorado_Avalanche> <sports.sports_team.sport> "Ice Hockey" .
+<Vancouver> <common.topic.webpage> "m.09yq8h_" .
+<Ice_Hockey> <book.book_subject.works> "Seahawk: Confessions of an Old Hockey Goalie" .
+<Granville_Island_Honey_Lager> <food.beer.from_region> "Vancouver" .
+<m.04sx30t> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Twice_as_Nice:_Wisconsin's_2006_Men's_and_Women's_Hockey_National_Championships> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<m.0113n9pr> <sports.sports_team_coach_tenure.coach> "Doug Lidster" .
+<1998_Winter_Olympics> <olympics.olympic_games.events> "Men's Ice Hockey" .
+<Jean_Morin> <base.fight.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Randy Mitton" .
+<Charley_McVeigh> <ice_hockey.hockey_player.hockey_position> "Centerman" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Hockey Mom" .
+<Mark_Faucette> <base.fight.sports_official.sport> "Ice Hockey" .
+<Bill_Stewart> <sports.sports_official.sport> "Ice Hockey" .
+<Los_Angeles_Kings> <common.topic.notable_types> "Professional Sports Team" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1928 Winter Olympics" .
+<Rogers_Arena> <sports.sports_facility.teams> "Vancouver Grizzlies" .
+<Draft_Picks> <type.property.master_property> "Team" .
+<Vancouver> <location.location.adjoin_s> "m.02z_xd6" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "The Republic" .
+<Cooper_Smeaton> <sports.sports_official.sport> "Ice Hockey" .
+<Dallas_Stars> <common.topic.notable_types> "Professional Sports Team" .
+<Alain_Vigneault> <ice_hockey.hockey_player.hockey_position> "Defenseman" .
+<Lee_Davidson> <people.person.profession> "Athlete" .
+<Vancouver_Royals> <sports.sports_team.location> "Vancouver" .
+<Alain_Vigneault> <people.person.gender> "Male" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Kensington–Cedar Cottage" .
+<m.09wjs6l> <common.webpage.topic> "Vancouver" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04vyv_z" .
+<Vancouver> <common.topic.webpage> "m.0b4795k" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Sojourn" .
+<2010_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Vancouver> <base.wikipedia_infobox.settlement.area_code> "Area code 604" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Victoria–Fraserview" .
+<Vancouver> <government.political_district.representatives> "m.04sx2x1" .
+<m.010f_rds> <base.schemastaging.phone_sandbox.caller_category> "Consumer Service" .
+<Ice_Hockey> <common.topic.subject_of> "2014 IIHF World Championship" .
+<2010_Winter_Olympics> <olympics.olympic_games.competitions> "Ice hockey at the 2010 Winter Olympics – Men's tournament" .
+<Scotty_Morrison> <people.person.place_of_birth> "Canada" .
+<Chicago_Blackhawks> <ice_hockey.hockey_team.conference> "Western Conference" .
+<Vancouver> <location.statistical_region.population> "g.1jmcbfxsz" .
+<m.04vyw7n> <government.government_position_held.governmental_body> "Vancouver Park Board" .
+<m.0vbljnd> <sports.sports_team_coach_tenure.coach> "Alain Vigneault" .
+<Ice_hockey_at_the_2010_Winter_Olympics_–_Women's_tournament> <olympics.olympic_event_competition.olympic_games_contested> "2010 Winter Olympics" .
+<Vancouver> <common.topic.webpage> "m.0b46r1j" .
+<Greater_Vancouver> <location.location.contains> "Vancouver" .
+<Ice_Hockey> <cvg.cvg_genre.games> "NHL 2K11" .
+<Ice_Hockey> <cvg.cvg_genre.games> "Brett Hull Hockey '95" .
+<Mick_McGeough> <base.fight.sports_official.sport> "Ice Hockey" .
+<Queen_Elizabeth_Park,_British_Columbia> <travel.tourist_attraction.near_travel_destination> "Vancouver" .
+<Alex_Romeril> <people.person.gender> "Male" .
+<m.059kw4_> <travel.transportation.travel_destination> "Vancouver" .
+<Vancouver_International_Airport> <travel.transport_terminus.travel_destinations_served> "m.059kw4_" .
+<m.010nvcrq> <base.schemastaging.sports_team_manager_tenure.manager> "Jim Benning" .
+<m.010671n8> <organization.leadership.role> "President" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Granville Entertainment District" .
+<Downtown_Eastside> <location.neighborhood.neighborhood_of> "Vancouver" .
+<m.04dwjb3> <olympics.olympic_city_bid.bidding_city> "Vancouver" .
+<Jim_Paek> <people.person.nationality> "Canada" .
+<1994_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Sasquatch> <fictional_universe.fictional_character.gender> "Male" .
+<m.04sx38n> <government.government_position_held.governmental_body> "Vancouver Park Board" .
+<Dan_Bylsma> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Hockey_Night> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "West Point Grey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL: Mark Messier: Leader, Champion and Legend" .
+<2010_Winter_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Vancouver_Public_Library> <government.government_agency.jurisdiction> "Vancouver" .
+<The_Blue_and_White_Book_1997> <book.written_work.subjects> "Ice Hockey" .
+<Vancouver> <location.location.containedby> "British Columbia" .
+<Ice_Hockey> <sports.sport.officials> "Odie Cleghorn" .
+<Museum_of_Vancouver> <location.location.containedby> "British Columbia" .
+<Ice_Hockey> <sports.sport.positions> "Goaltender" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "D3: The Mighty Ducks" .
+<m.09kln8c> <base.ontologies.ontology_instance_mapping.ontology> "OpenCyc" .
+<Olympic_venue> <freebase.type_profile.strict_included_types> "Topic" .
+<m.04swgp2> <location.mailing_address.citytown> "Vancouver" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Dr. Sun Yat-Sen Classical Chinese Garden" .
+<Miracle_on_Ice> <film.film.language> "English Language" .
+<Rogers_Arena> <location.location.events> "2011 Stanley Cup Finals" .
+<m.010f_q6s> <base.schemastaging.phone_open_times.time_zone> "Pacific Time Zone" .
+<Franz_Baader> <sports.sports_official.sport> "Ice Hockey" .
+<Vancouver_Canucks> <ice_hockey.hockey_team.division> "Pacific Division" .
+<Vancouver> <sports.sports_team_location.teams> "Vancouver Voodoo" .
+<Mickey_Ion> <base.fight.sports_official.sport> "Ice Hockey" .
+<1998_Winter_Olympics> <olympics.olympic_games.events> "Women's Ice Hockey" .
+<m.0c55w2g> <sports.pro_sports_played.athlete> "Henrik Sedin" .
+<Ted_Nolan> <people.person.profession> "Coach" .
+<Paul_Devorski> <people.person.gender> "Male" .
+<Ice_Hockey> <sports.sport.officials> "Pat Dapuzzo" .
+<Kerry_Fraser> <people.person.nationality> "Canada" .
+<Vancouver> <travel.travel_destination.accommodation> "Opus Hotel" .
+<Empire_Landmark_Hotel> <location.location.containedby> "Vancouver" .
+<m.04sx34_> <government.government_position_held.district_represented> "Vancouver" .
+<m.059f2mr> <travel.travel_destination_monthly_climate.travel_destination> "Vancouver" .
+<m.07lfv3d> <business.employment_tenure.company> "Canucks Sports & Entertainment" .
+<Sports> <type.domain.types> "Sport" .
+<m.04sx34_> <government.government_position_held.governmental_body> "Vancouver Park Board" .
+<Sports> <type.domain.types> "Mascot" .
+<Canada> <olympics.olympic_participating_country.olympics_participated_in> "2002 Winter Olympics" .
+<Dan_Bylsma> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<British_Columbia> <location.location.time_zones> "Pacific Time Zone" .
+<m.010f_rds> <freebase.valuenotation.has_no_value> "Sunday closing time" .
+<Vancouver> <location.statistical_region.population> "g.1jmcbfm22" .
+<False_Creek> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Mike_Gilligan> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Vancouver> <travel.travel_destination.how_to_get_here> "m.04xh7dj" .
+<m.02h5kvd> <sports.sports_team_roster.player> "Henrik Sedin" .
+<Metro_Vancouver> <location.location.time_zones> "Pacific Time Zone" .
+<Vancouver> <base.popstra.location.vacationers> "m.064b4w1" .
+<HenrikSedin2009> <common.image.appears_in_topic_gallery> "Henrik Sedin" .
+<British_Columbia> <location.administrative_division.first_level_division_of> "Canada" .
+<Ice_Hockey> <sports.sport.team_coaches> "Greg Walters" .
+<Fred_Waghorne> <sports.sports_official.sport> "Ice Hockey" .
+<m.0wlvc50> <people.place_lived.person> "Henrik Sedin" .
+<Vancouver_2010:_Winter_Olympics_Highlights> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Kerry_Fraser> <people.person.gender> "Male" .
+<m.04sx2rm> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Jim_Benning> <people.person.profession> "Ice hockey player" .
+<George_Vancouver> <people.person.gender> "Male" .
+<Arbutus_Ridge> <location.location.containedby> "British Columbia" .
+<Denis_Morel> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.04vyw73> <government.government_position_held.governmental_body> "Vancouver Park Board" .
+<NHL:_Vintage_Collection:_Greatest_Goals> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Tom_Kowal> <people.person.gender> "Male" .
+<Men's_Ice_Hockey> <olympics.olympic_event.olympic_games_contested> "2014 Winter Olympics" .
+<Ice_Hockey> <cvg.cvg_genre.games> "NHL Slapshot" .
+<Hurricane_I.P.A.> <food.beer.from_region> "Canada" .
+<André_Tourigny> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Vancouver> <travel.travel_destination.how_to_get_here> "m.04xh7cx" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1976 Winter Olympics" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "Vancouver Canucks" .
+<Teams_Owned> <type.property.expected_type> "Professional Sports Team" .
+<Vancouver> <common.topic.webpage> "m.0b6rzh0" .
+<Ted_Nolan> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Vancouver_City_Council> <government.governmental_body.jurisdiction> "Vancouver" .
+<1984_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Ice_Hockey> <cvg.computer_game_subject.games> "Ice Hockey" .
+<Valter_Sedin> <people.person.gender> "Male" .
+<Charley_McVeigh> <people.person.gender> "Male" .
+<Kevin_Maguire> <people.person.nationality> "Canada" .
+<Ice_Hockey> <sports.sport.officials> "Mike Leggo" .
+<m.0wz1_07> <sports.team_venue_relationship.team> "Vancouver Canucks" .
+<Vancouver_Canucks> <sports.sports_team.coaches> "m.0113n9pr" .
+<m.04sx38c> <government.government_position_held.governmental_body> "Vancouver Park Board" .
+<Vancouver> <common.topic.webpage> "m.09wx9rl" .
+<Ice_Hockey> <sports.sport.officials> "Ernie Leacock" .
+<Vancouver> <fictional_universe.fictional_setting.fictional_characters_born_here> "Robin Scherbatsky" .
+<Ultimate_Bad_Boys> <book.written_work.subjects> "Sports" .
+<Colorado_Avalanche> <common.topic.notable_types> "Professional Sports Team" .
+<Quest_for_the_Cup> <book.written_work.subjects> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Ron Asselstine" .
+<Cooper_Smeaton> <base.fight.sports_official.sport> "Ice Hockey" .
+<Canucks_Sports_&_Entertainment> <business.employer.employees> "m.07lfv36" .
+<Ice_Hockey> <sports.sport.officials> "Alex Romeril" .
+<Tom_Pokel> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Vancouver> <location.location.adjoin_s> "m.02_322r" .
+<Ice_Hockey> <sports.sport.team_coaches> "Craig Bonner" .
+<Matt_Pavelich> <base.fight.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Chaucer Elliott" .
+<Paul_Loicq> <people.person.gender> "Male" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Net Worth" .
+<The_Chiefs> <film.film.language> "English Language" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "Dallas Stars" .
+<Vancouver> <travel.travel_destination.accommodation> "Century Plaza Hotel Vancouver" .
+<Gastown> <location.location.time_zones> "Pacific Time Zone" .
+<Vancouver> <government.political_district.representatives> "m.04vywcn" .
+<Jean_Morin> <people.person.gender> "Male" .
+<Ice_Hockey> <cvg.cvg_genre.games> "Ice Hockey" .
+<Public_Storage_Canada> <organization.organization.geographic_scope> "Vancouver" .
+<The_Mighty_Ducks> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Vancouver_Canucks> <ice_hockey.hockey_team.conference> "Western Conference" .
+<m.0b48zpz> <common.webpage.topic> "Ice Hockey" .
+<m.0vbljnd> <sports.sports_team_coach_tenure.position> "Head coach" .
+<Terry_Gregson> <people.person.gender> "Male" .
+<Vancouver> <government.political_district.representatives> "m.04vywbf" .
+<Ice_Hockey> <cvg.cvg_genre.games> "Super Ice Hockey" .
+<Starvation_Lake:_A_Mystery> <book.written_work.subjects> "Ice Hockey" .
+<Ice_Hockey> <cvg.computer_game_subject.games> "Mario & Sonic at the Olympic Winter Games" .
+<Ice_Hockey> <sports.sport.officials> "Scotty Morrison" .
+<Brad_Watson> <sports.sports_official.sport> "Ice Hockey" .
+<Tom_Pokel> <ice_hockey.hockey_player.hockey_position> "Defenseman" .
+<Ray_Scapinello> <people.person.nationality> "Canada" .
+<Vancouver> <government.political_district.representatives> "m.04vyw93" .
+<Greg_Devorski> <people.person.gender> "Male" .
+<2010_Winter_Olympics> <cvg.computer_game_subject.games> "Mario & Sonic at the Olympic Winter Games" .
+<1980_Winter_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Ice_Hockey> <sports.sport.officials> "Don Koharski" .
+<2002_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<m.010yzbv3> <freebase.valuenotation.has_no_value> "To" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Score: A Hockey Musical" .
+<Hockey_Chronicles> <book.written_work.subjects> "Sports" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Oakridge, Vancouver" .
+<Leon_Stickle> <people.person.gender> "Male" .
+<Rob_Shick> <base.fight.sports_official.sport> "Ice Hockey" .
+<Granville_Island> <location.location.containedby> "Vancouver" .
+<Daniel_Podgaichenko> <common.topic.subject_of> "Ice Hockey" .
+<Rob_Shick> <sports.sports_official.sport> "Ice Hockey" .
+<Proto3000> <organization.organization.geographic_scope> "Canada" .
+<Rogers_Arena> <location.location.events> "On With The Show Tour" .
+<Bruce_Hood> <sports.sports_official.sport> "Ice Hockey" .
+<Peter_Horachek> <people.person.nationality> "Canada" .
+<Sidney_Crosby:_On_the_Ice_and_Beyond> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Henrik_Sedin> <common.topic.notable_types> "Olympic athlete" .
+<Dan_O'Halloran> <base.fight.sports_official.sport> "Ice Hockey" .
+<Vancouver> <common.topic.webpage> "m.09wcjj0" .
+<m.04vyw73> <government.government_position_held.district_represented> "Vancouver" .
+<Dave_Smith> <ice_hockey.hockey_player.shoots> "Left-handed" .
+<Jay_Sharrers> <base.fight.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <book.book_subject.works> "The Game of Our Lives" .
+<Vancouver> <travel.travel_destination.accommodation> "The Fairmont Waterfront" .
+<Barrie_Christian_Hockey_League> <organization.organization.sectors> "Ice Hockey" .
+<Vancouver> <location.statistical_region.population> "m.0kcl462" .
+<Doug_Lidster> <people.person.nationality> "Canada" .
+<Dan_Bylsma> <common.topic.notable_types> "Ice hockey coach" .
+<Ron_Finn> <people.person.gender> "Male" .
+<m.0b495h4> <common.webpage.topic> "Ice Hockey" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "1992 Winter Olympics" .
+<Vancouver> <organization.organization_scope.organizations_with_this_scope> "Dunowen Properties" .
+<Vancouver> <periodicals.newspaper_circulation_area.newspapers> "The Vancouver Sun" .
+<Playland> <location.location.containedby> "Vancouver" .
+<m.04xh7d8> <travel.transportation.travel_destination> "Vancouver" .
+<Ice_Hockey> <sports.sport.team_coaches> "George Hardy" .
+<Vancouver> <food.beer_country_region.beers_from_here> "Hurricane I.P.A." .
+<Sylvio_Mantha> <people.person.nationality> "Canada" .
+<Ice_Hockey> <sports.sport.officials> "Eddie Livingstone" .
+<Mike_Corbett> <common.topic.notable_types> "Ice hockey coach" .
+<Mystery,_Alaska> <film.film.country> "Canada" .
+<Vancouver> <location.statistical_region.population> "m.0kcl45y" .
+<I_Am…_Tour,_Vancouver,_BC_Concert> <time.event.locations> "Rogers Arena" .
+<m.02z_wxt> <common.webpage.topic> "Vancouver" .
+<Henrik_Sedin> <people.person.sibling_s> "m.0_hlrzd" .
+<Dan_Marouelli> <people.person.gender> "Male" .
+<m.010yzbv3> <sports.sports_team_coach_tenure.team> "Vancouver Canucks" .
+<Vancouver_Canucks> <ice_hockey.hockey_team.coach> "Willie Desjardins" .
+<Hockey_puck> <sports.sports_equipment.sport_used_for> "Ice Hockey" .
+<1932_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Ice_Hockey> <organization.organization_sector.organizations_in_this_sector> "Barrie Christian Hockey League" .
+<The_Puck_Hogs> <film.film.country> "Canada" .
+<Central_Division> <common.topic.notable_types> "Ice hockey division" .
+<The_Chiefs> <film.film.country> "Canada" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "1948 Winter Olympics" .
+<m.04sx301> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Calgary_Flames> <ice_hockey.hockey_team.conference> "Western Conference" .
+<Henrik_Sedin> <freebase.valuenotation.is_reviewed> "Height" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Coal Harbour" .
+<Central_Division> <ice_hockey.hockey_division.teams> "Winnipeg Jets" .
+<Sports_Team> <freebase.type_hints.included_types> "Topic" .
+<Vancouver> <location.location.adjoin_s> "m.02z_xdz" .
+<Paul_Loicq> <common.topic.notable_types> "Olympic athlete" .
+<False_Creek> <location.location.containedby> "Vancouver" .
+<Swede_Knox> <base.fight.sports_official.sport> "Ice Hockey" .
+<Willie_Desjardins> <people.person.place_of_birth> "Climax" .
+<m.04sx3jd> <government.government_position_held.district_represented> "Vancouver" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Mystery, Alaska" .
+<George_Hardy> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Frank_Udvari> <sports.sports_official.sport> "Ice Hockey" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04sx309" .
+<Scotty_Morrison> <sports.sports_official.sport> "Ice Hockey" .
+<Gerard_Gallant> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Henrik_Sedin> <common.topic.image> "Henrik Sedin2" .
+<Delta_landfill> <location.location.containedby> "British Columbia" .
+<Marc_Joannette> <base.fight.sports_official.sport> "Ice Hockey" .
+<Downtown_Eastside> <location.location.time_zones> "Pacific Time Zone" .
+<Canadian_Rockies> <location.location.containedby> "British Columbia" .
+<Ice_Hockey> <sports.sport.related_equipment> "Hockey stick" .
+<Mario_&_Sonic_at_the_Olympic_Winter_Games> <fictional_universe.work_of_fiction.setting> "Vancouver" .
+<University_Golf_Club> <location.location.containedby> "British Columbia" .
+<Andrew_Allen> <people.person.profession> "Ice hockey player" .
+<m.06v7p_h> <olympics.olympic_medal_honor.country> "Sweden" .
+<George_Hardy> <people.person.nationality> "Canada" .
+<Ice_Hockey> <sports.sport.officials> "Brad Watson" .
+<m.02z_xd6> <location.adjoining_relationship.adjoins> "Vancouver" .
+<m.06v12gr> <architecture.ownership.owner> "Vancouver" .
+<Hockey_Night> <film.film.country> "Canada" .
+<Canucks_Sports_&_Entertainment> <business.business_operation.industry> "Property management" .
+<Rogers_Arena> <sports.sports_facility.home_venue_for> "m.0wz1_07" .
+<Ice_Hockey> <sports.sport.officials> "Bryan Lewis" .
+<Shooting_stars> <book.written_work.subjects> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Stéphane Provost" .
+<Miracle> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Valter_Sedin> <people.person.place_of_birth> "Vancouver" .
+<Vancouver_City_Council> <government.governmental_body.members> "m.04sx30k" .
+<Ice_Hockey> <sports.sport.team_coaches> "Mike Gilligan" .
+<Tooth_Fairy> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<m.04vyw8n> <government.government_position_held.governmental_body> "Vancouver Park Board" .
+<Maurice_Richard> <film.film.country> "Canada" .
+<Yaletown> <location.location.time_zones> "Pacific Time Zone" .
+<Vancouver> <travel.travel_destination.local_transportation> "False Creek Ferries" .
+<Rogers_Arena> <location.location.events> "I Am… Tour, Vancouver, BC Concert" .
+<Mickey_Ion> <sports.sports_official.sport> "Ice Hockey" .
+<Ray_Scapinello> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Bill McCreary" .
+<Ice_Hockey> <cvg.cvg_genre.games> "NHL 2K10" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Stanley Cup 2006-2007 Champions" .
+<m.0422fbt> <common.webpage.resource> "New York Times" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Gastown" .
+<Western_Conference> <ice_hockey.hockey_conference.teams> "Colorado Avalanche" .
+<Hastings–Sunrise> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Dan_Bylsma> <ice_hockey.hockey_player.hockey_position> "Right wing" .
+<Ron_Hoggarth> <people.person.gender> "Male" .
+<Leon_Stickle> <base.fight.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL: Vintage Collection: Masked Men" .
+<Sports> <type.domain.types> "Sports Team" .
+<1994_Winter_Olympics> <olympics.olympic_games.events> "Men's Ice Hockey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "MVP: Most Valuable Primate" .
+<Eishockey_Eisbaeren_gegen_Capitals> <common.image.appears_in_topic_gallery> "Ice Hockey" .
+<André_Tourigny> <people.person.nationality> "Canada" .
+<Nashville_Predators> <ice_hockey.hockey_team.conference> "Western Conference" .
+<Ice_Hockey> <cvg.cvg_genre.games> "NHL Eastside Hockey Manager" .
+<m.010f_q6s> <freebase.valuenotation.has_no_value> "Saturday open time" .
+<Vancouver> <government.political_district.representatives> "m.04sx3bn" .
+<Ice_hockey_at_the_2010_Winter_Olympics_–_Women's_tournament> <time.event.included_in_event> "Ice hockey at the 2010 Winter Olympics" .
+<A_Canadian_Saturday_Night> <book.written_work.subjects> "Sports" .
+<2010_Winter_Olympics> <olympics.olympic_games.host_city> "Vancouver" .
+<Vancouver> <common.topic.webpage> "m.0rqg3gr" .
+<BC_Lions> <sports.sports_team.location> "Vancouver" .
+<Henrik_Sedin> <people.person.profession> "Ice hockey player" .
+<Vancouver> <location.location.adjoin_s> "m.02z_yg7" .
+<Swede_Knox> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Andy Van Hellemond" .
+<Vancouver> <location.statistical_region.population> "m.0kcl44l" .
+<Rogers_Arena> <location.location.events> "Jonas Brothers World Tour 2009, Vancouver, BC, Concert" .
+<Henrik_Sedin> <base.schemastaging.athlete_extra.salary> "m.0yqhn59" .
+<The_Game> <book.written_work.subjects> "Canada" .
+<Pretty_Little_Liars> <tv.tv_program.languages> "English Language" .
+<Brad_Meier> <people.person.gender> "Male" .
+<University_Golf_Club> <travel.tourist_attraction.near_travel_destination> "Vancouver" .
+<Greg_Kimmerly> <sports.sports_official.sport> "Ice Hockey" .
+<John_McCaw,_Jr.> <people.person.gender> "Male" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "1980 Winter Olympics" .
+<Sport> <type.type.domain> "Sports" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Downtown South, Vancouver" .
+<Terry_Gregson> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Slap Shot" .
+<Vancouver> <common.topic.webpage> "m.09wfldz" .
+<Vancouver> <travel.travel_destination.tourist_attractions> "Vancouver Art Gallery" .
+<Vancouver> <government.political_district.representatives> "m.04sx301" .
+<Western_Conference> <common.topic.notable_for> "g.1256ktl0l" .
+<Fred_Waghorne> <base.fight.sports_official.sport> "Ice Hockey" .
+<Lee_Davidson> <people.person.profession> "Coach" .
+<Harry_Sedin> <people.person.gender> "Male" .
+<Jonas_Brothers_World_Tour_2009,_Vancouver,_BC,_Concert> <time.event.locations> "Rogers Arena" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL: Vintage Collection: Overtime" .
+<Vancouver> <location.location.containedby> "Canada" .
+<Draft_Picks> <rdf-schema#domain> "Professional Sports Team" .
+<Metro_Vancouver> <location.location.containedby> "Canada" .
+<Terry_Ewasiuk> <people.person.profession> "Ice hockey player" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Musqueam Indian Band" .
+<Vancouver> <location.statistical_region.population> "m.0kcl46f" .
+<Pacific_Division> <ice_hockey.hockey_division.teams> "San Jose Sharks" .
+<m.04xh7dj> <travel.transportation.travel_destination> "Vancouver" .
+<Lord_Stanley's_Cup:_Hockey's_Ultimate_Prize> <film.film.country> "Canada" .
+<William_Earl_Ormshaw> <sports.sports_official.sport> "Ice Hockey" .
+<Canucks_Sports_&_Entertainment> <organization.organization.founders> "John McCaw, Jr." .
+<Vancouver> <common.topic.webpage> "m.09wxldv" .
+<Maurice_Richard> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<1948_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Ice_Hockey> <book.book_subject.works> "One Hundred Years of Hockey" .
+<m.09y8fd0> <common.webpage.topic> "Ice Hockey" .
+<Vancouver> <travel.travel_destination.accommodation> "The Dominion Hotel" .
+<Henrik_Sedin> <people.person.sibling_s> "m.02ht_lg" .
+<Highland_Scottish_Ale> <food.beer.from_region> "Vancouver" .
+<m.0wz1_0x> <sports.team_venue_relationship.venue> "Rogers Arena" .
+<Ice_Hockey> <olympics.olympic_sport.olympic_games_contested> "2002 Winter Olympics" .
+<Craig_Bonner> <people.person.nationality> "Canada" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "Maurice Richard: The Man, the Myth, the Rocket" .
+<Gord_Broseker> <base.fight.sports_official.sport> "Ice Hockey" .
+<m.04sx301> <government.government_position_held.district_represented> "Vancouver" .
+<m.0_hlrzd> <people.sibling_relationship.sibling> "Henrik Sedin" .
+<Canadian_Rockies> <travel.tourist_attraction.near_travel_destination> "Vancouver" .
+<NHL> <cvg.game_series.games_in_series> "NHL Slapshot" .
+<Dan_Marouelli> <sports.sports_official.sport> "Ice Hockey" .
+<Lee_Davidson> <sports.sports_team_coach.sports_coached> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.positions> "Defenseman" .
+<Ice_Hockey> <cvg.cvg_genre.games> "NHL Eastside Hockey Manager 2007" .
+<Vancouver> <sports.sports_team_location.teams> "Vancouver Canucks" .
+<Craig_Bonner> <ice_hockey.hockey_player.shoots> "Left-handed" .
+<Night_Undone> <book.written_work.subjects> "2010 Winter Olympics" .
+<Ice_Hockey> <common.topic.image> "Eishockey Eisbaeren gegen Capitals" .
+<Western_Conference> <ice_hockey.hockey_conference.league> "National Hockey League" .
+<Trevor_Linden> <business.board_member.leader_of> "m.010671n8" .
+<Willie_Desjardins> <common.topic.article> "m.08j98n" .
+<Ice_Hockey> <common.topic.webpage> "m.0b495h4" .
+<Willie_Desjardins> <common.topic.notable_types> "Ice hockey coach" .
+<Ernie_Leacock> <ice_hockey.hockey_player.hockey_position> "Defenseman" .
+<Vancouver> <architecture.architectural_structure_owner.structures_owned> "m.04xg_bg" .
+<Andrew_Allen> <people.person.profession> "Coach" .
+<Mario_&_Sonic_at_the_Olympic_Winter_Games> <cvg.computer_videogame.subjects> "Ice Hockey" .
+<Vancouver> <travel.travel_destination.accommodation> "Hotel Vancouver" .
+<Vancouver> <common.topic.webpage> "m.09xn89y" .
+<Vancouver> <travel.travel_destination.climate> "m.059f2lh" .
+<New_England_Hockey:_A_Life_at_the_Rink> <film.film.language> "English Language" .
+<m.0wz1_0p> <sports.team_venue_relationship.venue> "Rogers Arena" .
+<Vancouver> <government.political_district.representatives> "m.04sx312" .
+<Lee_Davidson> <people.person.gender> "Male" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "NHL Stanley Cup 2006" .
+<m.010f_q6s> <base.schemastaging.phone_sandbox.contact_category> "Customer Service" .
+<Vancouver_Canucks> <base.schemastaging.organization_extra.phone_number> "m.010f_rds" .
+<Vancouver_Canucks> <common.topic.notable_types> "Professional Sports Team" .
+<William_Earl_Ormshaw> <base.fight.sports_official.sport> "Ice Hockey" .
+<The_Rhino_Brothers> <film.film.country> "Canada" .
+<m.09wbkzx> <common.webpage.topic> "Vancouver" .
+<Vancouver_Canucks> <base.ontologies.ontology_instance.equivalent_instances> "m.09kmk0b" .
+<Stanley_Park> <location.location.containedby> "Vancouver" .
+<Vancouver> <government.political_district.representatives> "m.04sx2r1" .
+<Vancouver_Public_Library> <location.location.containedby> "Vancouver" .
+<Ice_Hockey> <sports.sport.team_coaches> "Lee Davidson" .
+<Hockey_stick> <sports.sports_equipment.sport_used_for> "Ice Hockey" .
+<Vancouver> <sports.sports_team_location.teams> "BC Lions" .
+<The_New_Ice_Age> <book.written_work.subjects> "Sports" .
+<Bruce_Hood> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Ice_Hockey> <book.book_subject.works> "Motor City muscle" .
+<Mick_McGeough> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <sports.sport.officials> "Charley McVeigh" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Victory Square" .
+<m.04vyvtz> <government.government_position_held.governmental_body> "Vancouver City Council" .
+<Playland> <location.location.containedby> "Canada" .
+<Henrik_Sedin> <people.person.children> "Valter Sedin" .
+<Fin_the_Whale> <common.topic.notable_for> "g.1256dr7jh" .
+<Professional_Sports_Team> <type.type.expected_by> "Teams Owned" .
+<Mike_Gilligan> <people.person.profession> "Coach" .
+<Shaughnessy,_Vancouver> <location.neighborhood.neighborhood_of> "Vancouver" .
+<Vancouver> <common.topic.webpage> "m.0b479k5" .
+<Alain_Vigneault> <common.topic.notable_types> "Ice hockey coach" .
+<Vancouver> <location.place_with_neighborhoods.neighborhoods> "Crosstown" .
+<m.064tkxj> <base.popstra.vacation_choice.location> "Vancouver" .
+<Don_Cherry's_Hard-Hitting_Hockey_3> <film.film.subjects> "National Hockey League" .
+<m.0wlvc50> <people.place_lived.location> "Örnsköldsvik" .
+<m.07nf61y> <base.ontologies.ontology_instance_mapping.ontology> "OpenCyc" .
+<Don_Cherry's_Hard-Hitting_Hockey_3> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<1964_Winter_Olympics> <olympics.olympic_games.sports> "Ice Hockey" .
+<Vancouver> <location.statistical_region.population> "m.0kcl46l" .
+<1998_Olympic_Hockey_Highlights> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Stephen_Walkom> <sports.sports_official.sport> "Ice Hockey" .
+<Ernie_Leacock> <base.fight.sports_official.sport> "Ice Hockey" .
+<Brett_Hull_Hockey> <cvg.computer_videogame.cvg_genre> "Ice Hockey" .
+<Goaltender> <sports.sports_position.sport> "Ice Hockey" .
+<Hockey_Mom> <film.film.country> "Canada" .
+<Vancouver> <location.location.adjoin_s> "m.02xk__t" .
+<William_Earl_Ormshaw> <people.person.nationality> "Canada" .
+<Ken_Tyler> <people.person.nationality> "Canada" .
+<Rogers_Arena> <olympics.olympic_venue.olympic_games_used_in> "2010 Winter Olympics" .
+<Calgary_Flames> <common.topic.notable_types> "Professional Sports Team" .
+<Robin_Scherbatsky> <fictional_universe.fictional_character.place_of_birth> "Vancouver" .
+<NHL:_The_History_of_the_Boston_Bruins> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Vancouver> <location.location.adjoin_s> "m.02xky5f" .
+<Sylvia_Hotel> <location.location.containedby> "British Columbia" .
+<Vancouver> <location.location.containedby> "Metro Vancouver" .
+<Vancouver> <food.beer_country_region.beers_from_here> "Highland Scottish Ale" .
+<Willie_Desjardins> <people.person.profession> "Coach" .
+<m.09xn89y> <common.webpage.topic> "Vancouver" .
+<Mick_McGeough> <people.person.nationality> "Canada" .
+<m.04lq0h7> <business.company_name_change.company> "Canucks Sports & Entertainment" .
+<2006_NCAA_Division_I_Men's_Ice_Hockey_National_Championship:_Wisconsin_vs._Boston_College> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Rogers_Arena> <olympics.olympic_venue.olympic_events_contested_here> "Ice hockey at the 2010 Winter Olympics – Men's tournament" .
+<Slap_Shot> <film.film.sequel> "Slap Shot 2: Breaking the Ice" .
+<The_Rhino_Brothers> <film.film.language> "English Language" .
+<Lord_Stanley's_Cup:_Hockey's_Ultimate_Prize> <film.film.language> "English Language" .
+<Vancouver> <architecture.architectural_structure_owner.structures_owned> "m.04xg_dx" .
+<Slap_Shot> <media_common.netflix_title.netflix_genres> "Ice Hockey" .
+<Paul_Loicq> <sports.sports_official.sport> "Ice Hockey" .
+<Ice_Hockey> <media_common.netflix_genre.titles> "2006 NCAA Division I Men's Ice Hockey National Championship: Wisconsin vs. Boston College" .
+<Mike_Leggo> <base.fight.sports_official.sport> "Ice Hockey" .
+<Rogers_Arena> <sports.sports_facility.home_venue_for> "m.0wz1_0x" .
+<Canucks_Sports_&_Entertainment> <business.business_operation.industry> "Other Spectator Sports" .
+<Vancouver> <location.statistical_region.population> "g.11btt4fmhb" .
+<Hockey_Night> <film.film.language> "English Language" .
+<Ice_Hockey> <book.book_subject.works> "A Canadian Saturday Night" .
+<Stéphane_Provost> <people.person.gender> "Male" .
+<Hockey_Chronicles> <book.written_work.subjects> "Canada" .
+<Minnesota_Wild> <common.topic.notable_types> "Professional Sports Team" .
+<Ice_Hockey> <sports.sport.related_equipment> "Ice skate" .

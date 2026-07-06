@@ -1,0 +1,1021 @@
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Santo_Domingo> <location.location.events> "Dominican Civil War" .
+<m.011nyx7h> <freebase.valuenotation.is_reviewed> "Position" .
+<Albert_Pujols> <baseball.baseball_player.batting_stats> "m.06s6mb3" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1990" .
+<m.0115gjmx> <sports.sports_team_roster.position> "First baseman" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<m.0z3sfls> <award.award_honor.award_winner> "Albert Pujols" .
+<m.0j2qh8y> <people.marriage.spouse> "Deidre Pujols" .
+<m.06s6m3w> <baseball.batting_statistics.player> "Albert Pujols" .
+<Albert_Pujols> <baseball.baseball_player.position_s> "First baseman" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<Distrito_Nacional> <location.administrative_division.first_level_division_of> "Dominican Republic" .
+<Battle_of_San_Domingo> <time.event.locations> "Santo Domingo" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<New_York_City> <base.biblioness.bibs_topic.subsumes> "New York City" .
+<m.05kb0jt> <freebase.valuenotation.has_value> "From" .
+<Universidad_de_la_Tercera_Edad> <education.educational_institution.campuses> "Universidad de la Tercera Edad" .
+<Athlete> <common.topic.notable_types> "Profession" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<First_baseman> <sports.sports_position.players> "g.1q5bfp2fr" .
+<St._Louis> <location.us_county.county_seat> "St. Louis" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Hank_Aaron_Award> <award.award_category.winners> "m.0n9hb58" .
+<m.0z3ts54> <award.award_honor.ceremony> "2009 ESPY Awards" .
+<Albert_Pujols> <award.award_winner.awards_won> "m.0y_8lzx" .
+<First_baseman> <sports.sports_position.players> "m.0yzxc18" .
+<m.011ktsks> <sports.sports_team_roster.position> "First baseman" .
+<m.0y_8lzx> <award.award_honor.award_winner> "Albert Pujols" .
+<Dominican_Adventist_University> <education.educational_institution_campus.educational_institution> "Dominican Adventist University" .
+<Best_Major_League_Baseball_Player_ESPY_Award> <award.award_category.winners> "m.0z3ts54" .
+<m.03pk1v8> <people.place_lived.person> "Albert Pujols" .
+<Male> <common.topic.article> "m.05zpq8" .
+<m.09kl_x7> <base.ontologies.ontology_instance_mapping.freebase_topic> "Santo Domingo" .
+<m.09k_3y4> <baseball.lifetime_batting_statistics.last_statistics_season> "2009 Major League Baseball season" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1967" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1964" .
+<m.09ygxhm> <common.webpage.topic> "Albert Pujols" .
+<Santo_Domingo> <location.location.contains> "Teatro Nacional" .
+<Hispaniola> <location.location.contains> "Distrito Nacional" .
+<Children> <rdf-schema#range> "Person" .
+<Independence> <common.topic.notable_types> "City/Town/Village" .
+<Parents> <type.property.reverse_property> "Children" .
+<Santo_Domingo> <location.statistical_region.population> "m.0mx0jsm" .
+<m.04yp0sf> <award.award_honor.ceremony> "2006 ESPY Awards" .
+<St._Louis> <location.hud_county_place.county> "St. Louis" .
+<First_baseman> <common.topic.notable_types> "Baseball Position" .
+<m.0z87f7t> <award.award_nomination.award_nominee> "Albert Pujols" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<St._Louis> <location.administrative_division.second_level_division_of> "United States of America" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<m.0gggrzr> <sports.sports_team_roster.position> "Infielder" .
+<Sophia_Pujols> <people.person.parents> "Albert Pujols" .
+<2008_Major_League_Baseball_season> <sports.sports_league_season.awards> "m.04xwlnb" .
+<First_baseman> <sports.sports_position.players> "g.1yx1wbdc1" .
+<m.0gy7jbg> <base.ontologies.ontology_instance_mapping.freebase_topic> "Baseball player" .
+<Santo_Domingo> <common.topic.image> "Santo Domingo1" .
+<Best_Major_League_Baseball_Player_ESPY_Award> <award.award_category.nominees> "m.0z64t_q" .
+<2009_ESPY_Awards> <award.award_ceremony.awards_presented> "m.0z3ts54" .
+<Santo_Domingo> <common.topic.image> "City of Santo Domingo At The Ozama" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Metropolitan_Community_College-Maple_Woods> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1978" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1963" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<Country_of_nationality> <type.property.expected_type> "Country" .
+<m.0j2lc1l> <sports.sports_team_roster.position> "Infielder" .
+<Distrito_Nacional> <location.location.contains> "Universidad Experimental Félix Adam" .
+<Santo_Domingo> <common.topic.article> "m.0fthx" .
+<Intercentro> <location.location.containedby> "Dominican Republic" .
+<Torre_Margot_1> <location.location.containedby> "Santo Domingo" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1974" .
+<m.0n9hb58> <award.award_honor.award> "Hank Aaron Award" .
+<Independence> <location.hud_county_place.place> "Independence" .
+<m.0z5cx_s> <award.award_honor.ceremony> "2006 ESPY Awards" .
+<m.0z3ts8g> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.05kb0jt> <freebase.valuenotation.has_value> "Position" .
+<Albert_Pujols> <award.award_nominee.award_nominations> "m.0z8xfms" .
+<m.0z3sdtt> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<First_baseman> <sports.sports_position.players> "m.011ckr0b" .
+<First_baseman> <sports.sports_position.players> "m.0l4r_4n" .
+<Albert_Pujols> <award.award_nominee.award_nominations> "m.0z87f7t" .
+<Santo_Domingo> <location.location.contains> "Estadio Quisqueya" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Albert_Pujols> <award.award_winner.awards_won> "m.0n9hb58" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<Albert_Pujols> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0z8xfms> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<Albert_Pujols> <people.person.education> "m.010h3j4g" .
+<Albert_Pujols> <award.award_nominee.award_nominations> "m.0z8d09d" .
+<Albert_Pujols> <award.award_winner.awards_won> "m.04yp0s9" .
+<Scottsdale_Scorpions> <sports.sports_team.sport> "Baseball" .
+<m.0461q4y> <sports.sports_league_draft_pick.team> "St. Louis Cardinals" .
+<Albert_Pujols> <people.person.spouse_s> "m.0j2qh8y" .
+<Ezra_Pujols> <people.person.parents> "Albert Pujols" .
+<Santo_Domingo> <location.location.events> "Miss Mundo Dominicana 2008" .
+<Person> <type.type.properties> "Parents" .
+<Santo_Domingo> <location.location.nearby_airports> "Las Américas International Airport" .
+<Person> <type.type.properties> "Gender" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<Female> <common.topic.subjects> "ZasPorn" .
+<m.0z87f7t> <award.award_nomination.ceremony> "2012 Teen Choice Awards" .
+<Teen_Choice_Award_for_Choice_Male_Athlete> <award.award_category.nominees> "m.0z8xfms" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1997" .
+<m.0z4v2q6> <award.award_nomination.ceremony> "2007 ESPY Awards" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<m.0z8d09d> <award.award_nomination.award> "Teen Choice Award for Choice Male Athlete" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0j2lc1l> <sports.sports_team_roster.player> "Albert Pujols" .
+<Baseball_player> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<Dominican_Adventist_University> <location.location.containedby> "Dominican Republic" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Metropolitan_Community_College-Maple_Woods> <education.educational_institution_campus.educational_institution> "Metropolitan Community College-Maple Woods" .
+<Dominican_Republic> <location.country.capital> "Santo Domingo" .
+<Universidad_Autónoma_de_Santo_Domingo> <location.location.containedby> "Dominican Republic" .
+<Central_Santo_Domingo> <common.topic.notable_types> "Location" .
+<Athlete> <freebase.type_profile.equivalent_topic> "Athlete" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<St._Louis> <sports.sports_team_location.teams> "St. Louis Cardinals" .
+<Isabella_Pujols> <common.topic.notable_types> "Person" .
+<Children> <type.property.schema> "Person" .
+<m.05bdvc3> <sports.sports_team_roster.team> "St. Louis Cardinals" .
+<Santo_Domingo> <location.location.containedby> "Distrito Nacional" .
+<m.04w0zfn> <award.award_honor.award_winner> "Albert Pujols" .
+<m.04ynyvj> <sports.sports_award.award> "National League Rookie of the Year" .
+<m.0z87f7t> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0z3r9wp> <freebase.valuenotation.has_no_value> "To" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<m.0z4y2gx> <award.award_nomination.ceremony> "2006 ESPY Awards" .
+<Santo_Domingo> <location.location.events> "Battle of Guayacanas" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<Major_League_Baseball_Players_Association> <organization.organization.geographic_scope> "United States of America" .
+<First_baseman> <sports.sports_position.players> "g.1q5bfp2xx" .
+<Phil_Dwyer> <fictional_universe.fictional_character.gender> "Male" .
+<Santo_Domingo> <location.location.events> "2007 Men's Pan-American Volleyball Cup" .
+<m.011nyx7h> <freebase.valuenotation.has_no_value> "To" .
+<Isabella_Pujols> <people.person.parents> "Albert Pujols" .
+<Santo_Domingo> <location.location.events> "Men Universe Model 2014" .
+<m.0z5cx_s> <award.award_honor.award_winner> "Albert Pujols" .
+<Baseball_player> <base.ontologies.ontology_instance.equivalent_instances> "m.0gy7hfc" .
+<Baseball_player> <book.book_subject.works> "We Would Have Played for Nothing: Baseball Stars of the 1950s and 1960s Talk About the Game They Loved" .
+<Baseball_player> <people.profession.specializations> "Infielder" .
+<Santo_Domingo> <location.location.contains> "g.122y52np" .
+<Best_Male_Athlete_ESPY_Award> <award.award_category.nominees> "m.0z4y2gx" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<Hispaniola> <location.location.contains> "Santo Domingo" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<Gender> <type.property.schema> "Person" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<m.06s6m23> <baseball.batting_statistics.player> "Albert Pujols" .
+<m.05kb0jt> <freebase.valuenotation.has_value> "To" .
+<m.0z5b2pj> <award.award_nomination.ceremony> "2006 ESPY Awards" .
+<m.05kb0jt> <freebase.valuenotation.has_value> "Number" .
+<m.06s6m23> <baseball.batting_statistics.season> "2002 Major League Baseball Season" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Albert_Pujols> <common.topic.article> "m.035gcl" .
+<First_baseman> <sports.sports_position.sport> "Baseball" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<m.04yp0s9> <award.award_honor.ceremony> "2005 ESPY Awards" .
+<m.0z71zsp> <award.award_nomination.ceremony> "2004 ESPY Awards" .
+<Baseball_player> <base.descriptive_names.names.descriptive_name> "m.0106bnjp" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<Best_Major_League_Baseball_Player_ESPY_Award> <award.award_category.nominees> "m.0z3ts8g" .
+<Albert_Pujols> <award.award_nominee.award_nominations> "m.0z3ts8g" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<Ezra_Pujols> <common.topic.notable_for> "g.1255wcdh7" .
+<Santo_Domingo> <location.location.containedby> "Cardenal Quintero Municipality" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<Baseball> <sports.sport.positions> "First baseman" .
+<Baseball_player> <base.descriptive_names.names.descriptive_name> "m.0106bq7l" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Gender> <type.property.expected_type> "Gender" .
+<Albert_Pujols> <sports.sports_award_winner.awards> "m.04xwlnb" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<Albert_Pujols> <baseball.baseball_player.lifetime_batting_statistics> "m.09k_3y4" .
+<First_baseman> <sports.sports_position.players> "m.0115gjmx" .
+<Santo_Domingo> <location.location.events> "Volleyball at the 2003 Pan American Games" .
+<m.0gggrzr> <freebase.valuenotation.is_reviewed> "Position" .
+<Santo_Domingo> <location.capital_of_administrative_division.capital_of> "m.0q3dk13" .
+<Country> <freebase.type_profile.strict_included_types> "Location" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1975" .
+<First_baseman> <sports.sports_position.players> "m.02lc65l" .
+<Children> <rdf-schema#domain> "Person" .
+<m.0z5cxnl> <award.award_nomination.award> "Best International Athlete ESPY Award" .
+<Santo_Domingo> <location.location.events> "Miss Universe Dominicana 2001" .
+<Hispaniola> <location.location.events> "Siege of Santo Domingo" .
+<St._Louis> <location.us_county.hud_county_place> "St. Louis" .
+<m.0115gjmx> <freebase.valuenotation.has_no_value> "To" .
+<Torre_Mar_Azul_2> <location.location.containedby> "Santo Domingo" .
+<Right-handed> <common.topic.article> "m.02bn04" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<The_Glory_of_Their_Times:_The_Story_of_the_Early_Days_of_Baseball_Told_by_the_Men_Who_Played_It> <book.written_work.subjects> "Baseball player" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<Santo_Domingo> <location.location.contains> "Universidad Autónoma de Santo Domingo" .
+<Albert_Pujols> <award.award_nominee.award_nominations> "m.0z71zsp" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1979" .
+<m.0ypxvmn> <film.personal_film_appearance.type_of_appearance> "Archive Footage" .
+<m.0z5cx_s> <freebase.valuenotation.has_no_value> "Winning work" .
+<Albert_Pujols> <people.person.place_of_birth> "Santo Domingo" .
+<Santo_Domingo> <common.topic.image> "Central Santo Domingo" .
+<Rafael_Trujillo> <symbols.name_source.namesakes> "Santo Domingo" .
+<m.010h3j4g> <education.education.institution> "Metropolitan Community College-Maple Woods" .
+<m.0wdd82v> <base.schemastaging.athlete_salary.currency> "United States Dollar" .
+<m.0z3sdtt> <award.award_nomination.ceremony> "2010 ESPY Awards" .
+<m.0zbc_l6> <sports.sports_team_roster.position> "First baseman" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<First_baseman> <sports.sports_position.players> "g.1yx1wbddd" .
+<2002_Major_League_Baseball_Season> <time.event.previous_in_series> "2001 Major League Baseball Season" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Albert_Pujols> <baseball.baseball_player.bats> "Right-handed" .
+<m.04xhdn1> <sports.sports_team_roster.player> "Albert Pujols" .
+<Location> <type.type.properties> "People born here" .
+<Albert_Pujols> <people.person.children> "Sophia Pujols" .
+<Santo_Domingo> <location.location.events> "g.11b6gs0lpb" .
+<Universidad_Nacional_Pedro_Henríquez_Ureña> <location.location.containedby> "Dominican Republic" .
+<m.04xwlnb> <sports.sports_award.season> "2008 Major League Baseball season" .
+<Santo_Domingo> <location.location.contains> "Universidad de la Tercera Edad" .
+<Female> <medicine.risk_factor.diseases> "Kyphosis" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1981" .
+<The_Glory_of_Their_Times:_The_Story_of_the_Early_Days_of_Baseball_Told_by_the_Men_Who_Played_It> <book.written_work.subjects> "Baseball" .
+<m.06s6m5g> <baseball.batting_statistics.team> "St. Louis Cardinals" .
+<Santo_Domingo> <location.location.events> "Miss Turismo Dominicana 2008" .
+<m.010qv4k5> <freebase.valuenotation.is_reviewed> "From" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<m.06s6mcz> <baseball.batting_statistics.season> "2008 Major League Baseball season" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1962" .
+<Pujols_facing> <common.image.appears_in_topic_gallery> "Albert Pujols" .
+<Santo_Domingo> <location.location.contains> "Torre del Parque" .
+<From> <type.property.expected_type> "Date/Time" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<Albert_Pujols> <award.award_nominee.award_nominations> "m.0z64t_q" .
+<Santo_Domingo> <location.location.contains> "Universidad Católica Santo Domingo" .
+<Santo_Domingo> <location.location.events> "Miss Universe 1977" .
+<Las_Américas_International_Airport> <aviation.airport.serves> "Renaissance Santo Domingo Jaragua Hotel & Casino" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 2012" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<Albert_Pujols> <award.award_winner.awards_won> "m.0gw2gqt" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<Infielder> <sports.sports_position.sport> "Baseball" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<m.0z5cx_s> <award.award_honor.award> "Best International Athlete ESPY Award" .
+<First_baseman> <sports.sports_position.players> "m.0gggrzr" .
+<DSC00621_Albert_Pujols> <common.image.appears_in_topic_gallery> "Albert Pujols" .
+<Children> <type.property.expected_type> "Person" .
+<m.0z4v2q6> <award.award_nomination.award_nominee> "Albert Pujols" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<Place_of_birth> <type.property.schema> "Person" .
+<m.0z3ts8g> <award.award_nomination.award> "Best Major League Baseball Player ESPY Award" .
+<Hispaniola> <location.location.contains_major_portion_of> "Dominican Republic" .
+<National_League_Most_Valuable_Player_Award> <award.award_category.winners> "m.0y_8lzx" .
+<Las_Américas_International_Airport> <aviation.airport.serves> "Courtyard Santo Domingo" .
+<m.010pvxp9> <sports.sports_team_roster.position> "First baseman" .
+<m.04xhdn1> <sports.sports_team_roster.team> "Los Angeles Angels of Anaheim" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<Athlete> <freebase.type_profile.published> "Published" .
+<Torre_del_Sol> <location.location.containedby> "Santo Domingo" .
+<2006_Major_League_Baseball_season> <time.event.previous_in_series> "2005 Major League Baseball season" .
+<m.04xhdn1> <sports.sports_team_roster.position> "Infielder" .
+<National_League_Rookie_of_the_Year> <sports.sports_award_type.winners> "m.04ynyvj" .
+<Athlete> <freebase.type_hints.included_types> "Topic" .
+<United_States_Dollar> <base.coinsdaily.coin_type.country> "United States of America" .
+<Distrito_Nacional> <location.location.containedby> "Hispaniola" .
+<Metropolitan_Community_College-Maple_Woods> <education.educational_institution.students_graduates> "m.010h3j4g" .
+<Universidad_APEC> <location.location.containedby> "Santo Domingo" .
+<m.04ypjzn> <sports.sports_award.season> "2006 Major League Baseball season" .
+<m.0l4r_4n> <freebase.valuenotation.has_no_value> "To" .
+<m.0n1mywg> <education.education.student> "Albert Pujols" .
+<m.09nbjwl> <tv.tv_guest_role.actor> "Albert Pujols" .
+<m.0zv2xxc> <sports.sports_team_roster.position> "First baseman" .
+<Torre_Caney> <location.location.containedby> "Dominican Republic" .
+<Phil_Dwyer> <fictional_universe.fictional_character.occupation> "Baseball player" .
+<Santo_Domingo> <location.location.contains> "Universidad APEC" .
+<m.0q3dk13> <location.administrative_division_capital_relationship.capital> "Santo Domingo" .
+<m.0z16m8m> <sports.sports_team_roster.position> "Infielder" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1995" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<Santo_Domingo> <location.location.contains> "Renaissance Santo Domingo Jaragua Hotel & Casino" .
+<m.0z8d09d> <award.award_nomination.award_nominee> "Albert Pujols" .
+<Albert_Pujols> <sports.sports_award_winner.awards> "m.04ypjzn" .
+<Baseball_player> <people.profession.represented_by_trade_unions> "Major League Baseball Players Association" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Central_Santo_Domingo> <location.location.containedby> "Distrito Nacional" .
+<Male> <common.topic.image> "male.jpg" .
+<Las_Américas_International_Airport> <aviation.airport.serves> "Santo Domingo" .
+<m.0z3ts54> <freebase.valuenotation.has_no_value> "Winning work" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<m.06s6m8k> <baseball.batting_statistics.team> "St. Louis Cardinals" .
+<Malecon_Center_3> <location.location.containedby> "Santo Domingo" .
+<Santo_Domingo> <location.location.events> "2003 Women's NORCECA Volleyball Championship" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<Albert_Pujols> <award.award_nominee.award_nominations> "m.0z3sdtt" .
+<Santo_Domingo> <location.location.events> "2006 World Weightlifting Championships" .
+<Albert_Pujols,_Jr.> <common.topic.notable_for> "g.1258z74x9" .
+<First_baseman> <sports.sports_position.players> "m.0zb2c51" .
+<Santo_Domingo> <location.location.events> "Miss Tierra República Dominicana 2011" .
+<m.0z5cxnl> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.011ckr0b> <freebase.valuenotation.has_no_value> "To" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Cardenal_Quintero_Municipality> <common.topic.notable_types> "Location" .
+<Malecon_Center_1> <location.location.containedby> "Dominican Republic" .
+<m.0j2lc1l> <sports.sports_team_roster.team> "St. Louis Cardinals" .
+<Baseball_Player> <type.type.properties> "Lifetime Batting Statistics" .
+<Baseball_player> <fictional_universe.character_occupation.characters_with_this_occupation> "Yamcha" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1985" .
+<Universidad_Autónoma_de_Santo_Domingo> <location.location.containedby> "Santo Domingo" .
+<First_baseman> <sports.sports_position.players> "g.11bxwkc1bd" .
+<St._Louis_Cardinals> <sports.sports_team.sport> "Baseball" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<m.0z5b2pj> <award.award_nomination.award_nominee> "Albert Pujols" .
+<m.0j2qh8m> <base.schemastaging.athlete_salary.currency> "United States Dollar" .
+<Baseball_Player> <common.topic.article> "m.0d9v52v" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<m.09k_3y4> <baseball.lifetime_batting_statistics.starting_season> "2001 Major League Baseball Season" .
+<Universidad_Experimental_Félix_Adam> <education.educational_institution_campus.educational_institution> "Universidad Experimental Félix Adam" .
+<New_York_City> <location.administrative_division.country> "United States of America" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1989" .
+<Jackie_Robinson> <fictional_universe.fictional_character.gender> "Male" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<m.0z3sdtt> <award.award_nomination.award_nominee> "Albert Pujols" .
+<m.0z3pnhm> <sports.sports_team_roster.position> "First baseman" .
+<Albert_Pujols> <award.award_winner.awards_won> "m.04w0zfn" .
+<Universidad_Nacional_Evangélica,_main_campus> <location.location.containedby> "Distrito Nacional" .
+<Best_International_Athlete_ESPY_Award> <award.award_category.winners> "m.0z5cx_s" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1965" .
+<Santo_Domingo> <location.location.events> "Miss Mundo Dominicana 2003" .
+<Siege_of_Santo_Domingo> <time.event.locations> "Hispaniola" .
+<Universidad_Experimental_Félix_Adam> <education.educational_institution.campuses> "Universidad Experimental Félix Adam" .
+<The_Glory_of_Their_Times:_The_Story_of_the_Early_Days_of_Baseball_Told_by_the_Men_Who_Played_It> <book.written_work.subjects> "United States of America" .
+<m.0v1d5zk> <sports.sports_team_roster.position> "First baseman" .
+<Baseball_Player> <freebase.type_profile.published> "Published" .
+<Date_of_birth> <rdf-schema#range> "Date/Time" .
+<Albert_Pujols,_Jr.> <common.topic.notable_types> "Person" .
+<m.04ynyvj> <sports.sports_award.season> "2001 Major League Baseball Season" .
+<Santo_Domingo> <travel.travel_destination.tourist_attractions> "Barbarella" .
+<m.06s6m3w> <baseball.batting_statistics.team> "St. Louis Cardinals" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Universidad_de_la_Tercera_Edad> <location.location.containedby> "Santo Domingo" .
+<m.06s6m6_> <baseball.batting_statistics.player> "Albert Pujols" .
+<Albert_Pujols> <sports.pro_athlete.teams> "m.0j2lc1l" .
+<Santo_Domingo> <location.location.contains> "Malecon Center 3" .
+<Albert_Pujols> <people.person.education> "m.0n1mywg" .
+<Parents> <rdf-schema#domain> "Person" .
+<First_baseman> <sports.sports_position.players> "m.0z3r9wp" .
+<Isabella_Pujols> <common.topic.notable_for> "g.12574w6sn" .
+<Albert_Pujols> <award.award_winner.awards_won> "m.0z5cx_s" .
+<To> <rdf-schema#range> "Date/Time" .
+<United_States_of_America> <location.country.administrative_divisions> "New York City" .
+<Baseball_Player> <type.type.expected_by> "Player" .
+<Universidad_Católica_Santo_Domingo> <education.educational_institution_campus.educational_institution> "Universidad Católica Santo Domingo" .
+<Parents> <type.property.expected_type> "Person" .
+<m.0y_8lzx> <award.award_honor.award> "National League Most Valuable Player Award" .
+<Baseball_Player> <type.type.properties> "Baseball Almanac ID" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 2014" .
+<Albert_Pujols> <common.topic.webpage> "m.09ygxhm" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<Universidad_APEC> <education.educational_institution.campuses> "Universidad APEC" .
+<Universidad_Católica_Santo_Domingo> <location.location.containedby> "Dominican Republic" .
+<Athlete> <people.profession.specializations> "Baseball player" .
+<Santo_Domingo> <common.topic.notable_for> "g.1255f00rw" .
+<Santo_Domingo> <location.location.contains> "Torre Caney" .
+<Santo_Domingo> <location.location.events> "Beach volleyball at the 2003 Pan American Games" .
+<m.0z71zsp> <award.award_nomination.award_nominee> "Albert Pujols" .
+<Albert_Pujols,_Jr.> <people.person.parents> "Albert Pujols" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<Gender> <rdf-schema#range> "Gender" .
+<m.0z3ts8g> <award.award_nomination.award_nominee> "Albert Pujols" .
+<m.0z5cxnl> <award.award_nomination.ceremony> "2006 ESPY Awards" .
+<m.09hxm6l> <common.webpage.topic> "Santo Domingo" .
+<Baseball_Player> <type.type.expected_by> "Player" .
+<Baseball_player> <freebase.equivalent_topic.equivalent_type> "Baseball Player" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Albert_Pujols> <people.person.nationality> "United States of America" .
+<m.04yp0sf> <award.award_honor.award> "Best Major League Baseball Player ESPY Award" .
+<Dominican_Republic> <location.location.primarily_containedby> "Hispaniola" .
+<Distrito_Nacional> <base.aareas.schema.administrative_area.administrative_parent> "Dominican Republic" .
+<Albert_Pujols> <base.schemastaging.athlete_extra.salary> "m.0wdd82v" .
+<Place_of_birth> <rdf-schema#range> "Location" .
+<Universidad_Nacional_Evangélica,_main_campus> <location.location.containedby> "Santo Domingo" .
+<Person> <type.type.properties> "Country of nationality" .
+<Baseball_Player> <type.type.properties> "Hall Of Fame Induction" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<2005_ESPY_Awards> <award.award_ceremony.awards_presented> "m.04yp0s9" .
+<m.02lc65l> <sports.sports_team_roster.position> "First baseman" .
+<Diandy_XX> <location.location.containedby> "Santo Domingo" .
+<Santo_Domingo> <location.location.contains> "Intercentro" .
+<m.0zb2c51> <sports.sports_team_roster.position> "First baseman" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Female" .
+<Baseball_player> <book.book_subject.works> "The Glory of Their Times: The Story of the Early Days of Baseball Told by the Men Who Played It" .
+<2006_Major_League_Baseball_season> <sports.sports_league_season.awards> "m.04ypjzn" .
+<Albert_Pujols> <people.person.children> "Albert Pujols, Jr." .
+<Santo_Domingo> <location.location.events> "Miss Mundo Dominicana 2006" .
+<Santo_Domingo> <location.location.containedby> "Dominican Republic" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Deidre_Pujols> <common.topic.notable_types> "Person" .
+<Albert_Pujols> <tv.tv_actor.guest_roles> "m.09nbjw7" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Baseball_player> <base.descriptive_names.names.descriptive_name> "m.0106bnk_" .
+<Baseball_player> <people.profession.specialization_of> "Athlete" .
+<Person> <type.type.properties> "Children" .
+<Santo_Domingo> <location.location.contains> "Courtyard Santo Domingo" .
+<First_baseman> <sports.sports_position.players> "g.11bxv84dh5" .
+<2006_ESPY_Awards> <award.award_ceremony.awards_presented> "m.0z5cx_s" .
+<Diandy_XX> <location.location.containedby> "Dominican Republic" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 2002" .
+<Battle_of_Guayacanas> <time.event.locations> "Santo Domingo" .
+<Santo_Domingo> <location.location.contains> "Torre Silver Sun Gallery" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<Dominican_Republic> <location.location.events> "United States occupation of the Dominican Republic" .
+<m.0z87f7t> <award.award_nomination.award> "Teen Choice Award for Choice Male Athlete" .
+<m.03pk1v8> <people.place_lived.location> "St. Louis" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<m.06s6mb3> <baseball.batting_statistics.player> "Albert Pujols" .
+<Distrito_Nacional> <location.administrative_division.capital> "m.0q3dk13" .
+<Baseball_player> <book.book_subject.works> "Highpockets" .
+<Universidad_Nacional_Pedro_Henríquez_Ureña> <education.educational_institution_campus.educational_institution> "Universidad Nacional Pedro Henríquez Ureña" .
+<Albert_Pujols> <baseball.baseball_player.batting_stats> "m.06s6m6_" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<Teen_Choice_Award_for_Choice_Male_Athlete> <award.award_category.nominees> "m.0z8d09d" .
+<Santo_Domingo> <symbols.namesake.named_after> "Saint Dominic" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 2008" .
+<2003_Major_League_Baseball_season> <time.event.next_in_series> "2004 Major League Baseball season" .
+<Dominican_Civil_War> <base.culturalevent.event.entity_involved> "United States of America" .
+<m.06s6m6_> <baseball.batting_statistics.team> "St. Louis Cardinals" .
+<Universidad_Experimental_Félix_Adam> <location.location.containedby> "Dominican Republic" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<Cardenal_Quintero_Municipality> <location.location.contains> "Santo Domingo" .
+<Albert_Pujols> <tv.tv_actor.guest_roles> "m.09nbjwl" .
+<Torre_Carib> <location.location.containedby> "Dominican Republic" .
+<Place_of_birth> <rdf-schema#domain> "Person" .
+<Baseball_Player> <freebase.type_hints.included_types> "Athlete" .
+<Santo_Domingo> <location.location.contains> "Pabellón de Voleibol" .
+<m.0z5b2pj> <award.award_nomination.award> "Best Major League Baseball Player ESPY Award" .
+<m.04xwlnk> <sports.sports_award.season> "2005 Major League Baseball season" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<Santo_Domingo> <location.location.events> "Miss Mundo Dominicana 2005" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<m.04w0zfn> <freebase.valuenotation.has_no_value> "Ceremony" .
+<Baseball_player> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Baseball players" .
+<Santo_Domingo> <location.location.contains> "Universidad Nacional Evangélica, main campus" .
+<Pujols3> <common.image.appears_in_topic_gallery> "Albert Pujols" .
+<President_Obama's_All-Star_Game_Pitch:_Dad_jeans_on_display> <common.resource.annotations> "m.09ygxhm" .
+<National_League_Most_Valuable_Player_Award> <award.award_category.winners> "m.04w0zf8" .
+<Date_of_birth> <type.property.schema> "Person" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<m.06s6mcz> <baseball.batting_statistics.team> "St. Louis Cardinals" .
+<Independence> <location.location.containedby> "United States of America" .
+<Santo_Domingo> <location.location.events> "Miss Mundo Dominicana 2011" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 2011" .
+<First_baseman> <sports.sports_position.players> "m.011nyx7h" .
+<m.011ckr0b> <sports.sports_team_roster.position> "First baseman" .
+<Baseball_Player> <type.type.properties> "Batting Statistics" .
+<Dominican_Adventist_University> <education.educational_institution.campuses> "Dominican Adventist University" .
+<From> <rdf-schema#range> "Date/Time" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<m.0k0n234> <sports.sports_team_roster.position> "First baseman" .
+<m.06s6m6_> <baseball.batting_statistics.season> "2005 Major League Baseball season" .
+<m.0y_8lzx> <freebase.valuenotation.has_no_value> "Ceremony" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 2001" .
+<Place_of_birth> <type.property.reverse_property> "People born here" .
+<New_York_City> <base.biblioness.bibs_location.country> "United States of America" .
+<Dominican_Republic> <common.topic.notable_types> "Country" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.04xwlnb> <sports.sports_award.award_winner> "Albert Pujols" .
+<First_baseman> <sports.sports_position.players> "m.0zbc_l6" .
+<First_baseman> <sports.sports_position.players> "g.1yx1wbcwn" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1982" .
+<Person> <freebase.type_profile.published> "Published" .
+<To> <rdf-schema#range> "Date/Time" .
+<Santo_Domingo> <location.location.events> "Reina Nacional de Belleza Miss República Dominicana 2006" .
+<Albert_Pujols> <baseball.baseball_player.batting_stats> "m.06s6m8k" .
+<m.04yp0s9> <freebase.valuenotation.has_no_value> "Winning work" .
+<2004_Major_League_Baseball_season> <time.event.next_in_series> "2005 Major League Baseball season" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1983" .
+<2003_Major_League_Baseball_season> <time.event.previous_in_series> "2002 Major League Baseball Season" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1969" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<St._Louis_Cardinals> <sports.professional_sports_team.draft_picks> "m.0461q4y" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<Baseball_Player> <freebase.type_profile.kind> "Title" .
+<Santo_Domingo> <location.location.events> "Mister Universe Model 2008" .
+<m.0z64t_q> <award.award_nomination.award_nominee> "Albert Pujols" .
+<New_York_City> <common.topic.notable_types> "City/Town/Village" .
+<Santo_Domingo> <location.location.events> "United States occupation of the Dominican Republic" .
+<Albert_Pujols,_Jr.> <people.person.gender> "Male" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<2010_ESPY_Awards> <award.award_ceremony.awards_presented> "m.0z3sfls" .
+<Albert_Pujols> <award.award_winner.awards_won> "m.04yp0sf" .
+<First_baseman> <base.schemastaging.context_name.pronunciation> "g.125_m4d8d" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<Santo_Domingo> <location.statistical_region.population> "m.03wzkl7" .
+<m.04w0zf8> <freebase.valuenotation.has_no_value> "Ceremony" .
+<Las_Américas_International_Airport> <location.location.containedby> "Hispaniola" .
+<Santo_Domingo> <location.location.events> "Miss Turismo Dominicana 2009" .
+<m.0z71zsp> <award.award_nomination.award> "Best Major League Baseball Player ESPY Award" .
+<m.05kb0jt> <sports.sports_team_roster.team> "Scottsdale Scorpions" .
+<Country_of_nationality> <rdf-schema#domain> "Person" .
+<m.05kb0jt> <sports.sports_team_roster.player> "Albert Pujols" .
+<St._Louis> <location.location.containedby> "United States of America" .
+<Fort_Osage_High_School> <education.educational_institution.students_graduates> "m.0n1mywg" .
+<Athlete> <freebase.equivalent_topic.equivalent_type> "Athlete" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<National_League_Most_Valuable_Player_Award> <award.award_category.winners> "m.04w0zfn" .
+<Distrito_Nacional> <location.location.contains> "Central Santo Domingo" .
+<2006_ESPY_Awards> <award.award_ceremony.awards_presented> "m.04yp0sf" .
+<m.0z3ts8g> <award.award_nomination.ceremony> "2009 ESPY Awards" .
+<m.0l4r_4n> <sports.sports_team_roster.position> "First baseman" .
+<Albert_Pujols> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Dominican_Civil_War> <time.event.locations> "Santo Domingo" .
+<m.0461q4y> <sports.sports_league_draft_pick.school> "Maple Woods Community College" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<Albert_Pujols> <award.award_winner.awards_won> "m.0z3ts54" .
+<Albert_Pujols> <award.award_nominee.award_nominations> "m.0z5cxnl" .
+<First_baseman> <sports.sports_position.players> "m.0k0w2v3" .
+<m.04w0zf8> <award.award_honor.award_winner> "Albert Pujols" .
+<First_baseman> <sports.sports_position.players> "m.0z16m8m" .
+<Sophia_Pujols> <people.person.gender> "Female" .
+<Albert_Pujols> <freebase.valuenotation.is_reviewed> "Gender" .
+<Universidad_Católica_Santo_Domingo> <education.educational_institution.campuses> "Universidad Católica Santo Domingo" .
+<Hispaniola> <location.location.contains> "Las Américas International Airport" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<m.0gggrzr> <freebase.valuenotation.is_reviewed> "Number" .
+<Malecon_Center_1> <location.location.containedby> "Santo Domingo" .
+<Baseball_Player> <freebase.type_profile.strict_included_types> "Athlete" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<First_baseman> <sports.sports_position.players> "m.011ktsks" .
+<St._Louis> <common.topic.notable_types> "City/Town/Village" .
+<Torre_Azul> <location.location.containedby> "Dominican Republic" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<Athlete> <freebase.type_profile.strict_included_types> "Person" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1986" .
+<Dominican_Republic> <location.country.administrative_divisions> "Distrito Nacional" .
+<m.0h2nw6z> <film.performance.film> "MLB Superstars Show You Their Game" .
+<m.0645krg> <sports.sports_team_roster.position> "First baseman" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<m.0y_8lzx> <freebase.valuenotation.has_no_value> "Winning work" .
+<Best_International_Athlete_ESPY_Award> <award.award_category.nominees> "m.0z5cxnl" .
+<Baseball> <freebase.equivalent_topic.equivalent_domain> "Baseball" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Distrito_Nacional> <location.administrative_division.country> "Dominican Republic" .
+<Santo_Domingo> <sports.sports_team_location.teams> "Tigres del Licey" .
+<m.0wdd82v> <base.schemastaging.athlete_salary.athlete> "Albert Pujols" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1970" .
+<Baseball_Player> <type.type.properties> "Position(s)" .
+<Metropolitan_Community_College-Maple_Woods> <education.educational_institution.campuses> "Metropolitan Community College-Maple Woods" .
+<Santo_Domingo> <location.location.contains> "Torre Carib" .
+<m.04yp0sf> <award.award_honor.award_winner> "Albert Pujols" .
+<Rafael_Trujillo> <people.deceased_person.place_of_death> "Santo Domingo" .
+<Location> <freebase.type_profile.published> "Published" .
+<United_States_of_America> <location.country.currency_used> "United States Dollar" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<m.0z4y2gx> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Santo_Domingo> <periodicals.newspaper_circulation_area.newspapers> "Listín Diario" .
+<Malecon_Center_3> <location.location.containedby> "Dominican Republic" .
+<Albert_Pujols> <people.person.children> "Ezra Pujols" .
+<Albert_Pujols> <baseball.baseball_player.batting_stats> "m.06s6m5g" .
+<Date_of_birth> <type.property.expected_type> "Date/Time" .
+<m.04hvx1y> <people.place_lived.location> "New York City" .
+<Major_League_Baseball_Players_Association> <business.trade_union.professions_represented> "Baseball player" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.011ktsks> <freebase.valuenotation.has_no_value> "To" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1998" .
+<Santo_Domingo> <location.location.contains> "Torre Azul" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<Albert_Pujols> <people.person.gender> "Male" .
+<Baseball_Player> <freebase.type_profile.strict_included_types> "Topic" .
+<New_York_City> <base.biblioness.bibs_topic.is_really> "New York City" .
+<m.0c5544p> <sports.pro_sports_played.athlete> "Albert Pujols" .
+<Country> <freebase.type_hints.included_types> "Location" .
+<Albert_Pujols> <award.award_winner.awards_won> "m.04w0zf8" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Santo_Domingo> <location.location.contains> "Malecon Center 2" .
+<DSC00621_Albert_Pujols> <common.image.size> "m.0635_d5" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<Children> <type.property.master_property> "Parents" .
+<m.05bdvc3> <sports.sports_team_roster.position> "First baseman" .
+<First_baseman> <sports.sports_position.players> "m.0v1d5zk" .
+<Albert_Pujols> <common.topic.image> "Pujols facing" .
+<m.0115gjmx> <freebase.valuenotation.has_value> "Number" .
+<First_baseman> <sports.sports_position.players> "g.1yx1wbcp1" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1968" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<Best_Major_League_Baseball_Player_ESPY_Award> <award.award_category.nominees> "m.0z4v2q6" .
+<m.0z64t_q> <award.award_nomination.award> "Best Major League Baseball Player ESPY Award" .
+<Santo_Domingo> <location.location.contains> "Stevens Institute of Technology International" .
+<m.0z8d09d> <award.award_nomination.ceremony> "2011 Teen Choice Awards" .
+<Dominican_Republic> <base.aareas.schema.administrative_area.administrative_children> "Distrito Nacional" .
+<Albert_Pujols> <baseball.baseball_player.batting_stats> "m.06s6mcz" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<Best_Major_League_Baseball_Player_ESPY_Award> <award.award_category.nominees> "m.0z71zsp" .
+<United_States_occupation_of_the_Dominican_Republic> <time.event.locations> "Santo Domingo" .
+<Country_of_nationality> <type.property.schema> "Person" .
+<Santo_Domingo> <location.location.events> "Siege of Santo Domingo" .
+<Baseball_Player> <freebase.type_hints.included_types> "Person" .
+<2001_Major_League_Baseball_Season> <sports.sports_league_season.awards> "m.04ynyvj" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Baseball_player> <fictional_universe.character_occupation.characters_with_this_occupation> "Shoeless Joe Jackson" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1972" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1996" .
+<New_York_City> <location.location.containedby> "United States of America" .
+<Santo_Domingo> <common.topic.webpage> "m.09hxm6l" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Santo_Domingo> <location.location.contains> "Torre Mar Azul 2" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1992" .
+<m.0z3sfls> <freebase.valuenotation.has_no_value> "Winning work" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<Pujols3> <common.image.size> "m.02b3vqs" .
+<m.0gw2gqt> <award.award_honor.award> "Hank Aaron Award" .
+<Best_Major_League_Baseball_Player_ESPY_Award> <award.award_category.winners> "m.04yp0sf" .
+<m.0z8xfms> <award.award_nomination.award> "Teen Choice Award for Choice Male Athlete" .
+<Santo_Domingo> <location.location.contains> "Universidad Santo Tomás de Aquino" .
+<Santo_Domingo> <location.location.contains> "Torre Margot 1" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<Santo_Domingo> <location.location.contains> "Torre del Sol" .
+<2002_Major_League_Baseball_Season> <time.event.next_in_series> "2003 Major League Baseball season" .
+<Best_Major_League_Baseball_Player_ESPY_Award> <award.award_category.nominees> "m.0z3sdtt" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Siege_of_Santo_Domingo> <time.event.locations> "Santo Domingo" .
+<Baseball_Player> <freebase.type_profile.equivalent_topic> "Baseball player" .
+<St._Louis> <location.hud_county_place.place> "St. Louis" .
+<m.0z5b2pj> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.04w0zf8> <award.award_honor.award> "National League Most Valuable Player Award" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<Albert_Pujols> <people.person.nationality> "Dominican Republic" .
+<Albert_Pujols> <baseball.baseball_player.batting_stats> "m.06s6m3w" .
+<Albert_Pujols> <film.actor.film> "m.0h2nw6z" .
+<Infielder> <common.topic.notable_types> "Baseball Position" .
+<m.0j2qh8y> <people.marriage.type_of_union> "Marriage" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<m.04w0zfn> <award.award_honor.award> "National League Most Valuable Player Award" .
+<To> <type.property.expected_type> "Date/Time" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1994" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<m.0z4v2q6> <award.award_nomination.award> "Best Major League Baseball Player ESPY Award" .
+<First_baseman> <sports.sports_position.players> "g.1yx1wbdhy" .
+<Las_Américas_International_Airport> <location.location.containedby> "Dominican Republic" .
+<Santo_Domingo> <location.location.contains> "Universidad Intec" .
+<Santo_Domingo> <location.location.contains> "Malecon Center 1" .
+<m.0z71zsp> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<Date_of_birth> <rdf-schema#domain> "Person" .
+<Intercentro> <location.location.containedby> "Santo Domingo" .
+<m.09nbjw7> <tv.tv_guest_role.character> "St. Louis Cardinals Player" .
+<m.0c5544p> <freebase.valuenotation.has_no_value> "To" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<To> <type.property.expected_type> "Date/Time" .
+<2005_Major_League_Baseball_season> <time.event.next_in_series> "2006 Major League Baseball season" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<m.0ypxvmn> <film.personal_film_appearance.person> "Albert Pujols" .
+<Albert_Pujols> <award.award_nominee.award_nominations> "m.0z5b2pj" .
+<Santo_Domingo> <symbols.namesake.named_after> "Rafael Trujillo" .
+<m.0z64t_q> <award.award_nomination.ceremony> "2005 ESPY Awards" .
+<m.0gw2gqt> <award.award_honor.award_winner> "Albert Pujols" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<m.06s6m23> <baseball.batting_statistics.team> "St. Louis Cardinals" .
+<m.0z3sdtt> <award.award_nomination.award> "Best Major League Baseball Player ESPY Award" .
+<Albert_Pujols> <baseball.baseball_player.batting_stats> "m.06s6m0p" .
+<m.0yzxc18> <sports.sports_team_roster.position> "First baseman" .
+<Baseball> <sports.sport.positions> "Infielder" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1956" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<m.0z8xfms> <award.award_nomination.award_nominee> "Albert Pujols" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<United_States_Dollar> <finance.currency.countries_used> "United States of America" .
+<Albert_Pujols> <award.award_nominee.award_nominations> "m.0z3qkjv" .
+<m.09nbjw7> <tv.tv_guest_role.episodes_appeared_in> "2004 World Series Game 1" .
+<Universidad_de_la_Tercera_Edad> <education.educational_institution_campus.educational_institution> "Universidad de la Tercera Edad" .
+<m.0z3pnhm> <freebase.valuenotation.has_value> "Number" .
+<National_League_Most_Valuable_Player_Award> <sports.sports_award_type.winners> "m.04xwlnb" .
+<Universidad_Experimental_Félix_Adam> <location.location.containedby> "Distrito Nacional" .
+<m.0j2qh8m> <base.schemastaging.athlete_salary.athlete> "Albert Pujols" .
+<m.09ycfn4> <common.webpage.topic> "First baseman" .
+<Pujols_facing> <common.image.size> "m.03r4y_b" .
+<Torre_Caney> <location.location.containedby> "Santo Domingo" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.0z3ts54> <award.award_honor.award> "Best Major League Baseball Player ESPY Award" .
+<Albert_Pujols> <people.person.children> "Isabella Pujols" .
+<Santo_Domingo> <location.location.contains> "Palacio de los Deportes Virgilio Travieso Soto" .
+<Baseball_Player> <freebase.type_hints.included_types> "Topic" .
+<m.0z3sfls> <award.award_honor.ceremony> "2010 ESPY Awards" .
+<m.0z3ts54> <award.award_honor.award_winner> "Albert Pujols" .
+<m.06s6m5g> <baseball.batting_statistics.season> "2004 Major League Baseball season" .
+<m.0z4y2gx> <award.award_nomination.award_nominee> "Albert Pujols" .
+<Athlete> <freebase.type_profile.strict_included_types> "Topic" .
+<Santo_Domingo> <location.location.contains> "Universidad Nacional Pedro Henríquez Ureña" .
+<Country> <freebase.type_profile.published> "Published" .
+<Torre_Silver_Sun_Gallery> <location.location.containedby> "Dominican Republic" .
+<Santo_Domingo> <common.topic.notable_types> "City/Town/Village" .
+<First_baseman> <sports.sports_position.players> "m.05bdvc3" .
+<m.0z3qkjv> <freebase.valuenotation.has_no_value> "Nominated work" .
+<2005_Major_League_Baseball_season> <time.event.previous_in_series> "2004 Major League Baseball season" .
+<Distrito_Nacional> <location.location.contains> "Santo Domingo" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<Santo_Domingo> <location.location.events> "Battle of San Domingo" .
+<1999_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.0461q4y" .
+<First_baseman> <sports.sports_position.players> "m.0zv2xxc" .
+<m.06s6m8k> <baseball.batting_statistics.player> "Albert Pujols" .
+<m.0gggrzr> <sports.sports_team_roster.position> "First baseman" .
+<m.0z3sfls> <award.award_honor.award> "Best Major League Baseball Player ESPY Award" .
+<Hank_Aaron_Award> <award.award_category.winners> "m.0gw2gqt" .
+<m.0461q4y> <sports.sports_league_draft_pick.player> "Albert Pujols" .
+<Albert_Pujols> <common.topic.image> "DSC00621 Albert Pujols" .
+<m.04yp0sf> <freebase.valuenotation.has_no_value> "Winning work" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Siege_of_Santo_Domingo> <time.event.locations> "Santo Domingo" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1984" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1957" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<Torre_Mar_Azul_2> <location.location.containedby> "Dominican Republic" .
+<Santo_Domingo> <location.location.events> "Miss Mundo Dominicana 2004" .
+<First_baseman> <common.topic.notable_for> "g.125fs0j86" .
+<First_baseman> <sports.sports_position.players> "g.1q5bfp2j5" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<m.0wdd82v> <base.schemastaging.athlete_salary.team> "Los Angeles Angels of Anaheim" .
+<Sophia_Pujols> <common.topic.notable_types> "Person" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1971" .
+<m.06s6mb3> <baseball.batting_statistics.team> "St. Louis Cardinals" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1980" .
+<Universidad_APEC> <location.location.containedby> "Dominican Republic" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<m.010h3j4g> <education.education.student> "Albert Pujols" .
+<m.010qv4k5> <freebase.valuenotation.has_no_value> "To" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<Albert_Pujols> <sports.pro_athlete.teams> "m.05kb0jt" .
+<Teen_Choice_Award_for_Choice_Male_Athlete> <award.award_category.nominees> "m.0z87f7t" .
+<Place_of_birth> <type.property.expected_type> "Location" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<Baseball_Player> <type.type.expected_by> "Player" .
+<Scottsdale_Scorpions> <sports.sports_team.roster> "m.05kb0jt" .
+<m.06s6m0p> <baseball.batting_statistics.season> "2001 Major League Baseball Season" .
+<Santo_Domingo> <base.ontologies.ontology_instance.equivalent_instances> "m.09kl_x7" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1977" .
+<Albert_Pujols> <people.person.profession> "Baseball player" .
+<m.0c5544p> <sports.pro_sports_played.sport> "Baseball" .
+<Torre_Margot_1> <location.location.containedby> "Dominican Republic" .
+<Jackie_Robinson> <fictional_universe.fictional_character.occupation> "Baseball player" .
+<Universidad_Nacional_Evangélica,_main_campus> <location.location.containedby> "Dominican Republic" .
+<2005_Major_League_Baseball_season> <sports.sports_league_season.awards> "m.04xwlnk" .
+<Isabella_Pujols> <people.person.gender> "Female" .
+<Baseball_Player> <type.type.expected_by> "Players" .
+<United_States_of_America> <common.topic.notable_types> "Country" .
+<m.0n9hb58> <award.award_honor.award_winner> "Albert Pujols" .
+<m.0z64t_q> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Baseball_player> <fictional_universe.character_occupation.characters_with_this_occupation> "Joe DiMaggio" .
+<Santo_Domingo> <location.location.contains> "Diandy XX" .
+<First_baseman> <sports.sports_position.players> "m.010qv4k5" .
+<m.011nyx7h> <sports.sports_team_roster.position> "First baseman" .
+<Albert_Pujols> <film.person_or_entity_appearing_in_film.films> "m.0ypxvmn" .
+<m.04xwlnb> <sports.sports_award.award> "National League Most Valuable Player Award" .
+<m.0j2qh8m> <base.schemastaging.athlete_salary.team> "Los Angeles Angels of Anaheim" .
+<m.0z3qkjv> <award.award_nomination.award> "Best Male Athlete ESPY Award" .
+<Santo_Domingo> <location.location.containedby> "Hispaniola" .
+<m.010pvxp9> <freebase.valuenotation.has_no_value> "To" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<First_baseman> <sports.sports_position.players> "m.0v2_g_z" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<Torre_Silver_Sun_Gallery> <location.location.containedby> "Santo Domingo" .
+<m.0z5cxnl> <award.award_nomination.award_nominee> "Albert Pujols" .
+<Distrito_Nacional> <location.location.containedby> "Dominican Republic" .
+<m.0461q4y> <sports.sports_league_draft_pick.draft> "1999 Major League Baseball Draft" .
+<m.04yp0s9> <award.award_honor.award_winner> "Albert Pujols" .
+<Santo_Domingo> <location.location.events> "Siege of Santo Domingo" .
+<Universidad_Católica_Santo_Domingo> <location.location.containedby> "Santo Domingo" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<Santo_Domingo> <base.biblioness.bibs_location.country> "Dominican Republic" .
+<2001_Major_League_Baseball_Season> <time.event.next_in_series> "2002 Major League Baseball Season" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<First_baseman> <sports.sports_position.players> "m.0k0n234" .
+<m.06s6m0p> <baseball.batting_statistics.player> "Albert Pujols" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 2010" .
+<First_baseman> <sports.sports_position.players> "m.010pvxp9" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<Albert_Pujols> <base.schemastaging.athlete_extra.salary> "m.0j2qh8m" .
+<Santo_Domingo> <common.topic.webpage> "m.03lncxl" .
+<m.03prrrl> <people.place_lived.location> "Independence" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<Santo_Domingo> <location.statistical_region.population> "g.11bc87xcfj" .
+<m.011nyx7h> <freebase.valuenotation.has_value> "Number" .
+<Baseball_player> <fictional_universe.character_occupation.characters_with_this_occupation> "Phil Dwyer" .
+<Baseball_player> <base.descriptive_names.names.descriptive_name> "m.0106bnln" .
+<Rafael_Trujillo> <people.person.gender> "Male" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<2004_Major_League_Baseball_season> <time.event.previous_in_series> "2003 Major League Baseball season" .
+<m.0v2_g_z> <sports.sports_team_roster.position> "First baseman" .
+<m.0z3r9wp> <sports.sports_team_roster.position> "First baseman" .
+<MLB_Superstars_Show_You_Their_Game> <film.film.starring> "m.0h2nw6z" .
+<New_York_City> <location.hud_county_place.place> "New York City" .
+<Sophia_Pujols> <common.topic.notable_for> "g.125cz_57w" .
+<Torre_Azul> <location.location.containedby> "Santo Domingo" .
+<m.0z4y2gx> <award.award_nomination.award> "Best Male Athlete ESPY Award" .
+<Parents> <owl#inverseOf> "Children" .
+<St._Louis_Cardinals_Player> <tv.tv_character.appeared_in_tv_episodes> "m.09nbjw7" .
+<Best_Major_League_Baseball_Player_ESPY_Award> <award.award_category.nominees> "m.0z5b2pj" .
+<National_League_Most_Valuable_Player_Award> <sports.sports_award_type.winners> "m.04xwlnk" .
+<Central_Santo_Domingo> <location.location.containedby> "Dominican Republic" .
+<United_States_occupation_of_the_Dominican_Republic> <time.event.locations> "Dominican Republic" .
+<m.03prrrl> <people.place_lived.person> "Albert Pujols" .
+<m.04w0zf8> <freebase.valuenotation.has_no_value> "Winning work" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1988" .
+<Dominican_Republic> <location.country.first_level_divisions> "Distrito Nacional" .
+<Central_Santo_Domingo> <location.location.containedby> "Santo Domingo" .
+<Santo_Domingo> <location.location.events> "Miss Universe Dominicana 1999" .
+<MLB_Superstars_Show_You_Their_Game> <media_common.netflix_title.netflix_genres> "Baseball" .
+<m.0z8xfms> <award.award_nomination.ceremony> "2010 Teen Choice Awards" .
+<m.0gy7hfc> <base.ontologies.ontology_instance_mapping.freebase_topic> "Baseball player" .
+<To> <type.property.expected_type> "Date/Time" .
+<Torre_Carib> <location.location.containedby> "Santo Domingo" .
+<Albert_Pujols> <sports.pro_athlete.sports_played_professionally> "m.0c5544p" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<m.09nbjwl> <tv.tv_guest_role.episodes_appeared_in> "Maggie Gyllenhaal, Albert Pujols" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<m.06s6m3w> <baseball.batting_statistics.season> "2003 Major League Baseball season" .
+<First_baseman> <common.topic.article> "m.02s7t_" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<Universidad_APEC> <education.educational_institution_campus.educational_institution> "Universidad APEC" .
+<Santo_Domingo> <location.location.events> "Miss Tierra República Dominicana 2005" .
+<Place_of_birth> <owl#inverseOf> "People born here" .
+<m.06s6mcz> <baseball.batting_statistics.player> "Albert Pujols" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<To> <rdf-schema#range> "Date/Time" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<Santo_Domingo> <location.location.geolocation> "m.02_mqn3" .
+<Baseball_player> <common.topic.notable_for> "g.1254xc13r" .
+<m.0j2qh8y> <freebase.valuenotation.has_no_value> "To" .
+<Albert_Pujols> <baseball.baseball_player.batting_stats> "m.06s6m23" .
+<Torre_del_Sol> <location.location.containedby> "Dominican Republic" .
+<Albert_Pujols> <award.award_winner.awards_won> "m.0z3sfls" .
+<Albert_Pujols> <sports.drafted_athlete.drafted> "m.0461q4y" .
+<Santo_Domingo> <location.location.contains> "Columbus Lighthouse Monument" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<Santo_Domingo> <location.location.contains> "Torre Citibank" .
+<First_baseman> <sports.sports_position.players> "m.0645krg" .
+<m.04ypjzn> <sports.sports_award.award> "National League Gold Glove Award" .
+<Santo_Domingo> <location.location.events> "Mister Universe Model 2012" .
+<m.0z3qkjv> <award.award_nomination.award_nominee> "Albert Pujols" .
+<Albert_Pujols> <common.topic.notable_types> "Baseball Player" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<Parents> <type.property.schema> "Person" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<First_baseman> <sports.sports_position.players> "g.1yx1wbd59" .
+<m.06s6m5g> <baseball.batting_statistics.player> "Albert Pujols" .
+<m.09ygxhm> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Universidad_Nacional_Pedro_Henríquez_Ureña> <location.location.containedby> "Santo Domingo" .
+<Ezra_Pujols> <people.person.gender> "Male" .
+<m.0z8d09d> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Country_of_nationality> <rdf-schema#range> "Country" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<Universidad_Nacional_Pedro_Henríquez_Ureña> <education.educational_institution.campuses> "Universidad Nacional Pedro Henríquez Ureña" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<Santo_Domingo> <sports.sports_team_location.teams> "Leones del Escogido" .
+<m.04xwlnk> <sports.sports_award.award> "National League Most Valuable Player Award" .
+<First_baseman> <sports.sports_position.players> "g.1yx1wbd91" .
+<m.04yp0s9> <award.award_honor.award> "Best Major League Baseball Player ESPY Award" .
+<Albert_Pujols> <award.award_nominee.award_nominations> "m.0z4v2q6" .
+<m.0q3dk13> <location.administrative_division_capital_relationship.administrative_division> "Distrito Nacional" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 2007" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<Infielder> <people.profession.specialization_of> "Baseball player" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Deidre_Pujols> <people.person.gender> "Female" .
+<Baseball_player> <base.descriptive_names.names.descriptive_name> "m.0106bnv2" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.country> "United States of America" .
+<m.0z3qkjv> <award.award_nomination.ceremony> "2010 ESPY Awards" .
+<Deidre_Pujols> <people.person.spouse_s> "m.0j2qh8y" .
+<Best_Major_League_Baseball_Player_ESPY_Award> <award.award_category.winners> "m.04yp0s9" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<Distrito_Nacional> <location.location.contains> "Universidad Nacional Evangélica, main campus" .
+<Santo_Domingo> <location.statistical_region.population> "g.11btt603nb" .
+<Santo_Domingo> <location.location.contains> "Dominican Adventist University" .
+<m.09ycfn4> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.06s6m8k> <baseball.batting_statistics.season> "2006 Major League Baseball season" .
+<m.0j2qh8y> <people.marriage.spouse> "Albert Pujols" .
+<Malecon_Center_2> <location.location.containedby> "Santo Domingo" .
+<m.0h2nw6z> <film.performance.actor> "Albert Pujols" .
+<St._Louis_Cardinals> <sports.sports_team.location> "St. Louis" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<Santo_Domingo> <location.location.events> "2003 Pan American Games" .
+<Albert_Pujols> <people.person.places_lived> "m.03pk1v8" .
+<m.04w0zfn> <freebase.valuenotation.has_no_value> "Winning work" .
+<Santo_Domingo> <location.location.contains> "Universidad Experimental Félix Adam" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1976" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1958" .
+<Person> <type.type.properties> "Date of birth" .
+<Ezra_Pujols> <common.topic.notable_types> "Person" .
+<m.05bdvc3> <freebase.valuenotation.has_value> "Number" .
+<Albert_Pujols> <people.person.places_lived> "m.04hvx1y" .
+<m.09ygxhm> <common.webpage.resource> "President Obama's All-Star Game Pitch: Dad jeans on display" .
+<Athlete> <freebase.type_hints.included_types> "Person" .
+<Santo_Domingo> <location.location.events> "2001 Women's NORCECA Volleyball Championship" .
+<First_baseman> <common.topic.webpage> "m.09ycfn4" .
+<Siege_of_Santo_Domingo> <time.event.locations> "Santo Domingo" .
+<m.06s6mb3> <baseball.batting_statistics.season> "2007 Major League Baseball season" .
+<Santo_Domingo> <location.location.events> "Santo Domingo Affair" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Albert_Pujols> <sports.sports_award_winner.awards> "m.04xwlnk" .
+<Baseball_Player> <type.type.domain> "Baseball" .
+<Santo_Domingo> <location.location.events> "2011 Encuentros del Otro Cine" .
+<m.0z16m8m> <sports.sports_team_roster.position> "First baseman" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<Baseball_player> <people.profession.corresponding_type> "Baseball Player" .
+<Torre_del_Parque> <location.location.containedby> "Dominican Republic" .
+<m.06s6m0p> <baseball.batting_statistics.team> "St. Louis Cardinals" .
+<Gender> <rdf-schema#domain> "Person" .
+<m.0115gjmx> <sports.sports_team_roster.position> "Infielder" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<St._Louis> <base.biblioness.bibs_location.country> "United States of America" .
+<Albert_Pujols> <sports.sports_award_winner.awards> "m.04ynyvj" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1993" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<Santo_Domingo> <location.location.contains> "Central Santo Domingo" .
+<Torre_del_Parque> <location.location.containedby> "Santo Domingo" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<m.03lncxl> <common.webpage.topic> "Santo Domingo" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1966" .
+<m.0ypxvmn> <film.personal_film_appearance.film> "Knuckleball!" .
+<Best_Male_Athlete_ESPY_Award> <award.award_category.nominees> "m.0z3qkjv" .
+<Santo_Domingo> <location.location.events> "Miss Universe Dominicana 2000" .
+<m.0n1mywg> <education.education.institution> "Fort Osage High School" .
+<Albert_Pujols> <common.topic.notable_for> "g.1255ny6f6" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<Universidad_Experimental_Félix_Adam> <location.location.containedby> "Santo Domingo" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<Baseball_player> <base.ontologies.ontology_instance.equivalent_instances> "m.0gy7jbg" .
+<Santo_Domingo> <location.location.events> "Miss Dominican Republic 1973" .
+<m.0z4v2q6> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.04hvx1y> <people.place_lived.person> "Albert Pujols" .
+<Albert_Pujols> <sports.pro_athlete.teams> "m.04xhdn1" .
+<First_baseman> <sports.sports_position.players> "m.0z3pnhm" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Torre_Citibank> <location.location.containedby> "Santo Domingo" .
+<Torre_Citibank> <location.location.containedby> "Dominican Republic" .
+<Albert_Pujols> <freebase.valuenotation.has_value> "Parents" .
+<m.0k0w2v3> <sports.sports_team_roster.position> "First baseman" .
+<m.09k_3y4> <baseball.lifetime_batting_statistics.player> "Albert Pujols" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.0zbc_l6> <freebase.valuenotation.has_no_value> "To" .
+<m.09nbjw7> <tv.tv_guest_role.actor> "Albert Pujols" .
+<Universidad_de_la_Tercera_Edad> <location.location.containedby> "Dominican Republic" .
+<Albert_Pujols> <people.person.places_lived> "m.03prrrl" .
+<Los_Angeles_Angels_of_Anaheim> <sports.sports_team.sport> "Baseball" .
+<Dominican_Adventist_University> <location.location.containedby> "Santo Domingo" .
+<Albert_Pujols> <award.award_nominee.award_nominations> "m.0z4y2gx" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.04ynyvj> <sports.sports_award.award_winner> "Albert Pujols" .
+<Athlete> <people.profession.corresponding_type> "Athlete" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<Albert_Pujols> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Best_Major_League_Baseball_Player_ESPY_Award> <award.award_category.winners> "m.0z3sfls" .
+<m.011nyx7h> <freebase.valuenotation.is_reviewed> "From" .
+<m.04ypjzn> <sports.sports_award.award_winner> "Albert Pujols" .
+<Malecon_Center_2> <location.location.containedby> "Dominican Republic" .
+<Baseball_Player> <type.type.properties> "Bats" .
+<Santo_Domingo> <location.location.events> "Battle of Santo Domingo (1586)" .
+<Right-handed> <common.topic.image> "Handshake" .
+<Female> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<Baseball_player> <fictional_universe.character_occupation.characters_with_this_occupation> "Jackie Robinson" .
+<m.04xhdn1> <freebase.valuenotation.has_no_value> "To" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Santo_Domingo> <location.location.events> "Siege of Santo Domingo" .
+<Albert_Pujols> <common.topic.image> "Pujols3" .
+<m.010qv4k5> <sports.sports_team_roster.position> "First baseman" .
+<Knuckleball!> <film.film.country> "United States of America" .
+<Person> <type.type.properties> "Place of birth" .
+<m.04xwlnk> <sports.sports_award.award_winner> "Albert Pujols" .
+<Parents> <rdf-schema#range> "Person" .

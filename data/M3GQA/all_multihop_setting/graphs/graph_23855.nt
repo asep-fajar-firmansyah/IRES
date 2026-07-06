@@ -1,0 +1,2268 @@
+<Lawyer> <freebase.type_hints.included_types> "Person" .
+<Politician> <type.type.expected_by> "Ceann Comhairle" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Lawyer" .
+<Stephen_Hornbuckle> <common.topic.subjects> "Attorney at law" .
+<Cairo> <location.location.events> "2009 Khan el-Khalili bombing" .
+<Lawyer> <organization.organization_type.organizations_of_this_type> "Denena & Points, P.C." .
+<Solicitor> <organization.organization_sector.organizations_in_this_sector> "Mercury Legal" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Judge_Phelan> <fictional_universe.fictional_character.gender> "Male" .
+<m.09yw165> <common.webpage.topic> "Politician" .
+<Anthony_Dean_Castelli> <common.topic.subject_of> "Lawyer" .
+<The_Hornbuckle_Firm> <organization.organization.founders> "Thomas Hornbuckle" .
+<Politician> <rdf-schema#range> "Politician" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678lx" .
+<Jesus_R._Lopez> <common.topic.subjects> "Attorney at law" .
+<Lawyer> <people.profession.specializations> "divorce lawyer" .
+<Statesman> <people.profession.specialization_of> "Politician" .
+<Bankruptcy_Lawyer> <common.topic.notable_types> "Profession" .
+<Egypt> <location.country.administrative_divisions> "Qena Governorate" .
+<Egypt> <location.country.administrative_divisions> "Suez Governorate" .
+<Judge> <law.judicial_title.judges> "m.0zs99rc" .
+<Faggala> <location.location.containedby> "Cairo" .
+<Judge> <law.judicial_title.judges> "m.0zb26wd" .
+<Zaman> <book.newspaper.circulation_areas> "Cairo" .
+<North_Sinai_Governorate> <location.location.containedby> "Egypt" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z335z" .
+<Jurist> <common.topic.notable_types> "Profession" .
+<Children> <type.property.schema> "Person" .
+<Politician> <people.profession.part_of_professional_field> "Politics" .
+<Stephen_Hornbuckle> <organization.organization_partnership.members> "The Hornbuckle Firm" .
+<Judge> <fictional_universe.character_occupation.characters_with_this_occupation> "Judge" .
+<Judge> <freebase.type_hints.included_types> "Person" .
+<Egypt> <travel.travel_destination.tour_operators> "Adventures by Disney" .
+<Galstyan_Law_Group> <organization.organization.sectors> "Law" .
+<Jimi_Agbaje> <people.person.profession> "Politician" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Hoffman, Larin & Agnetti, P.A." .
+<Duty_solicitor> <people.profession.specialization_of> "Lawyer" .
+<Anthony_Castelli_Attorney> <common.topic.subject_of> "Lawyer" .
+<Sara_Gaborik> <common.topic.notable_types> "Person" .
+<Obstructive_sleep_apnea> <medicine.disease.risk_factors> "Male" .
+<Spouse_(or_domestic_partner)> <rdf-schema#range> "Marriage" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Mayor" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660xd" .
+<Gout> <medicine.icd_9_cm_classification.parent_classification> "Gout" .
+<Ankylosing_spondylitis> <medicine.disease_cause.diseases> "Kyphosis" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Kidney_Stone> <medicine.disease.causes> "Gout" .
+<Hirschsprung's_disease> <medicine.disease.risk_factors> "Male" .
+<Ismailia_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Matrouh_Governorate> <location.location.containedby> "Egypt" .
+<2009_Panorama_of_the_European_Film> <time.event.locations> "Cairo" .
+<Statesman> <people.profession.specialization_of> "Official" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<Cairo> <film.film_location.featured_in_films> "Fair Game" .
+<m.0wkf_yb> <education.education.degree> "Bachelor of Laws" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zn30" .
+<Axess_Law> <organization.organization.organization_type> "Lawyer" .
+<Judge> <law.judicial_title.judges> "m.0wzgx4m" .
+<Tribal_Rights_Leader> <people.profession.specialization_of> "Politician" .
+<Lawyer> <people.profession.specializations> "Conveyancer" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <business.business_location.parent_company> "Hoffman, Larin & Agnetti, P.A." .
+<Solicitor> <common.topic.notable_types> "Profession" .
+<Egypt> <location.location.time_zones> "Eastern European Time Zone" .
+<Al-Ahram_Al-Masaa'i> <book.newspaper.circulation_areas> "Cairo" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066119" .
+<m.012sc1p0> <education.education.major_field_of_study> "Lawyer" .
+<Adventures_by_Disney_-_Egypt_Vacation> <location.location.nearby_airports> "Cairo International Airport" .
+<Law> <people.professional_field.professions_in_this_field> "Criminal defense lawyer" .
+<Politician> <type.type.expected_by> "Candidate" .
+<Inguinal_hernia> <medicine.disease.risk_factors> "Male" .
+<Doc_Hudson> <fictional_universe.fictional_character.occupation> "Judge" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<Cairo> <location.location.contains> "Sheikh Zayed City" .
+<m.0wd4m19> <government.government_position_held.basic_title> "Acting President" .
+<French_University_in_Egypt> <education.educational_institution.campuses> "French University in Egypt" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z333y" .
+<Cairo> <film.film_location.featured_in_films> "Valley of the Kings" .
+<Children> <rdf-schema#domain> "Person" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Sohag Governorate" .
+<Public_Health_Leader> <common.topic.notable_types> "Profession" .
+<Law> <common.topic.subject_of> "Reyes Brown Reilley" .
+<Higher_Technological_Institute> <location.location.containedby> "Cairo" .
+<Judge> <common.topic.subject_of> "Court order" .
+<Cairo> <military.military_post.people_posted_here> "m.0cjfkbp" .
+<Politician> <people.profession.specializations> "Public Health Leader" .
+<Officeholder> <owl#inverseOf> "Government Positions Held" .
+<Cairo> <location.location.contains> "AUC Downtown" .
+<Risk_Factor> <freebase.type_profile.strict_included_types> "Topic" .
+<Adly_Mansour> <people.person.place_of_birth> "Cairo" .
+<m.012l156q> <education.educational_institution.students_graduates> "m.012l156m" .
+<El_Maadi_Residential_Tower_XI> <location.location.containedby> "Egypt" .
+<South_Sinai_Governorate> <location.administrative_division.country> "Egypt" .
+<Judge> <law.judicial_title.judges> "m.0zb28jz" .
+<Judge> <fictional_universe.character_occupation.characters_with_this_occupation> "Judge Irwin" .
+<Cairo> <location.location.contains> "Cairo University School of Medicine" .
+<m.0129fm_k> <education.education.student> "Adly Mansour" .
+<Keith_Sullivan> <common.topic.subject_of> "Personal injury lawyer" .
+<Judge> <fictional_universe.character_occupation.characters_with_this_occupation> "Judge Jennings" .
+<Law> <common.topic.subjects> "Ozols Law Firm" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.010nwnjf" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Brian_White_&_Associates,_P.C.> <common.topic.subjects> "Personal injury lawyer" .
+<Grand_Mufti> <people.profession.specialization_of> "Lawyer" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<Cairo> <base.ontologies.ontology_instance.equivalent_instances> "m.09bzxwh" .
+<Judge> <law.judicial_title.judges> "m.0zb27qf" .
+<Politician> <people.profession.specializations> "Civil Rights Leader" .
+<thefloridafirm.com> <common.topic.subject_of> "Personal injury lawyer" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.011_yzj3" .
+<m.012m9w_l> <education.education.student> "Adly Mansour" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.010885jj" .
+<Beheira_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<m.09w_20n> <common.webpage.topic> "Politician" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011cm0ng" .
+<Cairo> <location.location.contains> "El Shorouk Academy" .
+<Cairo> <location.location.events> "2002 Cairo International Film Festival" .
+<Egypt> <location.location.events> "Battle of Ridaniya" .
+<Egypt> <location.country.administrative_divisions> "Aswan Governorate" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z33x_" .
+<Greater_Cairo> <location.location.containedby> "Egypt" .
+<Stuttering> <medicine.disease.risk_factors> "Male" .
+<Mediator> <people.profession.specialization_of> "Lawyer" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066lws" .
+<Downtown_L.A._Law_Group> <common.topic.subjects> "Lawyer" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Hoffman, Larin & Agnetti, P.A." .
+<Suez_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Personal_injury_lawyer> <common.topic.subjects> "O’Connor, Runckel & O’Malley LLP" .
+<Cairo> <location.location.events> "2009 Cairo International Film Festival for Children" .
+<Officeholder> <rdf-schema#range> "Politician" .
+<Cairo> <location.location.nearby_airports> "Cairo International Airport" .
+<Higher_Technological_Institute> <education.educational_institution_campus.educational_institution> "Higher Technological Institute" .
+<Shadow_Figure> <fictional_universe.fictional_character.place_of_birth> "Male" .
+<Politician> <people.profession.specializations> "Politician & Trade Unionist" .
+<Giza_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Carey> <common.topic.subjects> "Lawyer" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<Prosecutor> <people.profession.specialization_of> "Lawyer" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Modern_Academy_For_Engineering_&_Technology> <education.educational_institution.campuses> "Modern Academy For Engineering & Technology" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Beheira Governorate" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower XIII" .
+<Cairo> <location.location.contains> "Windsor Hotel" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjmy" .
+<m.0ym8gp6> <law.judicial_tenure.title> "Judge" .
+<Al-Azhar_Mosque> <location.location.containedby> "Cairo" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066154" .
+<Children> <rdf-schema#range> "Person" .
+<Law_Offices_of_Jesus_R._Lopez> <common.topic.subject_of> "Lawyer" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<Cairo> <location.location.contains> "Misr International University" .
+<Akinwunmi_Ambode> <media_common.quotation.author> "Akinwunmi Ambode" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661zf" .
+<Cairo> <travel.travel_destination.tourist_attractions> "Giza Necropolis" .
+<Official> <people.profession.specializations> "Tyrant" .
+<Al-Ahram_Al-Masaa'i> <base.meedan.arabic_language_media_source.city> "Cairo" .
+<Politician> <people.profession.specializations> "Mayor of Auckland" .
+<Parents> <rdf-schema#range> "Person" .
+<Modern_Academy_In_Maadi> <education.educational_institution_campus.educational_institution> "Modern Academy In Maadi" .
+<Thomas_Hornbuckle> <organization.organization_founder.organizations_founded> "The Hornbuckle Firm" .
+<Cairo> <location.location.events> "2001 Cairo International Film Festival" .
+<Al-Ahram_Weekly> <base.meedan.arabic_language_media_source.country> "Egypt" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Law" .
+<Law> <common.topic.subject_of> "Anthony Castelli Attorney" .
+<Judge> <law.judicial_title.judges> "m.0y7rtkc" .
+<Battle_of_the_Pyramids> <time.event.locations> "Cairo" .
+<Quentin_Massys_007> <common.image.appears_in_topic_gallery> "Civil law notary" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<m.0pkprsb> <law.judicial_tenure.title> "Judge" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<Al_Kahera> <base.meedan.arabic_language_media_source.city> "Cairo" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Basant_Mansour> <people.person.gender> "Female" .
+<Shubra> <location.location.containedby> "Cairo" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<Law_Offices_of_Jesus_R._Lopez> <organization.organization.founders> "Jesus R. Lopez" .
+<2003_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.0107xtf7" .
+<Adam_Greenman_Law> <common.topic.subjects> "Attorney at law" .
+<Politician> <common.topic.notable_for> "g.1258k4n_t" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<Politician> <freebase.type_profile.strict_included_types> "Agent" .
+<Cairo> <travel.travel_destination.tourist_attractions> "Abdeen Palace" .
+<m.0rq7z7m> <law.judicial_tenure.title> "Judge" .
+<Future_University_in_Egypt> <location.location.containedby> "Cairo" .
+<Sally_&_Fitch_LLP> <common.topic.subjects> "Lawyer" .
+<Human_Rights_Lawyer> <common.topic.notable_types> "Profession" .
+<Politician> <people.profession.specializations> "Energy Policy Specialist" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<Law> <common.topic.subjects> "Sara Gaborik" .
+<Baraka> <film.film.featured_film_locations> "Cairo" .
+<Lawyer> <common.topic.subject_of> "Loyalty Law" .
+<Spouse_(or_domestic_partner)> <type.property.master_property> "Spouse" .
+<Modern_Academy_In_Maadi> <education.educational_institution.campuses> "Modern Academy In Maadi" .
+<Egypt> <location.country.administrative_divisions> "Monufia Governorate" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<Watani> <book.newspaper.circulation_areas> "Cairo" .
+<Real_estate_lawyer> <common.topic.subject_of> "Axess Law" .
+<Pyramid_of_Djoser> <travel.tourist_attraction.near_travel_destination> "Cairo" .
+<Egypt> <location.country.first_level_divisions> "Al Sharqia Governorate" .
+<Phillips_Law_Firm> <organization.organization.sectors> "Attorney at law" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661zx" .
+<Reiff_and_Bily> <common.topic.subject_of> "Personal injury lawyer" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0102z593" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<Duty_solicitor> <common.topic.notable_types> "Profession" .
+<Sadat_Academy_for_Management_Sciences> <education.educational_institution.campuses> "Sadat Academy for Management Sciences" .
+<Female> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<St._George's_College,_Cairo> <education.educational_institution_campus.educational_institution> "St. George's College, Cairo" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxbv" .
+<m.0_sl34m> <government.government_position_held.appointed_by> "Adly Mansour" .
+<Parents> <type.property.expected_type> "Person" .
+<Lawyer_SEO_Services> <business.brand.products> "Lawyer SEO Services" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower XI" .
+<Judge> <law.judicial_title.judges> "m.0znmcnp" .
+<Ororo_Munroe_/_Storm> <fictional_universe.fictional_character.places_lived> "Cairo" .
+<Cairo> <location.location.contains> "Ain Shams University" .
+<Hair_loss> <medicine.symptom.symptom_of> "Syphilis" .
+<Cairo> <location.location.contains> "Grand Nile Tower Hotel" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<m.0xnb9xd> <education.education.degree> "Master's Degree" .
+<Ahmed_Mansour> <people.person.parents> "Adly Mansour" .
+<O’Connor,_Runckel_&_O’Malley_LLP> <organization.organization.locations> "O’Connor, Runckel & O’Malley LLP" .
+<Port_Said_Governorate> <location.location.containedby> "Egypt" .
+<Cairo_University_School_of_Medicine> <location.location.containedby> "Egypt" .
+<Judge> <law.judicial_title.judges> "m.04g72z7" .
+<Lawyer> <common.topic.subject_of> "Accident Advice Helpline" .
+<Egypt> <travel.travel_destination.tour_operators> "Bunnik Tours" .
+<Glasheen,_Valles,_and_Inderman,_LLP> <common.topic.subjects> "Lawyer" .
+<Mayor_of_Montazels> <common.topic.notable_types> "Profession" .
+<Misr_International_University> <education.educational_institution_campus.educational_institution> "Misr International University" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<Judge> <fictional_universe.fictional_character.occupation> "Judge" .
+<Kyphosis> <medicine.disease.causes> "Ankylosing spondylitis" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0108dn6c" .
+<Modern_Sciences_and_Arts_University> <education.educational_institution.campuses> "Modern Sciences and Arts University" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<2001_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_zy2lk" .
+<Cairo> <location.location.contains> "Heliopolis Palace" .
+<Advocacy> <people.profession.specialization_of> "Politician" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Law" .
+<Lawyer> <people.profession.specializations> "Attorney at law" .
+<Port_Said_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Cairo> <common.topic.webpage> "m.0b6s267" .
+<Kidney_Stone> <medicine.disease_cause.diseases> "Urolithiasis" .
+<Pyramid_of_Djoser> <location.location.containedby> "Cairo" .
+<m.01295qbd> <education.education.institution> "m.01295qcq" .
+<Alaskan_Health_Care_Leader> <common.topic.notable_types> "Profession" .
+<m.012fvl7w> <education.educational_institution.students_graduates> "m.012fvl7p" .
+<Judge> <law.judicial_title.judges> "m.0pkprsb" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0101pjk9" .
+<Lawyer> <common.topic.subject_of> "Attig Law Firm" .
+<Cairo> <location.location.contains> "Ring Road" .
+<Nahdet_Masr> <book.newspaper.circulation_areas> "Cairo" .
+<Party_organizer> <people.profession.specialization_of> "Politician" .
+<Nephrotic_syndrome> <medicine.disease.risk_factors> "Male" .
+<m.09xt6w_> <common.webpage.topic> "Politician" .
+<Politician> <common.topic.webpage> "m.09x1dpm" .
+<m.0y7xqs2> <law.judicial_tenure.title> "Judge" .
+<Politician> <people.profession.corresponding_type> "Politician" .
+<m.0qtqm45> <law.judicial_tenure.title> "Judge" .
+<Egypt> <periodicals.newspaper_circulation_area.newspapers> "Al-Ahram Weekly" .
+<Tyrant> <people.profession.specialization_of> "Politician" .
+<Housing_and_Community_Development_Leader> <people.profession.specialization_of> "Politician" .
+<Politician> <common.topic.webpage> "m.0b45tny" .
+<m.0zsv0_b> <law.judicial_tenure.title> "Judge" .
+<Judge> <law.judicial_title.judges> "m.0ym8gp6" .
+<m.0wljtz5> <education.education.institution> "École nationale d'administration" .
+<Elizabeth_Donnelly> <fictional_universe.fictional_character.occupation> "Judge" .
+<Cairo> <common.topic.article> "m.01w34" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Michigan Auto Law" .
+<Cairo> <location.location.contains> "Faggala" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<m.0_sl34m> <government.government_position_held.basic_title> "Acting Prime Minister" .
+<2011_Nile_Basin_Tournament> <time.event.locations> "Cairo" .
+<All_the_King's_Men> <book.book.characters> "Judge Irwin" .
+<Monufia_Governorate> <location.location.containedby> "Egypt" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<m.012m1410> <education.educational_institution.students_graduates> "m.012m13_s" .
+<Almesryoon> <base.meedan.arabic_language_media_source.city> "Cairo" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Cairo> <location.location.contains> "British University in Egypt" .
+<Ankylosing_spondylitis> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <common.topic.subject_of> "SexCrimeUK.com - Dedicated Sex Crimes Defence Solicitors" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<El_Shorouk_Academy> <location.location.containedby> "Egypt" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<Law> <common.topic.subjects> "The Rodriguez Law Group" .
+<Denena_&_Points,_P.C.> <organization.organization.organization_type> "Personal injury lawyer" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<New_Cairo> <location.location.contains> "Canadian International College" .
+<Judge_Jennings> <fictional_universe.fictional_character.gender> "Male" .
+<Matrouh_Governorate> <location.administrative_division.country> "Egypt" .
+<Akinwunmi_Ambode> <common.topic.subject_of> "Politician" .
+<Cairo> <location.location.contains> "Zaafarana palace" .
+<South_Sinai_Governorate> <location.location.containedby> "Egypt" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0102z5k7" .
+<m.0zb2bgf> <law.judicial_tenure.title> "Judge" .
+<Politician> <common.topic.webpage> "m.09w1p59" .
+<Environmentalist> <common.topic.notable_types> "Profession" .
+<Adly_Mansour> <people.person.gender> "Male" .
+<m.0125q_fm> <education.educational_institution.students_graduates> "m.0125q_f2" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<m.012g62x7> <education.education.student> "Adly Mansour" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "Al-Ahram Al-Masaa'i" .
+<Solicitor> <common.topic.subject_of> "Weightmans" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.010888c6" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Diplomat" .
+<Judge> <law.judicial_title.judges> "m.0zb286y" .
+<Egypt> <location.country.first_level_divisions> "Qena Governorate" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<El_Maadi_Residential_Tower_XVIII> <location.location.containedby> "Egypt" .
+<Liver_tumour> <medicine.disease.risk_factors> "Male" .
+<m.0wj_kcw> <people.place_lived.person> "Adly Mansour" .
+<Weightmans> <common.topic.subjects> "Law" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<Sheikh_Zayed_City> <location.location.containedby> "Cairo" .
+<The_Hornbuckle_Firm> <common.topic.subjects> "Personal injury lawyer" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678kt" .
+<Giza_Governorate> <location.location.containedby> "Egypt" .
+<Personal_injury_lawyer> <organization.organization_sector.organizations_in_this_sector> "Mercury Legal" .
+<m.07ngkqq> <base.ontologies.ontology_instance_mapping.freebase_topic> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<Lawyer> <people.profession.specializations> "Barrister" .
+<Parents> <type.property.schema> "Person" .
+<Sadat_Academy_for_Management_Sciences> <location.location.containedby> "Egypt" .
+<Nile_University> <location.location.containedby> "Egypt" .
+<Cairo> <travel.travel_destination.tourist_attractions> "Pyramid of Djoser" .
+<Gharbia_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.01088c9k" .
+<Jasmin_Mansour> <people.person.nationality> "Egypt" .
+<Lawyer> <common.topic.subjects> "Daniel Martínez Benito" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<Cairo_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Keen_&_Genochio_Attorneys_at_Law> <common.topic.subjects> "Lawyer" .
+<Adly_Mansour> <common.topic.notable_for> "g.12pkc_6nx" .
+<Solicitor> <common.topic.subject_of> "Weightmans" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Cairo> <location.location.contains> "AUC New Cairo" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<m.012l8d35> <education.education.institution> "m.012l8d3c" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5pml" .
+<Official> <people.profession.specializations> "Diplomat" .
+<Lawyer> <common.topic.subjects> "Criminal defense lawyer" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Cairo Governorate" .
+<State_Attorney> <common.topic.notable_types> "Profession" .
+<Hypospadias> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d43j" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "The Egyptian Gazette" .
+<Hazem_Al_Beblawi> <people.person.place_of_birth> "Cairo" .
+<Koubbeh_Palace> <location.location.containedby> "Egypt" .
+<Barrett's_esophagus> <medicine.disease.risk_factors> "Male" .
+<Cairo> <location.location.contains> "Giza Zoo" .
+<m.07ng7sw> <base.ontologies.ontology_instance_mapping.freebase_topic> "Judge" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Legal Action Workshop" .
+<Judge> <law.judicial_title.judges> "m.0zb29wp" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxn7" .
+<Spouse> <owl#inverseOf> "Spouse (or domestic partner)" .
+<Egypt> <location.country.first_level_divisions> "Alexandria Governorate" .
+<Prime_Minister_of_Egypt> <government.government_office_or_title.office_holders> "m.0w4vnr0" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<Nahdet_Masr> <base.meedan.arabic_language_media_source.city> "Cairo" .
+<Egypt> <periodicals.newspaper_circulation_area.newspapers> "Almesryoon" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Michigan_Auto_Law> <organization.organization.sectors> "Lawyer" .
+<Dansky_|_Katz_|_Ringold_|_York> <common.topic.subject_of> "Lawyer" .
+<Adventures_by_Disney> <travel.tour_operator.travel_destinations> "Cairo" .
+<Judge> <law.judicial_title.judges> "m.0vx8m2g" .
+<Lawyer> <common.topic.image> "Abraham Lincoln head on shoulders photo portrait" .
+<m.0zstw2y> <law.judicial_tenure.title> "Judge" .
+<Al-Azhar_University> <location.location.containedby> "Egypt" .
+<Kafr_el-Sheikh_Governorate> <location.location.containedby> "Egypt" .
+<Lawyer> <people.profession.specializations> "Procurator fiscal" .
+<Myocardial_Ischemia> <medicine.disease.risk_factors> "Male" .
+<Egypt> <location.country.first_level_divisions> "Matrouh Governorate" .
+<Politician> <people.profession.specializations> "AIDS Policy Specialist" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z330p" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_zy40n" .
+<m.0_sl34m> <freebase.valuenotation.has_no_value> "To" .
+<Political_strategist> <common.topic.notable_types> "Profession" .
+<Tahrir_Square> <location.location.containedby> "Cairo" .
+<Lawyer> <common.topic.subject_of> "Weightmans" .
+<Daniel_Martínez_Benito> <common.topic.subject_of> "Lawyer" .
+<Law> <common.topic.subject_of> "Sally & Fitch LLP" .
+<Weightmans> <common.topic.subjects> "Solicitor" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjqg" .
+<AIDS_Policy_Specialist> <common.topic.notable_types> "Profession" .
+<Al_Sharqia_Governorate> <location.administrative_division.country> "Egypt" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0ds" .
+<2007_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Giza_Zoo> <location.location.containedby> "Cairo" .
+<Cairo_West_Airport> <aviation.airport.serves> "Cairo" .
+<Multiple_myeloma> <medicine.disease.risk_factors> "Male" .
+<Cairo> <base.biblioness.bibs_location.country> "Egypt" .
+<Sabil-Kuttab_of_Katkhuda> <location.location.containedby> "Cairo" .
+<Judge> <law.judicial_title.judges> "m.0rq7z7m" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<Conveyancer> <people.profession.specialization_of> "Lawyer" .
+<Axess_Law> <common.topic.subjects> "Lawyer" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d5j5" .
+<Misr_International_University> <location.location.containedby> "Cairo" .
+<Person> <freebase.type_profile.strict_included_types> "Agent" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_zy0_v" .
+<Lawyer> <common.topic.subject_of> "The Hornbuckle Firm" .
+<Galstyan_Law_Group> <common.topic.subjects> "Lawyer" .
+<Egyptian_Museum> <travel.travel_destination.tour_operators> "Adventures by Disney - Egypt Vacation" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0fs" .
+<St._George's_College,_Cairo> <location.location.containedby> "Cairo" .
+<Law_Offices_of_Sara_M._Gaborik> <common.topic.subjects> "Lawyer" .
+<Myocardial_Ischemia> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Law> <common.topic.subjects> "Leinart Law Firm" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower V" .
+<Corneal_abrasion> <medicine.disease.risk_factors> "Male" .
+<Where_Are_You_Go> <film.film.featured_film_locations> "Cairo" .
+<Ismailia_Governorate> <location.administrative_division.country> "Egypt" .
+<Cairo> <location.location.events> "2011 Imbaba church attacks" .
+<Pyramid_of_Djoser> <location.location.containedby> "Egypt" .
+<Egypt> <location.country.first_level_divisions> "Suez Governorate" .
+<Lawyer> <common.topic.subject_of> "Judnich Law Office" .
+<Adly_Mansour> <people.person.education> "m.012mdyck" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z33f0" .
+<Al-Hayat> <book.newspaper.circulation_areas> "Cairo" .
+<Politician> <common.topic.webpage> "m.09x5gkq" .
+<Law> <common.topic.subjects> "Sally & Fitch LLP" .
+<Party> <rdf-schema#domain> "Politician" .
+<Faculty_of_Dentistry_Ain_Shams_University,_main_campus> <location.location.containedby> "Egypt" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Giza Governorate" .
+<Lawyer> <people.profession.part_of_professional_field> "Law" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "Zaman" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Dakahlia Governorate" .
+<m.0y7sg8h> <law.judicial_tenure.title> "Judge" .
+<Urolithiasis> <medicine.disease.causes> "Kidney Stone" .
+<El_Maadi_Residential_Tower_VII> <location.location.containedby> "Cairo" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<Judge> <people.profession.specializations> "Federal judge" .
+<Mayor_of_Montazels> <people.profession.specialization_of> "Politician" .
+<New_Valley_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.010885gt" .
+<Beheira_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Egypt> <location.country.first_level_divisions> "Port Said Governorate" .
+<Abdeen_Palace> <travel.tourist_attraction.near_travel_destination> "Cairo" .
+<Anthony_Dean_Castelli> <people.person.profession> "Personal injury lawyer" .
+<Egypt> <location.country.administrative_divisions> "Giza Governorate" .
+<Profession> <type.property.expected_type> "Profession" .
+<Rose_Law_Firm> <business.business_operation.industry> "Lawyer" .
+<Seborrheic_dermatitis> <medicine.disease.symptoms> "Hair loss" .
+<1998_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Judge> <law.judicial_title.judges> "m.0zsv0_b" .
+<Cairo_Stadium_Indoor_Halls_Complex> <location.location.containedby> "Egypt" .
+<Ahmed_Mansour> <freebase.valuenotation.has_value> "Date of birth" .
+<m.010nqrby> <law.judicial_tenure.title> "Judge" .
+<Lawyer> <people.profession.specialization_of> "Criminal defense lawyer" .
+<Beni_Suef_Governorate> <location.location.containedby> "Egypt" .
+<Reyes_Brown_Reilley> <business.business_operation.industry> "Law" .
+<Cairo> <film.film_location.featured_in_films> "Baraka" .
+<Lawyer.com> <common.topic.subjects> "Lawyer" .
+<Prosecutor> <common.topic.notable_types> "Profession" .
+<Battle_of_Ridaniya> <time.event.locations> "Cairo" .
+<m.0dj2gvd> <base.ontologies.ontology_class_mapping.freebase_topic> "Politician" .
+<National_Bank_of_Egypt_Tower> <location.location.containedby> "Cairo" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "North Sinai Governorate" .
+<Judge> <freebase.equivalent_topic.equivalent_type> "Judge" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106ry3x" .
+<Person> <type.type.properties> "Spouse (or domestic partner)" .
+<Judge> <law.judicial_title.judges> "m.0vsmck1" .
+<Bartle_&_Marcus_Law> <common.topic.subjects> "Lawyer" .
+<Weightmans> <common.topic.subjects> "Law" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<Politician> <people.profession.specializations> "Bureaucrat" .
+<Residences_Roda_Island> <location.location.containedby> "Cairo" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Stroke" .
+<Al_Sharqia_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Spouse> <type.property.reverse_property> "Spouse (or domestic partner)" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_zy66p" .
+<Adly_Mansour> <people.person.education> "m.012m9w_l" .
+<Kafr_el-Sheikh_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Bankruptcy_Lawyer> <common.topic.subject_of> "Leinart Law Firm" .
+<Cairo> <location.location.events> "1991 African Youth Championship" .
+<Elizabeth_Donnelly> <people.person.gender> "Female" .
+<Egypt> <location.country.first_level_divisions> "Damietta Governorate" .
+<Parents> <type.property.reverse_property> "Children" .
+<One-Zero> <film.film.country> "Egypt" .
+<m.012g62wn> <education.education.institution> "m.012g62x7" .
+<Judge> <law.judicial_title.judges> "m.0zdd6wr" .
+<m.0wj_kcw> <people.place_lived.location> "Heliopolis Palace" .
+<Acute_myeloid_leukemia> <medicine.disease.risk_factors> "Male" .
+<Politician> <people.profession.specializations> "Legislator" .
+<Solicitor> <people.profession.specialization_of> "Lawyer" .
+<Anthony_Dean_Castelli> <people.person.profession> "Lawyer" .
+<Lawyer> <common.topic.subject_of> "Lawyer SEO Services" .
+<Giza_Governorate> <location.administrative_division.country> "Egypt" .
+<Cairo> <location.location.events> "1998 Cairo International Film Festival" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<Adly_Mansour> <people.person.education> "m.012ffmsd" .
+<Kidney_Stone> <medicine.disease.risk_factors> "Male" .
+<Politician> <type.type.properties> "Election campaigns" .
+<Mosque_of_Muhammad_Ali> <location.location.containedby> "Egypt" .
+<Overeenkomst.nu> <organization.organization.sectors> "Solicitor" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<Adly_Mansour> <people.person.education> "m.012l156q" .
+<Lawyer> <common.topic.subject_of> "Stephen Hornbuckle" .
+<Criminal_defense_lawyer> <people.profession.part_of_professional_field> "Law" .
+<The_Hanging_Church_is_Cairo's_most_famous_Coptic_Church,_first_built_in_the_3rd_or_4th_century_AD> <common.image.appears_in_topic_gallery> "Cairo" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106341d" .
+<Lawyer> <people.profession.specializations> "Civil law notary" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.010677zf" .
+<Leonardo_da_Vinci_Art_Institute> <location.location.containedby> "Egypt" .
+<Cairo> <location.location.contains> "Al-Azhar University" .
+<m.0129bqb4> <education.education.student> "Adly Mansour" .
+<m.09bzxwh> <base.ontologies.ontology_instance_mapping.freebase_topic> "Cairo" .
+<Downtown_L.A._Law_Group> <common.topic.subjects> "Personal injury lawyer" .
+<Maimonides_Synagogue> <location.location.containedby> "Cairo" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "Al-Hayat" .
+<m.0y7lmm1> <law.judicial_tenure.title> "Judge" .
+<Adly_Mansour> <freebase.valuenotation.has_value> "Spouse (or domestic partner)" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<Actinic_keratosis> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z33sn" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<m.0125vdnl> <education.education.institution> "m.0125vdp7" .
+<Cairo_International_Airport> <aviation.airport.serves> "Cairo" .
+<Lawyer> <common.topic.subjects> "Brian White & Associates, P.C." .
+<Cairo> <film.film_location.featured_in_films> "One-Zero" .
+<Egypt> <location.country.first_level_divisions> "South Sinai Governorate" .
+<m.0125vdp7> <education.education.student> "Adly Mansour" .
+<Judge> <law.judicial_title.judges> "m.0111h854" .
+<El_Gezira_Tower_Movenpick_Hotel> <location.location.containedby> "Egypt" .
+<m.0zgp0pz> <law.judicial_tenure.title> "Judge" .
+<Rebel> <people.profession.specialization_of> "Politician" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<m.0129fm_k> <education.educational_institution.students_graduates> "m.0129fm_c" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106622v" .
+<Axess_Law> <common.topic.subjects> "Personal injury lawyer" .
+<Lawyer> <common.topic.subject_of> "Brian White & Associates, P.C." .
+<Judge> <fictional_universe.character_occupation.characters_with_this_occupation> "Judge Doom" .
+<Nahdet_Masr> <base.meedan.arabic_language_media_source.country> "Egypt" .
+<m.012dz0bg> <education.educational_institution.students_graduates> "m.012dz0b5" .
+<m.0wgwsyp> <law.judicial_tenure.title> "Judge" .
+<El_Maadi_Residential_Tower_VI> <location.location.containedby> "Cairo" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<Adly_Mansour> <people.person.profession> "Judge" .
+<Bandle_&_Zaeske_LLP> <common.topic.subjects> "Lawyer" .
+<Anthony_Castelli_Attorney> <common.topic.subject_of> "Law" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<Cairo> <location.location.events> "1982 Cairo International Film Festival" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rsbl" .
+<Adventures_by_Disney> <travel.tour_operator.travel_destinations> "Egypt" .
+<Adly_Mansour> <people.person.education> "g.11bc806h_0" .
+<Egypt> <common.topic.subject_of> "As Egypt Howls and History Tweets" .
+<Canadian_International_College> <education.educational_institution.campuses> "Canadian International College" .
+<Brian_White_&_Associates,_P.C.> <common.topic.subject_of> "Law" .
+<North_Sinai_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<Judge> <law.judicial_title.judges> "m.0y7rqwx" .
+<Barrister> <people.profession.specialization_of> "Lawyer" .
+<Cairo> <location.location.events> "2008 Cairo International Film Festival" .
+<Cairo> <location.location.events> "2004 Panorama of the European Film" .
+<Politician_&_Trade_Unionist> <common.topic.notable_types> "Profession" .
+<Cairo_Plaza_Building> <location.location.containedby> "Cairo" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxll" .
+<Judge> <fictional_universe.character_occupation.characters_with_this_occupation> "Ethan Rickover" .
+<m.0y8056g> <law.judicial_tenure.title> "Judge" .
+<Lawyer> <common.topic.subjects> "Accident Advice Helpline" .
+<1999_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "Al-Ittihad" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<El_Maadi_Residential_Tower_V> <location.location.containedby> "Egypt" .
+<divorce_lawyer> <people.profession.specialization_of> "Lawyer" .
+<m.0125vdp7> <education.educational_institution.students_graduates> "m.0125vdnl" .
+<Cairo_International_Airport> <location.location.containedby> "Egypt" .
+<Cairo> <location.location.events> "2012 Cairo International Film Festival for Children" .
+<Judge> <common.topic.image> "An American judge talks to a lawyer" .
+<Monufia_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Spouse> <rdf-schema#range> "Person" .
+<Matrouh_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Politician> <type.type.properties> "Government Positions Held" .
+<Lawyer.com> <business.brand.parent_brand> "Lawyer.com" .
+<British_University_in_Egypt> <education.educational_institution.campuses> "British University in Egypt" .
+<Ozols_Law_Firm> <common.topic.subject_of> "Law" .
+<Lawyer> <people.profession.specializations> "Trademark attorney" .
+<Officeholder> <type.property.reverse_property> "Government Positions Held" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.locations> "Hoffman, Larin & Agnetti, P.A." .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm06y" .
+<Cairo> <location.location.contains> "Modern Academy For Engineering & Technology" .
+<The_Rodriguez_Law_Group> <common.topic.subject_of> "Lawyer" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <freebase.type_profile.kind> "Title" .
+<German_University_in_Cairo> <location.location.containedby> "New Cairo" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Adam Greenman Law" .
+<El_Maadi_Residential_Tower_VIII> <location.location.containedby> "Cairo" .
+<m.065pbk7> <base.popstra.vacation_choice.location> "Cairo" .
+<m.0wzgvp5> <law.judicial_tenure.title> "Judge" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower IX" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rs7r" .
+<m.0wd4m19> <government.government_position_held.jurisdiction_of_office> "Egypt" .
+<Consul> <common.topic.notable_types> "Profession" .
+<Adly_Mansour> <people.person.profession> "Lawyer" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<Adam_Greenman_Law> <organization.organization.sectors> "Personal injury lawyer" .
+<Thomas_Hornbuckle> <common.topic.subjects> "Personal injury lawyer" .
+<Egypt> <location.country.first_level_divisions> "Beni Suef Governorate" .
+<m.0zdd6wr> <law.judicial_tenure.title> "Judge" .
+<Associate_Justice> <people.profession.specialization_of> "Judge" .
+<As_Egypt_Howls_and_History_Tweets> <book.written_work.subjects> "Cairo" .
+<Faiyum_Governorate> <location.location.containedby> "Egypt" .
+<m.012l156m> <education.education.institution> "m.012l156q" .
+<Politician> <common.topic.article> "m.02xlj10" .
+<Lawyer> <common.topic.subjects> "Law Offices of Christopher Varnell" .
+<m.011m4bh8> <law.judicial_tenure.title> "Judge" .
+<Tribal_Rights_Leader> <common.topic.notable_types> "Profession" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.011nj7rn" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Beni Suef Governorate" .
+<m.012dz0b5> <education.education.institution> "m.012dz0bg" .
+<Galstyan_Law_Group> <common.topic.subjects> "Attorney at law" .
+<Kyphosis> <medicine.disease.risk_factors> "Male" .
+<Egypt> <location.country.administrative_divisions> "Al Sharqia Governorate" .
+<Adly_Mansour> <people.person.education> "m.0129fm_k" .
+<Glasheen,_Valles,_and_Inderman,_LLP> <common.topic.subjects> "Personal injury lawyer" .
+<m.0zb265f> <law.judicial_tenure.title> "Judge" .
+<Official> <people.profession.specializations> "Usurper" .
+<Overeenkomst.nu> <organization.organization.sectors> "Law" .
+<Cairo> <location.location.contains> "Rabaa Al-Adawiya Mosque" .
+<Galstyan_Law_Group> <business.business_operation.industry> "Lawyer" .
+<Judge> <law.judicial_title.judges> "m.0zb25c3" .
+<Quentin_Massys_007> <common.image.appears_in_topic_gallery> "Lawyer" .
+<m.0zstyw3> <law.judicial_tenure.title> "Judge" .
+<Nile_City_South_Tower> <location.location.containedby> "Cairo" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxyq" .
+<m.012l8d3c> <education.education.student> "Adly Mansour" .
+<Adly_Mansour> <people.person.education> "m.012l2sg_" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<m.0zstx0w> <law.judicial_tenure.title> "Judge" .
+<Gharbia_Governorate> <location.administrative_division.country> "Egypt" .
+<Environmentalist> <people.profession.specialization_of> "Politician" .
+<Syphilis> <medicine.disease.symptoms> "Hair loss" .
+<Modern_Academy_In_Maadi> <location.location.containedby> "Egypt" .
+<El_Maadi_Residential_Tower_V> <location.location.containedby> "Cairo" .
+<Faggala> <location.location.containedby> "Egypt" .
+<Cairo> <location.location.events> "2009 Cairo International Film Festival" .
+<Cairo> <location.location.events> "1989 Cairo International Film Festival" .
+<Judge> <fictional_universe.fictional_character.gender> "Male" .
+<Jimi_Agbaje> <common.topic.notable_types> "Politician" .
+<Civil_Rights_Lawyer> <common.topic.notable_types> "Profession" .
+<Alaskan_Health_Care_Leader> <people.profession.specialization_of> "Politician" .
+<Lawyer> <people.profession.specializations> "Solicitor advocate" .
+<Personal_injury_lawyer> <base.morelaw.type_of_legal_subject.law_firms_with_this_focus> "Brian White & Associates, P.C." .
+<Lawyer> <common.topic.subject_of> "Bartle & Marcus Law" .
+<Myocardial_Ischemia> <medicine.disease.symptoms> "heart attack" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d3xt" .
+<Cairo> <location.statistical_region.population> "m.0n1p0tq" .
+<Lawyer> <education.field_of_study.students_majoring> "m.012sc1p0" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Hoffman, Larin & Agnetti, P.A." .
+<Cairo_Governorate> <location.location.contains> "Cairo" .
+<Phillips_Law_Firm> <organization.organization.sectors> "Law" .
+<Cairo_International_Airport> <aviation.airport.serves> "Adventures by Disney - Egypt Vacation" .
+<Date_of_birth> <type.property.schema> "Person" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.01063453" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<2005_Cairo_International_Film_Festival_for_Children> <time.event.locations> "Cairo" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Contract_attorney> <common.topic.notable_types> "Profession" .
+<Reiff_and_Bily> <common.topic.subject_of> "Lawyer" .
+<Basant_Mansour> <common.topic.notable_types> "Person" .
+<Nile_City_South_Tower> <location.location.containedby> "Egypt" .
+<m.064st77> <base.popstra.vacation_choice.location> "Cairo" .
+<Lawyer> <common.topic.notable_for> "g.12551_tmk" .
+<Lawyer> <common.topic.subject_of> "Glasheen, Valles, and Inderman, LLP" .
+<Officeholder> <type.property.expected_type> "Politician" .
+<Ahmed_Mansour> <people.person.gender> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxfn" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Stephen Hornbuckle" .
+<m.0y5v985> <law.judicial_tenure.title> "Judge" .
+<Usurper> <people.profession.specialization_of> "Official" .
+<Consul> <people.profession.specialization_of> "Politician" .
+<Cairo_Plaza_Building> <location.location.containedby> "Egypt" .
+<Cairo> <location.statistical_region.population> "g.11bc85z0j8" .
+<Egypt> <location.country.administrative_divisions> "Damietta Governorate" .
+<Political_Attache> <people.profession.specialization_of> "Politician" .
+<m.0y7rqwx> <law.judicial_tenure.title> "Judge" .
+<m.09x3j7h> <common.webpage.topic> "Politician" .
+<m.0zsv0wg> <law.judicial_tenure.title> "Judge" .
+<El_Maadi_Residential_Tower_XVI> <location.location.containedby> "Cairo" .
+<Judge_Irwin> <fictional_universe.fictional_character.gender> "Male" .
+<Politician> <people.profession.specializations> "Mayor of Montazels" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Female" .
+<Dakahlia_Governorate> <location.location.containedby> "Egypt" .
+<Cairo> <location.location.events> "2000 Cairo International Film Festival" .
+<Cairo> <common.topic.notable_for> "g.125b8yt0h" .
+<Cairo> <location.location.events> "2013 Panorama of the European Film" .
+<Cairo> <location.location.contains> "Leonardo da Vinci Art Institute" .
+<Nathalie_Kosciusko-Morizet> <people.person.gender> "Female" .
+<Judge> <law.judicial_title.judges> "m.011m4bh8" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660mk" .
+<Giza_Necropolis> <travel.tourist_attraction.near_travel_destination> "Cairo" .
+<Egypt> <location.country.first_level_divisions> "Kafr el-Sheikh Governorate" .
+<Ahmed_Mansour> <people.person.nationality> "Egypt" .
+<Cairo> <location.location.contains> "Tahrir Square" .
+<Cairo> <location.location.contains> "Khedivial Opera House, Cairo" .
+<Ethan_Rickover> <fictional_universe.fictional_character.gender> "Male" .
+<Autism> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rwn3" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Canadian_International_College> <location.location.containedby> "Cairo" .
+<Garbage_City> <location.location.containedby> "Cairo" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661x1" .
+<Mosque_of_Muhammad_Ali> <travel.travel_destination.tour_operators> "Adventures by Disney - Egypt Vacation" .
+<Cairo> <location.location.events> "1996 Arab Club Champions Cup" .
+<New_Valley_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Adam_Greenman_Law> <organization.organization.sectors> "Attorney at law" .
+<Cairo> <location.location.events> "2002 Al Ayyat railway accident" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Urolithiasis> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Meningococcal_disease> <medicine.disease.risk_factors> "Male" .
+<m.0zb26wd> <law.judicial_tenure.title> "Judge" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Mercury Legal" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<Al-Azhar_University> <education.educational_institution.campuses> "Al-Azhar University" .
+<Adly_Mansour> <common.topic.notable_types> "Politician" .
+<Sally_&_Fitch_LLP> <common.topic.subject_of> "Law" .
+<Ain_Shams_University_Faculty_of_Medicine> <education.educational_institution.parent_institution> "Ain Shams University" .
+<Faculty_of_Dentistry_Ain_Shams_University,_main_campus> <location.location.containedby> "Greater Cairo" .
+<Leonardo_da_Vinci_Art_Institute> <location.location.containedby> "Cairo" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0wkf_yb> <freebase.valuenotation.has_value> "Start Date" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<Judge> <people.profession.specializations> "Religious Judge" .
+<Judge> <law.judicial_title.judges> "m.011c3s9s" .
+<Cairo> <location.location.events> "Cairo Fire" .
+<Personal_injury_lawyer> <organization.organization_sector.organizations_in_this_sector> "Adam Greenman Law" .
+<The_Egyptian_Gazette> <book.newspaper.circulation_areas> "Cairo" .
+<Lawyer> <common.topic.subject_of> "Carey" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rtxs" .
+<Jesus_R._Lopez> <common.topic.subjects> "Lawyer" .
+<Lawyer> <people.profession.specializations> "Grand Mufti" .
+<Faculty_of_Dentistry_Ain_Shams_University,_main_campus> <location.location.containedby> "Cairo" .
+<Politician> <common.topic.webpage> "m.09xrn7q" .
+<O’Connor,_Runckel_&_O’Malley_LLP> <common.topic.subject_of> "Personal injury lawyer" .
+<Judge> <law.judicial_title.judges> "m.010nqrby" .
+<Law> <common.topic.subject_of> "Court order" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.010633zv" .
+<New_Cairo> <location.location.containedby> "Egypt" .
+<Ahmed_Mansour> <freebase.valuenotation.has_value> "Place of birth" .
+<Spouse> <type.property.schema> "Marriage" .
+<Ahmed_Mansour> <common.topic.notable_for> "g.1q3sdsy_3" .
+<In_the_Ring:_The_Trials_of_a_Washington_Lawyer> <book.written_work.subjects> "Lawyer" .
+<Cairo> <location.location.events> "1948 Cairo bombings" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<Myocardial_Ischemia> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Ain_Shams_University> <education.educational_institution.campuses> "Ain Shams University" .
+<Judge> <freebase.type_profile.strict_included_types> "Person" .
+<Adly_Mansour> <people.person.education> "m.012m1410" .
+<Cairo> <location.location.events> "Egypt Soccer Riot" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<The_Hornbuckle_Firm> <organization.organization.partnerships> "Stephen Hornbuckle" .
+<m.0_qc192> <law.judicial_tenure.title> "Judge" .
+<Cairo_University_School_of_Medicine> <education.educational_institution.campuses> "Cairo University School of Medicine" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rwcq" .
+<Cairo> <location.location.time_zones> "Eastern European Time Zone" .
+<Entertainment_Lawyer> <people.profession.specialization_of> "Lawyer" .
+<Sally_&_Fitch_LLP> <base.crime.lawyer.law_firm> "Sally & Fitch LLP" .
+<Adam_Greenman_Law> <common.topic.subjects> "Personal injury lawyer" .
+<Ring_Road> <location.location.containedby> "Cairo" .
+<Lawyer> <media_common.quotation_subject.quotations_about_this_subject> "First thing we do, let's kill all the lawyers." .
+<Nile_City_North_Tower> <location.location.containedby> "Cairo" .
+<m.0zb27qf> <law.judicial_tenure.title> "Judge" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<Faiyum_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Military_Technical_College> <location.location.containedby> "Cairo" .
+<Seborrheic_dermatitis> <medicine.symptom.symptom_of> "Parkinson's disease" .
+<m.012m7c1x> <education.education.institution> "m.012m7c2h" .
+<Personal_injury_lawyer> <base.morelaw.type_of_legal_subject.law_firms_with_this_focus> "Michigan Auto Law" .
+<Party_organizer> <common.topic.notable_types> "Profession" .
+<Cairo> <location.location.events> "January 2014 Cairo bombings" .
+<Tribal_chief> <people.profession.specialization_of> "Politician" .
+<m.0102_4rr> <law.judicial_tenure.title> "Judge" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<Profession> <freebase.type_profile.strict_included_types> "Topic" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "El Fagr" .
+<Person> <type.type.properties> "Date of birth" .
+<Kaposi's_sarcoma> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <common.topic.subjects> "thefloridafirm.com" .
+<Person> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<Politician> <people.profession.specializations> "Consul" .
+<Hazem_Al_Beblawi> <freebase.valuenotation.has_value> "Parents" .
+<Lawyer> <common.topic.subjects> "Sara Gaborik" .
+<Suez_Governorate> <location.administrative_division.country> "Egypt" .
+<Daniel_C._Miller,_LLC> <common.topic.subjects> "Lawyer" .
+<Marriage> <type.type.expected_by> "Spouse (or domestic partner)" .
+<Law> <common.topic.subject_of> "Anthony Dean Castelli" .
+<Al-Azhar_Mosque> <location.location.containedby> "Egypt" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Qalyubia Governorate" .
+<Damietta_Governorate> <location.administrative_division.country> "Egypt" .
+<Cairo> <location.location.contains> "Gezira Center for Modern Art" .
+<El_Maadi_Residential_Tower_XIII> <location.location.containedby> "Cairo" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Cairo> <location.location.events> "Revolt of Cairo" .
+<Politician> <base.ontologies.ontology_class.equivalent_classes> "m.0dj2gvd" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661wn" .
+<Cairo> <location.location.contains> "Higher Technological Institute" .
+<Leinart_Law_Firm> <common.topic.subject_of> "Law" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "United States Representative" .
+<Keith_Sullivan> <common.topic.subject_of> "Lawyer" .
+<Cairo_University_School_of_Medicine> <education.educational_institution_campus.educational_institution> "Cairo University School of Medicine" .
+<Politician> <people.profession.specializations> "Party organizer" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Attention deficit hyperactivity disorder" .
+<Adventures_by_Disney_-_Egypt_Vacation> <travel.tour_operator.travel_destinations> "Mosque of Muhammad Ali" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<m.012l2sgk> <education.education.institution> "m.012l2sg_" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Brian_White_&_Associates,_P.C.> <common.topic.subjects> "Lawyer" .
+<Human_Rights_Lawyer> <people.profession.specialization_of> "Lawyer" .
+<Transient_ischemic_attack> <medicine.disease.causes> "Cardiovascular disease" .
+<Adly_Mansour> <people.person.education> "m.012g62x7" .
+<Usurper> <people.profession.specialization_of> "Politician" .
+<Egypt> <location.country.administrative_divisions> "Qalyubia Governorate" .
+<Cairo> <location.location.events> "1977 Cairo International Film Festival" .
+<m.04g72z7> <law.judicial_tenure.title> "Judge" .
+<Adam_Greenman_Law> <organization.organization.sectors> "Lawyer" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<Lawyer> <freebase.notability_hints.notable_for> "Profession" .
+<Lawyer> <common.topic.subjects> "Marben Abogado Laboralista Barcelona" .
+<m.012f3xnt> <education.educational_institution.students_graduates> "m.012f3xng" .
+<Politician> <people.profession.specializations> "Children’s Rights Leader" .
+<Shine_Lawyers> <common.topic.subject_of> "Lawyer" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.locations> "Hoffman, Larin & Agnetti, P.A." .
+<Cairo_West_Airport> <location.location.containedby> "Egypt" .
+<Al-Ahram_Al-Masaa'i> <base.meedan.arabic_language_media_source.country> "Egypt" .
+<m.012l2sg_> <education.educational_institution.students_graduates> "m.012l2sgk" .
+<Cairo> <location.location.events> "2007 Cairo International Film Festival" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<Rural_Development_Leader> <common.topic.notable_types> "Profession" .
+<St._George's_College,_Cairo> <education.educational_institution.campuses> "St. George's College, Cairo" .
+<Politician> <owl#inverseOf> "Party" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Axess Law" .
+<Axess_Law> <common.topic.subjects> "Real estate lawyer" .
+<Sara_Gaborik> <common.topic.subject_of> "Law" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0102z5g3" .
+<British_University_in_Egypt> <location.location.containedby> "Cairo" .
+<Cairo> <travel.travel_destination.tourist_attractions> "Egyptian Museum" .
+<Cairo> <location.location.events> "1994 Cairo International Film Festival" .
+<Judge> <law.judicial_title.judges> "m.0zstw2y" .
+<SexCrimeUK.com_-_Dedicated_Sex_Crimes_Defence_Solicitors> <common.topic.subjects> "Lawyer" .
+<North_Sinai_Governorate> <location.administrative_division.country> "Egypt" .
+<El_Maadi_Residential_Tower_XII> <location.location.containedby> "Cairo" .
+<Ain_Shams_University_Faculty_of_Medicine> <education.educational_institution.campuses> "Ain Shams University Faculty of Medicine" .
+<Judge> <common.topic.notable_for> "g.125595ttq" .
+<Civil_law_notary> <people.profession.specialization_of> "Lawyer" .
+<Gezira_Center_for_Modern_Art> <location.location.containedby> "Egypt" .
+<Adly_Mansour> <people.person.education> "m.012dz0bg" .
+<Lawyer> <common.topic.article> "m.04gcc" .
+<m.0wd4m19> <government.government_position_held.office_holder> "Adly Mansour" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5phw" .
+<Political_Attache> <common.topic.notable_types> "Profession" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Brian White & Associates, P.C." .
+<Basant_Mansour> <freebase.valuenotation.has_value> "Profession" .
+<m.0zb28z3> <law.judicial_tenure.title> "Judge" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<Transient_ischemic_attack> <medicine.disease.risk_factors> "Male" .
+<Egypt> <location.country.administrative_divisions> "Dakahlia Governorate" .
+<Egypt> <location.country.first_level_divisions> "Monufia Governorate" .
+<Ain_Shams_University_Faculty_of_Medicine> <education.educational_institution_campus.educational_institution> "Ain Shams University Faculty of Medicine" .
+<Brian_White_&_Associates,_P.C.> <business.business_operation.industry> "Law" .
+<Administrative_Science> <education.field_of_study.students_majoring> "m.0xnb9xd" .
+<2009_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Egypt> <location.country.first_level_divisions> "Cairo Governorate" .
+<Egypt> <location.country.first_level_divisions> "Minya Governorate" .
+<Retroperitoneal_fibrosis> <medicine.disease.risk_factors> "Male" .
+<Sugar_Street> <book.written_work.subjects> "Cairo" .
+<Judge> <law.judicial_title.judges> "m.0zb2bgf" .
+<Akhbar_Al-Adab> <book.newspaper.circulation_areas> "Cairo" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d3wf" .
+<Lawyer> <common.topic.subjects> "Reiff and Bily" .
+<Lawyer> <people.profession.specializations> "Personal injury lawyer" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d5gp" .
+<m.0znmcnp> <law.judicial_tenure.title> "Judge" .
+<Jasmin_Mansour> <common.topic.notable_types> "Person" .
+<Sara_Gaborik> <people.person.gender> "Female" .
+<Politician> <type.type.expected_by> "Resulting head of state" .
+<Akinwunmi_Ambode> <common.topic.notable_types> "Person" .
+<Cairo> <film.film_location.featured_in_films> "El Hakim" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zmdy" .
+<1977_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Ramses_College> <education.educational_institution.campuses> "Ramses College" .
+<Cairo> <location.location.events> "2005 Cairo International Film Festival" .
+<m.03lpyp4> <common.webpage.topic> "Cairo" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<Legal_executive> <people.profession.specialization_of> "Lawyer" .
+<Misr_International_University> <education.educational_institution.campuses> "Misr International University" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107624r" .
+<Cairo> <location.location.events> "2012 Panorama of the European Film" .
+<Person> <type.type.properties> "Place of birth" .
+<2008_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Cairo> <book.book_subject.works> "Sugar Street" .
+<Al-Ittihad> <book.newspaper.circulation_areas> "Cairo" .
+<Shubra> <location.location.containedby> "Egypt" .
+<Cairo> <location.location.contains> "French University in Egypt" .
+<m.0wljtz5> <education.education.student> "Adly Mansour" .
+<Judge> <people.profession.specializations> "Magistrate" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.010hj_gq" .
+<Mediator> <common.topic.notable_types> "Profession" .
+<Rabaa_Al-Adawiya_Mosque> <location.location.containedby> "Egypt" .
+<Loyalty_Law> <common.topic.subjects> "Lawyer" .
+<Judge> <law.judicial_title.judges> "m.0wzgvh0" .
+<Cairo> <location.location.contains> "Modern Sciences and Arts University" .
+<Al_Kahera> <base.meedan.arabic_language_media_source.country> "Egypt" .
+<Khedivial_Opera_House,_Cairo> <location.location.containedby> "Cairo" .
+<Phillips_Law_Firm> <organization.organization.sectors> "Lawyer" .
+<Politics> <people.professional_field.professions_in_this_field> "Politician" .
+<Bencher> <people.profession.specialization_of> "Lawyer" .
+<Cairo> <travel.travel_destination.tour_operators> "Adventures by Disney - Egypt Vacation" .
+<Politician> <book.book_subject.works> "All the King's Men" .
+<m.01058kpc> <law.judicial_tenure.title> "Judge" .
+<Personal_injury_lawyer> <common.topic.notable_types> "Profession" .
+<Politician> <people.profession.specializations> "Political strategist" .
+<Attorney_at_law> <common.topic.subject_of> "Galstyan Law Group" .
+<Cairo> <location.location.contains> "El Gezira Tower Movenpick Hotel" .
+<Qalyubia_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Cairo_Tower> <location.location.containedby> "Cairo" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Egypt> <location.country.administrative_divisions> "Beni Suef Governorate" .
+<Judge> <base.ontologies.ontology_instance.equivalent_instances> "m.07ng7sw" .
+<2002_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.010hfncl" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.010nwng2" .
+<Hazem_Al_Beblawi> <people.person.profession> "Politician" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "Daily News Egypt" .
+<Profession> <freebase.type_profile.published> "Published" .
+<Attorney_at_law> <organization.organization_sector.organizations_in_this_sector> "Adam Greenman Law" .
+<Attorney_at_law> <common.topic.subject_of> "Sally & Fitch LLP" .
+<Ibrahim_Mahlab> <government.politician.government_positions_held> "m.0_sl34m" .
+<Politician> <people.profession.specializations> "Alaskan Health Care Leader" .
+<m.012m51g0> <education.education.student> "Adly Mansour" .
+<El_Fagr> <book.newspaper.circulation_areas> "Cairo" .
+<Cairo> <travel.travel_destination.tourist_attractions> "Cairo Tower" .
+<El_Maadi_Residential_Tower_XIV> <location.location.containedby> "Egypt" .
+<Shine_Lawyers> <common.topic.subject_of> "Law" .
+<Personal_injury_lawyer> <people.profession.specialization_of> "Lawyer" .
+<Judge> <law.judicial_title.judges> "m.0y8067r" .
+<Cairo> <location.location.events> "1991 Cairo International Film Festival" .
+<Jurist> <people.profession.specialization_of> "Lawyer" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower X" .
+<Politics> <book.periodical_subject.periodicals> "Al-Hayat" .
+<Politician> <people.profession.specializations> "local politician" .
+<In_the_Ring:_The_Trials_of_a_Washington_Lawyer> <book.written_work.subjects> "Law" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Watani> <base.meedan.arabic_language_media_source.country> "Egypt" .
+<Cairo> <travel.travel_destination.tourist_attractions> "Cairo Opera House" .
+<Windsor_Hotel> <location.location.containedby> "Cairo" .
+<Politician_&_Trade_Unionist> <people.profession.specialization_of> "Politician" .
+<m.0_sl34m> <government.government_position_held.office_position_or_title> "Acting Prime Minister of Egypt" .
+<Lawyer> <common.topic.notable_types> "Profession" .
+<Gastritis> <medicine.disease.risk_factors> "Male" .
+<New_Cairo> <location.location.containedby> "Cairo" .
+<Judge> <law.judicial_title.judges> "m.0sxdd0g" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106614m" .
+<Beni_Suef_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<ZasPorn> <common.topic.subject_of> "Female" .
+<Personal_injury_lawyer> <common.topic.subject_of> "The Hornbuckle Firm" .
+<Weightmans> <common.topic.subjects> "Lawyer" .
+<Cairo> <location.location.events> "2011 Nile Basin Tournament" .
+<Beheira_Governorate> <location.administrative_division.country> "Egypt" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Monufia Governorate" .
+<Law_costs_draftsman> <common.topic.notable_types> "Profession" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.0102zl1k" .
+<Seborrheic_dermatitis> <medicine.disease.risk_factors> "Male" .
+<2013_Panorama_of_the_European_Film> <time.event.locations> "Cairo" .
+<El_Maadi_Residential_Tower_IX> <location.location.containedby> "Egypt" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_zxwwc" .
+<Adly_Mansour> <government.political_appointer.appointees> "m.0w4vnr0" .
+<Attorney_at_law> <common.topic.subject_of> "Daniel C. Miller, LLC" .
+<Nile_University> <education.educational_institution_campus.educational_institution> "Nile University" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <business.business_location.parent_company> "Hoffman, Larin & Agnetti, P.A." .
+<Vive_Targi_Kielce> <sports.sports_team.gender> "Male" .
+<Town_supervisor> <common.topic.notable_types> "Profession" .
+<Hair_loss> <medicine.risk_factor.diseases> "Stroke" .
+<Cairo> <common.topic.notable_types> "City/Town/Village" .
+<Ibrahim_Mahlab> <freebase.valuenotation.has_value> "Spouse (or domestic partner)" .
+<Sadat_Academy_for_Management_Sciences> <education.educational_institution_campus.educational_institution> "Sadat Academy for Management Sciences" .
+<Akinwunmi_Ambode> <freebase.valuenotation.has_value> "Children" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Red Sea Governorate" .
+<Law> <common.topic.subjects> "The Hornbuckle Firm" .
+<Ministry_of_Foreign_Affairs_of_Egypt_building> <location.location.containedby> "Egypt" .
+<Qena_Governorate> <location.administrative_division.country> "Egypt" .
+<Lawyer> <people.profession.specializations> "Advocate" .
+<Politician> <type.type.expected_by> "Sponsor" .
+<El_Maadi_Residential_Tower_XV> <location.location.containedby> "Egypt" .
+<Cairo> <common.topic.webpage> "m.03lpyp4" .
+<El_Maadi_Residential_Tower_XII> <location.location.containedby> "Egypt" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z33dd" .
+<m.01295qcq> <education.education.student> "Adly Mansour" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.010677_b" .
+<Judge> <law.judicial_title.judges> "m.0y5ggq5" .
+<Real_estate_lawyer> <people.profession.specialization_of> "Lawyer" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.010hj_lh" .
+<Lawyer> <common.topic.subject_of> "Adam Greenman Law" .
+<Lawyer> <common.topic.subjects> "Anthony Dean Castelli" .
+<Revolt_of_Cairo> <base.culturalevent.event.entity_involved> "Cairo" .
+<Labor_leader> <common.topic.notable_types> "Profession" .
+<Adventures_by_Disney_-_Egypt_Vacation> <travel.tour_operator.travel_destinations> "Cairo" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<Nicknames:_The_City_of_a_Thousand_Minarets> <common.image.appears_in_topic_gallery> "Cairo" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<Adly_Mansour> <people.person.education> "m.012f3xnt" .
+<Judge> <people.profession.specializations> "Adjudicator" .
+<Adventures_by_Disney_-_Egypt_Vacation> <location.location.time_zones> "Eastern European Time Zone" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Keith_Sullivan> <people.person.profession> "Lawyer" .
+<1991_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Politician> <type.type.expected_by> "Politician" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.01064zgw" .
+<Lawyer> <book.book_subject.works> "Managing knowledge in law firms" .
+<Al_Sharqia_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<2009_Cairo_International_Film_Festival_for_Children> <time.event.locations> "Cairo" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Aswan Governorate" .
+<Judge> <fictional_universe.fictional_character.occupation> "Judge" .
+<m.0y7rrkx> <law.judicial_tenure.title> "Judge" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Cairo> <travel.travel_destination.tour_operators> "Adventures by Disney" .
+<divorce_lawyer> <common.topic.notable_types> "Profession" .
+<m.012m7c2h> <education.educational_institution.students_graduates> "m.012m7c1x" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.0102zl5_" .
+<m.0b45tny> <common.webpage.topic> "Politician" .
+<Politician> <people.profession.specializations> "Rebel" .
+<1989_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zn9p" .
+<Profession> <freebase.type_hints.included_types> "Topic" .
+<Judge> <law.judicial_title.judges> "m.0zsv0wg" .
+<Judge> <fictional_universe.character_occupation.characters_with_this_occupation> "Sylvia Quin" .
+<Politician> <people.profession.specializations> "City council" .
+<Benign_prostatic_hyperplasia> <medicine.disease.risk_factors> "Male" .
+<Cairo> <location.location.contains> "Future University in Egypt" .
+<Cairo_Opera_House> <travel.tourist_attraction.near_travel_destination> "Cairo" .
+<m.0vsmck1> <law.judicial_tenure.title> "Judge" .
+<m.0w4vnr0> <government.government_position_held.office_holder> "Hazem Al Beblawi" .
+<Spouse_(or_domestic_partner)> <rdf-schema#domain> "Person" .
+<Lawyer> <common.topic.subjects> "Dansky | Katz | Ringold | York" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Cairo> <film.film_location.featured_in_films> "Where Are You Go" .
+<Almesryoon> <book.newspaper.circulation_areas> "Egypt" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "New Valley Governorate" .
+<Qalyubia_Governorate> <location.administrative_division.country> "Egypt" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxh0" .
+<Mercury_Legal> <organization.organization.sectors> "Personal injury lawyer" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Law" .
+<Ramses_College> <location.location.containedby> "Egypt" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<Nathalie_Kosciusko-Morizet> <common.topic.subject_of> "Politician" .
+<Lawyer_SEO_Services> <business.product_line.products> "Lawyer SEO Services" .
+<Military_Technical_College> <location.location.containedby> "Egypt" .
+<m.0wkf_yb> <education.education.student> "Adly Mansour" .
+<m.012f3xng> <education.education.institution> "m.012f3xnt" .
+<Acting_Prime_Minister_of_Egypt> <government.government_office_or_title.office_holders> "m.0_sl34m" .
+<Al-Ahram_Weekly> <book.newspaper.circulation_areas> "Cairo" .
+<Politician> <common.topic.webpage> "m.09w_20n" .
+<Modern_Sciences_and_Arts_University> <location.location.containedby> "Egypt" .
+<Almesryoon> <base.meedan.arabic_language_media_source.country> "Egypt" .
+<Ahmed_Mansour> <common.topic.notable_types> "Person" .
+<2012_U.S._diplomatic_missions_attacks> <time.event.locations> "Cairo" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.010hj_p7" .
+<Lawyer> <common.topic.subject_of> "Bandle & Zaeske LLP" .
+<Party_leader> <people.profession.specialization_of> "Politician" .
+<Law> <common.topic.subject_of> "SexCrimeUK.com - Dedicated Sex Crimes Defence Solicitors" .
+<Beni_Suef_Governorate> <location.administrative_division.country> "Egypt" .
+<Faculty_of_Law_at_Cairo_University> <education.educational_institution.students_graduates> "m.0wkf_yb" .
+<m.0xnb9xd> <education.education.institution> "Faculty of Law at Cairo University" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<Lawyer> <common.topic.subject_of> "Daniel C. Miller, LLC" .
+<Politician> <type.property.reverse_property> "Party" .
+<Personal_injury_lawyer> <common.topic.subjects> "Reiff and Bily" .
+<Politician> <type.type.expected_by> "Member" .
+<Cairo> <location.location.containedby> "Egypt" .
+<m.01110v6f> <law.judicial_tenure.title> "Judge" .
+<Cairo> <location.location.events> "Battle of Ridaniya" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d429" .
+<1st_Claims> <common.topic.subjects> "Lawyer" .
+<Politician> <common.topic.subjects> "Akinwunmi Ambode" .
+<Lawyer> <freebase.type_hints.included_types> "Topic" .
+<Male> <common.topic.image> "male.jpg" .
+<Heliopolis_Palace> <location.location.containedby> "Egypt" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "Watani" .
+<m.011x03sm> <people.group_membership.group> "Lawyer" .
+<Lawyer> <common.topic.image> "English barrister" .
+<Lawyer> <common.topic.subjects> "Sullivan & Galleshaw, LLP" .
+<Personal_injury_lawyer> <common.topic.subjects> "thefloridafirm.com" .
+<Red_Sea_Governorate> <location.administrative_division.country> "Egypt" .
+<Judge_Irwin> <fictional_universe.fictional_character.occupation> "Judge" .
+<Political_strategist> <people.profession.specialization_of> "Politician" .
+<Managing_knowledge_in_law_firms> <book.written_work.subjects> "Lawyer" .
+<Leinart_Law_Firm> <common.topic.subjects> "Bankruptcy Lawyer" .
+<Law> <common.topic.subject_of> "Galstyan Law Group" .
+<Overeenkomst.nu> <organization.organization.sectors> "Lawyer" .
+<Adly_Mansour> <government.political_appointer.appointees> "m.0_sl34m" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rs4z" .
+<Future_University_in_Egypt> <education.educational_institution.campuses> "Future University in Egypt" .
+<Suez_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Dansky_|_Katz_|_Ringold_|_York> <common.topic.subjects> "Lawyer" .
+<Sally_&_Fitch_LLP> <base.crime.law_firm.lawyers_in_firm> "Sally & Fitch LLP" .
+<Male> <common.topic.article> "m.05zpq8" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066mfd" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z480z" .
+<Gout> <medicine.disease_cause.diseases> "Kidney Stone" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Hoffman, Larin & Agnetti, P.A." .
+<Glasheen,_Valles,_and_Inderman,_LLP> <business.business_operation.industry> "Law" .
+<Sally_&_Fitch_LLP> <base.crime.lawyer.lawyer_type> "Lawyer" .
+<Egypt> <location.country.administrative_divisions> "Port Said Governorate" .
+<Judge> <fictional_universe.character_occupation.characters_with_this_occupation> "Doc Hudson" .
+<Lawyer> <business.customer.supplier> "Majux Marketing" .
+<Spouse_(or_domestic_partner)> <type.property.expected_type> "Marriage" .
+<Cairo> <location.location.geolocation> "m.05d0zt2" .
+<Cairo> <location.location.contains> "German University in Cairo" .
+<Person> <freebase.type_profile.published> "Published" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066mgb" .
+<Lawyer> <book.book_subject.works> "Anonymous Lawyer" .
+<Adly_Mansour> <people.person.education> "m.0wkf_yb" .
+<Monufia_Governorate> <location.administrative_division.country> "Egypt" .
+<El_Maadi_Residential_Tower_VIII> <location.location.containedby> "Egypt" .
+<Criminal_defense_lawyer> <common.topic.notable_types> "Profession" .
+<Sabil-Kuttab_of_Katkhuda> <location.location.containedby> "Egypt" .
+<Hair_loss> <medicine.disease.risk_factors> "Male" .
+<Greater_Cairo> <location.location.contains> "Narmer American College, main campus" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<O’Connor,_Runckel_&_O’Malley_LLP> <common.topic.subject_of> "Lawyer" .
+<Cairo> <location.location.contains> "Nile City South Tower" .
+<El_Maadi_Residential_Tower_XVI> <location.location.containedby> "Egypt" .
+<Lawyer> <common.topic.subject_of> "Reyes Brown Reilley" .
+<Reyes_Brown_Reilley> <common.topic.subjects> "Lawyer" .
+<Ventricular_tachycardia> <medicine.symptom.symptom_of> "heart attack" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Emphysema> <medicine.disease.risk_factors> "Male" .
+<Kawasaki_disease> <medicine.disease.risk_factors> "Male" .
+<Barrister> <common.topic.image> "English barrister" .
+<m.0rdym0l> <law.judicial_tenure.title> "Judge" .
+<Egypt> <location.country.administrative_divisions> "Matrouh Governorate" .
+<City_council> <people.profession.specialization_of> "Politician" .
+<2005_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Cairo> <common.topic.image> "The Hanging Church is Cairo's most famous Coptic Church, first built in the 3rd or 4th century AD" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<m.0zb29hk> <law.judicial_tenure.title> "Judge" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Al Sharqia Governorate" .
+<m.012f3xnt> <education.education.student> "Adly Mansour" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<The_Rodriguez_Law_Group> <common.topic.subject_of> "Law" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Suez Governorate" .
+<Politician> <type.property.expected_type> "Politician" .
+<Counsellor> <people.profession.specialization_of> "Lawyer" .
+<Egypt> <location.country.administrative_divisions> "Minya Governorate" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "South Sinai Governorate" .
+<Politician> <common.topic.article> "m.0fj9r" .
+<Giza_Necropolis> <location.location.containedby> "Egypt" .
+<Weightmans> <common.topic.subjects> "Lawyer" .
+<El_Maadi_Residential_Tower_X> <location.location.containedby> "Egypt" .
+<m.0wzgvvb> <law.judicial_tenure.title> "Judge" .
+<Egypt> <location.country.first_level_divisions> "Beheira Governorate" .
+<Politician> <freebase.type_profile.equivalent_topic> "Politician" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "Al-Ahram Weekly" .
+<Ectodermal_dysplasia> <medicine.disease.symptoms> "Hair loss" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Matrouh Governorate" .
+<Personal_injury_lawyer> <business.industry.companies> "Sullivan & Galleshaw, LLP" .
+<Lawyer> <common.topic.subjects> "Shine Lawyers" .
+<Politician> <type.type.expected_by> "Candidates" .
+<SexCrimeUK.com_-_Dedicated_Sex_Crimes_Defence_Solicitors> <common.topic.subjects> "Solicitor" .
+<Egypt> <location.country.administrative_divisions> "North Sinai Governorate" .
+<m.0y5ggq5> <law.judicial_tenure.title> "Judge" .
+<Qalyubia_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Antisocial_personality_disorder> <medicine.disease.risk_factors> "Male" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<Legal_Action_Workshop> <common.topic.subjects> "Lawyer" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.locations> "Hoffman, Larin & Agnetti, P.A." .
+<Gout> <medicine.disease.risk_factors> "Male" .
+<Bunnik_Tours> <travel.tour_operator.travel_destinations> "Egypt" .
+<Cairo> <location.location.events> "2010 Cairo International Film Festival" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.0125q_f2> <education.education.institution> "m.0125q_fm" .
+<Egypt> <location.country.capital> "Cairo" .
+<Modern_Academy_For_Engineering_&_Technology> <location.location.containedby> "Egypt" .
+<Lawyer> <common.topic.image> "Quentin Massys 007" .
+<2009_Khan_el-Khalili_bombing> <time.event.locations> "Cairo" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0hm" .
+<New_Valley_Governorate> <location.location.containedby> "Egypt" .
+<Hodgkin's_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Ectodermal_dysplasia> <medicine.disease.risk_factors> "Male" .
+<Judge_Doom> <fictional_universe.fictional_character.occupation> "Judge" .
+<Judge> <law.judicial_title.judges> "m.0y7sfn6" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Ambassador" .
+<Bankruptcy_Lawyer> <law.legal_case.subject> "Leinart Law Firm" .
+<Cairo> <location.location.contains> "Egyptian Museum" .
+<Sullivan_&_Galleshaw,_LLP> <business.business_operation.industry> "Lawyer" .
+<Solicitor> <common.topic.subject_of> "SexCrimeUK.com - Dedicated Sex Crimes Defence Solicitors" .
+<2013_Cairo_Video_Festival> <time.event.locations> "Cairo" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<Lawyer> <common.topic.subjects> "Lawyer.com" .
+<Legal_Action_Workshop> <organization.organization.sectors> "Law" .
+<Law> <common.topic.subjects> "Criminal defense lawyer" .
+<Loyalty_Law> <common.topic.subjects> "Personal injury lawyer" .
+<Cairo> <location.location.events> "1995 Cairo International Film Festival" .
+<El_Maadi_Residential_Tower_XVIII> <location.location.containedby> "Cairo" .
+<Ibrahim_Mahlab> <people.person.nationality> "Egypt" .
+<m.01295qcq> <education.educational_institution.students_graduates> "m.01295qbd" .
+<Accident_Advice_Helpline> <common.topic.subjects> "Solicitor" .
+<Anaplastic_thyroid_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<Judge> <fictional_universe.character_occupation.characters_with_this_occupation> "Judge" .
+<Cairo> <location.location.events> "2009 Panorama of the European Film" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Procurator_fiscal> <common.topic.notable_types> "Profession" .
+<Judge> <law.judicial_title.judges> "m.0wgwtbn" .
+<Valley_of_the_Kings> <film.film.featured_film_locations> "Cairo" .
+<Sohag_Governorate> <location.administrative_division.country> "Egypt" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "Shorouk" .
+<Prefect> <people.profession.specialization_of> "Politician" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower XVI" .
+<Legislator> <people.profession.specialization_of> "Politician" .
+<Lawyer> <common.topic.subject_of> "Lawyer.com" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0ln" .
+<Ventricular_tachycardia> <medicine.disease.risk_factors> "Male" .
+<Civil_Rights_Lawyer> <people.profession.specialization_of> "Lawyer" .
+<Politician> <common.topic.webpage> "m.09y01p3" .
+<Profession> <freebase.type_profile.equivalent_topic> "Profession" .
+<Cairo> <location.location.events> "2012 Cairo International Film Festival" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.0102zl53" .
+<Red_Sea_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<m.012mdyck> <education.education.student> "Adly Mansour" .
+<Hazem_Al_Beblawi> <people.person.gender> "Male" .
+<m.0111h854> <law.judicial_tenure.title> "Judge" .
+<Judge> <people.profession.specialization_of> "Official" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106623h" .
+<Politician> <people.profession.specializations> "Tyrant" .
+<The_Hornbuckle_Firm> <common.topic.subjects> "Attorney at law" .
+<Lawyer> <common.topic.image> "SueEasy_Logo.jpg" .
+<1982_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Judge> <law.judicial_title.judges> "m.0wzgvp5" .
+<Zaafarana_palace> <location.location.containedby> "Cairo" .
+<Lawyer> <business.industry.companies> "Galstyan Law Group" .
+<m.0q21gds> <location.administrative_division_capital_relationship.administrative_division> "Cairo Governorate" .
+<m.0_sl34m> <government.government_position_held.office_holder> "Ibrahim Mahlab" .
+<Judge> <freebase.type_profile.equivalent_topic> "Judge" .
+<Al-Azhar_University> <location.location.containedby> "Cairo" .
+<Personal_injury_lawyer> <organization.organization_sector.organizations_in_this_sector> "Michigan Auto Law" .
+<Judge> <law.judicial_title.judges> "m.0wgwt55" .
+<Lawyer> <common.topic.subject_of> "Jesus R. Lopez" .
+<Ain_Shams_University_Faculty_of_Medicine> <location.location.containedby> "Cairo" .
+<Lawyer> <base.ontologies.ontology_instance.equivalent_instances> "m.07nf8v_" .
+<Tyrant> <people.profession.specialization_of> "Official" .
+<Judge> <law.judicial_title.judges> "m.0y7rrdx" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Mercury Legal" .
+<Cairo> <location.location.events> "Egyptian Tank Man" .
+<ZasPorn> <common.topic.subject_of> "Male" .
+<Modern_Academy_For_Engineering_&_Technology> <education.educational_institution_campus.educational_institution> "Modern Academy For Engineering & Technology" .
+<Entertainment_Lawyer> <common.topic.notable_types> "Profession" .
+<Ahmed_Mansour> <freebase.valuenotation.has_value> "Profession" .
+<The_Hornbuckle_Firm> <common.topic.subject_of> "Law" .
+<Adly_Mansour> <people.person.education> "m.012l8d3c" .
+<Profession> <rdf-schema#range> "Profession" .
+<Criminal_defense_lawyer> <people.profession.specialization_of> "Lawyer" .
+<Cairo> <travel.travel_destination.tour_operators> "Bunnik Tours" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.0zb25c3> <law.judicial_tenure.title> "Judge" .
+<Nathalie_Kosciusko-Morizet> <people.person.profession> "Politician" .
+<Cairo> <location.administrative_division.country> "Egypt" .
+<Cairo_Tower> <travel.tourist_attraction.near_travel_destination> "Cairo" .
+<Alexandria_Governorate> <location.administrative_division.country> "Egypt" .
+<Solicitor_advocate> <common.topic.notable_types> "Profession" .
+<Transient_ischemic_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Ain_Shams_University> <location.location.containedby> "Cairo" .
+<Cairo> <base.popstra.location.vacationers> "m.064st77" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660kd" .
+<Egypt> <location.country.first_level_divisions> "Dakahlia Governorate" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.01088cm3" .
+<Judge> <law.judicial_title.judges> "m.0105ypqn" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0101pk4l" .
+<Labour_Lawyer> <common.topic.notable_types> "Profession" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.01063434" .
+<Lawyer> <common.topic.subjects> "Sally & Fitch LLP" .
+<Ain_Shams_University> <education.educational_institution.subsidiary_or_constituent_schools> "Ain Shams University Faculty of Medicine" .
+<Judge> <law.judicial_title.judges> "m.0zstz4l" .
+<Official> <people.profession.specializations> "Statesman" .
+<Dakahlia_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "Nahdet Masr" .
+<m.0wgwt55> <law.judicial_tenure.title> "Judge" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Lawyer" .
+<As_Egypt_Howls_and_History_Tweets> <book.written_work.subjects> "Politics" .
+<British_University_in_Egypt> <education.educational_institution_campus.educational_institution> "British University in Egypt" .
+<Cairo> <location.location.events> "2013 Cairo Video Festival" .
+<m.0wzgx4m> <law.judicial_tenure.title> "Judge" .
+<Residences_Roda_Island> <location.location.containedby> "Egypt" .
+<Minya_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<Lawyer> <common.topic.subjects> "Fresh Start Bail Bonds" .
+<1996_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Diplomat> <people.profession.specialization_of> "Official" .
+<Lawyer> <people.profession.specializations> "Human Rights Lawyer" .
+<Law_Offices_of_Christopher_Varnell> <common.topic.subjects> "Criminal defense lawyer" .
+<Acting_President_of_Egypt> <government.government_office_or_title.office_holders> "m.0wd4m19" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<Greater_Cairo> <location.location.contains> "Faculty of Dentistry Ain Shams University, main campus" .
+<2011_Imbaba_church_attacks> <time.event.locations> "Cairo" .
+<Lawyer_SEO_Services> <common.topic.subjects> "Lawyer" .
+<Modern_Sciences_and_Arts_University> <location.location.containedby> "Cairo" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Ibrahim_Mahlab> <common.topic.notable_types> "Politician" .
+<Sally_&_Fitch_LLP> <common.topic.subjects> "Attorney at law" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z33x1" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.010hj_rd" .
+<Alexandria_Governorate> <location.location.containedby> "Egypt" .
+<Cairo> <location.location.contains> "Faculty of Dentistry Ain Shams University, main campus" .
+<Judge_Jennings> <fictional_universe.fictional_character.occupation> "Judge" .
+<Politician> <common.topic.subjects> "Nathalie Kosciusko-Morizet" .
+<Attorney_at_law> <organization.organization_sector.organizations_in_this_sector> "Galstyan Law Group" .
+<Person> <freebase.type_profile.strict_included_types> "Animate" .
+<Profession> <type.type.expected_by> "Profession" .
+<Law> <common.topic.subjects> "Shine Lawyers" .
+<Lawyer> <organization.organization_type.organizations_of_this_type> "Axess Law" .
+<Law> <common.topic.subjects> "Thomas Hornbuckle" .
+<m.012ffms6> <education.education.institution> "m.012ffmsd" .
+<Port_Said_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Fair_Game> <film.film.featured_film_locations> "Cairo" .
+<Basant_Mansour> <freebase.valuenotation.has_value> "Place of birth" .
+<Lawyer> <people.profession.specializations> "State Attorney" .
+<Politician> <people.profession.specializations> "Oficer-Major of King Zog  I" .
+<local_politician> <common.topic.notable_types> "Profession" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<Barrister> <common.topic.notable_types> "Profession" .
+<Red_Sea_Governorate> <location.location.containedby> "Egypt" .
+<m.0b6s267> <common.webpage.topic> "Cairo" .
+<Cairo> <location.location.events> "1999 Cairo International Film Festival" .
+<Attig_Law_Firm> <common.topic.subjects> "Lawyer" .
+<Sullivan_&_Galleshaw,_LLP> <organization.organization.founders> "Keith Sullivan" .
+<Counsellor> <common.topic.notable_types> "Profession" .
+<Al-Azhar_Park> <location.location.containedby> "Cairo" .
+<Contract_attorney> <people.profession.specialization_of> "Lawyer" .
+<Modern_Sciences_and_Arts_University> <education.educational_institution_campus.educational_institution> "Modern Sciences and Arts University" .
+<Cairo> <location.location.containedby> "Cairo Governorate" .
+<Sheikh_Zayed_City> <location.location.containedby> "Egypt" .
+<Adly_Mansour> <people.person.education> "m.0125vdp7" .
+<South_Sinai_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Cairo> <location.location.events> "Assassination of Anwar Sadat" .
+<El_Maadi_Residential_Tower_XVII> <location.location.containedby> "Egypt" .
+<Civil_law_notary> <common.topic.notable_types> "Profession" .
+<m.07nf8v_> <base.ontologies.ontology_instance_mapping.freebase_topic> "Lawyer" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<Jasmin_Mansour> <common.topic.notable_for> "g.1q3sfzwc1" .
+<Bunnik_Tours> <travel.tour_operator.travel_destinations> "Cairo" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Reyes Brown Reilley" .
+<Battle_of_Ridaniya> <time.event.locations> "Egypt" .
+<Adly_Mansour> <people.person.education> "m.0wljtz5" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.01076281" .
+<Keith_Sullivan> <organization.organization_founder.organizations_founded> "Sullivan & Galleshaw, LLP" .
+<Cairo> <location.location.contains> "Cairo Opera House" .
+<Procurator_fiscal> <people.profession.specialization_of> "Lawyer" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "United States Senator" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower XII" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0102z59q" .
+<Denena_&_Points,_P.C.> <organization.organization.organization_type> "Lawyer" .
+<Cairo> <location.location.contains> "Koubbeh Palace" .
+<Grand_Nile_Tower_Hotel> <location.location.containedby> "Egypt" .
+<Criminal_defense_lawyer> <common.topic.subject_of> "Lawyer" .
+<Downtown_L.A._Law_Group> <business.business_operation.industry> "Law" .
+<Politician> <type.type.expected_by> "Polican" .
+<local_politician> <people.profession.specialization_of> "Politician" .
+<Reyes_Brown_Reilley> <common.topic.subjects> "Law" .
+<Mercury_Legal> <organization.organization.sectors> "Lawyer" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Lawyer> <common.topic.subject_of> "Downtown L.A. Law Group" .
+<Judge> <common.topic.notable_types> "Profession" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<m.0105ypqn> <law.judicial_tenure.title> "Judge" .
+<Ethan_Rickover> <fictional_universe.fictional_character.occupation> "Judge" .
+<Judge_Narragansett> <fictional_universe.fictional_character.gender> "Male" .
+<2004_Panorama_of_the_European_Film> <time.event.locations> "Cairo" .
+<Tetralogy_of_Fallot> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Egypt> <location.country.first_level_divisions> "Qalyubia Governorate" .
+<Judge> <law.judicial_title.judges> "m.0zrm432" .
+<Mayor_of_Auckland> <people.profession.specialization_of> "Politician" .
+<Legislator> <common.topic.notable_types> "Profession" .
+<German_University_in_Cairo> <location.location.containedby> "Egypt" .
+<m.0w4vnr0> <government.government_position_held.jurisdiction_of_office> "Egypt" .
+<6th_Cairo_Women’s_Film_Festival> <time.event.locations> "Cairo" .
+<Matrouh_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Aswan_Governorate> <location.administrative_division.country> "Egypt" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.010761wl" .
+<Weightmans> <common.topic.subjects> "Solicitor" .
+<French_University_in_Egypt> <location.location.containedby> "Egypt" .
+<Lawyer> <common.topic.subject_of> "Weightmans" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower VIII" .
+<Minya_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Hair_loss> <medicine.symptom.symptom_of> "Ectodermal dysplasia" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Solicitor> <organization.organization_sector.organizations_in_this_sector> "Overeenkomst.nu" .
+<Cairo> <location.location.contains> "Narmer American College, main campus" .
+<Egypt> <location.country.administrative_divisions> "Alexandria Governorate" .
+<Qena_Governorate> <location.location.containedby> "Egypt" .
+<Judge> <law.judicial_title.judges> "m.0zb29hk" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Port Said Governorate" .
+<Adam_Greenman_Law> <common.topic.subjects> "Lawyer" .
+<Politician> <type.type.expected_by> "Taoiseach" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Prime minister" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<Egyptian_Museum> <location.location.containedby> "Cairo" .
+<Judge> <law.judicial_title.judges> "m.01110v6f" .
+<Law> <common.topic.subjects> "Brian White & Associates, P.C." .
+<Dupuytren's_contracture> <medicine.disease.risk_factors> "Male" .
+<Politician> <people.profession.specializations> "Advocacy" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5pjs" .
+<Lawyer> <people.profession.specializations> "Jurist" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<Politician> <common.topic.webpage> "m.09xt6w_" .
+<Lawyer> <common.topic.subject_of> "Keen & Genochio Attorneys at Law" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Shorouk> <base.meedan.arabic_language_media_source.country> "Egypt" .
+<Politician> <common.topic.webpage> "m.09x3j7h" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z3347" .
+<m.0vx8m2g> <law.judicial_tenure.title> "Judge" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.011_yzjt" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105znf1" .
+<Cairo_Governorate> <location.administrative_division.capital> "m.0q21gds" .
+<Cairo_Tower> <location.location.containedby> "Egypt" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<m.0cjfkbp> <military.military_posting.post> "Cairo" .
+<Basant_Mansour> <freebase.valuenotation.has_value> "Date of birth" .
+<Politician> <people.profession.specializations> "Usurper" .
+<Sullivan_&_Galleshaw,_LLP> <business.business_operation.industry> "Personal injury lawyer" .
+<Egypt> <location.country.first_level_divisions> "Sohag Governorate" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.0102zk_7" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zpl2" .
+<Bureaucrat> <common.topic.notable_types> "Profession" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.0102zl00" .
+<Law> <common.topic.subjects> "Anthony Castelli Attorney" .
+<Damietta_Governorate> <location.location.containedby> "Egypt" .
+<Cairo> <common.topic.image> "Nicknames: The City of a Thousand Minarets" .
+<Gharbia_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Sohag_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Child-Care_Solicitor> <people.profession.specialization_of> "Lawyer" .
+<Lawyer> <people.profession.specializations> "Labour Lawyer" .
+<Non-Hodgkin_lymphoma> <medicine.disease.risk_factors> "Male" .
+<City_of_the_Dead> <location.location.containedby> "Cairo" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Phillips Law Firm" .
+<Nile_City_North_Tower> <location.location.containedby> "Egypt" .
+<Ramses_College> <education.educational_institution_campus.educational_institution> "Ramses College" .
+<Misr_International_University> <location.location.containedby> "Egypt" .
+<Tyrant> <common.topic.notable_types> "Profession" .
+<m.0xnb9xd> <education.education.major_field_of_study> "Law" .
+<Giza_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Qena_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Chairman,_Chivalry_Democratic_Party> <people.profession.specialization_of> "Politician" .
+<Public_Health_Leader> <people.profession.specialization_of> "Politician" .
+<Daniel_C._Miller,_LLC> <common.topic.subjects> "Attorney at law" .
+<Khedivial_Opera_House,_Cairo> <location.location.containedby> "Egypt" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.0102zl3x" .
+<m.0wd4l51> <freebase.valuenotation.has_no_value> "Party" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010dyb1l" .
+<Cairo> <location.location.contains> "Maimonides Synagogue" .
+<El_Hakim> <film.film.featured_film_locations> "Cairo" .
+<Nathalie_Kosciusko-Morizet> <common.topic.notable_types> "Politician" .
+<Beni_Suef_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Cairo> <location.location.events> "2014 Cairo International Film Festival" .
+<British_University_in_Egypt> <location.location.containedby> "Egypt" .
+<Galstyan_Law_Group> <common.topic.subjects> "Law" .
+<Adly_Mansour> <people.person.children> "Jasmin Mansour" .
+<Abraham_Lincoln_head_on_shoulders_photo_portrait> <common.image.appears_in_topic_gallery> "Lawyer" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011vfplb" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106ry51" .
+<Judge> <fictional_universe.fictional_character.gender> "Male" .
+<Politician> <type.type.properties> "Legislative committees served on" .
+<m.09x1dpm> <common.webpage.topic> "Politician" .
+<Sheikh_Zayed_City> <common.topic.notable_types> "City/Town/Village" .
+<Profession> <type.property.schema> "Person" .
+<Politician> <freebase.type_profile.strict_included_types> "Topic" .
+<Labor_leader> <people.profession.specialization_of> "Politician" .
+<m.0y5gc6h> <law.judicial_tenure.title> "Judge" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Faiyum Governorate" .
+<Law_costs_draftsman> <people.profession.specialization_of> "Lawyer" .
+<Energy_Policy_Specialist> <common.topic.notable_types> "Profession" .
+<Boulak_Bridge> <location.location.containedby> "Cairo" .
+<Faggala> <location.location.containedby> "Greater Cairo" .
+<m.0zb29wp> <law.judicial_tenure.title> "Judge" .
+<Adly_Mansour> <people.person.education> "m.012m51g0" .
+<Lawyer> <book.book_subject.works> "In the Ring: The Trials of a Washington Lawyer" .
+<m.0wkf_yb> <education.education.institution> "Faculty of Law at Cairo University" .
+<Cairo> <location.statistical_region.population> "g.1jmcbjy8h" .
+<Politician> <freebase.type_profile.strict_included_types> "Person" .
+<Leonardo_da_Vinci_Art_Institute> <education.educational_institution.campuses> "Leonardo da Vinci Art Institute" .
+<Cairo> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.02h91d6" .
+<Hair_loss> <medicine.symptom.symptom_of> "Seborrheic dermatitis" .
+<Party> <type.property.schema> "Politician" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rt_8" .
+<Aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<Judge> <people.profession.specializations> "High Court Judge" .
+<Politician> <people.profession.specializations> "Political Attache" .
+<Person> <type.type.properties> "Parents" .
+<Ain_Shams_University> <location.location.containedby> "Egypt" .
+<Cairo> <location.location.contains> "Garbage City" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010hn395" .
+<Judge> <law.judicial_title.judges> "m.0zb2c0v" .
+<2000_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Oficer-Major_of_King_Zog__I> <common.topic.notable_types> "Profession" .
+<Anthony_Dean_Castelli> <common.topic.subjects> "Law" .
+<Politician> <people.profession.specializations> "Rural Development Leader" .
+<Judge> <base.onephylogeny.type_of_thing.includes> "Surrogate Judge" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<Judge> <law.judicial_title.judges> "m.0zb28z3" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105znt_" .
+<Politician> <type.type.domain> "Government" .
+<Egyptian_Tank_Man> <time.event.locations> "Cairo" .
+<Lawyer.com> <common.topic.subject_of> "Lawyer" .
+<Adly_Mansour> <people.person.education> "m.012m7c2h" .
+<m.0zb286y> <law.judicial_tenure.title> "Judge" .
+<Michigan_Auto_Law> <organization.organization.sectors> "Personal injury lawyer" .
+<Law_Offices_of_Christopher_Varnell> <common.topic.subject_of> "Lawyer" .
+<Lawyer> <common.topic.subjects> "Ozols Law Firm" .
+<Conveyancer> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<m.0xnb9xd> <education.education.major_field_of_study> "Administrative Science" .
+<Lawyer> <business.industry.companies> "Sullivan & Galleshaw, LLP" .
+<Cairo> <location.location.contains> "g.1hb_fy1zh" .
+<Narmer_American_College,_main_campus> <location.location.containedby> "Egypt" .
+<Lawyer> <common.topic.subject_of> "Galstyan Law Group" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<Sally_&_Fitch_LLP> <base.crime.lawyer.specialty> "Law" .
+<Cairo> <location.location.contains> "Al-Azhar Park" .
+<m.0zrm432> <law.judicial_tenure.title> "Judge" .
+<Politician> <people.profession.specializations> "Chairman, Chivalry Democratic Party" .
+<Attorney_at_law> <common.topic.subject_of> "Adam Greenman Law" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Gharbia Governorate" .
+<Adly_Mansour> <people.person.education> "m.01295qcq" .
+<Shorouk> <book.newspaper.circulation_areas> "Cairo" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Qena Governorate" .
+<m.012m9w_l> <education.educational_institution.students_graduates> "m.012m9w_9" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower VI" .
+<Cairo_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Port_Said_Governorate> <location.administrative_division.country> "Egypt" .
+<Lawyer> <common.topic.subjects> "Law Offices of Jesus R. Lopez" .
+<Monufia_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Mercury_Legal> <organization.organization.sectors> "Solicitor" .
+<Pectus_excavatum> <medicine.disease.risk_factors> "Male" .
+<Egypt_Soccer_Riot> <time.event.locations> "Cairo" .
+<Lawyer> <people.profession.specializations> "Duty solicitor" .
+<El_Maadi_Residential_Tower_IX> <location.location.containedby> "Cairo" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d5n5" .
+<Jasmin_Mansour> <people.person.parents> "Adly Mansour" .
+<Solicitor> <common.topic.subject_of> "Accident Advice Helpline" .
+<Future_University_in_Egypt> <location.location.containedby> "New Cairo" .
+<Judge> <freebase.type_profile.kind> "Title" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<As_Egypt_Howls_and_History_Tweets> <book.written_work.subjects> "Egypt" .
+<Brian_White_&_Associates,_P.C.> <common.topic.subjects> "Law" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Adam Greenman Law" .
+<Lawyer> <people.profession.specializations> "Solicitor" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<Judge> <law.judicial_title.judges> "m.0_qc192" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<Anonymous_Lawyer> <book.written_work.subjects> "Lawyer" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678nn" .
+<Sohag_Governorate> <location.location.containedby> "Egypt" .
+<Place_of_birth> <type.property.schema> "Person" .
+<Basant_Mansour> <common.topic.notable_for> "g.1q3sg8ycc" .
+<Politician> <freebase.equivalent_topic.equivalent_type> "Politician" .
+<Suez_Governorate> <location.location.containedby> "Egypt" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Legal Action Workshop" .
+<Politician> <type.type.expected_by> "Winner(s)" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjp5" .
+<Basant_Mansour> <people.person.parents> "Adly Mansour" .
+<Rabaa_Al-Adawiya_Mosque> <location.location.containedby> "Cairo" .
+<Adventures_by_Disney> <common.topic.subjects> "Adventures by Disney - Egypt Vacation" .
+<El_Shorouk_Academy> <education.educational_institution.campuses> "El Shorouk Academy" .
+<Thomas_Hornbuckle> <common.topic.subjects> "Attorney at law" .
+<Cairo> <location.location.contains> "Nile University" .
+<Majux_Marketing> <business.business_operation.major_customer> "Lawyer" .
+<Politician> <people.profession.specializations> "Environmentalist" .
+<Pyloric_stenosis> <medicine.disease.risk_factors> "Male" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower XV" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Hazem_Al_Beblawi> <government.politician.government_positions_held> "m.0w4vnr0" .
+<1996_Arab_Club_Champions_Cup> <time.event.locations> "Cairo" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zp46" .
+<Corporate_lawyer> <people.profession.specialization_of> "Lawyer" .
+<The_Hornbuckle_Firm> <business.business_operation.industry> "Law" .
+<Lawyer> <common.topic.subject_of> "Law Offices of Sara M. Gaborik" .
+<O’Connor,_Runckel_&_O’Malley_LLP> <business.business_location.parent_company> "O’Connor, Runckel & O’Malley LLP" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<Lawyer> <people.profession.specializations> "Legal executive" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Lawyer" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106789c" .
+<m.012l156q> <education.education.student> "Adly Mansour" .
+<m.0sxdd0g> <law.judicial_tenure.title> "Judge" .
+<Civil_Rights_Leader> <common.topic.notable_types> "Profession" .
+<Red_Sea_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Cairo> <base.popstra.location.vacationers> "m.065pbk7" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660hr" .
+<Cairo> <location.location.contains> "Ministry of Foreign Affairs of Egypt building" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<Keith_Sullivan> <people.person.gender> "Male" .
+<Cairo> <location.location.contains> "Canadian International College" .
+<Labour_Lawyer> <people.profession.specialization_of> "Lawyer" .
+<National_Bank_of_Egypt_Tower> <location.location.containedby> "Egypt" .
+<m.0zs99rc> <law.judicial_tenure.title> "Judge" .
+<Cairo_Fire> <time.event.locations> "Cairo" .
+<Sally_&_Fitch_LLP> <common.topic.subjects> "Law" .
+<Personal_injury_lawyer> <common.topic.subjects> "Sullivan & Galleshaw, LLP" .
+<Judge> <law.judicial_title.judges> "m.0zstyw3" .
+<Sohag_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<1997_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxxx" .
+<Politician> <people.profession.specializations> "Prefect" .
+<Qena_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Cairo> <location.location.events> "2012 Shnit International Short Film Festival" .
+<Ibrahim_Mahlab> <people.person.profession> "Politician" .
+<Ramses_College> <location.location.containedby> "Cairo" .
+<Criminal_defense_lawyer> <common.topic.subject_of> "Law Offices of Christopher Varnell" .
+<Jesus_R._Lopez> <people.person.profession> "Attorney at law" .
+<Politician> <type.type.properties> "Party" .
+<m.012ffmsd> <education.educational_institution.students_graduates> "m.012ffms6" .
+<Judge> <law.judicial_title.judges> "m.0102_4rr" .
+<El_Maadi_Residential_Tower_XVII> <location.location.containedby> "Cairo" .
+<Cairo> <location.location.contains> "St. George's College, Cairo" .
+<Judge> <common.topic.article> "m.0c5lr" .
+<Lawyer> <common.topic.subjects> "The Rodriguez Law Group" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rsrm" .
+<Diplomat> <common.topic.notable_types> "Profession" .
+<Leinart_Law_Firm> <law.legal_subject.legal_cases> "Bankruptcy Lawyer" .
+<French_University_in_Egypt> <education.educational_institution_campus.educational_institution> "French University in Egypt" .
+<Politician> <common.topic.notable_types> "Profession" .
+<Egypt> <location.country.first_level_divisions> "North Sinai Governorate" .
+<Lawyer> <base.crime.lawyer_type.lawyers_of_this_type> "Sally & Fitch LLP" .
+<Legal_Action_Workshop> <business.business_operation.industry> "Lawyer" .
+<Judge_Phelan> <fictional_universe.fictional_character.occupation> "Judge" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661vm" .
+<Cairo> <location.location.events> "2012 U.S. diplomatic missions attacks" .
+<Hazem_Al_Beblawi> <common.topic.notable_types> "Politician" .
+<Adly_Mansour> <people.person.education> "m.012kz0wm" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<Cairo> <location.location.contains> "Al-Azhar Mosque" .
+<Jasmin_Mansour> <freebase.valuenotation.has_value> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<Qalyubia_Governorate> <location.location.containedby> "Egypt" .
+<Ismailia_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Cairo> <fictional_universe.fictional_setting.works_set_here> "The Merchant and the Alchemist's Gate" .
+<Profession> <rdf-schema#domain> "Person" .
+<Military_Technical_College> <education.educational_institution.campuses> "Military Technical College" .
+<Brian_White_&_Associates,_P.C.> <common.topic.subject_of> "Lawyer" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Adly_Mansour> <people.person.nationality> "Egypt" .
+<m.012m1410> <education.education.student> "Adly Mansour" .
+<Jesus_R._Lopez> <people.person.profession> "Lawyer" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Cairo> <location.location.contains> "Cairo Plaza Building" .
+<male.jpg> <common.image.appears_in_topic_gallery> "Male" .
+<1948_Cairo_bombings> <time.event.locations> "Cairo" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Thomas Hornbuckle" .
+<Cairo> <fictional_universe.fictional_setting.characters_that_have_lived_here> "Ororo Munroe / Storm" .
+<Ororo_Munroe_/_Storm> <fictional_universe.fictional_character.gender> "Female" .
+<Downtown_L.A._Law_Group> <organization.organization.sectors> "Law" .
+<Cairo> <location.location.containedby> "Greater Cairo" .
+<Damietta_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Spouse> <type.property.expected_type> "Person" .
+<Judnich_Law_Office> <common.topic.subjects> "Lawyer" .
+<Lawyer> <people.profession.specializations> "Law costs draftsman" .
+<Children’s_Rights_Leader> <people.profession.specialization_of> "Politician" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.011nj7sh" .
+<m.012m9w_9> <education.education.institution> "m.012m9w_l" .
+<2010_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Cairo> <location.location.events> "2004 Cairo International Film Festival" .
+<Egypt> <location.country.administrative_divisions> "Cairo Governorate" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0mg" .
+<Cairo> <location.location.contains> "Cairo Stadium Indoor Halls Complex" .
+<Narmer_American_College,_main_campus> <location.location.containedby> "Cairo" .
+<German_University_in_Cairo> <education.educational_institution_campus.educational_institution> "German University in Cairo" .
+<m.012m51g0> <education.educational_institution.students_graduates> "m.012m51fv" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<Politician> <freebase.type_profile.kind> "Title" .
+<Sugar_Street> <book.written_work.subjects> "Egypt" .
+<Civil_law_notary> <common.topic.image> "Quentin Massys 007" .
+<Politician> <type.type.expected_by> "politician" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<Official> <people.profession.specializations> "Judge" .
+<Rebel> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<El_Maadi_Residential_Tower_X> <location.location.containedby> "Cairo" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<Elizabeth_Donnelly> <fictional_universe.fictional_character.gender> "Female" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106612h" .
+<Future_University_in_Egypt> <location.location.containedby> "Egypt" .
+<Leprosy> <medicine.disease.risk_factors> "Male" .
+<m.09w1p59> <common.webpage.topic> "Politician" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rwzt" .
+<French_University_in_Egypt> <location.location.containedby> "Cairo" .
+<Egypt> <location.country.administrative_divisions> "Kafr el-Sheikh Governorate" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower XIV" .
+<Dakahlia_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Faiyum_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Cairo> <location.location.contains> "Cairo Tower" .
+<Basant_Mansour> <people.person.nationality> "Egypt" .
+<m.0w4vnr0> <government.government_position_held.basic_title> "Acting Prime Minister" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "Almesryoon" .
+<Cairo> <location.location.events> "Battle of the Pyramids" .
+<Adly_Mansour> <government.politician.party> "m.0wd4l51" .
+<m.012m13_s> <education.education.institution> "m.012m1410" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<Mosque_of_Muhammad_Ali> <travel.tourist_attraction.near_travel_destination> "Cairo" .
+<Egypt> <location.country.first_level_divisions> "Red Sea Governorate" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<Cairo> <location.location.events> "1996 Cairo International Film Festival" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<Judge> <freebase.type_hints.included_types> "Topic" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0101bdq3" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "Akhbar Al-Adab" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<Law> <base.morelaw.type_of_legal_subject.lawyers_in_this_field> "Sally & Fitch LLP" .
+<Adly_Mansour> <people.person.profession> "Politician" .
+<Egypt> <location.country.administrative_divisions> "Ismailia Governorate" .
+<neilplus's_types> <freebase.domain_profile.category> "Male" .
+<Brian_White_&_Associates,_P.C.> <base.crime.law_firm.type_of> "Personal injury lawyer" .
+<m.09y01p3> <common.webpage.topic> "Politician" .
+<Egyptian_Museum> <travel.tourist_attraction.near_travel_destination> "Cairo" .
+<Politician> <common.topic.webpage> "m.09yw165" .
+<Ibrahim_Mahlab> <freebase.valuenotation.has_value> "Parents" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Lawyer" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0101h_l2" .
+<Lawyer> <people.profession.specializations> "Mediator" .
+<Adly_Mansour> <people.person.education> "m.0129bqb4" .
+<Judge> <law.judicial_title.judges> "m.0rdym0l" .
+<Judge> <base.onephylogeny.type_of_thing.included_in> "Profession" .
+<New_Valley_Governorate> <location.administrative_division.country> "Egypt" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010662rx" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0102z5jf" .
+<Al_Sharqia_Governorate> <location.location.containedby> "Egypt" .
+<Canadian_International_College> <location.location.containedby> "Egypt" .
+<Sally_&_Fitch_LLP> <common.topic.subject_of> "Lawyer" .
+<Lawyer> <people.profession.specializations> "Entertainment Lawyer" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Kafr_el-Sheikh_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Damietta_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Law> <common.topic.subject_of> "Weightmans" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.0_z3cry" .
+<Cairo> <book.book_subject.works> "As Egypt Howls and History Tweets" .
+<Lawyer> <people.profession.specializations> "Counsellor" .
+<Mercury_Legal> <common.topic.subjects> "Personal injury lawyer" .
+<Anthony_Castelli_Attorney> <common.topic.subjects> "Law" .
+<Judge> <base.lightweight.profession.specialization_of> "Judges and Hearing Officers" .
+<SueEasy_Logo.jpg> <common.image.appears_in_topic_gallery> "Lawyer" .
+<Politician> <freebase.type_hints.included_types> "Topic" .
+<Non-gonococcal_urethritis> <medicine.disease.risk_factors> "Male" .
+<Aswan_Governorate> <location.location.containedby> "Egypt" .
+<Egypt> <government.governmental_jurisdiction.government_positions> "Prime Minister of Egypt" .
+<Personal_injury_lawyer> <people.profession.people_with_this_profession> "Anthony Dean Castelli" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Alexandria Governorate" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Kafr el-Sheikh Governorate" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.0_z3ctl" .
+<Judge> <law.judicial_title.judges> "m.0zgp0pz" .
+<m.0wf5qmx> <law.judicial_tenure.title> "Judge" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Glasheen, Valles, and Inderman, LLP" .
+<Cairo_Opera_House> <location.location.containedby> "Egypt" .
+<Canadian_International_College> <education.educational_institution_campus.educational_institution> "Canadian International College" .
+<Female> <common.topic.subjects> "ZasPorn" .
+<Children> <type.property.master_property> "Parents" .
+<El_Shorouk_Academy> <location.location.containedby> "Cairo" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010662by" .
+<Accident_Advice_Helpline> <common.topic.subjects> "Lawyer" .
+<Judge> <fictional_universe.character_occupation.characters_with_this_occupation> "Judge Phelan" .
+<El_Gezira_Tower_Movenpick_Hotel> <location.location.containedby> "Cairo" .
+<Qalyubia_Governorate> <location.location.time_zones> "Eastern European Time Zone" .
+<2012_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Law> <common.topic.subject_of> "Brian White & Associates, P.C." .
+<m.0q21gds> <location.administrative_division_capital_relationship.capital> "Cairo" .
+<Gout> <medicine.icd_9_cm_classification.includes_classifications> "Gout" .
+<Modern_Academy_For_Engineering_&_Technology> <location.location.containedby> "Cairo" .
+<State_Attorney> <people.profession.specialization_of> "Lawyer" .
+<Koubbeh_Palace> <location.location.containedby> "Cairo" .
+<Judge> <law.judicial_title.judges> "m.0wzgvvb" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<Al_Kahera> <book.newspaper.circulation_areas> "Cairo" .
+<Judge> <law.judicial_title.judges> "m.0wf5qmx" .
+<Cairo> <location.location.events> "2003 Cairo International Film Festival" .
+<Attorney_at_law> <people.profession.specialization_of> "Lawyer" .
+<Egypt> <location.country.administrative_divisions> "Gharbia Governorate" .
+<Alexandria_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Politician> <people.profession.specializations> "Tribal chief" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.01088cyy" .
+<Civil_Rights_Leader> <people.profession.specialization_of> "Politician" .
+<St._George's_College,_Cairo> <location.location.containedby> "Egypt" .
+<m.0wzgvh0> <law.judicial_tenure.title> "Judge" .
+<m.0swwyfp> <law.judicial_tenure.title> "Judge" .
+<Personal_injury_lawyer> <common.topic.subjects> "Anthony Castelli Attorney" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.01087sxr" .
+<As_Egypt_Howls_and_History_Tweets> <common.topic.subjects> "Cairo" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<Minya_Governorate> <location.administrative_division.country> "Egypt" .
+<m.0y8067r> <law.judicial_tenure.title> "Judge" .
+<Advocate> <people.profession.specialization_of> "Lawyer" .
+<Egypt> <location.country.first_level_divisions> "Aswan Governorate" .
+<m.0129fm_c> <education.education.institution> "m.0129fm_k" .
+<Legal_executive> <common.topic.notable_types> "Profession" .
+<Cairo> <common.topic.subject_of> "As Egypt Howls and History Tweets" .
+<Children’s_Rights_Leader> <common.topic.notable_types> "Profession" .
+<Marriage> <type.type.properties> "Spouse" .
+<Egypt> <location.country.first_level_divisions> "Gharbia Governorate" .
+<Cairo_Stadium_Indoor_Halls_Complex> <location.location.containedby> "Cairo" .
+<Higher_Technological_Institute> <education.educational_institution.campuses> "Higher Technological Institute" .
+<Elizabeth_Donnelly> <fictional_universe.fictional_character.occupation> "Lawyer" .
+<Lawyer> <people.profession.specializations> "Criminal defense lawyer" .
+<m.012mdyck> <education.educational_institution.students_graduates> "m.012mdybv" .
+<Cairo> <location.location.contains> "Modern Academy In Maadi" .
+<Michigan_Auto_Law> <base.crime.law_firm.type_of> "Personal injury lawyer" .
+<Solicitor> <common.topic.subjects> "Accident Advice Helpline" .
+<Politician> <type.type.expected_by> "Winner" .
+<Cairo> <location.location.contains> "Military Technical College" .
+<El_Maadi_Residential_Tower_XV> <location.location.containedby> "Cairo" .
+<Egypt> <location.country.administrative_divisions> "Red Sea Governorate" .
+<Politician> <people.profession.specializations> "Town supervisor" .
+<Athlete's_foot> <medicine.disease.risk_factors> "Male" .
+<English_barrister> <common.image.appears_in_topic_gallery> "Lawyer" .
+<Judge_Irwin> <book.book_character.appears_in_book> "All the King's Men" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower XVIII" .
+<AIDS_Policy_Specialist> <people.profession.specialization_of> "Politician" .
+<Beheira_Governorate> <location.location.containedby> "Egypt" .
+<Paget's_disease_of_bone> <medicine.disease.risk_factors> "Male" .
+<Judge> <law.judicial_title.judges> "m.0zb265f" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010g6wtj" .
+<January_2014_Cairo_bombings> <time.event.locations> "Cairo" .
+<1994_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Corporate_lawyer> <common.topic.notable_types> "Profession" .
+<Cairo> <location.location.events> "6th Cairo Women’s Film Festival" .
+<Adly_Mansour> <people.person.education> "m.0125q_fm" .
+<Judge> <law.judicial_title.judges> "m.01058kpc" .
+<Akinwunmi_Ambode> <people.person.profession> "Politician" .
+<Modern_Academy_In_Maadi> <location.location.containedby> "Cairo" .
+<Cairo> <location.statistical_region.population> "g.1jmcbgvxn" .
+<Statesman> <common.topic.notable_types> "Profession" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<Tetralogy_of_Fallot> <medicine.disease.risk_factors> "Male" .
+<Ismailia_Governorate> <location.location.containedby> "Egypt" .
+<Official> <common.topic.notable_types> "Profession" .
+<Urethritis> <medicine.disease.risk_factors> "Male" .
+<All_the_King's_Men> <book.written_work.subjects> "Politician" .
+<m.09x5gkq> <common.webpage.topic> "Politician" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d5lz" .
+<El_Maadi_Residential_Tower_XIV> <location.location.containedby> "Cairo" .
+<Egypt> <location.country.first_level_divisions> "Ismailia Governorate" .
+<AUC_Downtown> <location.location.containedby> "Cairo" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011r12cq" .
+<Judge> <law.judicial_title.judges> "m.0zstx0w" .
+<Cairo_Opera_House> <location.location.containedby> "Cairo" .
+<Adventures_by_Disney_-_Egypt_Vacation> <common.topic.subject_of> "Adventures by Disney" .
+<Adly_Mansour> <people.person.places_lived> "m.0wj_kcw" .
+<Lawyer> <people.profession.specializations> "Civil Rights Lawyer" .
+<Gharbia_Governorate> <location.location.containedby> "Egypt" .
+<m.012m7c2h> <education.education.student> "Adly Mansour" .
+<m.0wd4l51> <government.political_party_tenure.politician> "Adly Mansour" .
+<Politician> <type.type.expected_by> "Responsible Minister" .
+<m.02h91d6> <protected_sites.natural_or_cultural_site_listing.listed_site> "Cairo" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Downtown L.A. Law Group" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<Egypt> <location.country.administrative_divisions> "South Sinai Governorate" .
+<Judge> <law.judicial_title.judges> "m.0_xl703" .
+<Housing_and_Community_Development_Leader> <common.topic.notable_types> "Profession" .
+<m.012dz0bg> <education.education.student> "Adly Mansour" .
+<Lawyer> <base.schemastaging.context_name.pronunciation> "g.125_p3psr" .
+<Assassination_of_Anwar_Sadat> <time.event.locations> "Cairo" .
+<Politician> <people.profession.specializations> "Housing and Community Development Leader" .
+<Judge_Narragansett> <fictional_universe.fictional_character.occupation> "Judge" .
+<Cairo> <location.location.contains> "Nile City North Tower" .
+<Politician> <type.type.expected_by> "Officeholder" .
+<Lawyer> <common.topic.subject_of> "Axess Law" .
+<Politician> <people.profession.specializations> "Tribal Rights Leader" .
+<Sylvia_Quin> <fictional_universe.fictional_character.gender> "Female" .
+<Legal_Action_Workshop> <organization.organization.sectors> "Lawyer" .
+<2012_Panorama_of_the_European_Film> <time.event.locations> "Cairo" .
+<m.011c3s9s> <law.judicial_tenure.title> "Judge" .
+<Children> <type.property.expected_type> "Person" .
+<Politician> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<Politician> <people.profession.specializations> "Statesman" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <business.business_location.parent_company> "Hoffman, Larin & Agnetti, P.A." .
+<Lawyer> <common.topic.subject_of> "Legal Action Workshop" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<El_Shorouk_Academy> <education.educational_institution_campus.educational_institution> "El Shorouk Academy" .
+<Ulama> <common.topic.notable_types> "Profession" .
+<Oficer-Major_of_King_Zog__I> <people.profession.specialization_of> "Politician" .
+<Egypt> <location.country.administrative_divisions> "Sohag Governorate" .
+<Sullivan_&_Galleshaw,_LLP> <common.topic.subject_of> "Lawyer" .
+<Ain_Shams_University_Faculty_of_Medicine> <location.location.containedby> "Egypt" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zmmt" .
+<Lawyer> <people.profession.specializations> "Bankruptcy Lawyer" .
+<Legal_Action_Workshop> <common.topic.subjects> "Personal injury lawyer" .
+<Cairo> <periodicals.newspaper_circulation_area.newspapers> "Al Kahera" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.012vsxv7" .
+<Downtown_L.A._Law_Group> <common.topic.subjects> "Law" .
+<Sara_Gaborik> <people.person.profession> "Lawyer" .
+<m.012kz0wm> <education.educational_institution.students_graduates> "m.012kz0wb" .
+<m.09x20cj> <common.webpage.topic> "Politician" .
+<Criminal_defense_lawyer> <people.profession.specializations> "Lawyer" .
+<English_barrister> <common.image.appears_in_topic_gallery> "Barrister" .
+<m.0121pqts> <business.employment_tenure.title> "Lawyer" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Adventures_by_Disney_-_Egypt_Vacation> <travel.tour_operator.travel_destinations> "Egyptian Museum" .
+<2014_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<m.012kz0wb> <education.education.institution> "m.012kz0wm" .
+<Aswan_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Cairo> <location.location.contains> "Residences Roda Island" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<Lawyer> <people.group.member> "m.011x03sm" .
+<Judge> <base.schemastaging.context_name.pronunciation> "g.125_pwxmt" .
+<SexCrimeUK.com_-_Dedicated_Sex_Crimes_Defence_Solicitors> <common.topic.subjects> "Law" .
+<El_Maadi_Residential_Tower_XIII> <location.location.containedby> "Egypt" .
+<Cairo> <location.location.contains> "g.120jfhxs" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<Mosque_of_Muhammad_Ali> <location.location.containedby> "Cairo" .
+<Attorney_at_law> <common.topic.subject_of> "Jesus R. Lopez" .
+<Egypt> <location.country.administrative_divisions> "Faiyum Governorate" .
+<Lawyer> <people.profession.specializations> "Corporate lawyer" .
+<m.012kz0wm> <education.education.student> "Adly Mansour" .
+<Lawyer> <common.topic.subjects> "O’Connor, Runckel & O’Malley LLP" .
+<Politician> <common.topic.subject_of> "Jimi Agbaje" .
+<Judge> <fictional_universe.character_occupation.characters_with_this_occupation> "Judge Narragansett" .
+<Personal_injury_lawyer> <organization.organization_type.organizations_of_this_type> "Denena & Points, P.C." .
+<Faculty_of_Law_at_Cairo_University> <education.educational_institution.students_graduates> "m.0xnb9xd" .
+<Law> <common.topic.subject_of> "Weightmans" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d3vc" .
+<El_Maadi_Residential_Tower_VI> <location.location.containedby> "Egypt" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Spouse_(or_domestic_partner)> <type.property.schema> "Person" .
+<Cairo> <location.location.contains> "Mosque of Muhammad Ali" .
+<Politician> <base.schemastaging.context_name.pronunciation> "g.125_lw10d" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxp9" .
+<Personal_injury_lawyer> <common.topic.subjects> "Keith Sullivan" .
+<Reyes_Brown_Reilley> <common.topic.subjects> "Personal injury lawyer" .
+<Lawyer> <people.profession.specializations> "Prosecutor" .
+<Energy_Policy_Specialist> <people.profession.specialization_of> "Politician" .
+<Multiple_myeloma> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Aswan_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Minya_Governorate> <location.location.containedby> "Egypt" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<As_Egypt_Howls_and_History_Tweets> <common.topic.subjects> "Egypt" .
+<m.012g62x7> <education.educational_institution.students_graduates> "m.012g62wn" .
+<Lawyer> <common.topic.subjects> "Keith Sullivan" .
+<Stephen_Hornbuckle> <common.topic.subjects> "Lawyer" .
+<m.012l2sg_> <education.education.student> "Adly Mansour" .
+<The_Merchant_and_the_Alchemist's_Gate> <fictional_universe.work_of_fiction.setting> "Cairo" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxcw" .
+<Judge> <law.judicial_title.judges> "m.0wgwsyp" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Ismailia Governorate" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower XVII" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106629x" .
+<Egypt> <location.country.first_level_divisions> "Faiyum Governorate" .
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Grand_Nile_Tower_Hotel> <location.location.containedby> "Cairo" .
+<Golfer's_elbow> <medicine.disease.risk_factors> "Male" .
+<1st_Claims> <common.topic.subjects> "Personal injury lawyer" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Cairo> <location.location.nearby_airports> "Cairo West Airport" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5pl8" .
+<m.09xrn7q> <common.webpage.topic> "Politician" .
+<Law> <common.topic.subject_of> "Downtown L.A. Law Group" .
+<Cairo> <location.location.contains> "Shubra" .
+<Shorouk> <base.meedan.arabic_language_media_source.city> "Cairo" .
+<German_University_in_Cairo> <education.educational_institution.campuses> "German University in Cairo" .
+<New_Cairo> <location.location.time_zones> "Eastern European Time Zone" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Cairo> <common.topic.image> "Cairo" .
+<2002_Al_Ayyat_railway_accident> <time.event.locations> "Cairo" .
+<Sebaceous_cyst> <medicine.disease.risk_factors> "Male" .
+<Judge_Doom> <fictional_universe.fictional_character.gender> "Male" .
+<Club_foot> <medicine.disease.risk_factors> "Male" .
+<Judge> <law.judicial_title.judges> "m.0y8056g" .
+<Akinwunmi_Ambode> <people.person.quotations> "Akinwunmi Ambode" .
+<South_Sinai_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Egypt" .
+<Judge> <law.judicial_title.judges> "m.0y7xqs2" .
+<Lawyer> <common.topic.subjects> "Leinart Law Firm" .
+<Lawyer> <common.topic.subject_of> "Dansky | Katz | Ringold | York" .
+<Lawyer> <people.profession.specializations> "Contract attorney" .
+<Phillips_Law_Firm> <organization.organization.sectors> "Personal injury lawyer" .
+<Leonardo_da_Vinci_Art_Institute> <education.educational_institution_campus.educational_institution> "Leonardo da Vinci Art Institute" .
+<Egypt> <location.country.administrative_divisions> "Beheira Governorate" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<Daily_News_Egypt> <base.meedan.arabic_language_media_source.country> "Egypt" .
+<m.0_sl34m> <government.government_position_held.jurisdiction_of_office> "Egypt" .
+<Jimi_Agbaje> <common.topic.subjects> "Politician" .
+<New_Cairo> <location.location.contains> "Future University in Egypt" .
+<Parents> <rdf-schema#domain> "Person" .
+<1995_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Ibrahim_Mahlab> <people.person.gender> "Male" .
+<Greater_Cairo> <location.location.contains> "Cairo" .
+<Cairo> <location.location.events> "1997 Cairo International Film Festival" .
+<Lawyer> <common.topic.subject_of> "Sally & Fitch LLP" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0101pk69" .
+<m.0125q_fm> <education.education.student> "Adly Mansour" .
+<m.012fvl7p> <education.education.institution> "m.012fvl7w" .
+<m.0xnb9xd> <education.education.student> "Adly Mansour" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjm1" .
+<Place_of_birth> <rdf-schema#domain> "Person" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<Marben_Abogado_Laboralista_Barcelona> <common.topic.subject_of> "Lawyer" .
+<Judge> <law.judicial_title.judges> "m.0y5v985" .
+<Parents> <owl#inverseOf> "Children" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<m.0zstz4l> <law.judicial_tenure.title> "Judge" .
+<Jasmin_Mansour> <freebase.valuenotation.has_value> "Date of birth" .
+<Adly_Mansour> <people.person.children> "Basant Mansour" .
+<Cairo> <location.location.contains> "City of the Dead" .
+<One-Zero> <film.film.featured_film_locations> "Cairo" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066106" .
+<Personal_injury_lawyer> <base.crime.lawyer.lawyer_type> "Personal injury lawyer" .
+<thefloridafirm.com> <common.topic.subject_of> "Lawyer" .
+<Prime_Minister_of_Egypt> <government.government_office_or_title.category> "Prime minister" .
+<Lawyer> <people.profession.specializations> "Real estate lawyer" .
+<Egypt> <location.country.first_level_divisions> "Giza Governorate" .
+<Criminal_defense_lawyer> <common.topic.subject_of> "Law" .
+<Ozols_Law_Firm> <common.topic.subject_of> "Lawyer" .
+<Lawyer> <business.industry.companies> "Legal Action Workshop" .
+<Almesryoon> <book.newspaper.circulation_areas> "Cairo" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010679yq" .
+<Giza_Zoo> <location.location.containedby> "Egypt" .
+<Accident_Advice_Helpline> <common.topic.subject_of> "Solicitor" .
+<New_Cairo> <location.location.contains> "German University in Cairo" .
+<Lawyer> <common.topic.subjects> "Anthony Castelli Attorney" .
+<Politician> <common.topic.webpage> "m.09x20cj" .
+<Date_of_birth> <rdf-schema#domain> "Person" .
+<Accident_Advice_Helpline> <common.topic.subject_of> "Lawyer" .
+<Trademark_attorney> <common.topic.notable_types> "Profession" .
+<Chairman,_Chivalry_Democratic_Party> <common.topic.notable_types> "Profession" .
+<m.012l8d3c> <education.educational_institution.students_graduates> "m.012l8d35" .
+<Judge> <law.judicial_title.judges> "m.0swwyfp" .
+<Cairo_Governorate> <location.location.containedby> "Egypt" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Lawyer> <people.profession.corresponding_type> "Lawyer" .
+<Cairo> <location.location.contains> "National Bank of Egypt Tower" .
+<Lawyer_SEO_Services> <business.consumer_product.brand> "Lawyer SEO Services" .
+<Judge> <law.judicial_title.judges> "m.0y7rrkx" .
+<Lawyer> <people.profession.specializations> "Bencher" .
+<Cairo_University_School_of_Medicine> <location.location.containedby> "Cairo" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<1st_Claims> <business.business_operation.industry> "Law" .
+<Lawyer.com> <business.brand.includes_brands> "Lawyer.com" .
+<AUC_New_Cairo> <location.location.containedby> "Cairo" .
+<Zaafarana_palace> <location.location.containedby> "Egypt" .
+<Lawyer> <common.topic.subject_of> "Thomas Hornbuckle" .
+<Jesus_R._Lopez> <organization.organization_founder.organizations_founded> "Law Offices of Jesus R. Lopez" .
+<Judge> <law.judicial_title.judges> "m.0y7lmm1" .
+<Cairo> <book.book_subject.works> "Palace Walk" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105znh0" .
+<Attorney_at_law> <common.topic.subject_of> "The Hornbuckle Firm" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106b4sm" .
+<Judge> <people.profession.specializations> "Associate Justice" .
+<m.0y7sfn6> <law.judicial_tenure.title> "Judge" .
+<Judge> <law.judicial_title.judges> "m.0wgwy0c" .
+<Lawyer> <business.job_title.people_with_this_title> "m.0121pqts" .
+<Judge> <law.judicial_title.judges> "m.0y7sg8h" .
+<m.0y7rtkc> <law.judicial_tenure.title> "Judge" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.0_xl703> <law.judicial_tenure.title> "Judge" .
+<Dakahlia_Governorate> <location.administrative_division.country> "Egypt" .
+<Attorney_at_law> <common.topic.subject_of> "Stephen Hornbuckle" .
+<Judge> <people.profession.specializations> "Federal Administrative Law Judge" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<2004_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Akinwunmi_Ambode> <people.person.gender> "Male" .
+<Sara_Gaborik> <common.topic.subject_of> "Lawyer" .
+<Nile_University> <education.educational_institution.campuses> "Nile University" .
+<2006_Cairo_International_Film_Festival> <time.event.locations> "Cairo" .
+<Shine_Lawyers> <organization.organization.sectors> "Law" .
+<Garbage_City> <location.location.containedby> "Egypt" .
+<Fresh_Start_Bail_Bonds> <common.topic.subject_of> "Lawyer" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z3355" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Minya Governorate" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Personal_injury_lawyer> <base.crime.lawyer_type.lawyers_of_this_type> "Personal injury lawyer" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<Alexandria_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<Rural_Development_Leader> <people.profession.specialization_of> "Politician" .
+<Personal_injury_lawyer> <common.topic.subject_of> "1st Claims" .
+<Cairo> <location.location.events> "2006 Cairo International Film Festival" .
+<Palace_Walk> <book.written_work.subjects> "Cairo" .
+<Narmer_American_College,_main_campus> <location.location.containedby> "Greater Cairo" .
+<Egypt> <location.country.administrative_divisions> "New Valley Governorate" .
+<Person> <type.type.properties> "Profession" .
+<Politician> <freebase.type_profile.strict_included_types> "Animate" .
+<Usurper> <common.topic.notable_types> "Profession" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zndc" .
+<El_Maadi_Residential_Tower_XI> <location.location.containedby> "Cairo" .
+<Solicitor_advocate> <people.profession.specialization_of> "Lawyer" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<Cairo> <common.image.appears_in_topic_gallery> "Cairo" .
+<Daily_News_Egypt> <book.newspaper.circulation_areas> "Cairo" .
+<Honestly_Dearest,_You're_Dead> <book.written_work.subjects> "Lawyer" .
+<m.0w4vnr0> <government.government_position_held.office_position_or_title> "Prime Minister of Egypt" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rslf" .
+<Jesus_R._Lopez> <people.person.gender> "Male" .
+<Cairo> <location.location.contains> "Sabil-Kuttab of Katkhuda" .
+<Al-Azhar_Park> <travel.travel_destination.tour_operators> "Adventures by Disney - Egypt Vacation" .
+<Cairo> <location.location.contains> "Ramses College" .
+<m.0zb2c0v> <law.judicial_tenure.title> "Judge" .
+<1991_African_Youth_Championship> <time.event.locations> "Cairo" .
+<m.0129bq9w> <education.education.institution> "m.0129bqb4" .
+<Risk_Factor> <freebase.type_hints.included_types> "Topic" .
+<Adly_Mansour> <people.person.education> "m.012fvl7w" .
+<Stephen_Hornbuckle> <common.topic.subjects> "Personal injury lawyer" .
+<Lawyer> <book.book_subject.works> "Honestly Dearest, You're Dead" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5prp" .
+<Judge> <freebase.type_profile.strict_included_types> "Topic" .
+<Ulama> <people.profession.specialization_of> "Lawyer" .
+<The_Hornbuckle_Firm> <common.topic.subjects> "Lawyer" .
+<m.0wgwtbn> <law.judicial_tenure.title> "Judge" .
+<Cairo> <location.location.contains> "New Cairo" .
+<Politician> <people.profession.specializations> "Party leader" .
+<Judge> <law.judicial_title.judges> "m.0y5gc6h" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678k6" .
+<Judge> <fictional_universe.character_occupation.characters_with_this_occupation> "Elizabeth Donnelly" .
+<Cairo> <location.location.contains> "Sadat Academy for Management Sciences" .
+<Cairo_Governorate> <location.administrative_division.country> "Egypt" .
+<m.0y7rrdx> <law.judicial_tenure.title> "Judge" .
+<Anthony_Castelli_Attorney> <common.topic.subject_of> "Personal injury lawyer" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<Cairo> <location.capital_of_administrative_division.capital_of> "m.0q21gds" .
+<Female> <medicine.risk_factor.diseases> "Kyphosis" .
+<Future_University_in_Egypt> <education.educational_institution_campus.educational_institution> "Future University in Egypt" .
+<Cairo> <location.location.contains> "Boulak Bridge" .
+<m.0129bqb4> <education.educational_institution.students_graduates> "m.0129bq9w" .
+<Attorney_at_law> <organization.organization_sector.organizations_in_this_sector> "Phillips Law Firm" .
+<Males> <base.skosbase.skos_concept.equivalent_topic> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661yt" .
+<Politician> <type.type.expected_by> "Resulting head of government" .
+<Military_Technical_College> <education.educational_institution_campus.educational_institution> "Military Technical College" .
+<Adly_Mansour> <freebase.valuenotation.has_value> "Parents" .
+<Hazem_Al_Beblawi> <people.person.nationality> "Egypt" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <business.business_location.parent_company> "Hoffman, Larin & Agnetti, P.A." .
+<m.012mdybv> <education.education.institution> "m.012mdyck" .
+<Lawyer> <people.profession.specializations> "Ulama" .
+<m.012ffmsd> <education.education.student> "Adly Mansour" .
+<Jasmin_Mansour> <freebase.valuenotation.has_value> "Place of birth" .
+<Revolt_of_Cairo> <time.event.locations> "Cairo" .
+<Jasmin_Mansour> <people.person.gender> "Female" .
+<Real_estate_lawyer> <common.topic.notable_types> "Profession" .
+<Mayor_of_Auckland> <common.topic.notable_types> "Profession" .
+<Ain_Shams_University> <education.educational_institution_campus.educational_institution> "Ain Shams University" .
+<Jimi_Agbaje> <people.person.gender> "Male" .
+<Heliopolis_Palace> <location.location.containedby> "Cairo" .
+<First_thing_we_do,_let's_kill_all_the_lawyers.> <media_common.quotation.subjects> "Lawyer" .
+<Galstyan_Law_Group> <organization.organization.sectors> "Attorney at law" .
+<Nile_University> <location.location.containedby> "Cairo" .
+<Sadat_Academy_for_Management_Sciences> <location.location.containedby> "Cairo" .
+<Bankruptcy_Lawyer> <people.profession.specialization_of> "Lawyer" .
+<Faiyum_Governorate> <location.administrative_division.country> "Egypt" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.01094y4t" .
+<Town_supervisor> <people.profession.specialization_of> "Politician" .
+<Cairo> <location.location.contains> "Ain Shams University Faculty of Medicine" .
+<Cairo> <location.location.contains> "Pyramid of Djoser" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zn7k" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106613k" .
+<Adventures_by_Disney_-_Egypt_Vacation> <travel.tour_operator.travel_destinations> "Al-Azhar Park" .
+<Ministry_of_Foreign_Affairs_of_Egypt_building> <location.location.containedby> "Cairo" .
+<Lawyer> <people.profession.specializations> "Child-Care Solicitor" .
+<Trademark_attorney> <people.profession.specialization_of> "Lawyer" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.0_z3j_r" .
+<Canadian_International_College> <location.location.containedby> "New Cairo" .
+<Sullivan_&_Galleshaw,_LLP> <common.topic.subject_of> "Personal injury lawyer" .
+<m.0wgwy0c> <law.judicial_tenure.title> "Judge" .
+<El_Maadi_Residential_Tower_VII> <location.location.containedby> "Egypt" .
+<The_Egyptian_Gazette> <base.meedan.arabic_language_media_source.country> "Egypt" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.locations> "Hoffman, Larin & Agnetti, P.A." .
+<Greater_Cairo> <location.location.contains> "Faggala" .
+<Syphilis> <medicine.disease.risk_factors> "Male" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<Al-Azhar_University> <education.educational_institution_campus.educational_institution> "Al-Azhar University" .
+<Gezira_Center_for_Modern_Art> <location.location.containedby> "Cairo" .
+<Sylvia_Quin> <fictional_universe.fictional_character.occupation> "Judge" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<Politician> <base.ontologies.ontology_instance.equivalent_instances> "m.07ngkqq" .
+<Politician> <people.profession.specializations> "Labor leader" .
+<Doc_Hudson> <fictional_universe.fictional_character.gender> "Male" .
+<Cairo> <location.statistical_region.population> "m.065bsql" .
+<Spouse> <rdf-schema#domain> "Marriage" .
+<Egypt> <location.country.administrative_divisions> "Cairo" .
+<Leinart_Law_Firm> <common.topic.subject_of> "Lawyer" .
+<Watani> <base.meedan.arabic_language_media_source.city> "Cairo" .
+<Egypt> <base.aareas.schema.administrative_area.administrative_children> "Damietta Governorate" .
+<Higher_Technological_Institute> <location.location.containedby> "Egypt" .
+<2012_Cairo_International_Film_Festival_for_Children> <time.event.locations> "Cairo" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0101bdn_" .
+<Law> <people.professional_field.professions_in_this_field> "Lawyer" .
+<Politician> <freebase.type_hints.included_types> "Person" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Ibrahim_Mahlab> <people.person.place_of_birth> "Cairo" .
+<Carey> <business.business_operation.industry> "Law" .
+<Kyphosis> <medicine.disease.risk_factors> "Female" .
+<Thomas_Hornbuckle> <common.topic.subjects> "Lawyer" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Law" .
+<North_Sinai_Governorate> <location.administrative_division.first_level_division_of> "Egypt" .
+<m.012m51fv> <education.education.institution> "m.012m51g0" .
+<Person> <type.type.properties> "Children" .
+<2012_Shnit_International_Short_Film_Festival> <time.event.locations> "Cairo" .
+<Egypt> <location.country.first_level_divisions> "New Valley Governorate" .
+<Advocate> <common.topic.notable_types> "Profession" .
+<Adly_Mansour> <government.politician.government_positions_held> "m.0wd4m19" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Overeenkomst.nu" .
+<Prime_Minister_of_Egypt> <government.government_office_or_title.jurisdiction> "Egypt" .
+<Adly_Mansour> <people.person.children> "Ahmed Mansour" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rv59" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066mdj" .
+<Al-Ahram_Weekly> <book.newspaper.circulation_areas> "Egypt" .
+<Cairo> <location.location.contains> "El Maadi Residential Tower VII" .
+<Judge> <base.descriptive_names.names.descriptive_name> "m.0102zl21" .
+<Personal_injury_lawyer> <organization.organization_sector.organizations_in_this_sector> "Phillips Law Firm" .
+<Child-Care_Solicitor> <common.topic.notable_types> "Profession" .
+<German_University_in_Cairo> <location.location.containedby> "Cairo" .
+<Attorney_at_law> <common.topic.subject_of> "Thomas Hornbuckle" .
+<m.012fvl7w> <education.education.student> "Adly Mansour" .
+<Prefect> <common.topic.notable_types> "Profession" .
+<Marriage> <freebase.type_profile.published> "Published" .
+<m.0wd4m19> <government.government_position_held.office_position_or_title> "Acting President of Egypt" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Party> <type.property.master_property> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<Adly_Mansour> <people.person.education> "m.0xnb9xd" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660nv" .
+<Judge> <law.judicial_title.judges> "m.0qtqm45" .
+<Al-Hayat> <book.periodical.subjects> "Politics" .
+<Lawyer> <business.industry.companies> "Rose Law Firm" .
+<Thomas_Hornbuckle> <common.topic.subject_of> "Law" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Loyalty Law" .
+<Lawyer_SEO_Services> <business.consumer_product.product_line> "Lawyer SEO Services" .
+<Cairo> <location.location.events> "2005 Cairo International Film Festival for Children" .
+<Cairo> <travel.travel_destination.tourist_attractions> "Mosque of Muhammad Ali" .
+<Lawyer> <common.topic.subject_of> "1st Claims" .
+<Bureaucrat> <people.profession.specialization_of> "Politician" .
+<Kafr_el-Sheikh_Governorate> <location.administrative_division.country> "Egypt" .
+<Politician> <freebase.type_profile.published> "Published" .
+<m.0w4vnr0> <government.government_position_held.appointed_by> "Adly Mansour" .
+<m.0zb28jz> <law.judicial_tenure.title> "Judge" .

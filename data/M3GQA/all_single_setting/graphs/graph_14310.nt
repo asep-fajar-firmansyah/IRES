@@ -1,0 +1,2622 @@
+<Huntsville_Blast> <sports.sports_team.location> "Huntsville" .
+<Illinois> <location.location.time_zones> "Central Time Zone" .
+<Huntsville> <location.hud_foreclosure_area.total_residential_addresses> "m.07ghwzj" .
+<35801> <location.location.contains> "Big Spring Park" .
+<m.045x8lw> <film.performance.film> "SpaceCamp" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Minnesota" .
+<Madison_County> <location.location.adjoin_s> "m.03jr0yx" .
+<Significant> <freebase.type_kind.types> "US County" .
+<Meridianville> <location.location.time_zones> "Central Time Zone" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Sequel> <rdf-schema#range> "Film" .
+<New_Market> <location.location.time_zones> "Central Time Zone" .
+<m.02h4rl7> <common.webpage.resource> "City of Huntsville, Alabama" .
+<m.07ghwyn> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Ice_hockey_team> <freebase.type_profile.strict_included_types> "Topic" .
+<35810> <common.topic.notable_types> "Postal Code" .
+<Tom_and_Huck> <film.film.starring> "m.0v9yr8d" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Texas" .
+<Madison_County> <location.statistical_region.population> "g.11x1cvyt7" .
+<Maysville,_Alabama> <location.location.containedby> "Alabama" .
+<Illinois> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<North_Dakota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Huntsville_Tornado> <common.topic.notable_for> "g.125bhhs_w" .
+<m.0jvvr53> <location.administrative_division_capital_relationship.administrative_division> "Madison County" .
+<Huntsville> <location.citytown.postal_codes> "35808" .
+<m.0hjckcc> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Madison_County> <location.statistical_region.population> "m.0hjckdy" .
+<SpaceCamp> <media_common.netflix_title.netflix_genres> "Adventure Film" .
+<m.03jr_y_> <film.performance.film> "Tom and Huck" .
+<Garret_Savage> <people.person.nationality> "United States of America" .
+<Maine> <location.administrative_division.country> "United States of America" .
+<Madison_County> <location.statistical_region.population> "g.12b021_j8" .
+<Tom_and_Huck> <film.film.featured_film_locations> "Huntsville" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Statistical region" .
+<35899> <common.topic.notable_for> "g.12574vpxs" .
+<United_States_of_America> <location.country.first_level_divisions> "Michigan" .
+<m.0qh1v55> <film.performance.film> "The Ravagers" .
+<The_Ravagers> <film.film.edited_by> "Joven Calub" .
+<Perkasie> <location.location.containedby> "Pennsylvania" .
+<Georgia> <meteorology.cyclone_affected_area.cyclones> "Tropical Storm Fay" .
+<United_States_of_America> <location.country.administrative_divisions> "New Mexico" .
+<m.07ggxn4> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Meridianville> <location.hud_county_place.place> "Meridianville" .
+<Alabama> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Delaware" .
+<Huntsville_Botanical_Garden> <travel.tourist_attraction.near_travel_destination> "Huntsville" .
+<Huntsville> <location.statistical_region.population> "g.11x1gv6zr" .
+<Huntsville> <location.citytown.postal_codes> "35810" .
+<m.0wz20n1> <sports.team_venue_relationship.team> "Alabama–Huntsville Chargers men's ice hockey" .
+<Montana> <base.locations.states_and_provences.country> "United States of America" .
+<Ardmore> <location.hud_county_place.place> "Ardmore" .
+<Madison_County> <location.statistical_region.population> "g.12b01rtdv" .
+<Gurley> <location.hud_county_place.place> "Gurley" .
+<35895> <common.topic.notable_for> "g.1255j1k3x" .
+<Madison_County> <location.statistical_region.population> "g.11x1lg0lq" .
+<Limestone_County> <location.location.people_born_here> "Jake Hess" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Mississippi> <location.location.containedby> "United States, with Territories" .
+<Big_Spring_Park> <travel.tourist_attraction.near_travel_destination> "Huntsville" .
+<m.0cvcf9c> <film.personal_film_appearance.film> "Crisis: Behind a Presidential Commitment" .
+<West_Virginia> <location.administrative_division.country> "United States of America" .
+<Tom_and_Huck> <film.film.starring> "m.0v9xbyx" .
+<Alaska> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Maryland" .
+<City> <freebase.equivalent_topic.equivalent_type> "City/Town/Village" .
+<Pennsylvania> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<m.058mpg6> <location.geometry.delineates_location> "35810" .
+<Tommy_Battle> <people.person.place_of_birth> "Birmingham" .
+<35806> <location.location.contains> "Bridge Street Town Centre" .
+<Tom_and_Huck> <media_common.netflix_title.netflix_genres> "Family Features" .
+<SpaceCamp> <film.film.starring> "m.03jrcfl" .
+<Mooresville> <location.hud_county_place.county> "Limestone County" .
+<35805> <location.location.containedby> "Madison County" .
+<Limestone_County> <location.statistical_region.population> "m.0k6ldgt" .
+<Limestone_County> <location.location.time_zones> "Central Time Zone" .
+<Michigan> <location.administrative_division.country> "United States of America" .
+<Chase,_Alabama> <location.location.containedby> "35811" .
+<Utah> <location.administrative_division.country> "United States of America" .
+<Huntsville> <location.statistical_region.population> "m.0k6mt4c" .
+<Limestone_County> <location.location.containedby> "United States of America" .
+<Georgia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "North Dakota" .
+<Huntsville> <location.location.containedby> "Alabama" .
+<m.0crtvfs> <sports.sports_league_participation.team> "Huntsville Channel Cats" .
+<Oregon> <location.location.containedby> "United States of America" .
+<United_States,_with_Territories> <location.country.first_level_divisions> "United States of America" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjnt" .
+<Huntsville> <film.film_location.featured_in_films> "Tom and Huck" .
+<Madison_County> <location.statistical_region.population> "m.0hjckb0" .
+<Von_Braun_Center> <common.topic.article> "m.05x4l5" .
+<Central_Time_Zone> <location.location.events> "2013 Festival Colima de Cine" .
+<Owens_Cross_Roads> <location.location.containedby> "Madison County" .
+<Virginia> <location.administrative_division.first_level_division_of> "United States of America" .
+<U.S._Space_&_Rocket_Center> <common.topic.webpage> "m.040ftkn" .
+<Madison_County> <location.statistical_region.rent50_4> "m.05g96rr" .
+<35801> <location.location.contains> "Maple Hill Cemetery" .
+<Tom_and_Huck> <music.soundtrack.film> "Tom and Huck" .
+<The_Ravagers> <freebase.valuenotation.has_no_value> "Prequel" .
+<m.0wz20n1> <sports.team_venue_relationship.venue> "Von Braun Center" .
+<m.0gl7mg2> <film.film_regional_release_date.film> "Tom and Huck" .
+<Von_Braun_Center> <sports.sports_facility.home_venue_for> "m.0wz20mp" .
+<Huntsville> <location.statistical_region.population> "m.0hk51sz" .
+<Space_Raiders> <media_common.netflix_title.netflix_genres> "Family" .
+<Constellation> <media_common.netflix_title.netflix_genres> "Romantic African-American Movies" .
+<m.0jtbpwf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0vts7ny> <film.film_film_distributor_relationship.film> "Tom and Huck" .
+<Tazewell_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Battle_Beyond_the_Stars> <film.film.featured_film_locations> "Huntsville" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjmh" .
+<The_Ravagers> <film.film.produced_by> "Kane W. Lynn" .
+<Madison_County> <location.statistical_region.population> "m.0hjckb7" .
+<Limestone_County> <location.location.adjoin_s> "m.03jpzwp" .
+<Crisis:_Behind_a_Presidential_Commitment> <common.topic.notable_types> "Film" .
+<Iowa> <base.biblioness.bibs_location.country> "United States of America" .
+<Battle_Beyond_the_Stars> <award.award_nominated_work.award_nominations> "m.0bdqwww" .
+<Ready,_Set,_Bag> <film.film.featured_film_locations> "Davis" .
+<Delaware> <location.administrative_division.first_level_division_of> "United States of America" .
+<Maryland> <location.location.containedby> "United States of America" .
+<35809> <common.topic.notable_types> "Postal Code" .
+<Ready,_Set,_Bag> <film.film.featured_film_locations> "Sandstone" .
+<Huntsville_Havoc> <common.topic.notable_for> "g.12554lxg8" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51yy" .
+<SpaceCamp> <film.film.genre> "Family-Oriented Adventure" .
+<Crisis:_Behind_a_Presidential_Commitment> <media_common.netflix_title.netflix_genres> "Film & Television History" .
+<Minnesota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Hawaii> <base.biblioness.bibs_location.country> "United States of America" .
+<Huntsville> <location.citytown.postal_codes> "35824" .
+<Monte_Sano_State_Park> <common.topic.article> "m.05l466" .
+<35807> <common.topic.notable_types> "Postal Code" .
+<Big_Spring_Park> <common.topic.notable_for> "g.1258dcm8_" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjtt" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Vermont" .
+<m.07ggxnl> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Space_Raiders> <media_common.netflix_title.netflix_genres> "Sci-Fi & Fantasy" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Hawaii" .
+<2010_University_of_Alabama_in_Huntsville_shooting> <common.topic.image> "Uah2" .
+<Madison_County> <location.statistical_region.population> "g.11x1f2183" .
+<Nevada> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<New_Jersey> <location.location.containedby> "United States of America" .
+<Huntsville/Madison_County_Convention_&_Visitor's_Bureau_Website> <common.resource.annotations> "m.02h4rlm" .
+<Iowa> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Wyoming" .
+<Tazewell_County> <base.aareas.schema.administrative_area.administrative_parent> "Virginia" .
+<Oregon> <base.locations.states_and_provences.country> "United States of America" .
+<35808> <location.location.geometry> "m.0568pst" .
+<Tom_and_Huck> <film.film.release_date_s> "m.0j578dp" .
+<Las_Vegas> <location.hud_county_place.place> "Las Vegas" .
+<Von_Braun_Center> <sports.sports_facility.teams> "Huntsville Blast" .
+<Arkansas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Huntsville> <base.biblioness.bibs_location.state> "Alabama" .
+<Airport> <freebase.type_profile.strict_included_types> "Topic" .
+<Limestone_County> <location.us_county.hud_county_place> "Elkmont" .
+<U.S._county> <base.aareas.schema.administrative_area_type.pertains_to> "United States of America" .
+<Ready,_Set,_Bag> <film.film.music> "Marco D'Ambrosio" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Arizona" .
+<Alaska> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Colorado" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.release_date_s> "m.0j57wjr" .
+<Maysville,_Alabama> <common.topic.notable_types> "City/Town/Village" .
+<Madison_County> <location.us_county.hud_county_place> "Madison County / Madison city" .
+<Tom_and_Huck> <film.film.starring> "m.03jsp77" .
+<North_Carolina> <base.biblioness.bibs_location.country> "United States of America" .
+<Texas> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Maryland" .
+<SpaceCamp> <film.film.starring> "m.03jr479" .
+<Limestone_County> <location.location.people_born_here> "Oscar Richard Hundley" .
+<m.0hjckdh> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0105y_05" .
+<United_States_of_America> <location.country.first_level_divisions> "New Jersey" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<m.0j9w14_> <common.webpage.topic> "U.S. Space & Rocket Center" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjtb" .
+<Indiana> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Seven_Samurai> <freebase.valuenotation.has_no_value> "Prequel" .
+<Huntsville_Channel_Cats> <sports.sports_team.venue> "m.0wz20mp" .
+<2013_Festival_Colima_de_Cine> <time.event.locations> "Central Time Zone" .
+<Huntsville> <location.statistical_region.population> "m.0hk51tq" .
+<California> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Hampshire" .
+<New_Hampshire> <location.administrative_division.first_level_division_of> "United States of America" .
+<Madison_County> <location.statistical_region.population> "g.11x1h6nz2" .
+<35808> <location.location.contains> "Redstone Arsenal" .
+<Constellation> <film.film.language> "English Language" .
+<Limestone_County> <location.statistical_region.population> "g.12b021_j4" .
+<Huntsville> <location.statistical_region.population> "m.0hk51rq" .
+<m.0hjckc4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<35806> <location.location.containedby> "Madison County" .
+<m.0v9y55c> <film.performance.film> "Tom and Huck" .
+<Constellation> <film.film.produced_by> "Morris Ruskin" .
+<Battle_Beyond_the_Stars> <media_common.netflix_title.netflix_genres> "Action Sci-Fi & Fantasy" .
+<Constellation> <film.film.genre> "Drama" .
+<Louisiana> <location.location.containedby> "United States of America" .
+<Huntsville_Blast> <sports.sports_team.sport> "Ice Hockey" .
+<Huntsville> <location.statistical_region.population> "g.11x1k4cqr" .
+<Alabama> <government.governmental_jurisdiction.agencies> "Alabama Department of Conservation and Natural Resources" .
+<Huntsville_Havoc> <sports.sports_team.sport> "Ice Hockey" .
+<Georgia> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Moontown_Airport> <common.topic.notable_types> "Airport" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Tennessee" .
+<Moores_Mill> <location.location.time_zones> "Central Time Zone" .
+<SpaceCamp> <film.film.starring> "m.045x8m5" .
+<m.0hhyv1z> <film.film_film_distributor_relationship.film> "SpaceCamp" .
+<m.02tb8jz> <film.performance.film> "Constellation" .
+<m.03lr5ct> <film.performance.film> "Tom and Huck" .
+<United_States_of_America> <location.country.first_level_divisions> "Utah" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "California" .
+<Sequel> <type.property.expected_type> "Film" .
+<United_States_of_America> <location.country.administrative_divisions> "Minnesota" .
+<m.0jrk414> <architecture.occupancy.building> "Huntsville Museum of Art" .
+<Limestone_County> <location.statistical_region.co2_emissions_industrial> "m.045k8mg" .
+<Idaho> <location.location.containedby> "United States, with Territories" .
+<Sports_Facility> <freebase.type_profile.published> "Published" .
+<Seven_Samurai> <common.topic.notable_types> "Film" .
+<m.0j57wjr> <film.film_regional_release_date.film> "Crisis: Behind a Presidential Commitment" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.runtime> "m.0cg89hb" .
+<35816> <location.location.geolocation> "m.03dmrlx" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Missouri" .
+<m.0cv3mw7> <common.webpage.topic> "United States Space Camp" .
+<Utah> <location.location.containedby> "United States, with Territories" .
+<Limestone_County> <location.statistical_region.co2_emissions_residential> "m.045k00j" .
+<Tropical_Storm_Fay> <meteorology.tropical_cyclone.affected_areas> "Florida" .
+<Limestone_County> <location.location.adjoin_s> "m.03jrlyx" .
+<Marshall_Space_Flight_Center> <location.location.adjoin_s> "m.0b6_48s" .
+<35810> <location.location.geolocation> "m.03dmrl9" .
+<Huntsville> <common.topic.image> "100 1830" .
+<Ready,_Set,_Bag> <film.film.directed_by> "Justine Jacob" .
+<Texas> <location.administrative_division.country> "United States of America" .
+<Huntsville_International_Airport> <location.location.containedby> "Madison County" .
+<Minimum_wage> <type.property.schema> "Statistical region" .
+<35805> <location.location.contains> "Lowe Mill" .
+<Virginia> <base.locations.states_and_provences.country> "United States of America" .
+<Hazel_Green> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Pennsylvania" .
+<Limestone_County> <location.statistical_region.population> "g.12b01w4ph" .
+<Hurricane_Elena> <meteorology.tropical_cyclone.affected_areas> "Florida" .
+<m.0cgrwm5> <common.webpage.topic> "Ready, Set, Bag" .
+<New_Hope> <location.hud_county_place.county> "Madison County" .
+<Hurricane_Elena> <meteorology.tropical_cyclone.affected_areas> "Arkansas" .
+<Madison_County_Nature_Trail> <common.topic.image> "Covered Bridge Green Mountain" .
+<SpaceCamp> <film.film.distributors> "m.07y5d07" .
+<SpaceCamp> <film.film.genre> "Action/Adventure" .
+<Huntsville> <location.location.containedby> "United States of America" .
+<Georgia> <location.location.containedby> "United States of America" .
+<m.0cg62bh> <film.film_cut.film> "The Ravagers" .
+<Florida> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Utah" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kkbry" .
+<Madison_County> <common.topic.image> "Map of アラバマ州 highlighting マディソン郡" .
+<Montana> <location.administrative_division.first_level_division_of> "United States of America" .
+<Space_Raiders> <film.film.produced_by> "Roger Corman" .
+<California> <location.location.containedby> "United States of America" .
+<Ready,_Set,_Bag> <common.topic.webpage> "m.0cgrwm5" .
+<United_States_of_America> <location.country.administrative_divisions> "Florida" .
+<Triana> <location.location.containedby> "Alabama" .
+<Huntsville_International_Airport> <location.location.geolocation> "m.02_jyv2" .
+<Wyoming> <location.administrative_division.country> "United States of America" .
+<Delaware> <location.administrative_division.country> "United States of America" .
+<Jake_Hess> <people.person.place_of_birth> "Limestone County" .
+<South_Dakota> <location.location.containedby> "United States of America" .
+<Madison_County> <location.statistical_region.population> "m.0hjck9t" .
+<Ready,_Set,_Bag> <media_common.netflix_title.netflix_genres> "Documentary film" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "West Virginia" .
+<Tom_and_Huck> <film.film.starring> "m.0v9yw86" .
+<Mark_Twain> <film.film_story_contributor.film_story_credits> "Tom and Huck" .
+<Kansas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Connecticut" .
+<Madison_County_Executive_Airport> <common.topic.notable_for> "g.125689c1t" .
+<Ready,_Set,_Bag> <film.film.featured_film_locations> "Mount Vernon" .
+<United_States_of_America> <location.country.first_level_divisions> "Georgia" .
+<Huntsville_Blast> <common.topic.notable_types> "Ice hockey team" .
+<Madison_County> <base.schemastaging.context_name.pronunciation> "g.125_rs3jb" .
+<Birmingham> <location.location.time_zones> "Central Time Zone" .
+<US_County> <freebase.type_profile.strict_included_types> "Dated location" .
+<Tom_and_Huck> <film.film.starring> "m.03jrt4v" .
+<Redstone_Army_Airfield> <common.topic.notable_types> "Airport" .
+<Constellation> <film.film.starring> "m.04htw6g" .
+<Huntsville_Tornado> <sports.sports_team.sport> "Ice Hockey" .
+<Sandstone> <location.location.time_zones> "Central Time Zone" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<Connecticut> <location.administrative_division.first_level_division_of> "United States of America" .
+<Area_code_256> <location.location.contains> "Huntsville" .
+<South_Dakota> <base.locations.states_and_provences.country> "United States of America" .
+<Limestone_County> <location.statistical_region.rent50_0> "m.05g96m9" .
+<Washington,_D.C.> <location.location.containedby> "United States, with Territories" .
+<Madison_County_Executive_Airport> <common.topic.image> "Madison County Executive Airport" .
+<m.0hjckbx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Ready,_Set,_Bag> <common.topic.webpage> "m.0cgrwmd" .
+<35810> <location.location.contains> "Max Luther Dr. west of N. Memorial Parkway" .
+<m.03lykh0> <common.webpage.topic> "Constellation" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.subdividing_place> "United States of America" .
+<35896> <location.postal_code.country> "United States of America" .
+<Arizona> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "California" .
+<Tom_and_Huck> <film.film.starring> "m.0v9w_x8" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Kansas" .
+<City/Town/Village> <type.type.domain> "Location" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjpz" .
+<Huntsville> <location.statistical_region.population> "m.0jtfnww" .
+<Huntsville> <travel.travel_destination.tourist_attractions> "Huntsville Botanical Garden" .
+<Madison_County> <location.statistical_region.population> "m.0hjckhd" .
+<m.0jvvr4k> <location.administrative_division_capital_relationship.administrative_division> "Limestone County" .
+<Battle_Beyond_the_Stars> <music.album.artist> "James Horner" .
+<Hurricane_Elena> <meteorology.tropical_cyclone.affected_areas> "United States of America" .
+<Area_code> <freebase.type_hints.included_types> "Location" .
+<Huntsville> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<United_States_of_America> <location.country.first_level_divisions> "Maine" .
+<Tom_and_Huck> <film.film.language> "English Language" .
+<SpaceCamp> <music.album.artist> "John Williams" .
+<Alabama> <location.administrative_division.first_level_division_of> "United States of America" .
+<Minimum_wage> <rdf-schema#domain> "Statistical region" .
+<City_Limits> <type.property.schema> "City/Town/Village" .
+<New_Hampshire> <location.location.containedby> "United States, with Territories" .
+<Huntsville> <location.citytown.postal_codes> "35898" .
+<m.02vc868> <film.performance.film> "Battle Beyond the Stars" .
+<m.03lr5cn> <film.performance.film> "Tom and Huck" .
+<m.045x8mb> <film.performance.film> "SpaceCamp" .
+<Georgia> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Hawaii" .
+<Huntsville> <location.statistical_region.population> "m.0hk51qc" .
+<m.0hhzwcb> <film.film_film_distributor_relationship.film> "SpaceCamp" .
+<Madison_County> <location.statistical_region.population> "g.11x1jyyrw" .
+<Tom_and_Huck> <award.award_nominated_work.award_nominations> "m.0sgpwl3" .
+<Documentary_film> <media_common.media_genre.child_genres> "Social & Cultural Documentaries" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjs7" .
+<Triana> <location.location.containedby> "Madison County" .
+<Oklahoma> <location.location.containedby> "United States, with Territories" .
+<Limestone_County> <location.statistical_region.population> "g.11x1kx5ps" .
+<The_Ravagers> <film.film.written_by> "Cesar Amigo" .
+<m.0jtlw0m> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0v9y22j> <film.performance.film> "Tom and Huck" .
+<Hawaii> <location.location.containedby> "United States of America" .
+<Marshall_Space_Flight_Center> <location.location.containedby> "Redstone Arsenal" .
+<35806> <location.location.geometry> "m.0568qvq" .
+<35815> <common.topic.notable_for> "g.1257k6tk2" .
+<Madison_County> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07ggxnl" .
+<Battle_Beyond_the_Stars> <media_common.adaptation.adapted_from> "Seven Samurai" .
+<United_States_of_America> <location.country.administrative_divisions> "Nebraska" .
+<2010_University_of_Alabama_in_Huntsville_shooting> <common.topic.article> "m.0b7777h" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.featured_film_locations> "Birmingham" .
+<Tom_and_Huck> <media_common.netflix_title.netflix_genres> "Book Characters" .
+<Huntsville_Tornado> <sports.defunct_sports_team.active> "m.0w7cq3c" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<The_Ravagers> <film.film.other_crew> "m.0qh3drq" .
+<Postal_codes> <type.property.schema> "City/Town/Village" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Connecticut" .
+<United_States_Space_Camp> <common.topic.article> "m.07vwnl" .
+<Ready,_Set,_Bag> <film.film.directed_by> "Alex da Silva" .
+<Twickenham_Historic_District> <location.location.geolocation> "m.06zx9b4" .
+<m.0cgrwmm> <common.webpage.topic> "Ready, Set, Bag" .
+<Museum> <freebase.equivalent_topic.equivalent_type> "Museum" .
+<Huntsville_Museum_of_Art> <location.location.geolocation> "m.0wm8hnn" .
+<Kentucky> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Madison_County> <symbols.namesake.named_after> "James Madison" .
+<Owens_Cross_Roads> <location.location.time_zones> "Central Time Zone" .
+<Madison_County> <location.location.adjoin_s> "m.03jp88t" .
+<Limestone_County> <location.statistical_region.rent50_1> "m.05g96mj" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjtl" .
+<Film> <freebase.type_profile.strict_included_types> "Topic" .
+<City/Town/Village> <freebase.type_profile.kind> "Significant" .
+<SpaceCamp> <film.film.starring> "m.045x8lq" .
+<Battle_Beyond_the_Stars> <film.film.starring> "m.0cg07f5" .
+<35811> <common.topic.notable_for> "g.1255g1rd4" .
+<Mooresville> <common.topic.notable_types> "City/Town/Village" .
+<m.010nrk2f> <film.film_film_distributor_relationship.film> "Battle Beyond the Stars" .
+<Drama> <media_common.media_genre.child_genres> "Romance Film" .
+<Battle_Beyond_the_Stars> <film.film.starring> "m.02vbg0t" .
+<Huntsville> <location.citytown.postal_codes> "35802" .
+<SpaceCamp> <film.film.runtime> "m.0gl8wqs" .
+<Tom_and_Huck> <film.film.genre> "Teen film" .
+<Tom_and_Huck> <film.film.story_by> "Mark Twain" .
+<Madison_County> <common.topic.article> "m.0kwgz" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjmq" .
+<Minnesota> <location.administrative_division.country> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011nr3__" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Maine" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjp0" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51x5" .
+<m.0hjckbp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.03jqqq2> <location.adjoining_relationship.adjoins> "Limestone County" .
+<Alabama_Constitution_Village> <travel.tourist_attraction.near_travel_destination> "Huntsville" .
+<Louisiana> <location.location.time_zones> "Central Time Zone" .
+<Montgomery> <common.topic.notable_types> "City/Town/Village" .
+<35802> <location.location.contains> "Kroger at Logan Square" .
+<Sandstone> <location.location.containedby> "Minnesota" .
+<Battle_Beyond_the_Stars> <media_common.netflix_title.netflix_genres> "Satires" .
+<Area_codes_256_and_938> <common.topic.image> "Alabama256" .
+<Timezoneswest> <common.image.appears_in_topic_gallery> "Central Time Zone" .
+<Huntsville> <location.statistical_region.population> "g.11x1fdktz" .
+<SpaceCamp> <film.film.runtime> "m.045x8ld" .
+<Significant> <freebase.type_kind.types> "City/Town/Village" .
+<Florida> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjp8" .
+<SpaceCamp> <film.film.film_art_direction_by> "Leon Harris" .
+<Area_codes_256_and_938> <common.topic.notable_types> "Area code" .
+<35806> <location.location.contains> "Madison Square Mall" .
+<Huntsville> <location.statistical_region.population> "m.066j9rv" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjvg" .
+<Constellation> <film.film.genre> "Romance Film" .
+<Madison_County> <location.location.people_born_here> "Susanna Townsend" .
+<Ready,_Set,_Bag> <film.film.personal_appearances> "m.0cgrw4m" .
+<m.0hjckf4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Philippines> <location.country.languages_spoken> "English Language" .
+<Alabama–Huntsville_Chargers_men's_ice_hockey> <sports.sports_team.arena_stadium> "Von Braun Center" .
+<m.05h8b_l> <protected_sites.natural_or_cultural_site_listing.listed_site> "Twickenham Historic District" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.genre> "Political cinema" .
+<Madison_County> <location.location.time_zones> "Central Time Zone" .
+<Limestone_County> <location.statistical_region.population> "g.11x1mdxms" .
+<35803> <location.location.geolocation> "m.03dmrk3" .
+<West_Virginia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<William_N._Richardson> <people.person.nationality> "United States of America" .
+<Huntsville_Botanical_Garden> <common.topic.notable_for> "g.125dq4f12" .
+<Von_Braun_Center> <symbols.namesake.named_after> "Wernher von Braun" .
+<Battle_Beyond_the_Stars> <film.film.distributors> "m.010nrsdq" .
+<Tom_and_Huck> <film.film.genre> "Family" .
+<m.0qh3drq> <film.film_crew_gig.film> "The Ravagers" .
+<35808> <common.topic.notable_for> "g.125cd5h5x" .
+<North_Dakota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Space_Raiders> <common.topic.notable_types> "Film" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Arizona" .
+<Hawaii> <location.administrative_division.first_level_division_of> "United States of America" .
+<Big_Spring_Park> <common.topic.image> "BigSpringPanoramic" .
+<Tuscaloosa> <film.film_location.featured_in_films> "Crisis: Behind a Presidential Commitment" .
+<m.03jsp77> <film.performance.film> "Tom and Huck" .
+<Madison_County> <location.statistical_region.population> "m.0hjckc4" .
+<Battle_Beyond_the_Stars> <film.film.starring> "m.02vd7ls" .
+<Tom_and_Huck> <film.film.starring> "m.0v9xv4q" .
+<Redstone_Army_Airfield> <location.location.containedby> "United States of America" .
+<The_Ravagers> <film.film.genre> "War film" .
+<Triana> <location.location.time_zones> "Central Time Zone" .
+<United_States_of_America> <location.country.administrative_divisions> "Oklahoma" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Iowa" .
+<Idaho> <base.locations.states_and_provences.country> "United States of America" .
+<SpaceCamp> <film.film.distributors> "m.0hhyv1z" .
+<Montana> <location.location.containedby> "United States, with Territories" .
+<Limestone_County> <location.statistical_region.rent50_2> "m.05g96mr" .
+<m.0hk51tg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0cg3jdz> <film.performance.film> "The Ravagers" .
+<United_States_of_America> <location.country.first_level_divisions> "Pennsylvania" .
+<Huntsville> <location.statistical_region.population> "g.11x1knc5_" .
+<Huntsville> <location.location.nearby_airports> "Redstone Army Airfield" .
+<Huntsville_Museum_of_Art> <architecture.structure.architecture_firm> "Fuqua & Partners Architects" .
+<35805> <location.location.contains> "National Space Science and Technology Center" .
+<Massachusetts> <location.administrative_division.country> "United States of America" .
+<City/Town/Village> <type.type.properties> "Postal codes" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.featured_film_locations> "Huntsville" .
+<Massachusetts> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0d9rg9v> <film.personal_film_appearance.film> "Crisis: Behind a Presidential Commitment" .
+<Battle_of_Athens> <time.event.locations> "Limestone County" .
+<United_States_Space_Camp> <common.topic.notable_for> "g.125d3jv3h" .
+<Joe_W._Davis_Stadium> <location.location.containedby> "Huntsville" .
+<Huntsville_Museum_of_Art> <common.topic.image> "Huntsville Museum of Art" .
+<Huntsville> <location.statistical_region.population> "g.11b66d4wdy" .
+<United_States_Space_Camp> <common.topic.webpage> "m.0cv3mw7" .
+<Ardmore> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<Huntsville> <location.statistical_region.population> "g.1jmcbj0wr" .
+<The_Ravagers> <film.film.directed_by> "Eddie Romero" .
+<Tom_and_Huck> <film.film.starring> "m.0v9xq7c" .
+<m.0hhykdq> <film.film_film_distributor_relationship.film> "SpaceCamp" .
+<United_States_of_America> <meteorology.cyclone_affected_area.cyclones> "Hurricane Elena" .
+<Time_Zone> <freebase.type_profile.kind> "Definition" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oregon" .
+<Hawaii> <location.administrative_division.country> "United States of America" .
+<Alabama> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Wisconsin" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Illinois" .
+<Davis> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0v9xfb3> <film.performance.film> "Tom and Huck" .
+<Durinda_Wood> <film.film_costumer_designer.costume_design_for_film> "Battle Beyond the Stars" .
+<m.03jq6p0> <film.performance.film> "Constellation" .
+<The_Ravagers> <film.film.runtime> "m.0cg62bh" .
+<Huntsville_Fire> <sports.sports_team.arena_stadium> "Von Braun Center" .
+<Elkmont> <location.location.containedby> "Alabama" .
+<Madison_County> <location.statistical_region.rent50_1> "m.05g96r2" .
+<Huntsville_Blast> <common.topic.notable_for> "g.125gs6tbp" .
+<Tom_and_Huck> <media_common.netflix_title.netflix_genres> "The Walt Disney Company" .
+<Kane_W._Lynn> <film.producer.film> "The Ravagers" .
+<Illinois> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Iowa" .
+<Limestone_County> <location.statistical_region.population> "g.11x1gjnby" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Tennessee" .
+<Eddie_Romero> <people.person.nationality> "Philippines" .
+<35898> <common.topic.notable_for> "g.1256y2lbl" .
+<Huntsville> <location.statistical_region.population> "m.0jtbs43" .
+<Huntsville> <location.statistical_region.population> "g.11x1ls6hx" .
+<m.0qh62__> <film.film_regional_release_date.film> "The Ravagers" .
+<Tuscaloosa> <location.location.containedby> "Alabama" .
+<Tom_and_Huck> <film.film.release_date_s> "m.0gl7mg2" .
+<Madison_County> <location.statistical_region.population> "g.11x1d_df0" .
+<Owens_Cross_Roads> <common.topic.notable_types> "City/Town/Village" .
+<m.03jr_f5> <location.adjoining_relationship.adjoins> "Madison County" .
+<Gurley> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<m.0v9y805> <film.performance.film> "Tom and Huck" .
+<Harvest> <location.hud_county_place.place> "Harvest" .
+<Oklahoma> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Chase,_Alabama> <location.location.containedby> "Alabama" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjwd" .
+<Texas> <location.location.time_zones> "Central Time Zone" .
+<m.0crxb9w> <film.performance.film> "Battle Beyond the Stars" .
+<Limestone_County> <location.location.adjoin_s> "m.03jrlnk" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Idaho" .
+<Limestone_County> <location.us_county.hud_county_place> "Limestone County / Madison city" .
+<m.03jr_f5> <location.adjoining_relationship.adjoins> "Limestone County" .
+<The_Ravagers> <film.film.release_date_s> "m.0qh62__" .
+<Romance_Film> <media_common.media_genre.parent_genre> "Drama" .
+<Madison_County> <location.statistical_region.population> "m.0jtpml1" .
+<35803> <common.topic.notable_types> "Postal Code" .
+<U.S._county> <freebase.type_hints.included_types> "Location" .
+<South_Carolina> <base.locations.states_and_provences.country> "United States of America" .
+<Lester> <location.location.containedby> "Alabama" .
+<Nebraska> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<U.S._Space_&_Rocket_Center> <architecture.building.building_function> "Museum" .
+<Leon_Harris> <film.film_art_director.films_art_directed> "SpaceCamp" .
+<James_Madison> <people.person.nationality> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oregon" .
+<m.045x8mh> <film.performance.film> "SpaceCamp" .
+<Kentucky> <base.locations.states_and_provences.country> "United States of America" .
+<m.0pqlb_d> <location.mailing_address.state_province_region> "Alabama" .
+<Vermont> <location.location.containedby> "United States of America" .
+<Location> <type.type.domain> "Location" .
+<35811> <location.location.containedby> "Madison County" .
+<Tennessee> <base.biblioness.bibs_location.country> "United States of America" .
+<Illinois> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<m.02h4rlm> <common.webpage.topic> "Huntsville" .
+<35811> <location.location.contains> "Maysville, Alabama" .
+<35895> <location.postal_code.country> "United States of America" .
+<35813> <common.topic.notable_for> "g.125bd97h6" .
+<New_Mexico> <base.locations.states_and_provences.country> "United States of America" .
+<Huntsville> <location.location.events> "2010 University of Alabama in Huntsville shooting" .
+<SpaceCamp> <film.film.cinematography> "William A. Fraker" .
+<Huntsville> <location.capital_of_administrative_division.capital_of> "m.0jvvr53" .
+<Limestone_County> <location.statistical_region.population> "g.12b028vmf" .
+<Twickenham_Historic_District> <common.topic.article> "m.0fmydw" .
+<Kentucky> <base.biblioness.bibs_location.country> "United States of America" .
+<Athens> <location.capital_of_administrative_division.capital_of> "m.0jvvr4k" .
+<Moontown_Airport> <location.location.geolocation> "m.0cm5t1k" .
+<Maple_Hill_Cemetery> <location.location.containedby> "35801" .
+<Huntsville> <location.statistical_region.population> "m.0hk51r1" .
+<Washington,_D.C.> <location.administrative_division.first_level_division_of> "United States of America" .
+<Alabama> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Mississippi> <location.location.containedby> "United States of America" .
+<Alabama_Constitution_Village> <location.location.containedby> "35801" .
+<m.02h4rlm> <common.webpage.resource> "Huntsville/Madison County Convention & Visitor's Bureau Website" .
+<m.0hjckgq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Nebraska" .
+<Ohio> <base.biblioness.bibs_location.country> "United States of America" .
+<Tuscaloosa> <base.biblioness.bibs_location.country> "United States of America" .
+<Davis> <location.hud_county_place.place> "Davis" .
+<m.0hgvy1t> <film.film_cut.film> "Crisis: Behind a Presidential Commitment" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011x4lp6" .
+<m.0gl91zg> <film.film_regional_release_date.film> "Battle Beyond the Stars" .
+<Kentucky> <location.location.time_zones> "Central Time Zone" .
+<Huntsville_Tornado> <common.topic.article> "m.02rrpkd" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011c38cw" .
+<Madison_County> <location.statistical_region.population> "g.11x1gjlk2" .
+<m.0hjckb0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Tropical_Storm_Fay> <meteorology.tropical_cyclone.affected_areas> "Louisiana" .
+<Limestone_County> <location.statistical_region.population> "g.11x1hqcwp" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.featured_film_locations> "Tuscaloosa" .
+<m.0v9xp5q> <film.performance.film> "Tom and Huck" .
+<Constellation> <film.film.starring> "m.03jq6p0" .
+<United_States_of_America> <location.country.first_level_divisions> "Virginia" .
+<Montana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Tom_and_Huck> <film.film.produced_by> "Stephen Sommers" .
+<Von_Braun_Center> <sports.sports_facility.home_venue_for> "m.0wz20n1" .
+<Tom_and_Huck> <media_common.netflix_title.netflix_genres> "Family" .
+<Georgia> <base.locations.states_and_provences.country> "United States of America" .
+<Battle_Beyond_the_Stars> <film.film.cinematography> "Daniel Lacambre" .
+<Arizona> <location.administrative_division.country> "United States of America" .
+<Indiana> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.first_level_divisions> "Arizona" .
+<Huntsville> <location.statistical_region.population> "m.066j9tj" .
+<Limestone_County> <location.statistical_region.population> "g.11x1hk9jc" .
+<Alaska> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Kansas> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0pqlb_d> <common.topic.notable_types> "Location" .
+<Madison_County> <location.statistical_region.population> "g.11x1lpwn2" .
+<SpaceCamp> <film.film.country> "United States of America" .
+<Owens_Cross_Roads> <location.location.containedby> "Alabama" .
+<Madison_County> <location.statistical_region.population> "g.12b01lp10" .
+<Huntsville> <location.statistical_region.population> "g.11x1dsv4v" .
+<35813> <common.topic.notable_types> "Postal Code" .
+<Birmingham> <base.biblioness.bibs_location.state> "Alabama" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Connecticut" .
+<m.0jvbjhs> <common.topic.notable_types> "Location" .
+<Davis> <location.location.containedby> "United States of America" .
+<35894> <common.topic.notable_for> "g.1258gnlcj" .
+<Area_codes_256_and_938> <location.location.coterminous_with> "m.0wckz27" .
+<Seven_Samurai> <media_common.netflix_title.netflix_genres> "Drama" .
+<North_Carolina> <location.administrative_division.country> "United States of America" .
+<New_York> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Wyoming" .
+<Tom_and_Huck> <film.film.starring> "m.0v9ybk5" .
+<m.0hjckg1> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Colorado> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0hjcjm8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<California> <base.locations.states_and_provences.country> "United States of America" .
+<City/Town/Village> <freebase.type_hints.included_types> "Statistical region" .
+<Tennessee> <location.location.containedby> "United States of America" .
+<Huntsville_Channel_Cats> <common.topic.notable_types> "Ice hockey team" .
+<m.0cf_w36> <film.film_cut.film> "Tom and Huck" .
+<Connecticut> <base.biblioness.bibs_location.country> "United States of America" .
+<Tropical_Storm_Fay> <meteorology.tropical_cyclone.affected_areas> "Alabama" .
+<35802> <location.location.contains> "Haysland Square at Goody's" .
+<Film> <freebase.type_profile.published> "Published" .
+<m.0d9rgb1> <film.personal_film_appearance.film> "Crisis: Behind a Presidential Commitment" .
+<The_Ravagers> <film.film.starring> "m.0qh1lps" .
+<Wisconsin> <location.location.containedby> "United States of America" .
+<Redstone_Army_Airfield> <aviation.airport.serves> "Redstone Arsenal" .
+<Constellation> <film.film.starring> "m.02tb8jz" .
+<Huntsville> <location.citytown.postal_codes> "35807" .
+<Madison_County> <common.topic.notable_types> "US County" .
+<m.0hjcjr_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<SpaceCamp> <film.film.music> "John Williams" .
+<Huntsville_Museum_of_Art> <common.topic.notable_for> "g.1255_b418" .
+<m.0zc6sjy> <film.performance.film> "Constellation" .
+<Ready,_Set,_Bag> <common.topic.notable_types> "Film" .
+<United_States_of_America> <location.country.first_level_divisions> "Missouri" .
+<Hazel_Green> <location.location.containedby> "Madison County" .
+<Jordan_Walker-Pearlman> <people.person.nationality> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kk9vk" .
+<Ready,_Set,_Bag> <film.film.language> "English Language" .
+<Nevada> <location.location.containedby> "United States of America" .
+<Limestone_County> <location.us_county.hud_county_place> "Mooresville" .
+<Huntsville> <location.statistical_region.population> "m.0hk51rh" .
+<Maine> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Big_Spring_Park> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.06_gc34" .
+<Listed_Site> <freebase.type_profile.strict_included_types> "Topic" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51y0" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Colorado" .
+<Madison_County> <location.us_county.hud_county_place> "Gurley" .
+<SpaceCamp> <film.film.genre> "Coming of age" .
+<Huntsville_Blast> <sports.sports_team.arena_stadium> "Von Braun Center" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.directed_by> "Robert Drew" .
+<Limestone_County> <location.statistical_region.population> "m.0jtbpwf" .
+<United_States_of_America> <location.country.administrative_divisions> "North Dakota" .
+<Lester> <location.hud_county_place.place> "Lester" .
+<West_Virginia> <location.location.containedby> "United States of America" .
+<Idaho> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Georgia" .
+<35805> <location.location.geolocation> "m.03dmrkg" .
+<Maryland> <location.administrative_division.first_level_division_of> "United States of America" .
+<Louisiana> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Maryland> <base.biblioness.bibs_location.country> "United States of America" .
+<Alaska> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<English_Language> <language.human_language.countries_spoken_in> "Philippines" .
+<U.S._Space_&_Rocket_Center> <common.topic.webpage> "m.0j9w14_" .
+<Huntsville_Botanical_Garden> <common.topic.notable_types> "Tourist attraction" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Florida" .
+<Idaho> <location.administrative_division.first_level_division_of> "United States of America" .
+<Tom_and_Huck> <film.film.starring> "m.0v9y4ht" .
+<Battle_of_Sulphur_Creek_Trestle> <time.event.locations> "Limestone County" .
+<Salt_Lake_City> <location.hud_county_place.place> "Salt Lake City" .
+<United_States_of_America> <location.country.first_level_divisions> "Oklahoma" .
+<Washington,_D.C.> <base.biblioness.bibs_location.country> "United States of America" .
+<Alaska> <location.administrative_division.country> "United States of America" .
+<m.03jr0yx> <location.adjoining_relationship.adjoins> "Madison County" .
+<Ardmore> <location.hud_county_place.county> "Limestone County" .
+<Iowa> <location.location.time_zones> "Central Time Zone" .
+<New_Hampton> <location.location.containedby> "United States of America" .
+<Huntsville_Havoc> <sports.sports_team.arena_stadium> "Von Braun Center" .
+<m.0v9y3m9> <film.performance.film> "Tom and Huck" .
+<Nevada> <base.locations.states_and_provences.country> "United States of America" .
+<North_Dakota> <location.administrative_division.country> "United States of America" .
+<Gurley> <common.topic.notable_types> "City/Town/Village" .
+<Limestone_County> <location.statistical_region.population> "g.11x1mh65k" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Vermont" .
+<m.07ggxh8> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<SpaceCamp> <common.topic.article> "m.0126dz" .
+<United_States_of_America> <base.militaryinfiction.location_in_fiction.contains> "Kansas" .
+<35808> <location.location.geolocation> "m.03dmrkx" .
+<Davis> <common.topic.notable_types> "City/Town/Village" .
+<South_Dakota> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Elkmont> <location.hud_county_place.place> "Elkmont" .
+<Constellation> <common.topic.webpage> "m.03lykh0" .
+<Kansas> <location.administrative_division.country> "United States of America" .
+<Athens> <common.topic.notable_types> "City/Town/Village" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Louisiana" .
+<Space_Raiders> <film.film.country> "United States of America" .
+<Madison_County> <location.statistical_region.population> "g.12b028vmj" .
+<Sci-Fi_&_Fantasy> <media_common.media_genre.parent_genre> "Science Fiction" .
+<Wisconsin> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Limestone_County> <location.statistical_region.population> "g.11x1ksy5s" .
+<SpaceCamp> <film.film.distributors> "m.0hhzwcb" .
+<Battle_Beyond_the_Stars> <film.film.distributors> "m.0hhy8g_" .
+<Drama> <media_common.media_genre.child_genres> "Costume drama" .
+<Tom_and_Huck> <film.film.starring> "m.0v9wxn3" .
+<Film> <type.type.expected_by> "Sequel" .
+<Event> <freebase.type_hints.included_types> "Topic" .
+<35802> <location.location.geometry> "m.0568qfv" .
+<Stephen_Sommers> <film.producer.film> "Tom and Huck" .
+<Birmingham> <film.film_location.featured_in_films> "Crisis: Behind a Presidential Commitment" .
+<SpaceCamp> <film.film.language> "English Language" .
+<Birmingham> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Virginia" .
+<m.02vbg0t> <film.performance.film> "Battle Beyond the Stars" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012z3l2r" .
+<Huntsville_Channel_Cats> <sports.sports_team.league> "m.0crtts3" .
+<Mac_McCutcheon> <people.person.place_of_birth> "Madison County" .
+<Tom_and_Huck> <media_common.netflix_title.netflix_genres> "Kids Disney for Kids" .
+<Huntsville> <sports.sports_team_location.teams> "Huntsville Havoc" .
+<Louisiana> <location.administrative_division.first_level_division_of> "United States of America" .
+<Madison_County> <location.statistical_region.population> "m.0jt18qk" .
+<m.03jpzwp> <location.adjoining_relationship.adjoins> "Limestone County" .
+<Madison_County> <location.statistical_region.population> "g.11x1lnzqq" .
+<United_States_of_America> <location.country.first_level_divisions> "Tennessee" .
+<William_A._Fraker> <film.cinematographer.film> "SpaceCamp" .
+<Madison_County> <location.us_county.hud_county_place> "Hazel Green" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Delaware" .
+<Tuscaloosa> <location.location.containedby> "United States of America" .
+<m.0v9x2fv> <film.performance.film> "Tom and Huck" .
+<Redstone_Army_Airfield> <common.topic.notable_for> "g.125bbbq_r" .
+<Virginia> <base.aareas.schema.administrative_area.administrative_children> "Tazewell County" .
+<m.0hk51vh> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Harvest> <location.location.containedby> "Alabama" .
+<Richard_Lawrence> <film.film_art_director.films_art_directed> "SpaceCamp" .
+<Madison_County> <location.location.people_born_here> "Thomas Townsend" .
+<U.S._Space_&_Rocket_Center> <organization.organization_member.member_of> "m.0z0hj8x" .
+<Iowa> <location.administrative_division.country> "United States of America" .
+<m.03jrl48> <film.performance.film> "Constellation" .
+<Madison_County> <location.us_county.hud_county_place> "New Market" .
+<35814> <location.postal_code.country> "United States of America" .
+<New_Hope> <location.hud_county_place.place> "New Hope" .
+<Limestone_County> <location.hud_foreclosure_area.total_residential_addresses> "m.07ggxhh" .
+<Huntsville_International_Airport> <common.topic.image> "Huntsville International Airport" .
+<Monte_Sano_State_Park> <location.location.geolocation> "m.0cm5ljy" .
+<Moontown_Airport> <location.location.containedby> "35741" .
+<Tropical_Storm_Fay> <meteorology.tropical_cyclone.affected_areas> "Kentucky" .
+<m.02h4rlm> <common.webpage.category> "Topic Webpage" .
+<35894> <location.postal_code.country> "United States of America" .
+<SpaceCamp> <media_common.netflix_title.netflix_genres> "Sci-Fi & Fantasy" .
+<Huntsville> <location.location.geolocation> "m.0k9_x5" .
+<Limestone_County> <location.statistical_region.population> "g.12b0208gq" .
+<United_States_of_America> <location.country.administrative_divisions> "Kentucky" .
+<m.0jrk414> <architecture.occupancy.occupant> "Huntsville Museum of Art" .
+<m.0wckz27> <location.cotermination.location> "Area codes 256 and 938" .
+<35816> <location.postal_code.country> "United States of America" .
+<m.0hk51r1> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Battle_Beyond_the_Stars> <film.film.genre> "Space Western" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Nevada" .
+<Madison_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Madison_County> <location.statistical_region.rent50_2> "m.05g96r9" .
+<United_States_of_America> <location.country.administrative_divisions> "Ohio" .
+<Madison_County_Executive_Airport> <common.topic.article> "m.03h4r74" .
+<35810> <location.postal_code.country> "United States of America" .
+<Nebraska> <location.administrative_division.country> "United States of America" .
+<Mount_Vernon> <common.topic.notable_types> "City/Town/Village" .
+<Iowa> <location.location.containedby> "United States, with Territories" .
+<Hazel_Green> <location.location.containedby> "Alabama" .
+<Colorado> <location.administrative_division.country> "United States of America" .
+<Huntsville_Botanical_Garden> <common.topic.article> "m.06g240" .
+<m.0v9xv4q> <film.performance.film> "Tom and Huck" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011m9jg_" .
+<Constellation> <film.film.starring> "m.02vby4n" .
+<Madison_County> <location.location.people_born_here> "Mac McCutcheon" .
+<West_Virginia> <base.locations.states_and_provences.country> "United States of America" .
+<Huntsville> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07ghwyw" .
+<m.0hjckgy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Limestone_County> <location.statistical_region.population> "g.12b01xv5h" .
+<Owens_Cross_Roads> <location.hud_county_place.place> "Owens Cross Roads" .
+<Oklahoma> <base.locations.states_and_provences.country> "United States of America" .
+<South_Dakota> <base.biblioness.bibs_location.country> "United States of America" .
+<35811> <common.topic.notable_types> "Postal Code" .
+<Stephen_Sommers> <film.writer.film> "Tom and Huck" .
+<m.0579lm6> <location.geometry.delineates_location> "35824" .
+<United_States_of_America> <location.country.administrative_divisions> "Colorado" .
+<m.0hk51qc> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Von_Braun_Center> <common.topic.notable_types> "Sports Facility" .
+<United_States_of_America> <location.country.administrative_divisions> "South Dakota" .
+<Battle_Beyond_the_Stars> <common.topic.notable_types> "Film" .
+<Crisis:_Behind_a_Presidential_Commitment> <common.topic.notable_for> "g.125c2wp__" .
+<m.07ggxhh> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0pqlfxw> <organization.non_profit_registration.non_profit_organization> "Huntsville Museum of Art" .
+<New_Hampshire> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Delaware" .
+<Madison_County> <location.statistical_region.population> "g.12b021_jb" .
+<Constellation> <film.film.starring> "m.03jpnqf" .
+<Madison_County> <location.hud_foreclosure_area.total_residential_addresses> "m.07ggxnt" .
+<United_States_of_America> <location.country.first_level_divisions> "Montana" .
+<Limestone_County> <base.schemastaging.context_name.pronunciation> "g.125_pbzfs" .
+<Virginia> <base.biblioness.bibs_location.country> "United States of America" .
+<Redstone_Army_Airfield> <aviation.airport.serves> "Huntsville" .
+<Madison_County_Executive_Airport> <location.location.containedby> "Madison County" .
+<Limestone_County> <location.statistical_region.population> "g.11x1cfpr2" .
+<Madison_County> <location.statistical_region.co2_emissions_total> "m.045hl5v" .
+<Huntsville_Havoc> <sports.sports_team.location> "Huntsville" .
+<Texas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<Big_Spring_Park> <location.location.geolocation> "m.0czgjvf" .
+<Kentucky> <location.administrative_division.country> "United States of America" .
+<Event> <freebase.type_profile.published> "Published" .
+<Colorado> <base.biblioness.bibs_location.country> "United States of America" .
+<Lester> <common.topic.notable_types> "City/Town/Village" .
+<Huntsville> <location.statistical_region.population> "m.066j9vg" .
+<Hazel_Green> <common.topic.notable_types> "Statistical region" .
+<Limestone_County> <location.statistical_region.population> "g.11x1jnnpf" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.produced_by> "Robert Drew" .
+<South_Dakota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Sandstone> <common.topic.notable_types> "City/Town/Village" .
+<Airport> <freebase.type_profile.strict_included_types> "Location" .
+<South_Carolina> <freebase.valuenotation.has_no_value> "Minimum wage" .
+<William_N._Richardson> <people.person.place_of_birth> "Limestone County" .
+<Madison_County> <location.us_county.hud_county_place> "Madison County / County Place 0108999999" .
+<Madison_County> <location.location.people_born_here> "Elvira Townsend" .
+<John_A._Winston> <people.person.nationality> "United States of America" .
+<Mississippi> <meteorology.cyclone_affected_area.cyclones> "Hurricane Elena" .
+<Philippines> <location.country.official_language> "English Language" .
+<Limestone_County> <location.location.adjoin_s> "m.03jsbk3" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Rhode Island" .
+<Rhode_Island> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Alabama> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Alabama> <meteorology.cyclone_affected_area.cyclones> "Hurricane Elena" .
+<Crisis:_Behind_a_Presidential_Commitment> <common.topic.article> "m.04rcc6r" .
+<Mississippi> <location.administrative_division.country> "United States of America" .
+<Rhode_Island> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Twickenham_Historic_District> <location.location.containedby> "Alabama" .
+<Nevada> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oklahoma" .
+<m.0jvvr4k> <location.administrative_division_capital_relationship.capital> "Athens" .
+<United_States_of_America> <location.country.administrative_divisions> "Idaho" .
+<35806> <location.location.geolocation> "m.03dmrkn" .
+<The_Ravagers> <freebase.valuenotation.has_no_value> "Sequel" .
+<Indiana> <location.location.containedby> "United States of America" .
+<Arkansas> <base.biblioness.bibs_location.country> "United States of America" .
+<m.03lmhm9> <common.webpage.topic> "Redstone Army Airfield" .
+<m.0wz20m3> <sports.team_venue_relationship.team> "Huntsville Havoc" .
+<35805> <location.location.contains> "Newson Rd. & Drake Ave." .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Jersey" .
+<m.0hjckcv> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Huntsville> <common.topic.webpage> "m.02h4rlm" .
+<Madison_County> <location.statistical_region.population> "g.11x1g35d5" .
+<Alabama> <freebase.valuenotation.has_no_value> "Minimum wage" .
+<SpaceCamp> <music.soundtrack.film> "SpaceCamp" .
+<Arizona> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<US_County> <freebase.type_hints.included_types> "Location" .
+<Limestone_County> <common.topic.notable_types> "US County" .
+<Oregon> <base.biblioness.bibs_location.country> "United States of America" .
+<Huntsville_Channel_Cats> <sports.sports_team.arena_stadium> "Von Braun Center" .
+<35895> <common.topic.notable_types> "Postal Code" .
+<Montgomery> <base.biblioness.bibs_location.state> "Alabama" .
+<New_Market> <location.location.containedby> "Madison County" .
+<Tom_and_Huck> <common.topic.article> "m.031hvj" .
+<Madison_County_Nature_Trail> <location.location.containedby> "Madison County" .
+<United_States_of_America> <location.country.administrative_divisions> "Pennsylvania" .
+<New_Hope> <common.topic.notable_types> "City/Town/Village" .
+<United_States_of_America> <location.country.first_level_divisions> "Massachusetts" .
+<Marco_D'Ambrosio> <film.music_contributor.film> "Ready, Set, Bag" .
+<Madison_County_Nature_Trail> <location.location.geolocation> "m.0cm49wp" .
+<Tom_and_Huck> <film.film.starring> "m.0v9xhwj" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Alaska" .
+<Seven_Samurai> <film.film.genre> "Action Film" .
+<Tom_and_Huck> <film.film.starring> "m.02vc77b" .
+<Ready,_Set,_Bag> <film.film.featured_film_locations> "Salt Lake City" .
+<Tom_and_Huck> <film.film.starring> "m.0v9x2fv" .
+<Colorado> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Mooresville> <location.hud_county_place.place> "Mooresville" .
+<Alabama> <location.location.time_zones> "Central Time Zone" .
+<John_Williams> <people.person.languages> "English Language" .
+<Oklahoma> <location.administrative_division.country> "United States of America" .
+<Madison_County_Executive_Airport> <location.location.geolocation> "m.0cm49ww" .
+<Madison_County> <location.location.adjoin_s> "m.03js9k8" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Maryland> <base.locations.states_and_provences.country> "United States of America" .
+<Tom_and_Huck> <film.film.starring> "m.0v9y55c" .
+<The_Ravagers> <film.film.other_crew> "m.0qh3cqf" .
+<Nebraska> <location.location.time_zones> "Central Time Zone" .
+<Huntsville_Tornado> <sports.sports_team.venue> "m.0wz20mw" .
+<South_Carolina> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Constellation> <film.film.starring> "m.02vcp0h" .
+<Limestone_County> <periodicals.newspaper_circulation_area.newspapers> "The News Courier" .
+<Madison_County> <location.statistical_region.population> "m.0k6ldhn" .
+<m.0hk51tq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Madison_County> <location.statistical_region.co2_emissions_commercial> "m.045jqw2" .
+<North_Carolina> <location.location.containedby> "United States of America" .
+<Kansas> <base.militaryinfiction.location_in_fiction.contained_by> "United States of America" .
+<Vermont> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Mississippi> <base.biblioness.bibs_location.country> "United States of America" .
+<Tom_and_Huck> <film.film.starring> "m.0gc8pzs" .
+<m.0cgrwmd> <common.webpage.topic> "Ready, Set, Bag" .
+<Tom_and_Huck> <film.film.starring> "m.03lr5cz" .
+<m.0j578dp> <film.film_regional_release_date.film> "Tom and Huck" .
+<Limestone_County> <location.statistical_region.co2_emissions_mobile> "m.045l1z0" .
+<Wisconsin> <location.location.time_zones> "Central Time Zone" .
+<Montgomery> <base.biblioness.bibs_location.country> "United States of America" .
+<Iowa> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Huntsville> <location.statistical_region.population> "m.066j9tx" .
+<Huntsville> <location.statistical_region.population> "g.11x1jh3l7" .
+<m.0v9y949> <film.performance.film> "Tom and Huck" .
+<English_Language> <language.human_language.main_country> "United States of America" .
+<m.04rcd0k> <common.webpage.category> "Topic Webpage" .
+<Tennessee> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<35808> <location.postal_code.country> "United States of America" .
+<Nebraska> <location.location.containedby> "United States of America" .
+<Las_Vegas> <base.biblioness.bibs_location.state> "Nevada" .
+<New_Jersey> <location.administrative_division.country> "United States of America" .
+<m.0v9x16c> <film.performance.film> "Tom and Huck" .
+<Perkasie> <common.topic.notable_types> "City/Town/Village" .
+<Rhode_Island> <location.location.containedby> "United States, with Territories" .
+<35815> <location.postal_code.country> "United States of America" .
+<Von_Braun_Center> <location.location.geolocation> "m.02_sbh6" .
+<SpaceCamp> <media_common.netflix_title.netflix_genres> "Family Adventures" .
+<Jimmy_T._Murakami> <people.person.nationality> "United States of America" .
+<Film_Series> <type.property.schema> "Film" .
+<SpaceCamp> <film.film.genre> "Family" .
+<The_Ravagers> <film.film.starring> "m.0qh1ss_" .
+<m.0gbxdhy> <film.performance.film> "The Ravagers" .
+<Iowa> <base.locations.states_and_provences.country> "United States of America" .
+<South_Carolina> <location.location.containedby> "United States of America" .
+<35898> <common.topic.notable_types> "Postal Code" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Georgia" .
+<Huntsville> <location.statistical_region.population> "g.11x1d_cnj" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0111t6vw" .
+<Washington> <location.administrative_division.country> "United States of America" .
+<SpaceCamp> <film.film.estimated_budget> "m.0h1700p" .
+<Madison_County> <location.location.containedby> "United States of America" .
+<US_County> <freebase.type_profile.published> "Published" .
+<Madison_County> <location.statistical_region.population> "g.11x1j6c40" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0111t6pl" .
+<35824> <common.topic.notable_types> "Postal Code" .
+<Alabama> <base.aareas.schema.administrative_area.capital> "Montgomery" .
+<Museum> <freebase.type_hints.included_types> "Tourist attraction" .
+<Limestone_County> <location.statistical_region.rent50_4> "m.05g96n5" .
+<m.0hjck9c> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Limestone_County> <location.statistical_region.population> "g.11x1grky5" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jtngz" .
+<Huntsville> <location.location.containedby> "Madison County" .
+<United_States_of_America> <location.country.first_level_divisions> "Minnesota" .
+<Missouri> <location.administrative_division.first_level_division_of> "United States of America" .
+<Film> <type.type.properties> "Sequel" .
+<Vermont> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Kentucky" .
+<Tennessee> <location.location.time_zones> "Central Time Zone" .
+<m.0_lxj0c> <film.film_film_distributor_relationship.film> "SpaceCamp" .
+<Montgomery> <location.location.time_zones> "Central Time Zone" .
+<Alaska> <location.location.containedby> "United States of America" .
+<Tom_and_Huck> <film.film.genre> "Comedy" .
+<Madison_County> <location.statistical_region.population> "g.11x1h26tf" .
+<Alabama> <organization.organization_scope.organizations_with_this_scope> "Alabama Department of Conservation and Natural Resources" .
+<Birmingham> <common.topic.notable_types> "City/Town/Village" .
+<United_States_of_America> <location.country.administrative_divisions> "New York" .
+<m.0cg3c5n> <film.film_cut.film> "Constellation" .
+<United_States_of_America> <location.country.administrative_divisions> "New Jersey" .
+<35808> <location.location.contains> "U.S. Space & Rocket Center" .
+<Lester> <location.location.time_zones> "Central Time Zone" .
+<m.03jrv_6> <film.performance.film> "Tom and Huck" .
+<35893> <location.postal_code.country> "United States of America" .
+<Von_Braun_Center> <sports.sports_facility.teams> "Huntsville Fire" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kkbfd" .
+<West_Virginia> <base.biblioness.bibs_location.country> "United States of America" .
+<Washington,_D.C.> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Ready,_Set,_Bag> <film.film.featured_film_locations> "Tazewell County" .
+<Madison_County> <location.statistical_region.population> "g.11x1klnx2" .
+<Tennessee> <meteorology.cyclone_affected_area.cyclones> "Tropical Storm Fay" .
+<Huntsville> <location.statistical_region.population> "m.066j9sd" .
+<Huntsville> <location.statistical_region.population> "m.0hk51sq" .
+<Nebraska> <location.administrative_division.first_level_division_of> "United States of America" .
+<New_York> <location.administrative_division.country> "United States of America" .
+<Tom_and_Huck> <film.film.starring> "m.03jrv_6" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Documentary_film> <media_common.media_genre.child_genres> "Film & Television History" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjv4" .
+<Limestone_County> <location.statistical_region.rent50_3> "m.05g96mz" .
+<m.02vct0g> <film.performance.film> "Battle Beyond the Stars" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjq6" .
+<m.0wz20mh> <sports.team_venue_relationship.venue> "Von Braun Center" .
+<Utah> <base.aareas.schema.administrative_area.capital> "Salt Lake City" .
+<Von_Braun_Center> <sports.sports_facility.teams> "Huntsville Havoc" .
+<Salt_Lake_City> <common.topic.notable_types> "City/Town/Village" .
+<Tom_and_Huck> <film.film.production_companies> "The Walt Disney Company" .
+<Athens> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjpr" .
+<New_Market> <location.hud_county_place.county> "Madison County" .
+<North_Dakota> <location.location.time_zones> "Central Time Zone" .
+<m.03jrlyx> <location.adjoining_relationship.adjoins> "Limestone County" .
+<35894> <common.topic.notable_types> "Postal Code" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Kentucky" .
+<Kentucky> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.administrative_divisions> "Alabama" .
+<Ready,_Set,_Bag> <media_common.netflix_title.netflix_genres> "Social & Cultural Documentaries" .
+<Salt_Lake_City> <base.biblioness.bibs_location.city> "Utah" .
+<Central_Time_Zone> <common.topic.article> "m.0j7mzvm" .
+<Ohio> <location.administrative_division.country> "United States of America" .
+<Constellation> <film.film.starring> "m.03jpgr9" .
+<m.0v9x9b1> <film.performance.film> "Tom and Huck" .
+<Alabama> <base.biblioness.bibs_location.country> "United States of America" .
+<Area_code> <freebase.type_profile.strict_included_types> "Topic" .
+<m.03jp88t> <location.adjoining_relationship.adjoins> "Madison County" .
+<Alabama–Huntsville_Chargers_men's_ice_hockey> <sports.sports_team.venue> "m.0wz20n1" .
+<American_Broadcasting_Company> <film.production_company.films> "SpaceCamp" .
+<Ohio> <location.administrative_division.first_level_division_of> "United States of America" .
+<Maryland> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<SpaceCamp> <media_common.netflix_title.netflix_genres> "Family Sci-Fi & Fantasy" .
+<Maine> <base.locations.states_and_provences.country> "United States of America" .
+<Madison_County> <location.us_county.hud_county_place> "Moores Mill" .
+<Village> <freebase.equivalent_topic.equivalent_type> "City/Town/Village" .
+<New_Hope> <location.location.containedby> "Madison County" .
+<Tito_Arévalo> <film.music_contributor.film> "The Ravagers" .
+<Limestone_County> <location.statistical_region.population> "g.11x1htlj9" .
+<m.03lr5cz> <film.performance.film> "Tom and Huck" .
+<Iowa> <location.administrative_division.first_level_division_of> "United States of America" .
+<Limestone_County> <location.location.containedby> "Alabama" .
+<Ardmore> <location.location.time_zones> "Central Time Zone" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<m.0hjcjnt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Limestone_County> <location.statistical_region.population> "g.11x1jm8m7" .
+<SpaceCamp> <film.film.distributors> "m.0hhykdq" .
+<Huntsville> <location.statistical_region.population> "g.1jmcbdztq" .
+<35814> <common.topic.notable_for> "g.125bwlf_9" .
+<Ohio> <location.location.containedby> "United States of America" .
+<Film> <freebase.type_profile.strict_included_types> "Abstract" .
+<Tazewell_County> <location.location.containedby> "Virginia" .
+<Illinois> <location.location.containedby> "United States of America" .
+<m.0crtts3> <sports.sports_league_participation.team> "Huntsville Channel Cats" .
+<35816> <location.location.geometry> "m.058mpkv" .
+<Wyoming> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0hjcjv0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Madison_County> <location.us_county.hud_section_8_area> "Huntsville, AL MSA HUD Section 8 Area" .
+<m.0hk51r8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Ryland,_Alabama> <location.location.time_zones> "Central Time Zone" .
+<Huntsville> <location.statistical_region.population> "m.0hk51t6" .
+<Tennessee> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0z0hj8x> <organization.organization_membership.member> "U.S. Space & Rocket Center" .
+<Missouri> <location.location.containedby> "United States of America" .
+<Texas> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Utah> <base.biblioness.bibs_location.country> "United States of America" .
+<Huntsville_International_Airport> <aviation.airport.hub_for> "Atlas Air" .
+<Michigan> <base.biblioness.bibs_location.country> "United States of America" .
+<Constellation> <film.film.starring> "m.0zc6sjy" .
+<Maryland> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Airport> <freebase.type_profile.published> "Published" .
+<United_States_of_America> <location.country.administrative_divisions> "Connecticut" .
+<Prequel> <rdf-schema#range> "Film" .
+<Huntsville> <location.citytown.postal_codes> "35809" .
+<U.S._county> <freebase.type_hints.included_types> "Topic" .
+<Battle_Beyond_the_Stars> <film.film.starring> "m.02vc868" .
+<m.09xzj5x> <common.webpage.topic> "Tom and Huck" .
+<Sequel> <type.property.reverse_property> "Prequel" .
+<Battle_Beyond_the_Stars> <film.film.genre> "Indie film" .
+<Moontown_Airport> <common.topic.image> "Moontown Airport" .
+<SpaceCamp> <film.film.starring> "m.045x8m0" .
+<Airport> <freebase.type_hints.included_types> "Topic" .
+<m.03jswbs> <film.performance.film> "Tom and Huck" .
+<m.07ggxnt> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Huntsville_Tornado> <sports.sports_team.arena_stadium> "Von Braun Center" .
+<Sequel> <rdf-schema#domain> "Film" .
+<Ready,_Set,_Bag> <film.film.production_companies> "Ensemble Pictures" .
+<Huntsville> <travel.travel_destination.tourist_attractions> "U.S. Space & Rocket Center" .
+<Madison_County> <location.location.people_born_here> "David Davie Shelby" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "Town" .
+<Moores_Mill> <location.hud_county_place.county> "Madison County" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.featured_film_locations> "Montgomery" .
+<35801> <location.location.geolocation> "m.03dmrj9" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.language> "English Language" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jt6z3" .
+<United_States_of_America> <location.country.administrative_divisions> "Indiana" .
+<35824> <common.topic.notable_for> "g.12558qxr0" .
+<Illinois> <location.location.containedby> "United States, with Territories" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012w3hyx" .
+<35802> <location.location.containedby> "Madison County" .
+<Location> <freebase.type_profile.published> "Published" .
+<Michigan> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Wisconsin> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Louisiana" .
+<U.S._Space_&_Rocket_Center> <common.topic.article> "m.03x20p" .
+<Springfield> <common.topic.notable_types> "City/Town/Village" .
+<The_Ravagers> <media_common.netflix_title.netflix_genres> "Action/Adventure" .
+<SpaceCamp> <film.film.directed_by> "Harry Winer" .
+<Madison_County> <common.topic.image> "Madison County Courthouse May 2011 02" .
+<Washington,_D.C.> <location.administrative_division.country> "United States of America" .
+<35805> <location.location.contains> "Patton Rd. & Bob Wallace Ave." .
+<Battle_Beyond_the_Stars> <film.film.distributors> "m.010nrk2f" .
+<m.0cg92pt> <film.film_cut.film> "Battle Beyond the Stars" .
+<Battle_Beyond_the_Stars> <film.film.release_date_s> "m.0gl91zg" .
+<Location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<35896> <common.topic.notable_types> "Postal Code" .
+<Space_Raiders> <media_common.netflix_title.netflix_genres> "Sci-Fi Adventure" .
+<Huntsville> <film.film_location.featured_in_films> "Ready, Set, Bag" .
+<Tourist_attraction> <freebase.type_profile.published> "Published" .
+<Tom_and_Huck> <film.film.country> "United States of America" .
+<Huntsville> <location.statistical_region.population> "g.11x1jdtxd" .
+<Georgia> <location.location.containedby> "United States, with Territories" .
+<Tom_and_Huck> <film.film.starring> "m.0v9x2_y" .
+<The_Ravagers> <film.film.starring> "m.0cg3jdz" .
+<m.0k6ldgt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Utah> <location.us_state.capital> "Salt Lake City" .
+<100_1830> <common.image.appears_in_topic_gallery> "Huntsville" .
+<m.0hjcjp0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mississippi> <meteorology.cyclone_affected_area.cyclones> "Tropical Storm Fay" .
+<South_Carolina> <location.administrative_division.country> "United States of America" .
+<Harvest> <location.hud_county_place.county> "Madison County" .
+<Las_Vegas> <location.location.containedby> "Nevada" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Washington" .
+<Washington> <base.locations.states_and_provences.country> "United States of America" .
+<Maple_Hill_Cemetery> <location.location.containedby> "Madison County" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Texas" .
+<United_States_of_America> <location.country.administrative_divisions> "Washington, D.C." .
+<m.0hjcjrj> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mooresville> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<United_States_of_America> <location.country.first_level_divisions> "Vermont" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012_976x" .
+<Madison_County> <location.statistical_region.population> "g.11x1fg11v" .
+<United_States_of_America> <location.country.first_level_divisions> "Washington, D.C." .
+<m.0j562rc> <film.film_regional_release_date.film> "SpaceCamp" .
+<SpaceCamp> <media_common.netflix_title.netflix_genres> "Teen Movies" .
+<Louisiana> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Alabama" .
+<The_Ravagers> <film.film.starring> "m.0gb_rr_" .
+<Idaho> <location.location.containedby> "United States of America" .
+<North_Carolina> <location.location.containedby> "United States, with Territories" .
+<Huntsville> <film.film_location.featured_in_films> "Constellation" .
+<Utah> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<m.06zz6jh> <common.webpage.topic> "Moontown Airport" .
+<Von_Braun_Center> <sports.sports_facility.home_venue_for> "m.0wz20mh" .
+<35803> <location.location.geometry> "m.0568q60" .
+<Madison_County> <location.statistical_region.population> "m.0hjckh4" .
+<Pennsylvania> <base.biblioness.bibs_location.country> "United States of America" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Location" .
+<35893> <common.topic.notable_for> "g.1257v6lxf" .
+<m.02vd7ls> <film.performance.film> "Battle Beyond the Stars" .
+<Huntsville> <location.statistical_region.population> "m.0hk51qv" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011nbp0r" .
+<Huntsville_Botanical_Garden> <common.topic.image> "Huntsville Botanical Garden" .
+<Huntsville> <travel.travel_destination.tourist_attractions> "Huntsville Museum of Art" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Wisconsin" .
+<m.0gb_rr_> <film.performance.film> "The Ravagers" .
+<Constellation> <media_common.netflix_title.netflix_genres> "Romantic Dramas" .
+<35805> <location.location.geometry> "m.0568qn8" .
+<m.0jvbjhs> <location.mailing_address.postal_code> "35801" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "South Dakota" .
+<United_States_of_America> <location.country.first_level_divisions> "Hawaii" .
+<Vermont> <location.location.containedby> "United States, with Territories" .
+<m.03jrcfl> <film.performance.film> "SpaceCamp" .
+<m.058mpjk> <location.geometry.delineates_location> "35811" .
+<U.S._Space_&_Rocket_Center> <travel.tourist_attraction.near_travel_destination> "Huntsville" .
+<The_Ravagers> <media_common.netflix_title.netflix_genres> "Classics" .
+<Montana> <base.biblioness.bibs_location.country> "United States of America" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Hawaii" .
+<Madison_County> <location.statistical_region.co2_emissions_mobile> "m.045ks2y" .
+<Tom_and_Huck> <common.topic.notable_for> "g.1258bjsd8" .
+<Huntsville> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07ghwz2" .
+<United_States_of_America> <location.country.administrative_divisions> "Tennessee" .
+<Nebraska> <base.biblioness.bibs_location.country> "United States of America" .
+<Pennsylvania> <base.locations.states_and_provences.country> "United States of America" .
+<Rhode_Island> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.administrative_children> "United States of America" .
+<Florida> <location.administrative_division.country> "United States of America" .
+<City_Limits> <rdf-schema#domain> "City/Town/Village" .
+<Tom_and_Huck> <film.film.starring> "m.0v9xxqz" .
+<Limestone_County> <location.us_county.hud_county_place> "Limestone County / County Place 0108399999" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Idaho" .
+<Las_Vegas> <film.film_location.featured_in_films> "Ready, Set, Bag" .
+<Wyoming> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Ready,_Set,_Bag> <common.topic.webpage> "m.0cgrwll" .
+<Huntsville> <location.citytown.postal_codes> "35813" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Ohio" .
+<m.0hk51ry> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hjcjsx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Huntsville> <location.statistical_region.population> "g.11x1f72fc" .
+<Minnesota> <base.locations.states_and_provences.country> "United States of America" .
+<Arizona> <location.location.containedby> "United States, with Territories" .
+<Film> <freebase.type_profile.kind> "Definition" .
+<Georgia> <base.biblioness.bibs_location.country> "United States of America" .
+<m.094j6c9> <common.webpage.topic> "Constellation" .
+<35801> <location.location.contains> "Parkway Place" .
+<Area_code_256> <common.topic.notable_types> "Area code" .
+<Garret_Savage> <film.editor.film> "Ready, Set, Bag" .
+<The_Ravagers> <film.film.starring> "m.012zhv3q" .
+<m.05nnlgh> <film.film_film_distributor_relationship.film> "Tom and Huck" .
+<William_A._Fraker> <people.person.nationality> "United States of America" .
+<Madison_County> <location.statistical_region.co2_emissions_industrial> "m.045k7tp" .
+<Battle_Beyond_the_Stars> <film.film.estimated_budget> "m.0h175rx" .
+<Tom_and_Huck> <film.film.genre> "Family-Oriented Adventure" .
+<Pennsylvania> <location.location.containedby> "United States of America" .
+<Huntsville_International_Airport> <location.location.containedby> "35824" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011lvjc_" .
+<Huntsville> <location.statistical_region.population> "g.11x1hy6vl" .
+<Hawaii> <base.locations.states_and_provences.country> "United States of America" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Dated location" .
+<New_Hope> <location.location.time_zones> "Central Time Zone" .
+<Davis> <base.biblioness.bibs_location.state> "California" .
+<35811> <location.location.geolocation> "m.03dmrln" .
+<Maine> <base.biblioness.bibs_location.country> "United States of America" .
+<Madison_County_Nature_Trail> <travel.tourist_attraction.near_travel_destination> "Huntsville" .
+<Limestone_County> <location.us_county.county_seat> "Athens" .
+<United_States_of_America> <location.country.administrative_divisions> "Maryland" .
+<Huntsville> <location.statistical_region.population> "m.0hk51tg" .
+<The_Ravagers> <freebase.valuenotation.has_no_value> "Film Series" .
+<m.06_gc34> <protected_sites.natural_or_cultural_site_listing.listed_site> "Big Spring Park" .
+<35813> <location.postal_code.country> "United States of America" .
+<Nebraska> <base.locations.states_and_provences.country> "United States of America" .
+<Madison_County> <location.location.people_born_here> "John A. Winston" .
+<m.0gc_2dd> <film.performance.film> "The Ravagers" .
+<m.0v9y8f5> <film.performance.film> "Tom and Huck" .
+<Madison_County> <location.hud_foreclosure_area.hhuniv> "m.07ggxmy" .
+<Huntsville_Botanical_Garden> <location.location.geolocation> "m.0cl_0z8" .
+<United_States_Department_of_Housing_and_Urban_Development> <government.government_agency.jurisdiction> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Arkansas" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New York" .
+<Madison_County_Nature_Trail> <location.location.containedby> "35803" .
+<United_States_of_America> <location.country.administrative_divisions> "North Carolina" .
+<Lester> <location.location.containedby> "United States of America" .
+<m.03lr5ch> <film.film_cut.film> "Tom and Huck" .
+<m.0v9xbyx> <film.performance.film> "Tom and Huck" .
+<Mooresville> <location.location.containedby> "United States of America" .
+<Battle_Beyond_the_Stars> <media_common.adapted_work.adaptations> "Space Raiders" .
+<Madison_County> <location.statistical_region.population> "m.0hjckgq" .
+<Michigan> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<35812> <common.topic.notable_for> "g.125b8hstz" .
+<Atlas_Air> <aviation.airline.hubs> "Huntsville International Airport" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.production_companies> "ABC News" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Mexico" .
+<Delaware> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<The_Ravagers> <common.topic.notable_types> "Film" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Rhode Island" .
+<Indiana> <location.administrative_division.first_level_division_of> "United States of America" .
+<New_Hope> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<Tom_and_Huck> <film.film.distributors> "m.05nnlgh" .
+<Madison_County> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07ggxp0" .
+<Tourist_attraction> <freebase.type_profile.strict_included_types> "Topic" .
+<Tom_and_Huck> <film.film.starring> "m.0v9xk8q" .
+<Harvest> <location.location.time_zones> "Central Time Zone" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjqn" .
+<Tom_and_Huck> <film.film.starring> "m.0v9xdry" .
+<35801> <common.topic.notable_for> "g.1254_drpp" .
+<m.0jvbjhs> <location.mailing_address.citytown> "Huntsville" .
+<Battle_Beyond_the_Stars> <film.film.genre> "Science Fiction" .
+<Missouri> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Madison_County> <location.location.adjoin_s> "m.03jscqg" .
+<Battle_Beyond_the_Stars> <film.film.produced_by> "Roger Corman" .
+<35899> <common.topic.notable_types> "Postal Code" .
+<Museum> <freebase.type_profile.published> "Published" .
+<2010_University_of_Alabama_in_Huntsville_shooting> <time.event.locations> "Huntsville" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.country> "United States of America" .
+<Huntsville> <location.citytown.postal_codes> "35804" .
+<West_Virginia> <meteorology.cyclone_affected_area.cyclones> "Tropical Storm Fay" .
+<Wyoming> <location.location.containedby> "United States of America" .
+<Texas> <base.locations.states_and_provences.country> "United States of America" .
+<US_County> <freebase.type_hints.included_types> "Statistical region" .
+<m.0568qfv> <location.geometry.delineates_location> "35802" .
+<Limestone_County> <location.location.people_born_here> "William N. Richardson" .
+<Madison_County> <location.statistical_region.population> "m.0hjck9c" .
+<Chase,_Alabama> <location.location.containedby> "Madison County" .
+<m.0568pyw> <location.geometry.delineates_location> "35801" .
+<United_States_of_America> <location.country.first_level_divisions> "South Carolina" .
+<Ready,_Set,_Bag> <film.film.country> "United States of America" .
+<South_Carolina> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Vermont> <base.locations.states_and_provences.country> "United States of America" .
+<m.0101d3ly> <government.government_position_held.office_holder> "Tommy Battle" .
+<New_Market> <location.hud_county_place.place> "New Market" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jt74t" .
+<Constellation> <film.film.runtime> "m.03lykh5" .
+<John_Williams> <people.person.nationality> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "South Dakota" .
+<Athens> <location.location.events> "Battle of Athens" .
+<Minnesota> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_Space_Camp> <common.topic.image> "Rockets in Huntsville Alabama" .
+<Film> <type.type.properties> "Film Series" .
+<Alaska> <base.locations.states_and_provences.country> "United States of America" .
+<Big_Spring_Park> <common.topic.notable_types> "Tourist attraction" .
+<m.0cg89hb> <film.film_cut.film> "Crisis: Behind a Presidential Commitment" .
+<m.03jrlnk> <location.adjoining_relationship.adjoins> "Limestone County" .
+<Tom_and_Huck> <film.film.genre> "Children's/Family" .
+<Maple_Hill_Cemetery> <people.place_of_interment.interred_here> "William N. Richardson" .
+<m.0pqlb_d> <location.mailing_address.country> "United States of America" .
+<Michigan> <location.location.containedby> "United States of America" .
+<Huntsville> <travel.travel_destination.tourist_attractions> "Monte Sano State Park" .
+<SpaceCamp> <media_common.netflix_title.netflix_genres> "Action Sci-Fi & Fantasy" .
+<Tom_and_Huck> <film.film.starring> "m.0v9yvp5" .
+<SpaceCamp> <film.film.starring> "m.045x8mb" .
+<Tom_and_Huck> <film.film.runtime> "m.0cf_w36" .
+<United_States_of_America> <location.country.administrative_divisions> "Arkansas" .
+<Constellation> <film.film.rating> "PG-13 (USA)" .
+<United_States_of_America> <location.country.first_level_divisions> "Idaho" .
+<35824> <location.postal_code.country> "United States of America" .
+<m.0bdqwww> <award.award_nomination.award_nominee> "Durinda Wood" .
+<Tennessee> <base.locations.states_and_provences.country> "United States of America" .
+<Indiana> <location.location.time_zones> "Central Time Zone" .
+<35824> <location.location.geolocation> "m.03dmrm9" .
+<Action_Film> <media_common.media_genre.child_genres> "Action/Adventure" .
+<Monte_Sano_State_Park> <common.topic.notable_for> "g.1255l611g" .
+<United_States_of_America> <location.country.administrative_divisions> "Washington" .
+<Limestone_County> <location.statistical_region.population> "g.11x1flmkd" .
+<Madison_County_Executive_Airport> <common.topic.webpage> "m.03l57gl" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Postal_codes> <type.property.expected_type> "Postal Code" .
+<Central_Time_Zone> <time.time_zone.day_dst_begins> "Second Sunday in March" .
+<35810> <location.location.containedby> "Madison County" .
+<Indiana> <location.administrative_division.country> "United States of America" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Abstract" .
+<Hawaii> <location.location.containedby> "United States, with Territories" .
+<Huntsville> <government.governmental_jurisdiction.governing_officials> "m.0101d3ly" .
+<Central_Time_Zone> <time.time_zone.day_dst_ends> "First Sunday in November" .
+<Ready,_Set,_Bag> <common.topic.webpage> "m.0cjlrgx" .
+<Crisis:_Behind_a_Presidential_Commitment> <common.topic.article> "m.0hgqpsp" .
+<New_York> <location.administrative_division.first_level_division_of> "United States of America" .
+<Washington> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Area_codes_256_and_938> <common.topic.article> "m.0d9y9_" .
+<New_Hampton> <location.location.time_zones> "Central Time Zone" .
+<Huntsville> <location.citytown.postal_codes> "35814" .
+<Edward_A._O'Neal> <people.person.nationality> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Georgia" .
+<Morris_Ruskin> <film.producer.film> "Constellation" .
+<Limestone_County> <location.location.adjoin_s> "m.03jr_f5" .
+<Indiana> <base.locations.states_and_provences.country> "United States of America" .
+<Birmingham> <location.location.containedby> "United States of America" .
+<Madison_County> <location.statistical_region.population> "g.11x1g27b7" .
+<Huntsville> <location.citytown.postal_codes> "35805" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Topic" .
+<35812> <location.postal_code.country> "United States of America" .
+<Tom_and_Huck> <film.film.starring> "m.0v9x6y8" .
+<Huntsville> <location.statistical_region.population> "g.11x1ffjt3" .
+<SpaceCamp> <media_common.netflix_title.netflix_genres> "Action/Adventure" .
+<m.03lcp9k> <common.webpage.topic> "Huntsville International Airport" .
+<Huntsville_Tornado> <sports.defunct_sports_team.later_known_as> "Huntsville Channel Cats" .
+<Madison_County> <location.statistical_region.co2_emissions_residential> "m.045jwcv" .
+<United_States_of_America> <location.country.first_level_divisions> "Iowa" .
+<Virginia> <location.administrative_division.country> "United States of America" .
+<35801> <location.location.contains> "Bob Wallace Ave. & Whitesburg Dr." .
+<m.07y5d07> <film.film_film_distributor_relationship.film> "SpaceCamp" .
+<Battle_Beyond_the_Stars> <media_common.netflix_title.netflix_genres> "Sci-Fi & Fantasy" .
+<Battle_Beyond_the_Stars> <film.film.country> "United States of America" .
+<Montgomery> <location.hud_county_place.place> "Montgomery" .
+<Gurley> <location.location.containedby> "Alabama" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdivides_place> "United States, with Territories" .
+<United_States_Space_Camp> <location.location.geolocation> "m.0wmc46l" .
+<m.012zhv3q> <film.performance.film> "The Ravagers" .
+<m.0v9yvp5> <film.performance.film> "Tom and Huck" .
+<m.0jvbjhs> <location.mailing_address.state_province_region> "Alabama" .
+<United_States_of_America> <base.aareas.schema.administrative_area.pertinent_type> "U.S. county" .
+<Ready,_Set,_Bag> <film.film.featured_film_locations> "Las Vegas" .
+<35893> <common.topic.notable_types> "Postal Code" .
+<m.0v9y1mq> <film.performance.film> "Tom and Huck" .
+<New_Mexico> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<m.0hjckhd> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<United_States_of_America> <location.country.administrative_divisions> "Louisiana" .
+<m.0hjckd1> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<35816> <location.location.containedby> "Madison County" .
+<United_States_of_America> <location.country.administrative_divisions> "Nevada" .
+<Twickenham_Historic_District> <common.topic.notable_for> "g.1256w2mgw" .
+<m.0hk51vq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<SpaceCamp> <film.film.genre> "Adventure Film" .
+<Mississippi> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Von_Braun_Center> <travel.tourist_attraction.near_travel_destination> "Huntsville" .
+<Limestone_County> <location.statistical_region.population> "g.11x1dpl6r" .
+<California> <location.administrative_division.country> "United States of America" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjqf" .
+<Tommy_Battle> <people.person.nationality> "United States of America" .
+<City_of_Huntsville,_Alabama> <common.resource.annotations> "m.02h4rl7" .
+<United_States_of_America> <location.country.first_level_divisions> "Nevada" .
+<Alabama> <location.us_state.capital> "Montgomery" .
+<Oregon> <location.administrative_division.country> "United States of America" .
+<m.03jpgr9> <film.performance.film> "Constellation" .
+<m.07ghwz2> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Montana" .
+<Tourist_attraction> <freebase.type_hints.included_types> "Topic" .
+<Madison_County> <location.statistical_region.population> "g.11x1fyqqh" .
+<Tom_and_Huck> <common.topic.notable_types> "Film" .
+<Washington,_D.C.> <location.location.containedby> "United States of America" .
+<Idaho> <location.administrative_division.country> "United States of America" .
+<Missouri> <location.location.time_zones> "Central Time Zone" .
+<Social_&_Cultural_Documentaries> <media_common.media_genre.parent_genre> "Documentary film" .
+<Huntsville> <location.statistical_region.population> "g.11x1dw618" .
+<Tom_and_Huck> <film.film.runtime> "m.03lr5ch" .
+<m.0hk51rh> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Limestone_County> <location.statistical_region.population> "g.11x1hxpk9" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckk64" .
+<New_Mexico> <base.biblioness.bibs_location.country> "United States of America" .
+<m.05nnlgh> <film.film_film_distributor_relationship.distributor> "Walt Disney Pictures" .
+<m.0v9yv0b> <film.performance.film> "Tom and Huck" .
+<SpaceCamp> <media_common.netflix_title.netflix_genres> "Sci-Fi Adventure" .
+<The_Ravagers> <film.film.featured_film_locations> "Huntsville" .
+<Madison_County> <location.statistical_region.population> "g.11x1ftzld" .
+<Huntsville> <location.citytown.postal_codes> "35895" .
+<Elkmont> <location.location.time_zones> "Central Time Zone" .
+<Big_Spring_Park> <common.topic.image> "BSP Bridge" .
+<Triana> <location.hud_county_place.county> "Madison County" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Pennsylvania" .
+<The_Ravagers> <film.film.music> "Tito Arévalo" .
+<35801> <location.location.contains> "Helion Lodge" .
+<m.0crtcd3> <sports.sports_league_participation.team> "Huntsville Blast" .
+<Harvest> <location.location.containedby> "United States of America" .
+<Ardmore> <location.location.containedby> "Limestone County" .
+<Laurence_Mark> <people.person.nationality> "United States of America" .
+<Museum> <freebase.type_profile.equivalent_topic> "Museum" .
+<35803> <common.topic.notable_for> "g.125h50zzk" .
+<35810> <location.location.contains> "Shelta Cave" .
+<35801> <location.location.contains> "Huntsville-Madison County Public Library" .
+<35897> <location.postal_code.country> "United States of America" .
+<Ready,_Set,_Bag> <film.film.cinematography> "Alex da Silva" .
+<Postal_codes> <rdf-schema#range> "Postal Code" .
+<m.0hjckg8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hk51rq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Huntsville> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07ghwzr" .
+<Moores_Mill> <location.hud_county_place.place> "Moores Mill" .
+<Von_Braun_Center> <sports.sports_facility.home_venue_for> "m.0wz20mw" .
+<Sports_Facility> <freebase.type_hints.included_types> "Topic" .
+<U.S._county> <base.aareas.schema.administrative_area_type.administrative_division_type> "US County" .
+<Constellation> <film.film.runtime> "m.0cg3c5n" .
+<Alaska> <base.biblioness.bibs_location.country> "United States of America" .
+<Huntsville_Museum_of_Art> <organization.non_profit_organization.registered_with> "m.0pqlfxw" .
+<Texas> <location.location.containedby> "United States of America" .
+<Maine> <location.location.containedby> "United States, with Territories" .
+<West_Virginia> <location.location.containedby> "United States, with Territories" .
+<m.0v9yr8d> <film.performance.film> "Tom and Huck" .
+<Von_Braun_Center> <common.topic.image> "Von Braun Center" .
+<m.02vb63d> <film.performance.film> "Battle Beyond the Stars" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Michigan" .
+<m.0hjcjq6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Limestone_County> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07ggxgv" .
+<Huntsville_International_Airport> <common.topic.notable_types> "Airport" .
+<Mooresville> <location.location.time_zones> "Central Time Zone" .
+<Tazewell_County> <base.aareas.schema.administrative_area.administrative_area_type> "U.S. county" .
+<Film> <type.type.expected_by> "Prequel" .
+<United_States_of_America> <location.country.first_level_divisions> "Rhode Island" .
+<Madison_County> <location.us_county.hud_county_place> "Triana" .
+<Madison_County> <location.statistical_region.population> "g.12b01zkg1" .
+<35804> <location.postal_code.country> "United States of America" .
+<Huntsville> <location.statistical_region.population> "g.11x1hk9qc" .
+<Space_Raiders> <film.film.language> "English Language" .
+<Huntsville_Museum_of_Art> <architecture.museum.director> "Christopher Madkour" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckkfd" .
+<m.0v9xq7c> <film.performance.film> "Tom and Huck" .
+<m.0gl91zm> <film.film_cut.film> "Battle Beyond the Stars" .
+<SpaceCamp> <film.film.soundtrack> "SpaceCamp" .
+<Huntsville_Channel_Cats> <common.topic.notable_for> "g.125dp7k91" .
+<Triana> <location.location.containedby> "United States of America" .
+<United_States_of_America> <meteorology.cyclone_affected_area.cyclones> "Tropical Storm Fay" .
+<Athens> <location.location.time_zones> "Central Time Zone" .
+<Limestone_County> <location.statistical_region.population> "g.11x1dqz1f" .
+<Alabama_Constitution_Village> <location.location.containedby> "Madison County" .
+<Huntsville> <travel.travel_destination.tourist_attractions> "Madison County Nature Trail" .
+<Madison_County> <location.us_county.hud_county_place> "Redstone Arsenal" .
+<35811> <location.location.geometry> "m.058mpjk" .
+<Constellation> <film.film.starring> "m.02vcbff" .
+<SpaceCamp> <film.film.featured_film_locations> "Huntsville" .
+<m.0qh1jbs> <film.performance.film> "The Ravagers" .
+<U.S._county> <base.aareas.schema.administrative_area_type.iso_country> "United States of America" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<m.0hk51t6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.03jrhkm> <location.adjoining_relationship.adjoins> "Madison County" .
+<Tom_and_Huck> <film.film.starring> "m.0v9y22j" .
+<Limestone_County> <location.statistical_region.population> "g.11x1m2rgb" .
+<North_Carolina> <location.administrative_division.first_level_division_of> "United States of America" .
+<Space_Raiders> <film.film.music> "James Horner" .
+<Sports_Facility> <freebase.type_profile.kind> "Definition" .
+<Washington,_D.C.> <base.biblioness.bibs_topic.is_really> "Washington, D.C." .
+<Limestone_County> <location.us_county.hud_county_place> "Lester" .
+<United_States_of_America> <location.country.first_level_divisions> "New York" .
+<Constellation> <common.topic.notable_types> "Film" .
+<35801> <location.location.contains> "Alabama Constitution Village" .
+<Battle_Beyond_the_Stars> <film.film.starring> "m.02vct0g" .
+<Tom_and_Huck> <film.film.starring> "m.0v9y8f5" .
+<35806> <location.postal_code.country> "United States of America" .
+<Ready,_Set,_Bag> <film.film.executive_produced_by> "Oren Jacob" .
+<Von_Braun_Center> <common.topic.notable_for> "g.1258m_myy" .
+<m.0568qvq> <location.geometry.delineates_location> "35806" .
+<Tom_and_Huck> <film.film.starring> "m.0v9x16c" .
+<Constellation> <film.film.genre> "Family Drama" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjmy" .
+<m.0wz20m3> <sports.team_venue_relationship.venue> "Von Braun Center" .
+<Huntsville> <location.statistical_region.population> "m.066j9t4" .
+<35812> <common.topic.notable_types> "Postal Code" .
+<Alabama_Constitution_Village> <location.location.geolocation> "m.0clf18z" .
+<Salt_Lake_City> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0cl5ts9> <common.webpage.topic> "Constellation" .
+<Delaware> <location.location.containedby> "United States, with Territories" .
+<Mississippi> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Washington" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<Huntsville_Havoc> <common.topic.article> "m.068_md" .
+<South_Carolina> <location.administrative_division.first_level_division_of> "United States of America" .
+<New_Hope> <location.location.containedby> "Alabama" .
+<Battle_Beyond_the_Stars> <film.film.starring> "m.0gy94mx" .
+<South_Carolina> <location.location.containedby> "United States, with Territories" .
+<Elkmont> <location.hud_county_place.county> "Limestone County" .
+<SpaceCamp> <film.film.starring> "m.03jsp35" .
+<Madison_County> <location.location.people_born_here> "Edward A. O'Neal" .
+<Limestone_County> <location.hud_foreclosure_area.hhuniv> "m.07ggxgm" .
+<United_States_of_America> <location.country.administrative_divisions> "Vermont" .
+<Battle_Beyond_the_Stars> <film.film.starring> "m.0cs7z58" .
+<Huntsville> <common.topic.notable_types> "City/Town/Village" .
+<Indiana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0hjckfc> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<New_Hope> <location.location.containedby> "United States of America" .
+<35811> <location.location.contains> "Chase, Alabama" .
+<m.0hjck9t> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<35801> <location.location.containedby> "Madison County" .
+<Kansas> <location.location.time_zones> "Central Time Zone" .
+<m.0hjcjnl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Science_Fiction> <media_common.media_genre.child_genres> "Sci-Fi & Fantasy" .
+<m.03l57gl> <common.webpage.topic> "Madison County Executive Airport" .
+<Huntsville> <location.statistical_region.population> "m.0hk51tz" .
+<New_Jersey> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Tito_Arévalo> <people.deceased_person.place_of_death> "Philippines" .
+<United_States_of_America> <location.country.first_level_divisions> "Indiana" .
+<Springfield> <location.location.containedby> "Ohio" .
+<Oklahoma> <location.location.containedby> "United States of America" .
+<Eddie_Romero> <film.producer.film> "The Ravagers" .
+<Area_codes_256_and_938> <location.location.geolocation> "m.0wpp05t" .
+<Springfield> <location.hud_county_place.place> "Springfield" .
+<Owens_Cross_Roads> <location.hud_county_place.county> "Madison County" .
+<Madison_County> <location.statistical_region.population> "m.0hjckcv" .
+<Limestone_County> <location.statistical_region.population> "g.11x1l4_6l" .
+<m.0bx9v3p> <award.ranking.item> "Tom and Huck" .
+<m.03js_9_> <film.performance.film> "SpaceCamp" .
+<Jordan_Walker-Pearlman> <film.director.film> "Constellation" .
+<Maysville,_Alabama> <location.location.time_zones> "Central Time Zone" .
+<Ready,_Set,_Bag> <film.film.edited_by> "Garret Savage" .
+<m.0gchy77> <film.performance.film> "Constellation" .
+<Delaware> <base.biblioness.bibs_location.country> "United States of America" .
+<Mark_Twain> <people.person.nationality> "United States of America" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.genre> "Documentary film" .
+<m.0hjckfl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<United_States_of_America> <location.country.administrative_divisions> "Mississippi" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Maryland" .
+<Huntsville_Botanical_Garden> <location.location.containedby> "Madison County" .
+<PG-13_(USA)> <film.content_rating.country> "United States of America" .
+<m.0hjcjpj> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Huntsville> <sports.sports_team_location.teams> "Huntsville Blast" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.film_festivals> "2008 Hot Docs Canadian International Documentary Festival" .
+<Ryland,_Alabama> <location.location.containedby> "United States of America" .
+<Colorado> <base.locations.states_and_provences.country> "United States of America" .
+<Central_Time_Zone> <common.topic.notable_types> "Time Zone" .
+<North_Dakota> <location.location.containedby> "United States, with Territories" .
+<Area_code_256> <common.topic.notable_for> "g.12h33vmy3" .
+<Missouri> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Florida" .
+<Huntsville> <film.film_location.featured_in_films> "Crisis: Behind a Presidential Commitment" .
+<John_Sayles> <film.writer.film> "Battle Beyond the Stars" .
+<New_Jersey> <base.locations.states_and_provences.country> "United States of America" .
+<35805> <location.location.contains> "Drake Ave & Ivy St" .
+<Huntsville> <location.statistical_region.population> "g.11x1dfqlj" .
+<Battle_Beyond_the_Stars> <film.film.music> "James Horner" .
+<Jake_Hess> <people.person.nationality> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51_h" .
+<Hazel_Green> <location.hud_county_place.place> "Hazel Green" .
+<Ice_hockey_team> <freebase.type_profile.published> "Published" .
+<Constellation> <film.film.country> "United States of America" .
+<Redstone_Army_Airfield> <common.topic.article> "m.0dm8__" .
+<Film> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Las_Vegas> <location.location.containedby> "United States of America" .
+<Madison_County> <location.statistical_region.population> "m.0hjckfl" .
+<Limestone_County> <location.statistical_region.co2_emissions_commercial> "m.045j55j" .
+<Moontown_Airport> <common.topic.notable_for> "g.125f2tkyh" .
+<New_Mexico> <location.location.containedby> "United States, with Territories" .
+<Sequel> <owl#inverseOf> "Prequel" .
+<m.0hjcjpr> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Madison_County> <location.statistical_region.population> "g.11x1jzvgw" .
+<Huntsville> <location.citytown.postal_codes> "35801" .
+<United_States_of_America> <location.country.first_level_divisions> "North Carolina" .
+<m.0hjckh4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hjckhm> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<35810> <location.location.geometry> "m.058mpg6" .
+<Rhode_Island> <base.locations.states_and_provences.country> "United States of America" .
+<Rhode_Island> <base.biblioness.bibs_location.country> "United States of America" .
+<Big_Spring_Park> <base.usnris.nris_listing.significance_level> "State" .
+<Salt_Lake_City> <film.film_location.featured_in_films> "Ready, Set, Bag" .
+<Madison_County> <location.statistical_region.population> "m.0hjckd8" .
+<m.04d5p1z> <common.webpage.topic> "U.S. Space & Rocket Center" .
+<m.02vby4n> <film.performance.film> "Constellation" .
+<Constellation> <film.film.featured_film_locations> "Huntsville" .
+<Jimmy_T._Murakami> <film.director.film> "Battle Beyond the Stars" .
+<The_Ravagers> <film.film.starring> "m.0gcbswr" .
+<Tropical_Storm_Fay> <meteorology.tropical_cyclone.affected_areas> "Georgia" .
+<Comedy> <base.kinometric.genre.incompatible_genres> "Drama" .
+<Time_Zone> <freebase.type_hints.included_types> "Topic" .
+<2010_University_of_Alabama_in_Huntsville_shooting> <common.topic.notable_for> "g.125544y32" .
+<Limestone_County> <location.statistical_region.population> "g.11x1fxb7w" .
+<Huntsville> <location.citytown.postal_codes> "35803" .
+<Battle_Beyond_the_Stars> <common.topic.article> "m.04bsfn" .
+<m.0hjcjsp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Moontown_Airport> <common.topic.webpage> "m.0hzvwsd" .
+<Tom_and_Huck> <film.film.starring> "m.03jr_y_" .
+<Triana> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "South Dakota" .
+<Prequel> <rdf-schema#domain> "Film" .
+<Hurricane_Elena> <meteorology.tropical_cyclone.affected_areas> "Mississippi" .
+<Robert_Drew> <film.producer.film> "Crisis: Behind a Presidential Commitment" .
+<Limestone_County> <common.topic.article> "m.0kwfc" .
+<Huntsville> <location.citytown.postal_codes> "35812" .
+<United_States_of_America> <location.country.administrative_divisions> "Michigan" .
+<Joe_W._Davis_Stadium> <common.topic.notable_types> "Sports Facility" .
+<North_Dakota> <base.locations.states_and_provences.country> "United States of America" .
+<Alabama> <base.aareas.schema.administrative_area.administrative_children> "Madison County" .
+<Central_Time_Zone> <common.topic.image> "Timezoneswest" .
+<35807> <location.postal_code.country> "United States of America" .
+<SpaceCamp> <film.film.release_date_s> "m.0j562rc" .
+<SpaceCamp> <media_common.netflix_title.netflix_genres> "Family" .
+<Ready,_Set,_Bag> <film.film.genre> "Documentary film" .
+<Hazel_Green> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.genre> "History" .
+<m.045x8m5> <film.performance.film> "SpaceCamp" .
+<Space_Raiders> <film.film.genre> "Family" .
+<Action/Adventure> <media_common.media_genre.parent_genre> "Action Film" .
+<Athens> <periodicals.newspaper_circulation_area.newspapers> "The News Courier" .
+<Huntsville_Museum_of_Art> <common.topic.image> "Huntsville Museum of Art Dec10 01" .
+<Sandstone> <film.film_location.featured_in_films> "Ready, Set, Bag" .
+<m.03jpnqf> <film.performance.film> "Constellation" .
+<Owens_Cross_Roads> <location.location.containedby> "United States of America" .
+<Costume_drama> <media_common.media_genre.parent_genre> "Drama" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<New_Hampton> <film.film_location.featured_in_films> "Ready, Set, Bag" .
+<m.0cjlrgx> <common.webpage.topic> "Ready, Set, Bag" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Iowa" .
+<Battle_Beyond_the_Stars> <film.film.starring> "m.0cg24lf" .
+<m.0v9ytdf> <film.performance.film> "Tom and Huck" .
+<Huntsville> <sports.sports_team_location.teams> "Huntsville Tornado" .
+<m.03jscqg> <location.adjoining_relationship.adjoins> "Madison County" .
+<Huntsville> <location.statistical_region.population> "m.066j9v2" .
+<Birmingham> <location.hud_county_place.place> "Birmingham" .
+<Louisiana> <base.locations.states_and_provences.country> "United States of America" .
+<Tom_and_Huck> <film.film.starring> "m.0v9xm2y" .
+<Mount_Vernon> <location.hud_county_place.place> "Mount Vernon" .
+<The_Ravagers> <common.topic.notable_for> "g.12571h1t1" .
+<m.0jt18qk> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Action/Adventure> <media_common.media_genre.parent_genre> "Adventure Film" .
+<Connecticut> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<m.03jrt4v> <film.performance.film> "Tom and Huck" .
+<United_States_of_America> <location.country.administrative_divisions> "Wyoming" .
+<Elkmont> <location.location.containedby> "Limestone County" .
+<m.0v9y4ht> <film.performance.film> "Tom and Huck" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Delaware" .
+<35805> <location.location.contains> "Johnson Rd. & Knight Rd." .
+<SpaceCamp> <film.film.distributors> "m.0_lxj0c" .
+<35814> <common.topic.notable_types> "Postal Code" .
+<US_County> <freebase.type_profile.kind> "Definition" .
+<35803> <location.location.contains> "Madison County Nature Trail" .
+<Madison_County> <location.location.geolocation> "m.0k8j2v" .
+<North_Carolina> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjv0" .
+<Constellation> <media_common.netflix_title.netflix_genres> "Drama" .
+<Big_Spring_Park> <common.topic.article> "m.074mgw" .
+<South_Dakota> <location.location.time_zones> "Central Time Zone" .
+<m.0hk51ql> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oklahoma" .
+<Limestone_County> <location.statistical_region.population> "g.12b01lp0z" .
+<Colorado> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Moontown_Airport> <aviation.airport.serves> "Huntsville" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Topic" .
+<Crisis:_Behind_a_Presidential_Commitment> <media_common.netflix_title.netflix_genres> "Documentary film" .
+<Huntsville_Channel_Cats> <common.topic.article> "m.0d0tpw" .
+<Huntsville> <location.statistical_region.population> "g.11x1cvyzt" .
+<35811> <location.postal_code.country> "United States of America" .
+<Nebraska> <location.location.containedby> "United States, with Territories" .
+<2010_University_of_Alabama_in_Huntsville_shooting> <common.topic.notable_types> "Event" .
+<U.S._Space_&_Rocket_Center> <base.movietheatres.movie_theatre.type_of_movietheatre> "IMAX" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Virginia" .
+<US_County> <freebase.type_profile.strict_included_types> "Topic" .
+<Central_Time_Zone> <common.topic.notable_for> "g.125dhx05_" .
+<Limestone_County> <location.statistical_region.population> "g.11x1gzfwp" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "South Carolina" .
+<35801> <location.location.geometry> "m.0568pyw" .
+<Joe_W._Davis_Stadium> <location.location.containedby> "Madison County" .
+<Limestone_County> <location.location.geolocation> "m.0k8j1m" .
+<US_County> <freebase.type_hints.included_types> "Topic" .
+<Vermont> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Battle_Beyond_the_Stars> <media_common.netflix_title.netflix_genres> "Comedies" .
+<Battle_Beyond_the_Stars> <media_common.netflix_title.netflix_genres> "Sci-Fi Adventure" .
+<Madison_County> <location.location.nearby_airports> "Redstone Army Airfield" .
+<Missouri> <base.biblioness.bibs_location.country> "United States of America" .
+<Harvest> <location.location.containedby> "Madison County" .
+<Limestone_County> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07ggxh8" .
+<Oklahoma> <location.location.time_zones> "Central Time Zone" .
+<Missouri> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Illinois" .
+<m.0hk51tz> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<United_States_of_America> <location.country.first_level_divisions> "Washington" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjrj" .
+<Gurley> <location.location.containedby> "United States of America" .
+<Constellation> <media_common.netflix_title.netflix_genres> "Drama" .
+<m.02vcp0h> <film.performance.film> "Constellation" .
+<Postal_codes> <rdf-schema#domain> "City/Town/Village" .
+<Huntsville> <travel.travel_destination.tourist_attractions> "United States Space Camp" .
+<Athens> <location.location.containedby> "Alabama" .
+<Louisiana> <freebase.valuenotation.has_no_value> "Minimum wage" .
+<Athens> <location.location.containedby> "Limestone County" .
+<Maine> <location.administrative_division.first_level_division_of> "United States of America" .
+<Ready,_Set,_Bag> <film.film.runtime> "m.0cs5y64" .
+<Battle_Beyond_the_Stars> <film.film.genre> "Adventure Film" .
+<Huntsville> <location.citytown.postal_codes> "35893" .
+<Madison_County> <location.statistical_region.population> "g.11x1kl43g" .
+<Huntsville_Channel_Cats> <sports.sports_team.location> "Huntsville" .
+<United_States_of_America> <location.country.administrative_divisions> "California" .
+<Battle_Beyond_the_Stars> <film.film.release_date_s> "m.0j56m34" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011f9yg3" .
+<35816> <common.topic.notable_for> "g.1259x8lh8" .
+<The_Ravagers> <film.film.genre> "Action Film" .
+<Huntsville> <film.film_location.featured_in_films> "SpaceCamp" .
+<United_States_of_America> <location.country.administrative_divisions> "Massachusetts" .
+<Tom_and_Huck> <media_common.netflix_title.netflix_genres> "Family Adventures" .
+<The_Ravagers> <film.film.starring> "m.0gc_2dd" .
+<Battle_Beyond_the_Stars> <film.film.genre> "Parody" .
+<Battle_Beyond_the_Stars> <film.film.starring> "m.02vb63d" .
+<Wernher_von_Braun> <symbols.name_source.namesakes> "Von Braun Center" .
+<Madison_County> <location.statistical_region.population> "m.0hjckcl" .
+<Tom_and_Huck> <film.film.production_companies> "Walt Disney Pictures" .
+<Limestone_County> <location.location.nearby_airports> "Pryor Field Regional Airport" .
+<Las_Vegas> <base.biblioness.bibs_location.country> "United States of America" .
+<Huntsville> <location.statistical_region.population> "g.11x1ms1d0" .
+<Kentucky> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<John_Sayles> <film.film_story_contributor.film_story_credits> "Battle Beyond the Stars" .
+<Tropical_Storm_Fay> <meteorology.tropical_cyclone.affected_areas> "Mississippi" .
+<m.040ftkn> <common.webpage.topic> "U.S. Space & Rocket Center" .
+<Colorado> <location.location.containedby> "United States, with Territories" .
+<m.04htw6g> <film.performance.film> "Constellation" .
+<Florida> <location.location.containedby> "United States of America" .
+<City/Town/Village> <freebase.type_hints.included_types> "Dated location" .
+<Arkansas> <base.locations.states_and_provences.country> "United States of America" .
+<Limestone_County> <location.statistical_region.population> "g.12vqj55rt" .
+<Robert_Drew> <people.person.nationality> "United States of America" .
+<Ryland,_Alabama> <common.topic.notable_types> "City/Town/Village" .
+<Statistical_region> <type.type.domain> "Location" .
+<Space_Raiders> <media_common.adaptation.adapted_from> "Battle Beyond the Stars" .
+<35801> <location.postal_code.country> "United States of America" .
+<Area_code_256> <location.location.coterminous_with> "m.0wckz27" .
+<35806> <common.topic.notable_types> "Postal Code" .
+<Limestone_County> <location.statistical_region.population> "g.11x1hy6n7" .
+<Madison_County> <location.statistical_region.population> "g.11x1fk74j" .
+<North_Dakota> <location.location.containedby> "United States of America" .
+<Illinois> <base.locations.states_and_provences.country> "United States of America" .
+<Big_Spring_Park> <location.location.containedby> "35801" .
+<Florida> <base.locations.states_and_provences.country> "United States of America" .
+<Utah> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0hhy8g_> <film.film_film_distributor_relationship.film> "Battle Beyond the Stars" .
+<U.S._Space_&_Rocket_Center> <common.topic.notable_types> "Museum" .
+<Harvest> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<Space_Raiders> <film.film.genre> "Adventure Film" .
+<Huntsville> <location.statistical_region.population> "g.12vqj3_x2" .
+<Hurricane_Elena> <meteorology.tropical_cyclone.affected_areas> "Alabama" .
+<m.0101d3ly> <government.government_position_held.basic_title> "Mayor" .
+<Ice_hockey_team> <freebase.type_hints.included_types> "Topic" .
+<Tom_and_Huck> <film.film.starring> "m.02vb62g" .
+<Stephen_Sommers> <people.person.nationality> "United States of America" .
+<Tom_and_Huck> <film.film.starring> "m.0v9x4j7" .
+<Huntsville_Blast> <common.topic.article> "m.083p9q" .
+<m.010nrsdq> <film.film_film_distributor_relationship.film> "Battle Beyond the Stars" .
+<Leonard_Goldberg> <film.producer.film> "SpaceCamp" .
+<Event> <freebase.type_profile.strict_included_types> "Topic" .
+<Meridianville> <location.location.containedby> "Madison County" .
+<United_States_of_America> <location.country.capital> "Washington, D.C." .
+<Utah> <base.locations.states_and_provences.country> "United States of America" .
+<Dated_location> <freebase.type_hints.included_types> "Location" .
+<Battle_of_Athens> <time.event.locations> "Athens" .
+<Madison_County> <location.statistical_region.population> "g.11x1gyhnn" .
+<United_States_Space_Camp> <travel.tourist_attraction.near_travel_destination> "Huntsville" .
+<Film_Series> <rdf-schema#domain> "Film" .
+<Wyoming> <base.locations.states_and_provences.country> "United States of America" .
+<Redstone_Army_Airfield> <common.topic.image> "Redstone Army Airfield" .
+<Wisconsin> <location.administrative_division.country> "United States of America" .
+<Huntsville_Blast> <sports.sports_team.league> "m.0crtcd3" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Nevada" .
+<Limestone_County> <location.location.events> "Battle of Sulphur Creek Trestle" .
+<Rhode_Island> <location.administrative_division.country> "United States of America" .
+<The_Ravagers> <media_common.netflix_title.netflix_genres> "Classic War Stories" .
+<Huntsville> <location.statistical_region.population> "m.0hk51v7" .
+<Tropical_Storm_Fay> <meteorology.tropical_cyclone.affected_areas> "Tennessee" .
+<United_States_of_America> <location.country.administrative_divisions> "Kansas" .
+<m.0hjckgh> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0cs5y64> <film.film_cut.film> "Ready, Set, Bag" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "City" .
+<35805> <common.topic.notable_types> "Postal Code" .
+<Museum> <freebase.type_profile.strict_included_types> "Topic" .
+<Ready,_Set,_Bag> <common.topic.notable_for> "g.1258sl912" .
+<Connecticut> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Wisconsin" .
+<Huntsville_Channel_Cats> <sports.sports_team.previously_known_as> "Huntsville Tornado" .
+<Cesar_Amigo> <film.writer.film> "The Ravagers" .
+<Louisiana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Tom_and_Huck> <film.film.starring> "m.0v9xp5q" .
+<The_Ravagers> <film.film.country> "United States of America" .
+<35808> <common.topic.notable_types> "Postal Code" .
+<Constellation> <film.film.directed_by> "Jordan Walker-Pearlman" .
+<Madison_County> <location.statistical_region.population> "g.11x1g8gt8" .
+<New_Jersey> <base.biblioness.bibs_location.country> "United States of America" .
+<Marshall_Space_Flight_Center> <spaceflight.rocket_launch_site.controlling_country> "United States of America" .
+<Redstone_Army_Airfield> <aviation.airport.serves> "Madison County" .
+<Battle_Beyond_the_Stars> <film.film.directed_by> "Jimmy T. Murakami" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "Village" .
+<Robert_Drew> <film.director.film> "Crisis: Behind a Presidential Commitment" .
+<m.0k6ldhn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<US_County> <type.type.domain> "Location" .
+<Mount_Vernon> <film.film_location.featured_in_films> "Ready, Set, Bag" .
+<Madison_County_Executive_Airport> <aviation.airport.serves> "Huntsville" .
+<Redstone_Army_Airfield> <common.topic.webpage> "m.03lmhm9" .
+<m.0hjcjp8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.03lykh5> <film.film_cut.film> "Constellation" .
+<New_Market> <location.location.containedby> "Alabama" .
+<The_Ravagers> <film.film.starring> "m.0qh1wg4" .
+<m.0v9xk8q> <film.performance.film> "Tom and Huck" .
+<SpaceCamp> <film.film.genre> "Science Fiction" .
+<35801> <location.location.contains> "Huntsville Hospital System" .
+<Tom_and_Huck> <film.film.produced_by> "Laurence Mark" .
+<m.0crth4f> <sports.sports_league_participation.team> "Huntsville Tornado" .
+<35815> <common.topic.notable_types> "Postal Code" .
+<Tuscaloosa> <common.topic.notable_types> "City/Town/Village" .
+<Constellation> <film.film.starring> "m.0gchy77" .
+<m.0hjcjtb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hk51sz> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hjckb7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Meridianville> <location.hud_county_place.county> "Madison County" .
+<Von_Braun_Center> <location.location.containedby> "Huntsville" .
+<Huntsville> <location.statistical_region.population> "m.066j9sz" .
+<Maine> <location.location.containedby> "United States of America" .
+<Madison_County> <location.statistical_region.population> "m.0hjckbg" .
+<Tom_and_Huck> <film.film.starring> "m.03lr5cn" .
+<Utah> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<New_Mexico> <location.administrative_division.country> "United States of America" .
+<Sandstone> <location.location.containedby> "United States of America" .
+<Montana> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Prequel> <type.property.master_property> "Sequel" .
+<m.0568q60> <location.geometry.delineates_location> "35803" .
+<Arkansas> <location.location.time_zones> "Central Time Zone" .
+<U.S._Space_&_Rocket_Center> <common.topic.webpage> "m.04d5p1z" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Mexico" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Washington, D.C." .
+<m.0crtwmg> <sports.sports_league_participation.team> "Huntsville Havoc" .
+<35801> <location.location.contains> "Joe W. Davis Stadium" .
+<The_Ravagers> <film.film.starring> "m.0qh1v55" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Location" .
+<Huntsville> <location.hud_foreclosure_area.hhuniv> "m.07ghwyn" .
+<Limestone_County> <location.statistical_region.population> "g.11x1grj2s" .
+<Triana> <common.topic.notable_types> "City/Town/Village" .
+<United_States_of_America> <location.country.first_level_divisions> "Kentucky" .
+<35802> <common.topic.notable_for> "g.1256r8sln" .
+<Huntsville> <location.statistical_region.population> "g.11bcdl83t9" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Florida" .
+<Michigan> <location.location.time_zones> "Central Time Zone" .
+<Huntsville> <location.citytown.postal_codes> "35811" .
+<United_States_of_America> <location.country.first_level_divisions> "New Mexico" .
+<Nebraska> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0hjckdq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Von_Braun_Center> <sports.sports_facility.teams> "Huntsville Tornado" .
+<Huntsville> <location.statistical_region.population> "g.1jmcbhr52" .
+<35804> <common.topic.notable_for> "g.125cm1g_7" .
+<Huntsville> <location.statistical_region.population> "g.11x1fbrzv" .
+<New_Hampton> <common.topic.notable_types> "City/Town/Village" .
+<m.0cgrw1r> <common.webpage.topic> "Ready, Set, Bag" .
+<Huntsville_Havoc> <common.topic.notable_types> "Ice hockey team" .
+<Madison_County> <location.statistical_region.population> "m.0hjckdq" .
+<Owens_Cross_Roads> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<Battle_Beyond_the_Stars> <film.film.soundtrack> "Battle Beyond the Stars" .
+<Limestone_County> <location.statistical_region.population> "g.11x1l8lp6" .
+<Madison_County> <location.statistical_region.population> "g.11x1d8nly" .
+<m.0hk51s5> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Madison_County> <base.aareas.schema.administrative_area.administrative_area_type> "U.S. county" .
+<Space_Raiders> <film.film.rating> "PG (USA)" .
+<Dated_location> <freebase.type_profile.published> "Published" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Jersey" .
+<United_States_of_America> <location.country.administrative_divisions> "Illinois" .
+<Graham_Walters> <film.producer.films_executive_produced> "Ready, Set, Bag" .
+<m.0j56m34> <film.film_regional_release_date.film> "Battle Beyond the Stars" .
+<Moontown_Airport> <common.topic.webpage> "m.06zz6jh" .
+<Madison_County> <location.statistical_region.population> "m.0hjckbx" .
+<Limestone_County> <location.administrative_division.capital> "m.0jvvr4k" .
+<Wisconsin> <base.biblioness.bibs_location.country> "United States of America" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjrs" .
+<Big_Spring_Park> <location.location.containedby> "Alabama" .
+<SpaceCamp> <common.topic.notable_types> "Film" .
+<m.0v9x2_y> <film.performance.film> "Tom and Huck" .
+<Huntsville_Museum_of_Art> <base.schemastaging.non_profit_extra.classification> "Art Museums" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "North Dakota" .
+<m.0101d3ly> <government.government_position_held.jurisdiction_of_office> "Huntsville" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjr2" .
+<Twickenham_Historic_District> <travel.tourist_attraction.near_travel_destination> "Huntsville" .
+<The_Ravagers> <film.film.produced_by> "Eddie Romero" .
+<Huntsville_Museum_of_Art> <architecture.museum.address> "m.0jvbjhs" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Minnesota" .
+<m.0v9x6y8> <film.performance.film> "Tom and Huck" .
+<Huntsville> <location.statistical_region.population> "m.066j9sl" .
+<Tom_and_Huck> <common.topic.webpage> "m.0cj8qrz" .
+<Madison_County> <location.statistical_region.population> "g.11x1mh65l" .
+<Event> <freebase.type_profile.kind> "Definition" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Ohio" .
+<Maine> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Ready,_Set,_Bag> <film.film.executive_produced_by> "Graham Walters" .
+<United_States_of_America> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Mississippi> <location.administrative_division.first_level_division_of> "United States of America" .
+<Nevada> <base.biblioness.bibs_location.country> "United States of America" .
+<Tom_and_Huck> <film.film.starring> "m.0v9y1mq" .
+<Maryland> <location.location.containedby> "United States, with Territories" .
+<Limestone_County> <location.statistical_region.population> "g.12b01tgz4" .
+<New_York> <location.location.containedby> "United States of America" .
+<m.045x8lq> <film.performance.film> "SpaceCamp" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Mississippi" .
+<SpaceCamp> <film.film.starring> "m.045x8mh" .
+<Tuscaloosa> <location.hud_county_place.place> "Tuscaloosa" .
+<Limestone_County> <location.location.containedby> "Huntsville, AL Metropolitan Statistical Area" .
+<Missouri> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_parent> "United States, with Territories" .
+<SpaceCamp> <media_common.netflix_title.netflix_genres> "Teen drama" .
+<Limestone_County> <common.topic.image> "Limestone County" .
+<Space_Raiders> <media_common.netflix_title.netflix_genres> "Family Adventures" .
+<Huntsville_International_Airport> <location.location.containedby> "Huntsville" .
+<PG_(USA)> <film.content_rating.country> "United States of America" .
+<m.0gl8wqs> <film.film_cut.film> "SpaceCamp" .
+<Ohio> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Peter_Hewitt> <film.director.film> "Tom and Huck" .
+<m.0hjck9l> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07ggxgv> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Madison_County> <location.statistical_region.population> "g.12b021_j7" .
+<Tourist_attraction> <freebase.type_hints.included_types> "Location" .
+<Edward_A._O'Neal> <people.person.place_of_birth> "Madison County" .
+<m.0jtfnww> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Triana> <location.hud_county_place.place> "Triana" .
+<Ready,_Set,_Bag> <film.film.featured_film_locations> "New Hampton" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Inanimate" .
+<m.0v9xxqz> <film.performance.film> "Tom and Huck" .
+<Tom_and_Huck> <film.film.starring> "m.0v9y805" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "North Carolina" .
+<Maryland> <location.administrative_division.country> "United States of America" .
+<Huntsville> <location.citytown.postal_codes> "35816" .
+<Dated_location> <type.type.domain> "Location" .
+<Huntsville> <location.citytown.postal_codes> "35815" .
+<m.045x8ld> <film.film_cut.film> "SpaceCamp" .
+<James_Madison> <symbols.name_source.namesakes> "Madison County" .
+<United_States_of_America> <location.country.administrative_divisions> "Arizona" .
+<Constellation> <common.topic.article> "m.02814fs" .
+<Sequel> <type.property.schema> "Film" .
+<Mooresville> <location.location.containedby> "Limestone County" .
+<Seven_Samurai> <freebase.valuenotation.has_no_value> "Sequel" .
+<Huntsville> <location.citytown.postal_codes> "35894" .
+<Area_code> <freebase.type_hints.included_types> "Topic" .
+<35805> <location.location.contains> "Bob Wallace Ave. & 12th St." .
+<Madison_County> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07ggxn4" .
+<m.0cs7z58> <film.performance.film> "Battle Beyond the Stars" .
+<Battle_Beyond_the_Stars> <film.film.starring> "m.0crxb9w" .
+<Limestone_County> <location.statistical_region.population> "g.12b028vmg" .
+<United_States_of_America> <location.country.administrative_divisions> "Alaska" .
+<Gurley> <location.location.time_zones> "Central Time Zone" .
+<m.03jt0pq> <film.performance.film> "Tom and Huck" .
+<Harry_Winer> <film.director.film> "SpaceCamp" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Kansas" .
+<Constellation> <media_common.netflix_title.netflix_genres> "Romantic Movies" .
+<m.07711td> <film.film_film_distributor_relationship.film> "Battle Beyond the Stars" .
+<Huntsville> <location.statistical_region.population> "g.1jmcbfmkp" .
+<m.045x8lk> <film.performance.film> "SpaceCamp" .
+<Delaware> <base.locations.states_and_provences.country> "United States of America" .
+<Battle_Beyond_the_Stars> <film.film.story_by> "John Sayles" .
+<United_States_of_America> <location.country.administrative_divisions> "Missouri" .
+<m.0wz20mw> <sports.team_venue_relationship.team> "Huntsville Tornado" .
+<Oklahoma> <base.biblioness.bibs_location.country> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckk2n" .
+<35801> <location.location.contains> "Andrew Jackson Way & Ward Ave." .
+<m.0v9xhwj> <film.performance.film> "Tom and Huck" .
+<Battle_Beyond_the_Stars> <common.topic.notable_for> "g.1255jz9y2" .
+<United_States_of_America> <location.country.administrative_divisions> "West Virginia" .
+<Huntsville_Havoc> <sports.sports_team.league> "m.0crtwmg" .
+<Constellation> <common.topic.webpage> "m.094j6c9" .
+<United_States_of_America> <location.country.first_level_divisions> "Kansas" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Indiana" .
+<New_Mexico> <location.location.containedby> "United States of America" .
+<Constellation> <common.topic.notable_for> "g.1259zdlh1" .
+<Nevada> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Washington> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.first_level_divisions> "Mississippi" .
+<35899> <location.postal_code.country> "United States of America" .
+<Battle_Beyond_the_Stars> <film.film.costume_design_by> "Durinda Wood" .
+<Louisiana> <location.location.containedby> "United States, with Territories" .
+<Washington> <base.biblioness.bibs_location.country> "United States of America" .
+<The_Ravagers> <film.film.country> "Philippines" .
+<Wyoming> <location.location.containedby> "United States, with Territories" .
+<35808> <location.location.containedby> "Madison County" .
+<Nevada> <location.administrative_division.first_level_division_of> "United States of America" .
+<James_Horner> <people.person.nationality> "United States of America" .
+<Limestone_County> <location.statistical_region.population> "g.11x1dywsw" .
+<Minnesota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Tom_and_Huck> <film.film.starring> "m.03jt0pq" .
+<Huntsville> <location.location.containedby> "Limestone County" .
+<Drama> <base.kinometric.genre.incompatible_genres> "Comedy" .
+<m.02h4rl7> <common.webpage.topic> "Huntsville" .
+<U.S._Space_&_Rocket_Center> <location.location.containedby> "Madison County" .
+<Salt_Lake_City> <location.location.containedby> "Utah" .
+<Moontown_Airport> <common.topic.article> "m.047f1yf" .
+<Daniel_Lacambre> <film.cinematographer.film> "Battle Beyond the Stars" .
+<New_York> <base.locations.states_and_provences.country> "United States of America" .
+<35810> <location.location.contains> "Winchester Rd. & Cecil Fain Dr." .
+<United_States_of_America> <location.country.first_level_divisions> "West Virginia" .
+<North_Dakota> <base.biblioness.bibs_location.country> "United States of America" .
+<Huntsville> <location.statistical_region.population> "m.066j9s6" .
+<US_County> <freebase.type_profile.kind> "Significant" .
+<Huntsville> <location.statistical_region.population> "g.11b7tl5ds7" .
+<U.S._Space_&_Rocket_Center> <location.location.geolocation> "m.02_w34r" .
+<Arizona> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Limestone_County> <common.topic.notable_for> "g.1255br5wd" .
+<35811> <location.location.contains> "Ryland, Alabama" .
+<m.0jtpml1> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Tropical_Storm_Fay> <meteorology.tropical_cyclone.affected_areas> "Arkansas" .
+<Huntsville> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07ghwz9" .
+<Madison_County> <common.topic.notable_for> "g.1257z62x9" .
+<The_Ravagers> <film.film.language> "English Language" .
+<m.0hzvwsd> <common.webpage.topic> "Moontown Airport" .
+<Redstone_Army_Airfield> <location.location.geolocation> "m.02_mdfd" .
+<New_Jersey> <location.administrative_division.first_level_division_of> "United States of America" .
+<Massachusetts> <base.locations.states_and_provences.country> "United States of America" .
+<35897> <common.topic.notable_for> "g.125d8r46p" .
+<Seven_Samurai> <media_common.netflix_title.netflix_genres> "Action/Adventure" .
+<Tom_and_Huck> <film.film.directed_by> "Peter Hewitt" .
+<35807> <common.topic.notable_for> "g.1256dfrqy" .
+<Madison_County> <location.statistical_region.population> "m.0hjck9l" .
+<Arkansas> <meteorology.cyclone_affected_area.cyclones> "Hurricane Elena" .
+<Huntsville> <film.film_location.featured_in_films> "Battle Beyond the Stars" .
+<35816> <common.topic.notable_types> "Postal Code" .
+<Chase,_Alabama> <common.topic.notable_types> "Statistical region" .
+<Ryland,_Alabama> <location.location.containedby> "35811" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjyy" .
+<Twickenham_Historic_District> <location.location.containedby> "Huntsville" .
+<Tom_and_Huck> <media_common.netflix_title.netflix_genres> "Disney Movies" .
+<Von_Braun_Center> <sports.sports_facility.home_venue_for> "m.0wz20m3" .
+<South_Dakota> <location.administrative_division.country> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckj_k" .
+<m.058mpkv> <location.geometry.delineates_location> "35816" .
+<Maple_Hill_Cemetery> <location.location.containedby> "Huntsville" .
+<Madison_County_Executive_Airport> <common.topic.notable_types> "Airport" .
+<United_States_of_America> <location.country.administrative_divisions> "Montana" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Hampshire" .
+<m.0hjcjr9> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Tom_and_Huck> <film.film.starring> "m.0v9xd10" .
+<Limestone_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjsp" .
+<Vermont> <location.administrative_division.country> "United States of America" .
+<m.03jsbk3> <location.adjoining_relationship.adjoins> "Limestone County" .
+<Madison_County> <location.statistical_region.rent50_3> "m.05g96rj" .
+<m.0cg07f5> <film.performance.film> "Battle Beyond the Stars" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Abstract" .
+<Wisconsin> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Madison_County> <location.statistical_region.population> "m.0hjckhm" .
+<35816> <location.location.contains> "Holmes Ave. at Sparkman Homes" .
+<Arkansas> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.administrative_divisions> "Texas" .
+<Madison_County> <location.us_county.hud_county_place> "Huntsville" .
+<United_States_of_America> <location.country.administrative_divisions> "Wisconsin" .
+<Constellation> <film.film.starring> "m.02tb012" .
+<Rhode_Island> <location.location.containedby> "United States of America" .
+<Battle_Beyond_the_Stars> <film.film.distributors> "m.07711td" .
+<New_York> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.07ggxmy> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Madison_County> <location.location.containedby> "Huntsville, AL Metropolitan Statistical Area" .
+<m.04ddm9j> <sports.sports_team_roster.team> "Huntsville Havoc" .
+<Film> <freebase.type_hints.included_types> "Topic" .
+<Tom_and_Huck> <film.film.distributors> "m.0vts7ny" .
+<Davis> <location.location.containedby> "California" .
+<Seven_Samurai> <freebase.valuenotation.has_no_value> "Film Series" .
+<35805> <common.topic.notable_for> "g.125cn8txw" .
+<United_States_of_America> <location.country.first_level_divisions> "Alabama" .
+<m.07ghwz9> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Adventure_Film> <media_common.media_genre.child_genres> "Action/Adventure" .
+<m.07ghwzj> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Elkmont> <common.topic.notable_types> "City/Town/Village" .
+<Huntsville_Museum_of_Art> <architecture.building_occupant.buildings_occupied> "m.0jrk414" .
+<Madison_County> <location.statistical_region.population> "g.12b01q2_c" .
+<Prequel> <type.property.expected_type> "Film" .
+<Huntsville_Museum_of_Art> <organization.organization.headquarters> "m.0pqlb_d" .
+<Huntsville> <location.statistical_region.population> "g.11x1g6qst" .
+<South_Dakota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Tom_and_Huck> <film.film.genre> "Adventure Film" .
+<Huntsville> <travel.travel_destination.tourist_attractions> "Von Braun Center" .
+<Louisiana> <meteorology.cyclone_affected_area.cyclones> "Hurricane Elena" .
+<Kansas> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Athens> <location.hud_county_place.place> "Athens" .
+<Seven_Samurai> <film.film.genre> "Drama" .
+<Madison_County> <location.statistical_region.population> "g.11x1d4nxk" .
+<Madison_County> <location.us_county.county_seat> "Huntsville" .
+<Area_codes_256_and_938> <location.location.containedby> "Alabama" .
+<Montana> <location.administrative_division.country> "United States of America" .
+<Tom_and_Huck> <film.film.written_by> "Stephen Sommers" .
+<35816> <location.location.contains> "Pulaski Pike" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Indiana" .
+<Tom_and_Huck> <film.film.starring> "m.0v9ytdf" .
+<Birmingham> <location.location.containedby> "Alabama" .
+<Tom_and_Huck> <media_common.netflix_title.netflix_genres> "Movies based on children's books" .
+<Ryland,_Alabama> <location.location.containedby> "Madison County" .
+<Limestone_County> <location.statistical_region.population> "g.11x1djg_v" .
+<Madison_County> <location.location.people_born_here> "Richard Taylor" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Montana" .
+<Dated_location> <freebase.type_hints.included_types> "Topic" .
+<Madison_County> <location.statistical_region.population> "m.0hjckg1" .
+<m.03kzn9k> <film.film_cut.film> "Battle Beyond the Stars" .
+<Ice_hockey_team> <freebase.type_profile.kind> "Definition" .
+<SpaceCamp> <film.film.starring> "m.03js_9_" .
+<Huntsville> <location.citytown.postal_codes> "35806" .
+<United_States_of_America> <location.country.first_level_divisions> "Arkansas" .
+<Kansas> <base.locations.states_and_provences.country> "United States of America" .
+<Madison_County> <location.us_county.hud_county_place> "Owens Cross Roads" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0wckz27> <location.cotermination.location> "Area code 256" .
+<Tom_and_Huck> <film.film.genre> "Costume drama" .
+<Alabama_Constitution_Village> <common.topic.notable_types> "Museum" .
+<Huntsville> <film.film_location.featured_in_films> "The Ravagers" .
+<Harry_Winer> <people.person.nationality> "United States of America" .
+<m.0wz20mp> <sports.team_venue_relationship.team> "Huntsville Channel Cats" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "North Carolina" .
+<Meridianville> <location.location.containedby> "Alabama" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010rnll5" .
+<m.0crth3r> <sports.sports_league_participation.team> "Huntsville Channel Cats" .
+<Tazewell_County> <common.topic.notable_types> "US County" .
+<Listed_Site> <freebase.type_profile.published> "Published" .
+<Nevada> <location.administrative_division.country> "United States of America" .
+<m.0hjckfv> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Kentucky> <location.location.containedby> "United States of America" .
+<35801> <location.location.contains> "H´ville Hospital Medical Mall" .
+<Madison_County> <location.statistical_region.population> "m.0hjckfc" .
+<35809> <location.postal_code.country> "United States of America" .
+<Huntsville> <common.topic.notable_for> "g.1258qg5hw" .
+<Huntsville_International_Airport> <common.topic.webpage> "m.03lcp9k" .
+<SpaceCamp> <film.film.production_companies> "American Broadcasting Company" .
+<U.S._Space_&_Rocket_Center> <architecture.structure.architect> "David Crowe" .
+<Huntsville_Channel_Cats> <sports.sports_team.league> "m.0crtvfs" .
+<Eddie_Romero> <film.director.film> "The Ravagers" .
+<Madison_County> <location.statistical_region.population> "m.0hjckgy" .
+<Limestone_County> <location.statistical_region.co2_emissions_total> "m.045hy64" .
+<Madison_County> <location.location.containedby> "Alabama" .
+<Prequel> <type.property.schema> "Film" .
+<Kentucky> <meteorology.cyclone_affected_area.cyclones> "Tropical Storm Fay" .
+<Huntsville_Tornado> <sports.sports_team.location> "Huntsville" .
+<Listed_Site> <freebase.type_hints.included_types> "Topic" .
+<Limestone_County> <location.statistical_region.population> "g.11x1lln5g" .
+<Mississippi> <location.location.time_zones> "Central Time Zone" .
+<Connecticut> <location.location.containedby> "United States of America" .
+<Delaware> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "New Hampshire" .
+<Tennessee> <location.administrative_division.country> "United States of America" .
+<Oregon> <location.location.containedby> "United States, with Territories" .
+<Tom_and_Huck> <film.film.starring> "m.0v9y949" .
+<Limestone_County> <location.us_county.hud_county_place> "Athens" .
+<m.0hjcjqn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Leonard_Goldberg> <people.person.nationality> "United States of America" .
+<U.S._Space_&_Rocket_Center> <common.topic.notable_for> "g.12568xxdk" .
+<Limestone_County> <location.location.people_born_here> "g.11btymq5rb" .
+<Alabama_Constitution_Village> <common.topic.article> "m.02pkr5k" .
+<m.0hjcjs7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Battle_Beyond_the_Stars> <film.film.runtime> "m.03kzn9k" .
+<Ryland,_Alabama> <location.location.containedby> "Alabama" .
+<35803> <location.postal_code.country> "United States of America" .
+<North_Dakota> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Space_Raiders> <film.film.genre> "Action Film" .
+<Airport> <freebase.type_profile.kind> "Definition" .
+<Mississippi> <freebase.valuenotation.has_no_value> "Minimum wage" .
+<Davis> <film.film_location.featured_in_films> "Ready, Set, Bag" .
+<Tom_and_Huck> <film.film.soundtrack> "Tom and Huck" .
+<m.0hk51qv> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Constellation> <media_common.netflix_title.netflix_genres> "African-American Dramas" .
+<United_States_of_America> <location.country.first_level_divisions> "Alaska" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Mississippi" .
+<Battle_Beyond_the_Stars> <film.film.language> "English Language" .
+<Madison_County> <periodicals.newspaper_circulation_area.newspapers> "The Huntsville Times" .
+<m.02h4rl7> <common.webpage.category> "Topic Webpage" .
+<m.0gy94mx> <film.performance.film> "Battle Beyond the Stars" .
+<Massachusetts> <location.location.containedby> "United States of America" .
+<Las_Vegas> <common.topic.notable_types> "City/Town/Village" .
+<m.0hjcjmq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<United_States_of_America> <location.country.first_level_divisions> "Colorado" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.runtime> "m.0hgvy1t" .
+<Limestone_County> <location.statistical_region.population> "g.11x1f226b" .
+<Mississippi> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<New_Market> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<Perkasie> <film.film_location.featured_in_films> "Ready, Set, Bag" .
+<Moores_Mill> <location.location.containedby> "Madison County" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Alaska" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjnc" .
+<m.0jvvr53> <location.administrative_division_capital_relationship.capital> "Huntsville" .
+<Maysville,_Alabama> <location.location.containedby> "35811" .
+<Madison_County> <location.statistical_region.population> "m.0hjckg8" .
+<Ohio> <base.locations.states_and_provences.country> "United States of America" .
+<35897> <common.topic.notable_types> "Postal Code" .
+<Town> <freebase.equivalent_topic.equivalent_type> "City/Town/Village" .
+<m.0v9xd10> <film.performance.film> "Tom and Huck" .
+<New_Mexico> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Massachusetts" .
+<m.0wz20mh> <sports.team_venue_relationship.team> "Huntsville Blast" .
+<Athens> <location.location.containedby> "United States of America" .
+<Florida> <location.location.time_zones> "Central Time Zone" .
+<U.S._county> <base.aareas.schema.administrative_area_type.sovereignty> "United States of America" .
+<Montgomery> <location.location.containedby> "Alabama" .
+<Huntsville_Museum_of_Art> <common.topic.notable_types> "Museum" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011tz0b1" .
+<Battle_Beyond_the_Stars> <film.film.rating> "PG (USA)" .
+<Wernher_von_Braun> <people.person.nationality> "United States of America" .
+<m.0hjcjnc> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.03jr479> <film.performance.film> "SpaceCamp" .
+<United_States_of_America> <location.country.first_level_divisions> "Oregon" .
+<American_Broadcasting_Company> <organization.organization.place_founded> "United States of America" .
+<Tazewell_County> <film.film_location.featured_in_films> "Ready, Set, Bag" .
+<Washington> <location.location.containedby> "United States of America" .
+<m.0wz20mw> <sports.team_venue_relationship.venue> "Von Braun Center" .
+<Elvira_Townsend> <people.person.place_of_birth> "Madison County" .
+<Ardmore> <location.location.containedby> "Alabama" .
+<m.0hjcjmh> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.07ggxnc> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Arkansas> <meteorology.cyclone_affected_area.cyclones> "Tropical Storm Fay" .
+<Tropical_Storm_Fay> <meteorology.tropical_cyclone.affected_areas> "United States of America" .
+<Madison_County> <location.statistical_region.population> "m.0hjckf4" .
+<Limestone_County> <location.statistical_region.population> "g.11b674hjyy" .
+<Huntsville> <location.location.adjoin_s> "m.0b6_48s" .
+<Time_Zone> <freebase.type_profile.published> "Published" .
+<Missouri> <location.location.containedby> "United States, with Territories" .
+<Hazel_Green> <location.location.time_zones> "Central Time Zone" .
+<Montana> <location.location.containedby> "United States of America" .
+<Huntsville> <common.topic.webpage> "m.02h4rl7" .
+<Limestone_County> <location.statistical_region.population> "g.11x1fvxsw" .
+<m.0cj8qrz> <common.webpage.topic> "Tom and Huck" .
+<Limestone_County> <location.us_county.hud_county_place> "Ardmore" .
+<Space_Raiders> <film.film.genre> "Science Fiction" .
+<Huntsville> <location.citytown.postal_codes> "35897" .
+<m.02tb012> <film.performance.film> "Constellation" .
+<SpaceCamp> <film.film.film_art_direction_by> "Richard Lawrence" .
+<Madison_County> <location.statistical_region.population> "g.11x1m8s67" .
+<SpaceCamp> <common.topic.notable_for> "g.1259zk__k" .
+<35802> <common.topic.notable_types> "Postal Code" .
+<Colorado> <location.location.containedby> "United States of America" .
+<Maysville,_Alabama> <location.location.containedby> "Madison County" .
+<m.0gc8pzs> <film.performance.film> "Tom and Huck" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Michigan" .
+<City/Town/Village> <type.type.properties> "City Limits" .
+<Huntsville> <location.statistical_region.population> "m.066j9v8" .
+<Madison_County> <location.location.adjoin_s> "m.03jrhkm" .
+<m.0hjckbg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<South_Carolina> <base.biblioness.bibs_location.country> "United States of America" .
+<The_Ravagers> <film.film.starring> "m.0qh1jbs" .
+<Limestone_County> <location.statistical_region.population> "g.12b01ncxx" .
+<m.0b6_48s> <location.adjoining_relationship.adjoins> "Marshall Space Flight Center" .
+<Connecticut> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Washington,_D.C.> <base.biblioness.bibs_topic.subsumes> "Washington, D.C." .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011m57bw" .
+<Oklahoma> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Utah" .
+<Tom_and_Huck> <film.film.starring> "m.0v9yv0b" .
+<Monte_Sano_State_Park> <travel.tourist_attraction.near_travel_destination> "Huntsville" .
+<Indiana> <base.biblioness.bibs_location.country> "United States of America" .
+<Huntsville> <travel.travel_destination.tourist_attractions> "Twickenham Historic District" .
+<Huntsville> <location.statistical_region.population> "m.0hk51sd" .
+<Huntsville_Museum_of_Art> <common.topic.article> "m.07rndn" .
+<South_Dakota> <location.location.containedby> "United States, with Territories" .
+<Madison_County> <location.statistical_region.rent50_0> "m.05g96qw" .
+<Texas> <base.biblioness.bibs_location.country> "United States of America" .
+<35802> <location.location.geolocation> "m.03dmrjq" .
+<Battle_Beyond_the_Stars> <media_common.netflix_title.netflix_genres> "Spoofs and Satire" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Arkansas" .
+<m.0qh62__> <film.film_regional_release_date.film_release_region> "United States of America" .
+<m.02vc77b> <film.performance.film> "Tom and Huck" .
+<m.0hk51sq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<United_States_Space_Camp> <common.topic.notable_types> "Tourist attraction" .
+<United_States_of_America> <location.country.first_level_divisions> "New Hampshire" .
+<Huntsville> <location.statistical_region.population> "m.0hk51vq" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Virginia" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.personal_appearances> "m.0d9rgb1" .
+<Mooresville> <location.location.containedby> "Alabama" .
+<United_States_of_America> <location.location.time_zones> "Central Time Zone" .
+<m.0qh1lps> <film.performance.film> "The Ravagers" .
+<Monte_Sano_State_Park> <common.topic.notable_types> "Tourist attraction" .
+<Huntsville> <location.location.time_zones> "Central Time Zone" .
+<Battle_Beyond_the_Stars> <film.film.runtime> "m.0gl91zm" .
+<United_States_of_America> <location.country.administrative_divisions> "South Carolina" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011vl2ss" .
+<m.0qh1ss_> <film.performance.film> "The Ravagers" .
+<Madison_County> <location.us_county.hud_county_place> "New Hope" .
+<Ardmore> <common.topic.notable_types> "City/Town/Village" .
+<United_States,_with_Territories> <base.aareas.schema.earth.sovereign_domain.sovereign_state> "United States of America" .
+<Huntsville> <location.hud_county_place.place> "Huntsville" .
+<Constellation> <common.topic.webpage> "m.0cl5ts9" .
+<Time_Zone> <freebase.type_profile.strict_included_types> "Topic" .
+<Madison_County> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07ggxnc" .
+<Gurley> <location.hud_county_place.county> "Madison County" .
+<Illinois> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0gl7911> <film.film_regional_release_date.film> "SpaceCamp" .
+<Georgia> <location.administrative_division.first_level_division_of> "United States of America" .
+<Minnesota> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<m.0hjcjqf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Alabama–Huntsville_Chargers_men's_ice_hockey> <sports.sports_team.sport> "Ice Hockey" .
+<Madison_County> <location.statistical_region.population> "g.11x1h0s74" .
+<Washington,_D.C.> <common.topic.notable_types> "City/Town/Village" .
+<Wyoming> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0568pst> <location.geometry.delineates_location> "35808" .
+<35801> <common.topic.notable_types> "Postal Code" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Massachusetts" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New York" .
+<Kansas> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0hk51v7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "California" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Alabama" .
+<m.0hjckdy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<35824> <location.location.geometry> "m.0579lm6" .
+<Huntsville_International_Airport> <common.topic.article> "m.01r4xs" .
+<Tuscaloosa> <base.biblioness.bibs_location.state> "Alabama" .
+<Madison_County> <location.statistical_region.population> "m.0hjckcc" .
+<New_Hampshire> <base.biblioness.bibs_location.country> "United States of America" .
+<Huntsville_Museum_of_Art> <architecture.building.occupant> "m.0jrk414" .
+<Ohio> <location.location.containedby> "United States, with Territories" .
+<Huntsville> <location.location.nearby_airports> "Moontown Airport" .
+<Tommy_Battle> <government.politician.government_positions_held> "m.0101d3ly" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjnl" .
+<m.0qh3cqf> <film.film_crew_gig.film> "The Ravagers" .
+<Central_Time_Zone> <common.topic.article> "m.02fqx0" .
+<Tom_and_Huck> <film.film.starring> "m.0v9x9b1" .
+<Tom_and_Huck> <award.ranked_item.appears_in_ranked_lists> "m.0bx9v3p" .
+<Huntsville_Tornado> <sports.sports_team.league> "m.0crth4f" .
+<Limestone_County> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07ggxhq" .
+<Huntsville> <location.statistical_region.population> "m.0hk51ry" .
+<35803> <location.location.containedby> "Madison County" .
+<Massachusetts> <location.administrative_division.first_level_division_of> "United States of America" .
+<Limestone_County> <location.statistical_region.population> "g.12b023qj8" .
+<New_Hampton> <location.hud_county_place.place> "New Hampton" .
+<Sandstone> <location.hud_county_place.place> "Sandstone" .
+<Alabama_Constitution_Village> <common.topic.notable_for> "g.12565kqx4" .
+<Madison_County> <location.us_county.hud_county_place> "Harvest" .
+<Ready,_Set,_Bag> <film.film.featured_film_locations> "Huntsville" .
+<The_Ravagers> <film.film.written_by> "Eddie Romero" .
+<Huntsville> <location.statistical_region.population> "m.0hk51ql" .
+<Madison_County> <location.statistical_region.population> "m.0hjckd1" .
+<Elkmont> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<Alabama> <base.aareas.schema.administrative_area.administrative_children> "Limestone County" .
+<Event> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Alabama> <meteorology.cyclone_affected_area.cyclones> "Tropical Storm Fay" .
+<Area_codes_256_and_938> <common.topic.notable_for> "g.12nxlc6d3" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Nebraska" .
+<m.0wz20mp> <sports.team_venue_relationship.venue> "Von Braun Center" .
+<m.0hjcjt3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Limestone_County> <location.statistical_region.population> "m.0jtlw0m" .
+<Area_code> <freebase.type_hints.included_types> "Dated location" .
+<35810> <common.topic.notable_for> "g.125h4qxrh" .
+<Huntsville_International_Airport> <common.topic.notable_for> "g.1254z0r2q" .
+<Airport> <freebase.type_hints.included_types> "Location" .
+<Huntsville_Havoc> <sports.sports_team.venue> "m.0wz20m3" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjr_" .
+<Jake_Hess> <music.artist.origin> "United States of America" .
+<Roger_Corman> <people.person.nationality> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51zj" .
+<Madison_County> <location.statistical_region.population> "m.0hjckgh" .
+<Iowa> <location.location.containedby> "United States of America" .
+<35806> <location.location.contains> "Wal-mart, Huntsville" .
+<Springfield> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Rhode Island" .
+<m.0jtbs43> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Elkmont> <location.location.containedby> "United States of America" .
+<Kentucky> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0v9xm2y> <film.performance.film> "Tom and Huck" .
+<Florida> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Maine" .
+<m.0v9w_x8> <film.performance.film> "Tom and Huck" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Louisiana" .
+<Ready,_Set,_Bag> <common.topic.webpage> "m.0cgrw1r" .
+<Central_Time_Zone> <base.schemastaging.context_name.pronunciation> "g.125_mmrcv" .
+<Gurley> <location.location.containedby> "Madison County" .
+<35805> <location.postal_code.country> "United States of America" .
+<100_1830> <common.image.size> "m.02930wg" .
+<Durinda_Wood> <award.award_nominee.award_nominations> "m.0bdqwww" .
+<m.02vb62g> <film.performance.film> "Tom and Huck" .
+<City/Town/Village> <common.topic.article> "m.03bnd2c" .
+<Oregon> <location.administrative_division.first_level_division_of> "United States of America" .
+<Washington> <location.administrative_division.first_level_division_of> "United States of America" .
+<Massachusetts> <location.location.containedby> "United States, with Territories" .
+<John_Sayles> <people.person.nationality> "United States of America" .
+<m.0hjckcl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Madison_County> <location.statistical_region.population> "g.12b021_j9" .
+<m.03jsp35> <film.performance.film> "SpaceCamp" .
+<United_States_of_America> <location.country.first_level_divisions> "Nebraska" .
+<m.0sgpwl3> <award.award_nomination.nominated_for> "Tom and Huck" .
+<Pennsylvania> <location.administrative_division.first_level_division_of> "United States of America" .
+<SpaceCamp> <film.film.starring> "m.045x8lk" .
+<35802> <location.postal_code.country> "United States of America" .
+<Michigan> <base.locations.states_and_provences.country> "United States of America" .
+<Idaho> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Area_code_256> <location.location.containedby> "Alabama" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjsx" .
+<m.04rcd0k> <common.webpage.topic> "Crisis: Behind a Presidential Commitment" .
+<Madison_County> <location.statistical_region.population> "g.11x1k2_b4" .
+<Tom_and_Huck> <film.film.rating> "PG (USA)" .
+<Huntsville> <location.location.containedby> "Area codes 256 and 938" .
+<Huntsville> <travel.travel_destination.tourist_attractions> "Alabama Constitution Village" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012_74vb" .
+<Museum> <freebase.type_hints.included_types> "Topic" .
+<West_Virginia> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0hjckd8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Madison_County> <location.statistical_region.population> "g.12vqj8wdh" .
+<m.03js9k8> <location.adjoining_relationship.adjoins> "Madison County" .
+<m.0v9xdry> <film.performance.film> "Tom and Huck" .
+<m.0v9wxn3> <film.performance.film> "Tom and Huck" .
+<New_Hampshire> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<m.0101d3ly> <government.government_position_held.office_position_or_title> "Mayor of Huntsville" .
+<US_County> <freebase.type_hints.included_types> "Dated location" .
+<Museum> <freebase.type_profile.kind> "Definition" .
+<Arizona> <location.administrative_division.first_level_division_of> "United States of America" .
+<Meridianville> <location.location.containedby> "United States of America" .
+<The_Ravagers> <media_common.netflix_title.netflix_genres> "Military & War Dramas" .
+<35896> <common.topic.notable_for> "g.125c1c_3w" .
+<m.0hjcjtl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<The_Ravagers> <film.film.genre> "Drama" .
+<William_N._Richardson> <people.deceased_person.place_of_burial> "Maple Hill Cemetery" .
+<Chase,_Alabama> <location.location.time_zones> "Central Time Zone" .
+<Springfield> <location.location.containedby> "United States of America" .
+<Madison_County_Nature_Trail> <common.topic.notable_types> "Tourist attraction" .
+<Madison_County_Executive_Airport> <location.location.containedby> "35759" .
+<m.0v9yw86> <film.performance.film> "Tom and Huck" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Pennsylvania> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0cgrw4m> <film.personal_film_appearance.film> "Ready, Set, Bag" .
+<Springfield> <film.film_location.featured_in_films> "Ready, Set, Bag" .
+<Madison_County> <location.location.adjoin_s> "m.03jr_f5" .
+<Huntsville> <location.statistical_region.population> "m.0hk51vh" .
+<m.040ftkn> <common.webpage.category> "Topic Webpage" .
+<Wisconsin> <location.administrative_division.first_level_division_of> "United States of America" .
+<Huntsville> <location.hud_county_place.county> "Madison County" .
+<Tom_and_Huck> <film.film.starring> "m.03jswbs" .
+<Constellation> <film.film.starring> "m.03jrl48" .
+<Illinois> <location.administrative_division.first_level_division_of> "United States of America" .
+<Arizona> <base.biblioness.bibs_location.country> "United States of America" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjpj" .
+<Madison_County> <location.statistical_region.population> "m.0hjckbp" .
+<Huntsville> <location.location.containedby> "Area code 256" .
+<Madison_County> <location.statistical_region.population> "m.0hjckfv" .
+<Eddie_Romero> <film.writer.film> "The Ravagers" .
+<Joe_W._Davis_Stadium> <location.location.containedby> "35801" .
+<m.02vcbff> <film.performance.film> "Constellation" .
+<U.S._Space_&_Rocket_Center> <location.location.containedby> "35808" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.personal_appearances> "m.0d9rg9v" .
+<Von_Braun_Center> <sports.sports_facility.teams> "Huntsville Channel Cats" .
+<Tennessee> <location.administrative_division.first_level_division_of> "United States of America" .
+<Film> <type.type.properties> "Prequel" .
+<United_States_of_America> <location.country.first_level_divisions> "Illinois" .
+<United_States_of_America> <location.location.containedby> "United States, with Territories" .
+<m.07ghwyw> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0b6_48s> <location.adjoining_relationship.adjoins> "Huntsville" .
+<Battle_Beyond_the_Stars> <film.film.runtime> "m.0cg92pt" .
+<Limestone_County> <base.aareas.schema.administrative_area.administrative_area_type> "U.S. county" .
+<Kansas> <location.location.containedby> "United States of America" .
+<North_Carolina> <base.locations.states_and_provences.country> "United States of America" .
+<Huntsville_Channel_Cats> <sports.sports_team.sport> "Ice Hockey" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Missouri" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.personal_appearances> "m.0cvcf9c" .
+<Huntsville_Channel_Cats> <sports.sports_team.league> "m.0crth3r" .
+<Area_codes_256_and_938> <location.location.contains> "Huntsville" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0114s4js" .
+<Washington,_D.C.> <location.hud_county_place.place> "Washington, D.C." .
+<Madison_County_Nature_Trail> <common.topic.notable_for> "g.125cdb_b0" .
+<m.07ggxgm> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Springfield> <base.biblioness.bibs_location.state> "Ohio" .
+<New_Mexico> <location.administrative_division.first_level_division_of> "United States of America" .
+<Huntsville_Havoc> <sports.sports_team.roster> "m.04ddm9j" .
+<Ready,_Set,_Bag> <film.film.produced_by> "Justine Jacob" .
+<Tom_and_Huck> <film.film.starring> "m.03lr5ct" .
+<m.0hjcjrs> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0k6mt4c> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Film_&_Television_History> <media_common.media_genre.parent_genre> "Documentary film" .
+<Arkansas> <location.administrative_division.first_level_division_of> "United States of America" .
+<Limestone_County> <base.aareas.schema.administrative_area.administrative_parent> "Alabama" .
+<Huntsville> <location.citytown.postal_codes> "35896" .
+<Ready,_Set,_Bag> <film.film.featured_film_locations> "Perkasie" .
+<United_States_of_America> <location.administrative_division.first_level_division_of> "United States, with Territories" .
+<New_Hampshire> <base.locations.states_and_provences.country> "United States of America" .
+<Hurricane_Elena> <meteorology.tropical_cyclone.affected_areas> "Louisiana" .
+<Huntsville> <location.statistical_region.population> "g.1jmcbkjxv" .
+<Minnesota> <location.location.time_zones> "Central Time Zone" .
+<Twickenham_Historic_District> <common.topic.notable_types> "Listed Site" .
+<Huntsville_Museum_of_Art> <travel.tourist_attraction.near_travel_destination> "Huntsville" .
+<United_States_Space_Camp> <location.location.time_zones> "Central Time Zone" .
+<m.0hjcjtt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0cg24lf> <film.performance.film> "Battle Beyond the Stars" .
+<Moontown_Airport> <location.location.containedby> "Madison County" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjr9" .
+<Limestone_County> <location.statistical_region.population> "g.11x1k204m" .
+<Wyoming> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "South Carolina" .
+<Huntsville> <location.statistical_region.population> "g.11x1lgyyj" .
+<Crisis:_Behind_a_Presidential_Commitment> <common.topic.webpage> "m.04rcd0k" .
+<Huntsville> <base.biblioness.bibs_location.country> "United States of America" .
+<Huntsville_Tornado> <common.topic.notable_types> "Ice hockey team" .
+<SpaceCamp> <film.film.rating> "PG (USA)" .
+<Tropical_Storm_Fay> <meteorology.tropical_cyclone.affected_areas> "West Virginia" .
+<m.0gl7911> <film.film_regional_release_date.film_release_region> "United States of America" .
+<Huntsville> <location.statistical_region.population> "m.066j9s0" .
+<Madison_County> <location.statistical_region.population> "g.12b01xv5n" .
+<Huntsville> <location.statistical_region.population> "m.066j9tb" .
+<Montgomery> <film.film_location.featured_in_films> "Crisis: Behind a Presidential Commitment" .
+<m.0hjcjmy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Meridianville> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<m.045x8m0> <film.performance.film> "SpaceCamp" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjm8" .
+<Oregon> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Ready,_Set,_Bag> <film.film.featured_film_locations> "Springfield" .
+<Madison_County> <location.statistical_region.population> "g.11x1lv0xj" .
+<Huntsville_Botanical_Garden> <location.location.containedby> "35805" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h5200" .
+<Huntsville> <common.topic.article> "m.0q8t3" .
+<Mooresville> <base.usnris.nris_listing.significance_level> "State" .
+<Ardmore> <location.location.containedby> "United States of America" .
+<Huntsville_Blast> <sports.sports_team.venue> "m.0wz20mh" .
+<Tom_and_Huck> <common.topic.webpage> "m.09xzj5x" .
+<Crisis:_Behind_a_Presidential_Commitment> <film.film.genre> "Biographical film" .
+<Arizona> <location.location.containedby> "United States of America" .
+<Twickenham_Historic_District> <base.usnris.nris_listing.significance_level> "State" .
+<Battle_Beyond_the_Stars> <music.soundtrack.film> "Battle Beyond the Stars" .
+<Virginia> <location.location.containedby> "United States of America" .
+<New_Hampshire> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Michigan> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "North Dakota" .
+<California> <location.administrative_division.first_level_division_of> "United States of America" .
+<Madison_County> <location.statistical_region.population> "m.0hjckdh" .
+<m.0hjcjpz> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Connecticut> <location.administrative_division.country> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010r12s4" .
+<SpaceCamp> <film.film.starring> "m.045x8lw" .
+<Huntsville> <location.statistical_region.population> "g.11x1hqwy2" .
+<John_A._Winston> <people.person.place_of_birth> "Madison County" .
+<Minnesota> <location.location.containedby> "United States of America" .
+<Von_Braun_Center> <sports.sports_facility.teams> "Alabama–Huntsville Chargers men's ice hockey" .
+<Huntsville> <location.location.nearby_airports> "Madison County Executive Airport" .
+<Limestone_County> <location.statistical_region.population> "m.0hjcjt3" .
+<United_States_of_America> <location.country.administrative_divisions> "Maine" .
+<Lester> <location.location.containedby> "Limestone County" .
+<Tito_Arévalo> <people.person.nationality> "Philippines" .
+<Lester> <location.hud_county_place.county> "Limestone County" .
+<Battle_Beyond_the_Stars> <film.film.written_by> "John Sayles" .
+<Madison_County_Nature_Trail> <common.topic.article> "m.03h1690" .
+<Huntsville> <location.location.nearby_airports> "Huntsville International Airport" .
+<Ready,_Set,_Bag> <common.topic.webpage> "m.0cgrwmm" .
+<m.0568qn8> <location.geometry.delineates_location> "35805" .
+<Utah> <location.location.containedby> "United States of America" .
+<m.0bdqwww> <award.award_nomination.nominated_for> "Battle Beyond the Stars" .
+<Madison_County> <location.statistical_region.population> "g.11x1kjc9g" .
+<Hazel_Green> <location.hud_county_place.county> "Madison County" .
+<Vermont> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0v9ybk5> <film.performance.film> "Tom and Huck" .
+<Virginia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Minnesota> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "West Virginia" .
+<SpaceCamp> <film.film.release_date_s> "m.0gl7911" .
+<Pennsylvania> <location.administrative_division.country> "United States of America" .
+<Monte_Sano_State_Park> <location.location.containedby> "35741" .
+<Limestone_County> <location.statistical_region.population> "g.11x1ksy5r" .
+<35824> <location.location.contains> "Huntsville International Airport" .
+<Tom_and_Huck> <film.film.starring> "m.0v9y3m9" .
+<United_States_of_America> <location.country.first_level_divisions> "Wyoming" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Utah" .
+<U.S._Space_&_Rocket_Center> <metropolitan_transit.transit_stop.transit_lines> "Tourist Loop" .
+<U.S._Space_&_Rocket_Center> <common.topic.image> "Rockets in Huntsville Alabama" .
+<Crisis:_Behind_a_Presidential_Commitment> <media_common.netflix_title.netflix_genres> "Political Documentaries" .
+<Limestone_County> <location.statistical_region.population> "g.11x1g_sj8" .
+<m.0101d3ly> <freebase.valuenotation.has_no_value> "To" .
+<United_States_of_America> <location.country.administrative_divisions> "Oregon" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<Salt_Lake_City> <location.location.containedby> "United States of America" .
+<Moores_Mill> <location.location.containedby> "Alabama" .
+<Huntsville> <location.statistical_region.population> "m.066j9tq" .
+<Twickenham_Historic_District> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.05h8b_l" .
+<Huntsville> <location.statistical_region.population> "m.0hk51r8" .
+<The_Ravagers> <film.film.starring> "m.0gbxdhy" .
+<Louisiana> <meteorology.cyclone_affected_area.cyclones> "Tropical Storm Fay" .
+<Perkasie> <location.hud_county_place.place> "Perkasie" .
+<Tom_and_Huck> <film.film.starring> "m.0v9xfb3" .
+<Huntsville> <location.statistical_region.population> "m.0hk51s5" .
+<m.0hk51sd> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Moores_Mill> <location.location.containedby> "United States of America" .
+<Louisiana> <location.administrative_division.country> "United States of America" .
+<Madison_County> <location.location.people_born_here> "Jones M. Withers" .
+<New_Hampshire> <location.location.containedby> "United States of America" .
+<SpaceCamp> <film.film.produced_by> "Leonard Goldberg" .
+<Madison_County> <location.statistical_region.population> "g.11b66f8sqk" .
+<Montgomery> <location.location.containedby> "United States of America" .
+<Mayor_of_Huntsville> <government.government_office_or_title.office_holders> "m.0101d3ly" .
+<IMAX> <base.movietheatres.type_of_movie_theatre_cinema.movie_theatres_of_this_type> "U.S. Space & Rocket Center" .
+<Seven_Samurai> <media_common.adapted_work.adaptations> "Battle Beyond the Stars" .
+<m.0hjcjvg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<35809> <common.topic.notable_for> "g.1254zz_2l" .
+<Big_Spring_Park> <location.location.containedby> "Huntsville" .
+<35808> <location.location.contains> "Telstar Cr. & Patton Rd." .
+<Arkansas> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Ohio" .
+<m.0hjcjr2> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0gcbswr> <film.performance.film> "The Ravagers" .
+<New_Hampton> <location.location.containedby> "Iowa" .
+<West_Virginia> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Mount_Vernon> <location.location.containedby> "Ohio" .
+<Madison_County> <location.statistical_region.population> "g.11x1l2lbg" .
+<Tennessee> <freebase.valuenotation.has_no_value> "Minimum wage" .
+<35824> <location.location.containedby> "Madison County" .
+<Limestone_County> <location.statistical_region.population> "g.11x1jsdpj" .
+<Madison_County> <location.administrative_division.capital> "m.0jvvr53" .
+<m.0v9x4j7> <film.performance.film> "Tom and Huck" .
+<Limestone_County> <location.us_county.hud_section_8_area> "Huntsville, AL MSA HUD Section 8 Area" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Abstract" .
+<35804> <common.topic.notable_types> "Postal Code" .
+<Huntsville> <location.statistical_region.population> "g.11x1l3357" .
+<Tennessee> <location.location.containedby> "United States, with Territories" .
+<Athens> <location.hud_county_place.county> "Limestone County" .
+<Idaho> <base.biblioness.bibs_location.country> "United States of America" .
+<m.07ggxh1> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Space_Western> <film.film_genre.films_in_this_genre> "Battle Beyond the Stars" .
+<Limestone_County> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07ggxh1" .
+<m.0cgrwll> <common.webpage.topic> "Ready, Set, Bag" .
+<Lester> <base.wikipedia_infobox.settlement.area_code> "Area codes 256 and 938" .
+<Monte_Sano_State_Park> <location.location.containedby> "Madison County" .
+<Alabama> <location.administrative_division.country> "United States of America" .
+<Teen_drama> <tv.tv_program.genre> "Drama" .
+<California> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Massachusetts> <base.biblioness.bibs_location.country> "United States of America" .
+<New_Market> <location.location.containedby> "United States of America" .
+<Sports_Facility> <freebase.type_hints.included_types> "Location" .
+<Madison_County> <location.us_county.hud_county_place> "Meridianville" .
+<Ready,_Set,_Bag> <film.film.edited_by> "Andrew Gersh" .
+<Big_Spring_Park> <location.location.containedby> "Madison County" .
+<Madison_County> <base.aareas.schema.administrative_area.administrative_parent> "Alabama" .
+<Arkansas> <location.administrative_division.country> "United States of America" .
+<Hawaii> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Time_Zone> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Delaware> <location.location.containedby> "United States of America" .
+<m.0qh1wg4> <film.performance.film> "The Ravagers" .
+<Huntsville_International_Airport> <aviation.airport.serves> "Huntsville" .
+<Limestone_County> <location.location.events> "Battle of Athens" .
+<35816> <location.location.contains> "University Dr. & Jordan Ln" .
+<35806> <common.topic.notable_for> "g.125cb1cdr" .
+<United_States_of_America> <location.country.first_level_divisions> "Texas" .
+<Limestone_County> <location.location.adjoin_s> "m.03jqqq2" .
+<35805> <location.location.contains> "Huntsville Botanical Garden" .
+<35898> <location.postal_code.country> "United States of America" .
+<Huntsville> <travel.travel_destination.tourist_attractions> "Big Spring Park" .
+<Huntsville> <sports.sports_team_location.teams> "Huntsville Channel Cats" .
+<Laurence_Mark> <film.producer.film> "Tom and Huck" .
+<Huntsville> <location.citytown.postal_codes> "35899" .
+<Madison_County> <location.statistical_region.population> "g.11x1jsw3y" .
+<Arkansas> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Wisconsin> <location.location.containedby> "United States, with Territories" .

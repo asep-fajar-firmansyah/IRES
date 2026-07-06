@@ -1,0 +1,1560 @@
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010j2qdv" .
+<Ronaldo> <people.person.places_lived> "m.0wkwptn" .
+<Nélio_Nazário_de_Lima,_Snr> <freebase.valuenotation.has_value> "Country of nationality" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.0110hmsr" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "São José, Porto Alegre" .
+<m.0z77xwk> <award.award_nomination.award_nominee> "Ronaldinho" .
+<Ronaldo> <freebase.valuenotation.is_reviewed> "Children" .
+<Ronaldinho> <sports.pro_athlete.teams> "m.0h27bfj" .
+<Ronaldo> <award.award_winner.awards_won> "m.0y8b85j" .
+<m.011sgjvc> <base.schemastaging.athlete_salary.athlete> "Ronaldinho" .
+<Ronaldo> <freebase.valuenotation.is_reviewed> "Height" .
+<m.0w1018r> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Obstructive_sleep_apnea> <medicine.disease.risk_factors> "Male" .
+<Gout> <medicine.icd_9_cm_classification.parent_classification> "Gout" .
+<Ankylosing_spondylitis> <medicine.disease_cause.diseases> "Kyphosis" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Kidney_Stone> <medicine.disease.causes> "Gout" .
+<Hirschsprung's_disease> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<Ronaldinho> <base.schemastaging.athlete_extra.salary> "m.0r9mccp" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0y4tvf1" .
+<m.0y4tm7k> <film.performance.special_performance_type> "Him/Herself" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0y4tylm" .
+<Football_player> <type.type.expected_by> "Players" .
+<m.0w9hj_t> <soccer.football_player_stats.player> "Ronaldinho" .
+<Forward> <common.topic.webpage> "m.09y3j1b" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Espírito Santo, Rio Grande do Sul" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<m.0z4trvh> <award.award_nomination.ceremony> "2005 FIFA World Player of the Year" .
+<Football_player> <freebase.type_hints.included_types> "Athlete" .
+<Inguinal_hernia> <medicine.disease.risk_factors> "Male" .
+<Porto_Alegre> <location.location.events> "2014 Fantaspoa Film Festival" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<Nélio_Nazário_de_Lima,_Snr> <freebase.valuenotation.has_value> "Place of birth" .
+<Best_Soccer_Player_ESPY_Award> <award.award_category.nominees> "m.0z5gbjm" .
+<m.0d1y8kn> <common.webpage.topic> "Ronaldinho" .
+<m.0z5g7sh> <award.award_honor.award_winner> "Ronaldinho" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Rio Branco, Rio Grande do Sul" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsmzj" .
+<Ronaldinho> <common.topic.notable_for> "g.125cvvhk3" .
+<m.0w0ngpt> <freebase.valuenotation.has_no_value> "Winning work" .
+<2004_FIFA_World_Player_of_the_Year> <award.award_ceremony.nominees> "m.0z4xp9n" .
+<m.0ygkwl6> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Ronaldinho> <people.person.parents> "João de Assis Moreira" .
+<FIFA_100> <award.award_category.winners> "m.0y4tvf1" .
+<Golden_Foot> <common.topic.image> "Ronaldinho bored" .
+<m.0y4tywr> <award.award_honor.award> "g.121dc5yv" .
+<m.0w9hj_7> <soccer.football_player_stats.team> "A.C. Milan" .
+<Ronaldinho> <people.person.place_of_birth> "Porto Alegre" .
+<Position(s)> <rdf-schema#range> "Football Position" .
+<Stuttering> <medicine.disease.risk_factors> "Male" .
+<Golden_Foot> <award.award_category.winners> "m.0w0njr1" .
+<m.0114xgpg> <people.sibling_relationship.sibling> "Ronaldo" .
+<Brazil> <location.country.first_level_divisions> "Rio Grande do Sul" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<Rio_Grande_do_Sul> <location.administrative_division.first_level_division_of> "Brazil" .
+<Brazil_national_football_team> <sports.sports_team.sport> "Football" .
+<m.09ytzf1> <common.webpage.topic> "Forward" .
+<Football_player> <type.type.expected_by> "Player" .
+<Shadow_Figure> <fictional_universe.fictional_character.place_of_birth> "Male" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<Porto_Alegre> <location.location.nearby_airports> "Salgado Filho International Airport" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<m.0j_7v43> <sports.sports_team_roster.player> "Ronaldinho" .
+<Forward> <common.topic.webpage> "m.09wb10c" .
+<Children> <rdf-schema#range> "Person" .
+<Porto_Alegre> <location.location.events> "2013 CLOSE - Festival Nacional de Cinema da Diversidade Sexual" .
+<m.09y8x67> <common.webpage.topic> "Forward" .
+<m.0_spw70> <award.award_nomination.award> "Laureus World Sports Award for Comeback of the Year" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Partenon" .
+<Soccer> <type.domain.types> "Football Position" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<m.0j_7v2p> <sports.sports_team_roster.team> "A.C. Milan" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<Ronaldinho> <award.award_nominee.award_nominations> "m.0z5gbjm" .
+<Ronaldinho061115> <common.image.size> "m.0k72x7" .
+<Athlete> <freebase.equivalent_topic.equivalent_type> "Athlete" .
+<Ronaldinho_e_Deco> <common.image.appears_in_topic_gallery> "Ronaldinho" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<Porto_Alegre> <location.location.contains> "g.120ktdz9" .
+<m.0y4ty4t> <award.award_honor.award_winner> "Ronaldinho" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<Athlete> <freebase.type_profile.published> "Published" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Centro Histórico, Porto Alegre" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h36nh" .
+<2006_ESPY_Awards> <award.award_ceremony.awards_presented> "m.0z5g7sh" .
+<Porto_Alegre> <location.location.contains> "g.122xfd_t" .
+<m.011sgjvc> <base.schemastaging.athlete_salary.team> "Querétaro F.C." .
+<Female> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Ronaldinho> <film.person_or_entity_appearing_in_film.films> "m.0zs_lqj" .
+<Parents> <type.property.expected_type> "Person" .
+<FIFA_World_Player_of_the_Year> <award.award_category.nominees> "m.0z4_d5_" .
+<Querétaro_F.C.> <sports.sports_team.sport> "Football" .
+<Hair_loss> <medicine.symptom.symptom_of> "Syphilis" .
+<Ronaldo> <award.award_winner.awards_won> "m.0ln_16y" .
+<Porto_Alegre> <location.location.contains> "g.1227k24p" .
+<m.0j_7v43> <sports.sports_team_roster.team> "FC Barcelona" .
+<Forward> <common.topic.webpage> "m.09w2grw" .
+<Football_player> <type.type.expected_by> "Best Player" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h374r" .
+<Ronaldinho> <people.person.sibling_s> "m.04g56g2" .
+<m.0y8b85j> <award.award_honor.award_winner> "Ronaldo" .
+<Kyphosis> <medicine.disease.causes> "Ankylosing spondylitis" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<Alexander_Nazário_de_Lima> <freebase.valuenotation.has_value> "Place of birth" .
+<m.0r5j744> <award.award_honor.award_winner> "Ronaldinho" .
+<m.09y3j1b> <common.webpage.topic> "Forward" .
+<Ronaldinho> <award.award_nominee.award_nominations> "m.0_spw70" .
+<m.0j_7v3d> <sports.sports_team_roster.position> "Midfielder" .
+<Football_player> <base.lightweight.profession.specialization_of> "Athletes and Sports Competitors" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<Deceased_Person> <freebase.type_hints.included_types> "Topic" .
+<Forward> <common.topic.webpage> "m.09y8x67" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<m.0d5fcww> <sports.pro_sports_played.sport> "Football" .
+<Ronaldo> <award.award_winner.awards_won> "m.0ln_16n" .
+<m.0b48241> <common.webpage.topic> "Forward" .
+<m.0tlmwwz> <film.performance.film> "Goal II: Living the Dream" .
+<m.0w0_5y0> <tv.tv_guest_role.special_performance_type> "Him/Herself" .
+<Paris_Saint-Germain_F.C.> <soccer.football_team.player_statistics> "m.0w9hk01" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<Porto_Alegre> <location.location.events> "2012 CLOSE – Festival Nacional de Cinema da Diversidade Sexual" .
+<Grêmio_Foot-Ball_Porto_Alegrense> <sports.sports_team.location> "Porto Alegre" .
+<Ronaldo> <tv.tv_program_guest.appeared_on> "m.0w8qjs3" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm3bq" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Liver_tumour> <medicine.disease.risk_factors> "Male" .
+<Country> <freebase.type_profile.published> "Published" .
+<Pontifícia_Universidade_Católica_do_Rio_Grande_do_Sul> <location.location.containedby> "Porto Alegre" .
+<Australian_rules_football_player> <common.topic.notable_types> "Profession" .
+<m.0bnt66h> <common.webpage.topic> "Ronaldo" .
+<Athlete> <freebase.type_profile.equivalent_topic> "Athlete" .
+<2006_Laureus_World_Sports_Awards> <award.award_ceremony.nominees> "m.0z06yd0" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Ronaldinho> <soccer.football_player.statistics> "m.0w9hj_t" .
+<Porto_Alegre> <location.location.events> "2011 Fantaspoa Film Festival" .
+<Ballon_d'Or> <award.award_category.winners> "m.0hzxmhb" .
+<m.0nh6zly> <sports.sports_team_roster.player> "Ronaldo" .
+<Hypospadias> <medicine.disease.risk_factors> "Male" .
+<m.0kfsn12> <award.award_honor.award> "FIFA 100" .
+<Ronaldinho> <people.person.places_lived> "m.03pt5v9" .
+<Football_player> <type.type.properties> "Number of International Goals" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0w0ngpt" .
+<Deisi_de_Assis_Moreira> <people.person.parents> "João de Assis Moreira" .
+<Football_player> <common.topic.notable_types> "Profession" .
+<Midfielder> <common.topic.article> "m.02nzbj" .
+<m.0h27bfj> <sports.sports_team_roster.position> "Midfielder" .
+<Spouse> <owl#inverseOf> "Spouse (or domestic partner)" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Cidade Baixa, Porto Alegre" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "São João, Porto Alegre" .
+<m.0j_7v3d> <sports.sports_team_roster.team> "Clube Atlético Mineiro" .
+<Roberto_de_Assis_Moreira> <people.person.place_of_birth> "Porto Alegre" .
+<Myocardial_Ischemia> <medicine.disease.risk_factors> "Male" .
+<Person> <type.type.properties> "Education" .
+<Ronaldo> <people.person.spouse_s> "m.0zwdwrt" .
+<Porto_Alegre> <location.location.contains> "g.121wccf7" .
+<m.0y4tmgb> <film.performance.actor> "Ronaldinho" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01150npz" .
+<Aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Multiple_myeloma> <medicine.disease.risk_factors> "Male" .
+<Height> <rdf-schema#domain> "Person" .
+<m.0r9mccp> <base.schemastaging.athlete_salary.team> "Clube Atlético Mineiro" .
+<Dona_Miguelina_Elói_Assis_dos_Santos> <people.person.gender> "Female" .
+<Deisi_de_Assis_Moreira> <people.person.sibling_s> "m.04g56g2" .
+<m.0j51772> <people.sibling_relationship.sibling> "Roberto de Assis Moreira" .
+<Porto_Alegre> <common.topic.image> "1 - Porto Alegre" .
+<m.011qx677> <freebase.valuenotation.has_no_value> "To" .
+<Place_of_birth> <owl#inverseOf> "People born here" .
+<Myocardial_Ischemia> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Corneal_abrasion> <medicine.disease.risk_factors> "Male" .
+<Ronaldo> <soccer.football_player.goals_scored> "m.0bg7169" .
+<Brazil> <base.aareas.schema.administrative_area.administrative_children> "Rio Grande do Sul" .
+<Ronaldinho> <freebase.valuenotation.has_value> "Education" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<João_de_Assis_Moreira> <people.person.parents> "Ronaldinho" .
+<Forward> <common.topic.webpage> "m.09w2q_3" .
+<Ronaldinho> <olympics.olympic_athlete.country> "m.0w0_26t" .
+<m.0123wrqk> <sports.sports_team_roster.position> "Forward" .
+<Gender> <rdf-schema#domain> "Person" .
+<Seborrheic_dermatitis> <medicine.disease.symptoms> "Hair loss" .
+<Ronaldo> <film.person_or_entity_appearing_in_film.films> "m.0ygkwfb" .
+<Ronaldo> <film.person_or_entity_appearing_in_film.films> "m.0xnfd9h" .
+<m.09w2q_3> <common.webpage.topic> "Forward" .
+<m.0nh6z71> <sports.sports_team_roster.player> "Ronaldo" .
+<m.0jvvhg9> <location.administrative_division_capital_relationship.capital> "Porto Alegre" .
+<Porto_Alegre> <location.location.nearby_airports> "Canoas Airport" .
+<Salgado_Filho_International_Airport> <location.location.containedby> "Brazil" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<m.0ln_16n> <award.award_honor.award> "FIFA World Player of the Year" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<m.0y4tmgb> <film.performance.special_performance_type> "Him/Herself" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0w0nj19" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011nhv33" .
+<Parents> <type.property.reverse_property> "Children" .
+<Ronaldo> <people.person.children> "Ronald Nazário de Lima" .
+<m.09yfnh5> <common.webpage.topic> "Forward" .
+<Athlete> <freebase.type_hints.included_types> "Topic" .
+<Universidade_Federal_de_Ciências_da_Saúde_de_Porto_Alegre> <education.educational_institution.campuses> "Universidade Federal de Ciências da Saúde de Porto Alegre" .
+<m.0y8b85j> <freebase.valuenotation.has_no_value> "Winning work" .
+<Ronaldo> <sports.pro_athlete.teams> "m.0nh6z71" .
+<Alexander_Nazário_de_Lima> <people.person.parents> "Ronaldo" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0r5j744" .
+<Ronaldo> <award.award_nominee.award_nominations> "m.0z5jjwy" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Azenha" .
+<m.0j50jkw> <measurement_unit.dated_money_value.source> "therichest.org" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "São Geraldo, Porto Alegre" .
+<Forward> <common.topic.webpage> "m.09y1l4x" .
+<Ronaldo> <people.person.spouse_s> "m.0zwdwkc" .
+<Football_player> <common.topic.notable_for> "g.125fgx11_" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<Best_Soccer_Player_ESPY_Award> <award.award_category.nominees> "m.0z77xwk" .
+<Midfielder> <sports.sports_position.sport> "Football" .
+<Actinic_keratosis> <medicine.disease.risk_factors> "Male" .
+<Deisi_de_Assis_Moreira> <people.person.parents> "Dona Miguelina Elói Assis dos Santos" .
+<m.0bg7169> <soccer.football_goal.point_awarded_to> "Brazil national football team" .
+<People_born_here> <type.property.schema> "Location" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<FIFA_World_Player_of_the_Year> <award.award_category.nominees> "m.0z4trvh" .
+<m.0w0_t86> <tv.tv_guest_personal_appearance.appearance_type> "Him/Herself" .
+<Universidade_Federal_do_Rio_Grande_do_Sul> <location.location.containedby> "Brazil" .
+<Ronaldinho> <base.schemastaging.athlete_extra.salary> "m.0j516qc" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010k_wpk" .
+<m.0j_7v31> <sports.sports_team_roster.player> "Ronaldinho" .
+<Person> <type.type.properties> "Gender" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsn12" .
+<João_de_Assis_Moreira> <common.topic.notable_for> "g.12566hvjh" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<Ronaldinho> <award.award_nominee.award_nominations> "m.0z5c_n7" .
+<Sônia_dos_Santos_Barata> <people.person.gender> "Female" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011cm96d" .
+<m.0nh6z71> <freebase.valuenotation.has_value> "Number" .
+<m.0w0nj19> <award.award_honor.award_winner> "Ronaldinho" .
+<Maria_Sophia_Nazário_de_Lima> <common.topic.notable_types> "Person" .
+<m.0hzxm9z> <award.award_honor.award_winner> "Ronaldinho" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0y4tyyh" .
+<Forward> <common.topic.webpage> "m.09yfbzc" .
+<m.0kfsm_r> <award.award_honor.award_winner> "Ronaldo" .
+<Ronaldo> <tv.tv_actor.starring_roles> "m.0w1h402" .
+<m.011sgjvc> <base.schemastaging.athlete_salary.currency> "United States Dollar" .
+<Soccer_Player> <common.topic.notable_types> "Profession" .
+<Forward> <common.topic.webpage> "m.09y0cx8" .
+<Student> <rdf-schema#range> "Person" .
+<Ronaldo> <award.award_winner.awards_won> "m.0z3whkn" .
+<m.09wkysw> <common.webpage.topic> "Forward" .
+<Porto_Alegre> <location.capital_of_administrative_division.capital_of> "m.0jvvhg9" .
+<Porto_Alegre> <location.location.contains> "Praia de Belas" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Santa Maria Goretti, Rio Grande do Sul" .
+<Dona_Miguelina_Elói_Assis_dos_Santos> <freebase.valuenotation.has_value> "Country of nationality" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h36x8" .
+<m.0j516qc> <base.schemastaging.athlete_salary.currency> "United States Dollar" .
+<m.0w1gvvq> <film.performance.actor> "Ronaldo" .
+<Porto_Alegre> <common.topic.notable_types> "Administrative Division" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Teresópolis, Rio Grande do Sul" .
+<Canadian_football_player> <people.profession.specialization_of> "Football player" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<Roberto_de_Assis_Moreira> <soccer.football_player.position_s> "Midfielder" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0y4tyxr" .
+<Dona_Miguelina_Elói_Assis_dos_Santos> <common.topic.notable_types> "Person" .
+<m.0nh6z71> <sports.sports_team_roster.position> "Forward" .
+<Rio_Grande_do_Sul> <location.administrative_division.capital> "m.0jvvhg9" .
+<Porto_Alegre> <location.location.events> "2012 Fantaspoa Film Festival" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsm_8" .
+<m.0y4tvf1> <award.award_honor.award_winner> "Ronaldinho" .
+<Ronaldinho> <award.award_nominee.award_nominations> "m.0z4xp9n" .
+<Centro_Universitário_Ritter_dos_Reis> <location.location.containedby> "Porto Alegre" .
+<Forward> <common.topic.article> "m.027crf" .
+<Syphilis> <medicine.disease.symptoms> "Hair loss" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Restinga, Porto Alegre" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Pedra Redonda" .
+<m.0y4tvf1> <award.award_honor.award> "FIFA 100" .
+<Porto_Alegre> <business.employer.employees> "m.04dwjg4" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Moinhos de Vento" .
+<m.0nh6z4r> <sports.sports_team_roster.player> "Ronaldo" .
+<m.09ytlx7> <common.webpage.topic> "Forward" .
+<m.0ygkxjd> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<FIFA_World_Player_of_the_Year> <award.award_category.nominees> "m.0z4krg2" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Female" .
+<m.0nh6zly> <sports.sports_team_roster.position> "Forward" .
+<João_de_Assis_Moreira> <people.person.gender> "Male" .
+<Brazil_national_football_team> <sports.sports_team.roster> "m.0z3wkzk" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Lisa_Collins> <people.person.profession> "Actor" .
+<FIFA_World_Player_of_the_Year> <award.award_category.winners> "m.0w0ngm7" .
+<Canadian_football_player> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Porto_Alegre> <location.location.contains> "Arena do Grêmio" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<João_de_Assis_Moreira> <freebase.valuenotation.has_value> "Country of nationality" .
+<Campions!!!> <film.film.starring> "m.0y4tm7k" .
+<m.0z5jjwy> <freebase.valuenotation.has_no_value> "Nominated work" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<Ronaldinho> <freebase.valuenotation.has_no_value> "Spouse (or domestic partner)" .
+<m.0nh70kl> <people.marriage.spouse> "Ronaldo" .
+<Roberto_de_Assis_Moreira> <people.person.sibling_s> "m.0j51772" .
+<Lisa_Collins> <people.person.gender> "Female" .
+<m.0j3_kkz> <sports.sports_team_roster.team> "Brazil national football team" .
+<Brazil> <olympics.olympic_participating_country.medals_won> "m.09kkgf5" .
+<Myocardial_Ischemia> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<m.0y4txhf> <award.award_honor.award_winner> "Ronaldinho" .
+<Country_of_nationality> <type.property.schema> "Person" .
+<Ronaldinho> <people.person.religion> "Catholicism" .
+<Gender> <type.property.schema> "Person" .
+<m.0nh6zly> <freebase.valuenotation.has_value> "Number" .
+<m.0123wrqk> <sports.sports_team_roster.player> "Ronaldinho" .
+<Football_player> <type.type.expected_by> "Player" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<FIFA_World_Player_of_the_Year> <award.award_category.winners> "m.0kfsn0w" .
+<Seborrheic_dermatitis> <medicine.symptom.symptom_of> "Parkinson's disease" .
+<Forward> <common.topic.webpage> "m.09w2mrd" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<Profession> <freebase.type_profile.strict_included_types> "Topic" .
+<Person> <type.type.properties> "Date of birth" .
+<Football_player> <type.type.properties> "Number of International Appearances" .
+<Ronaldo> <people.person.place_of_birth> "Rio de Janeiro" .
+<Ronaldinho> <people.person.places_lived> "m.03ps28r" .
+<m.0r9mccp> <base.schemastaging.athlete_salary.athlete> "Ronaldinho" .
+<Deisi_de_Assis_Moreira> <freebase.valuenotation.has_value> "Date of birth" .
+<Student> <type.property.schema> "Education" .
+<m.0h27bfj> <sports.sports_team_roster.team> "Clube de Regatas do Flamengo" .
+<m.09wvmyh> <common.webpage.topic> "Forward" .
+<m.0bg716j> <soccer.football_goal.scorer> "Ronaldo" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Maria_Alice_Nazário_de_Lima> <people.person.gender> "Female" .
+<Midfielder> <common.topic.notable_for> "g.1258z_bzd" .
+<Universidade_Federal_do_Rio_Grande_do_Sul> <education.educational_institution.campuses> "Universidade Federal do Rio Grande do Sul" .
+<m.03pt5v9> <people.place_lived.person> "Ronaldinho" .
+<m.0z81jkt> <award.award_honor.award_winner> "Ronaldo" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<Una_nit_irrepetible> <film.film.starring> "m.0y4tmzx" .
+<João_de_Assis_Moreira> <freebase.valuenotation.has_value> "Date of birth" .
+<Ronaldinho> <common.topic.image> "Ronaldinho bored" .
+<Pontifícia_Universidade_Católica_do_Rio_Grande_do_Sul> <education.educational_institution.campuses> "Pontifical Catholic University of Rio Grande do Sul, main campus" .
+<Rio_de_Janeiro> <common.topic.notable_types> "Administrative Division" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsmyg" .
+<Transient_ischemic_attack> <medicine.disease.risk_factors> "Male" .
+<Retroperitoneal_fibrosis> <medicine.disease.risk_factors> "Male" .
+<m.0w0ngm7> <award.award_honor.award> "FIFA World Player of the Year" .
+<Ronaldo> <award.award_winner.awards_won> "m.0ln_864" .
+<m.0y4tq45> <film.performance.actor> "Ronaldinho" .
+<m.0zwdwrt> <people.marriage.spouse> "Ronaldo" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsmzt" .
+<Location> <freebase.type_profile.published> "Published" .
+<m.09y38j5> <common.webpage.topic> "Forward" .
+<m.0z51b35> <award.award_nomination.award> "FIFA World Player of the Year" .
+<m.0w9db76> <soccer.football_player_stats.player> "Ronaldinho" .
+<Maria_Alice_Nazário_de_Lima> <people.person.nationality> "Brazil" .
+<Clube_Atlético_Mineiro> <sports.sports_team.sport> "Football" .
+<m.0w2yf1t> <tv.tv_regular_personal_appearance.person> "Ronaldo" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011jxhnr" .
+<m.0w0_t86> <tv.tv_guest_personal_appearance.episode> "Episode #1.18" .
+<UEFA_Team_of_the_Year> <award.award_category.winners> "m.0y4tyn9" .
+<Profession> <freebase.type_profile.published> "Published" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Bela Vista, Rio Grande do Sul" .
+<m.0zs_lqj> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0tl0h1y> <film.performance.actor> "Ronaldo" .
+<João_de_Assis_Moreira> <people.person.children> "Roberto de Assis Moreira" .
+<Nélio_Nazário_de_Lima,_Snr> <people.person.children> "Ronaldo" .
+<Rio_de_Janeiro> <location.administrative_division.second_level_division_of> "Brazil" .
+<Gastritis> <medicine.disease.risk_factors> "Male" .
+<ZasPorn> <common.topic.subject_of> "Female" .
+<Seborrheic_dermatitis> <medicine.disease.risk_factors> "Male" .
+<m.05v8_tk> <people.marriage.spouse> "Ronaldo" .
+<m.0w0_5y0> <tv.tv_guest_role.episodes_appeared_in> "Episode #1.48" .
+<Pontifical_Catholic_University_of_Rio_Grande_do_Sul,_main_campus> <education.educational_institution_campus.educational_institution> "Pontifícia Universidade Católica do Rio Grande do Sul" .
+<Lisa_Collins> <base.popstra.celebrity.canoodled> "m.0652sp6" .
+<Vive_Targi_Kielce> <sports.sports_team.gender> "Male" .
+<Hair_loss> <medicine.risk_factor.diseases> "Stroke" .
+<Football_player> <visual_art.art_subject.artwork_on_the_subject> "Dynamism of a Soccer Player" .
+<Place_of_birth> <type.property.reverse_property> "People born here" .
+<m.0z5g7sh> <award.award_honor.ceremony> "2006 ESPY Awards" .
+<m.0z81jkt> <freebase.valuenotation.has_no_value> "Winning work" .
+<Porto_Alegre> <location.administrative_division.second_level_division_of> "Brazil" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<Student> <rdf-schema#domain> "Education" .
+<m.0z5hy7v> <award.award_nomination.award> "FIFA World Player of the Year" .
+<Lisa_Collins> <freebase.valuenotation.has_value> "Parents" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0y4txhf" .
+<m.0z5jjwy> <award.award_nomination.award_nominee> "Ronaldo" .
+<m.0w0ngm7> <award.award_honor.ceremony> "2004 FIFA World Player of the Year" .
+<m.0y8b85j> <freebase.valuenotation.has_value> "Ceremony" .
+<Football_player> <type.type.expected_by> "Soccer Players" .
+<Universidade_Federal_do_Rio_Grande_do_Sul> <location.location.containedby> "Porto Alegre" .
+<Profession> <freebase.type_hints.included_types> "Topic" .
+<Ronaldo> <film.actor.film> "m.0w1gvvq" .
+<Date_of_birth> <rdf-schema#range> "Date/Time" .
+<Ronaldo> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<Ronaldo> <soccer.football_player.statistics> "m.0w9ntpb" .
+<Rio_de_Janeiro> <sports.sports_team_location.teams> "Clube de Regatas do Flamengo" .
+<Forward> <common.topic.webpage> "m.09x_vnh" .
+<m.0y4tylm> <award.award_honor.award> "UEFA Team of the Year" .
+<m.0w0_vys> <tv.tv_guest_personal_appearance.appearance_type> "Him/Herself" .
+<m.0z4xp9n> <award.award_nomination.award_nominee> "Ronaldinho" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Bom Fim" .
+<Porto_Alegre> <location.location.events> "2009 Fantaspoa Film Festival" .
+<Best_International_Athlete_ESPY_Award> <award.award_category.nominees> "m.0z5c_n7" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.012bb56z" .
+<m.0j516qc> <base.schemastaging.athlete_salary.team> "Clube de Regatas do Flamengo" .
+<A.C._Milan> <soccer.football_team.player_statistics> "m.0w9ntq_" .
+<m.0z5c_n7> <award.award_nomination.award> "Best International Athlete ESPY Award" .
+<Sport_Club_Internacional> <sports.sports_team.arena_stadium> "Estádio Beira-Rio" .
+<Ronaldinho_Pictures> <common.resource.annotations> "m.0d1y8kn" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm3cv" .
+<Porto_Alegre> <location.location.events> "2011 Cine Esquema Novo" .
+<m.0ln_96t> <freebase.valuenotation.has_no_value> "Winning work" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<Male> <common.topic.article> "m.05zpq8" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065t4h" .
+<Lisa_Collins> <freebase.valuenotation.has_value> "Place of birth" .
+<Football_player> <common.topic.article> "m.02ktm6x" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h36jw" .
+<Brazil> <olympics.olympic_participating_country.medals_won> "m.0w0_22f" .
+<Person> <freebase.type_profile.published> "Published" .
+<m.0ln_85x> <award.award_honor.award_winner> "Ronaldo" .
+<Ventricular_tachycardia> <medicine.symptom.symptom_of> "heart attack" .
+<m.0y4rn1f> <film.performance.special_performance_type> "Him/Herself" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Emphysema> <medicine.disease.risk_factors> "Male" .
+<FIFA_World_Player_of_the_Year> <award.award.category> "FIFA World Player of the Year" .
+<Kawasaki_disease> <medicine.disease.risk_factors> "Male" .
+<m.0kfsmzt> <award.award_honor.award_winner> "Ronaldo" .
+<m.0ygl33_> <film.performance.actor> "Ronaldo" .
+<Position(s)> <type.property.expected_type> "Football Position" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<Dona_Miguelina_Elói_Assis_dos_Santos> <people.person.profession> "Sales management" .
+<Alexander_Nazário_de_Lima> <freebase.valuenotation.has_value> "Country of nationality" .
+<m.09x_372> <common.webpage.topic> "Forward" .
+<Antisocial_personality_disorder> <medicine.disease.risk_factors> "Male" .
+<Forward> <common.topic.webpage> "m.09wvxvh" .
+<Ballon_d'Or> <award.award_category.disciplines_or_subjects> "Football" .
+<m.09nbhtl> <tv.tv_guest_role.actor> "Ronaldo" .
+<Porto_Alegre> <location.statistical_region.population> "m.0nhf8qn" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<Ronaldo> <film.actor.film> "m.0y4rn1f" .
+<m.0kfsmx_> <award.award_honor.award_winner> "Ronaldo" .
+<Porto_Alegre> <location.location.events> "2007 Cine Esquema Novo" .
+<Football_player> <type.type.properties> "Loans" .
+<Universidade_Federal_de_Ciências_da_Saúde_de_Porto_Alegre> <education.educational_institution_campus.educational_institution> "Universidade Federal de Ciências da Saúde de Porto Alegre" .
+<Hodgkin's_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Porto_Alegre> <location.location.containedby> "Rio Grande do Sul" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Menino Deus" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Jardim Floresta, Rio Grande do Sul" .
+<m.0z4trvh> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0z5jjwy> <award.award_nomination.award> "FIFA World Player of the Year" .
+<m.0z4krg2> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Football_Position> <type.type.properties> "Players" .
+<m.0w0_26t> <olympics.olympic_athlete_affiliation.country> "Brazil" .
+<Ronaldinho> <award.award_nominee.award_nominations> "m.0z4trvh" .
+<Forward> <common.topic.webpage> "m.09w7p24" .
+<Goal_II:_Living_the_Dream> <film.film.subjects> "Football" .
+<Ronaldinho_bored> <common.image.appears_in_topic_gallery> "Golden Foot" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<m.0nh352d> <people.marriage.spouse> "Ronaldo" .
+<Ronaldinho> <olympics.olympic_athlete.medals_won> "m.0w0_22f" .
+<Rio_Grande_do_Sul> <base.aareas.schema.administrative_area.administrative_parent> "Brazil" .
+<Golden_Foot> <award.award_category.winners> "m.0kfsm_r" .
+<Student> <type.property.expected_type> "Person" .
+<m.0kfsmz1> <award.award_honor.award_winner> "Ronaldo" .
+<Ronaldo> <people.person.profession> "Actor" .
+<Ronaldo> <film.actor.film> "m.0ygl33_" .
+<ZasPorn> <common.topic.subject_of> "Male" .
+<Rio_de_Janeiro> <location.location.containedby> "Brazil" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<Ronaldo> <people.person.profession> "Football player" .
+<Transient_ischemic_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Ronaldinho> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Australian_rules_football_player> <people.profession.specialization_of> "Athlete" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h36z1" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h367k" .
+<Santa_Cruz_de_Tenerife> <location.location.containedby> "Porto Alegre" .
+<m.0j3_kkz> <sports.sports_team_roster.position> "Midfielder" .
+<Rio_Grande_do_Sul_Federal_Institute_of_Education,_Science_and_Technology> <location.location.containedby> "Brazil" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<Country_of_nationality> <type.property.expected_type> "Country" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h372t" .
+<FIFA_World_Player_of_the_Year> <award.award_category.nominees> "m.0z5jjwy" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Tristeza, Rio Grande do Sul" .
+<m.0y4tq45> <film.performance.film> "Shooting Stars" .
+<m.0zs_lqj> <film.personal_film_appearance.film> "Your Life in 65" .
+<m.0w8qjs3> <tv.tv_guest_personal_appearance.person> "Ronaldo" .
+<Administrative_Division> <freebase.type_hints.included_types> "Topic" .
+<m.0w0_t86> <tv.tv_guest_personal_appearance.person> "Ronaldinho" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<m.0y4tyxr> <award.award_honor.award_winner> "Ronaldinho" .
+<Football_player> <type.type.expected_by> "On" .
+<Ronaldinho> <people.person.gender> "Male" .
+<m.0hzxmhb> <freebase.valuenotation.has_no_value> "Ceremony" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<m.0w9ntpy> <soccer.football_player_stats.team> "FC Barcelona" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<Football_player> <common.topic.image> "2943494385_4fb6088a93_z.jpg" .
+<Your_Life_in_65> <film.film.personal_appearances> "m.0zs_lqj" .
+<Tetralogy_of_Fallot> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010j2g0z" .
+<m.0kfsn08> <award.award_honor.award_winner> "Ronaldo" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<João_de_Assis_Moreira> <people.person.gender> "Male" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Hair_loss> <medicine.symptom.symptom_of> "Ectodermal dysplasia" .
+<Porto_Alegre> <location.location.contains> "Universidade Federal de Ciências da Saúde de Porto Alegre" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Football> <sports.sport.positions> "Midfielder" .
+<Football> <award.award_discipline.awards_in_this_discipline> "Ballon d'Or" .
+<Universidade_Federal_de_Ciências_da_Saúde_de_Porto_Alegre> <location.location.containedby> "Porto Alegre" .
+<Football_player> <common.topic.image> "Football4" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<Estádio_Beira-Rio> <location.location.containedby> "Brazil" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Farroupilha, Porto Alegre" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.04dwjfx> <business.employment_tenure.company> "Porto Alegre" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010myvg_" .
+<Nélio_Nazário_de_Lima,_Snr> <people.person.gender> "Male" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Belém Velho" .
+<m.0kfsn0w> <freebase.valuenotation.has_no_value> "Winning work" .
+<m.0w0nj19> <award.award_honor.award> "Bola de Ouro" .
+<Non-Hodgkin_lymphoma> <medicine.disease.risk_factors> "Male" .
+<m.0nh6zbn> <sports.sports_team_roster.player> "Ronaldo" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<Ronaldo> <symbols.name_source.namesakes> "Ronaldinho" .
+<To> <rdf-schema#range> "Date/Time" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Independência, Porto Alegre" .
+<Football_Position> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0hzxmhb> <award.award_honor.award_winner> "Ronaldo" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065sh4" .
+<m.0j_7v2p> <sports.sports_team_roster.player> "Ronaldinho" .
+<FIFA_100> <award.award_category.winners> "m.0kfsn12" .
+<Ronaldo> <tv.tv_personality.tv_regular_appearances> "m.0w2yf1t" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<m.09w7p24> <common.webpage.topic> "Forward" .
+<Soccer> <type.domain.types> "Football player" .
+<Football_player> <freebase.type_hints.included_types> "Person" .
+<Hair_loss> <medicine.symptom.symptom_of> "Seborrheic dermatitis" .
+<Aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Person> <type.type.properties> "Parents" .
+<Ronaldinho> <base.schemastaging.person_extra.net_worth> "m.0j50jkw" .
+<Ronaldo> <award.award_nominee.award_nominations> "m.0z5hy7v" .
+<m.0y4sj0p> <film.performance.special_performance_type> "Him/Herself" .
+<Athlete> <freebase.type_profile.strict_included_types> "Topic" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<Porto_Alegre> <location.location.contains> "Estádio Olímpico Monumental" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<Ronaldo> <film.person_or_entity_appearing_in_film.films> "m.0ygkxjd" .
+<Bola_de_Ouro> <award.award_category.winners> "m.0w0nj19" .
+<m.0z51b35> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Football> <freebase.equivalent_topic.equivalent_domain> "Soccer" .
+<Forward> <common.topic.webpage> "m.09wkytz" .
+<Brazil> <common.topic.notable_types> "Country" .
+<Athlete> <people.profession.specializations> "Australian rules football player" .
+<Roberto_de_Assis_Moreira> <people.person.parents> "Dona Miguelina Elói Assis dos Santos" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Cavalhada" .
+<Ronald_Nazário_de_Lima> <people.person.parents> "Ronaldo" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<m.04g56g2> <people.sibling_relationship.sibling> "Ronaldinho" .
+<Porto_Alegre> <location.location.geolocation> "m.04yvcg3" .
+<Ronaldinho> <common.topic.webpage> "m.0d1y8kn" .
+<Place_of_birth> <type.property.schema> "Person" .
+<Pyloric_stenosis> <medicine.disease.risk_factors> "Male" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Belém Novo" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Santa Tereza, Porto Alegre" .
+<m.0w0ngm7> <freebase.valuenotation.has_no_value> "Winning work" .
+<Football_player> <people.profession.specializations> "Canadian football player" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Person" .
+<Ronaldinho> <soccer.football_player.statistics> "m.0w9hj_7" .
+<Sônia_dos_Santos_Barata> <common.topic.notable_types> "Person" .
+<Estádio_Beira-Rio> <sports.sports_facility.teams> "Sport Club Internacional" .
+<Museum_of_Science_and_Technology_(PUCRS)> <location.location.containedby> "Porto Alegre" .
+<Roberto_de_Assis_Moreira> <people.person.nationality> "Brazil" .
+<Ronaldo> <people.person.children> "Alexander Nazário de Lima" .
+<m.09wkytz> <common.webpage.topic> "Forward" .
+<male.jpg> <common.image.appears_in_topic_gallery> "Male" .
+<Spouse> <type.property.expected_type> "Person" .
+<Ronaldinho> <sports.pro_athlete.teams> "m.0j_7v3r" .
+<Brazil> <location.country.currency_used> "Brazilian real" .
+<Location> <type.type.properties> "People born here" .
+<People_born_here> <type.property.master_property> "Place of birth" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Petrópolis, Rio Grande do Sul" .
+<2006_FIFA_World_Player_of_the_Year> <award.award_ceremony.nominees> "m.0z4krg2" .
+<Ronaldo> <sports.pro_athlete.teams> "m.0nh6zfw" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<Ronaldo> <sports.pro_athlete.sports_played_professionally> "m.0d5fbjl" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010j2hw2" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010my_hd" .
+<Barça!_The_Inside_Story> <film.film.personal_appearances> "m.0y4tmwq" .
+<Ronaldinho> <soccer.football_player.statistics> "m.0w9db76" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0y4ty4t" .
+<Grêmio_Foot-Ball_Porto_Alegrense> <sports.sports_team.arena_stadium> "Arena do Grêmio" .
+<Porto_Alegre> <location.location.contains> "Gigantinho" .
+<m.0zwdwkc> <people.marriage.spouse> "Ronaldo" .
+<m.0y4tyn9> <award.award_honor.award_winner> "Ronaldinho" .
+<Sônia_dos_Santos_Barata> <freebase.valuenotation.has_value> "Parents" .
+<m.0w0ngm7> <award.award_honor.award_winner> "Ronaldinho" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<Porto_Alegre> <location.location.events> "2004 Cine Esquema Novo" .
+<neilplus's_types> <freebase.domain_profile.category> "Male" .
+<m.0tlmwwz> <film.performance.special_performance_type> "Uncredited" .
+<Porto_Alegre> <location.location.events> "2008 South American Under-20 Women's Football Championship" .
+<Ronaldo> <soccer.football_player.statistics> "m.0w8_xw6" .
+<m.0w9hk01> <soccer.football_player_stats.player> "Ronaldinho" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsmyp" .
+<Deisi_de_Assis_Moreira> <people.person.gender> "Female" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Football_player> <people.profession.specializations> "American football player" .
+<m.0hzxmgv> <award.award_honor.award_winner> "Ronaldo" .
+<m.0ln_16n> <freebase.valuenotation.has_no_value> "Winning work" .
+<m.0ln_16y> <award.award_honor.award_winner> "Ronaldo" .
+<Football_match.jpg> <common.image.appears_in_topic_gallery> "Football" .
+<Ronaldo> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Porto_Alegre> <sports.sports_team_location.teams> "Grêmio Foot-Ball Porto Alegrense" .
+<Porto_Alegre> <location.location.events> "2006 Cine Esquema Novo" .
+<Maria_Sophia_Nazário_de_Lima> <people.person.parents> "Ronaldo" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsm__" .
+<m.011qx677> <sports.sports_team_roster.position> "Midfielder" .
+<Universidade_Federal_de_Ciências_da_Saúde_de_Porto_Alegre> <location.location.containedby> "Rio Grande do Sul" .
+<Gout> <medicine.icd_9_cm_classification.includes_classifications> "Gout" .
+<Football_player> <type.type.expected_by> "FutbolcuAdi" .
+<m.04dwjfk> <business.employment_tenure.company> "Porto Alegre" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011qyg4d" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<2008_Summer_Olympics> <time.event.includes_event> "Football at the 2008 Summer Olympics" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<m.09y0cx8> <common.webpage.topic> "Forward" .
+<m.0jvvhg9> <location.administrative_division_capital_relationship.administrative_division> "Rio Grande do Sul" .
+<m.0z3whkn> <award.award_honor.award> "Laureus World Sports Award for Comeback of the Year" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Lami, Rio Grande do Sul" .
+<Brazil> <olympics.olympic_participating_country.olympics_participated_in> "2008 Summer Olympics" .
+<Brazil_national_football_team> <soccer.football_team.player_statistics> "m.0w9db76" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.0_z5vf9" .
+<Athlete's_foot> <medicine.disease.risk_factors> "Male" .
+<m.0652sp6> <base.popstra.canoodled.participant> "Lisa Collins" .
+<Goal_II:_Living_the_Dream> <media_common.netflix_title.netflix_genres> "Football" .
+<Porto_Alegre> <location.location.contains> "g.122cz_4f" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<m.0b6r89f> <common.webpage.category> "Tag" .
+<Ronaldinho> <sports.pro_athlete.teams> "m.011qx677" .
+<m.0w9ntq_> <soccer.football_player_stats.team> "A.C. Milan" .
+<Pontifícia_Universidade_Católica_do_Rio_Grande_do_Sul> <education.educational_institution_campus.educational_institution> "Pontifícia Universidade Católica do Rio Grande do Sul" .
+<Paget's_disease_of_bone> <medicine.disease.risk_factors> "Male" .
+<Copa_União> <time.event.locations> "Porto Alegre" .
+<Student> <type.property.reverse_property> "Education" .
+<FIFA_World_Player_of_the_Year> <award.award_category.category_of> "FIFA World Player of the Year" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Três Figueiras" .
+<m.0z4krg2> <award.award_nomination.award> "FIFA World Player of the Year" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Chácara das Pedras" .
+<m.0kfsmyg> <award.award_honor.award_winner> "Ronaldo" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<m.0w1018r> <film.personal_film_appearance.film> "Forbes Celebrity 100: Who Made Bank?" .
+<Urethritis> <medicine.disease.risk_factors> "Male" .
+<m.0kfsn0w> <award.award_honor.award> "FIFA World Player of the Year" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0w0njr1" .
+<Soccer_Player> <people.profession.specialization_of> "Athlete" .
+<Soccer_Player> <people.profession.specialization_of> "Football player" .
+<Ronaldo> <award.award_nominee.award_nominations> "m.0z4_d5_" .
+<Ronaldinho> <common.topic.image> "Ronaldinho061115" .
+<m.0ygkwfb> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0w9hj_t> <soccer.football_player_stats.team> "Clube Atlético Mineiro" .
+<Ronaldo> <common.topic.article> "m.0hhr5" .
+<Football_player> <type.type.properties> "Position(s)" .
+<Ronaldinho> <sports.pro_athlete.teams> "m.0j_7v3d" .
+<m.0z5g7sh> <freebase.valuenotation.has_no_value> "Winning work" .
+<m.0kfsm_8> <award.award_honor.award_winner> "Ronaldo" .
+<m.03l6my4> <common.webpage.topic> "Porto Alegre" .
+<m.0fq9tg7> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Ronaldo> <award.award_winner.awards_won> "m.0hzxmgv" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<Deisi_de_Assis_Moreira> <common.topic.notable_types> "Person" .
+<Lisa_Collins> <freebase.valuenotation.has_value> "Country of nationality" .
+<Ronaldo> <tv.tv_actor.starring_roles> "m.0nf3jmr" .
+<Sônia_dos_Santos_Barata> <freebase.valuenotation.has_value> "Date of birth" .
+<Athlete> <common.topic.notable_types> "Profession" .
+<UEFA_Club_Footballer_of_the_Year> <common.topic.image> "Ronaldinho061115" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Ronaldinho> <tv.tv_program_guest.appeared_on> "m.0w0_trj" .
+<m.0z5gbjm> <award.award_nomination.award> "Best Soccer Player ESPY Award" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<Ronaldinho> <film.person_or_entity_appearing_in_film.films> "m.0y4tmwq" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<m.0h27bfj> <sports.sports_team_roster.player> "Ronaldinho" .
+<m.0ygkxjd> <film.personal_film_appearance.person> "Ronaldo" .
+<m.0j_7v3d> <sports.sports_team_roster.player> "Ronaldinho" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Museum_of_Science_and_Technology_(PUCRS)> <location.location.containedby> "Brazil" .
+<João_de_Assis_Moreira> <freebase.valuenotation.has_value> "Place of birth" .
+<Multiple_myeloma> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Ronaldinho_bored> <common.image.size> "m.078mgph" .
+<Ronaldinho> <sports.pro_athlete.teams> "m.0j_7v2p" .
+<m.0y4tykm> <award.award_honor.award_winner> "Ronaldinho" .
+<m.0y4sj0p> <film.performance.actor> "Ronaldo" .
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Golfer's_elbow> <medicine.disease.risk_factors> "Male" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065gg7" .
+<m.0z5gbjm> <award.award_nomination.ceremony> "2006 ESPY Awards" .
+<Centro_Universitário_Ritter_dos_Reis> <location.location.containedby> "Rio Grande do Sul" .
+<Club_foot> <medicine.disease.risk_factors> "Male" .
+<m.0w9ntpy> <soccer.football_player_stats.player> "Ronaldo" .
+<m.052b2p8> <sports.sports_team_roster.position> "Forward" .
+<Forward> <common.topic.webpage> "m.09xs63n" .
+<João_de_Assis_Moreira> <common.topic.notable_types> "Person" .
+<People_born_here> <rdf-schema#range> "Person" .
+<Deceased_Person> <freebase.type_hints.included_types> "Person" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<Education> <rdf-schema#domain> "Person" .
+<m.0ygkwfb> <film.personal_film_appearance.person> "Ronaldo" .
+<Ballon_d'Or> <award.award_category.winners> "m.0hzxmgv" .
+<Football> <sports.sport.positions> "Forward" .
+<Place_of_birth> <rdf-schema#domain> "Person" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<Parents> <owl#inverseOf> "Children" .
+<Ronaldo> <freebase.valuenotation.is_reviewed> "Parents" .
+<m.0w9ntpn> <soccer.football_player_stats.player> "Ronaldo" .
+<Football_Position> <type.type.domain> "Soccer" .
+<Midfielder> <common.topic.notable_types> "Football Position" .
+<Ronaldinho> <film.actor.film> "m.0y4tmzx" .
+<Date_of_birth> <rdf-schema#domain> "Person" .
+<m.0tlmwwz> <film.performance.special_performance_type> "Him/Herself" .
+<m.0kfsm__> <award.award_honor.award> "Trofeo EFE" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Porto_Alegre> <organization.organization_scope.organizations_with_this_scope> "Rio Grande do Sul Federal Institute of Education, Science and Technology" .
+<m.0hzxm9z> <freebase.valuenotation.has_no_value> "Ceremony" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<m.0z4_d5_> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Forward> <common.topic.webpage> "m.09ytlx7" .
+<m.0w0njr1> <award.award_honor.award_winner> "Ronaldinho" .
+<Porto_Alegre> <location.location.contains> "g.1230pjlc" .
+<m.09kkgf5> <olympics.olympic_medal_honor.country> "Brazil" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<m.0z4trvh> <award.award_nomination.award_nominee> "Ronaldinho" .
+<Football_player> <freebase.documented_object.documentation> "m.02ktm6x" .
+<Ronaldo> <people.person.religion> "Catholicism" .
+<Ronaldo> <soccer.football_player.statistics> "m.0w9ntq6" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.0z3wkzk> <freebase.valuenotation.has_value> "Number" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<m.0tl0h1y> <film.performance.film> "Goal II: Living the Dream" .
+<m.0w0ngpt> <award.award_honor.award_winner> "Ronaldinho" .
+<Deceased_Person> <freebase.type_profile.published> "Published" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<m.0bg716j> <soccer.football_goal.point_awarded_to> "Brazil national football team" .
+<m.0zs_lqj> <film.personal_film_appearance.person> "Ronaldinho" .
+<Person> <type.type.properties> "Country of nationality" .
+<Gender> <rdf-schema#range> "Gender" .
+<m.0z81jqw> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Floresta, Rio Grande do Sul" .
+<m.0w9ntqq> <soccer.football_player_stats.player> "Ronaldo" .
+<Ronaldinho061115> <common.image.appears_in_topic_gallery> "Ronaldinho" .
+<Ronaldinho> <symbols.namesake.named_after> "Ronaldo" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Vila Ipiranga" .
+<Football_player> <type.type.expected_by> "Player" .
+<m.0w9hk0b> <soccer.football_player_stats.team> "FC Barcelona" .
+<Female> <medicine.risk_factor.diseases> "Kyphosis" .
+<Sônia_dos_Santos_Barata> <freebase.valuenotation.has_value> "Place of birth" .
+<m.052b2p8> <sports.sports_team_roster.player> "Ronaldo" .
+<Males> <base.skosbase.skos_concept.equivalent_topic> "Male" .
+<Football_player> <freebase.equivalent_topic.equivalent_type> "Football player" .
+<m.0z06yd0> <award.award_nomination.award_nominee> "Ronaldinho" .
+<m.0z06yd0> <award.award_nomination.ceremony> "2006 Laureus World Sports Awards" .
+<Ronaldo> <award.award_winner.awards_won> "m.0ln_96t" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Jardim do Salso" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Santa Cecília, Porto Alegre" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Jardim Lindoia" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsn0w" .
+<m.0z4xp9n> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Forward> <common.topic.webpage> "m.0b48241" .
+<m.09kkgf5> <olympics.olympic_medal_honor.medalist> "Ronaldo" .
+<Place_of_birth> <rdf-schema#range> "Location" .
+<Football_player> <freebase.type_profile.published> "Published" .
+<Ronaldo> <soccer.football_player.statistics> "m.0w9ntpy" .
+<Athletes_and_Sports_Competitors> <base.lightweight.profession.specialization> "Football player" .
+<Porto_Alegre> <location.location.contains> "g.1239jqv2" .
+<Porto_Alegre> <location.location.events> "2012 Cine Esquema Novo" .
+<Ronaldo> <people.person.parents> "Sônia dos Santos Barata" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<Athlete> <people.profession.specializations> "Football player" .
+<Ronaldinho> <award.award_nominee.award_nominations> "m.0z4krg2" .
+<Spouse> <rdf-schema#domain> "Marriage" .
+<m.0w0_22f> <olympics.olympic_medal_honor.medalist> "Ronaldinho" .
+<m.0hzxm9z> <award.award_honor.award> "Ballon d'Or" .
+<João_de_Assis_Moreira> <freebase.valuenotation.has_value> "Country of nationality" .
+<Kyphosis> <medicine.disease.risk_factors> "Female" .
+<Person> <type.type.properties> "Children" .
+<m.0w0_0_7> <olympics.olympic_athlete_affiliation.olympics> "2000 Summer Olympics" .
+<m.09ywn05> <common.webpage.topic> "Forward" .
+<396px-Boisko_PositionsMidfield> <common.image.appears_in_topic_gallery> "Midfielder" .
+<m.0w0_5y0> <tv.tv_guest_role.actor> "Ronaldinho" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Auxiliadora, Rio Grande do Sul" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0z4_d5_> <award.award_nomination.award> "FIFA World Player of the Year" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Dona_Miguelina_Elói_Assis_dos_Santos> <freebase.valuenotation.has_value> "Place of birth" .
+<m.0w0_22f> <olympics.olympic_medal_honor.country> "Brazil" .
+<m.0nh6zfw> <freebase.valuenotation.has_value> "Number" .
+<Soccer> <freebase.domain_profile.equivalent_topic> "Football" .
+<Ronaldo> <sports.pro_athlete.teams> "m.0nh6zs0" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065gf2" .
+<Porto_Alegre> <location.location.contains> "g.11vdhf7q1" .
+<m.0ln_bdb> <award.award_honor.award> "Trofeo EFE" .
+<Ronaldinho> <base.x2010fifaworldcupsouthafrica.world_cup_participant.world_cup_team> "m.0c03xng" .
+<m.0y4tyn9> <award.award_honor.award> "UEFA Team of the Year" .
+<Ronaldo> <common.topic.webpage> "m.0bnt66h" .
+<m.0z5jt6n> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0z3wkzk> <sports.sports_team_roster.team> "Brazil national football team" .
+<UEFA_Club_Footballer_of_the_Year> <award.award_category.winners> "m.0kfsm_8" .
+<m.0wkwptn> <people.place_lived.person> "Ronaldo" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Boa Vista, Rio Grande do Sul" .
+<Ronaldinho> <soccer.football_player.statistics> "m.0w9hj_j" .
+<Children> <type.property.schema> "Person" .
+<Spouse_(or_domestic_partner)> <rdf-schema#range> "Marriage" .
+<Porto_Alegre> <location.location.contains> "g.122mkxk6" .
+<m.0z3whsp> <award.award_nomination.award_nominee> "Ronaldo" .
+<m.09wvxvh> <common.webpage.topic> "Forward" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Medianeira, Rio Grande do Sul" .
+<Ronaldinho> <sports.pro_athlete.teams> "m.0123wrqk" .
+<Forward> <common.topic.webpage> "m.09wvmyh" .
+<João_de_Assis_Moreira> <people.person.children> "Ronaldinho" .
+<m.0z77xwk> <award.award_nomination.award> "Best Soccer Player ESPY Award" .
+<Ronald_Nazário_de_Lima> <common.topic.notable_types> "Person" .
+<Ronaldo> <base.ontologies.ontology_instance.equivalent_instances> "m.09kmdzf" .
+<Pontifical_Catholic_University_of_Rio_Grande_do_Sul,_main_campus> <location.location.containedby> "Rio Grande do Sul" .
+<Trofeo_EFE> <award.award_category.winners> "m.0ln_bdb" .
+<m.0nh6zfw> <sports.sports_team_roster.player> "Ronaldo" .
+<m.0nh6zs0> <sports.sports_team_roster.team> "A.C. Milan" .
+<Laureus_World_Sports_Award_for_Sportsman_of_the_Year> <award.award_category.nominees> "m.0z06yd0" .
+<Children> <rdf-schema#domain> "Person" .
+<Porto_Alegre> <location.location.events> "1958 Men's South American Volleyball Championship" .
+<FIFA_World_Player_of_the_Year> <award.award_category.disciplines_or_subjects> "Football" .
+<Football_player> <freebase.type_profile.strict_included_types> "Athlete" .
+<Administrative_Division> <freebase.type_profile.published> "Published" .
+<Forward> <common.topic.notable_for> "g.125d8f2bb" .
+<Risk_Factor> <freebase.type_profile.strict_included_types> "Topic" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<Porto_Alegre> <location.location.events> "2006 Fantaspoa Film Festival" .
+<American_football_player> <common.topic.notable_types> "Profession" .
+<Position(s)> <type.property.reverse_property> "Players" .
+<m.03pt5v9> <people.place_lived.location> "Rio Grande do Sul" .
+<Porto_Alegre> <location.location.contains> "g.1211rcc5" .
+<Nélio_Nazário_de_Lima,_Snr> <common.topic.notable_types> "Person" .
+<m.0z77xwk> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0z5hy7v> <award.award_nomination.award_nominee> "Ronaldo" .
+<m.0y4tywr> <award.award_honor.award_winner> "Ronaldinho" .
+<m.0y4tmwq> <film.personal_film_appearance.person> "Ronaldinho" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<m.0y4tmwq> <film.personal_film_appearance.film> "Barça! The Inside Story" .
+<Football> <film.film_subject.films> "Goal II: Living the Dream" .
+<FIFA_World_Player_of_the_Year> <award.award_category.winners> "m.0ln_16y" .
+<Australian_rules_football_player> <people.profession.specialization_of> "Football player" .
+<Parents> <rdf-schema#range> "Person" .
+<m.0w0_trj> <tv.tv_guest_personal_appearance.episode> "Episode #2.17" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<m.0y88yzn> <freebase.valuenotation.has_value> "Ceremony" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Ronaldo> <film.actor.film> "m.0ygl3cs" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsn08" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<To> <rdf-schema#range> "Date/Time" .
+<Ronaldinho> <tv.tv_program_guest.appeared_on> "m.0w0_t86" .
+<Spouse_(or_domestic_partner)> <type.property.master_property> "Spouse" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<m.0y4tm7k> <film.performance.film> "Campions!!!" .
+<FIFA_World_Player_of_the_Year> <award.award_category.nominees> "m.0z51b35" .
+<Ronaldinho> <olympics.olympic_athlete.country> "m.0w0_0_7" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<2004_FIFA_World_Player_of_the_Year> <award.award_ceremony.awards_presented> "m.0w0ngm7" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<Athlete> <freebase.type_hints.included_types> "Person" .
+<m.0nh6zbn> <sports.sports_team_roster.position> "Forward" .
+<Football4> <common.image.appears_in_topic_gallery> "Football player" .
+<m.0z5jt6n> <award.award_nomination.award> "FIFA World Player of the Year" .
+<FIFA_World_Player_of_the_Year> <award.award_category.nominees> "m.0z4xp9n" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<m.09kmdzf> <base.ontologies.ontology_instance_mapping.freebase_topic> "Ronaldo" .
+<m.0tl0h1y> <film.performance.special_performance_type> "Him/Herself" .
+<Ronaldo> <award.award_winner.awards_won> "m.0y88yzn" .
+<Country_of_nationality> <rdf-schema#range> "Country" .
+<Kidney_Stone> <medicine.disease_cause.diseases> "Urolithiasis" .
+<Football_player> <type.type.properties> "Statistics" .
+<m.0_spw70> <award.award_nomination.award_nominee> "Ronaldinho" .
+<João_de_Assis_Moreira> <people.person.parents> "Janaína Mendes" .
+<Nephrotic_syndrome> <medicine.disease.risk_factors> "Male" .
+<Ronaldinho> <tv.tv_actor.guest_roles> "m.0w0_5y0" .
+<m.0kfsn0h> <award.award_honor.award_winner> "Ronaldo" .
+<Position(s)> <rdf-schema#domain> "Football player" .
+<Pontifícia_Universidade_Católica_do_Rio_Grande_do_Sul> <location.location.containedby> "Rio Grande do Sul" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Ankylosing_spondylitis> <medicine.disease.risk_factors> "Male" .
+<Porto_Alegre> <location.location.events> "2010 Fantaspoa Film Festival" .
+<Ronaldinho> <award.award_nominee.award_nominations> "m.0z77xwk" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<Porto_Alegre> <business.employer.employees> "m.04dwjfk" .
+<Porto_Alegre> <common.topic.webpage> "m.03l6my4" .
+<m.0j3_kkz> <sports.sports_team_roster.player> "Ronaldinho" .
+<Porto_Alegre> <location.location.events> "2008 Cine Esquema Novo" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Jardim Isabel" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<Universidade_Federal_do_Rio_Grande_do_Sul> <location.location.containedby> "Rio Grande do Sul" .
+<Canadian_football_player> <people.profession.specialization_of> "Athlete" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<Parents> <type.property.schema> "Person" .
+<Dona_Miguelina_Elói_Assis_dos_Santos> <common.topic.notable_for> "g.1257_kq21" .
+<Canoas_Airport> <aviation.airport.serves> "Porto Alegre" .
+<m.0j_7v3r> <sports.sports_team_roster.team> "Paris Saint-Germain F.C." .
+<Ronaldinho> <soccer.football_player.statistics> "m.0w9hk01" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<m.0kfsmy7> <award.award_honor.award_winner> "Ronaldo" .
+<m.0w0_26t> <olympics.olympic_athlete_affiliation.olympics> "2008 Summer Olympics" .
+<m.0w0_22f> <olympics.olympic_medal_honor.event> "Football at the 2008 Summer Olympics" .
+<Best_Soccer_Player_ESPY_Award> <award.award_category.winners> "m.0z5g7sh" .
+<Position(s)> <owl#inverseOf> "Players" .
+<Ronaldo> <soccer.football_player.statistics> "m.0w9ntqq" .
+<m.0z5c_n7> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0y4txhf> <award.award_honor.award> "Trofeo EFE" .
+<m.0z5gbjm> <award.award_nomination.award_nominee> "Ronaldinho" .
+<Barrett's_esophagus> <medicine.disease.risk_factors> "Male" .
+<Forward> <common.topic.webpage> "m.09x_372" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<2005_FIFA_World_Player_of_the_Year> <award.award_ceremony.awards_presented> "m.0w0ngpt" .
+<FIFA_World_Player_of_the_Year> <award.award_category.winners> "m.0ln_16n" .
+<Football_Position> <type.type.expected_by> "Position(s)" .
+<m.0z4xp9n> <award.award_nomination.ceremony> "2004 FIFA World Player of the Year" .
+<Brazil> <location.country.administrative_divisions> "Rio Grande do Sul" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Rubem Berta, Porto Alegre" .
+<m.0z4krg2> <award.award_nomination.ceremony> "2006 FIFA World Player of the Year" .
+<m.0nh6zs0> <freebase.valuenotation.has_value> "Number" .
+<Football_at_the_2008_Summer_Olympics> <olympics.olympic_event_competition.medalists> "m.0w0_22f" .
+<Ronaldinho_e_Deco> <common.image.size> "m.044x65f" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<Athlete> <freebase.type_profile.strict_included_types> "Person" .
+<m.0y4txqz> <award.award_honor.award_winner> "Ronaldinho" .
+<Forward> <common.topic.webpage> "m.09yfnh5" .
+<m.0z5gbjm> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Football4> <common.image.appears_in_topic_gallery> "Football" .
+<Salgado_Filho_International_Airport> <aviation.airport.serves> "Porto Alegre" .
+<Dona_Miguelina_Elói_Assis_dos_Santos> <people.person.children> "Ronaldinho" .
+<Urolithiasis> <medicine.disease.causes> "Kidney Stone" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Cascata" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Guarujá, Rio Grande do Sul" .
+<m.0w0_26t> <olympics.olympic_athlete_affiliation.sport> "Football" .
+<Universidade_Federal_do_Rio_Grande_do_Sul> <education.educational_institution_campus.educational_institution> "Universidade Federal do Rio Grande do Sul" .
+<Gender> <type.property.expected_type> "Gender" .
+<Porto_Alegre> <common.topic.notable_for> "g.1256fv776" .
+<m.0z4trvh> <award.award_nomination.award> "FIFA World Player of the Year" .
+<m.0z5c_n7> <award.award_nomination.ceremony> "2006 ESPY Awards" .
+<m.09x3_1p> <common.webpage.topic> "Forward" .
+<Porto_Alegre> <business.employer.employees> "m.04dwjfx" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Lomba do Pinheiro" .
+<Ronaldinho> <soccer.football_player.statistics> "m.0w9b586" .
+<Person> <type.type.properties> "Spouse (or domestic partner)" .
+<Football_player> <type.type.properties> "Transfers" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Stroke" .
+<m.0r5j744> <award.award_honor.award> "FIFPro World Young Player of the Year" .
+<Forward> <common.topic.notable_types> "Football Position" .
+<Spouse> <type.property.reverse_property> "Spouse (or domestic partner)" .
+<Football_player> <people.profession.specialization_of> "Athlete" .
+<m.0j3_kkz> <freebase.valuenotation.has_no_value> "To" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Santo Antônio, Rio Grande do Sul" .
+<Acute_myeloid_leukemia> <medicine.disease.risk_factors> "Male" .
+<m.0j_7v3r> <sports.sports_team_roster.position> "Midfielder" .
+<Roberto_de_Assis_Moreira> <common.topic.notable_types> "Football player" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<Kidney_Stone> <medicine.disease.risk_factors> "Male" .
+<m.0y4tmwq> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<2005_FIFA_World_Player_of_the_Year> <award.award_ceremony.nominees> "m.0z4trvh" .
+<Ronaldinho> <common.topic.webpage> "m.0b6r89f" .
+<Sales_management> <common.topic.notable_types> "Profession" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<m.0ln_96t> <award.award_honor.award_winner> "Ronaldo" .
+<Forward> <common.topic.webpage> "m.09ytzf1" .
+<Ronaldo> <people.person.spouse_s> "m.0nh70kl" .
+<m.0z5hy7v> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0w9hj_j> <soccer.football_player_stats.team> "Grêmio Foot-Ball Porto Alegrense" .
+<Country> <freebase.type_hints.included_types> "Location" .
+<Ronaldo> <common.topic.image> "Ronaldo con la maglia del Real Madrid" .
+<FIFA_World_Player_of_the_Year> <award.award_category.nominees> "m.0z5hy7v" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<m.0r9mccp> <base.schemastaging.athlete_salary.currency> "Brazilian real" .
+<m.0kfsm_8> <award.award_honor.award> "UEFA Club Footballer of the Year" .
+<Rio_Grande_do_Sul_Federal_Institute_of_Education,_Science_and_Technology> <location.location.containedby> "Rio Grande do Sul" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<Maria_Sophia_Nazário_de_Lima> <people.person.nationality> "Brazil" .
+<m.0y88yzn> <award.award_honor.award_winner> "Ronaldo" .
+<Spouse> <rdf-schema#range> "Person" .
+<Ballon_d'Or> <award.award.category> "Ballon d'Or" .
+<m.0z06yd0> <award.award_nomination.award> "Laureus World Sports Award for Sportsman of the Year" .
+<Porto_Alegre> <periodicals.newspaper_circulation_area.newspapers> "Correio do Povo" .
+<m.0w2yf1t> <tv.tv_regular_personal_appearance.appearance_type> "Him/Herself" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Male" .
+<Sônia_dos_Santos_Barata> <people.person.children> "Ronaldo" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsm_h" .
+<Roberto_de_Assis_Moreira> <people.person.gender> "Male" .
+<Ronaldo> <freebase.valuenotation.has_value> "Education" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Camaquã, Rio Grande do Sul" .
+<Porto_Alegre> <common.topic.article> "m.01757h" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Location" .
+<Brazilian_real> <finance.currency.countries_used> "Brazil" .
+<Kyphosis> <medicine.disease.risk_factors> "Male" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm36t" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsn0h" .
+<m.03ps28r> <people.place_lived.location> "Porto Alegre" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Nonoai, Porto Alegre" .
+<Ronaldo> <film.person_or_entity_appearing_in_film.films> "m.0fq9tg7" .
+<Myocardial_Ischemia> <medicine.disease.symptoms> "heart attack" .
+<m.0nh6z4r> <sports.sports_team_roster.position> "Forward" .
+<m.0j50jkw> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.0z3whkn> <award.award_honor.award_winner> "Ronaldo" .
+<Ronaldo> <base.popstra.celebrity.dated> "m.0646b0g" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Vila Jardim" .
+<Forward> <common.topic.webpage> "m.09wcyf6" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Vila João Pessoa" .
+<Date_of_birth> <type.property.schema> "Person" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.0ygl33_> <film.performance.special_performance_type> "Him/Herself" .
+<A.C._Milan> <sports.sports_team.sport> "Football" .
+<Ronaldo> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Porto_Alegre> <location.statistical_region.population> "g.1jmcbg6sm" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010pt4xh" .
+<Education> <type.property.schema> "Person" .
+<m.0w9b586> <soccer.football_player_stats.team> "Clube de Regatas do Flamengo" .
+<m.09wb10c> <common.webpage.topic> "Forward" .
+<Dona_Miguelina_Elói_Assis_dos_Santos> <people.person.children> "Deisi de Assis Moreira" .
+<Football_player> <type.type.properties> "Number of Career Appearances" .
+<Autism> <medicine.disease.risk_factors> "Male" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Jardim Itu-Sabará" .
+<Student> <owl#inverseOf> "Education" .
+<UEFA_Team_of_the_Year> <award.award_category.winners> "m.0y4tylm" .
+<m.09xs63n> <common.webpage.topic> "Forward" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Urolithiasis> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<m.0w9hk0b> <soccer.football_player_stats.player> "Ronaldinho" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<Meningococcal_disease> <medicine.disease.risk_factors> "Male" .
+<Ronaldo> <sports.pro_athlete.teams> "m.0nh6zbn" .
+<Forward> <sports.sports_position.sport> "Football" .
+<Ronaldo> <film.person_or_entity_appearing_in_film.films> "m.0ygkwl6" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Ipanema, Rio Grande do Sul" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Deisi_de_Assis_Moreira> <people.person.nationality> "Brazil" .
+<FIFA_World_Player_of_the_Year> <award.award_category.nominees> "m.0z5jt6n" .
+<Football_player> <type.type.expected_by> "Off" .
+<m.0nh6zbn> <sports.sports_team_roster.team> "FC Barcelona" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Ponta Grossa, Rio Grande do Sul" .
+<Spouse> <type.property.schema> "Marriage" .
+<Laureus_World_Sports_Award_for_Comeback_of_the_Year> <award.award_category.nominees> "m.0z3whsp" .
+<Ronaldinho> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ronaldo> <award.award_nominee.award_nominations> "m.0z51b35" .
+<Height> <type.property.schema> "Person" .
+<American_football_player> <people.profession.specialization_of> "Athlete" .
+<Ronaldinho> <soccer.football_player.statistics> "m.0w9hk0b" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<m.0tlmwwz> <film.performance.actor> "Ronaldinho" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<m.0ln_864> <award.award_honor.award_winner> "Ronaldo" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011nhvdj" .
+<m.0w0ngpt> <award.award_honor.ceremony> "2005 FIFA World Player of the Year" .
+<El_disco_del_año> <film.film.starring> "m.0y4tmgb" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsm_r" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Passo d'Areia" .
+<Lisa_Collins> <freebase.valuenotation.has_value> "Date of birth" .
+<m.0z06yd0> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Forward> <common.topic.webpage> "m.09wkysw" .
+<2014_Laureus_World_Sports_Awards> <award.award_ceremony.nominees> "m.0_spw70" .
+<Ronaldo> <people.person.children> "Maria Alice Nazário de Lima" .
+<Position(s)> <type.property.schema> "Football player" .
+<m.0z3whsp> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Kaposi's_sarcoma> <medicine.disease.risk_factors> "Male" .
+<Football_player> <common.topic.article> "m.01lkv6" .
+<Brazil_national_football_team> <sports.sports_team.roster> "m.0j3_kkz" .
+<Brazil_national_football_team> <sports.sports_team.location> "Brazil" .
+<m.0y4txqz> <award.award_honor.award> "FIFPro World Young Player of the Year" .
+<Pontifícia_Universidade_Católica_do_Rio_Grande_do_Sul> <education.educational_institution.campuses> "Pontifícia Universidade Católica do Rio Grande do Sul" .
+<Marriage> <type.type.expected_by> "Spouse (or domestic partner)" .
+<m.0nh6zs0> <sports.sports_team_roster.player> "Ronaldo" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Lageado" .
+<Dona_Miguelina_Elói_Assis_dos_Santos> <people.person.children> "Roberto de Assis Moreira" .
+<Universidade_Federal_de_Ciências_da_Saúde_de_Porto_Alegre> <location.location.containedby> "Brazil" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Football_player> <people.profession.specializations> "Australian rules football player" .
+<m.0hzxmgv> <freebase.valuenotation.has_no_value> "Ceremony" .
+<Ronaldinho> <sports.pro_athlete.sports_played_professionally> "m.0d5fcww" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Attention deficit hyperactivity disorder" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<Transient_ischemic_attack> <medicine.disease.causes> "Cardiovascular disease" .
+<Clube_de_Regatas_do_Flamengo> <sports.sports_team.sport> "Football" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Serraria, Rio Grande do Sul" .
+<m.0z433lj> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<João_de_Assis_Moreira> <common.topic.notable_types> "Deceased Person" .
+<Dona_Miguelina_Elói_Assis_dos_Santos> <freebase.valuenotation.has_value> "Date of birth" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<Porto_Alegre> <location.location.contains> "Estádio Beira-Rio" .
+<m.0j_7v2p> <sports.sports_team_roster.position> "Midfielder" .
+<m.0ygl3cs> <film.performance.special_performance_type> "Him/Herself" .
+<m.0j_7v31> <sports.sports_team_roster.team> "Grêmio Foot-Ball Porto Alegrense" .
+<Porto_Alegre> <location.location.events> "2007 Fantaspoa Film Festival" .
+<Ronaldo> <award.award_winner.awards_won> "m.0ln_bdb" .
+<Ronaldinho> <people.person.sibling_s> "m.0j51772" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<m.0w1018r> <film.personal_film_appearance.person> "Ronaldinho" .
+<Porto_Alegre> <location.location.events> "Copa União" .
+<Ronaldinho> <soccer.football_player.position_s> "Forward" .
+<Laureus_World_Sports_Award_for_Comeback_of_the_Year> <award.award_category.winners> "m.0z3whkn" .
+<Football_player> <type.type.expected_by> "Player" .
+<m.0z3wkzk> <sports.sports_team_roster.player> "Ronaldo" .
+<UEFA_Club_Footballer_of_the_Year> <award.award_category.winners> "m.0y4ty4t" .
+<m.0y88yzn> <freebase.valuenotation.has_no_value> "Winning work" .
+<m.0kfsmzj> <award.award_honor.award_winner> "Ronaldo" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Agronomia, Rio Grande do Sul" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0hzxm9z" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Higienópolis, Rio Grande do Sul" .
+<Ronaldo> <people.person.spouse_s> "m.0nh352d" .
+<Person> <type.type.properties> "Place of birth" .
+<Ronald_Nazário_de_Lima> <people.person.gender> "Male" .
+<Maria_Sophia_Nazário_de_Lima> <people.person.place_of_birth> "Rio de Janeiro" .
+<Ronaldo> <people.person.sibling_s> "m.0tk_2dp" .
+<Football_player> <type.type.expected_by> "FutbolcuAdi" .
+<m.0j516qc> <base.schemastaging.athlete_salary.athlete> "Ronaldinho" .
+<m.0y4tyyh> <award.award_honor.award> "g.121dc5yv" .
+<Clube_de_Regatas_do_Flamengo> <sports.sports_team.location> "Rio de Janeiro" .
+<m.0w1h402> <tv.regular_tv_appearance.actor> "Ronaldo" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Jardim Carvalho" .
+<Ronaldo> <award.award_nominee.award_nominations> "m.0z5jt6n" .
+<m.0b6r89f> <common.webpage.topic> "Ronaldinho" .
+<Ronaldo> <people.person.parents> "Nélio Nazário de Lima, Snr" .
+<Forward> <common.topic.webpage> "m.09x3_1p" .
+<m.0d5fcww> <sports.pro_sports_played.athlete> "Ronaldinho" .
+<m.0w0_0_7> <olympics.olympic_athlete_affiliation.country> "Brazil" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Farrapos, Rio Grande do Sul" .
+<Estádio_Beira-Rio> <location.location.containedby> "Porto Alegre" .
+<m.0xnfd9h> <film.personal_film_appearance.person> "Ronaldo" .
+<m.0d5fcww> <freebase.valuenotation.has_no_value> "To" .
+<Ronaldinho> <tv.tv_program_guest.appeared_on> "m.0w0_vys" .
+<m.03ps28r> <people.place_lived.person> "Ronaldinho" .
+<m.0ygl3cs> <film.performance.actor> "Ronaldo" .
+<m.0kfsm_r> <award.award_honor.award> "Golden Foot" .
+<Pontifícia_Universidade_Católica_do_Rio_Grande_do_Sul> <location.location.containedby> "Brazil" .
+<Midfielder> <common.topic.webpage> "m.09y4zj1" .
+<UEFA_Team_of_the_Year> <award.award_category.winners> "m.0y4tykm" .
+<m.0646b0g> <base.popstra.dated.participant> "Ronaldo" .
+<Forward> <common.topic.webpage> "m.09w68yf" .
+<m.0j3_kkz> <freebase.valuenotation.has_value> "Number" .
+<m.0tk_2dp> <people.sibling_relationship.sibling> "Ronaldo" .
+<Ronaldo> <award.award_nominee.award_nominations> "m.0z81jqw" .
+<Rio_Grande_do_Sul_Federal_Institute_of_Education,_Science_and_Technology> <organization.organization.geographic_scope> "Porto Alegre" .
+<Ronaldo> <award.award_nominee.award_nominations> "m.0z433lj" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<Forward> <common.topic.image> "Football match.jpg" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Coronel Aparício Borges" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Roberto_de_Assis_Moreira> <people.person.profession> "Football player" .
+<Porto_Alegre> <location.location.events> "2012 Indie Film Festival of Brazil - Porto Alegre" .
+<m.0j_7v31> <sports.sports_team_roster.position> "Midfielder" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<m.0bg7169> <soccer.football_goal.scorer> "Ronaldo" .
+<Benign_prostatic_hyperplasia> <medicine.disease.risk_factors> "Male" .
+<FIFPro_World_Young_Player_of_the_Year> <award.award_category.winners> "m.0r5j744" .
+<Ronaldo> <sports.pro_athlete.teams> "m.0nh6zly" .
+<Spouse_(or_domestic_partner)> <rdf-schema#domain> "Person" .
+<Forbes_Celebrity_100:_Who_Made_Bank?> <film.film.personal_appearances> "m.0w1018r" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0w9b586> <soccer.football_player_stats.player> "Ronaldinho" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Humaitá, Porto Alegre" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Cristal, Porto Alegre" .
+<m.09kkgf5> <olympics.olympic_medal_honor.medal> "Bronze medal" .
+<Ronaldinho> <people.person.children> "João de Assis Moreira" .
+<Trofeo_EFE> <award.award_category.winners> "m.0kfsm__" .
+<Ronaldinho> <common.topic.article> "m.02lfwh" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<Porto_Alegre> <location.location.events> "1995 Men's South American Volleyball Championship" .
+<m.0kfsn0w> <award.award_honor.award_winner> "Ronaldo" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<Ronaldo> <award.award_winner.awards_won> "m.0hzxmhb" .
+<Ronaldinho061115> <common.image.appears_in_topic_gallery> "UEFA Club Footballer of the Year" .
+<m.0kfsm_h> <award.award_honor.award_winner> "Ronaldo" .
+<Male> <common.topic.image> "male.jpg" .
+<m.0y4tmgb> <film.performance.film> "El disco del año" .
+<m.0w8_xw6> <soccer.football_player_stats.player> "Ronaldo" .
+<Ronaldinho> <common.topic.notable_types> "Football player" .
+<Country> <freebase.type_profile.strict_included_types> "Location" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0z5g7sh" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<Place_of_birth> <type.property.expected_type> "Location" .
+<Football_player> <type.type.expected_by> "Executor" .
+<Gout> <medicine.disease_cause.diseases> "Kidney Stone" .
+<m.0w0_trj> <tv.tv_guest_personal_appearance.appearance_type> "Him/Herself" .
+<Ronaldo> <common.topic.notable_types> "Football player" .
+<Spouse_(or_domestic_partner)> <type.property.expected_type> "Marriage" .
+<Rio_Grande_do_Sul> <base.aareas.schema.administrative_area.capital> "Porto Alegre" .
+<Ronaldo> <soccer.football_player.goals_scored> "m.0bg716j" .
+<m.0w0njr1> <award.award_honor.award> "Golden Foot" .
+<m.0w0_22f> <olympics.olympic_medal_honor.olympics> "2008 Summer Olympics" .
+<Hair_loss> <medicine.disease.risk_factors> "Male" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Vila Conceição" .
+<Grêmio_Foot-Ball_Porto_Alegrense> <sports.sports_team.sport> "Football" .
+<m.0w0_0_7> <olympics.olympic_athlete_affiliation.athlete> "Ronaldinho" .
+<m.0ln_bdb> <award.award_honor.award_winner> "Ronaldo" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<Ronaldo> <people.person.gender> "Male" .
+<FC_Barcelona> <soccer.football_team.player_statistics> "m.0w9hk0b" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<m.0y4tm7k> <film.performance.actor> "Ronaldinho" .
+<Ectodermal_dysplasia> <medicine.disease.symptoms> "Hair loss" .
+<Ronaldinho> <film.actor.film> "m.0y4tmgb" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<Gout> <medicine.disease.risk_factors> "Male" .
+<Person> <type.type.properties> "Height" .
+<Ronaldo> <award.award_winner.awards_won> "m.0ln_85x" .
+<Trofeo_EFE> <award.award_category.winners> "m.0y4txhf" .
+<Ectodermal_dysplasia> <medicine.disease.risk_factors> "Male" .
+<m.0y4tyxr> <award.award_honor.award> "g.121dc5yv" .
+<m.0w9ntq_> <soccer.football_player_stats.player> "Ronaldo" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Arquipélago" .
+<Rio_Grande_do_Sul> <location.location.containedby> "Brazil" .
+<Porto_Alegre> <location.location.events> "2003 Cine Esquema Novo" .
+<Football_player> <common.topic.article> "m.02vxg" .
+<m.09x_vnh> <common.webpage.topic> "Forward" .
+<m.0w9hk01> <soccer.football_player_stats.team> "Paris Saint-Germain F.C." .
+<Porto_Alegre> <location.location.contains> "g.121tylq9" .
+<Lisa_Collins> <freebase.valuenotation.is_reviewed> "Gender" .
+<Canoas_Airport> <location.location.containedby> "Brazil" .
+<Anaplastic_thyroid_cancer> <medicine.disease.risk_factors> "Male" .
+<Ronaldo> <soccer.football_player.position_s> "Forward" .
+<Football_player> <book.book_subject.works> "When the Nines Roll Over and Other Stories" .
+<Football_player> <type.type.expected_by> "Scorer" .
+<Education> <type.property.expected_type> "Education" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Porto_Alegre> <location.location.events> "2005 Cine Esquema Novo" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsmy7" .
+<m.0kfsm__> <award.award_honor.award_winner> "Ronaldo" .
+<Ventricular_tachycardia> <medicine.disease.risk_factors> "Male" .
+<Ronaldo> <freebase.valuenotation.is_reviewed> "Gender" .
+<Porto_Alegre> <location.location.contains> "Pontifical Catholic University of Rio Grande do Sul, main campus" .
+<Athlete> <people.profession.specializations> "Canadian football player" .
+<m.0ln_16y> <award.award_honor.award> "FIFA World Player of the Year" .
+<Ronaldinho_bored> <common.image.appears_in_topic_gallery> "Ronaldinho" .
+<Ronaldo> <film.actor.film> "m.0tl0h1y" .
+<Porto_Alegre> <location.location.events> "2013 Fantaspoa Film Festival" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Anchieta, Rio Grande do Sul" .
+<Actor> <common.topic.notable_types> "Profession" .
+<Football_player> <freebase.type_profile.strict_included_types> "Topic" .
+<m.011qx677> <sports.sports_team_roster.player> "Ronaldinho" .
+<Laureus_World_Sports_Award_for_Comeback_of_the_Year> <award.award_category.nominees> "m.0_spw70" .
+<m.0d5fbjl> <sports.pro_sports_played.athlete> "Ronaldo" .
+<When_the_Nines_Roll_Over_and_Other_Stories> <book.written_work.subjects> "Football player" .
+<m.0z3wkzk> <sports.sports_team_roster.position> "Forward" .
+<Ronaldo> <award.award_winner.awards_won> "m.0z81jkt" .
+<m.0z433lj> <award.award_nomination.award_nominee> "Ronaldo" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Porto_Alegre> <location.location.contains> "Opinião" .
+<Porto_Alegre> <location.location.events> "2013 Cine Esquema Novo" .
+<Porto_Alegre> <common.topic.image> "central Porto Alegre at night" .
+<m.0w9db76> <soccer.football_player_stats.team> "Brazil national football team" .
+<Laureus_World_Sports_Award_for_Sportsman_of_the_Year> <award.award_category.nominees> "m.0z433lj" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.0_z5vj9" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h3664" .
+<Athlete> <base.lightweight.profession.specialization_of> "Athletes and Sports Competitors" .
+<m.0fq9tg7> <film.personal_film_appearance.person> "Ronaldo" .
+<Ballon_d'Or> <award.award_category.winners> "m.0hzxm9z" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<Midfielder> <common.topic.image> "396px-Boisko PositionsMidfield" .
+<Roberto_de_Assis_Moreira> <people.person.parents> "João de Assis Moreira" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0y4tywr" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<Football> <common.topic.image> "Football match.jpg" .
+<m.0y4tmzx> <film.performance.film> "Una nit irrepetible" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065sbl" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<Pontifical_Catholic_University_of_Rio_Grande_do_Sul,_main_campus> <location.location.containedby> "Brazil" .
+<People_born_here> <rdf-schema#domain> "Location" .
+<Porto_Alegre> <location.location.contains> "Santa Cruz de Tenerife" .
+<m.0y4tykm> <award.award_honor.award> "UEFA Team of the Year" .
+<Porto_Alegre> <location.location.contains> "Centro Universitário Ritter dos Reis" .
+<Nélio_Nazário_de_Lima,_Snr> <freebase.valuenotation.has_value> "Date of birth" .
+<m.09w2grw> <common.webpage.topic> "Forward" .
+<Dupuytren's_contracture> <medicine.disease.risk_factors> "Male" .
+<Football_player> <type.type.properties> "Disciplinary action" .
+<Centro_Universitário_Ritter_dos_Reis> <organization.organization.place_founded> "Rio Grande do Sul" .
+<Ronaldinho> <base.popstra.celebrity.canoodled> "m.0652sp6" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<Ronaldinho> <common.topic.image> "Ronaldinho e Deco" .
+<Football_at_the_2008_Summer_Olympics> <time.event.included_in_event> "2008 Summer Olympics" .
+<João_de_Assis_Moreira> <common.topic.notable_for> "g.1255gcmpj" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm3g0" .
+<Porto_Alegre> <common.topic.image> "Official flag of Loyal and Worthy City of Porto Alegre" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<João_de_Assis_Moreira> <freebase.valuenotation.has_value> "Place of birth" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "São Sebastião, Porto Alegre" .
+<m.0z3whkn> <freebase.valuenotation.has_no_value> "Winning work" .
+<m.0w0_vys> <tv.tv_guest_personal_appearance.person> "Ronaldinho" .
+<Ronaldo> <sports.pro_athlete.teams> "m.0nh6z4r" .
+<Ronaldinho> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Ronaldo> <sports.pro_athlete.teams> "m.0z3wkzk" .
+<Porto_Alegre> <location.location.events> "2005 Fantaspoa Film Festival" .
+<m.0j_7v31> <freebase.valuenotation.has_value> "Number" .
+<m.0j_7v43> <freebase.valuenotation.has_value> "Number" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Vila Assunção" .
+<m.0kfsmyp> <award.award_honor.award_winner> "Ronaldo" .
+<To> <type.property.expected_type> "Date/Time" .
+<Football_player> <type.type.properties> "Matches played" .
+<Football_Position> <freebase.type_profile.published> "Published" .
+<Rio_Grande_do_Sul> <organization.organization_scope.organizations_with_this_scope> "Rio Grande do Sul Federal Institute of Education, Science and Technology" .
+<Football_Position> <freebase.type_hints.included_types> "Topic" .
+<m.0ln_16n> <award.award_honor.award_winner> "Ronaldo" .
+<Ronaldinho> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0ygkwl6> <film.personal_film_appearance.person> "Ronaldo" .
+<Sport_Club_Internacional> <sports.sports_team.sport> "Football" .
+<Alexander_Nazário_de_Lima> <common.topic.notable_types> "Person" .
+<A.C._Milan> <soccer.football_team.player_statistics> "m.0w9hj_7" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<m.09w2z1v> <common.webpage.topic> "Forward" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsmx_" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<Athletes_and_Sports_Competitors> <base.lightweight.profession.specialization> "Athlete" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Praia de Belas" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<m.0z4krg2> <award.award_nomination.award_nominee> "Ronaldinho" .
+<Porto_Alegre> <location.location.events> "2009 Cine Esquema Novo" .
+<Ronaldinho061115> <common.image.appears_in_topic_gallery> "Ballon d'Or 2005" .
+<m.0z4xp9n> <award.award_nomination.award> "FIFA World Player of the Year" .
+<Ronaldinho> <people.person.nationality> "Brazil" .
+<Ronaldinho> <award.award_nominee.award_nominations> "m.0z06yd0" .
+<m.0w9hj_j> <soccer.football_player_stats.player> "Ronaldinho" .
+<Pectus_excavatum> <medicine.disease.risk_factors> "Male" .
+<Maria_Alice_Nazário_de_Lima> <people.person.parents> "Ronaldo" .
+<Ronaldo> <people.person.sibling_s> "m.0114xgpg" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Jardim Botânico, Rio Grande do Sul" .
+<Porto_Alegre> <location.location.contains> "Museum of Science and Technology (PUCRS)" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<Sport_Club_Internacional> <sports.sports_team.location> "Porto Alegre" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<m.0z4_d5_> <award.award_nomination.award_nominee> "Ronaldo" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<m.0z3whsp> <award.award_nomination.award> "Laureus World Sports Award for Comeback of the Year" .
+<Lisa_Collins> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<m.0w9hj_7> <soccer.football_player_stats.player> "Ronaldinho" .
+<m.0nf3jmr> <tv.regular_tv_appearance.actor> "Ronaldo" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<Football_player> <type.type.properties> "Goals scored" .
+<Ronaldo> <tv.tv_actor.guest_roles> "m.09nbhtl" .
+<Education> <type.property.master_property> "Student" .
+<m.0w0_0_7> <olympics.olympic_athlete_affiliation.sport> "Football" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<Forward> <common.topic.webpage> "m.09w2z1v" .
+<Ballon_d'Or> <award.award_category.category_of> "Ballon d'Or" .
+<m.09wcyf6> <common.webpage.topic> "Forward" .
+<Ronaldinho> <sports.pro_athlete.teams> "m.0j_7v43" .
+<m.0j_7v3r> <sports.sports_team_roster.player> "Ronaldinho" .
+<Football_player> <type.type.expected_by> "Player" .
+<Ronaldinho> <people.person.profession> "Football player" .
+<American_football_player> <people.profession.specialization_of> "Football player" .
+<Football> <common.topic.image> "Football4" .
+<m.0y4tq45> <film.performance.special_performance_type> "Him/Herself" .
+<m.0hzxmgv> <award.award_honor.award> "Ballon d'Or" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010j2f6f" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<m.0z51b35> <award.award_nomination.award_nominee> "Ronaldo" .
+<m.011qx677> <sports.sports_team_roster.team> "Querétaro F.C." .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<m.0nh6zs0> <sports.sports_team_roster.position> "Forward" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0j_7v43> <sports.sports_team_roster.position> "Midfielder" .
+<m.09yfbzc> <common.webpage.topic> "Forward" .
+<João_de_Assis_Moreira> <people.person.children> "Deisi de Assis Moreira" .
+<m.0w9ntq6> <soccer.football_player_stats.player> "Ronaldo" .
+<People_born_here> <type.property.expected_type> "Person" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Sarandi, Porto Alegre" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<Football_player> <freebase.type_profile.kind> "Title" .
+<m.09y96kp> <common.webpage.topic> "Forward" .
+<Leprosy> <medicine.disease.risk_factors> "Male" .
+<To> <type.property.expected_type> "Date/Time" .
+<m.0hzxmhb> <award.award_honor.award> "Ballon d'Or" .
+<m.0w0_trj> <tv.tv_guest_personal_appearance.person> "Ronaldinho" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010mytqw" .
+<Sônia_dos_Santos_Barata> <freebase.valuenotation.has_value> "Country of nationality" .
+<Athlete> <people.profession.specializations> "American football player" .
+<m.0z5g7sh> <award.award_honor.award> "Best Soccer Player ESPY Award" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Hípica" .
+<m.0z5jt6n> <award.award_nomination.award_nominee> "Ronaldo" .
+<Paris_Saint-Germain_F.C.> <sports.sports_team.sport> "Football" .
+<m.0w0ngpt> <award.award_honor.award> "FIFA World Player of the Year" .
+<Ronaldo> <soccer.football_player.statistics> "m.0w9ntq_" .
+<Ronaldo> <award.award_nominee.award_nominations> "m.0z3whsp" .
+<Non-gonococcal_urethritis> <medicine.disease.risk_factors> "Male" .
+<Ronaldo> <sports.pro_athlete.teams> "m.052b2p8" .
+<Universidade_Federal_do_Rio_Grande_do_Sul> <location.location.containedby> "Rio de Janeiro" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Bom Jesus, Porto Alegre" .
+<Female> <common.topic.subjects> "ZasPorn" .
+<Children> <type.property.master_property> "Parents" .
+<m.0ln_16y> <freebase.valuenotation.has_no_value> "Winning work" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<Football> <olympics.olympic_sport.olympic_games_contested> "2000 Summer Olympics" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<Porto_Alegre> <location.location.containedby> "Brazil" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<m.0y4rn1f> <film.performance.actor> "Ronaldo" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011rkzfn" .
+<Athlete> <people.profession.corresponding_type> "Athlete" .
+<Marriage> <type.type.properties> "Spouse" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0w0ngm7" .
+<m.09w68yf> <common.webpage.topic> "Forward" .
+<Ronaldinho> <soccer.football_player.position_s> "Midfielder" .
+<Ronaldo> <people.person.spouse_s> "m.05v8_tk" .
+<m.0z5c_n7> <award.award_nomination.award_nominee> "Ronaldinho" .
+<Ronaldinho> <sports.pro_athlete.teams> "m.0j_7v31" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0y4txqz" .
+<Ronaldinho> <film.actor.film> "m.0y4tm7k" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Santana, Rio Grande do Sul" .
+<Porto_Alegre> <location.location.events> "DebConf4" .
+<m.0w0_26t> <olympics.olympic_athlete_affiliation.athlete> "Ronaldinho" .
+<Forward> <common.topic.webpage> "m.09ywn05" .
+<Tetralogy_of_Fallot> <medicine.disease.risk_factors> "Male" .
+<m.0y4tyyh> <award.award_honor.award_winner> "Ronaldinho" .
+<Porto_Alegre> <location.location.contains> "Universidade Federal do Rio Grande do Sul" .
+<Paris_Saint-Germain_F.C.> <sports.sports_team.roster> "m.0j_7v3r" .
+<m.09y1l4x> <common.webpage.topic> "Forward" .
+<Porto_Alegre> <location.location.events> "2008 Fantaspoa Film Festival" .
+<Alexander_Nazário_de_Lima> <people.person.gender> "Male" .
+<Football_player> <freebase.type_hints.included_types> "Topic" .
+<m.0w0_22f> <olympics.olympic_medal_honor.medal> "Bronze medal" .
+<m.0y4ty4t> <award.award_honor.award> "UEFA Club Footballer of the Year" .
+<m.0w0_vys> <tv.tv_guest_personal_appearance.episode> "Episode dated 29 June 2008" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<Ronaldo> <olympics.olympic_athlete.medals_won> "m.09kkgf5" .
+<Ronaldinho> <film.person_or_entity_appearing_in_film.films> "m.0w1018r" .
+<m.0d1y8kn> <common.webpage.resource> "Ronaldinho Pictures" .
+<m.0z77xwk> <award.award_nomination.ceremony> "2005 ESPY Awards" .
+<Forward> <common.topic.webpage> "m.09y38j5" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Glória, Porto Alegre" .
+<m.09y4zj1> <common.webpage.topic> "Midfielder" .
+<Maria_Alice_Nazário_de_Lima> <common.topic.notable_types> "Person" .
+<Ronaldo_con_la_maglia_del_Real_Madrid> <common.image.appears_in_topic_gallery> "Ronaldo" .
+<m.0kfsn12> <award.award_honor.award_winner> "Ronaldo" .
+<Children> <type.property.expected_type> "Person" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010k_www" .
+<m.0z81jqw> <award.award_nomination.award_nominee> "Ronaldo" .
+<João_de_Assis_Moreira> <people.person.profession> "Soccer Player" .
+<m.0y4tylm> <award.award_honor.award_winner> "Ronaldinho" .
+<Porto_Alegre> <location.location.contains> "Pontifícia Universidade Católica do Rio Grande do Sul" .
+<m.0y4tmzx> <film.performance.special_performance_type> "Him/Herself" .
+<Brazil> <sports.sports_team_location.teams> "Brazil national football team" .
+<Spouse_(or_domestic_partner)> <type.property.schema> "Person" .
+<Education> <rdf-schema#range> "Education" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<Football_match.jpg> <common.image.appears_in_topic_gallery> "Forward" .
+<Football_player> <type.type.properties> "Number of Career Goals" .
+<m.011p3wnv> <sports.pro_sports_played.sport> "Forward" .
+<Football_player> <people.profession.specializations> "Soccer Player" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0y4tykm" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Marcílio Dias, Porto Alegre" .
+<Nélio_Nazário_de_Lima,_Snr> <freebase.valuenotation.has_value> "Parents" .
+<Shooting_Stars> <film.film.starring> "m.0y4tq45" .
+<m.0w1h402> <tv.regular_tv_appearance.special_performance_type> "Him/Herself" .
+<Rio_Grande_do_Sul_Federal_Institute_of_Education,_Science_and_Technology> <organization.organization.geographic_scope> "Rio Grande do Sul" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<m.0j51772> <people.sibling_relationship.sibling> "Ronaldinho" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<Dona_Miguelina_Elói_Assis_dos_Santos> <people.person.parents> "Enviro Assis" .
+<Ronaldo> <award.award_winner.awards_won> "m.0kfsmz1" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Rio_de_Janeiro> <base.biblioness.bibs_location.country> "Brazil" .
+<Ronaldo> <film.actor.film> "m.0y4sj0p" .
+<Porto_Alegre> <location.location.contains> "g.12307hb1" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Sebaceous_cyst> <medicine.disease.risk_factors> "Male" .
+<Parents> <rdf-schema#domain> "Person" .
+<Ronaldo> <soccer.football_player.statistics> "m.0w9ntpn" .
+<Athlete> <people.profession.specializations> "Soccer Player" .
+<Football_player> <type.type.domain> "Soccer" .
+<Pontifical_Catholic_University_of_Rio_Grande_do_Sul,_main_campus> <location.location.containedby> "Porto Alegre" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<m.0y4tmzx> <film.performance.actor> "Ronaldinho" .
+<Ronaldinho> <people.person.parents> "Dona Miguelina Elói Assis dos Santos" .
+<Ronaldinho> <sports.pro_athlete.teams> "m.0j3_kkz" .
+<Santa_Cruz_de_Tenerife> <location.location.containedby> "Brazil" .
+<Football> <award.award_discipline.awards_in_this_discipline> "FIFA World Player of the Year" .
+<Ronaldo> <people.person.children> "Maria Sophia Nazário de Lima" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.05v8_tk> <people.marriage.location_of_ceremony> "Rio de Janeiro" .
+<Country_of_nationality> <rdf-schema#domain> "Person" .
+<Administrative_Division> <freebase.type_hints.included_types> "Location" .
+<m.0wkwptn> <people.place_lived.location> "Rio de Janeiro" .
+<m.0z433lj> <award.award_nomination.award> "Laureus World Sports Award for Sportsman of the Year" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.0652sp6> <base.popstra.canoodled.participant> "Ronaldinho" .
+<FIFA_World_Player_of_the_Year> <award.award_category.winners> "m.0w0ngpt" .
+<FIFPro_World_Young_Player_of_the_Year> <award.award_category.winners> "m.0y4txqz" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Forward> <common.topic.webpage> "m.09y96kp" .
+<m.09w2mrd> <common.webpage.topic> "Forward" .
+<Ronaldo> <common.topic.notable_for> "g.125h4rpk1" .
+<Rio_Grande_do_Sul> <location.br_state.capital> "Porto Alegre" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm3fm" .
+<Ronaldinho> <base.schemastaging.athlete_extra.salary> "m.011sgjvc" .
+<Porto_Alegre> <sports.sports_team_location.teams> "Sport Club Internacional" .
+<Ronaldinho> <film.actor.film> "m.0tlmwwz" .
+<Forward> <sports.sport.pro_athletes> "m.011p3wnv" .
+<Risk_Factor> <freebase.type_hints.included_types> "Topic" .
+<2000_Summer_Olympics> <olympics.olympic_games.sports> "Football" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<m.04g56g2> <people.sibling_relationship.sibling> "Deisi de Assis Moreira" .
+<m.0c03xng> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.players> "Ronaldinho" .
+<Ronaldinho> <film.actor.film> "m.0y4tq45" .
+<m.0_spw70> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Centro_Universitário_Ritter_dos_Reis> <location.location.containedby> "Brazil" .
+<m.0w9ntpb> <soccer.football_player_stats.player> "Ronaldo" .
+<m.0nh6zfw> <sports.sports_team_roster.position> "Forward" .
+<Maria_Sophia_Nazário_de_Lima> <people.person.gender> "Female" .
+<Deisi_de_Assis_Moreira> <freebase.valuenotation.has_value> "Place of birth" .
+<m.0xnfd9h> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<FC_Barcelona> <soccer.football_team.player_statistics> "m.0w9ntpy" .
+<m.04dwjg4> <business.employment_tenure.company> "Porto Alegre" .
+<Porto_Alegre> <location.place_with_neighborhoods.neighborhoods> "Mont'Serrat, Porto Alegre" .
+<Ronaldinho> <award.award_winner.awards_won> "m.0y4tyn9" .
+<Football_player> <freebase.type_profile.strict_included_types> "Person" .
+<Football_player> <freebase.type_profile.equivalent_topic> "Football player" .
+<Date_of_birth> <type.property.expected_type> "Date/Time" .
+<Syphilis> <medicine.disease.risk_factors> "Male" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<Ronaldo> <people.person.nationality> "Brazil" .
+<FC_Barcelona> <sports.sports_team.sport> "Football" .
+<m.0w8qjs3> <tv.tv_guest_personal_appearance.appearance_type> "Him/Herself" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Rio_Grande_do_Sul> <location.administrative_division.country> "Brazil" .
+<m.0d5fbjl> <sports.pro_sports_played.sport> "Football" .
+<Marriage> <freebase.type_profile.published> "Published" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0_spw70> <award.award_nomination.ceremony> "2014 Laureus World Sports Awards" .

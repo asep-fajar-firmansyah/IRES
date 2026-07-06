@@ -1,0 +1,1018 @@
+<Nakhon_Ratchasima_Province> <common.topic.article> "m.01d1db" .
+<Politician> <type.type.expected_by> "Ceann Comhairle" .
+<Soldier> <book.book_subject.works> "Flash for Freedom!" .
+<Prayut_Chan-o-cha> <common.topic.article> "m.0j62l5h" .
+<m.09yw165> <common.webpage.topic> "Politician" .
+<Politician> <rdf-schema#range> "Politician" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678lx" .
+<Statesman> <people.profession.specialization_of> "Politician" .
+<Askari> <people.profession.specialization_of> "Soldier" .
+<Suranaree_University_of_Technology> <location.location.containedby> "Thailand" .
+<Flashman_and_the_Redskins> <book.written_work.previous_in_series> "Flashman's Lady" .
+<Children> <type.property.schema> "Person" .
+<Politician> <people.profession.part_of_professional_field> "Politics" .
+<Soldier> <common.topic.webpage> "m.09xvt17" .
+<Jimi_Agbaje> <people.person.profession> "Politician" .
+<Yolratee_Komklong> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Obstructive_sleep_apnea> <medicine.disease.risk_factors> "Male" .
+<Soldier> <media_common.quotation_subject.quotations_about_this_subject> "Every citizen should be a soldier. This was the case with the Greeks and Romans, and must be that of every free state." .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Mayor" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660xd" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107ydhc" .
+<Gout> <medicine.icd_9_cm_classification.parent_classification> "Gout" .
+<Ankylosing_spondylitis> <medicine.disease_cause.diseases> "Kyphosis" .
+<m.011n48tl> <government.government_position_held.jurisdiction_of_office> "Thailand" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107yfxl" .
+<Kidney_Stone> <medicine.disease.causes> "Gout" .
+<Hirschsprung's_disease> <medicine.disease.risk_factors> "Male" .
+<Flash_for_Freedom!> <book.written_work.subjects> "Soldier" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zn30" .
+<Bangkok> <location.location.containedby> "Thailand" .
+<Tribal_Rights_Leader> <people.profession.specialization_of> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066119" .
+<Women_warriors_in_literature_and_culture> <common.topic.notable_types> "Profession" .
+<A_good_soldier,_like_a_good_horse,_cannot_be_of_a_bad_color.> <media_common.quotation.subjects> "Soldier" .
+<Politician> <type.type.expected_by> "Candidate" .
+<Inguinal_hernia> <medicine.disease.risk_factors> "Male" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<Children> <rdf-schema#domain> "Person" .
+<Tongchai_Prasongsanti> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Public_Health_Leader> <common.topic.notable_types> "Profession" .
+<Administrative_Division> <freebase.type_profile.published> "Published" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010gyy23" .
+<Soldier> <media_common.quotation_subject.quotations_about_this_subject> "I rose by sheer military ability to the rank of corporal." .
+<Politician> <people.profession.specializations> "Public Health Leader" .
+<Officeholder> <owl#inverseOf> "Government Positions Held" .
+<Risk_Factor> <freebase.type_profile.strict_included_types> "Topic" .
+<Flashman_on_the_March> <book.written_work.subjects> "Soldier" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<Politician> <people.profession.specializations> "Civil Rights Leader" .
+<m.09w_20n> <common.webpage.topic> "Politician" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011cm0ng" .
+<m.010sh5r_> <location.partial_containment_relationship.partially_contained_by> "Nakhon Ratchasima Province" .
+<Stuttering> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066lws" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<Naraporn_Chan-ocha> <people.person.gender> "Female" .
+<Flashman_at_the_Charge> <book.written_work.previous_in_series> "Flash for Freedom!" .
+<Officeholder> <rdf-schema#range> "Politician" .
+<Shadow_Figure> <fictional_universe.fictional_character.place_of_birth> "Male" .
+<Politician> <people.profession.specializations> "Politician & Trade Unionist" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Rapeeporn Puengphet" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<Naraporn_Chan-ocha> <people.person.children> "Tanya Chan-ocha" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjmy" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066154" .
+<Children> <rdf-schema#range> "Person" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<Citizen_Soldier> <common.topic.notable_types> "Profession" .
+<Akinwunmi_Ambode> <media_common.quotation.author> "Akinwunmi Ambode" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010634mm" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661zf" .
+<Soldier> <book.book_subject.works> "Flashman's Lady" .
+<Politician> <people.profession.specializations> "Mayor of Auckland" .
+<Parents> <rdf-schema#range> "Person" .
+<Soldier> <people.profession.specializations> "Condottiere" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<I_rose_by_sheer_military_ability_to_the_rank_of_corporal.> <media_common.quotation.subjects> "Soldier" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<m.07ng2bd> <base.ontologies.ontology_instance_mapping.freebase_topic> "Soldier" .
+<Politician> <common.topic.notable_for> "g.1258k4n_t" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<Politician> <freebase.type_profile.strict_included_types> "Agent" .
+<Politician> <people.profession.specializations> "Energy Policy Specialist" .
+<Thanwarin_Sukhaphisit> <freebase.valuenotation.has_value> "Parents" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010gyy1q" .
+<American_Soldier> <common.topic.notable_types> "Profession" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<m.011nwrcc> <freebase.valuenotation.has_value> "Location of ceremony" .
+<Thongthong_Mokjok> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661zx" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<Female> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Flashman_in_the_Great_Game> <book.written_work.previous_in_series> "Flashman at the Charge" .
+<Parents> <type.property.expected_type> "Person" .
+<Hair_loss> <medicine.symptom.symptom_of> "Syphilis" .
+<Thailand> <location.location.containedby> "Asia" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010634nc" .
+<Soldier> <common.topic.image> "Modern soldiers." .
+<Mayor_of_Montazels> <common.topic.notable_types> "Profession" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<Kyphosis> <medicine.disease.causes> "Ankylosing spondylitis" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0108dn6c" .
+<Final_Salute:_A_Story_of_Unfinished_Lives> <book.written_work.subjects> "Soldier" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<Advocacy> <people.profession.specialization_of> "Politician" .
+<Kidney_Stone> <medicine.disease_cause.diseases> "Urolithiasis" .
+<Flashman_and_the_Tiger> <book.written_work.next_in_series> "Flashman on the March" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107ygm9" .
+<Alaskan_Health_Care_Leader> <common.topic.notable_types> "Profession" .
+<Thanwarin_Sukhaphisit> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Party_organizer> <people.profession.specialization_of> "Politician" .
+<Nephrotic_syndrome> <medicine.disease.risk_factors> "Male" .
+<m.09xt6w_> <common.webpage.topic> "Politician" .
+<Politician> <common.topic.webpage> "m.09x1dpm" .
+<m.011n48tl> <government.government_position_held.office_holder> "Prayut Chan-o-cha" .
+<Politician> <people.profession.corresponding_type> "Politician" .
+<Military_branch> <people.professional_field.professions_in_this_field> "Soldier" .
+<Tyrant> <people.profession.specialization_of> "Politician" .
+<Housing_and_Community_Development_Leader> <people.profession.specialization_of> "Politician" .
+<Politician> <common.topic.webpage> "m.0b45tny" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<Sniper> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Maithai Huajaisin" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Ankylosing_spondylitis> <medicine.disease.risk_factors> "Male" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<Akinwunmi_Ambode> <common.topic.subject_of> "Politician" .
+<Politician> <common.topic.webpage> "m.09w1p59" .
+<Environmentalist> <common.topic.notable_types> "Profession" .
+<Nakhon_Ratchasima_Province> <location.location.partiallycontains> "m.010sh5r_" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Nattapat Wipatcorntragoon" .
+<Bell_Nuntita> <freebase.valuenotation.has_value> "Parents" .
+<Thai_region> <base.aareas.schema.administrative_area_type.sovereignty> "Thailand" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Diplomat" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0102zc44" .
+<Soldier> <book.book_subject.works> "This Is Our War: A Soldiers' Portfolio" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Liver_tumour> <medicine.disease.risk_factors> "Male" .
+<Asia> <base.locations.continents.countries_within> "Thailand" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<Tik_Shiro> <freebase.valuenotation.has_value> "Parents" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678kt" .
+<m.07ngkqq> <base.ontologies.ontology_instance_mapping.freebase_topic> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<Parents> <type.property.schema> "Person" .
+<Thailand> <military.military_combatant.armed_forces> "Royal Thai Army" .
+<captured_guards> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Seksan_Sukpimai> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Thailand> <location.country.administrative_divisions> "Bangkok" .
+<Soldier> <book.book_subject.works> "Flashman and the Redskins" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5pml" .
+<Soldier> <people.profession.specializations> "Sniper" .
+<Hypospadias> <medicine.disease.risk_factors> "Male" .
+<Pongthep_Kradonchamnan> <people.person.gender> "Male" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Agent" .
+<Sometimes_It_Was_Beautiful> <book.written_work.subjects> "Military branch" .
+<Barrett's_esophagus> <medicine.disease.risk_factors> "Male" .
+<Tik_Shiro> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Naraporn_Chan-ocha> <freebase.valuenotation.has_value> "Place of birth" .
+<Soldier> <book.book_subject.works> "Royal Flash" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Myocardial_Ischemia> <medicine.disease.risk_factors> "Male" .
+<Politician> <people.profession.specializations> "AIDS Policy Specialist" .
+<Flashman's_Lady> <book.written_work.subjects> "Soldier" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010l2wv3" .
+<Political_strategist> <common.topic.notable_types> "Profession" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107h_p7" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjqg" .
+<AIDS_Policy_Specialist> <common.topic.notable_types> "Profession" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0ds" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0102zbsw" .
+<Aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Multiple_myeloma> <medicine.disease.risk_factors> "Male" .
+<Nittha_Chan-ocha> <people.person.parents> "Naraporn Chan-ocha" .
+<m.011nw_qg> <people.sibling_relationship.sibling> "Tanya Chan-ocha" .
+<Soldier> <media_common.quotation_subject.quotations_about_this_subject> "I want to see you shoot the way you shout." .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107ygrv" .
+<Soldier> <book.book_subject.works> "Savannah, Immortal City: Volume One of the Civil War Savannah Series" .
+<Person> <freebase.type_profile.strict_included_types> "Agent" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0fs" .
+<Savannah,_Immortal_City:_Volume_One_of_the_Civil_War_Savannah_Series> <book.written_work.subjects> "Military branch" .
+<Myocardial_Ischemia> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Corneal_abrasion> <medicine.disease.risk_factors> "Male" .
+<Soldier> <book.book_subject.works> "Final Salute: A Story of Unfinished Lives" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Sunisa Srangthaisong" .
+<Prayut_Chan-o-cha> <common.topic.notable_for> "g.12lqd9w04" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.01062wjz" .
+<Politician> <common.topic.webpage> "m.09x5gkq" .
+<Party> <rdf-schema#domain> "Politician" .
+<Urolithiasis> <medicine.disease.causes> "Kidney Stone" .
+<Soldier> <people.profession.specializations> "Gladiator" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<Party> <rdf-schema#range> "Political Party Tenure" .
+<Mayor_of_Montazels> <people.profession.specialization_of> "Politician" .
+<Nittha_Chan-ocha> <common.topic.notable_types> "Person" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Thanwarin_Sukhaphisit> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Seborrheic_dermatitis> <medicine.disease.symptoms> "Hair loss" .
+<Thongthong_Mokjok> <people.person.nationality> "Thailand" .
+<Thanwarin_Sukhaphisit> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0dj2gvd> <base.ontologies.ontology_class_mapping.freebase_topic> "Politician" .
+<Thailand> <location.country.languages_spoken> "Thai Language" .
+<Prayut_Chan-o-cha> <freebase.valuenotation.has_value> "Parents" .
+<Suranaree_University_of_Technology> <location.location.containedby> "Nakhon Ratchasima Province" .
+<Soldier> <media_common.quotation_subject.quotations_about_this_subject> "Old soldiers never die; they just fade away." .
+<Gladiator> <people.profession.specialization_of> "Soldier" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<Politician> <people.profession.specializations> "Bureaucrat" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Tik Shiro" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Stroke" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Parents> <type.property.reverse_property> "Children" .
+<Acute_myeloid_leukemia> <medicine.disease.risk_factors> "Male" .
+<Politician> <people.profession.specializations> "Legislator" .
+<Prayut_Chan-o-cha> <people.person.nationality> "Thailand" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<Kidney_Stone> <medicine.disease.risk_factors> "Male" .
+<Politician> <type.type.properties> "Election campaigns" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<Actinic_keratosis> <medicine.disease.risk_factors> "Male" .
+<Flashman> <book.written_work.subjects> "Soldier" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<Rebel> <people.profession.specialization_of> "Politician" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010hfn6w" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<Royal_Thai_Army> <organization.organization.leadership> "m.0w2qng1" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106622v" .
+<Khao_Yai_National_Park> <location.location.partially_contained_by> "m.010sh5r_" .
+<Beyond_the_Battlefield:_The_Ordinary_Life_and_Extraordinary_Times_of_the_Civil_War_Soldier> <book.written_work.subjects> "Soldier" .
+<Soldier> <media_common.quotation_subject.quotations_about_this_subject> "But in a larger sense we cannot dedicate, we cannot consecrate, we cannot hallow this ground. The brave men, living and dead, who struggled here, have consecrated it far above our poor power to add or detract." .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<Flashman_and_the_Angel_of_the_Lord> <book.written_work.next_in_series> "Flashman and the Tiger" .
+<Seksan_Sukpimai> <people.person.gender> "Male" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Veeraphol Sahaprom" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<Thai_Language> <language.human_language.region> "Asia" .
+<Politician_&_Trade_Unionist> <common.topic.notable_types> "Profession" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010gyy16" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "Lam Thamenchai District" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Suriyan Sor Rungvisai" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<So,_as_you_go_into_battle,_remember_your_ancestors_and_remember_your_descendants.> <media_common.quotation.subjects> "Soldier" .
+<Politician> <type.type.properties> "Government Positions Held" .
+<Officeholder> <type.property.reverse_property> "Government Positions Held" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm06y" .
+<Khao_Yai_National_Park> <travel.tourist_attraction.near_travel_destination> "Nakhon Ratchasima Province" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Male" .
+<Flashman's_Lady> <book.written_work.previous_in_series> "Flashman in the Great Game" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010g2582" .
+<Nattapat_Wipatcorntragoon> <people.person.nationality> "Thailand" .
+<Soldier> <book.book_subject.works> "Sometimes It Was Beautiful" .
+<Consul> <common.topic.notable_types> "Profession" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<Politician> <common.topic.article> "m.02xlj10" .
+<Tribal_Rights_Leader> <common.topic.notable_types> "Profession" .
+<Kyphosis> <medicine.disease.risk_factors> "Male" .
+<Takkatan_Chonlada> <people.person.gender> "Female" .
+<Prayut_Chan-o-cha> <people.person.children> "Nittha Chan-ocha" .
+<National_Council_for_Peace_and_Order> <organization.organization.geographic_scope> "Thailand" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<But_in_a_larger_sense_we_cannot_dedicate,_we_cannot_consecrate,_we_cannot_hallow_this_ground._The_brave_men,_living_and_dead,_who_struggled_here,_have_consecrated_it_far_above_our_poor_power_to_add_or_detract.> <media_common.quotation.subjects> "Soldier" .
+<Environmentalist> <people.profession.specialization_of> "Politician" .
+<Syphilis> <medicine.disease.symptoms> "Hair loss" .
+<Politician> <rdf-schema#domain> "Political Party Tenure" .
+<Jimi_Agbaje> <common.topic.notable_types> "Politician" .
+<Thailand> <base.aareas.schema.administrative_area.pertinent_type> "Thai region" .
+<Alaskan_Health_Care_Leader> <people.profession.specialization_of> "Politician" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "g.121_6290" .
+<Myocardial_Ischemia> <medicine.disease.symptoms> "heart attack" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "g.1q5bsz8q9" .
+<Flashman_and_the_Angel_of_the_Lord> <book.written_work.previous_in_series> "Flashman and the Mountain of Light" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010l2x8z" .
+<Prayut_Chan-o-cha> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Thailand> <location.country.administrative_divisions> "Nakhon Ratchasima Province" .
+<Flashman_and_the_Dragon> <book.written_work.next_in_series> "Flashman and the Mountain of Light" .
+<Bundeswehr_G36> <common.image.appears_in_topic_gallery> "Soldier" .
+<Naraporn_Chan-ocha> <people.person.nationality> "Thailand" .
+<Date_of_birth> <type.property.schema> "Person" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.012g8gyl> <government.political_party_tenure.politician> "Prayut Chan-o-cha" .
+<Tanya_Chan-ocha> <freebase.valuenotation.has_value> "Date of birth" .
+<Officeholder> <type.property.expected_type> "Politician" .
+<Consul> <people.profession.specialization_of> "Politician" .
+<Nattapat_Wipatcorntragoon> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.01062wns" .
+<Political_Attache> <people.profession.specialization_of> "Politician" .
+<m.09x3j7h> <common.webpage.topic> "Politician" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "Nong Bun Mak District" .
+<Politician> <people.profession.specializations> "Mayor of Montazels" .
+<This_Is_Our_War:_A_Soldiers'_Portfolio> <book.written_work.subjects> "Soldier" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Female" .
+<Nathalie_Kosciusko-Morizet> <people.person.gender> "Female" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660mk" .
+<Thailand> <base.aareas.schema.administrative_area.subdividing_type> "Thai region" .
+<Autism> <medicine.disease.risk_factors> "Male" .
+<Soldier> <book.book_subject.works> "Beyond the Battlefield: The Ordinary Life and Extraordinary Times of the Civil War Soldier" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Nittha_Chan-ocha> <common.topic.notable_for> "g.11bbwz3dmk" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661x1" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Urolithiasis> <medicine.disease.risk_factors> "Male" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0_z2yh1" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Meningococcal_disease> <medicine.disease.risk_factors> "Male" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<Marksman> <people.profession.specialization_of> "Soldier" .
+<Tanya_Chan-ocha> <people.person.parents> "Naraporn Chan-ocha" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<Prayut_Chan-o-cha> <people.person.children> "Tanya Chan-ocha" .
+<Nittha_Chan-ocha> <people.person.parents> "Prayut Chan-o-cha" .
+<Flashman_and_the_Mountain_of_Light> <book.written_work.next_in_series> "Flashman and the Angel of the Lord" .
+<Politician> <common.topic.webpage> "m.09xrn7q" .
+<Nakhon_Ratchasima_Province> <travel.travel_destination.tourist_attractions> "Khao Yai National Park" .
+<Thongthong_Mokjok> <freebase.valuenotation.has_value> "Parents" .
+<Tanya_Chan-ocha> <people.person.nationality> "Thailand" .
+<Charioteer> <people.profession.specialization_of> "Soldier" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<Myocardial_Ischemia> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Prayut_Chan-o-cha> <common.topic.notable_types> "Politician" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107yfr1" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<National_Defence_College_of_Thailand> <education.educational_institution.students_graduates> "m.010vt5_8" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010hfn4_" .
+<Tongchai_Prasongsanti> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<Nakhon_Ratchasima_Province> <common.topic.notable_types> "Administrative Division" .
+<Soldier> <common.topic.image> "Modern soldiers" .
+<Seborrheic_dermatitis> <medicine.symptom.symptom_of> "Parkinson's disease" .
+<Party_organizer> <common.topic.notable_types> "Profession" .
+<Tribal_chief> <people.profession.specialization_of> "Politician" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<Profession> <freebase.type_profile.strict_included_types> "Topic" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0102zbqv" .
+<Person> <type.type.properties> "Date of birth" .
+<Kaposi's_sarcoma> <medicine.disease.risk_factors> "Male" .
+<Person> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<Politician> <people.profession.specializations> "Consul" .
+<Bangkok> <location.administrative_division.country> "Thailand" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010634jy" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Politician> <base.ontologies.ontology_class.equivalent_classes> "m.0dj2gvd" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661wn" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "United States Representative" .
+<Politician> <people.profession.specializations> "Party organizer" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Attention deficit hyperactivity disorder" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Transient_ischemic_attack> <medicine.disease.causes> "Cardiovascular disease" .
+<Usurper> <people.profession.specialization_of> "Politician" .
+<m.011n48tl> <freebase.valuenotation.has_no_value> "To" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<Politician> <people.profession.specializations> "Children’s Rights Leader" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "g.123dm1p_n" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<Rural_Development_Leader> <common.topic.notable_types> "Profession" .
+<Politician> <owl#inverseOf> "Party" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5phw" .
+<Political_Attache> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<Suranaree_University_of_Technology> <education.educational_institution_campus.educational_institution> "Suranaree University of Technology" .
+<Transient_ischemic_attack> <medicine.disease.risk_factors> "Male" .
+<Retroperitoneal_fibrosis> <medicine.disease.risk_factors> "Male" .
+<Naraporn_Chan-ocha> <people.person.children> "Nittha Chan-ocha" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Thanwarin Sukhaphisit" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010634qd" .
+<Tanya_Chan-ocha> <people.person.sibling_s> "m.011nw_qg" .
+<Politician> <type.type.expected_by> "Resulting head of state" .
+<Akinwunmi_Ambode> <common.topic.notable_types> "Person" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zmdy" .
+<Nittha_Chan-ocha> <freebase.valuenotation.has_value> "Date of birth" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<Person> <type.type.properties> "Place of birth" .
+<Soldier> <people.profession.specializations> "captured guards" .
+<Holiday_Letter_for_a_Poet_Gone_to_War> <book.written_work.subjects> "Soldier" .
+<Soldier> <people.profession.specializations> "American Soldier" .
+<Politics> <people.professional_field.professions_in_this_field> "Politician" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Chatchai Sasakul" .
+<Mercenary> <common.topic.notable_types> "Profession" .
+<Politician> <book.book_subject.works> "All the King's Men" .
+<Tanya_Chan-ocha> <common.topic.notable_types> "Person" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0100_xqy" .
+<Politician> <people.profession.specializations> "Political strategist" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "g.1yjg82129" .
+<Ninja> <people.profession.specialization_of> "Soldier" .
+<Condottiere> <people.profession.specialization_of> "Soldier" .
+<Profession> <freebase.type_profile.published> "Published" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0_z2ydl" .
+<Politician> <people.profession.specializations> "Alaskan Health Care Leader" .
+<Politician> <people.profession.specializations> "local politician" .
+<m.010vtc4w> <education.education.institution> "Chulachomklao Royal Military Academy" .
+<Politician_&_Trade_Unionist> <people.profession.specialization_of> "Politician" .
+<Gastritis> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106614m" .
+<ZasPorn> <common.topic.subject_of> "Female" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107ycgl" .
+<Seborrheic_dermatitis> <medicine.disease.risk_factors> "Male" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Pongthep Kradonchamnan" .
+<Soldier_Field> <symbols.namesake.named_after> "Soldier" .
+<Vive_Targi_Kielce> <sports.sports_team.gender> "Male" .
+<Town_supervisor> <common.topic.notable_types> "Profession" .
+<Maithai_Huajaisin> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Hair_loss> <medicine.risk_factor.diseases> "Stroke" .
+<Thanwarin_Sukhaphisit> <people.person.nationality> "Thailand" .
+<Dragoon> <common.topic.notable_types> "Profession" .
+<Akinwunmi_Ambode> <freebase.valuenotation.has_value> "Children" .
+<Soldier> <people.profession.specializations> "Dragoon" .
+<Soldier> <people.profession.specializations> "Marksman" .
+<Soldier> <book.book_subject.works> "Flashman and the Mountain of Light" .
+<Politician> <type.type.expected_by> "Sponsor" .
+<Nittha_Chan-ocha> <people.person.sibling_s> "m.011nw_qg" .
+<Labor_leader> <common.topic.notable_types> "Profession" .
+<Tanya_Chan-ocha> <people.person.parents> "Prayut Chan-o-cha" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010634jm" .
+<Politician> <type.type.expected_by> "Politician" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Takkatan Chonlada" .
+<m.0w2qng1> <freebase.valuenotation.has_no_value> "To" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<Chatchai_Sasakul> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<m.0b45tny> <common.webpage.topic> "Politician" .
+<Rapeeporn_Puengphet> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Politician> <people.profession.specializations> "Rebel" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zn9p" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Thongthong Mokjok" .
+<Profession> <freebase.type_hints.included_types> "Topic" .
+<Nittha_Chan-ocha> <people.person.gender> "Female" .
+<Politician> <people.profession.specializations> "City council" .
+<Benign_prostatic_hyperplasia> <medicine.disease.risk_factors> "Male" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Yolratee Komklong" .
+<Soldier> <media_common.quotation_subject.quotations_about_this_subject> "I could have become a soldier if I had waited; I knew more about retreating than the man who invented retreating." .
+<m.09xvt17> <common.webpage.topic> "Soldier" .
+<Thai_Language> <language.human_language.countries_spoken_in> "Thailand" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Nakhon_Ratchasima_Province> <common.topic.image> "Map of Thailand highlighting Nakhon Ratchasima Province}" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<Nathalie_Kosciusko-Morizet> <common.topic.subject_of> "Politician" .
+<Politician> <common.topic.webpage> "m.09w_20n" .
+<Soldier> <common.topic.image> "Bundeswehr G36" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "g.1229cxt7" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<Party_leader> <people.profession.specialization_of> "Politician" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<Politician> <type.property.reverse_property> "Party" .
+<Tongchai_Prasongsanti> <freebase.valuenotation.has_value> "Children" .
+<Politician> <type.type.expected_by> "Member" .
+<Soldier> <people.profession.specializations> "Ninja" .
+<Prayut_Chan-o-cha> <freebase.valuenotation.has_no_value> "Party" .
+<Nittha_Chan-ocha> <people.person.nationality> "Thailand" .
+<m.011n48tl> <government.government_position_held.office_position_or_title> "Prime Minister of Thailand" .
+<Politician> <common.topic.subjects> "Akinwunmi Ambode" .
+<Male> <common.topic.image> "male.jpg" .
+<Citizen_Soldier> <people.profession.specialization_of> "Soldier" .
+<Political_strategist> <people.profession.specialization_of> "Politician" .
+<Women_warriors_in_literature_and_culture> <people.profession.specialization_of> "Soldier" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<Male> <common.topic.article> "m.05zpq8" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066mfd" .
+<Gout> <medicine.disease_cause.diseases> "Kidney Stone" .
+<The_Zouave> <visual_art.art_series.subject> "Soldier" .
+<Flashman_and_the_Mountain_of_Light> <book.written_work.previous_in_series> "Flashman and the Dragon" .
+<Flash_for_Freedom!> <book.written_work.next_in_series> "Flashman at the Charge" .
+<Thongthong_Mokjok> <people.person.gender> "Male" .
+<I_could_have_become_a_soldier_if_I_had_waited;_I_knew_more_about_retreating_than_the_man_who_invented_retreating.> <media_common.quotation.subjects> "Soldier" .
+<Soldier> <book.book_subject.works> "Holiday Letter for a Poet Gone to War" .
+<Person> <freebase.type_profile.published> "Published" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066mgb" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010gyy4b" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107ydjf" .
+<Hair_loss> <medicine.disease.risk_factors> "Male" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.011n48tl> <government.government_position_held.basic_title> "Prime minister" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0109kkwc" .
+<Ventricular_tachycardia> <medicine.symptom.symptom_of> "heart attack" .
+<Soldier> <book.book_subject.works> "Flashman and the Tiger" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Emphysema> <medicine.disease.risk_factors> "Male" .
+<Kawasaki_disease> <medicine.disease.risk_factors> "Male" .
+<Party> <type.property.expected_type> "Political Party Tenure" .
+<Askari> <common.topic.notable_types> "Profession" .
+<Flashman's_Lady> <book.written_work.next_in_series> "Flashman and the Redskins" .
+<City_council> <people.profession.specialization_of> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<Pongthep_Kradonchamnan> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<Prayut_Chan-o-cha> <people.person.education> "m.010vt5_8" .
+<Politician> <type.property.expected_type> "Politician" .
+<Soldier> <book.book_subject.works> "Flashman on the March" .
+<Politician> <common.topic.article> "m.0fj9r" .
+<Tanya_Chan-ocha> <people.person.gender> "Female" .
+<Politician> <freebase.type_profile.equivalent_topic> "Politician" .
+<m.011nwrcc> <people.marriage.spouse> "Prayut Chan-o-cha" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<Ectodermal_dysplasia> <medicine.disease.symptoms> "Hair loss" .
+<Politician> <type.type.expected_by> "Candidates" .
+<Tongchai_Prasongsanti> <people.person.gender> "Male" .
+<Antisocial_personality_disorder> <medicine.disease.risk_factors> "Male" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<Gout> <medicine.disease.risk_factors> "Male" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0_z2y0f" .
+<Cossack> <people.profession.specialization_of> "Soldier" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Bell Nuntita" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<Savannah,_Immortal_City:_Volume_One_of_the_Civil_War_Savannah_Series> <book.written_work.subjects> "Soldier" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0hm" .
+<Hodgkin's_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Ectodermal_dysplasia> <medicine.disease.risk_factors> "Male" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107ydp4" .
+<Flash_for_Freedom!> <book.written_work.previous_in_series> "Royal Flash" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Ambassador" .
+<Flashman_and_the_Dragon> <book.written_work.previous_in_series> "Flashman and the Redskins" .
+<Flashman_in_the_Great_Game> <book.written_work.next_in_series> "Flashman's Lady" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107h_97" .
+<Tik_Shiro> <people.person.nationality> "Thailand" .
+<Anaplastic_thyroid_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<Maithai_Huajaisin> <people.person.nationality> "Thailand" .
+<Nakhon_Ratchasima_Province> <location.statistical_region.population> "g.11bc88jdqg" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107yfw_" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Flashman_and_the_Redskins> <book.written_work.next_in_series> "Flashman and the Dragon" .
+<Tongchai_Prasongsanti> <people.person.nationality> "Thailand" .
+<Prefect> <people.profession.specialization_of> "Politician" .
+<Legislator> <people.profession.specialization_of> "Politician" .
+<Sunisa_Srangthaisong> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0ln" .
+<Ventricular_tachycardia> <medicine.disease.risk_factors> "Male" .
+<Politician> <common.topic.webpage> "m.09y01p3" .
+<Flashman_at_the_Charge> <book.written_work.next_in_series> "Flashman in the Great Game" .
+<Phimai> <location.location.containedby> "Nakhon Ratchasima Province" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106623h" .
+<Prayut_Chan-o-cha> <people.person.spouse_s> "m.011nwrcc" .
+<Politician> <people.profession.specializations> "Tyrant" .
+<Prayut_Chan-o-cha> <people.person.education> "m.010vtc4w" .
+<Soldier> <people.profession.specializations> "Citizen Soldier" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010634q3" .
+<Soldier> <book.book_subject.works> "Flashman and the Angel of the Lord" .
+<Chatchai_Sasakul> <people.person.gender> "Male" .
+<ZasPorn> <common.topic.subject_of> "Male" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Kiattisak Toopkhuntod" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<Nathalie_Kosciusko-Morizet> <people.person.profession> "Politician" .
+<Transient_ischemic_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660kd" .
+<Yolratee_Komklong> <freebase.valuenotation.has_value> "Date of birth" .
+<Sniper> <people.profession.specialization_of> "Soldier" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Politician> <common.topic.subjects> "Nathalie Kosciusko-Morizet" .
+<Person> <freebase.type_profile.strict_included_types> "Animate" .
+<Tanya_Chan-ocha> <common.topic.notable_for> "g.11bbwyy2ms" .
+<Administrative_Division> <freebase.type_hints.included_types> "Topic" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0_z2yks" .
+<Thanwarin_Sukhaphisit> <people.person.gender> "Male" .
+<Soldier> <symbols.name_source.namesakes> "Soldier Field" .
+<Flashman_and_the_Angel_of_the_Lord> <book.written_work.subjects> "Soldier" .
+<Politician> <people.profession.specializations> "Oficer-Major of King Zog  I" .
+<local_politician> <common.topic.notable_types> "Profession" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<Soldier> <common.topic.notable_types> "Profession" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<Dragoon> <people.profession.specialization_of> "Soldier" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "United States Senator" .
+<Soldier> <common.topic.webpage> "m.09yqhz9" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "Mueang Yang District" .
+<Politician> <type.type.expected_by> "Polican" .
+<local_politician> <people.profession.specialization_of> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<Nakhon_Ratchasima_Province> <base.schemastaging.context_name.pronunciation> "m.01315mfn" .
+<I_want_to_see_you_shoot_the_way_you_shout.> <media_common.quotation.subjects> "Soldier" .
+<Soldier> <media_common.quotation_subject.quotations_about_this_subject> "A good soldier, like a good horse, cannot be of a bad color." .
+<Prayut_Chan-o-cha> <people.person.profession> "Politician" .
+<Tetralogy_of_Fallot> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Seksan_Sukpimai> <people.person.nationality> "Thailand" .
+<Mayor_of_Auckland> <people.profession.specialization_of> "Politician" .
+<Legislator> <common.topic.notable_types> "Profession" .
+<Soldier> <common.topic.article> "m.099mq" .
+<m.011nwrcc> <people.marriage.type_of_union> "Marriage" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Hair_loss> <medicine.symptom.symptom_of> "Ectodermal dysplasia" .
+<Flashman_and_the_Redskins> <book.written_work.subjects> "Soldier" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Thongthong_Mokjok> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Bell_Nuntita> <music.artist.origin> "Nakhon Ratchasima" .
+<Politician> <type.type.expected_by> "Taoiseach" .
+<Flashman_at_the_Charge> <book.written_work.subjects> "Soldier" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Prime minister" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107yglm" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<Pongthep_Kradonchamnan> <freebase.valuenotation.has_value> "Date of birth" .
+<Dupuytren's_contracture> <medicine.disease.risk_factors> "Male" .
+<Politician> <people.profession.specializations> "Advocacy" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5pjs" .
+<Soldier> <people.profession.specializations> "Fusilier" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<Politician> <common.topic.webpage> "m.09xt6w_" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Politician> <common.topic.webpage> "m.09x3j7h" .
+<captured_guards> <people.profession.specialization_of> "Soldier" .
+<Rapeeporn_Puengphet> <people.person.gender> "Female" .
+<m.0w2qng1> <organization.leadership.role> "Commander-in-chief" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105znf1" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<Soldier> <people.profession.specializations> "Cossack" .
+<Politician> <people.profession.specializations> "Usurper" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zpl2" .
+<Bureaucrat> <common.topic.notable_types> "Profession" .
+<Soldier> <base.schemastaging.context_name.pronunciation> "g.125_rtpfk" .
+<Sometimes_It_Was_Beautiful> <book.written_work.subjects> "Soldier" .
+<Non-Hodgkin_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Tyrant> <common.topic.notable_types> "Profession" .
+<Chairman,_Chivalry_Democratic_Party> <people.profession.specialization_of> "Politician" .
+<Public_Health_Leader> <people.profession.specialization_of> "Politician" .
+<Thailand> <organization.organization_scope.organizations_with_this_scope> "National Council for Peace and Order" .
+<m.010sh5r_> <location.partial_containment_relationship.partially_contains> "Khao Yai National Park" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010dyb1l" .
+<Nathalie_Kosciusko-Morizet> <common.topic.notable_types> "Politician" .
+<Rapeeporn_Puengphet> <freebase.valuenotation.has_value> "Parents" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011vfplb" .
+<Takkatan_Chonlada> <people.person.nationality> "Thailand" .
+<Politician> <type.type.properties> "Legislative committees served on" .
+<m.09x1dpm> <common.webpage.topic> "Politician" .
+<Politician> <freebase.type_profile.strict_included_types> "Topic" .
+<Labor_leader> <people.profession.specialization_of> "Politician" .
+<Royal_Flash> <book.written_work.previous_in_series> "Flashman" .
+<Energy_Policy_Specialist> <common.topic.notable_types> "Profession" .
+<Soldier> <book.book_subject.works> "When the Nines Roll Over and Other Stories" .
+<Politician> <freebase.type_profile.strict_included_types> "Person" .
+<Thailand> <location.country.capital> "Bangkok" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107ydnj" .
+<Hair_loss> <medicine.symptom.symptom_of> "Seborrheic dermatitis" .
+<Party> <type.property.schema> "Politician" .
+<Aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<Politician> <people.profession.specializations> "Political Attache" .
+<Person> <type.type.properties> "Parents" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010hn395" .
+<Oficer-Major_of_King_Zog__I> <common.topic.notable_types> "Profession" .
+<Politician> <people.profession.specializations> "Rural Development Leader" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "Phra Thong Kham District" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<Soldier> <people.profession.specializations> "Pioneer" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105znt_" .
+<Politician> <type.type.domain> "Government" .
+<Thailand> <government.governmental_jurisdiction.governing_officials> "m.011n48tl" .
+<Prayut_Chan-o-cha> <government.politician.government_positions_held> "m.011n48tl" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<Tongchai_Prasongsanti> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Soldier> <book.book_subject.works> "Flashman at the Charge" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<Old_soldiers_never_die;_they_just_fade_away.> <media_common.quotation.subjects> "Soldier" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<Prime_Minister_of_Thailand> <government.government_office_or_title.office_holders> "m.011n48tl" .
+<Every_citizen_should_be_a_soldier._This_was_the_case_with_the_Greeks_and_Romans,_and_must_be_that_of_every_free_state.> <media_common.quotation.subjects> "Soldier" .
+<Veeraphol_Sahaprom> <people.person.nationality> "Thailand" .
+<Politician> <people.profession.specializations> "Chairman, Chivalry Democratic Party" .
+<m.09yqhz9> <common.webpage.topic> "Soldier" .
+<Pectus_excavatum> <medicine.disease.risk_factors> "Male" .
+<Holiday_Letter_for_a_Poet_Gone_to_War> <book.written_work.subjects> "Military branch" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.01062wld" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<Maithai_Huajaisin> <people.person.gender> "Male" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<Beyond_the_Battlefield:_The_Ordinary_Life_and_Extraordinary_Times_of_the_Civil_War_Soldier> <book.written_work.subjects> "Military branch" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678nn" .
+<Place_of_birth> <type.property.schema> "Person" .
+<Politician> <freebase.equivalent_topic.equivalent_type> "Politician" .
+<Commander-in-chief> <organization.role.leaders> "m.0w2qng1" .
+<Politician> <type.type.expected_by> "Winner(s)" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjp5" .
+<Nakhon_Ratchasima> <location.location.containedby> "Nakhon Ratchasima Province" .
+<Pongthep_Kradonchamnan> <freebase.valuenotation.has_value> "Parents" .
+<Politician> <people.profession.specializations> "Environmentalist" .
+<Pyloric_stenosis> <medicine.disease.risk_factors> "Male" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zp46" .
+<Modern_soldiers> <common.image.appears_in_topic_gallery> "Soldier" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106789c" .
+<Civil_Rights_Leader> <common.topic.notable_types> "Profession" .
+<Soldier> <people.profession.specializations> "Charioteer" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660hr" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<m.09wsrmx> <common.webpage.topic> "Soldier" .
+<Marksman> <common.topic.notable_types> "Profession" .
+<Prayut_Chan-o-cha> <business.board_member.leader_of> "m.0w2qng1" .
+<Soldier> <people.profession.specializations> "Women warriors in literature and culture" .
+<Soldier> <book.book_subject.works> "Flashman" .
+<When_the_Nines_Roll_Over_and_Other_Stories> <book.written_work.subjects> "Soldier" .
+<Soldier> <visual_art.art_subject.art_series_on_the_subject> "The Zouave" .
+<Nakhon_Ratchasima_Province> <common.topic.image> "Thao Suranaree Statue Korat Thailand" .
+<Prayut_Chan-o-cha> <government.politician.party> "m.012g8gyl" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0100_x8c" .
+<Flashman_and_the_Tiger> <book.written_work.subjects> "Soldier" .
+<Politician> <people.profession.specializations> "Prefect" .
+<Cossack> <common.topic.notable_types> "Profession" .
+<Politician> <type.type.properties> "Party" .
+<Diplomat> <common.topic.notable_types> "Profession" .
+<Politician> <common.topic.notable_types> "Profession" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661vm" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<Nakhon_Ratchasima> <location.location.containedby> "Thailand" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<Bell_Nuntita> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107yc85" .
+<Tik_Shiro> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<male.jpg> <common.image.appears_in_topic_gallery> "Male" .
+<Condottiere> <common.topic.notable_types> "Profession" .
+<Ninja> <common.topic.notable_types> "Profession" .
+<Children’s_Rights_Leader> <people.profession.specialization_of> "Politician" .
+<Fusilier> <people.profession.specialization_of> "Soldier" .
+<National_Council_for_Peace_and_Order> <government.governmental_body.jurisdiction> "Thailand" .
+<Sunisa_Srangthaisong> <people.person.nationality> "Thailand" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0mg" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010g1ntl" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<Politician> <freebase.type_profile.kind> "Title" .
+<Royal_Flash> <book.written_work.subjects> "Soldier" .
+<Politician> <type.type.expected_by> "politician" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<Pioneer> <common.topic.notable_types> "Profession" .
+<Rebel> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Prayut Chan-o-cha" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106612h" .
+<Soldier> <people.profession.part_of_professional_field> "Military branch" .
+<Leprosy> <medicine.disease.risk_factors> "Male" .
+<m.09w1p59> <common.webpage.topic> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0101bdq3" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<neilplus's_types> <freebase.domain_profile.category> "Male" .
+<m.09y01p3> <common.webpage.topic> "Politician" .
+<Politician> <common.topic.webpage> "m.09yw165" .
+<Soldier> <base.schemastaging.context_name.pronunciation> "m.0132_92r" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0101h_l2" .
+<Nakhon_Ratchasima_Province> <common.topic.notable_for> "g.1256b8q_w" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Yodmongkol Vor Saengthep" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010662rx" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Pongthep_Kradonchamnan> <people.person.nationality> "Thailand" .
+<Politician> <freebase.type_hints.included_types> "Topic" .
+<Non-gonococcal_urethritis> <medicine.disease.risk_factors> "Male" .
+<Veeraphol_Sahaprom> <people.person.gender> "Male" .
+<Gladiator> <common.topic.notable_types> "Profession" .
+<Thai_Language> <language.human_language.main_country> "Thailand" .
+<Prayut_Chan-o-cha> <people.person.gender> "Male" .
+<Female> <common.topic.subjects> "ZasPorn" .
+<Quartermaster> <people.profession.specialization_of> "Soldier" .
+<Children> <type.property.master_property> "Parents" .
+<Royal_Flash> <book.written_work.next_in_series> "Flash for Freedom!" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010662by" .
+<Bell_Nuntita> <people.person.nationality> "Thailand" .
+<Gout> <medicine.icd_9_cm_classification.includes_classifications> "Gout" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<Politician> <people.profession.specializations> "Tribal chief" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<Soldier> <media_common.quotation_subject.quotations_about_this_subject> "It is foolish and wrong to mourn the men who died. Rather we should thank God that such men lived." .
+<Civil_Rights_Leader> <people.profession.specialization_of> "Politician" .
+<Soldier> <media_common.quotation_subject.quotations_about_this_subject> "Theirs is not to make reply: Theirs is not to reason why: Theirs is but to do and die." .
+<Flashman_and_the_Dragon> <book.written_work.subjects> "Soldier" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0_z2ysc" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Seksan Sukpimai" .
+<Children’s_Rights_Leader> <common.topic.notable_types> "Profession" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<Prime_Minister_of_Thailand> <government.government_office_or_title.category> "Prime minister" .
+<Politician> <type.type.expected_by> "Winner" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107ydq3" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "Bua Lai District" .
+<Politician> <people.profession.specializations> "Town supervisor" .
+<Athlete's_foot> <medicine.disease.risk_factors> "Male" .
+<Thailand> <government.governmental_jurisdiction.government_bodies> "National Council for Peace and Order" .
+<It_is_foolish_and_wrong_to_mourn_the_men_who_died._Rather_we_should_thank_God_that_such_men_lived.> <media_common.quotation.subjects> "Soldier" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<AIDS_Policy_Specialist> <people.profession.specialization_of> "Politician" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107yb0z" .
+<Paget's_disease_of_bone> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010g6wtj" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0_z2y18" .
+<Takkatan_Chonlada> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<m.011nwrcc> <freebase.valuenotation.has_no_value> "To" .
+<Akinwunmi_Ambode> <people.person.profession> "Politician" .
+<Statesman> <common.topic.notable_types> "Profession" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<Thai_region> <freebase.type_hints.included_types> "Topic" .
+<Tetralogy_of_Fallot> <medicine.disease.risk_factors> "Male" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0_z2ygf" .
+<Urethritis> <medicine.disease.risk_factors> "Male" .
+<Soldier> <people.profession.specializations> "Askari" .
+<All_the_King's_Men> <book.written_work.subjects> "Politician" .
+<Yolratee_Komklong> <people.person.gender> "Female" .
+<m.09x5gkq> <common.webpage.topic> "Politician" .
+<Nattapat_Wipatcorntragoon> <people.person.gender> "Female" .
+<Politician> <type.property.schema> "Political Party Tenure" .
+<m.0w2qng1> <organization.leadership.person> "Prayut Chan-o-cha" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011r12cq" .
+<m.010vtc4w> <education.education.student> "Prayut Chan-o-cha" .
+<Politician> <type.type.expected_by> "Responsible Minister" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<Nakhon_Ratchasima_Province> <location.location.geolocation> "m.0pby8s7" .
+<Soldier> <people.profession.specializations> "Quartermaster" .
+<Tanya_Chan-ocha> <freebase.valuenotation.has_value> "Place of birth" .
+<Housing_and_Community_Development_Leader> <common.topic.notable_types> "Profession" .
+<Tik_Shiro> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Politician> <people.profession.specializations> "Housing and Community Development Leader" .
+<Pioneer> <people.profession.specialization_of> "Soldier" .
+<Politician> <type.type.expected_by> "Officeholder" .
+<Politician> <people.profession.specializations> "Tribal Rights Leader" .
+<Children> <type.property.expected_type> "Person" .
+<Politician> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<Politician> <people.profession.specializations> "Statesman" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<Oficer-Major_of_King_Zog__I> <people.profession.specialization_of> "Politician" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "Thepharak District" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "Nakhon Ratchasima Rajabhat University" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zmmt" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.012vsxv7" .
+<m.09x20cj> <common.webpage.topic> "Politician" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Maithai_Huajaisin> <freebase.valuenotation.has_value> "Children" .
+<Thongthong_Mokjok> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<American_Soldier> <people.profession.specialization_of> "Soldier" .
+<Prayut_Chan-o-cha> <people.person.profession> "Soldier" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<Nakhon_Ratchasima_Rajabhat_University> <location.location.containedby> "Thailand" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<Politician> <common.topic.subject_of> "Jimi Agbaje" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Politician> <base.schemastaging.context_name.pronunciation> "g.125_lw10d" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010634l5" .
+<Energy_Policy_Specialist> <people.profession.specialization_of> "Politician" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010634j9" .
+<Multiple_myeloma> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "Suranaree University of Technology" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106629x" .
+<Suranaree_University_of_Technology> <education.educational_institution.campuses> "Suranaree University of Technology" .
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Golfer's_elbow> <medicine.disease.risk_factors> "Male" .
+<Veeraphol_Sahaprom> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Soldier> <common.topic.webpage> "m.09wsrmx" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5pl8" .
+<m.09xrn7q> <common.webpage.topic> "Politician" .
+<Soldier> <base.ontologies.ontology_instance.equivalent_instances> "m.07ng2bd" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.011nwrcc> <people.marriage.spouse> "Naraporn Chan-ocha" .
+<Sebaceous_cyst> <medicine.disease.risk_factors> "Male" .
+<Club_foot> <medicine.disease.risk_factors> "Male" .
+<Akinwunmi_Ambode> <people.person.quotations> "Akinwunmi Ambode" .
+<Flashman_and_the_Mountain_of_Light> <book.written_work.subjects> "Soldier" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<Thailand> <base.locations.countries.continent> "Asia" .
+<Jimi_Agbaje> <common.topic.subjects> "Politician" .
+<Parents> <rdf-schema#domain> "Person" .
+<Nakhon_Ratchasima_Province> <location.location.containedby> "Thailand" .
+<Soldier> <book.book_subject.works> "Flashman in the Great Game" .
+<Flashman_on_the_March> <book.written_work.previous_in_series> "Flashman and the Tiger" .
+<Yolratee_Komklong> <people.person.place_of_birth> "Nakhon Ratchasima Province" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjm1" .
+<Place_of_birth> <rdf-schema#domain> "Person" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<Parents> <owl#inverseOf> "Children" .
+<Soldier> <book.book_subject.works> "Flashman and the Dragon" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066106" .
+<Rapeeporn_Puengphet> <people.person.nationality> "Thailand" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010679yq" .
+<Politician> <common.topic.webpage> "m.09x20cj" .
+<Date_of_birth> <rdf-schema#domain> "Person" .
+<Chairman,_Chivalry_Democratic_Party> <common.topic.notable_types> "Profession" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "Phimai" .
+<Bangkok> <base.biblioness.bibs_location.country> "Thailand" .
+<Modern_soldiers.> <common.image.appears_in_topic_gallery> "Soldier" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105znh0" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106b4sm" .
+<Tik_Shiro> <people.person.gender> "Male" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<Akinwunmi_Ambode> <people.person.gender> "Male" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Thai_region> <base.aareas.schema.administrative_area_type.pertains_to> "Thailand" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<Nakhon_Ratchasima_Province> <location.administrative_division.country> "Thailand" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<Rural_Development_Leader> <people.profession.specialization_of> "Politician" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0107yfpd" .
+<m.0w2qng1> <organization.leadership.organization> "Royal Thai Army" .
+<Nakhon_Ratchasima_Province> <location.location.contains> "Nakhon Ratchasima" .
+<Theirs_is_not_to_make_reply:_Theirs_is_not_to_reason_why:_Theirs_is_but_to_do_and_die.> <media_common.quotation.subjects> "Soldier" .
+<Politician> <freebase.type_profile.strict_included_types> "Animate" .
+<Usurper> <common.topic.notable_types> "Profession" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zndc" .
+<Naraporn_Chan-ocha> <people.person.spouse_s> "m.011nwrcc" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<Flashman_and_the_Tiger> <book.written_work.previous_in_series> "Flashman and the Angel of the Lord" .
+<Chulachomklao_Royal_Military_Academy> <education.educational_institution.students_graduates> "m.010vtc4w" .
+<m.012g8gyl> <government.political_party_tenure.party> "Independent" .
+<Risk_Factor> <freebase.type_hints.included_types> "Topic" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5prp" .
+<Khao_Yai_National_Park> <location.location.containedby> "Thailand" .
+<Soldier> <media_common.quotation_subject.quotations_about_this_subject> "So, as you go into battle, remember your ancestors and remember your descendants." .
+<Politician> <people.profession.specializations> "Party leader" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678k6" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<Female> <medicine.risk_factor.diseases> "Kyphosis" .
+<Nakhon_Ratchasima_Rajabhat_University> <location.location.containedby> "Nakhon Ratchasima Province" .
+<Nattapat_Wipatcorntragoon> <freebase.valuenotation.has_value> "Parents" .
+<Males> <base.skosbase.skos_concept.equivalent_topic> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661yt" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010634kp" .
+<Politician> <type.type.expected_by> "Resulting head of government" .
+<m.010vt5_8> <education.education.institution> "National Defence College of Thailand" .
+<Flashman_in_the_Great_Game> <book.written_work.subjects> "Soldier" .
+<Tongchai_Prasongsanti> <freebase.valuenotation.has_value> "Parents" .
+<Flashman> <book.written_work.next_in_series> "Royal Flash" .
+<Mayor_of_Auckland> <common.topic.notable_types> "Profession" .
+<Jimi_Agbaje> <people.person.gender> "Male" .
+<Soldier> <people.profession.specializations> "Mercenary" .
+<Mercenary> <people.profession.specialization_of> "Soldier" .
+<m.010vt5_8> <education.education.student> "Prayut Chan-o-cha" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Town_supervisor> <people.profession.specialization_of> "Politician" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zn7k" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106613k" .
+<Thailand> <location.country.official_language> "Thai Language" .
+<Syphilis> <medicine.disease.risk_factors> "Male" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<Thai_region> <base.aareas.schema.administrative_area_type.subdivides_place> "Thailand" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<Politician> <base.ontologies.ontology_instance.equivalent_instances> "m.07ngkqq" .
+<Politician> <people.profession.specializations> "Labor leader" .
+<Thai_region> <base.aareas.schema.administrative_area_type.iso_country> "Thailand" .
+<Royal_Thai_Army> <military.armed_force.military_combatant> "Thailand" .
+<Nakhon_Ratchasima_Province> <location.location.people_born_here> "Tongchai Prasongsanti" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0101bdn_" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.01062wkm" .
+<Politician> <freebase.type_hints.included_types> "Person" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Soldier> <common.topic.notable_for> "g.12592zgnv" .
+<Kyphosis> <medicine.disease.risk_factors> "Female" .
+<Nittha_Chan-ocha> <freebase.valuenotation.has_value> "Place of birth" .
+<Person> <type.type.properties> "Children" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.0100_x7t" .
+<Naraporn_Chan-ocha> <common.topic.notable_types> "Person" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066mdj" .
+<Chatchai_Sasakul> <people.person.nationality> "Thailand" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.010634ly" .
+<Phimai> <location.location.containedby> "Thailand" .
+<Soldier> <base.descriptive_names.names.descriptive_name> "m.01062wvb" .
+<Prefect> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Party> <type.property.master_property> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<m.011nw_qg> <people.sibling_relationship.sibling> "Nittha Chan-ocha" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660nv" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Topic" .
+<Bureaucrat> <people.profession.specialization_of> "Politician" .
+<Politician> <freebase.type_profile.published> "Published" .

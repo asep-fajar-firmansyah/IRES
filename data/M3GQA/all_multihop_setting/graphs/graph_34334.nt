@@ -1,0 +1,1387 @@
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Mobile> <location.statistical_region.population> "m.066h8gl" .
+<Tim_Cook> <people.person.employment_history> "m.0gmk8j6" .
+<United_States_of_America> <location.country.first_level_divisions> "New Jersey" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010j3bf6" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "North Carolina" .
+<Missouri> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Mobile> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07ghzrz" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<North_Carolina> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Washington" .
+<United_States_of_America> <location.country.administrative_divisions> "South Dakota" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<United_States_of_America> <location.country.first_level_divisions> "Utah" .
+<United_States_of_America> <location.country.administrative_divisions> "New Jersey" .
+<Utah> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<Mobile> <location.citytown.postal_codes> "36601" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010748v3" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Mobile> <location.statistical_region.population> "m.066h8gd" .
+<Louisiana> <location.administrative_division.first_level_division_of> "United States of America" .
+<Mobile> <location.hud_foreclosure_area.total_residential_addresses> "m.07ghzrr" .
+<Tim_Cook> <people.person.profession> "Businessperson" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Maine" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.administrative_children> "United States of America" .
+<Area_code_251> <location.location.contains> "Mobile" .
+<Nevada> <base.biblioness.bibs_location.country> "United States of America" .
+<Businessperson> <people.profession.specializations> "Personal organizer" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<New_Hampshire> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Missouri> <location.administrative_division.first_level_division_of> "United States of America" .
+<Missouri> <location.location.time_zones> "Central Time Zone" .
+<Arkansas> <base.biblioness.bibs_location.country> "United States of America" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Alaska> <location.location.containedby> "United States of America" .
+<Businessperson> <common.topic.subjects> "Krishna Mali" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0107493f" .
+<Mobile> <location.hud_county_place.county> "Mobile County" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<Mobile> <location.location.containedby> "Alabama" .
+<United_States_of_America> <location.country.administrative_divisions> "Vermont" .
+<Organization_leader> <freebase.type_hints.included_types> "Person" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<Alabama> <base.biblioness.bibs_location.country> "United States of America" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<Nevada> <location.administrative_division.country> "United States of America" .
+<Mobile> <location.citytown.postal_codes> "36689" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Organization_leader> <freebase.type_profile.kind> "Role" .
+<Businessperson> <people.profession.specializations> "Events Organiser" .
+<Georgia> <base.locations.states_and_provences.country> "United States of America" .
+<Oklahoma> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Indiana" .
+<Arkansas> <location.administrative_division.country> "United States of America" .
+<TV_Character> <freebase.type_profile.strict_included_types> "Topic" .
+<Male> <common.topic.article> "m.05zpq8" .
+<Stockbroker> <common.topic.notable_types> "Profession" .
+<Oregon> <location.location.containedby> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010f3lwg" .
+<Massachusetts> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Oregon> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Alabama" .
+<m.04gcn27> <business.employment_tenure.title> "Director of North American Fulfillment" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0116rc80" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010h92fk" .
+<Children> <rdf-schema#range> "Person" .
+<Mobile> <location.statistical_region.population> "m.0hk5bdb" .
+<Person> <rdf-schema#range> "Organization leader" .
+<Parents> <type.property.reverse_property> "Children" .
+<United_States_of_America> <location.country.administrative_divisions> "Minnesota" .
+<Businessperson> <people.profession.specializations> "Antiquarian" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010k3xzj" .
+<Massachusetts> <base.biblioness.bibs_location.country> "United States of America" .
+<Businessperson> <people.profession.specializations> "Consultant" .
+<North_Dakota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Maneesha_Kumbukage> <common.topic.subjects> "Businessperson" .
+<Hawaii> <location.administrative_division.first_level_division_of> "United States of America" .
+<Mobile> <location.citytown.postal_codes> "36608" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<Businessperson> <people.profession.specializations> "Detailhandler" .
+<Missouri> <base.locations.states_and_provences.country> "United States of America" .
+<Robertsdale_High_School> <education.educational_institution.students_graduates> "m.0sw36bc" .
+<Fuqua_School_of_Business> <education.educational_institution.parent_institution> "Duke University" .
+<Businessperson> <people.profession.specializations> "Power broker" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<Businessperson> <organization.role.leaders> "m.01311h9h" .
+<m.0h3ghnk> <organization.leadership.organization> "Apple Inc." .
+<Mobile> <location.citytown.postal_codes> "36615" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Maine" .
+<United_States_of_America> <location.country.first_level_divisions> "Washington, D.C." .
+<Mobile> <film.film_location.featured_in_films> "Under Siege" .
+<Mobile> <location.statistical_region.population> "g.11x1jygpb" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Utah> <base.locations.states_and_provences.country> "United States of America" .
+<Mobile> <location.citytown.postal_codes> "36611" .
+<Businessperson> <people.profession.specializations> "Florist" .
+<United_States_of_America> <location.location.primarily_containedby> "North America" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<Tennessee> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "South Dakota" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0107dy8t" .
+<Tim_Cook> <common.topic.notable_for> "g.1q5bfpdhk" .
+<Mobile_County> <location.administrative_division.capital> "m.0jvvr5h" .
+<m.01077s6d> <tv.tv_segment_performance.character> "Tim Cook" .
+<Businessperson> <base.firsts.achievement.firsts> "m.04wyfrp" .
+<Montana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Mobile> <location.citytown.postal_codes> "36618" .
+<Montana> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Wisconsin" .
+<United_States_of_America> <location.country.administrative_divisions> "South Carolina" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0107hzgm" .
+<Fuqua_School_of_Business> <education.educational_institution_campus.educational_institution> "Fuqua School of Business" .
+<Mobile> <film.film_location.featured_in_films> "Night Trap" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Alabama" .
+<Businessperson> <people.profession.specializations> "Technology Transfer Innovator" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010f3lvh" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<Vermont> <location.administrative_division.country> "United States of America" .
+<m.04gcn1r> <business.employment_tenure.company> "Intelligent Electronics" .
+<Arkansas> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Delaware" .
+<m.0jvvr5h> <location.administrative_division_capital_relationship.capital> "Mobile" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Ohio> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Tim_Cook> <business.board_member.leader_of> "m.0pmc97_" .
+<Mobile> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07ghzrj" .
+<Spring_Hill> <location.location.containedby> "Alabama" .
+<Businessperson> <base.schemastaging.context_name.pronunciation> "g.125_nxx3b" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z62jn" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Iowa" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<m.09ty0y7> <organization.organization_board_membership.member> "Tim Cook" .
+<Businessperson> <people.profession.specializations> "Auctioneer" .
+<Mobile> <location.statistical_region.population> "m.0jtb7d2" .
+<Michigan> <location.administrative_division.country> "United States of America" .
+<Mobile> <location.statistical_region.population> "g.11x1ld9ht" .
+<United_States_of_America> <location.country.administrative_divisions> "Nevada" .
+<Mobile> <location.location.time_zones> "Central Time Zone" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Florida" .
+<Businessperson> <common.topic.subject_of> "Krishna Mali" .
+<Minnesota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Kansas> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "North Dakota" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Iowa" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Massachusetts" .
+<Person> <type.type.properties> "Parents" .
+<Texas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Vermont" .
+<Wyoming> <location.administrative_division.country> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z64cy" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z632t" .
+<United_States,_with_Territories> <base.aareas.schema.earth.sovereign_domain.sovereign_state> "United States of America" .
+<Mobile> <location.statistical_region.population> "m.066h8hx" .
+<Mobile> <base.wikipedia_infobox.settlement.area_code> "Area code 251" .
+<Arizona> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010g0kp0" .
+<Mobile> <location.statistical_region.population> "g.11b7tn_fd2" .
+<United_States_of_America> <location.country.first_level_divisions> "Maine" .
+<Connecticut> <location.location.containedby> "United States of America" .
+<m.04gcn27> <business.employment_tenure.company> "IBM" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0100z128" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Texas" .
+<Washington,_D.C.> <base.biblioness.bibs_location.country> "United States of America" .
+<Mobile_County> <location.us_county.hud_county_place> "Mobile" .
+<United_States_of_America> <location.country.first_level_divisions> "West Virginia" .
+<Businessperson> <people.profession.specializations> "Recruiter" .
+<Mobile> <location.statistical_region.population> "g.11x1gs043" .
+<Fuqua_School_of_Business> <education.educational_institution.students_graduates> "m.02wnqb5" .
+<USS_Alabama_(BB-60)> <location.location.containedby> "Mobile" .
+<Tim_Cook> <common.topic.article> "m.05r65s" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<Mobile> <location.citytown.postal_codes> "36630" .
+<Alabama> <base.locations.states_and_provences.country> "United States of America" .
+<Businessperson> <people.profession.specializations> "Art dealer" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Virginia" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Nevada> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<United_States_of_America> <location.country.administrative_divisions> "Mississippi" .
+<Washington> <location.location.containedby> "United States of America" .
+<m.0h2rpt8> <business.employment_tenure.title> "CEO" .
+<Businessperson> <people.profession.specializations> "Clothier" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<TV_Character> <freebase.type_hints.included_types> "Topic" .
+<Nebraska> <base.biblioness.bibs_location.country> "United States of America" .
+<Washington> <location.administrative_division.first_level_division_of> "United States of America" .
+<Illinois> <location.administrative_division.first_level_division_of> "United States of America" .
+<Washington,_D.C.> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.administrative_divisions> "Alaska" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.subdividing_place> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<Mobile> <location.statistical_region.population> "g.11x1mhpd5" .
+<Alabama> <base.aareas.schema.administrative_area.administrative_children> "Mobile County" .
+<Children> <type.property.schema> "Person" .
+<Nevada> <base.locations.states_and_provences.country> "United States of America" .
+<Businessperson> <people.profession.specializations> "Financial Analyst" .
+<Mobile> <location.location.events> "Mobile Historic Homes Tour" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Rhode Island" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z62rb" .
+<United_States_of_America> <location.country.administrative_divisions> "Delaware" .
+<North_America> <location.location.contains_major_portion_of> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0108y5s_" .
+<United_States_of_America> <location.country.first_level_divisions> "Kansas" .
+<Mobile> <location.citytown.postal_codes> "36616" .
+<Carlen_House> <travel.tourist_attraction.near_travel_destination> "Mobile" .
+<Mobile_Regional_Airport> <location.location.containedby> "Mobile" .
+<Colorado> <location.location.containedby> "United States of America" .
+<Minnesota> <base.locations.states_and_provences.continent> "North America" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<Mobile> <location.statistical_region.population> "g.11x1g6qsx" .
+<Winemaker> <people.profession.specialization_of> "Businessperson" .
+<United_States_of_America> <location.location.time_zones> "Central Time Zone" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<Businessperson> <people.profession.specializations> "Seal hunting" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Illinois" .
+<Mobile> <film.film_location.featured_in_films> "Soultaker" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Connecticut" .
+<Tim_Cook_2009_cropped> <common.image.appears_in_topic_gallery> "Tim Cook" .
+<m.04wyfrp> <base.firsts.first_achievement.achievement> "Businessperson" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Nebraska" .
+<New_York> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Ohio" .
+<Mobile> <location.statistical_region.population> "m.0hk5bct" .
+<Tim_Cook> <freebase.valuenotation.has_value> "Parents" .
+<California> <base.biblioness.bibs_location.country> "United States of America" .
+<Washington> <base.biblioness.bibs_location.country> "United States of America" .
+<Iowa> <base.locations.states_and_provences.country> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105y4j_" .
+<Indiana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Organization_leader> <type.type.expected_by> "Person" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z6395" .
+<North_Dakota> <location.location.containedby> "United States, with Territories" .
+<Mobile> <location.statistical_region.population> "g.11x1j6yk8" .
+<Businessperson> <people.profession.specializations> "Miller" .
+<Florida> <location.location.time_zones> "Central Time Zone" .
+<Mobile> <location.statistical_region.population> "m.0hk5b8h" .
+<Duke_University> <education.educational_institution.campuses> "Duke University" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010g0kqk" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105_bs1" .
+<Person> <owl#inverseOf> "Governance of" .
+<Businessperson> <projects.project_role.projects> "m.0k3qb8l" .
+<Tennessee> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Businessperson> <people.profession.specializations> "Marketer" .
+<United_States_of_America> <location.country.administrative_divisions> "Alabama" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<Fuqua_School_of_Business> <education.educational_institution.campuses> "Fuqua School of Business" .
+<United_States_of_America> <base.locations.countries.continent> "North America" .
+<Businessperson> <people.profession.specializations> "Business Commando" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<Businessperson> <people.profession.specializations> "strategy coach and policy planner" .
+<Ohio> <location.administrative_division.first_level_division_of> "United States of America" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<New_Mexico> <base.biblioness.bibs_location.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<m.04gcm_q> <common.webpage.category> "Topic Webpage" .
+<Mobile> <location.statistical_region.population> "m.066h8f8" .
+<Mobile> <location.citytown.postal_codes> "36695" .
+<United_States_of_America> <location.country.administrative_divisions> "Georgia" .
+<New_Hampshire> <location.administrative_division.country> "United States of America" .
+<Idaho> <location.location.containedby> "United States of America" .
+<South_Dakota> <base.locations.states_and_provences.country> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z62v4" .
+<United_States_of_America> <location.country.administrative_divisions> "New York" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Missouri" .
+<Indiana> <location.administrative_division.country> "United States of America" .
+<m.0gmj4hr> <education.education.degree> "Bachelor of Science" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Michigan" .
+<Mobile> <location.capital_of_administrative_division.capital_of> "m.0jvvr5h" .
+<Illinois> <base.biblioness.bibs_location.country> "United States of America" .
+<Mississippi> <location.location.containedby> "United States of America" .
+<Alabama> <location.location.containedby> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0107hx4s" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<m.04gcn2l> <business.employment_tenure.title> "Vice President of Corporate Materials" .
+<United_States_of_America> <location.country.first_level_divisions> "Mississippi" .
+<Alabama> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Hawaii> <location.location.containedby> "United States of America" .
+<Arizona> <location.location.containedby> "United States of America" .
+<Oklahoma> <location.administrative_division.country> "United States of America" .
+<Maine> <location.location.containedby> "United States, with Territories" .
+<Florida> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<Businessperson> <people.profession.specializations> "Options Trader & Educator" .
+<Mobile> <location.statistical_region.population> "g.11x1mrkvv" .
+<Mobile> <travel.travel_destination.tourist_attractions> "Eastern Shore Centre" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<Organization_leader> <freebase.type_profile.published> "Published" .
+<Pennsylvania> <base.locations.states_and_provences.country> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010f3l_4" .
+<Arkansas> <location.administrative_division.first_level_division_of> "United States of America" .
+<Mobile> <location.citytown.postal_codes> "36625" .
+<United_States_of_America> <location.location.containedby> "United States, with Territories" .
+<Duke_University> <location.location.containedby> "United States of America" .
+<Mobile> <location.statistical_region.population> "m.066h8hj" .
+<m.04gcn1r> <business.employment_tenure.person> "Tim Cook" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<Nebraska> <location.location.time_zones> "Central Time Zone" .
+<Children> <rdf-schema#domain> "Person" .
+<Tim_Cook> <people.person.employment_history> "m.04gcn1r" .
+<Mobile> <location.statistical_region.population> "g.1jmcbf98k" .
+<Krishna_Mali> <common.topic.subjects> "Krishna Mali" .
+<Wyoming> <location.location.containedby> "United States, with Territories" .
+<North_Dakota> <base.biblioness.bibs_location.country> "United States of America" .
+<Missouri> <base.biblioness.bibs_location.country> "United States of America" .
+<North_America> <base.locations.continents.states_provinces_within> "Wisconsin" .
+<United_States_of_America> <location.country.administrative_divisions> "Arizona" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "Massachusetts" .
+<Wyoming> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<New_York> <location.location.containedby> "United States of America" .
+<Oklahoma> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.first_level_divisions> "Nebraska" .
+<United_States_of_America> <location.country.first_level_divisions> "New Mexico" .
+<United_States_of_America> <location.country.administrative_divisions> "Connecticut" .
+<United_States_of_America> <location.country.first_level_divisions> "Alaska" .
+<New_York> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Utah> <base.biblioness.bibs_location.country> "United States of America" .
+<Mobile> <location.citytown.postal_codes> "36652" .
+<Businessperson> <people.profession.specializations> "Social Media Professional" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105y4ll" .
+<Director_of_North_American_Fulfillment> <business.job_title.people_with_this_title> "m.04gcn27" .
+<Mobile> <location.citytown.postal_codes> "36602" .
+<Kentucky> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Nevada" .
+<North_Carolina> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Duke_University> <location.location.containedby> "North Carolina" .
+<Businessperson> <common.topic.subjects> "Billy Sorrentino" .
+<Tim_Cook> <people.person.place_of_birth> "Mobile" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<Mobile> <travel.travel_destination.tourist_attractions> "Mobile Civic Center" .
+<m.04gcn1r> <business.employment_tenure.title> "COO of Reseller Division" .
+<Arizona> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "South Carolina" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010g0krb" .
+<Mobile> <film.film_location.featured_in_films> "Back Roads" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Mobile> <location.citytown.postal_codes> "36633" .
+<Businessperson> <people.profession.specializations> "Plumbers Merchant" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Kentucky" .
+<Mobile_Downtown_Airport> <location.location.containedby> "United States of America" .
+<Texas> <location.location.time_zones> "Central Time Zone" .
+<Businessperson> <people.profession.specializations> "Commodity broker" .
+<m.0gmk8j6> <business.employment_tenure.company> "Apple Inc." .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0107htkm" .
+<Montana> <location.location.containedby> "United States of America" .
+<Colorado> <location.location.containedby> "United States, with Territories" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010f3lqn" .
+<South_Dakota> <location.location.time_zones> "Central Time Zone" .
+<New_Jersey> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Wisconsin> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0gmj4hr> <education.education.institution> "Auburn University" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "West Virginia" .
+<United_States_of_America> <location.country.administrative_divisions> "Colorado" .
+<Mobile_Regional_Airport> <location.location.containedby> "Mobile County" .
+<North_Carolina> <base.biblioness.bibs_location.country> "United States of America" .
+<Tim_Cook> <people.person.nationality> "United States of America" .
+<Georgia> <location.location.containedby> "United States, with Territories" .
+<m.0gmk8kb> <business.employment_tenure.company> "Apple Inc." .
+<Washington> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Alaska> <location.administrative_division.country> "United States of America" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<Mobile> <location.statistical_region.population> "g.11x1f0qps" .
+<Businessperson> <people.profession.specializations> "Shop assistant" .
+<New_York> <base.locations.states_and_provences.country> "United States of America" .
+<Mobile> <location.statistical_region.population> "m.066h8g6" .
+<Mobile> <location.statistical_region.population> "g.11x1hk9qh" .
+<Wisconsin> <base.locations.states_and_provences.country> "United States of America" .
+<m.0h3ghnk> <freebase.valuenotation.is_reviewed> "From" .
+<Mobile> <location.statistical_region.population> "m.0hk5b94" .
+<Tim_Cook> <business.board_member.leader_of> "m.0h3ghnk" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010f3lrl" .
+<United_States_of_America> <location.country.first_level_divisions> "Virginia" .
+<Back_Roads> <film.film.featured_film_locations> "Mobile" .
+<Mobile> <film.film_location.featured_in_films> "The Order of Myths" .
+<United_States_of_America> <location.country.first_level_divisions> "Florida" .
+<m.0pmc97_> <organization.leadership.organization> "Apple Store" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Nebraska> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<United_States_of_America> <location.country.first_level_divisions> "New York" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<Organization_leader> <freebase.type_hints.included_types> "Topic" .
+<Compaq> <business.employer.employees> "m.04gcn2l" .
+<United_States_of_America> <location.country.first_level_divisions> "New Hampshire" .
+<United_States_of_America> <location.country.first_level_divisions> "South Dakota" .
+<Mobile> <location.statistical_region.population> "g.11x1cn_r2" .
+<New_Jersey> <location.administrative_division.first_level_division_of> "United States of America" .
+<Mobile> <location.statistical_region.population> "m.066h8fg" .
+<West_Virginia> <location.administrative_division.country> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<Maine> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Alaska" .
+<North_America> <location.location.partially_contains> "United States, with Territories" .
+<Children> <type.property.expected_type> "Person" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<Businessperson> <people.profession.specializations> "Jeweller" .
+<Maryland> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Montana" .
+<Mobile> <location.statistical_region.population> "g.11btt6sf_l" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010h933t" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Alabama" .
+<Person> <rdf-schema#range> "Organization leader" .
+<Iowa> <location.location.time_zones> "Central Time Zone" .
+<New_Jersey> <location.administrative_division.country> "United States of America" .
+<Businessperson> <people.profession.specializations> "Computer professional" .
+<Mobile> <location.citytown.postal_codes> "36603" .
+<Rhode_Island> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "West Virginia" .
+<Pennsylvania> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Massachusetts" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<m.02wnqb5> <education.education.degree> "MBA" .
+<Wyoming> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Colorado" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105_f32" .
+<Businessperson> <people.profession.specializations> "Travel Coordinator" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Nevada" .
+<South_Carolina> <location.location.containedby> "United States, with Territories" .
+<Iowa> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oklahoma" .
+<Person> <type.property.reverse_property> "Governance of" .
+<United_States_of_America> <location.country.administrative_divisions> "Idaho" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0108y5ht" .
+<Apple_Inc.> <organization.organization.leadership> "m.0h3ghnk" .
+<Tim_Cook> <fictional_universe.fictional_character.based_on> "Tim Cook" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Texas" .
+<Vice_President_of_Corporate_Materials> <business.job_title.people_with_this_title> "m.04gcn2l" .
+<Wyoming> <base.biblioness.bibs_location.country> "United States of America" .
+<Illinois> <base.locations.states_and_provences.country> "United States of America" .
+<Wyoming> <location.administrative_division.first_level_division_of> "United States of America" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<Mobile> <location.statistical_region.population> "m.0hk5b9c" .
+<Hawaii> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Minnesota> <location.location.containedby> "United States, with Territories" .
+<Utah> <location.administrative_division.country> "United States of America" .
+<Michigan> <location.location.containedby> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010h92bq" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<Kentucky> <location.location.containedby> "United States of America" .
+<Mobile> <location.statistical_region.population> "g.12vqht2j_" .
+<Krishna_Mali> <common.topic.subject_of> "Businessperson" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105_bmw" .
+<Mobile> <location.statistical_region.population> "m.066h8hq" .
+<South_Carolina> <location.administrative_division.first_level_division_of> "United States of America" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Businessperson> <people.profession.specializations> "Clerk" .
+<Friday_the_13th_Part_VII:_The_New_Blood> <film.film.featured_film_locations> "Mobile" .
+<Businessperson> <common.topic.notable_for> "g.1256vs10p" .
+<Mobile> <location.statistical_region.population> "g.11x1jswb1" .
+<Nebraska> <location.administrative_division.first_level_division_of> "United States of America" .
+<Idaho> <location.administrative_division.first_level_division_of> "United States of America" .
+<Businessperson> <common.topic.webpage> "m.09w37tk" .
+<Businessperson> <people.profession.specializations> "Business Analyst" .
+<m.09w37tk> <common.webpage.topic> "Businessperson" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Mexico" .
+<Male> <common.topic.image> "male.jpg" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010b9mck" .
+<m.04gcn2l> <business.employment_tenure.person> "Tim Cook" .
+<Wisconsin> <base.biblioness.bibs_location.country> "United States of America" .
+<Tim_Cook> <common.topic.notable_for> "g.1255jj0n6" .
+<Colorado> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Georgia" .
+<United_States_of_America> <location.country.first_level_divisions> "Montana" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<United_States_of_America> <location.country.first_level_divisions> "Pennsylvania" .
+<Tim_Cook> <common.topic.image> "Tim Cook 2009 cropped" .
+<Washington> <location.location.containedby> "United States, with Territories" .
+<New_Jersey> <base.biblioness.bibs_location.country> "United States of America" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<Alabama> <symbols.name_source.namesakes> "USS Alabama (BB-60)" .
+<New_Hampshire> <location.administrative_division.first_level_division_of> "United States of America" .
+<Mobile> <location.statistical_region.population> "g.11x1d0vtd" .
+<Montana> <base.locations.states_and_provences.continent> "North America" .
+<Merchant> <common.topic.notable_types> "Profession" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Mobile> <travel.travel_destination.tourist_attractions> "Dauphin Island Sea Lab" .
+<Researcher> <people.profession.specialization_of> "Businessperson" .
+<Financier> <common.topic.notable_types> "Profession" .
+<Mobile> <location.citytown.postal_codes> "36609" .
+<Idaho> <location.administrative_division.country> "United States of America" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Rhode_Island> <location.administrative_division.first_level_division_of> "United States of America" .
+<Vermont> <base.biblioness.bibs_location.country> "United States of America" .
+<Tim_Cook> <people.person.employment_history> "m.04gcn2l" .
+<United_States,_with_Territories> <location.country.first_level_divisions> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Georgia" .
+<Mobile> <location.citytown.postal_codes> "36675" .
+<Mobile> <location.citytown.postal_codes> "36671" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<Spring_Hill> <location.location.containedby> "Mobile County" .
+<Kentucky> <location.location.time_zones> "Central Time Zone" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Businessperson> <people.profession.specializations> "Events Specialist" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105_bpb" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<Colorado> <base.locations.states_and_provences.country> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z62kt" .
+<Indiana> <location.location.containedby> "United States, with Territories" .
+<Businessperson> <people.profession.specializations> "Banker" .
+<Organization_leader> <common.topic.article> "m.0d9tvr2" .
+<North_Carolina> <location.administrative_division.first_level_division_of> "United States of America" .
+<Apple_Store> <organization.organization.leadership> "m.0pmc97_" .
+<Minnesota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<Maneesha_Kumbukage> <common.topic.notable_types> "Person" .
+<California> <location.administrative_division.country> "United States of America" .
+<Mobile> <film.film_location.featured_in_films> "The Final Destination" .
+<m.0gmk8j6> <business.employment_tenure.title> "Acting CEO" .
+<New_Mexico> <base.locations.states_and_provences.country> "United States of America" .
+<South_Dakota> <location.location.containedby> "United States of America" .
+<Ohio> <location.location.containedby> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010g0km_" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z6459" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Florida" .
+<Mobile> <location.statistical_region.population> "m.066h8f2" .
+<Businessperson> <common.topic.notable_types> "Profession" .
+<New_Hampshire> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Illinois" .
+<Maine> <location.administrative_division.country> "United States of America" .
+<Kansas> <location.location.containedby> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z62hj" .
+<United_States_of_America> <location.country.first_level_divisions> "Delaware" .
+<Tennessee> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Minnesota" .
+<Mobile> <film.film_location.featured_in_films> "The Final Sanction" .
+<Apple_Inc.> <common.topic.webpage> "Apple Inc." .
+<Businessperson> <people.profession.specializations> "Stock trader" .
+<North_Dakota> <location.administrative_division.country> "United States of America" .
+<Tim_Cook> <people.person.education> "m.0gmj6x_" .
+<m.04gcn27> <business.employment_tenure.person> "Tim Cook" .
+<Mobile_County> <location.location.containedby> "Alabama" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Maryland" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Businessperson> <people.profession.specializations> "Draper" .
+<Mobile> <film.film_location.featured_in_films> "Raw Justice" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Nebraska" .
+<Parents> <rdf-schema#domain> "Person" .
+<Mobile> <location.location.events> "Fort Mims massacre" .
+<Mobile_County> <periodicals.newspaper_circulation_area.newspapers> "Press-Register" .
+<Tim_Cook> <tv.tv_character.appeared_in_tv_episode_segments> "m.01077s6d" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010f3m08" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010f3lx4" .
+<North_Dakota> <location.location.containedby> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105y4gc" .
+<m.02wnqb5> <education.education.student> "Tim Cook" .
+<United_States_of_America> <location.country.administrative_divisions> "Arkansas" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0107hvmz" .
+<Minnesota> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Washington, D.C." .
+<Mobile> <government.governmental_jurisdiction.governing_officials> "m.01033yqb" .
+<Tennessee> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Rhode_Island> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Virginia> <location.location.containedby> "United States of America" .
+<Businessperson> <people.profession.specializations> "Merchant" .
+<COO_of_Reseller_Division> <business.job_title.people_with_this_title> "m.04gcn1r" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Utah" .
+<Texas> <base.biblioness.bibs_location.country> "United States of America" .
+<Mobile> <film.film_location.featured_in_films> "Executive Decision" .
+<Parents> <type.property.expected_type> "Person" .
+<Businessperson> <people.profession.specializations> "Technology Developer" .
+<Mobile> <location.hud_foreclosure_area.hhuniv> "m.07ghzqw" .
+<Organization_leader> <type.type.domain> "Organization" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<United_States_of_America> <location.country.administrative_divisions> "Virginia" .
+<Texas> <base.locations.states_and_provences.country> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010k3xz9" .
+<United_States_of_America> <location.country.administrative_divisions> "Maine" .
+<North_America> <base.locations.continents.states_provinces_within> "Minnesota" .
+<m.0h3ghnk> <freebase.valuenotation.is_reviewed> "Title" .
+<Mobile> <location.statistical_region.population> "g.1jmcbkjy7" .
+<United_States_of_America> <location.country.administrative_divisions> "Nebraska" .
+<Kansas> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Montana" .
+<United_States_of_America> <location.country.administrative_divisions> "Pennsylvania" .
+<Maryland> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Montana" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0107hzg9" .
+<Businessperson> <people.profession.specializations> "Real estate development" .
+<Connecticut> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<Maryland> <location.administrative_division.country> "United States of America" .
+<Pennsylvania> <location.administrative_division.country> "United States of America" .
+<Mobile_County> <location.location.containedby> "United States of America" .
+<Mobile> <location.statistical_region.population> "g.11b66g7msm" .
+<California> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Businessperson> <people.profession.specializations> "Mortician" .
+<Kentucky> <base.locations.states_and_provences.country> "United States of America" .
+<Georgia> <location.location.containedby> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0107hy7y" .
+<USS_Alabama_(BB-60)> <travel.tourist_attraction.near_travel_destination> "Mobile" .
+<Mobile> <location.location.nearby_airports> "Mobile Regional Airport" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<Colorado> <location.administrative_division.country> "United States of America" .
+<Massachusetts> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Jersey" .
+<Businessperson> <people.profession.specializations> "Mercer" .
+<West_Virginia> <location.location.containedby> "United States of America" .
+<Krishna_Mali> <common.topic.subject_of> "Krishna Mali" .
+<Mobile> <film.film_location.featured_in_films> "Friday the 13th Part VII: The New Blood" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Virginia" .
+<Mobile> <location.statistical_region.population> "g.11x1jvp72" .
+<Person> <type.property.reverse_property> "Leader of" .
+<Mississippi> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Pennsylvania> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Washington" .
+<m.01310ll8> <base.ontologies.ontology_class_mapping.ontology> "Businessperson" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0106f24q" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Utah" .
+<United_States_of_America> <location.country.administrative_divisions> "Illinois" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "North Carolina" .
+<Delaware> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Louisiana> <location.location.time_zones> "Central Time Zone" .
+<Missouri> <location.location.containedby> "United States, with Territories" .
+<Tim_Cook> <fictional_universe.fictional_character.gender> "Male" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<Tim_Cook> <people.person.gender> "Male" .
+<Maryland> <base.locations.states_and_provences.country> "United States of America" .
+<m.0k3qb8l> <projects.project_participation.role> "Businessperson" .
+<Washington> <base.locations.states_and_provences.country> "United States of America" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Mobile> <periodicals.newspaper_circulation_area.newspapers> "Press-Register" .
+<Iowa> <base.biblioness.bibs_location.country> "United States of America" .
+<North_Dakota> <location.location.time_zones> "Central Time Zone" .
+<Mobile_Regional_Airport> <aviation.airport.serves> "Mobile" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Arkansas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0sw36bc> <education.education.institution> "Robertsdale High School" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oklahoma" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Alaska" .
+<Alabama> <location.location.time_zones> "Central Time Zone" .
+<Person> <type.type.properties> "Children" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Tennessee" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0106g8wg" .
+<IBM> <organization.organization.partnerships> "Apple Inc." .
+<North_America> <base.locations.continents.states_provinces_within> "Montana" .
+<The_Final_Destination> <film.film.featured_film_locations> "Mobile" .
+<Spring_Hill> <location.neighborhood.neighborhood_of> "Mobile" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "North Dakota" .
+<Kentucky> <location.administrative_division.first_level_division_of> "United States of America" .
+<Mobile> <location.statistical_region.population> "g.1jmcbfy9f" .
+<Mobile> <location.citytown.postal_codes> "36606" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Mississippi" .
+<South_Carolina> <location.location.containedby> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0107hw7h" .
+<United_States_of_America> <location.country.administrative_divisions> "Oregon" .
+<United_States_of_America> <location.country.first_level_divisions> "Rhode Island" .
+<Intelligent_Electronics> <business.employer.employees> "m.04gcn1r" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105y4j4" .
+<Battle_of_Fort_Charlotte> <time.event.locations> "Mobile" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<Mobile> <location.statistical_region.population> "g.11x1kprw8" .
+<Mobile> <location.statistical_region.population> "g.1jmcbjyb5" .
+<United_States_of_America> <location.country.first_level_divisions> "Oklahoma" .
+<Mobile> <location.citytown.postal_codes> "36691" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<Mobile> <location.location.geolocation> "m.0kb0s6" .
+<Mobile> <travel.travel_destination.tourist_attractions> "Mobile Museum of Art" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z64y_" .
+<m.0h2rpt8> <business.employment_tenure.person> "Tim Cook" .
+<Alabama> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<South_Dakota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Shopkeeper> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Kansas" .
+<Mobile> <location.statistical_region.population> "m.0k6kkb2" .
+<Tennessee> <location.location.time_zones> "Central Time Zone" .
+<New_Mexico> <location.location.containedby> "United States of America" .
+<m.0h2rpt8> <business.employment_tenure.company> "Apple Inc." .
+<Organization_leader> <freebase.type_profile.strict_included_types> "Topic" .
+<Mobile> <location.statistical_region.population> "m.0hk5bb8" .
+<Organization_leader> <freebase.type_profile.strict_included_types> "Person" .
+<Mobile_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Louisiana> <base.biblioness.bibs_location.country> "United States of America" .
+<Montana> <base.locations.states_and_provences.country> "United States of America" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<Mobile> <location.statistical_region.population> "m.066h8hb" .
+<Merchant> <people.profession.specialization_of> "Businessperson" .
+<Mobile> <travel.travel_destination.tourist_attractions> "Carlen House" .
+<New_York> <base.biblioness.bibs_location.country> "United States of America" .
+<Missouri> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Texas" .
+<South_Dakota> <location.location.containedby> "United States, with Territories" .
+<Mobile> <location.statistical_region.population> "g.11x1l5x5t" .
+<USS_Alabama_(BB-60)> <symbols.namesake.named_after> "Alabama" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "California" .
+<Organization_leader> <freebase.type_profile.equivalent_topic> "board member" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Colorado" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Mississippi" .
+<Mississippi> <base.biblioness.bibs_location.country> "United States of America" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<Organization_leader> <type.type.expected_by> "Person" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "South Carolina" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010h92yb" .
+<Mobile> <film.film_location.featured_in_films> "Close Encounters of the Third Kind" .
+<North_Carolina> <location.administrative_division.country> "United States of America" .
+<Delaware> <base.biblioness.bibs_location.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<m.0gmk8kb> <business.employment_tenure.person> "Tim Cook" .
+<Kansas> <location.location.time_zones> "Central Time Zone" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105_ckb" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "North Dakota" .
+<Washington,_D.C.> <location.hud_county_place.place> "Washington, D.C." .
+<United_States_of_America> <location.location.partially_containedby> "North America" .
+<Maine> <base.biblioness.bibs_location.country> "United States of America" .
+<Illinois> <location.location.containedby> "United States, with Territories" .
+<m.0gmj6x_> <education.education.institution> "Duke University" .
+<Mobile> <travel.travel_destination.tourist_attractions> "Cathedral Basilica of the Immaculate Conception" .
+<Mobile> <location.statistical_region.population> "m.066h8gs" .
+<North_America> <location.location.time_zones> "Central Time Zone" .
+<Hawaii> <base.locations.states_and_provences.country> "United States of America" .
+<Mobile> <location.statistical_region.population> "m.0hk5b8q" .
+<Mobile> <film.film_location.featured_in_films> "Stone Cold" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010h92xz" .
+<Nebraska> <location.location.containedby> "United States, with Territories" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0107htlp" .
+<Iowa> <location.location.containedby> "United States, with Territories" .
+<South_Dakota> <location.administrative_division.country> "United States of America" .
+<Nebraska> <location.location.containedby> "United States of America" .
+<Businessperson> <people.profession.specializations> "Pawnbroker" .
+<Businessperson> <common.topic.image> "Warren Buffett KU Visit" .
+<Mobile> <location.statistical_region.population> "m.0hk5bdm" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oregon" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Mobile_County> <location.us_county.county_seat> "Mobile" .
+<Florida> <base.biblioness.bibs_location.country> "United States of America" .
+<Person> <freebase.type_profile.published> "Published" .
+<Washington,_D.C.> <location.administrative_division.first_level_division_of> "United States of America" .
+<Tim_Cook> <people.person.education> "m.0sw36bc" .
+<Mobile> <location.location.containedby> "Mobile County" .
+<Mobile> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07ghzr2" .
+<United_States_of_America> <location.country.first_level_divisions> "Missouri" .
+<Washington,_D.C.> <common.topic.notable_types> "City/Town/Village" .
+<Georgia> <location.administrative_division.country> "United States of America" .
+<Person> <owl#inverseOf> "Leader of" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "California" .
+<Louisiana> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<United_States_of_America> <location.country.administrative_divisions> "Rhode Island" .
+<Mobile_Downtown_Airport> <aviation.airport.serves> "Mobile" .
+<Businessperson> <projects.project_role.projects> "m.0k3s_0v" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z649n" .
+<Vermont> <location.administrative_division.first_level_division_of> "United States of America" .
+<Businessperson> <people.profession.specializations> "Stockbroker" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<Washington,_D.C.> <base.biblioness.bibs_topic.subsumes> "Washington, D.C." .
+<United_States_of_America> <location.country.first_level_divisions> "California" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<Tim_Cook> <tv.tv_character.appeared_in_tv_episodes> "m.01077t81" .
+<Oregon> <base.locations.states_and_provences.country> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105_f4d" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z62_h" .
+<Mobile> <location.citytown.postal_codes> "36628" .
+<Printer> <people.profession.specialization_of> "Businessperson" .
+<Stockbroker> <people.profession.specialization_of> "Businessperson" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Wyoming" .
+<United_States_of_America> <location.country.first_level_divisions> "Vermont" .
+<Hawaii> <location.location.containedby> "United States, with Territories" .
+<Alaska> <base.locations.states_and_provences.country> "United States of America" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<Carlen_House> <location.location.containedby> "Alabama" .
+<Maryland> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Maryland" .
+<Ohio> <base.biblioness.bibs_location.country> "United States of America" .
+<Fuqua_School_of_Business> <location.location.containedby> "United States of America" .
+<Mobile> <location.statistical_region.population> "g.11x1ftzrl" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Minnesota" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105y4pz" .
+<USS_Alabama_(BB-60)> <location.location.containedby> "Alabama" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<Mobile> <location.statistical_region.population> "m.0hk5b8y" .
+<United_States_of_America> <location.country.administrative_divisions> "New Hampshire" .
+<m.0h3ghnk> <freebase.valuenotation.is_reviewed> "Role" .
+<Mobile> <location.statistical_region.population> "m.0hk5bb1" .
+<Spring_Hill> <location.location.time_zones> "Central Time Zone" .
+<North_Dakota> <base.locations.states_and_provences.country> "United States of America" .
+<Businessperson> <people.profession.specializations> "Jeweler" .
+<Rhode_Island> <base.locations.states_and_provences.country> "United States of America" .
+<New_Mexico> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0pmc97_> <freebase.valuenotation.is_reviewed> "Person" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "South Dakota" .
+<Maine> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Hampshire" .
+<Businessperson> <freebase.domain_category.domains> "Brandon CJ Grimes" .
+<Missouri> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<Nike,_Inc.> <organization.organization.board_members> "m.09ty0y7" .
+<United_States_of_America> <location.country.first_level_divisions> "Tennessee" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Kentucky" .
+<Maine> <location.location.containedby> "United States of America" .
+<Oklahoma> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Connecticut> <base.locations.states_and_provences.country> "United States of America" .
+<Oregon> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Michigan" .
+<IBM> <base.engineering1.rfid_company.location> "United States of America" .
+<Wisconsin> <location.location.containedby> "United States of America" .
+<Oklahoma> <base.locations.states_and_provences.country> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z62xr" .
+<United_States_of_America> <location.country.first_level_divisions> "Hawaii" .
+<Virginia> <base.biblioness.bibs_location.country> "United States of America" .
+<Businessperson> <people.profession.specializations> "Researcher" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<Organization_leader> <type.type.properties> "Governance of" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Idaho" .
+<Idaho> <base.locations.states_and_provences.country> "United States of America" .
+<New_Jersey> <base.locations.states_and_provences.country> "United States of America" .
+<Businessperson> <common.topic.webpage> "m.09x2kqp" .
+<m.0sw36bc> <education.education.student> "Tim Cook" .
+<m.0pmc97_> <freebase.valuenotation.is_reviewed> "Role" .
+<Haberdasher> <common.topic.notable_types> "Profession" .
+<Oklahoma> <location.administrative_division.first_level_division_of> "United States of America" .
+<North_America> <location.location.partially_contains> "United States of America" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Rhode Island" .
+<Mobile> <travel.travel_destination.tourist_attractions> "USS Alabama (BB-60)" .
+<Wisconsin> <location.administrative_division.first_level_division_of> "United States of America" .
+<Mobile> <location.statistical_region.population> "g.11x1h26_9" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010h92xc" .
+<United_States_of_America> <location.country.administrative_divisions> "North Carolina" .
+<m.01077t81> <tv.tv_guest_role.character> "Tim Cook" .
+<United_States_of_America> <base.militaryinfiction.location_in_fiction.contains> "Kansas" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010fyvvn" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Kansas" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<Mobile> <location.citytown.postal_codes> "36640" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<Mobile> <location.statistical_region.population> "m.0hk5b9m" .
+<m.0gmk8j0> <business.employment_tenure.person> "Tim Cook" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Wisconsin" .
+<Tim_Cook> <people.person.employment_history> "m.0gmk8j0" .
+<Mobile> <location.location.events> "2012 South Alabama Film Festival" .
+<United_States_of_America> <location.country.administrative_divisions> "Washington" .
+<TV_Character> <freebase.type_profile.published> "Published" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Hawaii" .
+<United_States_of_America> <location.country.administrative_divisions> "Florida" .
+<Winemaker> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<United_States_of_America> <location.country.first_level_divisions> "Oregon" .
+<Rhode_Island> <location.location.containedby> "United States of America" .
+<Montana> <location.administrative_division.country> "United States of America" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Businessperson> <people.profession.specializations> "Business Networker" .
+<Connecticut> <location.administrative_division.country> "United States of America" .
+<Mobile> <location.citytown.postal_codes> "36605" .
+<Haberdasher> <people.profession.specialization_of> "Businessperson" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z6325" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Vermont" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Arkansas" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oregon" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105y4ms" .
+<United_States_of_America> <location.country.administrative_divisions> "Oklahoma" .
+<Delaware> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Mobile> <location.statistical_region.population> "m.0hk5bd1" .
+<Florida> <location.administrative_division.country> "United States of America" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "Louisiana" .
+<Businessperson> <people.profession.specializations> "Lobbyist" .
+<m.0h3ghnk> <organization.leadership.role> "CEO" .
+<Mobile> <location.citytown.postal_codes> "36607" .
+<Mobile> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Arkansas" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<m.04gcm_q> <common.webpage.resource> "Apple- Timothy D. Cook" .
+<Researcher> <common.topic.notable_types> "Profession" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<Auburn_University> <location.location.containedby> "Alabama" .
+<Mobile> <location.citytown.postal_codes> "36617" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Apple_Inc.> <organization.organization_partnership.members> "IBM" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<United_States_of_America> <location.country.administrative_divisions> "Ohio" .
+<Indiana> <location.location.time_zones> "Central Time Zone" .
+<Mobile> <travel.travel_destination.tourist_attractions> "Mobile Botanical Gardens" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010h92vf" .
+<Washington,_D.C.> <base.biblioness.bibs_topic.is_really> "Washington, D.C." .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Pennsylvania" .
+<Hawaii> <base.biblioness.bibs_location.country> "United States of America" .
+<Businessperson> <people.profession.specializations> "General contractor" .
+<Tim_Cook> <people.person.employment_history> "m.0gmk8kb" .
+<Close_Encounters_of_the_Third_Kind> <film.film.country> "United States of America" .
+<Businessperson> <common.topic.subjects> "Copyshop de Haan" .
+<m.0pmc97_> <freebase.valuenotation.is_reviewed> "From" .
+<Mobile> <common.topic.article> "m.058cx" .
+<Kentucky> <base.biblioness.bibs_location.country> "United States of America" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Businessperson> <people.profession.specializations> "Winemaker" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<Montana> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0gmj4hr> <education.education.major_field_of_study> "Industrial engineering" .
+<Washington,_D.C.> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Mobile> <location.statistical_region.population> "m.0hk5bbs" .
+<Tennessee> <base.locations.states_and_provences.country> "United States of America" .
+<Tim_Cook> <people.person.employment_history> "m.04gcn27" .
+<United_States_of_America> <location.country.administrative_divisions> "Washington, D.C." .
+<Montana> <base.biblioness.bibs_location.country> "United States of America" .
+<Under_Siege> <film.film.country> "United States of America" .
+<Iowa> <location.location.containedby> "United States of America" .
+<Delaware> <location.location.containedby> "United States of America" .
+<Businessperson> <people.profession.specializations> "Tactician" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Wyoming" .
+<Wisconsin> <base.locations.states_and_provences.continent> "North America" .
+<m.0gmj6x_> <education.education.degree> "MBA" .
+<Mobile> <location.location.events> "Mardi Gras Day" .
+<Michigan> <location.location.time_zones> "Central Time Zone" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Alaska> <location.location.containedby> "United States, with Territories" .
+<Under_Siege> <film.film.featured_film_locations> "Mobile" .
+<m.0pmc97_> <freebase.valuenotation.is_reviewed> "Organization" .
+<New_Mexico> <location.administrative_division.country> "United States of America" .
+<Mobile> <location.location.events> "32nd Annual Azalea Trail Run" .
+<New_Mexico> <location.location.containedby> "United States, with Territories" .
+<Shopkeeper> <people.profession.specialization_of> "Businessperson" .
+<Krishna_Mali> <common.topic.subjects> "Businessperson" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<Children> <type.property.master_property> "Parents" .
+<South_Dakota> <base.biblioness.bibs_location.country> "United States of America" .
+<Delaware> <location.administrative_division.country> "United States of America" .
+<Ohio> <location.location.containedby> "United States, with Territories" .
+<Banker> <people.profession.specialization_of> "Businessperson" .
+<Oregon> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Louisiana" .
+<Fuqua_School_of_Business> <location.location.containedby> "North Carolina" .
+<Businessperson> <people.profession.specializations> "Independent contractor" .
+<Mobile> <location.citytown.postal_codes> "36688" .
+<United_States_of_America> <location.country.capital> "Washington, D.C." .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<North_Dakota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Mobile> <film.film_location.featured_in_films> "Mi Amigo" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010h9347" .
+<Mobile_County> <base.aareas.schema.administrative_area.administrative_parent> "Alabama" .
+<Mobile> <location.statistical_region.population> "g.11x1l3503" .
+<Mobile> <location.statistical_region.population> "g.11x1dg69l" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0108y69g" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Pennsylvania" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010748xw" .
+<Mobile> <location.statistical_region.population> "m.066h8h4" .
+<United_States_of_America> <location.country.first_level_divisions> "Wisconsin" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Louisiana" .
+<United_States_of_America> <location.country.administrative_divisions> "Kansas" .
+<Georgia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Printer> <common.topic.notable_types> "Profession" .
+<Apple-_Timothy_D._Cook> <common.resource.annotations> "m.04gcm_q" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New York" .
+<Businessperson> <people.profession.specializations> "Agent" .
+<Mobile> <location.citytown.postal_codes> "36660" .
+<Nevada> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Jersey" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z62x0" .
+<Mobile> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07ghzr9" .
+<Arizona> <location.location.containedby> "United States, with Territories" .
+<Mobile> <film.film_location.featured_in_films> "Raw Nerve" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<Tim_Cook> <business.board_member.organization_board_memberships> "m.09ty0y7" .
+<m.0gmj4hr> <education.education.student> "Tim Cook" .
+<Washington> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Utah" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Arizona" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<Mobile> <location.statistical_region.population> "m.0hk5bcj" .
+<Mobile> <film.film_location.featured_in_films> "Love Liza" .
+<Kansas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<United_States_of_America> <location.country.administrative_divisions> "Tennessee" .
+<Oregon> <location.location.containedby> "United States, with Territories" .
+<Businessperson> <people.profession.specializations> "Silk dealer" .
+<Indiana> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<Mobile> <location.hud_county_place.place> "Mobile" .
+<South_Carolina> <base.biblioness.bibs_location.country> "United States of America" .
+<South_Carolina> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Businessperson> <people.profession.specializations> "Event planner" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "South Carolina" .
+<Arkansas> <location.location.time_zones> "Central Time Zone" .
+<Area_code_251> <location.location.containedby> "Alabama" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<Businessperson> <common.topic.subject_of> "Maneesha Kumbukage" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<Mobile> <location.statistical_region.population> "m.066h8j2" .
+<New_Jersey> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Illinois" .
+<Nebraska> <location.administrative_division.country> "United States of America" .
+<Mobile> <location.citytown.postal_codes> "36612" .
+<Mobile> <location.statistical_region.population> "m.066h8fn" .
+<Pennsylvania> <location.location.containedby> "United States of America" .
+<Iowa> <location.administrative_division.country> "United States of America" .
+<m.0k3s_0v> <projects.project_participation.role> "Businessperson" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<Mobile_County> <location.location.nearby_airports> "Mobile Regional Airport" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Indiana" .
+<Mobile> <location.place_with_neighborhoods.neighborhoods> "Spring Hill" .
+<Businessperson> <people.profession.specializations> "Senior RIA/UX developer" .
+<m.0gmk8j0> <business.employment_tenure.title> "Chief Operating Officer" .
+<Mobile> <location.statistical_region.population> "m.0hk5bbh" .
+<South_Carolina> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<United_States_of_America> <location.country.administrative_divisions> "Hawaii" .
+<Tennessee> <location.location.containedby> "United States of America" .
+<Idaho> <location.location.containedby> "United States, with Territories" .
+<Mississippi> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Virginia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Mobile> <common.topic.notable_for> "g.1257vp1lx" .
+<Tim_Cook> <common.topic.notable_types> "TV Character" .
+<United_States_of_America> <location.country.first_level_divisions> "Ohio" .
+<m.02wnqb5> <education.education.institution> "Fuqua School of Business" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010b9mc6" .
+<Businessperson> <people.profession.specializations> "Licensee" .
+<Businessperson> <people.profession.specializations> "Sound Equipment Provider" .
+<MBA> <common.topic.subjects> "Billy Sorrentino" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<Mississippi> <location.location.time_zones> "Central Time Zone" .
+<Mobile> <location.citytown.postal_codes> "36641" .
+<United_States_of_America> <location.country.administrative_divisions> "North Dakota" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Apple_Inc.> <common.webpage.topic> "Apple Inc." .
+<North_America> <base.locations.continents.countries_within> "United States of America" .
+<Person> <type.property.expected_type> "Organization leader" .
+<Acting_CEO> <business.job_title.people_with_this_title> "m.0gmk8j6" .
+<Tim_Cook> <common.topic.notable_types> "Organization leader" .
+<Wisconsin> <location.location.time_zones> "Central Time Zone" .
+<Businessperson> <people.profession.specializations> "Négociant" .
+<m.0gmj6x_> <education.education.student> "Tim Cook" .
+<m.0gmk8j0> <business.employment_tenure.company> "Apple Inc." .
+<Mississippi> <location.administrative_division.country> "United States of America" .
+<m.0h3ghnk> <freebase.valuenotation.has_no_value> "To" .
+<Mobile> <location.location.events> "1993 Big Bayou Canot train wreck" .
+<Tim_Cook> <people.person.education> "m.02wnqb5" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Texas> <location.location.containedby> "United States of America" .
+<Industrial_engineering> <education.field_of_study.students_majoring> "m.0gmj4hr" .
+<Organization_leader> <type.type.properties> "Leader of" .
+<Maine> <location.administrative_division.first_level_division_of> "United States of America" .
+<Rhode_Island> <base.biblioness.bibs_location.country> "United States of America" .
+<Mobile> <location.citytown.postal_codes> "36619" .
+<Back_Roads> <film.film.country> "United States of America" .
+<West_Virginia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Mobile> <location.statistical_region.population> "m.0hk5bdv" .
+<New_Mexico> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Mobile_Regional_Airport> <location.location.containedby> "United States of America" .
+<Idaho> <base.biblioness.bibs_location.country> "United States of America" .
+<Mobile> <location.location.events> "Battle of Fort Charlotte" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<Mobile> <location.statistical_region.population> "g.1jmcbjby6" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Consultant> <people.profession.specialization_of> "Businessperson" .
+<Oklahoma> <base.biblioness.bibs_location.country> "United States of America" .
+<Indiana> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<Mississippi> <location.location.containedby> "United States, with Territories" .
+<Kansas> <base.militaryinfiction.location_in_fiction.contained_by> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<Executive_Decision> <film.film.featured_film_locations> "Mobile" .
+<Tim_Cook> <fictional_universe.person_in_fiction.representations_in_fiction> "Tim Cook" .
+<The_Final_Destination> <film.film.country> "United States of America" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<United_States_of_America> <location.country.administrative_divisions> "Iowa" .
+<Michigan> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<Mobile> <common.topic.webpage> "m.03l88gt" .
+<Auburn_University> <education.educational_institution.campuses> "Auburn University" .
+<Mobile> <location.statistical_region.population> "m.066h8gz" .
+<United_States_of_America> <location.country.first_level_divisions> "Michigan" .
+<Utah> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Arizona" .
+<Businessperson> <people.profession.specializations> "Party Planner" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<Tim_Cook_2009_cropped> <common.image.size> "m.02gwrv4" .
+<Vermont> <location.location.containedby> "United States, with Territories" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<Nevada> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<United_States_of_America> <location.country.administrative_divisions> "New Mexico" .
+<Tim_Cook> <people.person.education> "m.0gmj4hr" .
+<Mississippi> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.09ty0y7> <organization.organization_board_membership.organization> "Nike, Inc." .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<Auburn_University> <education.educational_institution_campus.educational_institution> "Auburn University" .
+<United_States_of_America> <location.country.first_level_divisions> "North Carolina" .
+<Businessperson> <people.profession.specializations> "tester" .
+<North_Carolina> <location.location.containedby> "United States, with Territories" .
+<Nebraska> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Florida> <location.location.containedby> "United States of America" .
+<Arkansas> <location.location.containedby> "United States, with Territories" .
+<Illinois> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Mobile> <location.statistical_region.population> "g.11x1h8l98" .
+<Mobile> <location.citytown.postal_codes> "36610" .
+<Real_estate_development> <people.profession.specialization_of> "Businessperson" .
+<m.0pmc97_> <organization.leadership.person> "Tim Cook" .
+<United_States_of_America> <location.country.first_level_divisions> "Colorado" .
+<Mobile> <location.statistical_region.population> "m.066h8fv" .
+<Louisiana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<Connecticut> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Indiana" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<m.0h3ghnk> <freebase.valuenotation.is_reviewed> "Organization" .
+<Mobile> <location.statistical_region.population> "m.0hk5bc8" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z62qh" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<Arkansas> <location.location.containedby> "United States of America" .
+<Businessperson> <people.profession.specializations> "Brewer" .
+<Mobile> <location.statistical_region.population> "g.11x1lghdb" .
+<Mobile> <location.citytown.postal_codes> "36644" .
+<United_States_of_America> <location.country.administrative_divisions> "Wyoming" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<m.04gcn2l> <business.employment_tenure.company> "Compaq" .
+<Businessperson> <people.profession.specializations> "Actuary" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Mexico" .
+<Mobile> <location.location.nearby_airports> "Mobile Downtown Airport" .
+<Mobile> <common.topic.notable_types> "City/Town/Village" .
+<Washington,_D.C.> <location.location.containedby> "United States of America" .
+<Mobile> <location.citytown.postal_codes> "36693" .
+<m.0gmk8j6> <business.employment_tenure.person> "Tim Cook" .
+<United_States_of_America> <location.country.first_level_divisions> "Wyoming" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Missouri" .
+<Mobile> <location.citytown.postal_codes> "36663" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<Mobile_Regional_Airport> <aviation.airport.serves> "Mobile County" .
+<Illinois> <location.location.time_zones> "Central Time Zone" .
+<United_States_of_America> <location.country.administrative_divisions> "West Virginia" .
+<Mobile> <location.citytown.postal_codes> "36685" .
+<Fort_Mims_massacre> <time.event.locations> "Mobile" .
+<m.0h3ghnk> <freebase.valuenotation.is_reviewed> "Person" .
+<Mobile> <location.citytown.postal_codes> "36604" .
+<New_Hampshire> <base.biblioness.bibs_location.country> "United States of America" .
+<Mobile> <film.film_location.featured_in_films> "Dead Birds" .
+<Arizona> <location.administrative_division.country> "United States of America" .
+<New_Hampshire> <location.location.containedby> "North America" .
+<m.0jvvr5h> <location.administrative_division_capital_relationship.administrative_division> "Mobile County" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<Mobile> <periodicals.newspaper_circulation_area.newspapers> "Lagniappe" .
+<Businessperson> <people.profession.specializations> "Haberdasher" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0105y4c3" .
+<Tim_Cook> <common.topic.webpage> "m.04gcm_q" .
+<Utah> <location.location.containedby> "United States of America" .
+<Duke_University> <education.educational_institution_campus.educational_institution> "Duke University" .
+<Parents> <owl#inverseOf> "Children" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z64hl" .
+<Illinois> <location.administrative_division.country> "United States of America" .
+<Mobile> <location.citytown.postal_codes> "36670" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Washington" .
+<Strategist> <common.topic.notable_types> "Profession" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Michigan" .
+<United_States,_with_Territories> <location.location.partially_containedby> "North America" .
+<Mobile> <location.statistical_region.population> "m.0jtly8_" .
+<Mobile> <common.topic.image> "Mobile skyline 2007" .
+<Vermont> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Minnesota" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<Arizona> <location.administrative_division.first_level_division_of> "United States of America" .
+<Businessperson> <common.topic.article> "m.012v04" .
+<Massachusetts> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<m.0pmc97_> <freebase.valuenotation.has_no_value> "To" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Delaware" .
+<Tim_Cook> <people.person.employment_history> "m.0h2rpt8" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<Businessperson> <freebase.domain_category.domains> "jeffmchristensen's types" .
+<United_States_of_America> <location.administrative_division.first_level_division_of> "United States, with Territories" .
+<Wisconsin> <location.administrative_division.country> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z62m5" .
+<West_Virginia> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<Washington,_D.C.> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdivides_place> "United States, with Territories" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Georgia" .
+<Businessperson> <book.magazine_genre.magazines_in_this_genre> "Business People Vermont" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Massachusetts" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0108y620" .
+<Businessperson> <people.profession.specializations> "Printer" .
+<Businessperson> <people.profession.specializations> "Shopkeeper" .
+<Executive_Decision> <film.film.country> "United States of America" .
+<Ohio> <location.administrative_division.country> "United States of America" .
+<m.03l88gt> <common.webpage.topic> "Mobile" .
+<Businessperson> <people.profession.specializations> "Financier" .
+<Colorado> <base.biblioness.bibs_location.country> "United States of America" .
+<Rhode_Island> <location.location.containedby> "United States, with Territories" .
+<Wisconsin> <location.location.containedby> "United States, with Territories" .
+<Iowa> <location.administrative_division.first_level_division_of> "United States of America" .
+<Kentucky> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z62sr" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Hampshire" .
+<Michigan> <location.administrative_division.first_level_division_of> "United States of America" .
+<New_Hampshire> <location.location.containedby> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<Indiana> <base.locations.states_and_provences.country> "United States of America" .
+<Massachusetts> <location.administrative_division.first_level_division_of> "United States of America" .
+<South_Carolina> <location.administrative_division.country> "United States of America" .
+<Tennessee> <location.location.containedby> "United States, with Territories" .
+<Parents> <type.property.schema> "Person" .
+<United_States_of_America> <location.country.administrative_divisions> "Texas" .
+<Mobile> <location.location.containedby> "Area code 251" .
+<South_Dakota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_parent> "United States, with Territories" .
+<Alaska> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Georgia> <base.biblioness.bibs_location.country> "United States of America" .
+<Florida> <base.locations.states_and_provences.country> "United States of America" .
+<California> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Alabama> <location.administrative_division.country> "United States of America" .
+<Michigan> <base.biblioness.bibs_location.country> "United States of America" .
+<m.01033yqb> <government.government_position_held.jurisdiction_of_office> "Mobile" .
+<Minnesota> <location.administrative_division.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<m.0pmc97_> <organization.leadership.role> "CEO" .
+<m.0pmc97_> <freebase.valuenotation.is_reviewed> "To" .
+<Auburn_University> <location.location.containedby> "United States of America" .
+<Utah> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Nevada> <location.location.containedby> "United States, with Territories" .
+<Businessperson> <people.profession.specializations> "Port Wine Merchant" .
+<United_States_of_America> <location.country.administrative_divisions> "Maryland" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<MBA> <common.topic.subject_of> "Billy Sorrentino" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010ny8bj" .
+<United_States_of_America> <location.country.first_level_divisions> "Indiana" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<Kansas> <location.administrative_division.country> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010748_h" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<Banker> <common.topic.notable_types> "Profession" .
+<Strategist> <people.profession.specialization_of> "Businessperson" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.country> "United States of America" .
+<Wyoming> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<North_Carolina> <location.location.containedby> "United States of America" .
+<Mobile> <common.topic.image> "Mobile skyline 2007" .
+<Businessperson> <people.profession.specializations> "Hawker" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Ohio" .
+<Georgia> <location.administrative_division.first_level_division_of> "United States of America" .
+<Michigan> <base.locations.states_and_provences.country> "United States of America" .
+<Financier> <people.profession.specialization_of> "Businessperson" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010fyw0r" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New York" .
+<New_York> <location.administrative_division.first_level_division_of> "United States of America" .
+<Vermont> <location.location.containedby> "United States of America" .
+<Vermont> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Kentucky" .
+<Mobile> <location.statistical_region.population> "m.0hk5b9v" .
+<Texas> <location.administrative_division.first_level_division_of> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.01074912" .
+<Delaware> <location.location.containedby> "United States, with Territories" .
+<Louisiana> <location.location.containedby> "United States, with Territories" .
+<Massachusetts> <base.locations.states_and_provences.country> "United States of America" .
+<Businessperson> <people.profession.specializations> "Strategist" .
+<United_States_of_America> <location.country.first_level_divisions> "Kentucky" .
+<m.09x2kqp> <common.webpage.topic> "Businessperson" .
+<Alaska> <location.administrative_division.first_level_division_of> "United States of America" .
+<Mobile_County> <location.location.time_zones> "Central Time Zone" .
+<United_States_of_America> <location.country.administrative_divisions> "California" .
+<m.04wyfrp> <base.firsts.first_achievement.category> "United States of America" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Businessperson> <people.profession.specializations> "Furrier" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Connecticut" .
+<Texas> <location.administrative_division.country> "United States of America" .
+<Delaware> <base.locations.states_and_provences.country> "United States of America" .
+<Oklahoma> <location.location.time_zones> "Central Time Zone" .
+<Florida> <location.administrative_division.first_level_division_of> "United States of America" .
+<Businessperson> <people.profession.specializations> "Pepperer" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Idaho" .
+<Louisiana> <location.administrative_division.country> "United States of America" .
+<Businessperson> <people.profession.specializations> "Business Coach" .
+<United_States_of_America> <location.country.first_level_divisions> "Arizona" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z64b_" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Hawaii> <location.administrative_division.country> "United States of America" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<Carlen_House> <location.location.containedby> "Mobile" .
+<United_States_of_America> <location.country.first_level_divisions> "Iowa" .
+<Oregon> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<Illinois> <location.location.containedby> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0107hvgk" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Hawaii" .
+<West_Virginia> <base.biblioness.bibs_location.country> "United States of America" .
+<m.01311h9h> <organization.leadership.role> "Businessperson" .
+<Indiana> <location.location.containedby> "United States of America" .
+<Maryland> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0h3ghnk> <organization.leadership.person> "Tim Cook" .
+<Friday_the_13th_Part_VII:_The_New_Blood> <film.film.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<Louisiana> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Wisconsin" .
+<m.0h3ghnk> <freebase.valuenotation.is_reviewed> "To" .
+<Duke_University> <education.educational_institution.subsidiary_or_constituent_schools> "Fuqua School of Business" .
+<United_States_of_America> <location.country.first_level_divisions> "Connecticut" .
+<United_States_of_America> <location.country.first_level_divisions> "Arkansas" .
+<Ohio> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Maryland" .
+<Maryland> <location.location.containedby> "United States, with Territories" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.0_z62tn" .
+<United_States_of_America> <location.country.first_level_divisions> "Nevada" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<United_States_of_America> <location.country.administrative_divisions> "Missouri" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Tennessee" .
+<Businessperson> <base.ontologies.ontology.equivalent_classes> "m.01310ll8" .
+<California> <base.locations.states_and_provences.country> "United States of America" .
+<Pennsylvania> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.04gcm_q> <common.webpage.topic> "Tim Cook" .
+<Virginia> <location.administrative_division.first_level_division_of> "United States of America" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010f3lmg" .
+<Massachusetts> <location.administrative_division.country> "United States of America" .
+<Arizona> <base.biblioness.bibs_location.country> "United States of America" .
+<Alaska> <base.biblioness.bibs_location.country> "United States of America" .
+<Idaho> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Minnesota> <base.locations.states_and_provences.country> "United States of America" .
+<Kansas> <location.administrative_division.first_level_division_of> "United States of America" .
+<Close_Encounters_of_the_Third_Kind> <film.film.featured_film_locations> "Mobile" .
+<Kentucky> <location.administrative_division.country> "United States of America" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.01074cmj" .
+<Person> <type.property.expected_type> "Organization leader" .
+<Businessperson> <common.topic.subject_of> "PointDrive" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<Mobile> <location.statistical_region.population> "g.11x1jkvrg" .
+<Virginia> <base.locations.states_and_provences.country> "United States of America" .
+<Mobile> <travel.travel_destination.tourist_attractions> "Gulf Coast Exploreum Science Center" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<Minnesota> <location.location.time_zones> "Central Time Zone" .
+<Minnesota> <location.location.containedby> "United States of America" .
+<Connecticut> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Louisiana" .
+<United_States_of_America> <base.firsts.first_achievement_category.firsts> "m.04wyfrp" .
+<Businessperson> <base.descriptive_names.names.descriptive_name> "m.010f3ltd" .
+<New_Hampshire> <location.location.containedby> "United States, with Territories" .
+<Maneesha_Kumbukage> <people.person.gender> "Male" .
+<Colorado> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<Virginia> <location.administrative_division.country> "United States of America" .
+<West_Virginia> <location.location.containedby> "United States, with Territories" .
+<West_Virginia> <base.locations.states_and_provences.country> "United States of America" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Mobile> <common.topic.image> "The skyline of downtown Mobile from the Battleship Parkway." .
+<Businessperson> <common.topic.subject_of> "Billy Sorrentino" .
+<Mobile> <location.statistical_region.population> "m.0hk5bc0" .
+<United_States_of_America> <location.country.first_level_divisions> "Idaho" .
+<California> <location.location.containedby> "United States of America" .
+<Mobile> <travel.travel_destination.tourist_attractions> "Mobile Carnival Museum" .
+<Parents> <rdf-schema#range> "Person" .

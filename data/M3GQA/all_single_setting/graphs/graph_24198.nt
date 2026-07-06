@@ -1,0 +1,1895 @@
+<Founding_school> <rdf-schema#range> "College/University" .
+<Nashville> <location.citytown.postal_codes> "37218" .
+<National> <common.topic.notable_for> "g.1258cgh7s" .
+<Cornelius_Vanderbilt> <symbols.name_source.namesakes> "Vanderbilt University" .
+<Davidson_County> <location.location.people_born_here> "Nat Love" .
+<m.03lc6fq> <common.webpage.topic> "Vanderbilt University" .
+<37250> <location.postal_code.country> "United States of America" .
+<Vanderbilt_University> <education.educational_institution.subsidiary_or_constituent_schools> "Peabody College" .
+<Vanderbilt_University> <medicine.cancer_center_constituent.cancer_center> "Vanderbilt-Ingram Cancer Center" .
+<Davidson_County> <location.location.containedby> "Tennessee" .
+<Theodore_G._Bilbo> <people.person.education> "m.052b69q" .
+<Bridgestone_Arena> <location.location.containedby> "United States of America" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<m.09wwbdv> <common.webpage.topic> "Nashville" .
+<College/University> <type.type.domain> "Education" .
+<m.04hcyyz> <business.employment_tenure.company> "Vanderbilt University" .
+<College/University> <type.type.properties> "Local tuition" .
+<John_Ridley_Stroop> <people.person.nationality> "United States of America" .
+<Domestic_tuition> <type.property.schema> "College/University" .
+<Nashville> <location.location.events> "Utah-Pittsburgh 1993 NCAA Men's Division I Basketball Tournament Game" .
+<Nashville> <location.statistical_region.population> "m.066fwv1" .
+<m.04hh3k_> <business.employment_tenure.company> "Vanderbilt University" .
+<Davidson_County> <location.statistical_region.population> "g.12b01tjp0" .
+<Vanderbilt_University_Divinity_School> <location.location.containedby> "Tennessee" .
+<Vanderbilt_University> <business.employer.employees> "m.04hwk7b" .
+<m.063sbb3> <base.petbreeds.dog_city_relationship.cities> "Nashville" .
+<Nashville> <location.statistical_region.population> "m.066fwxs" .
+<TLUS_(Teaching_&_Learning_in_Urban_Schools)> <award.award_winning_work.awards_won> "m.0_gpfm3" .
+<College/University> <type.type.properties> "Fraternities and sororities" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament> <time.event.locations> "Nashville" .
+<Impulcity> <organization.organization.geographic_scope> "Nashville" .
+<Wake_Forest-Iowa_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<Peabody_College> <organization.organization.headquarters> "m.0h8b0m9" .
+<George_Peabody> <people.person.gender> "Male" .
+<m.02_7zzp> <education.education.student> "Mary Elizabeth Aitcheson Gore" .
+<Vanderbilt_University> <education.university.number_of_undergraduates> "m.0k7hvkc" .
+<Nashville> <location.location.events> "1989 NCAA Men's Division I Basketball Tournament- Southeast Regional First Round" .
+<Davidson_County> <location.statistical_region.population> "g.11x1hv19z" .
+<Educational_Institution> <type.type.domain> "Education" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament_-_Southeast_Regional_Second_Round> <time.event.locations> "Nashville" .
+<Institution> <type.property.expected_type> "College/University" .
+<Harold_Bradley> <people.person.place_of_birth> "Nashville" .
+<Francis_Nash> <symbols.name_source.namesakes> "Fort Nashborough" .
+<Davidson_County> <location.statistical_region.population> "g.11x1mnqxr" .
+<Institution> <type.property.reverse_property> "Departments" .
+<m.0_gpfm3> <award.award_honor.honored_for> "TLUS (Teaching & Learning in Urban Schools)" .
+<John_C._Tune_Airport> <location.location.containedby> "Nashville" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Clement Railroad Hotel Museum" .
+<Nashville> <common.topic.webpage> "m.09x4lq2" .
+<Tennessee_State_Capitol> <base.usnris.nris_listing.significance_level> "National" .
+<National> <organization.organization_scope.organizations_with_this_scope> "Papakura Education Services" .
+<m.0wjy4yq> <business.employment_tenure.company> "Vanderbilt University" .
+<m.0n1m1z0> <education.education.student> "Nera White" .
+<Vanderbilt_University> <business.employer.employees> "m.04hgx28" .
+<1_Less_Thing_Cleaning> <organization.organization.geographic_scope> "Nashville" .
+<Mel_Chin> <people.person.gender> "Male" .
+<37203-7505> <location.location.containedby> "Davidson County" .
+<University> <organization.organization_sector.organizations_in_this_sector> "Mahatma Jyoti Rao Phoole University" .
+<m.0_gpfh8> <award.award_honor.award> "Telly Award for TV Programs, Segments, or Promotional Pieces Film/Video - Education" .
+<m.09w6ph5> <common.webpage.topic> "Nashville" .
+<Henry_Johnson> <people.person.place_of_birth> "Davidson County" .
+<United_States,_with_Territories> <location.country.first_level_divisions> "United States of America" .
+<37207> <location.location.containedby> "United States of America" .
+<Laura_Vernon_Hamner> <people.person.place_of_birth> "Tennessee" .
+<m.0_gpfd7> <award.award_honor.achievement_level> "Telly Bronze" .
+<Vanderbilt_University> <business.employer.employees> "m.04hfnt7" .
+<Nashville> <government.governmental_jurisdiction.governing_officials> "m.0k1bjcp" .
+<College/University> <type.type.properties> "Number of doctoral candidates" .
+<37203> <location.postal_code.country> "United States of America" .
+<1982_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.gender> "Male" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrk8" .
+<37222> <location.postal_code.country> "United States of America" .
+<37201> <location.postal_code.country> "United States of America" .
+<Peabody_College> <organization.organization.parent> "m.0h9tsbx" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2005 Nashville Film Festival" .
+<37203-4338> <location.location.containedby> "Nashville" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament_-_Southeast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1993 NCAA Men's Division I Basketball Tournament" .
+<m.0gk8hzb> <education.education.student> "Bill Boner" .
+<37206> <location.location.containedby> "Davidson County" .
+<School_category> <freebase.type_profile.published> "Published" .
+<37221> <location.postal_code.country> "United States of America" .
+<37203-1004> <location.location.containedby> "Tennessee" .
+<Ashford_University> <education.educational_institution.school_type> "Private university" .
+<m.0sw1nm2> <education.education.institution> "Peabody College" .
+<Robert_Ryman> <people.person.nationality> "United States of America" .
+<College/University> <freebase.type_profile.strict_included_types> "Organization" .
+<37201> <location.location.contains> "Fort Nashborough" .
+<m.0_gpfc2> <freebase.valuenotation.is_reviewed> "Achievement level" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n1m1z0" .
+<m.0n0c4h2> <education.education.institution> "Peabody College" .
+<Nashville> <location.statistical_region.population> "m.066fwwg" .
+<m.04sxhvp> <base.bioventurist.bv_investment_round.investors> "Vanderbilt University" .
+<Middle_Tennessee_State-Louisville_1982_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<m.0wj0csg> <business.employment_tenure.company> "Vanderbilt University" .
+<37203> <location.location.contains> "37203-0791" .
+<Iowa-Northeast_Louisiana_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1993 NCAA Men's Division I Basketball Tournament - Southeast Regional First Round" .
+<m.09w5qrw> <common.webpage.topic> "Nashville" .
+<m.0_gpflm> <award.award_honor.achievement_level> "Telly Bronze" .
+<m.0pcdpk9> <business.competitive_space_mediator.brand> "Tennessee" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament-_Southeast_Regional_First_Round> <time.event.locations> "Nashville" .
+<Davidson_County> <location.location.people_born_here> "Chase Curran Mooney" .
+<Vanderbilt_University> <business.employer.employees> "m.0zcrw4g" .
+<1982_NCAA_Men's_Division_I_Basketball_Tournament_-_Mideast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Indiana-Robert Morris 1982 NCAA Men's Division I Basketball Tournament Game" .
+<Nashville> <base.petbreeds.city_with_dogs.top_breeds> "m.063sb9m" .
+<37203-3202> <location.location.containedby> "Nashville" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2005 Nashville Film Festival" .
+<Bettie_Page> <people.person.nationality> "United States of America" .
+<1973_NCAA_Men's_Division_I_Basketball_Tournament-_Mideast_Regional_Finals> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Indiana-Kentucky 1973 NCAA Men's Division I Basketball Tournament Game" .
+<Nashville> <location.location.containedby> "Area codes 615 and 629" .
+<Nashville> <location.location.events> "2010 Nashville Film Festival" .
+<George_Peabody> <common.topic.image> "Peabodyg" .
+<Davidson_County> <location.location.containedby> "Nashville-Davidson--Murfreesboro--Franklin, TN Metropolitan Statistical Area" .
+<37228> <location.postal_code.country> "United States of America" .
+<m.0r607g7> <base.schemastaging.phone_sandbox.service_location> "United States of America" .
+<Garnie_W._McGinty> <people.person.education> "m.0czxynj" .
+<George_Peabody> <symbols.name_source.namesakes> "Peabody Institute" .
+<Columbia_Studios> <common.topic.notable_types> "Organization" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Bicentennial Capitol Mall State Park" .
+<College/University> <freebase.type_profile.equivalent_topic> "College" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Educational_Institution> <freebase.type_profile.strict_included_types> "Organization" .
+<Peabody_College> <award.ranked_item.appears_in_ranked_lists> "m.0h8b149" .
+<Albert_Hadley> <people.person.education> "m.0n45pxh" .
+<Nashville> <location.location.events> "Indiana-Marquette 1973 NCAA Men's Division I Basketball Tournament Game" .
+<Davidson_County> <location.us_county.county_seat> "Nashville" .
+<Nashville> <location.citytown.postal_codes> "37230" .
+<m.0pphg14> <location.mailing_address.postal_code> "37240" .
+<Vanderbilt_Commodores> <education.athletics_brand.teams> "Vanderbilt Commodores men's basketball" .
+<Institution> <type.property.expected_type> "College/University" .
+<m.09x4lq2> <common.webpage.topic> "Nashville" .
+<Vanderbilt_Commodores_football> <sports.sports_team.colors> "Black" .
+<Vanderbilt_University> <organization.organization_member.member_of> "m.04dgvhb" .
+<Davidson_County> <location.statistical_region.population> "g.11x1g8_wm" .
+<Washington_Barrow> <people.person.place_of_birth> "Davidson County" .
+<m.0_gpfh8> <freebase.valuenotation.is_reviewed> "Achievement level" .
+<Nashville> <location.location.events> "Mötley Crüe Final Tour" .
+<m.0czyxgj> <education.education.student> "W. Winfred Moore" .
+<m.063sb9h> <base.petbreeds.dog_city_relationship.cities> "Nashville" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.012nnm2d" .
+<1973_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.gender> "Male" .
+<37203-1004> <location.location.containedby> "Nashville" .
+<Red_Grooms> <people.person.gender> "Male" .
+<Davidson_County> <location.statistical_region.population> "g.11x1l91k9" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Tennessee" .
+<Washington_Barrow> <people.person.gender> "Male" .
+<m.0_ld4q0> <education.education.student> "Edwin Richardson" .
+<2001_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<James_Benjamin_Aswell> <people.person.nationality> "United States of America" .
+<Adventure_Science_Center> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<m.05gfpqp> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Nashville> <location.citytown.postal_codes> "37213" .
+<Nashville> <location.location.events> "2013 Nashville Film Festival" .
+<United_States_of_America> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Davidson_County> <location.location.geolocation> "m.0k9gj_" .
+<m.03lc6fq> <common.webpage.category> "Official Website" .
+<Nashville-Davidson> <location.location.containedby> "Davidson County" .
+<m.0h8b0m9> <freebase.valuenotation.has_no_value> "Street Address 3" .
+<Davidson_County> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07fy03p" .
+<37220> <location.location.containedby> "Davidson County" .
+<Vanderbilt_University_Divinity_School> <location.location.containedby> "Nashville" .
+<37203> <location.location.contains> "37203-4388" .
+<37203> <location.location.containedby> "Tennessee" .
+<Vanderbilt_University> <business.employer.employees> "m.0dl8yv8" .
+<Peabody_College> <location.location.containedby> "Davidson County" .
+<Vanderbilt_University> <business.employer.employees> "m.04ht0c7" .
+<Davidson_County> <location.statistical_region.population> "g.11x1k1kpy" .
+<Nashville> <location.location.events> "2012 48 Hour Film Project" .
+<Herman_Lee_Donovan> <people.person.education> "m.0sw05y8" .
+<m.0h9d9t0> <education.education.institution> "Peabody College" .
+<37203> <location.location.contains> "37203-4324" .
+<International_Bluegrass_Music_Association> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Davidson_County> <location.statistical_region.population> "g.12b025h44" .
+<37234> <location.postal_code.country> "United States of America" .
+<Vanderbilt_University_Law_School> <location.location.containedby> "United States of America" .
+<Davidson_County> <location.statistical_region.population> "g.11x1gv5z4" .
+<The_City_Paper> <book.newspaper.circulation_areas> "Nashville" .
+<John_Ridley_Stroop> <people.deceased_person.place_of_death> "Nashville" .
+<Vanderbilt_University> <business.employer.employees> "m.04hnpb_" .
+<London> <base.biblioness.bibs_topic.is_really> "London" .
+<Kenneth_Jernigan> <people.person.education> "m.0n1jcjf" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2013 Nashville Film Festival" .
+<m.0_gpflm> <award.award_honor.award_winner> "Peabody College" .
+<Host> <type.property.expected_type> "College/University" .
+<William_Lee_Davidson> <symbols.name_source.namesakes> "Davidson County" .
+<2000_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Battle_of_Nashville> <time.event.locations> "Davidson County" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0sw3w9q" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrhz" .
+<Bicentennial_Capitol_Mall_State_Park> <location.location.containedby> "37208" .
+<Taught_at> <rdf-schema#range> "College/University" .
+<2010_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<37203> <location.location.contains> "37203-0722" .
+<RiffTrax> <tv.tv_program.filming_locations> "Nashville" .
+<m.063sbb7> <base.petbreeds.dog_city_relationship.cities> "Nashville" .
+<Davidson_County> <location.statistical_region.population> "g.11x1kvt9_" .
+<College/University> <freebase.type_profile.equivalent_topic> "University" .
+<m.0h8b0m9> <common.topic.notable_for> "g.1256d9pxg" .
+<Davidson_County> <location.statistical_region.population> "g.12b01zm70" .
+<Vanderbilt_University> <education.university.domestic_tuition> "m.0k7dpp7" .
+<1982_NCAA_Men's_Division_I_Basketball_Tournament_-_Mideast_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "UAB-Indiana 1982 NCAA Men's Division I Basketball Tournament Game" .
+<College/University> <type.type.expected_by> "University" .
+<Ashford_University> <location.location.containedby> "United States of America" .
+<Davidson_County> <location.location.people_born_here> "Jermain Wesley Loguen" .
+<m.0n1lx0w> <education.education.major_field_of_study> "Music" .
+<Cornelius_Vanderbilt> <people.person.profession> "Entrepreneur" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.subdividing_place> "United States of America" .
+<Iowa-Northeast_Louisiana_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<Educational_Institution> <freebase.type_profile.published> "Published" .
+<37203-5721> <location.location.containedby> "37203" .
+<Davidson_County> <common.topic.notable_types> "US County" .
+<Nashville> <location.location.events> "2005 Nashville Film Festival" .
+<Tennessee_Titans> <sports.sports_team.location> "Nashville" .
+<Vanderbilt_Commodores_football> <sports.school_sports_team.athletics_brand> "Vanderbilt Commodores" .
+<Nashville> <location.location.events> "2012 Nashville Film Festival" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrp2" .
+<Nashville> <location.citytown.postal_codes> "37203" .
+<Bicentennial_Capitol_Mall_State_Park> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<37203-0722> <location.location.containedby> "United States of America" .
+<m.09w66v6> <common.webpage.topic> "Nashville" .
+<National> <common.topic.notable_types> "Organization scope" .
+<Vanderbilt_University_Law_School> <education.educational_institution_campus.educational_institution> "Vanderbilt University Law School" .
+<Stephen_Tall> <people.person.nationality> "United States of America" .
+<John_C._Tune_Airport> <aviation.airport.serves> "Nashville" .
+<m.0_gpfh8> <freebase.valuenotation.is_reviewed> "Year" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2010 Nashville Film Festival" .
+<Ryman_Auditorium> <location.location.containedby> "Nashville" .
+<Nashville_Scene> <book.newspaper.circulation_areas> "Nashville" .
+<2000_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<37209> <location.location.contains> "John C. Tune Airport" .
+<2009_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<37207> <location.location.containedby> "Nashville" .
+<Peabody_College> <common.topic.notable_types> "College/University" .
+<Lane_Motor_Museum> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Doctorate_Degree_From> <type.property.expected_type> "College/University" .
+<James_Nash> <symbols.name_source.namesakes> "Nashville" .
+<Vanderbilt_University> <base.schemastaging.organization_extra.phone_number> "m.0r60896" .
+<Peabody_Museum_of_Archaeology_and_Ethnology> <symbols.namesake.named_after> "George Peabody" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.052b69q" .
+<m.09x53r0> <common.webpage.topic> "Nashville" .
+<37203> <location.location.contains> "37203-3211" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrjm" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrnn" .
+<Nashville> <travel.travel_destination.tourist_attractions> "International Bluegrass Music Association" .
+<37217> <location.postal_code.country> "United States of America" .
+<Nashville> <base.petbreeds.city_with_dogs.top_breeds> "m.063sbbc" .
+<Nashville> <location.location.events> "Louisiana Tech-La Salle 1989 NCAA Men's Division I Basketball Tournament Game" .
+<Joseph_W._Byrns,_Jr.> <people.deceased_person.place_of_burial> "Mount Olivet Cemetery" .
+<Nashville> <location.location.containedby> "United States of America" .
+<Laura_Vernon_Hamner> <people.person.nationality> "United States of America" .
+<m.09wp4kw> <common.webpage.topic> "Nashville" .
+<UAB-Indiana_1982_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<Davidson_County> <location.statistical_region.population> "m.0jt8pr4" .
+<Tennessee> <periodicals.newspaper_circulation_area.newspapers> "Out & About Newspaper" .
+<Nashville> <location.citytown.postal_codes> "37210" .
+<Oklahoma-Louisiana_Tech_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1989 NCAA Men's Division I Basketball Tournament- Southeast Regional Second Round" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2000 Nashville Film Festival" .
+<Vanderbilt_University> <business.employer.employees> "m.04hvgxh" .
+<2003_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrq5" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1989 NCAA Men's Division I Basketball Tournament- Southeast Regional Second Round" .
+<m.0k7ks92> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Vanderbilt_University_School_of_Engineering> <location.location.containedby> "United States of America" .
+<Kentucky-Utah_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<Nashville> <base.popstra.location.arrestee> "m.064tqf4" .
+<Z.T._Johnson> <people.person.gender> "Male" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrm1" .
+<Ryman_Auditorium> <base.usnris.nris_listing.significance_level> "National" .
+<Medical_School_Affiliation> <rdf-schema#range> "College/University" .
+<Alfred_Leland_Crabb> <people.person.education> "m.0n40q0f" .
+<Davidson_County> <location.statistical_region.rent50_2> "m.05gfpqp" .
+<Nashville> <location.citytown.postal_codes> "37203-4346" .
+<George_Doherty> <people.person.nationality> "United States of America" .
+<Number_of_postgraduates> <type.property.schema> "College/University" .
+<Martha_E._Rogers> <people.person.nationality> "United States of America" .
+<Peabody_College> <location.location.containedby> "Tennessee" .
+<Nashville> <location.citytown.postal_codes> "37243" .
+<University> <type.property.expected_type> "College/University" .
+<Davidson_County> <location.statistical_region.population> "g.11x1ms1br" .
+<2013_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<Laura_Vernon_Hamner> <people.person.education> "m.04hbd3h" .
+<Nashville> <location.location.events> "One More from the Road Tour" .
+<RiffTrax> <tv.tv_program.country_of_origin> "United States of America" .
+<Indiana-Marquette_1973_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1973 NCAA Men's Division I Basketball Tournament- Mideast Regional Semifinals" .
+<Virginia-Middle_Tennessee_State_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1989 NCAA Men's Division I Basketball Tournament- Southeast Regional Second Round" .
+<Nashville> <location.citytown.postal_codes> "37216" .
+<Peabody_Institute> <organization.organization.founders> "George Peabody" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n1lx0w" .
+<James_C._Jones> <people.person.place_of_birth> "Davidson County" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2010 Nashville Film Festival" .
+<Owen_Graduate_School_of_Management> <location.location.containedby> "Tennessee" .
+<Davidson_County> <location.location.adjoin_s> "m.03jr6w7" .
+<2005_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<Nashville> <location.citytown.postal_codes> "37205" .
+<The_Gulch,_Nashville,_Tennessee> <location.location.containedby> "Tennessee" .
+<m.0_gpfd7> <award.award_honor.honored_for> "TLUS (Teaching & Learning in Urban Schools)" .
+<Blair_School_of_Music> <location.location.containedby> "United States of America" .
+<Oklahoma-Louisiana_Tech_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<Davidson_County> <location.administrative_division.capital> "m.0jvvvq_" .
+<Owen_Graduate_School_of_Management> <common.topic.notable_types> "College/University" .
+<m.0_gpflm> <freebase.valuenotation.is_reviewed> "Award category" .
+<Davidson_County> <location.statistical_region.population> "g.11x1fxd3t" .
+<2012_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<37203-5705> <location.postal_code.country> "United States of America" .
+<Edwin_Richardson> <people.person.nationality> "United States of America" .
+<m.03l8rmb> <common.webpage.topic> "Nashville" .
+<Vanderbilt_Orbis> <book.newspaper.circulation_areas> "Nashville" .
+<Davidson_County> <location.location.people_born_here> "Alfred E. Jackson" .
+<Vanderbilt_University> <education.university.domestic_tuition> "m.0kdpdz5" .
+<James_C._Jones> <people.person.gender> "Male" .
+<m.0sw1nm2> <education.education.student> "Z.T. Johnson" .
+<37203-1004> <location.postal_code.country> "United States of America" .
+<37216> <location.location.containedby> "Davidson County" .
+<London> <common.topic.notable_types> "City/Town/Village" .
+<37246> <location.postal_code.country> "United States of America" .
+<Opryland_USA> <location.location.containedby> "United States of America" .
+<Bridgestone_Arena> <sports.sports_facility.teams> "Nashville Predators" .
+<John_Vincent> <people.person.nationality> "United States of America" .
+<37203-7505> <location.location.containedby> "United States of America" .
+<Peabody_College> <award.award_winner.awards_won> "m.0_gpfd7" .
+<Nashville> <location.location.events> "1993 NCAA Men's Division I Basketball Tournament" .
+<2006_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Danvers> <location.location.containedby> "United States of America" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Fort Negley" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament_-_Southeast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Utah-Pittsburgh 1993 NCAA Men's Division I Basketball Tournament Game" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0w7zw_5" .
+<Vanderbilt_University> <organization.endowed_organization.endowment> "m.0zt5jj1" .
+<Kentucky-Rider_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1993 NCAA Men's Division I Basketball Tournament - Southeast Regional First Round" .
+<Nashville> <location.location.events> "1980 Turing Award Ceremony" .
+<Bill_Boner> <people.person.education> "m.0gk8hzb" .
+<Nashville> <common.topic.notable_for> "g.1255j1cqd" .
+<37203> <location.location.containedby> "United States of America" .
+<Tennessee_Centennial_and_International_Exposition> <time.event.locations> "Nashville" .
+<George_Peabody> <people.person.profession> "Businessperson" .
+<m.0pphmdn> <organization.non_profit_registration.non_profit_organization> "Vanderbilt University" .
+<Vanderbilt_University> <location.location.containedby> "Tennessee" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.012qy9xd" .
+<2011_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Tennessee" .
+<College/University> <freebase.documented_object.documentation> "m.021y5v6" .
+<m.0zt5jj1> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Nashville> <common.topic.webpage> "m.0b46bh3" .
+<Peabody_College> <education.educational_institution.parent_institution> "Vanderbilt University" .
+<Bill_Yoast> <people.person.nationality> "United States of America" .
+<Francis_Nash> <people.person.gender> "Male" .
+<37210> <location.location.containedby> "Davidson County" .
+<Vanderbilt_University> <organization.organization.child> "m.0h9tsbx" .
+<Nashville> <location.location.events> "1999 Nashville Film Festival" .
+<Nashville_International_Airport> <location.location.nearby_airports> "John C. Tune Airport" .
+<Vanderbilt_University> <education.university.domestic_tuition> "m.0zt5krp" .
+<College/University> <freebase.type_hints.included_types> "Educational Institution" .
+<37203-1181> <location.location.containedby> "Tennessee" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.012svnyq" .
+<Vanderbilt_University> <education.university.domestic_tuition> "m.0k7ks92" .
+<Alfred_Leland_Crabb> <people.person.nationality> "United States of America" .
+<m.0pphg14> <location.mailing_address.state_province_region> "Tennessee" .
+<2013_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Vanderbilt_Commodores_baseball> <sports.sports_team.colors> "Black" .
+<Vanderbilt_University_Divinity_School> <education.educational_institution.campuses> "Vanderbilt University Divinity School" .
+<Nashville_Board_of_Parks_and_Recreation> <common.topic.notable_types> "Organization" .
+<Vanderbilt_University_Divinity_School> <location.location.containedby> "United States of America" .
+<Nashville> <location.location.events> "2013 Nashville Jewish Film Festival" .
+<Nashville> <film.film.country> "United States of America" .
+<Vanderbilt_University> <education.university.acceptance_rate> "m.0h74498" .
+<m.04hdb3c> <business.employment_tenure.company> "Vanderbilt University" .
+<37203-3226> <location.location.containedby> "37203" .
+<Owen_Graduate_School_of_Management> <location.location.containedby> "Nashville" .
+<College/University> <type.type.properties> "Domestic tuition" .
+<Tennessee_State_Tigers_basketball> <sports.sports_team.location> "Nashville" .
+<37218> <location.location.containedby> "Davidson County" .
+<Peabody_College> <award.award_winner.awards_won> "m.0_gpflm" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0gk8hzb" .
+<Tennessee> <base.biblioness.bibs_location.country> "United States of America" .
+<College/University> <type.type.expected_by> "University" .
+<Tennessee_State_Museum> <location.location.containedby> "37219" .
+<37203-3219> <location.location.containedby> "United States of America" .
+<Vanderbilt_University> <education.university.acceptance_rate> "m.0zt8s13" .
+<It_Might_Get_Loud> <film.film.featured_film_locations> "Nashville" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2000 Nashville Film Festival" .
+<m.0_gpfh8> <freebase.valuenotation.is_reviewed> "Award winner" .
+<37219> <location.location.containedby> "Davidson County" .
+<m.063sbbm> <base.petbreeds.dog_city_relationship.cities> "Nashville" .
+<Area_codes_615_and_629> <location.location.contains> "Nashville" .
+<US_News_&_World_Report:_Best_Education_Schools> <award.ranked_list.ranked_list_items> "m.0h8b_hy" .
+<Education> <type.domain.types> "College/University" .
+<Vanderbilt_University> <education.educational_institution.subsidiary_or_constituent_schools> "Vanderbilt University Graduate School" .
+<School_category> <freebase.type_profile.strict_included_types> "Topic" .
+<Owen_Graduate_School_of_Management> <location.location.containedby> "United States of America" .
+<Tennessee> <base.aareas.schema.administrative_area.capital> "Nashville" .
+<Davidson_County> <common.topic.article> "m.0mtlb" .
+<Institution> <owl#inverseOf> "Departments" .
+<37203> <location.location.contains> "37203-4338" .
+<Vanderbilt_University_College_of_Arts_and_Science> <location.location.containedby> "Nashville" .
+<37203-4338> <location.location.containedby> "Davidson County" .
+<Davidson_County> <location.statistical_region.population> "g.11x1ld8kz" .
+<m.04hwqzy> <business.employment_tenure.company> "Vanderbilt University" .
+<m.03jqshn> <location.adjoining_relationship.adjoins> "Davidson County" .
+<37203-2427> <location.postal_code.country> "United States of America" .
+<1982_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1982 NCAA Men's Division I Basketball Tournament - Mideast Regional Second Round" .
+<Joseph_Carlton_Loser> <people.deceased_person.place_of_death> "Nashville" .
+<Vanderbilt_University> <business.employer.employees> "m.04hdb3c" .
+<Nashville> <location.citytown.postal_codes> "37203-3218" .
+<m.0h8b0m9> <location.mailing_address.state_province_region> "Tennessee" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2007 Nashville Film Festival" .
+<m.012qy9xd> <education.education.institution> "Peabody College" .
+<Educational_Institution> <freebase.type_profile.strict_included_types> "Topic" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2009 Nashville Film Festival" .
+<Vanderbilt_University> <business.employer.employees> "m.04hbfvf" .
+<Nashville> <location.location.events> "2014 Nashville Film Festival" .
+<Parthenon> <location.location.containedby> "Nashville" .
+<Nashville> <symbols.namesake.named_after> "Francis Nash" .
+<37203-0791> <location.location.containedby> "37203" .
+<Davidson_County> <location.hud_foreclosure_area.hhuniv> "m.07fy02j" .
+<Vanderbilt_University_Law_School> <base.schemastaging.educational_institution_extra.libraries> "Alyne Queener Massey Law Library" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrlm" .
+<Peabody_Institute> <education.educational_institution.campuses> "Peabody Institute" .
+<37211> <location.location.containedby> "Davidson County" .
+<Cornelius_Vanderbilt> <people.person.profession> "Businessperson" .
+<Vanderbilt_University> <organization.organization.board_members> "m.04dyf3f" .
+<m.0h6_xjk> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<William_Inge> <people.person.gender> "Male" .
+<Mount_Olivet_Cemetery> <people.place_of_interment.interred_here> "Edward H. East" .
+<George_Peabody> <organization.organization_founder.organizations_founded> "Peabody College" .
+<m.0_gpfd7> <award.award_honor.award> "Telly Award for Non-Broadcast Productions Film/Video - Education (for academic use)" .
+<London> <travel.travel_destination.tour_operators> "Adventures by Disney" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Adventure Science Center" .
+<m.065pc7q> <base.popstra.vacation_choice.location> "Nashville" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrm8" .
+<m.0pphg14> <common.topic.notable_types> "Location" .
+<Tennessee> <location.location.containedby> "United States of America" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2007 Nashville Film Festival" .
+<Nashville> <location.citytown.postal_codes> "37203-0791" .
+<m.0h8b0m9> <location.mailing_address.country> "United States of America" .
+<The_Tennessean> <book.newspaper.circulation_areas> "Nashville" .
+<Peabody_College> <award.ranked_item.appears_in_ranked_lists> "m.0h8b_hy" .
+<Robert_Ryman> <people.person.place_of_birth> "Nashville" .
+<m.0_gpfh8> <award.award_honor.achievement_level> "Telly Bronze" .
+<Nashville> <location.citytown.postal_codes> "37212" .
+<George_Peabody> <symbols.name_source.namesakes> "Peabody" .
+<37203-4338> <location.location.containedby> "Tennessee" .
+<Red_Grooms> <people.person.place_of_birth> "Nashville" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrn4" .
+<Bill_Boner> <people.person.gender> "Male" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2001 Nashville Film Festival" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0czxynj" .
+<Ryman_Auditorium> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<m.0_ld4q0> <education.education.institution> "Peabody College" .
+<Nashville_International_Airport> <location.location.containedby> "United States of America" .
+<Peabody_Institute> <location.location.containedby> "United States of America" .
+<37203-5705> <location.location.containedby> "Tennessee" .
+<m.03lzyr1> <common.webpage.resource> "m.0bjjp35" .
+<m.0h6_xjb> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<37216> <location.postal_code.country> "United States of America" .
+<Nashville> <common.topic.webpage> "m.09x4vjt" .
+<Nashville> <location.citytown.postal_codes> "37214" .
+<37238> <location.postal_code.country> "United States of America" .
+<m.0_gpfh8> <freebase.valuenotation.has_no_value> "Ceremony" .
+<37203-3211> <location.location.containedby> "United States of America" .
+<37203-4338> <location.location.containedby> "United States of America" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2002 Nashville Film Festival" .
+<Vanderbilt_University> <business.employer.employees> "m.04hld4l" .
+<Nashville> <periodicals.newspaper_circulation_area.newspapers> "Chattanooga Courier" .
+<Nashville> <location.citytown.postal_codes> "37115" .
+<Vanderbilt_University_School_of_Engineering> <education.educational_institution.school_type> "Private university" .
+<George_Peabody> <organization.organization_founder.organizations_founded> "Peabody Institute" .
+<Nashville> <location.citytown.postal_codes> "37203-3226" .
+<m.04hfhxc> <business.employment_tenure.company> "Vanderbilt University" .
+<Adventures_by_Disney> <travel.tour_operator.travel_destinations> "Nashville" .
+<Davidson_County> <location.location.people_born_here> "Henry Johnson" .
+<Davidson_County> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Country_Music_Hall_of_Fame_and_Museum> <location.location.containedby> "37201" .
+<m.0h8b0p4> <organization.leadership.role> "Dean" .
+<Davidson_County> <location.location.people_born_here> "William Henry Sneed" .
+<Nashville_Banner> <book.newspaper.circulation_areas> "Nashville" .
+<It_Might_Get_Loud> <film.film.country> "United States of America" .
+<Davidson_County> <location.us_county.hud_section_8_area> "Nashville-Davidson--Murfreesboro--Franklin, TN MSA HUD Section 8 Area" .
+<Time_zone(s)> <rdf-schema#domain> "Location" .
+<1973_NCAA_Men's_Division_I_Basketball_Tournament-_Mideast_Regional_Finals> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1973 NCAA Men's Division I Basketball Tournament" .
+<Nashville> <common.topic.webpage> "m.09wp8st" .
+<College/University> <type.type.properties> "Number of undergraduates" .
+<College/University> <type.type.properties> "Departments" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n1lgfn" .
+<m.052p71h> <education.education.institution> "Peabody College" .
+<Edward_H._East> <people.person.place_of_birth> "Davidson County" .
+<Mount_Olivet_Cemetery> <location.location.containedby> "Tennessee" .
+<m.0_gpfh8> <freebase.valuenotation.is_reviewed> "Award category" .
+<2007_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<Nashville> <book.book_subject.works> "Air Castle of the South: WSM and the Making of Music City" .
+<Taught_at> <type.property.expected_type> "College/University" .
+<m.0pphg14> <freebase.valuenotation.has_no_value> "Street Address 4" .
+<Nashville> <location.statistical_region.population> "m.066fwvj" .
+<George_Peabody> <symbols.name_source.namesakes> "Peabody Hall" .
+<United_States_of_America> <location.country.first_level_divisions> "Tennessee" .
+<Mount_Olivet_Cemetery> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<37201> <location.location.contains> "Country Music Hall of Fame and Museum" .
+<37219> <location.postal_code.country> "United States of America" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0sw1nm2" .
+<Joseph_Carlton_Loser> <people.person.nationality> "United States of America" .
+<Vanderbilt_University> <common.topic.webpage> "m.04225dp" .
+<Parent_Institution> <rdf-schema#range> "College/University" .
+<One_More_from_the_Road_Tour> <time.event.locations> "Nashville" .
+<m.0_gpfd7> <freebase.valuenotation.is_reviewed> "Award winner" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Opryland USA" .
+<The_Hermitage> <base.usnris.nris_listing.significance_level> "National" .
+<1973_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1973 NCAA Men's Division I Basketball Tournament- Mideast Regional Semifinals" .
+<College/University> <type.type.expected_by> "Medical School Affiliation" .
+<Peabody_College> <education.educational_institution.school_type> "Private university" .
+<Vanderbilt_University> <business.employer.employees> "m.04hfhxc" .
+<Nashville> <location.location.events> "1982 NCAA Men's Division I Basketball Tournament - Mideast Regional Second Round" .
+<Vanderbilt_Orbis> <education.school_newspaper.school> "Vanderbilt University" .
+<Nashville> <location.capital_of_administrative_division.capital_of> "m.0jvvvq_" .
+<m.04hbd3h> <education.education.institution> "Peabody College" .
+<2007_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2003 Nashville Film Festival" .
+<Blair_School_of_Music> <education.educational_institution.parent_institution> "Vanderbilt University" .
+<Peabody_College> <common.topic.webpage> "m.03lzyr1" .
+<37203-0722> <location.location.containedby> "Davidson County" .
+<Nera_White> <people.person.nationality> "United States of America" .
+<Country_Music_Marathon> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<37203> <location.location.contains> "37203-7505" .
+<37203-4315> <location.location.containedby> "Tennessee" .
+<Nashville> <common.topic.webpage> "m.09w6ph5" .
+<2006_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<University> <rdf-schema#range> "College/University" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2004 Nashville Film Festival" .
+<m.0n45pxh> <education.education.institution> "Peabody College" .
+<Stephen_Tall> <people.person.gender> "Male" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "1999 Nashville Film Festival" .
+<Nashville> <common.topic.image> "Skyline of Nashville, Tennessee" .
+<Indiana-Robert_Morris_1982_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1982 NCAA Men's Division I Basketball Tournament - Mideast Regional First Round" .
+<Nashville> <periodicals.newspaper_circulation_area.newspapers> "The Tennessean" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament_-_Southeast_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Wake Forest-Iowa 1993 NCAA Men's Division I Basketball Tournament Game" .
+<Nashville> <location.citytown.postal_codes> "37219" .
+<2004_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Metropolitan_Council> <government.governmental_body.jurisdiction> "Nashville" .
+<Nashville> <location.location.events> "2008 Nashville Film Festival" .
+<37203-1181> <location.postal_code.country> "United States of America" .
+<m.0_gpfm3> <award.award_honor.award_winner> "Peabody College" .
+<Nashville> <periodicals.newspaper_circulation_area.newspapers> "Out & About Newspaper" .
+<Tennessee_State_Capitol> <location.location.containedby> "Tennessee" .
+<m.0n14q7s> <education.education.institution> "Peabody College" .
+<Nashville> <government.governmental_jurisdiction.governing_officials> "m.0k1bjb6" .
+<Davidson_County> <location.statistical_region.population> "g.11x1hzkpk" .
+<37207-3427> <location.location.containedby> "Davidson County" .
+<Nashville> <government.governmental_jurisdiction.government_bodies> "Metropolitan Council" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n1mvrd" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.012b_jb_" .
+<m.0pphg14> <freebase.valuenotation.has_no_value> "Street Address 3" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2014 Nashville Film Festival" .
+<Blair_School_of_Music> <education.educational_institution.campuses> "Blair School of Music" .
+<37203-5721> <location.location.containedby> "Tennessee" .
+<Nashville> <location.statistical_region.population> "m.066fwxl" .
+<37203-1004> <location.location.containedby> "37203" .
+<37219> <location.location.contains> "Tennessee State Museum" .
+<Davidson_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n40q0f" .
+<Vanderbilt-Ingram_Cancer_Center> <medicine.cancer_center.constituents> "Vanderbilt University" .
+<Nashville> <common.topic.webpage> "m.09y2k66" .
+<Nashville> <business.competitive_space.company> "m.0pcdpk9" .
+<37224> <location.postal_code.country> "United States of America" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament-_Southeast_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Virginia-Middle Tennessee State 1989 NCAA Men's Division I Basketball Tournament Game" .
+<Camilla_Benbow> <business.board_member.leader_of> "m.0h8b0p4" .
+<Vanderbilt_University_School_of_Medicine> <education.educational_institution_campus.educational_institution> "Vanderbilt University School of Medicine" .
+<m.04hwk7b> <business.employment_tenure.company> "Vanderbilt University" .
+<Olive_Tilford_Dargan> <people.person.education> "m.0n1cprb" .
+<Country_Music_Hall_of_Fame_and_Museum> <location.location.containedby> "Nashville" .
+<m.0_gpfm3> <freebase.valuenotation.is_reviewed> "Award winner" .
+<Frist_Center_for_the_Visual_Arts> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<2002_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Davidson_County> <location.statistical_region.population> "g.11x1jh3jw" .
+<Nashville> <common.topic.webpage> "m.03l8rmb" .
+<College/University> <freebase.type_profile.published> "Published" .
+<Davidson_County> <location.statistical_region.population> "g.11x1d85zr" .
+<Nashville> <location.citytown.postal_codes> "37203-3211" .
+<Vanderbilt_University> <base.schemastaging.educational_institution_extra.libraries> "Alyne Queener Massey Law Library" .
+<m.0gk8hzb> <education.education.institution> "Peabody College" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Country Music Marathon" .
+<m.0b48d0c> <common.webpage.topic> "Nashville" .
+<Nashville-Davidson> <location.location.containedby> "Tennessee" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "1997 Nashville Film Festival" .
+<m.0_gpflm> <award.award_honor.award> "Telly Award for TV Programs, Segments, or Promotional Pieces Film/Video - Education" .
+<Air_Castle_of_the_South:_WSM_and_the_Making_of_Music_City> <book.written_work.subjects> "Nashville" .
+<Nashville> <location.citytown.postal_codes> "37206" .
+<Nashville> <travel.travel_destination.tourist_attractions> "The Hermitage" .
+<Davidson_County> <location.statistical_region.rent50_0> "m.05gfpq7" .
+<Great_Train_Wreck_of_1918> <time.event.locations> "Nashville" .
+<37203-4324> <location.location.containedby> "United States of America" .
+<Vanderbilt_University> <award.ranked_item.appears_in_ranked_lists> "m.05lmywk" .
+<Vanderbilt_University> <business.employer.employees> "m.0wj0csg" .
+<37209> <location.postal_code.country> "United States of America" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Tennessee Agricultural Museum" .
+<US_County> <freebase.type_hints.included_types> "Location" .
+<Nashville> <location.location.events> "OOPSLA 2008" .
+<37203-3219> <location.location.containedby> "37203" .
+<College/University> <freebase.type_profile.strict_included_types> "Educational Institution" .
+<m.0_gpfh8> <award.award_honor.award_winner> "Peabody College" .
+<Peabody_College> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.06_06y4" .
+<Vanderbilt_University> <business.employer.employees> "m.012ffg5b" .
+<Nashville> <location.location.events> "1973 NCAA Men's Division I Basketball Tournament- Mideast Regional Semifinals" .
+<m.0h6j7c4> <organization.leadership.organization> "Vanderbilt University" .
+<Indiana-Marquette_1973_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<m.052jhmc> <business.employment_tenure.company> "Vanderbilt University" .
+<Ashford_University> <organization.organization.organization_type> "Private university" .
+<Vanderbilt_University> <location.location.geolocation> "m.0jh6c9k" .
+<37203> <location.location.contains> "37203-5721" .
+<37242> <location.postal_code.country> "United States of America" .
+<m.0sw3xp6> <education.education.institution> "Peabody College" .
+<m.03l8rmb> <common.webpage.category> "Official Website" .
+<Doak_S._Campbell> <people.person.gender> "Male" .
+<Vanderbilt_University> <base.schemastaging.organization_extra.phone_number> "m.0r607x2" .
+<Organization> <freebase.type_hints.included_types> "Topic" .
+<m.0_gpfm3> <freebase.valuenotation.is_reviewed> "Year" .
+<Vanderbilt_University> <education.educational_institution.sports_teams> "Vanderbilt Commodores baseball" .
+<m.0_gpfh8> <freebase.valuenotation.is_reviewed> "Ceremony" .
+<Nashville> <location.citytown.postal_codes> "37203-5705" .
+<Nashville> <location.location.events> "Wake Forest-Tennessee-Chatanooga 1993 NCAA Men's Division I Basketball Tournament Game" .
+<m.05gfpq7> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Vanderbilt_University> <education.educational_institution_campus.educational_institution> "Vanderbilt University" .
+<Davidson_County> <location.location.adjoin_s> "m.03jqh0p" .
+<m.0n18lh4> <education.education.institution> "Peabody College" .
+<Nashville> <government.governmental_jurisdiction.agencies> "Nashville Board of Parks and Recreation" .
+<Vanderbilt_University> <base.schemastaging.organization_extra.contact_webpages> "m.010g1b32" .
+<m.09wp8st> <common.webpage.topic> "Nashville" .
+<37207-3427> <location.location.containedby> "Tennessee" .
+<m.04hkl33> <business.employment_tenure.company> "Vanderbilt University" .
+<Tennessee> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Bridgestone_Arena> <location.location.containedby> "Nashville" .
+<Indiana-Kentucky_1973_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1973 NCAA Men's Division I Basketball Tournament- Mideast Regional Finals" .
+<m.0_gpfc2> <award.award_honor.award> "Telly Award for TV Programs, Segments, or Promotional Pieces Film/Video - Editing" .
+<Red_Grooms> <people.person.nationality> "United States of America" .
+<Vanderbilt_University> <business.employer.employees> "m.04hh3k_" .
+<Davidson_County> <location.statistical_region.population> "g.12b01q4r4" .
+<Tennessee_State_Museum> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<US_County> <freebase.type_profile.published> "Published" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0_ld4q0" .
+<37208> <location.location.contains> "Bicentennial Capitol Mall State Park" .
+<Papakura_Education_Services> <organization.organization.geographic_scope> "National" .
+<Indiana-Robert_Morris_1982_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<37203> <location.location.contains> "37203-3219" .
+<John_Ridley_Stroop> <people.person.education> "m.0n0c4h2" .
+<Nashville> <sports.sports_team_location.teams> "Tennessee Titans" .
+<Medical_School_Affiliation> <type.property.expected_type> "College/University" .
+<Christine_Sadler> <people.person.nationality> "United States of America" .
+<Charles_N._Millican> <people.person.nationality> "United States of America" .
+<m.0n1lb9t> <education.education.institution> "Peabody College" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.052p71h" .
+<Davidson_County> <common.topic.image> "Davidson county tennessee courthouse" .
+<Nashville> <location.location.events> "Wake Forest-Iowa 1993 NCAA Men's Division I Basketball Tournament Game" .
+<Tennessee> <location.location.time_zones> "Central Time Zone" .
+<37230> <location.postal_code.country> "United States of America" .
+<Vanderbilt_University_School_of_Engineering> <location.location.containedby> "Tennessee" .
+<Vanderbilt_University> <base.bioventurist.bv_venture_investor.investment_round> "m.04sxhvp" .
+<1973_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1973 NCAA Men's Division I Basketball Tournament- Mideast Regional Finals" .
+<m.0n1lx0w> <education.education.student> "Robert Ryman" .
+<m.0jvw4rl> <location.administrative_division_capital_relationship.administrative_division> "Tennessee" .
+<Nashville> <location.location.events> "2007 Nashville Film Festival" .
+<Columbia_Studios> <organization.organization.geographic_scope> "Nashville" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament-_Southeast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Virginia-Providence 1989 NCAA Men's Division I Basketball Tournament Game" .
+<College/University> <freebase.type_hints.included_types> "Topic" .
+<37203> <location.location.contains> "37203-4315" .
+<Herman_Lee_Donovan> <people.person.gender> "Male" .
+<37203> <location.location.contains> "37203-2427" .
+<m.0zcrw4g> <business.employment_tenure.company> "Vanderbilt University" .
+<Fort_Negley> <location.location.containedby> "Tennessee" .
+<37249> <location.postal_code.country> "United States of America" .
+<m.04hgx28> <business.employment_tenure.company> "Vanderbilt University" .
+<School> <rdf-schema#range> "College/University" .
+<Vanderbilt_Commodores_men's_basketball> <sports.school_sports_team.school> "Vanderbilt University" .
+<Papakura_Education_Services> <common.topic.notable_types> "Organization" .
+<m.06_06y4> <protected_sites.natural_or_cultural_site_listing.listed_site> "Peabody College" .
+<Nashville> <location.statistical_region.population> "m.066fwyk" .
+<37215> <location.postal_code.country> "United States of America" .
+<Nashville> <location.location.events> "Tennessee Centennial and International Exposition" .
+<Davidson_County> <periodicals.newspaper_circulation_area.newspapers> "The Tennessean" .
+<Nashville> <location.location.events> "1997 Nashville Film Festival" .
+<m.04hcwf0> <business.employment_tenure.company> "Vanderbilt University" .
+<m.0czxynj> <education.education.student> "Garnie W. McGinty" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.06651dj" .
+<1997_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<37203-4324> <location.postal_code.country> "United States of America" .
+<2013_Nashville_Jewish_Film_Festival> <time.event.locations> "Nashville" .
+<Kenneth_Jernigan> <people.person.gender> "Male" .
+<Davidson_County> <location.location.time_zones> "Central Time Zone" .
+<Bettie_Page> <people.person.education> "m.052p71h" .
+<37203-1181> <location.location.containedby> "37203" .
+<John_C._Tune_Airport> <location.location.containedby> "United States of America" .
+<Educational_Institution> <freebase.type_profile.strict_included_types> "Agent" .
+<m.04hww6t> <business.employment_tenure.company> "Vanderbilt University" .
+<Organization> <freebase.type_profile.published> "Published" .
+<Nashville> <location.statistical_region.population> "m.066fwwn" .
+<37203-3211> <location.location.containedby> "Nashville" .
+<Davidson_County> <location.statistical_region.population> "g.11x1f6ltg" .
+<37214> <location.location.containedby> "Davidson County" .
+<Vanderbilt_University_College_of_Arts_and_Science> <education.educational_institution.school_type> "Private university" .
+<m.0b496yj> <common.webpage.topic> "Nashville" .
+<Nashville> <location.statistical_region.population> "m.066fwvx" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<Nashville> <travel.travel_destination.tour_operators> "Adventures by Disney" .
+<m.0svxhfv> <government.government_position_held.jurisdiction_of_office> "Nashville" .
+<m.0_gpfm3> <freebase.valuenotation.has_no_value> "Ceremony" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Downtown Presbyterian Church" .
+<37203-3226> <location.postal_code.country> "United States of America" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrpz" .
+<Vanderbilt_University> <education.educational_institution.subsidiary_or_constituent_schools> "Vanderbilt University Law School" .
+<College/University> <type.type.expected_by> "Colleges and Universities" .
+<Nashville_Banner> <book.newspaper.circulation_areas> "Tennessee" .
+<Peabody_College> <award.award_winner.awards_won> "m.0_gpfm3" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrlv" .
+<m.03jqh0p> <location.adjoining_relationship.adjoins> "Davidson County" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n0c4h2" .
+<m.0zt5jr4> <award.ranking.item> "Vanderbilt University" .
+<Tennessee> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Vanderbilt_University> <business.employer.employees> "m.04hxjwv" .
+<Oklahoma-East_Tennessee_State_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1989 NCAA Men's Division I Basketball Tournament- Southeast Regional First Round" .
+<Vanderbilt_University> <education.university.acceptance_rate> "m.0q1_649" .
+<37203-2427> <location.location.containedby> "United States of America" .
+<m.06_06y4> <protected_sites.natural_or_cultural_site_listing.category_or_criteria> "National Historic Landmark" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.gender> "Male" .
+<m.0n45pxh> <education.education.student> "Albert Hadley" .
+<Abu_Dhabi_Leadership_Development_Project> <award.award_winning_work.awards_won> "m.0_gpfc2" .
+<m.04hld4l> <business.employment_tenure.company> "Vanderbilt University" .
+<Nashville> <location.citytown.postal_codes> "37203-3219" .
+<m.0sw12kk> <education.education.institution> "Peabody College" .
+<Peabody> <location.hud_county_place.place> "Peabody" .
+<Charles_N._Millican> <people.person.gender> "Male" .
+<Blair_School_of_Music> <common.topic.notable_types> "College/University" .
+<Nashville> <location.location.events> "Indiana-Robert Morris 1982 NCAA Men's Division I Basketball Tournament Game" .
+<Founding_school> <type.property.expected_type> "College/University" .
+<37221> <location.location.containedby> "Davidson County" .
+<Davidson_County> <location.statistical_region.population> "g.12b01xw_k" .
+<Vanderbilt_University_Divinity_School> <education.educational_institution.parent_institution> "Vanderbilt University" .
+<Peabody> <symbols.namesake.named_after> "George Peabody" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.04hbhlj" .
+<m.0h8b0p4> <organization.leadership.person> "Camilla Benbow" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.02_7zzp" .
+<1982_NCAA_Men's_Division_I_Basketball_Tournament_-_Mideast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1982 NCAA Men's Division I Basketball Tournament" .
+<1997_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Harold_Bradley> <people.person.gender> "Male" .
+<Nashville> <location.citytown.postal_codes> "37228" .
+<Location> <freebase.type_profile.published> "Published" .
+<2012_48_Hour_Film_Project> <time.event.locations> "Nashville" .
+<Nahville_Seal> <common.image.appears_in_topic_gallery> "Nashville" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2006 Nashville Film Festival" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament_-_Southeast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Iowa-Northeast Louisiana 1993 NCAA Men's Division I Basketball Tournament Game" .
+<m.0svzbdm> <education.education.institution> "Peabody College" .
+<Olive_Tilford_Dargan> <people.person.nationality> "United States of America" .
+<m.03jqnhh> <location.adjoining_relationship.adjoins> "Davidson County" .
+<m.0_gpfc2> <award.award_honor.honored_for> "Abu Dhabi Leadership Development Project" .
+<Francis_Nash> <symbols.name_source.namesakes> "Nashville" .
+<Private_university> <organization.organization_type.organizations_of_this_type> "Mahatma Jyoti Rao Phoole University" .
+<Davidson_County> <location.location.people_born_here> "Benjamin \'Pap\' Singleton" .
+<m.0sw3w9q> <education.education.student> "John Vincent" .
+<Davidson_County> <location.statistical_region.population> "g.11x1jvp5d" .
+<Nashville> <location.citytown.postal_codes> "37207-3427" .
+<m.0n40q0f> <education.education.institution> "Peabody College" .
+<Vanderbilt_University_Law_School> <education.educational_institution.parent_institution> "Vanderbilt University" .
+<Vanderbilt_University> <education.educational_institution.subsidiary_or_constituent_schools> "Vanderbilt University School of Medicine" .
+<Opryland_USA> <location.location.containedby> "Nashville" .
+<Nashville> <periodicals.newspaper_circulation_area.newspapers> "Nashville Scene" .
+<College> <freebase.equivalent_topic.equivalent_type> "College/University" .
+<37213> <location.location.containedby> "Davidson County" .
+<John_C._Tune_Airport> <location.location.time_zones> "Central Time Zone" .
+<m.0sw05y8> <education.education.institution> "Peabody College" .
+<Nashville> <location.location.events> "1973 NCAA Men's Division I Basketball Tournament- Mideast Regional Finals" .
+<m.0czyxgj> <education.education.institution> "Peabody College" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrp9" .
+<Middle_Tennessee_State-Louisville_1982_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1982 NCAA Men's Division I Basketball Tournament - Mideast Regional Second Round" .
+<Nashville> <periodicals.newspaper_circulation_area.newspapers> "Nashville Banner" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2008 Nashville Film Festival" .
+<W._Winfred_Moore> <people.person.education> "m.0czyxgj" .
+<37203-4315> <location.location.containedby> "Davidson County" .
+<Bridgestone_Arena> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.gender> "Male" .
+<37203-3226> <location.location.containedby> "Tennessee" .
+<Nashville_Film_Festival> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Tennessee> <location.administrative_division.capital> "m.0jvw4rl" .
+<Acceptance_rate> <type.property.schema> "College/University" .
+<m.0_gpflm> <freebase.valuenotation.is_reviewed> "Award winner" .
+<Fort_Nashborough> <symbols.namesake.named_after> "Francis Nash" .
+<m.063sbbc> <base.petbreeds.dog_city_relationship.cities> "Nashville" .
+<Nashville> <location.citytown.postal_codes> "37234" .
+<Davidson_County> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07fy037" .
+<37235> <location.postal_code.country> "United States of America" .
+<Peabody> <common.topic.notable_types> "City/Town/Village" .
+<Davidson_County> <location.statistical_region.population> "g.11x1ct2kr" .
+<Nashville> <government.governmental_jurisdiction.governing_officials> "m.0svxhfv" .
+<37203-2427> <location.location.containedby> "Davidson County" .
+<m.02_7zzp> <education.education.degree> "Master's Degree" .
+<m.0h8b149> <award.ranking.item> "Peabody College" .
+<David_Tzuriel> <people.person.education> "m.0n14q7s" .
+<m.0n1jcjf> <education.education.institution> "Peabody College" .
+<Nashville> <location.location.nearby_airports> "Nashville International Airport" .
+<Private_university> <base.schemastaging.context_name.pronunciation> "g.125_mvk31" .
+<Vanderbilt_University> <business.employer.employees> "m.04hpzsp" .
+<Universities> <type.property.expected_type> "College/University" .
+<Red_Grooms> <people.person.education> "m.0n18lh4" .
+<Stephen_Tall> <people.person.education> "m.0svwjdk" .
+<2013_International_Black_Film_Festival_of_Nashville> <time.event.locations> "Nashville" .
+<Peabody_College> <education.university.number_of_undergraduates> "m.0h8hfct" .
+<Davidson_County> <location.statistical_region.population> "g.11x1dtsd4" .
+<2014_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<m.0_gpflm> <freebase.valuenotation.is_reviewed> "Ceremony" .
+<London> <base.biblioness.bibs_topic.subsumes> "London" .
+<37236> <location.postal_code.country> "United States of America" .
+<Private_university> <common.topic.notable_types> "School category" .
+<2014_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<College/University> <type.type.expected_by> "Parent Institution" .
+<37210> <location.postal_code.country> "United States of America" .
+<William_Inge> <people.person.education> "m.0n1lgfn" .
+<United_States_of_America> <location.country.administrative_divisions> "Tennessee" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.administrative_children> "United States of America" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2014 Nashville Film Festival" .
+<Peabody_College> <award.award_winner.awards_won> "m.0_gpfc2" .
+<Vanderbilt_University> <business.employer.employees> "m.012n5c45" .
+<m.0n1lx0w> <education.education.institution> "Peabody College" .
+<Mel_Chin> <people.person.education> "m.0n1lb9t" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament-_Southeast_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Oklahoma-Louisiana Tech 1989 NCAA Men's Division I Basketball Tournament Game" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0svwjdk" .
+<2007_Fylmz_Festival> <time.event.locations> "Nashville" .
+<m.04hc3bj> <business.employment_tenure.company> "Vanderbilt University" .
+<1982_NCAA_Men's_Division_I_Basketball_Tournament_-_Mideast_Regional_First_Round> <time.event.locations> "Nashville" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2002 Nashville Film Festival" .
+<UAB-Indiana_1982_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1982 NCAA Men's Division I Basketball Tournament - Mideast Regional Second Round" .
+<37203-4324> <location.location.containedby> "Davidson County" .
+<Vanderbilt_University> <common.topic.notable_types> "College/University" .
+<Nashville> <location.location.events> "Kentucky-Rider 1993 NCAA Men's Division I Basketball Tournament Game" .
+<Nashville> <location.statistical_region.population> "m.066fwvq" .
+<Davidson_County> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07fy02r" .
+<37207-3427> <location.postal_code.country> "United States of America" .
+<m.0h8b_hy> <award.ranking.list> "US News & World Report: Best Education Schools" .
+<Wake_Forest-Tennessee-Chatanooga_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<Centennial_Park_(Nashville)> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Nashville> <location.citytown.postal_codes> "37116" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n1cprb" .
+<m.0svwjdk> <education.education.student> "Stephen Tall" .
+<Vanderbilt_University> <base.jewlib.parent_institution.jewish_studies_research_units> "Center for Jewish Studies at Vanderbilt University" .
+<m.05gfpqx> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Local_tuition> <type.property.schema> "College/University" .
+<37203-1004> <location.location.containedby> "Davidson County" .
+<Davidson_County> <location.location.adjoin_s> "m.03jqnhh" .
+<Cornelius_Vanderbilt> <people.person.gender> "Male" .
+<Edward_H._East> <people.person.gender> "Male" .
+<Kentucky-Austin_Peay_1973_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<37203-4324> <location.location.containedby> "Tennessee" .
+<m.0h8b_j4> <award.ranking.item> "Peabody College" .
+<Nashville> <organization.organization_scope.organizations_with_this_scope> "Columbia Studios" .
+<37203-0791> <location.postal_code.country> "United States of America" .
+<Nashville> <base.petbreeds.city_with_dogs.top_breeds> "m.063sbbm" .
+<2004_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<College/University> <freebase.type_profile.kind> "Definition" .
+<Nashville> <location.citytown.postal_codes> "37240" .
+<1982_NCAA_Men's_Division_I_Basketball_Tournament_-_Mideast_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Middle Tennessee State-Louisville 1982 NCAA Men's Division I Basketball Tournament Game" .
+<37203-3211> <location.location.containedby> "37203" .
+<Vanderbilt_University> <award.ranked_item.appears_in_ranked_lists> "m.0h6j7jl" .
+<Nashville> <location.citytown.postal_codes> "37203-0722" .
+<Topic> <freebase.type_profile.published> "Published" .
+<37203> <location.location.contains> "37203-3218" .
+<Belmont_Mansion> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<m.064spd6> <base.popstra.vacation_choice.location> "Nashville" .
+<Financier> <people.profession.specialization_of> "Businessperson" .
+<m.063sb9m> <base.petbreeds.dog_city_relationship.cities> "Nashville" .
+<The_Hermitage> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<2011_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<m.0_gpflm> <freebase.valuenotation.has_no_value> "Ceremony" .
+<Nashville> <common.topic.webpage> "m.09wp4kw" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0sw05y8" .
+<George_Peabody> <people.person.place_of_birth> "Danvers" .
+<Peabody_Institute> <education.educational_institution_campus.educational_institution> "Peabody Institute" .
+<Nashville> <location.statistical_region.population> "m.05ndc4v" .
+<Francis_Nash> <people.person.nationality> "United States of America" .
+<Vanderbilt_University> <business.employer.employees> "m.04hwqzy" .
+<Nashville> <location.citytown.postal_codes> "37246" .
+<Out_&_About_Newspaper> <book.newspaper.circulation_areas> "Nashville" .
+<Nashville> <film.film.featured_film_locations> "Nashville" .
+<Peabody_College> <education.educational_institution.total_enrollment> "m.0h8b0_t" .
+<Henry_Johnson> <people.person.nationality> "United States of America" .
+<William_Henry_Sneed> <people.person.place_of_birth> "Davidson County" .
+<Vanderbilt_University> <award.ranked_item.appears_in_ranked_lists> "m.0ggmqwn" .
+<m.04hp6ny> <business.employment_tenure.company> "Vanderbilt University" .
+<Cheekwood_Botanical_Garden_and_Museum_of_Art> <location.location.containedby> "Nashville" .
+<m.0h8b0p4> <freebase.valuenotation.has_no_value> "To" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2011 Nashville Film Festival" .
+<George_Doherty> <people.person.gender> "Male" .
+<37203-3202> <location.location.containedby> "Davidson County" .
+<Nashville> <location.citytown.postal_codes> "37203-5721" .
+<US_News_&_World_Report:_Best_Education_Schools> <award.ranked_list.ranked_list_items> "m.0h8b149" .
+<College/University> <type.type.expected_by> "School" .
+<Davidson_County> <location.statistical_region.population> "g.11b66cwzb1" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.011clh9l" .
+<College/University> <type.type.expected_by> "Universities" .
+<Mel_Chin> <people.person.nationality> "United States of America" .
+<m.0h6j7jl> <award.ranking.item> "Vanderbilt University" .
+<Tennessee> <base.locations.states_and_provences.country> "United States of America" .
+<School_category> <type.type.domain> "Education" .
+<James_Nash> <people.person.gender> "Male" .
+<Owen_Graduate_School_of_Management> <education.educational_institution_campus.educational_institution> "Owen Graduate School of Management" .
+<It_Might_Get_Loud> <film.film.featured_film_locations> "London" .
+<37203-5721> <location.location.containedby> "United States of America" .
+<m.09wm666> <common.webpage.topic> "Nashville" .
+<37115> <location.postal_code.country> "United States of America" .
+<Vanderbilt_University> <education.educational_institution.campuses> "Vanderbilt University" .
+<m.0w7z9h3> <education.education.degree> "Bachelor of Arts" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "1999 Nashville Film Festival" .
+<Nashville> <location.citytown.postal_codes> "37215" .
+<Nashville> <location.location.events> "2007 Fylmz Festival" .
+<Adventure_Science_Center> <location.location.containedby> "Nashville" .
+<m.0n1cprb> <education.education.institution> "Peabody College" .
+<Nashville> <location.citytown.postal_codes> "37249" .
+<OOPSLA_2008> <time.event.locations> "Nashville" .
+<2001_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Country Music Hall of Fame and Museum" .
+<m.0jvw4rl> <location.administrative_division_capital_relationship.capital> "Nashville" .
+<37218> <location.postal_code.country> "United States of America" .
+<Edward_H._East> <people.deceased_person.place_of_burial> "Mount Olivet Cemetery" .
+<m.0n1cprb> <education.education.student> "Olive Tilford Dargan" .
+<37203-0791> <location.location.containedby> "Nashville" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n45pxh" .
+<Fraternities_and_sororities> <type.property.reverse_property> "Colleges and Universities" .
+<Virginia-Providence_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<John_Ridley_Stroop> <people.person.gender> "Male" .
+<Parent_Institution> <type.property.expected_type> "College/University" .
+<Harold_Bradley> <people.person.nationality> "United States of America" .
+<37115> <location.location.containedby> "Davidson County" .
+<37203-4315> <location.postal_code.country> "United States of America" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament-_Southeast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1989 NCAA Men's Division I Basketball Tournament" .
+<37203-3202> <location.postal_code.country> "United States of America" .
+<m.04hnpb_> <business.employment_tenure.company> "Vanderbilt University" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0w7zp3g" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdivides_place> "United States, with Territories" .
+<Nashville> <location.location.events> "Oklahoma-Louisiana Tech 1989 NCAA Men's Division I Basketball Tournament Game" .
+<37217> <location.location.containedby> "Davidson County" .
+<Country_Music_Hall_of_Fame_and_Museum> <location.location.containedby> "Davidson County" .
+<Middle_Tennessee_State-Florida_State_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<37203-3211> <location.location.containedby> "Tennessee" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament_-_Southeast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Wake Forest-Tennessee-Chatanooga 1993 NCAA Men's Division I Basketball Tournament Game" .
+<Vanderbilt_University> <base.schemastaging.non_profit_extra.classification> "University or Technological Institutions" .
+<37203-4315> <location.location.containedby> "Nashville" .
+<Nashville> <location.location.events> "2000 Nashville Film Festival" .
+<37203-0722> <location.location.containedby> "Nashville" .
+<Chase_Curran_Mooney> <people.person.place_of_birth> "Davidson County" .
+<Opryland_USA> <location.location.containedby> "Tennessee" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0sw3xp6" .
+<Nashville> <location.location.containedby> "Davidson County" .
+<Davidson_County> <government.governmental_jurisdiction.government_bodies> "Metropolitan Council" .
+<Peabody_College> <award.ranked_item.appears_in_ranked_lists> "m.0h8b_j4" .
+<Davidson_County> <location.statistical_region.population> "g.11x1kl3b2" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.012w712g" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<Nashville> <location.location.events> "1989 NCAA Men's Division I Basketball Tournament- Southeast Regional Second Round" .
+<m.04hww4j> <business.employment_tenure.company> "Vanderbilt University" .
+<37203-4346> <location.location.containedby> "United States of America" .
+<Walter_Washington> <people.person.education> "m.0sw12kk" .
+<m.0cl_pfv> <business.employment_tenure.company> "Vanderbilt University" .
+<m.0n14q7s> <education.education.student> "David Tzuriel" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n1lb9t" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament_-_Southeast_Regional_First_Round> <time.event.locations> "Nashville" .
+<m.0svwjdk> <education.education.institution> "Peabody College" .
+<m.04hvgxh> <business.employment_tenure.company> "Vanderbilt University" .
+<Nashville> <location.location.events> "2002 Nashville Film Festival" .
+<Nashville_Municipal_Auditorium> <location.location.containedby> "Davidson County" .
+<Nashville> <location.capital_of_administrative_division.capital_of> "m.0jvw4rl" .
+<m.0n1lb9t> <education.education.student> "Mel Chin" .
+<37203-0791> <location.location.containedby> "Tennessee" .
+<William_Henry_Sneed> <people.person.gender> "Male" .
+<37243> <location.postal_code.country> "United States of America" .
+<Wake_Forest-Tennessee-Chatanooga_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.losing_team> "Tennessee State Tigers basketball" .
+<TLUS_(Teaching_&_Learning_in_Urban_Schools)> <award.award_winning_work.awards_won> "m.0_gpfd7" .
+<m.04hgsfh> <business.employment_tenure.company> "Vanderbilt University" .
+<Vanderbilt_University> <organization.organization.headquarters> "m.0pphg14" .
+<37203-0791> <location.location.containedby> "United States of America" .
+<Vanderbilt_University> <education.educational_institution.sports_teams> "Vanderbilt Commodores men's basketball" .
+<Education> <type.domain.types> "Educational Institution" .
+<Davidson_County> <location.statistical_region.population> "g.11x1cgq4y" .
+<National> <organization.organization_scope.organizations_with_this_scope> "Verified Person" .
+<Vanderbilt_University_Divinity_School> <education.educational_institution_campus.educational_institution> "Vanderbilt University Divinity School" .
+<Louisiana_Tech-La_Salle_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<m.063sbbh> <base.petbreeds.dog_city_relationship.cities> "Nashville" .
+<Nashville-Davidson> <common.topic.notable_types> "City/Town/Village" .
+<George_Peabody> <symbols.name_source.namesakes> "Peabody Education Fund" .
+<School_category> <freebase.type_hints.included_types> "Topic" .
+<Bettie_Page> <people.person.place_of_birth> "Nashville" .
+<m.0sw3w9q> <education.education.institution> "Peabody College" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Belmont Mansion" .
+<m.04hbhlj> <education.education.student> "George Doherty" .
+<37203-5705> <location.location.containedby> "United States of America" .
+<Peabody_College> <organization.organization.leadership> "m.0h8b0p4" .
+<Virginia-Middle_Tennessee_State_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<Nashville> <location.citytown.postal_codes> "37202" .
+<Nashville_Predators> <sports.sports_team.location> "Nashville" .
+<m.0_gpfc2> <award.award_honor.award_winner> "Peabody College" .
+<Vanderbilt_University> <education.university.number_of_undergraduates> "m.0h77ybc" .
+<37203-3211> <location.postal_code.country> "United States of America" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.04hbd3h" .
+<Blair_School_of_Music> <location.location.containedby> "Nashville" .
+<37201> <location.location.containedby> "Davidson County" .
+<School> <type.property.expected_type> "College/University" .
+<Vanderbilt_University> <business.employer.employees> "m.0dl84cw" .
+<Vanderbilt_University_Law_School> <common.topic.notable_types> "College/University" .
+<College/University> <type.type.expected_by> "Institution" .
+<Nashville> <location.citytown.postal_codes> "37203-4338" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrl4" .
+<George_Peabody> <common.topic.image> "GeorgePeabody" .
+<Best_Overall> <type.property.expected_type> "College/University" .
+<Nashville> <location.citytown.postal_codes> "37203-4315" .
+<Vanderbilt_University> <organization.organization.leadership> "m.0h6j7c4" .
+<Vanderbilt_University> <education.educational_institution.phone_number> "m.0h6j79l" .
+<37203-3218> <location.location.containedby> "37203" .
+<Davidson_County> <location.location.adjoin_s> "m.03jrlc3" .
+<m.0h8b0m9> <location.mailing_address.citytown> "Nashville" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament_-_Southeast_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1993 NCAA Men's Division I Basketball Tournament" .
+<37203-5705> <location.location.containedby> "Nashville" .
+<Nashville> <location.location.events> "1993 NCAA Men's Division I Basketball Tournament - Southeast Regional First Round" .
+<Ryman_Auditorium> <location.location.containedby> "United States of America" .
+<m.0b46cdn> <common.webpage.topic> "Nashville" .
+<Nashville> <location.location.events> "Iowa-Northeast Louisiana 1993 NCAA Men's Division I Basketball Tournament Game" .
+<Bill_Yoast> <people.person.gender> "Male" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrpr" .
+<Robert_Ryman> <people.person.gender> "Male" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<Christine_Sadler> <people.person.place_of_birth> "United States of America" .
+<Nashville> <base.petbreeds.city_with_dogs.top_breeds> "m.063sb9_" .
+<Blair_School_of_Music> <location.location.containedby> "Tennessee" .
+<Peabody_College> <location.location.containedby> "Nashville" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2008 Nashville Film Festival" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament-_Southeast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Middle Tennessee State-Florida State 1989 NCAA Men's Division I Basketball Tournament Game" .
+<Institution> <rdf-schema#range> "College/University" .
+<Tennessee_Agricultural_Museum> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Nashville> <location.location.geolocation> "m.0kj8t1" .
+<Nashville> <symbols.namesake.named_after> "James Nash" .
+<Fraternities_and_sororities> <type.property.schema> "College/University" .
+<National_Historic_Landmark> <protected_sites.site_listing_category.category_of> "National Register of Historic Places" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.0123p367" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "1997 Nashville Film Festival" .
+<Davidson_County> <location.statistical_region.co2_emissions_residential> "m.045k1_7" .
+<Private_university> <common.topic.article> "m.05pck1" .
+<37207-3427> <location.location.containedby> "37207" .
+<Nashville> <common.topic.webpage> "m.0b46cdn" .
+<Davidson_County> <location.statistical_region.population> "g.11x1d7r9_" .
+<37209> <location.location.containedby> "Davidson County" .
+<Nashville> <location.statistical_region.population> "m.066fwwv" .
+<Vanderbilt_Commodores> <education.athletics_brand.institution> "Vanderbilt University" .
+<Vanderbilt_University> <business.employer.employees> "m.062xhct" .
+<Nashville> <location.place_with_neighborhoods.neighborhoods> "The Gulch, Nashville, Tennessee" .
+<m.09xz5_l> <common.webpage.topic> "Nashville" .
+<m.0k1bjcp> <government.government_position_held.jurisdiction_of_office> "Nashville" .
+<Vanderbilt_Commodores_men's_basketball> <sports.school_sports_team.athletics_brand> "Vanderbilt Commodores" .
+<m.0_gpfm3> <freebase.valuenotation.is_reviewed> "Ceremony" .
+<m.0n1jdt5> <education.education.institution> "Peabody College" .
+<Vanderbilt_University> <common.topic.webpage> "m.03lc6fq" .
+<m.0_gpfc2> <freebase.valuenotation.is_reviewed> "Winning work" .
+<37203-4338> <location.postal_code.country> "United States of America" .
+<37203-2427> <location.location.containedby> "Nashville" .
+<37203> <location.location.contains> "37203-3202" .
+<37205> <location.postal_code.country> "United States of America" .
+<m.04hhft4> <business.employment_tenure.company> "Vanderbilt University" .
+<37203-4388> <location.location.containedby> "Nashville" .
+<Vanderbilt_University_College_of_Arts_and_Science> <education.educational_institution.parent_institution> "Vanderbilt University" .
+<Clement_Railroad_Hotel_Museum> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Vanderbilt_University> <education.educational_institution.colors> "Old gold" .
+<Frist_Center_for_the_Visual_Arts> <location.location.containedby> "Nashville" .
+<Nashville> <base.petbreeds.city_with_dogs.top_breeds> "m.063sb9r" .
+<37203-3218> <location.postal_code.country> "United States of America" .
+<Number_of_postgraduates> <rdf-schema#domain> "College/University" .
+<37203-3226> <location.location.containedby> "United States of America" .
+<Host> <rdf-schema#range> "College/University" .
+<2014_International_Black_Film_Festival_of_Nashville> <time.event.locations> "Nashville" .
+<m.063sb9w> <base.petbreeds.dog_city_relationship.cities> "Nashville" .
+<Vanderbilt_University> <business.employer.employees> "m.010vs578" .
+<Cornelius_Vanderbilt> <common.topic.notable_types> "Organization founder" .
+<Nashville> <sports.sports_team_location.teams> "Tennessee State Tigers basketball" .
+<Nashville> <location.statistical_region.population> "m.0r3zm9l" .
+<Vanderbilt_University> <business.employer.employees> "m.0wjy4yq" .
+<Davidson_County> <symbols.namesake.named_after> "William Lee Davidson" .
+<Nashville> <location.location.time_zones> "Central Time Zone" .
+<Vanderbilt_University> <common.topic.article> "m.01pq54" .
+<Vanderbilt_University> <business.employer.employees> "m.04hhft4" .
+<Organization_founder> <freebase.type_profile.published> "Published" .
+<Nashville> <common.topic.webpage> "m.09x53r0" .
+<George_Peabody> <people.person.nationality> "United States of America" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Centennial Park (Nashville)" .
+<m.0sw3xp6> <education.education.student> "Fred Coe" .
+<W._Winfred_Moore> <people.person.place_of_birth> "Tennessee" .
+<College/University> <freebase.type_hints.included_types> "Organization" .
+<Ashford_University> <common.topic.notable_types> "College/University" .
+<Vanderbilt_University> <education.educational_institution.subsidiary_or_constituent_schools> "Vanderbilt University School of Engineering" .
+<Vanderbilt_University> <business.employer.employees> "m.04hcyyz" .
+<m.0108n9n7> <book.periodical_publisher_period.publisher> "Vanderbilt University" .
+<College/University> <type.type.expected_by> "Taught at" .
+<The_Hermitage> <location.location.containedby> "Davidson County" .
+<Vanderbilt_University_College_of_Arts_and_Science> <location.location.containedby> "United States of America" .
+<37208> <location.location.containedby> "Davidson County" .
+<37203> <location.location.contains> "37203-1181" .
+<Joseph_W._Byrns,_Jr.> <people.person.nationality> "United States of America" .
+<Vanderbilt_University> <education.educational_institution.newspaper> "Vanderbilt Orbis" .
+<Organization_founder> <freebase.type_profile.strict_included_types> "Topic" .
+<Nashville> <location.location.events> "1973 NCAA Men's Division I Basketball Tournament" .
+<Vanderbilt_University> <business.employer.employees> "m.04hgsfh" .
+<37203> <location.location.contains> "37203-3226" .
+<Vanderbilt_University_School_of_Medicine> <education.educational_institution.school_type> "Private university" .
+<Nashville> <location.location.events> "Virginia-Providence 1989 NCAA Men's Division I Basketball Tournament Game" .
+<m.0_gpfd7> <freebase.valuenotation.is_reviewed> "Ceremony" .
+<37213> <location.postal_code.country> "United States of America" .
+<Vanderbilt_University> <education.educational_institution.subsidiary_or_constituent_schools> "Blair School of Music" .
+<37203-4324> <location.location.containedby> "Nashville" .
+<John_C._Tune_Airport> <location.location.containedby> "37209" .
+<37116> <location.postal_code.country> "United States of America" .
+<Nashville> <common.topic.webpage> "m.09wm666" .
+<2008_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<Vanderbilt_University> <business.employer.employees> "m.04hkl33" .
+<Vanderbilt_University> <organization.organization.board_members> "m.04c_nff" .
+<Harold_Bradley> <people.person.education> "m.0n197dy" .
+<Nashville> <location.citytown.postal_codes> "37235" .
+<Nashville> <location.citytown.postal_codes> "37203-3202" .
+<2005_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<University> <rdf-schema#range> "College/University" .
+<Impulcity> <organization.organization.geographic_scope> "United States of America" .
+<m.0zt5krp> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Nashville> <location.location.events> "2003 Nashville Film Festival" .
+<Davidson_County> <location.statistical_region.rent50_3> "m.05gfpqx" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0czyxgj" .
+<George_Peabody> <organization.organization_founder.organizations_founded> "Peabody Trust" .
+<1973_NCAA_Men's_Division_I_Basketball_Tournament-_Mideast_Regional_Finals> <time.event.locations> "Nashville" .
+<Nashville> <base.wikipedia_infobox.settlement.area_code> "Area codes 615 and 629" .
+<1982_NCAA_Men's_Division_I_Basketball_Tournament_-_Mideast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Kentucky-Middle Tennessee State 1982 NCAA Men's Division I Basketball Tournament Game" .
+<m.04hbfvf> <business.employment_tenure.company> "Vanderbilt University" .
+<Vanderbilt_University_College_of_Arts_and_Science> <education.educational_institution_campus.educational_institution> "Vanderbilt University College of Arts and Science" .
+<Peabody_College> <base.usnris.nris_listing.significance_level> "National" .
+<m.05lmywk> <award.ranking.item> "Vanderbilt University" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2013 Nashville Film Festival" .
+<37244> <location.postal_code.country> "United States of America" .
+<Kentucky-Austin_Peay_1973_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1973 NCAA Men's Division I Basketball Tournament- Mideast Regional Semifinals" .
+<Number_of_doctoral_candidates> <rdf-schema#domain> "College/University" .
+<m.0lpcdk4> <business.employment_tenure.company> "Vanderbilt University" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2011 Nashville Film Festival" .
+<Newman_Haynes_Clanton> <people.person.place_of_birth> "Davidson County" .
+<University_Affiliation> <type.property.expected_type> "College/University" .
+<Davidson_County> <location.statistical_region.population> "g.11x1jwm_6" .
+<David_Tzuriel> <people.person.gender> "Male" .
+<Davidson_County> <location.statistical_region.population> "g.11x1f72cs" .
+<m.0w7zp3g> <education.education.degree> "Master of Arts" .
+<m.0dl84cw> <business.employment_tenure.company> "Vanderbilt University" .
+<Nashville> <location.location.events> "Great Train Wreck of 1918" .
+<Warner_Parks> <common.topic.notable_types> "Location" .
+<Academic_Institution> <type.property.expected_type> "College/University" .
+<Edwin_Richardson> <people.person.education> "m.0_ld4q0" .
+<Vanderbilt_University_School_of_Engineering> <location.location.containedby> "Nashville" .
+<Louisiana_Tech-La_Salle_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1989 NCAA Men's Division I Basketball Tournament- Southeast Regional First Round" .
+<Middle_Tennessee_State-Florida_State_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1989 NCAA Men's Division I Basketball Tournament- Southeast Regional First Round" .
+<Tennessee> <periodicals.newspaper_circulation_area.newspapers> "Nashville Banner" .
+<Vanderbilt_University_Law_School> <education.educational_institution.mascot> "Vanderbilt University Mr. Commodore" .
+<US_News_&_World_Report:_Best_Education_Schools> <award.ranked_list.ranked_list_items> "m.0h8b_j4" .
+<m.0h9tsbx> <organization.organization_relationship.child> "Peabody College" .
+<Nashville> <location.location.events> "2013 International Black Film Festival of Nashville" .
+<Number_of_undergraduates> <rdf-schema#domain> "College/University" .
+<Departments> <rdf-schema#domain> "College/University" .
+<37203-4324> <location.location.containedby> "37203" .
+<Parthenon> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<Area_codes_615_and_629> <location.location.containedby> "Tennessee" .
+<m.05gfpr3> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Vanderbilt_University_School_of_Engineering> <education.educational_institution_campus.educational_institution> "Vanderbilt University School of Engineering" .
+<m.0h8b0p4> <freebase.valuenotation.has_value> "From" .
+<m.0pcdpk9> <business.competitive_space_mediator.space> "Nashville" .
+<Nashville> <location.statistical_region.population> "m.066fwyb" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n1jdt5" .
+<Vanderbilt_University> <business.employer.employees> "m.04hww4j" .
+<m.06_06y4> <protected_sites.natural_or_cultural_site_listing.designation> "National Register of Historic Places" .
+<Local_tuition> <rdf-schema#domain> "College/University" .
+<m.04225dp> <common.webpage.topic> "Vanderbilt University" .
+<United_States_Dollar> <finance.currency.countries_used> "United States of America" .
+<Organization_founder> <freebase.type_hints.included_types> "Topic" .
+<US_County> <freebase.type_profile.kind> "Definition" .
+<College/University> <type.type.expected_by> "Founding school" .
+<m.0_gpfd7> <freebase.valuenotation.is_reviewed> "Winning work" .
+<m.0h8b_j4> <award.ranking.list> "US News & World Report: Best Education Schools" .
+<Academic_Institution> <rdf-schema#range> "College/University" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament> <time.event.locations> "Nashville" .
+<m.0_gpfd7> <freebase.valuenotation.has_no_value> "Ceremony" .
+<George_Peabody> <symbols.name_source.namesakes> "Peabody Essex Museum" .
+<2012_International_Black_Film_Festival_of_Nashville> <time.event.locations> "Nashville" .
+<US_County> <freebase.type_profile.strict_included_types> "Topic" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0h9d9t0" .
+<Vanderbilt_University> <education.university.number_of_undergraduates> "m.0zt5kmm" .
+<US_County> <freebase.type_hints.included_types> "Topic" .
+<m.05yqd6_> <education.education.degree> "Master's Degree" .
+<Private_university> <organization.organization_type.organizations_of_this_type> "Ashford University" .
+<Peabody_College> <award.award_winner.awards_won> "m.0_gpfh8" .
+<Vanderbilt_University> <business.employer.employees> "m.0g9bjz3" .
+<m.03lzyr1> <common.webpage.category> "Official Website" .
+<Nera_White> <people.person.education> "m.0n1m1z0" .
+<Country_Music_Hall_of_Fame_and_Museum> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<37203-2427> <location.location.containedby> "Tennessee" .
+<m.052b69q> <education.education.institution> "Peabody College" .
+<National_Register_of_Historic_Places> <protected_sites.natural_or_cultural_site_designation.categories> "National Historic Landmark" .
+<m.03lzyr1> <common.webpage.topic> "Peabody College" .
+<Tennessee_State_Capitol> <location.location.containedby> "Nashville" .
+<Nashville> <government.governmental_jurisdiction.governing_officials> "m.0t4tdqv" .
+<m.0h8b_hy> <award.ranking.item> "Peabody College" .
+<37203-3202> <location.location.containedby> "37203" .
+<Nashville> <location.statistical_region.population> "m.066fwv9" .
+<37203-4346> <location.location.containedby> "37203" .
+<Davidson_County> <location.statistical_region.population> "m.0jsz051" .
+<University_Affiliation> <rdf-schema#range> "College/University" .
+<Albert_Hadley> <people.person.gender> "Male" .
+<Vanderbilt_University> <education.educational_institution.sports_teams> "Vanderbilt Commodores football" .
+<Educational_Institution> <freebase.type_hints.included_types> "Topic" .
+<37203> <location.location.contains> "37203-5705" .
+<Vanderbilt_University_School_of_Engineering> <education.educational_institution.parent_institution> "Vanderbilt University" .
+<Theodore_G._Bilbo> <people.person.nationality> "United States of America" .
+<Nashville> <location.location.events> "2011 Nashville Film Festival" .
+<Nashville> <location.location.events> "2004 Nashville Film Festival" .
+<Nashville> <location.statistical_region.population> "m.066fww8" .
+<37203-0722> <location.location.containedby> "37203" .
+<Vanderbilt_University> <education.university.local_tuition> "m.0h6_xjb" .
+<Rocketown> <location.location.containedby> "Nashville" .
+<37203-5705> <location.location.containedby> "37203" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Cheekwood Botanical Garden and Museum of Art" .
+<Davidson_County> <location.statistical_region.co2_emissions_industrial> "m.045k6x9" .
+<37220> <location.postal_code.country> "United States of America" .
+<2003_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<George_Peabody> <symbols.name_source.namesakes> "Peabody Institute Library" .
+<Nashville_Municipal_Auditorium> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<m.0ggmqwn> <award.ranking.item> "Vanderbilt University" .
+<1997_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<Vanderbilt_Commodores_men's_basketball> <sports.sports_team.colors> "Black" .
+<Nashville> <common.topic.notable_types> "City/Town/Village" .
+<Vanderbilt_University_School_of_Medicine> <education.educational_institution.campuses> "Vanderbilt University School of Medicine" .
+<Beth_Harwell> <people.person.education> "m.0n1mvrd" .
+<m.0_gpfh8> <award.award_honor.honored_for> "ESL to Go" .
+<Nashville> <music.lyricist.lyrics_written> "Just Walkin' in the Rain" .
+<m.03jr6w7> <location.adjoining_relationship.adjoins> "Davidson County" .
+<Nashville> <location.location.events> "Oklahoma-East Tennessee State 1989 NCAA Men's Division I Basketball Tournament Game" .
+<Ryman_Auditorium> <location.location.containedby> "Tennessee" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.010nwf11" .
+<Vanderbilt_University> <business.employer.employees> "m.04hhv2p" .
+<37203-4388> <location.location.containedby> "Tennessee" .
+<37215> <location.location.containedby> "Davidson County" .
+<Nashville_Predators> <sports.sports_team.arena_stadium> "Bridgestone Arena" .
+<Vanderbilt_University> <business.employer.employees> "m.04hww6t" .
+<m.05gfpqg> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<1999_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Tennessee_State_Capitol> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<m.0r607x2> <base.schemastaging.phone_sandbox.service_location> "United States of America" .
+<m.0jvvvq_> <location.administrative_division_capital_relationship.administrative_division> "Davidson County" .
+<m.04ht0c7> <business.employment_tenure.company> "Vanderbilt University" .
+<Nashville_International_Airport> <location.location.containedby> "Nashville" .
+<1982_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1982 NCAA Men's Division I Basketball Tournament - Mideast Regional First Round" .
+<Nashville> <common.topic.webpage> "m.09w5qrw" .
+<Nashville> <location.citytown.postal_codes> "37227" .
+<Owen_Graduate_School_of_Management> <education.educational_institution.parent_institution> "Vanderbilt University" .
+<Virginia-Providence_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1989 NCAA Men's Division I Basketball Tournament- Southeast Regional First Round" .
+<Utah-Pittsburgh_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<Vanderbilt_University> <organization.endowed_organization.endowment> "m.0h6j7gx" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrnw" .
+<Charles_N._Millican> <people.person.education> "m.06651dj" .
+<37203-4315> <location.location.containedby> "37203" .
+<37203-4346> <location.location.containedby> "Nashville" .
+<Wake_Forest-Iowa_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1993 NCAA Men's Division I Basketball Tournament - Southeast Regional Second Round" .
+<Education> <type.domain.types> "School category" .
+<Nashville> <location.citytown.postal_codes> "37203-2427" .
+<37212> <location.location.containedby> "Davidson County" .
+<Peabody_College> <education.university.number_of_postgraduates> "m.0h8b0_h" .
+<m.0n197dy> <education.education.student> "Harold Bradley" .
+<37219> <location.location.contains> "Nashville Municipal Auditorium" .
+<College/University> <type.type.properties> "Acceptance rate" .
+<ESL_to_Go> <film.film.country> "United States of America" .
+<Peabody_Institute> <common.topic.notable_types> "College/University" .
+<College/University> <type.type.expected_by> "Universität" .
+<Nashville> <common.topic.webpage> "m.0b45t2k" .
+<George_Peabody> <common.topic.notable_types> "Organization founder" .
+<2009_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<Vanderbilt_University> <organization.non_profit_organization.registered_with> "m.0pphmdn" .
+<Nashville> <location.citytown.postal_codes> "37203-4324" .
+<m.0w7zp3g> <education.education.institution> "Peabody College" .
+<Nashville> <base.petbreeds.city_with_dogs.top_breeds> "m.063sb9h" .
+<College/University> <freebase.type_profile.strict_included_types> "Topic" .
+<Davidson_County> <location.location.people_born_here> "James Collinsworth" .
+<Davidson_County> <location.location.people_born_here> "William Edmondson" .
+<m.0r60896> <base.schemastaging.phone_sandbox.service_location> "United States of America" .
+<Cornelius_Vanderbilt> <organization.organization_founder.organizations_founded> "Vanderbilt University" .
+<Vanderbilt_University_College_of_Arts_and_Science> <common.topic.notable_types> "College/University" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2003 Nashville Film Festival" .
+<m.0n1lgfn> <education.education.student> "William Inge" .
+<Christine_Sadler> <people.person.education> "m.0svzbdm" .
+<m.04dyf3f> <organization.organization_board_membership.organization> "Vanderbilt University" .
+<Nashville> <base.petbreeds.city_with_dogs.top_breeds> "m.063sbb7" .
+<1973_NCAA_Men's_Division_I_Basketball_Tournament-_Mideast_Regional_Semifinals> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1973 NCAA Men's Division I Basketball Tournament" .
+<Davidson_County> <location.location.people_born_here> "Joseph Carlton Loser" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrpj" .
+<Universität> <rdf-schema#range> "College/University" .
+<Nashville> <common.topic.webpage> "m.09wwbdv" .
+<Vanderbilt_University_Law_School> <education.educational_institution.campuses> "Vanderbilt University Law School" .
+<Nashville> <location.citytown.postal_codes> "37207" .
+<Davidson_County> <location.statistical_region.rent50_4> "m.05gfpr3" .
+<Location> <type.type.properties> "Time zone(s)" .
+<Vanderbilt_University_College_of_Arts_and_Science> <location.location.containedby> "Davidson County" .
+<Nashville> <location.location.events> "Indiana-Kentucky 1973 NCAA Men's Division I Basketball Tournament Game" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2012 Nashville Film Festival" .
+<Nashville> <location.citytown.postal_codes> "37222" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n197dy" .
+<m.0h8b0p4> <organization.leadership.organization> "Peabody College" .
+<Fred_Coe> <people.person.nationality> "United States of America" .
+<m.0b46bh3> <common.webpage.topic> "Nashville" .
+<Davidson_County> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07fy030" .
+<Nashville_Municipal_Auditorium> <location.location.containedby> "Nashville" .
+<Peabody_College> <education.educational_institution_campus.educational_institution> "Peabody College" .
+<Nashville_Municipal_Auditorium> <location.location.containedby> "37219" .
+<m.03jr28n> <location.adjoining_relationship.adjoins> "Davidson County" .
+<Vanderbilt_University> <education.university.domestic_tuition> "m.0h6_xjk" .
+<Kentucky-Utah_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1993 NCAA Men's Division I Basketball Tournament - Southeast Regional Second Round" .
+<Tennessee_State_Tigers_basketball> <base.marchmadness.ncaa_basketball_team.tournament_games_lost> "Wake Forest-Tennessee-Chatanooga 1993 NCAA Men's Division I Basketball Tournament Game" .
+<Nashville> <location.citytown.postal_codes> "37236" .
+<Universität> <type.property.expected_type> "College/University" .
+<Mount_Olivet_Cemetery> <people.place_of_interment.interred_here> "Joseph W. Byrns, Jr." .
+<Nashville> <location.location.events> "2014 International Black Film Festival of Nashville" .
+<Nashville> <organization.organization_scope.organizations_with_this_scope> "1 Less Thing Cleaning" .
+<Just_Walkin'_in_the_Rain> <music.composition.lyricist> "Nashville" .
+<Nashville-Davidson> <location.hud_county_place.county> "Davidson County" .
+<Nashville> <location.location.events> "1993 NCAA Men's Division I Basketball Tournament - Southeast Regional Second Round" .
+<m.05yqd6_> <education.education.student> "Bill Yoast" .
+<Davidson_County> <location.statistical_region.population> "g.12b01nfqp" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament-_Southeast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Louisiana Tech-La Salle 1989 NCAA Men's Division I Basketball Tournament Game" .
+<John_Vincent> <people.person.gender> "Male" .
+<Walter_Washington> <people.person.gender> "Male" .
+<Parthenon> <location.location.containedby> "Tennessee" .
+<m.0jvvvq_> <location.administrative_division_capital_relationship.capital> "Nashville" .
+<37203-3202> <location.location.containedby> "Tennessee" .
+<Nashville-Davidson--Murfreesboro--Franklin,_TN_Metropolitan_Statistical_Area> <location.location.containedby> "Tennessee" .
+<37203-3226> <location.location.containedby> "Davidson County" .
+<Danvers> <common.topic.notable_types> "City/Town/Village" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrmy" .
+<37203-5705> <location.location.containedby> "Davidson County" .
+<m.012ffg5b> <business.employment_tenure.company> "Vanderbilt University" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Nashville Film Festival" .
+<James_C._Jones> <people.person.nationality> "United States of America" .
+<37203-3219> <location.location.containedby> "Tennessee" .
+<m.0_gpfm3> <award.award_honor.achievement_level> "Telly Bronze" .
+<Davidson_County> <location.statistical_region.population> "m.0kgp6z0" .
+<m.0_gpfm3> <freebase.valuenotation.is_reviewed> "Award category" .
+<Nashville> <common.topic.image> "Nahville Seal" .
+<College/University> <type.type.expected_by> "Best Overall" .
+<37227> <location.postal_code.country> "United States of America" .
+<Peabody> <location.location.containedby> "United States of America" .
+<m.0sw12kk> <education.education.student> "Walter Washington" .
+<Vanderbilt_University> <base.schemastaging.organization_extra.phone_number> "m.0r607g7" .
+<Warner_Parks> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Nashville> <base.petbreeds.city_with_dogs.top_breeds> "m.063sb9w" .
+<Davidson_County> <location.statistical_region.population> "g.12b01q4r6" .
+<Vanderbilt_University> <education.educational_institution.subsidiary_or_constituent_schools> "Vanderbilt University College of Arts and Science" .
+<1973_NCAA_Men's_Division_I_Basketball_Tournament-_Mideast_Regional_Semifinals> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Kentucky-Austin Peay 1973 NCAA Men's Division I Basketball Tournament Game" .
+<2007_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n18lh4" .
+<George_Peabody> <people.person.profession> "Entrepreneur" .
+<College/University> <freebase.type_profile.strict_included_types> "Agent" .
+<1980_Turing_Award_Ceremony> <time.event.locations> "Nashville" .
+<Davidson_County> <location.statistical_region.population> "g.11x1jp5hy" .
+<Tennessee_State_Museum> <location.location.containedby> "Nashville" .
+<Wake_Forest-Tennessee-Chatanooga_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1993 NCAA Men's Division I Basketball Tournament - Southeast Regional First Round" .
+<Time_zone(s)> <type.property.schema> "Location" .
+<United_States_of_America> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<George_Peabody> <people.person.profession> "Financier" .
+<Nashville> <location.citytown.postal_codes> "37229" .
+<m.0_gpfm3> <freebase.valuenotation.is_reviewed> "Achievement level" .
+<Vanderbilt_University> <education.university.number_of_postgraduates> "m.0zt5km_" .
+<Davidson_County> <location.statistical_region.population> "g.11x1kpspb" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Tennessee State Capitol" .
+<37203-0791> <location.location.containedby> "Davidson County" .
+<m.09wv0wh> <common.webpage.topic> "Nashville" .
+<m.05yqd6_> <education.education.institution> "Peabody College" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrmh" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_parent> "United States, with Territories" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Nashville Municipal Auditorium" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.0_yx_c2" .
+<Nashville> <location.citytown.postal_codes> "37242" .
+<37205> <location.location.containedby> "Davidson County" .
+<m.0_gpfc2> <freebase.valuenotation.is_reviewed> "Ceremony" .
+<Vanderbilt_University> <base.schemastaging.organization_extra.phone_number> "m.0rb3g2d" .
+<Acceptance_rate> <rdf-schema#domain> "College/University" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Travellers Rest" .
+<37203-7505> <location.postal_code.country> "United States of America" .
+<2002_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<William_Lee_Davidson> <people.person.nationality> "United States of America" .
+<Vanderbilt_University> <business.employer.employees> "m.04jqnsw" .
+<Bill_Yoast> <people.person.education> "m.05yqd6_" .
+<Davidson_County> <location.location.adjoin_s> "m.03jr28n" .
+<m.0_gpfd7> <award.award_honor.award_winner> "Peabody College" .
+<Vanderbilt_University> <book.periodical_publisher.periodicals_published> "m.0108n9n7" .
+<The_Gulch,_Nashville,_Tennessee> <location.location.containedby> "Nashville" .
+<2014_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<Nashville> <location.citytown.postal_codes> "37244" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrkq" .
+<Nashville> <base.biblioness.bibs_location.state> "Tennessee" .
+<Vanderbilt_University> <freebase.valuenotation.has_value> "International tuition" .
+<2011_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Nashville> <location.location.events> "1982 NCAA Men's Division I Basketball Tournament - Mideast Regional First Round" .
+<m.0_gpfh8> <freebase.valuenotation.is_reviewed> "Winning work" .
+<2006_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<Davidson_County> <location.location.adjoin_s> "m.03jqshn" .
+<Colleges_and_Universities> <type.property.expected_type> "College/University" .
+<Vanderbilt_University_Law_School> <location.location.containedby> "Nashville" .
+<Nashville> <base.popstra.location.vacationers> "m.065pc7q" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrky" .
+<Vanderbilt_University_School_of_Engineering> <common.topic.notable_types> "College/University" .
+<University> <freebase.equivalent_topic.equivalent_type> "College/University" .
+<37207> <location.location.contains> "37207-3427" .
+<Tennessee_Agricultural_Museum> <location.location.containedby> "Nashville" .
+<m.0n1m1z0> <education.education.institution> "Peabody College" .
+<2003_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2012 Nashville Film Festival" .
+<37203-5721> <location.location.containedby> "Nashville" .
+<Henry_Johnson> <people.person.gender> "Male" .
+<m.09y6xs3> <common.webpage.topic> "Nashville" .
+<m.0_gpfd7> <freebase.valuenotation.is_reviewed> "Achievement level" .
+<Fraternities_and_sororities> <rdf-schema#domain> "College/University" .
+<Martha_E._Rogers> <people.person.education> "m.0n1jdt5" .
+<Nashville> <location.citytown.postal_codes> "37211" .
+<Vanderbilt_University> <education.university.number_of_undergraduates> "m.0zt8rvl" .
+<Rocketown> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<m.0_gpfc2> <award.award_honor.achievement_level> "Telly Bronze" .
+<Mary_Elizabeth_Aitcheson_Gore> <people.person.nationality> "United States of America" .
+<Vanderbilt_University_Divinity_School> <education.educational_institution.school_type> "Private university" .
+<Nashville> <location.location.events> "2012 International Black Film Festival of Nashville" .
+<Newman_Haynes_Clanton> <people.person.gender> "Male" .
+<Adventures_by_Disney> <travel.tour_operator.travel_destinations> "London" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Rocketown" .
+<Vanderbilt_University> <business.employer.employees> "m.0cl_pfv" .
+<37203-0722> <location.postal_code.country> "United States of America" .
+<37232> <location.postal_code.country> "United States of America" .
+<Vanderbilt_University> <education.educational_institution.athletics_brand> "Vanderbilt Commodores" .
+<Tennessee_State_Museum> <location.location.containedby> "Davidson County" .
+<Fred_Coe> <people.person.gender> "Male" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament_-_Southeast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Kentucky-Rider 1993 NCAA Men's Division I Basketball Tournament Game" .
+<Nashville> <location.citytown.postal_codes> "37241" .
+<Kenneth_Jernigan> <people.person.place_of_birth> "United States of America" .
+<Vanderbilt_University> <location.location.containedby> "Nashville" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Lane Motor Museum" .
+<Vanderbilt_University> <business.employer.employees> "m.0lpcdk4" .
+<1_Less_Thing_Cleaning> <organization.organization.place_founded> "Nashville" .
+<Vanderbilt_Commodores> <education.athletics_brand.teams> "Vanderbilt Commodores football" .
+<Vanderbilt_University> <education.educational_institution.subsidiary_or_constituent_schools> "Vanderbilt University Divinity School" .
+<m.0_gpfc2> <freebase.valuenotation.is_reviewed> "Award category" .
+<Vanderbilt_University> <education.educational_institution.colors> "Black" .
+<International_tuition> <rdf-schema#domain> "College/University" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1993 NCAA Men's Division I Basketball Tournament - Southeast Regional First Round" .
+<Nashville> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.currency_used> "United States Dollar" .
+<Nashville> <location.statistical_region.population> "m.066fwxz" .
+<m.0_gpfd7> <freebase.valuenotation.is_reviewed> "Award category" .
+<1973_NCAA_Men's_Division_I_Basketball_Tournament-_Mideast_Regional_Semifinals> <time.event.locations> "Nashville" .
+<37203-1181> <location.location.containedby> "Davidson County" .
+<Peabody_Hall> <symbols.namesake.named_after> "George Peabody" .
+<37211> <location.postal_code.country> "United States of America" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0w7z9h3" .
+<Joseph_W._Byrns,_Jr.> <people.person.place_of_birth> "Davidson County" .
+<George_Peabody> <common.topic.notable_for> "g.125dq46b3" .
+<Nashville-Davidson> <location.hud_county_place.place> "Nashville-Davidson" .
+<Davidson_County> <location.location.people_born_here> "James C. Jones" .
+<Skyline_of_Nashville,_Tennessee> <common.image.appears_in_topic_gallery> "Nashville" .
+<m.0pphg14> <location.mailing_address.citytown> "Nashville" .
+<College/University> <type.type.expected_by> "Host" .
+<m.064tqf4> <base.popstra.arrest.location> "Nashville" .
+<Davidson_County> <location.hud_foreclosure_area.ofheo_price_change> "m.07fy03w" .
+<National> <organization.organization_scope.organizations_with_this_scope> "Pirate Party of the Netherlands" .
+<m.0h8b0m9> <freebase.valuenotation.has_no_value> "Street Address 4" .
+<37203-4388> <location.location.containedby> "Davidson County" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrjv" .
+<George_Peabody> <symbols.name_source.namesakes> "Peabody Art Collection, Maryland State Archives" .
+<Nashville> <location.citytown.postal_codes> "37203-7505" .
+<m.0k1bjb6> <government.government_position_held.jurisdiction_of_office> "Nashville" .
+<Nashville> <location.citytown.postal_codes> "37209" .
+<Impulcity> <common.topic.notable_types> "Organization" .
+<Opryland_USA> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Z.T._Johnson> <people.person.education> "m.0sw1nm2" .
+<It_Might_Get_Loud> <film.film.genre> "Music" .
+<m.0b45t2k> <common.webpage.topic> "Nashville" .
+<Ashford_University> <education.educational_institution_campus.educational_institution> "Ashford University" .
+<37203-7505> <location.location.containedby> "Tennessee" .
+<2010_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<Nashville> <film.film_location.featured_in_films> "Nashville" .
+<Peabody_College> <organization.organization.founders> "George Peabody" .
+<37203> <location.location.contains> "37203-1004" .
+<Mötley_Crüe_Final_Tour> <time.event.locations> "Nashville" .
+<m.0n197dy> <education.education.institution> "Peabody College" .
+<Nashville> <location.location.events> "2006 Nashville Film Festival" .
+<Nashville_Film_Festival> <film.film_festival.location> "Nashville" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2004 Nashville Film Festival" .
+<m.09y2k66> <common.webpage.topic> "Nashville" .
+<Vanderbilt_University> <base.schemastaging.educational_institution_extra.libraries> "Walker Management Library" .
+<Downtown_Presbyterian_Church> <location.location.containedby> "Nashville" .
+<Garnie_W._McGinty> <people.person.gender> "Male" .
+<Davidson_County> <common.topic.notable_for> "g.125b3gy2m" .
+<International_Bluegrass_Music_Association> <common.topic.notable_types> "Organization" .
+<Theodore_G._Bilbo> <people.person.gender> "Male" .
+<37203-4346> <location.location.containedby> "Davidson County" .
+<37204> <location.location.containedby> "Davidson County" .
+<37207> <location.location.containedby> "Davidson County" .
+<m.0w7zw_5> <education.education.degree> "Bachelor of Science" .
+<Nashville> <location.location.events> "Kentucky-Austin Peay 1973 NCAA Men's Division I Basketball Tournament Game" .
+<m.0g9bjz3> <business.employment_tenure.company> "Vanderbilt University" .
+<Nashville> <location.location.nearby_airports> "John C. Tune Airport" .
+<Davidson_County> <location.location.people_born_here> "Joel Allen Battle" .
+<George_Peabody> <people.deceased_person.place_of_burial> "Harmony Grove Cemetery" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Parthenon" .
+<Nashville> <location.location.events> "Middle Tennessee State-Louisville 1982 NCAA Men's Division I Basketball Tournament Game" .
+<m.0_gpfc2> <freebase.valuenotation.has_no_value> "Ceremony" .
+<Nashville> <location.location.events> "2009 Nashville Film Festival" .
+<37208> <location.postal_code.country> "United States of America" .
+<Organization> <freebase.type_profile.strict_included_types> "Agent" .
+<Vanderbilt_University> <organization.organization.founders> "Cornelius Vanderbilt" .
+<Davidson_County> <location.statistical_region.population> "g.11x1k2g_b" .
+<Nashville-Davidson--Murfreesboro--Franklin,_TN_Metropolitan_Statistical_Area> <location.location.contains> "Davidson County" .
+<Nashville> <periodicals.newspaper_circulation_area.newspapers> "Vanderbilt Orbis" .
+<Nashville> <location.citytown.postal_codes> "37224" .
+<Peabody_Institute> <symbols.namesake.named_after> "George Peabody" .
+<37241> <location.postal_code.country> "United States of America" .
+<37204> <location.postal_code.country> "United States of America" .
+<Davidson_County> <location.statistical_region.population> "g.12b01xw_l" .
+<m.0h8b149> <award.ranking.list> "US News & World Report: Best Education Schools" .
+<37203-4388> <location.postal_code.country> "United States of America" .
+<m.0h9tsbx> <organization.organization_relationship.parent> "Vanderbilt University" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1993 NCAA Men's Division I Basketball Tournament - Southeast Regional Second Round" .
+<Vanderbilt_University> <education.university.number_of_postgraduates> "m.0h6j7cv" .
+<37203-1004> <location.location.containedby> "United States of America" .
+<m.0czxynj> <education.education.institution> "Peabody College" .
+<Vanderbilt_University> <base.schemastaging.educational_institution_extra.libraries> "Peabody Library" .
+<Nashville> <periodicals.newspaper_circulation_area.newspapers> "The City Paper" .
+<College/University> <type.type.expected_by> "Academic Institution" .
+<2001_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<College/University> <type.type.properties> "International tuition" .
+<Blair_School_of_Music> <education.educational_institution_campus.educational_institution> "Blair School of Music" .
+<Vanderbilt_University> <education.educational_institution.total_enrollment> "m.0zt8rxt" .
+<Davidson_County> <location.statistical_region.population> "g.12b01q4r5" .
+<Tennessee> <location.administrative_division.country> "United States of America" .
+<Albert_Hadley> <people.person.nationality> "United States of America" .
+<m.0w7zw_5> <education.education.institution> "Peabody College" .
+<m.04hpzsp> <business.employment_tenure.company> "Vanderbilt University" .
+<George_Peabody> <organization.organization_member.member_of> "m.0g_28dx" .
+<Vanderbilt_University> <education.educational_institution.mascot> "Vanderbilt University Mr. Commodore" .
+<Vanderbilt_Commodores_baseball> <sports.school_sports_team.athletics_brand> "Vanderbilt Commodores" .
+<Nashville> <base.popstra.location.vacationers> "m.064spd6" .
+<37203-5721> <location.postal_code.country> "United States of America" .
+<1999_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<Davidson_County> <location.location.people_born_here> "Joseph W. Byrns, Jr." .
+<Davidson_County> <location.statistical_region.population> "g.11x1mqmqf" .
+<Peabody_College> <education.educational_institution.phone_number> "m.0h8b0nb" .
+<37202> <location.postal_code.country> "United States of America" .
+<Nashville> <location.citytown.postal_codes> "37203-1181" .
+<The_Hermitage> <location.location.containedby> "Tennessee" .
+<m.010vs578> <business.employment_tenure.company> "Vanderbilt University" .
+<37203-3202> <location.location.containedby> "United States of America" .
+<Nashville> <organization.organization_scope.organizations_with_this_scope> "Impulcity" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Fort Nashborough" .
+<37203-4315> <location.location.containedby> "United States of America" .
+<m.04hfnt7> <business.employment_tenure.company> "Vanderbilt University" .
+<Nashville> <location.citytown.postal_codes> "37221" .
+<Departments> <type.property.schema> "College/University" .
+<37203-3226> <location.location.containedby> "Nashville" .
+<Davidson_County> <location.statistical_region.population> "g.11x1lwf9p" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrmq" .
+<m.04hbhlj> <education.education.institution> "Peabody College" .
+<m.06651dj> <education.education.student> "Charles N. Millican" .
+<Vanderbilt_University_School_of_Medicine> <location.location.containedby> "Tennessee" .
+<National> <common.topic.article> "m.079rhz9" .
+<Nashville> <location.statistical_region.population> "m.066fwxd" .
+<Nashville> <location.citytown.postal_codes> "37220" .
+<Owen_Graduate_School_of_Management> <education.educational_institution.school_type> "Private university" .
+<George_Peabody> <symbols.name_source.namesakes> "Peabody Trust" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.012c3llf" .
+<Nashville> <common.topic.webpage> "m.09wv0wh" .
+<Nashville> <location.statistical_region.population> "m.066fww2" .
+<m.0_gpfm3> <freebase.valuenotation.is_reviewed> "Winning work" .
+<Nashville> <location.statistical_region.population> "m.066fwx0" .
+<37203-3211> <location.location.containedby> "Davidson County" .
+<Fort_Negley> <location.location.containedby> "Nashville" .
+<Centennial_Park_(Nashville)> <location.location.containedby> "Nashville" .
+<37207-3427> <location.location.containedby> "Nashville" .
+<m.012qy9xd> <education.education.student> "Doak S. Campbell" .
+<George_Peabody> <common.topic.article> "m.02ghmm" .
+<37203-5721> <location.location.containedby> "Davidson County" .
+<George_Peabody> <symbols.name_source.namesakes> "George Peabody Library" .
+<Nashville> <common.topic.webpage> "m.0b48d0c" .
+<Nashville> <location.citytown.postal_codes> "37232" .
+<Fraternities_and_sororities> <owl#inverseOf> "Colleges and Universities" .
+<Educational_Institution> <freebase.type_hints.included_types> "Organization" .
+<m.04jqnsw> <business.employment_tenure.company> "Vanderbilt University" .
+<George_Peabody> <symbols.name_source.namesakes> "Peabody Museum of Archaeology and Ethnology" .
+<Peabody_College> <location.location.containedby> "United States of America" .
+<1982_NCAA_Men's_Division_I_Basketball_Tournament> <time.event.locations> "Nashville" .
+<Chattanooga_Courier> <book.newspaper.circulation_areas> "Nashville" .
+<37228> <location.location.containedby> "Davidson County" .
+<2012_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Vanderbilt_University> <education.educational_institution.subsidiary_or_constituent_schools> "Owen Graduate School of Management" .
+<m.0_gpfd7> <freebase.valuenotation.is_reviewed> "Year" .
+<m.04hbd3h> <education.education.student> "Laura Vernon Hamner" .
+<Nashville> <location.statistical_region.population> "m.066fwx6" .
+<m.04hhv2p> <business.employment_tenure.company> "Vanderbilt University" .
+<Vanderbilt_University> <education.educational_institution.subsidiary_or_constituent_schools> "Vanderbilt University School of Nursing" .
+<Cheekwood_Botanical_Garden_and_Museum_of_Art> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2001 Nashville Film Festival" .
+<m.0kdpdz5> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.0rb3g2d> <base.schemastaging.phone_sandbox.service_location> "United States of America" .
+<Universities> <rdf-schema#range> "College/University" .
+<The_Gulch,_Nashville,_Tennessee> <location.neighborhood.neighborhood_of> "Nashville" .
+<Kentucky-Middle_Tennessee_State_1982_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<Cornelius_Vanderbilt> <people.person.nationality> "United States of America" .
+<Ashford_University> <education.educational_institution.campuses> "Ashford University" .
+<m.0bjjp35> <common.resource.annotations> "m.03lzyr1" .
+<m.063sb9_> <base.petbreeds.dog_city_relationship.cities> "Nashville" .
+<John_Vincent> <people.person.education> "m.0sw3w9q" .
+<ESL_to_Go> <award.award_winning_work.awards_won> "m.0_gpfh8" .
+<Indiana-Kentucky_1973_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<2010_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<Nashville> <location.location.events> "Virginia-Middle Tennessee State 1989 NCAA Men's Division I Basketball Tournament Game" .
+<m.0_gpflm> <award.award_honor.honored_for> "Abu Dhabi Leadership Program" .
+<United_States_of_America> <location.location.time_zones> "Central Time Zone" .
+<Davidson_County> <location.statistical_region.population> "g.11x1lhfhk" .
+<2013_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<m.0dl8yv8> <business.employment_tenure.company> "Vanderbilt University" .
+<College/University> <type.type.expected_by> "University Affiliation" .
+<m.0h6j7c4> <freebase.valuenotation.has_no_value> "To" .
+<Nashville> <location.citytown.postal_codes> "37238" .
+<37203-3219> <location.location.containedby> "Nashville" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Bridgestone Arena" .
+<W._Winfred_Moore> <people.person.gender> "Male" .
+<Nashville> <location.citytown.postal_codes> "37203-4388" .
+<Utah-Pittsburgh_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1993 NCAA Men's Division I Basketball Tournament - Southeast Regional First Round" .
+<United_States,_with_Territories> <base.aareas.schema.earth.sovereign_domain.sovereign_state> "United States of America" .
+<m.0sw05y8> <education.education.student> "Herman Lee Donovan" .
+<m.04dgvhb> <organization.organization_membership.member> "Vanderbilt University" .
+<Davidson_County> <location.statistical_region.population> "g.11x1gf4fp" .
+<Bicentennial_Capitol_Mall_State_Park> <location.location.containedby> "Nashville" .
+<Vanderbilt_University> <base.schemastaging.organization_extra.phone_number> "m.0r607nx" .
+<m.0w7z9h3> <education.education.institution> "Peabody College" .
+<Vanderbilt_Commodores> <education.athletics_brand.teams> "Vanderbilt Commodores baseball" .
+<Businessperson> <people.profession.specializations> "Financier" .
+<Peabody_College> <common.topic.notable_for> "g.1255nb0ks" .
+<Nashville> <common.topic.webpage> "m.09w66v6" .
+<37203> <location.location.contains> "37203-4346" .
+<37240> <location.postal_code.country> "United States of America" .
+<1993_NCAA_Men's_Division_I_Basketball_Tournament_-_Southeast_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Kentucky-Utah 1993 NCAA Men's Division I Basketball Tournament Game" .
+<Davidson_County> <location.statistical_region.co2_emissions_mobile> "m.045l49y" .
+<Peabody_College> <location.location.geolocation> "m.0wmsd60" .
+<Davidson_County> <location.statistical_region.population> "g.12vqhwjjm" .
+<John_C._Tune_Airport> <aviation.airport.serves> "Nashville International Airport" .
+<University> <type.property.expected_type> "College/University" .
+<Blair_School_of_Music> <education.educational_institution.school_type> "Private university" .
+<Vanderbilt_University> <education.educational_institution.faculty> "m.0k7kscp" .
+<Davidson_County> <location.statistical_region.rent50_1> "m.05gfpqg" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.05yqd6_" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrnf" .
+<Nashville> <location.statistical_region.population> "g.11bymj04y1" .
+<m.0_gpflm> <freebase.valuenotation.is_reviewed> "Winning work" .
+<Vanderbilt_University_Divinity_School> <common.topic.notable_types> "College/University" .
+<Out_&_About_Newspaper> <book.newspaper.circulation_areas> "Tennessee" .
+<m.0n1mvrd> <education.education.student> "Beth Harwell" .
+<Fort_Nashborough> <location.location.containedby> "37201" .
+<37203-4388> <location.location.containedby> "United States of America" .
+<William_Inge> <people.person.nationality> "United States of America" .
+<Vanderbilt_University_School_of_Medicine> <location.location.containedby> "Nashville" .
+<1973_NCAA_Men's_Division_I_Basketball_Tournament> <time.event.locations> "Nashville" .
+<Vanderbilt_University> <education.university.number_of_postgraduates> "m.0zt8rwp" .
+<m.0h9d9t0> <education.education.student> "James Benjamin Aswell" .
+<Nashville> <location.citytown.postal_codes> "37217" .
+<Robert_Ryman> <people.person.education> "m.0n1lx0w" .
+<2008_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Davidson_County> <location.location.people_born_here> "Andrew Jackson Sowell" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Ryman Auditorium" .
+<Nashville> <location.location.events> "Kentucky-Utah 1993 NCAA Men's Division I Basketball Tournament Game" .
+<m.052p71h> <education.education.student> "Bettie Page" .
+<Nashville> <common.topic.webpage> "m.0b496yj" .
+<m.0t4tdqv> <government.government_position_held.jurisdiction_of_office> "Nashville" .
+<37229> <location.postal_code.country> "United States of America" .
+<Davidson_County> <location.location.people_born_here> "Newman Haynes Clanton" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrlc" .
+<37203-1181> <location.location.containedby> "United States of America" .
+<Vanderbilt_University> <award.ranked_item.appears_in_ranked_lists> "m.0zt5jr4" .
+<Nashville> <location.location.events> "1989 NCAA Men's Division I Basketball Tournament" .
+<Nashville> <location.citytown.postal_codes> "37208" .
+<Davidson_County> <location.statistical_region.co2_emissions_commercial> "m.045j183" .
+<Kentucky-Rider_1993_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<Vanderbilt_University> <symbols.namesake.named_after> "Cornelius Vanderbilt" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrkh" .
+<Vanderbilt_University> <business.employer.employees> "m.052jhmc" .
+<m.0n1mvrd> <education.education.institution> "Peabody College" .
+<m.0r607nx> <base.schemastaging.phone_sandbox.service_location> "United States of America" .
+<Davidson_County> <location.location.people_born_here> "Washington Barrow" .
+<Vanderbilt_University> <base.schemastaging.educational_institution_extra.libraries> "Vanderbilt University Central Library" .
+<William_Lee_Davidson> <people.person.gender> "Male" .
+<m.062xhct> <business.employment_tenure.company> "Vanderbilt University" .
+<Nashville> <periodicals.newspaper_circulation_area.newspapers> "Westview" .
+<m.012n5c45> <business.employment_tenure.company> "Vanderbilt University" .
+<Nashville> <film.film_location.featured_in_films> "It Might Get Loud" .
+<Nashville> <location.location.events> "1982 NCAA Men's Division I Basketball Tournament" .
+<Vanderbilt_University> <location.location.containedby> "United States of America" .
+<Owen_Graduate_School_of_Management> <education.educational_institution.campuses> "Owen Graduate School of Management" .
+<Nashville> <sports.sports_team_location.teams> "Nashville Predators" .
+<2002_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<Bridgestone_Arena> <location.location.containedby> "Tennessee" .
+<Vanderbilt_University> <common.topic.notable_for> "g.12565k_64" .
+<Best_Overall> <rdf-schema#range> "College/University" .
+<Mary_Elizabeth_Aitcheson_Gore> <people.person.education> "m.02_7zzp" .
+<Davidson_County> <location.statistical_region.population> "g.11x1jxht5" .
+<Vanderbilt_University_School_of_Medicine> <location.location.containedby> "United States of America" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Mount Olivet Cemetery" .
+<Nashville> <location.citytown.postal_codes> "37203-1004" .
+<37203-3219> <location.location.containedby> "Davidson County" .
+<Nashville> <location.location.events> "UAB-Indiana 1982 NCAA Men's Division I Basketball Tournament Game" .
+<Westview> <book.newspaper.circulation_areas> "Nashville" .
+<m.0_gpfc2> <freebase.valuenotation.is_reviewed> "Award winner" .
+<Fort_Negley> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Nashville_Zoo_at_Grassmere> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Nashville> <location.location.events> "Kentucky-Middle Tennessee State 1982 NCAA Men's Division I Basketball Tournament Game" .
+<Doctorate_Degree_From> <rdf-schema#range> "College/University" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<United_States_Dollar> <base.coinsdaily.coin_type.country> "United States of America" .
+<Domestic_tuition> <rdf-schema#domain> "College/University" .
+<1973_NCAA_Men's_Division_I_Basketball_Tournament-_Mideast_Regional_Semifinals> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Indiana-Marquette 1973 NCAA Men's Division I Basketball Tournament Game" .
+<37203-2427> <location.location.containedby> "37203" .
+<37214> <location.postal_code.country> "United States of America" .
+<George_Peabody> <people.person.religion> "Unitarianism" .
+<Vanderbilt_University_Law_School> <location.location.containedby> "Tennessee" .
+<37203-3218> <location.location.containedby> "Davidson County" .
+<2009_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Vanderbilt_University> <education.educational_institution.school_type> "Private university" .
+<Vanderbilt_University_School_of_Medicine> <education.educational_institution.parent_institution> "Vanderbilt University" .
+<2004_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<m.02_7zzp> <education.education.major_field_of_study> "Psychology" .
+<Nashville> <location.location.events> "2001 Nashville Film Festival" .
+<Vanderbilt_University> <business.employer.employees> "m.04hp6ny" .
+<m.0n40q0f> <education.education.student> "Alfred Leland Crabb" .
+<Tennessee> <location.us_state.capital> "Nashville" .
+<Davidson_County> <location.us_county.hud_county_place> "Nashville-Davidson" .
+<Downtown_Presbyterian_Church> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Departments> <type.property.master_property> "Institution" .
+<John_C._Tune_Airport> <location.location.containedby> "Davidson County" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrj5" .
+<Tennessee> <location.administrative_division.first_level_division_of> "United States of America" .
+<Nashville> <location.citytown.postal_codes> "37250" .
+<Davidson_County> <location.location.people_born_here> "Edward H. East" .
+<Organization> <freebase.type_profile.strict_included_types> "Topic" .
+<United_States_of_America> <location.location.containedby> "United States, with Territories" .
+<Nashville> <common.topic.webpage> "m.09y6xs3" .
+<Joseph_W._Byrns,_Jr.> <people.person.gender> "Male" .
+<m.09x4vjt> <common.webpage.topic> "Nashville" .
+<m.0n1lgfn> <education.education.institution> "Peabody College" .
+<Davidson_County> <location.statistical_region.population> "g.11x1gjml0" .
+<Colleges_and_Universities> <type.property.master_property> "Fraternities and sororities" .
+<Number_of_doctoral_candidates> <type.property.schema> "College/University" .
+<Joseph_Carlton_Loser> <people.person.place_of_birth> "Davidson County" .
+<Nashville> <location.location.events> "Middle Tennessee State-Florida State 1989 NCAA Men's Division I Basketball Tournament Game" .
+<James_Benjamin_Aswell> <people.person.gender> "Male" .
+<Vanderbilt_University> <education.university.fraternities_and_sororities> "Alpha Delta Pi" .
+<37203-4338> <location.location.containedby> "37203" .
+<Peabody_College> <education.university.domestic_tuition> "m.0h8b166" .
+<m.0h8b0m9> <common.topic.notable_types> "Location" .
+<37207-3427> <location.location.containedby> "United States of America" .
+<Alfred_Leland_Crabb> <people.person.gender> "Male" .
+<Nashville_Film_Festival> <film.film_festival.individual_festivals> "2006 Nashville Film Festival" .
+<United_States_of_America> <location.administrative_division.first_level_division_of> "United States, with Territories" .
+<Mount_Olivet_Cemetery> <location.location.containedby> "Nashville" .
+<College/University> <type.type.expected_by> "Doctorate Degree From" .
+<Nashville> <common.topic.subject_of> "Sweet Magnolia Tours" .
+<Nashville> <base.petbreeds.city_with_dogs.top_breeds> "m.063sbbh" .
+<Colleges_and_Universities> <rdf-schema#range> "College/University" .
+<National> <organization.organization_scope.organizations_with_this_scope> "Bankmobile" .
+<2008_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<37203-7505> <location.location.containedby> "Nashville" .
+<Vanderbilt_University_College_of_Arts_and_Science> <education.educational_institution.campuses> "Vanderbilt University College of Arts and Science" .
+<Nashville_Zoo_at_Grassmere> <location.location.containedby> "Nashville" .
+<The_Tennessean> <book.newspaper.circulation_areas> "Davidson County" .
+<m.0k7dpp7> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<2012_Nashville_Film_Festival> <film.film_festival_event.festival> "Nashville Film Festival" .
+<37203> <location.location.containedby> "Nashville" .
+<m.0svzbdm> <education.education.student> "Christine Sadler" .
+<Nashville> <common.topic.article> "m.05jbz" .
+<Davidson_County> <location.statistical_region.population> "g.12b02219f" .
+<Sweet_Magnolia_Tours> <common.topic.subjects> "Nashville" .
+<Davidson_County> <location.statistical_region.co2_emissions_total> "m.045hp3v" .
+<1982_NCAA_Men's_Division_I_Basketball_Tournament_-_Mideast_Regional_Second_Round> <time.event.locations> "Nashville" .
+<International_tuition> <type.property.schema> "College/University" .
+<Nashville_Board_of_Parks_and_Recreation> <government.government_agency.jurisdiction> "Nashville" .
+<Davidson_County> <location.location.events> "Battle of Nashville" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament-_Southeast_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1989 NCAA Men's Division I Basketball Tournament" .
+<College/University> <type.type.expected_by> "Institution" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrk1" .
+<Vanderbilt_University_School_of_Medicine> <common.topic.notable_types> "College/University" .
+<37203-3219> <location.postal_code.country> "United States of America" .
+<m.0h8b0m9> <location.mailing_address.postal_code> "37203" .
+<George_Doherty> <people.person.education> "m.04hbhlj" .
+<37203-3218> <location.location.containedby> "Tennessee" .
+<37203-4388> <location.location.containedby> "37203" .
+<Nashville> <location.citytown.postal_codes> "37204" .
+<Vanderbilt_Commodores_football> <sports.school_sports_team.school> "Vanderbilt University" .
+<James_Benjamin_Aswell> <people.person.education> "m.0h9d9t0" .
+<Private_university> <common.topic.notable_for> "g.1yl5pwyl9" .
+<Vanderbilt_University> <education.educational_institution.total_enrollment> "m.0zt5knr" .
+<Nashville> <common.topic.webpage> "m.09xz5_l" .
+<Opryland_USA> <location.location.time_zones> "Central Time Zone" .
+<Peabody_College> <common.topic.article> "m.03wj1q" .
+<Davidson_County> <location.hud_foreclosure_area.total_residential_addresses> "m.07fy03g" .
+<m.0_gpfm3> <award.award_honor.award> "Telly Award for TV Programs, Segments, or Promotional Pieces Film/Video - Editing" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Tennessee State Museum" .
+<College/University> <common.topic.article> "m.021y5v6" .
+<m.0_gpflm> <freebase.valuenotation.is_reviewed> "Achievement level" .
+<m.0h8b166> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Peabody_College> <education.educational_institution.campuses> "Peabody College" .
+<37203-3218> <location.location.containedby> "United States of America" .
+<Vanderbilt_Commodores_baseball> <sports.school_sports_team.school> "Vanderbilt University" .
+<Bicentennial_Capitol_Mall_State_Park> <location.location.containedby> "Davidson County" .
+<m.04hxjwv> <business.employment_tenure.company> "Vanderbilt University" .
+<37203-0722> <location.location.containedby> "Tennessee" .
+<m.0n1jdt5> <education.education.student> "Martha E. Rogers" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n14q7s" .
+<Abu_Dhabi_Leadership_Program> <award.award_winning_work.awards_won> "m.0_gpflm" .
+<Nashville_Film_Festival> <time.recurring_event.instances> "2009 Nashville Film Festival" .
+<Nashville> <location.statistical_region.population> "m.066fwy4" .
+<Fort_Nashborough> <location.location.containedby> "Davidson County" .
+<John_C._Tune_Airport> <location.location.containedby> "Tennessee" .
+<George_Peabody> <symbols.name_source.namesakes> "Peabody Institute Library" .
+<m.0pphg14> <location.mailing_address.country> "United States of America" .
+<Number_of_undergraduates> <type.property.schema> "College/University" .
+<Travellers_Rest> <location.location.containedby> "Nashville" .
+<m.0n0c4h2> <education.education.student> "John Ridley Stroop" .
+<Vanderbilt_University> <base.jewlib.parent_institution.judaica_owning_units> "Divinity Library" .
+<Nashville> <film.film.genre> "Music" .
+<Nashville_International_Airport> <aviation.airport.serves> "Nashville" .
+<37203> <location.location.containedby> "Davidson County" .
+<Travellers_Rest> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<37203-4346> <location.postal_code.country> "United States of America" .
+<m.0h6j7gx> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Warner_Parks> <location.location.containedby> "Nashville" .
+<Fred_Coe> <people.person.education> "m.0sw3xp6" .
+<Vanderbilt_University> <business.employer.employees> "m.04hc3bj" .
+<37206> <location.postal_code.country> "United States of America" .
+<37203-3218> <location.location.containedby> "Nashville" .
+<2000_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<Kentucky-Middle_Tennessee_State_1982_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1982 NCAA Men's Division I Basketball Tournament - Mideast Regional First Round" .
+<George_Peabody> <people.deceased_person.place_of_death> "London" .
+<Metropolitan_Council> <government.governmental_body.jurisdiction> "Davidson County" .
+<Joseph_Carlton_Loser> <people.person.gender> "Male" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Warner Parks" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0svzbdm" .
+<37203-4346> <location.location.containedby> "Tennessee" .
+<Nashville> <base.petbreeds.city_with_dogs.top_breeds> "m.063sbb3" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0sw12kk" .
+<Belmont_Mansion> <location.location.containedby> "Nashville" .
+<Davidson_County> <location.statistical_region.population> "m.0hjvrjd" .
+<2005_Nashville_Film_Festival> <time.event.locations> "Nashville" .
+<Oklahoma-East_Tennessee_State_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Nashville" .
+<1982_NCAA_Men's_Division_I_Basketball_Tournament_-_Mideast_Regional_Second_Round> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1982 NCAA Men's Division I Basketball Tournament" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament-_Southeast_Regional_First_Round> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Oklahoma-East Tennessee State 1989 NCAA Men's Division I Basketball Tournament Game" .
+<Tennessee> <freebase.valuenotation.has_no_value> "Minimum wage" .
+<George_Peabody> <common.topic.image> "George Peabody 10" .
+<Vanderbilt_University> <business.employer.employees> "m.04hcwf0" .
+<Danvers> <location.location.people_born_here> "George Peabody" .
+<Davidson_County> <location.statistical_region.population> "g.11x1hqd0j" .
+<m.02_7zzp> <education.education.institution> "Peabody College" .
+<Travellers_Rest> <location.location.containedby> "Tennessee" .
+<1999_Nashville_Film_Festival> <time.event.instance_of_recurring_event> "Nashville Film Festival" .
+<Tennessee> <location.location.containedby> "United States, with Territories" .
+<Nashville> <location.location.containedby> "Tennessee" .
+<m.052p71h> <education.education.degree> "Bachelor of Arts" .
+<Vanderbilt_University_School_of_Engineering> <education.educational_institution.campuses> "Vanderbilt University School of Engineering" .
+<m.0_gpfc2> <freebase.valuenotation.is_reviewed> "Year" .
+<Bill_Boner> <people.person.place_of_birth> "Nashville" .
+<m.04c_nff> <organization.organization_board_membership.organization> "Vanderbilt University" .
+<m.0n18lh4> <education.education.student> "Red Grooms" .
+<37207> <location.location.containedby> "Tennessee" .
+<Edwin_Richardson> <people.person.gender> "Male" .
+<m.03jrlc3> <location.adjoining_relationship.adjoins> "Davidson County" .
+<College/University> <type.type.properties> "Number of postgraduates" .
+<m.0g_28dx> <organization.organization_membership.member> "George Peabody" .
+<37203-7505> <location.location.containedby> "37203" .
+<m.0n1jcjf> <education.education.student> "Kenneth Jernigan" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1989 NCAA Men's Division I Basketball Tournament- Southeast Regional First Round" .
+<1989_NCAA_Men's_Division_I_Basketball_Tournament-_Southeast_Regional_Second_Round> <time.event.locations> "Nashville" .
+<Nashville> <location.citytown.postal_codes> "37201" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Nashville Zoo at Grassmere" .
+<m.052b69q> <education.education.student> "Theodore G. Bilbo" .
+<37207> <location.postal_code.country> "United States of America" .
+<Chase_Curran_Mooney> <people.person.gender> "Male" .
+<m.063sb9r> <base.petbreeds.dog_city_relationship.cities> "Nashville" .
+<37212> <location.postal_code.country> "United States of America" .
+<Doak_S._Campbell> <people.person.education> "m.012qy9xd" .
+<Nashville> <tv.tv_location.tv_shows_filmed_here> "RiffTrax" .
+<Institution> <rdf-schema#range> "College/University" .
+<m.06651dj> <education.education.institution> "Peabody College" .
+<Fort_Nashborough> <travel.tourist_attraction.near_travel_destination> "Nashville" .
+<Peabody_College> <education.educational_institution.students_graduates> "m.0n1jcjf" .
+<m.0_gpflm> <freebase.valuenotation.is_reviewed> "Year" .
+<37203-1181> <location.location.containedby> "Nashville" .
+<Vanderbilt_University_Law_School> <education.educational_institution.school_type> "Private university" .
+<Nashville> <travel.travel_destination.tourist_attractions> "Frist Center for the Visual Arts" .

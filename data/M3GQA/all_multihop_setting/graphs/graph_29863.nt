@@ -1,0 +1,2259 @@
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9lb5" .
+<Olá_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Darién_Province> <location.location.containedby> "Panama" .
+<Panama> <olympics.olympic_participating_country.athletes> "m.0kd57s5" .
+<Anglo-Spanish_War> <time.event.includes_event> "Blockade of Porto Bello" .
+<Bocas_del_Toro_District> <location.location.containedby> "Bocas del Toro Province" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3f_p_" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc3kp38" .
+<Colón_Province> <location.location.containedby> "Panama" .
+<Panama> <location.country.second_level_divisions> "Remedios District" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc4bh86" .
+<Third_level_divisions> <type.property.schema> "Country" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf527y" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3tgvq" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.124602cn6" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6flyj" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gng3" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3p9cn" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.12tb6g_97" .
+<Chitré_District> <location.location.containedby> "Herrera Province" .
+<Balboa_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3t8sk" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf5278" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3ts8r" .
+<Government_Office_or_Title> <freebase.type_profile.published> "Published" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4j8pj" .
+<Fourth_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Panama> <base.aareas.schema.administrative_area.administrative_area_type> "Sovereign state" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc4ts62" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_90" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7ltc" .
+<Third_level_division_of> <rdf-schema#range> "Country" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Chiriquí_Province> <location.location.contains> "Dolega District" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kx0" .
+<Ocú_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <olympics.olympic_participating_country.athletes> "m.0kd57nf" .
+<Panamanian_district> <freebase.type_hints.included_types> "Topic" .
+<Chiriquí_Province> <location.location.contains> "Boquerón District" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.12460r1j1" .
+<Chagres_District> <location.location.containedby> "Colón Province" .
+<m.010gg02t> <freebase.valuenotation.has_no_value> "To" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3xpsj" .
+<Government_Office_or_Title> <type.type.expected_by> "Office" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc40yr_" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc45qgt" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lx6" .
+<San_Miguelito> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3vhld" .
+<Panamanian_comarca> <base.aareas.schema.administrative_area_type.iso_country> "Panama" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3f55b" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.12460cqcw" .
+<Panama> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc42dv7" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4k6hh" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8k_9" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfbb3q" .
+<Third_level_divisions> <rdf-schema#domain> "Country" .
+<Kuna_de_Wargandí> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc54vg2" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3gh4l" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245zg_gk" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gng2" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc469t5" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.1245_q0_5" .
+<m.010ghc9h> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panama> <sports.sports_team_location.teams> "Panama national football team" .
+<Panama> <location.country.second_level_divisions> "San Francisco District, Panama" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "MLN-29" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010ghb7s" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5zz4" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc50cry" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.11b60tlfll" .
+<Presidential_system> <government.form_of_government.countries> "Panama" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3_4lw" .
+<Panama> <location.location.partially_contains> "La Amistad International Park" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc47nm6" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.124601v0d" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc411c6" .
+<m.0nfc8bt> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245z_7_r" .
+<Government_Office_or_Title> <type.type.properties> "Category" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.12460wdsn" .
+<m.0kd57pq> <olympics.olympic_athlete_affiliation.country> "Panama" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfbb2m" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245zvr84" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kyk" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lwb" .
+<Panama> <location.location.containedby> "Central America" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf5271" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.124602d0h" .
+<Panama> <location.country.second_level_divisions> "David District" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3w0j6" .
+<San_Miguelito> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc4ypp0" .
+<Country> <type.property.schema> "Administrative Division" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4t12f" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4pwtw" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc47bj4" .
+<After_Dusk_They_Come> <media_common.adaptation.adapted_from> "After Dusk They Come" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4w19h" .
+<Panama> <location.country.second_level_divisions> "Bugaba District" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1q5jyf87l" .
+<m.0nfc88s> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.12460g3px" .
+<Panama> <organization.organization_member.member_of> "m.059wbj3" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Americas> <location.location.contains> "Central America" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1q5jcqw1z" .
+<Herrera_Province> <location.location.contains> "Parita District" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc48919" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4krxd" .
+<La_Mesa_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf5297" .
+<Veraguas_Province> <location.location.containedby> "Panama" .
+<m.0nf9l5c> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Atalaya_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Darién_Province> <location.location.contains> "Chepigana District" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4f7sc" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc47bdw" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.124606_ph" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3j9gs" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4vlyj" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.12460z24s" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4kwcv" .
+<Panama> <location.country.second_level_divisions> "Soná District" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460cqtt" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6df17xr" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245z6jyj" .
+<Herrera_Province> <location.location.contains> "Santa María District, Panama" .
+<Veraguas_Province> <location.location.contains> "Santiago District, Veraguas" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1s064rp3v" .
+<m.0j5zb6g> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Renacimiento_District> <location.location.containedby> "Chiriquí Province" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4bxwr" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4ykys" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.12460p4j4" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc51ln_" .
+<m.0nf9l8y> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.010g6g92> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_3vs3" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc38qr7" .
+<PANAM1> <common.image.appears_in_topic_gallery> "Panama" .
+<Chiriquí_Province> <location.location.containedby> "Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245zt6gs" .
+<Earth> <base.aareas.schema.administrative_area.subdividing_type> "Sovereign state" .
+<Fourth_level_division_of> <type.property.expected_type> "Country" .
+<Panama> <base.aareas.schema.administrative_area.administrative_children> "Herrera Province" .
+<Government_Office_or_Title> <type.type.properties> "Jurisdiction" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l9p" .
+<Panama> <location.statistical_region.literacy_rate> "g.1hhc3_pj3" .
+<Administrative_Division> <type.type.domain> "Location" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3srg3" .
+<Colón_Province> <common.topic.notable_types> "Administrative Division" .
+<m.010g6gcl> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panama> <location.country.second_level_divisions> "Mariato District" .
+<Coclé_Province> <location.administrative_division.country> "Panama" .
+<Panamá_Province> <location.location.contains> "Balboa District" .
+<Gualaca_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <base.aareas.schema.administrative_area.subdividing_type> "Panamanian province" .
+<Cerro_Echandi> <location.location.partially_contained_by> "m.0wg9hny" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc49jw2" .
+<Guna_Yala> <location.location.containedby> "Panama" .
+<Panamanian_district> <freebase.type_hints.included_types> "Location" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l8p" .
+<Boquete_District> <common.topic.notable_types> "Administrative Division" .
+<Panamá_Province> <location.location.contains> "Taboga District" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245zcmpx" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Socialist Workers Front (Marxist–Leninist)" .
+<Administrative_Divisions> <type.property.schema> "Country" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_tlww" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc53x41" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.12cp_jhf5" .
+<MLN-29> <organization.organization.geographic_scope> "Panama" .
+<Country> <type.type.domain> "Location" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245yt2x2" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4mhn8" .
+<Pedasí> <common.topic.notable_types> "Administrative Division" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Location" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4gv9v" .
+<Pesé_District> <location.location.containedby> "Herrera Province" .
+<Panama> <base.aareas.schema.administrative_area.administrative_children> "Coclé Province" .
+<Panama> <location.statistical_region.diesel_price_liter> "g.12cp_jzp7" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4hz03" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4z35l" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_qd_m" .
+<Panama> <olympics.olympic_participating_country.athletes> "m.0kd57rh" .
+<Parita_District> <location.location.containedby> "Herrera Province" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1246034yb" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3pmyw" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245zx1kw" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4lzh5" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_d4" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "m.05nc32q" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc46hv0" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3lm1k" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4lz7v" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc50cv1" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3lt__" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lvg" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc42dyl" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3nx0z" .
+<Panama> <location.statistical_region.diesel_price_liter> "g.12cp_jcgr" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3xpvs" .
+<Darién_Province> <location.administrative_division.first_level_division_of> "Panama" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4gdnk" .
+<Office,_position,_or_title> <rdf-schema#range> "Government Office or Title" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3ts7j" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc41l3d" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52fz" .
+<Fourth_level_divisions> <type.property.reverse_property> "Fourth level division of" .
+<Veraguas_Province> <location.location.contains> "Río de Jesús District" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc50cvr" .
+<Vice_President_of_Panama> <government.government_office_or_title.office_holders> "m.010g6vfx" .
+<Second_level_division_of> <type.property.expected_type> "Country" .
+<Fourth_level_divisions> <owl#inverseOf> "Fourth level division of" .
+<Panama> <location.statistical_region.net_migration> "g.1s061_cvf" .
+<Parita_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama's_Canal:_What_Happens_When_the_United_States_Gives_a_Small_Country_What_It_Wants> <book.written_work.subjects> "Panama" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Panama> <location.statistical_region.child_labor_percent> "g.1s05_3shg" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc489lx" .
+<First_level_division_of> <type.property.expected_type> "Country" .
+<Panamanian_province> <base.aareas.schema.administrative_area_type.subdividing_type> "Panamanian district" .
+<Panama> <location.country.administrative_divisions> "Herrera Province" .
+<Panama> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3cbwn" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8k_q" .
+<Panama_City> <location.capital_of_administrative_division.capital_of> "m.0v_xbyy" .
+<Panamá_Province> <location.location.contains> "Arraiján District" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.11b60tlfmk" .
+<Sovereign_state> <base.aareas.administrative_area_level.examples> "Sovereign state" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245zs7dl" .
+<Los_Pozos_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Colón_Province> <location.administrative_division.country> "Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245zt6gt" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245z72dr" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4krl4" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010ghc3_" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7m1v" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4r9l6" .
+<Panama> <location.statistical_region.external_debt_stock> "g.11b71wcvp2" .
+<m.010ghh1m> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Atalaya_District> <location.location.containedby> "Veraguas Province" .
+<Los_Santos_Province> <location.location.contains> "Pedasí" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "g.124612lxc" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc45_v8" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc3k0r3" .
+<Chimán_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3w0fk" .
+<San_Carlos_District,_Panama> <common.topic.notable_types> "Administrative Division" .
+<Country> <freebase.type_profile.strict_included_types> "Agent" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Abstract" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc3mgkz" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4j1kp" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3m0gh" .
+<La_Mesa_District> <location.location.containedby> "Veraguas Province" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lt4" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l4m" .
+<Panama> <olympics.olympic_participating_country.athletes> "m.0kd57qc" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3b9mq" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4f88l" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52fr" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4vdwl" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52g5" .
+<Olá_District> <location.location.containedby> "Coclé Province" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4vmc0" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3nwyj" .
+<Guna_Yala> <base.aareas.schema.administrative_area.administrative_parent> "Panama" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc429mp" .
+<m.0nf9l53> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4wpds" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "g.12460fd95" .
+<People's_Party> <organization.organization.geographic_scope> "Panama" .
+<Panama> <olympics.olympic_participating_country.athletes> "m.0kd57r0" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_vdht" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Panama> <location.country.second_level_divisions> "Kuna de Madugandí" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc3xt4g" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l5x" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4857g" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4t0_p" .
+<Panama> <location.statistical_region.official_development_assistance> "g.12cp_k2q2" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4663r" .
+<Panama_City> <location.location.containedby> "Panamá Province" .
+<m.03vnvbw> <location.adjoining_relationship.adjoins> "Panama" .
+<Chiriquí_Province> <location.location.contains> "Boquete District" .
+<Office,_position,_or_title> <owl#inverseOf> "Office Holders" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_vlmc" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l6x" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc54ygl" .
+<Panama> <location.country.second_level_divisions> "Barú District, Chiriquí" .
+<Darién_Province> <base.aareas.schema.administrative_area.administrative_parent> "Panama" .
+<Panama> <location.country.first_level_divisions> "Colón Province" .
+<Panama> <government.governmental_jurisdiction.government_bodies> "National Assembly" .
+<Cañazas_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Patriotic Union" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3hblg" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.124617f8l" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "National Patriotic Coalition" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4h4zx" .
+<Panama> <location.location.partiallycontains> "m.0wg9hnr" .
+<Panama> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3h73h" .
+<Panama> <location.statistical_region.consumer_price_index> "g.12tb6h4tj" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.12460pbkz" .
+<m.0nfc87j> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Antón_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3mswv" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8h3" .
+<Spanish_Language> <language.human_language.countries_spoken_in> "Panama" .
+<Panama> <location.location.containedby> "North America" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kxx" .
+<President_of_Panama> <common.topic.notable_for> "g.125d40nbn" .
+<Panama> <location.statistical_region.net_migration> "g.1s065xmbx" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc4s1pk" .
+<United_States_invasion_of_Panama> <time.event.locations> "Panama" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3xt91" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.12cp_h_hk" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc3l959" .
+<Panama> <location.statistical_region.diesel_price_liter> "g.12cp_jcgs" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3f_5q" .
+<Panama> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3g__7" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc47bfg" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4j1p3" .
+<Las_Palmas_District> <common.topic.notable_types> "Administrative Division" .
+<First_level_division_of> <type.property.master_property> "First level divisions" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_bs" .
+<Los_Santos_Province> <location.location.contains> "Las Tablas District" .
+<Panamá_Province> <base.aareas.schema.administrative_area.administrative_parent> "Panama" .
+<Icantí> <location.location.containedby> "Panama" .
+<Panama> <location.country.second_level_divisions> "Bocas del Toro District" .
+<Panama> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc49jvv" .
+<Government_Office_or_Title> <type.type.expected_by> "Government positions" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010g6bn8" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4h7ts" .
+<Government_Office_or_Title> <freebase.type_hints.included_types> "Topic" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8gm" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.12460z25q" .
+<m.010ghb7s> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<m.0nfc8dw> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l95" .
+<Administrative_Division> <type.type.expected_by> "Second level divisions" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010gg02t" .
+<m.0j1b_15> <common.webpage.topic> "Panama" .
+<University_of_Panama> <education.educational_institution.campuses> "University of Panama" .
+<m.09ysjxs> <common.webpage.topic> "Panama" .
+<Panama> <location.location.events> "Thousand Days' War" .
+<Panamanian_province> <base.aareas.schema.administrative_area_type.sovereignty> "Panama" .
+<Panama> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3f1nt" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245yx9t7" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52b3" .
+<Kuna_de_Madugandí> <location.location.geolocation> "m.0wmj_5f" .
+<Panamá_Province> <location.location.contains> "Panamá District" .
+<Parita_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc4_k3s" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010vpjcf" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4bpww" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52cp" .
+<FOX_Vakanties> <travel.tour_operator.travel_destinations> "Panama" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc5195q" .
+<Government_Office_or_Title> <type.type.expected_by> "Title of Chief Executive" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l8y" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.12tb6gn6q" .
+<Bocas_del_Toro_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.net_migration> "g.1s061gt2n" .
+<Administrative_Division> <freebase.type_profile.published> "Published" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245z1fvx" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc3zlfy" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245z9bb1" .
+<After_Dusk_They_Come> <media_common.adapted_work.adaptations> "After Dusk They Come" .
+<Panama> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3yvhx" .
+<Soná_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Los_Santos_District> <location.location.containedby> "Los Santos Province" .
+<Panamanian_comarca> <base.aareas.schema.administrative_area_type.subdivides_place> "Panama" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc51pz8" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_8rtf" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<m.0nf9l4c> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Santa_Fé_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3gtbh" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Democratic Revolutionary Party" .
+<Administrative_Division> <type.type.expected_by> "Administrative divisions" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc51w_v" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245_blpg" .
+<Dated_location> <freebase.type_hints.included_types> "Topic" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4s84c" .
+<Las_Minas_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.12460_76g" .
+<Panama> <location.statistical_region.long_term_unemployment_rate> "g.1hhc42rqx" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3s6mp" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_9vpt" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4zjb3" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_cwkb" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfbb2d" .
+<Administrative_Division> <freebase.documented_object.documentation> "m.02hpzsm" .
+<Guararé_District> <common.topic.notable_types> "Administrative Division" .
+<Government_Office_or_Title> <freebase.type_profile.strict_included_types> "Abstract" .
+<Panama> <location.country.administrative_divisions> "Guna Yala" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6ckgcld" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_9z" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc4l7xx" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4x38z" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52bb" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc52z0c" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7m0r" .
+<Kuna_de_Madugandí> <location.location.contains> "Icantí" .
+<Fourth_level_division_of> <type.property.schema> "Administrative Division" .
+<Panama> <location.statistical_region.literacy_rate> "g.1hhc3py91" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc49f0c" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3t8s1" .
+<Panama> <olympics.olympic_participating_country.athletes> "m.0kj_f9n" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc4hrx0" .
+<Administrative_Division> <type.type.properties> "Third level division of" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l43" .
+<Donoso_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245_6fhp" .
+<Panama> <location.country.first_level_divisions> "Chiriquí Province" .
+<Democratic_Revolutionary_Party> <organization.organization.geographic_scope> "Panama" .
+<Earth> <base.locations.planets.continents_within> "North America" .
+<Panama> <location.statistical_region.long_term_unemployment_rate> "g.1hhc42frs" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_mknc" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4x36y" .
+<Panama> <location.country.second_level_divisions> "Pinogana District" .
+<Administrative_Division> <type.type.properties> "Fourth level division of" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4mhll" .
+<Panama> <location.country.first_level_divisions> "Coclé Province" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.12tb6fzqb" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245z3wr0" .
+<Chiriquí_Province> <location.location.contains> "Remedios District" .
+<Coclé_Province> <location.location.containedby> "Panama" .
+<Fourth_level_divisions> <rdf-schema#domain> "Country" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc403jf" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3qp8g" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "g.12460h7ph" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3d2rz" .
+<Panama> <location.statistical_region.diesel_price_liter> "g.12cp_kblt" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4dxwl" .
+<Administrative_Divisions> <rdf-schema#range> "Administrative Division" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245z_1xg" .
+<Panama> <symbols.flag_referent.flag> "m.0js0xmw" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc53_qw" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc48tk3" .
+<Boquerón_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.country.second_level_divisions> "San Carlos District, Panama" .
+<m.05gpbvk> <location.adjoining_relationship.adjoins> "Panama" .
+<Panama> <base.aareas.schema.administrative_area.subdividing_type> "Panamanian comarca" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc3jq9y" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245zylx5" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6f714" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc3fl91" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7m0j" .
+<First_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7m21" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010ghgxf" .
+<m.0nf9l5n> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc3cby5" .
+<Herrera_Province> <common.topic.notable_types> "Administrative Division" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010g6g5x" .
+<Icantí> <common.topic.article> "m.03qnqth" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4j5d8" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4_0yg" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.12tb6gb1p" .
+<Juan_Carlos_Varela> <government.politician.government_positions_held> "m.010gg02t" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc4tftd" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4nw68" .
+<Government_Office_or_Title> <type.type.properties> "Office Holders" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lws" .
+<Montijo_District> <common.topic.notable_types> "Administrative Division" .
+<Ocú_District> <location.location.containedby> "Herrera Province" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4yx48" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3dvt8" .
+<m.0j5zb6g> <government.government_position_held.basic_title> "President" .
+<Santa_Fé_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfbb45" .
+<m.06gcn27> <type.property.expected_type> "Administrative Division" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4mhld" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<Changuinola_District> <location.location.containedby> "Bocas del Toro Province" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3rdpk" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010g6l_z" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc4b1lp" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.124608k9v" .
+<Capira_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7ltt" .
+<International_School_of_Medical_Sciences,_main_campus> <location.location.containedby> "Panamá Province" .
+<University_of_Panama> <location.location.containedby> "Panama" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4f7l0" .
+<Veraguas_Province> <location.location.contains> "Mariato District" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gtqd" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4f7v5" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3m3t7" .
+<Administrative_Division> <freebase.type_hints.included_types> "Dated location" .
+<Administrative_Division> <type.type.expected_by> "State/Province/Region" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245zz3tm" .
+<Administrative_Division> <type.type.properties> "Capital" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8gw" .
+<Thousand_Days'_War> <time.event.locations> "Panama" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3k0x4" .
+<Panama> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3hscb" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "International Brotherhood of Electrical Workers" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_9c" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lrt" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc431vw" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6d5g40s" .
+<m.010ghdfm> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245zs7sv" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3bjph" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245_rxgt" .
+<Panama> <travel.travel_destination.tour_operators> "FOX Vakanties" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gb8f" .
+<Panamanian_province> <freebase.type_hints.included_types> "Topic" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "People's Party" .
+<Panamá_Province> <location.location.contains> "University of Panama" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3wt_j" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc4my2m" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc88j" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3w6dp" .
+<Panama> <location.country.second_level_divisions> "Taboga District" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3qbtg" .
+<Panama> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4f83j" .
+<Tolé_District> <location.location.containedby> "Chiriquí Province" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc4r2yj" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4_0v7" .
+<m.07nfh2f> <base.ontologies.ontology_instance_mapping.freebase_topic> "Panama" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3py_x" .
+<Panama> <location.country.second_level_divisions> "Chepigana District" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6ddx70f" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lv7" .
+<San_Lorenzo_District,_Panama> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc4391f" .
+<Panama> <common.topic.webpage> "m.0j1b_15" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4n0dp" .
+<Panamá_Province> <location.location.contains> "San Miguelito" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010g6vfx" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_4m58" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3ms90" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3h37g" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc55412" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245zr9cm" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4lzkg" .
+<Latin_America> <location.location.containedby> "Americas" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc414b4" .
+<Panama> <base.athletics.athletics_country.championships_athletes_performances> "m.06506pn" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3xpr1" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3xks9" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc44wg9" .
+<Panama> <location.country.second_level_divisions> "Los Santos District" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc3_4h4" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lvp" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3pz04" .
+<Administrative_Division> <type.type.expected_by> "estado" .
+<m.010gg02t> <government.government_position_held.office_position_or_title> "President of Panama" .
+<Country> <freebase.type_hints.included_types> "Dated location" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1246010td" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc40404" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3zpqh" .
+<m.0nfc8hc> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.country.second_level_divisions> "Santa María District, Panama" .
+<Panama> <location.country.second_level_divisions> "Donoso District" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4_w7s" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245zfw98" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.12460gwmc" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc425z3" .
+<Panama> <location.statistical_region.brain_drain_percent> "g.1hhc4zyk3" .
+<Fourth_level_division_of> <rdf-schema#range> "Country" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc55bgm" .
+<Veraguas_Province> <location.administrative_division.first_level_division_of> "Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lz0" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3tnz4" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.12460594b" .
+<Ricardo_Martinelli> <people.person.nationality> "Panama" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4gvq8" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Solidarity Party" .
+<Guna_Yala> <location.administrative_division.country> "Panama" .
+<Panama> <film.film_location.featured_in_films> "After Dusk They Come" .
+<Panama> <location.country.second_level_divisions> "La Mesa District" .
+<Los_Santos_Province> <location.location.contains> "Tonosí District" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc888" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3qwxt" .
+<Chiriquí_Province> <location.location.contains> "San Félix District" .
+<Ricardo_Martinelli> <government.politician.government_positions_held> "m.0j5zb6g" .
+<Taboga_District> <location.administrative_division.second_level_division_of> "Panama" .
+<The_Naked_and_the_Dead> <film.film.featured_film_locations> "Panama" .
+<Las_Tablas_District> <common.topic.notable_types> "Administrative Division" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4wxdp" .
+<Olá_District> <common.topic.notable_types> "Administrative Division" .
+<m.010ghc3_> <government.government_position_held.office_position_or_title> "Vice President of Panama" .
+<Panamanian_province> <base.aareas.schema.administrative_area_type.iso_country> "Panama" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4wc99" .
+<First_level_divisions> <rdf-schema#domain> "Country" .
+<Tonosí_District> <location.location.containedby> "Los Santos Province" .
+<Panama> <location.statistical_region.time_required_to_start_a_business> "g.11b6p0dqyq" .
+<m.0nfc8d3> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Santa_María_District,_Panama> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc390h_" .
+<Coclé_Province> <location.location.contains> "Penonomé District" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Nationalist Republican Liberal Movement" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4j1h2" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4fs4_" .
+<Convergencia_Sindical> <organization.organization.geographic_scope> "Panama" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc50ckg" .
+<National_Patriotic_Coalition> <organization.organization.geographic_scope> "Panama" .
+<David_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l4w" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8cw" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52f1" .
+<Panama_Canal_Zone> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc46hvc" .
+<Panama> <location.statistical_region.diesel_price_liter> "g.12cp_j7kq" .
+<Panama> <location.location.containedby> "Americas" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52dc" .
+<Panamá_District> <location.location.containedby> "Panamá Province" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4hcj6" .
+<Panama_Canal_Zone> <base.aareas.schema.administrative_area.subdivides_place> "Panama" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "g.1246059jf" .
+<Panamá_Province> <common.topic.article> "m.02ssg8" .
+<North_America> <base.locations.continents.countries_within> "Panama" .
+<Panamanian_district> <base.aareas.schema.administrative_area_type.subdivides_type> "Panamanian province" .
+<m.0nfc8dc> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Gualaca_District> <location.location.containedby> "Chiriquí Province" .
+<Panama> <location.country.second_level_divisions> "Pesé District" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc42fly" .
+<Los_Santos_Province> <location.location.contains> "Los Santos District" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_2r" .
+<m.0nf9lcy> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_cq" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010g6gcl" .
+<Panama> <location.country.second_level_divisions> "Kuna de Wargandí" .
+<m.0nf9l84> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Anglo-Spanish_War> <time.event.locations> "Panama" .
+<m.0nfc8b9> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_9gln" .
+<Panama> <location.country.second_level_divisions> "Parita District" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4bpm4" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc414bl" .
+<Blockade_of_Porto_Bello> <time.event.included_in_event> "Anglo-Spanish War" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460tj5w" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_f6j2" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc455td" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc3yfgj" .
+<Panama> <location.country.second_level_divisions> "Aguadulce District" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4l7th" .
+<m.010g6vfx> <government.government_position_held.office_holder> "Juan Carlos Varela" .
+<Panama> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc4c3wr" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4mhs6" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245_gybc" .
+<Administrative_Division> <freebase.type_profile.kind> "Description" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3k0hm" .
+<m.0nfc8h3> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama_City> <location.location.containedby> "Panama" .
+<Panama> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4dd20" .
+<State/Province/Region> <rdf-schema#range> "Administrative Division" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc549pj" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_t0qq" .
+<Latin_America> <location.location.contains> "Panama" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3pmsp" .
+<Santa_Isabel_District> <location.location.containedby> "Colón Province" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52cg" .
+<Los_Santos_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8dm" .
+<Panama> <location.country.second_level_divisions> "Boquete District" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4w145" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8f4" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245zm6gq" .
+<Conservative_Party> <organization.organization.geographic_scope> "Panama" .
+<m.010ghb7s> <government.government_position_held.office_position_or_title> "Vice President of Panama" .
+<m.07nnstp> <olympics.olympic_medal_honor.country> "Panama" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4mhmj" .
+<Government_Office_or_Title> <freebase.type_profile.kind> "Definition" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc522_4" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5zy6" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3hs88" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.11b71vdgfs" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_1l" .
+<Panama> <book.book_subject.works> "Panama's Canal: What Happens When the United States Gives a Small Country What It Wants" .
+<San_Félix_District> <location.location.containedby> "Chiriquí Province" .
+<La_Chorrera_District> <location.location.containedby> "Panamá Province" .
+<Office,_position,_or_title> <type.property.expected_type> "Government Office or Title" .
+<Second_level_divisions> <type.property.reverse_property> "Second level division of" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_9m" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3f563" .
+<m.0nf9l6x> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Cerro_Echandi> <location.location.partially_containedby> "Panama" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc499l3" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245ytnhn" .
+<Panama> <location.country.second_level_divisions> "Natá District" .
+<Dolega_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <base.aareas.schema.administrative_area.pertinent_type> "Panamanian district" .
+<Chepigana_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama_national_football_team> <sports.sports_team.location> "Panama" .
+<Workers_Party_(Marxist–Leninist)> <organization.organization.geographic_scope> "Panama" .
+<Third_level_division_of> <type.property.expected_type> "Country" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_fk" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3m_nk" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc4w10n" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4gdt_" .
+<Central_America> <location.location.containedby> "Americas" .
+<Panama> <location.statistical_region.net_migration> "g.1s066z6_q" .
+<First_level_divisions> <owl#inverseOf> "First level division of" .
+<The_Canoe_and_the_Saddle> <book.written_work.subjects> "Panama" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52fh" .
+<m.0nfc8b1> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc49n6k" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4mhhn" .
+<m.0nfc8cw> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Barú_District,_Chiriquí> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.country.form_of_government> "Unitary state" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9lcp" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245zm61r" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l9y" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc3w9pv" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.12tb6fds2" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.12461bfnh" .
+<Calobre_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc53spn" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l9f" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7m1d" .
+<Los_Santos_Province> <location.location.contains> "Guararé District" .
+<Panama> <location.location.partiallycontains> "m.0wrkqyz" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.124614bl3" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.124604q6t" .
+<m.0nfc8gc> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245zqd41" .
+<m.0nfc8hm> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <base.aareas.schema.administrative_area.administrative_parent> "Earth" .
+<Earth> <base.aareas.schema.administrative_area.pertinent_type> "Sovereign state" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6fzyz" .
+<Panamá_Province> <location.statistical_region.population> "g.11bc87xck8" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3tsd7" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3pjkb" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfbb25" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3qp9k" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4rf3_" .
+<Bocas_del_Toro_Province> <location.location.contains> "Bocas del Toro District" .
+<Panama_City> <location.location.events> "United States invasion of Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7ly2" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc455v2" .
+<m.0nf9l7x> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <base.aareas.schema.administrative_area.pertinent_type> "Panamanian comarca" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc3cb_s" .
+<Panama> <location.location.time_zones> "UTC−05:00" .
+<Natá_District> <location.location.containedby> "Coclé Province" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3tkp1" .
+<Panama> <location.country.second_level_divisions> "La Pintada District" .
+<Government_Office_or_Title> <type.type.expected_by> "Office" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4ts9z" .
+<Panama> <location.country.administrative_divisions> "Los Santos Province" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc431sp" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_pvnm" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3w6nt" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.12460prfz" .
+<Macaracas_District> <location.location.containedby> "Los Santos Province" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.12tb6gtjp" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc499qc" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1q5jgvl_y" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3f8j2" .
+<Panama> <location.country.second_level_divisions> "Dolega District" .
+<Capira_District> <location.location.containedby> "Panamá Province" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52bs" .
+<Country> <type.type.properties> "Fourth level divisions" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc51pq_" .
+<Kuna_de_Wargandí> <location.location.containedby> "Darién Province" .
+<Second_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Pesé_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Administrative_Division> <freebase.type_hints.included_types> "Topic" .
+<After_Dusk_They_Come> <film.film.featured_film_locations> "Panama" .
+<Panama> <location.statistical_region.literacy_rate> "g.1hhc3gxm2" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4bxzl" .
+<Panama> <organization.organization_member.member_of> "m.04p8xv3" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc51975" .
+<Panama> <location.country.first_level_divisions> "Panamá Province" .
+<Coclé_Province> <base.aareas.schema.administrative_area.administrative_parent> "Panama" .
+<Solidarity_Party> <organization.organization.geographic_scope> "Panama" .
+<Panama> <base.aareas.schema.administrative_area.administrative_children> "Colón Province" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc47bjs" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_kjq_" .
+<m.0nfc89k> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Veraguas_Province> <base.aareas.schema.administrative_area.administrative_area_type> "Panamanian province" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc41ks4" .
+<Panama> <location.location.events> "Blockade of Porto Bello" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc3j2jy" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc4fl0g" .
+<Panama> <olympics.olympic_participating_country.medals_won> "m.07nnsty" .
+<Alanje_District> <location.location.containedby> "Chiriquí Province" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8c9" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc54v92" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc499pm" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3b2rb" .
+<Panama> <common.topic.webpage> "m.0b6s2jc" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc42fnk" .
+<Panama> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3s3f6" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc3kp37" .
+<Panama> <common.topic.webpage> "m.09ysjxs" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1q5jj_xhm" .
+<Bugaba_District> <location.location.containedby> "Panama" .
+<Veraguas_Province> <location.location.contains> "Las Palmas District" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc45tq1" .
+<m.0js0xmw> <symbols.flag_use.flag_user> "Panama" .
+<Panama> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3cwhc" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_pglg" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_2g" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.1245_pvnw" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kwl" .
+<The_Path_between_the_Seas:_The_Creation_of_the_Panama_Canal,_1870-1914> <book.written_work.subjects> "Central America" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3h75s" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7m1m" .
+<Veraguas_Province> <location.location.contains> "Soná District" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc50l74" .
+<Portobelo_District> <location.location.containedby> "Colón Province" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010ghfb3" .
+<Panamá_Province> <location.location.contains> "International School of Medical Sciences, main campus" .
+<m.0nfc87s> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8g3" .
+<Las_Tablas_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.12460chlx" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3wv1r" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6g_h_" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc52vf7" .
+<Santa_Fé_District> <location.location.containedby> "Veraguas Province" .
+<Third_level_division_of> <type.property.schema> "Administrative Division" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4t0n6" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4bprx" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3zxp3" .
+<People's_Party_of_Panama> <organization.organization.geographic_scope> "Panama" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3b5v2" .
+<Icantí> <common.topic.notable_for> "g.1255jzlvw" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5zxj" .
+<Cañazas_District> <location.location.containedby> "Veraguas Province" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4wpkc" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zv4f2" .
+<m.0nfc8gm> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zb8nj" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lrc" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3xkw6" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc46r21" .
+<Vice_President_of_Panama> <government.government_office_or_title.jurisdiction> "Panama" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc53ph5" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc51lp0" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4xdxj" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010g6bqb" .
+<Bugaba_District> <common.topic.notable_types> "Administrative Division" .
+<Administrative_Division> <type.type.properties> "FIPS 10-4 Region Code" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3x7t5" .
+<Los_Santos_Province> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc49nlf" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460nlv6" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l6n" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4czjk" .
+<Natá_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf529g" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4dqbq" .
+<Herrera_Province> <location.location.contains> "Chitré District" .
+<m.0wg9hnr> <location.partial_containment_relationship.partially_contains> "La Amistad International Park" .
+<Los_Santos_District> <common.topic.notable_types> "Administrative Division" .
+<La_Pintada_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Veraguas_Province> <location.location.contains> "San Francisco District, Panama" .
+<Third_level_divisions> <type.property.expected_type> "Administrative Division" .
+<San_Francisco_District,_Panama> <location.location.containedby> "Veraguas Province" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3j2kv" .
+<m.0wg9hny> <location.partial_containment_relationship.partially_contained_by> "Panama" .
+<Panama> <olympics.olympic_participating_country.athletes> "m.0kj_dpb" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3drgr" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3twy0" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8b9" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc5089_" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8hm" .
+<Sixaola_River> <location.location.partially_contained_by> "m.0wrkqyz" .
+<Panama> <location.country.second_level_divisions> "Renacimiento District" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245zkdy4" .
+<Ipetí> <location.location.containedby> "Kuna de Madugandí" .
+<Panama> <base.aareas.schema.administrative_area.administrative_children> "Panama Canal Zone" .
+<Panama> <location.country.second_level_divisions> "Changuinola District" .
+<Country> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc46rdq" .
+<Panama> <location.country.currency_used> "Panamanian balboa" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc45_t5" .
+<Socialist_Workers_Front_(Marxist–Leninist)> <organization.organization.geographic_scope> "Panama" .
+<Panama> <location.country.second_level_divisions> "Tolé District" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<Chitré_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lsy" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc44_16" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.12460h791" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.12460v8n4" .
+<m.010ghc3_> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3b9qd" .
+<Government_Office_or_Title> <type.type.expected_by> "Offices/Positions Within the Body" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc403sv" .
+<m.05nc32q> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.010g6g5x> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panamá_Province> <location.location.contains> "Chagres National Park" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7ltl" .
+<Panama> <location.country.second_level_divisions> "Calobre District" .
+<Panama> <location.statistical_region.net_migration> "g.1s0622gqg" .
+<m.0nfc890> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245zkf8r" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3m7j5" .
+<Second_level_divisions> <type.property.schema> "Country" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4f7t6" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc4nfsk" .
+<m.0nf9l9f> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.010g6bqb> <government.government_position_held.basic_title> "President" .
+<Atalaya_District> <common.topic.notable_types> "Administrative Division" .
+<Vice_President_of_Panama> <government.government_office_or_title.office_holders> "m.010ghc3_" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3wmdx" .
+<Mariato_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Ipetí> <common.topic.notable_types> "City/Town/Village" .
+<Government_Office_or_Title> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3zgym" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3_4db" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6hc3f" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc3x3xh" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4x3d5" .
+<Panama> <location.country.second_level_divisions> "Guararé District" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc37hb9" .
+<Administrative_Division> <freebase.type_hints.included_types> "Statistical region" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7l_c" .
+<Second_level_divisions> <rdf-schema#domain> "Country" .
+<Santa_Isabel_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Government_Office_or_Title> <common.topic.article> "m.02xlj1v" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8d3" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc3v2b4" .
+<Panama> <location.country.first_level_divisions> "Veraguas Province" .
+<Panama> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3bf6t" .
+<National_Liberal_Party> <organization.organization.geographic_scope> "Panama" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4lzf9" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf526m" .
+<Panama> <olympics.olympic_participating_country.athletes> "m.0kj_fxm" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245zylwy" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc52y_l" .
+<Panama> <location.country.second_level_divisions> "Chepo District" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_34" .
+<Panamá_Province> <common.topic.image> "Amador Causeway." .
+<Panamanian_district> <base.uncommon.topic.exceptions> "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District." .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460ywc5" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4ks03" .
+<m.04p8xv3> <organization.organization_membership.member> "Panama" .
+<Panama> <location.country.administrative_divisions> "Chiriquí Province" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc49vp7" .
+<Comarca_Emberá-Wounaan> <common.topic.notable_types> "Administrative Division" .
+<Bocas_del_Toro_Province> <base.aareas.schema.administrative_area.administrative_area_type> "Panamanian province" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1q5jcwh4g" .
+<Colón_Province> <location.location.contains> "Donoso District" .
+<Guna_Yala> <base.aareas.schema.administrative_area.administrative_area_type> "Panamanian comarca" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4stps" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc403lc" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245zgfjp" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc49js5" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9lbf" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52gd" .
+<City/Town/Village> <type.type.domain> "Location" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4wgyf" .
+<Panama> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc4rrkl" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc41klh" .
+<Pocrí_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc39kqr" .
+<Administrative_Division> <type.type.properties> "ISO 3166-2 Code" .
+<Panama> <location.country.second_level_divisions> "Portobelo District" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8bk" .
+<Government_Office_or_Title> <type.type.expected_by> "Office" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zmkwg" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc390sk" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4k682" .
+<Country> <rdf-schema#range> "Country" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245zqd4b" .
+<Panamá_Province> <location.location.contains> "Capira District" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc87j" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4t_k9" .
+<m.010g6bs9> <government.government_position_held.basic_title> "President" .
+<Chitré_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010g6yxh" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4g93j" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3cbsd" .
+<Panama> <location.statistical_region.diesel_price_liter> "g.12cp_kbls" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc422sl" .
+<Chiriquí_Province> <common.topic.notable_types> "Administrative Division" .
+<m.0v_xbyy> <location.administrative_division_capital_relationship.capital> "Panama City" .
+<Panamá_Province> <location.location.contains> "Chimán District" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245zn3vp" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc47bfh" .
+<m.0kj_f9n> <olympics.olympic_athlete_affiliation.country> "Panama" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc3sb6s" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc4b26v" .
+<Fourth_level_divisions> <type.property.schema> "Country" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zfvnh" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9lby" .
+<m.010g6vfx> <government.government_position_held.office_position_or_title> "Vice President of Panama" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc88s" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245_j1ph" .
+<Panamá_Province> <location.location.contains> "Kuna de Madugandí" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Communist Party (Marxist–Leninist) of Panama" .
+<Santiago_District,_Veraguas> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc388p_" .
+<Juan_Carlos_Varela> <people.person.nationality> "Panama" .
+<m.0kd57rh> <olympics.olympic_athlete_affiliation.country> "Panama" .
+<Panama> <location.country.second_level_divisions> "San Lorenzo District, Panama" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc53cb0" .
+<Panama> <location.country.second_level_divisions> "Río de Jesús District" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4rr8t" .
+<m.010g6bn8> <government.government_position_held.basic_title> "President" .
+<Boquerón_District> <location.location.containedby> "Chiriquí Province" .
+<Administrative_Division> <type.type.expected_by> "location_state_province_region" .
+<La_Chorrera_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Donoso_District> <common.topic.notable_types> "Administrative Division" .
+<Los_Santos_Province> <location.location.contains> "Macaracas District" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc48tqc" .
+<Chimán_District> <location.location.containedby> "Panamá Province" .
+<Herrera_Province> <location.location.contains> "Pesé District" .
+<Fourth_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3kp6z" .
+<La_Amistad_International_Park> <location.location.partially_containedby> "Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lys" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Dated location" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4pwrv" .
+<Panama> <location.country.second_level_divisions> "Colón District, Panama" .
+<m.0kd57nf> <olympics.olympic_athlete_affiliation.country> "Panama" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4y7kk" .
+<Panama> <location.country.first_level_divisions> "Bocas del Toro Province" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4ysj_" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zs7fg" .
+<Country> <freebase.type_profile.strict_included_types> "Dated location" .
+<Panama> <location.country.second_level_divisions> "Pocrí District" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc48hst" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5z_c" .
+<Río_de_Jesús_District> <location.location.containedby> "Veraguas Province" .
+<Panama> <location.country.official_language> "Spanish Language" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4d8r5" .
+<Herrera_Province> <location.location.contains> "Las Minas District" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3n9km" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010ghdfm" .
+<Panama> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3cwf6" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4t_dn" .
+<The_Tailor_of_Panama> <book.written_work.subjects> "Panama" .
+<Panama> <location.country.second_level_divisions> "Las Minas District" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3szg2" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245_t0r3" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_7v" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Democratic Change" .
+<m.010ghc01> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc4sp_n" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3m7j6" .
+<m.010g6bqb> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Veraguas_Province> <location.location.contains> "Atalaya District" .
+<Panama> <common.topic.webpage> "m.09ys2cm" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc45qcw" .
+<m.0nfc8ck> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.1245z_npw" .
+<United_Nations> <organization.organization.founders> "Panama" .
+<Panama> <location.statistical_region.time_required_to_start_a_business> "g.1hhc378n4" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_04" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lz8" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc4f_1z" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.124615wry" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4mcmp" .
+<Panamá_Province> <location.administrative_division.capital> "m.0v_xbyy" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4spvf" .
+<Chiriquí_Province> <location.administrative_division.first_level_division_of> "Panama" .
+<Taboga_District> <common.topic.notable_types> "Administrative Division" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Topic" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245zy5wv" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.12cp_k2sx" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4f7v6" .
+<Panama> <book.book_subject.works> "The Tailor of Panama" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<Bocas_del_Toro_Province> <location.location.contains> "Chiriquí Grande District" .
+<Ipetí> <location.location.containedby> "Panama" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc47g1p" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zpmff" .
+<SUNTRACS> <organization.organization.geographic_scope> "Panama" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4y_pp" .
+<Liberation_Day> <book.written_work.subjects> "Panama" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.1245_jsq7" .
+<Panama> <location.location.partiallycontains> "m.0wg9hny" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc3c1bs" .
+<Montijo_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245yzt9x" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc4cnq3" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3c4w7" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lxw" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5z_r" .
+<Antón_District> <location.location.containedby> "Coclé Province" .
+<La_Pintada_District> <location.location.containedby> "Coclé Province" .
+<Panamá_Province> <location.location.contains> "El Coco" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7m09" .
+<Panamá_Province> <location.administrative_division.country> "Panama" .
+<Panama> <location.location.adjoin_s> "m.05gpbvk" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_dx" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc45mc9" .
+<Chiriquí_Province> <location.location.contains> "Gualaca District" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3drcv" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.11b71tmz2d" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l7n" .
+<Panama> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4_4bd" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_5x1p" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc3b5vp" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7m15" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4dy8d" .
+<Alanje_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "g.1246167jf" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010ghh1m" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4d1xx" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc3m3rn" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4_s2g" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<Second_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4mtyz" .
+<m.010ghfb3> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Pinogana_District> <location.administrative_division.second_level_division_of> "Panama" .
+<United_States_Dollar> <finance.currency.countries_used> "Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7l_l" .
+<m.0wg9hny> <location.partial_containment_relationship.partially_contains> "Cerro Echandi" .
+<m.0nfc8fm> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_wm7g" .
+<Santa_María_District,_Panama> <location.location.containedby> "Herrera Province" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.12460jzr_" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc378jn" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lzq" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245yxxk_" .
+<Guna_Yala> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc4n7fz" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1s05y9j3t" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kzn" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3kx2c" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3jttr" .
+<Panama> <book.book_subject.works> "The Path between the Seas: The Creation of the Panama Canal, 1870-1914" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc42fsd" .
+<Panama> <location.country.second_level_divisions> "La Chorrera District" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8fm" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4rrf_" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.12460cqrb" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4tfr3" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc4dxy3" .
+<Kuna_de_Madugandí> <location.location.contains> "Ipetí" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc3x7rr" .
+<Bugaba_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Bugaba_District> <location.location.containedby> "Chiriquí Province" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4k69b" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc3r243" .
+<Country> <freebase.type_profile.published> "Published" .
+<Panama> <location.statistical_region.child_labor_percent> "g.1hhc3bd_0" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc51px7" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3yflw" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.1245zrvvp" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8b1" .
+<Panama> <location.country.first_level_divisions> "Darién Province" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1s0678dzm" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l7d" .
+<San_Francisco_District,_Panama> <location.administrative_division.second_level_division_of> "Panama" .
+<m.0nf9lby> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Icantí> <common.topic.notable_types> "City/Town/Village" .
+<Second_level_division_of> <type.property.master_property> "Second level divisions" .
+<Darién_Province> <base.aareas.schema.administrative_area.administrative_area_type> "Panamanian province" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc50svc" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4sh2w" .
+<Taboga_District> <location.location.containedby> "Panamá Province" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4bpgh" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245_tlxd" .
+<Colón_District,_Panama> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4kb1m" .
+<Darién_Province> <location.location.contains> "Kuna de Wargandí" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3pz0j" .
+<Central_America> <book.book_subject.works> "The Path between the Seas: The Creation of the Panama Canal, 1870-1914" .
+<Panamá_Province> <common.topic.notable_for> "g.125bk0mkg" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3zh0x" .
+<Chame_District> <common.topic.notable_types> "Administrative Division" .
+<Panamá_Province> <location.location.contains> "Bayano Lake" .
+<Administrative_Division> <type.type.expected_by> "Administrative Divisions" .
+<First_level_division_of> <rdf-schema#range> "Country" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3r2ss" .
+<Vice_President_of_Panama> <common.topic.notable_types> "Government Office or Title" .
+<Panama> <location.country.second_level_divisions> "Las Palmas District" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3l95_" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc4pwmn" .
+<Kuna_de_Madugandí> <common.topic.notable_for> "g.125b7l67q" .
+<Panama_City> <common.topic.notable_types> "City/Town/Village" .
+<Government_Office_or_Title> <type.type.expected_by> "Offices" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4yc87" .
+<Sovereign_state> <freebase.type_hints.included_types> "Location" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc4st_n" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l4c" .
+<Panamanian_province> <base.aareas.schema.administrative_area_type.subdivides_place> "Panama" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc3y305" .
+<Patriotic_Union> <organization.organization.geographic_scope> "Panama" .
+<Panama> <common.topic.webpage> "m.09ysfx7" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4r2xh" .
+<Panama> <location.statistical_region.net_migration> "g.1s06rbmj6" .
+<Panama> <location.country.second_level_divisions> "Macaracas District" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc46qw0" .
+<Country> <owl#inverseOf> "Administrative Divisions" .
+<Changuinola_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245z26h9" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3xps2" .
+<Panama> <book.book_subject.works> "The Canoe and the Saddle" .
+<Colón_Province> <location.location.contains> "Colón District, Panama" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4ygwj" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc55bg3" .
+<Office,_position,_or_title> <type.property.reverse_property> "Office Holders" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc44339" .
+<Panama> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4xf4b" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.subdivides_place> "Earth" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "g.124615hjl" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc5161v" .
+<Country> <type.type.properties> "Second level divisions" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3v2l3" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4gvwf" .
+<Aguadulce_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Administrative_Division> <type.type.expected_by> "City Seat" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf529p" .
+<Panamanian_district> <base.aareas.schema.administrative_area_type.pertains_to> "Panama" .
+<Panamá_Province> <location.location.contains> "Santa Clara, Panamá Oeste" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4ppdt" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Conservative Party" .
+<Dolega_District> <location.location.containedby> "Chiriquí Province" .
+<Changuinola_District> <common.topic.notable_types> "Administrative Division" .
+<m.010gg02t> <government.government_position_held.basic_title> "President" .
+<Panamanian_balboa> <finance.currency.countries_used> "Panama" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52c0" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3lh_m" .
+<Panama> <location.statistical_region.renewable_freshwater_per_capita> "g.11b6czfwcs" .
+<Panameñista_Party> <organization.organization.geographic_scope> "Panama" .
+<Panama> <location.location.partially_contains> "Sixaola River" .
+<Location> <freebase.type_profile.published> "Published" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc501sv" .
+<Panama> <location.country.second_level_divisions> "Chiriquí Grande District" .
+<Santiago_District,_Veraguas> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_55lt" .
+<San_Lorenzo_District,_Panama> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7m0z" .
+<Bocas_del_Toro_Province> <location.location.containedby> "Panama" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfbb31" .
+<Panama> <location.statistical_region.foreign_direct_investment_net_inflows> "g.12tb6flqm" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lzh" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4b1ts" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245_55z_" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3lhz6" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.11b60v4rnx" .
+<Chiriquí_Province> <location.location.contains> "San Lorenzo District, Panama" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc44sb1" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010ghc9h" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf529x" .
+<Balboa_District> <location.location.containedby> "Panamá Province" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1246066q0" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.1245yzf3l" .
+<Panama> <location.country.second_level_divisions> "Chitré District" .
+<Chiriquí_Province> <location.location.contains> "Tolé District" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfbb38" .
+<La_Amistad_International_Park> <location.location.containedby> "Central America" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc47ngk" .
+<Civic_Renewal_Party> <organization.organization.geographic_scope> "Panama" .
+<m.0wzbrlm> <location.partial_containment_relationship.partially_contained_by> "Panama" .
+<Panama> <location.country.second_level_divisions> "Antón District" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l7x" .
+<Panama> <location.country.second_level_divisions> "Tonosí District" .
+<Panama> <organization.organization_member.member_of> "m.05989m6" .
+<Second_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc3zxrp" .
+<Panama> <location.statistical_region.brain_drain_percent> "g.1hhc492wn" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc45dl0" .
+<Country> <type.property.expected_type> "Country" .
+<Las_Palmas_District> <location.location.containedby> "Veraguas Province" .
+<Juan_Carlos_Varela> <people.person.place_of_birth> "Panama City" .
+<Panamá_Province> <location.administrative_division.first_level_division_of> "Panama" .
+<Panama> <base.aareas.schema.administrative_area.administrative_children> "Panamá Province" .
+<Remedios_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kyb" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3t8f_" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Agent" .
+<Location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Panama> <location.country.first_level_divisions> "Comarca Emberá-Wounaan" .
+<Veraguas_Province> <location.location.contains> "Montijo District" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc4wt5f" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4t12g" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc37pq4" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4sty_" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4263t" .
+<Panama> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4fl3q" .
+<Río_de_Jesús_District> <common.topic.notable_types> "Administrative Division" .
+<Río_de_Jesús_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.country.second_level_divisions> "Chagres District" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4c0gk" .
+<Panamá_Province> <location.location.contains> "Chepo District" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc3sjb8" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3j5pb" .
+<Dolega_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4hc9j" .
+<Panama_Canal_Authority> <organization.organization.place_founded> "Panama" .
+<Panama_Canal_Authority> <government.government_agency.jurisdiction> "Panama" .
+<Central_America> <location.location.contains> "Panama" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kys" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.12460m240" .
+<Panama> <location.location.events> "Anglo-Spanish War" .
+<Remedios_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.pertains_to> "Earth" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3w6n8" .
+<Alanje_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc4_k6g" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc442z3" .
+<m.0gl6kkh> <olympics.olympic_athlete_affiliation.country> "Panama" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kzf" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.12460jzd6" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245_5693" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc4lnwv" .
+<m.05kyqvp> <organization.organization_membership.member> "Panama" .
+<m.0nfc8dm> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc4sv38" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4hcg7" .
+<m.0nf9l95> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.0nf9l7n> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4f81c" .
+<Kuna_de_Madugandí> <location.location.containedby> "Panamá Province" .
+<Administrative_Division> <type.type.expected_by> "First level divisions" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.12460cqrc" .
+<Panama> <location.statistical_region.net_migration> "g.1s061bnxs" .
+<San_Miguelito> <location.location.containedby> "Panamá Province" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3yvjv" .
+<m.0kd57s5> <olympics.olympic_athlete_affiliation.country> "Panama" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc48905" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc42fcs" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3npn6" .
+<Ipetí> <common.topic.notable_for> "g.125cdb_r1" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.12460vn9s" .
+<Los_Pozos_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc52j3x" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4kwfw" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6d3g0qt" .
+<Panamá_Province> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_7sl9" .
+<Administrative_Division> <type.type.expected_by> "location_administrative_divisions" .
+<Penonomé_District> <location.location.containedby> "Coclé Province" .
+<m.0nfc8g3> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8fw" .
+<Third_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Panama> <olympics.olympic_participating_country.athletes> "m.0kd57pq" .
+<m.0nfc89t> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc3f1lc" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "General Confederation of Workers of Panama" .
+<m.010g6bn8> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panama> <location.country.capital> "Panama City" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4x68k" .
+<Herrera_Province> <base.aareas.schema.administrative_area.administrative_parent> "Panama" .
+<Government_Office_or_Title> <type.type.domain> "Government" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.12460fdnq" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4r9gr" .
+<City/Town/Village> <freebase.type_hints.included_types> "Dated location" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc54yct" .
+<Panama> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3ltv7" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245z17s9" .
+<m.0wg9hnr> <location.partial_containment_relationship.partially_contained_by> "Panama" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9lbp" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3f_b5" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.124615361" .
+<Statistical_region> <type.type.domain> "Location" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc40j_q" .
+<Panamá_Province> <location.location.contains> "La Chorrera District" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3k0hl" .
+<Los_Santos_Province> <location.location.containedby> "Panama" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4f7mh" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc51_kc" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5zyl" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_1_" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3y6bc" .
+<South_American_Fights_and_Fighters> <book.written_work.subjects> "Latin America" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc3x3_l" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.12tb6g_d9" .
+<Bayano_Lake> <location.location.containedby> "Panamá Province" .
+<Vice_President_of_Panama> <government.government_office_or_title.office_holders> "m.010ghb7s" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc51x3d" .
+<Country> <rdf-schema#domain> "Administrative Division" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Abstract" .
+<Pesé_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.11b71xtjwm" .
+<Soná_District> <location.location.containedby> "Veraguas Province" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.12461bfzt" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4r32n" .
+<Panamanian_province> <freebase.type_hints.included_types> "Location" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l53" .
+<Chepigana_District> <location.location.containedby> "Darién Province" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010ghc01" .
+<Santiago_District,_Veraguas> <location.location.containedby> "Veraguas Province" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3yfhs" .
+<Coclé_Province> <location.location.contains> "Aguadulce District" .
+<Chiriquí_Grande_District> <common.topic.notable_types> "Administrative Division" .
+<m.010g6bs9> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc3sz8l" .
+<m.010g6lyp> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Coclé_Province> <location.administrative_division.first_level_division_of> "Panama" .
+<Icantí> <location.location.geolocation> "m.0dc682w" .
+<Bocas_del_Toro_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc41kp8" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Panameñista Party" .
+<Natá_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Sixaola_River> <location.location.partially_containedby> "Panama" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4mcl1" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_vllj" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.11b71srh85" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.124612161" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12tb6fltx" .
+<Unitary_state> <government.form_of_government.countries> "Panama" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8hc" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4h7sw" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4t15b" .
+<m.0nf9l8p> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3wv07" .
+<m.010gg02t> <government.government_position_held.office_holder> "Juan Carlos Varela" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4xdvq" .
+<Panamanian_comarca> <base.aareas.schema.administrative_area_type.pertains_to> "Panama" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc52vkx" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245_1qfr" .
+<Bocas_del_Toro_Province> <location.location.contains> "Changuinola District" .
+<Macaracas_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52bk" .
+<Administrative_Division> <type.type.properties> "Country" .
+<Americas> <location.location.contains> "North America" .
+<Remedios_District> <location.location.containedby> "Chiriquí Province" .
+<m.010vpjcf> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Tonosí_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.time_required_to_start_a_business> "g.1q5jprcw9" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3_l31" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.1245z6jzh" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_dg" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4bpqf" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4_k5h" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lxf" .
+<Calobre_District> <location.location.containedby> "Veraguas Province" .
+<Pocrí_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245zql2r" .
+<Constitutional_republic> <government.form_of_government.countries> "Panama" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc49vlf" .
+<Panamanian_district> <base.aareas.schema.administrative_area_type.iso_country> "Panama" .
+<Panama> <base.aareas.schema.administrative_area.pertinent_type> "Panamanian province" .
+<Chiriquí_Province> <location.location.contains> "Alanje District" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010g6bs9" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc52z0b" .
+<m.010g6l_z> <government.government_position_held.basic_title> "President" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc3rtcs" .
+<Colón_District,_Panama> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3l5lf" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc46qrq" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Location" .
+<Panama> <location.country.second_level_divisions> "Gualaca District" .
+<Panama> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4pgj_" .
+<Chiriquí_Grande_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Santa_María_District,_Panama> <common.topic.notable_types> "Administrative Division" .
+<m.0kd57r0> <olympics.olympic_athlete_affiliation.country> "Panama" .
+<Panama> <base.uncommon.topic.exceptions> "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District." .
+<Calobre_District> <common.topic.notable_types> "Administrative Division" .
+<Guna_Yala> <location.administrative_division.first_level_division_of> "Panama" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_bc" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4lgg0" .
+<m.05kyqvp> <organization.organization_membership.organization> "United Nations" .
+<Sovereign_state> <freebase.type_hints.included_types> "Topic" .
+<m.0nf9lcf> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Icantí> <location.location.containedby> "Kuna de Madugandí" .
+<Panama> <location.country.administrative_divisions> "Colón Province" .
+<Administrative_Divisions> <rdf-schema#domain> "Country" .
+<Dated_location> <freebase.type_hints.included_types> "Location" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc508bb" .
+<University_of_Panama> <education.educational_institution_campus.educational_institution> "University of Panama" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8gc" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.11b60thpxz" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfbb3y" .
+<Portobelo_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lr4" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l6d" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc47nmy" .
+<Pedasí> <location.location.containedby> "Los Santos Province" .
+<Panama> <government.governmental_jurisdiction.government_positions> "Vice President of Panama" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3qp93" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc39ggc" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc46r3n" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3kg7v" .
+<m.07nnsty> <olympics.olympic_medal_honor.country> "Panama" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_kjsk" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_lf1c" .
+<Panama_Canal_Zone> <location.location.containedby> "Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245zvrl6" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.11b60ywwvj" .
+<Panama> <location.location.events> "2015 CONCACAF U-17 Championship qualifying" .
+<m.0nf9lc5> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc4w191" .
+<Blockade_of_Porto_Bello> <time.event.locations> "Panama" .
+<Panama> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3v2c2" .
+<Third_level_divisions> <type.property.reverse_property> "Third level division of" .
+<m.0v_xbyy> <location.administrative_division_capital_relationship.administrative_division> "Panamá Province" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245ysxnl" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245zm6dw" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3w9rr" .
+<Boquerón_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc3qwx6" .
+<Administrative_Division> <freebase.type_hints.included_types> "Location" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5zxx" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3_47q" .
+<Administrative_Division> <type.type.expected_by> "Fourth level divisions" .
+<Battle_of_Porto_Bello> <time.event.locations> "Panama" .
+<Boquete_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Country> <freebase.type_profile.kind> "Definition" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3srkr" .
+<Panama> <location.statistical_region.foreign_direct_investment_net_inflows> "g.11b71yzsst" .
+<Panama> <government.governmental_jurisdiction.agencies> "Panama Canal Authority" .
+<Panama> <location.country.form_of_government> "Presidential system" .
+<Government_Office_or_Title> <type.type.properties> "Governmental body (if any)" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4rm_2" .
+<Panama> <location.country.form_of_government> "Constitutional republic" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc41cbf" .
+<Herrera_Province> <location.location.containedby> "Panama" .
+<Panama> <location.country.second_level_divisions> "Las Tablas District" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3k0wl" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4b1nc" .
+<Panamá_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Kuna_de_Madugandí> <common.topic.image> "Location of Kuna de Madugandí in Panama" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc3x7vx" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc3w6jn" .
+<Herrera_Province> <base.aareas.schema.administrative_area.administrative_area_type> "Panamanian province" .
+<m.0nfc88j> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.04h63bn> <olympics.olympic_medal_honor.country> "Panama" .
+<Panamá_Province> <common.topic.image> "PanamÃ¡ Provincia" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3nwzr" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1246011n3" .
+<Earth> <base.uncommon.topic.exceptions> "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District." .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Fourth_level_division_of> <type.property.master_property> "Fourth level divisions" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc44s9l" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kzw" .
+<Balboa_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.12460vn9z" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc51lpz" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc455rm" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245z7hcl" .
+<International_School_of_Medical_Sciences,_main_campus> <location.location.containedby> "Panama" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4r2yx" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.12tb6fsr8" .
+<Third_level_division_of> <type.property.master_property> "Third level divisions" .
+<Panama> <olympics.olympic_participating_country.medals_won> "m.04h63bn" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245_5694" .
+<Chiriquí_Grande_District> <location.location.containedby> "Bocas del Toro Province" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf528c" .
+<Panama> <location.country.first_level_divisions> "Los Santos Province" .
+<Comarca_Emberá-Wounaan> <location.location.containedby> "Panama" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc3tp04" .
+<State/Province/Region> <type.property.expected_type> "Administrative Division" .
+<m.0nfc8gw> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lw3" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_22zg" .
+<m.010ghdfm> <government.government_position_held.office_position_or_title> "Vice President of Panama" .
+<Montijo_District> <location.location.containedby> "Veraguas Province" .
+<Government_Office_or_Title> <freebase.type_profile.strict_included_types> "Topic" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc481rs" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc499h1" .
+<Country> <type.property.reverse_property> "Administrative Divisions" .
+<Panamá_Province> <location.location.contains> "Chame District" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4kwcn" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7ls0" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_c9" .
+<Panama> <location.location.partially_contains> "Cerro Echandi" .
+<Panama_Canal_Zone> <base.aareas.schema.administrative_area.administrative_parent> "Panama" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc385gj" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_0v" .
+<Barú_District,_Chiriquí> <location.location.containedby> "Chiriquí Province" .
+<La_Mesa_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc4tsbf" .
+<Panama> <common.topic.notable_types> "Country" .
+<Panama> <location.location.events> "United States invasion of Panama" .
+<m.010ghgxf> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panama> <location.country.administrative_divisions> "Coclé Province" .
+<Panama> <location.country.second_level_divisions> "Penonomé District" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4_w8g" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.12460x5hb" .
+<La_Chorrera_District> <common.topic.notable_types> "Administrative Division" .
+<m.0nf9lbf> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4sh39" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfbb1r" .
+<Panamanian_comarca> <base.aareas.schema.administrative_area_type.subdividing_type> "Panamanian district" .
+<m.0b6s2jc> <common.webpage.topic> "Panama" .
+<m.0nf9l4w> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc45tjb" .
+<Cerro_Kamuk> <location.location.partially_containedby> "Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_7tcr" .
+<Panama> <location.country.second_level_divisions> "Chame District" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3_syg" .
+<Tolé_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52gv" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245_f7bv" .
+<Panama> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4t_r2" .
+<La_Amistad_International_Park> <location.location.partially_contained_by> "m.0wg9hnr" .
+<Bayano_Lake> <location.location.containedby> "Darién Province" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.12461cldq" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4xynx" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc52ml1" .
+<Panama> <location.country.second_level_divisions> "Los Pozos District" .
+<Second_level_divisions> <owl#inverseOf> "Second level division of" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3j5r7" .
+<m.0nf9l5x> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Los_Santos_Province> <location.administrative_division.first_level_division_of> "Panama" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc53kzc" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_8n" .
+<Panama> <location.country.second_level_divisions> "Balboa District" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4c400" .
+<Panamanian_comarca> <base.aareas.schema.administrative_area_type.sovereignty> "Panama" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc3_swg" .
+<Central_America> <location.location.contains> "La Amistad International Park" .
+<m.0nfc880> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<San_Félix_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4b1rv" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc41kbj" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc43v0m" .
+<Bocas_del_Toro_Province> <base.aareas.schema.administrative_area.administrative_parent> "Panama" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010g6lyp" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zr3mf" .
+<m.0h_1hc7> <government.national_anthem_of_a_country.country> "Panama" .
+<Chimán_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4bplm" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc48_zb" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc5511d" .
+<m.010g6yxh> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc42vzc" .
+<Pinogana_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.country.first_level_divisions> "Herrera Province" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc46hy1" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lw_" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3drct" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4c3vd" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_9vps" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc4p54v" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc3c4qh" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Civic Renewal Party" .
+<Panama> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4by0l" .
+<University_of_Panama> <location.location.containedby> "Panama City" .
+<South_American_Fights_and_Fighters> <book.written_work.subjects> "Panama" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4jxq1" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfbb2v" .
+<First_level_divisions> <type.property.reverse_property> "First level division of" .
+<Sixaola_River> <location.location.containedby> "North America" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lxn" .
+<Juan_Carlos_Varela> <government.politician.government_positions_held> "m.010g6vfx" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4pgc2" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8dw" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Dated location" .
+<Panama> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3wmg6" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.12cp_jr43" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc899" .
+<Panama> <location.country.second_level_divisions> "Alanje District" .
+<Panama> <location.country.second_level_divisions> "Panamá District" .
+<Panamá_Province> <base.aareas.schema.administrative_area.administrative_area_type> "Panamanian province" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3h_4c" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc4cnv6" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_g1" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4r331" .
+<Administrative_Division> <common.topic.article> "m.02hpzsm" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc4cntx" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc4nfwx" .
+<Panama> <film.film_location.featured_in_films> "The Naked and the Dead" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4662y" .
+<Location_of_Kuna_de_Madugandí_in_Panama> <common.image.size> "m.029pjtz" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc39c7y" .
+<m.0nfc8bk> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc4qxks" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3w9n3" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc4xvpq" .
+<Panama> <base.aareas.schema.administrative_area.administrative_children> "Los Santos Province" .
+<Administrative_Division> <type.type.expected_by> "Third level divisions" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245zn3gc" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.12460p4g5" .
+<Administrative_Division> <type.type.expected_by> "Administrative division" .
+<Panama> <location.country.second_level_divisions> "Boquerón District" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc5132g" .
+<Kuna_de_Madugandí> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4qh91" .
+<Third_level_divisions> <owl#inverseOf> "Third level division of" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4k6fq" .
+<Panama> <book.book_subject.works> "Liberation Day" .
+<Las_Tablas_District> <location.location.containedby> "Los Santos Province" .
+<m.0nf9lcp> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Pocrí_District> <location.location.containedby> "Los Santos Province" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc4k2z3" .
+<m.0kj_fxm> <olympics.olympic_athlete_affiliation.country> "Panama" .
+<m.010g6l_z> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panama> <location.country.second_level_divisions> "Capira District" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc474hb" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc89k" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9lcf" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc87s" .
+<Panama> <government.governmental_jurisdiction.government_positions> "President of Panama" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245zydy7" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3mbq2" .
+<Panama> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4h4x6" .
+<m.010g6lyp> <government.government_position_held.basic_title> "President" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc43vbp" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.12460_10m" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3pjbx" .
+<Guararé_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panamanian_comarca> <freebase.type_hints.included_types> "Location" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4f_3p" .
+<Gualaca_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.country.second_level_divisions> "San Félix District" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4t_g8" .
+<Las_Minas_District> <location.location.containedby> "Herrera Province" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245zlgt3" .
+<m.06506pn> <base.athletics.athletics_championships_competition_athlete_relationship.country> "Panama" .
+<Panama> <location.country.second_level_divisions> "Ocú District" .
+<Confederation_of_Workers_of_the_Republic_of_Panama> <organization.organization.geographic_scope> "Panama" .
+<Country> <type.type.properties> "Administrative Divisions" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3kws6" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4l7vz" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_t0rq" .
+<Veraguas_Province> <base.aareas.schema.administrative_area.administrative_parent> "Panama" .
+<Veraguas_Province> <location.location.contains> "Cañazas District" .
+<Veraguas_Province> <location.location.contains> "Santa Fé District" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245_mkq7" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3fsdm" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245zvz41" .
+<Veraguas_Province> <location.location.contains> "Calobre District" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8c1" .
+<Coclé_Province> <location.location.contains> "Antón District" .
+<Mariato_District> <location.location.containedby> "Veraguas Province" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3r1_r" .
+<Location> <type.type.domain> "Location" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.12460g41r" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Confederation of Workers of the Republic of Panama" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3n9px" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245yz_nc" .
+<Boquete_District> <location.location.containedby> "Chiriquí Province" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc48tnv" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6h50l" .
+<San_Carlos_District,_Panama> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8dc" .
+<Chiriquí_Province> <location.location.contains> "Renacimiento District" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.12460cqdb" .
+<Panama> <location.country.administrative_divisions> "Veraguas Province" .
+<Country> <type.type.properties> "First level divisions" .
+<Panama> <location.location.partially_contains> "Cerro Kamuk" .
+<m.0nf9l9p> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Chiriquí_Province> <location.location.contains> "Bugaba District" .
+<Panama> <organization.organization_member.member_of> "m.05kyqvp" .
+<Penonomé_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kwt" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4qq0s" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4czkz" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3_k_1" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc4j1vb" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4czk7" .
+<m.0nfc899> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8ck" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6h50m" .
+<Herrera_Province> <location.location.contains> "Ocú District" .
+<Panama> <organization.organization_founder.organizations_founded> "United Nations" .
+<Ocú_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <base.aareas.schema.administrative_area.administrative_children> "Bocas del Toro Province" .
+<San_Lorenzo_District,_Panama> <location.location.containedby> "Chiriquí Province" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc39g9y" .
+<Ipetí> <common.topic.article> "m.03qnqtv" .
+<President_of_Panama> <government.government_office_or_title.jurisdiction> "Panama" .
+<Panama> <location.country.second_level_divisions> "Pedasí" .
+<Fourth_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4n745" .
+<Panama> <location.statistical_region.net_migration> "g.1s05xj659" .
+<Renacimiento_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3g2yn" .
+<Tolé_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc431wt" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf5290" .
+<Panama> <base.ontologies.ontology_instance.equivalent_instances> "m.07nfh2f" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3_82_" .
+<Americas> <location.location.contains> "Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7l_t" .
+<Darién_Province> <location.location.contains> "Pinogana District" .
+<m.0nf9l64> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Chame_District> <location.location.containedby> "Panamá Province" .
+<Panama> <location.country.second_level_divisions> "Cañazas District" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4j1qm" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc48_z5" .
+<Pinogana_District> <location.location.containedby> "Darién Province" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3x7xm" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf527q" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52dv" .
+<Capira_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.1245zzj95" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4kwcw" .
+<North_America> <location.location.containedby> "Americas" .
+<Bocas_del_Toro_Province> <location.administrative_division.country> "Panama" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52c7" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3cl94" .
+<m.0kj_dpb> <olympics.olympic_athlete_affiliation.country> "Panama" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc42f3x" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4l4hd" .
+<Panamá_Province> <location.location.contains> "Panama City" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_3f" .
+<Aguadulce_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.124618c95" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc4nfsx" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4x6fk" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.12460f5xl" .
+<m.0wrkqyz> <location.partial_containment_relationship.partially_contains> "Sixaola River" .
+<Las_Palmas_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_d2mw" .
+<Government_Office_or_Title> <type.type.expected_by> "Office, Position, or Title" .
+<m.05989m6> <organization.organization_membership.member> "Panama" .
+<Panama> <government.governmental_jurisdiction.agencies> "g.120l31d2" .
+<Central_National_de_Trabajadores_de_Panama> <organization.organization.geographic_scope> "Panama" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf526v" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf528t" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc390s5" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245zcmpl" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc3n9qq" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc47nwq" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc38hj7" .
+<Panama> <location.location.geolocation> "m.046vy71" .
+<Barú_District,_Chiriquí> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.child_labor_percent> "g.1hhc3kwzd" .
+<Donoso_District> <location.location.containedby> "Colón Province" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3d37p" .
+<Colón_Province> <location.location.contains> "Santa Isabel District" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.level> "Sovereign state" .
+<Panamanian_district> <base.aareas.schema.administrative_area_type.sovereignty> "Panama" .
+<Los_Pozos_District> <location.location.containedby> "Herrera Province" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5zzk" .
+<Los_Santos_Province> <base.aareas.schema.administrative_area.administrative_area_type> "Panamanian province" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3_419" .
+<Aguadulce_District> <location.location.containedby> "Coclé Province" .
+<Kuna_de_Wargandí> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4q8lz" .
+<m.09ys2cm> <common.webpage.topic> "Panama" .
+<Panama> <location.statistical_region.consumer_price_index> "g.11b60rwzbx" .
+<Government_Office_or_Title> <type.type.expected_by> "Office, position, or title" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3bvl6" .
+<Chepigana_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3j9l2" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.010g6g92" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc41kx9" .
+<Chepo_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52h2" .
+<Broad_Front_for_Democracy> <organization.organization.geographic_scope> "Panama" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kz6" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4f8kc" .
+<Panama> <sports.sport_country.athletic_performances> "m.0b64vqd" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc50x6z" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc530zr" .
+<Panamá_Province> <location.location.contains> "San Carlos District, Panama" .
+<Americas> <location.location.contains> "Latin America" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3lm8x" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.1245zgfhg" .
+<m.010g6vfx> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1246017kp" .
+<m.0b64vqd> <sports.competitor_competition_relationship.country> "Panama" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4zv0q" .
+<Panama> <common.topic.notable_for> "g.12571n97z" .
+<Panama> <location.statistical_region.net_migration> "g.1q5jkyql2" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7ly9" .
+<Dated_location> <freebase.type_profile.published> "Published" .
+<Kuna_de_Madugandí> <location.administrative_division.second_level_division_of> "Panama" .
+<Cerro_Echandi> <location.location.containedby> "North America" .
+<Panamá_District> <location.location.contains> "Panama City" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "g.124606_pw" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4n7d8" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc4j1j0" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.124618kbc" .
+<Pedasí> <location.administrative_division.second_level_division_of> "Panama" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.12460yw97" .
+<San_Félix_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfbb1z" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc41l3c" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l74" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc89t" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_w5ct" .
+<Penonomé_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc403xm" .
+<United_States_invasion_of_Panama> <time.event.locations> "Panama City" .
+<Administrative_Divisions> <type.property.expected_type> "Administrative Division" .
+<Panama> <location.country.second_level_divisions> "Santa Isabel District" .
+<Panama> <location.statistical_region.diesel_price_liter> "g.12cp_jcgt" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1q5k0x51b" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc3l9fq" .
+<Vice_President_of_Panama> <government.government_office_or_title.office_holders> "m.010ghdfm" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245zpms0" .
+<Panama> <location.country.administrative_divisions> "Panamá Province" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4_7h2" .
+<Panama> <location.statistical_region.net_migration> "g.1q5jt47t7" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3s6lb" .
+<Icantí> <location.statistical_region.population> "m.04z5nzt" .
+<Panama> <location.location.events> "Battle of Porto Bello" .
+<Ipetí> <location.location.geolocation> "m.0d4s8gp" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zcfqm" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc37pjc" .
+<Communist_Party_(Marxist–Leninist)_of_Panama> <organization.organization.geographic_scope> "Panama" .
+<Second_level_division_of> <type.property.schema> "Administrative Division" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3wdpc" .
+<Panama> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3vhl2" .
+<Administrative_Division> <freebase.type_profile.equivalent_topic> "Administrative division" .
+<Herrera_Province> <location.administrative_division.first_level_division_of> "Panama" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kx7" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.124606_qt" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4116m" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4w0y_" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l64" .
+<The_Path_between_the_Seas:_The_Creation_of_the_Panama_Canal,_1870-1914> <book.written_work.subjects> "Latin America" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3w9qp" .
+<m.059wbj3> <organization.organization_membership.member> "Panama" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf527h" .
+<m.06gcn27> <rdf-schema#range> "Administrative Division" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_4_my" .
+<Panama> <location.country.second_level_divisions> "Olá District" .
+<Panamanian_district> <base.aareas.schema.administrative_area_type.subdivides_type> "Panamanian comarca" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_tlzl" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3szlq" .
+<Comarca_Emberá-Wounaan> <location.administrative_division.first_level_division_of> "Panama" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfbb3h" .
+<m.09ysfx7> <common.webpage.topic> "Panama" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245z508m" .
+<Panama> <location.statistical_region.net_migration> "g.1s061n0sz" .
+<m.0nfc8f4> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4_43m" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1246105cx" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5zx5" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3t8p7" .
+<President_of_Panama> <government.government_office_or_title.office_holders> "m.010gg02t" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.1245zv4sd" .
+<Portobelo_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52d4" .
+<Veraguas_Province> <common.topic.notable_types> "Administrative Division" .
+<Panama> <base.aareas.schema.administrative_area.administrative_children> "Darién Province" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4t14x" .
+<Panama> <government.governmental_jurisdiction.governing_officials> "m.0j5zb6g" .
+<Panama> <olympics.olympic_participating_country.medals_won> "m.07nnstp" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.124614y1n" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zdytd" .
+<Panama> <location.country.second_level_divisions> "Atalaya District" .
+<m.0nf9lbp> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4g9bl" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kxp" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.11b71s4n9f" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6fzyy" .
+<Coclé_Province> <location.location.contains> "Natá District" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1s066wz7_" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf5284" .
+<Panama> <location.country.second_level_divisions> "Chimán District" .
+<Kuna_de_Madugandí> <common.topic.article> "m.0358j1" .
+<First_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Central National de Trabajadores de Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245zy5ww" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "National Liberal Party" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc3f_j8" .
+<Panama> <location.country.second_level_divisions> "Arraiján District" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_3vpj" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_67lc" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc403hq" .
+<m.010vpjcf> <government.government_position_held.office_position_or_title> "Vice President of Panama" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc50pk1" .
+<Panama> <base.locations.countries.continent> "North America" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3h6_z" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4bxyy" .
+<Darién_Province> <common.topic.notable_types> "Administrative Division" .
+<2015_CONCACAF_U-17_Championship_qualifying> <time.event.locations> "Panama" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7ls7" .
+<University_of_Panama> <location.location.containedby> "Panamá Province" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6h50k" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4qpyc" .
+<Panama_City> <location.location.containedby> "Panamá District" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4zjbn" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l5n" .
+<Mariato_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.124608jxc" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc46qv1" .
+<Panama> <location.country.second_level_divisions> "Santa Fé District" .
+<Chiriquí_Province> <base.aareas.schema.administrative_area.administrative_area_type> "Panamanian province" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1246010tf" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc5299b" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6g4pb" .
+<m.0j5zb6g> <government.government_position_held.office_position_or_title> "President of Panama" .
+<Administrative_Division> <type.type.expected_by> "m.06gcn27" .
+<Panama> <location.country.first_level_divisions> "Guna Yala" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3czt2" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc4mcnd" .
+<Panama> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3xc9f" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52dl" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7l_4" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.124600vc5" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3g5_b" .
+<Guararé_District> <location.location.containedby> "Los Santos Province" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9lcy" .
+<Panama> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4f85h" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3yvb5" .
+<Chame_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama_City> <location.location.contains> "University of Panama" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_gq" .
+<Panama> <location.country.languages_spoken> "Spanish Language" .
+<Coclé_Province> <location.location.contains> "Olá District" .
+<Panamanian_comarca> <freebase.type_hints.included_types> "Topic" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc890" .
+<General_Confederation_of_Workers_of_Panama> <organization.organization.geographic_scope> "Panama" .
+<First_level_division_of> <type.property.schema> "Administrative Division" .
+<m.0j5zb6g> <government.government_position_held.office_holder> "Ricardo Martinelli" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Panama> <common.topic.image> "PANAM1" .
+<Panama> <book.book_subject.works> "South American Fights and Fighters" .
+<Veraguas_Province> <location.administrative_division.country> "Panama" .
+<Government_Office_or_Title> <type.type.expected_by> "Office, Position, or Title" .
+<Chepo_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8ky_" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9lc5" .
+<Arraiján_District> <location.location.containedby> "Panamá Province" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3hg67" .
+<m.0nf9l6d> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.country.national_anthem> "m.0h_1hc7" .
+<m.0nf9ld5> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Workers Party (Marxist–Leninist)" .
+<Colón_Province> <location.administrative_division.first_level_division_of> "Panama" .
+<Chiriquí_Province> <location.location.contains> "Barú District, Chiriquí" .
+<The_Path_between_the_Seas:_The_Creation_of_the_Panama_Canal,_1870-1914> <book.written_work.subjects> "Panama" .
+<San_Francisco_District,_Panama> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lsg" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245z_w44" .
+<City/Town/Village> <freebase.type_hints.included_types> "Statistical region" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "People's Party of Panama" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc45_y8" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc3srky" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3h37_" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lyj" .
+<Panamá_Province> <location.location.containedby> "Panama" .
+<Second_level_division_of> <rdf-schema#range> "Country" .
+<Chiriquí_Province> <location.administrative_division.country> "Panama" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245z17sb" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc530_v" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_0m" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4r32m" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "SUNTRACS" .
+<Nationalist_Republican_Liberal_Movement> <organization.organization.geographic_scope> "Panama" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc53_m3" .
+<Vice_President_of_Panama> <government.government_office_or_title.office_holders> "m.010vpjcf" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc37pjb" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Macaracas_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <common.topic.article> "m.05qxc" .
+<m.010vpjcf> <freebase.valuenotation.has_no_value> "To" .
+<Location_of_Kuna_de_Madugandí_in_Panama> <common.image.appears_in_topic_gallery> "Kuna de Madugandí" .
+<Las_Minas_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.country.currency_used> "United States Dollar" .
+<Panama> <location.location.containedby> "Latin America" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6dcb2wp" .
+<Arraiján_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4h4nl" .
+<Panama> <location.statistical_region.literacy_rate> "g.1hhc3f1jk" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245_2j2f" .
+<Chagres_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_87" .
+<Cerro_Kamuk> <location.location.partially_contained_by> "m.0wzbrlm" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.12460fdp7" .
+<Panama> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc534cp" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Santa_Clara,_Panamá_Oeste> <common.topic.notable_types> "City/Town/Village" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc8bt" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc4890l" .
+<Chepo_District> <location.location.containedby> "Panamá Province" .
+<m.0nfc8c1> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Dated_location> <type.type.domain> "Location" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9ld5" .
+<m.0nf9l7d> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Bocas_del_Toro_Province> <location.administrative_division.first_level_division_of> "Panama" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245zbnsm" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3j9m3" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4nftf" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lv0" .
+<Panama> <location.country.administrative_divisions> "Bocas del Toro Province" .
+<Panama> <location.statistical_region.size_of_armed_forces> "g.1hhc3vp_7" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52cy" .
+<Panama> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3w6pn" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245zs_l4" .
+<Santa_Clara,_Panamá_Oeste> <location.location.containedby> "Panamá Province" .
+<Panama> <location.country.second_level_divisions> "Santiago District, Veraguas" .
+<m.0wrkqyz> <location.partial_containment_relationship.partially_contained_by> "Panama" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc3g5_4" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8k_2" .
+<Administrative_Divisions> <type.property.master_property> "Country" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245_6nfv" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Abstract" .
+<Darién_Province> <location.location.contains> "Bayano Lake" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc499gq" .
+<Cañazas_District> <location.administrative_division.second_level_division_of> "Panama" .
+<m.0wzbrlm> <location.partial_containment_relationship.partially_contains> "Cerro Kamuk" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Abstract" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52f8" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc4jpt4" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245ysqxh" .
+<Panama> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc4spwc" .
+<m.0kd57qc> <olympics.olympic_athlete_affiliation.country> "Panama" .
+<Panama> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4qxm3" .
+<Colón_Province> <base.aareas.schema.administrative_area.administrative_parent> "Panama" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3vxtt" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3kbyf" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3xpjw" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4zyj_" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245zs_lh" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc49nbr" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l84" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8kxg" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.1q5jh4_8z" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lzy" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc4qxkr" .
+<Bocas_del_Toro_Province> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.internet_users_percent_population> "m.0nf8ky3" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc37x7q" .
+<Los_Santos_Province> <location.administrative_division.country> "Panama" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3gt5z" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4_k6t" .
+<President_of_Panama> <common.topic.notable_types> "Government Office or Title" .
+<Panama> <location.statistical_region.energy_use_per_capita> "g.1245z1v49" .
+<Panama> <location.statistical_region.time_required_to_start_a_business> "g.1hhc53gsh" .
+<Administrative_Division> <type.type.properties> "Second level division of" .
+<Panama> <location.statistical_region.external_debt_stock> "g.1hhc3kg6f" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4xn1s" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc46hvj" .
+<Panamá_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1s05zsvv6" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lsp" .
+<Panama> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc45tmw" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_17" .
+<Herrera_Province> <location.location.contains> "Los Pozos District" .
+<Coclé_Province> <base.aareas.schema.administrative_area.administrative_area_type> "Panamanian province" .
+<Country> <freebase.type_hints.included_types> "Location" .
+<Panama> <location.statistical_region.deposit_interest_rate> "g.1hhc4f808" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4dtd9" .
+<Panama> <location.statistical_region.part_time_employment_percent> "g.1hhc52mtd" .
+<Coclé_Province> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_f9" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4d8tw" .
+<Panama> <location.statistical_region.long_term_unemployment_rate> "g.1hhc44f9y" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4czp3" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.12460593k" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc49f2m" .
+<Chiriquí_Province> <base.aareas.schema.administrative_area.administrative_parent> "Panama" .
+<Panama> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4j8xk" .
+<Colón_Province> <base.aareas.schema.administrative_area.administrative_area_type> "Panamanian province" .
+<Panama> <location.country.second_level_divisions> "Montijo District" .
+<Veraguas_Province> <location.location.contains> "La Mesa District" .
+<Ipetí> <location.statistical_region.population> "m.04z5nzn" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6fdwr" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf52gm" .
+<m.010gg02t> <government.government_position_held.jurisdiction_of_office> "Panama" .
+<Darién_Province> <location.administrative_division.country> "Panama" .
+<Colón_Province> <location.location.contains> "Chagres District" .
+<m.0nf9l9y> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.0nf9l4m> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.12tb6g_l8" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc48hxz" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lvx" .
+<Panama> <base.aareas.schema.administrative_area.subdividing_place> "Panama Canal Zone" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.1245zt76x" .
+<m.0nf9lb5> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.0nf9l43> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1s06r9r6w" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4f8fg" .
+<David_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "m.0nfc880" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc37h7z" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Country> <type.type.properties> "Third level divisions" .
+<Colón_District,_Panama> <location.location.containedby> "Colón Province" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3t8s0" .
+<Panama> <location.statistical_region.renewable_freshwater_per_capita> "g.11b6n_3gs7" .
+<Herrera_Province> <location.administrative_division.country> "Panama" .
+<Panama> <base.aareas.schema.administrative_area.administrative_children> "Veraguas Province" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4wpj8" .
+<Cerro_Kamuk> <location.location.containedby> "North America" .
+<International_Brotherhood_of_Electrical_Workers> <organization.organization.geographic_scope> "Panama" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc4bplc" .
+<m.0nfc8fw> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Country> <freebase.type_profile.strict_included_types> "Location" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4r9hv" .
+<Country> <freebase.type_hints.included_types> "Statistical region" .
+<Country> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4g9dc" .
+<Panama> <location.statistical_region.gni_in_ppp_dollars> "g.1245zs7vk" .
+<Panamanian_province> <base.aareas.schema.administrative_area_type.pertains_to> "Panama" .
+<Panama> <location.statistical_region.consumer_price_index> "g.1hhc53pjl" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc508cb" .
+<Santa_Isabel_District> <common.topic.notable_types> "Administrative Division" .
+<Coclé_Province> <location.location.contains> "La Pintada District" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3lm6f" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3lm3z" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245yxj4h" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Broad Front for Democracy" .
+<Panama> <location.location.partiallycontains> "m.0wzbrlm" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "g.1245zxfcq" .
+<Chiriquí_Province> <location.location.contains> "David District" .
+<Renacimiento_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5zz_" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3g61b" .
+<m.0nf9l6n> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<President_of_Panama> <government.government_office_or_title.office_holders> "m.0j5zb6g" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245ywr6x" .
+<Tonosí_District> <location.administrative_division.second_level_division_of> "Panama" .
+<Panama> <base.aareas.schema.administrative_area.administrative_children> "Chiriquí Province" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7m01" .
+<Panama> <location.statistical_region.co2_emissions_per_capita> "m.0nf7lrl" .
+<Antón_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc47p52" .
+<Panama> <base.aareas.schema.administrative_area.administrative_children> "Guna Yala" .
+<Panama> <location.statistical_region.gdp_nominal_per_capita> "g.12tb6g_c7" .
+<Colón_Province> <location.location.contains> "Portobelo District" .
+<Panama> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3ts8d" .
+<Panama> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc51_dn" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.124613swc" .
+<Panama> <olympics.olympic_participating_country.athletes> "m.0gl6kkh" .
+<First_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Panama> <organization.organization_scope.organizations_with_this_scope> "Convergencia Sindical" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "g.12460pqqd" .
+<Panama> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9l5c" .
+<David_District> <location.location.containedby> "Chiriquí Province" .
+<Panama> <location.statistical_region.labor_participation_rate> "g.1hhc4cbp8" .
+<Panama> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.12cp_jhdr" .
+<Los_Santos_Province> <base.aareas.schema.administrative_area.administrative_parent> "Panama" .
+<m.0nfc8c9> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Third_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245zqykd" .
+<Panama> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3d69s" .
+<Soná_District> <common.topic.notable_types> "Administrative Division" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Topic" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4_s7j" .
+<Ricardo_Martinelli> <people.person.place_of_birth> "Panama City" .
+<Panama> <location.statistical_region.diesel_price_liter> "g.1hhc388jf" .
+<Panama> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6ft05" .
+<Panama> <location.statistical_region.diesel_price_liter> "g.12cp_kghp" .
+<m.0nf9l74> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc4jtf3" .
+<Panamá_Province> <location.location.geolocation> "m.0wmwnpw" .
+<m.010g6g5x> <government.government_position_held.basic_title> "President" .
+<Panama> <location.location.adjoin_s> "m.03vnvbw" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "m.0nf528l" .
+<Administrative_Division> <type.type.properties> "First level division of" .
+<First_level_divisions> <type.property.schema> "Country" .
+<Panama> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4h4r8" .
+<Panama> <location.statistical_region.internet_users_percent_population> "g.1245_m66n" .
+<Panama> <location.statistical_region.electricity_consumption_per_capita> "g.1245_55xz" .
+<Panama> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zfx2l" .
+<Panama> <location.country.administrative_divisions> "Darién Province" .
+<Arraiján_District> <common.topic.notable_types> "Administrative Division" .
+<Panama> <location.statistical_region.energy_use_per_capita> "m.0nf5_gb" .
+<La_Pintada_District> <common.topic.notable_types> "Administrative Division" .
+<North_America> <base.locations.continents.planet> "Earth" .
+<Democratic_Change> <organization.organization.geographic_scope> "Panama" .
+<Panama> <location.country.second_level_divisions> "San Miguelito" .
+<Panama> <location.country.internet_tld> "pa" .
+<San_Carlos_District,_Panama> <location.location.containedby> "Panamá Province" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc3bmy5" .
+<Los_Santos_Province> <location.location.contains> "Pocrí District" .
+<Panama> <location.statistical_region.official_development_assistance> "g.1hhc3h33r" .
+<m.0nfc888> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<National_Assembly> <government.governmental_body.jurisdiction> "Panama" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<Panama> <location.statistical_region.cpi_inflation_rate> "g.1hhc4p4vc" .
+<Chagres_District> <location.administrative_division.second_level_division_of> "Panama" .

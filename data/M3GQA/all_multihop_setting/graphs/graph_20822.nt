@@ -1,0 +1,2530 @@
+<WALLY'S_CORE_VALUES_#1-5_(yndotStreet_comedy)> <base.webvideo.internet_video.genre> "Comedy" .
+<King_of_Norway> <freebase.valuenotation.is_reviewed> "Languages" .
+<Brian_Thompson> <film.actor.film> "m.0vxmvpb" .
+<Fictional_Character> <type.type.expected_by> "name (if a fictional character)" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Wotch" .
+<Television_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Sequel> <rdf-schema#range> "Film" .
+<Fictional_Character> <type.type.expected_by> "Characters of This Rank" .
+<Brian_Thompson> <film.actor.film> "m.0468l7r" .
+<Shari_Braun> <freebase.valuenotation.has_value> "Place of birth" .
+<Kevin_Sorbo> <people.person.profession> "Actor" .
+<Brian_Thompson> <common.topic.notable_for> "g.1258mqfcj" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.04dc9x2" .
+<Inazuma_Eleven> <comic_books.comic_book_series.genre> "Comedy" .
+<Film_Editor> <freebase.equivalent_topic.equivalent_type> "Film editor" .
+<Vote_Wally_Panther!_CORE_VALUES_#3:_Helping_People_Isn't_Right_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.subject> "Comedy" .
+<Fictional_Character> <type.type.expected_by> "Characters" .
+<Lee_Tosca> <film.film_production_designer.films_production_designed> "Somewhere Slow" .
+<Comedy> <media_common.media_genre.child_genres> "Farce" .
+<Obstructive_sleep_apnea> <medicine.disease.risk_factors> "Male" .
+<m.0h4vrz1> <common.webpage.topic> "Reinhart 'Rayteam' Peschke" .
+<Gout> <medicine.icd_9_cm_classification.parent_classification> "Gout" .
+<Ankylosing_spondylitis> <medicine.disease_cause.diseases> "Kyphosis" .
+<Michelle_Metzner> <film.film_casting_director.films_casting_directed> "The Extendables" .
+<Fictional_Character> <type.type.expected_by> "Children" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Mafia_comedy> <common.topic.notable_types> "Film genre" .
+<Kidney_Stone> <medicine.disease.causes> "Gout" .
+<Hirschsprung's_disease> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<Film> <type.property.master_property> "Release date(s)" .
+<Release_date(s)> <type.property.reverse_property> "Film" .
+<Reinhart_'Rayteam'_Peschke> <people.person.education> "m.0h4vr_d" .
+<Film> <type.type.expected_by> "Films In Series" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Questionable Content" .
+<Stand-up_comedy> <book.book_subject.works> "Comedy at the Edge: How Stand-up in the 1970s Changed America" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<Film> <type.type.expected_by> "New Prop" .
+<English_Language> <language.human_language.main_country> "New Zealand" .
+<Oregon> <location.location.containedby> "United States of America" .
+<Film> <type.type.expected_by> "Films" .
+<Inguinal_hernia> <medicine.disease.risk_factors> "Male" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0dks4_p" .
+<Fictional_Character> <type.type.expected_by> "Characters" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "No Money" .
+<m.0l2q9xr> <tv.regular_tv_appearance.actor> "Brian Thompson" .
+<Education> <type.property.schema> "Fictional Character" .
+<Refuge_from_the_Storm> <film.film.language> "English Language" .
+<Soundtrack> <owl#inverseOf> "Film" .
+<Film> <type.type.properties> "Art direction by" .
+<Jeff_Ross> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<m.0bw14s2> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Vote_Wally_Panther!_CORE_VALUES_#3:_Helping_People_Isn't_Right_(yndotStreet_comedy)> <base.webvideo.internet_video.genre> "Comedy" .
+<Patrick_Warburton> <people.person.languages> "English Language" .
+<Film> <type.property.master_property> "Other crew" .
+<Schlock_Mercenary> <comic_strips.comic_strip.genre> "Comedy" .
+<WALLY'S_CORE_VALUES_#1-5_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.season> "Vote Wally Panther" .
+<Executive_produced_by> <rdf-schema#range> "Film producer" .
+<Set_Decoration_by> <type.property.reverse_property> "Film sets designed" .
+<Side_Street_Story> <film.film.genre> "Comedy" .
+<Fictional_Character> <type.type.properties> "Education" .
+<m.0hcb8dd> <film.performance.actor> "Craig Kilborn" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0hpkg_y" .
+<m.0r9pf5y> <education.education.major_field_of_study> "Comedy" .
+<The_Shaggy_D.A.> <film.film.country> "United States of America" .
+<m.0bvv1c1> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Totally_Sketch> <internet.website.category> "Comedy" .
+<Reinhart_'Rayteam'_Peschke> <film.cinematographer.film> "Mud Dog Blues" .
+<Stuttering> <medicine.disease.risk_factors> "Male" .
+<RiffTrax> <tv.tv_program.genre> "Comedy" .
+<Film_writing_credits> <type.property.expected_type> "Film" .
+<Costume_Design_for_Film> <type.property.master_property> "Costume design by" .
+<King_of_Norway> <freebase.valuenotation.has_no_value> "Prequel" .
+<Kilborn> <film.film_character.portrayed_in_films> "m.0hcb8dd" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<An_American_Werewolf_in_Paris> <film.film.subjects> "Shapeshifting" .
+<Lorielle_New> <people.person.gender> "Female" .
+<Film> <type.property.expected_type> "Film" .
+<Fictional_Character> <base.descriptive_names.names.descriptive_name> "m.0_zdyt9" .
+<Nangoku_Shonen_Papuwa-kun> <comic_books.comic_book_series.genre> "Comedy" .
+<Lorielle_New> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Journey_from_the_Heart> <film.film.country> "United States of America" .
+<m.0h720ss> <film.performance.actor> "Bruce Locke" .
+<Shadow_Figure> <fictional_universe.fictional_character.place_of_birth> "Male" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Entertainment> <organization.organization_sector.organizations_in_this_sector> "The N Crowd" .
+<After_Freedom> <media_common.netflix_title.netflix_genres> "Drama" .
+<Chibi_Devi!> <comic_books.comic_book_series.genre> "Comedy" .
+<Blood_Bound> <book.written_work.previous_in_series> "Moon Called" .
+<Drama> <media_common.media_genre.parent_genre> "Entertainment" .
+<Fictional_Character> <type.type.properties> "Based On" .
+<Shock_Asylum> <film.film.language> "English Language" .
+<m.0ggqg8x> <tv.tv_guest_role.actor> "Bruce Locke" .
+<Production_companies> <rdf-schema#domain> "Film" .
+<Film_festivals> <type.property.schema> "Film" .
+<films> <rdf-schema#range> "Film" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvy2h2" .
+<Sequel> <type.property.expected_type> "Film" .
+<Dennis_the_Menace> <comic_strips.comic_strip.genre> "Comedy" .
+<Film> <type.type.expected_by> "Film" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "BONUS Wally Panther! A Dark And Stormy Night (yndotStreet comedy)" .
+<Frank_Welker> <freebase.valuenotation.has_value> "Parents" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bw41b7" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<m.09wyqc_> <award.award_nomination.award_nominee> "Brian Thompson" .
+<Prequel> <type.property.delegated> "Prequel" .
+<Drama> <common.topic.subject_of> "Albrecht Behmel" .
+<The_Extendables> <film.film.starring> "m.0hcb7bj" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<m.0ggpgsl> <tv.tv_guest_role.actor> "Bruce Locke" .
+<Jeff_Ross> <people.person.profession> "Film Producer" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<The_Shaggy_D.A.> <common.topic.notable_types> "Film" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<Brian_Thompson> <people.person.education> "m.0_lblc1" .
+<English_Language> <language.human_language.countries_spoken_in> "Republic of Ireland" .
+<Story_by> <type.property.reverse_property> "Film Story Credits" .
+<Genres> <owl#inverseOf> "Films of this genre" .
+<Costume_Design_for_Film> <rdf-schema#range> "Film" .
+<Film_genre> <freebase.type_profile.published> "Published" .
+<Comedy> <base.schemastaging.context_name.pronunciation> "m.013163dx" .
+<Shapeshifting> <book.book_subject.works> "Magic Burns" .
+<Fictional_Character> <type.type.properties> "Height" .
+<Female> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Hair_loss> <medicine.symptom.symptom_of> "Syphilis" .
+<Viral_Spiral> <internet.website.category> "Entertainment" .
+<Blood_Bound> <book.written_work.subjects> "Shapeshifting" .
+<Film> <type.type.properties> "Soundtrack" .
+<Film_genre> <type.type.properties> "Films of this genre" .
+<Film_cinematographer> <type.type.domain> "Film" .
+<Making_Fiends> <internet.website.category> "Comedy" .
+<Dubbing_performances> <rdf-schema#domain> "Film" .
+<m.0hcb7zw> <film.performance.character> "Burton" .
+<Lee_Garlington> <freebase.valuenotation.has_value> "Parents" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0gmk6p7" .
+<Shapeshifting> <book.book_subject.works> "Strange Brew" .
+<Kyphosis> <medicine.disease.causes> "Ankylosing spondylitis" .
+<Shapeshifting> <film.film_subject.films> "Teen Wolf 3: The Return of the Wolf" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<Films_directed> <rdf-schema#range> "Film" .
+<Film_editor> <type.type.expected_by> "Edited by" .
+<Mark_Dacascos> <freebase.valuenotation.is_reviewed> "Gender" .
+<Film> <type.type.expected_by> "Films casting directed" .
+<Touching_Home> <film.film.language> "English Language" .
+<Gary_Graham> <people.person.profession> "Actor" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvxwlm" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_season.episodes> "Vote Wally Panther! CORE VALUES #3: Helping People Isn't Right (yndotStreet comedy)" .
+<Craig_Kilborn> <film.actor.film> "m.0h5m8_3" .
+<Film> <type.type.expected_by> "Film" .
+<Moon_Called> <book.written_work.next_in_series> "Blood Bound" .
+<Distributors> <type.property.master_property> "Film" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<Bob_Hope:_The_Road_Well-Traveled> <book.written_work.subjects> "Entertainment" .
+<LA_Shorts_Fest_Award_for_Best_Comedy> <award.award_category.disciplines_or_subjects> "Comedy" .
+<Ian_Patrick_Williams> <freebase.valuenotation.has_value> "Place of birth" .
+<Mark_Dacascos> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Fictional_Character> <type.type.expected_by> "Characters with this power or ability" .
+<Ray_Bradbury’s_Kaleidoscope> <film.film.music> "Alan Derian" .
+<m.0pddgt2> <people.marriage.spouse> "Shari Braun" .
+<Ellensburg> <location.location.people_born_here> "Brian Thompson" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<Shapeshifting> <book.book_subject.works> "Blood Bound" .
+<m.03lnlkj> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Film> <owl#inverseOf> "Runtime" .
+<Reinhart_'Rayteam'_Peschke> <freebase.valuenotation.has_value> "Place of birth" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Toronto European Union Film Festival" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Reverie" .
+<Rated> <type.property.schema> "Film" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Call Max Cleveland! (commercial parody)" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Liver_tumour> <medicine.disease.risk_factors> "Male" .
+<Prequel> <type.property.delegated> "Prequel" .
+<Sketch_comedy> <base.webvideo.internet_video_genre.internet_video> "I'm@Work - Please Hold" .
+<Cinematography> <rdf-schema#domain> "Film" .
+<NY_Times_ID> <rdf-schema#domain> "Film" .
+<Film> <type.type.expected_by> "Featured in film" .
+<Music_by> <type.property.expected_type> "Film music contributor" .
+<The_Ongoing_Adventures_of_Rocket_Llama> <comic_strips.comic_strip.genre> "Comedy" .
+<Sequel> <type.property.expected_type> "Film" .
+<International_Comedy_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<Arsène_Lupin_III> <base.animemanga.anime_manga_franchise.genre> "Comedy" .
+<Fandango_ID> <rdf-schema#domain> "Film" .
+<Screenplay_by> <type.property.expected_type> "Film writer" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Demon_Candy:_Parallel> <comic_strips.comic_strip.genre> "Comedy" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Schlock Mercenary" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Wally Panther vs. The Pizza Guy (yndotStreet comedy)" .
+<The_Uncles> <film.film.country> "Canada" .
+<m.0hcb911> <film.performance.film> "The Extendables" .
+<Film> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<Michelle_Metzner> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.09gryk4> <award.award_nomination.award_nominee> "Brian Thompson" .
+<Hypospadias> <medicine.disease.risk_factors> "Male" .
+<Film> <type.type.properties> "Personal appearances" .
+<Brian_Thompson> <people.person.place_of_birth> "Ellensburg" .
+<Awfully_Sweet,_Awfully_Dumb> <base.webvideo.internet_video.country_of_origin> "United States of America" .
+<Films_In_Collection> <type.property.expected_type> "Film" .
+<RiffTrax> <tv.tv_program.country_of_origin> "United States of America" .
+<Bruce_Locke> <film.actor.film> "m.0qg_x46" .
+<Art_direction_by> <type.property.schema> "Film" .
+<Films_of_this_genre> <type.property.schema> "Film genre" .
+<Comedy> <common.topic.image> "Nepali Woman Smiles" .
+<Gary_Graham> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Michelle_Metzner> <freebase.valuenotation.is_reviewed> "Gender" .
+<Shao_Kahn> <fictional_universe.fictional_character.powers_or_abilities> "Shapeshifting" .
+<Myocardial_Ischemia> <medicine.disease.risk_factors> "Male" .
+<Reinhart_'Rayteam'_Peschke> <common.topic.notable_for> "g.1257gmp9p" .
+<Fictional_Character> <type.type.expected_by> "Fictional Characters of Group" .
+<Brian_Thompson> <film.actor.film> "m.0h706_y" .
+<m.0hcb8dd> <film.performance.film> "The Extendables" .
+<Actor> <freebase.equivalent_topic.equivalent_type> "Film actor" .
+<m.09sdtjp> <film.performance.actor> "Brian Thompson" .
+<Brian_Thompson> <film.director.film> "The Extendables" .
+<Lupin_III> <base.animemanga.anime_manga_franchise.genre> "Drama" .
+<Film_cinematographer> <type.type.properties> "Film cinematography credits" .
+<Gary_Graham> <people.person.profession> "Film Producer" .
+<Mortal_Kombat> <film.film.sequel> "Mortal Kombat: Annihilation" .
+<Film_Producer> <freebase.equivalent_topic.equivalent_type> "Film producer" .
+<Aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<m.0cq1p6c> <common.webpage.topic> "Brian Thompson" .
+<Multiple_myeloma> <medicine.disease.risk_factors> "Male" .
+<Music_by> <rdf-schema#domain> "Film" .
+<Fictional_Character> <type.type.properties> "Date of birth" .
+<Education> <rdf-schema#domain> "Fictional Character" .
+<Marisa_Ramirez> <people.person.profession> "Actor" .
+<Ratko:_The_Dictator's_Son> <film.film.genre> "Comedy" .
+<m.0h2wqy5> <film.performance.actor> "Patrick Warburton" .
+<Film> <type.type.expected_by> "Film" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oregon" .
+<Film_festivals> <owl#inverseOf> "Films" .
+<m.0gmk6x_> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Mark_Dacascos> <people.person.gender> "Male" .
+<Fictional_Character> <type.type.expected_by> "Fictional Characters Created" .
+<Films_production_designed> <type.property.expected_type> "Film" .
+<Myocardial_Ischemia> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Corneal_abrasion> <medicine.disease.risk_factors> "Male" .
+<Films_In_Series> <type.property.reverse_property> "Film Series" .
+<Salma_Hayek> <film.film_character.portrayed_in_films> "m.0hcb877" .
+<Screenwriter> <freebase.equivalent_topic.equivalent_type> "Film writer" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Mojacko" .
+<m.03jssjy> <film.performance.actor> "Brian Thompson" .
+<Farce> <media_common.media_genre.child_genres> "Comedy of errors" .
+<The_Extendables> <film.film.starring> "m.0h5m8_3" .
+<Concerned> <comic_strips.comic_strip.genre> "Comedy" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<Comedy> <book.book_subject.works> "Comedy at the Edge: How Stand-up in the 1970s Changed America" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.03lmxh7" .
+<I'm@Work_-_Please_Hold> <base.webvideo.internet_video.genre> "Comedy" .
+<film> <rdf-schema#range> "Film" .
+<Featured_Film> <type.property.expected_type> "Film" .
+<San_Fernando_Valley> <location.location.people_born_here> "Michelle Metzner" .
+<Bruce_Locke> <people.person.profession> "Actor" .
+<Seborrheic_dermatitis> <medicine.disease.symptoms> "Hair loss" .
+<Film> <type.type.expected_by> "Films In Collection" .
+<Romantic_comedy> <common.topic.notable_types> "Film genre" .
+<Shapeshifting> <common.topic.article> "m.01kd3x" .
+<Mud_Dog_Blues> <film.film.country> "United States of America" .
+<Vote_Wally_Panther!_CORE_VALUES_#2:_Don't_Trust_Newspapers_(yndotStreet_comedy)> <base.webvideo.internet_video.genre> "Comedy" .
+<Teen_Wolf> <film.film.subjects> "Shapeshifting" .
+<Lorielle_New> <common.topic.notable_types> "Film actor" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_season.episodes> "Vote Wally Panther! CORE VALUES #4: Government IS The Problem (yndotStreet comedy)" .
+<Fictional_Character> <type.type.properties> "Children" .
+<Brian_Thompson> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<mantlepies.com> <internet.website.category> "Comedy" .
+<Reinhart_'Rayteam'_Peschke> <film.cinematographer.film> "Aquanoids" .
+<Trailers> <type.property.schema> "Film" .
+<Ian_Patrick_Williams> <people.person.profession> "Actor" .
+<Lee_Tosca> <film.film_art_director.films_art_directed> "The Extendables" .
+<Film> <type.type.expected_by> "Film" .
+<Film> <rdf-schema#range> "Film" .
+<Fictional_Character> <type.type.properties> "Medical conditions" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Little Wansa" .
+<Films_In_Series> <owl#inverseOf> "Film Series" .
+<English_Language> <language.human_language.countries_spoken_in> "India" .
+<Comedy> <education.field_of_study.students_majoring> "m.0r9pf5y" .
+<m.0cvcrpn> <film.performance.actor> "Brian Thompson" .
+<m.0hcb911> <film.performance.character> "Prop Guy" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<m.0k74f_> <film.performance.actor> "Brian Thompson" .
+<m.0g05trn> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Comedy> <media_common.media_genre.child_genres> "Action Comedy" .
+<Screenplay_by> <rdf-schema#range> "Film writer" .
+<Film> <owl#inverseOf> "Other film companies" .
+<Film_writer> <freebase.type_profile.strict_included_types> "Topic" .
+<Open_Casket> <film.film.subjects> "Comedy" .
+<Vote_Wally_Panther!_CORE_VALUES_#4:_Government_IS_The_Problem_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.subject> "Comedy" .
+<Netflix_ID> <type.property.schema> "Film" .
+<Film> <type.type.expected_by> "Includes Film" .
+<팔도_가시나이> <common.topic.notable_types> "Film" .
+<m.0h2wqy5> <film.performance.film> "The Extendables" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<Soundtrack> <rdf-schema#domain> "Film" .
+<m.0ggy8kw> <tv.tv_guest_role.actor> "Bruce Locke" .
+<Fictional_Character> <freebase.type_profile.strict_included_types> "Abstract" .
+<Okashina_Okashi_–_Strange_Candy> <comic_strips.comic_strip.genre> "Comedy" .
+<Carl_Ciarfalio> <film.actor.film> "m.0hcb7x0" .
+<Comedy> <book.book_subject.works> "Love, Sex, Death, and the Meaning of Life" .
+<The_Extendables> <film.film.film_art_direction_by> "Lee Tosca" .
+<Featured_Film> <rdf-schema#range> "Film" .
+<m.03jsgmz> <film.performance.film> "Mortal Kombat" .
+<Film> <type.type.expected_by> "Film" .
+<Friars_Club_Comedy_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Notable_filming_locations> <owl#inverseOf> "Featured In Films" .
+<Bert_Thompson> <freebase.valuenotation.has_value> "Place of birth" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Comedia" .
+<Brian_Thompson> <common.topic.webpage> "m.03lnj47" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<Hetalia:_Axis_Powers> <comic_strips.comic_strip.genre> "Comedy" .
+<Moon_Called> <book.written_work.subjects> "Shapeshifting" .
+<Brian_Thompson> <people.person.children> "Daphne Thompson" .
+<Actinic_keratosis> <medicine.disease.risk_factors> "Male" .
+<Bruce_Locke> <freebase.valuenotation.has_value> "Parents" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "The Landlord" .
+<Shari_Braun> <freebase.valuenotation.has_value> "Date of birth" .
+<Film_music_credits> <rdf-schema#domain> "Film music contributor" .
+<Suppressant> <film.film.language> "English Language" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<Woman_Thou_Art_Loosed> <film.film.cinematography> "Reinhart 'Rayteam' Peschke" .
+<Featured_in_film> <type.property.expected_type> "Film" .
+<Fictional_Character> <type.type.expected_by> "Spouses" .
+<Nepali_Woman_Smiles> <common.image.appears_in_topic_gallery> "Comedy" .
+<Film> <type.type.expected_by> "Films Produced" .
+<Other_crew> <owl#inverseOf> "Film" .
+<Trailer_Addict_ID> <rdf-schema#domain> "Film" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Narbonic" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Monte Carlo Film Festival" .
+<Hikaru_no_Go> <base.animemanga.anime_manga_franchise.genre> "Drama" .
+<Woman_Thou_Art_Loosed> <film.film.genre> "Drama" .
+<Michelle_Metzner> <common.topic.notable_for> "g.125dm802l" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvxk1n" .
+<India> <location.country.languages_spoken> "English Language" .
+<Comedy> <book.book_subject.works> "Dave Barry is from Mars and Venus" .
+<Film> <type.type.properties> "Metacritic film ID" .
+<Bruce_Locke> <people.person.gender> "Male" .
+<Pre-production> <rdf-schema#domain> "Film" .
+<Film> <rdf-schema#range> "Film" .
+<Bruce_Locke> <common.topic.notable_for> "g.1259gdn5p" .
+<Production_design_by> <type.property.reverse_property> "Films production designed" .
+<Woman_Thou_Art_Loosed> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Featured_In_Films> <rdf-schema#range> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Zap!" .
+<Film> <type.domain.types> "Film" .
+<Dubbing_performances> <type.property.schema> "Film" .
+<m.0hcb9hx> <film.film_crew_gig.film> "The Extendables" .
+<Albrecht_Behmel> <people.person.languages> "English Language" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Sazae-san" .
+<Casting_director> <owl#inverseOf> "Films casting directed" .
+<Bruce_Locke> <people.person.profession> "Voice Actor" .
+<Sherwood_Jones> <common.topic.article> "m.0hcb6rk" .
+<Light_Years> <freebase.valuenotation.is_reviewed> "Casting director" .
+<Comedy> <internet.website_category.sites> "Making Fiends" .
+<Film_producer> <freebase.type_profile.strict_included_types> "Topic" .
+<The_Columbia_Comedy_Shorts> <book.written_work.subjects> "United States of America" .
+<m.0hcb7gf> <film.performance.character> "Maria" .
+<An_American_Werewolf_in_Paris> <film.film.country> "United Kingdom" .
+<The_Challenge> <film.film.edited_by> "Sherwood Jones" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<Film> <type.type.expected_by> "Sequel" .
+<Romantic_comedy> <base.animemanga.anime_manga_genre.anime_manga_franchises> "IS" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.04yx3zq" .
+<Fictional_Character> <type.type.properties> "Places lived" .
+<Prequel> <type.property.delegated> "Prequel" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "WataMote" .
+<Footage_appears_in> <type.property.expected_type> "Film" .
+<Film_editor> <type.type.domain> "Film" .
+<Film> <type.type.properties> "Songs" .
+<Shari_Braun> <common.topic.notable_for> "g.126tcd588" .
+<Film> <rdf-schema#range> "Film" .
+<Performances> <type.property.schema> "Film" .
+<Drama> <base.animemanga.anime_manga_genre.anime_manga_franchises> "Lupin III" .
+<Shari_Braun> <common.topic.notable_types> "Film producer" .
+<Syphilis> <medicine.disease.symptoms> "Hair loss" .
+<Appears_in_film> <rdf-schema#range> "Film" .
+<Fictional_Character> <type.type.expected_by> "Characters who use watch" .
+<Comedy> <media_common.media_genre.child_genres> "Comedy of errors" .
+<Film> <rdf-schema#range> "Film" .
+<Homestuck> <comic_strips.comic_strip.genre> "Comedy" .
+<Brian_Thompson> <film.actor.film> "m.0cvc_69" .
+<Peter_Bayer> <people.person.nationality> "India" .
+<Prequel> <type.property.expected_type> "Film" .
+<Release_date(s)> <rdf-schema#domain> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "It's Walky!" .
+<Production_design_by> <rdf-schema#range> "Film production designer" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "Philadelphia QFest Audience Award for Best Feature Comedy" .
+<Republic_of_Ireland> <location.country.languages_spoken> "English Language" .
+<m.0112_s_r> <film.performance.actor> "Brian Thompson" .
+<Costume_design_by> <type.property.schema> "Film" .
+<The_Extendables> <common.topic.notable_for> "g.1255960fq" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bw15x7" .
+<Sketch_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Film> <type.type.properties> "Produced by" .
+<Adventure_Kid> <comic_books.comic_book_series.genre> "Comedy" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Female" .
+<Comedy> <book.book_subject.works> "The Haunted Smile: The Story of Jewish Comedians in America" .
+<Second-Hand_NY> <media_common.media_genre.parent_genre> "Comedy" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bw1xxz" .
+<Oregon> <base.biblioness.bibs_location.country> "United States of America" .
+<Brian_Thompson> <award.award_nominee.award_nominations> "m.09wyqc_" .
+<Films_About_This_Topic> <rdf-schema#range> "Film" .
+<The_Power_of_Few> <film.film.genre> "Drama" .
+<Film> <type.type.properties> "Notable filming locations" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "FishTanked" .
+<Film> <type.property.expected_type> "Film" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<The_Haunted_Smile:_The_Story_of_Jewish_Comedians_in_America> <book.written_work.subjects> "Comedy" .
+<Fictional_Character> <type.type.expected_by> "Characters that have lived here" .
+<Hidamari_Sketch> <comic_strips.comic_strip.genre> "Comedy" .
+<Metacritic_film_ID> <type.property.schema> "Film" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Non_Sequitur> <comic_strips.comic_strip.genre> "Comedy" .
+<Film_actor> <freebase.type_profile.published> "Published" .
+<Teen_Wolf_3:_The_Return_of_the_Wolf> <film.film.subjects> "Shapeshifting" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<Film> <type.property.master_property> "Songs" .
+<Film> <rdf-schema#range> "Film" .
+<Films_art_directed> <type.property.master_property> "Art direction by" .
+<The_Surface> <film.film.edited_by> "Sherwood Jones" .
+<Shao_Kahn> <common.topic.notable_for> "g.1259rk66x" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<Film_writing_credits> <rdf-schema#range> "Film" .
+<Mark_Dacascos> <people.person.nationality> "United States of America" .
+<Michelle_Metzner> <common.topic.article> "m.0c1pky3" .
+<A_Child's_Christmases_in_Wales> <freebase.valuenotation.has_no_value> "Film Series" .
+<Chuck_Abernathy> <common.topic.notable_types> "Film actor" .
+<English_Language> <language.human_language.main_country> "United States of America" .
+<Sherwood_Jones> <film.editor.film> "Our Lips Are Sealed" .
+<Vote_Wally_Panther!_CORE_VALUES_#4:_Government_IS_The_Problem_(yndotStreet_comedy)> <base.webvideo.internet_video.country_of_origin> "United States of America" .
+<Costume_design_by> <owl#inverseOf> "Costume Design for Film" .
+<Film_Series> <type.property.schema> "Film" .
+<Myocardial_Ischemia> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Fortress> <film.film.produced_by> "Brian Thompson" .
+<Film_Story_Credits> <type.property.expected_type> "Film" .
+<The_Shaggy_D.A.> <film.film.genre> "Comedy" .
+<Shamshi> <fictional_universe.fictional_character.gender> "Male" .
+<Sherwood_Jones> <freebase.valuenotation.has_value> "Country of nationality" .
+<Film_casting_director> <type.type.properties> "Films casting directed" .
+<Sundome> <comic_books.comic_book_series.genre> "Comedy" .
+<Patrick_Warburton> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Carl_Ciarfalio> <people.person.gender> "Male" .
+<Film> <type.type.properties> "Sequel" .
+<m.0hcb7bj> <film.performance.actor> "Mark Dacascos" .
+<Jeff_Ross> <people.person.profession> "Screenwriter" .
+<Film> <type.type.expected_by> "Film writing credits" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<Seborrheic_dermatitis> <medicine.symptom.symptom_of> "Parkinson's disease" .
+<New_Prop> <type.property.expected_type> "Film" .
+<Fictional_Character> <type.type.properties> "Species" .
+<Bruce_Locke> <tv.tv_actor.starring_roles> "m.0ggz4f3" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<The_Shaggy_Dog_[1959]> <film.film.subjects> "Shapeshifting" .
+<Bert_Thompson> <freebase.valuenotation.has_value> "Country of nationality" .
+<United_Kingdom> <location.country.official_language> "English Language" .
+<Fu_Ding_Cheng> <common.topic.notable_for> "g.12558lt89" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "I'll Give It My All... Tomorrow" .
+<Carl_Ciarfalio> <people.person.profession> "Actor" .
+<Films_edited> <type.property.expected_type> "Film" .
+<The_Extendables> <film.film.cinematography> "Reinhart 'Rayteam' Peschke" .
+<The_Extendables> <film.film.executive_produced_by> "Bruce Locke" .
+<m.0pd851y> <film.performance.actor> "Brian Thompson" .
+<Brian_Thompson> <common.topic.article> "m.0f702w" .
+<Leslie_Garza> <people.person.profession> "Actor" .
+<Film_genre> <freebase.type_profile.strict_included_types> "Topic" .
+<Sherwood_Jones> <film.editor.film> "The Surface" .
+<The_Spectacles> <book.short_story.genre> "Comedy" .
+<Reinhart_'Rayteam'_Peschke> <film.cinematographer.film> "The Extendables" .
+<m.0krrh01> <people.marriage.spouse> "Brian Thompson" .
+<Comedy> <media_common.media_genre.child_genres> "Black comedy" .
+<Ratko:_The_Dictator's_Son> <film.film.language> "English Language" .
+<Love,_Sex,_Death,_and_the_Meaning_of_Life> <book.written_work.subjects> "Film" .
+<Comedy> <common.topic.subject_of> "Albrecht Behmel" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Film Series" .
+<m.0cvcrt6> <film.performance.actor> "Brian Thompson" .
+<Brian_Thompson> <people.person.gender> "Male" .
+<m.0h5m8_3> <film.performance.actor> "Craig Kilborn" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "CableACE Award for Comedy Series" .
+<Patrick_Warburton> <people.person.profession> "Voice Actor" .
+<Refuge_from_the_Storm> <film.film.country> "United States of America" .
+<Lupin_III> <base.animemanga.anime_manga_franchise.part_of_franchise> "Lupin III" .
+<Film> <freebase.type_profile.strict_included_types> "Abstract" .
+<Ray_Bradbury’s_Kaleidoscope> <film.film.country> "United States of America" .
+<The_Adventures_of_Dr._McNinja> <comic_strips.comic_strip.genre> "Comedy" .
+<Cinematography> <owl#inverseOf> "Film cinematography credits" .
+<Open_Casket> <film.film.language> "English Language" .
+<Film> <type.property.expected_type> "Film" .
+<Film> <type.property.master_property> "Soundtrack" .
+<Languages> <rdf-schema#domain> "Film" .
+<Fictional_Character> <type.type.expected_by> "Fictional characters with this given name" .
+<Subjects> <type.property.reverse_property> "Films On This Subject" .
+<Brian_Thompson> <people.person.spouse_s> "m.0pddgt2" .
+<Transient_ischemic_attack> <medicine.disease.risk_factors> "Male" .
+<Brian_Thompson> <film.actor.film> "m.04yzbgs" .
+<Prequel> <rdf-schema#range> "Film" .
+<Queen_of_America> <book.written_work.subjects> "Comedy" .
+<m.02tbjs1> <film.performance.actor> "Brian Thompson" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bw14s2" .
+<Sequel> <type.property.reverse_property> "Prequel" .
+<m.0bvw_bg> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Retroperitoneal_fibrosis> <medicine.disease.risk_factors> "Male" .
+<The_Challenge> <film.film.country> "United States of America" .
+<Film> <type.type.properties> "Fandango ID" .
+<Golden_Globe_Award_for_Best_Actress_–_Motion_Picture_–_Musical_or_Comedy> <award.award_category.disciplines_or_subjects> "Actor" .
+<Fictional_Character> <type.type.expected_by> "Possessed By" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "Golden Globe Award for Best Actor – Motion Picture Musical or Comedy" .
+<Sequel> <rdf-schema#domain> "Film" .
+<Casting_director> <type.property.schema> "Film" .
+<m.06npm25> <rdf-schema#range> "Fictional Character" .
+<Comedy> <internet.website_category.sites> "Atom.com" .
+<Film_production_designer> <type.type.domain> "Film" .
+<Film> <type.property.expected_type> "Film" .
+<Bob_Hope:_The_Road_Well-Traveled> <book.written_work.subjects> "Comedy" .
+<Sherwood_Jones> <film.editor.film> "Instinct to Kill" .
+<Film_music_contributor> <freebase.type_hints.included_types> "Topic" .
+<m.0hf5ynx> <film.film_cut.film> "The Extendables" .
+<Teen_Wolf> <film.film.language> "English Language" .
+<Film_producer> <type.type.domain> "Film" .
+<Fictional_Character> <freebase.type_profile.kind> "Portrayal" .
+<Awfully_Sweet,_Awfully_Dumb> <base.webvideo.internet_video.genre> "Comedy" .
+<Comedy> <media_common.media_genre.child_genres> "Slapstick" .
+<Netflix_ID> <rdf-schema#domain> "Film" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Toulon Festival International des Musiques d'Ecran" .
+<Other_film_companies> <type.property.master_property> "Film" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "I'm@Work - Please Hold" .
+<St_Kilda_Film_Festival> <film.film_festival.focus> "Comedy" .
+<An_American_Werewolf_in_Paris> <common.topic.notable_types> "Film" .
+<Rotten_Tomatoes_ID> <type.property.schema> "Film" .
+<Alan_Derian> <freebase.valuenotation.has_value> "Parents" .
+<Includes_Film> <type.property.expected_type> "Film" .
+<m.0t_k8dx> <film.performance.actor> "Bruce Locke" .
+<Farce> <media_common.media_genre.parent_genre> "Comedy" .
+<Golden_Globe_Award_for_Best_Actress_–_Motion_Picture_–_Musical_or_Comedy> <award.award_category.disciplines_or_subjects> "Comedy" .
+<Teen_Wolf_3:_The_Return_of_the_Wolf> <film.film.genre> "Comedy" .
+<Desolate_Road> <freebase.valuenotation.has_no_value> "Prequel" .
+<Films_art_directed> <rdf-schema#range> "Film" .
+<m.0h4vrxk> <common.webpage.topic> "Reinhart 'Rayteam' Peschke" .
+<King_of_Norway> <common.topic.notable_types> "Film" .
+<English_Language> <language.human_language.countries_spoken_in> "New Zealand" .
+<Sitcom> <media_common.media_genre.parent_genre> "Television comedy" .
+<Lorielle_New> <freebase.valuenotation.is_reviewed> "Gender" .
+<Film> <type.type.properties> "Release date(s)" .
+<Sherwood_Jones> <film.editor.film> "Refuge from the Storm" .
+<m.0kdflv9> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Touching_Home> <common.topic.notable_types> "Film" .
+<m.0bvx9qb> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Film> <type.type.expected_by> "Footage appears in" .
+<Filming> <type.property.schema> "Film" .
+<A_Child's_Christmases_in_Wales> <film.film.subjects> "Comedy" .
+<m.0bw05y4> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Appeared_In_Movie> <type.property.expected_type> "Film" .
+<Films_production_designed> <type.property.schema> "Film production designer" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Sluggy Freelance" .
+<Film> <type.type.properties> "Gross revenue" .
+<Will_Ogilvie> <film.film_crewmember.films_crewed> "m.0hcb9j8" .
+<Woman_Thou_Art_Loosed> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<An_American_Werewolf_in_London> <film.film.subjects> "Shapeshifting" .
+<Film> <type.type.properties> "Executive produced by" .
+<The_Extendables> <film.film.genre> "Comedy" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_season.episodes> "Wally Panther vs. The Pizza Guy (yndotStreet comedy)" .
+<Teen_Wolf> <film.film.genre> "Comedy" .
+<Performances> <type.property.master_property> "Film" .
+<Film_writer> <freebase.type_hints.included_types> "Topic" .
+<Gastritis> <medicine.disease.risk_factors> "Male" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Devil's Panties" .
+<Megatokyo> <comic_strips.comic_strip.genre> "Comedy" .
+<Comedy> <base.animemanga.anime_manga_genre.anime_manga_franchises> "Hikaru no Go" .
+<ZasPorn> <common.topic.subject_of> "Female" .
+<Comedy> <book.book_subject.works> "More Ladies of Letters" .
+<Seborrheic_dermatitis> <medicine.disease.risk_factors> "Male" .
+<Comedy> <media_common.literary_genre.stories_in_this_genre> "The Spectacles" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "I'm@Work - Call Home" .
+<Vive_Targi_Kielce> <sports.sports_team.gender> "Male" .
+<Hair_loss> <medicine.risk_factor.diseases> "Stroke" .
+<Journey_from_the_Heart> <media_common.netflix_title.netflix_genres> "Drama" .
+<Jeff_Ross> <people.person.profession> "Voice Actor" .
+<Comedy> <base.animemanga.anime_manga_genre.anime_manga_franchises> "Lupin III" .
+<Fictional_Character> <type.type.properties> "Quotations" .
+<Films_art_directed> <type.property.expected_type> "Film" .
+<Patrick_Warburton> <people.person.profession> "Actor" .
+<Chelsie_Wakefield> <film.film_crewmember.films_crewed> "m.0hcb9hx" .
+<Film> <type.type.properties> "Film festivals" .
+<Fascination> <film.film.cinematography> "Reinhart 'Rayteam' Peschke" .
+<The_Extendables> <film.film.runtime> "m.0hf5ynx" .
+<Appears_in_film(s)> <rdf-schema#range> "Film" .
+<Sequel> <type.property.expected_type> "Film" .
+<Leslie_Garza> <freebase.valuenotation.has_value> "Country of nationality" .
+<Our_Lips_Are_Sealed> <film.film.genre> "Comedy" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Teekyu" .
+<Desolate_Road> <film.film.genre> "Drama" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Victoria TX Independent Film Festival" .
+<FilmedIn> <rdf-schema#range> "Film" .
+<Shao_Kahn> <film.film_character.portrayed_in_films> "m.03jssjy" .
+<The_Uncles> <film.film.subjects> "Comedy" .
+<Writer> <film.film_character.portrayed_in_films> "m.0hcb7bj" .
+<Shao_Kahn> <fictional_universe.fictional_character.gender> "Male" .
+<Comedy> <media_common.literary_genre.stories_in_this_genre> "The Ransom of Red Chief" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "The Kawai Complex Guide to Manors and Hostel Behavior" .
+<Alabama> <film.film.subjects> "Comedy" .
+<Soundtrack> <type.property.schema> "Film" .
+<Initial_release_date> <type.property.schema> "Film" .
+<Mortal_Kombat:_Annihilation> <film.film.prequel> "Mortal Kombat" .
+<m.0bvxbzs> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Comedy> <book.book_subject.works> "Bob Hope: The Road Well-Traveled" .
+<The_Shaggy_Dog_[1959]> <film.film.country> "United States of America" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Sundome" .
+<Film> <type.type.expected_by> "Film Format" .
+<Comedy> <book.book_subject.works> "Yoshiwara" .
+<Somewhere_Slow> <film.film.language> "English Language" .
+<Totally_Sketch> <base.webvideo.internet_video_series.genre> "Comedy" .
+<Canada> <location.country.languages_spoken> "English Language" .
+<Reinhart_'Rayteam'_Peschke> <freebase.valuenotation.has_value> "Date of birth" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvt_tj" .
+<m.0bvzx6x> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Comedy> <base.animemanga.anime_manga_genre.anime_manga_franchises> "IS" .
+<Comedy> <common.topic.subject_of> "Making Possibilities" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<Film_festivals> <type.property.reverse_property> "Films" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "World of Comedy Film Festival" .
+<m.0bvzb71> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0dkhhzh" .
+<Bruce_Locke> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Fictional_Character> <type.type.expected_by> "Characters of this ethnicity" .
+<m.0hcb9j8> <film.film_crew_gig.film_crew_role> "Sound Editor" .
+<Film_Collections> <type.property.reverse_property> "Films In Collection" .
+<Desolate_Road> <freebase.valuenotation.has_no_value> "Sequel" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvv1c1" .
+<m.0hpkg_y> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Art_direction_by> <owl#inverseOf> "Films art directed" .
+<Film> <type.type.expected_by> "Film" .
+<Shapeshifting> <book.book_subject.works> "The Bride of Casa Dracula" .
+<The_Kawai_Complex_Guide_to_Manors_and_Hostel_Behavior> <comic_books.comic_book_series.genre> "Comedy" .
+<The_Landlord> <film.film.genre> "Comedy" .
+<Lorielle_New> <freebase.valuenotation.is_reviewed> "Parents" .
+<m.046837t> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Alan_Derian> <freebase.valuenotation.has_value> "Country of nationality" .
+<m.0gh17bk> <tv.tv_guest_role.actor> "Bruce Locke" .
+<Comedy> <base.animemanga.anime_manga_genre.anime_manga_franchises> "Ranma 1/2" .
+<The_Power_of_Few> <film.film.cinematography> "Reinhart 'Rayteam' Peschke" .
+<The_Extendables> <film.film.starring> "m.0hcb7b3" .
+<Comedy> <book.magazine_genre.magazines_in_this_genre> "National Lampoon" .
+<Fictional_Character> <type.type.expected_by> "Children" .
+<The_Extendables> <film.film.music> "Alan Derian" .
+<Brian_Thompson> <tv.tv_actor.starring_roles> "m.0bw0d_s" .
+<Prequel> <rdf-schema#range> "Film" .
+<Comedy_at_the_Edge:_How_Stand-up_in_the_1970s_Changed_America> <book.written_work.subjects> "Stand-up comedy" .
+<m.0bw1xxz> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<Film_cinematography_credits> <rdf-schema#range> "Film" .
+<Male> <common.topic.article> "m.05zpq8" .
+<Suppressant> <film.film.film_casting_director> "Michelle Metzner" .
+<The_Comedy_Festival> <film.film_festival.focus> "Comedy" .
+<Sherwood_Jones> <film.editor.film> "The Challenge" .
+<Brian_Thompson> <people.person.parents> "Bert Thompson" .
+<Oregon> <location.administrative_division.country> "United States of America" .
+<Film_format> <type.property.reverse_property> "Film Format" .
+<Featured_Song> <type.property.reverse_property> "Featured in film" .
+<Atom.com> <internet.website.category> "Comedy" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Country of origin" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Art direction by" .
+<English_Language> <language.human_language.main_country> "Canada" .
+<Teen_Wolf> <media_common.netflix_title.netflix_genres> "Comedy" .
+<Film> <type.type.properties> "Tagline" .
+<Ventricular_tachycardia> <medicine.symptom.symptom_of> "heart attack" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Emphysema> <medicine.disease.risk_factors> "Male" .
+<Arsène_Lupin_III> <comic_books.comic_book_character.regular_featured_appearances> "Lupin III" .
+<Kawasaki_disease> <medicine.disease.risk_factors> "Male" .
+<Gary_Graham> <freebase.valuenotation.has_value> "Parents" .
+<m.0dkhhzh> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Brian_Thompson> <film.actor.film> "m.03jssjy" .
+<Instinct_to_Kill> <common.topic.notable_types> "Film" .
+<Fictional_Character> <type.type.expected_by> "Borrowed Characters" .
+<The_Hunchback_of_Notre-Dame> <book.written_work.subjects> "Comedy" .
+<Genres> <type.property.reverse_property> "Films of this genre" .
+<Alabama> <film.film.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<Vote_Wally_Panther!_CORE_VALUES_#4:_Government_IS_The_Problem_(yndotStreet_comedy)> <base.webvideo.internet_video.genre> "Comedy" .
+<Bruce_Locke> <tv.tv_actor.guest_roles> "m.0gg269b" .
+<Leslie_Garza> <people.person.profession> "Casting Director" .
+<Jeff_Ross> <people.person.gender> "Male" .
+<Fictional_Character> <type.type.properties> "Appears In These Fictional Universes" .
+<m.0h2wmtr> <film.performance.film> "The Extendables" .
+<Kevin_Sorbo> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Arsène_Lupin_III> <fictional_universe.fictional_character.gender> "Male" .
+<Light_Years> <film.film.genre> "Drama" .
+<Comedy> <book.book_subject.works> "Truth and the comedic art" .
+<m.04yxpfl> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Drama> <film.film_subject.films> "A-List" .
+<Film> <type.type.expected_by> "Films shown" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bw05y4" .
+<Lupin_III> <base.animemanga.anime_manga_franchise.genre> "Comedy" .
+<m.0x2r_6_> <film.dubbing_performance.language> "English Language" .
+<Bruce_Locke> <people.person.profession> "Film Producer" .
+<Estimated_budget> <type.property.schema> "Film" .
+<Comedy> <film.film_subject.films> "Ricky Rapper" .
+<Antisocial_personality_disorder> <medicine.disease.risk_factors> "Male" .
+<Carl_Ciarfalio> <people.person.nationality> "United States of America" .
+<Beneath_the_Blue> <film.film.language> "English Language" .
+<Ninpen_Manmaru> <comic_books.comic_book_series.genre> "Comedy" .
+<Lupin_III> <base.animemanga.manga_title.characters> "Arsène Lupin III" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<Edited_by> <type.property.schema> "Film" .
+<Ozy_and_Millie> <comic_strips.comic_strip.genre> "Comedy" .
+<Lorielle_New> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Film> <type.type.expected_by> "Costume Design for Film" .
+<Ellensburg> <base.biblioness.bibs_location.country> "United States of America" .
+<Hodgkin's_lymphoma> <medicine.disease.risk_factors> "Male" .
+<m.0bvyjfj> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Dubbing_performances> <type.property.master_property> "Film" .
+<Film> <type.type.expected_by> "Films" .
+<Bugs_Bunny_Gets_the_Boid> <film.film.language> "English Language" .
+<Desolate_Road> <film.film.country> "United States of America" .
+<The_Extendables> <film.film.personal_appearances> "m.0hcb8s4" .
+<Subjects> <rdf-schema#domain> "Film" .
+<Sherwood_Jones> <film.editor.film> "Getting There: Sweet 16 and Licensed to Drive" .
+<Teen_Wolf_3:_The_Return_of_the_Wolf> <film.film.country> "Canada" .
+<Film> <type.type.expected_by> "Remake of" .
+<Films_directed> <type.property.expected_type> "Film" .
+<Ogenki_Clinic> <comic_books.comic_book_series.genre> "Comedy" .
+<The_Wolf_Man> <film.film.subjects> "Shapeshifting" .
+<Film> <type.type.properties> "Directed by" .
+<m.0hf5y_p> <common.document.content> "m.0hcb5lf" .
+<Film> <type.type.expected_by> "Films" .
+<Film_editor> <freebase.type_profile.equivalent_topic> "Film Editor" .
+<m.0bw1y3x> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Topic> <freebase.type_profile.kind> "Portrayal" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<Films_Executive_Produced> <rdf-schema#range> "Film" .
+<Comedy> <common.topic.notable_for> "g.12553vfzs" .
+<Journey_from_the_Heart> <film.film.genre> "Drama" .
+<Love,_Sex,_Death,_and_the_Meaning_of_Life> <book.written_work.subjects> "Entertainment" .
+<New_Zealand> <location.country.languages_spoken> "English Language" .
+<The_Apostate> <film.film.country> "United States of America" .
+<Teen_Wolf_Too> <film.film.prequel> "Teen Wolf" .
+<Set_Decoration_by> <rdf-schema#domain> "Film" .
+<It's_Walky!> <comic_strips.comic_strip.genre> "Comedy" .
+<Woman_Thou_Art_Loosed> <film.film.country> "United States of America" .
+<Fictional_Character> <type.type.expected_by> "People Born Here" .
+<Peter_Bayer> <common.topic.article> "m.0hcb6kf" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "Golden Globe Award for Best Actress – Motion Picture – Musical or Comedy" .
+<Toronto_European_Union_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Drama> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Little Wansa" .
+<Shapeshifting> <book.book_subject.works> "Skinwalker" .
+<Screenplay_by> <type.property.schema> "Film" .
+<Magic_Bites> <book.written_work.next_in_series> "Magic Burns" .
+<Frank_1> <rdf-schema#range> "Film" .
+<Teen_Wolf> <common.topic.notable_types> "Film" .
+<Touching_Home> <film.film.film_casting_director> "Michelle Metzner" .
+<Gross_revenue> <type.property.schema> "Film" .
+<Film_cinematographer> <type.type.expected_by> "Cinematography" .
+<ZasPorn> <common.topic.subject_of> "Male" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Suburban Tribe" .
+<Fictional_Character> <type.type.expected_by> "Parents" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvzx6x" .
+<m.0gfw7tv> <tv.tv_guest_role.actor> "Bruce Locke" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Minna Atsumare! Falcom Gakuen" .
+<Acceptance> <film.film.music> "Alan Derian" .
+<More_Ladies_of_Letters> <book.written_work.subjects> "Comedy" .
+<Mortal_Kombat:_Annihilation> <film.film.country> "United States of America" .
+<Remake_of> <type.property.expected_type> "Film" .
+<Transient_ischemic_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Film> <type.type.properties> "Filming" .
+<Getting_There:_Sweet_16_and_Licensed_to_Drive> <film.film.genre> "Comedy" .
+<King_of_Norway> <freebase.valuenotation.is_reviewed> "Runtime" .
+<English_Language> <language.human_language.main_country> "Australia" .
+<Bruce_Locke> <tv.tv_actor.guest_roles> "m.0gfw7tv" .
+<Vote_Wally_Panther!_CORE_VALUES_#4:_Government_IS_The_Problem_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.season> "Vote Wally Panther" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Screenplay by" .
+<Film> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Film> <type.type.properties> "Other crew" .
+<Notable_filming_locations> <type.property.reverse_property> "Featured In Films" .
+<For_Tomorrow:_The_First_Step_of_the_Revolution> <film.film.cinematography> "Reinhart 'Rayteam' Peschke" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<Suppressant> <common.topic.notable_types> "Film" .
+<Noelle_Locke> <people.person.gender> "Female" .
+<Mark_Dacascos> <common.topic.notable_types> "Film actor" .
+<Other_film_companies> <type.property.schema> "Film" .
+<Many_Paths_to_Eden> <base.webvideo.internet_video.genre> "Comedy" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "The daring independent film festival" .
+<Comedy> <internet.website_category.sites> "VideoBash" .
+<Film> <type.type.properties> "Story by" .
+<Marisa_Ramirez> <people.person.gender> "Female" .
+<m.04yx3zq> <tv.tv_guest_role.actor> "Brian Thompson" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<Film> <type.type.properties> "Screenplay by" .
+<For_Tomorrow:_The_First_Step_of_the_Revolution> <common.topic.notable_types> "Film" .
+<Bruce_Locke> <common.topic.article> "m.05f80_1" .
+<Prequel> <rdf-schema#domain> "Film" .
+<Film_producer> <type.type.properties> "Films Executive Produced" .
+<Film> <type.type.properties> "Performances" .
+<m.0hcb7x0> <film.performance.actor> "Carl Ciarfalio" .
+<Films_of_this_genre> <type.property.master_property> "Genres" .
+<Film> <type.property.expected_type> "Film" .
+<m.0vxmvpb> <film.performance.actor> "Brian Thompson" .
+<Sitcom> <base.webvideo.internet_video_genre.series> "Second-Hand NY" .
+<Barry> <broadcast.radio_station.format> "Comedy" .
+<Film> <rdf-schema#range> "Film" .
+<Light_Years> <freebase.valuenotation.is_reviewed> "Screenplay by" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<Comedy> <media_common.literary_genre.stories_in_this_genre> "The System of Doctor Tarr and Professor Fether" .
+<English_Language> <organization.organization_sector.organizations_in_this_sector> "dragon-class.com" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Fictional_Character> <type.type.expected_by> "Known characters" .
+<Produced_by> <type.property.reverse_property> "Films Produced" .
+<Bruce_Locke> <tv.tv_actor.guest_roles> "m.0gfy4pw" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<Republic_of_Ireland> <location.country.official_language> "English Language" .
+<Genres> <type.property.schema> "Film" .
+<Philadelphia_QFest_Audience_Award_for_Best_Feature_Comedy> <award.award_category.disciplines_or_subjects> "Comedy" .
+<m.0qg_x46> <film.performance.actor> "Bruce Locke" .
+<Soundtrack> <type.property.reverse_property> "Film" .
+<Tetralogy_of_Fallot> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<James_Bond_film_appearance(s)> <type.property.expected_type> "Film" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<The_Road_to_Mars> <book.book.genre> "Comedy" .
+<BONUS_Wally_Panther!_A_Dark_And_Stormy_Night_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.season> "Vote Wally Panther" .
+<Screenplay_by> <type.property.reverse_property> "Film writing credits" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Hair_loss> <medicine.symptom.symptom_of> "Ectodermal dysplasia" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<Film_actor> <freebase.type_hints.included_types> "Topic" .
+<Fictional_Character> <freebase.type_profile.strict_included_types> "Topic" .
+<Trailers> <rdf-schema#domain> "Film" .
+<m.040qn1l> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Bruce_Locke> <common.topic.notable_types> "Film actor" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Indian Film Festival of Melbourne" .
+<Strange_Brew> <book.written_work.subjects> "Shapeshifting" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Beelzebub> <comic_books.comic_book_series.genre> "Comedy" .
+<Craig_Kilborn> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Film> <rdf-schema#range> "Film" .
+<I'm@Work_-_Please_Hold> <base.webvideo.internet_video.genre> "Sketch comedy" .
+<Comedy> <education.field_of_study.students_majoring> "m.02_xfkh" .
+<Film> <type.type.properties> "Country of origin" .
+<Featured_in_film> <rdf-schema#range> "Film" .
+<Art_direction_by> <rdf-schema#domain> "Film" .
+<Music_by> <type.property.schema> "Film" .
+<Music_by> <owl#inverseOf> "Film music credits" .
+<Runtime> <rdf-schema#domain> "Film" .
+<Films_edited> <type.property.schema> "Film editor" .
+<Non-Hodgkin_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Film_music_contributor> <freebase.type_profile.strict_included_types> "Topic" .
+<Black_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Fictional_Character> <type.type.expected_by> "Employee" .
+<Fictional_Character> <freebase.type_profile.equivalent_topic> "Character" .
+<Movie_Inspiration> <rdf-schema#range> "Film" .
+<Teen_Wolf_3:_The_Return_of_the_Wolf> <film.film.language> "English Language" .
+<Film> <type.property.reverse_property> "Other film companies" .
+<Education> <type.property.master_property> "Students/graduates" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "8-Bit Theater" .
+<Rave_Master> <comic_books.comic_book_series.genre> "Comedy" .
+<Brian_Thompson> <common.topic.notable_types> "Film actor" .
+<Lee_Tosca> <freebase.valuenotation.has_value> "Country of nationality" .
+<Brian_Thompson> <film.actor.film> "m.0v9vxbt" .
+<Brian_Thompson> <people.person.children> "Jordan Thompson" .
+<m.0hcb7n2> <film.performance.character> "Paint" .
+<Film> <type.type.expected_by> "Favorite Films" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Sparkling Generation Valkyrie Yuuki" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Grey Legacy" .
+<Peter_Bayer> <people.person.profession> "Casting Director" .
+<m.0gcjk9l> <film.performance.actor> "Bruce Locke" .
+<Teen_Wolf_Too> <film.film.subjects> "Shapeshifting" .
+<Film> <rdf-schema#range> "Film" .
+<Lee_Tosca> <film.film_production_designer.films_production_designed> "King of Norway" .
+<Acceptance> <film.film.genre> "Comedy" .
+<CineFiesta> <film.film_festival.focus> "Comedy" .
+<Hair_loss> <medicine.symptom.symptom_of> "Seborrheic dermatitis" .
+<Fortress> <common.topic.notable_types> "Film" .
+<Aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Suburban_Tribe> <comic_strips.comic_strip.genre> "Comedy" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Film_producer> <freebase.type_profile.published> "Published" .
+<m.0bvy5yc> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Sketch_comedy> <common.topic.subject_of> "Awfully Sweet, Awfully Dumb" .
+<The_Bride_of_Casa_Dracula> <book.written_work.subjects> "Shapeshifting" .
+<Ricky_Rapper> <film.film.subjects> "Comedy" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_series.genre> "Comedy" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<Film> <type.type.expected_by> "Film" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<Prop_Guy> <film.film_character.portrayed_in_films> "m.0hcb911" .
+<Sitcom> <media_common.media_genre.parent_genre> "Comedy" .
+<Lorielle_New> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<The_Extendables> <common.topic.notable_types> "Film" .
+<Film> <type.type.expected_by> "Film Story Credits" .
+<Eiken> <comic_books.comic_book_series.genre> "Comedy" .
+<Films> <type.property.expected_type> "Film" .
+<Michelle_Metzner> <film.film_casting_director.films_casting_directed> "Light Years" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Cinematography" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "High School Girls" .
+<Pre-production> <type.property.schema> "Film" .
+<Fictional_Character> <freebase.type_profile.kind> "Definition" .
+<Fictional_Character> <type.type.expected_by> "Created By" .
+<Shao_Kahn> <common.topic.notable_types> "Fictional Character" .
+<Genres> <type.property.expected_type> "Film genre" .
+<Patrick_Warburton> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<The_Wolf_Man> <film.film.genre> "Drama" .
+<Lupin_III> <comic_books.comic_book_series.featured_characters> "Arsène Lupin III" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<Michelle_Metzner> <people.person.nationality> "United States of America" .
+<Brian_Thompson> <film.actor.film> "m.0cvcrt6" .
+<Film> <type.type.properties> "Trailers" .
+<Film> <type.type.properties> "Edited by" .
+<Films> <type.property.expected_type> "Film" .
+<Film> <rdf-schema#range> "Film" .
+<Comedy> <common.topic.subject_of> "Vote Wally Panther" .
+<Pyloric_stenosis> <medicine.disease.risk_factors> "Male" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Adam_J._Smith> <common.topic.notable_types> "Film actor" .
+<Sherwood_Jones> <common.topic.notable_for> "g.125h6r5n3" .
+<Film> <type.type.properties> "Production companies" .
+<Cinematography> <type.property.schema> "Film" .
+<Bad_Machinery> <comic_strips.comic_strip.genre> "Comedy" .
+<Films_Executive_Produced> <type.property.expected_type> "Film" .
+<A-List> <film.film.subjects> "Drama" .
+<Film_editor> <freebase.type_profile.strict_included_types> "Topic" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Casting director" .
+<King_of_Norway> <film.film.country> "United States of America" .
+<I'll_Give_It_My_All..._Tomorrow> <comic_books.comic_book_series.genre> "Comedy" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Battle Vixens" .
+<Directed_by> <type.property.schema> "Film" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Adventure Kid" .
+<Jeff_Ross> <people.person.nationality> "United States of America" .
+<Story_by> <type.property.schema> "Film" .
+<Lupin_III> <base.animemanga.anime_manga_franchise.sub_franchise> "Lupin III" .
+<The_Order_of_the_Stick> <comic_strips.comic_strip.genre> "Comedy" .
+<Fu_Ding_Cheng> <freebase.valuenotation.has_value> "Date of birth" .
+<Adam_J._Smith> <people.person.gender> "Male" .
+<m.0hcb8s4> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Beelzebub" .
+<I'm@Work_-_Please_Hold> <base.webvideo.internet_video.country_of_origin> "United States of America" .
+<Little_Wansa> <comic_books.comic_book_series.genre> "Drama" .
+<Adam_J._Smith> <film.actor.film> "m.0hcb852" .
+<The_Extendables> <film.film.other_crew> "m.0hcb9j8" .
+<Film_cinematographer> <freebase.type_profile.published> "Published" .
+<Love,_Sex,_Death,_and_the_Meaning_of_Life> <book.written_work.subjects> "Comedy" .
+<The_Power_of_Few> <film.film.language> "English Language" .
+<Sequel> <type.property.delegated> "Sequel" .
+<male.jpg> <common.image.appears_in_topic_gallery> "Male" .
+<m.0hcb7hq> <film.performance.film> "The Extendables" .
+<m.0h706_y> <film.performance.actor> "Brian Thompson" .
+<The_Haunted_Smile:_The_Story_of_Jewish_Comedians_in_America> <book.written_work.subjects> "United States of America" .
+<Sequel> <type.property.schema> "Film" .
+<Movie_Inspiration> <type.property.expected_type> "Film" .
+<Film_music_credits> <type.property.expected_type> "Film" .
+<Featured_Locations> <rdf-schema#domain> "Film" .
+<Bert_Thompson> <freebase.valuenotation.has_value> "Date of birth" .
+<The_Night_Owls> <comic_strips.comic_strip.genre> "Comedy" .
+<Ian_Patrick_Williams> <film.actor.film> "m.0hcb7hq" .
+<Comedy_at_the_Edge:_How_Stand-up_in_the_1970s_Changed_America> <book.written_work.subjects> "Comedy" .
+<m.0pddgt2> <people.marriage.spouse> "Brian Thompson" .
+<Golden_Globe_Award_for_Best_Motion_Picture_–_Musical_or_Comedy> <award.award_category.disciplines_or_subjects> "Film" .
+<Distributors> <type.property.schema> "Film" .
+<Mortal_Kombat:_Annihilation> <film.film.starring> "m.03jssjy" .
+<Australia> <location.country.languages_spoken> "English Language" .
+<Films> <rdf-schema#range> "Film" .
+<WataMote> <comic_books.comic_book_series.genre> "Comedy" .
+<kirby1> <internet.website.category> "Comedy" .
+<Films_production_designed> <rdf-schema#domain> "Film production designer" .
+<Brian_Thompson> <film.actor.film> "m.0cvch5g" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<Shapeshifting> <common.topic.image> "Cyrus Tiepolo Giambattista DieUnbefleckte.jpg" .
+<Cinematography> <type.property.reverse_property> "Film cinematography credits" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<Mobile_Suit_Gundam-san> <comic_books.comic_book_series.genre> "Comedy" .
+<m.0bw41b7> <tv.tv_guest_role.actor> "Brian Thompson" .
+<The_Landlord> <common.topic.notable_types> "Film" .
+<Films_Produced> <rdf-schema#domain> "Film producer" .
+<Film_production_designer> <type.type.expected_by> "Production design by" .
+<Film_producer> <type.type.properties> "Films Produced" .
+<Film> <type.type.properties> "Featured Locations" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<Film_editor> <freebase.type_profile.published> "Published" .
+<Patrick_Warburton> <freebase.valuenotation.is_reviewed> "Gender" .
+<World_of_Comedy_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Kevin_Sorbo> <people.person.gender> "Male" .
+<neilplus's_types> <freebase.domain_profile.category> "Male" .
+<Ironfist_Chinmi> <comic_books.comic_book_series.genre> "Comedy" .
+<prop1> <type.property.expected_type> "Film" .
+<Personal_appearances> <rdf-schema#domain> "Film" .
+<English_Language> <language.human_language.main_country> "United Kingdom" .
+<Frank_Welker> <people.person.nationality> "United States of America" .
+<m.0hcb5lq> <common.document.content> "m.0hcb5lf" .
+<Prequel> <type.property.expected_type> "Film" .
+<Movie> <rdf-schema#range> "Film" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Comedy> <common.topic.article> "m.05p558" .
+<Brian_Thompson> <film.actor.film> "m.02tbjs1" .
+<Comedy> <book.book_subject.works> "The end of kinship" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "London Comedy Film Festival" .
+<Journey_from_the_Heart> <common.topic.notable_types> "Film" .
+<The_Extendables> <film.film.edited_by> "Sherwood Jones" .
+<Test_property> <type.property.expected_type> "Film" .
+<Films_Executive_Produced> <type.property.master_property> "Executive produced by" .
+<Film_sets_designed> <type.property.master_property> "Set Decoration by" .
+<films> <type.property.expected_type> "Film" .
+<Brian_Thompson> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Film> <type.type.properties> "Languages" .
+<Comedy> <internet.website_category.sites> "Totally Sketch" .
+<Gout> <medicine.icd_9_cm_classification.includes_classifications> "Gout" .
+<m.0hcb93d> <film.performance.film> "The Extendables" .
+<Jeff_Ross> <freebase.valuenotation.has_value> "Parents" .
+<Featured_Song> <rdf-schema#domain> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Endtown" .
+<Film> <type.type.expected_by> "Films Executive Produced" .
+<The_Extendables> <film.film.starring> "m.0h2wqy5" .
+<Marisa_Ramirez> <freebase.valuenotation.has_value> "Parents" .
+<Films_Executive_Produced> <type.property.schema> "Film producer" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<Fictional_Character> <type.type.expected_by> "Darklord" .
+<m.03lmxh7> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Brian_Thompson> <common.topic.webpage> "m.0cq1p6c" .
+<Lee_Garlington> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0771y68" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<Film> <type.property.reverse_property> "Personal appearances" .
+<m.0h5m8_3> <film.performance.film> "The Extendables" .
+<Monte_Carlo_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Country_of_origin> <type.property.schema> "Film" .
+<High_School_Girls> <comic_books.comic_book_series.genre> "Comedy" .
+<dragon-class.com> <common.topic.subjects> "English Language" .
+<Films_production_designed> <rdf-schema#range> "Film" .
+<Shari_Braun> <people.person.profession> "Film Producer" .
+<Fu_Ding_Cheng> <freebase.valuenotation.has_value> "Parents" .
+<Film> <type.domain.types> "Film music contributor" .
+<Getting_There:_Sweet_16_and_Licensed_to_Drive> <film.film.edited_by> "Sherwood Jones" .
+<Athlete's_foot> <medicine.disease.risk_factors> "Male" .
+<Film> <type.type.expected_by> "Film music credits" .
+<Film_writing_credits> <rdf-schema#domain> "Film writer" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_season.episodes> "Vote Wally Panther! CORE VALUES #2: Don't Trust Newspapers (yndotStreet comedy)" .
+<Broad_Humor_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<m.0cvcnjd> <film.performance.actor> "Brian Thompson" .
+<Alan_Derian> <film.music_contributor.film> "Duality" .
+<Runtime> <type.property.master_property> "Film" .
+<Comedy> <book.book_subject.works> "Professional Stage Hypnotism" .
+<Paget's_disease_of_bone> <medicine.disease.risk_factors> "Male" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.country> "United States of America" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "LA Shorts Fest Award for Best Comedy" .
+<The_Extendables> <film.film.written_by> "Brian Thompson" .
+<Films_of_this_genre> <type.property.expected_type> "Film" .
+<Prequel> <type.property.schema> "Film" .
+<Film> <rdf-schema#range> "Film" .
+<Gary_Graham> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Erfworld> <comic_strips.comic_strip.genre> "Comedy" .
+<Film> <type.type.properties> "Dubbing performances" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<Film> <type.domain.types> "Film casting director" .
+<Urethritis> <medicine.disease.risk_factors> "Male" .
+<Film> <type.property.expected_type> "Film" .
+<Jeff_Ross> <people.person.profession> "Actor" .
+<Film> <type.type.properties> "Netflix ID" .
+<Film> <type.type.properties> "Pre-production" .
+<Slapstick> <media_common.media_genre.parent_genre> "Comedy" .
+<The_Extendables> <film.film.edited_by> "Peter Bayer" .
+<Post-production> <rdf-schema#domain> "Film" .
+<Film> <type.type.expected_by> "Sequel" .
+<Film> <type.property.expected_type> "Film" .
+<Sue> <film.film_character.portrayed_in_films> "m.0hcb80y" .
+<The_Extendables> <film.film.starring> "m.0hcb7n2" .
+<Film_cinematographer> <freebase.type_hints.included_types> "Topic" .
+<Fictional_Character> <type.type.expected_by> "Characters With This Occupation" .
+<Craig_Kilborn> <people.person.profession> "Screenwriter" .
+<dragon-class.com> <organization.organization.sectors> "English Language" .
+<Teen_Wolf_3:_The_Return_of_the_Wolf> <common.topic.notable_types> "Film" .
+<The_Shaggy_Dog_[1959]> <film.film.genre> "Comedy" .
+<Ricky_Rapper> <common.topic.notable_types> "Film" .
+<Bruce_Locke> <freebase.valuenotation.has_value> "Date of birth" .
+<Fictional_Character> <type.type.properties> "Belongs to organizations" .
+<Yeralash> <book.magazine.genre> "Comedy" .
+<Production_design_by> <type.property.expected_type> "Film production designer" .
+<Shapeshifting> <common.topic.image> "Viktor Vasnetsov. The Frog Tsarevna. 1918" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Order of the Stick" .
+<Shaman_King> <comic_books.comic_book_series.genre> "Comedy" .
+<m.0v9vxbt> <film.performance.actor> "Brian Thompson" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<Footage_appears_in> <rdf-schema#range> "Film" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Ogenki Clinic" .
+<An_American_Werewolf_in_London> <film.film.language> "English Language" .
+<Film> <type.type.expected_by> "film" .
+<Films_edited> <rdf-schema#range> "Film" .
+<Films_Produced> <type.property.expected_type> "Film" .
+<Comedy> <opera.opera_genre.operas_in_this_genre> "Fantasio" .
+<CableACE_Award_for_Comedy_Series> <award.award_category.disciplines_or_subjects> "Comedy" .
+<The_Death_of_Comedy> <book.written_work.subjects> "Drama" .
+<Costume_design_by> <type.property.reverse_property> "Costume Design for Film" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Film> <type.type.expected_by> "Film" .
+<m.0ggrnym> <tv.tv_guest_role.actor> "Bruce Locke" .
+<Fictional_Character> <type.type.properties> "Occupation" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<Film_production_designer> <freebase.type_hints.included_types> "Topic" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<Comedy> <common.topic.subject_of> "Jeff Ross" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.04yxpfl" .
+<Bruce_Locke> <film.actor.film> "m.0t_k8dx" .
+<An_American_Werewolf_in_Paris> <film.film.prequel> "An American Werewolf in London" .
+<Films_shown> <rdf-schema#range> "Film" .
+<Craig_Kilborn> <people.person.nationality> "United States of America" .
+<Nodwick> <comic_strips.comic_strip.genre> "Comedy" .
+<Lorielle_New> <freebase.valuenotation.has_value> "Country of nationality" .
+<An_American_Werewolf_in_Paris> <film.film.country> "United States of America" .
+<L.A._Comedy_Shorts_Film_Festival> <film.film_festival.focus> "Comedy" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<NY_Times_ID> <type.property.schema> "Film" .
+<The_Shaggy_Dog_[1959]> <film.film.genre> "Drama" .
+<Fu_Ding_Cheng> <freebase.valuenotation.has_value> "Country of nationality" .
+<Executive_produced_by> <owl#inverseOf> "Films Executive Produced" .
+<Comedy> <media_common.literary_genre.stories_in_this_genre> "The Loaded Dog" .
+<Multiple_myeloma> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Marisa_Ramirez> <people.person.nationality> "United States of America" .
+<Film_producer> <freebase.type_profile.equivalent_topic> "Film Producer" .
+<Film> <type.type.expected_by> "Film" .
+<Lee_Tosca> <common.topic.notable_for> "g.1255hhfxb" .
+<Genres> <rdf-schema#range> "Film genre" .
+<Getting_There:_Sweet_16_and_Licensed_to_Drive> <common.topic.notable_types> "Film" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "St Kilda Film Festival" .
+<Film> <type.type.properties> "Trailer Addict ID" .
+<Runtime> <type.property.schema> "Film" .
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Romantic_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Lee_Tosca> <people.person.gender> "Female" .
+<Golfer's_elbow> <medicine.disease.risk_factors> "Male" .
+<Appears_in_film> <type.property.expected_type> "Film" .
+<Acceptance> <media_common.netflix_title.netflix_genres> "Comedy" .
+<Side_Street_Story> <freebase.valuenotation.has_no_value> "Prequel" .
+<An_American_Werewolf_in_London> <film.film.country> "United States of America" .
+<Kamisama_Kiss> <comic_books.comic_book_series.genre> "Comedy" .
+<The_Shaggy_D.A.> <film.film.genre> "Drama" .
+<Films_of_this_genre> <rdf-schema#domain> "Film genre" .
+<Club_foot> <medicine.disease.risk_factors> "Male" .
+<Lee_Tosca> <common.topic.notable_types> "Film production designer" .
+<Lee_Garlington> <people.person.profession> "Actor" .
+<Comedy> <film.film_subject.films> "팔도 가시나이" .
+<The_Wolf_Man> <common.topic.notable_types> "Film" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<Ian_Patrick_Williams> <common.topic.notable_types> "Film actor" .
+<m.0468l7r> <film.performance.actor> "Brian Thompson" .
+<m.0bvt_tj> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<Film_music_credits> <rdf-schema#range> "Film" .
+<Fu_Ding_Cheng> <common.topic.article> "m.0hcb72d" .
+<Ian_Patrick_Williams> <freebase.valuenotation.is_reviewed> "Gender" .
+<Films_directed> <type.property.master_property> "Directed by" .
+<The_Landlord> <film.film.language> "English Language" .
+<Little_Wansa> <comic_books.comic_book_series.genre> "Comedy" .
+<Oregon> <location.administrative_division.first_level_division_of> "United States of America" .
+<Film> <type.type.expected_by> "Films art directed" .
+<The_War_of_the_Worlds> <book.written_work.subjects> "Comedy" .
+<I'm@Work_-_Water_Cooler_Talk> <base.webvideo.internet_video_episode.subject> "Comedy" .
+<Fictional_Character> <base.descriptive_names.names.descriptive_name> "m.0130y458" .
+<The_Extendables> <film.film.starring> "m.0hcb7hq" .
+<Teen_Wolf_Too> <film.film.language> "English Language" .
+<Stand-up_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<dragon-class.com> <business.competitive_space_mediator.brand> "English Language" .
+<Comedy> <film.film_subject.films> "A-List" .
+<Lorielle_New> <film.actor.film> "m.0hcb80y" .
+<Film_writer> <type.type.properties> "Film writing credits" .
+<m.0hcb8s4> <film.personal_film_appearance.film> "The Extendables" .
+<Executive_produced_by> <type.property.reverse_property> "Films Executive Produced" .
+<Fictional_Character> <type.type.properties> "Siblings" .
+<Comedy> <media_common.media_genre.child_genres> "Mafia comedy" .
+<Ian_Patrick_Williams> <freebase.valuenotation.has_value> "Country of nationality" .
+<Brian_Thompson> <film.actor.film> "m.0cvcnjd" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Hidamari Sketch" .
+<Ray_Bradbury’s_Kaleidoscope> <film.film.genre> "Drama" .
+<Film> <type.type.properties> "Music by" .
+<Film> <type.type.properties> "Runtime" .
+<Dave_Barry_is_from_Mars_and_Venus> <book.written_work.subjects> "Comedy" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Our_Lips_Are_Sealed> <film.film.country> "Australia" .
+<Produced_by> <type.property.schema> "Film" .
+<Reinhart_'Rayteam'_Peschke> <people.person.gender> "Male" .
+<Comedy_of_errors> <media_common.media_genre.parent_genre> "Comedy" .
+<Lee_Garlington> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<Pani_Poni> <comic_books.comic_book_series.genre> "Comedy" .
+<Fu_Ding_Cheng> <people.person.profession> "Production Designer" .
+<Fictional_Character> <type.type.expected_by> "Children" .
+<Sequel> <rdf-schema#range> "Film" .
+<Fictional_Character> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<The_Extendables> <film.film.other_crew> "m.0hcb9hx" .
+<Shao_Kahn> <film.film_character.portrayed_in_films> "m.03jsgmz" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Executive_produced_by> <rdf-schema#domain> "Film" .
+<Blood_Cross> <book.written_work.subjects> "Shapeshifting" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Costume design by" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<m.0bw2352> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Film> <type.type.expected_by> "prop1" .
+<Magic_Bites> <book.written_work.subjects> "Shapeshifting" .
+<Light_Years> <freebase.valuenotation.is_reviewed> "Edited by" .
+<A-List> <film.film.country> "United States of America" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<Brian_Thompson> <film.actor.film> "m.04ywpwm" .
+<Film_editor> <freebase.type_hints.included_types> "Topic" .
+<Noelle_Locke> <film.actor.film> "m.0hcb93d" .
+<m.0h4vr_d> <education.education.student> "Reinhart 'Rayteam' Peschke" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvzb71" .
+<Fu_Ding_Cheng> <people.person.gender> "Male" .
+<Trailer_Addict_ID> <type.property.schema> "Film" .
+<Appears_in_film(s)> <type.property.expected_type> "Film" .
+<m.0hcb7n2> <film.performance.actor> "Lee Garlington" .
+<The_Power_of_Few> <common.topic.notable_types> "Film" .
+<Film_Collections> <rdf-schema#domain> "Film" .
+<Jeff_Ross> <freebase.valuenotation.is_reviewed> "Gender" .
+<Carl_Ciarfalio> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<Casting_director> <type.property.expected_type> "Film casting director" .
+<Shapeshifting> <base.schemastaging.context_name.pronunciation> "g.125_qpjm0" .
+<Carl_Ciarfalio> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Okinawa_International_Movie_Festival> <film.film_festival.focus> "Comedy" .
+<Comedy> <media_common.media_genre.child_genres> "Screwball comedy" .
+<King_of_Norway> <film.film.film_production_design_by> "Lee Tosca" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Hetalia: Axis Powers" .
+<m.0h4ztwt> <film.performance.actor> "Marisa Ramirez" .
+<Sherwood_Jones> <film.writer.film> "TBK: The Toolbox Murders 2" .
+<Oregon> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Dancer> <film.film_character.portrayed_in_films> "m.0hcb93d" .
+<m.0wfq1bw> <film.personal_film_appearance.person> "Bruce Locke" .
+<Bert_Thompson> <people.person.gender> "Male" .
+<Female> <medicine.risk_factor.diseases> "Kyphosis" .
+<Sherwood_Jones> <film.editor.film> "Fear Clinic" .
+<Sequel> <type.property.expected_type> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Nodwick" .
+<Males> <base.skosbase.skos_concept.equivalent_topic> "Male" .
+<The_Apostate> <film.film.language> "English Language" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Tales of the Vine-Gar" .
+<Brian_Thompson> <film.actor.film> "m.0cvcrpn" .
+<Film_Editor> <people.profession.corresponding_type> "Film editor" .
+<The_Extendables> <film.film.starring> "m.0hcb93d" .
+<Frank_Welker> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Film> <type.type.expected_by> "Prequel" .
+<Film> <type.type.properties> "Rated" .
+<Edited_by> <rdf-schema#domain> "Film" .
+<Desolate_Road> <film.film.cinematography> "Reinhart 'Rayteam' Peschke" .
+<Kevin_Sorbo> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Sequel> <type.property.delegated> "Sequel" .
+<Bruce_Locke> <people.person.nationality> "United States of America" .
+<Films_Produced> <rdf-schema#range> "Film" .
+<Alan_Derian> <film.music_contributor.film> "Ray Bradbury’s Kaleidoscope" .
+<Bruce_Locke> <people.person.place_of_birth> "Oregon" .
+<The_Surface> <film.film.language> "English Language" .
+<National_Lampoon> <book.periodical.language> "English Language" .
+<Craig_Kilborn> <people.person.gender> "Male" .
+<Production_design_by> <type.property.schema> "Film" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Vote Wally Panther! CORE VALUES #2: Don't Trust Newspapers (yndotStreet comedy)" .
+<Ray_Bradbury’s_Kaleidoscope> <freebase.valuenotation.has_no_value> "Prequel" .
+<United_States_of_America> <location.country.administrative_divisions> "Oregon" .
+<Edited_by> <type.property.expected_type> "Film editor" .
+<Production_Designer> <freebase.equivalent_topic.equivalent_type> "Film production designer" .
+<The_N_Crowd> <common.topic.subjects> "Comedy" .
+<Patrick_Warburton> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0hcb7zw> <film.performance.actor> "Gary Graham" .
+<Ratko:_The_Dictator's_Son> <film.film.edited_by> "Sherwood Jones" .
+<The_Extendables> <film.film.starring> "m.0hcb80y" .
+<Ratko:_The_Dictator's_Son> <common.topic.notable_types> "Film" .
+<Fictional_Character> <type.type.expected_by> "Characters of This Species" .
+<After_Freedom> <film.film.music> "Alan Derian" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<Languages> <type.property.schema> "Film" .
+<Vardell_Duseldorfer> <film.film_character.portrayed_in_films> "m.0hcb7b3" .
+<Fictional_Character> <type.type.expected_by> "Spoken by" .
+<Getting_There:_Sweet_16_and_Licensed_to_Drive> <film.film.language> "English Language" .
+<Films> <rdf-schema#range> "Film" .
+<Comedy> <book.book_subject.works> "The Columbia Comedy Shorts" .
+<Teen_Wolf_3:_The_Return_of_the_Wolf> <film.film.prequel> "Teen Wolf Too" .
+<Film> <type.property.expected_type> "Film" .
+<Film> <type.type.properties> "Rotten Tomatoes ID" .
+<Film> <freebase.documented_object.documentation> "m.0l12g5" .
+<Kyphosis> <medicine.disease.risk_factors> "Female" .
+<Cinetopia_International_Film_Festival> <film.film_festival.focus> "Comedy" .
+<A_Child's_Christmases_in_Wales> <freebase.valuenotation.has_no_value> "Sequel" .
+<Rated> <owl#inverseOf> "Films" .
+<Film> <type.type.expected_by> "Films directed" .
+<Shapeshifting> <film.film_subject.films> "The Shaggy D.A." .
+<Films_casting_directed> <type.property.master_property> "Casting director" .
+<Fortress> <film.film.country> "United States of America" .
+<Best_Boy> <film.film_character.portrayed_in_films> "m.0hcb852" .
+<The_Surface> <film.film.genre> "Drama" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Comedy_of_errors> <media_common.media_genre.parent_genre> "Farce" .
+<Rotten_Tomatoes_ID> <rdf-schema#domain> "Film" .
+<The_Extendables> <film.film.film_casting_director> "Michelle Metzner" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.03lnlkj" .
+<Film_cinematography_credits> <rdf-schema#domain> "Film cinematographer" .
+<Side_Street_Story> <film.film.subjects> "Comedy" .
+<Brian_Thompson> <film.actor.film> "m.0wc861k" .
+<m.0hcb9hx> <film.film_crew_gig.film_crew_role> "Hair Stylist" .
+<Film> <type.type.expected_by> "films" .
+<Films_directed> <type.property.expected_type> "Film" .
+<Jeff_Ross> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<English_Language> <language.human_language.countries_spoken_in> "United Kingdom" .
+<m.0hcb877> <film.performance.actor> "Leslie Garza" .
+<Shamshi> <common.topic.notable_types> "Fictional Character" .
+<Beneath_the_Blue> <film.film.country> "United States of America" .
+<Featured_in_film> <type.property.master_property> "Featured Song" .
+<The_War_of_the_Worlds> <book.written_work.original_language> "English Language" .
+<Bert_Thompson> <people.person.children> "Brian Thompson" .
+<Bruce_Locke> <film.person_or_entity_appearing_in_film.films> "m.0wfq1bw" .
+<Brian_Thompson> <film.actor.film> "m.0pd851y" .
+<Comedy> <base.schemastaging.context_name.pronunciation> "g.11b8c2tkbj" .
+<Albrecht_Behmel> <common.topic.subjects> "Drama" .
+<Hikaru_no_Go> <base.animemanga.anime_manga_franchise.genre> "Comedy" .
+<m.0hcb877> <film.performance.character> "Salma Hayek" .
+<A-List> <film.film.subjects> "Comedy" .
+<Brian_Thompson> <film.actor.film> "m.03lbwkz" .
+<Our_Lips_Are_Sealed> <common.topic.notable_types> "Film" .
+<Film_genre> <freebase.type_hints.included_types> "Topic" .
+<Films_In_Collection> <type.property.master_property> "Film Collections" .
+<m.06npm25> <type.property.expected_type> "Fictional Character" .
+<Films> <rdf-schema#range> "Film" .
+<The_Columbia_Comedy_Shorts> <book.written_work.subjects> "Film" .
+<Film> <type.property.reverse_property> "Dubbing performances" .
+<Film_actor> <freebase.type_profile.equivalent_topic> "Actor" .
+<Instinct_to_Kill> <film.film.edited_by> "Sherwood Jones" .
+<Film> <type.property.reverse_property> "Performances" .
+<Lee_Garlington> <freebase.valuenotation.is_reviewed> "Gender" .
+<Truth_and_the_comedic_art> <book.written_work.subjects> "Comedy" .
+<Battle_Vixens> <comic_books.comic_book_series.genre> "Comedy" .
+<Costume_Design_for_Film> <type.property.expected_type> "Film" .
+<Wally_Panther_vs._The_Pizza_Guy_(yndotStreet_comedy)> <base.webvideo.internet_video.genre> "Comedy" .
+<Gross_revenue> <rdf-schema#domain> "Film" .
+<Professional_Stage_Hypnotism> <book.written_work.subjects> "Comedy" .
+<Cinematography> <rdf-schema#range> "Film cinematographer" .
+<Songs> <type.property.schema> "Film" .
+<Somewhere_Slow> <film.film.film_production_design_by> "Lee Tosca" .
+<Magic_Burns> <book.written_work.previous_in_series> "Magic Bites" .
+<팔도_가시나이> <film.film.subjects> "Comedy" .
+<Bruce_Locke> <film.actor.film> "m.0gbwn_p" .
+<Shapeshifting> <film.film_subject.films> "An American Werewolf in Paris" .
+<Chuck_Abernathy> <people.person.profession> "Actor" .
+<Film_production_designer> <freebase.type_profile.strict_included_types> "Topic" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Vampire Cheerleaders" .
+<Film> <owl#inverseOf> "Distributors" .
+<Films_Produced> <type.property.schema> "Film producer" .
+<Woman_Thou_Art_Loosed> <media_common.netflix_title.netflix_genres> "Drama" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Edited by" .
+<Film> <type.property.reverse_property> "Runtime" .
+<Vote_Wally_Panther!_CORE_VALUES_#2:_Don't_Trust_Newspapers_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.season> "Vote Wally Panther" .
+<Film> <type.type.expected_by> "Seen in movie/TV show" .
+<m.0cvch5g> <film.performance.actor> "Brian Thompson" .
+<Risk_Factor> <freebase.type_profile.strict_included_types> "Topic" .
+<Films> <rdf-schema#range> "Film" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Film> <type.type.properties> "Genres" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<Other_crew> <rdf-schema#domain> "Film" .
+<Oregon> <base.locations.states_and_provences.country> "United States of America" .
+<m.07ndwj2> <base.ontologies.ontology_instance_mapping.freebase_topic> "Comedy" .
+<Bruce_Locke> <film.actor.film> "m.0gcg4xp" .
+<Film> <type.type.expected_by> "Sequel" .
+<m.0bvy2h2> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Bruce_Locke> <tv.tv_actor.guest_roles> "m.0ggvbj1" .
+<Shapeshifting> <film.film_subject.films> "Teen Wolf" .
+<m.0dks4_p> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Story_by> <rdf-schema#domain> "Film" .
+<India> <location.country.official_language> "English Language" .
+<Leslie_Garza> <freebase.valuenotation.has_value> "Parents" .
+<m.05np4lt> <tv.tv_guest_role.actor> "Brian Thompson" .
+<m.0ggvbj1> <tv.tv_guest_role.actor> "Bruce Locke" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Cinetopia International Film Festival" .
+<Teen_Wolf_Too> <common.topic.notable_types> "Film" .
+<Film> <type.type.properties> "Other film companies" .
+<Film> <type.type.expected_by> "Appeared In Movie" .
+<m.03lbwkz> <film.performance.actor> "Brian Thompson" .
+<m.0ghqb3l> <tv.tv_guest_role.actor> "Brian Thompson" .
+<m.0cvch7q> <film.performance.actor> "Brian Thompson" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Kamisama Kiss" .
+<Fictional_Character> <type.type.expected_by> "characters" .
+<Film_casting_director> <type.type.domain> "Film" .
+<Comedy> <internet.website_category.sites> "kirby1" .
+<WALLY'S_CORE_VALUES_#1-5_(yndotStreet_comedy)> <base.webvideo.internet_video.country_of_origin> "United States of America" .
+<m.0hcb93d> <film.performance.character> "Dancer" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<Michelle_Metzner> <common.topic.notable_types> "Film casting director" .
+<Lee_Tosca> <people.person.profession> "Film Art Director" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_season.episodes> "BONUS Wally Panther! A Dark And Stormy Night (yndotStreet comedy)" .
+<Craig_Kilborn> <film.actor.film> "m.0hcb8dd" .
+<Comedy> <film.film_subject.films> "The Uncles" .
+<Sequel> <type.property.delegated> "Sequel" .
+<Comedy> <film.film_subject.films> "Side Street Story" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<Release_date(s)> <type.property.schema> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Erfworld" .
+<Film_writing_credits> <type.property.schema> "Film writer" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<The_Surface> <film.film.country> "United States of America" .
+<Films> <type.property.expected_type> "Film" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<Films_casting_directed> <rdf-schema#range> "Film" .
+<Other_crew> <type.property.schema> "Film" .
+<Films_In_Series> <rdf-schema#range> "Film" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<Film> <type.type.expected_by> "Film" .
+<Fascination> <film.film.language> "English Language" .
+<Fictional_Character> <type.type.domain> "Fictional Universes" .
+<Brian_Thompson> <film.actor.film> "m.0h14c4p" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<Film_producer> <freebase.type_hints.included_types> "Topic" .
+<Alan_Derian> <film.music_contributor.film> "After Freedom" .
+<Albrecht_Behmel> <common.topic.subjects> "Comedy" .
+<Film> <type.type.expected_by> "Film" .
+<Fictional_Character> <type.type.expected_by> "Parents" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.has_no_value> "Prequel" .
+<Bruce_Locke> <tv.tv_actor.guest_roles> "m.0ggrnym" .
+<Films> <rdf-schema#range> "Film" .
+<Film> <owl#inverseOf> "Personal appearances" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<Release_date(s)> <owl#inverseOf> "Film" .
+<BONUS_Wally_Panther!_A_Dark_And_Stormy_Night_(yndotStreet_comedy)> <base.webvideo.internet_video.genre> "Comedy" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Broad Humor Film Festival" .
+<Film> <type.type.expected_by> "Films edited" .
+<Edited_by> <rdf-schema#range> "Film editor" .
+<Kidney_Stone> <medicine.disease_cause.diseases> "Urolithiasis" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvxbzs" .
+<m.0h5m8_3> <film.performance.character> "Kilborn" .
+<Brian_Thompson> <tv.tv_actor.starring_roles> "m.0bw1519" .
+<Nephrotic_syndrome> <medicine.disease.risk_factors> "Male" .
+<Film> <type.type.properties> "Subjects" .
+<FishTanked> <comic_strips.comic_strip.genre> "Comedy" .
+<Peter_Bayer> <common.topic.notable_for> "g.125774r_4" .
+<Rooftop_Comedy_Official_Website> <internet.website.category> "Comedy" .
+<Film> <type.domain.types> "Film editor" .
+<Primary_language> <type.property.schema> "Film" .
+<Mortal_Kombat> <film.film.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<Fictional_Character> <freebase.documented_object.documentation> "m.02hqq2k" .
+<Featured_In_Films> <type.property.expected_type> "Film" .
+<Fictional_Character> <type.type.expected_by> "Characters" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Michelle_Metzner> <people.person.gender> "Female" .
+<Ankylosing_spondylitis> <medicine.disease.risk_factors> "Male" .
+<Films_directed> <type.property.delegated> "Films directed" .
+<Jeff_Ross> <common.topic.subjects> "Comedy" .
+<m.0hcb9j8> <film.film_crew_gig.film> "The Extendables" .
+<Film> <type.type.expected_by> "Films of this genre" .
+<The_Shaggy_D.A.> <film.film.language> "English Language" .
+<Chuck_Abernathy> <people.person.gender> "Male" .
+<Mortal_Kombat> <film.film.language> "English Language" .
+<Films> <type.property.master_property> "Production companies" .
+<Brian_Thompson> <film.actor.film> "m.09sdtjp" .
+<Lee_Tosca> <people.person.profession> "Production Designer" .
+<m.04ywxht> <film.performance.actor> "Brian Thompson" .
+<After_Freedom> <film.film.language> "English Language" .
+<prop1> <rdf-schema#range> "Film" .
+<Scary_Go_Round> <comic_strips.comic_strip.genre> "Comedy" .
+<Acceptance> <common.topic.notable_types> "Film" .
+<Sherwood_Jones> <freebase.valuenotation.has_value> "Place of birth" .
+<Patrick_Warburton> <common.topic.notable_types> "Film actor" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<Film> <freebase.type_profile.strict_included_types> "Topic" .
+<Film> <type.property.expected_type> "Film" .
+<Notable_filming_locations> <type.property.schema> "Film" .
+<IS> <base.animemanga.anime_manga_franchise.genre> "Romantic comedy" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<Films_On_This_Subject> <rdf-schema#range> "Film" .
+<Film_cinematography_credits> <type.property.expected_type> "Film" .
+<Drama> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "No Money" .
+<m.0hcb852> <film.performance.actor> "Adam J. Smith" .
+<The_Power_of_Few> <film.film.country> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Mark_Dacascos> <people.person.languages> "English Language" .
+<Light_Years> <film.film.film_casting_director> "Michelle Metzner" .
+<m.0h2wmtr> <film.performance.actor> "Mark Dacascos" .
+<Endtown> <comic_strips.comic_strip.genre> "Comedy" .
+<m.0ggz4f3> <tv.regular_tv_appearance.actor> "Bruce Locke" .
+<The_Tales_of_the_Vine-Gar> <comic_strips.comic_strip.genre> "Comedy" .
+<Comedy> <common.topic.subject_of> "Fork in the Socket" .
+<Barrett's_esophagus> <medicine.disease.risk_factors> "Male" .
+<Brian_Thompson> <film.producer.film> "The Extendables" .
+<Our_Lips_Are_Sealed> <film.film.language> "English Language" .
+<Instinct_to_Kill> <film.film.language> "English Language" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Fictional_Character> <type.type.properties> "Place of Birth" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvzmr0" .
+<Prequel> <rdf-schema#range> "Film" .
+<Second-Hand_NY> <base.webvideo.internet_video_series.genre> "Comedy" .
+<Seen_in_movie/TV_show> <type.property.delegated> "Film" .
+<Bruce_Locke> <tv.tv_actor.guest_roles> "m.0gh17bk" .
+<A-List> <common.topic.notable_types> "Film" .
+<Sundome> <comic_books.comic_book_series.genre> "Drama" .
+<m.0bw1l_2> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Film> <type.type.properties> "Primary language" .
+<Chicago_Comedy_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Brian_Thompson> <tv.tv_actor.starring_roles> "m.0l2q9xr" .
+<m.02_xfkh> <education.education.major_field_of_study> "Comedy" .
+<Fictional_Character> <type.type.properties> "Romantically involved with" .
+<Comedy> <film.film_subject.films> "Bugs Bunny Gets the Boid" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<The_Spectacles> <book.written_work.original_language> "English Language" .
+<Leslie_Garza> <people.person.gender> "Female" .
+<Sherwood_Jones> <film.editor.film> "Ratko: The Dictator's Son" .
+<The_Extendables> <film.film.starring> "m.0hcb7zw" .
+<Shock_Asylum> <film.film.subjects> "Comedy" .
+<National_Lampoon> <book.magazine.genre> "Comedy" .
+<Teen_Wolf_Too> <film.film.country> "United States of America" .
+<Bone_Crossed> <book.written_work.subjects> "Shapeshifting" .
+<Russell_Brand> <book.written_work.subjects> "Comedy" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Gin Tama" .
+<Vote_Wally_Panther!_CORE_VALUES_#3:_Helping_People_Isn't_Right_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.season> "Vote Wally Panther" .
+<The_Death_of_Comedy> <book.written_work.subjects> "Comedy" .
+<Urolithiasis> <medicine.disease.causes> "Kidney Stone" .
+<The_Devil's_Panties> <comic_strips.comic_strip.genre> "Comedy" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Eiken" .
+<m.0hcb9hx> <film.film_crew_gig.crewmember> "Chelsie Wakefield" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Comedy Cluj" .
+<Film> <type.property.expected_type> "Film" .
+<Noelle_Locke> <people.person.profession> "Film Producer" .
+<Desolate_Road> <film.film.language> "English Language" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<The_Apostate> <common.topic.notable_types> "Film" .
+<Canada> <location.country.official_language> "English Language" .
+<m.0hcb7b3> <film.performance.actor> "Brian Thompson" .
+<Brian_Thompson> <film.actor.film> "m.04ywxht" .
+<Brian_Thompson> <film.actor.film> "m.0w1q14z" .
+<Film_cinematography_credits> <type.property.schema> "Film cinematographer" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oregon" .
+<Bob_Hope:_The_Road_Well-Traveled> <book.written_work.subjects> "United States of America" .
+<Brian_Thompson> <film.director.film> "g.1yjg859p3" .
+<The_Devil's_Panties> <people.person.gender> "Female" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "International Comedy Film Festival" .
+<Films_casting_directed> <rdf-schema#domain> "Film casting director" .
+<VideoBash> <internet.website.category> "Comedy" .
+<m.0bw218j> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Film_editor> <type.type.properties> "Films edited" .
+<m.03jssjy> <film.performance.character> "Shao Kahn" .
+<Film> <common.topic.article> "m.0l12g5" .
+<Bobbins> <comic_strips.comic_strip.genre> "Comedy" .
+<Lupin_III> <base.animemanga.manga_title.animanga_franchise> "Lupin III" .
+<Film_Series> <type.property.master_property> "Films In Series" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Stroke" .
+<Shock_Asylum> <common.topic.notable_types> "Film" .
+<Paint> <film.film_character.portrayed_in_films> "m.0hcb7n2" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Chicago Comedy Film Festival" .
+<m.0x2r_6_> <film.dubbing_performance.actor> "Bruce Locke" .
+<Fictional_Character> <freebase.type_profile.published> "Published" .
+<Shapeshifting> <common.topic.notable_types> "Character Power" .
+<Film_Format> <rdf-schema#range> "Film" .
+<Acute_myeloid_leukemia> <medicine.disease.risk_factors> "Male" .
+<m.0bvxk1n> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Non Sequitur" .
+<Fictional_Character> <type.type.properties> "Has possessed (fictional object)" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<Kidney_Stone> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<King_of_Norway> <film.film.language> "English Language" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "The Comedy Festival" .
+<Journey_from_the_Heart> <film.film.film_production_design_by> "Fu Ding Cheng" .
+<Film> <owl#inverseOf> "Dubbing performances" .
+<Lee_Tosca> <common.topic.article> "m.0hcb742" .
+<Lee_Tosca> <freebase.valuenotation.has_value> "Place of birth" .
+<Eiken> <tv.tv_program.genre> "Comedy" .
+<Light_Years> <freebase.valuenotation.is_reviewed> "Cinematography" .
+<Reinhart_'Rayteam'_Peschke> <film.director.film> "Aquanoids" .
+<Fascination> <film.film.country> "United Kingdom" .
+<Film> <type.type.expected_by> "Prequel" .
+<King_of_Norway> <film.film.genre> "Drama" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<No_Money> <comic_books.comic_book_series.genre> "Drama" .
+<Film> <freebase.type_profile.published> "Published" .
+<Ray_Bradbury’s_Kaleidoscope> <common.topic.notable_types> "Film" .
+<The_Extendables> <film.film.starring> "m.0hcb8dd" .
+<Beneath_the_Blue> <film.film.genre> "Drama" .
+<Film> <type.type.expected_by> "Sequel" .
+<Fictional_Character> <type.type.expected_by> "Members" .
+<Touching_Home> <film.film.genre> "Drama" .
+<Refuge_from_the_Storm> <common.topic.notable_types> "Film" .
+<m.0gfzy7q> <tv.tv_guest_role.actor> "Bruce Locke" .
+<An_American_Werewolf_in_London> <film.film.sequel> "An American Werewolf in Paris" .
+<Refuge_from_the_Storm> <film.film.genre> "Drama" .
+<Mud_Dog_Blues> <common.topic.notable_types> "Film" .
+<8-Bit_Theater> <comic_strips.comic_strip.genre> "Comedy" .
+<Ellensburg> <location.hud_county_place.place> "Ellensburg" .
+<Films_In_Collection> <rdf-schema#range> "Film" .
+<Personal_appearances> <type.property.schema> "Film" .
+<Comedy> <tv.tv_subject.tv_programs> "RiffTrax" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<Film> <type.type.properties> "Distributors" .
+<Lorielle_New> <freebase.valuenotation.has_value> "Parents" .
+<Tagline> <rdf-schema#domain> "Film" .
+<No_Money> <comic_books.comic_book_series.genre> "Comedy" .
+<Albrecht_Behmel> <common.topic.subjects> "Film" .
+<Fictional_Character> <type.type.expected_by> "Fictional Characters Born Here" .
+<Reinhart_'Rayteam'_Peschke> <common.topic.notable_types> "Film cinematographer" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<Film> <type.type.properties> "Featured Song" .
+<Film> <type.type.properties> "Cinematography" .
+<Second-Hand_NY> <media_common.media_genre.parent_genre> "Sitcom" .
+<m.0bvw44q> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Film> <type.type.expected_by> "Sequel" .
+<Goblins> <comic_strips.comic_strip.genre> "Comedy" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.046837t" .
+<Lee_Garlington> <people.person.gender> "Female" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Male" .
+<Film> <type.type.expected_by> "Appears in film(s)" .
+<Film> <type.type.expected_by> "Films" .
+<Knock-knock_joke> <base.events.type_of_performance.included_in_type_of_performance> "Comedy" .
+<Michelle_Metzner> <people.person.profession> "Casting Director" .
+<Open_Casket> <common.topic.notable_types> "Film" .
+<Alan_Derian> <film.music_contributor.film> "Acceptance" .
+<Notable_filming_locations> <rdf-schema#domain> "Film" .
+<Entertainment> <media_common.media_genre.child_genres> "Comedy" .
+<The_Extendables> <film.film.language> "English Language" .
+<Film> <common.topic.article> "m.04d0gsn" .
+<Mark_Dacascos> <film.actor.film> "m.0hcb7bj" .
+<Comedy> <media_common.media_genre.child_genres> "Musical comedy" .
+<Tagline> <type.property.schema> "Film" .
+<Apple_movie_trailer_ID> <type.property.schema> "Film" .
+<Kyphosis> <medicine.disease.risk_factors> "Male" .
+<Comedy> <book.book_subject.works> "Queen of America" .
+<Musical_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Kilborn> <film.film_character.portrayed_in_films> "m.0h5m8_3" .
+<Screenplay_by> <owl#inverseOf> "Film writing credits" .
+<m.04ywpwm> <film.performance.actor> "Brian Thompson" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvvxq5" .
+<English_Language> <language.human_language.countries_spoken_in> "Canada" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<Mortal_Kombat> <film.film.starring> "m.03jsgmz" .
+<film> <type.property.expected_type> "Film" .
+<Film_music_contributor> <type.type.properties> "Film music credits" .
+<Brian_Thompson> <film.actor.film> "m.0krrdl_" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Inazuma Eleven" .
+<Mortal_Kombat:_Annihilation> <film.film.language> "English Language" .
+<Side_Street_Story> <freebase.valuenotation.has_no_value> "Film Series" .
+<Leslie_Garza> <freebase.valuenotation.has_value> "Date of birth" .
+<Fu_Ding_Cheng> <people.person.profession> "Film director" .
+<Mark_Dacascos> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvx9qb" .
+<Film_Collections> <owl#inverseOf> "Films In Collection" .
+<Myocardial_Ischemia> <medicine.disease.symptoms> "heart attack" .
+<Brian_Thompson> <film.actor.film> "m.0cvcf1s" .
+<m.0krrdl_> <film.performance.actor> "Brian Thompson" .
+<Action_Comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Directed_by> <owl#inverseOf> "Films directed" .
+<m.0gg269b> <tv.tv_guest_role.actor> "Bruce Locke" .
+<Carl_Ciarfalio> <freebase.valuenotation.is_reviewed> "Gender" .
+<Film> <type.type.properties> "Apple movie trailer ID" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Light_Years> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Comedy> <common.topic.article> "m.01z57" .
+<Film> <rdf-schema#range> "Film" .
+<Teen_Wolf_Too> <film.film.genre> "Comedy" .
+<Comedy> <media_common.media_genre.child_genres> "Stand-up comedy" .
+<Reinhart_'Rayteam'_Peschke> <common.topic.article> "m.0h3f21f" .
+<Vampire_Cheerleaders> <comic_strips.comic_strip.genre> "Comedy" .
+<Fantasio> <opera.opera.genre> "Comedy" .
+<Side_Street_Story> <freebase.valuenotation.has_no_value> "Sequel" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0772dhl" .
+<Comedy> <people.person.metaweb_user_s> "emmaclarke" .
+<Source_film> <rdf-schema#range> "Film" .
+<Fascination> <freebase.valuenotation.has_no_value> "Story by" .
+<The_Extendables> <film.film.starring> "m.0hcb7gf" .
+<Favorite_Films> <rdf-schema#range> "Film" .
+<m.0gbwn_p> <film.performance.actor> "Bruce Locke" .
+<Autism> <medicine.disease.risk_factors> "Male" .
+<San_Fernando_Valley> <location.location.containedby> "United States of America" .
+<Film> <common.topic.subject_of> "Albrecht Behmel" .
+<Brian_Thompson> <film.actor.film> "m.0k74f_" .
+<The_Shaggy_D.A.> <film.film.genre> "Slapstick" .
+<m.0hcb7n2> <film.performance.film> "The Extendables" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<The_Wotch> <comic_strips.comic_strip.genre> "Comedy" .
+<Urolithiasis> <medicine.disease.risk_factors> "Male" .
+<Woman_Thou_Art_Loosed> <film.film.language> "English Language" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<Making_Possibilities> <film.film.country> "United States of America" .
+<Meningococcal_disease> <medicine.disease.risk_factors> "Male" .
+<Brian_Thompson> <people.person.nationality> "United States of America" .
+<Film_Story_Credits> <rdf-schema#range> "Film" .
+<Shapeshifting> <book.book_subject.works> "Bone Crossed" .
+<Films_of_this_genre> <rdf-schema#range> "Film" .
+<Art_direction_by> <type.property.reverse_property> "Films art directed" .
+<m.0_lblc1> <education.education.student> "Brian Thompson" .
+<Kevin_Sorbo> <people.person.profession> "Voice Actor" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<London_Comedy_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Fictional_Character> <type.type.expected_by> "Siblings" .
+<Brian_Thompson> <film.actor.film> "m.0cvcc3w" .
+<Comedy> <media_common.media_genre.parent_genre> "Entertainment" .
+<m.0hcb7hq> <film.performance.character> "Sir Jeffrey" .
+<m.0hcb93d> <film.performance.actor> "Noelle Locke" .
+<Side_Street_Story> <common.topic.notable_types> "Film" .
+<Comedy> <film.film_subject.films> "Open Casket" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<Frank_Welker> <freebase.valuenotation.is_reviewed> "Gender" .
+<English_Language> <language.human_language.countries_spoken_in> "Australia" .
+<Comedy> <media_common.media_genre.child_genres> "Television comedy" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<Fictional_Character> <type.type.properties> "Married To" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Chibi Devi!" .
+<m.0bw07t_> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Las Vegas Jewish Film Festival" .
+<Film> <type.type.expected_by> "Films" .
+<Noelle_Locke> <people.person.profession> "Actor" .
+<Golden_Globe_Award_for_Best_Actor_–_Motion_Picture_Musical_or_Comedy> <award.award_category.disciplines_or_subjects> "Comedy" .
+<Comedy> <media_common.media_genre.child_genres> "Romantic comedy" .
+<Reinhart_'Rayteam'_Peschke> <people.person.profession> "Cinematographer" .
+<Comedy> <broadcast.radio_format.stations> "Barry" .
+<Kaposi's_sarcoma> <medicine.disease.risk_factors> "Male" .
+<Light_Years> <film.film.language> "English Language" .
+<Film_production_designer> <type.type.properties> "Films production designed" .
+<Songs> <rdf-schema#domain> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Ongoing Adventures of Rocket Llama" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Scary Go Round" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Film_actor> <freebase.type_profile.strict_included_types> "Topic" .
+<Bone_Crossed> <book.written_work.next_in_series> "Silver Borne" .
+<m.0hcb80y> <film.performance.actor> "Lorielle New" .
+<Bruce_Locke> <film.actor.film> "m.0h720ss" .
+<Alan_Derian> <freebase.valuenotation.has_value> "Place of birth" .
+<AD> <film.film_character.portrayed_in_films> "m.0hcb7x0" .
+<Film_cinematographer> <freebase.type_profile.equivalent_topic> "Cinematographer" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Attention deficit hyperactivity disorder" .
+<Grey_Legacy> <comic_strips.comic_strip.genre> "Comedy" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Pani Poni" .
+<Life_of_TimmY> <comic_strips.comic_strip.genre> "Comedy" .
+<Transient_ischemic_attack> <medicine.disease.causes> "Cardiovascular disease" .
+<Bruce_Locke> <tv.tv_actor.guest_roles> "m.0ggy8kw" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<Shamshi> <fictional_universe.fictional_character.powers_or_abilities> "Shapeshifting" .
+<Produced_by> <owl#inverseOf> "Films Produced" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<I'm@Work_-_Water_Cooler_Talk> <base.webvideo.internet_video.country_of_origin> "United States of America" .
+<Comedy> <film.film_subject.films> "A Child's Christmases in Wales" .
+<The_Wolf_Man> <film.film.country> "United States of America" .
+<Comedy> <common.topic.subject_of> "The N Crowd" .
+<Marisa_Ramirez> <common.topic.notable_types> "Film actor" .
+<Adam_J._Smith> <people.person.profession> "Actor" .
+<Casting_director> <type.property.reverse_property> "Films casting directed" .
+<Film_music_credits> <type.property.master_property> "Music by" .
+<Sir_Jeffrey> <film.film_character.portrayed_in_films> "m.0hcb7hq" .
+<After_Freedom> <film.film.genre> "Drama" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Dennis the Menace" .
+<Fu_Ding_Cheng> <people.person.profession> "Screenwriter" .
+<Brian_Thompson> <film.producer.film> "Fortress" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<The_Loaded_Dog> <book.written_work.original_language> "English Language" .
+<Film> <rdf-schema#range> "Film" .
+<The_Extendables> <film.film.starring> "m.0hcb7x0" .
+<Sherwood_Jones> <freebase.valuenotation.has_value> "Date of birth" .
+<Movie> <type.property.expected_type> "Film" .
+<Film_festivals> <rdf-schema#domain> "Film" .
+<Film> <type.type.domain> "Film" .
+<The_Shaggy_D.A.> <freebase.valuenotation.is_reviewed> "Sequel" .
+<Sequel> <rdf-schema#range> "Film" .
+<Leslie_Garza> <film.actor.film> "m.0hcb877" .
+<Film_music_credits> <type.property.schema> "Film music contributor" .
+<Executive_produced_by> <type.property.schema> "Film" .
+<Featured_Locations> <type.property.schema> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Megatokyo" .
+<Fork_in_the_Socket> <common.topic.subjects> "Comedy" .
+<Comedy> <internet.website_category.sites> "mantlepies.com" .
+<The_N_Crowd> <organization.organization.sectors> "Entertainment" .
+<New_Zealand> <location.country.official_language> "English Language" .
+<Film_actor> <type.type.domain> "Film" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Ninpen Manmaru" .
+<Comedy> <internet.website_category.sites> "Rooftop Comedy Official Website" .
+<Fictional_Character> <type.type.expected_by> "Partner" .
+<An_American_Werewolf_in_Paris> <freebase.valuenotation.has_no_value> "Sequel" .
+<Reinhart_'Rayteam'_Peschke> <common.topic.webpage> "m.0h4vrz1" .
+<Production_companies> <type.property.reverse_property> "Films" .
+<m.0ggxm18> <tv.tv_guest_role.actor> "Bruce Locke" .
+<Film> <type.type.properties> "Casting director" .
+<Actor> <award.award_discipline.awards_in_this_discipline> "Golden Globe Award for Best Actress – Motion Picture – Musical or Comedy" .
+<m.0hcb7hq> <film.performance.actor> "Ian Patrick Williams" .
+<Fictional_Character> <type.type.expected_by> "House Head" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<The_Extendables> <film.film.starring> "m.0hcb877" .
+<Directed_by> <rdf-schema#domain> "Film" .
+<Light_Years> <common.topic.notable_types> "Film" .
+<Craig_Kilborn> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Film> <type.property.expected_type> "Film" .
+<Michelle_Metzner> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Bruce_Locke> <tv.tv_actor.guest_roles> "m.0ggqg8x" .
+<Sherwood_Jones> <film.editor.film> "The Extendables" .
+<Fictional_Character> <type.type.properties> "Gender" .
+<Personal_appearances> <type.property.master_property> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Bad Machinery" .
+<Fictional_Character> <type.type.expected_by> "Spoken by" .
+<Casting_director> <rdf-schema#range> "Film casting director" .
+<The_Extendables> <film.film.starring> "m.0hcb911" .
+<Film_producer> <type.type.expected_by> "Executive produced by" .
+<A_Child's_Christmases_in_Wales> <film.film.genre> "Comedy" .
+<m.03pl7bm> <people.place_lived.person> "Brian Thompson" .
+<After_Freedom> <common.topic.notable_types> "Film" .
+<Brian_Thompson> <film.writer.film> "The Extendables" .
+<Fictional_Character> <type.type.properties> "Parents" .
+<Sherwood_Jones> <common.topic.notable_types> "Film writer" .
+<Somewhere_Slow> <film.film.genre> "Drama" .
+<Film_writer> <type.type.expected_by> "Screenplay by" .
+<Musical_comedy> <common.topic.notable_types> "Film genre" .
+<Metacritic_film_ID> <rdf-schema#domain> "Film" .
+<Brian_Thompson> <people.person.profession> "Actor" .
+<Film> <type.type.properties> "Film Collections" .
+<Comedy> <common.topic.notable_types> "Film genre" .
+<Television_comedy> <media_common.media_genre.child_genres> "Sitcom" .
+<Zap!> <comic_strips.comic_strip.genre> "Comedy" .
+<Lupin_III> <base.animemanga.anime_manga_franchise.manga_title> "Lupin III" .
+<m.0hcb7zw> <film.performance.film> "The Extendables" .
+<Sequel> <type.property.expected_type> "Film" .
+<Film> <type.type.expected_by> "Film sets designed" .
+<Film> <freebase.type_profile.kind> "Definition" .
+<I'm@Work_-_Water_Cooler_Talk> <base.webvideo.internet_video_episode.subject> "Sketch comedy" .
+<Songs> <type.property.reverse_property> "Film" .
+<Bruce_Locke> <freebase.valuenotation.is_reviewed> "Gender" .
+<Fictional_Character> <type.type.expected_by> "Parents" .
+<Slapstick> <common.topic.notable_types> "Film genre" .
+<Shao_Kahn> <common.topic.article> "m.037bv3" .
+<Film_Collections> <type.property.schema> "Film" .
+<Film> <type.property.expected_type> "Film" .
+<Teen_Wolf> <film.film.sequel> "Teen Wolf Too" .
+<emmaclarke> <freebase.user_profile.person> "Comedy" .
+<Fictional_Character> <type.type.properties> "Weight" .
+<Minna_Atsumare!_Falcom_Gakuen> <comic_books.comic_book_series.genre> "Comedy" .
+<m.0hcb7b3> <film.performance.character> "Vardell Duseldorfer" .
+<Somewhere_Slow> <film.film.country> "United States of America" .
+<Voice_Actor> <people.profession.specialization_of> "Actor" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<Seen_in_movie/TV_show> <type.property.expected_type> "Film" .
+<Brian_Thompson> <film.actor.film> "m.02vbk3j" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Frank_Welker> <people.person.profession> "Actor" .
+<Music_by> <rdf-schema#range> "Film music contributor" .
+<Bugs_Bunny_Gets_the_Boid> <common.topic.notable_types> "Film" .
+<Casting_director> <rdf-schema#domain> "Film" .
+<Film_writer> <freebase.type_profile.equivalent_topic> "Screenwriter" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Cyborg Kuro-chan" .
+<The_Uncles> <common.topic.notable_types> "Film" .
+<m.0hcb7bj> <film.performance.character> "Writer" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bw218j" .
+<Film> <type.type.properties> "Post-production" .
+<Comedy> <book.book_subject.works> "Russell Brand" .
+<Gin_Tama> <comic_books.comic_book_series.genre> "Comedy" .
+<Benign_prostatic_hyperplasia> <medicine.disease.risk_factors> "Male" .
+<Ranma_1/2> <base.animemanga.anime_manga_franchise.genre> "Comedy" .
+<Love,_Sex,_Death,_and_the_Meaning_of_Life> <book.written_work.subjects> "United States of America" .
+<Film> <freebase.equivalent_topic.equivalent_type> "Film" .
+<Film> <type.type.properties> "Costume design by" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0h4ztwt> <film.performance.film> "The Extendables" .
+<Frank_Welker> <people.person.profession> "Voice Actor" .
+<Fictional_Character> <freebase.type_hints.included_types> "Topic" .
+<Bruce_Locke> <film.actor.film> "m.0gcjk9l" .
+<Film> <type.type.properties> "Film Series" .
+<Teekyu> <comic_books.comic_book_series.genre> "Comedy" .
+<Film> <type.type.expected_by> "Film cinematography credits" .
+<Production_design_by> <rdf-schema#domain> "Film" .
+<Lorielle_New> <freebase.valuenotation.has_value> "Date of birth" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvy5yc" .
+<m.0hcb9j8> <film.film_crew_gig.crewmember> "Will Ogilvie" .
+<Michelle_Metzner> <freebase.valuenotation.has_value> "Parents" .
+<Film> <type.type.expected_by> "Movie Inspiration" .
+<Crittertude> <comic_strips.comic_strip.genre> "Comedy" .
+<Fascination> <common.topic.notable_types> "Film" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<Film> <rdf-schema#range> "Film" .
+<An_American_Werewolf_in_Paris> <film.film.language> "English Language" .
+<The_Shaggy_Dog_[1959]> <film.film.language> "English Language" .
+<Comedy> <organization.organization_sector.organizations_in_this_sector> "The N Crowd" .
+<Male> <common.topic.image> "male.jpg" .
+<m.0hcb877> <film.performance.film> "The Extendables" .
+<Ellensburg> <location.location.containedby> "United States of America" .
+<Shapeshifting> <fictional_universe.medical_condition_in_fiction.characters_with_this_condition> "Shamshi" .
+<Beneath_the_Blue> <film.film.country> "United Kingdom" .
+<Shapeshifting> <common.topic.notable_for> "g.125b9r32x" .
+<Drama> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Sundome" .
+<Teen_Wolf> <film.film.country> "United States of America" .
+<Film> <type.type.expected_by> "Film" .
+<m.0bvzmr0> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<Patrick_Warburton> <people.person.profession> "Film Producer" .
+<Sequel> <type.property.delegated> "Sequel" .
+<The_Apostate> <film.film.cinematography> "Reinhart 'Rayteam' Peschke" .
+<Gout> <medicine.disease_cause.diseases> "Kidney Stone" .
+<RiffTrax> <tv.tv_program.languages> "English Language" .
+<Fictional_Character> <type.type.expected_by> "Representations In Fiction" .
+<m.0hcb8s4> <film.personal_film_appearance.person> "Kevin Sorbo" .
+<Vote_Wally_Panther!_CORE_VALUES_#2:_Don't_Trust_Newspapers_(yndotStreet_comedy)> <base.webvideo.internet_video.country_of_origin> "United States of America" .
+<m.04dc9x2> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Philadelphia_QFest_Audience_Award_for_Best_Feature_Comedy> <award.award_category.disciplines_or_subjects> "Film" .
+<For_Tomorrow:_The_First_Step_of_the_Revolution> <film.film.country> "United States of America" .
+<Production_design_by> <owl#inverseOf> "Films production designed" .
+<Yoshiwara> <book.written_work.subjects> "Comedy" .
+<Film> <type.property.expected_type> "Film" .
+<Sherwood_Jones> <people.person.gender> "Male" .
+<Hair_loss> <medicine.disease.risk_factors> "Male" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Peter_Bayer> <film.editor.film> "The Extendables" .
+<Film_format> <rdf-schema#domain> "Film" .
+<Film> <owl#inverseOf> "Performances" .
+<Frank_Welker> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Screwball_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Vote_Wally_Panther> <common.topic.subjects> "Comedy" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<Shari_Braun> <common.topic.article> "m.0hcb5qv" .
+<Films_production_designed> <type.property.master_property> "Production design by" .
+<The_Challenge> <film.film.genre> "Comedy" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0dknwgk" .
+<The_Extendables> <common.topic.article> "m.0hcb5lq" .
+<Film_genre> <type.type.domain> "Film" .
+<Brian_Thompson> <people.person.spouse_s> "m.0krrh01" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvw_bg" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<Ectodermal_dysplasia> <medicine.disease.symptoms> "Hair loss" .
+<Brian_Thompson> <award.award_nominee.award_nominations> "m.09gryk4" .
+<Film_Format> <type.property.expected_type> "Film" .
+<Film> <type.type.expected_by> "James Bond film appearance(s)" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<The_Extendables> <film.film.film_production_design_by> "Fu Ding Cheng" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Bobbins" .
+<Gout> <medicine.disease.risk_factors> "Male" .
+<Film> <type.type.expected_by> "Prequel" .
+<Reinhart_'Rayteam'_Peschke> <common.topic.webpage> "m.0h4vrxk" .
+<Ectodermal_dysplasia> <medicine.disease.risk_factors> "Male" .
+<Lorielle_New> <freebase.valuenotation.has_value> "Place of birth" .
+<Country_of_origin> <rdf-schema#domain> "Film" .
+<Comedy> <book.book_subject.works> "The Road to Mars" .
+<Films> <type.property.master_property> "Rated" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bw1l_2" .
+<Comedy> <media_common.media_genre.child_genres> "Sitcom" .
+<The_Shaggy_D.A.> <freebase.valuenotation.is_reviewed> "Prequel" .
+<Kevin_Sorbo> <freebase.valuenotation.is_reviewed> "Gender" .
+<Shapeshifting> <film.film_subject.films> "The Shaggy Dog [1959]" .
+<Film_writer> <freebase.type_profile.published> "Published" .
+<Bugs_Bunny_Gets_the_Boid> <film.film.country> "United States of America" .
+<Keenan's_Room> <internet.website.category> "Comedy" .
+<The_daring_independent_film_festival> <film.film_festival.focus> "Comedy" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Goblins" .
+<An_American_Werewolf_in_London> <common.topic.notable_types> "Film" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Produced by" .
+<King_of_Norway> <freebase.valuenotation.has_no_value> "Film Series" .
+<m.03jsgmz> <film.performance.character> "Shao Kahn" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Okinawa International Movie Festival" .
+<Films_Produced> <type.property.master_property> "Produced by" .
+<Las_Vegas_Jewish_Film_Festival> <film.film_festival.focus> "Comedy" .
+<A_Child's_Christmases_in_Wales> <film.film.language> "English Language" .
+<Anaplastic_thyroid_cancer> <medicine.disease.risk_factors> "Male" .
+<Fandango_ID> <type.property.schema> "Film" .
+<Brian_Thompson> <tv.tv_actor.starring_roles> "m.0bvwv4w" .
+<Indian_Film_Festival_of_Melbourne> <film.film_festival.focus> "Comedy" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Maria> <film.film_character.portrayed_in_films> "m.0h4ztwt" .
+<Film> <freebase.equivalent_topic.equivalent_domain> "Film" .
+<Brian_Thompson> <film.actor.film> "g.11b7tkyr79" .
+<Ventricular_tachycardia> <medicine.disease.risk_factors> "Male" .
+<Brian_Thompson> <film.actor.film> "m.0gm2tqv" .
+<Sunshine_on_Putty> <book.written_work.subjects> "Entertainment" .
+<Remake_of> <rdf-schema#range> "Film" .
+<Fictional_Character> <base.descriptive_names.names.descriptive_name> "m.0115smhk" .
+<Desolate_Road> <common.topic.notable_types> "Film" .
+<Alan_Derian> <people.person.gender> "Male" .
+<Reinhart_'Rayteam'_Peschke> <film.cinematographer.film> "For Tomorrow: The First Step of the Revolution" .
+<Brian_Thompson> <film.actor.film> "m.0hcb7b3" .
+<m.0bvwv4w> <tv.regular_tv_appearance.actor> "Brian Thompson" .
+<Michelle_Metzner> <people.person.spouse_s> "m.0r3xs76" .
+<m.04yzbgs> <film.performance.actor> "Brian Thompson" .
+<Films_About_This_Topic> <type.property.expected_type> "Film" .
+<m.0gfy4pw> <tv.tv_guest_role.actor> "Bruce Locke" .
+<m.0772dhl> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Leslie_Garza> <freebase.valuenotation.has_value> "Place of birth" .
+<Beneath_the_Blue> <film.film.music> "Alan Derian" .
+<Film> <type.type.properties> "Film format" .
+<Films> <rdf-schema#range> "Film" .
+<Sluggy_Freelance> <comic_strips.comic_strip.genre> "Comedy" .
+<Story_by> <owl#inverseOf> "Film Story Credits" .
+<Filming> <rdf-schema#domain> "Film" .
+<Film_writer> <type.type.domain> "Film" .
+<I'm@Work_-_Call_Home> <base.webvideo.internet_video.genre> "Comedy" .
+<Film> <type.type.expected_by> "Frank 1" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "L'Alpe-d'Huez Film Festival" .
+<Production_companies> <owl#inverseOf> "Films" .
+<Skinwalker> <book.written_work.subjects> "Shapeshifting" .
+<Film> <type.domain.types> "Film actor" .
+<The_end_of_kinship> <book.written_work.subjects> "Comedy" .
+<After_Freedom> <film.film.country> "United States of America" .
+<m.0cvc_69> <film.performance.actor> "Brian Thompson" .
+<m.0bw1519> <tv.regular_tv_appearance.actor> "Brian Thompson" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Nangoku Shonen Papuwa-kun" .
+<Kevin_Sorbo> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0r3xs76> <people.marriage.spouse> "Michelle Metzner" .
+<The_Extendables> <common.topic.article> "m.0hf5y_p" .
+<Film> <type.property.expected_type> "Film" .
+<Brian_Thompson> <freebase.valuenotation.has_value> "Siblings" .
+<Sequel> <owl#inverseOf> "Prequel" .
+<Films_On_This_Subject> <type.property.master_property> "Subjects" .
+<Skinwalker> <book.written_work.next_in_series> "Blood Cross" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Film> <type.domain.types> "Film cinematographer" .
+<Mark_Dacascos> <people.person.profession> "Actor" .
+<m.0hcb7x0> <film.performance.character> "AD" .
+<Alan_Derian> <common.topic.article> "m.0hcb66q" .
+<Comedy> <base.kinometric.genre.incompatible_genres> "Drama" .
+<The_Four_Immigrants_Manga> <comic_books.comic_book_series.genre> "Comedy" .
+<Shapeshifting> <film.film_subject.films> "The Wolf Man" .
+<Making_Possibilities> <common.topic.subjects> "Comedy" .
+<Reinhart_'Rayteam'_Peschke> <freebase.valuenotation.has_value> "Parents" .
+<Comedia> <film.film_festival.focus> "Comedy" .
+<Sherwood_Jones> <people.person.profession> "Film Editor" .
+<Instinct_to_Kill> <film.film.country> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<FilmedIn> <type.property.expected_type> "Film" .
+<Comedy> <media_common.media_genre.child_genres> "Workplace Comedy" .
+<m.03lnj47> <common.webpage.topic> "Brian Thompson" .
+<Actor> <people.profession.specializations> "Voice Actor" .
+<Film_writing_credits> <type.property.master_property> "Screenplay by" .
+<Film> <type.type.expected_by> "Film" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<Mark_Dacascos> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<The_System_of_Doctor_Tarr_and_Professor_Fether> <book.short_story.genre> "Comedy" .
+<Subjects> <owl#inverseOf> "Films On This Subject" .
+<For_Tomorrow:_The_First_Step_of_the_Revolution> <film.film.language> "English Language" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "Golden Globe Award for Best Motion Picture – Musical or Comedy" .
+<Comedy> <film.film_subject.films> "Alabama" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.040qn1l" .
+<Film> <type.property.expected_type> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Ozy and Millie" .
+<Light_Years> <freebase.valuenotation.is_reviewed> "Produced by" .
+<Reinhart_'Rayteam'_Peschke> <film.cinematographer.film> "Woman Thou Art Loosed" .
+<I'm@Work_-_Call_Home> <base.webvideo.internet_video.country_of_origin> "United States of America" .
+<Films> <type.property.expected_type> "Film" .
+<Film> <type.property.expected_type> "Film" .
+<Fictional_Character> <type.type.expected_by> "Character(s) affected" .
+<Frank_Welker> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0bvxwlm> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Screenplay_by> <rdf-schema#domain> "Film" .
+<Post-production> <type.property.schema> "Film" .
+<An_American_Werewolf_in_London> <film.film.country> "United Kingdom" .
+<m.0771y68> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Dupuytren's_contracture> <medicine.disease.risk_factors> "Male" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<Magic_Burns> <book.written_work.subjects> "Shapeshifting" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.07ljmhf" .
+<m.03jsgmz> <film.performance.actor> "Frank Welker" .
+<Film> <type.type.expected_by> "Prequel" .
+<m.0bw0d_s> <tv.regular_tv_appearance.actor> "Brian Thompson" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Awfully Sweet, Awfully Dumb" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.0hcb7bj> <film.performance.film> "The Extendables" .
+<Film> <type.type.expected_by> "Appears in film" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<Russell_Brand> <book.written_work.subjects> "Entertainment" .
+<Film_casting_director> <freebase.type_profile.strict_included_types> "Topic" .
+<Comedy> <media_common.media_genre.child_genres> "Second-Hand NY" .
+<Film_Format> <type.property.master_property> "Film format" .
+<Shari_Braun> <film.producer.film> "The Extendables" .
+<Patrick_Warburton> <people.person.nationality> "United States of America" .
+<Film_casting_director> <freebase.type_hints.included_types> "Topic" .
+<RiffTrax> <tv.tv_program.subjects> "Comedy" .
+<Bob_Hope:_The_Road_Well-Traveled> <book.written_work.subjects> "Film" .
+<The_Ransom_of_Red_Chief> <book.written_work.original_language> "English Language" .
+<Carl_Ciarfalio> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Leslie_Garza> <common.topic.notable_types> "Film actor" .
+<Film_casting_director> <type.type.expected_by> "Casting director" .
+<The_N_Crowd> <organization.organization.sectors> "Comedy" .
+<Gary_Graham> <common.topic.notable_types> "Film producer" .
+<The_Extendables> <film.film.produced_by> "Shari Braun" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Many Paths to Eden" .
+<Suppressant> <film.film.country> "United States of America" .
+<Ray_Bradbury’s_Kaleidoscope> <freebase.valuenotation.has_no_value> "Sequel" .
+<Film> <type.type.expected_by> "Films About This Topic" .
+<Ray_Bradbury’s_Kaleidoscope> <film.film.language> "English Language" .
+<Comedy> <book.book_subject.works> "The Death of Comedy" .
+<Shapeshifting> <film.film_subject.films> "Teen Wolf Too" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0ghqb3l" .
+<Comedy> <book.book_subject.works> "Sunshine on Putty" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_season.episodes> "WALLY'S CORE VALUES #1-5 (yndotStreet comedy)" .
+<Film> <type.type.expected_by> "FilmedIn" .
+<The_Extendables> <film.film.produced_by> "Brian Thompson" .
+<Sequel> <rdf-schema#range> "Film" .
+<Costume_design_by> <rdf-schema#domain> "Film" .
+<The_Extendables> <film.film.directed_by> "Brian Thompson" .
+<m.0gmk6p7> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<Awfully_Sweet,_Awfully_Dumb> <common.topic.subjects> "Sketch comedy" .
+<Film_Producer> <people.profession.corresponding_type> "Film producer" .
+<Peter_Bayer> <common.topic.notable_types> "Film editor" .
+<Film_cinematographer> <freebase.type_profile.strict_included_types> "Topic" .
+<Entertainment> <media_common.media_genre.child_genres> "Drama" .
+<m.0hcb7b3> <film.performance.film> "The Extendables" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<m.0bw15x7> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Lee_Garlington> <people.person.nationality> "United States of America" .
+<Film_Series> <rdf-schema#domain> "Film" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0g05trn" .
+<Film> <type.type.properties> "Initial release date" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Concerned" .
+<Reverie> <comic_books.comic_book_series.genre> "Comedy" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<Shari_Braun> <people.person.spouse_s> "m.0pddgt2" .
+<Film_genre> <type.type.expected_by> "Genres" .
+<Film_music_contributor> <type.type.domain> "Film" .
+<Fu_Ding_Cheng> <common.topic.notable_types> "Film production designer" .
+<A_Child's_Christmases_in_Wales> <film.film.country> "United Kingdom" .
+<Fictional_Character> <type.type.expected_by> "Character" .
+<The_Shaggy_D.A.> <freebase.valuenotation.has_no_value> "Sequel" .
+<Cinematographer> <freebase.equivalent_topic.equivalent_type> "Film cinematographer" .
+<Pectus_excavatum> <medicine.disease.risk_factors> "Male" .
+<Drama> <base.animemanga.anime_manga_genre.anime_manga_franchises> "Hikaru no Go" .
+<Call_Max_Cleveland!_(commercial_parody)> <base.webvideo.internet_video.genre> "Comedy" .
+<Reinhart_'Rayteam'_Peschke> <film.cinematographer.film> "Desolate Road" .
+<Film> <type.type.expected_by> "Movie" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<Shock_Asylum> <film.film.country> "United States of America" .
+<Fictional_Character> <type.type.expected_by> "House Ghost" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvw44q" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "The Four Immigrants Manga" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<Prequel> <type.property.master_property> "Sequel" .
+<m.0hcb7gf> <film.performance.actor> "Marisa Ramirez" .
+<Film> <rdf-schema#range> "Film" .
+<Films_casting_directed> <type.property.expected_type> "Film" .
+<Fictional_Character> <type.type.properties> "Character Created By" .
+<Comedy> <film.film_subject.films> "Shock Asylum" .
+<m.0hcb852> <film.performance.character> "Best Boy" .
+<Loxie_&_Zoot> <comic_strips.comic_strip.genre> "Comedy" .
+<Light_Years> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Albrecht_Behmel> <people.person.gender> "Male" .
+<Michelle_Metzner> <film.film_casting_director.films_casting_directed> "Touching Home" .
+<Leslie_Garza> <freebase.valuenotation.is_reviewed> "Gender" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<IS> <base.animemanga.anime_manga_franchise.genre> "Comedy" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<Carl_Ciarfalio> <common.topic.notable_types> "Film actor" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Friars Club Comedy Film Festival" .
+<Queen_of_Wands> <comic_strips.comic_strip.genre> "Comedy" .
+<A_Child's_Christmases_in_Wales> <common.topic.notable_types> "Film" .
+<Open_Casket> <film.film.country> "United Kingdom" .
+<Blood_Cross> <book.written_work.previous_in_series> "Skinwalker" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "L.A. Comedy Shorts Film Festival" .
+<Fictional_Character> <type.type.expected_by> "Characters with this condition" .
+<The_Shaggy_D.A.> <film.film.subjects> "Shapeshifting" .
+<Initial_release_date> <rdf-schema#domain> "Film" .
+<Burton> <film.film_character.portrayed_in_films> "m.0hcb7zw" .
+<m.0hcb911> <film.performance.actor> "Chuck Abernathy" .
+<m.0cvcf1s> <film.performance.actor> "Brian Thompson" .
+<Alan_Derian> <film.music_contributor.film> "The Extendables" .
+<Apple_movie_trailer_ID> <rdf-schema#domain> "Film" .
+<Film> <type.type.properties> "Estimated budget" .
+<Ratko:_The_Dictator's_Son> <film.film.country> "United States of America" .
+<m.03jssjy> <film.performance.film> "Mortal Kombat: Annihilation" .
+<Test_property> <rdf-schema#range> "Film" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<m.0gcg4xp> <film.performance.actor> "Bruce Locke" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<Craig_Kilborn> <people.person.profession> "Actor" .
+<Ratko:_The_Dictator's_Son> <film.film.country> "Canada" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Fictional_Character> <type.type.properties> "Ethnicity" .
+<Rated> <rdf-schema#domain> "Film" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<A-List> <film.film.language> "English Language" .
+<Film> <type.type.expected_by> "Featured Film" .
+<m.06npm25> <type.property.delegated> "Fictional Characters Born Here" .
+<Film> <type.type.expected_by> "Films production designed" .
+<Wally_Panther_vs._The_Pizza_Guy_(yndotStreet_comedy)> <base.webvideo.internet_video.country_of_origin> "United States of America" .
+<Lee_Garlington> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Fictional_Character> <type.type.expected_by> "Characters in line" .
+<Fictional_Character> <type.type.expected_by> "Derived From" .
+<Film> <type.domain.types> "Film genre" .
+<Michelle_Metzner> <people.person.place_of_birth> "San Fernando Valley" .
+<Shari_Braun> <freebase.valuenotation.has_value> "Parents" .
+<Subjects> <type.property.schema> "Film" .
+<Film> <type.type.properties> "Production design by" .
+<Prequel> <rdf-schema#range> "Film" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<Film_music_contributor> <type.type.expected_by> "Music by" .
+<Shapeshifting> <film.film_subject.films> "An American Werewolf in London" .
+<The_Landlord> <base.webvideo.internet_video.genre> "Comedy" .
+<Film> <type.type.expected_by> "Films" .
+<Ian_Patrick_Williams> <freebase.valuenotation.has_value> "Date of birth" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<Wally_Panther_vs._The_Pizza_Guy_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.season> "Vote Wally Panther" .
+<Leprosy> <medicine.disease.risk_factors> "Male" .
+<Lorielle_New> <people.person.profession> "Actor" .
+<Ian_Patrick_Williams> <people.person.gender> "Male" .
+<King_of_Norway> <freebase.valuenotation.is_reviewed> "Country of origin" .
+<Jeff_Ross> <people.person.languages> "English Language" .
+<Film> <type.type.expected_by> "Film" .
+<Film> <type.type.properties> "NY Times ID" .
+<King_of_Norway> <freebase.valuenotation.has_no_value> "Sequel" .
+<Films_Executive_Produced> <rdf-schema#domain> "Film producer" .
+<Drama> <base.kinometric.genre.incompatible_genres> "Comedy" .
+<Comedy> <internet.website_category.sites> "The Landline TV" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<Kevin_Sorbo> <film.person_or_entity_appearing_in_film.films> "m.0hcb8s4" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0kdflv9" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<m.02vbk3j> <film.performance.actor> "Brian Thompson" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<Michelle_Metzner> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<The_Columbia_Comedy_Shorts> <book.written_work.subjects> "Comedy" .
+<Fictional_Character> <type.type.expected_by> "Characters of this Gender" .
+<Film> <rdf-schema#range> "Film" .
+<Michelle_Metzner> <film.film_casting_director.films_casting_directed> "Suppressant" .
+<Film> <type.type.expected_by> "Source film" .
+<Films_edited> <rdf-schema#domain> "Film editor" .
+<Appeared_In_Movie> <rdf-schema#range> "Film" .
+<Goats> <comic_strips.comic_strip.genre> "Comedy" .
+<Directed_by> <type.property.reverse_property> "Films directed" .
+<Bert_Thompson> <freebase.valuenotation.has_value> "Parents" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "WALLY'S CORE VALUES #1-5 (yndotStreet comedy)" .
+<Genres> <rdf-schema#domain> "Film" .
+<Refuge_from_the_Storm> <film.film.edited_by> "Sherwood Jones" .
+<Non-gonococcal_urethritis> <medicine.disease.risk_factors> "Male" .
+<Sazae-san> <comic_strips.comic_strip.genre> "Comedy" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Languages" .
+<Brian_Thompson> <people.person.places_lived> "m.03pl7bm" .
+<Female> <common.topic.subjects> "ZasPorn" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Adventures of Dr. McNinja" .
+<Reinhart_'Rayteam'_Peschke> <freebase.valuenotation.has_value> "Country of nationality" .
+<Sunshine_on_Putty> <book.written_work.subjects> "Comedy" .
+<Sherwood_Jones> <freebase.valuenotation.has_value> "Parents" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Mobile Suit Gundam-san" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bw07t_" .
+<Lee_Tosca> <freebase.valuenotation.has_value> "Date of birth" .
+<Comedy> <book.book_subject.works> "The War of the Worlds" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<Film> <freebase.type_hints.included_types> "Topic" .
+<Film> <type.type.expected_by> "Film" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<Shari_Braun> <freebase.valuenotation.has_value> "Country of nationality" .
+<Prequel> <type.property.expected_type> "Film" .
+<Films_edited> <type.property.master_property> "Edited by" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<Patrick_Warburton> <people.person.gender> "Male" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<m.0v91xmq> <film.performance.actor> "Bruce Locke" .
+<An_American_Werewolf_in_Paris> <film.film.genre> "Comedy" .
+<Getting_There:_Sweet_16_and_Licensed_to_Drive> <film.film.country> "United States of America" .
+<Includes_Film> <rdf-schema#range> "Film" .
+<Fictional_Character> <type.type.properties> "Employers" .
+<Film> <type.type.expected_by> "Films directed" .
+<Mafia_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Light_Years> <film.film.country> "United States of America" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.05np4lt" .
+<Executive_produced_by> <type.property.expected_type> "Film producer" .
+<Journey_from_the_Heart> <film.film.language> "English Language" .
+<Produced_by> <type.property.expected_type> "Film producer" .
+<m.0hcb80y> <film.performance.film> "The Extendables" .
+<Ian_Patrick_Williams> <freebase.valuenotation.has_value> "Parents" .
+<Music_by> <type.property.reverse_property> "Film music credits" .
+<Bruce_Locke> <film.actor.film> "m.0v1rsfq" .
+<Bugs_Bunny_Gets_the_Boid> <film.film.subjects> "Comedy" .
+<The_Challenge> <film.film.language> "English Language" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Music by" .
+<Sitcom> <media_common.media_genre.child_genres> "Second-Hand NY" .
+<Set_Decoration_by> <type.property.schema> "Film" .
+<Film> <type.type.expected_by> "Films" .
+<Patrick_Warburton> <film.actor.film> "m.0h2wqy5" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Shaman King" .
+<Films_In_Series> <type.property.expected_type> "Film" .
+<Film> <rdf-schema#range> "Film" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Vote Wally Panther! CORE VALUES #4: Government IS The Problem (yndotStreet comedy)" .
+<Gary_Graham> <people.person.gender> "Male" .
+<Gary_Graham> <film.actor.film> "m.0hcb7zw" .
+<Screwball_comedy> <common.topic.notable_types> "Film genre" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "I'm@Work - Water Cooler Talk" .
+<Bruce_Locke> <film.actor.film> "m.0v91xmq" .
+<Questionable_Content> <comic_strips.comic_strip.genre> "Comedy" .
+<Films_shown> <type.property.expected_type> "Film" .
+<m.0h14c4p> <film.performance.actor> "Brian Thompson" .
+<Tetralogy_of_Fallot> <medicine.disease.risk_factors> "Male" .
+<Film> <freebase.domain_profile.equivalent_topic> "Film" .
+<Edited_by> <owl#inverseOf> "Films edited" .
+<Featured_Song> <owl#inverseOf> "Featured in film" .
+<Acceptance> <film.film.country> "United States of America" .
+<Primary_language> <rdf-schema#domain> "Film" .
+<The_Extendables> <film.film.starring> "m.0hcb852" .
+<English_Language> <language.human_language.main_country> "Republic of Ireland" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Prequel" .
+<Production_companies> <type.property.schema> "Film" .
+<Peter_Bayer> <people.person.profession> "Film Editor" .
+<Making_Possibilities> <film.film.genre> "Romantic comedy" .
+<m.0v1rsfq> <film.performance.actor> "Bruce Locke" .
+<Shapeshifting> <book.book_subject.works> "Blood Cross" .
+<Film> <type.type.expected_by> "Films On This Subject" .
+<Peter_Bayer> <people.person.place_of_birth> "India" .
+<Edited_by> <type.property.reverse_property> "Films edited" .
+<Workplace_Comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Marisa_Ramirez> <film.actor.film> "m.0hcb7gf" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<Acceptance> <film.film.language> "English Language" .
+<Our_Lips_Are_Sealed> <film.film.edited_by> "Sherwood Jones" .
+<Distributors> <rdf-schema#domain> "Film" .
+<Brian_Thompson> <film.actor.film> "m.0112_s_r" .
+<m.0dknwgk> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Fu_Ding_Cheng> <film.film_production_designer.films_production_designed> "Journey from the Heart" .
+<The_Road_to_Mars> <book.written_work.subjects> "Comedy" .
+<Film> <type.type.properties> "Set Decoration by" .
+<The_Landline_TV> <internet.website.category> "Comedy" .
+<United_States_of_America> <location.country.first_level_divisions> "Oregon" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Area 88" .
+<m.0gm2tqv> <film.performance.actor> "Brian Thompson" .
+<Kevin_Sorbo> <people.person.nationality> "United States of America" .
+<Film_sets_designed> <type.property.expected_type> "Film" .
+<Alan_Derian> <people.person.profession> "Film Score Composer" .
+<Queen_of_America> <book.written_work.subjects> "Drama" .
+<Bruce_Locke> <tv.tv_actor.guest_roles> "m.0ggpgsl" .
+<Shapeshifting> <book.book_subject.works> "Silver Borne" .
+<Michelle_Metzner> <film.film_casting_director.films_casting_directed> "Casting Ripe Live" .
+<Featured_Song> <type.property.schema> "Film" .
+<m.0hcb852> <film.performance.film> "The Extendables" .
+<Bruce_Locke> <film.actor.dubbing_performances> "m.0x2r_6_" .
+<Film> <type.property.reverse_property> "Distributors" .
+<Film> <type.domain.types> "Film production designer" .
+<m.0hcb7gf> <film.performance.film> "The Extendables" .
+<Sparkling_Generation_Valkyrie_Yuuki> <comic_strips.comic_strip.genre> "Comedy" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bvyjfj" .
+<Film_Story_Credits> <type.property.master_property> "Story by" .
+<Mark_Dacascos> <film.actor.film> "m.0h2wmtr" .
+<Film> <freebase.type_profile.equivalent_topic> "Film" .
+<Films> <type.property.expected_type> "Film" .
+<Film_format> <owl#inverseOf> "Film Format" .
+<Film> <rdf-schema#range> "Film" .
+<Reinhart_'Rayteam'_Peschke> <film.cinematographer.film> "Fascination" .
+<Fictional_Character> <type.type.expected_by> "Students/graduates" .
+<Carl_Ciarfalio> <freebase.valuenotation.has_value> "Parents" .
+<Brian_Thompson> <film.actor.film> "m.0cvch7q" .
+<Fictional_Character> <common.topic.article> "m.02hqq2k" .
+<Film_format> <type.property.schema> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Night Owls" .
+<Comedy> <base.ontologies.ontology_instance.equivalent_instances> "m.07ndwj2" .
+<Favorite_Films> <type.property.expected_type> "Film" .
+<The_Wolf_Man> <film.film.language> "English Language" .
+<Touching_Home> <film.film.country> "United States of America" .
+<m.07ljmhf> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<James_Bond_film_appearance(s)> <rdf-schema#range> "Film" .
+<Alan_Derian> <common.topic.notable_types> "Film music contributor" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Executive produced by" .
+<Golden_Globe_Award_for_Best_Motion_Picture_–_Musical_or_Comedy> <award.award_category.disciplines_or_subjects> "Comedy" .
+<Frank_1> <type.property.expected_type> "Film" .
+<Brian_Thompson> <freebase.valuenotation.is_reviewed> "Gender" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<Journey_from_the_Heart> <film.film.genre> "Comedy" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<Call_Max_Cleveland!_(commercial_parody)> <base.webvideo.internet_video.country_of_origin> "United States of America" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Rave Master" .
+<Fortress> <film.film.language> "English Language" .
+<Comedy> <media_common.media_genre.child_genres> "Sketch comedy" .
+<Film> <type.type.expected_by> "Test property" .
+<Somewhere_Slow> <common.topic.notable_types> "Film" .
+<Shamshi> <fictional_universe.fictional_character.medical_conditions> "Shapeshifting" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Film> <type.type.expected_by> "Film" .
+<Area_88> <comic_books.comic_book_series.genre> "Comedy" .
+<An_American_Werewolf_in_London> <freebase.valuenotation.is_reviewed> "Sequel" .
+<Marisa_Ramirez> <film.actor.film> "m.0h4ztwt" .
+<m.0h4ztwt> <film.performance.character> "Maria" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Homestuck" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Loxie & Zoot" .
+<The_Landlord> <film.film.country> "United States of America" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Sebaceous_cyst> <medicine.disease.risk_factors> "Male" .
+<Fu_Ding_Cheng> <freebase.valuenotation.has_value> "Place of birth" .
+<Comedy> <book.magazine_genre.magazines_in_this_genre> "Yeralash" .
+<Fictional_Character> <type.type.expected_by> "m.06npm25" .
+<Brian_Thompson> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Cyborg_Kuro-chan> <comic_books.comic_book_series.genre> "Comedy" .
+<The_System_of_Doctor_Tarr_and_Professor_Fether> <book.written_work.original_language> "English Language" .
+<Ian_Patrick_Williams> <people.person.profession> "Screenwriter" .
+<Comedy> <book.book_subject.works> "The Hunchback of Notre-Dame" .
+<Films_directed> <rdf-schema#range> "Film" .
+<Light_Years> <freebase.valuenotation.is_reviewed> "Costume design by" .
+<Somewhere_Slow> <film.film.genre> "Comedy" .
+<Rated> <type.property.reverse_property> "Films" .
+<Gary_Graham> <people.person.nationality> "United States of America" .
+<Seen_in_movie/TV_show> <rdf-schema#range> "Film" .
+<Sequel> <rdf-schema#range> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Demon Candy: Parallel" .
+<Sherwood_Jones> <film.editor.film> "TBK: The Toolbox Murders 2" .
+<m.0w1q14z> <film.performance.actor> "Brian Thompson" .
+<Shari_Braun> <people.person.gender> "Female" .
+<Alan_Derian> <freebase.valuenotation.has_value> "Date of birth" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<Film> <type.type.expected_by> "Featured In Films" .
+<Maria> <film.film_character.portrayed_in_films> "m.0hcb7gf" .
+<Fictional_Character> <type.type.expected_by> "Representations in fiction" .
+<Teen_Wolf_Too> <film.film.sequel> "Teen Wolf 3: The Return of the Wolf" .
+<Film> <type.type.expected_by> "Film" .
+<Films> <type.property.expected_type> "Film" .
+<Film> <type.domain.types> "Film writer" .
+<Fictional_Character> <type.type.expected_by> "Parents" .
+<Film_producer> <type.type.expected_by> "Produced by" .
+<Victoria_TX_Independent_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Prequel> <type.property.expected_type> "Film" .
+<Bruce_Locke> <tv.tv_actor.guest_roles> "m.0ggxm18" .
+<Sherwood_Jones> <freebase.valuenotation.is_reviewed> "Gender" .
+<Viral_Spiral> <internet.website.category> "Comedy" .
+<Alan_Derian> <film.music_contributor.film> "Beneath the Blue" .
+<Films> <rdf-schema#range> "Film" .
+<Second-Hand_NY> <base.webvideo.internet_video_series.genre> "Sitcom" .
+<New_Prop> <rdf-schema#range> "Film" .
+<Brian_Thompson> <common.topic.image> "Brian Thompson" .
+<Fictional_Character> <type.type.properties> "Powers or Abilities" .
+<English_Language> <common.topic.subject_of> "dragon-class.com" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Ironfist Chinmi" .
+<Films_casting_directed> <type.property.schema> "Film casting director" .
+<Estimated_budget> <rdf-schema#domain> "Film" .
+<Film> <type.property.expected_type> "Film" .
+<L'Alpe-d'Huez_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Our_Lips_Are_Sealed> <film.film.country> "United States of America" .
+<Ray_Bradbury’s_Kaleidoscope> <freebase.valuenotation.has_no_value> "Film Series" .
+<Bruce_Locke> <film.producer.films_executive_produced> "The Extendables" .
+<Kevin_Sorbo> <people.person.profession> "Film Producer" .
+<Film> <type.type.expected_by> "Film" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<Beneath_the_Blue> <common.topic.notable_types> "Film" .
+<Jeff_Ross> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Produced_by> <rdf-schema#range> "Film producer" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Life of TimmY" .
+<Film> <type.type.properties> "Prequel" .
+<Mud_Dog_Blues> <film.film.cinematography> "Reinhart 'Rayteam' Peschke" .
+<m.0cvcc3w> <film.performance.actor> "Brian Thompson" .
+<m.0wc861k> <film.performance.actor> "Brian Thompson" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Peter_Bayer> <people.person.gender> "Male" .
+<Shapeshifting> <book.book_subject.works> "Moon Called" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Goats" .
+<Chuck_Abernathy> <film.actor.film> "m.0hcb911" .
+<Ratko:_The_Dictator's_Son> <media_common.netflix_title.netflix_genres> "Comedy" .
+<Film> <type.domain.types> "Film producer" .
+<Featured_In_Films> <type.property.master_property> "Notable filming locations" .
+<Noelle_Locke> <common.topic.notable_types> "Film actor" .
+<Teen_Wolf_Too> <media_common.netflix_title.netflix_genres> "Comedy" .
+<Produced_by> <rdf-schema#domain> "Film" .
+<Bruce_Locke> <tv.tv_actor.guest_roles> "m.0gfzy7q" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Queen of Wands" .
+<United_Kingdom> <location.country.languages_spoken> "English Language" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bw2352" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Okashina Okashi – Strange Candy" .
+<The_Extendables> <film.film.starring> "m.0h4ztwt" .
+<Risk_Factor> <freebase.type_hints.included_types> "Topic" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "CineFiesta" .
+<Lee_Garlington> <film.actor.film> "m.0hcb7n2" .
+<Films> <type.property.master_property> "Film festivals" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<Beneath_the_Blue> <media_common.netflix_title.netflix_genres> "Drama" .
+<Fictional_Character> <type.type.properties> "Rank" .
+<m.0bvvxq5> <tv.tv_guest_role.actor> "Brian Thompson" .
+<Film_music_contributor> <freebase.type_profile.published> "Published" .
+<Toulon_Festival_International_des_Musiques_d'Ecran> <film.film_festival.focus> "Comedy" .
+<Fictional_Character> <type.type.expected_by> "Children" .
+<Comedy> <internet.website_category.sites> "Keenan's Room" .
+<Songs> <owl#inverseOf> "Film" .
+<Lee_Tosca> <freebase.valuenotation.has_value> "Parents" .
+<Comedy_Cluj> <film.film_festival.focus> "Comedy" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Crittertude" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Other_crew> <type.property.reverse_property> "Film" .
+<The_Loaded_Dog> <book.short_story.genre> "Comedy" .
+<Craig_Kilborn> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Films_On_This_Subject> <type.property.expected_type> "Film" .
+<Carl_Ciarfalio> <people.person.profession> "Voice Actor" .
+<Comedy> <base.animemanga.anime_manga_genre.anime_manga_franchises> "Arsène Lupin III" .
+<Film> <rdf-schema#range> "Film" .
+<Gary_Graham> <freebase.valuenotation.is_reviewed> "Gender" .
+<Fictional_Character> <type.type.expected_by> "Spoken by character (if from fictional work)" .
+<Syphilis> <medicine.disease.risk_factors> "Male" .
+<Craig_Kilborn> <freebase.valuenotation.is_reviewed> "Gender" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<Film_production_designer> <freebase.type_profile.equivalent_topic> "Production Designer" .
+<m.0hcb7x0> <film.performance.film> "The Extendables" .
+<I'm@Work_-_Water_Cooler_Talk> <base.webvideo.internet_video.genre> "Comedy" .
+<Narbonic> <comic_strips.comic_strip.genre> "Comedy" .
+<Performances> <rdf-schema#domain> "Film" .
+<Frank_Welker> <people.person.gender> "Male" .
+<Alan_Derian> <common.topic.notable_for> "g.12596cghn" .
+<m.0hcb80y> <film.performance.character> "Sue" .
+<Mojacko> <comic_books.comic_book_series.genre> "Comedy" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Film> <type.property.expected_type> "Film" .
+<Arsène_Lupin_III> <base.animemanga.anime_manga_character.manga_appearances> "Lupin III" .
+<Cinematography> <type.property.expected_type> "Film cinematographer" .
+<Reinhart_'Rayteam'_Peschke> <film.cinematographer.film> "The Apostate" .
+<Comedy> <base.events.type_of_performance.includes_type_of_performance> "Knock-knock joke" .
+<Other_film_companies> <rdf-schema#domain> "Film" .
+<Fu_Ding_Cheng> <film.film_production_designer.films_production_designed> "The Extendables" .
+<Comedy> <internet.website_category.sites> "Viral Spiral" .
+<Films> <type.property.expected_type> "Film" .
+<The_Ransom_of_Red_Chief> <book.short_story.genre> "Comedy" .
+<The_Extendables> <film.film.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0gmk6x_" .
+<Set_Decoration_by> <owl#inverseOf> "Film sets designed" .
+<Brian_Thompson> <tv.tv_actor.guest_roles> "m.0bw1y3x" .
+<Shapeshifting> <book.book_subject.works> "Magic Bites" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Vote Wally Panther! CORE VALUES #3: Helping People Isn't Right (yndotStreet comedy)" .
+<The_Extendables> <film.film.starring> "m.0h2wmtr" .
+<Film_cinematography_credits> <type.property.master_property> "Cinematography" .
+<Source_film> <type.property.expected_type> "Film" .
+<Reinhart_'Rayteam'_Peschke> <film.cinematographer.film> "The Power of Few" .
+<Light_Years> <freebase.valuenotation.is_reviewed> "Production design by" .
+<The_Surface> <common.topic.notable_types> "Film" .
+<m.0hcb8dd> <film.performance.character> "Kilborn" .
+<Film_sets_designed> <rdf-schema#range> "Film" .
+<A_Child's_Christmases_in_Wales> <freebase.valuenotation.has_no_value> "Prequel" .

@@ -1,0 +1,1646 @@
+<William_Faulkner> <film.writer.film> "The Big Sleep" .
+<Book_Edition> <type.type.expected_by> "Book edition covers" .
+<Barry_Hannah> <people.deceased_person.cause_of_death> "heart attack" .
+<William_Faulkner> <influence.influence_node.influenced> "Gabriel García Márquez" .
+<William_Faulkner> <people.person.quotations> "Read, read, read. Read everything-- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it. Then write. If it is good, you'll find out. If it's not, throw it out the window." .
+<Jim_Harrison> <common.topic.notable_types> "Author" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Gender" .
+<Emily_Brontë> <influence.influence_node.influenced> "Steve Erickson" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "J. M. G. Le Clézio" .
+<Honoré_de_Balzac> <influence.influence_node.influenced> "Fyodor Dostoyevsky" .
+<Malcolm_Lowry> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<Book> <type.type.properties> "Editions" .
+<Juan_Carlos_Onetti> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Joseph_Conrad> <people.deceased_person.cause_of_death> "heart attack" .
+<Herman_Melville> <influence.influence_node.influenced> "William Faulkner" .
+<Russell_Banks> <influence.influence_node.influenced_by> "Sherwood Anderson" .
+<Don_DeLillo> <influence.influence_node.influenced_by> "Malcolm Lowry" .
+<Carlo_Wolff> <common.topic.notable_types> "Author" .
+<A._B._Yehoshua> <influence.influence_node.influenced_by> "William Faulkner" .
+<Book_Edition> <freebase.type_hints.included_types> "Topic" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Edition_Of> <type.property.expected_type> "Book" .
+<Thomas_Mann> <influence.influence_node.influenced_by> "Friedrich Nietzsche" .
+<Truman_Capote> <influence.influence_node.influenced_by> "Malcolm Lowry" .
+<William_Faulkner> <film.writer.film> "Land of the Pharaohs" .
+<Melinda_Rucker_Haynes> <people.person.nationality> "United States of America" .
+<David_Markson> <influence.influence_node.influenced_by> "William Faulkner" .
+<Book_Edition> <type.type.expected_by> "Digitized Version of" .
+<Philip_Roth> <freebase.valuenotation.is_reviewed> "Parents" .
+<William_Styron> <people.person.nationality> "United States of America" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced> "Paul Auster" .
+<William_Faulkner> <influence.influence_node.influenced> "Hunter S. Thompson" .
+<William_Faulkner> <award.award_nominee.award_nominations> "m.0g4x96g" .
+<Thomas_Wolfe> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Herman_Melville> <influence.influence_node.influenced> "Ralph Ellison" .
+<Hunter_S._Thompson> <people.person.profession> "Novelist" .
+<Jim_Harrison> <freebase.valuenotation.is_reviewed> "Gender" .
+<James_Salter> <influence.influence_node.influenced_by> "Thomas Wolfe" .
+<Thomas_Wolfe> <people.person.nationality> "United States of America" .
+<m.0b9zmkq> <award.award_nomination.award_nominee> "William Faulkner" .
+<David_Markson> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<David_Anthony_Durham> <people.person.profession> "Writer" .
+<Ralph_Ellison> <influence.influence_node.influenced_by> "Herman Melville" .
+<Go_Down,_Moses> <book.book.genre> "Fiction" .
+<William_Faulkner> <influence.influence_node.influenced> "Joseph Heller" .
+<Guram_Dochanashvili> <influence.influence_node.influenced_by> "Gabriel García Márquez" .
+<Go_Down,_Moses> <book.book.editions> "Go Down Moses (Penguin Modern Classics)" .
+<Edna_O'Brien> <influence.influence_node.influenced_by> "James Joyce" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "Charles Dickens" .
+<Author> <type.type.properties> "Book editions edited" .
+<Edgar_Allan_Poe> <influence.influence_node.influenced> "Fyodor Dostoyevsky" .
+<Don_DeLillo> <people.person.profession> "Writer" .
+<Book_Edition> <type.type.properties> "LCCN" .
+<Sherwood_Anderson> <influence.influence_node.influenced> "Thomas Wolfe" .
+<Daniel_Wallace> <people.person.gender> "Male" .
+<Go_Down,_Moses> <book.book.editions> "Go down Moses" .
+<Juan_Rulfo> <freebase.valuenotation.has_value> "Parents" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Mark Twain" .
+<Miguel_de_Cervantes> <freebase.valuenotation.is_reviewed> "Parents" .
+<Flannery_O'Connor> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Book_Edition> <type.type.expected_by> "First edition" .
+<Stephen_King> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Norman_Mailer> <influence.influence_node.influenced> "Don DeLillo" .
+<William_Faulkner> <people.person.quotations> "I believe that man will not merely endure; he will prevail." .
+<William_Faulkner> <influence.influence_node.influenced_by> "Emily Brontë" .
+<Toni_Morrison> <people.person.profession> "Novelist" .
+<Larry_Brown> <people.person.profession> "Novelist" .
+<Drums_Along_the_Mohawk> <media_common.adaptation.adapted_from> "Drums Along the Mohawk" .
+<Flannery_O'Connor> <influence.influence_node.influenced> "Michael Bishop" .
+<Book_Edition> <type.type.expected_by> "Book editions illustrated" .
+<Friedrich_Nietzsche> <common.topic.notable_types> "Author" .
+<If_we_Americans_are_to_survive_it_will_have_to_be_because_we_choose_and_elect_and_defend_to_be_first_of_all_Americans;_to_present_to_the_world_one_homogeneous_and_unbroken_front,_whether_of_white_Americans_or_black_ones_or_purple_or_blue_or_green._If_we_in_America_have_reached_that_point_in_our_desperate_culture_when_we_must_murder_children,_no_matter_for_what_reason_or_what_color,_we_don't_deserve_to_survive,_and_probably_won_t.> <media_common.quotation.subjects> "United States of America" .
+<Colum_McCann> <people.person.languages> "English Language" .
+<Guram_Dochanashvili> <people.person.gender> "Male" .
+<J._M._Coetzee> <people.person.profession> "Novelist" .
+<Novelist> <people.profession.specialization_of> "Writer" .
+<Ron_Arias> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "Orhan Pamuk" .
+<Edgar_Allan_Poe> <influence.influence_node.influenced> "Friedrich Nietzsche" .
+<Gustave_Flaubert> <influence.influence_node.influenced> "Guram Dochanashvili" .
+<William_Faulkner> <people.person.quotations> "If I had not existed, someone else would have written me, Hemingway, Dostoevski, all of us." .
+<Bret_Easton_Ellis> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<Ron_Arias> <people.person.profession> "Novelist" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Algernon Charles Swinburne" .
+<Gustave_Flaubert> <influence.influence_node.influenced> "Janet Frame" .
+<Russell_Banks> <people.person.gender> "Male" .
+<Christopher_Klim> <people.person.nationality> "United States of America" .
+<Joseph_Heller> <influence.influence_node.influenced_by> "Thomas Mann" .
+<Thomas_Mann> <influence.influence_node.influenced> "Norman Mailer" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced> "Steve Erickson" .
+<J._M._Coetzee> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<The_Hamlet> <book.written_work.original_language> "English Language" .
+<T._S._Eliot> <influence.influence_node.influenced> "William Faulkner" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Sherwood Anderson" .
+<Ron_Arias> <influence.influence_node.influenced_by> "Juan Rulfo" .
+<William_Faulkner> <influence.influence_node.influenced> "Orhan Pamuk" .
+<Terry_Brooks> <people.person.nationality> "United States of America" .
+<Joyce_Carol_Oates> <influence.influence_node.influenced_by> "William Faulkner" .
+<Larry_Heinemann> <influence.influence_node.influenced_by> "Mark Twain" .
+<William_Faulkner> <influence.influence_node.influenced> "Ernest Hemingway" .
+<Norman_Mailer> <freebase.valuenotation.is_reviewed> "Gender" .
+<Joyce_Carol_Oates> <people.person.profession> "Novelist" .
+<m.09rk2bt> <award.award_nomination.award_nominee> "William Faulkner" .
+<m.0g4x96g> <award.award_nomination.award_nominee> "William Faulkner" .
+<John_Steinbeck> <influence.influence_node.influenced> "Michael Bishop" .
+<Fyodor_Dostoyevsky> <influence.influence_node.influenced_by> "Edgar Allan Poe" .
+<Joseph_Conrad> <influence.influence_node.influenced> "Gabriel García Márquez" .
+<Hunter_S._Thompson> <people.person.gender> "Male" .
+<William_Shakespeare> <freebase.valuenotation.is_reviewed> "Gender" .
+<Melinda_Rucker_Haynes> <influence.influence_node.influenced_by> "William Faulkner" .
+<Mark_Twain> <people.deceased_person.cause_of_death> "heart attack" .
+<Mark_Twain> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<As_I_Lay_Dying> <film.film.story_by> "William Faulkner" .
+<Mark_Twain> <people.person.profession> "Writer" .
+<Michael_Bishop> <common.topic.notable_types> "Author" .
+<Philip_Roth> <people.person.profession> "Novelist" .
+<Ernest_Hemingway> <people.person.profession> "Novelist" .
+<Paul_Auster> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Gabriel_García_Márquez> <people.person.profession> "Novelist" .
+<William_Faulkner> <influence.influence_node.influenced> "Philip Roth" .
+<m.09yv44w> <common.webpage.topic> "William Faulkner" .
+<m.0n5q0mc> <people.sibling_relationship.sibling> "William Faulkner" .
+<Ralph_Ellison> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "J. M. Coetzee" .
+<The_Sound_and_the_Fury> <film.film.language> "English Language" .
+<Mose_Kalev> <influence.influence_node.influenced_by> "William Faulkner" .
+<Peter_Carey> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Gunga_Din> <film.film.country> "United States of America" .
+<Editions> <type.property.schema> "Book" .
+<James_Joyce> <influence.influence_node.influenced_by> "Gustave Flaubert" .
+<William_Faulkner> <people.person.quotations> "No one is without Christianity, if we agree on what we mean by that word. It is every individual's individual code of behavior by means of which he makes himself a better human being than his nature wants to be, if he followed his nature only. Whatever its symbol -- cross or crescent or whatever -- that symbol is man's reminder of his duty inside the human race." .
+<F._Sionil_José> <people.person.profession> "Writer" .
+<William_Faulkner> <people.person.places_lived> "m.04hdfdq" .
+<Land_of_the_Pharaohs> <film.film.language> "English Language" .
+<Thomas_Wolfe> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ernest_Hemingway> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<New_Albany> <location.location.containedby> "United States of America" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced_by> "William Shakespeare" .
+<Colum_McCann> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<George_R._R._Martin> <people.person.gender> "Male" .
+<William_Faulkner> <people.person.quotations> "I decline to accept the end of man. It is easy enough to say that man is immortal simply because he will endure: that when the last ding-dong of doom has clanged and faded from the last worthless rock hanging tideless in the last red and dying evening, that even then there will still be one more sound: that of his puny inexhaustible voice, still talking. I refuse to accept this. I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance. The poets, the writers, duty is to write about these things. It is his privilege to help man endure by lifting his heart, by reminding him of the courage and honor and hope and pride and compassion and pity and sacrifice which have been the glory of his past. The poets voice need not merely be the record of man, it can be one of the props, the pillars to help him endure and prevail." .
+<William_Faulkner> <people.person.education> "m.0g5ty12" .
+<Larry_Heinemann> <influence.influence_node.influenced_by> "Herman Melville" .
+<Cormac_McCarthy> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Gustave_Flaubert> <influence.influence_node.influenced> "James Joyce" .
+<Go_Down,_Moses> <common.topic.article> "m.043kyj" .
+<Mose_Kalev> <influence.influence_node.influenced_by> "Herman Melville" .
+<William_Faulkner> <influence.influence_node.influenced_by> "James Joyce" .
+<Terry_Brooks> <people.person.profession> "Novelist" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<William_Faulkner> <common.topic.notable_types> "Author" .
+<Don_DeLillo> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<The_Long,_Hot_Summer> <film.film.country> "United States of America" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced_by> "Joseph Conrad" .
+<Javier_Marías> <people.person.gender> "Male" .
+<Jim_Harrison> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Charles_Dickens> <people.person.profession> "Novelist" .
+<Charles_Dickens> <influence.influence_node.influenced> "George R. R. Martin" .
+<William_Faulkner> <influence.influence_node.influenced> "David Anthony Durham" .
+<T._S._Eliot> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Mario_Vargas_Llosa> <influence.influence_node.influenced> "David Anthony Durham" .
+<Gabriel_García_Márquez> <book.author.contributing_author_to> "Discursos" .
+<Jorge_Luis_Borges> <common.topic.notable_types> "Author" .
+<William_Faulkner> <film.writer.film> "Background to Danger" .
+<Sherwood_Anderson> <influence.influence_node.influenced_by> "Mark Twain" .
+<Toni_Morrison> <common.topic.notable_types> "Author" .
+<Leo_Tolstoy> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Land_of_the_Pharaohs> <film.film.country> "United States of America" .
+<John_Steinbeck> <freebase.valuenotation.is_reviewed> "Date of death" .
+<John_Steinbeck> <influence.influence_node.influenced> "F. Sionil José" .
+<David_Markson> <common.topic.notable_types> "Author" .
+<Juan_Rulfo> <people.person.profession> "Writer" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced_by> "William Faulkner" .
+<Juan_Rulfo> <influence.influence_node.influenced> "Edgardo Vega Yunqué" .
+<Fyodor_Dostoyevsky> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<George_R._R._Martin> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<John_Steinbeck> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Go_Down,_Moses> <fictional_universe.work_of_fiction.setting> "Yoknapatawpha County" .
+<Herman_Melville> <book.author.school_or_movement> "Literary modernism" .
+<Algernon_Charles_Swinburne> <people.person.gender> "Male" .
+<Norman_Mailer> <people.person.profession> "Writer" .
+<Cormac_McCarthy> <influence.influence_node.influenced_by> "Flannery O'Connor" .
+<Honoré_de_Balzac> <influence.influence_node.influenced> "Bret Easton Ellis" .
+<Mark_Twain> <influence.influence_node.influenced> "Russell Banks" .
+<Go_Down,_Moses> <book.written_work.previous_in_series> "The Hamlet" .
+<Herman_Melville> <influence.influence_node.influenced> "Paul Auster" .
+<Jack_Ketchum> <influence.influence_node.influenced_by> "William Faulkner" .
+<Mario_Vargas_Llosa> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Barry_Hannah> <people.person.profession> "Novelist" .
+<Edgar_Allan_Poe> <influence.influence_node.influenced> "Truman Capote" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "Russell Banks" .
+<Philip_Roth> <influence.influence_node.influenced> "Bret Easton Ellis" .
+<Russell_Banks> <people.person.profession> "Novelist" .
+<Steve_Erickson> <people.person.gender> "Male" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<Truman_Capote> <freebase.valuenotation.is_reviewed> "Gender" .
+<Edgar_Allan_Poe> <influence.influence_node.influenced> "Stephen King" .
+<Truman_Capote> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Joseph_Conrad> <people.person.profession> "Novelist" .
+<Philip_Roth> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Flannery_O'Connor> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<John_Steinbeck> <common.topic.notable_types> "Author" .
+<Malcolm_Lowry> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<Stephen_King> <people.person.gender> "Male" .
+<Book_Edition> <type.type.properties> "Height" .
+<Stanley_Elkin> <freebase.valuenotation.is_reviewed> "Place of death" .
+<The_Tarnished_Angels> <film.film.country> "United States of America" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Herman Melville" .
+<Janet_Frame> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Hunter_S._Thompson> <influence.influence_node.influenced> "Larry Heinemann" .
+<Joseph_Heller> <people.person.profession> "Writer" .
+<William_Faulkner> <influence.influence_node.influenced> "F. Sionil José" .
+<William_Faulkner> <award.award_winner.awards_won> "m.03nb8xr" .
+<Mitch_Cullin> <people.person.profession> "Writer" .
+<Truman_Capote> <influence.influence_node.influenced_by> "Norman Mailer" .
+<Ron_Arias> <influence.influence_node.influenced_by> "William Faulkner" .
+<Javier_Marías> <common.topic.notable_types> "Author" .
+<A._B._Yehoshua> <people.person.profession> "Novelist" .
+<William_Faulkner> <influence.influence_node.influenced> "Louise Erdrich" .
+<Joyce_Carol_Oates> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Gilles_Deleuze> <influence.influence_node.influenced_by> "Friedrich Nietzsche" .
+<William_Shakespeare> <people.person.gender> "Male" .
+<Book_Edition> <type.type.expected_by> "Books published" .
+<William_Faulkner> <influence.influence_node.influenced> "Javier Marías" .
+<William_Faulkner> <influence.influence_node.influenced> "Melinda Rucker Haynes" .
+<Don_DeLillo> <common.topic.notable_types> "Author" .
+<Louise_Erdrich> <freebase.valuenotation.is_reviewed> "Gender" .
+<William_Styron> <people.person.gender> "Male" .
+<Algernon_Charles_Swinburne> <influence.influence_node.influenced> "William Faulkner" .
+<William_Faulkner> <influence.influence_node.influenced> "Juan Carlos Onetti" .
+<Byhalia> <location.location.containedby> "United States of America" .
+<William_Faulkner> <influence.influence_node.influenced> "Ken Kesey" .
+<Larry_Heinemann> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Algernon_Charles_Swinburne> <people.person.profession> "Novelist" .
+<Ernest_Hemingway> <influence.influence_node.influenced_by> "William Faulkner" .
+<Intruder_in_the_Dust> <common.topic.notable_types> "Book" .
+<Russell_Banks> <common.topic.notable_types> "Author" .
+<William_Shakespeare> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<William_Faulkner> <people.person.quotations> "The salvation of the world is in man's suffering." .
+<Book_Edition> <type.type.properties> "Publisher" .
+<George_R._R._Martin> <common.topic.notable_types> "Author" .
+<Jorge_Luis_Borges> <people.person.profession> "Novelist" .
+<William_Faulkner> <people.person.profession> "Novelist" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Edgardo Vega Yunqué" .
+<Joseph_Heller> <people.person.nationality> "United States of America" .
+<Mo_Yan> <influence.influence_node.influenced_by> "Gustave Flaubert" .
+<Barry_Hannah> <freebase.valuenotation.is_reviewed> "Gender" .
+<Don_DeLillo> <influence.influence_node.influenced_by> "James Joyce" .
+<Rudi_Šeligo> <common.topic.notable_types> "Author" .
+<Ralph_Ellison> <influence.influence_node.influenced_by> "T. S. Eliot" .
+<Ken_Kesey> <people.person.nationality> "United States of America" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Barry Hannah" .
+<Joseph_Conrad> <influence.influence_node.influenced> "Ernest Hemingway" .
+<Hunter_S._Thompson> <influence.influence_node.influenced> "Christopher Klim" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Ralph Ellison" .
+<Flesh> <film.film.language> "English Language" .
+<Mark_Twain> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Ken_Kesey> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<Larry_Brown> <common.topic.notable_types> "Author" .
+<Jorge_Luis_Borges> <people.person.profession> "Writer" .
+<Thomas_Mann> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Ralph_Ellison> <freebase.valuenotation.is_reviewed> "Date of death" .
+<William_Faulkner> <influence.influence_node.influenced> "Terry Brooks" .
+<Herman_Melville> <influence.influence_node.influenced_by> "William Shakespeare" .
+<Gustave_Flaubert> <influence.influence_node.influenced> "Orhan Pamuk" .
+<Wendell_Berry> <freebase.valuenotation.is_reviewed> "Gender" .
+<Robert_Flynn> <people.person.gender> "Male" .
+<William_Faulkner> <people.person.quotations> "Be scared. You cant help that. But dont be afraid. Aint nothing in the woods going to hurt you unless you corner it, or it smells that you are afraid. A bear or a deer, too, has got to be scared of a coward the same as a brave man has got to be." .
+<Herman_Melville> <influence.influence_node.influenced> "Thomas Mann" .
+<Rudi_Šeligo> <influence.influence_node.influenced_by> "William Faulkner" .
+<Colum_McCann> <people.person.nationality> "United States of America" .
+<William_Faulkner> <people.person.quotations> "The end of wisdom is to dream high enough to lose the dream in the seeking of it." .
+<Mississippi> <book.book_subject.works> "Intruder in the Dust" .
+<Drums_Along_the_Mohawk> <film.film.language> "English Language" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced_by> "Herman Melville" .
+<William_Faulkner> <film.film_story_contributor.film_story_credits> "The Sound and the Fury" .
+<William_Faulkner> <influence.influence_node.influenced> "Norman Mailer" .
+<Bret_Easton_Ellis> <influence.influence_node.influenced_by> "Gustave Flaubert" .
+<Mitch_Cullin> <people.person.profession> "Novelist" .
+<William_Clark_Falkner> <people.person.gender> "Male" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "Jorge Luis Borges" .
+<Javier_Marías> <influence.influence_node.influenced_by> "Joseph Conrad" .
+<Colum_McCann> <people.person.profession> "Writer" .
+<Go_Down,_Moses> <book.book.editions> "Go down, Moses, and other stories" .
+<Stephen_King> <people.person.profession> "Writer" .
+<Michael_Bishop> <people.person.profession> "Novelist" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Gender" .
+<Paul_Auster> <influence.influence_node.influenced_by> "William Shakespeare" .
+<Orhan_Pamuk> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Book_Edition> <type.type.properties> "ISFDB ID" .
+<Go_Down,_Moses> <book.written_work.next_in_series> "Intruder in the Dust" .
+<William_Faulkner> <influence.influence_node.influenced> "Truman Capote" .
+<Flannery_O'Connor> <influence.influence_node.influenced> "Joyce Carol Oates" .
+<William_Faulkner> <people.person.quotations> "If we Americans are to survive it will have to be because we choose and elect and defend to be first of all Americans; to present to the world one homogeneous and unbroken front, whether of white Americans or black ones or purple or blue or green. If we in America have reached that point in our desperate culture when we must murder children, no matter for what reason or what color, we don't deserve to survive, and probably won t." .
+<Jim_Harrison> <people.person.profession> "Novelist" .
+<Mitch_Cullin> <influence.influence_node.influenced_by> "Flannery O'Connor" .
+<William_Faulkner> <people.person.sibling_s> "m.0n5q0m1" .
+<Literary_modernism> <book.school_or_movement.associated_authors> "Melinda Rucker Haynes" .
+<Larry_Heinemann> <freebase.valuenotation.is_reviewed> "Gender" .
+<Intruder_in_the_Dust> <book.book.genre> "Fiction" .
+<Background_to_Danger> <film.film.country> "United States of America" .
+<James_Salter> <people.person.nationality> "United States of America" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Thomas_Wolfe> <freebase.valuenotation.is_reviewed> "Place of death" .
+<William_Faulkner> <book.author.school_or_movement> "Literary modernism" .
+<David_Anthony_Durham> <influence.influence_node.influenced_by> "Russell Banks" .
+<William_Faulkner> <film.writer.film> "Submarine Patrol" .
+<Peter_Carey> <freebase.valuenotation.is_reviewed> "Gender" .
+<Go_Down,_Moses> <book.book.editions> "Go down, Moses." .
+<Joseph_Heller> <freebase.valuenotation.is_reviewed> "Gender" .
+<Rudi_Šeligo> <people.person.profession> "Writer" .
+<Ken_Kesey> <influence.influence_node.influenced> "Hunter S. Thompson" .
+<Charles_Dickens> <influence.influence_node.influenced> "Mark Twain" .
+<Book_Edition> <type.type.expected_by> "Book editions published" .
+<The_Big_Sleep> <film.film.language> "English Language" .
+<Philip_Roth> <people.person.nationality> "United States of America" .
+<Ken_Kesey> <influence.influence_node.influenced_by> "William Faulkner" .
+<Stephen_King> <freebase.valuenotation.is_reviewed> "Parents" .
+<Mo_Yan> <influence.influence_node.influenced_by> "Gabriel García Márquez" .
+<Malcolm_Lowry> <influence.influence_node.influenced> "Don DeLillo" .
+<Sherwood_Anderson> <common.topic.notable_types> "Author" .
+<Don_DeLillo> <influence.influence_node.influenced_by> "Norman Mailer" .
+<John_Keats> <common.topic.notable_types> "Author" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced> "Mo Yan" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced> "Javier Marías" .
+<Truman_Capote> <people.person.nationality> "United States of America" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Edgar Allan Poe" .
+<Ralph_Ellison> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<Colum_McCann> <common.topic.notable_types> "Author" .
+<Yoknapatawpha_County> <fictional_universe.fictional_setting.contained_by> "Mississippi" .
+<Thomas_Wolfe> <influence.influence_node.influenced> "William Styron" .
+<William_Faulkner> <influence.influence_node.influenced> "George R. R. Martin" .
+<m.0b6rnbc> <common.webpage.topic> "William Faulkner" .
+<Juan_Rulfo> <people.person.gender> "Male" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "Herman Melville" .
+<George_R._R._Martin> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Mississippi> <location.location.containedby> "United States of America" .
+<Toni_Morrison> <influence.influence_node.influenced_by> "William Faulkner" .
+<Gustave_Flaubert> <influence.influence_node.influenced> "William Faulkner" .
+<Mitch_Cullin> <common.topic.notable_types> "Author" .
+<Cormac_McCarthy> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Mario_Vargas_Llosa> <freebase.valuenotation.is_reviewed> "Parents" .
+<The_Hamlet> <book.book.genre> "Fiction" .
+<William_Faulkner> <people.deceased_person.place_of_death> "Byhalia" .
+<J._M._Coetzee> <people.person.gender> "Male" .
+<Ron_Arias> <people.person.gender> "Male" .
+<Miguel_de_Cervantes> <people.person.gender> "Male" .
+<William_Faulkner> <people.person.quotations> "The last sound on the worthless earth will be two human beings trying to launch a homemade spaceship and already quarreling about where they are going next." .
+<William_Faulkner> <influence.influence_node.influenced_by> "Joseph Conrad" .
+<Book> <freebase.type_profile.strict_included_types> "Topic" .
+<Gunga_Din> <film.film.language> "English Language" .
+<Joyce_Carol_Oates> <influence.influence_node.influenced_by> "Edgar Allan Poe" .
+<ISBN> <type.type.expected_by> "ISBN" .
+<Colum_McCann> <influence.influence_node.influenced_by> "Edna O'Brien" .
+<Leo_Tolstoy> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Edgar_Allan_Poe> <influence.influence_node.influenced> "Thomas Mann" .
+<Jim_Harrison> <influence.influence_node.influenced> "Jack Ketchum" .
+<Book_Edition> <type.type.expected_by> "Book Editions" .
+<Truman_Capote> <influence.influence_node.influenced> "Bret Easton Ellis" .
+<William_Faulkner> <influence.influence_node.influenced> "Colum McCann" .
+<Charles_Dickens> <influence.influence_node.influenced> "Shelby Foote" .
+<m.040wjgy> <award.award_honor.award_winner> "William Faulkner" .
+<Truman_Capote> <freebase.valuenotation.is_reviewed> "Parents" .
+<Mose_Kalev> <people.person.gender> "Male" .
+<Hunter_S._Thompson> <influence.influence_node.influenced_by> "William Faulkner" .
+<David_Anthony_Durham> <people.person.nationality> "United States of America" .
+<The_Sound_and_the_Fury> <film.film.country> "United States of America" .
+<Larry_Heinemann> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<Terry_Brooks> <freebase.valuenotation.has_value> "Parents" .
+<Paul_Auster> <people.person.gender> "Male" .
+<T._S._Eliot> <influence.influence_node.influenced_by> "William Shakespeare" .
+<John_Steinbeck> <people.person.nationality> "United States of America" .
+<Hunter_S._Thompson> <influence.influence_node.influenced_by> "Mark Twain" .
+<Paul_Auster> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<Mark_Twain> <influence.influence_node.influenced> "Wendell Berry" .
+<Barry_Hannah> <influence.influence_node.influenced_by> "Cormac McCarthy" .
+<Christopher_Klim> <common.topic.notable_types> "Author" .
+<The_Sound_and_the_Fury> <film.film.story_by> "William Faulkner" .
+<Drums_Along_the_Mohawk> <film.film.country> "United States of America" .
+<Mississippi> <book.book_subject.works> "Go Down, Moses" .
+<John_Steinbeck> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Thomas_Mann> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ernest_Hemingway> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<Stanley_Elkin> <people.person.profession> "Writer" .
+<William_Faulkner> <influence.influence_node.influenced> "William Styron" .
+<T._S._Eliot> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Russell_Banks> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<Sherwood_Anderson> <influence.influence_node.influenced> "Russell Banks" .
+<James_Joyce> <influence.influence_node.influenced_by> "William Shakespeare" .
+<William_Faulkner> <influence.influence_node.influenced> "Russell Banks" .
+<Larry_Heinemann> <people.person.nationality> "United States of America" .
+<Don_DeLillo> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<John_Steinbeck> <influence.influence_node.influenced> "Russell Banks" .
+<Daniel_Wallace> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Joseph_Conrad> <influence.influence_node.influenced> "Cormac McCarthy" .
+<Edgar_Allan_Poe> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ralph_Ellison> <influence.influence_node.influenced_by> "Mark Twain" .
+<William_Faulkner> <book.author.contributing_author_to> "Discursos" .
+<Bret_Easton_Ellis> <common.topic.notable_types> "Author" .
+<Juan_Carlos_Onetti> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0nbxrv9> <education.education.student> "William Faulkner" .
+<William_Shakespeare> <people.person.languages> "English Language" .
+<To_Have_and_Have_Not> <film.film.language> "English Language" .
+<Herman_Melville> <influence.influence_node.influenced> "Jorge Luis Borges" .
+<Go_Down,_Moses> <book.written_work.author> "William Faulkner" .
+<Thomas_Mann> <freebase.valuenotation.is_reviewed> "Date of death" .
+<William_Faulkner> <people.person.quotations> "People between twenty and forty are not sympathetic. The child has the capacity to do but it can't know. It only knows when it is no longer able to do --after forty. Between twenty and forty the will of the child to do gets stronger, more dangerous, but it has not begun to learn to know yet. Since his capacity to do is forced into channels of evil through environment and pressures, man is strong before he is moral. The world's anguish is caused by people between twenty and forty." .
+<Orhan_Pamuk> <people.person.profession> "Writer" .
+<Mark_Twain> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Jorge_Luis_Borges> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.04hdfdq> <people.place_lived.location> "Mississippi" .
+<Carlo_Wolff> <people.person.nationality> "United States of America" .
+<Colum_McCann> <influence.influence_node.influenced_by> "John Steinbeck" .
+<Hunter_S._Thompson> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<Joseph_Heller> <common.topic.notable_types> "Author" .
+<Book> <type.type.properties> "First edition" .
+<New_Albany> <location.location.people_born_here> "William Faulkner" .
+<Hunter_S._Thompson> <people.person.nationality> "United States of America" .
+<Emily_Brontë> <influence.influence_node.influenced> "William Faulkner" .
+<Gustave_Flaubert> <common.topic.notable_types> "Author" .
+<William_Faulkner> <people.person.sibling_s> "m.0n5q0mc" .
+<Flannery_O'Connor> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "J. M. Coetzee" .
+<Cormac_McCarthy> <influence.influence_node.influenced> "David Anthony Durham" .
+<Juan_Rulfo> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Book_Edition> <type.type.expected_by> "Book editions" .
+<Bret_Easton_Ellis> <influence.influence_node.influenced_by> "William Faulkner" .
+<Toni_Morrison> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Norman_Mailer> <people.person.nationality> "United States of America" .
+<Orhan_Pamuk> <common.topic.notable_types> "Author" .
+<Mario_Vargas_Llosa> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Cormac_McCarthy> <people.person.profession> "Novelist" .
+<A._B._Yehoshua> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Fyodor_Dostoyevsky> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Bret_Easton_Ellis> <people.person.gender> "Male" .
+<Christopher_Klim> <people.person.gender> "Male" .
+<Edgardo_Vega_Yunqué> <common.topic.notable_types> "Author" .
+<Janet_Frame> <influence.influence_node.influenced_by> "William Faulkner" .
+<Mark_Twain> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Mario_Vargas_Llosa> <common.topic.notable_types> "Author" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced> "Edgardo Vega Yunqué" .
+<Sherwood_Anderson> <people.person.profession> "Writer" .
+<Barry_Hannah> <people.person.profession> "Writer" .
+<William_Faulkner> <influence.influence_node.influenced> "Carlo Wolff" .
+<William_Faulkner> <influence.influence_node.influenced> "Peter Carey" .
+<To_Have_and_Have_Not> <film.film.country> "United States of America" .
+<PEN/Faulkner_Award_for_Fiction> <symbols.namesake.named_after> "William Faulkner" .
+<Edgar_Allan_Poe> <influence.influence_node.influenced> "William Faulkner" .
+<m.04hdfdq> <people.place_lived.person> "William Faulkner" .
+<Norman_Mailer> <people.person.profession> "Novelist" .
+<John_Keats> <influence.influence_node.influenced> "Ernest Hemingway" .
+<William_Faulkner> <people.person.quotations> "The aim of every artist is to arrest motion, which is life, by artificial means and hold it fixed so that a hundred years later, when a stranger looks at it, it moves again since it is life. Since man is mortal, the only immortality possible for him is to leave something behind him that is immortal since it will always move. This is the artist's way of scribbling Kilroy was here on the wall of the final and irrevocable oblivion through which he must someday pass." .
+<Fyodor_Dostoyevsky> <people.person.profession> "Novelist" .
+<Book_Edition> <type.type.properties> "Contributing authors" .
+<Truman_Capote> <influence.influence_node.influenced_by> "William Faulkner" .
+<Hunter_S._Thompson> <influence.influence_node.influenced_by> "Joseph Conrad" .
+<Peter_Carey> <people.person.profession> "Writer" .
+<Flannery_O'Connor> <common.topic.notable_types> "Author" .
+<The_Arsonist> <film.film.story_by> "William Faulkner" .
+<Mario_Vargas_Llosa> <influence.influence_node.influenced_by> "Gustave Flaubert" .
+<As_I_Lay_Dying> <film.film.country> "United States of America" .
+<Mario_Vargas_Llosa> <people.person.profession> "Novelist" .
+<Edgar_Allan_Poe> <freebase.valuenotation.has_value> "Cause of death" .
+<Edgar_Allan_Poe> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Michael_Bishop> <influence.influence_node.influenced_by> "William Faulkner" .
+<Thomas_Mann> <influence.influence_node.influenced> "Orhan Pamuk" .
+<Norman_Mailer> <influence.influence_node.influenced_by> "William Faulkner" .
+<Orhan_Pamuk> <people.person.profession> "Novelist" .
+<Cormac_McCarthy> <common.topic.notable_types> "Author" .
+<Peter_Carey> <people.person.gender> "Male" .
+<Larry_Heinemann> <common.topic.notable_types> "Author" .
+<Edgardo_Vega_Yunqué> <influence.influence_node.influenced_by> "William Faulkner" .
+<Don_DeLillo> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<Ron_Arias> <people.person.nationality> "United States of America" .
+<Cormac_McCarthy> <influence.influence_node.influenced_by> "William Shakespeare" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced_by> "Edgar Allan Poe" .
+<Javier_Marías> <people.person.profession> "Writer" .
+<William_Faulkner> <influence.influence_node.influenced> "Robert Flynn" .
+<A._B._Yehoshua> <people.person.profession> "Writer" .
+<William_Faulkner> <influence.influence_node.influenced> "Genevieve Pou" .
+<Toni_Morrison> <influence.influence_node.influenced> "Colum McCann" .
+<John_Keats> <influence.influence_node.influenced> "William Faulkner" .
+<Joseph_Conrad> <influence.influence_node.influenced> "Jorge Luis Borges" .
+<William_Styron> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Philip_Roth> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<Cormac_McCarthy> <influence.influence_node.influenced> "Larry Brown" .
+<Philip_Roth> <influence.influence_node.influenced_by> "Sherwood Anderson" .
+<Ernest_Hemingway> <common.topic.notable_types> "Author" .
+<William_Faulkner> <influence.influence_node.influenced> "Barry Hannah" .
+<Michael_Bishop> <influence.influence_node.influenced_by> "John Steinbeck" .
+<Book_Edition> <type.type.expected_by> "Online Edition of" .
+<Jim_Harrison> <people.person.profession> "Writer" .
+<Stephen_King> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Mildred_Pierce> <film.film.written_by> "William Faulkner" .
+<Leo_Tolstoy> <common.topic.notable_types> "Author" .
+<Murry_Cuthbert_Falkner> <people.person.children> "William Faulkner" .
+<Book> <freebase.type_profile.kind> "Definition" .
+<Jorge_Luis_Borges> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Stephen_King> <influence.influence_node.influenced> "Jack Ketchum" .
+<Mo_Yan> <common.topic.notable_types> "Author" .
+<Mark_Twain> <common.topic.notable_types> "Author" .
+<William_Faulkner> <common.topic.notable_for> "g.125556xqy" .
+<William_Faulkner> <common.topic.image> "William Faulkner 01 KMJ" .
+<Shelby_Foote> <people.person.profession> "Writer" .
+<Mississippi> <location.administrative_division.country> "United States of America" .
+<Barry_Hannah> <common.topic.notable_types> "Author" .
+<Janet_Frame> <people.person.profession> "Writer" .
+<Go_Down,_Moses> <common.topic.notable_types> "Book" .
+<William_Shakespeare> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Edgar_Allan_Poe> <people.person.profession> "Novelist" .
+<Larry_Heinemann> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Charles_Dickens> <influence.influence_node.influenced> "Paul Auster" .
+<Paul_Auster> <influence.influence_node.influenced_by> "James Joyce" .
+<Murry_Cuthbert_Falkner> <freebase.valuenotation.has_value> "Place of death" .
+<Colum_McCann> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<William_Faulkner> <award.award_nominee.award_nominations> "m.0wzwgmz" .
+<William_Styron> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Maud_Butler> <freebase.valuenotation.has_value> "Place of birth" .
+<William_Faulkner> <influence.influence_node.influenced_by> "T. S. Eliot" .
+<Orhan_Pamuk> <influence.influence_node.influenced_by> "Thomas Mann" .
+<William_Faulkner> <common.topic.image> "William Faulkner" .
+<James_Joyce> <common.topic.notable_types> "Author" .
+<Herman_Melville> <people.person.gender> "Male" .
+<Philip_Roth> <freebase.valuenotation.is_reviewed> "Gender" .
+<Honoré_de_Balzac> <common.topic.notable_types> "Author" .
+<Mark_Twain> <influence.influence_node.influenced> "Ken Kesey" .
+<Herman_Melville> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Books> <type.domain.types> "Book Edition" .
+<Norman_Mailer> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Stanley_Elkin> <people.person.gender> "Male" .
+<Maud_Butler> <freebase.valuenotation.has_value> "Cause of death" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Ken Kesey" .
+<Gabriel_García_Márquez> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Air_Force> <film.film.written_by> "William Faulkner" .
+<Charles_Dickens> <people.person.profession> "Writer" .
+<Juan_Carlos_Onetti> <people.person.profession> "Novelist" .
+<Ralph_Ellison> <people.person.nationality> "United States of America" .
+<Fyodor_Dostoyevsky> <freebase.valuenotation.is_reviewed> "Parents" .
+<James_Joyce> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<Ralph_Ellison> <people.person.profession> "Writer" .
+<Mississippi> <base.biblioness.bibs_location.country> "United States of America" .
+<Honoré_de_Balzac> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Go_Down,_Moses> <book.written_work.subjects> "Classics" .
+<T._S._Eliot> <influence.influence_node.influenced_by> "Joseph Conrad" .
+<Edgar_Allan_Poe> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Fyodor_Dostoyevsky> <influence.influence_node.influenced_by> "Charles Dickens" .
+<Larry_Brown> <influence.influence_node.influenced_by> "Barry Hannah" .
+<Juan_Carlos_Onetti> <influence.influence_node.influenced_by> "William Faulkner" .
+<Flannery_O'Connor> <people.person.profession> "Writer" .
+<English_Language> <language.human_language.main_country> "United States of America" .
+<Books> <type.domain.types> "ISBN" .
+<Joseph_Heller> <people.person.gender> "Male" .
+<Shelby_Foote> <freebase.valuenotation.is_reviewed> "Gender" .
+<Janet_Frame> <influence.influence_node.influenced_by> "Edgar Allan Poe" .
+<The_Reivers> <film.film.story_by> "William Faulkner" .
+<William_Faulkner> <award.award_nominee.award_nominations> "m.0bb9__7" .
+<PEN/Faulkner_Award_for_Fiction> <award.award.category> "PEN/Faulkner Award for Fiction" .
+<William_Faulkner> <influence.influence_node.influenced> "Malcolm Lowry" .
+<Book_Edition> <type.type.expected_by> "Book" .
+<Cormac_McCarthy> <influence.influence_node.influenced> "Melinda Rucker Haynes" .
+<Wendell_Berry> <people.person.gender> "Male" .
+<Edition_Of> <owl#inverseOf> "Editions" .
+<Mose_Kalev> <people.person.profession> "Writer" .
+<Genevieve_Pou> <common.topic.notable_types> "Author" .
+<Gustave_Flaubert> <people.person.profession> "Novelist" .
+<Flannery_O'Connor> <influence.influence_node.influenced> "Barry Hannah" .
+<Gilles_Deleuze> <influence.influence_node.influenced_by> "Jorge Luis Borges" .
+<Ralph_Ellison> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<Cormac_McCarthy> <people.person.nationality> "United States of America" .
+<Gabriel_García_Márquez> <people.person.profession> "Writer" .
+<Norman_Mailer> <common.topic.notable_types> "Author" .
+<Michael_Bishop> <people.person.gender> "Male" .
+<Book_Edition> <type.type.properties> "Publication date" .
+<Philip_Roth> <people.person.profession> "Writer" .
+<m.0wzwgmz> <award.award_nomination.award_nominee> "William Faulkner" .
+<William_Faulkner> <influence.influence_node.influenced> "John Steinbeck" .
+<Larry_Brown> <influence.influence_node.influenced_by> "William Faulkner" .
+<Shelby_Foote> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Hunter_S._Thompson> <common.topic.notable_types> "Author" .
+<Larry_Brown> <influence.influence_node.influenced_by> "Cormac McCarthy" .
+<William_Shakespeare> <freebase.valuenotation.has_value> "Cause of death" .
+<William_Faulkner> <common.topic.webpage> "m.0b4637s" .
+<Joyce_Carol_Oates> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<Louise_Erdrich> <people.person.nationality> "United States of America" .
+<Algernon_Charles_Swinburne> <people.person.profession> "Writer" .
+<9780679732174> <common.topic.notable_types> "ISBN" .
+<Book_Edition> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<Colum_McCann> <freebase.valuenotation.has_value> "Parents" .
+<Mark_Twain> <influence.influence_node.influenced> "Ralph Ellison" .
+<Rudi_Šeligo> <influence.influence_node.influenced_by> "Jorge Luis Borges" .
+<Malcolm_Lowry> <influence.influence_node.influenced_by> "James Joyce" .
+<Ken_Kesey> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Edgardo_Vega_Yunqué> <influence.influence_node.influenced_by> "Gabriel García Márquez" .
+<William_Styron> <common.topic.notable_types> "Author" .
+<Ernest_Hemingway> <freebase.valuenotation.is_reviewed> "Gender" .
+<Edition_Of> <type.property.reverse_property> "Editions" .
+<Louise_Erdrich> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Genevieve_Pou> <influence.influence_node.influenced_by> "William Faulkner" .
+<Ernest_Hemingway> <people.person.nationality> "United States of America" .
+<Harper_Lee> <influence.influence_node.influenced_by> "William Faulkner" .
+<William_Faulkner> <symbols.namesake.named_after> "William Clark Falkner" .
+<The_Hamlet> <fictional_universe.work_of_fiction.setting> "Yoknapatawpha County" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "Fyodor Dostoyevsky" .
+<Joseph_Heller> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Mario_Vargas_Llosa> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Norman_Mailer> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Thomas Wolfe" .
+<Joseph_Heller> <people.person.profession> "Novelist" .
+<Steve_Erickson> <people.person.nationality> "United States of America" .
+<William_Faulkner> <people.person.quotations> "The artist doesn't have time to listen to the critics. The ones who want to be writers read the reviews, the ones who want to write don't have the time to read reviews." .
+<The_Long,_Hot_Summer> <film.film.written_by> "William Faulkner" .
+<William_Faulkner> <influence.influence_node.influenced> "Larry Heinemann" .
+<Thomas_Mann> <influence.influence_node.influenced> "Joseph Heller" .
+<William_Faulkner> <influence.influence_node.influenced> "Stephen King" .
+<Michael_Bishop> <influence.influence_node.influenced_by> "Flannery O'Connor" .
+<Steve_Erickson> <influence.influence_node.influenced_by> "Emily Brontë" .
+<Sherwood_Anderson> <influence.influence_node.influenced> "Ernest Hemingway" .
+<Malcolm_Lowry> <common.topic.notable_types> "Author" .
+<Louise_Erdrich> <common.topic.notable_types> "Author" .
+<Mildred_Pierce> <film.film.language> "English Language" .
+<Edgar_Allan_Poe> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Author> <freebase.type_hints.included_types> "Topic" .
+<Yoknapatawpha_County> <fictional_universe.fictional_setting.works_set_here> "Go Down, Moses" .
+<Go_Down,_Moses> <book.book_edition.isbn> "9780679732174" .
+<William_Faulkner> <freebase.valuenotation.is_reviewed> "Cause of death" .
+<Honoré_de_Balzac> <influence.influence_node.influenced> "William Faulkner" .
+<William_Faulkner> <influence.influence_node.influenced> "Paul Auster" .
+<Truman_Capote> <people.person.profession> "Writer" .
+<Don_DeLillo> <people.person.gender> "Male" .
+<Shelby_Foote> <people.person.nationality> "United States of America" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced> "Guram Dochanashvili" .
+<Book_Edition> <type.type.properties> "Credited to" .
+<William_Faulkner> <film.film_story_contributor.film_story_credits> "The Tarnished Angels" .
+<Flannery_O'Connor> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<Intruder_in_the_Dust> <book.written_work.author> "William Faulkner" .
+<Gustave_Flaubert> <influence.influence_node.influenced> "William Styron" .
+<Jack_Ketchum> <people.person.profession> "Novelist" .
+<William_Shakespeare> <common.topic.notable_types> "Author" .
+<Thomas_Mann> <people.person.profession> "Novelist" .
+<Genevieve_Pou> <people.person.profession> "Novelist" .
+<Terry_Brooks> <influence.influence_node.influenced_by> "William Faulkner" .
+<Janet_Frame> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<William_Faulkner> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Ralph_Ellison> <influence.influence_node.influenced> "Philip Roth" .
+<Larry_Brown> <people.deceased_person.cause_of_death> "heart attack" .
+<Paul_Auster> <people.person.nationality> "United States of America" .
+<George_R._R._Martin> <influence.influence_node.influenced_by> "Charles Dickens" .
+<William_Faulkner> <people.person.quotations> "Facts and truth really don't have much to do with each other." .
+<Herman_Melville> <influence.influence_node.influenced> "Mose Kalev" .
+<m.03nb8xr> <award.award_honor.award_winner> "William Faulkner" .
+<Book_Edition> <type.type.properties> "Reader (audio book)" .
+<William_Faulkner> <symbols.name_source.namesakes> "Rowan Oak" .
+<The_Tarnished_Angels> <film.film.language> "English Language" .
+<Place_of_publication> <type.property.schema> "Book Edition" .
+<Mario_Vargas_Llosa> <influence.influence_node.influenced_by> "William Faulkner" .
+<Edna_O'Brien> <common.topic.notable_types> "Author" .
+<Philip_Roth> <influence.influence_node.influenced_by> "Joseph Conrad" .
+<Thomas_Mann> <common.topic.notable_types> "Author" .
+<Robert_Flynn> <people.person.nationality> "United States of America" .
+<Place_of_publication> <rdf-schema#domain> "Book Edition" .
+<Flannery_O'Connor> <influence.influence_node.influenced> "Mitch Cullin" .
+<Flannery_O'Connor> <influence.influence_node.influenced> "Cormac McCarthy" .
+<Norman_Mailer> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Stanley_Elkin> <freebase.valuenotation.is_reviewed> "Gender" .
+<Edgar_Allan_Poe> <people.person.nationality> "United States of America" .
+<John_Steinbeck> <influence.influence_node.influenced_by> "William Faulkner" .
+<David_Anthony_Durham> <people.person.gender> "Male" .
+<Miguel_de_Cervantes> <people.person.profession> "Novelist" .
+<Cormac_McCarthy> <influence.influence_node.influenced_by> "James Joyce" .
+<William_Faulkner> <influence.influence_node.influenced_by> "John Keats" .
+<Book_Edition> <type.type.expected_by> "Edition" .
+<Book_Edition> <type.type.properties> "Binding/format" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Gabriel García Márquez" .
+<William_Faulkner> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Juan_Rulfo> <influence.influence_node.influenced> "Gabriel García Márquez" .
+<William_Faulkner> <people.person.quotations> "I never know what I think about something until I read what I've written on it." .
+<Stanley_Elkin> <people.person.nationality> "United States of America" .
+<Larry_Brown> <people.person.nationality> "United States of America" .
+<Yoknapatawpha_County> <fictional_universe.fictional_setting.works_set_here> "The Hamlet" .
+<John_Steinbeck> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ralph_Ellison> <people.person.gender> "Male" .
+<Ken_Kesey> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Gabriel_García_Márquez> <common.topic.notable_types> "Author" .
+<Guram_Dochanashvili> <influence.influence_node.influenced_by> "Gustave Flaubert" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "Norman Mailer" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<William_Faulkner> <influence.influence_node.influenced> "Janet Frame" .
+<Juan_Rulfo> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Cormac_McCarthy> <influence.influence_node.influenced_by> "William Faulkner" .
+<Gustave_Flaubert> <people.person.gender> "Male" .
+<Miguel_de_Cervantes> <people.person.profession> "Writer" .
+<John_Steinbeck> <influence.influence_node.influenced_by> "Sherwood Anderson" .
+<Emily_Brontë> <influence.influence_node.influenced> "Philip Roth" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Flannery_O'Connor> <people.person.profession> "Novelist" .
+<Thomas_Wolfe> <people.person.profession> "Writer" .
+<Ralph_Ellison> <common.topic.notable_types> "Author" .
+<Emily_Brontë> <influence.influence_node.influenced> "Joyce Carol Oates" .
+<Thomas_Wolfe> <influence.influence_node.influenced> "James Salter" .
+<Thomas_Mann> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<William_Faulkner> <film.writer.film> "Flesh" .
+<Hunter_S._Thompson> <influence.influence_node.influenced_by> "Ken Kesey" .
+<Flesh> <film.film.country> "United States of America" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Hunter S. Thompson" .
+<James_Joyce> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<Christopher_Klim> <influence.influence_node.influenced_by> "Hunter S. Thompson" .
+<Javier_Marías> <influence.influence_node.influenced_by> "William Faulkner" .
+<Edna_O'Brien> <influence.influence_node.influenced> "Colum McCann" .
+<Joseph_Conrad> <influence.influence_node.influenced> "Hunter S. Thompson" .
+<Land_of_the_Pharaohs> <film.film.written_by> "William Faulkner" .
+<David_Anthony_Durham> <influence.influence_node.influenced_by> "Toni Morrison" .
+<Go_Down,_Moses> <book.book.editions> "Go down, Moses." .
+<Russell_Banks> <influence.influence_node.influenced_by> "William Faulkner" .
+<Leo_Tolstoy> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<The_Sound_and_the_Fury> <film.film.story_by> "William Faulkner" .
+<Go_Down,_Moses> <book.book.editions> "Go Down, Moses" .
+<William_Styron> <people.person.profession> "Writer" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "Thomas Mann" .
+<Thomas_Mann> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<First_edition> <type.property.expected_type> "Book Edition" .
+<Truman_Capote> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Philip_Roth> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Friedrich_Nietzsche> <influence.influence_node.influenced_by> "Edgar Allan Poe" .
+<Joyce_Carol_Oates> <people.person.nationality> "United States of America" .
+<Toni_Morrison> <people.person.nationality> "United States of America" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced_by> "Friedrich Nietzsche" .
+<Ernest_Hemingway> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Gustave_Flaubert> <influence.influence_node.influenced> "Truman Capote" .
+<Barry_Hannah> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Harper_Lee> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<William_Faulkner> <influence.influence_node.influenced> "Edgardo Vega Yunqué" .
+<Thomas_Wolfe> <influence.influence_node.influenced> "William Faulkner" .
+<The_Sound_and_the_Fury> <film.film.language> "English Language" .
+<Edgar_Allan_Poe> <freebase.valuenotation.is_reviewed> "Parents" .
+<Herman_Melville> <people.person.profession> "Writer" .
+<Emily_Brontë> <people.person.profession> "Writer" .
+<Paul_Auster> <freebase.valuenotation.is_reviewed> "Gender" .
+<Stephen_King> <people.person.nationality> "United States of America" .
+<Barry_Hannah> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Don_DeLillo> <influence.influence_node.influenced> "Bret Easton Ellis" .
+<Fyodor_Dostoyevsky> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Philip Roth" .
+<Philip_Roth> <common.topic.notable_types> "Author" .
+<Bret_Easton_Ellis> <people.person.profession> "Writer" .
+<William_Faulkner> <influence.influence_node.influenced> "Guram Dochanashvili" .
+<Fyodor_Dostoyevsky> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Murry_Cuthbert_Falkner> <freebase.valuenotation.has_value> "Parents" .
+<m.0n5q0m1> <people.sibling_relationship.sibling> "William Faulkner" .
+<Edgar_Allan_Poe> <common.topic.notable_types> "Author" .
+<Toni_Morrison> <people.person.profession> "Writer" .
+<William_Faulkner> <influence.influence_node.influenced> "Toni Morrison" .
+<Paul_Auster> <influence.influence_node.influenced_by> "Jorge Luis Borges" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Place of death" .
+<William_Faulkner> <influence.influence_node.influenced> "Daniel Wallace" .
+<Shelby_Foote> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Stanley_Elkin> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Mario_Vargas_Llosa> <people.person.gender> "Male" .
+<Charles_Dickens> <influence.influence_node.influenced> "Fyodor Dostoyevsky" .
+<Joseph_Conrad> <book.author.school_or_movement> "Literary modernism" .
+<Topic> <freebase.type_profile.published> "Published" .
+<J._M._Coetzee> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Book_Edition> <type.type.properties> "Cover artist" .
+<Jorge_Luis_Borges> <people.person.languages> "English Language" .
+<m.03nb8qz> <award.award_honor.award_winner> "William Faulkner" .
+<Colum_McCann> <freebase.valuenotation.is_reviewed> "Gender" .
+<Submarine_Patrol> <film.film.language> "English Language" .
+<Mark_Twain> <freebase.valuenotation.is_reviewed> "Parents" .
+<Larry_Heinemann> <people.person.gender> "Male" .
+<Norman_Mailer> <people.person.gender> "Male" .
+<Book> <type.type.domain> "Books" .
+<Ken_Kesey> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Friedrich_Nietzsche> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<The_Reivers> <film.film.country> "United States of America" .
+<John_Steinbeck> <people.person.gender> "Male" .
+<Miguel_de_Cervantes> <freebase.valuenotation.is_reviewed> "Place of death" .
+<William_Styron> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Juan_Rulfo> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Book_Edition> <type.type.properties> "Book edition series" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced_by> "Joseph Conrad" .
+<Intruder_in_the_Dust> <book.written_work.subjects> "Mississippi" .
+<Flannery_O'Connor> <freebase.valuenotation.is_reviewed> "Gender" .
+<Barry_Hannah> <people.person.nationality> "United States of America" .
+<Stanley_Elkin> <people.deceased_person.cause_of_death> "heart attack" .
+<Book_Edition> <type.type.expected_by> "Book Editions" .
+<Ken_Kesey> <people.person.profession> "Writer" .
+<Barry_Hannah> <people.person.gender> "Male" .
+<m.07ng0jq> <base.ontologies.ontology_instance_mapping.freebase_topic> "William Faulkner" .
+<Go_Down,_Moses> <book.book.editions> "Go down, Moses, and other stories" .
+<Stephen_King> <freebase.valuenotation.is_reviewed> "Gender" .
+<Paul_Auster> <people.person.profession> "Writer" .
+<Russell_Banks> <influence.influence_node.influenced_by> "John Steinbeck" .
+<Joseph_Conrad> <people.person.profession> "Writer" .
+<Edgar_Allan_Poe> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Go_Down,_Moses> <book.book.editions> "Go down Moses" .
+<Daniel_Wallace> <people.person.nationality> "United States of America" .
+<T._S._Eliot> <influence.influence_node.influenced> "Ralph Ellison" .
+<James_Joyce> <people.person.gender> "Male" .
+<J._M._Coetzee> <people.person.profession> "Writer" .
+<William_Faulkner> <people.person.parents> "Murry Cuthbert Falkner" .
+<Don_DeLillo> <influence.influence_node.influenced> "Colum McCann" .
+<Michael_Bishop> <freebase.valuenotation.is_reviewed> "Gender" .
+<Fyodor_Dostoyevsky> <influence.influence_node.influenced_by> "Honoré de Balzac" .
+<Guram_Dochanashvili> <common.topic.notable_types> "Author" .
+<J._M._G._Le_Clézio> <people.person.profession> "Writer" .
+<Christopher_Klim> <influence.influence_node.influenced_by> "Charles Dickens" .
+<John_Steinbeck> <freebase.valuenotation.is_reviewed> "Place of death" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<William_Faulkner> <people.person.quotations> "The tools I need for my work are paper, tobacco, food, and a little whiskey." .
+<Bret_Easton_Ellis> <people.person.nationality> "United States of America" .
+<Norman_Mailer> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<The_Hamlet> <book.written_work.author> "William Faulkner" .
+<Book_Edition> <freebase.type_profile.strict_included_types> "Topic" .
+<Larry_Brown> <people.person.profession> "Writer" .
+<Wendell_Berry> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Go_Down,_Moses> <book.book.editions> "Go down, Moses" .
+<Sherwood_Anderson> <influence.influence_node.influenced> "John Steinbeck" .
+<Ralph_Ellison> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Norman_Mailer> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<William_Faulkner> <influence.influence_node.influenced> "David Markson" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Joyce_Carol_Oates> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<The_Tarnished_Angels> <film.film.story_by> "William Faulkner" .
+<To_Have_and_Have_Not> <film.film.story_by> "Ernest Hemingway" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Friedrich Nietzsche" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "William Faulkner" .
+<William_Faulkner> <common.topic.article> "m.084wl" .
+<Louise_Erdrich> <influence.influence_node.influenced_by> "William Faulkner" .
+<Barry_Hannah> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Wendell_Berry> <influence.influence_node.influenced_by> "Mark Twain" .
+<William_Shakespeare> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Ron_Arias> <influence.influence_node.influenced_by> "Gabriel García Márquez" .
+<George_R._R._Martin> <freebase.valuenotation.is_reviewed> "Gender" .
+<Fyodor_Dostoyevsky> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<Charles_Dickens> <people.person.gender> "Male" .
+<William_Styron> <people.person.profession> "Novelist" .
+<Jorge_Luis_Borges> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Fyodor_Dostoyevsky> <people.person.gender> "Male" .
+<Joseph_Conrad> <common.topic.notable_types> "Author" .
+<William_Faulkner> <people.person.quotations> "All of us failed to match our dreams of perfection. So I rate us on the basis of our splendid failure to do the impossible." .
+<Ken_Kesey> <people.person.profession> "Novelist" .
+<To_Have_and_Have_Not> <film.film.written_by> "William Faulkner" .
+<William_Faulkner> <influence.influence_node.influenced> "Flannery O'Connor" .
+<Murry_Cuthbert_Falkner> <freebase.valuenotation.has_value> "Place of birth" .
+<F._Sionil_José> <influence.influence_node.influenced_by> "John Steinbeck" .
+<Honoré_de_Balzac> <influence.influence_node.influenced> "Charles Dickens" .
+<Book_Edition> <type.type.expected_by> "Book Edition" .
+<Shelby_Foote> <people.person.gender> "Male" .
+<Leo_Tolstoy> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Emily_Brontë> <common.topic.notable_types> "Author" .
+<Jack_Ketchum> <influence.influence_node.influenced_by> "Stephen King" .
+<Murry_Cuthbert_Falkner> <freebase.valuenotation.has_value> "Cause of death" .
+<Gustave_Flaubert> <influence.influence_node.influenced_by> "Honoré de Balzac" .
+<Book_Edition> <type.type.expected_by> "Editions in this series" .
+<Orhan_Pamuk> <influence.influence_node.influenced_by> "Gabriel García Márquez" .
+<Charles_Dickens> <influence.influence_node.influenced> "Christopher Klim" .
+<Charles_Dickens> <influence.influence_node.influenced> "Joyce Carol Oates" .
+<Thomas_Wolfe> <people.person.profession> "Novelist" .
+<Cormac_McCarthy> <influence.influence_node.influenced> "Jack Ketchum" .
+<Sherwood_Anderson> <people.person.nationality> "United States of America" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "Malcolm Lowry" .
+<Book> <freebase.type_profile.published> "Published" .
+<m.040wjgf> <award.award_honor.award_winner> "William Faulkner" .
+<Thomas_Mann> <people.person.gender> "Male" .
+<Edition_Of> <rdf-schema#range> "Book" .
+<Stephen_King> <influence.influence_node.influenced> "Bret Easton Ellis" .
+<George_R._R._Martin> <influence.influence_node.influenced_by> "William Faulkner" .
+<Edgardo_Vega_Yunqué> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<William_Faulkner> <people.person.quotations> "My own experience has been that the tools I need for my trade are paper, tobacco, food, and a little whisky." .
+<The_salvation_of_the_world_is_in_man's_suffering.> <media_common.quotation.author> "William Faulkner" .
+<Charles_Dickens> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<William_Faulkner> <award.award_nominee.award_nominations> "m.0b7mq4x" .
+<F._Sionil_José> <influence.influence_node.influenced_by> "William Faulkner" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Bret Easton Ellis" .
+<Malcolm_Lowry> <influence.influence_node.influenced> "David Markson" .
+<Bret_Easton_Ellis> <people.person.profession> "Novelist" .
+<Edgar_Allan_Poe> <influence.influence_node.influenced> "Paul Auster" .
+<Barry_Hannah> <influence.influence_node.influenced_by> "William Faulkner" .
+<William_Faulkner> <people.person.languages> "English Language" .
+<The_Reivers> <film.film.language> "English Language" .
+<Mark_Twain> <influence.influence_node.influenced> "Sherwood Anderson" .
+<F._Sionil_José> <people.person.gender> "Male" .
+<Book_Edition> <type.type.expected_by> "Book editions published" .
+<m.09jz_yr> <award.award_honor.award_winner> "William Faulkner" .
+<Thomas_Wolfe> <influence.influence_node.influenced_by> "Sherwood Anderson" .
+<Writer> <people.profession.specializations> "Novelist" .
+<Editions> <rdf-schema#domain> "Book" .
+<Shelby_Foote> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<J._M._Coetzee> <freebase.valuenotation.is_reviewed> "Gender" .
+<William_Faulkner> <influence.influence_node.influenced> "Fulvio Tomizza" .
+<Herman_Melville> <influence.influence_node.influenced> "Malcolm Lowry" .
+<Edna_O'Brien> <people.person.profession> "Writer" .
+<Paul_Auster> <influence.influence_node.influenced_by> "Herman Melville" .
+<Larry_Heinemann> <people.person.profession> "Novelist" .
+<J._M._Coetzee> <common.topic.notable_types> "Author" .
+<Charles_Dickens> <influence.influence_node.influenced> "James Joyce" .
+<Larry_Brown> <influence.influence_node.influenced_by> "Flannery O'Connor" .
+<Drums_Along_the_Mohawk> <film.film.written_by> "William Faulkner" .
+<Joyce_Carol_Oates> <influence.influence_node.influenced_by> "Flannery O'Connor" .
+<Book_Edition> <type.type.domain> "Books" .
+<Charles_Dickens> <influence.influence_node.influenced> "T. S. Eliot" .
+<Charles_Dickens> <common.topic.notable_types> "Author" .
+<Gustave_Flaubert> <influence.influence_node.influenced> "Bret Easton Ellis" .
+<Edgar_Allan_Poe> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Mitch_Cullin> <influence.influence_node.influenced_by> "William Faulkner" .
+<William_Faulkner> <people.deceased_person.cause_of_death> "heart attack" .
+<Norman_Mailer> <influence.influence_node.influenced_by> "Thomas Mann" .
+<Bret_Easton_Ellis> <influence.influence_node.influenced_by> "Philip Roth" .
+<Author> <type.type.expected_by> "Editor of this edition" .
+<Mario_Vargas_Llosa> <influence.influence_node.influenced_by> "Juan Rulfo" .
+<Jack_Ketchum> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<Orhan_Pamuk> <influence.influence_node.influenced_by> "Jorge Luis Borges" .
+<Gustave_Flaubert> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<Mark_Twain> <influence.influence_node.influenced> "Hunter S. Thompson" .
+<Miguel_de_Cervantes> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Charles_Dickens> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<m.0n1n5zm> <education.education.student> "William Faulkner" .
+<Larry_Heinemann> <influence.influence_node.influenced_by> "William Faulkner" .
+<David_Anthony_Durham> <influence.influence_node.influenced_by> "Mario Vargas Llosa" .
+<Herman_Melville> <common.topic.notable_types> "Author" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Russell Banks" .
+<Steve_Erickson> <freebase.valuenotation.is_reviewed> "Gender" .
+<Book_Edition> <common.topic.article> "m.021ynhc" .
+<Juan_Rulfo> <influence.influence_node.influenced> "Ron Arias" .
+<Edgar_Allan_Poe> <people.person.gender> "Male" .
+<Mark_Twain> <freebase.valuenotation.is_reviewed> "Place of death" .
+<William_Faulkner> <film.writer.film> "The Long, Hot Summer" .
+<James_Salter> <people.person.profession> "Novelist" .
+<Honoré_de_Balzac> <freebase.valuenotation.is_reviewed> "Gender" .
+<Steve_Erickson> <people.person.profession> "Novelist" .
+<Book_Edition> <type.type.properties> "Edition Of" .
+<William_Faulkner> <people.person.quotations> "A mule will labor ten years willingly and patiently for you, for the privilege of kicking you once." .
+<Charles_Dickens> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<Go_Down,_Moses> <book.book.editions> "Go down, Moses" .
+<Gustave_Flaubert> <influence.influence_node.influenced> "Philip Roth" .
+<Book_Edition> <type.type.properties> "Dewey decimal number" .
+<Terry_Brooks> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<William_Styron> <influence.influence_node.influenced_by> "James Joyce" .
+<William_Faulkner> <influence.influence_node.influenced> "Wendell Berry" .
+<Paul_Auster> <influence.influence_node.influenced_by> "Edgar Allan Poe" .
+<Juan_Rulfo> <influence.influence_node.influenced_by> "William Faulkner" .
+<Guram_Dochanashvili> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<Truman_Capote> <people.person.profession> "Novelist" .
+<Go_Down,_Moses> <book.book.editions> "Go down, Moses" .
+<Mississippi> <base.locations.states_and_provences.country> "United States of America" .
+<James_Joyce> <people.person.profession> "Novelist" .
+<Toni_Morrison> <influence.influence_node.influenced_by> "Herman Melville" .
+<Barn_Burning> <film.film.language> "English Language" .
+<Edgar_Allan_Poe> <influence.influence_node.influenced> "Herman Melville" .
+<Joseph_Conrad> <people.person.gender> "Male" .
+<Leo_Tolstoy> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<William_Faulkner> <people.person.spouse_s> "m.0j6j9tm" .
+<Literary_modernism> <book.school_or_movement.associated_authors> "William Faulkner" .
+<Book_Edition> <type.type.expected_by> "Book Editions" .
+<Go_Down,_Moses> <book.book_edition.author_editor> "William Faulkner" .
+<Herman_Melville> <influence.influence_node.influenced> "Larry Heinemann" .
+<William_Faulkner> <influence.influence_node.influenced> "Larry Brown" .
+<Book_Edition> <type.type.properties> "LCC" .
+<David_Markson> <people.person.gender> "Male" .
+<Book_Edition> <type.type.properties> "Number of pages" .
+<William_Faulkner> <people.person.sibling_s> "m.0k6m1d2" .
+<Ken_Kesey> <influence.influence_node.influenced_by> "William Shakespeare" .
+<Harper_Lee> <people.person.profession> "Novelist" .
+<Orhan_Pamuk> <people.person.gender> "Male" .
+<John_Steinbeck> <influence.influence_node.influenced> "Colum McCann" .
+<Intruder_in_the_Dust> <fictional_universe.work_of_fiction.setting> "Yoknapatawpha County" .
+<Mark_Twain> <people.person.nationality> "United States of America" .
+<Author> <type.type.expected_by> "Contributing authors" .
+<Thomas_Wolfe> <people.person.gender> "Male" .
+<J._M._Coetzee> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<Paul_Auster> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<United_States_of_America> <location.country.administrative_divisions> "Mississippi" .
+<Book> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<m.03pqv9c> <people.place_lived.person> "William Faulkner" .
+<William_Faulkner> <award.award_winner.awards_won> "m.040wjgy" .
+<Mo_Yan> <people.person.gender> "Male" .
+<William_Faulkner> <people.person.quotations> "The man who removes a mountain begins by carrying away small stones." .
+<Gabriel_García_Márquez> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<William_Faulkner> <people.person.children> "Jill Faulkner" .
+<Michael_Bishop> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<T._S._Eliot> <common.topic.notable_types> "Author" .
+<Philip_Roth> <influence.influence_node.influenced_by> "James Joyce" .
+<Larry_Brown> <freebase.valuenotation.has_value> "Parents" .
+<William_Faulkner> <influence.influence_node.influenced> "Rudi Šeligo" .
+<Go_Down,_Moses> <common.topic.notable_for> "g.1257xj3w5" .
+<William_Faulkner> <people.person.nationality> "United States of America" .
+<Edition_Of> <type.property.schema> "Book Edition" .
+<Steve_Erickson> <influence.influence_node.influenced_by> "William Faulkner" .
+<Michael_Bishop> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Melinda_Rucker_Haynes> <common.topic.notable_types> "Author" .
+<Mo_Yan> <people.person.profession> "Novelist" .
+<Peter_Carey> <people.person.profession> "Novelist" .
+<Christopher_Klim> <people.person.profession> "Novelist" .
+<Go_Down,_Moses> <book.book_edition.book> "Go Down, Moses" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced> "Orhan Pamuk" .
+<Edgardo_Vega_Yunqué> <people.person.profession> "Novelist" .
+<Genevieve_Pou> <people.person.nationality> "United States of America" .
+<William_Faulkner> <people.person.quotations> "The artist is of no importance. Only what he creates is important, since there is nothing new to be said. Shakespeare, Balzac, Homer have all written about the same things, and if they had lived one thousand or two thousand years longer, the publishers wouldn't have needed anyone since." .
+<Malcolm_Lowry> <influence.influence_node.influenced> "Truman Capote" .
+<Juan_Rulfo> <freebase.valuenotation.is_reviewed> "Gender" .
+<Robert_Flynn> <people.person.profession> "Novelist" .
+<9780679732174> <common.topic.notable_for> "g.125fvglyt" .
+<Wendell_Berry> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Russell_Banks> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<Ken_Kesey> <influence.influence_node.influenced_by> "Charles Dickens" .
+<Barry_Hannah> <influence.influence_node.influenced> "Larry Brown" .
+<ISBN> <freebase.type_profile.strict_included_types> "Topic" .
+<Mark_Twain> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<William_Faulkner> <influence.influence_node.influenced> "Jorge Luis Borges" .
+<Ernest_Hemingway> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<T._S._Eliot> <freebase.valuenotation.is_reviewed> "Parents" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Charles Dickens" .
+<Ralph_Ellison> <people.person.profession> "Novelist" .
+<William_Faulkner> <people.person.quotations> "One of the saddest things is that the only thing that a man can do for eight hours a day, day after day, is work. You can't eat eight hours a day nor drink for eight hours a day nor make love for eight hours --all you can do for eight hours is work. Which is the reason why man makes himself and everybody else so miserable and unhappy." .
+<Malcolm_Lowry> <influence.influence_node.influenced_by> "Herman Melville" .
+<Russell_Banks> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced> "Rudi Šeligo" .
+<Novelist> <people.profession.corresponding_type> "Author" .
+<As_I_Lay_Dying> <film.film.language> "English Language" .
+<Charles_Dickens> <influence.influence_node.influenced> "Ken Kesey" .
+<Charles_Dickens> <influence.influence_node.influenced> "Leo Tolstoy" .
+<William_Faulkner> <film.writer.film> "Drums Along the Mohawk" .
+<David_Markson> <influence.influence_node.influenced_by> "Malcolm Lowry" .
+<Wendell_Berry> <people.person.nationality> "United States of America" .
+<Orhan_Pamuk> <influence.influence_node.influenced_by> "William Faulkner" .
+<Stanley_Elkin> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Cormac_McCarthy> <people.person.profession> "Writer" .
+<William_Faulkner> <influence.influence_node.influenced> "Christopher Klim" .
+<Juan_Carlos_Onetti> <people.person.profession> "Writer" .
+<Daniel_Wallace> <freebase.valuenotation.is_reviewed> "Gender" .
+<ISBN> <freebase.type_hints.included_types> "Topic" .
+<William_Shakespeare> <freebase.valuenotation.is_reviewed> "Parents" .
+<Book_Edition> <type.type.expected_by> "Editions" .
+<Peter_Carey> <freebase.valuenotation.has_value> "Parents" .
+<Terry_Brooks> <people.person.profession> "Writer" .
+<m.0g5ty12> <education.education.student> "William Faulkner" .
+<Daniel_Wallace> <common.topic.notable_types> "Author" .
+<Russell_Banks> <influence.influence_node.influenced_by> "Herman Melville" .
+<William_Faulkner> <base.nobelprizes.nobel_prize_winner.nobel_honor> "m.065sdnh" .
+<William_Faulkner> <influence.influence_node.influenced> "Mitch Cullin" .
+<Harper_Lee> <people.person.nationality> "United States of America" .
+<J._M._Coetzee> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<Book_Edition> <type.type.properties> "Place of publication" .
+<David_Markson> <influence.influence_node.influenced_by> "James Joyce" .
+<Guram_Dochanashvili> <influence.influence_node.influenced_by> "James Joyce" .
+<Paul_Auster> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<Janet_Frame> <common.topic.notable_types> "Author" .
+<Author> <type.type.properties> "Contributing author to" .
+<Herman_Melville> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Gustave_Flaubert> <influence.influence_node.influenced> "Mario Vargas Llosa" .
+<Wendell_Berry> <influence.influence_node.influenced_by> "William Shakespeare" .
+<Joseph_Heller> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced> "Gilles Deleuze" .
+<Louise_Erdrich> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<J._M._G._Le_Clézio> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<Book_Edition> <freebase.documented_object.documentation> "m.021ynhc" .
+<Author> <freebase.type_profile.published> "Published" .
+<Edgar_Allan_Poe> <influence.influence_node.influenced> "Joyce Carol Oates" .
+<Charles_Dickens> <influence.influence_node.influenced_by> "Honoré de Balzac" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Malcolm Lowry" .
+<Edgar_Allan_Poe> <influence.influence_node.influenced_by> "Charles Dickens" .
+<Truman_Capote> <influence.influence_node.influenced> "Harper Lee" .
+<Book_Edition> <type.type.expected_by> "Audio books read" .
+<m.0j6j9tm> <people.marriage.spouse> "William Faulkner" .
+<Malcolm_Lowry> <people.person.gender> "Male" .
+<William_Faulkner> <influence.influence_node.influenced> "Gilles Deleuze" .
+<William_Faulkner> <people.person.quotations> "When my horse is running good, I don't stop to give him sugar." .
+<Toni_Morrison> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Melinda_Rucker_Haynes> <people.person.profession> "Novelist" .
+<Orhan_Pamuk> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<Leo_Tolstoy> <people.person.profession> "Writer" .
+<James_Joyce> <influence.influence_node.influenced_by> "Charles Dickens" .
+<George_R._R._Martin> <people.person.profession> "Novelist" .
+<Ken_Kesey> <influence.influence_node.influenced_by> "Mark Twain" .
+<Gustave_Flaubert> <people.person.profession> "Writer" .
+<Herman_Melville> <influence.influence_node.influenced> "Russell Banks" .
+<Bret_Easton_Ellis> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced_by> "John Keats" .
+<Stephen_King> <people.person.profession> "Novelist" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "William Faulkner" .
+<Ernest_Hemingway> <freebase.valuenotation.is_reviewed> "Parents" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced_by> "Jorge Luis Borges" .
+<Book_Edition> <type.type.properties> "Author/editor" .
+<Don_DeLillo> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<Mark_Twain> <people.person.gender> "Male" .
+<Intruder_in_the_Dust> <book.written_work.previous_in_series> "Go Down, Moses" .
+<Joyce_Carol_Oates> <people.person.profession> "Writer" .
+<Steve_Erickson> <influence.influence_node.influenced_by> "Gabriel García Márquez" .
+<Yoknapatawpha_County> <fictional_universe.fictional_setting.works_set_here> "Intruder in the Dust" .
+<Charles_Dickens> <influence.influence_node.influenced> "Edgar Allan Poe" .
+<Ron_Arias> <freebase.valuenotation.has_value> "Parents" .
+<Air_Force> <film.film.language> "English Language" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<Leo_Tolstoy> <freebase.valuenotation.is_reviewed> "Parents" .
+<Cormac_McCarthy> <influence.influence_node.influenced_by> "Herman Melville" .
+<Paul_Auster> <influence.influence_node.influenced_by> "William Faulkner" .
+<Cormac_McCarthy> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<William_Faulkner> <influence.influence_node.influenced> "Juan Rulfo" .
+<Edgardo_Vega_Yunqué> <people.person.gender> "Male" .
+<William_Faulkner> <influence.influence_node.influenced> "Steve Erickson" .
+<Russell_Banks> <freebase.valuenotation.is_reviewed> "Gender" .
+<F._Sionil_José> <common.topic.notable_types> "Author" .
+<William_Faulkner> <influence.influence_node.influenced> "Jack Ketchum" .
+<George_R._R._Martin> <people.person.profession> "Writer" .
+<Harper_Lee> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Paul_Auster> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<Ken_Kesey> <freebase.valuenotation.is_reviewed> "Date of death" .
+<William_Faulkner> <freebase.valuenotation.is_reviewed> "Gender" .
+<Go_Down,_Moses> <book.book.editions> "Go Down Moses (Modern Library)" .
+<Background_to_Danger> <film.film.language> "English Language" .
+<Miguel_de_Cervantes> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Parents" .
+<William_Faulkner> <influence.influence_node.influenced> "A. B. Yehoshua" .
+<George_R._R._Martin> <influence.influence_node.influenced> "David Anthony Durham" .
+<Friedrich_Nietzsche> <people.person.gender> "Male" .
+<Jim_Harrison> <people.person.gender> "Male" .
+<William_Faulkner> <influence.influence_node.influenced_by> "William Shakespeare" .
+<Philip_Roth> <influence.influence_node.influenced_by> "Emily Brontë" .
+<Honoré_de_Balzac> <influence.influence_node.influenced> "Gustave Flaubert" .
+<m.065sdnh> <base.nobelprizes.nobel_honor.nobel_prize_winner> "William Faulkner" .
+<Go_Down,_Moses> <book.book_edition.number_of_pages> "m.04ttqt2" .
+<Bret_Easton_Ellis> <freebase.valuenotation.is_reviewed> "Gender" .
+<Paul_Auster> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "James Joyce" .
+<Charles_Dickens> <influence.influence_node.influenced_by> "William Shakespeare" .
+<Murry_Cuthbert_Falkner> <people.person.gender> "Male" .
+<m.03mlln4> <award.award_honor.award_winner> "William Faulkner" .
+<Cormac_McCarthy> <people.person.gender> "Male" .
+<Don_DeLillo> <people.person.nationality> "United States of America" .
+<Gabriel_García_Márquez> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Go_Down,_Moses> <book.book.genre> "Novel" .
+<Juan_Carlos_Onetti> <people.person.gender> "Male" .
+<Daniel_Wallace> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<David_Anthony_Durham> <common.topic.notable_types> "Author" .
+<Thomas_Wolfe> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<William_Faulkner> <influence.influence_node.influenced> "Mo Yan" .
+<Book_Edition> <freebase.type_hints.included_types> "Cataloged instance" .
+<Ken_Kesey> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<Mario_Vargas_Llosa> <freebase.valuenotation.is_reviewed> "Gender" .
+<William_Faulkner> <influence.influence_node.influenced> "J. M. G. Le Clézio" .
+<The_Hamlet> <book.written_work.next_in_series> "Go Down, Moses" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "Paul Auster" .
+<Cormac_McCarthy> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<David_Anthony_Durham> <influence.influence_node.influenced_by> "Cormac McCarthy" .
+<Jorge_Luis_Borges> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Colum_McCann> <people.person.profession> "Novelist" .
+<Philip_Roth> <influence.influence_node.influenced_by> "Ralph Ellison" .
+<Honoré_de_Balzac> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Charles_Dickens> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Edna_O'Brien> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<William_Faulkner> <people.person.quotations> "An artist is a creature driven by demons. He doesn't know why they choose him and he's usually too busy to wonder why." .
+<Steve_Erickson> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Book_Edition> <type.type.properties> "ISBN" .
+<Go_Down,_Moses> <common.topic.notable_for> "g.1254_qw45" .
+<Shelby_Foote> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced> "Ron Arias" .
+<William_Faulkner> <award.award_nominee.award_nominations> "m.0g4x9fw" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Gustave Flaubert" .
+<J._M._Coetzee> <influence.influence_node.influenced_by> "William Faulkner" .
+<The_Hamlet> <book.book.genre> "Novel" .
+<Mitch_Cullin> <people.person.nationality> "United States of America" .
+<Thomas_Mann> <influence.influence_node.influenced_by> "Edgar Allan Poe" .
+<Mark_Twain> <influence.influence_node.influenced_by> "Charles Dickens" .
+<Michael_Bishop> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<Wendell_Berry> <people.person.profession> "Novelist" .
+<Norman_Mailer> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<Maud_Butler> <freebase.valuenotation.has_value> "Place of death" .
+<Genevieve_Pou> <people.person.profession> "Writer" .
+<Philip_Roth> <influence.influence_node.influenced_by> "Mark Twain" .
+<William_Faulkner> <influence.influence_node.influenced> "Michael Bishop" .
+<Juan_Rulfo> <influence.influence_node.influenced> "Mario Vargas Llosa" .
+<Joseph_Conrad> <influence.influence_node.influenced> "T. S. Eliot" .
+<Russell_Banks> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Wendell_Berry> <people.person.profession> "Writer" .
+<James_Salter> <people.person.gender> "Male" .
+<Paul_Auster> <influence.influence_node.influenced_by> "Charles Dickens" .
+<Edgardo_Vega_Yunqué> <influence.influence_node.influenced_by> "Juan Rulfo" .
+<Gabriel_García_Márquez> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Gabriel_García_Márquez> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Jorge_Luis_Borges> <freebase.valuenotation.is_reviewed> "Gender" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Parents" .
+<William_Faulkner> <people.person.profession> "Writer" .
+<Robert_Flynn> <people.person.profession> "Writer" .
+<John_Steinbeck> <people.person.profession> "Novelist" .
+<Cormac_McCarthy> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<Honoré_de_Balzac> <people.person.profession> "Writer" .
+<Mississippi> <location.administrative_division.first_level_division_of> "United States of America" .
+<Ken_Kesey> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Stephen_King> <common.topic.notable_types> "Author" .
+<Malcolm_Lowry> <people.person.profession> "Novelist" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Mississippi" .
+<T._S._Eliot> <freebase.valuenotation.is_reviewed> "Gender" .
+<Mose_Kalev> <people.person.nationality> "United States of America" .
+<Air_Force> <film.film.country> "United States of America" .
+<William_Faulkner> <people.person.gender> "Male" .
+<Harper_Lee> <common.topic.notable_types> "Author" .
+<Friedrich_Nietzsche> <influence.influence_node.influenced_by> "William Shakespeare" .
+<Cormac_McCarthy> <influence.influence_node.influenced_by> "Joseph Conrad" .
+<Mississippi> <fictional_universe.fictional_setting.contains> "Yoknapatawpha County" .
+<Edgar_Allan_Poe> <influence.influence_node.influenced> "Janet Frame" .
+<Mark_Twain> <influence.influence_node.influenced> "Ernest Hemingway" .
+<Book> <freebase.type_hints.included_types> "Topic" .
+<William_Faulkner> <influence.influence_node.influenced> "Mario Vargas Llosa" .
+<Truman_Capote> <people.person.gender> "Male" .
+<Author> <type.type.expected_by> "Author/editor" .
+<Jack_Ketchum> <people.person.gender> "Male" .
+<Daniel_Wallace> <influence.influence_node.influenced_by> "William Faulkner" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "Paul Auster" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "Ron Arias" .
+<Don_DeLillo> <influence.influence_node.influenced_by> "Flannery O'Connor" .
+<William_Faulkner> <influence.influence_node.influenced> "Harper Lee" .
+<Book_Edition> <type.type.expected_by> "Book edition" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Norman Mailer" .
+<William_Clark_Falkner> <people.person.nationality> "United States of America" .
+<William_Faulkner> <influence.influence_node.influenced> "Bret Easton Ellis" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "James Joyce" .
+<James_Joyce> <influence.influence_node.influenced_by> "Friedrich Nietzsche" .
+<Orhan_Pamuk> <freebase.valuenotation.is_reviewed> "Gender" .
+<Shelby_Foote> <common.topic.notable_types> "Author" .
+<William_Faulkner> <base.ontologies.ontology_instance.equivalent_instances> "m.07ng0jq" .
+<Terry_Brooks> <people.person.gender> "Male" .
+<Christopher_Klim> <influence.influence_node.influenced_by> "William Faulkner" .
+<Janet_Frame> <freebase.valuenotation.is_reviewed> "Place of death" .
+<William_Styron> <influence.influence_node.influenced_by> "Gustave Flaubert" .
+<Russell_Banks> <people.person.profession> "Writer" .
+<William_Faulkner> <influence.influence_node.influenced> "Stanley Elkin" .
+<Literary_modernism> <book.school_or_movement.associated_authors> "Joseph Conrad" .
+<Ernest_Hemingway> <influence.influence_node.influenced_by> "Sherwood Anderson" .
+<Louise_Erdrich> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<United_States_of_America> <location.country.first_level_divisions> "Mississippi" .
+<William_Faulkner> <award.award_nominee.award_nominations> "m.09rk2bt" .
+<Go_Down,_Moses> <book.written_work.subjects> "Mississippi" .
+<Book_Edition> <type.type.expected_by> "For Giveaway" .
+<Barry_Hannah> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Norman_Mailer> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Steve_Erickson> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<William_Styron> <influence.influence_node.influenced_by> "Mark Twain" .
+<William_Faulkner> <film.film_story_contributor.film_story_credits> "The Sound and the Fury" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "Ernest Hemingway" .
+<William_Clark_Falkner> <common.topic.notable_types> "Author" .
+<Malcolm_Lowry> <influence.influence_node.influenced_by> "William Faulkner" .
+<Jim_Harrison> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Steve_Erickson> <common.topic.notable_types> "Author" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced_by> "Juan Rulfo" .
+<John_Steinbeck> <people.person.profession> "Writer" .
+<Charles_Dickens> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<William_Faulkner> <influence.influence_node.influenced> "Mose Kalev" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced> "Gabriel García Márquez" .
+<Ernest_Hemingway> <influence.influence_node.influenced_by> "Joseph Conrad" .
+<Wendell_Berry> <common.topic.notable_types> "Author" .
+<Mario_Vargas_Llosa> <people.person.profession> "Writer" .
+<Maud_Butler> <freebase.valuenotation.has_value> "Country of nationality" .
+<Jim_Harrison> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Mo_Yan> <influence.influence_node.influenced_by> "William Faulkner" .
+<Edna_O'Brien> <people.person.profession> "Novelist" .
+<Louise_Erdrich> <people.person.profession> "Novelist" .
+<Joyce_Carol_Oates> <influence.influence_node.influenced_by> "Emily Brontë" .
+<Honoré_de_Balzac> <people.person.profession> "Novelist" .
+<Stephen_King> <influence.influence_node.influenced_by> "William Faulkner" .
+<Herman_Melville> <people.person.nationality> "United States of America" .
+<Gabriel_García_Márquez> <people.person.gender> "Male" .
+<William_Faulkner> <people.person.quotations> "The writer's only responsibility is to his art. He will be completely ruthless if he is a good one. He has a dream. Everything goes by the board: honor, pride, decency, security, happiness, all, to get the book written. If a writer has to rob his mother, he will not hesitate; the Ode on a Grecian Urn is worth any number of old ladies." .
+<Sherwood_Anderson> <people.person.profession> "Novelist" .
+<Miguel_de_Cervantes> <common.topic.notable_types> "Author" .
+<Janet_Frame> <influence.influence_node.influenced_by> "William Styron" .
+<Miguel_de_Cervantes> <freebase.valuenotation.is_reviewed> "Date of death" .
+<William_Faulkner> <influence.influence_node.influenced> "Jonathan Rosenbaum" .
+<T._S._Eliot> <people.person.nationality> "United States of America" .
+<William_Faulkner> <people.person.parents> "Maud Butler" .
+<Janet_Frame> <influence.influence_node.influenced_by> "Emily Brontë" .
+<William_Faulkner> <film.writer.film> "Air Force" .
+<William_Faulkner> <award.award_winner.awards_won> "m.03nb8qz" .
+<William_Faulkner> <award.award_nominee.award_nominations> "m.0b9zmkq" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Honoré de Balzac" .
+<Colum_McCann> <people.person.gender> "Male" .
+<John_Steinbeck> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Jack_Ketchum> <common.topic.notable_types> "Author" .
+<Joseph_Conrad> <people.person.languages> "English Language" .
+<Peter_Carey> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Thomas_Wolfe> <common.topic.notable_types> "Author" .
+<William_Faulkner> <film.film_story_contributor.film_story_credits> "The Arsonist" .
+<Joyce_Carol_Oates> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Barry_Hannah> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<William_Faulkner> <film.film_story_contributor.film_story_credits> "The Reivers" .
+<Orhan_Pamuk> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced_by> "James Joyce" .
+<Emily_Brontë> <influence.influence_node.influenced> "Janet Frame" .
+<Colum_McCann> <influence.influence_node.influenced_by> "Don DeLillo" .
+<Bret_Easton_Ellis> <influence.influence_node.influenced_by> "James Joyce" .
+<Herman_Melville> <influence.influence_node.influenced> "Cormac McCarthy" .
+<Hunter_S._Thompson> <people.person.profession> "Writer" .
+<William_Faulkner> <film.writer.film> "Gunga Din" .
+<William_Faulkner> <freebase.valuenotation.is_reviewed> "Parents" .
+<William_Faulkner> <influence.influence_node.influenced> "Edna O'Brien" .
+<Submarine_Patrol> <film.film.written_by> "William Faulkner" .
+<Jim_Harrison> <people.person.nationality> "United States of America" .
+<Stanley_Elkin> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Ralph_Ellison> <influence.influence_node.influenced_by> "James Joyce" .
+<Bret_Easton_Ellis> <influence.influence_node.influenced_by> "Truman Capote" .
+<Joyce_Carol_Oates> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Herman_Melville> <influence.influence_node.influenced_by> "Edgar Allan Poe" .
+<Michael_Bishop> <people.person.profession> "Writer" .
+<Mississippi> <book.book_subject.works> "The Hamlet" .
+<Truman_Capote> <influence.influence_node.influenced_by> "Gustave Flaubert" .
+<Philip_Roth> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Ken_Kesey> <common.topic.notable_types> "Author" .
+<Honoré_de_Balzac> <people.person.gender> "Male" .
+<Intruder_in_the_Dust> <book.written_work.original_language> "English Language" .
+<Terry_Brooks> <common.topic.notable_types> "Author" .
+<Charles_Dickens> <freebase.valuenotation.is_reviewed> "Gender" .
+<William_Faulkner> <influence.influence_node.influenced> "J. M. Coetzee" .
+<James_Joyce> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced> "Orhan Pamuk" .
+<Leo_Tolstoy> <freebase.valuenotation.is_reviewed> "Gender" .
+<Guram_Dochanashvili> <people.person.profession> "Writer" .
+<Robert_Flynn> <common.topic.notable_types> "Author" .
+<George_R._R._Martin> <people.person.nationality> "United States of America" .
+<Barn_Burning> <film.film.story_by> "William Faulkner" .
+<Barry_Hannah> <freebase.valuenotation.is_reviewed> "Place of death" .
+<ISBN> <type.type.properties> "Book Editions" .
+<Stanley_Elkin> <people.person.profession> "Novelist" .
+<Gustave_Flaubert> <influence.influence_node.influenced> "Mo Yan" .
+<Gabriel_García_Márquez> <freebase.valuenotation.is_reviewed> "Gender" .
+<The_Hamlet> <book.written_work.subjects> "Mississippi" .
+<Book_Edition> <freebase.type_profile.kind> "Definition" .
+<Ken_Kesey> <people.person.gender> "Male" .
+<David_Anthony_Durham> <influence.influence_node.influenced_by> "William Faulkner" .
+<Don_DeLillo> <influence.influence_node.influenced_by> "William Faulkner" .
+<Truman_Capote> <freebase.valuenotation.is_reviewed> "Place of death" .
+<William_Faulkner> <people.person.quotations> "Maybe the only thing worse than having to give gratitude constantly is having to accept it." .
+<Book_Edition> <type.type.properties> "Interior illustrations by" .
+<William_Faulkner> <influence.influence_node.influenced> "Don DeLillo" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "Fulvio Tomizza" .
+<William_Faulkner> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<William_Faulkner> <common.topic.webpage> "m.09yv44w" .
+<Melinda_Rucker_Haynes> <book.author.school_or_movement> "Literary modernism" .
+<A._B._Yehoshua> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Thomas_Mann> <people.person.nationality> "United States of America" .
+<Ken_Kesey> <influence.influence_node.influenced_by> "Friedrich Nietzsche" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Mississippi" .
+<Book_Edition> <type.type.expected_by> "Contributing author to" .
+<Stanley_Elkin> <influence.influence_node.influenced_by> "William Faulkner" .
+<Mark_Twain> <influence.influence_node.influenced> "Philip Roth" .
+<Book_Edition> <type.type.properties> "Editor of this edition" .
+<William_Faulkner> <common.topic.webpage> "m.0cq3cfv" .
+<Mississippi> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Herman_Melville> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<Colum_McCann> <influence.influence_node.influenced_by> "James Joyce" .
+<ISBN> <type.type.domain> "Books" .
+<John_Keats> <influence.influence_node.influenced> "Jorge Luis Borges" .
+<Carlo_Wolff> <people.person.gender> "Male" .
+<William_Faulkner> <film.writer.film> "Mildred Pierce" .
+<Orhan_Pamuk> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<Leo_Tolstoy> <people.person.gender> "Male" .
+<Thomas_Mann> <influence.influence_node.influenced_by> "Herman Melville" .
+<Steve_Erickson> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<J._M._Coetzee> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Javier_Marías> <influence.influence_node.influenced_by> "William Shakespeare" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced_by> "James Joyce" .
+<m.07c6k57> <organization.organization_membership.member> "William Faulkner" .
+<Don_DeLillo> <freebase.valuenotation.has_value> "Parents" .
+<Flannery_O'Connor> <influence.influence_node.influenced_by> "William Faulkner" .
+<Carlo_Wolff> <influence.influence_node.influenced_by> "William Faulkner" .
+<Malcolm_Lowry> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<First_edition> <rdf-schema#range> "Book Edition" .
+<Peter_Carey> <common.topic.notable_types> "Author" .
+<ISBN> <freebase.type_profile.kind> "Definition" .
+<The_Hamlet> <common.topic.notable_types> "Book" .
+<Michael_Bishop> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Intruder_in_the_Dust> <book.written_work.subjects> "Classics" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Joyce Carol Oates" .
+<Maud_Butler> <people.person.children> "William Faulkner" .
+<T._S._Eliot> <people.person.profession> "Writer" .
+<Ernest_Hemingway> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Herman_Melville> <influence.influence_node.influenced> "Toni Morrison" .
+<Go_Down,_Moses> <book.book.editions> "Go Down Moses" .
+<William_Faulkner> <film.film_story_contributor.film_story_credits> "As I Lay Dying" .
+<William_Faulkner> <freebase.valuenotation.is_reviewed> "Profession" .
+<J._M._G._Le_Clézio> <common.topic.notable_types> "Author" .
+<William_Faulkner> <award.award_winner.awards_won> "m.040wjgf" .
+<Bret_Easton_Ellis> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Wendell_Berry> <influence.influence_node.influenced_by> "William Faulkner" .
+<Ron_Arias> <common.topic.notable_types> "Author" .
+<Russell_Banks> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<Paul_Auster> <common.topic.notable_types> "Author" .
+<Ernest_Hemingway> <people.person.gender> "Male" .
+<Toni_Morrison> <influence.influence_node.influenced> "David Anthony Durham" .
+<William_Styron> <influence.influence_node.influenced_by> "Thomas Wolfe" .
+<Joseph_Conrad> <influence.influence_node.influenced> "William Faulkner" .
+<m.0b7mq4x> <award.award_nomination.award_nominee> "William Faulkner" .
+<Book_Edition> <freebase.type_profile.published> "Published" .
+<William_Faulkner> <film.film_story_contributor.film_story_credits> "Barn Burning" .
+<Joseph_Conrad> <influence.influence_node.influenced> "Javier Marías" .
+<Daniel_Wallace> <people.person.profession> "Writer" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "Edna O'Brien" .
+<The_Big_Sleep> <film.film.country> "United States of America" .
+<William_Faulkner> <award.award_winner.awards_won> "m.03mlln4" .
+<Byhalia> <location.hud_county_place.place> "Byhalia" .
+<Flannery_O'Connor> <influence.influence_node.influenced> "Larry Brown" .
+<Book> <type.type.expected_by> "Edition Of" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Michael Bishop" .
+<The_Big_Sleep> <film.film.written_by> "William Faulkner" .
+<Book_Edition> <freebase.type_profile.strict_included_types> "Cataloged instance" .
+<m.0cq3cfv> <common.webpage.topic> "William Faulkner" .
+<James_Joyce> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Joseph_Heller> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Shelby_Foote> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Background_to_Danger> <film.film.written_by> "William Faulkner" .
+<Gilles_Deleuze> <influence.influence_node.influenced_by> "William Faulkner" .
+<J._M._G._Le_Clézio> <people.person.gender> "Male" .
+<Stanley_Elkin> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<A._B._Yehoshua> <freebase.valuenotation.is_reviewed> "Gender" .
+<Mo_Yan> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Mo_Yan> <influence.influence_node.influenced_by> "James Joyce" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "Javier Marías" .
+<A._B._Yehoshua> <common.topic.notable_types> "Author" .
+<William_Faulkner> <influence.influence_node.influenced> "Ralph Ellison" .
+<Mark_Twain> <influence.influence_node.influenced> "Larry Heinemann" .
+<Steve_Erickson> <people.person.profession> "Writer" .
+<Philip_Roth> <people.person.gender> "Male" .
+<Mark_Twain> <freebase.valuenotation.is_reviewed> "Gender" .
+<William_Faulkner> <symbols.name_source.namesakes> "PEN/Faulkner Award for Fiction" .
+<Thomas_Mann> <influence.influence_node.influenced> "William Faulkner" .
+<Fyodor_Dostoyevsky> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Joseph_Heller> <influence.influence_node.influenced_by> "William Faulkner" .
+<William_Faulkner> <influence.influence_node.influenced> "Jim Harrison" .
+<Russell_Banks> <influence.influence_node.influenced> "David Anthony Durham" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "Mark Twain" .
+<m.0bb9__7> <award.award_nomination.award_nominee> "William Faulkner" .
+<Editions> <rdf-schema#range> "Book Edition" .
+<William_Faulkner> <influence.influence_node.influenced> "Shelby Foote" .
+<Joseph_Conrad> <influence.influence_node.influenced> "Philip Roth" .
+<Book_Edition> <type.type.expected_by> "Editions" .
+<Thomas_Wolfe> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Terry_Brooks> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Gabriel_García_Márquez> <influence.influence_node.influenced_by> "William Faulkner" .
+<Barn_Burning> <film.film.country> "United States of America" .
+<Shelby_Foote> <people.person.profession> "Novelist" .
+<Honoré_de_Balzac> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<William_Styron> <influence.influence_node.influenced> "Janet Frame" .
+<I_believe_that_man_will_not_merely_endure;_he_will_prevail.> <media_common.quotation.author> "William Faulkner" .
+<J._M._Coetzee> <people.person.languages> "English Language" .
+<Guram_Dochanashvili> <influence.influence_node.influenced_by> "William Faulkner" .
+<Editions> <type.property.master_property> "Edition Of" .
+<Sherwood_Anderson> <influence.influence_node.influenced> "William Faulkner" .
+<The_Sound_and_the_Fury> <film.film.country> "United States of America" .
+<Juan_Carlos_Onetti> <freebase.valuenotation.is_reviewed> "Gender" .
+<J._M._G._Le_Clézio> <people.person.profession> "Novelist" .
+<Larry_Brown> <people.person.gender> "Male" .
+<Larry_Heinemann> <influence.influence_node.influenced_by> "Norman Mailer" .
+<Philip_Roth> <influence.influence_node.influenced_by> "William Faulkner" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Leo_Tolstoy> <people.person.profession> "Novelist" .
+<Jorge_Luis_Borges> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<First_edition> <type.property.schema> "Book" .
+<m.0k6m1d2> <people.sibling_relationship.sibling> "William Faulkner" .
+<Ernest_Hemingway> <influence.influence_node.influenced_by> "John Keats" .
+<Emily_Brontë> <influence.influence_node.influenced_by> "William Shakespeare" .
+<Go_Down,_Moses> <book.book.editions> "Go down, Moses" .
+<Leo_Tolstoy> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Joyce_Carol_Oates> <common.topic.notable_types> "Author" .
+<William_Faulkner> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Janet_Frame> <influence.influence_node.influenced_by> "Gustave Flaubert" .
+<Jack_Ketchum> <people.person.nationality> "United States of America" .
+<James_Salter> <common.topic.notable_types> "Author" .
+<Harper_Lee> <freebase.valuenotation.is_reviewed> "Gender" .
+<Mark_Twain> <people.person.profession> "Novelist" .
+<Philip_Roth> <influence.influence_node.influenced_by> "Leo Tolstoy" .
+<Don_DeLillo> <people.person.profession> "Novelist" .
+<Mildred_Pierce> <film.film.country> "United States of America" .
+<Jack_Ketchum> <influence.influence_node.influenced_by> "Jim Harrison" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Thomas Mann" .
+<Algernon_Charles_Swinburne> <common.topic.notable_types> "Author" .
+<Peter_Carey> <influence.influence_node.influenced_by> "William Faulkner" .
+<Edition_Of> <rdf-schema#domain> "Book Edition" .
+<Edna_O'Brien> <influence.influence_node.influenced_by> "William Faulkner" .
+<Gilles_Deleuze> <people.person.gender> "Male" .
+<Literary_modernism> <book.school_or_movement.associated_authors> "Herman Melville" .
+<Norman_Mailer> <influence.influence_node.influenced> "Larry Heinemann" .
+<Norman_Mailer> <influence.influence_node.influenced_by> "Fyodor Dostoyevsky" .
+<John_Steinbeck> <influence.influence_node.influenced> "Edgardo Vega Yunqué" .
+<Thomas_Mann> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Stephen_King> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<New_Albany> <location.location.containedby> "Mississippi" .
+<Ernest_Hemingway> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Author> <type.type.properties> "Book editions published" .
+<Juan_Carlos_Onetti> <common.topic.notable_types> "Author" .
+<Janet_Frame> <influence.influence_node.influenced_by> "James Joyce" .
+<Maud_Butler> <freebase.valuenotation.has_value> "Parents" .
+<m.0b4637s> <common.webpage.topic> "William Faulkner" .
+<Ernest_Hemingway> <film.film_story_contributor.film_story_credits> "To Have and Have Not" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "Gustave Flaubert" .
+<Don_DeLillo> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Philip_Roth> <influence.influence_node.influenced_by> "Ernest Hemingway" .
+<Cormac_McCarthy> <freebase.valuenotation.is_reviewed> "Gender" .
+<T._S._Eliot> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<William_Faulkner> <influence.influence_node.influenced> "Joyce Carol Oates" .
+<Editions> <type.property.expected_type> "Book Edition" .
+<Ken_Kesey> <freebase.valuenotation.is_reviewed> "Gender" .
+<William_Faulkner> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<David_Anthony_Durham> <influence.influence_node.influenced_by> "George R. R. Martin" .
+<Mark_Twain> <influence.influence_node.influenced> "William Faulkner" .
+<Writer> <people.profession.corresponding_type> "Author" .
+<Joyce_Carol_Oates> <influence.influence_node.influenced_by> "Charles Dickens" .
+<Colum_McCann> <influence.influence_node.influenced_by> "William Faulkner" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "Philip Roth" .
+<Edgar_Allan_Poe> <influence.influence_node.influenced> "Jorge Luis Borges" .
+<Harper_Lee> <people.person.profession> "Writer" .
+<Murry_Cuthbert_Falkner> <freebase.valuenotation.has_value> "Country of nationality" .
+<Russell_Banks> <people.person.nationality> "United States of America" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Harper_Lee> <influence.influence_node.influenced_by> "Truman Capote" .
+<James_Salter> <influence.influence_node.influenced_by> "William Faulkner" .
+<Jim_Harrison> <influence.influence_node.influenced_by> "William Faulkner" .
+<Javier_Marías> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<James_Joyce> <people.person.profession> "Writer" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "Guram Dochanashvili" .
+<Book_Edition> <type.type.properties> "Cover price" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Cormac McCarthy" .
+<Thomas_Mann> <people.person.profession> "Writer" .
+<William_Faulkner> <people.person.places_lived> "m.03pqv9c" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Jack Ketchum" .
+<J._M._G._Le_Clézio> <influence.influence_node.influenced_by> "William Faulkner" .
+<Ralph_Ellison> <influence.influence_node.influenced_by> "William Faulkner" .
+<Book_Edition> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<William_Clark_Falkner> <people.person.profession> "Novelist" .
+<William_Clark_Falkner> <symbols.name_source.namesakes> "William Faulkner" .
+<Leo_Tolstoy> <influence.influence_node.influenced> "Larry Heinemann" .
+<Ernest_Hemingway> <influence.influence_node.influenced_by> "Mark Twain" .
+<Cormac_McCarthy> <influence.influence_node.influenced> "Barry Hannah" .
+<The_Long,_Hot_Summer> <film.film.language> "English Language" .
+<William_Faulkner> <award.award_winner.awards_won> "m.09jz_yr" .
+<Janet_Frame> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Bret_Easton_Ellis> <influence.influence_node.influenced_by> "Honoré de Balzac" .
+<Sherwood_Anderson> <people.person.gender> "Male" .
+<Bret_Easton_Ellis> <influence.influence_node.influenced_by> "Stephen King" .
+<Fyodor_Dostoyevsky> <influence.influence_node.influenced_by> "William Shakespeare" .
+<Orhan_Pamuk> <influence.influence_node.influenced_by> "Gustave Flaubert" .
+<William_Styron> <influence.influence_node.influenced_by> "William Faulkner" .
+<Mo_Yan> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<William_Faulkner> <influence.influence_node.influenced> "Cormac McCarthy" .
+<Barry_Hannah> <influence.influence_node.influenced_by> "Flannery O'Connor" .
+<Colum_McCann> <influence.influence_node.influenced_by> "Toni Morrison" .
+<Ralph_Ellison> <freebase.valuenotation.is_reviewed> "Gender" .
+<Don_DeLillo> <freebase.valuenotation.is_reviewed> "Gender" .
+<Flannery_O'Connor> <people.person.nationality> "United States of America" .
+<William_Faulkner> <people.person.place_of_birth> "New Albany" .
+<Book_Edition> <type.type.properties> "Language" .
+<Byhalia> <location.location.containedby> "Mississippi" .
+<David_Anthony_Durham> <people.person.profession> "Novelist" .
+<Go_Down,_Moses> <common.topic.notable_types> "Book Edition" .
+<Janet_Frame> <freebase.valuenotation.is_reviewed> "Gender" .
+<Miguel_de_Cervantes> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<William_Faulkner> <influence.influence_node.influenced> "James Salter" .
+<Shelby_Foote> <influence.influence_node.influenced_by> "Charles Dickens" .
+<Leo_Tolstoy> <influence.influence_node.influenced_by> "Charles Dickens" .
+<Javier_Marías> <influence.influence_node.influenced_by> "Jorge Luis Borges" .
+<Joyce_Carol_Oates> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ernest_Hemingway> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Terry_Brooks> <freebase.valuenotation.is_reviewed> "Gender" .
+<Hunter_S._Thompson> <freebase.valuenotation.is_reviewed> "Date of death" .
+<William_Faulkner> <people.person.education> "m.0nbxrv9" .
+<Michael_Bishop> <people.person.nationality> "United States of America" .
+<Go_Down,_Moses> <book.written_work.original_language> "English Language" .
+<Ernest_Hemingway> <influence.influence_node.influenced> "Don DeLillo" .
+<Jorge_Luis_Borges> <people.person.gender> "Male" .
+<T._S._Eliot> <people.person.gender> "Male" .
+<Flesh> <film.film.written_by> "William Faulkner" .
+<William_Faulkner> <people.person.quotations> "If a writer has to rob his mother, he will not hesitate; the Ode on a Grecian Urn is worth any number of old ladies." .
+<William_Faulkner> <film.writer.film> "To Have and Have Not" .
+<William_Faulkner> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Sherwood_Anderson> <influence.influence_node.influenced> "Philip Roth" .
+<William_Faulkner> <common.topic.webpage> "m.0b6rnbc" .
+<Jack_Ketchum> <influence.influence_node.influenced_by> "Cormac McCarthy" .
+<Janet_Frame> <people.person.profession> "Novelist" .
+<T._S._Eliot> <influence.influence_node.influenced_by> "Charles Dickens" .
+<Truman_Capote> <common.topic.notable_types> "Author" .
+<John_Keats> <people.person.gender> "Male" .
+<Stephen_King> <influence.influence_node.influenced_by> "Edgar Allan Poe" .
+<Books> <type.domain.types> "Book" .
+<Russell_Banks> <influence.influence_node.influenced_by> "Mark Twain" .
+<Gunga_Din> <film.film.written_by> "William Faulkner" .
+<Robert_Flynn> <influence.influence_node.influenced_by> "William Faulkner" .
+<Drums_Along_the_Mohawk> <media_common.adapted_work.adaptations> "Drums Along the Mohawk" .
+<First_edition> <rdf-schema#domain> "Book" .
+<Joseph_Heller> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Mo_Yan> <freebase.valuenotation.is_reviewed> "Gender" .
+<William_Styron> <freebase.valuenotation.is_reviewed> "Gender" .
+<Melinda_Rucker_Haynes> <influence.influence_node.influenced_by> "Cormac McCarthy" .
+<Book_Edition> <type.type.properties> "OCLC number" .
+<Mitch_Cullin> <people.person.gender> "Male" .
+<Norman_Mailer> <influence.influence_node.influenced> "Truman Capote" .
+<Larry_Heinemann> <influence.influence_node.influenced_by> "Hunter S. Thompson" .
+<Friedrich_Nietzsche> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<William_Faulkner> <organization.organization_member.member_of> "m.07c6k57" .
+<Truman_Capote> <influence.influence_node.influenced_by> "Edgar Allan Poe" .
+<Herman_Melville> <freebase.valuenotation.is_reviewed> "Gender" .
+<Flannery_O'Connor> <influence.influence_node.influenced> "Don DeLillo" .
+<Book_Edition> <type.type.expected_by> "Book editions edited" .
+<J._M._Coetzee> <book.author.contributing_author_to> "Discursos" .
+<Joseph_Heller> <people.deceased_person.cause_of_death> "heart attack" .
+<Larry_Heinemann> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Herman_Melville> <people.person.profession> "Novelist" .
+<Emily_Brontë> <people.person.profession> "Novelist" .
+<Submarine_Patrol> <film.film.country> "United States of America" .
+<If_we_Americans_are_to_survive_it_will_have_to_be_because_we_choose_and_elect_and_defend_to_be_first_of_all_Americans;_to_present_to_the_world_one_homogeneous_and_unbroken_front,_whether_of_white_Americans_or_black_ones_or_purple_or_blue_or_green._If_we_in_America_have_reached_that_point_in_our_desperate_culture_when_we_must_murder_children,_no_matter_for_what_reason_or_what_color,_we_don't_deserve_to_survive,_and_probably_won_t.> <media_common.quotation.author> "William Faulkner" .
+<William_Shakespeare> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Stanley_Elkin> <common.topic.notable_types> "Author" .
+<Author> <freebase.type_profile.strict_included_types> "Topic" .
+<William_Faulkner> <influence.influence_node.influenced> "Ron Arias" .
+<Louise_Erdrich> <people.person.profession> "Writer" .
+<Charles_Dickens> <influence.influence_node.influenced> "William Faulkner" .
+<Miguel_de_Cervantes> <freebase.valuenotation.has_value> "Cause of death" .
+<Toni_Morrison> <freebase.valuenotation.is_reviewed> "Gender" .
+<Book_Edition> <freebase.type_profile.equivalent_topic> "Edition" .
+<Juan_Rulfo> <common.topic.notable_types> "Author" .
+<Book_Edition> <type.type.properties> "OpenLibrary ID" .
+<PEN/Faulkner_Award_for_Fiction> <award.award_category.disciplines_or_subjects> "Fiction" .
+<Fyodor_Dostoyevsky> <people.person.profession> "Writer" .
+<Fyodor_Dostoyevsky> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Joyce_Carol_Oates> <influence.influence_node.influenced_by> "James Joyce" .
+<Edgardo_Vega_Yunqué> <influence.influence_node.influenced_by> "John Steinbeck" .
+<Truman_Capote> <freebase.valuenotation.is_reviewed> "Date of death" .
+<Shelby_Foote> <influence.influence_node.influenced_by> "William Faulkner" .
+<William_Faulkner> <people.person.quotations> "A man's moral conscience is the curse he had to accept from the gods in order to gain from them the right to dream." .
+<PEN/Faulkner_Award_for_Fiction> <award.award_category.category_of> "PEN/Faulkner Award for Fiction" .
+<Honoré_de_Balzac> <freebase.valuenotation.is_reviewed> "Date of death" .
+<m.0g4x9fw> <award.award_nomination.award_nominee> "William Faulkner" .
+<Edgar_Allan_Poe> <people.person.profession> "Writer" .
+<Fyodor_Dostoyevsky> <common.topic.notable_types> "Author" .
+<New_Albany> <location.hud_county_place.place> "New Albany" .
+<Bret_Easton_Ellis> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Flannery_O'Connor> <freebase.valuenotation.is_reviewed> "Parents" .
+<Truman_Capote> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<William_Faulkner> <people.person.education> "m.0n1n5zm" .
+<Miguel_de_Cervantes> <influence.influence_node.influenced> "Guram Dochanashvili" .
+<Book_Edition> <type.type.properties> "ISBN (Old Property)" .
+<Philip_Roth> <influence.influence_node.influenced_by> "Gustave Flaubert" .
+<A._B._Yehoshua> <people.person.gender> "Male" .
+<Jorge_Luis_Borges> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Bret_Easton_Ellis> <influence.influence_node.influenced_by> "Don DeLillo" .
+<Guram_Dochanashvili> <influence.influence_node.influenced_by> "Miguel de Cervantes" .
+<Mark_Twain> <influence.influence_node.influenced> "William Styron" .

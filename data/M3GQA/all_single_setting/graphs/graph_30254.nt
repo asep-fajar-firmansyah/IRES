@@ -1,0 +1,2169 @@
+<Ryan_Dunn> <film.person_or_entity_appearing_in_film.films> "m.0h2d8d2" .
+<Ryan_Dunn> <freebase.valuenotation.is_reviewed> "Place of death" .
+<m.0y5r1v0> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Ryan_Dunn> <music.artist.track_contributions> "m.01105x52" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0_sk8j5" .
+<Bam's_Unholy_Union> <tv.tv_program.genre> "Comedy" .
+<Actor> <people.profession.specializations> "Narrator" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r580" .
+<Spike_Jonze> <film.producer.film> "Jackass: The Movie" .
+<SXSW_Tragedy> <event.disaster.type_of_disaster> "Traffic collision" .
+<Jackass_-_Season_3> <tv.tv_series_season.regular_personal_appearances> "m.0j_pcxl" .
+<Jackass_2.5> <film.film.country> "United States of America" .
+<Model> <fictional_universe.character_occupation.characters_with_this_occupation> "Misa Amane" .
+<Johnny_Knoxville> <film.producer.film> "Jackass 3D" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13_1s" .
+<Film_producer> <freebase.type_profile.strict_included_types> "Person" .
+<m.0y5r0fw> <film.personal_film_appearance.film> "Jackass 3D" .
+<MTV> <film.production_company.films> "Jackass: The Movie" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.0_z7f09" .
+<m.09x5bfw> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Reckless_driving> <common.topic.notable_types> "Cause Of Death" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c28s" .
+<TV_Program_Creator> <type.type.expected_by> "tv_program_creator" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<Voice_Actor> <common.topic.notable_types> "Profession" .
+<m.0h2d8c4> <film.personal_film_appearance.film> "Steve-O: Out on Bail" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5bzw0" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0cvfhz0> <common.webpage.in_index> "Blissful Master Index" .
+<Traffic_collision> <common.topic.webpage> "m.09x0c47" .
+<Traffic_collision> <base.disaster2.type_of_injury_causing_event.caused_by_activity> "Driving" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.010b13c2" .
+<Fox_Meadow_Estates> <location.location.containedby> "Medina" .
+<Jackass_2.5> <film.film.personal_appearances> "m.0h2d8cx" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c608" .
+<Jackass_3D> <media_common.netflix_title.netflix_genres> "Cult Comedies" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5bzsp" .
+<Hooper> <film.film.subjects> "Stunt Performer" .
+<Traffic_collision> <event.disaster_type.disasters_of_this_type> "SXSW Tragedy" .
+<Johnny_Knoxville> <film.producer.film> "g.1216xc5b" .
+<Johnny_Knoxville> <people.person.gender> "Male" .
+<Jackass_Number_Two> <film.film.written_by> "Preston Lacy" .
+<Living_Will…> <film.film.runtime> "m.0h4yg47" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c68s" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0105ypw8" .
+<Ryan_Dunn> <tv.tv_actor.starring_roles> "m.0gh2ffc" .
+<Steve-O:_Out_on_Bail> <film.film.personal_appearances> "m.0h2d8c4" .
+<Steve-O> <people.person.profession> "Actor" .
+<Ryan_Dunn> <common.topic.notable_types> "TV Program Creator" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5b_0_" .
+<Ryan_Dunn> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<CKY2K> <media_common.netflix_title.netflix_genres> "Stunts & General Mayhem" .
+<m.0y5r0dh> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5bzy_" .
+<Ryan_Dunn> <film.person_or_entity_appearing_in_film.films> "m.0h2d8c4" .
+<Deceased_Person> <type.type.properties> "Date of death" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01059z6b" .
+<m.0y5c1j0> <film.personal_film_appearance.film> "Jackass 3D" .
+<Actor> <people.profession.specializations> "Lifecaster" .
+<Jackass_Number_Two> <film.film.cinematography> "Dimitry Elyashkevich" .
+<Jackass:_The_Movie> <media_common.netflix_title.netflix_genres> "Sports Comedies" .
+<Traffic_collision> <common.topic.webpage> "m.09wcwch" .
+<Actor> <common.topic.subjects> "Maria Pitillo" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c2x8" .
+<Living_Will…> <film.film.starring> "m.0yvgjh5" .
+<Welcome_to_the_Bates_Motel> <film.film.language> "English Language" .
+<m.0dcy7ls> <film.film_crew_gig.film> "Jackass 3D" .
+<m.0y5c800> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Place_of_death> <type.property.schema> "Deceased Person" .
+<Jackass_3D> <film.film.other_crew> "m.0dcy7ls" .
+<Traffic_collision> <common.topic.webpage> "m.09wwyq1" .
+<Traffic_collision> <common.topic.webpage> "m.0b47n03" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01064wv8" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Traffic_collision> <common.topic.webpage> "m.09w0536" .
+<Jackass_3D> <film.film.personal_appearances> "m.0djykh9" .
+<Ryan_Dunn> <people.person.parents> "Linda Piscitello" .
+<Voice_Actor> <people.profession.specialization_of> "Actor" .
+<Education> <rdf-schema#domain> "Person" .
+<m.0h2d8cx> <film.personal_film_appearance.film> "Jackass 2.5" .
+<Jackass_3D> <media_common.netflix_title.netflix_genres> "Stunts & General Mayhem" .
+<Homewrecker> <tv.tv_program.country_of_origin> "United States of America" .
+<Stunt_Performer> <common.topic.image> "Stunt Pyrotechnics Luc Viatour" .
+<Ryan_Dunn_crash_scene> <common.image.appears_in_topic_gallery> "Ryan Dunn" .
+<Deceased_Person> <freebase.type_hints.included_types> "Person" .
+<m.0y5bzfq> <film.personal_film_appearance.film> "Jackass 3D" .
+<Medina> <common.topic.notable_types> "City/Town/Village" .
+<Jackass_3D> <film.film.personal_appearances> "m.0gz4xkp" .
+<Jeremy_Yablan> <people.person.nationality> "United States of America" .
+<A_Halfway_House_Christmas> <media_common.netflix_title.netflix_genres> "Late Night Comedies" .
+<Steve-O> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Living_Will…> <film.film.produced_by> "Roy Koriakin" .
+<Film_Producer> <award.award_discipline.awards_in_this_discipline> "Irving G. Thalberg Memorial Award" .
+<Medina> <location.statistical_region.population> "m.0hlz9_1" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<Hooper> <media_common.netflix_title.netflix_genres> "Comedy" .
+<Place_of_death> <rdf-schema#range> "Location" .
+<Traffic_collision> <common.topic.webpage> "m.09x2j_d" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x4_mh" .
+<Film_Producer> <award.award_discipline.awards_in_this_discipline> "David di Donatello for Best Producer" .
+<Student> <type.property.reverse_property> "Education" .
+<m.09yd58k> <common.webpage.topic> "Traffic collision" .
+<How_Did_That_Get_There> <music.recording.tracks> "How Did That Get There?\'" .
+<m.0105_bj3> <freebase.valuenotation.has_value> "End Date" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<Ryan_Dunn> <tv.tv_actor.starring_roles> "m.0gy3n6q" .
+<Angry_Customer> <film.film_character.portrayed_in_films> "m.0h2d80s" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01012_r3" .
+<Medina> <location.statistical_region.population> "m.0hlz9_8" .
+<Ryan_Dunn> <people.deceased_person.cause_of_death> "Traffic collision" .
+<Medina> <location.hud_county_place.county> "Medina County" .
+<m.0h81gvj> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Normandy_Park> <location.location.containedby> "Medina" .
+<Haggard:_The_Movie> <film.film.genre> "Comedy" .
+<Reality_television> <common.topic.subject_of> "Billy Sorrentino" .
+<Medina> <location.statistical_region.population> "g.11x1jb_fr" .
+<Person> <type.type.properties> "Parents" .
+<TV_Personality> <freebase.type_profile.strict_included_types> "Topic" .
+<m.04dd015> <film.performance.film> "Minghags: The Movie" .
+<Female> <common.topic.subjects> "ZasPorn" .
+<m.0dcxr2_> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<TV_Personality> <base.descriptive_names.names.descriptive_name> "m.010g7mv2" .
+<TV_Program_Creator> <type.type.expected_by> "Program creator" .
+<Medina> <location.statistical_region.population> "m.0hlzb0m" .
+<Ry> <film.film_character.portrayed_in_films> "m.0jz23q" .
+<Ryan_Dunn_crash_scene> <common.image.size> "m.0bt_n_v" .
+<West_Goshen_Township> <location.statistical_region.population> "m.066gtdk" .
+<m.0cjl4lm> <common.webpage.in_index> "Blissful Master Index" .
+<Start_Date> <type.property.schema> "Education" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0gyjrh3" .
+<Jackass_Number_Two> <film.film.rating> "R (USA)" .
+<m.09x2j_d> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Date_of_death> <rdf-schema#range> "Date/Time" .
+<m.0b46hb0> <common.webpage.topic> "Traffic collision" .
+<Film_Producer> <common.topic.subjects> "MA$TADON" .
+<m.0y5c608> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass_2.5> <media_common.netflix_title.netflix_genres> "Late Night Comedies" .
+<Medina> <location.location.contains> "Fox Meadow Estates" .
+<m.0y5c6rd> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass_3D> <film.film.runtime> "m.0gcl7rv" .
+<Jackass_Number_Two> <film.film.written_by> "Spike Jonze" .
+<Lance_Bangs> <people.person.gender> "Male" .
+<m.09445wy> <common.webpage.resource> "Just how stupid ARE those ''Jackass'' guys?" .
+<Jackass_3D> <common.topic.notable_types> "Film" .
+<Spike_Jonze> <film.producer.film> "Jackass 3D" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<m.0dcy7l0> <film.film_crew_gig.film> "Jackass 3D" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c3xk" .
+<m.0gyjrh3> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Landspeed:_CKY> <film.film.starring> "m.0svz8g8" .
+<Griswold> <film.film_character.portrayed_in_films> "m.0h2d7_c" .
+<Living_Will…> <film.film.rating> "R (USA)" .
+<Film_Producer> <music.music_video_job.music_videos_with_this_crew_job> "m.011dhk15" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<Jackass:_The_Movie> <film.film.genre> "Sports films" .
+<Jackass_3D> <common.topic.webpage> "m.0dk0kbn" .
+<m.09wvb4h> <common.webpage.topic> "Traffic collision" .
+<m.0yvgbxr> <film.performance.film> "Living Will…" .
+<m.0y5c1j0> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Program_creator> <type.property.reverse_property> "TV programs Created" .
+<m.09xldkc> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0rq2xl1" .
+<Model> <base.lightweight.profession.similar_professions> "Actor" .
+<Booted> <film.film.starring> "m.0h2d7_r" .
+<m.0y5r0lv> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Angie_Cuturic> <freebase.valuenotation.has_value> "Country of nationality" .
+<m.0y5r0ws> <film.personal_film_appearance.film> "Jackass 3D" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<Belcher> <film.film_character.portrayed_in_films> "m.0h26cy8" .
+<m.0gh2ffc> <tv.regular_tv_appearance.series> "Gumball 3000" .
+<m.0znpr5t> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Medina> <location.location.people_born_here> "Roy Bonds" .
+<Jackass_-_Season_2> <tv.tv_series_season.series> "Jackass" .
+<m.0djykg8> <film.personal_film_appearance.film> "Jackass 3D" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x5157" .
+<Camp_Kill_Yourself_(CKY)> <common.topic.notable_types> "TV Program" .
+<Jackass_3D> <film.film.soundtrack> "Jackass 3D" .
+<m.0y5r6yp> <film.performance.film> "Jackass 3D" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Ohio" .
+<Him/Herself> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13zhf" .
+<Traffic_collision> <common.topic.webpage> "m.09wh_wc" .
+<m.09wh_wc> <common.webpage.topic> "Traffic collision" .
+<Minghags:_The_Movie> <film.film.country> "United States of America" .
+<Landspeed:_CKY> <film.film.genre> "Documentary film" .
+<How_Did_That_Get_There> <common.topic.notable_types> "Musical Recording" .
+<m.01105x52> <music.track_contribution.track> "Memories" .
+<m.0y5r07k> <film.personal_film_appearance.film> "Jackass 3D" .
+<Lance_Bangs> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Ryan_Dunn> <film.actor.film> "m.0h26cy8" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<Gender> <type.property.schema> "Person" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<Lance_Bangs> <film.cinematographer.film> "Jackass 3D" .
+<Hamrick_School> <education.educational_institution_campus.educational_institution> "Hamrick School" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<Living_Will…> <film.film.starring> "m.0gxmzb8" .
+<Commando_VIP> <tv.tv_program.genre> "Reality television" .
+<Medina> <location.statistical_region.population> "g.11b66j64xj" .
+<Ohio> <location.administrative_division.first_level_division_of> "United States of America" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Medina> <location.statistical_region.population> "g.11x1j51f7" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c1w1" .
+<Proving_Ground> <tv.tv_program.languages> "English Language" .
+<TV_Personality> <base.descriptive_names.names.descriptive_name> "m.010g7mmr" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c6xn" .
+<m.09wvz3t> <common.webpage.topic> "Traffic collision" .
+<m.0j_vsjh> <tv.tv_regular_personal_appearance.program> "Homewrecker" .
+<Spike_Jonze> <film.producer.film> "Jackass Number Two" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<TV_Personality> <base.descriptive_names.names.descriptive_name> "m.0106hqvk" .
+<m.09n_m3j> <tv.tv_guest_role.episodes_appeared_in> "Bam's Gone Wild" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<Jackass> <media_common.adapted_work.adaptations> "Jackass: The Movie" .
+<Fox_Meadow_Estates> <location.neighborhood.neighborhood_of> "Medina" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c6lx" .
+<m.0j_pcxl> <tv.tv_regular_personal_appearance.program> "Jackass" .
+<Narrator> <common.topic.notable_types> "Profession" .
+<m.0y5c6dc> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass_3D> <film.film.personal_appearances> "m.0dcxr2r" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0j_ty8v> <tv.tv_regular_personal_appearance.program> "Viva La Bam" .
+<m.09x54ml> <common.webpage.topic> "Traffic collision" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x4_6k" .
+<Gender> <type.property.expected_type> "Gender" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "Golden Globe Award for Best Actress – Motion Picture – Musical or Comedy" .
+<Ryan_Dunn> <film.actor.film> "m.0jz23q" .
+<Country> <freebase.type_profile.strict_included_types> "Location" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<m.0dcxr3b> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Pennsylvania> <base.locations.states_and_provences.country> "United States of America" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.010kj5zf" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c5bn" .
+<Jackass_3D> <film.film.estimated_budget> "m.0h173lt" .
+<m.0gz4xkp> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass_3D> <film.film.other_crew> "m.0dcy7l0" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01012_bc" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x4_4k" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x5045" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0101341c" .
+<TV_Personality> <base.descriptive_names.names.descriptive_name> "m.0106hk42" .
+<m.0h2d7_c> <film.performance.character> "Griswold" .
+<Jackass_3D> <film.film.personal_appearances> "m.0djykh0" .
+<m.09w02w1> <common.webpage.topic> "Traffic collision" .
+<m.0yvg85k> <film.performance.film> "Living Will…" .
+<CKY2K> <film.film.personal_appearances> "m.0h2d8cq" .
+<m.0yvfts8> <film.performance.film> "Living Will…" .
+<Deceased_Person> <freebase.type_hints.included_types> "Topic" .
+<Homewrecker> <common.topic.webpage> "m.0cvfhz0" .
+<Him/Herself> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13zzn" .
+<Bam's_Unholy_Union> <tv.tv_program.languages> "English Language" .
+<West_Goshen_Township> <common.topic.webpage> "m.03l2syv" .
+<Homewrecker> <tv.tv_program.episodes> "Season 1 Finale" .
+<Jackass_Number_Two> <film.film.produced_by> "Jeff Tremaine" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13zzn" .
+<Stunt_Performer> <film.film_subject.films> "The Stunt Man" .
+<Medina> <location.location.containedby> "Ohio" .
+<m.0y5r580> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Jackass:_The_Movie> <film.film.produced_by> "Jeff Tremaine" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.011k7h9v" .
+<West_Goshen_Township> <location.location.nearby_airports> "Brandywine Airport" .
+<Film_Producer> <film.film_job.films_with_this_crew_job> "m.09dw8m_" .
+<m.0h2d8cb> <film.personal_film_appearance.film> "g.1216xc5b" .
+<Actor> <people.profession.represented_by_trade_unions> "Screen Actors Guild" .
+<m.09x02cn> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.0w1hl_b> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Actor> <people.profession.specializations> "Softcore Actor" .
+<Traffic_collision> <common.topic.webpage> "m.09xldkc" .
+<Him/Herself> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13zwq" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r0lv" .
+<Living_Will…> <film.film.starring> "m.0yvfc57" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13_18" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13zzb" .
+<m.0h2d7_c> <film.performance.actor> "Ryan Dunn" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01064v8s" .
+<m.0h70f_l> <film.film_crew_gig.film_crew_role> "Film Producer" .
+<m.064tkhd> <base.events.performance.type_of_performance> "Actor" .
+<m.09wykg0> <common.webpage.topic> "Traffic collision" .
+<m.0j_pcxl> <tv.tv_regular_personal_appearance.seasons> "Jackass - Season 3" .
+<Medina> <location.statistical_region.population> "m.0hlzb25" .
+<Film_Producer> <film.film_job.films_with_this_crew_job> "m.0w2wj6w" .
+<m.0y5r03z> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Jackass_3D> <film.film.production_companies> "MTV Films" .
+<Jackass_3D> <film.film.starring> "m.0y5r709" .
+<Female> <medicine.risk_factor.diseases> "Kyphosis" .
+<m.0dcxr35> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0h2d8d2> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.011skhxv" .
+<Traffic_collision> <common.topic.webpage> "m.09x5bfw" .
+<Ryan_Dunn> <people.person.gender> "Male" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<m.0j13zzn> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Booted> <film.film.genre> "Action Film" .
+<Narrator> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13zvz" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Untitled [Auto Accident]" .
+<Jackass_3D> <film.film.personal_appearances> "m.0dcxr1_" .
+<TV_Personality> <fictional_universe.character_occupation.characters_with_this_occupation> "Guy Smiley" .
+<m.012hyqqg> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Medina> <location.statistical_region.population> "m.0hlzb11" .
+<m.09wxk56> <common.webpage.topic> "Traffic collision" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Medina_County> <location.location.time_zones> "Eastern Time Zone" .
+<Film_actor> <freebase.type_profile.kind> "Title" .
+<Ryan_Dunn> <common.topic.webpage> "m.09445wy" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.0106b7nl" .
+<m.09n_m3p> <tv.tv_guest_role.episodes_appeared_in> "October 31, 2005" .
+<Actor> <common.topic.subjects> "Chris Free" .
+<m.09x462l> <common.webpage.topic> "Traffic collision" .
+<Pistotnik_Law_Offices> <common.topic.subjects> "Traffic collision" .
+<m.012hyqpx> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<The_Fall> <film.film.country> "United States of America" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c3g4" .
+<The_Fall> <film.film.language> "English Language" .
+<m.03ljth7> <tv.regular_tv_appearance.actor> "Ryan Dunn" .
+<Actor> <common.topic.subject_of> "Nakshatra Bagwe" .
+<m.0y5c4j0> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<Place_of_birth> <type.property.schema> "Person" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0w1hl_b" .
+<Struck_by_car> <common.topic.notable_types> "Cause Of Death" .
+<m.0yvfl7q> <film.performance.film> "Living Will…" .
+<m.0y5c6lx> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0dcxr2w> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0dcy7lf> <film.film_crew_gig.film> "Jackass 3D" .
+<Pennsylvania> <base.biblioness.bibs_location.country> "United States of America" .
+<Traffic_collision> <common.topic.webpage> "m.0b47n53" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0105ytrx" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Carjacking" .
+<m.0y5c06w> <film.personal_film_appearance.film> "Jackass 3D" .
+<Actor> <base.schemastaging.context_name.pronunciation> "g.125_ldmrv" .
+<m.09n_m3p> <tv.tv_guest_role.actor> "Ryan Dunn" .
+<Jackass:_The_Movie> <media_common.netflix_title.netflix_genres> "Comedies" .
+<Living_Will…> <film.film.language> "English Language" .
+<m.0cq7429> <common.webpage.topic> "Ryan Dunn" .
+<Eugenio_Polgovsky> <freebase.valuenotation.has_value> "Parents" .
+<Student> <type.property.expected_type> "Person" .
+<Medina> <location.location.contains> "Hamrick School" .
+<m.09ysckk> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.0y5r580> <film.personal_film_appearance.film> "Jackass 3D" .
+<United_States_of_America> <location.location.time_zones> "Eastern Time Zone" .
+<Jackass_3D> <film.film.production_companies> "MTV" .
+<Ryan_Dunn> <film.person_or_entity_appearing_in_film.films> "m.0h2d8cb" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0z3wm28" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0y8160j" .
+<Medina> <location.statistical_region.population> "m.0hlzb05" .
+<Living_Will…> <common.topic.article> "m.0gx_tn_" .
+<m.0dcy7lk> <film.film_crew_gig.film> "Jackass 3D" .
+<Pistotnik_Law_Offices> <organization.organization.locations> "Pistotnik Law Offices" .
+<m.012hyq_q> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Street_Dreams> <film.film.language> "English Language" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Struck by Bus" .
+<Actors'_Equity_Association> <business.trade_union.professions_represented> "Actor" .
+<Maria_Pitillo> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.09wykg0> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Film_Producer> <common.topic.subject_of> "Lew M. Parry" .
+<Ryan_Dunn> <film.actor.film> "m.0h2d7zv" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c4bm" .
+<m.0cjl4lm> <common.webpage.topic> "Jackass 3D" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.0_z5h42" .
+<m.0h6lzxm> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Male> <common.topic.image> "male.jpg" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.011jy0zd" .
+<Viva_La_Bam> <media_common.netflix_title.netflix_genres> "Stunts & General Mayhem" .
+<m.0djykg8> <film.personal_film_appearance.person> "Spike Jonze" .
+<Eugenio_Polgovsky> <common.topic.subject_of> "Documentary film" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c0r2" .
+<m.0h26d0x> <film.performance.film> "Living Will…" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01076n1z" .
+<Jackass_3D> <film.film.personal_appearances> "m.0dcxr2w" .
+<Blonde_Ambition> <film.film.country> "United States of America" .
+<m.0y5bzy_> <film.personal_film_appearance.film> "Jackass 3D" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<Living_Will…> <film.film.starring> "m.0yvgbxr" .
+<m.09n_m3_> <tv.tv_guest_role.character> "Jane" .
+<Spokesperson> <common.topic.notable_types> "Profession" .
+<Jackass_3D> <film.film.produced_by> "Steve-O" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<End_Date> <type.property.schema> "Education" .
+<Jackass> <media_common.netflix_title.netflix_genres> "Stunts & General Mayhem" .
+<Jackass_2.5> <film.film.genre> "Comedy" .
+<Ronald_Dunn> <freebase.valuenotation.has_value> "Date of birth" .
+<m.0dcxr29> <film.personal_film_appearance.person> "Steve-O" .
+<Jackass> <media_common.netflix_title.netflix_genres> "Reality television" .
+<m.0y5c1d1> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0j13_2t> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<m.09x1rdd> <common.webpage.topic> "Traffic collision" .
+<Jackass_Number_Two> <film.film.written_by> "Jeff Tremaine" .
+<Traffic_collision> <common.topic.image> "Japanese car accident" .
+<Film_Producer> <freebase.equivalent_topic.equivalent_type> "Film producer" .
+<m.0j13zhf> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Traffic_collision> <common.topic.notable_for> "g.125d1dwd1" .
+<Actor> <award.award_discipline.awards_in_this_discipline> "Teddy Award for Best Acting Performance" .
+<Ryan_Dunn> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<m.0cjl4lm> <common.webpage.category> "Curated Topic" .
+<m.0lcm55y> <tv.regular_tv_appearance.actor> "Ryan Dunn" .
+<Living_Will…> <film.film.starring> "m.0h26cz2" .
+<m.0j_pcxl> <tv.tv_regular_personal_appearance.appearance_type> "Him/Herself" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0_sk9t2" .
+<Jackass_Number_Two> <film.film.directed_by> "Jeff Tremaine" .
+<m.0rq2xbj> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<m.0h26czp> <film.performance.film> "Living Will…" .
+<Traffic_collision> <common.topic.webpage> "m.09x02cn" .
+<m.0y5c7hw> <film.personal_film_appearance.film> "Jackass 3D" .
+<Traffic_collision> <common.topic.webpage> "m.09x5gqd" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13zhf" .
+<Action_Film> <common.topic.subjects> "Randy M. Roberts" .
+<Ryan_Dunn> <tv.tv_personality.tv_regular_appearances> "m.0j_vsjh" .
+<m.0dcxr1_> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Viva_La_Bam> <tv.tv_program.languages> "English Language" .
+<Stunt_Performer> <people.profession.specializations> "Stunt Double" .
+<Seth_Meisterman> <people.person.place_of_birth> "United States of America" .
+<m.0j13_18> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Start_Date> <type.property.expected_type> "Date/Time" .
+<Date_of_birth> <rdf-schema#range> "Date/Time" .
+<m.09x6nbg> <common.webpage.topic> "Traffic collision" .
+<Actor> <freebase.equivalent_topic.equivalent_type> "Film actor" .
+<Traffic_collision> <common.topic.webpage> "m.09x2mg9" .
+<Street_Dreams> <film.film.rating> "R (USA)" .
+<m.03l2bm7> <common.webpage.topic> "Medina" .
+<Parents> <rdf-schema#domain> "Person" .
+<TV_Program_Creator> <type.type.domain> "TV" .
+<m.0b48qt3> <common.webpage.topic> "Traffic collision" .
+<m.0h2d8c4> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Deceased_Person> <type.type.properties> "Place of death" .
+<Jeremy_Yablan> <people.person.gender> "Male" .
+<m.03l2syv> <common.webpage.category> "Official Website" .
+<m.0dcy7k0> <film.film_crew_gig.film> "Jackass 3D" .
+<Medina_County> <location.administrative_division.capital> "m.0jvw1_g" .
+<m.010wvs8m> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<m.0bl1rld> <common.resource.annotations> "m.03l2rth" .
+<Ryan_Dunn> <common.topic.notable_for> "g.1255jzn7d" .
+<m.0y5c7tj> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0y5c3xk> <film.personal_film_appearance.film> "Jackass 3D" .
+<Medina> <location.statistical_region.population> "g.11x1fq9xd" .
+<m.0y5b_2h> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass_3D> <film.film.other_crew> "m.0dcy7lk" .
+<Johnny_Knoxville> <film.writer.film> "Jackass Number Two" .
+<m.0dcxr2r> <film.personal_film_appearance.film> "Jackass 3D" .
+<Actor> <people.profession.represented_by_trade_unions> "Chennai Actors' Association" .
+<Living_Will…> <film.film.produced_by> "Joseph Hennigan" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Jeremy_Yablan> <people.person.profession> "Actor" .
+<Date_of_death> <rdf-schema#domain> "Deceased Person" .
+<Homewrecker> <tv.tv_program.program_creator> "Ryan Dunn" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0114x8fq" .
+<Living_Will…> <film.film.edited_by> "Matthew Lauyer" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.012hyqqg" .
+<Ryan_Dunn> <film.actor.film> "m.02vdcdy" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13zvz" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01012_4j" .
+<United_States_of_America> <location.country.administrative_divisions> "Pennsylvania" .
+<Medina> <location.place_with_neighborhoods.neighborhoods> "Normandy Park" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.011lztln" .
+<Gender> <rdf-schema#range> "Gender" .
+<CKY2K> <film.film.language> "English Language" .
+<Pennsylvania> <location.administrative_division.country> "United States of America" .
+<Jackass_Number_Two> <media_common.netflix_title.netflix_genres> "Comedies" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0j14xl5" .
+<m.0yvg3gf> <film.performance.film> "Living Will…" .
+<m.0_sk86s> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Golden_Globe_Award_for_Best_Actress_–_Motion_Picture_–_Musical_or_Comedy> <award.award_category.disciplines_or_subjects> "Actor" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Medina_County_Career_Center> <education.educational_institution.campuses> "Medina County Career Center" .
+<Actor> <common.topic.notable_for> "g.125fmxc48" .
+<Ryan_Dunn> <film.person_or_entity_appearing_in_film.films> "m.0h2d8cj" .
+<Place_of_birth> <rdf-schema#range> "Location" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "struck by motorcycle" .
+<m.0dcxr29> <film.personal_film_appearance.film> "Jackass 3D" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0w1hm0j" .
+<Jackass_3D> <award.award_nominated_work.award_nominations> "m.0pc67l2" .
+<m.0dcy7km> <film.film_crew_gig.film> "Jackass 3D" .
+<Medina> <location.location.people_born_here> "Mark Overholt" .
+<Maria_Pitillo> <common.topic.notable_types> "Film actor" .
+<m.09wbn32> <common.webpage.topic> "Traffic collision" .
+<Pennsylvania> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Traffic_collision> <base.pethealth.cause.pet_diseases_or_conditions_caused> "Head Trauma in Animals" .
+<m.0gy3n6q> <tv.regular_tv_appearance.series> "Jackassworld.com: 24 Hour Takeover" .
+<m.0w2wj7h> <film.film_crew_gig.film_crew_role> "Film Producer" .
+<Stunt_Performer> <film.film_subject.films> "The Fall" .
+<m.0y5c0vr> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.09n_m3j> <tv.tv_guest_role.actor> "Ryan Dunn" .
+<Him/Herself> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13_1s" .
+<CKY2K> <film.film.genre> "Comedy" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.05z09nh" .
+<Program_creator> <owl#inverseOf> "TV programs Created" .
+<Jackass_3D> <film.film.written_by> "Preston Lacy" .
+<Jackass_3D> <film.film.personal_appearances> "m.0dcxr35" .
+<m.0y5b_fg> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.010ggv9n" .
+<Hamrick_School> <education.educational_institution.campuses> "Hamrick School" .
+<m.0bg7kq6> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Living_Will…> <media_common.netflix_title.netflix_genres> "Late Night Comedies" .
+<m.0h26d0h> <film.performance.film> "Living Will…" .
+<m.09wcwch> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Jackass_Number_Two> <film.film.executive_produced_by> "Derek Freda" .
+<m.0y5c6xn> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0y5c28s> <film.personal_film_appearance.film> "Jackass 3D" .
+<Actor> <people.profession.specializations> "Child Actor" .
+<m.09n_m3v> <tv.tv_guest_role.episodes_appeared_in> "Nicolette Sheridan, Ryan Dunn, Raul Midon" .
+<m.0y5bzd6> <film.personal_film_appearance.film> "Jackass 3D" .
+<Angie_Cuturic> <freebase.valuenotation.has_value> "Date of birth" .
+<m.0y5c6v1> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Jackass> <tv.tv_program.genre> "Reality television" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Harvester" .
+<m.0y5c5vh> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<Seth_Meisterman> <freebase.valuenotation.has_value> "Parents" .
+<Traffic_collision> <common.topic.webpage> "m.09y459y" .
+<Actor> <people.profession.represented_by_trade_unions> "Kerala Actors Association" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.012hyqpx" .
+<Jeremy_Yablan> <common.topic.subject_of> "Actor" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.01066r_j" .
+<Brecksville> <common.topic.notable_types> "City/Town/Village" .
+<TV_Personality> <fictional_universe.character_occupation.characters_with_this_occupation> "Julia Child" .
+<Steve-O> <people.person.profession> "Stunt Performer" .
+<Booted> <common.topic.notable_types> "Film" .
+<Stunt_Performer> <common.topic.article> "m.05m_zfg" .
+<Film_Producer> <common.topic.subject_of> "Eugenio Polgovsky" .
+<m.0y5bzsp> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0h2d8cb> <film.personal_film_appearance.person> "Ryan Dunn" .
+<m.0dcy7l8> <film.film_crew_gig.film> "Jackass 3D" .
+<Actor> <common.topic.subjects> "Aaron Morris" .
+<How_Did_That_Get_There> <music.recording.releases> "Jackass: The Movie" .
+<Place_of_birth> <rdf-schema#domain> "Person" .
+<TV_Actor> <freebase.type_hints.included_types> "Topic" .
+<Living_Will…> <film.film.produced_by> "April Scott" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.01066qs7" .
+<Jackass_3D> <film.film.cinematography> "Lance Bangs" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Injuries suffered following motorbike accident" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<Medina> <location.statistical_region.population> "m.0k6v_n9" .
+<Actor> <people.profession.specializations> "Theater Actress" .
+<Spike_Jonze> <film.person_or_entity_appearing_in_film.films> "m.0djykg8" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<Hamrick_School> <location.location.containedby> "Medina" .
+<Spike_Jonze> <film.writer.film> "Jackass: The Movie" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.010ggvby" .
+<m.0y5c6bd> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0h26d2p> <film.performance.film> "Living Will…" .
+<Pennsylvania> <location.location.time_zones> "Eastern Time Zone" .
+<Jackass_3D> <film.film.produced_by> "Ryan Dunn" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.010hvhrh" .
+<TV_Actor> <freebase.type_profile.kind> "Title" .
+<Medina> <location.location.contains> "Medina Public Square Historic District" .
+<Film_Producer> <fictional_universe.character_occupation.characters_with_this_occupation> "Julian Baker" .
+<m.09xzypw> <common.webpage.topic> "Film Producer" .
+<Living_Will…> <film.film.release_date_s> "m.0j592yj" .
+<Education> <type.property.master_property> "Student" .
+<Hit_and_run> <people.cause_of_death.parent_cause_of_death> "Traffic collision" .
+<m.09w0hnt> <common.webpage.topic> "Traffic collision" .
+<Medina_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<m.011dhk15> <music.music_video_gig.music_video_crew_production_role> "Film Producer" .
+<Ryan_Dunn> <tv.tv_personality.tv_regular_appearances> "m.0j_ty8v" .
+<Jeremy_Yablan> <common.topic.subjects> "Actor" .
+<m.011qs7sy> <music.music_video_gig.music_video_crew_production_role> "Film Producer" .
+<West_Goshen_Township> <location.location.containedby> "Pennsylvania" .
+<Medina> <location.location.contains> "Medina County Career Center" .
+<Chester_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<m.03l2rth> <common.webpage.topic> "Ryan Dunn" .
+<m.0ng_m4p> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Landspeed:_CKY> <common.topic.notable_types> "Film" .
+<Person> <freebase.type_profile.published> "Published" .
+<Ryan_Dunn> <tv.tv_actor.starring_roles> "m.0bmsqbp" .
+<Eugenio_Polgovsky> <people.person.profession> "Actor" .
+<Actor> <award.award_discipline.awards_in_this_discipline> "Palm Dog Award" .
+<Jackass_Number_Two> <common.topic.notable_types> "Film" .
+<Ryan_Dunn> <tv.tv_actor.starring_roles> "m.03ljth7" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x4_7p" .
+<Actor> <people.profession.specializations> "Silent Film Actress" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<m.0y5c4bm> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<TV_Personality> <people.profession.specialization_of> "Broadcaster" .
+<m.09x288v> <common.webpage.topic> "Film Producer" .
+<Reality_television> <common.topic.subjects> "Bleona" .
+<m.0dcy7kx> <film.film_crew_gig.film> "Jackass 3D" .
+<m.0rq2xl1> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<m.0y5c2wc> <film.personal_film_appearance.film> "Jackass 3D" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<m.012sb5xr> <business.employment_tenure.title> "Actor" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01059z4k" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0107m19w" .
+<Ryan_Dunn> <film.producer.film> "Living Will…" .
+<Angie_Cuturic> <freebase.valuenotation.has_value> "Place of birth" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.0_z7fcs" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<m.0j13_2t> <music.music_video_performance.special_music_video_performance_type> "Him/Herself" .
+<m.0j58z9d> <film.film_regional_release_date.film> "Jackass 3D" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0q2tyy6" .
+<Ohio> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0j13zhf> <music.music_video_performance.special_music_video_performance_type> "Him/Herself" .
+<Medina> <common.topic.image> "OHMap-doton-Medina" .
+<Traffic_collision> <common.topic.webpage> "m.0b48qt3" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r0sx" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r0dh" .
+<Living_Will…> <film.film.directed_by> "Matthew Lauyer" .
+<Jackass_3D> <film.film.runtime> "m.0py8mtg" .
+<m.09wwyq1> <common.webpage.topic> "Traffic collision" .
+<Homewrecker> <common.topic.notable_types> "TV Program" .
+<Jackass_Number_Two> <media_common.netflix_title.netflix_genres> "Cult Comedies" .
+<m.0dcxr29> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.0106b5xy" .
+<Jackass_3D> <film.film.personal_appearances> "m.0ng_m4p" .
+<Ryan_Dunn> <common.topic.webpage> "m.03l2rth" .
+<Just_how_stupid_ARE_those_''Jackass''_guys?> <common.resource.annotations> "m.09445wy" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.012hyr0r" .
+<Medina> <location.statistical_region.population> "g.11x1ckcq5" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.011f61l_" .
+<Angie_Cuturic> <people.person.spouse_s> "m.0t_7kt3" .
+<Ronald_Dunn> <people.person.spouse_s> "m.0t_7kx7" .
+<Homewrecker> <common.topic.notable_for> "g.1257v6xng" .
+<m.0h2d80s> <film.performance.character> "Angry Customer" .
+<Jackass:_The_Movie> <media_common.netflix_title.netflix_genres> "Late Night Comedies" .
+<Lance_Bangs> <freebase.valuenotation.is_reviewed> "Gender" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0107yftd" .
+<West_Goshen_Township> <location.statistical_region.population> "m.066gtdy" .
+<m.0y5c7wz> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass_3D> <film.film.produced_by> "Spike Jonze" .
+<Single-vehicle_accident> <people.cause_of_death.parent_cause_of_death> "Traffic collision" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r1v0" .
+<Medina_County_Career_Center> <location.location.containedby> "Ohio" .
+<Blonde_Ambition> <film.film.starring> "m.0h2d7_c" .
+<Jackass> <freebase.valuenotation.is_reviewed> "Program creator" .
+<Medina> <location.location.contains> "Medina County District Library Central Library" .
+<Jackass_3D> <media_common.netflix_title.netflix_genres> "Late Night Comedies" .
+<MTV> <film.production_company.films> "Jackass 3D" .
+<m.0y5b_0_> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Hooper> <film.film.genre> "Comedy" .
+<Steve-O> <award.award_nominee.award_nominations> "m.0pc67l2" .
+<m.0dcxr2r> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.03pj41j> <people.place_lived.location> "Ohio" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x50xn" .
+<How_Did_That_Get_There> <music.recording.tracks> "How Did That Get There" .
+<m.02vdcdy> <film.performance.film> "A Halfway House Christmas" .
+<Jackass_3D> <film.film.prequel> "Jackass Number Two" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<m.03yvw0w> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Jackass_3D> <film.film.personal_appearances> "m.0dcxr3b" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<Bam's_Unholy_Union> <tv.tv_program.country_of_origin> "United States of America" .
+<m.0h26c_9> <film.performance.film> "Living Will…" .
+<A_Halfway_House_Christmas> <film.film.country> "United States of America" .
+<TV_Personality> <freebase.type_profile.kind> "Title" .
+<m.0y5bzfq> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Lance_Bangs> <freebase.valuenotation.has_value> "Parents" .
+<Location> <freebase.type_profile.published> "Published" .
+<m.0y5c6lx> <film.personal_film_appearance.film> "Jackass 3D" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<m.0t_7kt3> <people.marriage.spouse> "Ryan Dunn" .
+<TV_Program_Creator> <freebase.type_profile.strict_included_types> "Topic" .
+<m.011qs93_> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<m.09y0j4t> <common.webpage.topic> "Traffic collision" .
+<United_States_of_America> <location.country.administrative_divisions> "Ohio" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<A_Halfway_House_Christmas> <film.film.starring> "m.02vdcdy" .
+<Ryan_Dunn> <people.person.place_of_birth> "Medina" .
+<m.0djyhz1> <film.film_regional_release_date.film> "Jackass 3D" .
+<m.0y5c1xk> <film.personal_film_appearance.person> "Mike Kassak" .
+<Johnny_Knoxville> <film.producer.film> "Jackass: The Movie" .
+<Film_Producer> <film.film_job.films_with_this_crew_job> "m.0h71680" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r0fw" .
+<m.02vdcdy> <film.performance.actor> "Ryan Dunn" .
+<Date_of_birth> <type.property.expected_type> "Date/Time" .
+<Irving_G._Thalberg_Memorial_Award> <award.award_category.disciplines_or_subjects> "Film Producer" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.010kj5ch" .
+<How_Did_That_Get_There> <music.recording.artist> "Ryan Dunn" .
+<TV_Personality> <people.profession.corresponding_type> "TV Actor" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0znpr6h" .
+<m.09y39g7> <common.webpage.topic> "Film Producer" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.010kj6kw" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<m.0q2tyy6> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<m.0t_j_45> <film.film_crew_gig.film_crew_role> "Film Producer" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.010b147r" .
+<TV_Program> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0h2d8cj> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0105ysx4" .
+<m.09wpzs0> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.09xxsk0> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Medina> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07dbnpw" .
+<Medina> <location.statistical_region.population> "g.11x1d3rh0" .
+<m.0cmx_x7> <film.film_film_distributor_relationship.film> "Jackass 3D" .
+<Actor> <base.lightweight.profession.professions_similar> "Model" .
+<Ryan_Dunn> <film.producer.film> "Jackass 3D" .
+<m.0dcxr3l> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0j_pcxl> <tv.tv_regular_personal_appearance.seasons> "Jackass - Season 2" .
+<Jackass_3D> <film.film.cinematography> "Dimitry Elyashkevich" .
+<m.0svz8g8> <film.performance.film> "Landspeed: CKY" .
+<Hooper> <media_common.netflix_title.netflix_genres> "Comedies" .
+<Medina> <location.statistical_region.population> "m.0hlzb1r" .
+<Jackass_3D> <film.film.other_crew> "m.0djyxsf" .
+<m.09y0j4t> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0j2yzgj" .
+<Jackass> <tv.tv_program.country_of_origin> "United States of America" .
+<m.0b6qh3q> <film.film_crew_gig.film_crew_role> "Film Producer" .
+<Steve-O> <film.person_or_entity_appearing_in_film.films> "m.0dcxr29" .
+<Narrator> <people.profession.specialization_of> "Actor" .
+<Ronald_Dunn> <common.topic.notable_types> "Person" .
+<Medina> <location.statistical_region.population> "g.11bymnn1l5" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.0_z7dty" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r0ws" .
+<m.0y5r6fb> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.010133dr" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.07wzlf_" .
+<m.02vdcdy> <film.performance.character> "Buzz" .
+<Jackass_3D> <film.film.other_crew> "m.0dcy7lf" .
+<m.0bg7g29> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Proving_Ground> <tv.tv_program.genre> "Reality television" .
+<m.09w0536> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.012hyr0r> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Tucker> <film.film_character.portrayed_in_films> "m.04dd015" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r0xm" .
+<Close-Up> <film.film.country> "United States of America" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0101320d" .
+<Country_of_nationality> <type.property.schema> "Person" .
+<Spike_Jonze> <people.person.profession> "Film Producer" .
+<Jackass_3D> <film.film.personal_appearances> "m.0dcxr2_" .
+<Marta_Martin> <people.person.nationality> "United States of America" .
+<Game_Show_Host> <common.topic.notable_types> "Profession" .
+<m.0yvgv9q> <film.performance.film> "Living Will…" .
+<m.0dcxr3b> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0y5c39q> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.09w0hnt> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Medina> <location.statistical_region.population> "m.0hlz9zv" .
+<m.0y5c36t> <film.personal_film_appearance.film> "Jackass 3D" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0109nzqp" .
+<Minghags:_The_Movie> <film.film.prequel> "Haggard: The Movie" .
+<Medina> <location.location.people_born_here> "Dan Franko" .
+<Medina_County> <location.us_county.county_seat> "Medina" .
+<Jackass_Number_Two> <film.film.production_companies> "MTV Films" .
+<m.09wpzs0> <common.webpage.topic> "Traffic collision" .
+<Jackass_3D> <media_common.netflix_title.netflix_genres> "Sports Comedies" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c7wz" .
+<Seth_Meisterman> <people.person.nationality> "United States of America" .
+<John_Milton> <fictional_universe.fictional_character.gender> "Male" .
+<m.0b47lnc> <common.webpage.topic> "Traffic collision" .
+<Street_Dreams> <common.topic.notable_types> "Film" .
+<How_Did_That_Get_There> <common.topic.notable_for> "g.125864z4c" .
+<Blonde_Ambition> <film.film.language> "English Language" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.012hyqyx> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Reckless_driving> <people.cause_of_death.parent_cause_of_death> "Traffic collision" .
+<Ryan_Dunn> <tv.tv_program_creator.programs_created> "Homewrecker" .
+<Film_Producer> <common.topic.webpage> "m.09xzypw" .
+<Jackass_Number_Two> <media_common.netflix_title.netflix_genres> "Comedy" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<Golden_Globe_Award_for_Best_Actress_–_Motion_Picture_–_Musical_or_Comedy> <award.award_category.disciplines_or_subjects> "Comedy" .
+<Stunt_Performer> <people.profession.specialization_of> "Performer" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<Medina> <location.statistical_region.population> "g.11x1dzwhx" .
+<Living_Will…> <film.film.starring> "m.0h26c_9" .
+<m.0jvw1_g> <location.administrative_division_capital_relationship.administrative_division> "Medina County" .
+<Traffic_collision> <common.topic.webpage> "m.09wvh0m" .
+<m.0y5c608> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Brecksville> <location.location.time_zones> "Eastern Time Zone" .
+<m.0g9jxyf> <base.firsts.first_achievement.achievement> "Traffic collision" .
+<Haggard:_The_Movie> <film.film.starring> "m.0jz23q" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<Ryan_Dunn> <common.topic.image> "Ryan Dunn crash scene" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0109p0xp" .
+<m.0y5c1xk> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Stunt_Performer> <common.topic.notable_types> "Profession" .
+<m.09x62n3> <common.webpage.topic> "Traffic collision" .
+<Homewrecker> <tv.tv_program.episodes> "Episode 1" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<MTV> <media_common.netflix_genre.titles> "Viva La Bam" .
+<Minghags:_The_Movie> <common.topic.notable_types> "Film" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.01066skc" .
+<Bam's_Unholy_Union> <tv.tv_program.regular_cast> "m.0khw68v" .
+<m.0y5r43b> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0y5c5s8> <film.personal_film_appearance.film> "Jackass 3D" .
+<West_Goshen_Township> <common.topic.notable_types> "City/Town/Village" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<m.09wz39w> <common.webpage.topic> "Traffic collision" .
+<Johnny_Knoxville> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<The_Health_Inspector> <fictional_universe.fictional_character.gender> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "Ohio" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r0pj" .
+<m.0jz23q> <film.performance.film> "Haggard: The Movie" .
+<Person> <type.type.properties> "Education" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0109p189" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.010130c5" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5bzhv" .
+<Actor> <common.topic.subjects> "Michael Palance" .
+<Jackass> <tv.tv_program.spin_offs> "Viva La Bam" .
+<m.09x54kb> <common.webpage.topic> "Traffic collision" .
+<Medina> <location.statistical_region.population> "m.0hlzb0d" .
+<Area_codes_234_and_330> <location.location.containedby> "Ohio" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<Jackass_3D> <common.topic.article> "m.09rx7v0" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01064z3p" .
+<Actor> <people.profession.specializations> "Voice Actor" .
+<m.0h2d8cx> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0h2d8cj> <film.personal_film_appearance.person> "Ryan Dunn" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c6bd" .
+<MTV> <film.production_company.films> "Jackass Number Two" .
+<Medina> <location.statistical_region.population> "g.11x1jtbg7" .
+<Camp_Kill_Yourself_(CKY)> <tv.tv_program.regular_cast> "m.0lrkjj9" .
+<Johnny_Knoxville> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0_sk86s" .
+<m.09xt70d> <common.webpage.topic> "Traffic collision" .
+<Blonde_Ambition> <media_common.netflix_title.netflix_genres> "Comedy" .
+<Living_Will…> <film.film.starring> "m.0h26d0x" .
+<m.0y5r1v0> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass:_The_Movie> <film.film.cinematography> "Dimitry Elyashkevich" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c5s8" .
+<Eugenio_Polgovsky> <common.topic.subjects> "Film Producer" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<m.0h2d7_r> <film.performance.actor> "Ryan Dunn" .
+<Film_Producer> <common.topic.webpage> "m.0b47qdp" .
+<m.0y5c12w> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0p70n61> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Jackass_3D> <common.topic.notable_for> "g.12564_92l" .
+<m.0khw68v> <tv.regular_tv_appearance.series> "Bam's Unholy Union" .
+<Ryan_Dunn> <freebase.valuenotation.is_reviewed> "Gender" .
+<Living_Will…> <film.film.runtime> "m.0h26dfj" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<m.0dcxr2w> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<How_Did_That_Get_There> <music.recording.releases> "Jackass: The Movie" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0109pzns" .
+<Film_producer> <freebase.type_profile.published> "Published" .
+<Angie_Cuturic> <freebase.valuenotation.has_value> "Parents" .
+<m.0h26cy8> <film.performance.actor> "Ryan Dunn" .
+<m.09wh_wc> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.09yb0k9> <common.webpage.topic> "Traffic collision" .
+<m.0y5c0r2> <film.personal_film_appearance.film> "Jackass 3D" .
+<Ryan_Dunn> <film.actor.film> "m.0h2d80s" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.011qs93_" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<Ryan_Dunn> <film.person_or_entity_appearing_in_film.films> "m.0h2d8cq" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.0y5r43b> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0y5c6bd> <film.personal_film_appearance.film> "Jackass 3D" .
+<Living_Will…> <media_common.netflix_title.netflix_genres> "Comedies" .
+<m.0h26dhf> <film.film_crew_gig.film> "Living Will…" .
+<Medina_County_Career_Center> <education.educational_institution_campus.educational_institution> "Medina County Career Center" .
+<Medina> <location.location.people_born_here> "Marta Martin" .
+<Living_Will…> <film.film.written_by> "Roy Koriakin" .
+<m.0h2d8cx> <film.personal_film_appearance.person> "Ryan Dunn" .
+<Hooper> <film.film.genre> "Action Film" .
+<West_Goshen_Township> <location.location.geolocation> "m.0wmh9db" .
+<Jackass_3D> <media_common.netflix_title.netflix_genres> "Comedy" .
+<Maria_Pitillo> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<m.0b47n03> <common.webpage.topic> "Traffic collision" .
+<m.09dw8m_> <film.film_crew_gig.film_crew_role> "Film Producer" .
+<United_States_of_America> <common.topic.notable_types> "Country" .
+<m.03pjkr0> <people.place_lived.person> "Ryan Dunn" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c2wc" .
+<m.0qz7y00> <film.film_crew_gig.film_crew_role> "Film Producer" .
+<Street_Dreams> <film.film.starring> "m.062xhl6" .
+<Maria_Pitillo> <people.person.nationality> "United States of America" .
+<Seth_Meisterman> <film.film_production_designer.films_production_designed> "Jackass 3D" .
+<m.0y5c1dt> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13zwq" .
+<TV_Actor> <type.type.domain> "TV" .
+<Film_Producer> <common.topic.subject_of> "Mervin Praison" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x50_3" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<m.0y5r0dh> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Jackass_Number_Two> <film.film.produced_by> "Spike Jonze" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0w10cc6" .
+<Jackass_3D> <film.film.film_art_direction_by> "James Peter Blackmon" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Ryan_Dunn> <film.person_or_entity_appearing_in_film.films> "m.0h2d8cx" .
+<Ryan_Dunn> <people.person.places_lived> "m.03pj41j" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<Bam's_World_Domination> <tv.tv_program.languages> "English Language" .
+<Traffic_collision> <common.topic.webpage> "m.09wykg0" .
+<Lance_Bangs> <film.cinematographer.film> "Jackass Number Two" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<m.0105_bj3> <education.education.institution> "West Chester East High School" .
+<m.0y5c6sl> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.010nvd5z" .
+<Medina> <location.statistical_region.population> "g.11x1hnm1k" .
+<m.0j13zwq> <music.music_video_performance.special_music_video_performance_type> "Him/Herself" .
+<m.012hyqz2> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<m.012hyqzj> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Lance_Bangs> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Johnny_Knoxville> <film.writer.film> "Jackass: The Movie" .
+<Medina> <location.statistical_region.population> "g.12vqh_4qm" .
+<Ryan_Dunn> <film.actor.film> "m.0h2d7_r" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.010h5290" .
+<Greg_Paulus> <people.person.gender> "Male" .
+<m.0y5c800> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0dcxr24> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Actor> <book.book_subject.works> "Considering Michael Clarke Duncan: Big Black Man within a Nonsociopoliticohistorical Context" .
+<Jackass:_The_Movie> <film.film.production_companies> "MTV Films" .
+<Maria_Pitillo> <people.person.profession> "Actor" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x513t" .
+<m.0y5bzfq> <film.personal_film_appearance.person> "Rick Kosick" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.011f62y0" .
+<m.0h2d7zv> <film.performance.character> "The Drug Dealer" .
+<Film_Producer> <film.film_job.films_with_this_crew_job> "m.0b6qh3q" .
+<m.0h26c_x> <film.performance.film> "Living Will…" .
+<Stunt_Performer> <fictional_universe.character_occupation.characters_with_this_occupation> "George Stobbart" .
+<m.0j2yzgj> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Jackass_3D> <film.film.language> "English Language" .
+<Medina> <location.location.contains> "Medina Masonic Temple and Medina Theater" .
+<m.0h91f_n> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x4_5j" .
+<Jackass_3D> <film.film.film_production_design_by> "Seth Meisterman" .
+<English_Language> <language.human_language.main_country> "United States of America" .
+<m.0y5c7wz> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.09x5gqd> <common.webpage.topic> "Traffic collision" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<m.0khw68v> <tv.regular_tv_appearance.actor> "Ryan Dunn" .
+<Place_of_birth> <owl#inverseOf> "People born here" .
+<m.0y5b_2h> <film.personal_film_appearance.person> "Lance Bangs" .
+<m.09wbn32> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.0j13_1s> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<m.0j13_1s> <music.music_video_performance.special_music_video_performance_type> "Him/Herself" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01059z9j" .
+<m.0pc67l2> <award.award_nomination.nominated_for> "Jackass 3D" .
+<Actor> <people.profession.specializations> "Dubber" .
+<Traffic_collision> <common.topic.webpage> "m.09wbn32" .
+<Single-vehicle_accident> <common.topic.notable_types> "Cause Of Death" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0x1qw04" .
+<Jackass_3D> <film.film.production_companies> "Paramount Pictures" .
+<Medina> <location.statistical_region.population> "m.0hlz9zd" .
+<Homewrecker> <common.topic.article> "m.0c6shr" .
+<m.0y5c5bn> <film.personal_film_appearance.film> "Jackass 3D" .
+<Fox_Meadow_Estates> <location.location.containedby> "Ohio" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<m.0y5c581> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0y5c2wc> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Medina> <location.location.people_born_here> "Scott Fahlman" .
+<Spike_Jonze> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<The_Fall> <film.film.subjects> "Stunt Performer" .
+<TV_Program> <freebase.type_hints.included_types> "Topic" .
+<MA$TADON> <people.person.nationality> "United States of America" .
+<m.0j13zzn> <music.music_video_performance.special_music_video_performance_type> "Him/Herself" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c0vr" .
+<Parents> <type.property.schema> "Person" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0z3wcr4" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<Traffic_collision> <common.topic.webpage> "m.09x54ml" .
+<m.0djyxsf> <film.film_crew_gig.film> "Jackass 3D" .
+<m.0j568j5> <film.film_regional_release_date.film> "Jackass 3D" .
+<Jackass_3D> <film.film.directed_by> "Jeff Tremaine" .
+<Medina> <location.citytown.postal_codes> "44258" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<Spike_Jonze> <people.person.gender> "Male" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<Spokesperson> <people.profession.specialization_of> "Actor" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<m.0y5c12w> <film.personal_film_appearance.film> "Jackass 3D" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<Equity> <business.trade_union.professions_represented> "Actor" .
+<Jackass_2.5> <film.film.genre> "Documentary film" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Haggard:_The_Movie> <film.film.country> "United States of America" .
+<Traffic_collision> <common.topic.webpage> "m.09x62n3" .
+<Homewrecker> <tv.tv_program.seasons> "Homewrecker - Season 1" .
+<Film_Producer> <music.music_video_job.music_videos_with_this_crew_job> "m.011qs7sy" .
+<m.0y5c68s> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass_3D> <film.film.personal_appearances> "m.0djykgh" .
+<m.03l2rth> <common.webpage.resource> "m.0bl1rld" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<m.0bx2739> <tv.regular_tv_appearance.series> "Bam's World Domination" .
+<End_Date> <rdf-schema#range> "Date/Time" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.0106b60f" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c7hw" .
+<m.0j13zzb> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<TV_Program> <type.type.expected_by> "TV programs Created" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0bg7g29" .
+<Haggard:_The_Movie> <film.film.language> "English Language" .
+<Medina> <location.location.time_zones> "Eastern Time Zone" .
+<Hamrick_School> <location.location.containedby> "Ohio" .
+<Traffic_collision> <common.topic.webpage> "m.09wyg7f" .
+<Traffic_collision> <common.topic.webpage> "m.09xw1hs" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0105b1rx" .
+<Film_Producer> <people.profession.specializations> "Digital Intermediate Producer" .
+<Maria_Pitillo> <common.topic.subject_of> "Actor" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<Lance_Bangs> <film.person_or_entity_appearing_in_film.films> "m.0y5b_2h" .
+<Stunt_Performer> <film.film_subject.films> "Hooper" .
+<m.0b46kdx> <common.webpage.topic> "Traffic collision" .
+<Traffic_collision> <base.schemastaging.context_name.pronunciation> "g.125_nd2vz" .
+<Living_Will…> <film.film.starring> "m.0yvg3gf" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0rq2xbj" .
+<Person> <type.type.properties> "Date of birth" .
+<TV_Personality> <common.topic.notable_for> "g.125fb9frj" .
+<m.09n_m3c> <tv.tv_guest_role.episodes_appeared_in> "The Unholy Union" .
+<m.09x0c47> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0114x8j0" .
+<Film_Producer> <people.profession.corresponding_type> "Film producer" .
+<Ryan_Dunn> <tv.tv_personality.tv_regular_appearances> "m.0j_pcxl" .
+<Bam's_Unholy_Union> <tv.tv_program.genre> "Reality television" .
+<West_Goshen_Township> <location.statistical_region.population> "m.066gtd5" .
+<m.03l2syv> <common.webpage.topic> "West Goshen Township" .
+<m.0z3wm28> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Living_Will…> <film.film.starring> "m.0yvdn2v" .
+<Living_Will…> <film.film.written_by> "Allan Delikat" .
+<m.09x54ml> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<Considering_Michael_Clarke_Duncan:_Big_Black_Man_within_a_Nonsociopoliticohistorical_Context> <book.written_work.subjects> "Actor" .
+<Medina> <location.capital_of_administrative_division.capital_of> "m.0jvw1_g" .
+<m.0y5c3g4> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0pc67l2> <award.award_nomination.award_nominee> "Steve-O" .
+<Gender> <rdf-schema#domain> "Person" .
+<m.0y5c6v1> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass:_The_Movie> <film.film.personal_appearances> "m.0h2d8d2" .
+<m.09wyg7f> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.09x2j_d> <common.webpage.topic> "Traffic collision" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<Broadcaster> <people.profession.specializations> "TV Personality" .
+<Film_producer> <freebase.type_hints.included_types> "Person" .
+<m.0hgtcbw> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Film_Producer> <common.topic.notable_types> "Profession" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Struck by car" .
+<Homewrecker> <tv.tv_program.episodes> "Episode 6" .
+<m.0dcxr1_> <film.personal_film_appearance.film> "Jackass 3D" .
+<TV_Personality> <fictional_universe.character_occupation.characters_with_this_occupation> "Marty Pepper" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<Viva_La_Bam> <tv.tv_program.genre> "Comedy" .
+<m.0glhd9s> <film.film_cut.film> "Jackass 3D" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c4j0" .
+<Film_Producer> <film.film_job.films_with_this_crew_job> "m.0h70f_l" .
+<m.0h2d80s> <film.performance.film> "Welcome to the Bates Motel" .
+<Jackass_3D> <film.film.produced_by> "Johnny Knoxville" .
+<Traffic_collision> <common.topic.webpage> "m.09yszt1" .
+<Medina> <location.statistical_region.population> "m.0hlzb1z" .
+<Film_Producer> <film.film_job.films_with_this_crew_job> "m.0r99nzn" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<Film> <freebase.type_hints.included_types> "Topic" .
+<m.03pj41j> <people.place_lived.person> "Ryan Dunn" .
+<Film_Producer> <common.topic.subjects> "Chris Free" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.03yvw0w" .
+<Film_actor> <freebase.type_profile.equivalent_topic> "Actor" .
+<R_(USA)> <film.content_rating.country> "United States of America" .
+<m.0t_7kx7> <people.marriage.spouse> "Ronald Dunn" .
+<Film_Producer> <common.topic.webpage> "m.0b492_7" .
+<TV_Personality> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Television personalities" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Medina> <location.statistical_region.population> "g.11x1lz77d" .
+<m.0y5c4bm> <film.personal_film_appearance.film> "Jackass 3D" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01059w1c" .
+<Actor> <award.award_discipline.awards_in_this_discipline> "Golden Globe Award for Best Actress – Motion Picture – Drama" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.0cvfhz0> <common.webpage.topic> "Homewrecker" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.0106bqm7" .
+<Living_Will…> <film.film.starring> "m.0yvfts8" .
+<m.0cjl4lm> <common.webpage.in_index> "Blissful Celebrities" .
+<Medina> <location.location.contains> "St. Paul's Episcopal Church" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.012hyqz2" .
+<Ronald_Dunn> <freebase.valuenotation.has_value> "Parents" .
+<Pennsylvania> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0yvf70w> <film.performance.film> "Living Will…" .
+<Traffic_collision> <common.topic.webpage> "m.09yb0k9" .
+<m.0cq7429> <common.webpage.in_index> "Blissful Master Index" .
+<West_Goshen_Township> <location.statistical_region.population> "m.066gtdc" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.01066qx8" .
+<Ohio> <location.location.time_zones> "Eastern Time Zone" .
+<Johnny_Knoxville> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Jackass_3D> <media_common.netflix_title.netflix_genres> "Comedies" .
+<Steve-O:_Out_on_Bail> <media_common.netflix_title.netflix_genres> "Late Night Comedies" .
+<m.0svz8g8> <film.performance.actor> "Ryan Dunn" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.010hjjy7" .
+<Jackass_Number_Two> <film.film.production_companies> "Paramount Pictures" .
+<Actor> <people.profession.specializations> "Character Actor" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0h6lzxm" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<Linda_Piscitello> <people.person.children> "Ryan Dunn" .
+<Jackass_Number_Two> <film.film.genre> "Documentary film" .
+<Eugenio_Polgovsky> <freebase.valuenotation.has_value> "Country of nationality" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r43b" .
+<Homewrecker> <tv.tv_program.episodes> "Season 1, Episode 5" .
+<Jackass_Number_Two> <film.film.country> "United States of America" .
+<m.0j2yzh2> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Medina> <location.hud_foreclosure_area.ofheo_price_change> "m.07dbnq1" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x50r1" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01059y5k" .
+<Screen_Actors_Guild> <organization.organization.geographic_scope> "United States of America" .
+<Medina> <location.statistical_region.population> "m.0hlz9_z" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Jackass_3D> <film.film.other_crew> "m.0dcy7jx" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0101307q" .
+<Person> <type.type.properties> "Place of birth" .
+<Program_creator> <rdf-schema#domain> "TV Program" .
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Reckless driving" .
+<Linda_Piscitello> <people.person.gender> "Female" .
+<Ryan_Dunn> <tv.tv_actor.guest_roles> "m.09n_m3p" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<m.0j_vsjh> <tv.tv_regular_personal_appearance.person> "Ryan Dunn" .
+<Film_Producer> <film.film_job.films_with_this_crew_job> "m.0b7m5yl" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<Bam's_World_Domination> <common.topic.notable_types> "TV Program" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Jackass_2.5> <media_common.netflix_title.netflix_genres> "Comedy" .
+<m.0y5bzw0> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0h26d22> <film.performance.film> "Living Will…" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Ryan_Dunn> <people.person.profession> "Film Producer" .
+<Proving_Ground> <tv.tv_program.regular_personal_appearances> "m.0j_vm89" .
+<m.0bx0tt3> <common.webpage.topic> "Homewrecker" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<Ryan_Dunn> <film.person_or_entity_appearing_in_film.films> "m.0dcxr2r" .
+<Film_actor> <freebase.type_profile.published> "Published" .
+<m.0_sk9t2> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Jackass_3D> <common.topic.webpage> "m.0cjl4lm" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Proving_Ground> <common.topic.notable_types> "TV Program" .
+<Actor> <people.profession.specializations> "Theater Performer" .
+<Medina> <location.location.people_born_here> "Ryan Dunn" .
+<Film_producer> <freebase.type_hints.included_types> "Topic" .
+<Living_Will…> <common.topic.notable_types> "Film" .
+<A_Halfway_House_Christmas> <common.topic.notable_types> "Film" .
+<CKY2K> <common.topic.notable_types> "Film" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<Steve-O> <people.person.profession> "Film Producer" .
+<Johnny_Knoxville> <tv.tv_program_creator.programs_created> "Jackass" .
+<Jackass:_The_Movie> <film.film.written_by> "Jeff Tremaine" .
+<m.0y5c5df> <film.personal_film_appearance.film> "Jackass 3D" .
+<Traffic_collision> <common.topic.webpage> "m.0b47lnc" .
+<m.0y5c581> <film.personal_film_appearance.film> "Jackass 3D" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0p70n61" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Hit and run" .
+<m.0j_pcxl> <tv.tv_regular_personal_appearance.person> "Ryan Dunn" .
+<Jackass_3D> <film.film.other_crew> "m.0dcy7km" .
+<Male> <common.topic.article> "m.05zpq8" .
+<MA$TADON> <people.person.gender> "Male" .
+<Jackass_3D> <film.film.genre> "Sports films" .
+<m.0j13zwq> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Linda_Piscitello> <common.topic.notable_for> "g.126sk7yq_" .
+<Medina> <location.statistical_region.population> "g.11x1lwfww" .
+<Student> <owl#inverseOf> "Education" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0h81gvj" .
+<m.0y8160j> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<A_Halfway_House_Christmas> <media_common.netflix_title.netflix_genres> "Comedies" .
+<m.0y5r0fw> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Film_Producer> <fictional_universe.character_occupation.characters_with_this_occupation> "Jack Woltz" .
+<Jackass_3D> <film.film.music> "David 'Whitey' Weitzman" .
+<Ryan_Dunn> <people.deceased_person.place_of_death> "West Goshen Township" .
+<Actor> <common.topic.subject_of> "Jeremy Yablan" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<Viva_La_Bam> <tv.tv_program.regular_cast> "m.0lcm55y" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.012hyqzj" .
+<Film_actor> <freebase.type_profile.strict_included_types> "Topic" .
+<The_Drug_Dealer> <film.film_character.portrayed_in_films> "m.0h2d7zv" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<m.0kx1cfh> <tv.tv_network_duration.program> "Homewrecker" .
+<Film_Producer> <common.topic.image> "head shot of a well-dressed man wearing glasses" .
+<m.0y5c2x8> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Jackass_2.5> <film.film.language> "English Language" .
+<Living_Will…> <film.film.starring> "m.0h26d1h" .
+<Bam's_Unholy_Union> <common.topic.notable_types> "TV Program" .
+<Film_actor> <freebase.type_hints.included_types> "Topic" .
+<Jackass_Number_Two> <film.film.prequel> "Jackass: The Movie" .
+<Jackass_3D> <film.film.personal_appearances> "m.0djykgs" .
+<Education> <type.property.expected_type> "Education" .
+<End_Date> <type.property.expected_type> "Date/Time" .
+<Traffic_collision> <common.topic.webpage> "m.09x6nbg" .
+<Medina> <location.statistical_region.population> "g.11x1fg0v0" .
+<m.0gxmzb8> <film.performance.film> "Living Will…" .
+<m.0gh2ffc> <tv.regular_tv_appearance.actor> "Ryan Dunn" .
+<m.0cvfhz0> <common.webpage.in_index> "Blissful Celebrities" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5bzfq" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<Eugenio_Polgovsky> <people.person.gender> "Male" .
+<m.09ypg_r> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Jane> <tv.tv_character.appeared_in_tv_episodes> "m.09n_m3_" .
+<The_Fall> <film.film.rating> "R (USA)" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<Jackass_Number_Two> <film.film.sequel> "Jackass 3D" .
+<Country_of_nationality> <type.property.expected_type> "Country" .
+<m.09wxk56> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Film_producer> <freebase.type_profile.strict_included_types> "Topic" .
+<Jackass:_The_Movie> <film.film.genre> "Documentary film" .
+<m.0y5c3g4> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0yvfc57> <film.performance.film> "Living Will…" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13zg1" .
+<TV_Personality> <common.topic.article> "m.0dypbx" .
+<Jackass_3D> <film.film.runtime> "m.0glhd9s" .
+<m.09x2mg9> <common.webpage.topic> "Traffic collision" .
+<Film_Producer> <film.film_job.films_with_this_crew_job> "m.0t_j_45" .
+<Jackass_2.5> <media_common.netflix_title.netflix_genres> "Stunts & General Mayhem" .
+<Medina> <location.statistical_region.population> "m.0hlzb2d" .
+<Ryan_Dunn> <tv.tv_actor.guest_roles> "m.09n_m3_" .
+<TV_Program_Creator> <freebase.type_profile.published> "Published" .
+<m.0h2d8cq> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.011k7hb_" .
+<m.0yvdv2l> <film.performance.film> "Living Will…" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0h91f_n" .
+<Ohio> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Ryan_Dunn> <common.topic.webpage> "m.0cq7429" .
+<Living_Will…> <film.film.starring> "m.0h26d22" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c800" .
+<Actor> <people.profession.specializations> "Camgirl" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<Place_of_death> <rdf-schema#domain> "Deceased Person" .
+<Student> <rdf-schema#range> "Person" .
+<m.09x62n3> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Screen_Actors_Guild> <business.trade_union.professions_represented> "Actor" .
+<Living_Will…> <film.film.starring> "m.0yvdv2l" .
+<Medina> <location.hud_foreclosure_area.total_residential_addresses> "m.07dbnpl" .
+<Minghags:_The_Movie> <film.film.starring> "m.04dd015" .
+<Medina> <location.citytown.postal_codes> "44256" .
+<Living_Will…> <film.film.executive_produced_by> "Matt Herzog" .
+<m.09x54kb> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.09yd58k> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Jackass_Number_Two> <media_common.netflix_title.netflix_genres> "Late Night Comedies" .
+<Person> <type.type.properties> "Gender" .
+<Documentary_film> <common.topic.subjects> "Eugenio Polgovsky" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c581" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<m.09yszt1> <common.webpage.topic> "Traffic collision" .
+<Jackass:_The_Movie> <film.film.written_by> "Spike Jonze" .
+<m.0h26cy8> <film.performance.character> "Belcher" .
+<m.09y39g7> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Child_Actor> <people.profession.specialization_of> "Actor" .
+<Ryan_Dunn> <people.person.spouse_s> "m.0t_7kt3" .
+<m.09wvh0m> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Lance_Bangs> <film.cinematographer.film> "g.1216xc5b" .
+<Medina> <location.statistical_region.population> "m.0k6v_nj" .
+<m.0w10cc6> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Actor> <common.topic.image> "Flickr 6130489" .
+<m.0y5c5df> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Traffic_collision> <book.periodical_subject.periodicals> "Accident Analysis & Prevention" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<m.09x5bfw> <common.webpage.topic> "Traffic collision" .
+<m.09x2mg9> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Actor> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Actors" .
+<Medina> <location.hud_county_place.place> "Medina" .
+<m.0w_1t6j> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Ryan_Dunn> <people.person.profession> "TV Personality" .
+<Stunt_Performer> <common.topic.article> "m.01tkr3" .
+<m.0x2kv20> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<Jackass:_The_Movie> <film.film.produced_by> "Johnny Knoxville" .
+<How_Did_That_Get_There> <music.recording.tracks> "How Did That Get There" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.09x6nbg> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0116r92_" .
+<TV_Program_Creator> <freebase.type_hints.included_types> "Topic" .
+<Jackass_3D> <film.film.personal_appearances> "m.0dcxr24" .
+<Jackass_2.5> <media_common.netflix_title.netflix_genres> "Cult Comedies" .
+<Bam's_Unholy_Union> <tv.tv_program.episodes> "Bam's Gone Wild" .
+<Bam's_Unholy_Union> <tv.tv_program.episodes> "The Unholy Union" .
+<m.0y5bzhv> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0h2d80s> <film.performance.actor> "Ryan Dunn" .
+<Jackass> <tv.tv_program.program_creator> "Johnny Knoxville" .
+<m.0dcxr2r> <film.personal_film_appearance.person> "Ryan Dunn" .
+<Jackass_-_Season_3> <tv.tv_series_season.series> "Jackass" .
+<Steve-O:_Out_on_Bail> <common.topic.notable_types> "Film" .
+<Living_Will…> <film.film.starring> "m.0h26cyp" .
+<Spike_Jonze> <film.writer.film> "Jackass Number Two" .
+<Lance_Bangs> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Jackass_3D> <film.film.other_crew> "m.0dcy7kx" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01059w7q" .
+<Kyle_Juszczyk> <people.person.place_of_birth> "Medina" .
+<West_Goshen_Township> <location.statistical_region.population> "m.066gtdr" .
+<m.0y815tc> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.01066r28" .
+<Traffic_collision> <common.topic.webpage> "m.09y0j4t" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r03z" .
+<Film_Producer> <common.topic.subject_of> "Billy Sorrentino" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<Seth_Meisterman> <film.film_art_director.films_art_directed> "Jackass 3D" .
+<Actors'_Equity_Association> <organization.organization.geographic_scope> "United States of America" .
+<TV_Actor> <freebase.type_profile.published> "Published" .
+<TV_Program_Creator> <type.type.properties> "TV programs Created" .
+<Medina> <location.place_with_neighborhoods.neighborhoods> "Fox Meadow Estates" .
+<Jackass:_The_Movie> <film.film.produced_by> "Spike Jonze" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.010g_0js" .
+<Traffic_collision> <event.disaster_type.disasters_of_this_type> "1963 Chualar bus crash" .
+<m.0pdk3r2> <film.film_crew_gig.film_crew_role> "Film Producer" .
+<Film_producer> <freebase.type_profile.equivalent_topic> "Film Producer" .
+<m.04dd015> <film.performance.actor> "Ryan Dunn" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<Jackass:_The_Movie> <film.film.genre> "Comedy" .
+<Spike_Jonze> <people.person.profession> "Actor" .
+<m.09sdsbr> <film.film_film_distributor_relationship.film> "Jackass 3D" .
+<Actor> <people.profession.specializations> "Pornographic film actor" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0z3vx9q" .
+<TV_Actor> <freebase.type_profile.strict_included_types> "Topic" .
+<Homewrecker> <common.topic.webpage> "m.0bx0tt3" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.011nhmrw" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.0_sk8j5> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Ryan_Dunn> <people.person.profession> "Actor" .
+<m.0djykg8> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0t_7kx7> <people.marriage.spouse> "Linda Piscitello" .
+<Film_Producer> <film.film_job.films_with_this_crew_job> "m.0b6xy21" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Ryan_Dunn> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Medina> <location.statistical_region.population> "m.0hlzb1j" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<Medina> <location.statistical_region.population> "g.11x1ccbnk" .
+<Living_Will…> <film.film.starring> "m.0h26cy8" .
+<m.0w1hm0j> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Film_Producer> <people.profession.specializations> "porn producer" .
+<TV_Program_Creator> <freebase.type_profile.kind> "Title" .
+<Bam's_World_Domination> <tv.tv_program.country_of_origin> "United States of America" .
+<Traffic_collision> <law.legal_subject.legal_cases> "Powell v Moody" .
+<m.03l2rth> <common.webpage.category> "Official Website" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c4s9" .
+<m.0t_7kt3> <people.marriage.type_of_union> "Domestic partnership" .
+<Viva_La_Bam> <media_common.netflix_title.netflix_genres> "MTV" .
+<m.012hyqny> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Marta_Martin> <common.topic.notable_types> "Film actor" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Jackass:_The_Movie> <film.film.sequel> "Jackass Number Two" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5bz_p" .
+<m.0r99nzn> <film.film_crew_gig.film_crew_role> "Film Producer" .
+<Ryan_Dunn> <tv.tv_actor.starring_roles> "m.0lrkjj9" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<m.0djykgs> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0y5c4gh> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.03ljth7> <tv.regular_tv_appearance.series> "Homewrecker" .
+<m.0lrkjj9> <tv.regular_tv_appearance.actor> "Ryan Dunn" .
+<Maria_Pitillo> <people.person.gender> "Female" .
+<Deceased_Person> <freebase.type_profile.published> "Published" .
+<Steve-O:_Out_on_Bail> <film.film.genre> "Comedy" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<m.0j_vm89> <tv.tv_regular_personal_appearance.program> "Proving Ground" .
+<m.0y5b_2h> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.09wcwch> <common.webpage.topic> "Traffic collision" .
+<m.0y5c0r2> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Jackass:_The_Movie> <film.film.written_by> "Johnny Knoxville" .
+<Jackass_3D> <film.film.starring> "m.0y5r6yp" .
+<Homewrecker> <tv.tv_program.episodes> "Episode 3" .
+<Film_Producer> <common.topic.webpage> "m.09x288v" .
+<m.0py8mtg> <film.film_cut.film> "Jackass 3D" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.0_z7f9r" .
+<Jackass_2.5> <film.film.directed_by> "Jeff Tremaine" .
+<Homewrecker> <tv.tv_program.episodes> "Episode 4" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<Homewrecker> <tv.tv_program.episodes> "Episode 8" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<Marta_Martin> <people.person.gender> "Female" .
+<Jackass_3D> <film.film.other_crew> "m.0dcy7kd" .
+<Homewrecker> <tv.tv_program.spun_off_from> "Jackass" .
+<Jackass_Number_Two> <media_common.netflix_title.netflix_genres> "Sports Comedies" .
+<m.0yvdn2v> <film.performance.film> "Living Will…" .
+<m.0y5r709> <film.performance.film> "Jackass 3D" .
+<m.0znpr6h> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Linda_Piscitello> <common.topic.notable_types> "Person" .
+<m.0dcxr24> <film.personal_film_appearance.film> "Jackass 3D" .
+<Blonde_Ambition> <common.topic.notable_types> "Film" .
+<m.0y5bzhv> <film.personal_film_appearance.person> "Dimitry Elyashkevich" .
+<Ronald_Dunn> <people.person.children> "Ryan Dunn" .
+<Steve-O> <people.person.profession> "TV Personality" .
+<Steve-O:_Out_on_Bail> <media_common.netflix_title.netflix_genres> "Cult Comedies" .
+<Ronald_Dunn> <people.person.gender> "Male" .
+<m.0jz23q> <film.performance.character> "Ry" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<m.0j_vm89> <tv.tv_regular_personal_appearance.person> "Ryan Dunn" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c64r" .
+<m.0y5c5w2> <film.personal_film_appearance.film> "Jackass 3D" .
+<Film_Producer> <common.topic.subject_of> "Michael Palance" .
+<m.03l2bm7> <common.webpage.category> "Official Website" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.012hyq_q" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Broadcaster> <common.topic.notable_types> "Profession" .
+<Linda_Piscitello> <people.person.spouse_s> "m.0t_7kx7" .
+<Location> <type.type.properties> "People born here" .
+<m.0y5bzhv> <film.personal_film_appearance.film> "Jackass 3D" .
+<Start_Date> <rdf-schema#range> "Date/Time" .
+<Ryan_Dunn> <tv.tv_actor.starring_roles> "m.0lcm55y" .
+<m.0cq7429> <common.webpage.category> "Curated Topic" .
+<Actor> <people.profession.specializations> "Audio Dramatist" .
+<Ryan_Dunn> <freebase.valuenotation.is_reviewed> "Education" .
+<Marta_Martin> <freebase.valuenotation.has_value> "Parents" .
+<Haggard:_The_Movie> <common.topic.notable_types> "Film" .
+<m.0bmsqbp> <tv.regular_tv_appearance.actor> "Ryan Dunn" .
+<Jackass> <tv.tv_program.program_creator> "Jeff Tremaine" .
+<m.0bmsqbp> <tv.regular_tv_appearance.series> "Commando VIP" .
+<Actor> <people.profession.specializations> "Monologist" .
+<Jackass_-_Season_2> <tv.tv_series_season.regular_personal_appearances> "m.0j_pcxl" .
+<Steve-O:_Out_on_Bail> <media_common.netflix_title.netflix_genres> "Comedies" .
+<Medina> <location.statistical_region.population> "g.11x1mhpw_" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<Living_Will…> <film.film.country> "United States of America" .
+<m.0b7m5yl> <film.film_crew_gig.film_crew_role> "Film Producer" .
+<Jackass_Number_Two> <film.film.cinematography> "Rick Kosick" .
+<m.0cvfhz0> <common.webpage.category> "Curated Topic" .
+<Welcome_to_the_Bates_Motel> <film.film.starring> "m.0h2d80s" .
+<Spike_Jonze> <tv.tv_program_creator.programs_created> "Jackass" .
+<Linda_Piscitello> <freebase.valuenotation.has_value> "Place of birth" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<Johnny_Knoxville> <people.person.profession> "Actor" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<m.0j592yj> <film.film_regional_release_date.film> "Living Will…" .
+<m.0y5c39q> <film.personal_film_appearance.film> "Jackass 3D" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<Living_Will…> <film.film.starring> "m.0h26c_x" .
+<TV_Personality> <common.topic.notable_types> "Profession" .
+<How_Did_That_Get_There> <music.recording.releases> "Jackass: The Movie" .
+<Spike_Jonze> <film.producer.film> "g.1216xc5b" .
+<Student> <rdf-schema#domain> "Education" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c06w" .
+<Traffic_collision> <medicine.risk_factor.diseases> "Coup contrecoup injury" .
+<Jackass> <tv.tv_program.languages> "English Language" .
+<MTV> <media_common.netflix_genre.titles> "Jackass" .
+<m.0djykfy> <film.personal_film_appearance.film> "Jackass 3D" .
+<Steve-O:_Out_on_Bail> <film.film.language> "English Language" .
+<m.062xhl6> <film.performance.actor> "Ryan Dunn" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0106506g" .
+<Greg_Paulus> <people.person.place_of_birth> "Medina" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<West_Chester_East_High_School> <education.educational_institution.students_graduates> "m.0105_bj3" .
+<Linda_Piscitello> <freebase.valuenotation.has_value> "Country of nationality" .
+<Jackass_3D> <film.film.distributors> "m.0cmx_x7" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c5df" .
+<m.0h26cy8> <film.performance.film> "Living Will…" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.0108h84r" .
+<Date_of_death> <type.property.schema> "Deceased Person" .
+<m.09x462l> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Medina> <location.statistical_region.population> "g.11x1k0ph_" .
+<Buzz> <film.film_character.portrayed_in_films> "m.02vdcdy" .
+<Actor> <people.profession.represented_by_trade_unions> "Actors' Equity Association" .
+<Jackass_Number_Two> <film.film.genre> "Extreme Sports" .
+<Medina> <location.statistical_region.population> "g.11x1gc879" .
+<m.0y5c6dc> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Person" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<Living_Will…> <film.film.starring> "m.0h26d2p" .
+<m.0dcxr3l> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass:_The_Movie> <film.film.directed_by> "Jeff Tremaine" .
+<Actor> <common.topic.notable_types> "Profession" .
+<m.09w02w1> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.010kj8p7" .
+<TV_Personality> <type.type.domain> "TV" .
+<Close-Up> <common.topic.notable_types> "Film" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<Jackass> <tv.tv_program.regular_personal_appearances> "m.0j_pcxl" .
+<Jackass_2.5> <common.topic.notable_types> "Film" .
+<Jackass_Number_Two> <film.film.produced_by> "Johnny Knoxville" .
+<TV_Personality> <base.descriptive_names.names.descriptive_name> "m.010g7mk4" .
+<Chester_County> <location.location.containedby> "Pennsylvania" .
+<Cash> <film.film_character.portrayed_in_films> "m.062xhl6" .
+<Hamrick_School> <location.location.containedby> "United States of America" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5b_fg" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.0_z7flm" .
+<Jackass:_The_Movie> <media_common.netflix_title.netflix_genres> "Comedy" .
+<m.09xg_s4> <common.webpage.topic> "Traffic collision" .
+<m.0djykfy> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Medina> <location.statistical_region.population> "m.0hlz9_j" .
+<Bam's_World_Domination> <tv.tv_program.regular_cast> "m.0bx2739" .
+<m.062xhl6> <film.performance.film> "Street Dreams" .
+<Jackass> <tv.tv_program.spin_offs> "Homewrecker" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.0_z7f7j" .
+<Actor> <common.topic.subjects> "Bleona" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<United_States_of_America> <location.country.first_level_divisions> "Pennsylvania" .
+<Ryan_Dunn> <film.actor.film> "m.04dd015" .
+<m.0y5b_0_> <film.personal_film_appearance.film> "Jackass 3D" .
+<Seth_Meisterman> <people.person.gender> "Male" .
+<Marta_Martin> <people.person.profession> "Actor" .
+<Marta_Martin> <people.person.place_of_birth> "Medina" .
+<Film_Producer> <common.topic.subjects> "Billy Sorrentino" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Steve-O> <people.person.gender> "Male" .
+<Gumball_3000> <tv.tv_program.country_of_origin> "United States of America" .
+<Jackass_3D> <film.film.country> "United States of America" .
+<Jackass_3D> <film.film.personal_appearances> "m.0dcxr2g" .
+<Film> <freebase.type_profile.published> "Published" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.011jy0y9" .
+<Struck_by_car> <people.cause_of_death.parent_cause_of_death> "Traffic collision" .
+<Gumball_3000> <tv.tv_program.regular_cast> "m.0gh2ffc" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<Medina> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07dbnpc" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c1dt" .
+<m.0dcxr2_> <film.personal_film_appearance.film> "Jackass 3D" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Ryan_Dunn> <common.topic.article> "m.04sdt0" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<m.01105x52> <music.track_contribution.contributor> "Ryan Dunn" .
+<Ronald_Dunn> <common.topic.notable_for> "g.126tr75mc" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c6sl" .
+<Living_Will…> <common.topic.notable_for> "g.125bg9jnk" .
+<Landspeed:_CKY> <film.film.genre> "Comedy" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Single-vehicle accident" .
+<Ryan_Dunn> <freebase.valuenotation.is_reviewed> "Date of death" .
+<m.0y5b_fg> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass_3D> <common.topic.image> "jackass_3.jpg" .
+<m.0h2d7zv> <film.performance.actor> "Ryan Dunn" .
+<TV_Actor> <freebase.type_hints.included_types> "Person" .
+<Medina> <location.statistical_region.population> "g.11x1f3z4x" .
+<Steve-O> <people.person.nationality> "United States of America" .
+<Jackass_3D> <film.film.personal_appearances> "m.0dcxr29" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.010wvs8m" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<m.0dk0kbn> <common.webpage.topic> "Jackass 3D" .
+<Ohio> <location.location.containedby> "United States of America" .
+<m.0rq2xgm> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.0_z7dq7" .
+<Homewrecker> <tv.tv_program.languages> "English Language" .
+<m.0dcxr2g> <film.personal_film_appearance.film> "Jackass 3D" .
+<Close-Up> <film.film.language> "English Language" .
+<Traffic_collision> <common.topic.webpage> "m.09x462l" .
+<Jackass_3D> <film.film.other_crew> "m.0dcy7k0" .
+<m.0y5c4j0> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.062xhl6> <film.performance.character> "Cash" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.010kj8yq" .
+<Ryan_Dunn> <tv.tv_actor.guest_roles> "m.09n_m3j" .
+<Living_Will…> <film.film.cinematography> "Joseph Hennigan" .
+<Normandy_Park> <location.location.containedby> "Ohio" .
+<Living_Will…> <film.film.starring> "m.0yvgv9q" .
+<CKY2K> <film.film.genre> "Action Film" .
+<Traffic_collision> <common.topic.webpage> "m.09wvb4h" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5b_2h" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c5vh" .
+<The_Health_Inspector> <film.film_character.portrayed_in_films> "m.0h2d7_r" .
+<Homewrecker> <tv.tv_program.regular_personal_appearances> "m.0j_vsjh" .
+<Jackass_3D> <film.film.produced_by> "Preston Lacy" .
+<m.0y5r0lv> <film.personal_film_appearance.film> "Jackass 3D" .
+<Booted> <film.film.genre> "Comedy" .
+<Medina> <location.statistical_region.population> "g.11x1lxw97" .
+<Location_of_ceremony> <type.property.expected_type> "Location" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0107yfyq" .
+<Medina> <location.location.people_born_here> "Dennis Dannley" .
+<Jackass> <tv.tv_program.seasons> "Jackass - Season 2" .
+<Date_of_death> <type.property.expected_type> "Date/Time" .
+<Spike_Jonze> <people.person.nationality> "United States of America" .
+<Parents> <type.property.expected_type> "Person" .
+<Viva_La_Bam> <common.topic.notable_types> "TV Program" .
+<m.0j13zvz> <music.music_video_performance.special_music_video_performance_type> "Narrator" .
+<Traffic_collision> <common.topic.webpage> "m.09w02w1" .
+<Film_Producer> <base.schemastaging.context_name.pronunciation> "g.125_mggwp" .
+<Reality_television> <common.topic.subjects> "Billy Sorrentino" .
+<Johnny_Knoxville> <film.person_or_entity_appearing_in_film.films> "m.0dcxr1_" .
+<Ryan_Dunn> <tv.tv_actor.guest_roles> "m.09n_m3v" .
+<m.09xw1hs> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.0b492_7> <common.webpage.topic> "Film Producer" .
+<Jackass_3D> <film.film.release_date_s> "m.0j568j5" .
+<m.09wz39w> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.0t_7kt3> <people.marriage.spouse> "Angie Cuturic" .
+<m.0djykh9> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass_2.5> <media_common.netflix_title.netflix_genres> "Comedies" .
+<m.0y5c4gh> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0y5c5bn> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Viva_La_Bam> <tv.tv_program.country_of_origin> "United States of America" .
+<m.0y5c36t> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0y5c3xk> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.010km078" .
+<Jackass_3D> <film.film.genre> "Comedy" .
+<m.0h26cyp> <film.performance.actor> "April Scott" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01076mh8" .
+<Ryan_Dunn> <people.person.nationality> "United States of America" .
+<Lance_Bangs> <people.person.profession> "Film Producer" .
+<Person> <type.type.properties> "Country of nationality" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0bg7kq6" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x4zfq" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c4gh" .
+<Homewrecker> <tv.tv_program.genre> "Reality television" .
+<Haggard:_The_Movie> <media_common.netflix_title.netflix_genres> "Comedies" .
+<West_Goshen_Township> <location.statistical_region.population> "m.066gtf3" .
+<Student> <type.property.schema> "Education" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<Ronald_Dunn> <freebase.valuenotation.has_value> "Country of nationality" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Female" .
+<Traffic_collision> <common.topic.webpage> "m.09wxk56" .
+<CKY2K> <film.film.genre> "Documentary film" .
+<m.0h4yg47> <film.film_cut.film> "Living Will…" .
+<Traffic_collision> <common.topic.webpage> "m.09yd58k" .
+<Traffic_collision> <common.topic.image> "A truck crash." .
+<m.09n_m3_> <tv.tv_guest_role.actor> "Ryan Dunn" .
+<Film_actor> <freebase.type_hints.included_types> "Person" .
+<Film_Producer> <base.lightweight.profession.specialization_of> "Producers and Directors" .
+<Jackass_3D> <film.film.personal_appearances> "m.0dcxr3l" .
+<Traffic_collision> <base.firsts.achievement.firsts> "m.0g9jxyf" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0_sk85k" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<m.0y5r0ws> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Film_Producer> <common.topic.article> "m.01d_hk" .
+<Steve-O> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<West_Goshen_Township> <location.statistical_region.population> "m.066gtf9" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<m.0130zrdt> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Traffic_collision> <common.topic.webpage> "m.09xg_s4" .
+<Welcome_to_the_Bates_Motel> <common.topic.notable_types> "Film" .
+<Medina> <location.location.people_born_here> "Brent E. Huffman" .
+<m.0j13zg1> <music.music_video_performance.special_music_video_performance_type> "Him/Herself" .
+<West_Goshen_Township> <location.location.containedby> "Chester County" .
+<TV_Personality> <freebase.equivalent_topic.equivalent_type> "TV Personality" .
+<A_Halfway_House_Christmas> <film.film.genre> "Comedy" .
+<m.09xldkc> <common.webpage.topic> "Traffic collision" .
+<m.0ggbz4_> <film.film_cut.film> "Jackass 3D" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0svq1x2" .
+<Jackass_Number_Two> <film.film.written_by> "Johnny Knoxville" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0101339f" .
+<CKY2K> <film.film.country> "United States of America" .
+<Johnny_Knoxville> <people.person.profession> "Voice Actor" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0hgtcbw" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c7tj" .
+<m.0b47lwj> <common.webpage.topic> "Traffic collision" .
+<Medina> <common.topic.webpage> "m.03l2bm7" .
+<Actor> <people.profession.represented_by_trade_unions> "South Indian Film Artistes' Association" .
+<m.07wzlf_> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<m.0y5c7tj> <film.personal_film_appearance.film> "Jackass 3D" .
+<Brecksville> <location.location.containedby> "Ohio" .
+<Actor> <common.topic.subject_of> "Chris Free" .
+<Medina> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07dbnp1" .
+<Medina> <location.location.contains> "Normandy Park" .
+<m.0h2d8c4> <film.personal_film_appearance.person> "Ryan Dunn" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<Actor> <people.profession.represented_by_trade_unions> "Canadian Actors' Equity Association" .
+<Jackass_3D> <film.film.genre> "Documentary film" .
+<m.0y5c68s> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c6rd" .
+<m.09x02cn> <common.webpage.topic> "Traffic collision" .
+<Stunt_Performer> <people.profession.specializations> "Stage combat" .
+<Johnny_Knoxville> <people.person.nationality> "United States of America" .
+<Blonde_Ambition> <media_common.netflix_title.netflix_genres> "Comedies" .
+<Medina> <location.statistical_region.population> "g.11x1dp398" .
+<Homewrecker> <tv.tv_program.episodes> "Season 1, Episode 6" .
+<Medina> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07dbnnk" .
+<Pistotnik_Law_Offices> <business.business_location.parent_company> "Pistotnik Law Offices" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<Homewrecker> <tv.tv_program.episodes> "Season 1, Episode 7" .
+<m.0h2d8d2> <film.personal_film_appearance.film> "Jackass: The Movie" .
+<m.0h2d8cq> <film.personal_film_appearance.person> "Ryan Dunn" .
+<m.09445wy> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "injuries suffered in a car accident" .
+<Program_creator> <type.property.schema> "TV Program" .
+<m.0dcxr1_> <film.personal_film_appearance.person> "Johnny Knoxville" .
+<TV_Personality> <freebase.type_profile.published> "Published" .
+<Ryan_Dunn> <film.actor.film> "m.062xhl6" .
+<Hooper> <common.topic.notable_types> "Film" .
+<m.0105_bj3> <education.education.student> "Ryan Dunn" .
+<Date_of_birth> <type.property.schema> "Person" .
+<Minghags:_The_Movie> <film.film.language> "English Language" .
+<m.0y5c4s9> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.05z09nh> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Chester_County> <location.location.time_zones> "Eastern Time Zone" .
+<Jackass_3D> <film.film.personal_appearances> "m.0djykg8" .
+<m.0h2d7zv> <film.performance.film> "Close-Up" .
+<m.09n_m3_> <tv.tv_guest_role.episodes_appeared_in> "Passion" .
+<Jackass> <tv.tv_program.seasons> "Jackass - Season 3" .
+<Medina_County_Career_Center> <location.location.containedby> "Medina" .
+<m.0h26dfj> <film.film_cut.film> "Living Will…" .
+<m.0lcm55y> <tv.regular_tv_appearance.series> "Viva La Bam" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01188fdq" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0109n_mn" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01076m3w" .
+<Ryan_Dunn> <film.actor.film> "m.0svz8g8" .
+<m.09x40sb> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Ryan_Dunn> <people.person.profession> "Stunt Performer" .
+<TV_Personality> <freebase.type_profile.equivalent_topic> "TV Personality" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.01066q_9" .
+<Place_of_birth> <type.property.reverse_property> "People born here" .
+<Homewrecker> <tv.tv_program.episodes> "Episode 5" .
+<Medina_County_Career_Center> <location.location.containedby> "United States of America" .
+<m.09n_m3v> <tv.tv_guest_role.actor> "Ryan Dunn" .
+<Jackass_Number_Two> <film.film.language> "English Language" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_vkgyr" .
+<Ryan_Dunn> <people.person.places_lived> "m.03pjkr0" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.0108h7_0" .
+<m.0w2wj6w> <film.film_crew_gig.film_crew_role> "Film Producer" .
+<m.0yvf_6d> <film.performance.film> "Living Will…" .
+<Film_Producer> <common.topic.webpage> "m.09y39g7" .
+<Jackass_Number_Two> <film.film.genre> "Comedy" .
+<Actor> <common.topic.subject_of> "Inessa Kraft" .
+<m.0y5c6rd> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Jackass:_The_Movie> <film.film.rating> "R (USA)" .
+<m.0djykgs> <film.personal_film_appearance.film> "Jackass 3D" .
+<Medina> <location.statistical_region.population> "m.0jtdr0j" .
+<TV_Personality> <base.descriptive_names.names.descriptive_name> "m.0106hrtj" .
+<Jackassworld.com:_24_Hour_Takeover> <common.topic.notable_types> "TV Program" .
+<Education> <rdf-schema#range> "Education" .
+<MA$TADON> <common.topic.subject_of> "Film Producer" .
+<Ryan_Dunn> <tv.tv_personality.tv_regular_appearances> "m.0j_vm89" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.012hyqz9" .
+<Start_Date> <rdf-schema#domain> "Education" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.010b148v" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r6fb" .
+<Haggard:_The_Movie> <media_common.netflix_title.netflix_genres> "Comedy" .
+<Traffic_collision> <people.cause_of_death.parent_cause_of_death> "Assassination by 'Accident'" .
+<m.0h2d8cj> <film.personal_film_appearance.film> "Jackass Number Two" .
+<m.0dcxr35> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Jackass_Number_Two> <film.film.genre> "Bloopers & Candid Camera" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.0_z7dzd" .
+<m.09wwyq1> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Jackass:_The_Movie> <film.film.production_companies> "Paramount Pictures" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.0106bql1" .
+<m.0bx2739> <tv.regular_tv_appearance.actor> "Ryan Dunn" .
+<m.0_sk85k> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Him/Herself> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13zg1" .
+<TV_Program_Creator> <freebase.type_profile.equivalent_topic> "Television creator" .
+<Living_Will…> <film.film.starring> "m.0h26czp" .
+<Jackass:_The_Movie> <media_common.adaptation.adapted_from> "Jackass" .
+<Angie_Cuturic> <common.topic.notable_types> "Person" .
+<Angie_Cuturic> <people.person.gender> "Female" .
+<Commando_VIP> <common.topic.notable_types> "TV Program" .
+<Living_Will…> <film.film.starring> "m.0yvg85k" .
+<Country_of_nationality> <rdf-schema#domain> "Person" .
+<Traffic_collision> <common.topic.webpage> "m.09wpzs0" .
+<Johnny_Knoxville> <film.producer.film> "Jackass Number Two" .
+<m.09xxsk0> <common.webpage.topic> "Traffic collision" .
+<Jackass_3D> <film.film.film_set_decoration_by> "Mike Kassak" .
+<m.0j_ty8v> <tv.tv_regular_personal_appearance.person> "Ryan Dunn" .
+<Traffic_collision> <common.topic.notable_types> "Cause Of Death" .
+<TV_Program> <type.type.domain> "TV" .
+<Actor> <business.job_title.people_with_this_title> "m.012yds03" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<Traffic_collision> <common.topic.webpage> "m.0b46hb0" .
+<m.09x40sb> <common.webpage.topic> "Film Producer" .
+<Jackass_3D> <film.film.release_date_s> "m.0djyhz1" .
+<West_Goshen_Township> <location.statistical_region.population> "m.066gtfh" .
+<Angie_Cuturic> <people.person.profession> "Actor" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c12w" .
+<m.0y5c64r> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.09wvz3t> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Actor> <award.award_discipline.awards_in_this_discipline> "Golden Globe Award for Best Actress – Motion Picture – Musical or Comedy" .
+<m.09sdsbr> <film.film_film_distributor_relationship.distributor> "Paramount Pictures" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<Jackass_3D> <film.film.runtime> "m.0ggbz4_" .
+<Viva_La_Bam> <freebase.valuenotation.is_reviewed> "Program creator" .
+<Steve-O:_Out_on_Bail> <media_common.netflix_title.netflix_genres> "Comedy" .
+<Education> <type.property.schema> "Person" .
+<m.012yds03> <business.employment_tenure.title> "Actor" .
+<m.0b47qdp> <common.webpage.topic> "Film Producer" .
+<Medina> <location.location.containedby> "Medina County" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<Jackassworld.com:_24_Hour_Takeover> <tv.tv_program.regular_cast> "m.0gy3n6q" .
+<m.011sdz17> <music.music_video_gig.music_video_crew_production_role> "Film Producer" .
+<TV_Program_Creator> <base.descriptive_names.names.descriptive_name> "m.011qyftr" .
+<Traffic_collision> <common.topic.webpage> "m.0b46kdx" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.0_z7dw3" .
+<End_Date> <rdf-schema#domain> "Education" .
+<Minghags:_The_Movie> <film.film.genre> "Comedy" .
+<Booted> <film.film.country> "United States of America" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.01066r4k" .
+<m.0dcxr2g> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Street_Dreams> <film.film.genre> "Sports films" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Jackass_3D> <film.film.executive_produced_by> "Derek Freda" .
+<Film_Producer> <fictional_universe.character_occupation.characters_with_this_occupation> "John Milton" .
+<Seth_Meisterman> <film.film_art_director.films_art_directed> "g.1216xc5b" .
+<Maria_Pitillo> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0h2d7_r> <film.performance.character> "The Health Inspector" .
+<m.09n_m3c> <tv.tv_guest_role.actor> "Ryan Dunn" .
+<Medina> <base.wikipedia_infobox.settlement.area_code> "Area codes 234 and 330" .
+<Medina> <location.statistical_region.population> "g.11x1dstqr" .
+<m.0gw6dxs> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0107yfxs" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Medina> <location.location.nearby_airports> "Medina Municipal Airport" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0y815tc" .
+<m.0y5r07k> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Train wreck" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0svpt1y" .
+<Landspeed:_CKY> <film.film.country> "United States of America" .
+<Jackass_Number_Two> <media_common.netflix_title.netflix_genres> "Stunts & General Mayhem" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<Jackass_3D> <film.film.rating> "R (USA)" .
+<Jackass_3D> <film.film.cinematography> "Rick Kosick" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<m.0h26cz2> <film.performance.film> "Living Will…" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Pennsylvania" .
+<m.0cq7429> <common.webpage.in_index> "Blissful Celebrities" .
+<Gumball_3000> <tv.tv_program.genre> "Sports films" .
+<TV_Personality> <base.descriptive_names.names.descriptive_name> "m.0106hw5_" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0105b1n7" .
+<Traffic_collision> <common.topic.webpage> "m.09xt70d" .
+<Maria_Pitillo> <freebase.valuenotation.is_reviewed> "Gender" .
+<Film_Producer> <common.topic.subjects> "Michael Palance" .
+<m.0h2d7_c> <film.performance.film> "Blonde Ambition" .
+<Gumball_3000> <common.topic.notable_types> "TV Program" .
+<Traffic_collision> <common.topic.webpage> "m.09w0hnt" .
+<Place_of_death> <type.property.expected_type> "Location" .
+<m.0y5c2x8> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0b47n53> <common.webpage.topic> "Traffic collision" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0ng_m4p> <film.personal_film_appearance.film> "Jackass 3D" .
+<Proving_Ground> <tv.tv_program.country_of_origin> "United States of America" .
+<Actor> <common.topic.subjects> "Randy M. Roberts" .
+<Viva_La_Bam> <tv.tv_program.genre> "Reality television" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<m.0y5c5s8> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Jackass_3D> <film.film.film_art_direction_by> "Seth Meisterman" .
+<Welcome_to_the_Bates_Motel> <film.film.country> "United States of America" .
+<m.0h26cyp> <film.performance.film> "Living Will…" .
+<Living_Will…> <common.topic.article> "m.0h26cbt" .
+<m.0y5c6xn> <film.personal_film_appearance.film> "Jackass 3D" .
+<Medina_Public_Square_Historic_District> <location.location.containedby> "Medina" .
+<Jackass_Number_Two> <film.film.genre> "Sports films" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0109n_4j" .
+<m.09y459y> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Country> <freebase.type_hints.included_types> "Location" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0105yptg" .
+<m.0j13zg1> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<Stunt_Performer> <fictional_universe.character_occupation.characters_with_this_occupation> "Longshot" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.011jy102" .
+<m.0h26d1h> <film.performance.film> "Living Will…" .
+<m.0jvw1_g> <location.administrative_division_capital_relationship.capital> "Medina" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Pennsylvania" .
+<m.0y5c6sl> <film.personal_film_appearance.film> "Jackass 3D" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0j2yzh2" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01012_9f" .
+<m.0h2d7_r> <film.performance.film> "Booted" .
+<m.0gcl7rv> <film.film_cut.film> "Jackass 3D" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.012hyqny" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.09w0536> <common.webpage.topic> "Traffic collision" .
+<Johnny_Knoxville> <freebase.valuenotation.is_reviewed> "Gender" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<m.0t_7kx7> <freebase.valuenotation.has_value> "Location of ceremony" .
+<Film_Producer> <music.music_video_job.music_videos_with_this_crew_job> "m.011sdz17" .
+<Location_of_ceremony> <rdf-schema#range> "Location" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<The_Fall> <common.topic.notable_types> "Film" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<m.0y5r0sx> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Traffic_collision> <common.topic.webpage> "m.09x54kb" .
+<Medina> <location.statistical_region.population> "m.0hlzb19" .
+<Actor> <book.book_subject.works> "Little Me: The Intimate Memoirs of That Great Star of Stage, Screen, & Television, Belle Poitrine" .
+<Brecksville> <location.hud_county_place.place> "Brecksville" .
+<Steve-O:_Out_on_Bail> <media_common.netflix_title.netflix_genres> "Sports Comedies" .
+<m.0h7j2wd> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Ryan_Dunn> <people.person.education> "m.0105_bj3" .
+<Blonde_Ambition> <film.film.genre> "Comedy" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<m.0y5r0pj> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Johnny_Knoxville> <people.person.profession> "Film Producer" .
+<m.0lrkjj9> <tv.regular_tv_appearance.series> "Camp Kill Yourself (CKY)" .
+<Film_producer> <freebase.type_profile.kind> "Title" .
+<Hooper> <film.film.language> "English Language" .
+<Pennsylvania> <location.location.containedby> "United States of America" .
+<m.0djykh9> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Spike_Jonze> <freebase.valuenotation.is_reviewed> "Gender" .
+<Date_of_birth> <rdf-schema#domain> "Person" .
+<m.0djykh0> <film.personal_film_appearance.film> "Jackass 3D" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.0106bs0c" .
+<Living_Will…> <film.film.starring> "m.0yvfl7q" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x4zdr" .
+<Homewrecker> <tv.tv_program.episodes> "Episode 7" .
+<Traffic_collision> <common.topic.webpage> "m.0b47lwj" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.010130bs" .
+<Actor> <people.profession.represented_by_trade_unions> "Equity" .
+<Normandy_Park> <location.neighborhood.neighborhood_of> "Medina" .
+<m.0j13zvz> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<m.0svq1x2> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Medina> <location.location.people_born_here> "Kenny Kaminski" .
+<Jackass_3D> <film.film.produced_by> "Jeff Tremaine" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<m.0y5bz_p> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c1d1" .
+<Living_Will…> <film.film.produced_by> "Ryan Dunn" .
+<m.09wvb4h> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.012j2kr8" .
+<m.0wj_x0z> <people.place_lived.location> "Brecksville" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Actor> <common.topic.subjects> "Jeremy Yablan" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0105ytpr" .
+<Medina> <location.statistical_region.population> "g.11x1fbsgs" .
+<Medina> <location.hud_foreclosure_area.hhuniv> "m.07dbnn7" .
+<m.0y5bzy_> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Medina> <location.location.people_born_here> "Greg Paulus" .
+<Ryan_Dunn> <tv.tv_actor.starring_roles> "m.0khw68v" .
+<Jackass> <tv.tv_program.genre> "Comedy" .
+<Ryan_Dunn> <people.person.parents> "Ronald Dunn" .
+<m.0h71680> <film.film_crew_gig.film_crew_role> "Film Producer" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.0y5r0sx> <film.personal_film_appearance.film> "Jackass 3D" .
+<Greg_Paulus> <people.person.nationality> "United States of America" .
+<Spike_Jonze> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Jackass_Number_Two> <film.film.production_companies> "MTV" .
+<Country> <freebase.type_profile.published> "Published" .
+<Jackass_3D> <film.film.distributors> "m.09sdsbr" .
+<West_Goshen_Township> <common.topic.article> "m.0zrs8" .
+<Johnny_Knoxville> <people.person.profession> "Stunt Performer" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<Memories> <music.recording.contributions> "m.01105x52" .
+<Game_Show_Host> <people.profession.specialization_of> "TV Personality" .
+<m.09ysckk> <common.webpage.topic> "Traffic collision" .
+<TV_Program> <type.type.properties> "Program creator" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.011skj14" .
+<m.0t_7kt3> <freebase.valuenotation.has_no_value> "Location of ceremony" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<Golden_Globe_Award_for_Best_Actress_–_Motion_Picture_–_Drama> <award.award_category.disciplines_or_subjects> "Actor" .
+<m.0svpt1y> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Film> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0y5c06w> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<Jackass_3D> <film.film.film_casting_director> "Mia Levinson" .
+<Ryan_Dunn> <tv.tv_actor.starring_roles> "m.0bx2739" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0h7j2wd" .
+<Child_Actor> <common.topic.notable_types> "Profession" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0_x50vv" .
+<Film_Producer> <common.topic.subject_of> "Sydney Film School" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5bzd6" .
+<m.0djykgh> <film.personal_film_appearance.film> "Jackass 3D" .
+<Homewrecker> <tv.tv_program.regular_cast> "m.03ljth7" .
+<m.0j14xl5> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<Medina> <location.statistical_region.population> "m.0hlz9zm" .
+<TV_Personality> <base.descriptive_names.names.descriptive_name> "m.0106hqv_" .
+<Stunt_Performer> <people.profession.specialization_of> "Actor" .
+<m.0yvgjh5> <film.performance.film> "Living Will…" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.012hyqyx" .
+<Film_Producer> <common.topic.notable_for> "g.125969_2p" .
+<Place_of_birth> <type.property.expected_type> "Location" .
+<Actor> <people.profession.specializations> "Stunt Performer" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<Fox_Meadow_Estates> <location.location.containedby> "Medina County" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0x2kv20" .
+<m.0kx1cfh> <tv.tv_network_duration.network> "MTV" .
+<m.09yb0k9> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.0h2d8d2> <film.personal_film_appearance.person> "Ryan Dunn" .
+<A_Halfway_House_Christmas> <film.film.language> "English Language" .
+<m.0h2d8cb> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Living_Will…> <film.film.starring> "m.0h26d0h" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c1j0" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0rq2xgm" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0101339t" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c6v1" .
+<Steve-O:_Out_on_Bail> <film.film.country> "United States of America" .
+<Medina> <location.location.people_born_here> "Joshua Kobak" .
+<Linda_Piscitello> <freebase.valuenotation.has_value> "Date of birth" .
+<m.0y5c1d1> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.03pjkr0> <people.place_lived.location> "Pennsylvania" .
+<m.09wvh0m> <common.webpage.topic> "Traffic collision" .
+<m.0y5c7hw> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Jackass:_The_Movie> <film.film.genre> "Action Film" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01076q2m" .
+<Jackass:_The_Movie> <film.film.language> "English Language" .
+<Ryan_Dunn> <tv.tv_actor.guest_roles> "m.05nvf2m" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0w10c9h" .
+<m.0x1qw04> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Helicopter crash" .
+<m.0y5c1w1> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Medina> <location.statistical_region.population> "m.0hlz9_r" .
+<Jackass_3D> <film.film.genre> "Action Film" .
+<m.0dcy7kd> <film.film_crew_gig.film> "Jackass 3D" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<m.0h2d8cq> <film.personal_film_appearance.film> "CKY2K" .
+<m.09y459y> <common.webpage.topic> "Traffic collision" .
+<Traffic_collision> <common.topic.webpage> "m.09wz39w" .
+<Traffic_collision> <event.disaster_type.disasters_of_this_type> "Suez bus crash" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c6dc" .
+<Medina> <common.topic.article> "m.0y_fs" .
+<m.09x1rdd> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<Commando_VIP> <tv.tv_program.regular_cast> "m.0bmsqbp" .
+<Actor> <people.profession.specializations> "Suit actor" .
+<West_Goshen_Township> <common.topic.notable_for> "g.125f2_l4x" .
+<Living_Will…> <film.film.starring> "m.0yvf_6d" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.01066rvv" .
+<Jackass_3D> <film.film.genre> "Extreme Sports" .
+<Medina> <location.location.people_born_here> "William G. Batchelder" .
+<m.0w10c9h> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Medina> <location.location.geolocation> "m.0kg1d2" .
+<m.0y5c1xk> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.0y5c0vr> <film.personal_film_appearance.film> "Jackass 3D" .
+<Landspeed:_CKY> <film.film.language> "English Language" .
+<Jackass_Number_Two> <film.film.personal_appearances> "m.0h2d8cj" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0130zrdt" .
+<Homewrecker> <tv.tv_program.episodes> "Episode 2" .
+<Ryan_Dunn> <tv.tv_actor.guest_roles> "m.09n_m3c" .
+<Jackass> <tv.tv_program.program_creator> "Spike Jonze" .
+<m.0y5c64r> <film.personal_film_appearance.film> "Jackass 3D" .
+<A_Halfway_House_Christmas> <media_common.netflix_title.netflix_genres> "Comedy" .
+<m.0y5c5vh> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Jackass:_The_Movie> <media_common.netflix_title.netflix_genres> "Stunts & General Mayhem" .
+<Stunt_Performer> <common.topic.notable_for> "g.125fqhndb" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Track crash" .
+<Stunt_Performer> <fictional_universe.character_occupation.characters_with_this_occupation> "Super Dave Osborne" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.0106b652" .
+<TV_Personality> <fictional_universe.character_occupation.characters_with_this_occupation> "Misa Amane" .
+<Jackass_3D> <film.film.personal_appearances> "m.0djykfy" .
+<m.0gz4xkp> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<Viva_La_Bam> <tv.tv_program.regular_personal_appearances> "m.0j_ty8v" .
+<Jackass_3D> <film.film.release_date_s> "m.0j58z9d" .
+<m.0y5r0xm> <film.personal_film_appearance.film> "Jackass 3D" .
+<Jackass_3D> <film.film.other_crew> "m.0dcy7l8" .
+<m.0z3vx9q> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<m.01105x52> <music.track_contribution.role> "Vocals" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<Traffic_collision> <common.topic.article> "m.07cwbpc" .
+<Close-Up> <film.film.starring> "m.0h2d7zv" .
+<m.0y5r6fb> <film.personal_film_appearance.film> "Jackass 3D" .
+<m.09xw1hs> <common.webpage.topic> "Traffic collision" .
+<Film_Producer> <common.topic.webpage> "m.09x40sb" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0znpr5t" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.0_z7fl0" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<Him/Herself> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13_2t" .
+<Ohio> <location.administrative_division.country> "United States of America" .
+<Medina> <location.location.people_born_here> "Kyle Juszczyk" .
+<m.0dcy7jx> <film.film_crew_gig.film> "Jackass 3D" .
+<TV_Program> <freebase.type_profile.published> "Published" .
+<Ryan_Dunn> <film.actor.film> "m.0h2d7_c" .
+<Ronald_Dunn> <freebase.valuenotation.has_value> "Place of birth" .
+<m.09wyg7f> <common.webpage.topic> "Traffic collision" .
+<Jackass> <media_common.netflix_title.netflix_genres> "MTV" .
+<Film_Producer> <award.award_discipline.awards_in_this_discipline> "Producer of the Year - JRL Gay Adult Film Awards" .
+<m.0y5c1w1> <film.personal_film_appearance.film> "Jackass 3D" .
+<Ryan_Dunn> <people.person.places_lived> "m.0wj_x0z" .
+<m.05nvf2m> <tv.tv_guest_role.episodes_appeared_in> "Jesus, Mary and Joe Cocker" .
+<Actor> <people.profession.specializations> "Spokesperson" .
+<Camp_Kill_Yourself_(CKY)> <tv.tv_program.genre> "Documentary film" .
+<Medina> <location.statistical_region.population> "m.0hlzb0v" .
+<Medina> <common.topic.notable_for> "g.125dkxdgl" .
+<m.0y5bzsp> <film.personal_film_appearance.film> "Jackass 3D" .
+<Steve-O:_Out_on_Bail> <film.film.genre> "Sports films" .
+<m.0b6xy21> <film.film_crew_gig.film_crew_role> "Film Producer" .
+<m.09xg_s4> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Film_Producer> <common.topic.subject_of> "Fabio Mayor" .
+<Country_of_nationality> <rdf-schema#range> "Country" .
+<Steve-O:_Out_on_Bail> <media_common.netflix_title.netflix_genres> "Stunts & General Mayhem" .
+<TV_Personality> <freebase.type_hints.included_types> "Topic" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.010h527m" .
+<Jackass:_The_Movie> <film.film.production_companies> "MTV" .
+<Lance_Bangs> <people.person.nationality> "United States of America" .
+<Living_Will…> <film.film.genre> "Comedy" .
+<m.0z3wcr4> <music.music_video_performance.special_music_video_performance_type> "Actor" .
+<m.0y5r0pj> <film.personal_film_appearance.film> "Jackass 3D" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0109n_yw" .
+<m.0djykgh> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.09x288v> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<m.0y5bzd6> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Jackass_3D> <common.topic.image> "Jackass 3d" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c5w2" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.country> "United States of America" .
+<Homewrecker> <tv.tv_program.original_network> "m.0kx1cfh" .
+<m.012hyqz9> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Jackass_3D> <film.film.genre> "Bloopers & Candid Camera" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c39q" .
+<m.0wj_x0z> <people.place_lived.person> "Ryan Dunn" .
+<Traffic_collision> <common.topic.webpage> "m.09ypg_r" .
+<m.09xt70d> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Medina_County> <location.us_county.hud_county_place> "Medina" .
+<m.0y5r0xm> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Traffic_collision> <common.topic.webpage> "m.09xxsk0" .
+<Ryan_Dunn> <music.artist.track> "How Did That Get There" .
+<Film_Producer> <film.film_job.films_with_this_crew_job> "m.0qz7y00" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01188g3h" .
+<TV_Program_Creator> <common.topic.article> "m.07jpw_1" .
+<John_Milton> <fictional_universe.fictional_character.occupation> "Film Producer" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Ohio" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c36t" .
+<Actor> <business.job_title.people_with_this_title> "m.012sb5xr" .
+<Stunt_Performer> <film.film_job.films_with_this_crew_job> "m.0w_1t6j" .
+<Steve-O> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Street_Dreams> <film.film.country> "United States of America" .
+<Medina> <location.statistical_region.population> "g.11x1d4np2" .
+<Jackass_3D> <film.film.film_production_design_by> "James Peter Blackmon" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01012_t1" .
+<Haggard:_The_Movie> <film.film.sequel> "Minghags: The Movie" .
+<Memories> <common.topic.notable_types> "Musical Recording" .
+<Actor> <base.events.type_of_performance.performances_of_this_type> "m.064tkhd" .
+<m.0y5r03z> <film.personal_film_appearance.film> "Jackass 3D" .
+<Film_Producer> <film.film_job.films_with_this_crew_job> "m.0pdk3r2" .
+<Medina_County> <location.location.containedby> "Ohio" .
+<TV_Personality> <people.profession.specializations> "Game Show Host" .
+<Program_creator> <type.property.expected_type> "TV Program Creator" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.01076phh" .
+<m.04dd015> <film.performance.character> "Tucker" .
+<Film_Producer> <base.descriptive_names.names.descriptive_name> "m.0106bs1m" .
+<Program_creator> <rdf-schema#range> "TV Program Creator" .
+<m.09x5gqd> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Viva_La_Bam> <media_common.netflix_title.netflix_genres> "Reality television" .
+<m.0gy3n6q> <tv.regular_tv_appearance.actor> "Ryan Dunn" .
+<m.0y5c1dt> <film.personal_film_appearance.film> "Jackass 3D" .
+<Spike_Jonze> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Traffic_collision> <common.topic.webpage> "m.09wvz3t" .
+<m.05nvf2m> <tv.tv_guest_role.actor> "Ryan Dunn" .
+<m.0djykh0> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0105yxhj" .
+<Linda_Piscitello> <freebase.valuenotation.has_value> "Parents" .
+<m.09yszt1> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Jackass:_The_Movie> <film.film.country> "United States of America" .
+<m.09x0c47> <common.webpage.topic> "Traffic collision" .
+<Medina_Public_Square_Historic_District> <location.location.containedby> "Ohio" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.0_z7f2t" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0j13_2t" .
+<Steve-O> <film.producer.film> "Jackass 3D" .
+<Viva_La_Bam> <tv.tv_program.spun_off_from> "Jackass" .
+<Medina> <location.statistical_region.population> "g.11x1f63qg" .
+<Hooper> <film.film.country> "United States of America" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.0105ysz7" .
+<Traffic_collision> <common.topic.image> "Img0a36" .
+<Jackass_Number_Two> <film.film.cinematography> "Lance Bangs" .
+<Jackass:_The_Movie> <media_common.netflix_title.netflix_genres> "Cult Comedies" .
+<Model> <common.topic.notable_types> "Profession" .
+<Ohio> <base.locations.states_and_provences.country> "United States of America" .
+<m.0y5bzw0> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0y5bz_p> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Traffic_collision> <common.topic.webpage> "m.09ysckk" .
+<m.0djyhz1> <film.film_regional_release_date.film_release_region> "United States of America" .
+<Traffic_collision> <people.cause_of_death.includes_causes_of_death> "Struck by cable car" .
+<m.09445wy> <common.webpage.topic> "Ryan Dunn" .
+<Model> <people.profession.specialization_of> "Performer" .
+<m.0jz23q> <film.performance.actor> "Ryan Dunn" .
+<Steve-O> <freebase.valuenotation.is_reviewed> "Gender" .
+<Traffic_collision> <common.topic.subject_of> "Pistotnik Law Offices" .
+<m.09xzypw> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5c1xk" .
+<Film_Producer> <film.film_job.films_with_this_crew_job> "m.0w2wj7h" .
+<Steve-O:_Out_on_Bail> <film.film.genre> "Documentary film" .
+<m.0105_bj3> <freebase.valuenotation.has_value> "Start Date" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<m.012j2kr8> <film.film_crew_gig.film_crew_role> "Stunt Performer" .
+<Actor> <common.topic.subject_of> "Michael Palance" .
+<Actor> <common.topic.article> "m.0jkp" .
+<m.0y5bz_p> <film.personal_film_appearance.person> "Jeff Tremaine" .
+<Living_Will…> <film.film.other_crew> "m.0h26dhf" .
+<m.0dcxr2_> <film.personal_film_appearance.person> "Preston Lacy" .
+<m.0y5c28s> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0y5c5w2> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Film_Producer> <award.award_discipline.awards_in_this_discipline> "Polish Academy Award for Best Producer" .
+<Traffic_collision> <common.topic.webpage> "m.09x1rdd" .
+<Female> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Actor> <base.descriptive_names.names.descriptive_name> "m.010131rf" .
+<Actor> <music.special_music_video_performance_type.special_music_video_performances> "m.0gw6dxs" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<Stunt_Performer> <base.descriptive_names.names.descriptive_name> "m.0_z7fj6" .
+<m.09ypg_r> <common.webpage.topic> "Traffic collision" .
+<m.0y5c4s9> <film.personal_film_appearance.film> "Jackass 3D" .
+<Stunt_Performer> <film.film_subject.films> "The Great Waldo Pepper" .
+<Jackass_3D> <film.film.personal_appearances> "m.0y5r07k" .
+<Living_Will…> <film.film.starring> "m.0yvf70w" .
+<TV_Personality> <base.descriptive_names.names.descriptive_name> "m.010gfm23" .
+<Actor> <people.profession.specializations> "Extra" .
+<Parents> <rdf-schema#range> "Person" .

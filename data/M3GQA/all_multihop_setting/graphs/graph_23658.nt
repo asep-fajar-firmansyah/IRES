@@ -1,0 +1,1366 @@
+<Washington> <book.book_subject.works> "50 hikes in Mount Rainier National Park" .
+<Columbia_River> <location.location.partially_containedby> "British Columbia" .
+<British_Columbia> <base.aareas.schema.administrative_area.administrative_parent> "Canada" .
+<Washington> <book.book_subject.works> "Five days that shook the world" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1l8" .
+<m.04j8hdc> <government.government_position_held.governmental_body> "Washington House of Representatives" .
+<m.04j8hdx> <government.government_position_held.district_represented> "Washington" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgn0" .
+<Bridge> <freebase.type_profile.kind> "Definition" .
+<Beverly_Railroad_Bridge> <common.topic.article> "m.047mwcx" .
+<Washington> <organization.organization_scope.organizations_with_this_scope> "Gibney Family Foundation Inc" .
+<Clatsop_County> <location.location.containedby> "Oregon" .
+<m.012vl78c> <business.employment_tenure.company> "Washington" .
+<Washington> <government.governmental_jurisdiction.government_bodies> "Washington House of Representatives" .
+<Banks_Lake_South> <location.location.time_zones> "Pacific Time Zone" .
+<Snake_River> <location.location.partially_contained_by> "m.0wg96vz" .
+<Northwest_Gateway,_The_Story_of_the_Port_of_Seattle> <book.written_work.subjects> "Washington" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Washington> <book.book_subject.works> "100 Hikes in Washington's North Cascades National Park Region, Second Edition" .
+<CRHOME> <organization.organization.geographic_scope> "Oregon" .
+<m.012vl6zn> <business.employment_tenure.company> "Washington" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.0nclj8n" .
+<Capital_Press> <book.newspaper.circulation_areas> "Oregon" .
+<Jackson_Branch_Bridge_No._15> <common.topic.notable_types> "Structure" .
+<Washington> <location.location.partially_contains> "Columbia River" .
+<Phillips_Law_Firm> <organization.organization.place_founded> "Washington" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgpx" .
+<Grant_County> <location.location.adjoin_s> "m.03jpqlx" .
+<Secretary_of_State_of_Washington> <government.government_office_or_title.jurisdiction> "Washington" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1jy" .
+<Columbia_River> <common.topic.article> "m.01n8h" .
+<British_Columbia> <organization.organization_scope.organizations_with_this_scope> "B'nai B'rith District Grand Lodge 4" .
+<m.0nclj8n> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Banks_Lake_South> <location.location.containedby> "Washington" .
+<Ulysses_S._Grant> <symbols.name_source.namesakes> "Grant County" .
+<Pacific_Northwest> <location.location.contains> "Snake River" .
+<m.0wg96gx> <location.partial_containment_relationship.partially_contains> "Columbia River" .
+<Canada> <location.location.partially_contains> "Pend Oreille River" .
+<m.04j8hdx> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Grant_County> <location.statistical_region.population> "g.11x1knd15" .
+<Wilson_Creek> <location.hud_county_place.place> "Wilson Creek" .
+<Clearance_Below> <rdf-schema#domain> "Bridge" .
+<Longview> <location.hud_county_place.place> "Longview" .
+<Grant_County> <location.us_county.hud_section_8_area> "Grant County, WA HUD Section 8 Area" .
+<Skamania_County> <location.location.containedby> "Washington" .
+<Columbia_River> <geography.body_of_water.bridges> "Senator George Sellar Bridge" .
+<m.0wg96wm> <location.partial_containment_relationship.partially_contains> "Similkameen River" .
+<Olympia> <base.biblioness.bibs_location.state> "Washington" .
+<River> <freebase.type_hints.included_types> "Location" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.0_lxxg0" .
+<Okanogan_River> <location.location.partially_containedby> "United States of America" .
+<Bridge> <freebase.type_hints.included_types> "Location" .
+<Columbia_River> <geography.river.cities> "Revelstoke" .
+<Capital> <type.property.expected_type> "City/Town/Village" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.0nclj8n" .
+<m.09qn7ww> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Washington> <location.location.contains_major_portion_of> "Hanging Lake" .
+<Ephrata> <location.location.containedby> "Grant County" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgpn" .
+<Total_Length> <rdf-schema#domain> "Bridge" .
+<Washington> <government.political_district.representatives> "m.09qn96c" .
+<US_State> <freebase.type_hints.included_types> "Location" .
+<Grant_County> <location.statistical_region.co2_emissions_industrial> "m.045kh66" .
+<Rites_of_Passage> <book.written_work.subjects> "Washington" .
+<Layton_Bridge> <common.topic.notable_types> "Bridge" .
+<Cascade_Valley> <location.location.containedby> "Grant County" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1ml" .
+<Grant_County> <location.us_county.hud_county_place> "Lakeview" .
+<Washington> <location.location.events> "2014 Washington state wildfires" .
+<Bandera_State_Airport> <aviation.airport.serves> "Washington" .
+<Pend_Oreille_River> <location.location.partially_containedby> "Canada" .
+<Grant_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgns" .
+<m.0wg96w9> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<Voyage_of_a_Summer_Sun> <book.written_work.subjects> "Washington" .
+<Washington> <book.book_subject.works> "The House of a Million Pets" .
+<Vancouver> <location.location.time_zones> "Pacific Time Zone" .
+<Grant_County> <location.statistical_region.co2_emissions_total> "m.045hdjk" .
+<Phillips_Law_Firm> <organization.organization.geographic_scope> "Washington" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgq0" .
+<Washington> <location.location.containedby> "West Coast of the United States" .
+<British_Columbia> <base.biblioness.bibs_location.country> "Canada" .
+<Washington> <book.book_subject.works> "100 Classic Hikes in Washington" .
+<US_Notary_Public_Association> <organization.organization.geographic_scope> "United States of America" .
+<Grant_County> <location.us_county.county_seat> "Ephrata" .
+<Bridge> <type.type.properties> "Locale" .
+<Oregon> <common.topic.notable_types> "US State" .
+<Hartline> <common.topic.notable_types> "City/Town/Village" .
+<Desert_Aire> <location.location.containedby> "Washington" .
+<Washington> <travel.travel_destination.tourist_attractions> "Olympic National Park" .
+<Washington> <common.topic.webpage> "m.09w_hh9" .
+<Columbia_River> <common.topic.image> "Corps-engineers-archives bonneville dam looking east" .
+<Quincy> <common.topic.notable_types> "City/Town/Village" .
+<Grant_County> <location.statistical_region.population> "g.12b023sr3" .
+<m.04jtgms> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Washington_Supreme_Court> <law.court.jurisdiction> "Washington" .
+<Columbia_River> <geography.body_of_water.bridges> "Vantage Bridge" .
+<Pacific_States> <location.location.contains> "Oregon" .
+<Portland> <location.location.containedby> "United States of America" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgn0" .
+<m.0hz8_x5> <location.location_symbol_relationship.administrative_division> "Washington" .
+<Grant_County> <location.statistical_region.population> "m.0jtktsx" .
+<United_States_of_America> <base.locations.countries.continent> "North America" .
+<Oregon> <location.location.partially_contains> "Snake River" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.0nbygn9" .
+<m.09qm_ld> <government.government_position_held.district_represented> "Washington" .
+<Spokane_River> <geography.river.mouth> "Columbia River" .
+<Beverly,_Washington> <location.location.containedby> "99321" .
+<Truss_bridge> <architecture.architectural_style.examples> "Layton Bridge" .
+<Quincy> <location.location.containedby> "Washington" .
+<Columbia_River> <geography.river.mouth> "Clatsop County" .
+<Washington> <periodicals.newspaper_circulation_area.newspapers> "Soy Source" .
+<Skagit_River> <location.location.partially_containedby> "Canada" .
+<m.09wyst4> <common.webpage.topic> "Washington" .
+<Washington> <common.topic.webpage> "m.09xwkvh" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1m4" .
+<Washington> <location.administrative_division.capital> "m.0jvw4sc" .
+<Coulee_City> <location.hud_county_place.county> "Grant County" .
+<Grant_County> <location.statistical_region.population> "g.12b01q548" .
+<Beverly_Railroad_Bridge> <location.location.geolocation> "m.06zxft4" .
+<Grande_Ronde_River> <location.location.partially_containedby> "Washington" .
+<m.04jtgpj> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<m.04jtgns> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Washington> <government.political_district.representatives> "m.09qn5rz" .
+<Columbia_River> <location.location.partially_contained_by> "m.0wg98gw" .
+<Washington> <government.governmental_jurisdiction.agencies> "Washington State Public Stadium Authority" .
+<Washington_State_Senate> <government.governmental_body.jurisdiction> "Washington" .
+<Mattawa> <location.hud_county_place.place> "Mattawa" .
+<Washington> <book.book_subject.works> "One Hundred Hikes in Washington's North Cascades Glacier Peak Region" .
+<Adams_County> <periodicals.newspaper_circulation_area.newspapers> "Columbia Basin Herald" .
+<Washington_State_Legislature> <government.governmental_body.component_bodies> "Washington State Senate" .
+<Washington> <location.location.partially_contains> "Grande Ronde River" .
+<Grant_County> <location.statistical_region.co2_emissions_commercial> "m.045jcrd" .
+<Cascade_Range> <location.location.containedby> "North America" .
+<Osoyoos_Lake> <location.location.partially_containedby> "British Columbia" .
+<Olympic_National_Park> <base.usnationalparks.us_national_park.state> "Washington" .
+<Grant_County> <periodicals.newspaper_circulation_area.newspapers> "Grant County Journal" .
+<m.0wg9481> <location.partial_containment_relationship.partially_contains> "Columbia River" .
+<Washington> <periodicals.newspaper_circulation_area.newspapers> "JTNews" .
+<m.05h8jvg> <protected_sites.natural_or_cultural_site_listing.designation> "National Register of Historic Places" .
+<Moses_Lake_North> <location.location.containedby> "Washington" .
+<Moses_Lake> <location.hud_county_place.county> "Grant County" .
+<m.0jvvsh9> <location.administrative_division_capital_relationship.capital> "Ephrata" .
+<m.09w1nwt> <common.webpage.topic> "Washington" .
+<Longview> <location.location.time_zones> "Pacific Time Zone" .
+<Truss_bridge> <architecture.architectural_style.examples> "Jackson Branch Bridge No. 15" .
+<Grant_County> <common.topic.notable_types> "US County" .
+<US_State> <freebase.type_profile.published> "Published" .
+<100_Classic_Hikes_in_Washington> <book.written_work.subjects> "Washington" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgpj" .
+<Clatsop_County> <base.aareas.schema.administrative_area.administrative_parent> "Oregon" .
+<m.09w6xhh> <common.webpage.topic> "Washington" .
+<United_States_of_America> <location.location.time_zones> "Pacific Time Zone" .
+<Pacific_County> <location.location.containedby> "United States of America" .
+<Oregon> <organization.organization_scope.organizations_with_this_scope> "US Notary Public Association" .
+<Grant_County> <location.statistical_region.population> "g.11x1kw8w9" .
+<Washington> <location.location.adjoin_s> "m.046csj8" .
+<m.09y20lm> <common.webpage.topic> "Washington" .
+<Washington> <organization.organization_scope.organizations_with_this_scope> "CRHOME" .
+<Washington> <film.film_location.featured_in_films> "Motherland" .
+<m.0wg9481> <location.partial_containment_relationship.partially_contained_by> "Canada" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1j1" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1lh" .
+<British_Columbia> <location.location.adjoin_s> "m.02xhfj8" .
+<Oregon> <location.location.containedby> "United States of America" .
+<Mattawa> <location.location.containedby> "Grant County" .
+<Ephrata> <common.topic.notable_types> "City/Town/Village" .
+<United_States,_with_Territories> <location.country.first_level_divisions> "United States of America" .
+<m.04jtgn8> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<m.0wg96x5> <location.partial_containment_relationship.partially_contains> "Columbia River" .
+<m.09qn6ss> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<m.046csj8> <location.adjoining_relationship.adjoins> "Pacific Ocean" .
+<Washington> <base.scubadiving.ecoregion.contained_by> "Cold Temperate Northeast Pacific" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.011lyjfx" .
+<Best_Hikes_With_Children_in_Western_Washington_and_the_Cascades> <book.written_work.subjects> "Washington" .
+<Columbia_Lake> <location.location.containedby> "British Columbia" .
+<Soap_Lake> <location.hud_county_place.place> "Soap Lake" .
+<Hartline> <location.location.time_zones> "Pacific Time Zone" .
+<m.011lyjfx> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Columbia_River> <geography.body_of_water.bridges> "Kettle Falls Bridges" .
+<Snake_River> <location.location.partially_containedby> "Oregon" .
+<m.02tg2wy> <location.adjoining_relationship.adjoins> "Oregon" .
+<Washington> <government.political_district.representatives> "m.09qn0pp" .
+<m.04stkfg> <location.location_symbol_relationship.administrative_division> "Washington" .
+<Bridge_Type> <owl#inverseOf> "Bridges of this type" .
+<m.09w_hh9> <common.webpage.topic> "Washington" .
+<Washington> <common.topic.notable_for> "g.1256mxqnp" .
+<Vancouver> <base.biblioness.bibs_location.country> "United States of America" .
+<Washington> <common.topic.webpage> "m.09x5qwp" .
+<Grant_County> <location.location.adjoin_s> "m.03jrp88" .
+<Oregon> <periodicals.newspaper_circulation_area.newspapers> "Capital Press" .
+<Interstate_Bridge> <location.location.containedby> "Vancouver" .
+<Adams_County> <periodicals.newspaper_circulation_area.newspapers> "Odessa Record" .
+<Washington> <location.us_state.capital> "Olympia" .
+<Lakeview> <location.location.containedby> "Grant County" .
+<m.09qn0pp> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Waltz_Road-Huron_River_Bridge> <architecture.structure.architectural_style> "Truss bridge" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgpx" .
+<m.070b36q> <location.cotermination.location> "Grant County" .
+<Grant_County> <location.us_county.hud_county_place> "Soap Lake" .
+<Revelstoke> <location.location.time_zones> "Pacific Time Zone" .
+<Washington> <location.location.events> "Washington State Senate election, 2014" .
+<m.09qn208> <government.government_position_held.district_represented> "Washington" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.0ncr0fm" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1lq" .
+<Snake_River> <geography.river.basin_countries> "United States of America" .
+<Grant_County> <location.us_county.hud_county_place> "Hartline" .
+<m.09qn0d7> <government.government_position_held.district_represented> "Washington" .
+<Jackson_Branch_Bridge_No._15> <architecture.structure.architectural_style> "Truss bridge" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1nr" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgnn" .
+<Skamania_County> <location.location.time_zones> "Pacific Time Zone" .
+<Grant_County> <location.statistical_region.population> "g.11x1kyl74" .
+<Tri-Cities> <common.topic.notable_types> "City/Town/Village" .
+<m.09qm_z8> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Kettle_River> <location.location.partially_contained_by> "m.0wg96wg" .
+<m.09xwkvh> <common.webpage.topic> "Washington" .
+<Washington> <government.governmental_jurisdiction.agencies> "Washington State Higher Education Coordinating Board" .
+<Columbia_River> <geography.body_of_water.bridges> "Pasco–Kennewick Bridge" .
+<Olympia> <location.location.containedby> "Washington" .
+<Washington> <book.book_subject.works> "Converting the West" .
+<Pacific_States> <location.location.contains> "Washington" .
+<Moving_Washington_Timeline> <book.written_work.subjects> "United States of America" .
+<Grant_County> <location.statistical_region.population> "g.12b020bpq" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1ly" .
+<Washington> <common.topic.webpage> "m.09wl4wf" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<Canada> <location.location.partially_contains> "Similkameen River" .
+<Washington> <government.governmental_jurisdiction.government_positions> "Secretary of State of Washington" .
+<m.04jtgps> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Clearance_Below> <type.property.schema> "Bridge" .
+<m.0_db179> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<m.09qn3bz> <government.government_position_held.district_represented> "Washington" .
+<Structure> <freebase.type_profile.strict_included_types> "Location" .
+<Washington> <government.governmental_jurisdiction.official_symbols> "m.04st6nz" .
+<Columbia_River> <location.location.partially_contained_by> "m.0wg96gx" .
+<m.09qn3pj> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Similkameen_River> <location.location.partially_containedby> "United States of America" .
+<Grant_County> <location.us_county.hud_county_place> "Cascade Valley" .
+<Clatsop_County> <common.topic.notable_types> "US County" .
+<Snake_River> <location.location.time_zones> "Pacific Time Zone" .
+<100_Classic_Hikes_in_Washington> <book.written_work.subjects> "United States of America" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04j8hdc" .
+<Canada> <location.location.time_zones> "Pacific Time Zone" .
+<m.09qn4pv> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<m.09qn7hf> <government.government_position_held.district_represented> "Washington" .
+<Body_Of_Water_Spanned> <rdf-schema#domain> "Bridge" .
+<Bridge> <type.type.expected_by> "Bridges of this type" .
+<Double-Span_Metal_Pratt_Truss_Bridge> <architecture.structure.architectural_style> "Truss bridge" .
+<Grant_County> <location.us_county.hud_county_place> "Coulee City" .
+<Washington> <government.governmental_jurisdiction.agencies> "Washington Toll Bridge Authority" .
+<Washington> <location.location.partially_contains> "Skagit River" .
+<m.0wg96xq> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<Area> <rdf-schema#domain> "Location" .
+<Oregon> <location.location.partially_contains> "Cascade Range" .
+<Wilson_Pratt_Truss_Bridge> <common.topic.notable_types> "Bridge" .
+<Washington> <base.aareas.schema.administrative_area.administrative_children> "Pacific County" .
+<m.0wg96vf> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<Pacific_County> <common.topic.notable_types> "US County" .
+<Truss_bridge> <architecture.architectural_style.examples> "Hanover Bridge" .
+<Motherland> <film.film.featured_film_locations> "Washington" .
+<Oregon> <base.locations.states_and_provences.country> "United States of America" .
+<Pacific_County> <base.aareas.schema.administrative_area.administrative_parent> "Washington" .
+<Cascade_Range> <location.location.partially_containedby> "Washington" .
+<m.0q2lbm4> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Grande_Ronde_River> <location.location.partially_containedby> "Oregon" .
+<Washington> <law.court_jurisdiction_area.courts> "Washington Supreme Court" .
+<Washington> <base.aliens.ufo_sighting_location.ufo_sighting_s> "Kenneth Arnold UFO encounter" .
+<Palouse_River> <location.location.partially_contained_by> "m.0wg96xq" .
+<Washington> <common.topic.webpage> "m.09xg_g9" .
+<Washington> <government.political_district.representatives> "m.09qn5cf" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Washington" .
+<Washington> <location.location.partiallycontains> "m.0wg96vl" .
+<George> <location.hud_county_place.county> "Grant County" .
+<Washington_State_Legislature> <government.governmental_body.component_bodies> "Washington House of Representatives" .
+<Washington> <military.military_unit_place_of_origin.military_units> "1st Regiment Washington Territory Volunteer Infantry" .
+<Grant_County> <location.statistical_region.population> "g.11x1f21fm" .
+<The_House_of_a_Million_Pets> <book.written_work.subjects> "Washington" .
+<George> <location.location.time_zones> "Pacific Time Zone" .
+<Columbia_River> <location.location.partially_containedby> "United States of America" .
+<Columbia_River> <geography.body_of_water.bridges> "Bridge of the Gods" .
+<Washington> <common.topic.notable_types> "US State" .
+<m.0wg96vz> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<m.09qn2xq> <government.government_position_held.district_represented> "Washington" .
+<Washington> <government.governmental_jurisdiction.agencies> "Washington State Department of Archaeology and Historic Preservation" .
+<Gibney_Family_Foundation_Inc> <organization.organization.geographic_scope> "Oregon" .
+<United_States_of_America> <location.location.partially_contains> "Columbia River" .
+<m.09w103v> <common.webpage.topic> "Washington" .
+<Best_Hikes_With_Kids> <book.written_work.subjects> "Washington" .
+<Kettle_River> <geography.river.mouth> "Columbia River" .
+<Washington> <book.book_subject.works> "Roads to Trails Northwest Washington" .
+<Best_Hikes_With_Children_in_Western_Washington_and_the_Cascades> <book.written_work.subjects> "United States of America" .
+<Adams_County> <location.location.adjoin_s> "m.03jrp88" .
+<Moses_Lake> <location.location.containedby> "Grant County" .
+<Pend_Oreille_River> <location.location.partially_contained_by> "m.0wg96vl" .
+<Skagit_River> <location.location.partially_contained_by> "m.0wrkx2k" .
+<Washington> <government.political_district.representatives> "m.09qn3pj" .
+<Columbia_River> <geography.body_of_water.bridges> "Glenn L. Jackson Memorial Bridge" .
+<Portland> <base.biblioness.bibs_location.country> "United States of America" .
+<Grant_County> <location.statistical_region.population> "g.11x1j6d7x" .
+<Hartline> <location.hud_county_place.county> "Grant County" .
+<Spokane_River> <location.location.partially_containedby> "Washington" .
+<US_County> <freebase.type_hints.included_types> "Location" .
+<Cascade_Range> <location.location.partially_containedby> "United States of America" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgp4" .
+<Oregon> <base.biblioness.bibs_location.country> "United States of America" .
+<m.09qn9vh> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Oregon> <location.location.partiallycontains> "m.0wg98gw" .
+<United_States_of_America> <location.location.partially_contains> "Similkameen River" .
+<Mattawa> <location.hud_county_place.county> "Grant County" .
+<m.04jtgmd> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<m.09qn0yx> <government.government_position_held.district_represented> "Washington" .
+<Bridges> <owl#inverseOf> "Body Of Water Spanned" .
+<Washington> <wine.wine_region.wines> "2005 Cadence \'Coda\' Red Mountain Cabernet Sauvignon" .
+<Washington> <common.topic.webpage> "m.09w17k_" .
+<m.0_tmsf9> <government.government_position_held.governmental_body> "Washington House of Representatives" .
+<Al-Hayat> <book.newspaper.circulation_areas> "Washington" .
+<Washington> <book.book_subject.works> "55 Hikes Around Snoqualmie Pass" .
+<Longview> <location.location.containedby> "Washington" .
+<Cascade_Range> <location.location.partially_contained_by> "m.0wg96vs" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgmx" .
+<Grant_County> <location.statistical_region.population> "g.11x1ktf5c" .
+<Portland> <location.location.containedby> "Oregon" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Beverly_Railroad_Bridge> <common.topic.notable_types> "Bridge" .
+<Washington> <wine.wine_region.wines> "2005 Chaz Point Columbia Valley Cabernet Sauvignon" .
+<m.09wl4wf> <common.webpage.topic> "Washington" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.0_db179" .
+<Revelstoke> <common.topic.notable_types> "City/Town/Village" .
+<French_Consulate_General,_San_Francisco> <government.government_agency.jurisdiction> "Oregon" .
+<Ephrata> <location.location.containedby> "Washington" .
+<Columbia_River> <geography.body_of_water.bridges> "The Dalles Bridge" .
+<Cascade_Range> <location.location.partially_containedby> "British Columbia" .
+<Quincy> <location.location.containedby> "Grant County" .
+<Krupp> <location.location.containedby> "Grant County" .
+<m.03jrh0p> <location.adjoining_relationship.adjoins> "Grant County" .
+<Washington> <location.location.partially_contains> "Cascade Range" .
+<Washington> <location.location.partiallycontains> "m.0wg96vs" .
+<Washington> <periodicals.newspaper_circulation_area.newspapers> "The Herald" .
+<Grant_County> <location.us_county.hud_county_place> "Grant County / County Place 5302599999" .
+<Washington> <government.political_district.representatives> "m.09qn208" .
+<Washington> <location.location.partiallycontains> "m.0wrkx2k" .
+<Oregon> <location.location.containedby> "United States, with Territories" .
+<Washington> <periodicals.newspaper_circulation_area.newspapers> "Al-Hayat" .
+<Bridge> <freebase.type_hints.included_types> "Structure" .
+<Washington> <government.political_district.representatives> "m.04j8hdx" .
+<Washington> <government.governmental_jurisdiction.agencies> "Washington State Department of Information Services" .
+<Washington> <location.location.events> "United States Senate elections, 2006" .
+<Winter_Brothers> <book.written_work.subjects> "Washington" .
+<Washington> <government.governmental_jurisdiction.official_symbols> "m.04l0nvf" .
+<Washington> <common.topic.webpage> "m.0gmjzby" .
+<Washington> <base.aareas.schema.administrative_area.capital> "Olympia" .
+<m.0_lxxg0> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Grant_County> <location.statistical_region.population> "g.12b01tk0f" .
+<m.0jvvsh9> <location.administrative_division_capital_relationship.administrative_division> "Grant County" .
+<m.09qn4pv> <government.government_position_held.district_represented> "Washington" .
+<m.03jrp88> <location.adjoining_relationship.adjoins> "Grant County" .
+<Washington> <book.book_subject.works> "Frequencies" .
+<Bridges> <type.property.reverse_property> "Body Of Water Spanned" .
+<Grant_County> <location.us_county.hud_county_place> "Grant County / Coulee Dam town" .
+<m.04jtgpx> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Columbia_River> <common.topic.notable_for> "g.1258h35ws" .
+<m.03jpqlx> <location.adjoining_relationship.adjoins> "Grant County" .
+<Palouse_River> <geography.river.mouth> "Snake River" .
+<Washington> <common.topic.webpage> "m.09x3hf0" .
+<Washington_State_Senate> <government.governmental_body.members> "m.0_db179" .
+<French_Consulate_General,_San_Francisco> <government.government_agency.jurisdiction> "Washington" .
+<Grant_County> <location.statistical_region.co2_emissions_residential> "m.045jsl2" .
+<US_State> <freebase.type_profile.strict_included_types> "Topic" .
+<Structure> <freebase.type_profile.published> "Published" .
+<Kettle_River> <location.location.partially_containedby> "Canada" .
+<Interstate_Bridge> <transportation.bridge.locale> "Portland" .
+<Washington> <book.book_subject.works> "The measure of a mountain" .
+<Grant_County> <location.statistical_region.population> "g.11x1jchlp" .
+<Washington> <base.charities.geographic_scope.charities> "Washington Student Math Association" .
+<Washington> <periodicals.newspaper_circulation_area.newspapers> "The Seattle Times" .
+<Mark_Taylor> <organization.organization.geographic_scope> "Washington" .
+<m.02tg34k> <location.adjoining_relationship.adjoins> "Washington" .
+<m.0nbvf08> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<m.09xrfm9> <common.webpage.topic> "Washington" .
+<British_Columbia> <location.location.time_zones> "Pacific Time Zone" .
+<m.04jtgp8> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1n2" .
+<Washington> <government.governmental_jurisdiction.official_symbols> "m.0hz8_x5" .
+<United_States_of_America> <location.location.partially_contains> "Pend Oreille River" .
+<100_Classic_Hikes_in_Washington> <book.written_work.subjects> "North America" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1kc" .
+<River> <freebase.type_profile.published> "Published" .
+<Washington> <location.location.partially_contains> "Kettle River" .
+<Grant_County> <location.statistical_region.population> "g.11x1kc531" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1n9" .
+<British_Columbia> <location.administrative_division.first_level_division_of> "Canada" .
+<Washington_House_of_Representatives> <government.governmental_body.body_this_is_a_component_of> "Washington State Legislature" .
+<Washington> <location.location.events> "National Cherry Blossom Festival" .
+<Oregon> <location.location.time_zones> "Pacific Time Zone" .
+<Grant_County> <location.statistical_region.population> "g.11x1mdgcc" .
+<Burlington_Northern_Railroad_Bridge_9.6> <common.topic.notable_types> "Bridge" .
+<m.0wg940_> <location.partial_containment_relationship.partially_contained_by> "United States of America" .
+<Columbia_River> <common.topic.image> "Columbia" .
+<m.03jq0f_> <location.adjoining_relationship.adjoins> "Grant County" .
+<Pacific_County> <location.location.containedby> "Washington" .
+<m.04jtgpn> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Grant_County> <location.statistical_region.rent50_2> "m.05gglpc" .
+<Waxwings> <book.written_work.subjects> "Washington" .
+<Truss_bridge> <architecture.architectural_style.examples> "Dodd Ford Bridge" .
+<Beverly,_Washington> <location.citytown.postal_codes> "99321" .
+<m.04jtgpn> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Longview> <location.location.contains> "Lewis and Clark Bridge" .
+<Capital> <rdf-schema#range> "City/Town/Village" .
+<Grande_Ronde_River> <location.location.partially_contained_by> "m.0wg96w9" .
+<Bridge_Type> <rdf-schema#domain> "Bridge" .
+<Warden> <common.topic.notable_types> "City/Town/Village" .
+<m.02xhfj8> <location.adjoining_relationship.adjoins> "British Columbia" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1j8" .
+<m.09qn3bz> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Lookouts> <book.written_work.subjects> "United States of America" .
+<m.09y23zk> <common.webpage.topic> "Columbia River" .
+<United_States_of_America> <location.location.partially_containedby> "North America" .
+<Olympia> <common.topic.notable_types> "City/Town/Village" .
+<Motherland> <film.film.country> "United States of America" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1pm" .
+<m.09qn2bv> <government.government_position_held.district_represented> "Washington" .
+<m.0wg96wg> <location.partial_containment_relationship.partially_contains> "Kettle River" .
+<British_Columbia> <location.location.partially_contains> "Osoyoos Lake" .
+<Contiguous_United_States> <location.location.containedby> "North America" .
+<Skagit_River> <common.topic.notable_types> "River" .
+<Location> <type.type.properties> "Area" .
+<Adams_County> <common.topic.notable_types> "US County" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgps" .
+<m.09xrpkb> <common.webpage.topic> "Washington" .
+<m.0ydf9wm> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<Washington> <book.book_subject.works> "Walking the beach to Bellingham" .
+<Washington> <location.location.events> "Fish Wars" .
+<Truss_bridge> <base.schemastaging.context_name.pronunciation> "g.125_kmc5p" .
+<55_Hikes_Around_Stevens_Pass> <book.written_work.subjects> "United States of America" .
+<Columbia_Lake> <location.location.containedby> "Canada" .
+<Coulee_City> <location.hud_county_place.place> "Coulee City" .
+<Snake_River> <common.topic.notable_types> "River" .
+<m.09x39gy> <common.webpage.topic> "Washington" .
+<Columbia_River> <travel.travel_destination.tourist_attractions> "Columbia River Gorge" .
+<Washington_Student_Math_Association> <base.charities.charity.geographic_scope> "Washington" .
+<Washington> <location.administrative_division.country> "United States of America" .
+<Truss_bridge> <architecture.architectural_style.examples> "Wilson Pratt Truss Bridge" .
+<Lookouts> <book.written_work.subjects> "Washington" .
+<US_State> <freebase.type_hints.included_types> "Topic" .
+<Washington> <location.location.events> "Ted Bundy Murders" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1mc" .
+<United_States_of_America> <location.country.first_level_divisions> "Oregon" .
+<Coulee_City> <location.location.containedby> "Grant County" .
+<Washington> <wine.wine_region.wines> "2007 Poet's Leap Riesling" .
+<US_County> <freebase.type_profile.published> "Published" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgn4" .
+<Grande_Ronde_River> <common.topic.notable_types> "River" .
+<Washington> <common.topic.article> "m.081z5" .
+<Snake_River> <geography.river.mouth> "Columbia River" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgp0" .
+<m.09qn9vh> <government.government_position_held.district_represented> "Washington" .
+<Washington> <location.location.containedby> "United States of America" .
+<Warden> <location.location.containedby> "Washington" .
+<Cascade_Valley> <location.location.time_zones> "Pacific Time Zone" .
+<Vancouver> <location.hud_county_place.place> "Vancouver" .
+<Coulee_City> <location.location.containedby> "Washington" .
+<US_Notary_Public_Association> <organization.organization.geographic_scope> "Oregon" .
+<Grant_County> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07ftnbc" .
+<Grant_County> <location.statistical_region.population> "g.11x1fmjqp" .
+<United_States_of_America> <location.location.primarily_containedby> "North America" .
+<Columbia_River> <geography.river.origin> "Columbia Lake" .
+<Beverly_Railroad_Bridge> <transportation.bridge.locale> "Beverly, Washington" .
+<Truss_bridge> <architecture.architectural_style.examples> "South Dakota Department of Transportation Bridge No. 02-007-220" .
+<m.04jtgmn> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Royal_City> <location.hud_county_place.county> "Grant County" .
+<m.04jtgnx> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Grant_County> <location.statistical_region.population> "m.0jtc8p0" .
+<m.09qn470> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Grand_Coulee> <common.topic.notable_types> "City/Town/Village" .
+<Washington> <government.governmental_jurisdiction.agencies> "Washington State Patrol" .
+<Oregon> <location.location.containedby> "Pacific States" .
+<Ephrata> <location.hud_county_place.county> "Grant County" .
+<Adams_County> <base.aareas.schema.administrative_area.administrative_parent> "Washington" .
+<m.04jtgp4> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Columbia_River> <location.location.partially_containedby> "Canada" .
+<Desert_Aire> <location.location.time_zones> "Pacific Time Zone" .
+<Krupp> <location.hud_county_place.place> "Krupp" .
+<Washington> <wine.wine_region.wines> "2004 Quilceda Creek Columbia Valley Cabernet Sauvignon" .
+<Spokane_River> <location.location.containedby> "United States of America" .
+<Columbia_River_Gorge> <travel.tourist_attraction.near_travel_destination> "Columbia River" .
+<Best_Hikes_With_Kids> <book.written_work.subjects> "United States of America" .
+<Palouse_River> <location.location.partially_containedby> "Washington" .
+<Beverly_Railroad_Bridge> <transportation.bridge.body_of_water_spanned> "Columbia River" .
+<m.04jtgpd> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<m.04jtgp4> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<m.04jtgmj> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Grant_County> <location.statistical_region.population> "g.11x1jj27r" .
+<Washington> <location.location.adjoin_s> "m.02tg34k" .
+<Grant_County> <location.statistical_region.population> "g.12b023sr1" .
+<Governor_of_Washington> <government.government_office_or_title.jurisdiction> "Washington" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1nz" .
+<m.0wg96wg> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<Washington> <government.governmental_jurisdiction.official_symbols> "m.04st89d" .
+<Electric_City> <common.topic.notable_types> "City/Town/Village" .
+<Grant_County> <common.topic.image> "Map of Washington highlighting Grant County" .
+<Soap_Lake> <common.topic.notable_types> "City/Town/Village" .
+<Pacific_Ocean> <location.location.adjoin_s> "m.046csj8" .
+<Glenn_L._Jackson_Memorial_Bridge> <transportation.bridge.body_of_water_spanned> "Columbia River" .
+<m.0nclj8n> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Washington> <location.location.partiallycontains> "m.0wg96w9" .
+<Royal_City> <common.topic.notable_types> "City/Town/Village" .
+<Canada> <location.location.partially_contains> "Okanogan River" .
+<Washington> <common.topic.webpage> "m.09w103v" .
+<Adams_County> <location.location.containedby> "Washington" .
+<m.010fm9tb> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Pacific_Northwest> <book.book_subject.works> "The Canoe and the Saddle" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgn4" .
+<West_Coast_of_the_United_States> <location.location.contains> "Oregon" .
+<Columbia_River> <location.location.partially_containedby> "Skamania County" .
+<Prairie_Dog_Creek_Bridge> <common.topic.notable_types> "Bridge" .
+<Washington_State_Senate> <government.governmental_body.body_this_is_a_component_of> "Washington State Legislature" .
+<m.0wg96wm> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<Oregon> <location.location.containedby> "West Coast of the United States" .
+<Bridge> <freebase.type_profile.strict_included_types> "Location" .
+<m.0wg96w3> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<Canada> <base.aareas.schema.administrative_area.administrative_children> "British Columbia" .
+<Longview> <location.location.containedby> "United States of America" .
+<Washington> <business.employer.employees> "m.012vl6zn" .
+<m.0jsppfm> <symbols.flag_use.flag_user> "Washington" .
+<Okanogan_River> <location.location.partially_containedby> "British Columbia" .
+<Columbia_River> <common.topic.webpage> "m.09wl4sx" .
+<Seattle_Post-Intelligencer> <book.newspaper.circulation_areas> "Washington" .
+<m.07nf_yy> <base.ontologies.ontology_instance_mapping.freebase_topic> "Washington" .
+<m.07ndqm6> <base.ontologies.ontology_instance_mapping.freebase_topic> "Columbia River" .
+<Adams_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<One_Hundred_Hikes_in_Washington's_North_Cascades_Glacier_Peak_Region> <book.written_work.subjects> "United States of America" .
+<m.04jtgpj> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Washington> <common.topic.webpage> "m.09wyst4" .
+<Grant_County> <location.location.adjoin_s> "m.03jq5rh" .
+<Washington> <government.governmental_jurisdiction.agencies> "Washington State Gambling Commission" .
+<Columbia_River_Gorge> <location.location.containedby> "Skamania County" .
+<Body_Of_Water_Spanned> <type.property.master_property> "Bridges" .
+<m.04jtgnj> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<United_States_of_America> <location.location.partiallycontains> "m.0wg940_" .
+<100_classic_hikes_in_Washington> <book.written_work.subjects> "Washington" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.0nbvf08" .
+<m.09qn2xq> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<m.0wg96gx> <location.partial_containment_relationship.partially_contained_by> "British Columbia" .
+<Washington> <location.location.adjoin_s> "m.02xhfj8" .
+<Pend_Oreille_River> <location.location.partially_containedby> "British Columbia" .
+<US_State> <type.type.properties> "Capital" .
+<Okanogan_River> <geography.river.mouth> "Columbia River" .
+<Skamania_County> <location.location.contains> "Bridge of the Gods" .
+<m.03jq5rh> <location.adjoining_relationship.adjoins> "Grant County" .
+<Electric_City> <location.hud_county_place.county> "Grant County" .
+<Columbia_River> <location.location.events> "Robert Gray's Columbia River expedition" .
+<Washington> <book.book_subject.works> "Back on Blossom Street" .
+<Truss_bridge> <common.topic.notable_types> "Bridge Type" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.subdividing_place> "United States of America" .
+<Grant_County> <location.us_county.hud_county_place> "Royal City" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<Wilson_Creek> <location.location.containedby> "Washington" .
+<Grant_County> <location.us_county.hud_county_place> "Banks Lake South" .
+<Beverly_Railroad_Bridge> <location.location.containedby> "Beverly, Washington" .
+<m.0hzbtp2> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Oregon> <location.location.adjoin_s> "m.02tg2wy" .
+<Washington> <organization.organization_scope.organizations_with_this_scope> "US Notary Public Association" .
+<Washington> <government.political_district.representatives> "m.09qn7hf" .
+<Wilson_Creek> <location.hud_county_place.county> "Grant County" .
+<Washington> <travel.travel_destination.tourist_attractions> "YMCA Camp Orkila" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgpn" .
+<Washington> <location.statistical_region.major_exports> "m.0ydfhwm" .
+<Secretary_of_State_of_Washington> <government.government_office_or_title.office_holders> "m.0hz7b7x" .
+<m.04jtgpd> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<m.0hz7b7x> <government.government_position_held.office_position_or_title> "Secretary of State of Washington" .
+<British_Columbia> <location.location.partiallycontains> "m.0wg96gx" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1hm" .
+<Lakeview> <location.hud_county_place.place> "Lakeview" .
+<Pacific_Northwest> <location.location.contains> "Osoyoos Lake" .
+<Warden> <location.hud_county_place.county> "Grant County" .
+<Interstate_Bridge> <location.location.containedby> "Portland" .
+<m.04jtgpx> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Grant_County> <location.statistical_region.population> "g.11x1fx9hy" .
+<River> <freebase.type_hints.included_types> "Topic" .
+<Oregon> <location.location.partially_contains> "Grande Ronde River" .
+<Washington> <base.ontologies.ontology_instance.equivalent_instances> "m.07nf_yy" .
+<Grande_Ronde_River> <geography.river.basin_countries> "United States of America" .
+<Electric_City> <location.location.containedby> "Washington" .
+<Truss_bridge> <architecture.architectural_style.examples> "Root Covered Bridge" .
+<Bridge_Type> <type.property.expected_type> "Bridge Type" .
+<Osoyoos_Lake> <geography.lake.basin_countries> "United States of America" .
+<Oregon> <location.location.containedby> "Northwestern United States" .
+<Beverly,_Washington> <location.location.containedby> "Grant County" .
+<Grant_County> <location.location.adjoin_s> "m.03jq0f_" .
+<EPIC_Systems,_Inc> <organization.organization.geographic_scope> "United States of America" .
+<Interstate_Bridge> <transportation.bridge.body_of_water_spanned> "Columbia River" .
+<Olympia> <base.biblioness.bibs_location.country> "United States of America" .
+<Grant_County> <location.statistical_region.rent50_0> "m.05gglny" .
+<m.02xhfj8> <location.adjoining_relationship.adjoins> "Washington" .
+<Grant_County> <location.us_county.hud_county_place> "Quincy" .
+<Columbia_River> <geography.river.cities> "Portland" .
+<m.0wg96x5> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<m.04jtgps> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Similkameen_River> <location.location.partially_containedby> "Canada" .
+<Royal_City> <location.location.time_zones> "Pacific Time Zone" .
+<Washington> <organization.organization_scope.organizations_with_this_scope> "EPIC Systems, Inc" .
+<Grant_County> <location.us_county.hud_county_place> "Moses Lake" .
+<Washington> <organization.organization_scope.organizations_with_this_scope> "Mark Taylor" .
+<One_Hundred_Hikes_in_Washington's_North_Cascades_Glacier_Peak_Region> <book.written_work.subjects> "Washington" .
+<Portland> <location.hud_county_place.place> "Portland" .
+<United_States,_with_Territories> <base.aareas.schema.earth.sovereign_domain.sovereign_state> "United States of America" .
+<Columbia_River> <geography.body_of_water.bridges> "Grand Coulee Bridge" .
+<Grant_County> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07ftnbl" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1hv" .
+<Catholic_Sentinel> <book.newspaper.circulation_areas> "Washington" .
+<Osoyoos_Lake> <location.location.containedby> "Pacific Northwest" .
+<Warden> <location.hud_county_place.place> "Warden" .
+<River> <freebase.type_profile.kind> "Definition" .
+<m.0_db179> <government.government_position_held.governmental_body> "Washington State Senate" .
+<Rites_of_Passage> <book.written_work.subjects> "United States of America" .
+<m.0wg96vz> <location.partial_containment_relationship.partially_contains> "Snake River" .
+<George> <location.hud_county_place.place> "George" .
+<Grant_County> <location.location.geolocation> "m.0k9p4n" .
+<Washington> <organization.organization_scope.organizations_with_this_scope> "Washington Student Math Association" .
+<Olympia> <location.hud_county_place.place> "Olympia" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgmd" .
+<Total_Length> <type.property.schema> "Bridge" .
+<Beverly,_Washington> <common.topic.notable_types> "City/Town/Village" .
+<Electric_City> <location.hud_county_place.place> "Electric City" .
+<US_County> <freebase.type_profile.kind> "Definition" .
+<m.0b46xcc> <common.webpage.topic> "Washington" .
+<Spokane_River> <common.topic.notable_types> "River" .
+<The_Canoe_and_the_Saddle> <book.written_work.subjects> "Washington" .
+<Oregon> <government.governmental_jurisdiction.agencies> "French Consulate General, San Francisco" .
+<Washington> <travel.travel_destination.tourist_attractions> "Skagit Valley Tulip Festival" .
+<m.0wg96vs> <location.partial_containment_relationship.partially_contains> "Cascade Range" .
+<m.0ncr0fm> <government.government_position_held.office_position_or_title> "Secretary of State of Washington" .
+<m.09x5qwp> <common.webpage.topic> "Washington" .
+<m.09qn96c> <government.government_position_held.district_represented> "Washington" .
+<Washington> <government.governmental_jurisdiction.official_symbols> "m.04stkfg" .
+<m.09qn470> <government.government_position_held.district_represented> "Washington" .
+<Banks_Lake_South> <location.hud_county_place.place> "Banks Lake South" .
+<Contiguous_United_States> <location.location.time_zones> "Pacific Time Zone" .
+<Burlington_Northern_Railroad_Bridge_9.6> <transportation.bridge.body_of_water_spanned> "Columbia River" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgpd" .
+<m.04jtgp0> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<m.09qn7ww> <government.government_position_held.district_represented> "Washington" .
+<m.09xkvy8> <common.webpage.topic> "Washington" .
+<Grant_County> <location.statistical_region.population> "g.12b01rwl6" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<Catholic_Sentinel> <book.newspaper.circulation_areas> "Portland" .
+<m.0wg96vl> <location.partial_containment_relationship.partially_contains> "Pend Oreille River" .
+<m.04jtgn0> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Washington> <location.location.partiallycontains> "m.012hd1wm" .
+<Washington> <government.governmental_jurisdiction.agencies> "Washington State Department of Transportation" .
+<Columbia_River> <geography.body_of_water.bridges> "Interstate 182 Bridge" .
+<Truss_bridge> <architecture.architectural_style.examples> "Stony Creek Bridge" .
+<Columbia_River> <geography.body_of_water.bridges> "Umatilla Bridge" .
+<Grant_County> <location.statistical_region.population> "g.11x1kpq0c" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgnd" .
+<Washington> <symbols.namesake.named_after> "George Washington" .
+<US_County> <freebase.type_profile.strict_included_types> "Topic" .
+<Similkameen_River> <location.location.partially_containedby> "Washington" .
+<Beverly_Railroad_Bridge> <location.location.containedby> "Grant County" .
+<m.09qn7hf> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<m.05kdb4w> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Coulee_City> <location.location.time_zones> "Pacific Time Zone" .
+<m.09qn208> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Bridge_Type> <type.property.reverse_property> "Bridges of this type" .
+<Moses_Lake> <common.topic.notable_types> "City/Town/Village" .
+<Mattawa> <location.location.containedby> "United States of America" .
+<Grande_Ronde_River> <location.location.containedby> "North America" .
+<North_America> <location.location.contains_major_portion_of> "United States of America" .
+<m.0ncr0fm> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Back_on_Blossom_Street> <book.written_work.subjects> "Washington" .
+<US_County> <freebase.type_hints.included_types> "Topic" .
+<Washington> <organization.organization_scope.organizations_with_this_scope> "Phillips Law Firm" .
+<Grant_County> <location.statistical_region.population> "g.11x1knc5j" .
+<Skamania_County> <location.location.partially_contains> "Columbia River" .
+<Washington> <book.book_subject.works> "The Canoe and the Saddle" .
+<Washington> <government.political_district.elections> "United States Senate election in Washington, 2010" .
+<m.011lyjfx> <government.government_position_held.governmental_body> "Washington House of Representatives" .
+<Washington> <base.skosbase.vocabulary_equivalent_topic.narrower_concept> "Slopes (Physical geography)--Washington (State)" .
+<Washington> <location.location.events> "2014 Washington State wildfire" .
+<m.0wrkx2k> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<Royal_City> <location.location.containedby> "United States of America" .
+<Parker_Road-Charlotte_River_Bridge> <architecture.structure.architectural_style> "Truss bridge" .
+<United_States_of_America> <location.location.partially_contains> "Skagit River" .
+<Warden> <location.location.time_zones> "Pacific Time Zone" .
+<Bridge> <freebase.type_profile.strict_included_types> "Structure" .
+<Grant_County> <location.hud_foreclosure_area.hhuniv> "m.07ftnb4" .
+<United_States_of_America> <location.country.first_level_divisions> "Washington" .
+<Washington> <location.location.partially_contains> "Spokane River" .
+<m.04jtgnn> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Grande_Ronde_River> <geography.river.mouth> "Snake River" .
+<m.046csj8> <location.adjoining_relationship.adjoins> "Washington" .
+<Columbia_River> <geography.body_of_water.bridges> "Rock Island Railroad Bridge" .
+<Similkameen_River> <geography.river.mouth> "Okanogan River" .
+<Portland> <location.location.time_zones> "Pacific Time Zone" .
+<m.0hz7b7x> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<m.012hd1wm> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<m.04jtgn4> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Washington> <location.location.events> "Washington Voter Registration Deadline, 2012" .
+<Structure> <freebase.type_hints.included_types> "Location" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1k4" .
+<Washington> <location.location.partially_contains> "Pend Oreille River" .
+<m.05h8jvg> <protected_sites.natural_or_cultural_site_listing.listed_site> "Beverly Railroad Bridge" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgnj" .
+<Similkameen_River> <location.location.partially_contained_by> "m.0wg96wm" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.0hz7b7x" .
+<Columbia_River> <geography.body_of_water.bridges> "Vernita Bridge" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1mt" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgmn" .
+<Grant_County> <location.us_county.hud_county_place> "Mattawa" .
+<Royal_City> <location.location.containedby> "Grant County" .
+<m.0hzdjpq> <location.location_symbol_relationship.administrative_division> "Washington" .
+<Washington> <book.book_subject.works> "Best Hikes With Children in Western Washington and the Cascades" .
+<Bridge> <freebase.type_hints.included_types> "Topic" .
+<Washington> <book.book_subject.works> "Moving Washington Timeline" .
+<Mattawa> <location.location.containedby> "Washington" .
+<m.04jtgq0> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Grant_County> <location.statistical_region.population> "g.11x1j6xnd" .
+<m.09x_3bl> <common.webpage.topic> "Washington" .
+<m.075llvk> <location.cotermination.location> "Grant County" .
+<Kettle_River> <location.location.partially_containedby> "United States of America" .
+<Washington> <book.book_subject.works> "Nisei daughter" .
+<Columbia_River> <location.location.contains> "Astoria Wharf and Warehouse Company" .
+<Columbia_River> <symbols.namesake.named_after> "Columbia Rediviva" .
+<West_Coast_of_the_United_States> <location.location.contains> "Washington" .
+<Glenn_L._Jackson_Memorial_Bridge> <transportation.bridge.locale> "Portland" .
+<m.04jtgms> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Ulysses_S._Grant> <people.person.nationality> "United States of America" .
+<Grant_County> <location.statistical_region.population> "g.11x1gyhtg" .
+<British_Columbia> <location.location.partially_contains> "Cascade Range" .
+<Skagit_River> <location.location.partially_containedby> "Washington" .
+<Moses_Lake> <location.hud_county_place.place> "Moses Lake" .
+<Oregon> <base.scubadiving.ecoregion.contained_by> "Cold Temperate Northeast Pacific" .
+<Grant_County> <location.statistical_region.population> "g.11x1dpm8d" .
+<Washington> <government.governmental_jurisdiction.agencies> "French Consulate General, San Francisco" .
+<Royal_City> <location.location.containedby> "Washington" .
+<Glenn_L._Jackson_Memorial_Bridge> <location.location.containedby> "United States of America" .
+<Adams_County> <location.location.containedby> "United States of America" .
+<Washington> <base.aareas.schema.administrative_area.administrative_children> "Adams County" .
+<Beverly_Railroad_Bridge> <base.usnris.nris_listing.significance_level> "State" .
+<Washington> <periodicals.newspaper_circulation_area.newspapers> "Catholic Sentinel" .
+<Osoyoos_Lake> <location.location.partially_contained_by> "m.0wg96v8" .
+<Layton_Bridge> <architecture.structure.architectural_style> "Truss bridge" .
+<United_States_Senate_elections,_2006> <time.event.locations> "Washington" .
+<m.0zs7qps> <government.government_position_held.governmental_body> "Washington House of Representatives" .
+<Columbia_River> <location.location.partially_contained_by> "m.0wg940_" .
+<Portland> <common.topic.notable_types> "City/Town/Village" .
+<George> <location.location.containedby> "Grant County" .
+<Grant_County> <common.topic.article> "m.0mmrk" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgmn" .
+<Vancouver> <location.location.contains> "Interstate Bridge" .
+<Washington> <location.location.partiallycontains> "m.0wg96vf" .
+<Location> <freebase.type_profile.published> "Published" .
+<Wilson_Creek> <location.location.containedby> "Grant County" .
+<Bridge> <freebase.type_profile.published> "Published" .
+<m.04jtgns> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Washington> <book.book_subject.works> "100 classic hikes in Washington" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgnx" .
+<British_Columbia> <location.location.partially_contains> "Kettle River" .
+<Locale> <rdf-schema#range> "Location" .
+<Robert_Gray's_Columbia_River_expedition> <time.event.locations> "North America" .
+<Pacific_Ocean> <location.location.partially_contains> "United States of America" .
+<m.09qn0d7> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Vancouver> <location.location.containedby> "United States of America" .
+<Washington> <location.statistical_region.minimum_wage> "m.0z_q5t3" .
+<United_States,_with_Territories> <location.location.partially_containedby> "North America" .
+<Pacific_Northwest> <book.book_subject.works> "Moving Washington Timeline" .
+<Bridge> <freebase.type_profile.equivalent_topic> "Bridge" .
+<Washington> <government.political_district.representatives> "m.09qn1j2" .
+<Beverly,_Washington> <location.location.containedby> "Washington" .
+<North_America> <location.location.partially_contains> "United States, with Territories" .
+<Lakeview> <location.location.containedby> "Washington" .
+<Washington> <location.location.time_zones> "Pacific Time Zone" .
+<m.04jtgnd> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Washington> <location.statistical_region.gdp_nominal> "m.04ftnyp" .
+<Grand_Coulee> <location.hud_county_place.county> "Grant County" .
+<Washington> <common.topic.image> "Washington.png" .
+<North_America> <location.location.time_zones> "Pacific Time Zone" .
+<Washington_State_Legislature> <government.governmental_body.jurisdiction> "Washington" .
+<Truss_bridge> <architecture.architectural_style.examples> "Prairie Dog Creek Bridge" .
+<m.0nbygn9> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Oregon> <organization.organization_scope.organizations_with_this_scope> "B'nai B'rith District Grand Lodge 4" .
+<m.0_lxxg0> <government.government_position_held.governmental_body> "Washington House of Representatives" .
+<Washington> <location.location.containedby> "Pacific States" .
+<British_Columbia> <location.administrative_division.country> "Canada" .
+<Canada> <location.location.partially_contains> "Kettle River" .
+<Beverly_Railroad_Bridge> <transportation.bridge.bridge_type> "Truss bridge" .
+<Washington> <location.location.events> "2009 Cherry Blossom 10-Mile Run" .
+<m.04jtgmn> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Kenneth_Arnold> <base.aliens.ufo_sighting.location> "Washington" .
+<Grant_County> <location.statistical_region.population> "g.12b028xt8" .
+<Columbia_River> <location.location.partially_containedby> "Washington" .
+<Columbia_River> <geography.body_of_water.bridges> "Astoria–Megler Bridge" .
+<m.05kgy3r> <government.government_position_held.district_represented> "Washington" .
+<Locale> <type.property.expected_type> "Location" .
+<Washington> <location.location.partiallycontains> "m.0wg96vz" .
+<Bridges> <rdf-schema#range> "Bridge" .
+<Columbia_River> <geography.body_of_water.bridges> "Oregon Trunk Rail Bridge" .
+<Glenn_L._Jackson_Memorial_Bridge> <common.topic.notable_types> "Bridge" .
+<Okanogan_River> <location.location.containedby> "North America" .
+<Moses_Lake_North> <location.hud_county_place.place> "Moses Lake North" .
+<m.0wg96vs> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgns" .
+<Columbia_River> <geography.river.origin_long_lat> "m.04d0j_1" .
+<Washington> <location.statistical_region.minimum_wage> "m.0nk0sqh" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgmx" .
+<m.0wg96w3> <location.partial_containment_relationship.partially_contains> "Okanogan River" .
+<m.09wl4sx> <common.webpage.topic> "Columbia River" .
+<Oregon> <location.administrative_division.first_level_division_of> "United States of America" .
+<Washington> <location.administrative_division.first_level_division_of> "United States of America" .
+<Skamania_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Washington> <government.governmental_jurisdiction.official_symbols> "m.0hzdjpq" .
+<100_Hikes_in_Washington's_North_Cascades_National_Park_Region,_Second_Edition> <book.written_work.subjects> "Washington" .
+<Washington> <government.political_district.representatives> "m.05kgy3r" .
+<Bridge> <type.type.properties> "Total Length" .
+<Cascade_Valley> <location.hud_county_place.county> "Grant County" .
+<m.09yq1bd> <common.webpage.topic> "Washington" .
+<Washington> <location.location.partiallycontains> "m.0wg96v8" .
+<Prairie_Dog_Creek_Bridge> <base.usnris.nris_listing.significance_level> "State" .
+<Waltz_Road-Huron_River_Bridge> <common.topic.notable_types> "Bridge" .
+<Washington> <government.political_district.representatives> "m.09qn2bv" .
+<Washington> <location.location.events> "Port Gamble" .
+<m.09xs810> <common.webpage.topic> "Washington" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Washington" .
+<Voyage_of_a_Summer_Sun> <book.written_work.subjects> "Pacific Northwest" .
+<Washington> <government.governmental_jurisdiction.government_bodies> "Washington State Legislature" .
+<Washington> <base.locations.states_and_provences.country> "United States of America" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgms" .
+<Dey_Road_Bridge> <architecture.structure.architectural_style> "Truss bridge" .
+<Adams_County> <location.location.time_zones> "Pacific Time Zone" .
+<Krupp> <location.hud_county_place.county> "Grant County" .
+<Cascade_Valley> <location.hud_county_place.place> "Cascade Valley" .
+<Columbia_Lake> <geography.lake.basin_countries> "Canada" .
+<Grant_County> <location.statistical_region.population> "g.11x1cr755" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgn8" .
+<Washington_Student_Math_Association> <organization.organization.geographic_scope> "Washington" .
+<Washington> <common.topic.webpage> "m.09w6xhh" .
+<Oregon> <location.location.partially_contains> "Columbia River" .
+<Columbia_River> <location.location.partially_contained_by> "m.0wg9481" .
+<Revelstoke> <location.location.containedby> "Canada" .
+<Canada> <location.country.administrative_divisions> "British Columbia" .
+<m.04st6nz> <location.location_symbol_relationship.administrative_division> "Washington" .
+<Washington> <book.book_subject.works> "Voyage of a Summer Sun" .
+<Grant_County> <location.location.adjoin_s> "m.03jrh0p" .
+<Columbia_River> <location.location.geolocation> "m.05khtrh" .
+<Portland> <base.biblioness.bibs_location.state> "Oregon" .
+<Beverly_Railroad_Bridge> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.05h8jvg" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgp0" .
+<Washington> <location.location.events> "Fort Lawton Riot" .
+<United_States_of_America> <location.location.partially_contains> "Kettle River" .
+<Roads_to_Trails_Northwest_Washington> <book.written_work.subjects> "United States of America" .
+<Kettle_River> <common.topic.notable_types> "River" .
+<m.04jtgnx> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Bridge> <type.type.properties> "Clearance Below" .
+<Grant_County> <location.hud_foreclosure_area.total_residential_addresses> "m.07ftnc0" .
+<Oregon> <organization.organization_scope.organizations_with_this_scope> "EPIC Systems, Inc" .
+<Grant_County> <location.location.time_zones> "Pacific Time Zone" .
+<Oregon> <organization.organization_scope.organizations_with_this_scope> "Mark Taylor" .
+<Grant_County> <location.administrative_division.capital> "m.0jvvsh9" .
+<Moses_Lake> <location.location.containedby> "Washington" .
+<Olympia> <location.location.containedby> "United States of America" .
+<Washington> <common.topic.image> "Kolumbija upes ieleja Vašingtonas štatā" .
+<m.04jtgmx> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<m.04l0nvf> <location.location_symbol_relationship.administrative_division> "Washington" .
+<m.09qn1j2> <government.government_position_held.district_represented> "Washington" .
+<m.09qn0yx> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Truss_bridge> <architecture.architectural_style.examples> "Parker Road-Charlotte River Bridge" .
+<Quincy> <location.hud_county_place.place> "Quincy" .
+<Washington> <location.location.containedby> "Pacific Northwest" .
+<Washington> <location.location.events> "Mary Kay Letourneau's Statutory Rape Case" .
+<100_Hikes_in_Washington's_North_Cascades_National_Park_Region,_Second_Edition> <book.written_work.subjects> "United States of America" .
+<m.0gmjzby> <common.webpage.topic> "Washington" .
+<Oregon> <base.aareas.schema.administrative_area.administrative_children> "Clatsop County" .
+<Contiguous_United_States> <common.topic.notable_types> "Location" .
+<Pacific_Northwest> <location.location.containedby> "North America" .
+<Washington> <location.location.partially_contains> "Osoyoos Lake" .
+<Columbia_River> <geography.body_of_water.bridges> "Blue Bridge" .
+<Washington> <common.topic.webpage> "m.04lswy5" .
+<m.09xyc_g> <common.webpage.topic> "Washington" .
+<Skamania_County> <location.location.partiallycontains> "m.0wg97t3" .
+<Krupp> <common.topic.notable_types> "City/Town/Village" .
+<United_States,_with_Territories> <location.location.partially_containedby> "Pacific Ocean" .
+<m.09qn5cf> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Washington> <location.statistical_region.major_exports> "m.0ydfjwc" .
+<Grant_County> <location.location.coterminous_with> "m.070b36q" .
+<Washington> <location.location.events> "2009 National Cherry Blossom Festival" .
+<Moving_Washington_Timeline> <book.written_work.subjects> "Washington" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1kl" .
+<Canada> <base.locations.countries.continent> "North America" .
+<Desert_Aire> <location.hud_county_place.county> "Grant County" .
+<Grande_Ronde_River> <location.location.containedby> "United States of America" .
+<Grant_County> <location.statistical_region.rent50_3> "m.05gglpl" .
+<m.0wrkx2k> <location.partial_containment_relationship.partially_contains> "Skagit River" .
+<Pacific_States> <common.topic.notable_types> "Location" .
+<m.09qn8bq> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<m.075llvk> <location.cotermination.location> "Grant County, WA HUD Section 8 Area" .
+<Warden> <location.location.containedby> "Grant County" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgmd" .
+<Nisei_daughter> <book.written_work.subjects> "United States of America" .
+<Grant_County> <common.topic.notable_for> "g.125fvh5kn" .
+<Columbia_River> <geography.body_of_water.bridges> "Beebe Bridge" .
+<Ted_Bundy_Murders> <time.event.locations> "Washington" .
+<Hartline> <location.location.containedby> "Washington" .
+<m.04lswy5> <common.webpage.topic> "Washington" .
+<m.09qn5rz> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Truss_bridge> <architecture.architectural_style.examples> "Double-Span Metal Pratt Truss Bridge" .
+<m.09qn1j2> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Washington> <book.book_subject.works> "Lookouts" .
+<Washington> <common.topic.webpage> "m.09y20lm" .
+<Grant_County> <location.us_county.hud_county_place> "Krupp" .
+<Bridge> <freebase.type_profile.strict_included_types> "Topic" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oregon" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Grant_County> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07ftnbt" .
+<Vancouver> <base.biblioness.bibs_location.state> "Washington" .
+<Soap_Lake> <location.location.containedby> "United States of America" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgnx" .
+<Desert_Aire> <location.location.containedby> "Grant County" .
+<m.0wg96v8> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.administrative_children> "United States of America" .
+<Hartline> <location.location.containedby> "Grant County" .
+<Five_days_that_shook_the_world> <book.written_work.subjects> "Washington" .
+<Kettle_River> <geography.river.basin_countries> "Canada" .
+<Pacific_Ocean> <location.location.partially_contains> "United States, with Territories" .
+<Washington> <location.location.containedby> "Northwestern United States" .
+<Washington> <business.employer.employees> "m.012vl78c" .
+<Wilson_Creek> <location.location.time_zones> "Pacific Time Zone" .
+<m.0wg96xq> <location.partial_containment_relationship.partially_contains> "Palouse River" .
+<m.0wg98gw> <location.partial_containment_relationship.partially_contains> "Columbia River" .
+<Grant_County> <location.statistical_region.population> "g.11x1cm63_" .
+<m.04st89d> <location.location_symbol_relationship.administrative_division> "Washington" .
+<Bridge> <type.type.properties> "Longest Span" .
+<Mattawa> <common.topic.notable_types> "City/Town/Village" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgnn" .
+<Pacific_Northwest> <location.location.contains> "Washington" .
+<m.03jrp88> <location.adjoining_relationship.adjoins> "Adams County" .
+<m.04jtgn0> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Grant_County> <location.statistical_region.population> "g.11x1ksybs" .
+<m.04jtgmd> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.0_xppy1" .
+<Palouse_River> <common.topic.notable_types> "River" .
+<Quincy> <location.hud_county_place.county> "Grant County" .
+<Grant_County> <location.location.containedby> "Washington" .
+<Columbia_River> <geography.body_of_water.bridges> "Columbia River Bridge" .
+<Grant_County> <periodicals.newspaper_circulation_area.newspapers> "Columbia Basin Herald" .
+<m.09qm_z8> <government.government_position_held.district_represented> "Washington" .
+<Bridge> <type.type.domain> "Transportation" .
+<Burlington_Northern_Railroad_Bridge_9.6> <transportation.bridge.locale> "Portland" .
+<Pacific_Northwest> <location.location.contains> "Oregon" .
+<Grant_County> <location.statistical_region.population> "g.11x1kl47x" .
+<United_States_of_America> <location.location.containedby> "United States, with Territories" .
+<Oregon> <location.location.containedby> "Contiguous United States" .
+<Pacific_Northwest> <book.book_subject.works> "Voyage of a Summer Sun" .
+<Grant_County> <location.statistical_region.rent50_4> "m.05gglpt" .
+<British_Columbia> <location.location.partially_contains> "Columbia River" .
+<Snake_River> <location.location.containedby> "United States of America" .
+<Beverly_Railroad_Bridge> <common.topic.notable_for> "g.12551krvj" .
+<North_America> <base.locations.continents.countries_within> "Canada" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.0hzbtp2" .
+<Interstate_Bridge> <location.location.containedby> "Washington" .
+<Electric_City> <location.location.time_zones> "Pacific Time Zone" .
+<Capital> <rdf-schema#domain> "US State" .
+<Washington> <common.topic.webpage> "m.09xrfm9" .
+<m.0wg96vl> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<British_Columbia> <location.location.partially_contains> "Pend Oreille River" .
+<United_States_of_America> <location.location.partially_contains> "Okanogan River" .
+<Osoyoos_Lake> <geography.lake.basin_countries> "Canada" .
+<Hartline> <location.hud_county_place.place> "Hartline" .
+<Olympia> <location.capital_of_administrative_division.capital_of> "m.0jvw4sc" .
+<m.09qn5rz> <government.government_position_held.district_represented> "Washington" .
+<m.0_xppy1> <government.government_position_held.governmental_body> "Washington House of Representatives" .
+<Grant_County> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07ftnc7" .
+<Grant_County> <location.location.coterminous_with> "m.075llvk" .
+<Banks_Lake_South> <location.location.containedby> "Grant County" .
+<The_Canoe_and_the_Saddle> <book.written_work.subjects> "Pacific Northwest" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1pv" .
+<Vancouver> <common.topic.notable_types> "City/Town/Village" .
+<Washington> <government.political_district.representatives> "m.09qn9vh" .
+<Beverly,_Washington> <common.topic.notable_for> "g.125grmbj8" .
+<55_Hikes_Around_Snoqualmie_Pass> <book.written_work.subjects> "Washington" .
+<m.04jtgp8> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Olympic_National_Park> <location.location.containedby> "Washington" .
+<m.02tg2wy> <location.adjoining_relationship.adjoins> "Washington" .
+<Washington> <government.governmental_jurisdiction.government_bodies> "Washington State Senate" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.0q2lbm4" .
+<Truss_bridge> <architecture.architectural_style.examples> "Waltz Road-Huron River Bridge" .
+<m.09w17k_> <common.webpage.topic> "Washington" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgp8" .
+<Columbia_River> <geography.river.cities> "Longview" .
+<Pend_Oreille_River> <location.location.containedby> "North America" .
+<Root_Covered_Bridge> <common.topic.notable_types> "Bridge" .
+<m.09qn3pj> <government.government_position_held.district_represented> "Washington" .
+<Stony_Creek_Bridge> <common.topic.notable_types> "Bridge" .
+<Washington> <government.governmental_jurisdiction.government_positions> "Governor of Washington" .
+<Contiguous_United_States> <location.location.contains> "Oregon" .
+<m.04jtgmx> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Washington> <government.political_district.representatives> "m.09qn7ww" .
+<Washington> <location.location.partially_contains> "Okanogan River" .
+<Revelstoke> <location.location.containedby> "British Columbia" .
+<River> <freebase.type_profile.strict_included_types> "Location" .
+<Bridge> <type.type.expected_by> "Bridges" .
+<Columbia_River> <geography.river.cities> "Vancouver" .
+<Washington> <book.book_subject.works> "National trust guide, Seattle" .
+<Mark_Taylor> <organization.organization.geographic_scope> "Oregon" .
+<Gibney_Family_Foundation_Inc> <organization.organization.geographic_scope> "Washington" .
+<Palouse_River> <location.location.containedby> "United States of America" .
+<Washington> <location.location.partially_contains> "Snake River" .
+<Washington> <common.topic.webpage> "m.0b46xcc" .
+<Washington> <symbols.flag_referent.flag> "m.0jsppfm" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.0_tmsf9" .
+<Washington_House_of_Representatives> <government.governmental_body.jurisdiction> "Washington" .
+<m.09qn6ss> <government.government_position_held.district_represented> "Washington" .
+<m.04jtgnd> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Skagit_River> <geography.river.basin_countries> "United States of America" .
+<m.05kdb4w> <government.government_position_held.district_represented> "Washington" .
+<Vancouver> <location.location.containedby> "Washington" .
+<Columbia_River> <geography.body_of_water.bridges> "Julia Butler Hansen Bridge" .
+<m.0jvw4sc> <location.administrative_division_capital_relationship.capital> "Olympia" .
+<Stony_Creek_Bridge> <architecture.structure.architectural_style> "Truss bridge" .
+<Grant_County> <location.location.adjoin_s> "m.03jr11x" .
+<Washington> <common.topic.webpage> "m.09ynnsn" .
+<United_States_of_America> <location.administrative_division.first_level_division_of> "United States, with Territories" .
+<Burlington_Northern_Railroad_Bridge_9.6> <transportation.bridge.bridge_type> "Truss bridge" .
+<Pend_Oreille_River> <geography.river.mouth> "Columbia River" .
+<m.09xg_g9> <common.webpage.topic> "Washington" .
+<Washington> <location.location.geolocation> "m.02_gw4b" .
+<m.04jtgnn> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Capital_Press> <book.newspaper.circulation_areas> "Washington" .
+<Skagit_River> <location.location.partially_containedby> "British Columbia" .
+<m.04j8hdc> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Grant_County> <location.statistical_region.population> "g.11x1mmth6" .
+<m.09qm_ld> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Washington_State_Senate> <government.governmental_body.members> "m.0q2lbm4" .
+<Beverly_Railroad_Bridge> <location.location.containedby> "Washington" .
+<B'nai_B'rith_District_Grand_Lodge_4> <organization.organization.geographic_scope> "British Columbia" .
+<Washington> <government.governmental_jurisdiction.agencies> "Washington State Public Disclosure Commission" .
+<Washington> <periodicals.newspaper_circulation_area.newspapers> "Capital Press" .
+<US_Notary_Public_Association> <organization.organization.geographic_scope> "Washington" .
+<Clatsop_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Washington> <common.topic.webpage> "m.09xkvy8" .
+<Columbia_River> <geography.river.cities> "Tri-Cities" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oregon" .
+<Okanogan_River> <location.location.partially_containedby> "Canada" .
+<m.09ynnsn> <common.webpage.topic> "Washington" .
+<Parker_Road-Charlotte_River_Bridge> <common.topic.notable_types> "Bridge" .
+<m.04jtgnj> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Grant_County> <location.us_county.hud_county_place> "Electric City" .
+<Salish_Sea_Watershed> <common.topic.notable_types> "Location" .
+<State> <common.topic.article> "m.079rhxz" .
+<Ephrata> <location.hud_county_place.place> "Ephrata" .
+<Oregon> <location.location.containedby> "Pacific Northwest" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgmj" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1jq" .
+<Bridge> <common.topic.article> "m.03bqfkm" .
+<Washington> <location.location.nearby_airports> "Bandera State Airport" .
+<Soap_Lake> <location.location.time_zones> "Pacific Time Zone" .
+<Desert_Aire> <location.hud_county_place.place> "Desert Aire" .
+<100_classic_hikes_in_Washington> <book.written_work.subjects> "United States of America" .
+<Wilson_Pratt_Truss_Bridge> <architecture.structure.architectural_style> "Truss bridge" .
+<Washington> <location.location.partially_contains> "Palouse River" .
+<Canada> <location.location.containedby> "North America" .
+<Washington> <common.topic.webpage> "m.09xs810" .
+<m.09qn0pp> <government.government_position_held.district_represented> "Washington" .
+<Truss_bridge> <architecture.architectural_style.examples> "Dey Road Bridge" .
+<Beverly,_Washington> <location.location.contains> "Beverly Railroad Bridge" .
+<Canada> <location.country.first_level_divisions> "British Columbia" .
+<Washington> <book.book_subject.works> "Best Hikes With Kids" .
+<Soap_Lake> <location.location.containedby> "Washington" .
+<Washington> <government.political_district.representatives> "m.09qn0yx" .
+<Skamania_County> <location.location.contains> "Columbia River Gorge" .
+<Oregon> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Grand_Coulee> <location.location.containedby> "Washington" .
+<Washington> <periodicals.newspaper_circulation_area.newspapers> "Seattle Post-Intelligencer" .
+<Washington> <common.topic.webpage> "m.09xyc_g" .
+<m.04jtgmj> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Grant_County> <periodicals.newspaper_circulation_area.newspapers> "Quincy Valley Post-Register" .
+<Pacific_County> <location.location.time_zones> "Pacific Time Zone" .
+<Grand_Coulee> <location.location.contains> "Grand Coulee Bridge" .
+<Electric_City> <location.location.containedby> "United States of America" .
+<Prairie_Dog_Creek_Bridge> <architecture.structure.architectural_style> "Truss bridge" .
+<Washington> <common.topic.webpage> "m.09x_3bl" .
+<Lakeview> <location.hud_county_place.county> "Grant County" .
+<Washington> <location.location.partiallycontains> "m.012hcy64" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1jh" .
+<Moses_Lake_North> <location.location.containedby> "Grant County" .
+<George> <location.location.containedby> "Washington" .
+<Skagit_River> <location.location.containedby> "North America" .
+<Grant_County> <location.statistical_region.population> "g.12b01ng2z" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1nj" .
+<Washington> <government.political_district.representatives> "m.09qn0d7" .
+<B'nai_B'rith_District_Grand_Lodge_4> <organization.organization.geographic_scope> "Washington" .
+<Salish_Sea_Watershed> <location.location.partially_containedby> "Washington" .
+<m.0wg96v8> <location.partial_containment_relationship.partially_contains> "Osoyoos Lake" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgp4" .
+<Grant_County> <location.us_county.hud_county_place> "George" .
+<Voyage_of_a_Summer_Sun> <book.written_work.subjects> "United States of America" .
+<Columbia_River> <geography.body_of_water.bridges> "Lewis and Clark Bridge" .
+<Grant_County> <periodicals.newspaper_circulation_area.newspapers> "Odessa Record" .
+<Pend_Oreille_River> <location.location.partially_containedby> "Washington" .
+<Washington> <common.topic.webpage> "m.09w1nwt" .
+<Nisei_daughter> <book.written_work.subjects> "Washington" .
+<Grant_County> <location.statistical_region.population> "g.11x1dm8dc" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgp8" .
+<Tri-Cities> <location.location.containedby> "Washington" .
+<100_classic_hikes_in_Washington> <book.written_work.subjects> "North America" .
+<British_Columbia> <location.location.partially_contains> "Similkameen River" .
+<Banks_Lake_South> <location.hud_county_place.county> "Grant County" .
+<Canada> <location.location.partially_contains> "Skagit River" .
+<Oregon> <organization.organization_scope.organizations_with_this_scope> "Gibney Family Foundation Inc" .
+<Locale> <rdf-schema#domain> "Bridge" .
+<Coulee_City> <common.topic.notable_types> "City/Town/Village" .
+<Skagit_River> <geography.river.origin> "Canada" .
+<Washington> <common.topic.webpage> "m.09xtx8t" .
+<Longview> <common.topic.notable_types> "City/Town/Village" .
+<Washington> <common.topic.image> "Washington.png" .
+<Bridge> <type.type.properties> "Width" .
+<Dey_Road_Bridge> <common.topic.notable_types> "Bridge" .
+<Washington> <location.location.partiallycontains> "m.0ydf9wm" .
+<Topic> <freebase.type_profile.published> "Published" .
+<US_State> <freebase.type_profile.kind> "Definition" .
+<Bridges> <type.property.expected_type> "Bridge" .
+<Kettle_River> <location.location.partially_containedby> "British Columbia" .
+<Washington> <common.topic.webpage> "m.09xrpkb" .
+<Palouse_River> <location.location.containedby> "North America" .
+<m.0652bgq> <base.popstra.arrest.location> "Washington" .
+<Secretary_of_State_of_Washington> <government.government_office_or_title.office_holders> "m.0ncr0fm" .
+<Washington> <book.book_subject.works> "55 Hikes Around Stevens Pass" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1kv" .
+<Grant_County> <location.statistical_region.population> "g.11x1kyk95" .
+<United_States_Senate_election_in_Washington,_2010> <government.election.district> "Washington" .
+<Grant_County> <location.statistical_region.population> "g.12b023sr2" .
+<Washington> <common.topic.webpage> "m.09wvk3f" .
+<Canada> <location.location.partially_contains> "Cascade Range" .
+<m.0jvw4sc> <location.administrative_division_capital_relationship.administrative_division> "Washington" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.010fm9tb" .
+<Grant_County> <location.us_county.hud_county_place> "Ephrata" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1l1" .
+<m.0wg96vf> <location.partial_containment_relationship.partially_contains> "Spokane River" .
+<Royal_City> <location.hud_county_place.place> "Royal City" .
+<EPIC_Systems,_Inc> <organization.organization.geographic_scope> "Oregon" .
+<Grant_County> <location.statistical_region.population> "g.11x1cxrk5" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1p5" .
+<Columbia_River> <geography.body_of_water.bridges> "Hood River Bridge" .
+<Grant_County> <location.location.adjoin_s> "m.03jpsyt" .
+<Skagit_River> <location.location.partially_containedby> "United States of America" .
+<m.05kgy3r> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Portland> <periodicals.newspaper_circulation_area.newspapers> "Catholic Sentinel" .
+<Krupp> <location.location.containedby> "Washington" .
+<Snake_River> <location.location.partially_containedby> "Washington" .
+<Spokane_River> <location.location.partially_contained_by> "m.0wg96vf" .
+<Wilson_Creek> <common.topic.notable_types> "City/Town/Village" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.0zs7qps" .
+<Grand_Coulee> <location.location.containedby> "Grant County" .
+<Grant_County> <location.statistical_region.population> "g.11x1dpn5b" .
+<Washington> <government.governmental_jurisdiction.agencies> "Washington State Liquor Control Board" .
+<Beverly,_Washington> <common.topic.article> "m.05q9f15" .
+<Washington> <location.statistical_region.minimum_wage> "m.0hzdjlb" .
+<Columbia_River> <location.location.partially_contained_by> "m.0wg96x5" .
+<Washington> <location.location.partiallycontains> "m.0wg96wm" .
+<EPIC_Systems,_Inc> <organization.organization.geographic_scope> "Washington" .
+<Washington> <location.location.events> "Washington Republican caucuses, 2012" .
+<Bridge> <type.type.properties> "Number of spans" .
+<Truss_bridge> <common.topic.article> "m.03ms9w" .
+<Grand_Coulee> <location.location.time_zones> "Pacific Time Zone" .
+<Washington> <book.book_subject.works> "Winter Brothers" .
+<Moving_Washington_Timeline> <book.written_work.subjects> "Pacific Northwest" .
+<Pacific_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Bridge> <type.type.properties> "Bridge Type" .
+<Oregon> <periodicals.newspaper_circulation_area.newspapers> "Catholic Sentinel" .
+<Beverly,_Washington> <location.location.geolocation> "m.04c4jjh" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgnd" .
+<River> <freebase.type_profile.strict_included_types> "Topic" .
+<Grant_County> <symbols.namesake.named_after> "Ulysses S. Grant" .
+<Similkameen_River> <location.location.containedby> "North America" .
+<JTNews> <book.newspaper.circulation_areas> "Washington" .
+<North_America> <location.location.partially_contains> "United States of America" .
+<Columbia_River> <base.ontologies.ontology_instance.equivalent_instances> "m.07ndqm6" .
+<Grant_County> <location.statistical_region.population> "g.11x1l16bp" .
+<Washington> <government.political_district.representatives> "m.05kdb4w" .
+<Structure> <freebase.type_hints.included_types> "Topic" .
+<Contiguous_United_States> <location.location.containedby> "United States of America" .
+<Columbia_River> <geography.body_of_water.bridges> "Interstate Bridge" .
+<Washington> <location.location.partiallycontains> "m.0wg96w3" .
+<Grant_County> <location.statistical_region.population> "g.11x1lvjrk" .
+<Root_Covered_Bridge> <architecture.structure.architectural_style> "Truss bridge" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgmj" .
+<Clatsop_County> <location.location.time_zones> "Pacific Time Zone" .
+<Okanogan_River> <location.location.partially_contained_by> "m.0wg96w3" .
+<Columbia_River> <location.location.partially_containedby> "Oregon" .
+<Converting_the_West> <book.written_work.subjects> "Washington" .
+<Oregon> <organization.organization_scope.organizations_with_this_scope> "CRHOME" .
+<Grand_Coulee> <location.hud_county_place.place> "Grand Coulee" .
+<Pend_Oreille_River> <common.topic.notable_types> "River" .
+<55_Hikes_Around_Snoqualmie_Pass> <book.written_work.subjects> "United States of America" .
+<Tri-Cities> <location.location.time_zones> "Pacific Time Zone" .
+<United_States_of_America> <location.country.administrative_divisions> "Oregon" .
+<Olympic_National_Park> <travel.tourist_attraction.near_travel_destination> "Washington" .
+<Washington> <book.book_subject.works> "Northwest Gateway, The Story of the Port of Seattle" .
+<Locale> <type.property.schema> "Bridge" .
+<United_States_of_America> <location.location.partially_containedby> "Pacific Ocean" .
+<m.03jpsyt> <location.adjoining_relationship.adjoins> "Grant County" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_parent> "United States, with Territories" .
+<m.0wg97t3> <location.partial_containment_relationship.partially_contains> "Columbia River" .
+<Snake_River> <location.location.containedby> "North America" .
+<Columbia_River> <geography.river.mouth> "Pacific Ocean" .
+<Grant_County> <location.statistical_region.population> "m.0kgn_79" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgpj" .
+<Washington> <government.political_district.representatives> "m.09qm_ld" .
+<m.04jtgq0> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Layton_Bridge> <transportation.bridge.bridge_type> "Truss bridge" .
+<m.0zs7qps> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Washington> <common.topic.webpage> "m.09yq1bd" .
+<m.09qn2bv> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Grant_County> <location.us_county.hud_county_place> "Wilson Creek" .
+<Skamania_County> <common.topic.notable_types> "US County" .
+<m.04jtgp0> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Kettle_River> <location.location.containedby> "North America" .
+<m.09wvk3f> <common.webpage.topic> "Washington" .
+<Washington> <government.governmental_jurisdiction.agencies> "Washington State Institute for Public Policy" .
+<Washington> <book.book_subject.works> "Rites of Passage" .
+<Truss_bridge> <architecture.architectural_style.examples> "Hayden Bridge" .
+<Washington> <location.location.containedby> "Contiguous United States" .
+<m.0_tmsf9> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Washington> <location.location.partiallycontains> "m.0wg96wg" .
+<Contiguous_United_States> <location.location.contains> "Washington" .
+<m.012hcy64> <location.partial_containment_relationship.partially_contained_by> "Washington" .
+<Truss_bridge> <architecture.architectural_style.examples> "Lilley Road–Lower Rouge River Bridge" .
+<Similkameen_River> <common.topic.notable_types> "River" .
+<Moses_Lake_North> <location.location.time_zones> "Pacific Time Zone" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgn8" .
+<m.09qn96c> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Truss_bridge> <architecture.architectural_style.examples> "Old Benton-Sardis Road Bridge" .
+<Ephrata> <location.location.time_zones> "Pacific Time Zone" .
+<Body_Of_Water_Spanned> <type.property.schema> "Bridge" .
+<Grant_County> <location.statistical_region.population> "g.12vqhwjkm" .
+<Bridge_Type> <rdf-schema#range> "Bridge Type" .
+<Canada> <location.location.partiallycontains> "m.0wg9481" .
+<Interstate_Bridge> <base.usnris.nris_listing.significance_level> "State" .
+<m.0wg97t3> <location.partial_containment_relationship.partially_contained_by> "Skamania County" .
+<B'nai_B'rith_District_Grand_Lodge_4> <organization.organization.geographic_scope> "Oregon" .
+<Grant_County> <location.statistical_region.population> "g.11x1mmth7" .
+<Grant_County> <location.statistical_region.population> "g.11x1ckc5f" .
+<Grant_County> <location.statistical_region.rent50_1> "m.05gglp4" .
+<United_States_of_America> <location.country.administrative_divisions> "Washington" .
+<Kenneth_Arnold> <base.aliens.ufo_observer.ufo_sighting_s> "Kenneth Arnold UFO encounter" .
+<Grant_County> <location.us_county.hud_county_place> "Grand Coulee" .
+<Washington> <base.popstra.location.arrestee> "m.0652bgq" .
+<Quincy> <location.location.time_zones> "Pacific Time Zone" .
+<Grant_County> <location.location.adjoin_s> "m.03jpy0_" .
+<Washington> <government.political_district.representatives> "m.09qn2xq" .
+<Truss_bridge> <architecture.architectural_style.examples> "Knife River Bridge near Stanton" .
+<Grant_County> <location.hud_foreclosure_area.ofheo_price_change> "m.07ftncf" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Cascade_Range> <location.location.partially_containedby> "Canada" .
+<Washington> <freebase.valuenotation.is_reviewed> "Area" .
+<m.09qn5cf> <government.government_position_held.district_represented> "Washington" .
+<Olympia> <location.location.time_zones> "Pacific Time Zone" .
+<Columbia_River> <geography.body_of_water.bridges> "Burlington Northern Railroad Bridge 9.6" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgms" .
+<Washington> <government.political_district.representatives> "m.09qn3bz" .
+<Grant_County> <location.statistical_region.population> "m.0hjz1pd" .
+<Skagit_River> <geography.river.basin_countries> "Canada" .
+<Grant_County> <location.statistical_region.population> "g.11x1fxc7w" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgnj" .
+<Grant_County> <location.us_county.hud_county_place> "Desert Aire" .
+<Washington> <location.location.partially_contains> "Similkameen River" .
+<Similkameen_River> <location.location.partially_containedby> "British Columbia" .
+<Columbia_River> <geography.body_of_water.bridges> "Beverly Railroad Bridge" .
+<55_Hikes_Around_Stevens_Pass> <book.written_work.subjects> "Washington" .
+<Washington> <location.location.adjoin_s> "m.02tg2wy" .
+<Washington> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Bridge_Type> <type.property.schema> "Bridge" .
+<m.04jtgn8> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<Grant_County> <location.statistical_region.co2_emissions_mobile> "m.045kqxh" .
+<Truss_bridge> <architecture.architectural_style.examples> "West Antelope Bridge" .
+<Columbia_River> <geography.body_of_water.bridges> "Cable Bridge" .
+<Roads_to_Trails_Northwest_Washington> <book.written_work.subjects> "Washington" .
+<Double-Span_Metal_Pratt_Truss_Bridge> <common.topic.notable_types> "Bridge" .
+<Cascade_Valley> <location.location.containedby> "Washington" .
+<Washington> <common.topic.webpage> "m.09x39gy" .
+<Structure> <freebase.type_profile.strict_included_types> "Topic" .
+<Mattawa> <location.location.time_zones> "Pacific Time Zone" .
+<United_States_of_America> <location.location.partially_contains> "Cascade Range" .
+<m.09qn8bq> <government.government_position_held.district_represented> "Washington" .
+<Lakeview> <location.location.time_zones> "Pacific Time Zone" .
+<Washington> <organization.organization_scope.organizations_with_this_scope> "B'nai B'rith District Grand Lodge 4" .
+<Washington> <location.location.partially_contains> "Salish Sea Watershed" .
+<Moses_Lake_North> <location.hud_county_place.county> "Grant County" .
+<British_Columbia> <location.location.partially_contains> "Okanogan River" .
+<m.0q2lbm4> <government.government_position_held.governmental_body> "Washington State Senate" .
+<Columbia_Lake> <geography.lake.outflow> "Columbia River" .
+<Interstate_Bridge> <common.topic.notable_types> "Bridge" .
+<Washington> <government.political_district.representatives> "m.09qn4pv" .
+<m.04jtgn4> <government.government_position_held.office_position_or_title> "Governor of Washington" .
+<Grant_County> <location.us_county.hud_county_place> "Warden" .
+<Governor_of_Washington> <government.government_office_or_title.office_holders> "m.04jtgpd" .
+<Bridge> <type.type.properties> "Body Of Water Spanned" .
+<Cascade_Range> <location.location.partially_containedby> "Oregon" .
+<Snake_River> <location.location.containedby> "Pacific Northwest" .
+<Kettle_River> <location.location.partially_containedby> "Washington" .
+<CRHOME> <organization.organization.geographic_scope> "Washington" .
+<Bandera_State_Airport> <location.location.containedby> "United States of America" .
+<George> <symbols.namesake.named_after> "George Washington" .
+<George> <common.topic.notable_types> "City/Town/Village" .
+<Washington> <location.location.partiallycontains> "m.0wg96x5" .
+<Electric_City> <location.location.containedby> "Grant County" .
+<m.0_xppy1> <government.government_position_held.jurisdiction_of_office> "Washington" .
+<m.03jpy0_> <location.adjoining_relationship.adjoins> "Grant County" .
+<Moses_Lake> <location.location.time_zones> "Pacific Time Zone" .
+<Grant_County> <location.statistical_region.population> "g.11x1h9_vh" .
+<Washington> <location.location.partiallycontains> "m.0wg96xq" .
+<Pend_Oreille_River> <location.location.partially_containedby> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdivides_place> "United States, with Territories" .
+<Robert_Gray's_Columbia_River_expedition> <time.event.locations> "Columbia River" .
+<Washington> <government.political_district.representatives> "m.09qm_z8" .
+<Washington> <location.location.events> "Battle of Toppenish Creek" .
+<Truss_bridge> <common.topic.notable_for> "g.1254z5q9_" .
+<Okanogan_River> <location.location.partially_containedby> "Washington" .
+<Spokane_River> <location.location.containedby> "North America" .
+<m.09x3hf0> <common.webpage.topic> "Washington" .
+<Washington> <base.aliens.ufo_sighting_location.ufo_sighting_s> "Kenneth Arnold" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgq0" .
+<Krupp> <location.location.time_zones> "Pacific Time Zone" .
+<Columbia_River> <location.location.containedby> "North America" .
+<Grant_County> <location.us_county.hud_county_place> "Moses Lake North" .
+<Columbia_River> <common.topic.webpage> "m.09y23zk" .
+<Washington> <book.book_subject.works> "Waxwings" .
+<Grant_County> <location.statistical_region.population> "g.11b66c1bj2" .
+<Soap_Lake> <location.hud_county_place.county> "Grant County" .
+<Kenneth_Arnold> <people.person.nationality> "United States of America" .
+<Layton_Bridge> <base.usnris.nris_listing.significance_level> "State" .
+<Ephrata> <location.capital_of_administrative_division.capital_of> "m.0jvvsh9" .
+<Columbia_River> <common.topic.notable_types> "River" .
+<Interstate_Bridge> <transportation.bridge.bridge_type> "Truss bridge" .
+<Washington> <government.political_district.representatives> "m.09qn6ss" .
+<Washington> <location.location.containedby> "United States, with Territories" .
+<Soap_Lake> <location.location.containedby> "Grant County" .
+<m.0wg96w9> <location.partial_containment_relationship.partially_contains> "Grande Ronde River" .
+<Washington> <government.governmental_jurisdiction.agencies> "Washington State Office of Superintendent of Public Instruction" .
+<m.0wg98gw> <location.partial_containment_relationship.partially_contained_by> "Oregon" .
+<The_Seattle_Times> <book.newspaper.circulation_areas> "Washington" .
+<Capital> <type.property.schema> "US State" .
+<Canada> <location.location.partially_contains> "Columbia River" .
+<The_Canoe_and_the_Saddle> <book.written_work.subjects> "United States of America" .
+<Washington> <government.political_district.representatives> "m.09qn8bq" .
+<Washington> <government.political_district.representatives> "m.09qn470" .
+<Catholic_Sentinel> <book.newspaper.circulation_areas> "Oregon" .
+<Washington> <base.biblioness.bibs_location.country> "United States of America" .
+<m.03jr11x> <location.adjoining_relationship.adjoins> "Grant County" .
+<m.0wg940_> <location.partial_containment_relationship.partially_contains> "Columbia River" .
+<Area> <type.property.schema> "Location" .
+<Columbia_River> <geography.body_of_water.bridges> "Sam Hill Memorial Bridge" .
+<Okanogan_River> <common.topic.notable_types> "River" .
+<Oregon> <location.administrative_division.country> "United States of America" .
+<Grant_County> <location.statistical_region.population> "g.12b01q547" .
+<Washington> <government.governmental_jurisdiction.governing_officials> "m.04jtgps" .
+<m.09xtx8t> <common.webpage.topic> "Washington" .
+<Columbia_River> <location.location.partially_contained_by> "m.0wg97t3" .
+<Osoyoos_Lake> <location.location.partially_containedby> "Washington" .
+<Washington> <freebase.valuenotation.is_reviewed> "Capital" .
+<North_America> <base.locations.continents.countries_within> "United States of America" .
+<British_Columbia> <location.location.partially_contains> "Skagit River" .
+<Frequencies> <book.written_work.subjects> "Washington" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<British_Columbia> <location.location.containedby> "Canada" .

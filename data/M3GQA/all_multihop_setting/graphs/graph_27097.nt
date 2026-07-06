@@ -1,0 +1,2058 @@
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3m3" .
+<Guatemala> <location.location.geolocation> "m.046vx_5" .
+<Guatemala> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3vpzb" .
+<Guatemala> <location.location.containedby> "North America" .
+<Guatemalan_department> <base.aareas.schema.administrative_area_type.level> "State/Province" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4qxlp" .
+<Administrative_Area> <freebase.type_hints.included_types> "Location" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4j962" .
+<Guatemala> <book.author.works_written> "Ley de minería" .
+<m.0khr7l_> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Hurricane_Dolly> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Volcán_de_Agua> <base.schemastaging.context_name.pronunciation> "g.125_mhcp5" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc4q5f3" .
+<Sacatepéquez_Department> <location.location.contains> "Ciudad Vieja" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5ncp" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.11b71rdj94" .
+<Guatemala> <book.book_subject.works> "Tree Girl" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3tsl7" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3x3xn" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4lz8l" .
+<Third_level_divisions> <type.property.schema> "Country" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4zv29" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc455y9" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3z1m7" .
+<Mopan_River> <geography.river.basin_countries> "Guatemala" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4lz67" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc50clf" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4s1mh" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3mss5" .
+<Hondo_River> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t7z" .
+<Guatemala> <book.author.works_written> "Ley de titulación supletoria" .
+<Guatemala> <location.statistical_region.diesel_price_liter> "g.12cp_jr1s" .
+<Guatemala> <book.book_subject.works> "I, Rigoberta Menchu" .
+<Fourth_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.124608x81" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxdy" .
+<Usumacinta_River> <location.location.partially_contained_by> "m.0wg98ng" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4fs55" .
+<Guatemala> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc4hy_d" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4_7nf" .
+<Country> <freebase.type_profile.published> "Published" .
+<Chingo> <geography.mountain.mountain_type> "Stratovolcano" .
+<Guatemala> <base.aareas.schema.administrative_area.pertinent_type> "Guatemalan municipality" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc51hgt" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3f53m" .
+<Guatemala> <book.author.works_written> "Ley general de descentralización" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3_4f4" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "National Liberation Movement" .
+<Guatemala> <location.statistical_region.part_time_employment_percent> "g.1hhc3twzx" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8blr" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.12460kbfp" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245__rdl" .
+<Hurricane_Francelia> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Third_level_division_of> <rdf-schema#range> "Country" .
+<Lempa_River> <location.location.partially_contained_by> "m.0wg98ns" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Grave_secrets> <book.written_work.subjects> "Guatemala" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_5xdn" .
+<m.0wg98ns> <location.partial_containment_relationship.partially_contains> "Lempa River" .
+<m.010fz4nn> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98mm" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4rrh8" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxg5" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245yz6ym" .
+<Hurricane_Greta–Olivia> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.0j5_7sp" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4wh1s" .
+<SacatepequezGUAT> <common.image.appears_in_topic_gallery> "Pastores" .
+<Second_level_division_of> <type.property.master_property> "Second level divisions" .
+<Sacatepéquez_Department> <location.location.containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bn8" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc534bj" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3y68m" .
+<m.0wg98rr> <location.partial_containment_relationship.partially_contains> "Grijalva River" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxmh" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc5510g" .
+<Guatemala> <book.author.works_written> "Codigo penal y exposición de motivos" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.12tb6ggyt" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4stwt" .
+<Guatemala> <location.country.administrative_divisions> "Baja Verapaz Department" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3ltx1" .
+<Guatemala> <book.author.works_written> "Catálogo razonado de las leyes de Guatemala" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245zj329" .
+<Suchiate_River> <location.location.partially_containedby> "Guatemala" .
+<Guatemala> <location.location.partially_contains> "Volcán Tacaná" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4qhcr" .
+<Guatemala> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc47g2n" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t3k" .
+<m.0pcrnjg> <olympics.olympic_athlete_affiliation.olympics> "1952 Summer Olympics" .
+<1952_Summer_Olympics> <olympics.olympic_games.participating_countries> "Guatemala" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc52vdq" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3f_5m" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_cphy" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc492tq" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245yw4df" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "1934 Central America hurricane" .
+<Ixcán_River> <location.location.partially_contained_by> "m.0wg98r6" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.124611833" .
+<m.010fz6wc> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Earth> <base.aareas.schema.administrative_area.administrative_area_type> "Administrative Area" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3szfv" .
+<m.05gpff4> <location.adjoining_relationship.adjoins> "Guatemala" .
+<Sacatepéquez_Department> <location.administrative_division.country> "Guatemala" .
+<m.0kcfd95> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245zx_d1" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6h4_0" .
+<FIPS_10-4> <base.aareas.coding_scheme.levels> "State/Province" .
+<Guatemala> <location.country.administrative_divisions> "Sacatepéquez" .
+<m.0wg98mz> <location.partial_containment_relationship.partially_contains> "Motagua River" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc37pv2" .
+<Administrative_Division> <type.type.expected_by> "Administrative Divisions" .
+<m.0d9gcvk> <government.national_anthem_of_a_country.country> "Guatemala" .
+<Third_level_divisions> <rdf-schema#domain> "Country" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3pyh_" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_j1df" .
+<Guatemala> <location.statistical_region.diesel_price_liter> "g.1hhc44wfb" .
+<First_level_division_of> <rdf-schema#range> "Country" .
+<Volcán_Tacaná> <geography.mountain.mountain_type> "Volcano" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc45dl8" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245zqy_7" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245zfw95" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.124604hdl" .
+<m.0kcfd83> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_pns2" .
+<Guatemala> <base.aareas.schema.administrative_area.subdividing_type> "Guatemalan department" .
+<Guatemala> <location.statistical_region.net_migration> "g.1s060tmx4" .
+<m.0pcrnjg> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Ciudad_Vieja> <common.topic.notable_for> "g.1258c4k77" .
+<Guatemala> <book.author.works_written> "Ley de áreas protegidas" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc44zxn" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc3vxsm" .
+<Americas> <location.location.time_zones> "Central Time Zone" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3smwg" .
+<Ixcán_River> <geography.river.basin_countries> "Guatemala" .
+<m.0bj8g4f> <sports.competitor_country_relationship.country> "Guatemala" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3cwcv" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4y_m5" .
+<Guatemala> <book.author.works_written> "Ley contra la delincuencia organizada" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.11b60z05dm" .
+<Guatemala> <location.location.partially_contains> "Usumacinta River" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3vhj0" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3mbxg" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4tfqq" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4wcb_" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Anna" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.124609ndv" .
+<Guatemala> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc4xmym" .
+<Guatemala> <location.location.events> "2014 Southern Mexico earthquake" .
+<m.0zdfr19> <military.military_combatant_group.combatants> "Guatemala" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4zyg9" .
+<m.0wg98mt> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t3b" .
+<Beyond_the_Mexique_Bay> <book.written_work.subjects> "Central America" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5ng2" .
+<Sovereign_state> <freebase.type_hints.included_types> "Location" .
+<Unionist_Party> <organization.organization.geographic_scope> "Guatemala" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4f80h" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc3kg8w" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4wxcs" .
+<Guatemala> <olympics.olympic_participating_country.medals_won> "m.07ksw28" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72cv" .
+<m.0wg98ng> <location.partial_containment_relationship.partially_contains> "Usumacinta River" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fyvxn" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1s05_q585" .
+<Motagua_River> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3qg6x" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0khr8gm" .
+<Volcán_de_Agua> <common.topic.article> "m.04fxgj" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_q_2v" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6g_gf" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3hl" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3wv0c" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0kcfd95" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc44_0m" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1q5k22mnt" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.12460nltt" .
+<Chingo> <location.location.containedby> "Sierra Madre de Chiapas" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4tk11" .
+<Salinas_River> <geography.river.basin_countries> "Guatemala" .
+<Usumacinta_River> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc42fkn" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t27" .
+<Guatemala> <location.statistical_region.time_required_to_start_a_business> "g.1hhc40447" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245z8dxp" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bkn" .
+<Antigua_Guatemala> <location.location.geolocation> "m.0239y6w" .
+<Mountain> <freebase.type_profile.strict_included_types> "Topic" .
+<Motagua_River> <geography.river.basin_countries> "Guatemala" .
+<Country> <owl#inverseOf> "Administrative Divisions" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245zpmqn" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4dlqb" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxgp" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1246059y7" .
+<Mountain> <freebase.type_hints.included_types> "Location" .
+<San_Pedro_River> <geography.river.origin> "Guatemala" .
+<Guatemala> <location.statistical_region.diesel_price_liter> "g.12cp_jvkg" .
+<Ciudad_Vieja> <common.topic.article> "m.075tcp" .
+<Country> <type.property.schema> "Administrative Division" .
+<Alta_Verapaz_Department> <base.aareas.schema.administrative_area.administrative_area_type> "Guatemalan department" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245_bzc1" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc5089j" .
+<Guatemala_Department> <base.aareas.schema.administrative_area.administrative_area_type> "Guatemalan department" .
+<Guatemala> <location.statistical_region.brain_drain_percent> "g.1hhc4114n" .
+<Volcán_de_Agua> <location.location.containedby> "Central America Volcanic Arc" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc52ms4" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3xccw" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.subdivides_place> "Earth" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4n07n" .
+<m.010fyw5b> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_1jb5" .
+<Guatemala> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc474hy" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245__9_p" .
+<Country> <type.type.properties> "Second level divisions" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.124603kp2" .
+<m.010g5_fs> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala> <book.author.works_written> "Ley de contrataciones del Estado y su reglamento" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Jutiapa Department" .
+<Administrative_Division> <type.type.expected_by> "City Seat" .
+<Grijalva_River> <location.location.partially_containedby> "Guatemala" .
+<Volcán_de_Agua> <common.topic.image> "Volcán de Agua" .
+<Guatemala> <book.book_subject.works> "Scandals in the house of birds" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Guatemala> <book.author.works_written> "Ley de alfabetización nacional" .
+<Americas> <location.location.contains> "Central America" .
+<Hurricane_Gert> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4b5j9" .
+<Guatemala> <book.author.works_written> "Rucʼux rukʼatbʼal tzij katinamital" .
+<San_Pedro_River> <location.location.partially_contained_by> "m.0wg98q4" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_parent> "Earth" .
+<Guatemalan_department> <base.aareas.schema.administrative_area_type.expected_codes> "ISO 3166-2" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4r388" .
+<m.0kcfdck> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Hurricane_Dean> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxm_" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.124604q70" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf968f" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3rxll" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4lp69" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4h7l0" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72hk" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf967y" .
+<Guatemala> <book.author.works_written> "Ley de lo contencioso administrativo" .
+<Volcán_de_Agua> <location.location.containedby> "Guatemala" .
+<Administrative_Area> <type.type.domain> "Administrative Areas" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3gh52" .
+<Guatemala> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4ypl3" .
+<Paz_River> <location.location.partially_contained_by> "m.0wg98rx" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4w10x" .
+<Guatemala> <location.statistical_region.diesel_price_liter> "g.12cp_jr1t" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf967f" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4r9j9" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc53_k3" .
+<Location> <freebase.type_profile.published> "Published" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245zdyrn" .
+<m.0wg98p_> <location.partial_containment_relationship.partially_contains> "Salinas River" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4zfgr" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72f4" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc37hb2" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4t_my" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Barbara" .
+<Guatemala> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc474k3" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4n0g4" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4f7_v" .
+<Guatemala> <location.country.administrative_divisions> "Totonicapán Department" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc47k9l" .
+<m.0wg98rr> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Moho_River> <location.location.partially_contained_by> "m.0wg98qp" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3jg" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245ysjzn" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc38m6s" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245_gjy0" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3w6dm" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3pmy0" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1246153g_" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245_t0qz" .
+<Earth> <base.aareas.schema.administrative_area.subdividing_type> "Sovereign state" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4n78v" .
+<Fourth_level_division_of> <type.property.expected_type> "Country" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0khr663" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245_cplb" .
+<Administrative_Division> <type.type.domain> "Location" .
+<Guatemala> <book.author.works_written> "Leyes de inmigración y extranjería" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3c4pc" .
+<Guatemala> <periodicals.newspaper_circulation_area.newspapers> "Prensa Libre" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc48thj" .
+<Xalbal_River> <location.location.partially_containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.12460kjnh" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245z_w3_" .
+<Guatemala> <olympics.olympic_participating_country.olympics_participated_in> "1952 Summer Olympics" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3gtb8" .
+<Guatemala> <sports.sport_country.athletes> "m.0bj8g3_" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc469pc" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245_zlsd" .
+<Sacatepéquez_Department> <base.schemastaging.context_name.pronunciation> "g.125_kvrtb" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3qww_" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc4l4k7" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc4f83b" .
+<Administrative_Divisions> <type.property.schema> "Country" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3pjkx" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4403f" .
+<Guatemala> <book.author.works_written> "Ocho leyes importantes" .
+<Merrick> <book.written_work.subjects> "Guatemala" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3qws3" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.12460nlcv" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf728k" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc425zz" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc3d2t8" .
+<Country> <type.type.domain> "Location" .
+<FOX_Vakanties> <travel.tour_operator.travel_destinations> "Guatemala" .
+<Second_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72h_" .
+<Beyond_the_Mexique_Bay> <book.written_work.subjects> "Latin America" .
+<Guatemala> <common.topic.image> "Antigua 3" .
+<Suchiate_River> <geography.river.origin> "Volcán Tacaná" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4lzf4" .
+<Country> <type.property.expected_type> "Country" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Location" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc41b_k" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bl9" .
+<Guatemala> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3xpnn" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc3yflb" .
+<Guatemala> <book.author.works_written> "Leyes de la modernización tributaria" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc4n7fs" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3yv46" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<m.05gpdxf> <location.adjoining_relationship.adjoins> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245_zzpp" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245__rv9" .
+<Salinas_River> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nb4" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3bykg" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245_f0st" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4c0cd" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.12cp_jm7k" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zs72t" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4bpjr" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72hs" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3mt" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Agent" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1246066q5" .
+<Mopan_River> <geography.river.origin> "Guatemala" .
+<Location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxjf" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460264t" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3p665" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4dtcn" .
+<Scandals_in_the_house_of_birds> <book.written_work.subjects> "Central America" .
+<Guatemala> <book.book_subject.works> "Grave secrets" .
+<Guatemala_Department> <common.topic.notable_types> "Administrative Division" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc4vdjp" .
+<State/Province> <base.aareas.administrative_area_level.coding_schemes> "ISO 3166-2" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4czl8" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4gqt_" .
+<Guatemala> <organization.organization_member.member_of> "m.04ddvxq" .
+<Hurricane_Joan–Miriam> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72hb" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245_qtbl" .
+<Guatemala> <location.location.partially_contains> "Xalbal River" .
+<Guatemala> <book.author.works_written> "Ley protectora de la Antigua Guatemala" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4by3w" .
+<Alta_Verapaz_Department> <location.administrative_division.country> "Guatemala" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3kp5l" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72bj" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96d5" .
+<North_America> <base.locations.continents.countries_within> "Guatemala" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5ncg" .
+<Guatemala> <organization.organization_member.member_of> "m.059wbjf" .
+<Guatemala> <location.country.administrative_divisions> "Chimaltenango Department" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3gln1" .
+<Salinas_River> <location.location.partially_contained_by> "m.0wg98p_" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5n9y" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4z38b" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.12460r1j8" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.pertains_to> "Earth" .
+<Fourth_level_divisions> <type.property.reverse_property> "Fourth level division of" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fz4pn" .
+<Hondo_River> <location.location.partially_contained_by> "m.0wg98n9" .
+<Second_level_division_of> <type.property.expected_type> "Country" .
+<Guatemala> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc4lzft" .
+<Volcán_de_Agua> <geography.mountain.mountain_type> "Stratovolcano" .
+<Fourth_level_divisions> <owl#inverseOf> "Fourth level division of" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc41kwz" .
+<Guatemala> <location.country.form_of_government> "Presidential system" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Guatemala> <location.location.partially_contains> "Salinas River" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4n78w" .
+<First_level_division_of> <type.property.expected_type> "Country" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_tlzh" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3j0" .
+<m.010fz4yl> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Hurricane_Felix> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Congress_of_Guatemala> <government.governmental_body.jurisdiction> "Guatemala" .
+<Administrative_Division> <type.type.expected_by> "First level divisions" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245_f6y1" .
+<m.010fyw1g> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala> <book.book_subject.works> "Beyond the Mexique Bay" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245zn3hh" .
+<Sovereign_state> <base.aareas.administrative_area_level.examples> "Sovereign state" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3h6xt" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_06ts" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4kjwb" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.124601tlh" .
+<m.0kcfd3m> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72cd" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245ysy0c" .
+<Volcán_Tacaná> <geography.mountain.mountain_type> "Stratovolcano" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zbp6c" .
+<Guatemala> <location.statistical_region.diesel_price_liter> "g.12cp_kbkg" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0kh0_rn" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.124613766" .
+<m.04p8xkq> <organization.organization_membership.member> "Guatemala" .
+<Administrative_Division> <type.type.expected_by> "location_administrative_divisions" .
+<Guatemala> <symbols.flag_referent.flag> "m.0jrc5v4" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.11b71x616w" .
+<Country> <freebase.type_profile.strict_included_types> "Agent" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nc7" .
+<Chingo> <location.location.partially_containedby> "Guatemala" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Abstract" .
+<Guatemala> <military.military_combatant.military_conflicts> "m.0zdfr19" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4ysns" .
+<Guatemala> <book.author.works_written> "Código municipal y sus reformas" .
+<Third_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc40rcd" .
+<Ley_de_arbitraje> <book.written_work.author> "Guatemala" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0kcfd6y" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc4f7kc" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4r9mg" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96fp" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nhn" .
+<Guatemalan_department> <type.type.domain> "Administrative Areas" .
+<SacatepequezGUAT> <common.image.appears_in_topic_gallery> "Sacatepéquez" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3_gll" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxkq" .
+<Jacaltenango> <common.topic.notable_for> "g.1256617k3" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4ks06" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_jsp4" .
+<Central_America> <meteorology.cyclone_affected_area.cyclones> "Tropical Storm Arthur" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc45dks" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3cc79" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bmv" .
+<City/Town/Village> <freebase.type_hints.included_types> "Dated location" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3s6xk" .
+<Antigua_Guatemala> <common.topic.image> "Antiguachurch" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4qpkd" .
+<Congress_of_Guatemala> <government.governmental_body.members> "m.0wzgh28" .
+<Ciudad_Vieja> <location.location.containedby> "Sacatepéquez Department" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc49nfn" .
+<m.0wg98r6> <location.partial_containment_relationship.partially_contains> "Ixcán River" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4rmx6" .
+<m.0wg98ny> <location.partial_containment_relationship.partially_contains> "Xalbal River" .
+<m.0wg98p2> <location.partial_containment_relationship.partially_contains> "Cuilco River" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.124601tm0" .
+<Statistical_region> <type.type.domain> "Location" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc47g5j" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6hc24" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nk5" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4lzgt" .
+<Guatemala> <location.location.partially_contains> "Ixcán River" .
+<Guatemala> <location.country.administrative_divisions> "Sacatepéquez Department" .
+<m.0wg98p2> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc48hw3" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<Guatemala> <olympics.olympic_participating_country.olympics_participated_in> "2008 Summer Olympics" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc53l3k" .
+<SacatepequezGUAT> <common.image.size> "m.029fv96" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_55kw" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc3wdmw" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3yvf2" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72gp" .
+<m.0l4q0z5> <olympics.olympic_medal_honor.country> "Guatemala" .
+<Guatemala> <government.governmental_jurisdiction.agencies> "Guatemalan Ministry of Defence" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1s063wl5y" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fz6wc" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_t13r" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4wxct" .
+<Guatemala> <location.statistical_region.part_time_employment_percent> "g.1hhc4n78s" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3dz7g" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4d21m" .
+<Country> <rdf-schema#domain> "Administrative Division" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Abstract" .
+<Volcán_de_Agua> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4mhl7" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Dolly" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc438nm" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc4s1pf" .
+<Guatemala> <location.statistical_region.diesel_price_liter> "g.12cp_j7js" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.12460c4bq" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc53c92" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72d1" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc530zn" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.12460kjnj" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3tp0c" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3w6ks" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxm7" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bkf" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4tfnx" .
+<Guatemala> <book.author.works_written> "Recopilación de leyes de fomento industrial" .
+<Guatemala> <location.location.partially_contains> "Suchiate River" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4_k7r" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72cm" .
+<m.0kh0_rn> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<San_Pedro_River> <location.location.partially_containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4rrsp" .
+<Antigua_Guatemala> <location.location.people_born_here> "Carlos Wyld Ospina" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98n4" .
+<Jocotenango> <common.topic.notable_types> "Location" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.12460xxyp" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3vpq3" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5n8m" .
+<Volcán_de_Agua> <location.location.containedby> "Sierra Madre de Chiapas" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.12460981c" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.124609gyh" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4n0f9" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4pwtq" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxfp" .
+<Guatemala> <film.film_location.featured_in_films> "Which Way Home" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.124610xn0" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245_blmj" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc49nfp" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245zcfnr" .
+<Guatemala> <location.country.administrative_divisions> "Izabal Department" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fz6s1" .
+<Guatemala> <location.location.events> "2012 Festival Ícaro" .
+<Guatemala> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc50x67" .
+<Antigua_Guatemala> <common.topic.notable_types> "City/Town/Village" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245z6523" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245zfwpq" .
+<Guatemala> <book.book_subject.works> "The Long Night of White Chickens" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Central America Hurricane of 1941" .
+<Guatemala> <location.country.administrative_divisions> "Zacapa Department" .
+<Guatemala> <book.author.works_written> "Ley de patentes de invención" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4cnzt" .
+<Guatemala> <book.author.works_written> "Régimen de personal" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4zr36" .
+<Guatemala> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4rrl7" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.12tb6gtjd" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4114h" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3m08t" .
+<Guatemala> <book.author.works_written> "Ley de migración" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3kp0g" .
+<m.0khr9tn> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Tropical_Storm_Arthur> <meteorology.tropical_cyclone.affected_areas> "Central America" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc42fc2" .
+<Guatemala> <book.author.works_written> "Decreto número 1150" .
+<1934_Central_America_hurricane> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.location.partially_contains> "Mopan River" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc49vsg" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Francelia" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zs11b" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc50pjh" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.12460js44" .
+<Unitary_state> <government.form_of_government.countries> "Guatemala" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc3tsjn" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc3f1pq" .
+<Guatemala> <book.author.works_written> "Ttxuylal tcawbʼil ktanmi Guatemala" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxlq" .
+<Hurricane_Abby> <meteorology.tropical_cyclone.affected_areas> "Central America" .
+<Guatemala> <location.country.administrative_divisions> "Quiché Department" .
+<Guatemala_national_football_team> <sports.sports_team.location> "Guatemala" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4kjyl" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc37h7n" .
+<Sacatepéquez_Department> <location.location.contains> "Volcán de Agua" .
+<Guatemala> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc4hch2" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc4bxsh" .
+<Sierra_Madre_de_Chiapas> <geography.mountain_range.mountains> "Volcán Tacaná" .
+<Moho_River> <location.location.partially_containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4ygz4" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc4g979" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc526cd" .
+<m.010fz6dn> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Administrative_Division> <type.type.properties> "Country" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nd_" .
+<Americas> <location.location.contains> "North America" .
+<Antigua_Guatemala> <common.topic.image> "Antigua Chiesa di San Francesco" .
+<Sacatepéquez_Department> <common.topic.image> "SacatepequezGUAT" .
+<Ciudad_Vieja> <location.location.containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3rdly" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zm6fv" .
+<Suchiate_River> <location.location.partially_contained_by> "m.0wg98nm" .
+<Ixcán_River> <geography.river.origin> "Guatemala" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "Guatemalan Christian Democracy" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1246017kx" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4yc6w" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245zvs00" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010g5_gz" .
+<First_level_division_of> <type.property.master_property> "First level divisions" .
+<Guatemala> <book.author.works_written> "El principio del ABC" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc51_fy" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3l99b" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fyvyt" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4vdn8" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8blj" .
+<Guatemala> <book.author.works_written> "Leyes vigentes de reciente emisión" .
+<The_divine_husband> <book.written_work.subjects> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245yx9vs" .
+<m.07ksw28> <olympics.olympic_medal_honor.country> "Guatemala" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72ft" .
+<Guatemala> <book.author.works_written> "Arancel general para los registros de la propiedad" .
+<Guatemala> <location.location.containedby> "Central America" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72gg" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc51wzg" .
+<Prensa_Libre> <book.periodical.language> "Spanish Language" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nj9" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4b1gq" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fz4_4" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<Guatemala> <film.film_location.featured_in_films> "The Voice of The Voiceless" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3yf8d" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1s06rb8z8" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxlg" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4krfn" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_4dkw" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4q27q" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Sololá Department" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.12460s62_" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0kgrj63" .
+<Guatemala> <book.author.works_written> "Código civil" .
+<Administrative_Division> <type.type.expected_by> "Second level divisions" .
+<m.010g5_jd> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Cuilco_River> <location.location.partially_contained_by> "m.0wg98p2" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Location" .
+<m.0wg98rx> <location.partial_containment_relationship.partially_contains> "Paz River" .
+<Guatemala> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1s060nf1f" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3w6fy" .
+<Guatemala> <location.statistical_region.child_labor_percent> "g.1hhc512_y" .
+<Administrative_Area> <base.aareas.schema.administrative_area_type.expected_codes> "ISO 3166-2" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zcvdd" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3y315" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3_pkf" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc49f55" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4bpmb" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc41c9k" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4j935" .
+<m.0wg98n9> <location.partial_containment_relationship.partially_contains> "Hondo River" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245z9qly" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3qg9m" .
+<FIPS_10-4> <base.aareas.coding_scheme.levels> "Sovereign state" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245_w5cp" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4bpkd" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96gf" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72jw" .
+<Guatemala> <book.author.works_written> "Estatuto fundamental de gobierno" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc50x8t" .
+<m.0wg98nm> <location.partial_containment_relationship.partially_contains> "Suchiate River" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc50cnk" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4pg8v" .
+<Guatemala> <military.military_combatant.military_commanders> "m.0zdfrdl" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3bn11" .
+<Guatemala> <government.governmental_jurisdiction.agencies> "Consejo Nacional de Areas Protegidas" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc4ysnk" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Richard" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t79" .
+<Patriotic_Party> <organization.organization.geographic_scope> "Guatemala" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc414gm" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4wcb1" .
+<Guatemalan_department> <base.aareas.schema.administrative_area_type.subdividing_type> "Guatemalan municipality" .
+<Guatemala> <location.statistical_region.diesel_price_liter> "g.12cp_j3fm" .
+<Jacaltenango> <location.location.geolocation> "m.0237zf6" .
+<Guatemala> <location.statistical_region.diesel_price_liter> "g.12cp_jzmz" .
+<Sovereign_state> <freebase.type_hints.included_types> "Topic" .
+<Guatemala> <book.book_subject.works> "Poems of Sorrow" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245zrvvb" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72kb" .
+<Administrative_Divisions> <rdf-schema#domain> "Country" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3t8k5" .
+<m.0wg98qp> <location.partial_containment_relationship.partially_contains> "Moho River" .
+<Dated_location> <freebase.type_hints.included_types> "Location" .
+<Administrative_Division> <freebase.type_profile.published> "Published" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc49015" .
+<m.010fyvyt> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxh5" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245_0sjd" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4wpcf" .
+<Guatemala> <location.location.containedby> "Americas" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3dvql" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t85" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3j5vz" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3jp" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245z86tb" .
+<Guatemala> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4f88b" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245z0xf8" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3kc0b" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4r2_5" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4wcc0" .
+<m.04ddvxq> <organization.organization_membership.member> "Guatemala" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98n9" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t53" .
+<m.010fz4_4> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Mopan_River> <location.location.partially_contained_by> "m.0wg98n4" .
+<Hurricane_Adrian> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<m.05kynsn> <organization.organization_membership.organization> "United Nations" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1s065tvf6" .
+<Administrative_Division> <type.type.expected_by> "Administrative divisions" .
+<Central_America> <location.location.contains> "Guatemala" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bn1" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245zt6xp" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4k31x" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3l9d6" .
+<Beyond_the_Mexique_Bay> <book.written_work.subjects> "Guatemala" .
+<Dated_location> <freebase.type_hints.included_types> "Topic" .
+<Carlos_Wyld_Ospina> <people.person.place_of_birth> "Antigua Guatemala" .
+<2014_Southern_Mexico_earthquake> <event.disaster.areas_affected> "Guatemala" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8blz" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98p2" .
+<Hurricane_Hattie> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.0wzgh28" .
+<Antigua_Guatemala> <common.topic.image> "Streets of Antigua" .
+<Third_level_divisions> <type.property.reverse_property> "Third level division of" .
+<Guatemala> <book.author.works_written> "Ley orgánica del Instituto de Fomento Municipal" .
+<Administrative_Division> <freebase.documented_object.documentation> "m.02hpzsm" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc40rb3" .
+<Administrative_Division> <freebase.type_hints.included_types> "Location" .
+<Guatemala> <location.location.events> "1954 Guatemalan coup d'état" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3ms7k" .
+<Administrative_Area> <freebase.type_hints.included_types> "Topic" .
+<m.04g6d4z> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4jtj1" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4bpvt" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc53_jj" .
+<Volcán_de_Agua> <location.location.geolocation> "m.02_gm9y" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc45ts8" .
+<Fourth_level_division_of> <type.property.schema> "Administrative Division" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t1l" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc53cc2" .
+<Administrative_Division> <type.type.expected_by> "Fourth level divisions" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3jtr5" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.124612133" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4rrfk" .
+<Administrative_Division> <type.type.properties> "Third level division of" .
+<m.0zgl458> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Petén Department" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3j9hb" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3g2z2" .
+<Earth> <base.locations.planets.continents_within> "North America" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4t15g" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72dq" .
+<Guatemala> <book.author.works_written> "Los ferrocarriles en Guatemala .." .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t6w" .
+<Guatemala> <location.country.administrative_divisions> "Quetzaltenango Department" .
+<Administrative_Division> <type.type.properties> "Fourth level division of" .
+<Hondo_River> <location.location.partially_containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3k4" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4_7dy" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nhw" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4_7k0" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4pghm" .
+<Guatemala> <book.author.works_written> "Colección de tratados de Guatemala" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Fourth_level_divisions> <rdf-schema#domain> "Country" .
+<Fourth_level_division_of> <type.property.master_property> "Fourth level divisions" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Alta Verapaz Department" .
+<Jocotenango> <location.location.containedby> "Antigua Guatemala" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3jh_0" .
+<Guatemala_Department> <location.location.containedby> "Guatemala" .
+<Guatemala> <sports.sport_country.athletes> "m.0bj8g4f" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4zt_q" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0khr7l_" .
+<Guatemala> <book.author.works_written> "Cultural property: Recovery and return" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Abby" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3yv6p" .
+<Guatemala> <location.location.partially_contains> "Lempa River" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4t_kq" .
+<Usumacinta_River> <geography.river.basin_countries> "Guatemala" .
+<Administrative_Divisions> <rdf-schema#range> "Administrative Division" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4_s49" .
+<Guatemala> <film.film_subject.films> "Death in a Cornfield" .
+<Central_America> <meteorology.cyclone_affected_area.cyclones> "Hurricane Abby" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.12460chmh" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.12460m7wh" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3bmx8" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4_w62" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3mc2f" .
+<Central_America> <book.book_subject.works> "I, Rigoberta Menchu" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98mt" .
+<Third_level_division_of> <type.property.master_property> "Third level divisions" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245y_00z" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245zs7sq" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc50l7b" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3sb37" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc43v1h" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3lp" .
+<State/Province/Region> <type.property.expected_type> "Administrative Division" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4lz68" .
+<Sacatepéquez_Department> <common.topic.notable_for> "g.1255xwygl" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxnh" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4my43" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3gq6z" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98rr" .
+<First_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bmm" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245_j1br" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4wppy" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<Hurricane_Opal> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.statistical_region.time_required_to_start_a_business> "g.1hhc522z5" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bkw" .
+<Guatemala> <book.author.works_written> "Ley de clases pasivas" .
+<Guatemala> <sports.sports_team_location.teams> "Guatemala national football team" .
+<m.010fyvvc> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala_Department> <location.location.contains> "Guatemala City" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1s05_dkvc" .
+<The_Voice_of_The_Voiceless> <film.film.featured_film_locations> "Guatemala" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4ts70" .
+<Country> <type.property.reverse_property> "Administrative Divisions" .
+<Jacaltenango> <common.topic.notable_types> "City/Town/Village" .
+<Guatemala> <location.country.administrative_divisions> "Guatemala Department" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_jsp5" .
+<SacatepequezGUAT> <common.image.appears_in_topic_gallery> "San Lucas Sacatepéquez" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3kkph" .
+<Guatemala> <location.statistical_region.net_migration> "g.1q5jby4ys" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4t11q" .
+<m.07ksw28> <olympics.olympic_medal_honor.olympics> "1952 Summer Olympics" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3c180" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc44_0l" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3kwxl" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "San Marcos Department" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4czl7" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.11b60rqkt4" .
+<m.06gcn27> <type.property.expected_type> "Administrative Division" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3l979" .
+<Guatemala> <book.author.works_written> "Ley constitutiva de la República de Guatemala" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4dxzh" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72l6" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1246130lf" .
+<Ciudad_Vieja> <location.location.time_zones> "Central Time Zone" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3y6hk" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<Guatemala> <location.country.languages_spoken> "Spanish Language" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxhf" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf7296" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72fc" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.12cp_jr6v" .
+<Grijalva_River> <geography.river.basin_countries> "Guatemala" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Chimaltenango Department" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98mz" .
+<Guatemalan_department> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3f_lc" .
+<m.010fz6ft> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemalan_department> <base.aareas.schema.administrative_area_type.sovereignty> "Guatemala" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4fs1_" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc50sxx" .
+<Guatemalan_department> <type.type.properties> "Municipalities" .
+<Alotenango> <location.location.containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4qxm6" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3w6lf" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5njj" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3glnc" .
+<Guatemala> <book.author.works_written> "Plan de gobierno 1994-1995" .
+<Guatemala> <location.statistical_region.literacy_rate> "g.11b60w91gs" .
+<Central_America> <book.book_subject.works> "Scandals in the house of birds" .
+<Administrative_Division> <freebase.type_hints.included_types> "Dated location" .
+<Alotenango> <common.topic.notable_types> "Location" .
+<Guatemala> <base.ontologies.ontology_instance.equivalent_instances> "m.07nf263" .
+<Second_level_divisions> <owl#inverseOf> "Second level division of" .
+<National_Liberation_Movement> <organization.organization.geographic_scope> "Guatemala" .
+<Administrative_Division> <type.type.expected_by> "State/Province/Region" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245z8zf_" .
+<Administrative_Division> <type.type.properties> "Capital" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4cg0t" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5ncx" .
+<Guatemala> <base.locations.countries.continent> "North America" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc3jj24" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.12460pr3p" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245_d8xt" .
+<m.0kgrj63> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3vh88" .
+<Lempa_River> <location.location.partially_containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.net_migration> "g.1q5k9wzv9" .
+<Guatemala> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3mxlv" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4n78h" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4p1tv" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3s3db" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4h7l1" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5njz" .
+<Sacatepéquez_Department> <base.aareas.schema.administrative_area.administrative_parent> "Guatemala" .
+<Guatemala> <book.author.works_written> "Leyes de migración de Guatemala" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3cl2j" .
+<Guatemala_Department> <base.aareas.schema.administrative_area.administrative_parent> "Guatemala" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3msr8" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc44k3k" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4vdhk" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_h3rn" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nds" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxkz" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.12460chmg" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Baja Verapaz Department" .
+<Guatemala> <book.author.works_written> "Ley de lavado de dinero" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245__k34" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4wh3b" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc44659" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245zfvys" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3bdz7" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72d8" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245z03hr" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fz6ft" .
+<Manhunt_of_Joaquín_\"El_Chapo\"_Guzmán> <time.event.locations> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.12tb6fdrx" .
+<m.0wzgh28> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Jacaltenango> <location.statistical_region.population> "m.04m3s02" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3j2p2" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc431hf" .
+<Suchiate_River> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t5b" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.12tb6gnj7" .
+<Antigua_Guatemala> <travel.travel_destination.tourist_attractions> "San Francisco Church" .
+<Guatemala> <government.governmental_jurisdiction.agencies> "Ministry of Foreign Affairs" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245_n3bf" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245yx9vt" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc5290x" .
+<Tree_Girl> <book.written_work.subjects> "Guatemala" .
+<Administrative_Area> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4j1lk" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc481q7" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.124600mxr" .
+<Guatemala> <location.statistical_region.part_time_employment_percent> "g.1hhc3lm5k" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc42rr6" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf969f" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxjy" .
+<Guatemala> <book.author.works_written> "Leyes laborales" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.124612141" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4x6fs" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.12tb6gb17" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc51lr9" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc47k8g" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3sz8f" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3wv6f" .
+<Guatemala> <book.book_subject.works> "The divine husband" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nbt" .
+<First_level_divisions> <type.property.reverse_property> "First level division of" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96f5" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3r2kt" .
+<Guatemala> <book.author.works_written> "Decreto 2-14, Código militar" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245_4lwn" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Dated location" .
+<Guatemala_City> <location.location.containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.124611vvz" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245zfx1s" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12tb6g4kh" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc3h36y" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245zg_w1" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0kcfd4v" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4q8jz" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3zl64" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_area_type> "Sovereign state" .
+<Central_America_Volcanic_Arc> <location.location.contains> "Volcán Tacaná" .
+<Presidential_system> <government.form_of_government.countries> "Guatemala" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc4h4xm" .
+<Administrative_Division> <common.topic.article> "m.02hpzsm" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0kcfdck" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.12461182w" .
+<Latin_America> <location.location.containedby> "Americas" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3kl" .
+<Hurricane_Anna> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3j7" .
+<Guatemalan_department> <base.aareas.schema.administrative_area_type.subdivides_place> "Guatemala" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4yc2r" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t46" .
+<Antigua_Guatemala> <common.topic.article> "m.0146y4" .
+<Guatemala> <location.location.partially_contains> "San Pedro River" .
+<Hurricane_Barbara> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc403wj" .
+<Guatemala> <olympics.olympic_participating_country.medals_won> "m.0l4q0z5" .
+<m.059wbjf> <organization.organization_membership.member> "Guatemala" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc4_4cz" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96g5" .
+<Guatemala> <government.governmental_jurisdiction.agencies> "g.1214md4y" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf968y" .
+<1952_Summer_Olympics> <olympics.olympic_games.athletes> "m.0pcrnjg" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0kjk2fg" .
+<m.0j5_7sp> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Administrative_Division> <type.type.expected_by> "Third level divisions" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zfw19" .
+<Guatemala> <book.author.works_written> "Xnimal ruhil chakʼrabʼ re li tenamit Cuatema̲l =" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5n9h" .
+<m.0wg98n9> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1s0609gys" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4rf8_" .
+<Tropical_Storm_Arthur> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<SacatepequezGUAT> <common.image.appears_in_topic_gallery> "Sacatepéquez Department" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.124610xzh" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0kcfd64" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245yxj6z" .
+<Administrative_Division> <type.type.expected_by> "Administrative division" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc53pfy" .
+<San_Pedro_River> <location.location.containedby> "North America" .
+<Administrative_Division> <type.type.expected_by> "estado" .
+<Country> <freebase.type_hints.included_types> "Dated location" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc488x7" .
+<Motagua_River> <geography.river.origin> "Baja Verapaz Department" .
+<Chingo> <location.location.partially_contained_by> "m.0wg98mm" .
+<Motagua_River> <location.location.partially_containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72dh" .
+<SacatepequezGUAT> <common.image.appears_in_topic_gallery> "Alotenango" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4y483" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc54yhx" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bnh" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc50stf" .
+<Third_level_divisions> <owl#inverseOf> "Third level division of" .
+<Guatemala> <travel.travel_destination.tour_operators> "FOX Vakanties" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc462yf" .
+<Guatemala> <location.country.administrative_divisions> "San Marcos Department" .
+<Guatemala> <location.statistical_region.net_migration> "g.1q5k0j0gz" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4twv3" .
+<Volcán_de_Agua> <common.topic.notable_for> "g.1255whk3g" .
+<Guatemala> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4d1zb" .
+<Guatemala> <organization.organization_founder.organizations_founded> "United Nations" .
+<Fourth_level_division_of> <rdf-schema#range> "Country" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3dvqk" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72g7" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Tropical Storm Barbara" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_3v9f" .
+<Guatemalan_quetzal> <finance.currency.countries_used> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxnr" .
+<Central_America_Volcanic_Arc> <location.location.contains> "Volcán de Agua" .
+<Guatemala> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc47ng6" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245_f6y0" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4nnjk" .
+<Alotenango> <common.topic.image> "SacatepequezGUAT" .
+<Guatemala> <location.statistical_region.net_migration> "g.1q5k9w9wb" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.124618cb8" .
+<Lempa_River> <geography.river.basin_countries> "Guatemala" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf728b" .
+<Guatemala> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4dc_y" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3y6k9" .
+<Guatemala> <book.author.works_written> "Ley de licores y sus reformas" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fyv_1" .
+<Carlos_Wyld_Ospina> <people.person.nationality> "Guatemala" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3_kyr" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3z83_" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0pcrnjg" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t1t" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_9vnz" .
+<Guatemala> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc4krn_" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Jalapa Department" .
+<Sacatepéquez_Department> <location.location.geolocation> "m.0wml76g" .
+<Guatemala> <book.author.works_written> "Leyes de saneamiento, salubridad, higiene y vacuna" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3f8n3" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4x6bh" .
+<Guatemala> <location.statistical_region.foreign_direct_investment_net_inflows> "g.11b71pddpv" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zkdyx" .
+<Guatemala> <book.author.works_written> "Leyes de Guatemala" .
+<Country> <type.type.properties> "Administrative Divisions" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Suchitepéquez Department" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc403_6" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf967p" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fz6gs" .
+<Guatemala> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc469h_" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc53cf1" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245_m5v0" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4gdqz" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc48_yf" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3bf1j" .
+<Guatemala> <location.country.administrative_divisions> "Escuintla Department" .
+<Guatemala> <book.author.works_written> "Ley de bancos y grupos financieros" .
+<SacatepequezGUAT> <common.image.appears_in_topic_gallery> "Santo Domingo Xenacoj" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3yzc6" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3p644" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc4tft9" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.04g6d4z" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxf5" .
+<Xalbal_River> <location.location.partially_contained_by> "m.0wg98ny" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3yf2l" .
+<First_level_divisions> <rdf-schema#domain> "Country" .
+<Guatemala> <organization.organization_member.member_of> "m.05988lx" .
+<Guatemala> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3kkl1" .
+<Location> <type.type.domain> "Location" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3cc4c" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3pjhv" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3x7r6" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc4xf59" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.0zgl458" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3qwtq" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4cbmb" .
+<Hurricane_Abby> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Scandals_in_the_house_of_birds> <book.written_work.subjects> "Latin America" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245zdycz" .
+<Death_in_a_Cornfield> <film.film.subjects> "Guatemala" .
+<Country> <type.type.properties> "First level divisions" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.124602dfg" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3gq" .
+<Guatemala> <book.author.works_written> "Ley de extranjería" .
+<Guatemala> <organization.organization_member.member_of> "m.04p8xkq" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4wpmj" .
+<m.0wg98q4> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Guatemala> <location.country.official_language> "Spanish Language" .
+<Guatemalan_Civil_War> <time.event.locations> "Guatemala" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3f8k2" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc54qyt" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245_qf1q" .
+<Guatemala> <book.author.works_written> "Ley de educación nacional" .
+<m.0wg98q4> <location.partial_containment_relationship.partially_contains> "San Pedro River" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nbc" .
+<Guatemala> <location.location.partially_contains> "Paz River" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t0y" .
+<m.0zdfrdl> <military.military_command.military_combatant> "Guatemala" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc37x4f" .
+<m.0kcfd4v> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t3s" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf729w" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Santa Rosa Department, Guatemala" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3sn2z" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4wpqm" .
+<Jocotenango> <location.location.containedby> "Guatemala" .
+<FIPS_10-4> <base.aareas.coding_scheme.geo_scope> "Earth" .
+<Cuilco_River> <geography.river.origin> "Guatemala" .
+<Fourth_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Guatemala> <book.author.works_written> "Ley que reglamenta la piscicultura y la pesca" .
+<Volcán_Tacaná> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc474bj" .
+<Xalbal_River> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc37_kr" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4wt62" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.12cp_jr3z" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1q5k0nz9s" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nfn" .
+<m.0wg98qp> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Central_America_Hurricane_of_1941> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245_n3b6" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_v0fr" .
+<North_America> <location.location.containedby> "Americas" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc50_tn" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245_7s_7" .
+<Mountain> <freebase.type_profile.published> "Published" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4d1yp" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxlz" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96fy" .
+<m.04dj2wg> <organization.organization_membership.member> "Guatemala" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3xt5k" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96cf" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1246098gd" .
+<m.010g5_gz> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5ngz" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72jf" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6f6_9" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96by" .
+<Sovereign_state> <base.aareas.schema.administrative_area.administrative_area_type> "Administrative Area" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_b1g_" .
+<Guatemala> <location.country.internet_tld> "gt" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3kc" .
+<Guatemala> <book.author.works_written> "Ceremonial diplomatico de Guatemala" .
+<Guatemala> <book.author.works_written> "Ley de arbitraje" .
+<Guatemala> <book.author.works_written> "Leyes bancarias y financieras de Guatemala" .
+<Xalbal_River> <geography.river.origin> "Guatemala" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t2p" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3ltr4" .
+<Guatemala> <location.country.form_of_government> "Unitary state" .
+<Guatemala> <book.author.works_written> "Legislación educativa" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4j8p_" .
+<Administrative_Division> <freebase.type_profile.kind> "Description" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010g5_fs" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fz6tz" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "Revolutionary Party" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc45_sf" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3kpb2" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc5230b" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3jy" .
+<Moho_River> <geography.river.basin_countries> "Guatemala" .
+<State/Province/Region> <rdf-schema#range> "Administrative Division" .
+<m.07nf263> <base.ontologies.ontology_instance_mapping.freebase_topic> "Guatemala" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc3x3_t" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Zacapa Department" .
+<m.010fyv_1> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3g63c" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t4g" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxff" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Quiché Department" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3hbgh" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nj2" .
+<Ixcán_River> <location.location.partially_containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc508gh" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc52vfz" .
+<Jacaltenango> <location.location.containedby> "Guatemala" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.level> "Sovereign state" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3msnr" .
+<Antigua_Guatemala> <location.location.containedby> "Guatemala" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Opal" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4d20w" .
+<Guatemalan_department> <base.aareas.schema.administrative_area_type.iso_country> "Guatemala" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245zkm3y" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t0q" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3vxp5" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.12461cldy" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245_8rh0" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72ks" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nhd" .
+<m.0kcfd6y> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<m.05gpddz> <location.adjoining_relationship.adjoins> "Guatemala" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4xdwg" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3kwr6" .
+<Guatemala> <organization.organization_member.member_of> "m.05kynsn" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3tkl7" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3rdy3" .
+<Second_level_divisions> <type.property.reverse_property> "Second level division of" .
+<Guatemala> <common.topic.notable_types> "Country" .
+<Guatemala> <location.location.adjoin_s> "m.05gpdxf" .
+<m.0khr8gm> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5n98" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72jn" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3y6bp" .
+<Sovereign_state> <base.aareas.administrative_area_level.coding_schemes> "FIPS 10-4" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3ms2v" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc481nx" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72br" .
+<Alta_Verapaz_Department> <common.topic.notable_types> "Administrative Division" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc46qv8" .
+<Guatemalan_department> <type.type.properties> "Capital" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_h3qd" .
+<Ciudad_Vieja> <common.topic.notable_types> "Location" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_qzt8" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t20" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4qprd" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6hc23" .
+<Third_level_division_of> <type.property.expected_type> "Country" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0khrbtc" .
+<m.0wg98ny> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<State/Province> <base.aareas.administrative_area_level.coding_schemes> "FIPS 10-4" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3lt_b" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "m.05nc3hg" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.124606ml9" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3mb" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc39kq1" .
+<Guatemala> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3jqc5" .
+<Guatemala> <book.author.works_written> "Ley de sanidad vegetal y animal" .
+<Central_America> <location.location.containedby> "Americas" .
+<Americas> <location.location.contains> "Latin America" .
+<Guatemala> <location.statistical_region.brain_drain_percent> "g.1hhc529dy" .
+<First_level_divisions> <owl#inverseOf> "First level division of" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.12460m8l9" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Greta–Olivia" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245ys4k_" .
+<Cuilco_River> <location.location.containedby> "North America" .
+<Antigua_Guatemala> <location.location.people_born_here> "Álvaro Hurtarte" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96gy" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t5s" .
+<Guatemala> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3h016" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_bzcw" .
+<Guatemala_City> <periodicals.newspaper_circulation_area.newspapers> "Prensa Libre" .
+<Sierra_Madre_de_Chiapas> <location.location.contains> "Volcán de Agua" .
+<Guatemala> <location.country.administrative_divisions> "Sololá Department" .
+<Scandals_in_the_house_of_birds> <book.written_work.subjects> "Guatemala" .
+<Guatemala> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3w6gj" .
+<Volcán_Tacaná> <common.topic.notable_types> "Mountain" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96bf" .
+<Dated_location> <freebase.type_profile.published> "Published" .
+<m.010fz6s1> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96h5" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4lzcd" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96bp" .
+<Central_America> <book.book_subject.works> "Beyond the Mexique Bay" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc46r3j" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4d8n3" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.12tb6gtfr" .
+<Guatemala> <book.author.works_written> "Leyes emitidas durante el año 1986" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3d6bc" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t7j" .
+<United_Nations> <organization.organization.founders> "Guatemala" .
+<Guatemala> <location.statistical_region.literacy_rate> "g.1hhc3l9bm" .
+<m.0wg98nm> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Cuilco_River> <geography.river.basin_countries> "Guatemala" .
+<Salinas_River> <location.location.partially_containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4h7p7" .
+<Guatemala> <location.statistical_region.net_migration> "g.1s0614pj7" .
+<Guatemala_City> <location.location.containedby> "Guatemala Department" .
+<Hurricane_Stan> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<m.0bj8g3_> <sports.competitor_country_relationship.country> "Guatemala" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3xc96" .
+<Xalbal_River> <geography.river.basin_countries> "Guatemala" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72lw" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_qtcp" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5ng9" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3m_n6" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3l0" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "Encuentro por Guatemala" .
+<Antigua_Guatemala> <location.location.people_born_here> "Álvaro Jiménez" .
+<Sovereign_state> <freebase.type_hints.included_types> "Administrative Area" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Chiquimula Department" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3yzc5" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc44sgb" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Retalhuleu Department" .
+<m.05kynsn> <organization.organization_membership.member> "Guatemala" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1q5jkp05b" .
+<Earth> <base.aareas.schema.administrative_area.pertinent_type> "Sovereign state" .
+<Latin_America> <location.location.time_zones> "Central Time Zone" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4czbc" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Dean" .
+<Guatemala> <location.location.partially_contains> "Grijalva River" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nd3" .
+<Administrative_Divisions> <type.property.expected_type> "Administrative Division" .
+<Guatemala> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3h342" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxk6" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "Unionist Party" .
+<State/Province> <freebase.type_hints.included_types> "Administrative Area" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.11b60z05gm" .
+<Guatemala> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4c3yt" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc45djk" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxhy" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc3dmp4" .
+<Hurricane_Paul> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6flwr" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t72" .
+<Ciudad_Vieja> <location.statistical_region.population> "g.11c3j2vk3q" .
+<Guatemala> <book.author.works_written> "Constitution of the Republic of Guatemala, 1965" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc388mm" .
+<2014_Southern_Mexico_earthquake> <time.event.locations> "Guatemala" .
+<Ixcán_River> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.12460kjmy" .
+<Hondo_River> <geography.river.basin_countries> "Guatemala" .
+<Guatemala> <location.statistical_region.literacy_rate> "g.1hhc3dr91" .
+<Guatemala> <book.author.works_written> "Ley del servicio civil y su reglamento" .
+<Jacaltenango> <common.topic.article> "m.075v6h" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc4q8ky" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72fl" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72k_" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9695" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Tropical Storm Arthur" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3gltf" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3fsp8" .
+<Guatemala> <book.book_subject.works> "Viva Colores: Un Saludo a La Indomable Gente De Guatamala" .
+<Guatemala> <book.author.works_written> "Código procesal penal" .
+<Antigua_Guatemala> <location.location.contains> "Jocotenango" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4xfd0" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.12460114v" .
+<Second_level_division_of> <type.property.schema> "Administrative Division" .
+<Paz_River> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf968p" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3z1kh" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.12460js2k" .
+<Administrative_Division> <freebase.type_profile.equivalent_topic> "Administrative division" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245z3hqh" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4qldp" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3jmc4" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96cp" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4czjg" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxhp" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245yxqhy" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98ny" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98qp" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc537zj" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3w0cz" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3pz14" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72b9" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bnq" .
+<Volcán_de_Agua> <common.topic.notable_types> "Mountain" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.12460cqcm" .
+<m.06gcn27> <rdf-schema#range> "Administrative Division" .
+<Country> <type.type.properties> "Fourth level divisions" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4b5m6" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72g0" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245zt62g" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Sacatepéquez Department" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3xpsf" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3g62j" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Cesar–Douglas" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc501nn" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4rf3w" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc41kbv" .
+<Guatemala> <location.country.capital> "Guatemala City" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc41klw" .
+<Second_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Guatemala> <book.author.works_written> "Códigos y leyes del ramo penal" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4x3dm" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.11b60rwzbc" .
+<Administrative_Division> <freebase.type_hints.included_types> "Topic" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245zn3gp" .
+<Guatemala> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4j8qw" .
+<Guatemala> <location.statistical_region.child_labor_percent> "g.1hhc3d2r1" .
+<Guatemalan_Republican_Front> <organization.organization.geographic_scope> "Guatemala" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4krfp" .
+<Guatemalan_department> <freebase.type_hints.included_types> "Topic" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t8d" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t3_" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245zn3gn" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4zykh" .
+<Guatemala> <location.country.currency_used> "Guatemalan quetzal" .
+<Jacaltenango> <location.location.containedby> "Sacatepéquez Department" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.12460dg5r" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4lg72" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3zps1" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bj_" .
+<Volcán_Tacaná> <location.location.partially_containedby> "Guatemala" .
+<Guatemala> <book.author.works_written> "Ley del impuesto al valor agregado" .
+<m.0kcfd7j> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4nf_h" .
+<Cuilco_River> <location.location.partially_containedby> "Guatemala" .
+<m.05988lx> <organization.organization_membership.member> "Guatemala" .
+<Volcán_de_Agua> <geography.mountain.mountain_type> "Volcano" .
+<m.0wzgh28> <government.government_position_held.governmental_body> "Congress of Guatemala" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.12tb6g_8s" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t6f" .
+<Guatemala> <location.country.administrative_divisions> "Alta Verapaz Department" .
+<Prensa_Libre> <book.newspaper.circulation_areas> "Guatemala City" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4n7gs" .
+<m.0khrbtc> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Sierra_Madre_de_Chiapas> <location.location.contains> "Chingo" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3_481" .
+<Salinas_River> <geography.river.origin> "Guatemala" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc3wv3q" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3c4j8" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6fszh" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4mhmb" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxj5" .
+<Guatemala> <location.statistical_region.renewable_freshwater_per_capita> "g.11b6p6pygn" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t4x" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245ysy0d" .
+<Guatemala> <organization.organization_member.member_of> "m.04dj2wg" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.12460b6q0" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72b2" .
+<Guatemala> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc46r92" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Escuintla Department" .
+<Guatemala> <book.author.works_written> "Reordenamiento económico del pais" .
+<Guatemala> <location.statistical_region.time_required_to_start_a_business> "g.1hhc54yfk" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf728_" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc50sr2" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245__jr9" .
+<Volcán_de_Agua> <location.location.containedby> "Sacatepéquez Department" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc42rm1" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.12460m861" .
+<Guatemala> <location.location.events> "Guatemalan Civil War" .
+<Guatemala> <location.statistical_region.child_labor_percent> "g.1q5k9vycl" .
+<Guatemala> <location.location.events> "2012 Guatemala earthquake" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3gy" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4n0g3" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4nw62" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3lx" .
+<Paz_River> <geography.river.basin_countries> "Guatemala" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72dy" .
+<First_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxkg" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98r6" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3r2hp" .
+<Lempa_River> <geography.river.origin> "Sierra Madre de Chiapas" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc5312x" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4gvs0" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc47k9k" .
+<m.0wg98rx> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4d1yq" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4kb2r" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.124611g7v" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc37prh" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245z4fqp" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0kcfd3m" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4wxj7" .
+<National_Advancement_Party> <organization.organization.geographic_scope> "Guatemala" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc431q3" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1q5jhf5m1" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc46hwd" .
+<Guatemala_City> <common.topic.notable_types> "City/Town/Village" .
+<m.0kjk2fg> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc4nrxw" .
+<North_America> <location.location.time_zones> "Central Time Zone" .
+<Ciudad_Vieja> <location.location.geolocation> "m.0clpl6j" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3l7" .
+<Guatemala> <sports.sport_country.athletes> "m.0bj8g32" .
+<Third_level_division_of> <type.property.schema> "Administrative Division" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.124609gz2" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4m8bd" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4xyn7" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc3qbvx" .
+<m.0v4cxsg> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Chingo> <common.topic.notable_types> "Mountain" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4lnyf" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3lm7c" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc41l3q" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "Revolutionary Action Party" .
+<m.0wg98mm> <location.partial_containment_relationship.partially_contains> "Chingo" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4d1xq" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245zylx9" .
+<Paz_River> <geography.river.origin> "Guatemala" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t01" .
+<Guatemala> <location.statistical_region.time_required_to_start_a_business> "g.1s067bwck" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4lzll" .
+<Motagua_River> <location.location.partially_contained_by> "m.0wg98mz" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc499lq" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.12tb6g_9d" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3dmj4" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6g_gd" .
+<m.0wg98mt> <location.partial_containment_relationship.partially_contains> "Volcán Tacaná" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc4nnmq" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_70p_" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.12460kk0v" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_d2mv" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf729f" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98rx" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3s3b_" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Iris" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_kbw5" .
+<Administrative_Division> <type.type.expected_by> "m.06gcn27" .
+<Guatemala> <book.book_subject.works> "Red Midnight" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4xdwf" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0khr9tn" .
+<m.0wg98p_> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3s6x1" .
+<Guatemala> <book.author.works_written> "Ley del mercado de valores y mercancias" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72kk" .
+<Administrative_Division> <type.type.properties> "FIPS 10-4 Region Code" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fz4nn" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc4xf1n" .
+<Guatemala> <location.country.administrative_divisions> "Chiquimula Department" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3tsgp" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc46qsg" .
+<Prensa_Libre> <book.newspaper.circulation_areas> "Guatemala" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.12cp_jvq9" .
+<Volcán_Tacaná> <location.location.containedby> "Sierra Madre de Chiapas" .
+<m.0jrc5v4> <symbols.flag_use.flag_user> "Guatemala" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t0h" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc51x1v" .
+<Guatemala> <book.author.works_written> "Ley electoral" .
+<m.02_4kk8> <location.adjoining_relationship.adjoins> "Guatemala" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc45_yx" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0khb8qb" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc5299l" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc3jqf2" .
+<Guatemala> <common.topic.webpage> "m.0b4602m" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Joan–Miriam" .
+<Antigua_Guatemala> <location.statistical_region.population> "g.11bc87zp3t" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3ht" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4g29q" .
+<First_level_division_of> <type.property.schema> "Administrative Division" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3_85s" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6h4zz" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3tskg" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.12460x5ky" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc4f7x6" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4_0vb" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96gp" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98nm" .
+<Guatemala> <book.book_subject.works> "Merrick" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc40vm2" .
+<Tropical_Storm_Barbara> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc3mbv3" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3j2k3" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Hattie" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "National Advancement Party" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4dd5s" .
+<Sacatepéquez_Department> <common.topic.article> "m.0146yj" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4rrnh" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245z99zg" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3mk" .
+<Third_level_divisions> <type.property.expected_type> "Administrative Division" .
+<m.0khr663> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96b5" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.12460l426" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245_f6hh" .
+<Mountain> <freebase.type_profile.strict_included_types> "Location" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.124608jx5" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.11b60vfr2m" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.124602d0m" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4cg3s" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1246170rt" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc481sl" .
+<Suchiate_River> <geography.river.basin_countries> "Guatemala" .
+<Guatemala_Department> <location.administrative_division.country> "Guatemala" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3v2cc" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245_z6n5" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72lf" .
+<Guatemala> <location.location.adjoin_s> "m.05gpddz" .
+<Hurricane_Gordon> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.country.administrative_divisions> "Petén Department" .
+<Lempa_River> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc40vnb" .
+<Guatemala> <common.topic.webpage> "m.0b6rs_n" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t08" .
+<Mountain> <freebase.type_hints.included_types> "Topic" .
+<Guatemala> <book.author.works_written> "Nueva Ley de armas y municiones y su reglamento" .
+<Guatemala> <location.statistical_region.renewable_freshwater_per_capita> "g.11b6c_6t70" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3p9k2" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3j5n0" .
+<Chingo> <location.location.partially_containedby> "Jutiapa Department" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3w6gq" .
+<Revolutionary_Party> <organization.organization.geographic_scope> "Guatemala" .
+<Revolutionary_Action_Party> <organization.organization.geographic_scope> "Guatemala" .
+<Guatemala> <location.statistical_region.diesel_price_liter> "g.12cp_jvkj" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_blmb" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4sh5g" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.124617mbt" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3cc3v" .
+<Guatemala> <location.statistical_region.net_migration> "g.1q5jhf5mt" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3n6ht" .
+<City/Town/Village> <freebase.type_hints.included_types> "Statistical region" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98ns" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3w6f7" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3v5x6" .
+<Guatemalan_department> <freebase.type_hints.included_types> "Administrative Area" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc4x68r" .
+<Guatemala> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4bxtw" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc549nr" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3xt8y" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Adrian" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc45dkr" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf969y" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96dy" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.expected_codes> "ISO 3166-2" .
+<Country> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4s1ln" .
+<Second_level_division_of> <rdf-schema#range> "Country" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5njr" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Totonicapán Department" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.12460qp15" .
+<Antigua_Guatemala> <location.location.people_born_here> "Adrián Recinos" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4x3dv" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.11b71lpbzv" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bmd" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245_3w3f" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3k0wv" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3h4" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc46r3h" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_myx3" .
+<m.0j1c01p> <common.webpage.topic> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96c5" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3hc" .
+<Guatemala> <location.country.administrative_divisions> "Suchitepéquez Department" .
+<m.0kcfd64> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gnd4" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.12tb6g4jk" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "Movimiento Nueva República" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc38hjw" .
+<Guatemala> <location.country.administrative_divisions> "Jalapa Department" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4xys3" .
+<m.0b6rs_n> <common.webpage.topic> "Guatemala" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4_7js" .
+<Guatemala> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc3_48g" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3cbz1" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4vlx2" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Guatemala> <book.author.works_written> "Decretos-leyes del actual gobierno" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3_pkd" .
+<Guatemala> <location.location.partially_contains> "Cuilco River" .
+<Guatemala> <location.location.partially_contains> "Chingo" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3b2mb" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4hz3l" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc49f54" .
+<Guatemala> <location.statistical_region.net_migration> "g.1s05_3sn7" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.12460lpcp" .
+<Guatemala> <book.author.works_written> "Ley de garantias de la republica de Guatemala" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bk6" .
+<Chingo> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3v2fy" .
+<Guatemala> <location.country.administrative_divisions> "Huehuetenango Department" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245zz3s2" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Huehuetenango Department" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4sv2x" .
+<Second_level_divisions> <type.property.schema> "Country" .
+<Volcán_Tacaná> <location.location.containedby> "Central America Volcanic Arc" .
+<Guatemala> <book.author.works_written> "Acuerdos suscritos entre el gobierno y la URNG" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4s8dq" .
+<Sierra_Madre_de_Chiapas> <location.location.contains> "Volcán Tacaná" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4h4nx" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4ns42" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3zl58" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t5k" .
+<Volcán_Tacaná> <geography.mountain.mountain_range> "Sierra Madre de Chiapas" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3mxjz" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4_7m9" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "g.1245zcv1t" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxjp" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc4j1hy" .
+<Antigua_Guatemala> <common.topic.notable_for> "g.125cd5p4j" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.11b71px2k6" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3kt" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Stan" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4yc4f" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245zdyc_" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nc0" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fz6dn" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t66" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3z8b2" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.12460g41q" .
+<Mopan_River> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72ln" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bm5" .
+<m.0wg98n4> <location.partial_containment_relationship.partially_contains> "Mopan River" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5n9q" .
+<m.0bj8g32> <sports.competitor_country_relationship.country> "Guatemala" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3n6jk" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4fzw6" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3d36q" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "Patriotic Party" .
+<Administrative_Division> <freebase.type_hints.included_types> "Statistical region" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3m0j2" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245zg249" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t4p" .
+<Second_level_divisions> <rdf-schema#domain> "Country" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxl6" .
+<Guatemala> <location.statistical_region.net_migration> "g.1q5k0h_k9" .
+<Dated_location> <type.type.domain> "Location" .
+<Guatemala> <location.statistical_region.net_migration> "g.1q5jhf340" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245z17s6" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc489mb" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1q5jh4_3h" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6h4z_" .
+<State/Province> <freebase.type_hints.included_types> "Location" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3v2gy" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245yw4cs" .
+<Guatemala> <book.author.works_written> "Adición a disposiciones tributarias" .
+<Moho_River> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245yz6yn" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3v29m" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxn7" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245yzf3r" .
+<Volcán_Tacaná> <location.location.partially_contained_by> "m.0wg98mt" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72k3" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1s0609k79" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245ys4zd" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gnd6" .
+<Institutional_Democratic_Party> <organization.organization.geographic_scope> "Guatemala" .
+<Guatemala> <location.country.administrative_divisions> "El Progreso Department" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3kg9z" .
+<The_Long_Night_of_White_Chickens> <book.written_work.subjects> "Guatemala" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc41c2_" .
+<Guatemala> <book.author.works_written> "Polos de desarrollo y servicios" .
+<Sovereign_state> <type.type.domain> "Administrative Areas" .
+<Guatemala> <book.author.works_written> "Ley de hidrocarburos" .
+<Jacaltenango> <location.location.containedby> "Huehuetenango Department" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxgy" .
+<Administrative_Divisions> <type.property.master_property> "Country" .
+<Grand_National_Alliance> <organization.organization.geographic_scope> "Guatemala" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.124609nfc" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Abstract" .
+<Guatemala> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3_sx6" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.12cp_jzs2" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4vm0m" .
+<Grijalva_River> <location.location.containedby> "North America" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245_jl86" .
+<Guatemala> <government.governmental_jurisdiction.government_bodies> "Congress of Guatemala" .
+<Guatemala> <location.country.form_of_government> "Constitutional republic" .
+<Which_Way_Home> <film.film.language> "Spanish Language" .
+<City/Town/Village> <type.type.domain> "Location" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3fl6x" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Abstract" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc4r36_" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fyvvc" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98ng" .
+<m.0bj8g3k> <sports.competitor_country_relationship.country> "Guatemala" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010g5_jd" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245zlvfd" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t2x" .
+<Administrative_Division> <type.type.properties> "ISO 3166-2 Code" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3m08v" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72c5" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.11b60xc_ns" .
+<Guatemala> <book.author.works_written> "Decreto gubernativo no. 879" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3qkp6" .
+<Country> <rdf-schema#range> "Country" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc3hsfr" .
+<m.04g6d4z> <olympics.olympic_athlete_affiliation.olympics> "2008 Summer Olympics" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc501nm" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc52y_t" .
+<Guatemala> <location.country.administrative_divisions> "Retalhuleu Department" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4vm38" .
+<m.0wg98mm> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Guatemala> <book.author.works_written> "Arbitraje de límites entre Guatemala y Honduras" .
+<m.0khb8qb> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "Grand National Alliance" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t6n" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4r2zp" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3qbqv" .
+<m.0kcfdb4> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<Guatemala> <book.author.works_written> "Ley de supervisión financiera" .
+<Hurricane_Cesar–Douglas> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3fslc" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5ndk" .
+<State/Province> <base.aareas.schema.administrative_area.administrative_area_type> "Administrative Area" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t7r" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72gx" .
+<Guatemala> <book.author.works_written> "Ley de transportes extraurbanos y su reglamento" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96df" .
+<Guatemala> <location.statistical_region.child_labor_percent> "g.1hhc3b5ws" .
+<Guatemala> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3p2hn" .
+<m.0khb9r4> <olympics.olympic_athlete_affiliation.country> "Guatemala" .
+<m.0b4602m> <common.webpage.topic> "Guatemala" .
+<Fourth_level_divisions> <type.property.schema> "Country" .
+<Administrative_Division> <type.type.properties> "Second level division of" .
+<m.010fz6gs> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Alta_Verapaz_Department> <location.location.containedby> "Guatemala" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4r9lg" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3xkx7" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.11b60wmkwn" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4sv41" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3n_15" .
+<Jocotenango> <location.location.time_zones> "Central Time Zone" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfb3lg" .
+<Latin_America> <location.location.contains> "Guatemala" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3yz9c" .
+<m.0wg98ns> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.11b71xcxg7" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.12460xxj8" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc4vm64" .
+<Guatemala> <common.topic.article> "m.03469" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3sb7d" .
+<Country> <freebase.type_hints.included_types> "Location" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245zm626" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3vq0t" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t2g" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4n75h" .
+<m.010fz4pn> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala> <location.statistical_region.diesel_price_liter> "g.12cp_jvkh" .
+<Mopan_River> <location.location.partially_containedby> "Guatemala" .
+<m.0wg98n4> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3cl71" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fyw5b" .
+<Guatemala> <location.statistical_region.time_required_to_start_a_business> "g.11b6p1vnng" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4f_3l" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245zt61l" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72j6" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0v4cxsg" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nkn" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245z1msx" .
+<Which_Way_Home> <film.film.featured_film_locations> "Guatemala" .
+<Guatemala> <location.location.adjoin_s> "m.05gpff4" .
+<Sacatepéquez_Department> <location.location.contains> "Antigua Guatemala" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.1hhc3l9jx" .
+<Alotenango> <location.location.time_zones> "Central Time Zone" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245zdrd1" .
+<Guatemala> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc4b1j6" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4r2yr" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.11b71w3_hp" .
+<Administrative_Division> <type.type.expected_by> "location_state_province_region" .
+<I,_Rigoberta_Menchu> <book.written_work.subjects> "Central America" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc46h_9" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5ngr" .
+<Guatemala> <location.statistical_region.time_required_to_start_a_business> "g.1hhc474cy" .
+<Alta_Verapaz_Department> <base.aareas.schema.administrative_area.administrative_parent> "Guatemala" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.11b60vk8kk" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc4qhbr" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0kcfdb4" .
+<Sacatepéquez_Department> <base.aareas.schema.administrative_area.administrative_area_type> "Guatemalan department" .
+<Fourth_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_wcz4" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gh46" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4rr8b" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3l5qx" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t33" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1q5jby51w" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6flws" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.12460h6w8" .
+<Guatemala> <location.statistical_region.part_time_employment_percent> "g.1hhc3d69l" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3s6pn" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Dated location" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "El Progreso Department" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "Renewed Democratic Liberty" .
+<Usumacinta_River> <location.location.partially_containedby> "Guatemala" .
+<I,_Rigoberta_Menchu> <book.written_work.subjects> "Guatemala" .
+<Guatemala> <location.location.containedby> "Latin America" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.12460ghpc" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245z8dx4" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245zf3wv" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc50ch2" .
+<Guatemala> <sports.sport_country.athletes> "m.0bj8g3k" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_n3c2" .
+<Grijalva_River> <location.location.partially_contained_by> "m.0wg98rr" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3_pj_" .
+<Antigua_Guatemala> <travel.travel_destination.tourist_attractions> "Casa K'ojom" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf729n" .
+<Country> <freebase.type_profile.strict_included_types> "Dated location" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4zv49" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_6vk0" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98p_" .
+<m.0wg98mz> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245_myv2" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_cwyg" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245y_03g" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc41c20" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_zlrb" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3qw__" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96dp" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Guatemala> <book.author.works_written> "El impuesto sobre la renta" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4kjzl" .
+<Country> <type.type.properties> "Third level divisions" .
+<Paz_River> <location.location.partially_containedby> "Guatemala" .
+<Hurricane_Fifi–Orlene> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf969p" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5n8v" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc3yfgd" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Guatemala Department" .
+<Guatemala> <location.location.partiallycontains> "m.0wg98q4" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.124611gmz" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Gert" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc4l4k0" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc455sh" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.11b60tv_9c" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t5_" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0khb9r4" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1246043sg" .
+<Guatemala> <location.country.national_anthem> "m.0d9gcvk" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc4r30f" .
+<Guatemala> <base.aareas.schema.administrative_area.pertinent_type> "Guatemalan department" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72bz" .
+<Guatemala> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc3pykn" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc44wlv" .
+<Country> <freebase.type_profile.strict_included_types> "Location" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc3zpr0" .
+<San_Pedro_River> <geography.river.basin_countries> "Guatemala" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc45qdp" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3h377" .
+<Country> <freebase.type_hints.included_types> "Statistical region" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96cy" .
+<Country> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf9685" .
+<Guatemala> <book.author.works_written> "Ley de pasaportes de la República de Guatemala" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxmr" .
+<Guatemala> <location.statistical_region.labor_participation_rate> "g.1hhc46qrg" .
+<Guatemala> <location.statistical_region.poverty_rate_2dollars_per_day> "g.1hhc5541f" .
+<Guatemala> <location.location.events> "Manhunt of Joaquín \'El Chapo\' Guzmán" .
+<Guatemala> <book.author.works_written> "Código fiscal de Guatemala" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0kcfd83" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc4y_xw" .
+<Encuentro_por_Guatemala> <organization.organization.geographic_scope> "Guatemala" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nh5" .
+<Guatemalan_department> <base.aareas.schema.administrative_area_type.pertains_to> "Guatemala" .
+<Sacatepéquez_Department> <common.topic.notable_types> "Administrative Division" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3kg4f" .
+<m.010fz6tz> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Felix" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4jxv7" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.12460v87d" .
+<Chingo> <geography.mountain.mountain_type> "Volcano" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5ndb" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "g.1245_zsyj" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.1q5k9w8j4" .
+<Guatemala> <book.author.works_written> "Ley de servicio civil" .
+<Sacatepéquez_Department> <location.location.contains> "Jacaltenango" .
+<Guatemala> <book.author.works_written> "Ley de la policia nacional civil y sus reglamentos" .
+<Guatemala> <location.location.partially_contains> "Motagua River" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3kp3f" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Gordon" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc485cr" .
+<Guatemala> <book.author.works_written> "Ley de nacionalidad y sus reformas" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4s80f" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc53sm4" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.124610xz1" .
+<Guatemala> <location.location.time_zones> "Central Time Zone" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4bpg3" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxgf" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245zhr2y" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Topic" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245_wcgn" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Quetzaltenango Department" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc3__wn" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc4596w" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf72h3" .
+<Guatemala> <sports.sports_team_location.teams> "Guatemala women's national volleyball team" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3j9hm" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3d66r" .
+<First_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Constitutional_republic> <government.form_of_government.countries> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245z78zp" .
+<Americas> <location.location.contains> "Guatemala" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4_s89" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc40k0d" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "m.0nf8bl2" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc52yyf" .
+<Guatemala> <location.country.administrative_divisions> "Jutiapa Department" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245_nhls" .
+<Guatemala> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6d2dq_d" .
+<Guatemala> <location.statistical_region.internet_users_percent_population> "g.1245_d2lc" .
+<Guatemala> <olympics.olympic_participating_country.athletes> "m.0kcfd7j" .
+<Guatemala> <location.country.administrative_divisions> "Santa Rosa Department, Guatemala" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.1hhc3zxn6" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6gnd5" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fyw1g" .
+<Guatemala> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4zb0k" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Fifi–Orlene" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t14" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc50cmm" .
+<Guatemala> <common.topic.webpage> "m.0j1c01p" .
+<Third_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245__b15" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5ngj" .
+<Guatemala> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nf96ff" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "m.0nf728s" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc48hrg" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Topic" .
+<Guatemala> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zs119" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.124614jkh" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.1245_67kp" .
+<Guatemala> <location.statistical_region.co2_emissions_per_capita> "g.124617tfm" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3h_4g" .
+<Guatemala> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3yfbc" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3s6jx" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc50sy1" .
+<Guatemala> <book.author.works_written> "Decreto-ley no. 229" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc438z6" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "Institutional Democratic Party" .
+<Spanish_Language> <language.human_language.countries_spoken_in> "Guatemala" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc40yx1" .
+<I,_Rigoberta_Menchu> <book.written_work.subjects> "Latin America" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4pgh3" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nkf" .
+<Guatemala> <location.statistical_region.electricity_consumption_per_capita> "m.0nf4t1c" .
+<Guatemala> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3jmgk" .
+<Antigua_Guatemala> <location.location.containedby> "Sacatepéquez Department" .
+<Administrative_Division> <type.type.properties> "First level division of" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4by2r" .
+<Hurricane_Richard> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<First_level_divisions> <type.property.schema> "Country" .
+<Guatemala> <government.governmental_jurisdiction.governing_officials> "m.010fz4yl" .
+<Guatemala> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4xys4" .
+<Guatemala> <location.location.partially_contains> "Moho River" .
+<Guatemala> <book.author.works_written> "Ley del organismo judicial" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc4mh7k" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5n91" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc449qq" .
+<Guatemala> <location.statistical_region.external_debt_stock> "g.1hhc39kpb" .
+<Guatemala> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4l7zd" .
+<Guatemala> <location.statistical_region.net_migration> "g.1q5jhn7q0" .
+<Guatemala> <common.topic.notable_for> "g.125fpx54q" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc3lm37" .
+<Guatemala> <location.statistical_region.official_development_assistance> "g.12cp_jzq_" .
+<Hurricane_Iris> <meteorology.tropical_cyclone.affected_areas> "Guatemala" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<Guatemala> <book.author.works_written> "Ganado, Diversas disposiciones gubernativas .." .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc40r93" .
+<Guatemala> <location.statistical_region.cpi_inflation_rate> "g.1hhc4lgdh" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "m.0nf5nfw" .
+<Guatemala> <meteorology.cyclone_affected_area.cyclones> "Hurricane Paul" .
+<North_America> <base.locations.continents.planet> "Earth" .
+<Second_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3wvc8" .
+<m.0wg98r6> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Guatemala> <location.statistical_region.gni_in_ppp_dollars> "m.0nfbxfy" .
+<Guatemalan_department> <freebase.type_hints.included_types> "Location" .
+<Guatemala> <book.author.works_written> "Código de trabajo y sus reformas" .
+<Guatemala> <location.statistical_region.consumer_price_index> "g.1hhc49nhg" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.1245zkf8z" .
+<Motagua_River> <geography.river.origin> "Quiché Department" .
+<m.010fyvxn> <government.government_position_held.jurisdiction_of_office> "Guatemala" .
+<Guatemala> <location.statistical_region.debt_service_as_percent_of_trade_volume> "g.1hhc3z8cm" .
+<Guatemala> <location.statistical_region.energy_use_per_capita> "g.124602dt2" .
+<m.0wg98ng> <location.partial_containment_relationship.partially_contained_by> "Guatemala" .
+<Guatemala> <base.aareas.schema.administrative_area.administrative_children> "Izabal Department" .
+<Guatemala> <location.statistical_region.deposit_interest_rate> "g.1hhc4sts7" .
+<Guatemala> <organization.organization_scope.organizations_with_this_scope> "Guatemalan Republican Front" .
+<Guatemala> <location.location.partially_contains> "Hondo River" .
+<Guatemala> <location.statistical_region.prevalence_of_undernourisment> "g.12tb6g4m7" .
+<Guatemala> <book.author.works_written> "Ley monetaria" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<Guatemala> <location.statistical_region.size_of_armed_forces> "g.1hhc3c1b1" .
+<Guatemala> <location.location.adjoin_s> "m.02_4kk8" .
+<Guatemala> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3g_zc" .
+<Guatemala> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc46h_b" .
+<Guatemala> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3vpz3" .
+<Guatemala> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3cbxv" .

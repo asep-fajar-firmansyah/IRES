@@ -1,0 +1,2357 @@
+<Sweden> <food.beer_country_region.beers_from_here> "Spendrups Julöl" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "g.1224bskh" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3npq3" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrw6f" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4_k78" .
+<Politics_of_Sweden> <government.governmental_body.members> "m.0byrn8y" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4y0xj" .
+<Financial_Supervisory_Authority> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.1245z8dw1" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc4bh72" .
+<Adventures_by_Disney_-_7-Night_Magic_of_the_Baltic_Cruise> <travel.tour_operator.travel_destinations> "Sweden" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.12tb6h4y3" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245zbndy" .
+<Blekinge_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Rainer_Maria_Rilke,_Ellen_Key> <book.written_work.subjects> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc46r07" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwkh" .
+<Sweden> <location.statistical_region.diesel_price_liter> "g.12cp_jvlq" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.124611gnq" .
+<Currency_Formerly_Used> <rdf-schema#range> "Currency" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.1245_388t" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc38qkf" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.1245zqyxv" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4d1x8" .
+<Carnegie_Porter> <food.beer.from_region> "Sweden" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3twzt" .
+<m.0b6z8_v> <military.military_command.military_combatant> "Sweden" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs0hj" .
+<Euroregion_Baltic> <location.location.partially_containedby> "Sweden" .
+<m.0byrn96> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Swedish_Security_Service> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <book.book_subject.works> "Rainer Maria Rilke, Ellen Key" .
+<Sweden> <location.location.partiallycontains> "m.0wyz3dm" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc40rh3" .
+<Sweden> <location.location.partiallycontains> "m.0wkgj18" .
+<Nordic_countries> <location.location.contains> "Scandinavia" .
+<Sweden> <organization.organization_member.member_of> "m.04p8x_7" .
+<m.0fq68g1> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Nordic Africa Institute" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <common.topic.webpage> "m.09wwkgc" .
+<Unitary_state> <government.form_of_government.countries> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460w022" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4_w" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4kjlj" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.12460z1v6" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3v93q" .
+<Sweden_women's_national_ice_hockey_team> <sports.sports_team.location> "Sweden" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4n091" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3yvdd" .
+<Sweden> <sports.sports_team_location.teams> "Sweden women's national football team" .
+<Blekinge_County> <location.location.containedby> "Euroregion Baltic" .
+<Lule_River> <location.location.partially_contained_by> "m.0wjpm0l" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsm_y" .
+<Sweden> <sports.sports_team_location.teams> "Sweden national football team" .
+<Zieliński_brothers_escape> <time.event.locations> "Sweden" .
+<Swedish_Institute_for_Language_and_Folklore> <government.government_agency.jurisdiction> "Sweden" .
+<The_Man_Who_Smiled> <book.written_work.original_language> "Swedish Language" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Västmanland County" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs0gf" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.12460pr2j" .
+<Countries_Used> <type.property.expected_type> "Country" .
+<Sweden> <location.statistical_region.brain_drain_percent> "g.1hhc4rrpf" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Ministry of Education and Research" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc47nt5" .
+<Sweden> <location.statistical_region.diesel_price_liter> "g.12cp_jchj" .
+<Sweden> <location.statistical_region.time_required_to_start_a_business> "g.1hhc47npb" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.124607sdt" .
+<Sweden> <location.statistical_region.foreign_direct_investment_net_inflows> "g.12tb6fdnk" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <common.topic.webpage> "m.09wn7jk" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9sd" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn83l" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4b1nn" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245_0s4m" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Maritime Administration" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Västerbotten County" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc37x7x" .
+<Gotland_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4118r" .
+<Sweden> <sports.sports_team_location.teams> "Sweden national basketball team" .
+<Countries_Used> <rdf-schema#range> "Country" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_n3q_" .
+<Sweden> <location.location.events> "Torstenson War" .
+<Swedish_Sign_Language> <language.human_language.main_country> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Financial Supervisory Authority" .
+<Sweden> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6c_6t7z" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3yvc1" .
+<Sweden> <location.statistical_region.time_required_to_start_a_business> "g.11b6nzlq6k" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4891j" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9tg" .
+<Currency> <type.type.expected_by> "Current" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4ywz_" .
+<Sweden_national_cricket_team> <cricket.cricket_team.country> "Sweden" .
+<Expressen> <book.periodical.language> "Swedish Language" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc462w7" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn25" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.12cp_jzsw" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3r_rx" .
+<Sweden> <location.location.containedby> "Nordic countries" .
+<Swedish_Customs_Service> <government.government_agency.jurisdiction> "Sweden" .
+<Swedish_Accident_Investigation_Authority> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Civil Aviation Administration" .
+<Sweden> <organization.organization_member.member_of> "m.04ddtym" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3f_qz" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.124614y1q" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245_nhnq" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "2002 Winter Olympics" .
+<Swedish_general_election,_2002> <time.event.locations> "Sweden" .
+<Sweden> <symbols.flag_referent.flag> "m.0jrbyb2" .
+<Västra_Götaland_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3jj1f" .
+<Västernorrland_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Sweden> <book.book_subject.works> "Unto a Good Land" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Rail Administration" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4f_0j" .
+<m.03xdzwy> <government.government_position_held.office_position_or_title> "Prime Minister of Sweden" .
+<Countries_Formerly_Used> <type.property.reverse_property> "Currency Formerly Used" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4f_6r" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3wv97" .
+<Sweden> <government.governmental_jurisdiction.government_bodies> "Andra kammaren" .
+<2009–10_Malmö_shootings> <time.event.locations> "Sweden" .
+<Torne> <geography.river.basin_countries> "Sweden" .
+<Sweden> <location.statistical_region.net_migration> "g.1q5k0trrg" .
+<The_Mittnorden_Committee> <location.location.partially_contained_by> "m.0wg8wv3" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3n_29" .
+<Swedish_National_Bank> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4lp36" .
+<Västernorrland_County> <location.administrative_division.second_level_division_of> "Sweden" .
+<Sweden> <location.country.administrative_divisions> "Västmanland County" .
+<Sweden> <location.country.administrative_divisions> "Västra Götaland County" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4vmfv" .
+<The_North_Calotte_Council> <location.location.partially_contained_by> "m.0wg8wtz" .
+<Sweden> <location.country.languages_spoken> "Meänkieli" .
+<Sweden> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3wdkg" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmyd" .
+<Klåva> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxvm" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3v29h" .
+<Torne> <location.location.containedby> "Europe" .
+<Swedish_Ministry_of_Employment> <government.government_agency.jurisdiction> "Sweden" .
+<m.09y9l5f> <common.webpage.topic> "Sweden" .
+<Sweden> <location.location.partially_contains> "Lule River" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsmd" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4stl8" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs020" .
+<Post-_och_Inrikes_Tidningar> <book.newspaper.circulation_areas> "Sweden" .
+<Sweden> <organization.organization_founder.organizations_founded> "SJ" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3jtxk" .
+<Sweden> <location.country.languages_spoken> "Turoyo Language" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9rx" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4hc8l" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.12tb6gtg7" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3k0fs" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4hc7f" .
+<Swedish_Ministry_of_Finance> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc422w4" .
+<Sweden> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4ypmh" .
+<Running_with_reindeer> <book.written_work.subjects> "Scandinavia" .
+<Sweden> <location.location.partially_contains> "Klarälven" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Södermanland County" .
+<Currency> <type.type.expected_by> "Currency" .
+<Malmö_Municipality> <location.administrative_division.country> "Sweden" .
+<Stockholm> <location.location.events> "Conquest of Stockholm" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.11b60sz8rt" .
+<Nordic_countries> <location.location.contains> "Sweden" .
+<Skåne_County> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4mhsw" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsf21" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.010gfsw_" .
+<Metro> <book.newspaper.circulation_areas> "Stockholm" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1q5jcqxsg" .
+<Swedish_municipality> <base.aareas.schema.administrative_area_type.pertains_to> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3pjlk" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_v0f6" .
+<Norrbotten_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3lm20" .
+<Sweden> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6cp2k5j" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4yx34" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Post- och Inrikes Tidningar" .
+<Sweden> <location.location.events> "Dano-Swedish War" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4lz5s" .
+<Adventures_by_Disney_-_7-Night_Magic_of_the_Baltic_Cruise> <travel.tour_operator.travel_destinations> "Scandinavia" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc4l7xm" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.011t357l" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3twv2" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Ministry of Defence" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460262_" .
+<Sweden> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc488y_" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3s6kf" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3cc72" .
+<Västernorrland_County> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3_4f8" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc5163w" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwbc" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3lv1t" .
+<Unto_a_Good_Land> <book.written_work.original_language> "Swedish Language" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc4vdvx" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_kjc2" .
+<Sweden> <location.location.events> "Northern Seven Years' War" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_ryq3" .
+<Östergötland_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc53pkz" .
+<Country> <freebase.type_profile.published> "Published" .
+<Sweden> <location.location.events> "2010 European Summer Time" .
+<Sweden> <travel.travel_destination.tour_operators> "  Adventures by Disney - 12-Night Magic of the Baltic Cruise" .
+<1948_Winter_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4z36b" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc51lpb" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.124617m9x" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc4xn1k" .
+<m.03xdzwy> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.124609827" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc47g4z" .
+<Sweden> <location.country.first_level_divisions> "Västra Götaland County" .
+<1896_Summer_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4wgvt" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc489gj" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.03xl5zp" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1245yxqds" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4lnw9" .
+<Sweden> <location.location.events> "Kalmar War" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4sh5s" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn6qn" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs03b" .
+<Värmland_County> <location.administrative_division.country> "Sweden" .
+<Swedish_county> <base.aareas.schema.administrative_area_type.subdividing_type> "Swedish municipality" .
+<Kronoberg_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Sweden> <location.country.first_level_divisions> "Kronoberg County" .
+<Dark_voyage> <book.written_work.subjects> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.124608kcq" .
+<Sweden> <location.location.partiallycontains> "m.0wg8wt9" .
+<Dano-Swedish_War_of_1808–09> <base.culturalevent.event.entity_involved> "Sweden" .
+<Sweden> <base.popstra.location.vacationers> "m.064st17" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs0jv" .
+<m.06dn7m9> <base.athletics.athletics_championships_competition_athlete_relationship.country> "Sweden" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3mb_g" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3cc7h" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.12cp_jzs9" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc438sb" .
+<Sweden> <common.topic.webpage> "m.09y2gb7" .
+<Sweden> <travel.travel_destination.tourist_attractions> "Tierp Arena" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3m_s2" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4wy" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245ysy10" .
+<Market_Court> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9sn" .
+<Sweden> <location.location.partiallycontains> "m.0wkg8dh" .
+<Botkyrka_Municipality> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.renewable_freshwater_per_capita> "g.11b6c_z3ws" .
+<Sweden> <location.country.administrative_divisions> "Halland County" .
+<m.0wg9h9r> <location.partial_containment_relationship.partially_contained_by> "Arctic" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.12460p4dh" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3r_rw" .
+<Muonio> <location.location.partially_containedby> "Sweden" .
+<Sweden> <location.location.events> "2012 Italian Film Festival" .
+<Sweden> <base.athletics.athletics_country.championships_athletes_performances> "m.06dn7m9" .
+<Muonio> <geography.river.mouth> "Torne" .
+<Ingrid:_Ingrid_Bergman,_A_Personal_Biography> <book.written_work.subjects> "Sweden" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <location.statistical_region.diesel_price_liter> "g.12cp_j7l7" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "1896 Summer Olympics" .
+<Polish–Swedish_War_(1621–25)> <time.event.included_in_event> "Polish–Swedish wars" .
+<The_Emigrants> <book.written_work.subjects> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9rn" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4m8c3" .
+<Stockholm_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Sweden_national_handball_team> <sports.sports_team.location> "Sweden" .
+<Karlholmen_Island> <location.location.containedby> "Sweden" .
+<Tierp_Arena> <location.location.containedby> "Uppsala County" .
+<Depths> <book.written_work.subjects> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "IB affair" .
+<Northern_Wars> <time.event.includes_event> "Dano-Swedish War" .
+<Swedish_Ministry_of_Education_and_Research> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "1952 Summer Olympics" .
+<Sweden> <location.location.events> "21st Guldbagge Awards" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zcmsr" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4zb0r" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Helsingin Sanomat" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.12cp_jcdm" .
+<Sweden_women's_national_football_team> <sports.sports_team.location> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4n7c8" .
+<Västerbotten_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4dd9p" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3kkpk" .
+<Invest_Sweden> <government.government_agency.jurisdiction> "Sweden" .
+<Livonian_War> <base.culturalevent.event.entity_involved> "Sweden" .
+<Sweden> <book.book_subject.works> "Faceless Killers: A Mystery" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4w8" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.124604xqm" .
+<Sweden> <business.industry.companies> "Findwise AB" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn81l" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc51x2d" .
+<m.0_qy9fz> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4hcdp" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsf1v" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwc7" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc3zpwp" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460d_lw" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4b1xd" .
+<Sweden> <sports.sport_country.athletic_performances> "m.011p8x89" .
+<Sweden> <location.country.internet_tld> ".se" .
+<Sweden> <location.country.administrative_divisions> "Kronoberg County" .
+<Currency> <type.type.expected_by> "Transfer fee currency" .
+<m.0wkgj18> <location.partial_containment_relationship.partially_contains> "Klarälven" .
+<Halland_County> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4vl_f" .
+<Currency> <freebase.type_profile.kind> "Definition" .
+<Vuoden_1870_riikintaaleri_molemmilta_puolin_nähtynä.> <common.image.appears_in_topic_gallery> "Swedish riksdaler" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245ytgjn" .
+<Sweden> <location.country.administrative_divisions> "Skåne County" .
+<Dagen> <book.periodical.language> "Swedish Language" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.124609h0d" .
+<Sweden> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4x394" .
+<Skåne_County> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245z86dy" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn59t" .
+<Council_of_Europe> <organization.organization.geographic_scope> "Europe" .
+<m.0_qy9fz> <government.government_position_held.governmental_body> "Riksdag" .
+<The_Summer_Book> <book.written_work.subjects> "Sweden" .
+<Sweden_national_bandy_team> <sports.sports_team.location> "Sweden" .
+<Veterinary_Disciplinary_Board> <government.government_agency.jurisdiction> "Sweden" .
+<Currency_Used> <type.property.schema> "Country" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <organization.organization_member.member_of> "m.05kyss5" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Lundagård" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrw9y" .
+<Sweden> <common.topic.webpage> "m.09y9l5f" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3f8d5" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4zt_z" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.12460n65y" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245yynyk" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.1245_nhkm" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4g2bj" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc37hbq" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3pjlj" .
+<Sweden> <location.country.form_of_government> "Unitary state" .
+<Nynäshamns_Ångbryggeri_Bedarö_Bitter> <food.beer.from_region> "Sweden" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4hrs8" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc52952" .
+<Sweden_men's_national_water_polo_team> <sports.sports_team.location> "Sweden" .
+<Sweden> <location.country.first_level_divisions> "Blekinge County" .
+<m.0b6z9mj> <military.military_command.military_combatant> "Sweden" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs054" .
+<Currency> <type.type.expected_by> "Measurement currency" .
+<Deputy_Prime_Minister_of_Sweden> <government.government_office_or_title.jurisdiction> "Sweden" .
+<The_White_Lioness> <book.written_work.subjects> "Sweden" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3srhx" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zd0d3" .
+<Sweden> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6d1ntlw" .
+<Sweden> <location.location.events> "Polish–Swedish wars" .
+<m.040fr35> <government.government_position_held.office_position_or_title> "Prime Minister of Sweden" .
+<Sweden> <location.country.administrative_divisions> "Östergötland County" .
+<Sweden> <location.statistical_region.renewable_freshwater_per_capita> "g.11b6p2l076" .
+<1958_FIFA_World_Cup> <sports.sports_championship_event.runner_up> "Sweden national football team" .
+<Danish_Swedish_Farmdog> <biology.animal_breed.place_of_origin> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Institute for Language and Folklore" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3msb9" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245zlgtg" .
+<Sweden> <sports.sports_team_location.teams> "Sweden women's national under-18 ice hockey team" .
+<m.0fq68g1> <government.government_position_held.office_position_or_title> "Deputy Prime Minister of Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Coast Guard" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc37_fb" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3s3fl" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Ministry of Agriculture, Food and Fisheries" .
+<Sweden> <location.location.containedby> "Scandinavian Peninsula" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Nationell Idag" .
+<Sweden> <government.governmental_jurisdiction.government_bodies> "Första kammaren" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3clcd" .
+<Botkyrka_Municipality> <location.administrative_division.country> "Sweden" .
+<Sweden> <military.military_combatant.military_commanders> "m.0b6z8_v" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwk8" .
+<Sweden> <location.country.first_level_divisions> "Örebro County" .
+<Sweden> <location.location.partiallycontains> "m.0wg8wtg" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.11b60lkkgj" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245zfvn7" .
+<Dagens_Nyheter> <book.newspaper.circulation_areas> "Sweden" .
+<Kalmar_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<m.0wg8wv8> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<Västra_Götaland_County> <location.location.containedby> "Sweden" .
+<Swedish_Meteorological_and_Hydrological_Institute> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460j0d1" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3srb8" .
+<Swedish_War_of_Liberation> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc5431_" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.12460kjpq" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.124611vf2" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3fl33" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwcg" .
+<Sweden_national_korfball_team> <sports.sports_team.location> "Sweden" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc5052x" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Invest Sweden" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc53cbm" .
+<Sweden> <location.location.events> "Swedish general election, 2002" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish National Space Board" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_jl_f" .
+<Swedish_Civil_Contingencies_Agency> <government.government_agency.jurisdiction> "Sweden" .
+<Swedish_Institute> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_zzq1" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3vpr0" .
+<Sweden> <organization.organization_member.member_of> "m.059wcjz" .
+<Currency> <type.type.expected_by> "Currency" .
+<Jämtland_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Medical_Products_Agency> <government.government_agency.jurisdiction> "Sweden" .
+<Scandinavia> <book.book_subject.works> "Running with reindeer" .
+<Sweden> <sports.sports_team_location.teams> "Sweden national handball team" .
+<Dalarna_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "m.05nc0g2" .
+<Stockholm> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3lmb9" .
+<Jämtlands_Bryggeri_Oatmeal_Porter> <food.beer.from_region> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4zv10" .
+<Blekinge_County> <location.administrative_division.second_level_division_of> "Sweden" .
+<Barents_Euro-Arctic_Council> <location.location.partially_containedby> "Sweden" .
+<m.0j1bzbp> <common.webpage.topic> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3yv5j" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.124612lx0" .
+<Kalmar_County> <location.location.containedby> "Euroregion Baltic" .
+<Dalarna_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn90m" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12tb6fsx6" .
+<Currency> <type.type.expected_by> "Currency formerly used" .
+<Sweden> <location.country.administrative_divisions> "Västerbotten County" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3vhd6" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.12cp_jr60" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs4_5" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.0byrn8y" .
+<Sweden> <sports.sports_team_location.teams> "Sweden Fed Cup team" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc3n9v8" .
+<Sweden> <sports.sports_team_location.teams> "Swedish National Men's Ice Hockey Team" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc49n6y" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3j9fg" .
+<Swedish_University_of_Agricultural_Sciences> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.location.partiallycontains> "m.0wg8wtm" .
+<Barents_Euro-Arctic_Council> <location.location.partially_contained_by> "m.0wg8wtm" .
+<Jönköping_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4hc7w" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4w0_b" .
+<Finnish_Language> <language.human_language.region> "Europe" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc45mfg" .
+<Sweden> <sports.sports_team_location.teams> "Sweden men's national volleyball team" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxw1" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish International Development Cooperation Agency" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Board of Fisheries" .
+<Swedish_Rail_Administration> <government.government_agency.jurisdiction> "Sweden" .
+<Currency> <type.type.properties> "Countries Formerly Used" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4v4" .
+<Gotland_County> <location.administrative_division.country> "Sweden" .
+<m.05kyss5> <organization.organization_membership.member> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3hg29" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn75q" .
+<Stockholm_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc3mbvx" .
+<m.046ct7d> <location.adjoining_relationship.adjoins> "Sweden" .
+<Swedish_general_election,_2006> <government.election.office> "Prime Minister of Sweden" .
+<Sweden> <food.beer_country_region.beers_from_here> "Carnegie Porter" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245ysk05" .
+<Norrbotten_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Sweden> <government.political_district.representatives> "m.0_vnwn6" .
+<Torne> <location.location.partially_contained_by> "m.0wjpllj" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsjk5" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Stockholm County" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Geological Survey of Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Road Administration" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Civil Contingencies Agency" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxqf" .
+<Sweden_women's_national_rugby_union_team> <sports.sports_team.location> "Sweden" .
+<Currency> <freebase.type_profile.equivalent_topic> "Currency" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc53gr1" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Agency for Development Evaluation" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.12tb6fdqj" .
+<Lule_River> <location.location.containedby> "Europe" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4b1xp" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.124601tzw" .
+<m.0wg8wtm> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3pydt" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc43v4h" .
+<Sweden> <location.location.events> "Dagen H" .
+<Notorious> <book.written_work.subjects> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9rd" .
+<Swedish_Transport_Agency> <organization.organization.place_founded> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9yw" .
+<m.0wkg8dh> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Research Council" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc4yc6m" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3n_77" .
+<Swedish_Board_of_Agriculture> <government.government_agency.jurisdiction> "Sweden" .
+<Kalmar_County> <location.administrative_division.country> "Sweden" .
+<Jämthund> <biology.animal_breed.place_of_origin> "Sweden" .
+<Sweden> <location.location.events> "2015 Balkan New Film Festival" .
+<Sweden> <base.aareas.schema.administrative_area.subdividing_type> "Swedish county" .
+<Aftonbladet> <book.newspaper.circulation_areas> "Sweden" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.12tb6hbyr" .
+<Sweden> <location.country.first_level_divisions> "Västmanland County" .
+<Sweden> <government.governmental_jurisdiction.agencies> "National Food Administration" .
+<Swedish_riksdaler> <common.topic.image> "Vuoden 1870 riikintaaleri molemmilta puolin nähtynä." .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9zm" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Institute of Space Physics" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3sjhq" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn8_2" .
+<2012_Balkan_New_Film_Festival> <time.event.locations> "Sweden" .
+<Sweden> <location.location.events> "War against Sigismund" .
+<Sweden> <location.country.languages_spoken> "Yiddish Language" .
+<Statistics_Sweden> <government.government_agency.government> "Politics of Sweden" .
+<m.04dj56b> <organization.organization_membership.member> "Sweden" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245z343c" .
+<Sweden> <sports.sports_team_location.teams> "Sweden women's national rugby union team" .
+<Council_of_Europe> <organization.organization.founders> "Sweden" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc3z8fv" .
+<Scandinavia> <location.location.events> "Scanian War" .
+<European_Shorthair> <biology.animal_breed.place_of_origin> "Sweden" .
+<Sweden> <location.statistical_region.diesel_price_liter> "g.12cp_jchh" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4zjnj" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3dmn1" .
+<Sweden> <location.country.first_level_divisions> "Gotland County" .
+<Sweden> <location.location.events> "Polish–Swedish War" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrslh" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc42f02" .
+<Ombudsman_against_Discrimination_on_Grounds_of_Sexual_Orientation> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245z0hxv" .
+<Nordic_countries> <location.location.primarily_containedby> "Northern Europe" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1245zw3zf" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.11b60n70x2" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4stm6" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc5544d" .
+<Sweden> <military.military_combatant.military_commanders> "m.0b6z9mj" .
+<Currency_Used> <type.property.expected_type> "Currency" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4_7sv" .
+<Kronoberg_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Institute_for_Dialectology,_Onomastics_and_Folklore_Research_in_Umeå> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "Swedish Warmblood" .
+<Östergötland_County> <location.location.containedby> "Sweden" .
+<Sweden> <book.book_subject.works> "Notorious" .
+<Sweden> <location.location.events> "Battle of Bornholm" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4rrrb" .
+<Bunnik_Tours> <travel.tour_operator.travel_destinations> "Sweden" .
+<National_Board_of_Health_and_Welfare> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "2010 Winter Olympics" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwlb" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.04kc81n" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1245_vdwh" .
+<Sweden> <food.beer_country_region.beers_from_here> "Tärnö Bryggeri Nils Oscar God Lager" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn8r1" .
+<Tjimmen> <fictional_universe.fictional_character.place_of_birth> "Sweden" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs0gw" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_bzck" .
+<Sweden> <sports.sports_team_location.teams> "Sweden national speedway team" .
+<Kalmar_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<m.0wyz3dm> <location.partial_containment_relationship.partially_contains> "Storsylen" .
+<English_Wars> <time.event.locations> "Sweden" .
+<m.0wjpn19> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<m.0_vnkvm> <government.government_position_held.district_represented> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4wxjk" .
+<Scandinavian_Peninsula> <location.location.events> "Scanian War" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245_4lfr" .
+<Sweden> <location.location.time_zones> "Central European Time Zone" .
+<Örebro_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Gävleborg_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4_494" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Jönköping County" .
+<Currency> <type.property.expected_type> "Currency" .
+<Polish–Swedish_War> <time.event.included_in_event> "Polish–Swedish wars" .
+<Sweden> <location.location.events> "2014 Balkan New Film Festival" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc425ws" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwjm" .
+<Jämtland_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.12460xxkj" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3x7wp" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc3f_j9" .
+<Sweden> <common.topic.webpage> "m.0b4794p" .
+<Sweden> <sports.sports_team_location.teams> "Sweden Davis Cup team" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4my3k" .
+<Unto_a_Good_Land> <book.written_work.previous_in_series> "The Emigrants" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Customs Service" .
+<National_Board_of_Student_Aid> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.country.first_level_divisions> "Gävleborg County" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc39km9" .
+<Sweden> <location.country.form_of_government> "Parliamentary system" .
+<m.09wtx75> <common.webpage.topic> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4kjsg" .
+<Sweden> <location.location.events> "2012 European Summer Time" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwd5" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc55bcn" .
+<Currency> <type.type.expected_by> "Currency used" .
+<Swedish_Tax_Agency> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc4gvd4" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Ministry of Health and Social Affairs" .
+<Second_Northern_War> <time.event.locations> "Sweden" .
+<The_White_Lioness> <book.written_work.original_language> "Swedish Language" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.010gfs5_" .
+<Uppsala_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Civil_Aviation_Administration> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Meteorological and Hydrological Institute" .
+<Sweden> <location.country.national_anthem> "m.052krmy" .
+<Sweden> <location.country.administrative_divisions> "Malmö Municipality" .
+<Malmö_Municipality> <location.location.containedby> "Skåne County" .
+<Metro> <book.newspaper.circulation_areas> "Sweden" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4_0sj" .
+<Sweden> <common.topic.webpage> "m.0b475sk" .
+<Dano-Swedish_War> <time.event.locations> "Sweden" .
+<m.0_vnwn6> <government.government_position_held.district_represented> "Sweden" .
+<Countries_Formerly_Used> <type.property.schema> "Currency" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4x69r" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc53smd" .
+<Board_of_Supervision_of_Estate_Agents> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.country.first_level_divisions> "Jönköping County" .
+<Klarälven> <geography.river.basin_countries> "Sweden" .
+<Sweden> <location.location.events> "English Wars" .
+<Sweden> <fictional_universe.fictional_setting.fictional_characters_born_here> "Rickard" .
+<Sweden> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3fgwy" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc388q8" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Inspectorate of Strategic Products" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.1245__9yx" .
+<Sweden> <location.location.partiallycontains> "m.0wg8wv3" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs05l" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrw6n" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs4_p" .
+<Klarälven> <location.location.partially_contained_by> "m.0wkgj18" .
+<Västmanland_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Scandinavia> <location.location.containedby> "Nordic countries" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3yfgw" .
+<Currency> <type.type.expected_by> "Earnings" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3y9q1" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc3rtc2" .
+<Metro> <book.newspaper.circulation_areas> "Malmö Municipality" .
+<Sweden> <location.statistical_region.net_migration> "g.1s06050wg" .
+<Politics_of_Sweden> <government.government.agency> "Swedish Work Environment Authority" .
+<Uppsala_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Gävleborg County" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3zpwx" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc462xh" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245zhqq_" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.11b60xs9h_" .
+<Kalmar_County> <location.location.time_zones> "Central European Time Zone" .
+<Swedish_Inspectorate_of_Strategic_Products> <government.government_agency.jurisdiction> "Sweden" .
+<Aftonbladet> <book.periodical.language> "Swedish Language" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.12460chmt" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc534gw" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Värmland County" .
+<North_Swedish_Horse> <biology.animal_breed.place_of_origin> "Sweden" .
+<Swedish_Fortifications_Agency> <government.government_agency.jurisdiction> "Sweden" .
+<The_Tornedalen_Council> <location.location.partially_containedby> "Sweden" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245_wdp7" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfsb7m" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3cl50" .
+<Sweden> <location.location.adjoin_s> "m.0z23m1f" .
+<Swedish_National_Debt_Office> <government.government_agency.jurisdiction> "Sweden" .
+<m.0z23mlc> <location.adjoining_relationship.adjoins> "Sweden" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc50sy8" .
+<Politics_of_Sweden> <government.government.government_for> "Sweden" .
+<Euroregion_Baltic> <location.location.contains> "Blekinge County" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3d2v2" .
+<Gotland_County> <location.location.containedby> "Sweden" .
+<Sweden> <military.military_combatant.military_commanders> "m.0b6z9n7" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsc_8" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc3fsp1" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsl8" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc515z7" .
+<Sweden> <book.book_subject.works> "Depths" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4_k4m" .
+<Sovereign_state> <freebase.type_hints.included_types> "Topic" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc4jpxz" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3m7j1" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3d2_q" .
+<Meänkieli> <language.human_language.countries_spoken_in> "Sweden" .
+<Jämtlands_Bryggeri_Julöl> <food.beer.from_region> "Sweden" .
+<Currency_Formerly_Used> <type.property.expected_type> "Currency" .
+<Sweden> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3r21l" .
+<Sweden> <book.book_subject.works> "The Son of a Servant" .
+<Sweden> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4_7qg" .
+<m.09yk1qz> <common.webpage.topic> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrw7j" .
+<Halland_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<m.09yg9qv> <common.webpage.topic> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245__jst" .
+<m.0_vnyp0> <government.government_position_held.district_represented> "Sweden" .
+<Kronleins_Crocodile_Export_Lager> <food.beer.from_region> "Sweden" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.12460p4gy" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsjjb" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc504zm" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4kjt7" .
+<Sweden> <location.country.form_of_government> "Representative democracy" .
+<Sweden> <location.country.form_of_government> "Constitutional monarchy" .
+<Euroregion_Sesupe> <location.location.partially_containedby> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460n6ll" .
+<Swedish_plate_money_in_the_British_Museum> <common.image.appears_in_topic_gallery> "Swedish riksdaler" .
+<m.0wg8wv3> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc4665m" .
+<m.0jrbyb2> <symbols.flag_use.flag_user> "Sweden" .
+<Sweden_national_badminton_team> <sports.sports_team.location> "Sweden" .
+<Swedish_National_Space_Board> <government.government_agency.jurisdiction> "Sweden" .
+<National_Institute_of_Economic_Research> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.country.languages_spoken> "Swedish Language" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Migrationsverket" .
+<Sweden> <sports.sports_team_location.teams> "Sweden national cricket team" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3rt8w" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1245zs0n3" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245zg_v_" .
+<Hereditary_monarchy> <government.form_of_government.countries> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "g.11b6bbg8j9" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3l99f" .
+<Göteborgs-Tidningen> <book.newspaper.circulation_areas> "Sweden" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc442z5" .
+<Polish–Swedish_wars> <time.event.includes_event> "Polish–Swedish War (1621–25)" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3jqg5" .
+<Stockholm> <travel.travel_destination.tour_operators> "  Adventures by Disney - 12-Night Magic of the Baltic Cruise" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.12460v8l_" .
+<m.0b6rmxf> <common.webpage.topic> "Sweden" .
+<Kronoberg_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Currency> <type.type.expected_by> "From Currency" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4tnzz" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Medical Products Agency" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrslz" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc3pz1v" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc425s_" .
+<Botkyrka_Municipality> <location.administrative_division.second_level_division_of> "Sweden" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc37ptr" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9z3" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsc_1" .
+<Enforcement_Authority> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4dd05" .
+<Arctic> <base.scubadiving.province.contained_by> "Arctic" .
+<Sweden> <location.location.containedby> "Europe" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc37cxv" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc40013" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn2y" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc3v5w1" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_hj73" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3_gkj" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4shfm" .
+<Sweden_national_cricket_team> <sports.sports_team.location> "Sweden" .
+<Swedish_War_of_Liberation> <base.culturalevent.event.entity_involved> "Sweden" .
+<Sweden> <government.political_district.representatives> "m.011422q9" .
+<1912_Summer_Olympics> <time.event.locations> "Stockholm" .
+<Swedish_county> <base.aareas.schema.administrative_area_type.sovereignty> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3wmj4" .
+<Countries_Used> <type.property.reverse_property> "Currency Used" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Ministry of Finance" .
+<Battle_of_Ratan_and_Sävar> <time.event.included_in_event> "Finnish War" .
+<Prime_Minister_of_Sweden> <government.government_office_or_title.office_holders> "m.0byrn96" .
+<HockeyAllsvenskan_09/10> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245ysqxv" .
+<Vinnova> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <common.topic.notable_types> "Country" .
+<Folke_Bernadotte_Academy> <government.government_agency.jurisdiction> "Sweden" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc51ptb" .
+<Sweden> <location.statistical_region.net_migration> "g.1q5k0yrky" .
+<Sweden> <organization.organization_member.member_of> "m.04ddt9c" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3t8sm" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsc_h" .
+<Örebro_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <location.location.events> "Battle of Lena" .
+<The_Militant> <book.newspaper.circulation_areas> "Sweden" .
+<Swedish_riksdaler> <finance.currency.countries_formerly_used> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3f8lr" .
+<Turoyo_Language> <language.human_language.countries_spoken_in> "Sweden" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3nwzw" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3f_c8" .
+<Första_kammaren> <government.governmental_body.body_this_is_a_component_of> "Riksdag" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwb4" .
+<Stockholm> <olympics.olympic_host_city.olympics_hosted> "1912 Summer Olympics" .
+<Sweden> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3p9g_" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4tjx8" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <location.country.administrative_divisions> "Örebro County" .
+<Consumer_Agency> <government.government_agency.jurisdiction> "Sweden" .
+<Social-Demokraten> <book.newspaper.circulation_areas> "Sweden" .
+<Dalarna_County> <location.location.containedby> "Sweden" .
+<Swedish_municipality> <freebase.type_hints.included_types> "Topic" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc39x3c" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4h4yd" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwcp" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1245zx1wm" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc47bfl" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.12460rtzg" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4s4sl" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsjmr" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "Swedish Lapphund" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.124601tk5" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4401r" .
+<Jönköping_County> <location.location.containedby> "Sweden" .
+<Currency> <type.type.properties> "Target of exchange" .
+<1952_Summer_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "Jämthund" .
+<The_Emigrants> <book.written_work.next_in_series> "Unto a Good Land" .
+<Sweden> <location.location.events> "1896 Svenska Mästerskapet" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmy4" .
+<Stockholm> <base.biblioness.bibs_location.country> "Sweden" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfscxz" .
+<Sweden> <common.topic.webpage> "m.09wmtwk" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245zbndr" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc53stf" .
+<Sweden> <location.location.partially_contains> "The North Calotte Council" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3qpdn" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Dalarna County" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc51djc" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs4_f" .
+<Stockholm> <periodicals.newspaper_circulation_area.newspapers> "Metro" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4ysp1" .
+<Sweden> <location.location.containedby> "Scandinavia" .
+<Västerbotten_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.11b60yppwh" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc4ppm2" .
+<Gävleborg_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3vhf_" .
+<Sweden> <sports.sports_team_location.teams> "Sweden national bandy team" .
+<Northern_Seven_Years'_War> <time.event.locations> "Sweden" .
+<Storsylen> <location.location.partially_contained_by> "m.0wyz3dm" .
+<Scandinavia> <location.location.events> "Northern Seven Years' War" .
+<2012_European_Summer_Time> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3pz0m" .
+<Sweden_national_basketball_team> <sports.sports_team.location> "Sweden" .
+<Sweden> <location.country.first_level_divisions> "Uppsala County" .
+<Västernorrland_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc39sny" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc4c0f6" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish National Laboratory of Forensic Science" .
+<Conquest_of_Stockholm> <time.event.locations> "Stockholm" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245z1fvz" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4k6d8" .
+<Swedish_county> <base.aareas.schema.administrative_area_type.pertains_to> "Sweden" .
+<Sweden> <location.location.adjoin_s> "m.046ct7d" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3bvjq" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245zj9tb" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs4zy" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.124600my0" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4zj9y" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs0f_" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4gqns" .
+<National_Board_of_Trade> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn35" .
+<Sweden> <location.location.events> "Northern Wars" .
+<Mister_Sweden> <time.event.locations> "Sweden" .
+<Scanian_War> <time.event.included_in_event> "Northern Wars" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4bpqj" .
+<m.0wkg8dh> <location.partial_containment_relationship.partially_contains> "g.11x7vqdtm" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "2008 Summer Olympics" .
+<Blekinge_County> <location.administrative_division.country> "Sweden" .
+<Currency> <type.property.expected_type> "Currency" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3x7x3" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc382f1" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3kw_6" .
+<Sweden> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6df17xj" .
+<Sweden> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc52j1x" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Security Service" .
+<Northern_Europe> <location.location.events> "Livonian War" .
+<Swedish_riksdaler> <common.topic.image> "Swedish plate money in the British Museum" .
+<Post-_och_Inrikes_Tidningar> <book.periodical.language> "Swedish Language" .
+<Sweden> <sports.sports_team_location.teams> "Sweden national korfball team" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "1948 Winter Olympics" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460js4g" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4mhgy" .
+<Battle_of_Bornholm> <base.culturalevent.event.entity_involved> "Sweden" .
+<Franco-Swedish_War> <time.event.locations> "Sweden" .
+<Sweden> <sports.sports_team_location.teams> "Sweden women's national handball team" .
+<Romani_language> <language.human_language.countries_spoken_in> "Sweden" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc50sxn" .
+<A_Small_Act> <film.film.featured_film_locations> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc449nf" .
+<Sweden> <location.country.first_level_divisions> "Värmland County" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245z09x0" .
+<Sweden> <government.governmental_jurisdiction.government> "Politics of Sweden" .
+<Currency> <type.type.expected_by> "Currency" .
+<Östergötland_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <location.country.administrative_divisions> "Dalarna County" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3kwv6" .
+<Currency_Used> <rdf-schema#domain> "Country" .
+<m.040fr35> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn8w" .
+<Sweden> <location.location.events> "2012 Balkan New Film Festival" .
+<Sweden> <location.country.administrative_divisions> "Värmland County" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3jj00" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245zm6fr" .
+<Expressen> <book.newspaper.circulation_areas> "Stockholm" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3r24r" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4431x" .
+<Sweden> <location.statistical_region.diesel_price_liter> "g.12cp_k6nz" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3xphg" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3jmg9" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.12tb6h4x5" .
+<Northern_Europe> <location.location.contains_major_portion_of> "Nordic countries" .
+<Swedish_National_Board_of_Forensic_Medicine> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsjjl" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Östergötland County" .
+<Andra_kammaren> <government.governmental_body.jurisdiction> "Sweden" .
+<Sweden> <location.location.events> "1958 FIFA World Cup" .
+<m.064st17> <base.popstra.vacation_choice.location> "Sweden" .
+<Kronoberg_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "National Defence Radio Establishment" .
+<Swedish_municipality> <base.aareas.schema.administrative_area_type.iso_country> "Sweden" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4stz3" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn8f0" .
+<m.0_r1jpl> <government.government_position_held.district_represented> "Sweden" .
+<Västernorrland_County> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <location.location.events> "Finnish War" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc3yvbb" .
+<Sweden> <government.governmental_jurisdiction.agencies> "National Board of Trade" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4j_tn" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245z6529" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc5290g" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Örebro County" .
+<Sweden> <government.governmental_jurisdiction.agencies> "National Veterinary Institute" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3sb77" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3szn3" .
+<Euroregion_Baltic> <location.location.partially_contained_by> "m.0wg8wtg" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc39sj3" .
+<Dagen> <book.newspaper.circulation_areas> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9_c" .
+<Rescue_Services_Agency> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrw7z" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.subdivides_place> "Earth" .
+<National_Board_for_Consumer_Complaints> <government.government_agency.jurisdiction> "Sweden" .
+<m.0b6_43x> <organization.organization_membership.member> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxr7" .
+<Lundagård> <book.periodical.language> "Swedish Language" .
+<County_administrative_boards_of_Sweden> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.location.partially_contains> "Storsylen" .
+<Running_with_reindeer> <book.written_work.subjects> "Sweden" .
+<Sweden> <book.book_subject.works> "The Summer Book" .
+<Sweden> <fictional_universe.fictional_setting.fictional_characters_born_here> "Policeman" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.level> "Sovereign state" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Ministry for Foreign Affairs" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3m_nx" .
+<Drever> <biology.animal_breed.place_of_origin> "Sweden" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs04g" .
+<Sweden> <location.location.events> "Winter Time in Europe, 2011-2012" .
+<Swedish_Ministry_for_Foreign_Affairs> <government.government_agency.jurisdiction> "Sweden" .
+<m.0jytmnj> <sports.competitor_country_relationship.competitor> "Sweden national football team" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs4_y" .
+<Winter_Time_in_Europe,_2013-2014> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc4dy5b" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Expressen" .
+<Kalmar_War> <time.event.locations> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Statistics Sweden" .
+<Rickard> <fictional_universe.fictional_character.place_of_birth> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs4z5" .
+<Sweden> <location.country.administrative_divisions> "Jämtland County" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs0hr" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc39p34" .
+<Currency> <type.type.expected_by> "Currency" .
+<m.063v4jh> <base.popstra.arrest.location> "Sweden" .
+<Swedish_Language> <language.human_language.countries_spoken_in> "Sweden" .
+<Second_Northern_War> <time.event.includes_event> "Dano-Swedish War" .
+<Sweden> <book.book_subject.works> "Dark voyage" .
+<Klarälven> <location.location.partially_containedby> "Sweden" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc50516" .
+<Winter_effects_on_train_traffic_in_Sweden_2009–2011> <time.event.locations> "Sweden" .
+<Swedish_plate_money_in_the_British_Museum> <common.image.size> "m.0h4kh83" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.1245_5xd3" .
+<Sweden> <location.location.partially_contains> "Muonio" .
+<m.03xl5zp> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Currency> <type.type.expected_by> "Target of exchange" .
+<Running_with_reindeer> <book.written_work.subjects> "Europe" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9zw" .
+<2013_Balkan_New_Film_Festival> <time.event.locations> "Sweden" .
+<Sweden> <location.location.events> "Zieliński brothers escape" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc459d3" .
+<Halland_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Currency> <type.type.properties> "Countries Used" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4p56v" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsf1d" .
+<Sweden> <military.military_combatant.military_commanders> "m.02h7b84" .
+<Kronoberg_County> <location.location.time_zones> "Central European Time Zone" .
+<__Adventures_by_Disney_-_12-Night_Magic_of_the_Baltic_Cruise> <travel.tour_operator.travel_destinations> "Stockholm" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4f86q" .
+<2014_Balkan_New_Film_Festival> <time.event.locations> "Sweden" .
+<Sweden> <location.country.administrative_divisions> "Jönköping County" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_wm8l" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfscyf" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4vlwh" .
+<Sweden> <location.statistical_region.diesel_price_liter> "g.1hhc4595d" .
+<m.010gfsw_> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs0gn" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.12461214x" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460fcxc" .
+<Sweden> <travel.travel_destination.tour_operators> "Bunnik Tours" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmyx" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245__bdy" .
+<Stockholm> <periodicals.newspaper_circulation_area.newspapers> "Expressen" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.040fr35" .
+<Sami_Parliament_of_Sweden> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc4wh2g" .
+<Swedish_Post_and_Telecom_Authority> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4r30k" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc50cqf" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3lmfj" .
+<m.0wg8wtt> <location.partial_containment_relationship.partially_contains> "The Tornedalen Council" .
+<Country> <freebase.type_profile.kind> "Definition" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs4zf" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3yvdx" .
+<Jönköping_County> <location.administrative_division.country> "Sweden" .
+<1900_Summer_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsf0z" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc39krd" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc55450" .
+<m.0byrn96> <government.government_position_held.governmental_body> "Politics of Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9sx" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Board of Supervision of Estate Agents" .
+<m.0njx6p_> <organization.organization_membership.member> "Sweden" .
+<Västra_Götaland_County> <location.administrative_division.country> "Sweden" .
+<Policeman> <fictional_universe.fictional_character.place_of_birth> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.11b71vz1kr" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4n0c9" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc41l2t" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish National Archives" .
+<Currency> <freebase.type_profile.published> "Published" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.11b60zmb5s" .
+<Swedish_riksdaler> <common.topic.notable_types> "Currency" .
+<Sweden> <location.location.events> "2014 European Summer Time" .
+<Currency> <rdf-schema#range> "Currency" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc48ts9" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4wt2q" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3b2rc" .
+<m.0wjpllj> <location.partial_containment_relationship.partially_contains> "Torne" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsf5x" .
+<Värmland_County> <location.location.time_zones> "Central European Time Zone" .
+<National_Export_Credits_Guarantee_Board> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4w1" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3g30t" .
+<Första_kammaren> <government.governmental_body.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3fl5b" .
+<m.046ct7k> <location.adjoining_relationship.adjoins> "Sweden" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Göteborgs-Posten" .
+<m.010gfs5_> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Swedish_Language> <language.human_language.region> "Europe" .
+<m.0z23m1f> <location.adjoining_relationship.adjoins> "Sweden" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3fsgv" .
+<Örebro_County> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Ministry of Enterprise, Energy and Communications" .
+<Swedish_county> <freebase.type_hints.included_types> "Topic" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc44wln" .
+<Representative_democracy> <government.form_of_government.countries> "Sweden" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "Swedish Vallhund" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc48htl" .
+<Hällefors_Elkhound> <biology.animal_breed.place_of_origin> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Patent and Registration Office" .
+<Currency> <type.type.expected_by> "Payment system" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc53gvb" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_22zj" .
+<Currency_Formerly_Used> <type.property.schema> "Country" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsjhv" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.12cp_k2s4" .
+<Malmö_Municipality> <periodicals.newspaper_circulation_area.newspapers> "Metro" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc4kb1b" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsf15" .
+<m.0wg8wt9> <location.partial_containment_relationship.partially_contains> "Euroregion Sesupe" .
+<Sweden> <common.topic.image> "Location of Sweden" .
+<Scanian_War> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc4pgls" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc5052g" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc42f6h" .
+<Currency> <type.type.expected_by> "location_currency_used" .
+<Västerbotten_County> <location.location.time_zones> "Central European Time Zone" .
+<m.04ddsbc> <organization.organization_membership.member> "Sweden" .
+<Gävleborg_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245z72tv" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsrx" .
+<Jönköping_County> <location.location.time_zones> "Central European Time Zone" .
+<Arctic> <location.location.partiallycontains> "m.0wg9h9r" .
+<Crime_Victim_Compensation_and_Support_Authority> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3rf20" .
+<Countries_Formerly_Used> <rdf-schema#range> "Country" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4t_n8" .
+<Currency_Used> <type.property.master_property> "Countries Used" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3xc73" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4zjk4" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Election Authority of Sweden" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3p66p" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1s065jd0s" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Gotland County" .
+<The_Mittnorden_Committee> <location.location.partially_containedby> "Sweden" .
+<Sweden> <location.statistical_region.net_migration> "g.1q5k0l8_l" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3b5v5" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.12460g444" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "North Swedish Horse" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245z03l6" .
+<Malmö_Municipality> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4t15l" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4rrjh" .
+<Stockholm_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Spendrups_Julöl> <food.beer.from_region> "Sweden" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs02g" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3j5k_" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfscq8" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.12460nldx" .
+<Torstenson_War> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4q2ct" .
+<Göteborgs-Posten> <book.periodical.language> "Swedish Language" .
+<Falköping_Municipality> <location.administrative_division.country> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3l208" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs02x" .
+<Sweden> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc50pls" .
+<Västerbotten_County> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4s1l9" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc4f7p2" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Veterinary Disciplinary Board" .
+<Sweden> <location.country.administrative_divisions> "Blekinge County" .
+<Sweden> <location.location.events> "Winter Time in Europe, 2012-2013" .
+<Sweden> <government.governmental_jurisdiction.government_positions> "Minister for Migration and Asylum Policy" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4s4sy" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc39gg1" .
+<Norrbotten_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Polish–Swedish_wars> <time.event.locations> "Sweden" .
+<Sweden> <location.location.partiallycontains> "m.0wjpllj" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.0_qy9fz" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3l94_" .
+<Sweden> <fictional_universe.fictional_setting.fictional_characters_born_here> "Tjimmen" .
+<Sweden> <base.aareas.schema.administrative_area.pertinent_type> "Swedish county" .
+<m.0wg8wv3> <location.partial_containment_relationship.partially_contains> "The Mittnorden Committee" .
+<Mörrums_GoIS_IK> <sports.sports_team.location> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245_wdb7" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.124613lrd" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn1p" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4qhcv" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4hvyq" .
+<Currency> <type.type.expected_by> "Currency" .
+<Södermanland_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Lule_River> <location.location.partially_containedby> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245zlnpr" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Vinnova" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3pyzg" .
+<Sweden> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6czfwb9" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "Drever" .
+<Dagens_Nyheter> <book.periodical.language> "Swedish Language" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs01l" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc382f2" .
+<Battle_of_Lena> <time.event.locations> "Sweden" .
+<Scandinavian_Peninsula> <location.location.contains> "Sweden" .
+<Sweden> <location.statistical_region.time_required_to_start_a_business> "g.1s05y9g2r" .
+<Sweden> <common.topic.webpage> "m.09yk1qz" .
+<1980_Winter_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Swedish_Prison_and_Probation_Service> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Offensiv" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4g941" .
+<Swedish_Maritime_Administration> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsm_d" .
+<Svenska_Dagbladet> <book.periodical.language> "Swedish Language" .
+<Sweden> <location.location.partially_containedby> "Arctic" .
+<Nils_Liedholm> <olympics.olympic_athlete.country> "Sweden" .
+<m.059_p0d> <organization.organization_membership.organization> "Council of Europe" .
+<Earth> <base.locations.planets.continents_within> "Europe" .
+<The_Man_Who_Smiled> <book.written_work.subjects> "Sweden" .
+<m.0fq68gp> <government.government_position_held.office_position_or_title> "Deputy Prime Minister of Sweden" .
+<Swedish_krona> <finance.currency.countries_used> "Sweden" .
+<Sweden> <military.military_combatant.military_commanders> "m.02h7b7x" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "1936 Summer Olympics" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_d2l8" .
+<Europe> <organization.organization_scope.organizations_with_this_scope> "Council of Europe" .
+<Sweden> <sports.sports_team_location.teams> "Sweden men's national water polo team" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc3z1nq" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.1245_801z" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc51w_0" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4w7rp" .
+<Norrbottenspets> <biology.animal_breed.place_of_origin> "Sweden" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsf1m" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.12tb6gn7s" .
+<Halland_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Battle_of_Grengam> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.12460tbms" .
+<Aliens_Appeals_Board_of_Sweden> <government.government_agency.government> "Sweden" .
+<Uppsala_County> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1s066z687" .
+<Södermanland_County> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245z_w68" .
+<Sweden> <common.topic.webpage> "m.0b6rmxf" .
+<Malmö_Municipality> <location.location.partially_contains> "Malmö Municipality" .
+<Swedish_Ardennes> <biology.animal_breed.place_of_origin> "Sweden" .
+<Sweden> <location.location.events> "2013 European Summer Time" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc469v8" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxrq" .
+<Stockholm_County> <location.location.containedby> "Sweden" .
+<Norrbotten_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <location.location.events> "Winter Time in Europe, 2010-2011" .
+<Gotland_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.11b71tmz84" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245zvrld" .
+<Sweden_national_speedway_team> <sports.sports_team.location> "Sweden" .
+<Faceless_Killers:_A_Mystery> <book.written_work.original_language> "Swedish Language" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4w13w" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3szhg" .
+<Nationell_Idag> <book.newspaper.circulation_areas> "Sweden" .
+<2013_European_Summer_Time> <time.event.locations> "Sweden" .
+<Riksdag> <government.governmental_body.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245__bcx" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3cl06" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3d36g" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4_jzy" .
+<Countries_Formerly_Used> <type.property.expected_type> "Country" .
+<Storsylen> <location.location.containedby> "Europe" .
+<Sweden_national_rugby_union_team> <sports.sports_team.location> "Sweden" .
+<Sweden> <location.location.events> "2009–10 Malmö shootings" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.0fq68gp" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn80y" .
+<2010_European_Summer_Time> <time.event.locations> "Sweden" .
+<Anya_Jenkins> <fictional_universe.fictional_character.place_of_birth> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460h7r2" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4_0y4" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Metro" .
+<Sweden> <location.country.first_level_divisions> "Norrbotten County" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1s061grfr" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsqz" .
+<Before_the_Frost> <book.written_work.original_language> "Swedish Language" .
+<2014_Winter_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Sweden> <location.statistical_region.time_required_to_start_a_business> "g.1hhc438sc" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc429lp" .
+<Sweden> <location.location.partially_contains> "Euroregion Baltic" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc41l4x" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3wtz7" .
+<1896_Svenska_Mästerskapet> <time.event.locations> "Sweden" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Folkets Dagblad Politiken" .
+<Second_Northern_War> <time.event.includes_event> "Dano-Swedish War" .
+<m.0wkgj18> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn15" .
+<Sweden> <location.location.partially_contains> "The Tornedalen Council" .
+<Swedish_Work_Environment_Authority> <government.government_agency.government> "Politics of Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3wtvg" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1245_7syz" .
+<Notebook_on_Black_History_Month_2012_(Part_5)_Black_Power_Mixtape_continued> <book.written_work.subjects> "Sweden" .
+<Dalarna_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Riksdag> <government.governmental_body.component_bodies> "Första kammaren" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4w7vb" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1q5jkynqp" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Skåne County" .
+<m.09y2gb7> <common.webpage.topic> "Sweden" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc4vtz8" .
+<Euroregion_Baltic> <location.location.contains> "Kalmar County" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3c4hk" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_pglj" .
+<Sweden> <food.beer_country_region.beers_from_here> "Jämtlands Bryggeri Julöl" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3h6v2" .
+<Sweden> <location.country.first_level_divisions> "Östergötland County" .
+<m.0wyz3dm> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<Earth> <base.aareas.schema.administrative_area.subdividing_type> "Sovereign state" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_w512" .
+<Swedish_International_Development_Cooperation_Agency> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.12tb6gtky" .
+<Västmanland_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Västernorrland County" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwk1" .
+<Halland_County> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsc_y" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.12460jdg6" .
+<m.0wg8wt9> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc42fst" .
+<Sweden> <location.country.first_level_divisions> "Södermanland County" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc43v1c" .
+<Swedish_Ministry_of_the_Environment> <government.government_agency.jurisdiction> "Sweden" .
+<m.010gfsck> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3c4qs" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245z344n" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Ministry of Integration and Gender Equality" .
+<Sweden> <location.country.administrative_divisions> "Södermanland County" .
+<Before_the_Frost> <book.written_work.subjects> "Sweden" .
+<m.011p8x89> <sports.competitor_competition_relationship.country> "Sweden" .
+<Currency> <type.type.expected_by> "Transfer fee currency" .
+<Sweden> <location.location.events> "Dano-Swedish War" .
+<Euroregion_Baltic> <location.location.contains> "Kronoberg County" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4nnl8" .
+<Offensiv> <book.periodical.language> "Swedish Language" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.12cp_k2s_" .
+<National_Veterinary_Institute> <government.government_agency.jurisdiction> "Sweden" .
+<2015_Balkan_New_Film_Festival> <time.event.locations> "Sweden" .
+<Sweden> <book.book_subject.works> "Ingrid: Ingrid Bergman, A Personal Biography" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245ysy0m" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9_x" .
+<Sweden> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3s6mf" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4f86_" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1s066xmrx" .
+<Swedish_county> <base.aareas.schema.administrative_area_type.iso_country> "Sweden" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.124614jlm" .
+<Faceless_Killers:_A_Mystery> <book.written_work.subjects> "Sweden" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1q5jsyjz3" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3_4b6" .
+<Sweden> <location.country.languages_spoken> "Romani language" .
+<Sweden_men's_national_junior_ice_hockey_team> <sports.sports_team.location> "Sweden" .
+<m.011t357l> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn8c" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245zmktv" .
+<m.02h7b9q> <military.force_strength.combatant> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc438xr" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4dy9k" .
+<m.010gfstj> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc378pv" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.12460cp_2" .
+<Swedish_Language> <language.human_language.main_country> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn0p" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs4zp" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <government.governmental_jurisdiction.agencies> "National Board of Health and Welfare" .
+<Sweden> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc378m0" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3l9c5" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwgv" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.1245ys4yh" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460cqdf" .
+<Sweden_women's_national_handball_team> <sports.sports_team.location> "Sweden" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4g2bh" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish University of Agricultural Sciences" .
+<Sweden> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3xt5s" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfscxj" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4z3ct" .
+<Yiddish_Language> <language.human_language.countries_spoken_in> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245zfvzz" .
+<Norrbotten_County> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmxn" .
+<Örebro_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4n762" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn0f" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc47k6_" .
+<Defence_Materiel_Administration> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "g.11vk5hfh3" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.03xdzwy" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.11b60w91dz" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4fzv4" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn8s4" .
+<Deputy_Prime_Minister_of_Sweden> <government.government_office_or_title.office_holders> "m.0fq68gp" .
+<Södermanland_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmzx" .
+<Sweden> <location.statistical_region.brain_drain_percent> "g.1hhc4mhkw" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4wh" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4zq_4" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc54ygf" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc52j0v" .
+<Geological_Survey_of_Sweden> <government.government_agency.jurisdiction> "Sweden" .
+<m.09wn7jk> <common.webpage.topic> "Sweden" .
+<The_Emigrants> <book.written_work.original_language> "Swedish Language" .
+<Meänkieli> <language.human_language.region> "Europe" .
+<22nd_Guldbagge_Awards> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4r9l8" .
+<Gotland_County> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "European Shorthair" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4_7q8" .
+<Värmland_County> <location.location.containedby> "Sweden" .
+<Swedish_Institute_for_Food_and_Agricultural_Economics> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <government.political_district.representatives> "m.0_vnyp0" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.12460prhv" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4hckt" .
+<Sweden> <book.book_subject.works> "Ingmar Bergman" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Market Court" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmxx" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxvv" .
+<Countries_Used> <owl#inverseOf> "Currency Used" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.124619vzd" .
+<Sweden> <location.location.events> "Battle of Grengam" .
+<Northern_Wars> <time.event.includes_event> "Second Northern War" .
+<Swedish_National_Archives> <government.government_agency.jurisdiction> "Sweden" .
+<Nationell_Idag> <book.periodical.language> "Swedish Language" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "The Militant" .
+<Currency> <type.type.expected_by> "To Currency" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3f_hm" .
+<Livonian_War> <time.event.locations> "Sweden" .
+<Swedish_Patent_and_Registration_Office> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs0k1" .
+<Vuoden_1870_riikintaaleri_molemmilta_puolin_nähtynä.> <common.image.size> "m.044lkjx" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Dagens Nyheter" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4j93x" .
+<Battle_of_Bornholm> <time.event.locations> "Sweden" .
+<Sweden> <organization.organization_member.member_of> "m.04dj56b" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs014" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn5bg" .
+<Värmland_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460d_lv" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4p51r" .
+<Södermanland_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Helsingin_Sanomat> <book.periodical.language> "Finnish Language" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc3msgf" .
+<Minister_for_Migration_and_Asylum_Policy> <government.government_office_or_title.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_blmz" .
+<Sweden> <military.military_combatant.force_deployments> "m.02h7b9q" .
+<Dagens_Nyheter> <book.newspaper.circulation_areas> "Stockholm" .
+<Migrationsverket> <government.government_agency.jurisdiction> "Sweden" .
+<The_Tornedalen_Council> <location.location.partially_contained_by> "m.0wg8wtt" .
+<Södermanland_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc41kb6" .
+<m.04dj2lc> <organization.organization_membership.member> "Sweden" .
+<m.0wg9h9r> <location.partial_containment_relationship.partially_contains> "Sweden" .
+<Currency_Formerly_Used> <type.property.master_property> "Countries Formerly Used" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4_f" .
+<Göta_älv> <geography.river.basin_countries> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc508bc" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9yc" .
+<Swedish_University_of_Agricultural_Sciences> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_8rwg" .
+<European_Shorthair> <biology.animal_breed.place_of_origin> "Europe" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4fs58" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc4b278" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.124605h_x" .
+<Skåne_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <location.location.adjoin_s> "m.0z23mlc" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc403lt" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs0hz" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc4j95x" .
+<m.0fq68gp> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<m.0_vnn01> <government.government_position_held.district_represented> "Sweden" .
+<Sweden> <food.beer_country_region.beers_from_here> "Kronleins Crocodile Export Lager" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4yw_v" .
+<2011_European_Summer_Time> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4c40c" .
+<Kronoberg_County> <location.location.containedby> "Euroregion Baltic" .
+<Countries_Formerly_Used> <owl#inverseOf> "Currency Formerly Used" .
+<Swedish_National_Laboratory_of_Forensic_Science> <government.government_agency.jurisdiction> "Sweden" .
+<m.011t357l> <government.government_position_held.office_position_or_title> "Prime Minister of Sweden" .
+<Sweden> <organization.organization_founder.organizations_founded> "World Trade Organization" .
+<Earth> <base.aareas.schema.administrative_area.pertinent_type> "Sovereign state" .
+<Stockholm_County> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zpn57" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4q5fb" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3f1kp" .
+<Skåne_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.government_bodies> "Riksdag of the Estates" .
+<Örebro_County> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.net_migration> "g.1q5jkdtgj" .
+<m.09yjw99> <common.webpage.topic> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460ztz0" .
+<m.0byrn8y> <government.government_position_held.office_position_or_title> "Prime Minister of Sweden" .
+<Currency> <type.type.expected_by> "Currency" .
+<Scandinavia> <travel.travel_destination.tour_operators> "Bunnik Tours" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Chancellor of Justice" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwbl" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "Smaland Hound" .
+<Sweden> <location.country.first_level_divisions> "Jämtland County" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1245z260k" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsf6b" .
+<Swedish_War_of_Liberation> <time.event.includes_event> "Conquest of Stockholm" .
+<Swedish_Agency_for_Development_Evaluation> <government.government_agency.jurisdiction> "Sweden" .
+<Dalarna_County> <location.administrative_division.country> "Sweden" .
+<2010_Winter_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Swedish_Ministry_of_Defence> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish National Board of Forensic Medicine" .
+<Sweden> <olympics.olympic_athlete_affiliation.athlete> "Nils Liedholm" .
+<Västra_Götaland_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3qx0d" .
+<Helsingin_Sanomat> <book.newspaper.circulation_areas> "Sweden" .
+<Jämtland_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsjkf" .
+<Expressen> <book.newspaper.circulation_areas> "Sweden" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3_kzt" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn74d" .
+<Sweden> <location.location.partially_contains> "Göta älv" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn76l" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsc_q" .
+<Battle_of_Ratan_and_Sävar> <base.culturalevent.event.entity_involved> "Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsjl6" .
+<Sweden> <government.political_district.representatives> "m.012n428f" .
+<Ingrian_War> <time.event.locations> "Sweden" .
+<Scanian_War> <time.event.locations> "Scandinavian Peninsula" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.12460m221" .
+<National_Food_Administration> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4lc61" .
+<Swedish_municipality> <base.aareas.schema.administrative_area_type.subdivides_type> "Swedish county" .
+<Sweden> <organization.organization_member.member_of> "m.04dj2lc" .
+<Prime_Minister_of_Sweden> <government.government_office_or_title.office_holders> "m.011t357l" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4l7y5" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Dagen" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Rescue Services Agency" .
+<Karlholmen_Island> <common.topic.subjects> "Sweden" .
+<Sweden> <location.statistical_region.net_migration> "g.1q5k0kxb9" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc40yty" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3vhgd" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4zk" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn83b" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4d1wl" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1s06rbbmy" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4mcqn" .
+<Sweden> <organization.organization_member.member_of> "m.0b6_43x" .
+<Östergötland_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc45_z0" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwl3" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460tjxn" .
+<Sweden> <food.beer_country_region.beers_from_here> "Jämtlands Bryggeri Oatmeal Porter" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_yngg" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn5b0" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3knz8" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4s4sk" .
+<Swedish_University_of_Agricultural_Sciences> <education.educational_institution_campus.educational_institution> "Swedish University of Agricultural Sciences" .
+<SJ> <organization.organization.founders> "Sweden" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc414dm" .
+<Swedish_Work_Environment_Authority> <government.government_agency.jurisdiction> "Sweden" .
+<Bunnik_Tours> <travel.tour_operator.travel_destinations> "Europe" .
+<Deputy_Prime_Minister_of_Sweden> <government.government_office_or_title.office_holders> "m.0fq68g1" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4pg7j" .
+<Uppsala_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<m.02h7b7x> <military.military_command.military_combatant> "Sweden" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.010gfsfy" .
+<Gotland_County> <location.administrative_division.second_level_division_of> "Sweden" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245zs115" .
+<2012–13_Basketligan_season> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3s6xq" .
+<Currency> <type.type.expected_by> "Currency Used" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3w079" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc4xfdp" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_parent> "Earth" .
+<Stockholm> <periodicals.newspaper_circulation_area.newspapers> "Post- och Inrikes Tidningar" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn73d" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsczv" .
+<Sweden> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc4x38d" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn5bp" .
+<Riksdag> <government.governmental_body.component_bodies> "Andra kammaren" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4zv5n" .
+<Sweden> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc3sz9h" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwbt" .
+<Sweden> <food.beer_country_region.beers_from_here> "Nynäshamns Ångbryggeri Bedarö Bitter" .
+<Northern_Europe> <location.location.containedby> "Europe" .
+<Sweden> <location.country.administrative_divisions> "Gävleborg County" .
+<m.09wwkgc> <common.webpage.topic> "Sweden" .
+<Sweden> <location.country.administrative_divisions> "Norrbotten County" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4fk_g" .
+<Northern_Wars> <time.event.includes_event> "Dano-Swedish War" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4xf6j" .
+<Södermanland_County> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc39c7z" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3gxsd" .
+<Currency> <type.type.properties> "Currency Code" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4yc71" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <government.governmental_jurisdiction.government_positions> "Deputy Prime Minister of Sweden" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4l7y4" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4x6bm" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Ministry of the Environment" .
+<Sweden> <book.book_subject.works> "Running with reindeer" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc38v95" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc37h8d" .
+<Sweden> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc3d2z6" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Police Service" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Board for Accreditation and Conformity Assessment" .
+<Winter_Time_in_Europe,_2010-2011> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3xpfs" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc44k52" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1s067rpkh" .
+<m.09x40dl> <common.webpage.topic> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc48tt6" .
+<Sweden> <government.political_district.representatives> "m.0_r1jpl" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_f_gm" .
+<Jämtland_County> <location.location.time_zones> "Central European Time Zone" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.0byrn96" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Board of Agriculture" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.12460prdz" .
+<Lule_River> <geography.river.basin_countries> "Sweden" .
+<Örebro_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc38hp2" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4xn0y" .
+<2002_Winter_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Europe> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <location.location.events> "Winter Time in Europe, 2014-2015" .
+<Currency_Formerly_Used> <rdf-schema#domain> "Country" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4b1s8" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4gdnz" .
+<Currency> <type.type.expected_by> "Adjustment currency" .
+<Sweden> <government.governmental_jurisdiction.agencies> "National Board for Consumer Complaints" .
+<Jämtland_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Parliamentary_system> <government.form_of_government.countries> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245z7gyv" .
+<Sweden> <location.location.containedby> "Eurasia" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.124614jl5" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9tz" .
+<Sweden> <location.location.partiallycontains> "m.0wjpm0l" .
+<Sweden> <location.location.events> "2011 European Summer Time" .
+<Sweden> <food.beer_country_region.beers_from_here> "Falcon" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245_t14s" .
+<Currency> <type.property.expected_type> "Currency" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc47nwr" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4dtgk" .
+<Swedish_Ministry_of_Justice> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245zcf84" .
+<Sweden> <location.country.first_level_divisions> "Västernorrland County" .
+<Sweden> <location.statistical_region.net_migration> "g.1s065xpgz" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsjj2" .
+<Dano-Swedish_War> <time.event.included_in_event> "Northern Wars" .
+<Currency> <type.type.expected_by> "Currency" .
+<Swedish_War_of_Liberation> <time.event.locations> "Scandinavia" .
+<Sweden> <location.location.containedby> "Northern Europe" .
+<Unto_a_Good_Land> <book.written_work.subjects> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9_3" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Ministry of Justice" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.124601t_c" .
+<Northern_Wars> <time.event.includes_event> "Scanian War" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc37h4t" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245z343b" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Ombudsman against Discrimination on Grounds of Sexual Orientation" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245_393p" .
+<Sweden> <location.country.official_language> "Swedish Language" .
+<Sweden> <location.location.events> "De la Gardie Campaign" .
+<Sweden_men's_national_volleyball_team> <sports.sports_team.location> "Sweden" .
+<Sweden> <location.location.adjoin_s> "m.046ct7k" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.0j5_6bl" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc40018" .
+<Scandinavia> <location.location.containedby> "Northern Europe" .
+<__Adventures_by_Disney_-_12-Night_Magic_of_the_Baltic_Cruise> <travel.tour_operator.travel_destinations> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3d65f" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.12tb6gnjd" .
+<Currency> <type.type.expected_by> "Currency" .
+<Malmö_Municipality> <location.location.partially_containedby> "Malmö Municipality" .
+<Sweden_Davis_Cup_team> <sports.sports_team.location> "Sweden" .
+<m.0b475sk> <common.webpage.topic> "Sweden" .
+<Västerbotten_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4krkn" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc37php" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc37h4v" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc4jpwm" .
+<Tierp_Arena> <travel.tourist_attraction.near_travel_destination> "Sweden" .
+<Göta_älv> <location.location.partially_contained_by> "m.0wg8wv8" .
+<Sweden> <government.governmental_jurisdiction.agencies> "County administrative boards of Sweden" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn8fx" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3srbt" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4cnps" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc474mz" .
+<Sweden> <location.location.partially_contains> "Barents Euro-Arctic Council" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4q8ks" .
+<Göta_älv> <location.location.partially_containedby> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsmm" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245z5lcp" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwjv" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Folke Bernadotte Academy" .
+<Sweden_women's_national_under-18_ice_hockey_team> <sports.sports_team.location> "Sweden" .
+<Kalmar_County> <location.location.containedby> "Sweden" .
+<Franco-Swedish_War> <base.culturalevent.event.entity_involved> "Sweden" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.11b71s_gs9" .
+<Sweden> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3z1n4" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.1245zw3z9" .
+<Sweden> <location.country.languages_spoken> "Finnish Language" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "Danish Swedish Farmdog" .
+<Sweden> <common.topic.webpage> "m.09wtx75" .
+<Sweden> <location.statistical_region.net_migration> "g.1q5k0cjwb" .
+<Uppsala_County> <location.administrative_division.second_level_division_of> "Sweden" .
+<Västerbotten_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Dano-Swedish_War> <time.event.included_in_event> "Northern Wars" .
+<Sweden> <common.topic.subject_of> "Karlholmen Island" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc3h6_j" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3_gkk" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc51pys" .
+<Europe> <travel.travel_destination.tour_operators> "Bunnik Tours" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc46r0b" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "Hamiltonstövare" .
+<m.0byrn8y> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4n0kn" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc50cv5" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4vdjv" .
+<Sweden> <sports.sports_team_location.teams> "Sweden men's national inline hockey team" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245zql1c" .
+<Östergötland_County> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4w7v9" .
+<The_Man_Who_Smiled> <book.written_work.previous_in_series> "The White Lioness" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc414fd" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Svenska Dagbladet" .
+<Sweden> <location.statistical_region.foreign_direct_investment_net_inflows> "g.11b71vqmfq" .
+<Sweden> <government.governmental_jurisdiction.agencies> "National Agency for Higher Education" .
+<Gotland_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <location.location.partiallycontains> "m.0wg8wv8" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Blekinge County" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc49js8" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.0fq68g1" .
+<Sweden> <location.location.events> "Livonian War" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.12460g40z" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245yxqg3" .
+<m.0byrn8y> <government.government_position_held.governmental_body> "Politics of Sweden" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3jqnc" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc50_v9" .
+<Sweden> <location.country.first_level_divisions> "Västerbotten County" .
+<Sweden> <location.statistical_region.net_migration> "g.1s06rbklz" .
+<Sweden> <government.government.agency> "Aliens Appeals Board of Sweden" .
+<Sweden> <location.location.events> "Franco-Swedish War" .
+<Sweden> <location.country.administrative_divisions> "Gotland County" .
+<Post-_och_Inrikes_Tidningar> <book.newspaper.circulation_areas> "Stockholm" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3lm17" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4ygt1" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1245_w4yj" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Institute" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4gvtv" .
+<Sweden> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3vxrs" .
+<Pripps_Bryggerier_Blå> <food.beer.from_region> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3p9bj" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_tlxx" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3c1bp" .
+<Sweden> <book.book_subject.works> "Before the Frost" .
+<2012_Italian_Film_Festival> <time.event.locations> "Sweden" .
+<Swedish_general_election,_2006> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3l5pt" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.124613_lp" .
+<Currency> <type.type.expected_by> "Currency Formerly Used" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc51hgf" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc4f7p3" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Aftonbladet" .
+<Sweden> <location.country.form_of_government> "Hereditary monarchy" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4vtv6" .
+<Klåva> <common.topic.subjects> "Sweden" .
+<Europe> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Swedish_riksdaler> <common.topic.notable_for> "g.125gs6f1z" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_vlpc" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3yz8x" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "2014 Winter Olympics" .
+<Sweden> <location.location.partially_contains> "g.11x7vqdtm" .
+<Depths> <book.written_work.original_language> "Swedish Language" .
+<Dano-Swedish_War> <time.event.included_in_event> "Second Northern War" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfscqr" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4s85d" .
+<Sweden> <government.government.agency> "C-byrån" .
+<Västmanland_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1q5k0x3xs" .
+<Sweden> <location.location.events> "2013 Balkan New Film Festival" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc3fgyp" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc425w6" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3qp7j" .
+<m.0b4794p> <common.webpage.topic> "Sweden" .
+<Sweden> <common.topic.webpage> "m.0j1bzbp" .
+<Dano-Swedish_War> <time.event.locations> "Sweden" .
+<Stockholm> <location.location.events> "1912 Summer Olympics" .
+<Sovereign_state> <base.aareas.schema.administrative_area_type.pertains_to> "Earth" .
+<Sweden> <organization.organization_member.member_of> "m.04ddsbc" .
+<Swedish_Armed_Forces> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.1245zkdx5" .
+<Currency_Used> <rdf-schema#range> "Currency" .
+<Västmanland_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<m.011422q9> <government.government_position_held.district_represented> "Sweden" .
+<Västernorrland_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Swedish_Road_Administration> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3dzb0" .
+<Winter_Time_in_Europe,_2011-2012> <time.event.locations> "Sweden" .
+<Gävleborg_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Uppsala_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Offensiv> <book.newspaper.circulation_areas> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.010gfspj" .
+<m.0wg8wtz> <location.partial_containment_relationship.partially_contains> "The North Calotte Council" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4gvj8" .
+<Västra_Götaland_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc54qx0" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4lnv_" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsl1" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3y2xr" .
+<2014_European_Summer_Time> <time.event.locations> "Sweden" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Kalmar County" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4n0hb" .
+<Nils_Liedholm> <people.person.nationality> "Sweden" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3m0nq" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc44zzr" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1245zvr56" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3x7rc" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrw8v" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9s4" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245zxffk" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.12460cq13" .
+<m.0j5_6bl> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Transport Agency" .
+<Dano-Swedish_War> <time.event.included_in_event> "Second Northern War" .
+<Svenska_Dagbladet> <book.newspaper.circulation_areas> "Sweden" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc46h_j" .
+<Social-Demokraten> <book.periodical.language> "Swedish Language" .
+<Location_of_Sweden> <common.image.appears_in_topic_gallery> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3npqr" .
+<Sweden> <location.location.partiallycontains> "m.0wjpn19" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245zhr3f" .
+<Battle_of_Lena> <base.culturalevent.event.entity_involved> "Sweden" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc3l5pb" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc4004d" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc45qj4" .
+<War_against_Sigismund> <time.event.locations> "Europe" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3kx1q" .
+<Swedish_Board_of_Fisheries> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <book.book_subject.works> "My Life as an Explorer" .
+<Stockholm> <periodicals.newspaper_circulation_area.newspapers> "Svenska Dagbladet" .
+<Sweden> <government.governmental_jurisdiction.government_bodies> "Riksdag" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc526c4" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Jämtland County" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish National Bank" .
+<Jämtlands_Bryggeri_Hell> <food.beer.from_region> "Sweden" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3vhlv" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc489hb" .
+<Sweden> <location.country.first_level_divisions> "Kalmar County" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc53pmn" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3npq2" .
+<Sweden> <location.statistical_region.diesel_price_liter> "g.12cp_jchf" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "1912 Summer Olympics" .
+<m.0b47w7h> <common.webpage.topic> "Sweden" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4rmzw" .
+<Kronoberg_County> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc43v3n" .
+<Stockholm> <periodicals.newspaper_circulation_area.newspapers> "Dagens Nyheter" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn8w7" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4t_jl" .
+<Sweden> <location.country.first_level_divisions> "Stockholm County" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3zl6k" .
+<Skåne_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<m.04kc81n> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_3923" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Ministry of Culture" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4rrwr" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_22ll" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4y4bv" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Institute for Dialectology, Onomastics and Folklore Research in Umeå" .
+<Stockholm> <location.location.containedby> "Sweden" .
+<English_Wars> <base.culturalevent.event.entity_involved> "Sweden" .
+<Sweden> <organization.organization_founder.organizations_founded> "Council of Europe" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "Norrbottenspets" .
+<Västra_Götaland_County> <location.location.time_zones> "Central European Time Zone" .
+<Northern_Seven_Years'_War> <time.event.locations> "Scandinavia" .
+<Currency> <type.type.expected_by> "Currency" .
+<The_Son_of_a_Servant> <book.written_work.subjects> "Sweden" .
+<Currency> <type.type.expected_by> "Currency" .
+<Swedish_Ministry_of_Agriculture,_Food_and_Fisheries> <government.government_agency.jurisdiction> "Sweden" .
+<Blekinge_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Currency> <type.type.expected_by> "Currency" .
+<Dano-Swedish_War> <base.culturalevent.event.entity_involved> "Sweden" .
+<Tärnö_Bryggeri_Nils_Oscar_God_Lager> <food.beer.from_region> "Sweden" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc5194s" .
+<Sweden> <sports.sports_team_location.teams> "Sweden national badminton team" .
+<Arctic> <location.location.partially_contains> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3gxnk" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxst" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1245_pnrk" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460v8n7" .
+<Blekinge_County> <location.location.time_zones> "Central European Time Zone" .
+<C-byrån> <government.government_agency.government> "Sweden" .
+<Prime_Minister_of_Sweden> <government.government_office_or_title.office_holders> "m.0byrn8y" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc41x08" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4_rzx" .
+<Coast_Guard> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3npkv" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4kwcd" .
+<The_White_Lioness> <book.written_work.next_in_series> "The Man Who Smiled" .
+<Politics_of_Sweden> <government.government.agency> "Statistics Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245zy5yg" .
+<Countries_Formerly_Used> <rdf-schema#domain> "Currency" .
+<Sweden_national_football_team> <sports.sports_team.location> "Sweden" .
+<Countries_Used> <rdf-schema#domain> "Currency" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwc0" .
+<Jämtland_County> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4q8k_" .
+<Norrbotten_County> <location.location.time_zones> "Central European Time Zone" .
+<Ingmar_Bergman> <book.written_work.subjects> "Sweden" .
+<Meänkieli> <language.human_language.main_country> "Sweden" .
+<m.03w602q> <organization.organization_membership.member> "Sweden" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3d2p5" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish National Debt Office" .
+<Sweden> <location.location.events> "Winter effects on train traffic in Sweden 2009–2011" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.12460z1sf" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245z86rf" .
+<Dano-Swedish_War_of_1808–09> <time.event.included_in_event> "English Wars" .
+<Polish–Swedish_wars> <time.event.includes_event> "Polish–Swedish War" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Prison and Probation Service" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4j59_" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrw79" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Institute for Food and Agricultural Economics" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.1245zdkts" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4dd06" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsf5g" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3p9ds" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "1980 Winter Olympics" .
+<Västernorrland_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Göta_älv> <location.location.containedby> "Europe" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn7vr" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc4cbpb" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245zqd65" .
+<Sweden> <location.country.capital> "Stockholm" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc3vhk_" .
+<m.0wg8wtg> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3srdf" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.010gfstj" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4rr8m" .
+<Sweden> <common.topic.article> "m.0d0vqz" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9_n" .
+<Göteborgs-Posten> <book.newspaper.circulation_areas> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxsc" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc3xpq8" .
+<Sovereign_state> <base.aareas.administrative_area_level.examples> "Sovereign state" .
+<Sweden> <sports.sports_team_location.teams> "Sweden men's national junior ice hockey team" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc501nf" .
+<Falköping_Municipality> <location.location.containedby> "Sweden" .
+<Swedish_krona> <common.topic.notable_types> "Currency" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3vhbb" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4zydc" .
+<Swedish_Transport_Agency> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.time_required_to_start_a_business> "g.1hhc44z_c" .
+<m.059_p0d> <organization.organization_membership.member> "Sweden" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs03t" .
+<Currency> <freebase.type_hints.included_types> "Topic" .
+<Sweden> <location.location.events> "Conquest of Stockholm" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc3_l14" .
+<Polish–Swedish_War_(1621–25)> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4h7ps" .
+<Sweden> <location.location.events> "Winter Time in Europe, 2013-2014" .
+<1912_Summer_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "g.11dyhtz0j" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsjrj" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfscww" .
+<Sweden_men's_national_inline_hockey_team> <sports.sports_team.location> "Sweden" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3n9vb" .
+<Swedish_Police_Service> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc50ckw" .
+<Sweden> <organization.organization_member.member_of> "m.059_p0d" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc53x80" .
+<m.0wg8wtt> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc4t0_1" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1s060507q" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Enforcement Authority" .
+<Sweden> <food.beer_country_region.beers_from_here> "Tärnö Bryggeri Nils Oscar Barley Wine" .
+<Sweden> <location.statistical_region.diesel_price_liter> "g.12cp_jchg" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc3x414" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3vhdz" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3p65d" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc40rgv" .
+<Finnish_War> <time.event.includes_event> "Battle of Ratan and Sävar" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn5b7" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc53cd2" .
+<Sweden> <location.country.first_level_divisions> "Halland County" .
+<m.012n428f> <government.government_position_held.district_represented> "Sweden" .
+<Sweden> <organization.organization_member.member_of> "m.04dj42h" .
+<Currency> <rdf-schema#range> "Currency" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1245_0ssw" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc388jt" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn82x" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3lj1x" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4z3bg" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4cbld" .
+<Currency> <type.type.expected_by> "currency" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4_s75" .
+<Swedish_Armed_Forces> <organization.organization.place_founded> "Sweden" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc49jxl" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc44sf5" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4_k0z" .
+<m.04ddtym> <organization.organization_membership.member> "Sweden" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3v2n1" .
+<Sweden> <location.country.first_level_divisions> "Skåne County" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn827" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc4ppcx" .
+<Currency> <type.type.properties> "Source of exchange" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Norrbotten County" .
+<Sweden> <government.governmental_jurisdiction.agencies> "g.11b6x5k0b3" .
+<Sweden> <location.location.partiallycontains> "m.0wg8wtz" .
+<m.0wjpm0l> <location.partial_containment_relationship.partially_contains> "Lule River" .
+<1912_Summer_Olympics> <olympics.olympic_games.host_city> "Stockholm" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc3zlkn" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrsrd" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc37x49" .
+<Prime_Minister_of_Sweden> <government.government_office_or_title.office_holders> "m.03xdzwy" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.124618yfv" .
+<Northern_Wars> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4hrwh" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc5541d" .
+<Folkets_Dagblad_Politiken> <book.periodical.language> "Swedish Language" .
+<Kalmar_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4hyyt" .
+<Sweden> <location.country.languages_spoken> "Swedish Sign Language" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Crime Victim Compensation and Support Authority" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4hw0d" .
+<Sweden> <base.locations.countries.continent> "Europe" .
+<Election_Authority_of_Sweden> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc42fkh" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4_48t" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn6rj" .
+<m.0wg8wtm> <location.partial_containment_relationship.partially_contains> "Barents Euro-Arctic Council" .
+<m.0b6z9n7> <military.military_command.military_combatant> "Sweden" .
+<Kalmar_County> <location.administrative_division.second_level_division_of> "Sweden" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc53gv9" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_4lfc" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245ys4_g" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3bvgn" .
+<Scanian_War> <time.event.locations> "Scandinavia" .
+<Polish–Swedish_War> <time.event.locations> "Sweden" .
+<Lundagård> <book.newspaper.circulation_areas> "Sweden" .
+<Sweden> <location.location.geolocation> "m.046vxkg" .
+<Sweden> <government.political_district.representatives> "m.0_vnn01" .
+<Sweden> <location.statistical_region.diesel_price_liter> "g.12cp_jhbn" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4z_" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.12460zfqv" .
+<World_Trade_Organization> <organization.organization.founders> "Sweden" .
+<Currency> <common.topic.article> "m.0d9s59w" .
+<Sweden> <location.statistical_region.time_required_to_start_a_business> "g.1hhc3g61h" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc52vjc" .
+<Dagen_H> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc3l5np" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc431v2" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.11b60w2nql" .
+<Sweden> <location.country.administrative_divisions> "Botkyrka Municipality" .
+<Swedish_Institute_of_Space_Physics> <government.government_agency.jurisdiction> "Sweden" .
+<Scandinavia> <travel.travel_destination.tour_operators> "Adventures by Disney - 7-Night Magic of the Baltic Cruise" .
+<Currency> <type.type.expected_by> "Currency" .
+<Adventures_by_Disney_-_7-Night_Magic_of_the_Baltic_Cruise> <travel.tour_operator.travel_destinations> "Stockholm" .
+<National_Agency_for_Higher_Education> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <common.topic.subject_of> "Klåva" .
+<Northern_Europe> <location.location.contains> "Scandinavia" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3tkm3" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc469n4" .
+<Sweden> <sports.sport_country.athletes> "m.0jytmnj" .
+<Falcon> <food.beer.from_region> "Sweden" .
+<Council_of_Europe> <organization.membership_organization.members> "m.059_p0d" .
+<Sweden> <location.location.events> "2012–13 Basketligan season" .
+<Smaland_Hound> <biology.animal_breed.place_of_origin> "Sweden" .
+<Sweden> <location.location.events> "Scanian War" .
+<m.0wjpn19> <location.partial_containment_relationship.partially_contains> "Muonio" .
+<Sweden> <location.country.administrative_divisions> "Falköping Municipality" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc3yvb9" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Defence Materiel Administration" .
+<1958_FIFA_World_Cup> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4_k4l" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs0b6" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4xmy0" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc47nck" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc45dn4" .
+<Hamiltonstövare> <biology.animal_breed.place_of_origin> "Sweden" .
+<Stockholm> <travel.travel_destination.tour_operators> "Adventures by Disney - 7-Night Magic of the Baltic Cruise" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn9c" .
+<21st_Guldbagge_Awards> <time.event.locations> "Sweden" .
+<Currency> <type.type.expected_by> "Currency" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Ministry of Employment" .
+<Torne> <location.location.partially_containedby> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "National Export Credits Guarantee Board" .
+<m.02h7b84> <military.military_command.military_combatant> "Sweden" .
+<Sweden> <location.country.first_level_divisions> "Dalarna County" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3sjgf" .
+<Sweden> <book.book_subject.works> "The Man Who Smiled" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3sz9p" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1246176lv" .
+<Sweden> <food.beer_country_region.beers_from_here> "Tärnö Bryggeri Nils Oscar Imperial Stout" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3qg7h" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3nwzv" .
+<Sweden> <book.book_subject.works> "The White Lioness" .
+<m.0wg8wtg> <location.partial_containment_relationship.partially_contains> "Euroregion Baltic" .
+<My_Life_as_an_Explorer> <book.written_work.subjects> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4t0sp" .
+<Polish–Swedish_War> <base.culturalevent.event.entity_involved> "Sweden" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3tskv" .
+<Dano-Swedish_War> <base.culturalevent.event.entity_involved> "Sweden" .
+<Scandinavia> <location.location.contains> "Sweden" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc4yl12" .
+<Swedish_Vallhund> <biology.animal_breed.place_of_origin> "Sweden" .
+<Malmö_Municipality> <location.location.containedby> "Sweden" .
+<Andra_kammaren> <government.governmental_body.body_this_is_a_component_of> "Riksdag" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc47g3g" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3qpcj" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc37pv8" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3h38_" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4s80w" .
+<Sweden> <location.country.administrative_divisions> "Stockholm County" .
+<m.09wmtwk> <common.webpage.topic> "Sweden" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc53l0k" .
+<Sweden> <location.statistical_region.net_migration> "g.1q5jjw4vh" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3c16r" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3vhh0" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsn2p" .
+<Battle_of_Ratan_and_Sävar> <time.event.locations> "Sweden" .
+<Battle_of_Grengam> <base.culturalevent.event.entity_involved> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9ym" .
+<Swedish_Ministry_of_Integration_and_Gender_Equality> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <food.beer_country_region.beers_from_here> "Pripps Bryggerier Blå" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs0g6" .
+<Currency> <type.type.expected_by> "Currencies" .
+<m.0byrn96> <government.government_position_held.office_position_or_title> "Prime Minister of Sweden" .
+<Muonio> <location.location.partially_contained_by> "m.0wjpn19" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Work Environment Authority" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.12cp_kbpd" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_area_type> "Sovereign state" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3pys7" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc385h9" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3g_zp" .
+<Currency> <type.type.domain> "Business" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1q5j7kns9" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3g63j" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4w7sr" .
+<Europe> <base.locations.continents.countries_within> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4rrrc" .
+<Swedish_county> <base.aareas.schema.administrative_area_type.subdivides_place> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Economic Crime Authority" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4krjp" .
+<Statistics_Sweden> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.12460v8q1" .
+<m.0wg8wtz> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<Sweden> <location.location.partially_contained_by> "m.0wg9h9r" .
+<Swedish_Ministry_of_Health_and_Social_Affairs> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc47g6q" .
+<Sweden> <location.location.partially_contains> "Torne" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc4k6cd" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc48tsb" .
+<Euroregion_Sesupe> <location.location.partially_contained_by> "m.0wg8wt9" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4ykyx" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc3fl8y" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc4nw9t" .
+<Sweden> <location.statistical_region.labor_participation_rate> "g.1hhc3_l13" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc501sh" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc3b2pf" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Kronoberg County" .
+<Currency> <type.type.expected_by> "Blah1" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4mhrn" .
+<Sweden> <common.topic.webpage> "m.09x40dl" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc40vrw" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc3d2__" .
+<Second_Northern_War> <time.event.included_in_event> "Northern Wars" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwh9" .
+<Europe> <biology.breed_origin.breeds_originating_here> "European Shorthair" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4dq9h" .
+<Tärnö_Bryggeri_Nils_Oscar_Imperial_Stout> <food.beer.from_region> "Sweden" .
+<Conquest_of_Stockholm> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4cz9w" .
+<m.04p8x_7> <organization.organization_membership.member> "Sweden" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<Sweden> <government.governmental_jurisdiction.agencies> "National Institute of Economic Research" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4_7dn" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsjs0" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsmyn" .
+<Sweden> <food.beer_country_region.beers_from_here> "Jämtlands Bryggeri Hell" .
+<Sweden> <location.country.administrative_divisions> "Kalmar County" .
+<Swedish_Lapphund> <biology.animal_breed.place_of_origin> "Sweden" .
+<Swedish_general_election,_2002> <government.election.office> "Prime Minister of Sweden" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "g.1245_ync7" .
+<Sweden> <sports.sports_team_location.teams> "Sweden women's national ice hockey team" .
+<m.04dj42h> <organization.organization_membership.member> "Sweden" .
+<Currency> <type.type.expected_by> "Purchase currency" .
+<Sweden> <sports.sports_team_location.teams> "Sweden national rugby union team" .
+<m.0wjpllj> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<m.0wg8wv8> <location.partial_containment_relationship.partially_contains> "Göta älv" .
+<Riksdag_of_the_Estates> <government.governmental_body.jurisdiction> "Sweden" .
+<1936_Summer_Olympics> <olympics.olympic_games.participating_countries> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460zty_" .
+<Muonio> <location.location.containedby> "Europe" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrw6w" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Halland County" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_cx04" .
+<Currency> <type.type.expected_by> "Currency" .
+<War_against_Sigismund> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3f8d4" .
+<Uppsala_County> <location.location.containedby> "Sweden" .
+<Riksdag> <government.governmental_body.members> "m.0_qy9fz" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsf50" .
+<Sweden> <location.location.partiallycontains> "m.0wg8wtt" .
+<A_Small_Act> <film.film.language> "Swedish Language" .
+<Tierp_Arena> <location.location.containedby> "Sweden" .
+<Swedish_Warmblood> <biology.animal_breed.place_of_origin> "Sweden" .
+<National_Defence_Radio_Establishment> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.location.events> "Dano-Swedish War of 1808–09" .
+<Storsylen> <location.location.partially_containedby> "Sweden" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc3kg64" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245z86rz" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc37pvj" .
+<Winter_Time_in_Europe,_2012-2013> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4wq" .
+<Sweden> <location.country.currency_used> "Swedish krona" .
+<Prime_Minister_of_Sweden> <government.government_office_or_title.office_holders> "m.040fr35" .
+<Sweden> <book.book_subject.works> "Notebook on Black History Month 2012 (Part 5) Black Power Mixtape continued" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Tax Agency" .
+<Västmanland_County> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <book.book_subject.works> "The Emigrants" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc431hj" .
+<Sweden> <sports.sports_team_location.teams> "Mörrums GoIS IK" .
+<Sweden> <location.location.events> "Mister Sweden" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsjjx" .
+<Gävleborg_County> <location.location.time_zones> "Central European Time Zone" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc3zldq" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxt7" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Armed Forces" .
+<Swedish_Sign_Language> <language.human_language.countries_spoken_in> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwkq" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc3_l33" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9vg" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.11b60xj9x2" .
+<Sweden> <government.governmental_jurisdiction.agencies> "National Board of Student Aid" .
+<Sweden> <location.location.events> "2012 MOVE Filmfestival Umeå" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "m.0nfsjhl" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc3y6mj" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc42d_g" .
+<Europe> <base.locations.continents.planet> "Earth" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3src4" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "Swedish Ardennes" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc3_gpz" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc4y_zn" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4n7gn" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc37pp6" .
+<Currency> <type.type.expected_by> "Source of exchange" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245zylxs" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrwn3" .
+<Finnish_War> <time.event.locations> "Sweden" .
+<English_Wars> <time.event.includes_event> "Dano-Swedish War of 1808–09" .
+<Jönköping_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Göteborgs-Tidningen" .
+<Klarälven> <location.location.containedby> "Europe" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4by0z" .
+<Northern_Europe> <location.location.contains> "Sweden" .
+<Gävleborg_County> <location.location.containedby> "Sweden" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4lzrm" .
+<Swedish_Board_for_Accreditation_and_Conformity_Assessment> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <common.topic.webpage> "m.09yg9qv" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Post and Telecom Authority" .
+<Sweden> <location.location.partially_contains> "Euroregion Sesupe" .
+<Countries_Used> <type.property.schema> "Currency" .
+<De_la_Gardie_Campaign> <time.event.locations> "Sweden" .
+<Sweden> <location.country.administrative_divisions> "Västernorrland County" .
+<Chancellor_of_Justice> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4f8ht" .
+<Business> <type.domain.types> "Currency" .
+<Sweden> <organization.organization_member.member_of> "m.03w602q" .
+<Dalarna_County> <location.location.time_zones> "Central European Time Zone" .
+<Prime_Minister_of_Sweden> <government.government_office_or_title.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_9gnz" .
+<Sweden> <location.country.currency_formerly_used> "Swedish riksdaler" .
+<Country> <type.type.properties> "Currency Formerly Used" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245_j1c0" .
+<Sweden> <film.film_location.featured_in_films> "A Small Act" .
+<Sweden> <location.statistical_region.net_migration> "g.1q5k0yv1s" .
+<Tärnö_Bryggeri_Nils_Oscar_Barley_Wine> <food.beer.from_region> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.12460cq0j" .
+<Sweden> <location.statistical_region.part_time_employment_percent> "g.1hhc3d9qg" .
+<Finnish_Language> <language.human_language.countries_spoken_in> "Sweden" .
+<Halland_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <location.location.events> "Second Northern War" .
+<Livonian_War> <time.event.locations> "Northern Europe" .
+<Sweden_national_football_team> <sports.tournament_event_competitor.country> "m.0jytmnj" .
+<Sweden> <travel.travel_destination.tour_operators> "Adventures by Disney - 7-Night Magic of the Baltic Cruise" .
+<Currency> <rdf-schema#range> "Currency" .
+<Sweden> <location.statistical_region.poverty_rate_2dollars_per_day> "g.11b6cp2k4v" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4tfvj" .
+<Sweden> <location.statistical_region.merchandise_trade_percent_of_gdp> "g.1hhc446br" .
+<Värmland_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc4w0xq" .
+<Bunnik_Tours> <travel.tour_operator.travel_destinations> "Scandinavia" .
+<m.0jytmnj> <sports.competitor_country_relationship.country> "Sweden" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.12460dnhl" .
+<Currency> <type.type.properties> "Prefix Symbol" .
+<Findwise_AB> <business.business_operation.industry> "Sweden" .
+<Stockholm_County> <location.administrative_division.country> "Sweden" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc3mxkg" .
+<Swedish_Sign_Language> <language.human_language.region> "Europe" .
+<Sweden> <base.popstra.location.arrestee> "m.063v4jh" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4l7y6" .
+<Sweden> <location.statistical_region.gross_savings_as_percent_of_gdp> "g.1hhc4cp0x" .
+<Politics_of_Sweden> <government.governmental_body.members> "m.0byrn96" .
+<Sweden> <common.topic.webpage> "m.09yjw99" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc403np" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4f7q0" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc3r2fs" .
+<Sweden> <location.location.partially_contains> "The Mittnorden Committee" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc4jtkn" .
+<Conquest_of_Stockholm> <base.culturalevent.event.entity_involved> "Sweden" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.1hhc50x5c" .
+<m.04ddt9c> <organization.organization_membership.member> "Sweden" .
+<Blekinge_County> <location.location.containedby> "Sweden" .
+<Östergötland_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Värmland_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Södermanland_County> <location.administrative_division.second_level_division_of> "Sweden" .
+<Scandinavia> <location.location.events> "Swedish War of Liberation" .
+<Sweden> <government.governmental_jurisdiction.government_positions> "Prime Minister of Sweden" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245ytnjr" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsh3v" .
+<Sweden> <location.location.events> "Ingrian War" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc53cfk" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4rrwf" .
+<Sweden> <location.statistical_region.foreign_direct_investment_net_inflows> "g.1hhc512_x" .
+<Sweden> <location.statistical_region.high_tech_as_percent_of_manufactured_exports> "g.1hhc3jqpg" .
+<Country> <type.type.properties> "Currency Used" .
+<Sweden> <common.topic.notable_for> "g.1254yxj5p" .
+<Currency> <type.type.properties> "Sub Units" .
+<m.059wcjz> <organization.organization_membership.member> "Sweden" .
+<Jönköping_County> <location.administrative_division.first_level_division_of> "Sweden" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4tfp0" .
+<Skåne_County> <base.aareas.schema.administrative_area.administrative_area_type> "Swedish county" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4lntf" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "g.1245yzm6q" .
+<Folkets_Dagblad_Politiken> <book.newspaper.circulation_areas> "Sweden" .
+<Sweden> <location.statistical_region.size_of_armed_forces> "g.1hhc42fs2" .
+<Sweden> <location.statistical_region.long_term_unemployment_rate> "g.1hhc4nw8n" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.124611vtn" .
+<m.010gfsfy> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <olympics.olympic_participating_country.olympics_participated_in> "1900 Summer Olympics" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Fortifications Agency" .
+<m.04dj48l> <organization.organization_membership.member> "Sweden" .
+<Sweden> <location.location.events> "Polish–Swedish War (1621–25)" .
+<Sweden> <location.location.events> "Swedish War of Liberation" .
+<Sweden> <location.statistical_region.internet_users_percent_population> "m.0nfs0bf" .
+<Blekinge_County> <base.aareas.schema.administrative_area.administrative_parent> "Sweden" .
+<Sweden> <base.aareas.schema.administrative_area.pertinent_type> "Swedish municipality" .
+<Conquest_of_Stockholm> <time.event.included_in_event> "Swedish War of Liberation" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc4qpqg" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrxr0" .
+<The_Summer_Book> <book.written_work.original_language> "Swedish Language" .
+<Sweden> <periodicals.newspaper_circulation_area.newspapers> "Social-Demokraten" .
+<Dano-Swedish_War> <time.event.locations> "Sweden" .
+<2012_MOVE_Filmfestival_Umeå> <time.event.locations> "Sweden" .
+<m.0wjpm0l> <location.partial_containment_relationship.partially_contained_by> "Sweden" .
+<IB_affair> <government.government_agency.jurisdiction> "Sweden" .
+<Winter_Time_in_Europe,_2014-2015> <time.event.locations> "Sweden" .
+<Sweden> <location.location.events> "22nd Guldbagge Awards" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Consumer Agency" .
+<The_North_Calotte_Council> <location.location.partially_containedby> "Sweden" .
+<Currency> <freebase.type_profile.strict_included_types> "Topic" .
+<Sweden> <location.country.administrative_divisions> "Uppsala County" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.124616vtt" .
+<Swedish_riksdaler> <common.topic.article> "m.01bkc1" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.12460chn_" .
+<m.052krmy> <government.national_anthem_of_a_country.country> "Sweden" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245z_806" .
+<Sweden> <organization.organization_member.member_of> "m.04dj48l" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Västra Götaland County" .
+<Sweden> <location.statistical_region.trade_balance_as_percent_of_gdp> "g.12tb6gn6b" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs4yy" .
+<Sweden> <base.aareas.schema.administrative_area.administrative_children> "Uppsala County" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "g.1245_j1by" .
+<Sweden> <location.statistical_region.gni_in_ppp_dollars> "g.1245zy5yf" .
+<Swedish_Research_Council> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "g.1245_zt00" .
+<Sweden> <location.statistical_region.market_cap_of_listed_companies_as_percent_of_gdp> "g.1hhc4lnxy" .
+<Svenska_Dagbladet> <book.newspaper.circulation_areas> "Stockholm" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrw72" .
+<Swedish_Ministry_of_Culture> <government.government_agency.jurisdiction> "Sweden" .
+<Stockholm> <location.location.containedby> "Stockholm County" .
+<Sweden> <government.governmental_jurisdiction.governing_officials> "m.010gfsck" .
+<Sweden> <location.statistical_region.cpi_inflation_rate> "g.1hhc4q59q" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs9zc" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc3m3nd" .
+<m.010gfspj> <government.government_position_held.jurisdiction_of_office> "Sweden" .
+<Sweden> <location.location.events> "Dano-Swedish War" .
+<Dano-Swedish_War_of_1808–09> <time.event.locations> "Sweden" .
+<Sweden> <location.statistical_region.co2_emissions_per_capita> "m.0nfrw7r" .
+<Sweden> <location.statistical_region.gni_per_capita_in_ppp_dollars> "m.0nfs4yp" .
+<Sweden_Fed_Cup_team> <sports.sports_team.location> "Sweden" .
+<Swedish_University_of_Agricultural_Sciences> <education.educational_institution.campuses> "Swedish University of Agricultural Sciences" .
+<Swedish_municipality> <base.aareas.schema.administrative_area_type.sovereignty> "Sweden" .
+<Sweden> <location.statistical_region.time_required_to_start_a_business> "g.1hhc4n0bj" .
+<Sweden> <common.topic.webpage> "m.0b47w7h" .
+<Swedish_National_Men's_Ice_Hockey_Team> <sports.sports_team.location> "Sweden" .
+<Sweden> <organization.organization_member.member_of> "m.0njx6p_" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Sami Parliament of Sweden" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "g.1245ywjf5" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.12460cq12" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4vv" .
+<Swedish_Ministry_of_Enterprise,_Energy_and_Communications> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "Swedish Accident Investigation Authority" .
+<Västmanland_County> <location.location.containedby> "Sweden" .
+<Sweden> <government.political_district.representatives> "m.0_vnkvm" .
+<Sweden> <location.statistical_region.government_debt_percent_gdp> "m.0nfn4ty" .
+<Swedish_Economic_Crime_Authority> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <location.statistical_region.broadband_penetration_rate> "m.0nfn800" .
+<Sweden> <location.statistical_region.health_expenditure_as_percent_of_gdp> "g.1hhc50pmn" .
+<Sweden> <location.statistical_region.gender_balance_members_of_parliament> "g.1hhc438v6" .
+<Sweden> <location.statistical_region.renewable_freshwater_per_capita> "g.1hhc4qq1n" .
+<Sweden> <biology.breed_origin.breeds_originating_here> "Hällefors Elkhound" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc4zq_5" .
+<Sweden> <location.location.events> "Swedish general election, 2006" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "m.0nfsh3m" .
+<Sweden> <location.statistical_region.agriculture_as_percent_of_gdp> "g.1hhc4cg67" .
+<Sweden> <location.location.events> "HockeyAllsvenskan 09/10" .
+<Sweden> <location.statistical_region.gdp_nominal_per_capita> "g.1hhc3kc04" .
+<Sweden> <location.location.events> "Battle of Ratan and Sävar" .
+<Sweden> <location.statistical_region.military_expenditure_percent_gdp> "g.1245z1fw7" .
+<Sweden> <location.statistical_region.consumer_price_index> "g.1hhc4kry3" .
+<Sweden> <fictional_universe.fictional_setting.fictional_characters_born_here> "Anya Jenkins" .
+<Sweden> <location.statistical_region.deposit_interest_rate> "g.1hhc403gn" .
+<Nordic_Africa_Institute> <government.government_agency.jurisdiction> "Sweden" .
+<Sweden> <government.governmental_jurisdiction.agencies> "g.11dyhy4r6" .

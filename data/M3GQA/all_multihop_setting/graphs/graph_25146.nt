@@ -1,0 +1,2534 @@
+<Denver> <base.biblioness.bibs_location.state> "Colorado" .
+<Denver-Aurora_Metropolitan_Statistical_Area> <location.location.contains> "Jefferson County" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Brock_Baker> <film.actor.film> "m.0_vyyrq" .
+<Melissa_Benoist> <award.award_nominee.award_nominations> "m.0wj9233" .
+<Aurora> <location.location.time_zones> "Mountain Time Zone" .
+<Basketball_Player> <freebase.type_profile.strict_included_types> "Topic" .
+<Gregory_A._Phillips> <people.person.place_of_birth> "Littleton" .
+<Zac_Robinson> <people.person.education> "m.04m7286" .
+<Renee_Chenault-Fattah> <common.topic.notable_types> "TV Personality" .
+<Adventures_In_Dance> <common.topic.notable_for> "g.125c9gf3d" .
+<m.06qw4vz> <baseball.batting_statistics.player> "Mark Holzemer" .
+<Clement_Park> <common.topic.notable_types> "Location" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1mdg6t" .
+<Arapahoe_County> <location.location.people_born_here> "Jimmy Bartolotta" .
+<Baseball_Player> <freebase.type_hints.included_types> "Topic" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Transmorphers> <film.film.cinematography> "Steven Christopher Parker" .
+<m.0lvbkbm> <award.award_nomination.award_nominee> "Molly Burnett" .
+<Isaiah_Shoels> <event.disaster_victim.killed_in_disaster> "Columbine High School massacre" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Mayor" .
+<Douglas_County> <location.us_county.hud_section_8_area> "Denver-Aurora, CO MSA HUD Section 8 Area" .
+<Brad_Gumm> <people.person.places_lived> "m.0wh1tg4" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "Daniel Rohrbough" .
+<Musical_Artist> <freebase.type_profile.equivalent_topic> "Musician" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Basketball_Player> <freebase.type_profile.strict_included_types> "Athlete" .
+<m.0bnfzdl> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<Daniel_Mauser> <people.person.gender> "Male" .
+<Columbine_High_School_massacre> <base.crime.crime.crime_type> "Mass murder" .
+<m.011qg_jx> <sports.sports_team_roster.position> "g.121g7ncl" .
+<80123> <common.topic.notable_for> "g.1258h36dr" .
+<City> <freebase.equivalent_topic.equivalent_type> "City/Town/Village" .
+<Arapahoe_Community_College> <common.topic.webpage> "m.04m427r" .
+<Danielle_Foxhoven> <common.topic.article> "m.0swktcs" .
+<Jack_Morrison_McCool> <common.topic.notable_types> "Person or entity appearing in film" .
+<Lucy_Wheeler> <people.person.gender> "Female" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Glendale" .
+<Football_player> <freebase.type_hints.included_types> "Athlete" .
+<Melissa_Benoist> <freebase.valuenotation.has_value> "Parents" .
+<Location_of_Littleton,_Colorado> <common.image.appears_in_topic_gallery> "Littleton" .
+<Renee_Chenault-Fattah> <people.person.place_of_birth> "Littleton" .
+<m.0gcjv8v> <film.performance.actor> "Marc Senter" .
+<A.J._Isenburg> <sports.pro_athlete.sports_played_professionally> "m.0_ly3mp" .
+<Arapahoe_County> <location.statistical_region.rent50_0> "m.05g9gfn" .
+<Littleton_Cemetery> <people.place_of_interment.interred_here> "Lauren Townsend" .
+<m.0hkcyc2> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Littleton> <location.statistical_region.population> "m.0k6lb7f" .
+<Marc_Senter> <film.producer.film> "Brawler" .
+<80127> <common.topic.notable_for> "g.1256h0fh2" .
+<Dave_Grusin> <music.artist.label> "GRP" .
+<Steve_Korte> <people.person.children> "Scott Korte" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51yy" .
+<Littleton> <location.statistical_region.population> "m.0k6lb76" .
+<Ben_Larned> <people.person.profession> "Actor" .
+<Littleton> <location.location.people_born_here> "John Goscha" .
+<Castle_Rock> <location.hud_county_place.county> "Douglas County" .
+<Tanner_Harrison> <sports.pro_athlete.teams> "m.0z8h3ll" .
+<m.0mwnvkd> <film.performance.actor> "Ross Lynch" .
+<Valor_Christian_High_School> <education.educational_institution_campus.educational_institution> "Valor Christian High School" .
+<Riker_Lynch> <people.person.profession> "Actor" .
+<Littleton> <location.statistical_region.population> "g.11x1ct3m7" .
+<Denver_Seminary> <education.university.local_tuition> "m.0jxpj4w" .
+<A.J._Isenburg> <people.person.parents> "Mike Isenburg" .
+<Melissa_Benoist> <people.person.sibling_s> "m.0vs5cbf" .
+<m.0tl8q_x> <film.performance.actor> "Steven Christopher Parker" .
+<Rocky_Lynch> <people.person.gender> "Male" .
+<Littleton> <location.location.events> "Columbine High School massacre" .
+<Littleton> <location.location.people_born_here> "Rydel Lynch" .
+<80120> <location.location.contains> "Town Hall Arts Center" .
+<John_Matthews> <common.topic.article> "m.07sbghj" .
+<Jack_Morrison_McCool> <film.person_or_entity_appearing_in_film.films> "m.0h8m0w1" .
+<Isaiah_Shoels> <people.person.ethnicity> "African American" .
+<m.0sw18rj> <education.education.student> "Craig Thompson" .
+<Rocky_Lynch> <people.person.nationality> "United States of America" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bng2tz" .
+<Littleton> <location.location.people_born_here> "Danielle Foxhoven" .
+<m.04lr7tk> <common.webpage.topic> "Steven Christopher Parker" .
+<Area_codes_303_and_720> <location.location.contains> "Aurora" .
+<Littleton> <location.location.people_born_here> "Heather Robinson" .
+<Glendale> <location.hud_county_place.county> "Arapahoe County" .
+<Shareece_Pfeiffer> <people.person.nationality> "United States of America" .
+<80162> <common.topic.notable_for> "g.125ckjz2b" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0105y_05" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<m.0w9pm2l> <soccer.football_player_stats.player> "Stephen Keel" .
+<80130> <common.topic.notable_types> "Postal Code" .
+<m.09kvk6l> <baseball.lifetime_batting_statistics.player> "Mark Holzemer" .
+<Area_codes_303_and_720> <location.location.coterminous_with> "m.0t4w1sq" .
+<Steve_Korte> <american_football.football_player.position_s> "Guard" .
+<Byers> <location.location.containedby> "United States of America" .
+<Littleton> <location.statistical_region.population> "m.0hkcy8v" .
+<J.D._Corbin> <common.topic.notable_types> "Person" .
+<Children> <rdf-schema#range> "Person" .
+<Martial_Artist> <freebase.type_hints.included_types> "Topic" .
+<Columbine_High_School> <common.topic.notable_types> "School" .
+<Sheri_S._Tepper> <freebase.valuenotation.is_reviewed> "Gender" .
+<Ryan_Miller> <people.person.places_lived> "m.0wkm89h" .
+<Marc_Senter> <freebase.valuenotation.has_value> "Parents" .
+<Film_story_contributor> <freebase.type_profile.strict_included_types> "Topic" .
+<Littleton> <location.location.people_born_here> "Austin Haldorson" .
+<80126> <location.location.contains> "Valor Christian High School" .
+<Town_Hall_Arts_Center> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11btv6rf5q" .
+<Zac_Robinson> <common.topic.notable_types> "American football player" .
+<Abaigeal_Hunter_McCool> <people.person.gender> "Female" .
+<United_States_of_America> <location.location.partially_containedby> "North America" .
+<Brady_Daigh> <sports.pro_athlete.sports_played_professionally> "m.0zcr6kk" .
+<Cherry_Hills_Village> <location.location.containedby> "Colorado" .
+<Athlete> <freebase.type_profile.published> "Published" .
+<Renee_Chenault-Fattah> <people.person.children> "Cameron Fattah" .
+<Jonathan_Hoar> <people.person.gender> "Male" .
+<m.0gcj2vl> <film.performance.actor> "Marc Senter" .
+<Town_Hall_Arts_Center> <location.location.geolocation> "m.0cqsryh" .
+<m.0hkcybd> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0jvpckd> <common.webpage.topic> "Empire Beauty School-Littleton" .
+<Janet_Culp> <olympics.olympic_athlete.country> "m.04f9dn_" .
+<Heather_Robinson> <people.person.gender> "Female" .
+<Riker_Lynch> <film.actor.film> "m.0gvmnz9" .
+<Renee_Chenault-Fattah> <common.topic.article> "m.0410w4m" .
+<Marc_Senter> <film.actor.film> "m.0hpf7mq" .
+<Riker_Lynch> <people.person.place_of_birth> "Littleton" .
+<Timezoneswest> <common.image.appears_in_topic_gallery> "Mountain Time Zone" .
+<Byers> <location.hud_county_place.place> "Byers" .
+<Cherry_Hills_Village> <location.hud_county_place.county> "Arapahoe County" .
+<Ross_Lynch> <award.award_winner.awards_won> "m.0101ml4_" .
+<Parents> <type.property.expected_type> "Person" .
+<80126> <common.topic.notable_types> "Postal Code" .
+<80121> <location.location.containedby> "Arapahoe County" .
+<Brady_Daigh> <common.topic.notable_for> "g.1yh9srs31" .
+<Columbine_High_School_massacre> <event.disaster.victims> "Matthew Kechter" .
+<Geneva_Home> <common.topic.image> "Geneva Home" .
+<Denver_Seminary> <organization.organization.leadership> "m.0jxpghw" .
+<A.J._Isenburg> <people.person.gender> "Male" .
+<Douglas_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Steven_Christopher_Parker> <people.person.profession> "Voice Actor" .
+<Ross_Lynch> <people.person.sibling_s> "m.0tlbx0v" .
+<US_County> <freebase.type_profile.strict_included_types> "Dated location" .
+<Centennial_Citizen> <common.topic.notable_for> "g.125c82rk2" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Anne-Marie Hochhalter" .
+<Cody_Longo> <people.person.profession> "Musician" .
+<m.0h26b06> <education.education.student> "g.113qbkxt0" .
+<Isaiah_Shoels> <base.crime.crime_victim.crime> "Columbine High School massacre" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<Zac_Robinson> <people.person.nationality> "United States of America" .
+<Greenwood_Village> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<Denver_Seminary> <education.educational_institution.students_graduates> "m.0_lbrkd" .
+<Gasper_Dominici> <sports.pro_athlete.teams> "m.0yvqhmw" .
+<80122> <common.topic.notable_for> "g.12582g7fk" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bngymf" .
+<Ross_Lynch> <music.artist.track> "I Got That Rock and Roll" .
+<Molly_Burnett> <people.person.nationality> "United States of America" .
+<Tanner_Harrison> <freebase.valuenotation.has_value> "Parents" .
+<Singer> <people.profession.specialization_of> "Musician" .
+<City/Town/Village> <type.type.domain> "Location" .
+<m.04mb8rn> <sports.sports_team_roster.player> "Stephen Keel" .
+<Denver_Seminary> <location.location.geolocation> "m.0wm9k0p" .
+<Martial_Artist> <freebase.type_profile.strict_included_types> "Topic" .
+<Arapahoe_County> <location.hud_foreclosure_area.ofheo_price_change> "m.07jfc02" .
+<m.0j6krgs> <people.marriage.spouse> "Allan Kayser" .
+<Deceased_Person> <freebase.type_hints.included_types> "Topic" .
+<Craig_Thompson> <people.person.education> "m.0w555z4" .
+<Seth_Trembly> <soccer.football_player.position_s> "Defender" .
+<Cody_Longo> <freebase.valuenotation.has_value> "Parents" .
+<m.0gb_530> <film.performance.actor> "Shareece Pfeiffer" .
+<Renee_Chenault-Fattah> <common.topic.image> "Fattah and Chenault-Fattah" .
+<Ross_Lynch> <tv.tv_actor.starring_roles> "m.0gb0p0l" .
+<Basketball_Player> <freebase.type_profile.strict_included_types> "Person" .
+<Kris_Bergstrom> <people.person.education> "m.0fpl2wz" .
+<m.04m427r> <common.webpage.topic> "Arapahoe Community College" .
+<Denver_Seminary> <organization.organization.headquarters> "m.0cnpl9z" .
+<80124> <common.topic.notable_types> "Postal Code" .
+<80121> <common.topic.notable_types> "Postal Code" .
+<Littleton> <location.statistical_region.population> "g.11x1ksxhj" .
+<m.05yxbtj> <base.argumentmaps.motivation.motivating_thing_idea_or_event> "Columbine High School massacre" .
+<Sheridan> <location.hud_county_place.county> "Arapahoe County" .
+<Mark_Holzemer> <people.person.profession> "Baseball player" .
+<Stephen_Keel> <people.person.places_lived> "m.0wlw9xl" .
+<Patrick_Ireland> <people.person.place_of_birth> "Littleton" .
+<Brady_Daigh> <freebase.valuenotation.has_value> "Parents" .
+<Heather_Robinson> <people.person.place_of_birth> "Littleton" .
+<Baseball_Player> <freebase.type_hints.included_types> "Athlete" .
+<City/Town/Village> <freebase.type_profile.kind> "Significant" .
+<m.0wl4056> <education.education.student> "Gregory A. Phillips" .
+<Mark_Huismann> <baseball.baseball_player.batting_stats> "m.06qxwj2" .
+<m.0hjdwdr> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011nr3__" .
+<m.0wltxbd> <people.place_lived.location> "Littleton" .
+<Rydel_Lynch> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51x5" .
+<Littleton> <location.location.contains> "Adventures In Dance" .
+<Brock_Baker> <people.person.nationality> "United States of America" .
+<Corey_DePooter> <people.person.gender> "Male" .
+<American_football_player> <freebase.type_profile.strict_included_types> "Athlete" .
+<Ross_Lynch> <music.artist.album> "Austin & Ally: Turn It Up" .
+<Greenwood_Village> <location.location.containedby> "United States of America" .
+<Centennial_Citizen> <common.topic.notable_types> "Newspaper" .
+<Deer_Trail> <location.location.containedby> "Arapahoe County" .
+<m.0hkcycz> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Renee_Chenault-Fattah> <people.person.ethnicity> "African American" .
+<m.0gfpg9m> <film.performance.actor> "Travis Shakespeare" .
+<Janet_Culp> <people.person.place_of_birth> "Littleton" .
+<Christine_Scanlan> <common.topic.notable_types> "Person" .
+<Littleton> <location.location.people_born_here> "Riker Lynch" .
+<Arapahoe_County> <location.administrative_division.capital> "m.0jvw1x2" .
+<m.0bnf_qf> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<Daniel_Mauser> <event.disaster_victim.killed_in_disaster> "Columbine High School massacre" .
+<Campbellton> <common.topic.notable_types> "City/Town/Village" .
+<Ross_Lynch> <freebase.valuenotation.is_reviewed> "Gender" .
+<Brady_Daigh> <sports.pro_athlete.teams> "m.0z83gh6" .
+<Deer_Trail> <location.location.time_zones> "Mountain Time Zone" .
+<m.0cnn1q1> <location.mailing_address.state_province_region> "Colorado" .
+<Seth_Trembly> <common.topic.article> "m.04dtzq" .
+<Josh_Crist> <common.topic.notable_for> "g.1259zm6w6" .
+<Actor> <freebase.equivalent_topic.equivalent_type> "Film actor" .
+<Dave_Grusin> <people.person.profession> "Actor" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwct" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1htkmb" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bngnr1" .
+<80124> <common.topic.notable_for> "g.125b2_p4w" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "Cassie Bernall" .
+<Allan_Kayser> <common.topic.webpage> "m.03l828w" .
+<Sheridan> <common.topic.notable_types> "City/Town/Village" .
+<Film_Producer> <freebase.equivalent_topic.equivalent_type> "Film producer" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "Matthew Kechter" .
+<Seth_Trembly> <people.person.places_lived> "m.0whwthf" .
+<Heather_Robinson> <film.film_story_contributor.film_story_credits> "The Perfect Man" .
+<Our_school_systems_teach_our_children_that_they_are_nothing_but_glorified_apes_who_have_evolutionized_out_of_some_primordial_soup_of_mud,_by_teaching_evolution_as_fact.> <media_common.quotation.subjects> "Columbine High School massacre" .
+<Robert_Orban> <common.topic.notable_for> "g.1yh9t4x6x" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwc3" .
+<Time_Zone> <freebase.type_profile.kind> "Definition" .
+<m.010q3g29> <location.partial_containment_relationship.partially_contains> "80124-5128" .
+<Overstreet_Dance_Gallery> <location.location.containedby> "Littleton" .
+<m.0hn_8q7> <common.webpage.topic> "Ross Lynch" .
+<m.0hkcy8m> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Knight-Wood_House> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11btv6x90f" .
+<Foxfield> <common.topic.notable_types> "City/Town/Village" .
+<Travis_Shakespeare> <award.award_nominee.award_nominations> "m.0mx2q8t" .
+<m.0whwthf> <people.place_lived.location> "Littleton" .
+<Kris_Bergstrom> <people.person.place_of_birth> "Littleton" .
+<Ross_Lynch> <music.artist.genre> "Pop rock" .
+<Allan_Kayser> <people.person.place_of_birth> "Littleton" .
+<Steven_Christopher_Parker> <film.actor.film> "m.0v_34mt" .
+<Littleton> <location.location.people_born_here> "Steven Christopher Parker" .
+<Gender> <rdf-schema#domain> "Person" .
+<Melissa_Benoist> <film.actor.film> "g.11b6zqpq61" .
+<Ryan_Miller> <sports.drafted_athlete.drafted> "m.010q81v1" .
+<Rocky_Lynch> <people.person.place_of_birth> "Littleton" .
+<Location> <type.type.domain> "Location" .
+<m.0cnnxv4> <common.topic.notable_types> "Location" .
+<Colorado> <base.aareas.schema.administrative_area.capital> "Denver" .
+<Molly_Jacobs> <film.producer.film> "My Lai" .
+<80124-5128> <location.location.containedby> "United States of America" .
+<Denver_Seminary> <education.educational_institution.campuses> "Denver Seminary" .
+<m.06qxwc0> <baseball.batting_statistics.player> "Mark Huismann" .
+<Marc_Senter> <film.actor.film> "m.0t_81g5" .
+<Craig_Thompson> <sports.pro_athlete.sports_played_professionally> "m.0d6f_w4" .
+<m.0zv2rk9> <sports.sports_team_roster.position> "Midfielder" .
+<Littleton> <location.location.people_born_here> "Brady Daigh" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011x4lp6" .
+<m.0_kzmmt> <education.education.student> "John Goscha" .
+<Parents> <type.property.reverse_property> "Children" .
+<Greenwood_Village> <location.location.containedby> "Colorado" .
+<TV_Personality> <freebase.type_profile.strict_included_types> "Topic" .
+<Alex_Novosel> <people.person.parents> "Katy Novosel" .
+<Athlete> <freebase.type_hints.included_types> "Topic" .
+<Travis_Shakespeare> <people.person.profession> "Television producer" .
+<Columbine_Valley> <common.topic.notable_types> "City/Town/Village" .
+<m.09sd4dk> <education.education.student> "Renee Chenault-Fattah" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1kpqsl" .
+<Steven_Christopher_Parker> <film.actor.film> "m.0h2p1w2" .
+<Melissa_Benoist> <common.topic.notable_for> "g.1254y946m" .
+<m.06qxwgc> <baseball.batting_statistics.player> "Mark Huismann" .
+<Lauren_Townsend> <people.deceased_person.place_of_burial> "Littleton Cemetery" .
+<Brenden_Urban> <common.topic.notable_for> "g.1yghb8bc4" .
+<Abaigeal_Hunter_McCool> <film.person_or_entity_appearing_in_film.films> "m.0h8m0wd" .
+<Glendale> <common.topic.notable_types> "City/Town/Village" .
+<Steve_Mott> <common.topic.notable_for> "g.125d7tn3g" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "Isaiah Shoels" .
+<Ross_Lynch> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<North_America> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<80124> <location.location.geolocation> "m.03dnslh" .
+<TV_Producer> <freebase.type_profile.equivalent_topic> "Television producer" .
+<m.0h_j6f0> <sports.sports_team_roster.player> "Danny Spond" .
+<Joe_Hansley> <people.person.gender> "Male" .
+<Stephen_Keel> <people.person.education> "m.0n14911" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bnjybz" .
+<Stephen_Keel> <soccer.football_player.statistics> "m.0w9bl71" .
+<Empire_Beauty_School-Littleton> <common.topic.webpage> "m.0qzkk03" .
+<Ross_Lynch> <people.person.profession> "Dancer" .
+<Person> <type.type.properties> "Gender" .
+<Cassie_Bernall> <base.crime.crime_victim.crime> "Columbine High School massacre" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kk9vk" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bnfzdl" .
+<Denver_Seminary> <organization.endowed_organization.endowment> "m.0jxpfk8" .
+<Stephen_Keel> <sports.pro_athlete.teams> "m.0j2sjt5" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwdr" .
+<m.0101ml4_> <award.award_honor.award_winner> "Ross Lynch" .
+<Adventures_In_Dance> <location.location.containedby> "Littleton" .
+<Littleton_Main_Street> <common.topic.article> "m.0h3r23n" .
+<Seth_Trembly> <people.person.nationality> "United States of America" .
+<Singer> <people.profession.specializations> "Singer-songwriter" .
+<80124-5128> <location.location.partially_contained_by> "m.010q3g29" .
+<Travis_Shakespeare> <common.topic.notable_types> "TV Producer" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwjb" .
+<Littleton> <location.location.contains> "Geneva Home" .
+<Steven_Christopher_Parker> <film.actor.film> "m.0vts9h2" .
+<Steve_Mott> <people.person.place_of_birth> "Littleton" .
+<Time_zone(s)> <rdf-schema#domain> "Location" .
+<Travis_Shakespeare> <people.person.profession> "Actor" .
+<Molly_Jacobs> <people.person.profession> "Actor" .
+<United_States_of_America> <location.location.time_zones> "Mountain Time Zone" .
+<m.0cp_pyq> <common.webpage.topic> "Denver Seminary" .
+<m.0yvrgs1> <sports.sports_team_roster.position> "Wide receiver" .
+<Denver-Aurora,_CO_MSA_HUD_Section_8_Area> <location.hud_section_8_area.county> "Arapahoe County" .
+<Jack_Morrison_McCool> <people.person.nationality> "United States of America" .
+<m.010q3g2q> <location.partial_containment_relationship.partially_contains> "80124-5128" .
+<m.0hkcybn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012z3l2r" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0g0286m" .
+<Gregory_A._Phillips> <people.person.profession> "Politician" .
+<Ross_Lynch> <people.person.profession> "Musician" .
+<m.0wkc22n> <people.place_lived.location> "Littleton" .
+<Film_producer> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0z8gymf> <sports.sports_team_roster.position> "g.121g7ncl" .
+<Seth_Trembly> <soccer.football_player.position_s> "Midfielder" .
+<Littleton> <location.citytown.postal_codes> "80121" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Lance Kirklin" .
+<Arapahoe_Community_College> <education.educational_institution_campus.educational_institution> "Arapahoe Community College" .
+<m.0hkcy8d> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Columbine_High_School_massacre> <event.disaster.victims> "Daniel Rohrbough" .
+<m.0j2sjt5> <sports.sports_team_roster.player> "Stephen Keel" .
+<m.0fpl2wz> <education.education.student> "Kris Bergstrom" .
+<m.0_sh44l> <award.award_nomination.award_nominee> "Ross Lynch" .
+<Lucinda_Polly_Hoar> <people.person.parents> "Lucy Wheeler" .
+<Steven_Christopher_Parker> <film.actor.film> "m.0vtrcv_" .
+<Jonathan_Hoar> <common.topic.notable_types> "Deceased Person" .
+<Film_producer> <freebase.type_profile.strict_included_types> "Person" .
+<Shareece_Pfeiffer> <people.person.place_of_birth> "Littleton" .
+<Brad_Gumm> <people.person.gender> "Male" .
+<Cemetery> <freebase.type_hints.included_types> "Dated location" .
+<Alex_Novosel> <people.person.sibling_s> "m.0zbgqj5" .
+<Bobby_Deerfield> <film.film.country> "United States of America" .
+<Arapahoe_County> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07jfb_x" .
+<Littleton> <location.location.people_born_here> "Molly Jacobs" .
+<Danny_Spond> <freebase.valuenotation.has_value> "Date of birth" .
+<Littleton> <location.location.containedby> "Jefferson County" .
+<Josh_Crist> <people.person.gender> "Male" .
+<80128> <location.postal_code.country> "United States of America" .
+<Scott_Korte> <people.person.parents> "Steve Korte" .
+<m.0bnfx7p> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<Heather_Robinson> <common.topic.notable_types> "Film story contributor" .
+<Littleton> <location.statistical_region.population> "g.11bc882nm8" .
+<Sam_Stratton> <freebase.valuenotation.has_no_value> "Date of birth" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<Platte_River_Bar_&_Grill> <location.location.containedby> "Littleton" .
+<Arapahoe_County> <location.statistical_region.rent50_3> "m.05g9ggn" .
+<Officeholder> <type.property.expected_type> "Politician" .
+<Brad_Gumm> <common.topic.notable_for> "g.1256pxkng" .
+<Austin_Haldorson> <people.person.parents> "Karen Haldorson" .
+<College/University> <freebase.type_profile.published> "Published" .
+<80128> <common.topic.notable_types> "Postal Code" .
+<Dave_Grusin> <freebase.valuenotation.is_reviewed> "Parents" .
+<80127> <location.location.contains> "Platte Canyon" .
+<Douglas_County> <location.location.adjoin_s> "m.03jql8g" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Richard Castaldo" .
+<Arapahoe_Community_College> <location.location.geolocation> "m.0jvbrc6" .
+<m.0v_34mt> <film.performance.actor> "Steven Christopher Parker" .
+<m.0cqnr3f> <common.webpage.topic> "Heather Robinson" .
+<Cody_Longo> <film.actor.film> "m.0c1kqtk" .
+<Travis_Shakespeare> <award.award_nominee.award_nominations> "m.0ltzff3" .
+<80160> <location.postal_code.country> "United States of America" .
+<Ryan_Miller> <common.topic.notable_for> "g.12596nrkt" .
+<m.0_lbrkd> <education.education.institution> "Denver Seminary" .
+<Marc_Senter> <common.topic.notable_types> "Film actor" .
+<Foxfield> <location.location.containedby> "United States of America" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1d3py9" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Makai Hall" .
+<m.06qw4zb> <baseball.batting_statistics.player> "Mark Holzemer" .
+<Renee_Chenault-Fattah> <people.person.spouse_s> "m.0j4mmx2" .
+<Disaster> <freebase.type_profile.strict_included_types> "Topic" .
+<Richard_Castaldo> <people.person.profession> "Actor" .
+<m.0djbcxw> <film.performance.actor> "Allan Kayser" .
+<Littleton> <location.statistical_region.population> "m.0hkcycj" .
+<80120> <location.location.contains> "Littleton/Mineral" .
+<Empire_Beauty_School-Littleton> <common.topic.webpage> "m.0jvpckd" .
+<Stephen_Keel> <people.person.nationality> "United States of America" .
+<Jefferson_County> <location.location.adjoin_s> "m.03jslgr" .
+<Zac_Robinson> <people.person.parents> "Russ Robinson" .
+<Film_actor> <freebase.type_profile.published> "Published" .
+<Josh_Crist> <common.topic.article> "m.0j7r5w4" .
+<Jefferson_County> <location.us_county.hud_section_8_area> "Denver-Aurora, CO MSA HUD Section 8 Area" .
+<m.0hjdwjb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Colorado> <location.location.time_zones> "Mountain Time Zone" .
+<Zac_Robinson> <sports.pro_athlete.teams> "m.0hpr15w" .
+<Arapahoe_County> <location.statistical_region.population> "g.12b01w4ty" .
+<Lucinda_Polly_Hoar> <people.deceased_person.place_of_death> "Campbellton" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwbg" .
+<m.011tyd72> <film.performance.actor> "Rydel Lynch" .
+<80125> <location.location.contains> "Chatfield State Park" .
+<Janet_Culp> <common.topic.article> "m.0kbh7tw" .
+<Claude_Burton> <people.person.place_of_birth> "Littleton" .
+<m.0zt_2dr> <sports.sports_team_roster.position> "Midfielder" .
+<m.0hkcy9r> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0j377qq> <people.sibling_relationship.sibling> "Zac Robinson" .
+<Sam_Stratton> <people.person.gender> "Male" .
+<Baseball_player> <freebase.equivalent_topic.equivalent_type> "Baseball Player" .
+<Glendale> <location.hud_county_place.place> "Glendale" .
+<Richard_Castaldo> <event.disaster_survivor.survived_disasters> "Columbine High School massacre" .
+<Arapahoe_County> <location.statistical_region.rent50_1> "m.05g9gfw" .
+<Valor_Christian_High_School> <common.topic.notable_types> "School" .
+<US_County> <freebase.type_profile.published> "Published" .
+<m.06qw4xs> <baseball.batting_statistics.player> "Mark Holzemer" .
+<Country_of_nationality> <type.property.schema> "Person" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0111t6pl" .
+<Gender> <type.property.schema> "Person" .
+<Seth_Trembly> <people.person.place_of_birth> "Littleton" .
+<United_States_of_America> <location.location.primarily_containedby> "North America" .
+<80161> <common.topic.notable_for> "g.1257b0qjy" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jtngz" .
+<Arapahoe_County> <location.location.adjoin_s> "m.03jsqdd" .
+<Cherry_Hills_Village> <location.hud_county_place.place> "Cherry Hills Village" .
+<Riker_Lynch> <people.person.profession> "Singer-songwriter" .
+<Brady_Daigh> <people.person.gender> "Male" .
+<m.0hjdwbp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Travis_Shakespeare> <people.person.profession> "Television Director" .
+<Littleton> <location.statistical_region.population> "m.0hkcy8d" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Mark Taylor" .
+<Stephen_Keel> <common.topic.article> "m.0fj0x_" .
+<Steven_Christopher_Parker> <freebase.valuenotation.has_value> "Parents" .
+<Byers> <location.location.containedby> "Colorado" .
+<m.0_gm63m> <sports.pro_sports_played.athlete> "Danny Spond" .
+<Daniel_Mauser> <people.person.nationality> "United States of America" .
+<Person> <type.type.properties> "Date of birth" .
+<Littleton> <location.location.people_born_here> "Jack Morrison McCool" .
+<Littleton> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<Toad_Tavern> <common.topic.notable_types> "Venue" .
+<m.0cnpl9z> <location.mailing_address.country> "United States of America" .
+<Transmorphers> <film.film.country> "United States of America" .
+<Alex_Novosel> <common.topic.notable_for> "g.1yh9t3mwp" .
+<Ross_Lynch> <award.award_nominee.award_nominations> "m.0y4tvyk" .
+<Ben_Larned> <people.person.nationality> "United States of America" .
+<Arapahoe_County> <location.statistical_region.population> "m.066df5g" .
+<m.0k1jlhh> <award.award_nomination.award_nominee> "Molly Burnett" .
+<Lucinda_Polly_Hoar> <people.person.parents> "Jonathan Hoar" .
+<Ross_Lynch> <common.topic.webpage> "m.0hn_8q7" .
+<Village> <freebase.equivalent_topic.equivalent_type> "City/Town/Village" .
+<Ross_Lynch> <music.group_member.membership> "m.0w0_sqj" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Kacey Ruegsegger" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<Steve_Mott> <people.person.gender> "Male" .
+<80165> <location.postal_code.country> "United States of America" .
+<Craig_Thompson> <people.person.places_lived> "m.0wh2xf8" .
+<Columbine_High_School> <education.educational_institution.students_graduates> "m.0n1kpv8" .
+<Sam_Stratton> <sports.pro_athlete.teams> "m.0yyzxnn" .
+<Daniel_Rohrbough> <base.crime.crime_victim.crime> "Columbine High School massacre" .
+<m.0n4q77n> <sports.sports_team_roster.position> "g.121g7ncl" .
+<Littleton> <location.statistical_region.population> "m.0hkcybn" .
+<Danny_Spond> <sports.pro_athlete.teams> "m.0h_j6f0" .
+<Marc_Senter> <film.actor.film> "m.0z46r3s" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bnfsl6" .
+<Englewood> <location.hud_county_place.place> "Englewood" .
+<Arapahoe_County> <location.location.adjoin_s> "m.03jslgr" .
+<m.0wlw9xl> <people.place_lived.person> "Stephen Keel" .
+<m.0jvcnj1> <sports.sports_team_roster.position> "Wide receiver" .
+<Jordan_Murphy> <common.topic.notable_types> "Athlete" .
+<Riker_Lynch> <common.topic.notable_for> "g.1258ngmq4" .
+<TV_Actor> <freebase.type_profile.strict_included_types> "Topic" .
+<Joe_Hansley> <common.topic.notable_types> "Athlete" .
+<80124-5128> <freebase.valuenotation.is_reviewed> "Country" .
+<Steve_Mott> <people.person.places_lived> "m.0wltxbd" .
+<Rachel_Scott> <event.disaster_victim.killed_in_disaster> "Columbine High School massacre" .
+<Lucinda_Polly_Hoar> <people.person.spouse_s> "m.0j4kzw6" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "Town" .
+<m.0wj1cr7> <people.place_lived.person> "Steve Korte" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwfp" .
+<Location> <freebase.type_profile.published> "Published" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1h1qxj" .
+<Mark_Huismann> <common.topic.article> "m.04gskvy" .
+<A.J._Isenburg> <people.person.parents> "Katrina Isenburg" .
+<80120> <location.location.contains> "Hudson Gardens" .
+<Gasper_Dominici> <people.person.parents> "Dania Dominici" .
+<Jacques_Benedict> <people.person.gender> "Male" .
+<m.0d5gzzr> <sports.pro_sports_played.athlete> "Stephen Keel" .
+<Ben_Larned> <film.actor.film> "m.0gc82nq" .
+<m.0k6lb76> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Jack_Morrison_McCool> <people.person.place_of_birth> "Littleton" .
+<m.0ry8dmx> <award.award_nomination.award_nominee> "Ross Lynch" .
+<Film_production_designer> <freebase.type_hints.included_types> "Person" .
+<m.0cnnxv4> <location.mailing_address.state_province_region> "Colorado" .
+<Seth_Trembly> <common.topic.notable_for> "g.1259jvr1y" .
+<Hudson_Gardens> <common.topic.notable_types> "Venue" .
+<Littleton> <location.statistical_region.population> "g.11x1f21jg" .
+<Educational_Institution_Campus> <freebase.type_hints.included_types> "Location" .
+<Stephen_Keel> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Lucinda_Polly_Hoar> <people.person.children> "Sarah Ann Diamond" .
+<Douglas_County> <location.location.time_zones> "Mountain Time Zone" .
+<Sheridan> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<Shareece_Pfeiffer> <people.person.gender> "Female" .
+<Renee_Chenault-Fattah> <people.person.education> "m.0n46f0r" .
+<Riker_Lynch> <common.topic.article> "m.0gkyqpp" .
+<Shareece_Pfeiffer> <film.actor.film> "m.0gb_530" .
+<April_20–26,_2007_tornado_outbreak_sequence> <time.event.locations> "Arapahoe County" .
+<Littleton> <base.biblioness.bibs_location.country> "United States of America" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<m.03lqgg8> <common.webpage.resource> "m.0bjg35f" .
+<Ross_Lynch> <music.artist.track> "Surf’s Up" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1htljn" .
+<Danielle_Foxhoven> <sports.pro_athlete.teams> "m.0ztvr7f" .
+<Steven_Christopher_Parker> <film.actor.film> "m.010rv55p" .
+<m.03lqgg8> <common.webpage.category> "Official Website" .
+<m.0_hfs3_> <film.performance.actor> "Melissa Benoist" .
+<Area_codes_303_and_720> <common.topic.notable_types> "Area code" .
+<Castle_Rock> <location.location.containedby> "Douglas County" .
+<m.0vvg_s0> <film.performance.actor> "Steven Christopher Parker" .
+<Ross_Lynch> <film.actor.film> "m.0mwnvjv" .
+<Ross_Lynch> <music.artist.track> "Na Na Na (The Summer Song)" .
+<Denver> <common.topic.notable_types> "City/Town/Village" .
+<Littleton> <base.biblioness.bibs_location.state> "Colorado" .
+<80124> <location.postal_code.country> "United States of America" .
+<m.06qw4tj> <baseball.batting_statistics.player> "Mark Holzemer" .
+<Melissa_Benoist> <common.topic.notable_types> "Film actor" .
+<Allan_Kayser> <people.person.nationality> "United States of America" .
+<City_Limits> <rdf-schema#domain> "City/Town/Village" .
+<Molly_Jacobs> <people.person.place_of_birth> "Littleton" .
+<Littleton> <location.statistical_region.population> "g.11x1fbs0m" .
+<Littleton> <location.location.people_born_here> "Jack Harris" .
+<Zac_Robinson> <people.person.sibling_s> "m.0j377qq" .
+<Musician> <freebase.type_profile.published> "Published" .
+<Gregory_A._Phillips> <government.politician.government_positions_held> "m.0wkvq70" .
+<Columbine_High_School_massacre> <media_common.quotation_subject.quotations_about_this_subject> "Our school systems teach our children that they are nothing but glorified apes who have evolutionized out of some primordial soup of mud, by teaching evolution as fact." .
+<Arapahoe_County> <location.us_county.hud_county_place> "Arapahoe County / County Place 080238" .
+<m.0k6lb7f> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Michael Johnson" .
+<Jordan_Murphy> <freebase.valuenotation.has_value> "Parents" .
+<m.0hjdwct> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Arapahoe_County> <location.location.time_zones> "Mountain Time Zone" .
+<Littleton> <location.citytown.postal_codes> "80125" .
+<Area_codes_303_and_720> <location.location.contains> "Denver" .
+<m.010q3gv0> <location.partial_containment_relationship.partially_contained_by> "Littleton" .
+<Educational_Institution_Campus> <freebase.type_profile.strict_included_types> "Topic" .
+<Castlewood> <location.location.time_zones> "Mountain Time Zone" .
+<McKinners_Pizza_Bar> <location.location.containedby> "Littleton" .
+<Denver_Seminary> <education.educational_institution.school_type> "Seminary" .
+<Craig_Thompson> <common.topic.notable_types> "Football player" .
+<Arapahoe_County> <location.statistical_region.population> "g.12b028vsm" .
+<Dave_Grusin> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Danny_Spond> <common.topic.notable_for> "g.125fqjtgc" .
+<Nicholas_Kole> <people.person.place_of_birth> "Littleton" .
+<Travis_Shakespeare> <film.actor.film> "m.0gfpg9m" .
+<Columbine_Community_Courier> <book.newspaper.circulation_areas> "Littleton" .
+<Brenden_Urban> <sports.pro_athlete.teams> "m.0yzlr6k" .
+<m.0vs5cbf> <people.sibling_relationship.sibling> "Melissa Benoist" .
+<80120> <common.topic.notable_for> "g.1255b7cg7" .
+<College/University> <freebase.type_profile.kind> "Definition" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Arapahoe County / Littleton city" .
+<Manson_Family_Murders> <base.crime.crime.crime_type> "Mass murder" .
+<Littleton> <location.location.people_born_here> "Brock Baker" .
+<Brad_Gumm> <people.person.place_of_birth> "Littleton" .
+<Brock_Baker> <people.person.place_of_birth> "Littleton" .
+<Musician> <people.profession.specializations> "Singer" .
+<Littleton> <location.statistical_region.population> "g.11x1mhpg4" .
+<Travis_Shakespeare> <freebase.valuenotation.is_reviewed> "Gender" .
+<m.0zt_2dr> <sports.sports_team_roster.player> "Danielle Foxhoven" .
+<Jefferson_County> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<80163> <location.postal_code.country> "United States of America" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwh0" .
+<Danny_Spond> <people.person.place_of_birth> "Littleton" .
+<Film_producer> <freebase.type_hints.included_types> "Person" .
+<Allan_Kayser> <people.person.education> "m.0n183s3" .
+<Brawler> <film.film.produced_by> "Marc Senter" .
+<US_County> <freebase.type_hints.included_types> "Statistical region" .
+<Venue> <freebase.type_profile.strict_included_types> "Topic" .
+<Rydel_Lynch> <music.group_member.membership> "m.0y4v2nd" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jt74t" .
+<Craig_Thompson> <sports.pro_athlete.teams> "m.09j1bny" .
+<Sheri_S._Tepper> <people.person.place_of_birth> "Littleton" .
+<Mountain_Time_Zone> <base.schemastaging.context_name.pronunciation> "g.125_rngwj" .
+<m.0h9ks8n> <film.performance.actor> "Cody Longo" .
+<The_Perfect_Man> <film.film.country> "United States of America" .
+<Patrick_Elsenbast> <people.person.place_of_birth> "Littleton" .
+<Littleton> <location.location.people_born_here> "Tanner Harrison" .
+<Brock_Baker> <people.person.gender> "Male" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "Lauren Townsend" .
+<m.0101q_t6> <government.government_position_held.office_holder> "Debbie Brinkman" .
+<Area_codes_303_and_720> <location.location.coterminous_with> "m.0t4w1rj" .
+<Olympic_athlete> <freebase.type_profile.strict_included_types> "Topic" .
+<80166> <common.topic.notable_for> "g.125fyp568" .
+<Littleton> <location.location.people_born_here> "Jordan Murphy" .
+<Melissa_Benoist> <film.actor.film> "g.11b7vylh96" .
+<Denver_Seminary> <location.location.containedby> "North America" .
+<Jefferson_County> <location.location.containedby> "Colorado" .
+<Jordan_Murphy> <sports.pro_athlete.sports_played_professionally> "m.0zbs0vt" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Greenwood Village" .
+<m.0c1kqtk> <film.performance.actor> "Cody Longo" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Abstract" .
+<Littleton_Main_Street> <base.schemastaging.non_profit_extra.classification> "Community/Neighborhood Development, Improvement" .
+<Cody_Longo> <common.topic.webpage> "m.0cq8_xc" .
+<Lucy_Wheeler> <common.topic.notable_types> "Deceased Person" .
+<m.0zwx73k> <tv.regular_tv_appearance.actor> "Cody Longo" .
+<Ryan_Miller> <sports.pro_athlete.teams> "m.0n4q77n" .
+<Molly_Jacobs> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Baseball_Player> <freebase.type_profile.strict_included_types> "Athlete" .
+<Riker_Lynch> <people.person.nationality> "United States of America" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bnjszp" .
+<Ross_Lynch> <music.artist.album> "Can You Feel It" .
+<Highlands_Ranch_Herald> <common.topic.notable_types> "Newspaper" .
+<Ross_Lynch> <music.artist.album> "Heard It on the Radio" .
+<Ben_Larned> <people.person.profession> "Screenwriter" .
+<Southglenn> <location.location.containedby> "Arapahoe County" .
+<Overstreet_Dance_Gallery> <common.topic.notable_types> "Venue" .
+<m.03jpvzq> <location.adjoining_relationship.adjoins> "Arapahoe County" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "Corey DePooter" .
+<m.0gfpg9m> <film.performance.film> "All That Remains" .
+<m.0bng2tz> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<Denver> <location.location.containedby> "Area codes 303 and 720" .
+<m.0101q_t6> <freebase.valuenotation.is_reviewed> "Office, position, or title" .
+<Arapahoe_County> <location.location.events> "April 20–26, 2007 tornado outbreak sequence" .
+<Kris_Bergstrom> <people.person.gender> "Male" .
+<Sam_Stratton> <people.person.nationality> "United States of America" .
+<Person> <freebase.type_profile.published> "Published" .
+<Columbine> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<Guard> <people.person.nationality> "United States of America" .
+<Hudson_Gardens> <location.location.geolocation> "m.0clzzmn" .
+<Castle_Rock> <location.location.containedby> "Colorado" .
+<80123> <location.location.geolocation> "m.03dnsl9" .
+<Newspaper> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0wkvq70> <government.government_position_held.office_holder> "Gregory A. Phillips" .
+<Disaster> <freebase.type_profile.strict_included_types> "Inanimate" .
+<m.0zbfxkt> <sports.sports_team_roster.player> "Alex Novosel" .
+<80163> <common.topic.notable_for> "g.125bldv__" .
+<Southglenn> <location.location.containedby> "Colorado" .
+<Columbine> <location.location.containedby> "Colorado" .
+<Littleton> <location.location.people_born_here> "Alex Novosel" .
+<80125> <common.topic.notable_types> "Postal Code" .
+<80124-5128> <common.topic.notable_types> "Postal Code" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Patrick Ireland" .
+<Empire_Beauty_School-Littleton> <common.topic.notable_for> "g.125c9g5n3" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1dss30" .
+<African_American> <people.ethnicity.geographic_distribution> "United States of America" .
+<m.0t4w1rj> <location.cotermination.location> "Area codes 303 and 720" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "William David Sanders" .
+<Greenwood_Village> <common.topic.notable_types> "Statistical region" .
+<Toad_Tavern> <common.topic.notable_for> "g.1256v0wgk" .
+<Postal_codes> <rdf-schema#range> "Postal Code" .
+<Littleton> <location.location.people_born_here> "Ben Larned" .
+<Daniel_Mauser> <base.crime.crime_victim.crime> "Columbine High School massacre" .
+<Ross_Lynch> <music.artist.track> "Can't Do It Without You" .
+<Bassist> <people.profession.specialization_of> "Musician" .
+<m.0wjj_ll> <tv.regular_tv_appearance.actor> "Melissa Benoist" .
+<United_States_of_America> <base.locations.countries.continent> "North America" .
+<80126> <location.location.contains> "Highlands Ranch Mansion" .
+<m.0z684g3> <sports.pro_sports_played.athlete> "Brenden Urban" .
+<Littleton> <location.location.people_born_here> "Robert Orban" .
+<Riker_Lynch> <music.group_member.membership> "m.0y4v2hq" .
+<Rydel_Lynch> <people.person.profession> "Musician" .
+<80124> <location.location.partially_contained_by> "m.010q3gth" .
+<m.0b4cr0f> <tv.regular_tv_appearance.actor> "Molly Burnett" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Daniel Steepleton" .
+<Littleton> <location.statistical_region.population> "m.0hkcyc2" .
+<Arapahoe_Community_College> <education.university.local_tuition> "m.0k7k89f" .
+<Austin_Haldorson> <people.person.parents> "Brian Haldorson" .
+<Littleton> <location.location.contains> "Littleton Main Street" .
+<John_Goscha> <common.topic.article> "m.0k28rd5" .
+<m.0wh2xf8> <people.place_lived.location> "Littleton" .
+<Dave_Grusin> <common.topic.notable_types> "Musical Artist" .
+<Baseball_Player> <freebase.type_profile.published> "Published" .
+<m.0y4v2hq> <music.group_membership.member> "Riker Lynch" .
+<Zac_Robinson> <american_football.football_player.forty_yard_dash_time> "m.0hpr1fl" .
+<Hudson_Gardens> <location.location.containedby> "80120" .
+<Dean_Lee_Hansen> <people.person.place_of_birth> "Littleton" .
+<m.0mwnvjv> <film.performance.actor> "Ross Lynch" .
+<80166> <location.postal_code.country> "United States of America" .
+<m.04f9dn_> <olympics.olympic_athlete_affiliation.athlete> "Janet Culp" .
+<m.0n1k4k_> <education.education.institution> "Denver Seminary" .
+<Rocky_Lynch> <people.person.sibling_s> "m.0tlbx0v" .
+<Baseball_player> <people.profession.corresponding_type> "Baseball Player" .
+<Brenden_Urban> <people.person.nationality> "United States of America" .
+<Sheridan> <location.hud_county_place.place> "Sheridan" .
+<Arapahoe_County> <common.topic.notable_types> "US County" .
+<Littleton> <location.location.people_born_here> "Mark Holzemer" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<Ross_Lynch> <music.artist.track> "Heart Beat" .
+<Stephen_Keel> <freebase.valuenotation.is_reviewed> "Gender" .
+<Sam_Stratton> <people.person.parents> "Sara Stratton" .
+<Brady_Daigh> <people.person.nationality> "United States of America" .
+<Arapahoe_County> <location.statistical_region.co2_emissions_mobile> "m.045l2cn" .
+<Rydel_Lynch> <people.person.sibling_s> "m.0tlbx0v" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "Kyle Velasquez" .
+<Denver_Seminary> <education.educational_institution_campus.educational_institution> "Denver Seminary" .
+<Littleton> <location.statistical_region.population> "m.0hkcybd" .
+<Riker_Lynch> <film.actor.film> "m.0k7ml7m" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Arapahoe County / Strasburg CDP" .
+<John_Matthews> <people.person.profession> "American football player" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwd9" .
+<Stephen_Keel> <people.person.profession> "Soccer Player" .
+<Aurora> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<Columbine> <location.location.containedby> "United States of America" .
+<Aurora> <location.location.containedby> "Colorado" .
+<Ryan_Miller> <people.person.education> "m.0n1kpv8" .
+<Valor_Christian_High_School> <location.location.containedby> "80126" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "Kelly Fleming" .
+<Colorado> <base.locations.states_and_provences.country> "United States of America" .
+<Arapahoe_County> <location.statistical_region.population> "g.12b025fgl" .
+<Danny_Spond> <people.person.nationality> "United States of America" .
+<Molly_Jacobs> <people.person.profession> "Television producer" .
+<Nicholas_Kole> <common.topic.article> "m.02rpdmm" .
+<m.09sd4dq> <education.education.student> "Renee Chenault-Fattah" .
+<School> <freebase.type_profile.published> "Published" .
+<m.0hpr152> <sports.sports_team_roster.player> "Zac Robinson" .
+<Arapahoe_County> <location.statistical_region.population> "g.12b023qnx" .
+<Jack_Morrison_McCool> <people.person.gender> "Male" .
+<Littleton_Main_Street> <common.topic.image> "Littleton Main Street" .
+<Steven_Christopher_Parker> <people.person.place_of_birth> "Littleton" .
+<m.0n4q77n> <sports.sports_team_roster.player> "Ryan Miller" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Agent" .
+<Denver_Seminary> <education.educational_institution.students_graduates> "m.0w56_p_" .
+<Zac_Robinson> <people.person.places_lived> "m.0wh0z42" .
+<Steven_Christopher_Parker> <freebase.valuenotation.is_reviewed> "Gender" .
+<Allan_Kayser> <film.actor.film> "m.08crstf" .
+<Robert_Orban> <people.person.nationality> "United States of America" .
+<Douglas_County> <periodicals.newspaper_circulation_area.newspapers> "Littleton Independent" .
+<Brian_Rieger> <freebase.valuenotation.has_value> "Date of birth" .
+<Newspaper> <freebase.type_profile.published> "Published" .
+<Dave_Grusin> <people.person.nationality> "United States of America" .
+<m.0z46r3s> <film.performance.actor> "Marc Senter" .
+<Littleton> <location.location.geolocation> "m.0kb1kq" .
+<Austin_Haldorson> <people.person.sibling_s> "m.0w5j30b" .
+<Allan_Kayser> <people.person.education> "m.04hcgn5" .
+<Littleton> <location.capital_of_administrative_division.capital_of> "m.0jvw1x2" .
+<Danielle_Foxhoven> <people.person.place_of_birth> "Littleton" .
+<m.0yzlr6k> <sports.sports_team_roster.player> "Brenden Urban" .
+<Musician> <freebase.equivalent_topic.equivalent_type> "Musical Artist" .
+<Christine_Scanlan> <people.person.places_lived> "m.0wlw4_f" .
+<Daniel_Mauser> <people.person.place_of_birth> "Colorado" .
+<Rydel_Lynch> <people.person.profession> "Dancer" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Lisa Kreutz" .
+<m.0g41k8p> <film.performance.actor> "Marc Senter" .
+<Cherry_Hills_Village> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<Rydel_Lynch> <common.topic.notable_for> "g.12h2z2rpk" .
+<Empire_Beauty_School-Littleton> <education.educational_institution.faculty> "m.0k7vwdk" .
+<Columbine_High_School_massacre> <book.book_subject.works> "The Hour I First Believed" .
+<Denver_Seminary> <location.location.containedby> "Colorado" .
+<Ben_Larned> <common.topic.notable_for> "g.1256ldc4d" .
+<Stephen_Keel> <sports.pro_athlete.teams> "m.0qdq_y8" .
+<Stephen_Keel> <sports.pro_athlete.teams> "m.04mb8rn" .
+<Allan_Kayser> <people.person.spouse_s> "m.0j6krgs" .
+<Littleton> <location.statistical_region.population> "g.11x1h6p5n" .
+<Ryan_Miller> <american_football.football_player.position_s> "g.121g7ncl" .
+<Littleton> <location.citytown.postal_codes> "80160" .
+<m.03jslgr> <location.adjoining_relationship.adjoins> "Jefferson County" .
+<Castlewood> <location.hud_county_place.county> "Arapahoe County" .
+<m.0j2sjt5> <sports.sports_team_roster.position> "Defender" .
+<Travis_Shakespeare> <tv.tv_producer.programs_produced> "m.0zdgkpy" .
+<Debbie_Brinkman> <common.topic.notable_types> "Politician" .
+<Molly_Jacobs> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Ben_Larned> <people.person.profession> "Film Producer" .
+<AMC_Highlands_Ranch_24> <architecture.building.occupant> "m.0lgz32n" .
+<Brock_Baker> <people.person.profession> "Actor" .
+<Daniel_Rohrbough> <event.disaster_victim.killed_in_disaster> "Columbine High School massacre" .
+<m.0z83gh6> <sports.sports_team_roster.player> "Brady Daigh" .
+<Steve_Korte> <sports.pro_athlete.sports_played_professionally> "m.0d62_40" .
+<Colorado> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bnfx7p" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0w5j435> <people.sibling_relationship.sibling> "Austin Haldorson" .
+<TV_Actor> <freebase.type_hints.included_types> "Person" .
+<m.0cnpl9z> <common.topic.notable_types> "Location" .
+<US_County> <freebase.type_profile.strict_included_types> "Topic" .
+<Film_actor> <freebase.type_hints.included_types> "Topic" .
+<US_County> <freebase.type_hints.included_types> "Topic" .
+<Danielle_Foxhoven> <people.person.places_lived> "m.0wlpdvq" .
+<Ross_Lynch> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<American_football_player> <freebase.type_hints.included_types> "Topic" .
+<80124-5128> <freebase.valuenotation.is_reviewed> "Postal Code" .
+<Littleton> <location.location.containedby> "Douglas County" .
+<Littleton> <location.statistical_region.population> "m.0hkcybw" .
+<m.0w5b8r7> <education.education.student> "Molly Burnett" .
+<Postal_codes> <rdf-schema#domain> "City/Town/Village" .
+<Hudson_Gardens> <location.location.containedby> "Littleton" .
+<Shareece_Pfeiffer> <film.actor.film> "m.0z882jf" .
+<Ross_Lynch> <music.artist.track> "Can't Stop Singing" .
+<Dave_Grusin> <people.person.profession> "Musician" .
+<Athlete> <freebase.type_profile.strict_included_types> "Agent" .
+<Allan_Kayser> <common.topic.article> "m.06hpv5" .
+<Riker_Lynch> <common.topic.notable_types> "Film actor" .
+<m.03lqgg8> <common.webpage.topic> "Littleton" .
+<Steven_Christopher_Parker> <common.topic.article> "m.04jlv0d" .
+<Littleton> <location.location.people_born_here> "Abaigeal Hunter McCool" .
+<80125> <common.topic.notable_for> "g.125fg3ds4" .
+<Rydel_Lynch> <music.artist.label> "Hollywood Records" .
+<Deer_Creek_Middle_School> <organization.organization.headquarters> "m.0dhfscm" .
+<Robert_Orban> <sports.pro_athlete.sports_played_professionally> "m.0zbrm3m" .
+<Town_Hall_Arts_Center> <common.topic.notable_for> "g.125gv1m7d" .
+<Littleton> <periodicals.newspaper_circulation_area.newspapers> "Highlands Ranch Herald" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwhx" .
+<Ryan_Miller> <common.topic.article> "m.0dljy84" .
+<Gregory_A._Phillips> <common.topic.article> "m.0l8nk4c" .
+<Denver_Seminary> <location.location.containedby> "United States of America" .
+<m.0vs5c8x> <people.sibling_relationship.sibling> "Melissa Benoist" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "Lauren Townsend" .
+<City/Town/Village> <freebase.type_hints.included_types> "Dated location" .
+<Mark_Holzemer> <baseball.baseball_player.batting_stats> "m.06qw4vz" .
+<Littleton> <location.location.people_born_here> "Mark Huismann" .
+<Brian_Rieger> <people.person.place_of_birth> "Littleton" .
+<Bitter_Memories> <film.film.film_production_design_by> "Josh Crist" .
+<Brock_Baker> <people.person.profession> "Writer" .
+<Football_player> <freebase.type_hints.included_types> "Person" .
+<Politician> <freebase.type_profile.strict_included_types> "Person" .
+<Douglas_County> <location.us_county.county_seat> "Castle Rock" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1htjq3" .
+<Steven_Christopher_Parker> <film.cinematographer.film> "H.P. Lovecraft’s The Dunwich Horror" .
+<Robert_Orban> <people.person.parents> "Bob Orban" .
+<m.0hjdwgl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Columbine_High_School_massacre> <base.disaster2.attack.attack> "m.05yxyqf" .
+<m.0y4tvyk> <award.award_nomination.award_nominee> "Ross Lynch" .
+<Person> <type.type.properties> "Parents" .
+<Melissa_Benoist> <film.actor.film> "m.0gcg4w8" .
+<Melissa_Benoist> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Southglenn> <location.hud_county_place.county> "Arapahoe County" .
+<m.0hpf7mq> <film.performance.actor> "Marc Senter" .
+<Claude_Burton> <people.person.gender> "Male" .
+<m.0d62_40> <sports.pro_sports_played.athlete> "Steve Korte" .
+<m.0wh0z42> <people.place_lived.person> "Zac Robinson" .
+<Film_producer> <freebase.type_profile.published> "Published" .
+<Columbine_High_School_massacre> <common.topic.webpage> "m.09wwqks" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwgb" .
+<Athlete> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0zcr6kk> <sports.pro_sports_played.athlete> "Brady Daigh" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "William David Sanders" .
+<Travis_Shakespeare> <freebase.valuenotation.has_value> "Date of birth" .
+<College/University> <freebase.type_profile.strict_included_types> "Topic" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1fg03t" .
+<Jefferson_County_Public_Schools> <location.location.containedby> "Colorado" .
+<Glendale> <location.location.containedby> "United States of America" .
+<Littleton> <location.location.people_born_here> "Shareece Pfeiffer" .
+<Arapahoe_County> <location.statistical_region.rent50_2> "m.05g9gg2" .
+<Jonathan_Hoar> <freebase.valuenotation.has_value> "Country of nationality" .
+<Marc_Senter> <common.topic.article> "m.0j2jpnq" .
+<Mark_Holzemer> <baseball.baseball_player.batting_stats> "m.06qw4tj" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "City" .
+<Seth_Trembly> <common.topic.notable_types> "Football player" .
+<Geneva_Home> <common.topic.article> "m.0h1fxgf" .
+<Brady_Daigh> <common.topic.notable_types> "Athlete" .
+<Deer_Creek_Middle_School> <common.topic.notable_types> "School" .
+<m.0hkcy99> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<80124> <freebase.valuenotation.is_reviewed> "Country" .
+<80123> <location.postal_code.country> "United States of America" .
+<Littleton> <location.location.contains> "Empire Beauty School-Littleton" .
+<m.0j33qzt> <base.schemastaging.athlete_salary.athlete> "Stephen Keel" .
+<m.0_lc2cn> <education.education.student> "Christine Scanlan" .
+<Craig_Thompson> <people.person.education> "m.0sw18rj" .
+<Cemetery> <freebase.type_hints.included_types> "Topic" .
+<Disaster> <freebase.type_profile.strict_included_types> "Abstract" .
+<m.09kvqcy> <baseball.lifetime_batting_statistics.player> "Mark Huismann" .
+<Craig_Thompson> <soccer.football_player.position_s> "Midfielder" .
+<Baseball_Player> <freebase.type_profile.equivalent_topic> "Baseball player" .
+<Josh_Crist> <people.person.nationality> "United States of America" .
+<m.0wlpdvq> <people.place_lived.location> "Littleton" .
+<Douglas_County> <location.location.containedby> "Denver-Aurora Metropolitan Statistical Area" .
+<Ross_Lynch> <music.artist.track> "Heard It On the Radio" .
+<80120> <location.location.geolocation> "m.03dnskr" .
+<Empire_Beauty_School-Littleton> <education.educational_institution_campus.educational_institution> "Empire Beauty School-Littleton" .
+<Melissa_Benoist> <people.person.place_of_birth> "Littleton" .
+<Gasper_Dominici> <people.person.parents> "Gasper Dominici, Jr." .
+<m.0wkm89h> <people.place_lived.location> "Littleton" .
+<Suicide_attack> <base.fight.crime_type.crimes_of_this_type> "Columbine High School massacre" .
+<m.0hjdw9t> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.011m6b87> <sports.pro_sports_played.athlete> "Sam Stratton" .
+<Melissa_Benoist> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0gvmnz9> <film.performance.actor> "Riker Lynch" .
+<m.0101q_t6> <freebase.valuenotation.has_no_value> "To" .
+<Ross_Lynch> <music.artist.track> "Meant to Be" .
+<Bitter_Memories> <film.film.country> "United States of America" .
+<Place_of_birth> <type.property.schema> "Person" .
+<Hudson_Gardens> <common.topic.article> "m.05vhf1" .
+<Politician> <freebase.equivalent_topic.equivalent_type> "Politician" .
+<TV_Producer> <freebase.type_profile.published> "Published" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwdj" .
+<Stephen_Keel> <soccer.football_player.statistics> "m.0w9pm2l" .
+<Brock_Baker> <common.topic.notable_types> "Film actor" .
+<Melissa_Benoist> <film.actor.film> "m.0_hfs3_" .
+<Littleton> <location.location.people_born_here> "Patrick Ireland" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1k2_bs" .
+<Zac_Robinson> <base.schemastaging.athlete_extra.salary> "m.0pxmwbc" .
+<m.0hkcy8v> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Deer_Creek_Middle_School> <time.event.locations> "Littleton" .
+<Town_Hall_Arts_Center> <architecture.structure.architectural_style> "Italianate architecture" .
+<Littleton> <location.statistical_region.population> "g.11x1fdj05" .
+<Stephen_Keel> <soccer.football_player.statistics> "m.0w8yh_r" .
+<Steve_Korte> <people.person.education> "m.04m5gfz" .
+<80124> <location.location.containedby> "Douglas County" .
+<m.0cnn1q1> <common.topic.notable_types> "Location" .
+<m.0vtrcv_> <film.performance.actor> "Steven Christopher Parker" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Person" .
+<Brenden_Urban> <people.person.parents> "Mary Ann Urban" .
+<Clement_Park> <common.topic.notable_for> "g.1258s446h" .
+<Time_zone(s)> <type.property.schema> "Location" .
+<Littleton> <location.location.people_born_here> "Seth Trembly" .
+<Geneva_Home> <location.location.geolocation> "m.01154x51" .
+<Steve_Korte> <common.topic.article> "m.043k9f4" .
+<North_America> <location.location.partially_contains> "United States of America" .
+<m.09j1bny> <sports.sports_team_roster.player> "Craig Thompson" .
+<Alex_Novosel> <people.person.gender> "Male" .
+<Jefferson_County> <location.location.containedby> "Denver-Aurora Metropolitan Statistical Area" .
+<Denver> <location.hud_county_place.county> "Denver" .
+<m.03jql8g> <location.adjoining_relationship.adjoins> "Arapahoe County" .
+<Cassie_Bernall> <event.disaster_victim.killed_in_disaster> "Columbine High School massacre" .
+<Hudson_Gardens> <location.location.containedby> "Colorado" .
+<Littleton> <location.location.people_born_here> "Craig Thompson" .
+<m.09tbmv6> <business.employment_tenure.person> "Janet Culp" .
+<Musician> <freebase.type_profile.strict_included_types> "Person" .
+<Ross_Lynch> <music.artist.track> "Can't Do It Without You (Austin & Ally Main Title)" .
+<Musician> <people.profession.specializations> "Singer-songwriter" .
+<Profession> <rdf-schema#domain> "Person" .
+<Brian_Rieger> <film.actor.film> "m.0gm2c68" .
+<Littleton> <location.statistical_region.population> "m.0hkcyd6" .
+<80124> <freebase.valuenotation.is_reviewed> "Postal Code" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Arapahoe_Community_College> <common.topic.notable_for> "g.125bt965c" .
+<Steven_Christopher_Parker> <people.person.profession> "Actor" .
+<Dated_location> <type.type.domain> "Location" .
+<Danielle_Foxhoven> <people.person.nationality> "United States of America" .
+<Mark_Huismann> <baseball.baseball_player.lifetime_batting_statistics> "m.09kvqcy" .
+<Patrick_Elsenbast> <people.person.gender> "Male" .
+<m.0gcg4w8> <film.performance.actor> "Melissa Benoist" .
+<Arapahoe_County> <location.statistical_region.population> "g.11b66d_lz2" .
+<Area_code> <freebase.type_hints.included_types> "Topic" .
+<Valor_Christian_High_School> <location.location.containedby> "Douglas County" .
+<Jordan_Murphy> <people.person.nationality> "United States of America" .
+<Martial_Artist> <freebase.type_hints.included_types> "Person" .
+<m.0bnfszn> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<Marc_Senter> <people.person.nationality> "United States of America" .
+<Littleton_Cemetery> <people.place_of_interment.interred_here> "Daniel Rohrbough" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Stephanie Munson" .
+<m.04f9dn_> <olympics.olympic_athlete_affiliation.country> "United States of America" .
+<Littleton> <location.location.containedby> "Colorado" .
+<John_Goscha> <people.person.education> "m.0_kzmmt" .
+<Mark_Huismann> <baseball.baseball_player.batting_stats> "m.06qxw1m" .
+<Arapahoe_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Littleton> <location.citytown.postal_codes> "80127" .
+<School> <freebase.type_hints.included_types> "Topic" .
+<m.0zbgqx4> <sports.pro_sports_played.athlete> "Alex Novosel" .
+<Littleton> <location.statistical_region.population> "m.0hkcy91" .
+<Alex_Novosel> <people.person.place_of_birth> "Littleton" .
+<Castlewood> <common.topic.notable_types> "City/Town/Village" .
+<Ross_Lynch> <music.artist.track> "You Can Come to Me" .
+<Venue> <freebase.type_hints.included_types> "Topic" .
+<William_David_Sanders> <people.person.gender> "Male" .
+<m.0zbfxkt> <sports.sports_team_roster.position> "g.121g7ncl" .
+<Deer_Trail> <location.location.containedby> "United States of America" .
+<The_Perfect_Man> <film.film.story_by> "Heather Robinson" .
+<Ross_Lynch> <music.artist.album> "Austin & Ally: Take It from the Top" .
+<Littleton> <location.location.people_born_here> "g.11c3kmsq09" .
+<US_County> <freebase.type_profile.kind> "Significant" .
+<Littleton> <location.location.people_born_here> "A.J. Isenburg" .
+<Travis_Shakespeare> <people.person.place_of_birth> "Littleton" .
+<80126> <location.location.containedby> "Douglas County" .
+<American_football_player> <freebase.type_hints.included_types> "Athlete" .
+<m.09k17p4> <base.popstra.dated.participant> "Cody Longo" .
+<Columbine> <location.location.containedby> "Jefferson County" .
+<Daniel_Rohrbough> <people.deceased_person.place_of_death> "Columbine High School" .
+<Steven_Christopher_Parker> <people.person.nationality> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjyy" .
+<Politician> <freebase.type_hints.included_types> "Topic" .
+<Cassie_Bernall> <people.deceased_person.place_of_death> "Columbine" .
+<80123> <common.topic.notable_types> "Postal Code" .
+<Brian_Rieger> <people.person.profession> "Actor" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1k59r4" .
+<Melissa_Benoist> <freebase.valuenotation.is_reviewed> "Gender" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckj_k" .
+<Littleton_Town_Hall,_built_1920._Jacques_Benedict,_architect> <common.image.appears_in_topic_gallery> "Jacques Benedict" .
+<Douglas_County> <location.location.containedby> "Colorado" .
+<Melissa_Benoist> <tv.tv_actor.starring_roles> "m.0wjj_ll" .
+<Mark_Dylla> <common.topic.webpage> "m.0kg6l3l" .
+<80127> <location.location.contains> "Dakota Ridge High School" .
+<Aurora> <location.hud_county_place.place> "Aurora" .
+<Littleton> <location.location.partiallycontains> "m.010q3gv0" .
+<Columbine_High_School_massacre> <common.topic.notable_for> "g.12566c6x8" .
+<Ross_Lynch> <music.artist.track> "Not a Love Song" .
+<Castle_Rock> <location.location.containedby> "United States of America" .
+<Molly_Burnett> <common.topic.article> "m.04jbzwd" .
+<Rocky_Lynch> <common.topic.notable_types> "Musician" .
+<Littleton> <common.topic.image> "Location of Littleton, Colorado" .
+<Columbine_High_School_massacre> <event.disaster.victims> "Lauren Townsend" .
+<Mark_Huismann> <baseball.baseball_player.position_s> "Pitcher" .
+<Foxfield> <location.location.containedby> "Arapahoe County" .
+<Singer-songwriter> <people.profession.specialization_of> "Musician" .
+<Cody_Longo> <common.topic.notable_for> "g.125by3wdl" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Nicole Nowlen" .
+<Ross_Lynch> <people.person.parents> "Stormie Lynch" .
+<Ross_Lynch> <common.topic.notable_types> "Film actor" .
+<Castle_Rock> <location.location.time_zones> "Mountain Time Zone" .
+<m.0hjdwf6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Celebrity> <freebase.type_profile.strict_included_types> "Topic" .
+<Molly_Burnett> <people.person.gender> "Female" .
+<Deer_Creek_Middle_School> <education.educational_institution.phone_number> "m.0dhfscv" .
+<Mark_Holzemer> <baseball.baseball_player.batting_stats> "m.06qw4zb" .
+<Time_zone(s)> <rdf-schema#range> "Time Zone" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Southglenn" .
+<m.0yzlr6k> <sports.sports_team_roster.position> "g.121g7ncl" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Arapahoe County / Bow Mar town" .
+<Martial_Artist> <freebase.type_profile.published> "Published" .
+<Dated_location> <freebase.type_hints.included_types> "Topic" .
+<Littleton> <location.statistical_region.population> "g.11x1jbz3_" .
+<Debbie_Brinkman> <people.person.place_of_birth> "Denver" .
+<m.0d5x299> <sports.pro_sports_played.athlete> "Zac Robinson" .
+<Isaiah_Shoels> <people.deceased_person.place_of_death> "Columbine High School" .
+<m.011tyd3c> <film.performance.actor> "Riker Lynch" .
+<Nicholas_Kole> <people.person.gender> "Male" .
+<Littleton> <location.citytown.postal_codes> "80166" .
+<m.0qzkjv6> <organization.organization_relationship.child> "Empire Beauty School-Littleton" .
+<Scott_Korte> <freebase.valuenotation.has_value> "Place of birth" .
+<John_Matthews> <sports.pro_athlete.teams> "m.0jvcnj1" .
+<Rocky_Lynch> <people.person.parents> "Stormie Lynch" .
+<m.0bjg35f> <common.resource.annotations> "m.03lqgg8" .
+<Steven_Christopher_Parker> <film.actor.film> "m.0bv68k7" .
+<Musician> <freebase.type_hints.included_types> "Person" .
+<Travis_Shakespeare> <common.topic.article> "m.0j5jy7g" .
+<Columbine> <location.location.time_zones> "Mountain Time Zone" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010rnll5" .
+<John_Matthews> <common.topic.notable_for> "g.125crtg3s" .
+<Guitarist> <people.profession.specializations> "Bassist" .
+<Zac_Robinson> <american_football.football_player.position_s> "Quarterback" .
+<m.0hjdwj3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Littleton> <location.statistical_region.population> "g.11x1hglcn" .
+<Josh_Crist> <common.topic.notable_types> "Film production designer" .
+<Austin_Haldorson> <people.person.sibling_s> "m.0w5j435" .
+<Columbine_High_School_massacre> <base.crime.crime.persons_accused> "m.05psc6g" .
+<Littleton> <location.location.people_born_here> "Cody Longo" .
+<Mark_Holzemer> <baseball.baseball_player.batting_stats> "m.06qw4s4" .
+<m.0qzkj_y> <common.webpage.topic> "Empire Beauty School-Littleton" .
+<Marc_Senter> <common.topic.notable_for> "g.1255tckw1" .
+<m.0101q_t6> <government.government_position_held.basic_title> "Mayor" .
+<Arapahoe_County> <location.hud_foreclosure_area.hhuniv> "m.07jfbzt" .
+<Arapahoe_Community_College> <location.location.containedby> "Littleton" .
+<Ross_Lynch> <music.featured_artist.recordings> "A Billion Hits (From \'Austin & Ally\')" .
+<Ross_Lynch> <music.artist.track> "Surf’s Up" .
+<Jonathan_Hoar> <freebase.valuenotation.has_value> "Place of birth" .
+<Empire_Beauty_School-Littleton> <education.educational_institution.campuses> "Empire Beauty School-Littleton" .
+<Jordan_Murphy> <common.topic.notable_for> "g.1yh9sscmt" .
+<Rydel_Lynch> <people.person.parents> "Stormie Lynch" .
+<m.012zhr6h> <film.performance.actor> "Marc Senter" .
+<Byers> <location.location.time_zones> "Mountain Time Zone" .
+<Littleton> <location.location.people_born_here> "Rocky Lynch" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "Matthew Kechter" .
+<m.0v1zccl> <film.performance.actor> "Riker Lynch" .
+<Arapahoe_County> <location.statistical_region.co2_emissions_residential> "m.045jwf2" .
+<Denver_Seminary> <location.location.containedby> "Littleton" .
+<Ross_Lynch> <music.group_member.membership> "m.0125qq4v" .
+<m.0k4xm6w> <base.schemastaging.athlete_salary.athlete> "Stephen Keel" .
+<United_States_of_America> <location.country.first_level_divisions> "Colorado" .
+<Ross_Lynch> <music.artist.track> "Break Down the Walls" .
+<Ross_Lynch> <music.artist.track> "Meant to Be" .
+<Scott_Korte> <freebase.valuenotation.has_value> "Country of nationality" .
+<Littleton> <location.location.contains> "Arapahoe Community College" .
+<Town> <freebase.equivalent_topic.equivalent_type> "City/Town/Village" .
+<Stephen_Keel> <base.schemastaging.athlete_extra.salary> "m.0k4xm6w" .
+<Jordan_Murphy> <people.person.place_of_birth> "Littleton" .
+<m.0gb0p0l> <tv.regular_tv_appearance.actor> "Ross Lynch" .
+<m.0w5j30b> <people.sibling_relationship.sibling> "Austin Haldorson" .
+<80128> <location.location.geolocation> "m.03dnsm9" .
+<Brad_Gumm> <common.topic.notable_types> "Martial Artist" .
+<Politician> <type.type.expected_by> "Officeholder" .
+<Arapahoe_County> <location.statistical_region.population> "g.12b01rtkl" .
+<Denver-Aurora,_CO_MSA_HUD_Section_8_Area> <location.hud_section_8_area.county> "Jefferson County" .
+<Colorado> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Rydel_Lynch> <people.person.profession> "Singer" .
+<Time_Zone> <freebase.type_profile.published> "Published" .
+<Shareece_Pfeiffer> <people.person.profession> "Actor" .
+<Mayor_of__Littleton> <government.government_office_or_title.office_holders> "m.0101q_t6" .
+<Littleton_Independent> <book.newspaper.circulation_areas> "Douglas County" .
+<m.0hkcy91> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <type.type.properties> "City Limits" .
+<Disaster> <freebase.type_hints.included_types> "Topic" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011m57bw" .
+<Ross_Lynch> <music.artist.track> "Better Together" .
+<Corey_DePooter> <event.disaster_victim.killed_in_disaster> "Columbine High School massacre" .
+<Deer_Trail> <location.hud_county_place.county> "Arapahoe County" .
+<Jack_Morrison_McCool> <people.person.parents> "Chad McCool" .
+<Dave_Grusin> <film.producer.films_executive_produced> "Bobby Deerfield" .
+<Film_production_designer> <freebase.type_hints.included_types> "Topic" .
+<Arapahoe_Community_College> <education.university.local_tuition> "m.0h6z5cy" .
+<Littleton> <location.location.contains> "Overstreet Dance Gallery" .
+<Littleton> <location.location.people_born_here> "Sheri S. Tepper" .
+<Janet_Culp> <common.topic.notable_for> "g.1255_9y33" .
+<Ross_Lynch> <music.featured_artist.albums> "A Billion Hits" .
+<Jack_Harris> <common.topic.notable_for> "g.1yh9swwlt" .
+<m.0z93sjq> <sports.sports_team_roster.player> "Robert Orban" .
+<Mark_Holzemer> <baseball.baseball_player.position_s> "Pitcher" .
+<Molly_Jacobs> <people.person.profession> "Film director" .
+<Littleton> <location.statistical_region.population> "m.0hkcy99" .
+<Littleton> <location.citytown.postal_codes> "80126" .
+<Film_producer> <freebase.type_profile.equivalent_topic> "Film Producer" .
+<Abaigeal_Hunter_McCool> <people.person.nationality> "United States of America" .
+<Empire_Beauty_School-Littleton> <organization.organization.parent> "m.0qzkjv6" .
+<Littleton> <location.citytown.postal_codes> "80162" .
+<Dave_Grusin> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Zac_Robinson> <people.person.education> "m.0svzfcr" .
+<Steven_Christopher_Parker> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1dnnp1" .
+<80124> <location.location.partially_contained_by> "m.010q3gv0" .
+<Into_the_Deep:_America,_Whaling_&_the_World> <film.film.produced_by> "Molly Jacobs" .
+<Sheri_S._Tepper> <people.person.gender> "Female" .
+<Denver_Seminary> <organization.non_profit_organization.registered_with> "m.0ppgq3k" .
+<80124-5128> <location.postal_code.country> "United States of America" .
+<Patrick_Elsenbast> <people.person.parents> "Mike Elsenbast" .
+<m.0_vyyrq> <film.performance.actor> "Brock Baker" .
+<Glendale> <location.location.containedby> "Arapahoe County" .
+<Kyle_Velasquez> <event.disaster_victim.killed_in_disaster> "Columbine High School massacre" .
+<Josh_Crist> <people.person.place_of_birth> "Littleton" .
+<m.06qw4qm> <baseball.batting_statistics.player> "Mark Holzemer" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwgt" .
+<m.03jql8g> <location.adjoining_relationship.adjoins> "Douglas County" .
+<Joe_Hansley> <people.person.nationality> "United States of America" .
+<m.0_lbswh> <education.education.student> "Melissa Benoist" .
+<Joe_Hansley> <people.person.place_of_birth> "Littleton" .
+<Littleton> <location.location.contains> "Platte River Bar & Grill" .
+<Tanner_Harrison> <common.topic.notable_types> "Athlete" .
+<Ryan_Miller> <people.person.gender> "Male" .
+<G_I_Jodi's_Bar_&_Grill> <common.topic.notable_types> "Venue" .
+<Columbine_Valley> <location.hud_county_place.county> "Arapahoe County" .
+<Deceased_Person> <freebase.type_hints.included_types> "Person" .
+<m.0d6mlj2> <sports.pro_sports_played.athlete> "Steve Mott" .
+<Littleton> <location.location.contains> "Denver Seminary" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51zj" .
+<Littleton_Main_Street> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11b7vsbwh2" .
+<Musician> <freebase.type_profile.equivalent_topic> "Musician" .
+<m.0cpzxpr> <common.webpage.category> "Official Website" .
+<80122> <location.postal_code.country> "United States of America" .
+<Film_actor> <freebase.type_profile.strict_included_types> "Agent" .
+<Place_of_birth> <rdf-schema#domain> "Person" .
+<Parents> <owl#inverseOf> "Children" .
+<Town_Hall_Arts_Center> <location.location.containedby> "Arapahoe County" .
+<Littleton> <location.location.containedby> "Arapahoe County" .
+<Alex_Novosel> <sports.pro_athlete.sports_played_professionally> "m.0zbgqx4" .
+<Littleton> <location.statistical_region.population> "g.11x1fhfmc" .
+<Arapahoe_County> <location.location.containedby> "Colorado" .
+<City/Town/Village> <common.topic.article> "m.03bnd2c" .
+<m.0hpr159> <sports.sports_team_roster.position> "Quarterback" .
+<Denver> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<m.0hjdwfg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Singer> <people.profession.corresponding_type> "Musical Artist" .
+<m.0y4v2nd> <music.group_membership.member> "Rydel Lynch" .
+<m.08crstf> <film.performance.actor> "Allan Kayser" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1dywt7" .
+<Date_of_birth> <rdf-schema#domain> "Person" .
+<Foxfield> <location.location.containedby> "Colorado" .
+<Littleton> <location.location.partiallycontains> "m.010q3g29" .
+<m.0hgdmrf> <film.performance.actor> "Cody Longo" .
+<Seth_Trembly> <sports.pro_athlete.sports_played_professionally> "m.0d5flsc" .
+<m.0h11jqw> <film.performance.actor> "Brad Gumm" .
+<Musical_Artist> <freebase.type_profile.strict_included_types> "Topic" .
+<Mark_Huismann> <people.person.gender> "Male" .
+<Area_codes_303_and_720> <location.location.containedby> "Colorado" .
+<Ross_Lynch> <music.artist.track> "What Do I Have to Do?" .
+<Sheri_S._Tepper> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.06qxw37> <baseball.batting_statistics.player> "Mark Huismann" .
+<m.0cnnxv4> <location.mailing_address.postal_code> "80160" .
+<Littleton> <location.statistical_region.population> "m.0hkcy9r" .
+<Arapahoe_County> <location.statistical_region.population> "g.12b0208mj" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Ross_Lynch> <award.award_winner.awards_won> "m.011jzk8m" .
+<Geneva_Home> <location.location.containedby> "Littleton" .
+<Christine_Scanlan> <common.topic.notable_for> "g.125gp4wj2" .
+<m.0hjdwfx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Molly_Jacobs> <people.person.profession> "Film Producer" .
+<m.010q3gth> <location.partial_containment_relationship.partially_contains> "80124" .
+<Littleton_Cemetery> <common.topic.notable_types> "Cemetery" .
+<John_Matthews> <people.person.place_of_birth> "Littleton" .
+<Film_story_contributor> <freebase.type_hints.included_types> "Topic" .
+<Arapahoe_County> <location.statistical_region.population> "m.0jt4hdx" .
+<Into_the_Deep:_America,_Whaling_&_the_World> <film.film.country> "United States of America" .
+<m.0hjdwg3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1f6lpg" .
+<Lucy_Wheeler> <freebase.valuenotation.has_value> "Place of birth" .
+<80122> <location.location.containedby> "Arapahoe County" .
+<Time_zone(s)> <type.property.expected_type> "Time Zone" .
+<Littleton> <location.location.people_born_here> "Brian Rieger" .
+<m.0qdq_y8> <sports.sports_team_roster.position> "Defender" .
+<m.0zmr817> <sports.sports_team_roster.player> "A.J. Isenburg" .
+<Ross_Lynch> <music.artist.track> "The Way That You Do" .
+<Gregory_A._Phillips> <common.topic.notable_types> "Politician" .
+<Danielle_Foxhoven> <common.topic.notable_types> "Football player" .
+<Littleton> <location.statistical_region.population> "g.11x1d4p3d" .
+<m.04m7286> <education.education.student> "Zac Robinson" .
+<m.0zdgkpy> <tv.tv_producer_term.producer> "Travis Shakespeare" .
+<80130> <common.topic.notable_for> "g.1254yr1mc" .
+<Deceased_Person> <freebase.type_profile.published> "Published" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwbx" .
+<Glendale> <location.location.containedby> "Colorado" .
+<m.0yvrgs1> <sports.sports_team_roster.player> "Joe Hansley" .
+<McKinners_Pizza_Bar> <common.topic.notable_types> "Venue" .
+<Cody_Longo> <people.person.profession> "Actor" .
+<Marc_Senter> <people.person.gender> "Male" .
+<Person> <type.type.properties> "Country of nationality" .
+<m.0h8m4m7> <people.sibling_relationship.sibling> "Jack Morrison McCool" .
+<Deer_Creek_Middle_School> <education.school.school_district> "Deer Creek Public Schools" .
+<Molly_Burnett> <tv.tv_actor.starring_roles> "m.0b4cr0f" .
+<Ross_Lynch> <people.person.profession> "Actor" .
+<Musician> <people.profession.specializations> "Bassist" .
+<Littleton> <location.location.time_zones> "Mountain Time Zone" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1dyd9c" .
+<Littleton> <location.location.contains> "McKinners Pizza Bar" .
+<Travis_Shakespeare> <award.award_nominee.award_nominations> "m.0mylv30" .
+<Empire_Beauty_School-Littleton> <education.university.domestic_tuition> "m.0k7lktf" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "John Tomlin" .
+<Lucinda_Polly_Hoar> <people.person.gender> "Female" .
+<Steven_Christopher_Parker> <common.topic.webpage> "m.0cqyz4j" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010r12s4" .
+<Town_Hall_Arts_Center> <common.topic.article> "m.0b2ggs" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "Isaiah Shoels" .
+<Columbine_High_School_massacre> <base.crime.crime.crime_type> "Attempted murder" .
+<Colorado> <location.us_state.capital> "Denver" .
+<Columbine_High_School_massacre> <event.disaster.victims> "Cassie Bernall" .
+<m.0hkcyb5> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Columbine_Valley> <location.hud_county_place.place> "Columbine Valley" .
+<Mark_Dylla> <common.topic.notable_types> "Olympic athlete" .
+<m.0n1kpv8> <education.education.student> "Ryan Miller" .
+<m.0hjdw9l> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Abaigeal_Hunter_McCool> <people.person.parents> "Chad McCool" .
+<Littleton> <location.statistical_region.population> "g.11x1gp5sr" .
+<Littleton> <location.citytown.postal_codes> "80129" .
+<80128> <common.topic.notable_for> "g.1255ymvxz" .
+<Aurora> <common.topic.notable_types> "City/Town/Village" .
+<Molly_Jacobs> <people.person.profession> "Film Editor" .
+<Place_of_birth> <rdf-schema#range> "Location" .
+<m.06qxw7s> <baseball.batting_statistics.player> "Mark Huismann" .
+<Englewood> <common.topic.notable_types> "City/Town/Village" .
+<Football_player> <freebase.type_profile.published> "Published" .
+<m.0hkcycr> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Cody_Longo> <people.person.place_of_birth> "Littleton" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<Writer> <people.profession.specializations> "Screenwriter" .
+<m.0j377r0> <people.sibling_relationship.sibling> "Zac Robinson" .
+<m.0_ly3mp> <sports.pro_sports_played.athlete> "A.J. Isenburg" .
+<Gregory_A._Phillips> <people.person.profession> "Lawyer" .
+<Production_Designer> <freebase.equivalent_topic.equivalent_type> "Film production designer" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwf6" .
+<Basketball_Player> <freebase.type_hints.included_types> "Person" .
+<Denver> <location.us_county.hud_county_place> "Denver" .
+<Zac_Robinson> <people.person.sibling_s> "m.0j377r0" .
+<m.0101q_t6> <freebase.valuenotation.is_reviewed> "Basic title" .
+<Brenden_Urban> <people.person.place_of_birth> "Littleton" .
+<William_David_Sanders> <event.disaster_victim.killed_in_disaster> "Columbine High School massacre" .
+<John_Matthews> <american_football.football_player.position_s> "Wide receiver" .
+<m.0yyzxnn> <sports.sports_team_roster.player> "Sam Stratton" .
+<Politician> <freebase.type_hints.included_types> "Person" .
+<Arapahoe_County> <location.statistical_region.co2_emissions_industrial> "m.045klbx" .
+<m.0yvqhmw> <sports.sports_team_roster.position> "Quarterback" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1h818l" .
+<m.0125qq4v> <music.group_membership.member> "Ross Lynch" .
+<Columbine_High_School> <education.educational_institution.students_graduates> "m.0w5kt6d" .
+<Person> <type.type.properties> "Children" .
+<Molly_Burnett> <award.award_nominee.award_nominations> "m.0k1jlhh" .
+<Arapahoe_County> <common.topic.article> "m.0p0fk" .
+<m.0jtdm9s> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Shareece_Pfeiffer> <common.topic.notable_types> "Film actor" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Time_Zone> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Foxfield" .
+<Littleton_Town_Hall,_built_1920._Jacques_Benedict,_architect> <common.image.size> "m.044v8gr" .
+<Renee_Chenault-Fattah> <people.person.education> "m.09sd4dk" .
+<A.J._Isenburg> <common.topic.notable_types> "Athlete" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "Kelly Fleming" .
+<Renee_Chenault-Fattah> <common.topic.notable_for> "g.125f2tks_" .
+<m.0hpr15w> <sports.sports_team_roster.position> "Quarterback" .
+<m.0hjdwbg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Educational_Institution_Campus> <freebase.type_hints.included_types> "Topic" .
+<Richard_Castaldo> <common.topic.notable_types> "Disaster survivor" .
+<North_America> <base.locations.continents.countries_within> "United States of America" .
+<Politician> <freebase.type_profile.published> "Published" .
+<Empire_Beauty_School-Littleton> <location.location.containedby> "Colorado" .
+<Arapahoe_County> <location.us_county.hud_section_8_area> "Denver-Aurora, CO MSA HUD Section 8 Area" .
+<Castle_Rock> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<80127> <common.topic.notable_types> "Postal Code" .
+<Significant> <freebase.type_kind.types> "US County" .
+<Byers> <location.location.containedby> "Arapahoe County" .
+<Denver_Seminary> <education.educational_institution.faculty> "m.0k7k9hn" .
+<Daniel_Mauser> <people.deceased_person.place_of_death> "Columbine High School" .
+<Steve_Korte> <american_football.football_player.position_s> "Center" .
+<Hudson_Gardens> <location.location.containedby> "Arapahoe County" .
+<Columbine_High_School_massacre> <event.disaster.victims> "Kelly Fleming" .
+<Arapahoe_County> <periodicals.newspaper_circulation_area.newspapers> "Littleton Independent" .
+<Columbine_High_School_massacre> <common.topic.notable_types> "Disaster" .
+<Rachel_Scott> <people.person.gender> "Female" .
+<Children> <type.property.schema> "Person" .
+<80127> <location.postal_code.country> "United States of America" .
+<m.010q3gv0> <location.partial_containment_relationship.partially_contains> "80124" .
+<m.04mb8rn> <sports.sports_team_roster.position> "Defender" .
+<Littleton> <location.location.contains> "Toad Tavern" .
+<American_football_player> <freebase.type_profile.strict_included_types> "Topic" .
+<Mark_Holzemer> <people.person.place_of_birth> "Littleton" .
+<Jack_Morrison_McCool> <people.person.sibling_s> "m.0h8m4m7" .
+<Knight-Wood_House> <common.topic.article> "m.0h1d8b9" .
+<Arapahoe_County> <location.statistical_region.rent50_4> "m.05g9ggw" .
+<Educational_Institution_Campus> <freebase.type_profile.strict_included_types> "Location" .
+<Film_actor> <freebase.type_profile.equivalent_topic> "Actor" .
+<m.0tlbx0v> <people.sibling_relationship.sibling> "Riker Lynch" .
+<Knight-Wood_House> <location.location.containedby> "Littleton" .
+<Jordan_Murphy> <people.person.gender> "Male" .
+<m.0yvqh7c> <sports.sports_team_roster.player> "Patrick Elsenbast" .
+<m.0hpr15w> <sports.sports_team_roster.player> "Zac Robinson" .
+<m.0y4v2m7> <music.group_membership.member> "Rocky Lynch" .
+<Deer_Trail> <location.location.containedby> "Colorado" .
+<Littleton> <location.statistical_region.population> "g.11x1kknhw" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Castlewood" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwg3" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwgl" .
+<m.0d5flsc> <sports.pro_sports_played.athlete> "Seth Trembly" .
+<Littleton> <periodicals.newspaper_circulation_area.newspapers> "Centennial Citizen" .
+<m.06qxv__> <baseball.batting_statistics.player> "Mark Huismann" .
+<Rydel_Lynch> <people.person.profession> "Actor" .
+<m.0hzbyjt> <government.government_position_held.office_holder> "Gregory A. Phillips" .
+<m.0zdcw0p> <award.award_nomination.award_nominee> "Travis Shakespeare" .
+<Film_production_designer> <freebase.type_profile.strict_included_types> "Topic" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Byers" .
+<Danielle_Foxhoven> <sports.pro_athlete.teams> "m.0zt_2dr" .
+<Children> <rdf-schema#domain> "Person" .
+<Knight-Wood_House> <common.topic.notable_for> "g.1yl5r94n3" .
+<Littleton> <location.location.people_born_here> "Mark Dylla" .
+<Lauren_Townsend> <people.person.gender> "Female" .
+<Football_player> <freebase.type_profile.strict_included_types> "Athlete" .
+<Sheri_S._Tepper> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Christine_Scanlan> <common.topic.image> "Christine Scanlan" .
+<Gregory_A._Phillips> <people.person.nationality> "United States of America" .
+<m.0gbwrbz> <film.performance.actor> "Marc Senter" .
+<Douglas_County> <location.us_county.hud_county_place> "Aurora" .
+<Empire_Beauty_School-Littleton> <common.topic.webpage> "m.0cpzxpr" .
+<Musician> <people.profession.specializations> "Guitarist" .
+<m.09l55hs> <film.performance.actor> "Cody Longo" .
+<Arapahoe_Community_College> <education.university.number_of_undergraduates> "m.0k7fr_f" .
+<Littleton> <location.citytown.postal_codes> "80124-5128" .
+<Seth_Trembly> <sports.pro_athlete.teams> "m.0zv26fk" .
+<m.0zc4gj5> <sports.pro_sports_played.athlete> "Patrick Elsenbast" .
+<Deer_Trail> <common.topic.notable_types> "City/Town/Village" .
+<Bobby_Deerfield> <film.film.executive_produced_by> "Dave Grusin" .
+<Rocky_Lynch> <music.group_member.membership> "m.0y4v2m7" .
+<Littleton> <location.statistical_region.population> "g.11x1l5y4k" .
+<m.06qxw99> <baseball.batting_statistics.player> "Mark Huismann" .
+<Columbine_High_School_massacre> <base.crime.crime.crime_type> "Suicide attack" .
+<Stephen_Keel> <people.person.gender> "Male" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Colorado" .
+<Brian_Rieger> <common.topic.notable_types> "Film actor" .
+<Lauren_Townsend> <base.crime.crime_victim.crime> "Columbine High School massacre" .
+<Deer_Creek_Middle_School> <education.school.highest_grade_taught> "Eighth grade" .
+<Jacques_Benedict> <people.person.nationality> "United States of America" .
+<m.0y4v82p> <award.award_nomination.award_nominee> "Ross Lynch" .
+<Mark_Holzemer> <baseball.baseball_player.batting_stats> "m.06qw4xs" .
+<Molly_Jacobs> <common.topic.notable_types> "Film producer" .
+<Officeholder> <rdf-schema#range> "Politician" .
+<Steve_Mott> <sports.pro_athlete.sports_played_professionally> "m.0d6mlj2" .
+<Littleton_Main_Street> <location.location.containedby> "Littleton" .
+<Littleton_Cemetery> <common.topic.notable_for> "g.1255w6shf" .
+<Marc_Senter> <film.actor.film> "m.0z87kjs" .
+<Zac_Robinson> <people.person.place_of_birth> "Littleton" .
+<m.010q81v1> <sports.sports_league_draft_pick.player> "Ryan Miller" .
+<m.0yvqhmw> <sports.sports_team_roster.player> "Gasper Dominici" .
+<Mark_Holzemer> <baseball.baseball_player.batting_stats> "m.06qw4qm" .
+<Kris_Bergstrom> <common.topic.article> "m.0c01h8q" .
+<Parents> <rdf-schema#range> "Person" .
+<Shareece_Pfeiffer> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Littleton> <location.location.people_born_here> "Allan Kayser" .
+<Rydel_Lynch> <people.person.parents> "Mark Lynch" .
+<Film_story_contributor> <freebase.type_profile.published> "Published" .
+<Columbine_High_School_massacre> <book.book_subject.works> "Columbine High School Shooting: Student Violence" .
+<m.0z8m78_> <sports.sports_team_roster.player> "Jordan Murphy" .
+<Littleton> <location.statistical_region.population> "g.11x1h8jjd" .
+<Littleton_Main_Street> <common.topic.notable_types> "Location" .
+<United_States_of_America> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Jefferson_County> <common.topic.notable_types> "US County" .
+<m.09k17ds> <celebrities.romantic_relationship.celebrity> "Cody Longo" .
+<Politician> <freebase.type_profile.strict_included_types> "Agent" .
+<Gregory_A._Phillips> <government.politician.party> "m.0wll4fv" .
+<m.04m427r> <common.webpage.category> "Official Website" .
+<TV_Actor> <freebase.type_profile.published> "Published" .
+<80121> <location.location.geolocation> "m.03dnsky" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Patti Nielson" .
+<Dave_Grusin> <organization.organization_founder.organizations_founded> "GRP" .
+<m.0jt4hdx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0t4w1sq> <location.cotermination.location> "Area codes 303 and 720" .
+<TV_Producer> <freebase.type_hints.included_types> "Topic" .
+<Arapahoe_County> <location.hud_foreclosure_area.total_residential_addresses> "m.07jfb_p" .
+<Kyle_Velasquez> <people.deceased_person.place_of_death> "Columbine High School" .
+<m.010q3g29> <location.partial_containment_relationship.partially_contained_by> "Littleton" .
+<Film_producer> <freebase.type_hints.included_types> "Topic" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kkbry" .
+<Cassie_Bernall> <people.person.gender> "Female" .
+<Dave_Grusin> <people.person.gender> "Male" .
+<Patrick_Elsenbast> <common.topic.notable_for> "g.1yg57lnsl" .
+<Empire_Beauty_School-Littleton> <common.topic.image> "Empire Beauty School" .
+<Allan_Kayser> <freebase.valuenotation.has_value> "Parents" .
+<Ross_Lynch> <film.actor.film> "m.0mwnvkd" .
+<Ross_Lynch> <award.award_nominee.award_nominations> "m.0ry8dmx" .
+<Aurora> <location.location.containedby> "Area codes 303 and 720" .
+<Steve_Mott> <people.person.education> "m.0w56k0m" .
+<Stephen_Keel> <sports.pro_athlete.sports_played_professionally> "m.0d5gzzr" .
+<Area_codes_303_and_720> <common.topic.article> "m.0f903y" .
+<Athlete> <freebase.type_hints.included_types> "Person" .
+<Platte_River_Bar_&_Grill> <common.topic.notable_types> "Venue" .
+<80162> <common.topic.notable_types> "Postal Code" .
+<Danny_Spond> <people.person.parents> "Don Spond" .
+<Mark_Huismann> <baseball.baseball_player.batting_stats> "m.06qxwdr" .
+<m.0hjdwb7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Debbie_Brinkman> <freebase.valuenotation.has_value> "Date of birth" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwhg" .
+<Corey_DePooter> <people.deceased_person.place_of_death> "Columbine High School" .
+<Littleton> <location.statistical_region.population> "m.0hkcyc9" .
+<Littleton> <location.location.people_born_here> "Kris Bergstrom" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "Rachel Scott" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "Valeen Schnurr" .
+<Melissa_Benoist> <tv.tv_actor.starring_roles> "g.11b6zw44qt" .
+<Littleton> <location.location.contains> "G I Jodi's Bar & Grill" .
+<American_football_player> <freebase.type_hints.included_types> "Person" .
+<Politician> <people.profession.corresponding_type> "Politician" .
+<Mark_Huismann> <baseball.baseball_player.batting_stats> "m.06qxwgc" .
+<Area_code> <freebase.type_hints.included_types> "Location" .
+<Location_of_Littleton,_Colorado> <common.image.size> "m.0292977" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1htjq2" .
+<Southglenn> <location.location.containedby> "United States of America" .
+<Littleton> <common.topic.article> "m.0g8lsm" .
+<City_Limits> <type.property.schema> "City/Town/Village" .
+<Littleton> <location.location.people_born_here> "Nicholas Kole" .
+<Television_producer> <freebase.equivalent_topic.equivalent_type> "TV Producer" .
+<Denver> <location.location.containedby> "United States of America" .
+<Brian_Rieger> <people.person.gender> "Male" .
+<Denver_Seminary> <common.topic.notable_types> "College/University" .
+<Jordan_Murphy> <sports.pro_athlete.teams> "m.0z8m78_" .
+<Mountain_Time_Zone> <common.topic.notable_types> "Time Zone" .
+<Sheridan> <location.location.containedby> "United States of America" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<Area_codes_303_and_720> <common.topic.notable_for> "g.12h33fvhp" .
+<Mark_Huismann> <baseball.baseball_player.batting_stats> "m.06qxw7s" .
+<School> <freebase.type_profile.strict_included_types> "Abstract" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<North_America> <location.location.contains_major_portion_of> "United States of America" .
+<Postal_codes> <type.property.schema> "City/Town/Village" .
+<Mass_murder> <base.fight.crime_type.crimes_of_this_type> "Manson Family Murders" .
+<Ross_Lynch> <award.award_winner.awards_won> "m.0ry8dgf" .
+<Rocky_Lynch> <people.person.profession> "Guitarist" .
+<Zac_Robinson> <common.topic.notable_for> "g.125cqrmwf" .
+<Cemetery> <type.type.domain> "Location" .
+<m.0hjdwdj> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Parents> <type.property.schema> "Person" .
+<Littleton> <location.location.people_born_here> "Steve Korte" .
+<Cody_Longo> <film.actor.film> "m.0k65fcw" .
+<m.0wj9233> <award.award_nomination.award_nominee> "Melissa Benoist" .
+<Jack_Harris> <people.person.place_of_birth> "Littleton" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Valeen Schnurr" .
+<m.0dfd_qn> <education.education.student> "John Matthews" .
+<Littleton> <location.location.people_born_here> "Marc Senter" .
+<Significant> <freebase.type_kind.types> "City/Town/Village" .
+<Castlewood> <location.location.containedby> "Arapahoe County" .
+<m.0h8m4m7> <people.sibling_relationship.sibling> "Abaigeal Hunter McCool" .
+<Empire_Beauty_School-Littleton> <education.university.number_of_undergraduates> "m.0k7l0sb" .
+<Denver> <location.hud_county_place.place> "Denver" .
+<Ross_Lynch> <people.person.place_of_birth> "Littleton" .
+<Columbine_High_School_massacre> <base.argumentmaps.motivation_s.motivation> "m.05yxbtj" .
+<Arapahoe_Community_College> <education.university.domestic_tuition> "m.0k7frw0" .
+<m.0wh1tg4> <people.place_lived.location> "Littleton" .
+<Christine_Scanlan> <common.topic.article> "m.03gy7jy" .
+<Zac_Robinson> <people.person.parents> "Myra Robinson" .
+<Zac_Robinson> <sports.pro_athlete.teams> "m.0hpr152" .
+<Olympic_athlete> <freebase.type_profile.strict_included_types> "Athlete" .
+<Danny_Spond> <common.topic.notable_types> "American football player" .
+<Melissa_Benoist> <people.person.profession> "Actor" .
+<A.J._Isenburg> <common.topic.notable_for> "g.1yp3cjb8m" .
+<80160> <common.topic.notable_for> "g.125h517g_" .
+<Ross_Lynch> <award.award_nominee.award_nominations> "m.0y4v82p" .
+<Stephen_Keel> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Brock_Baker> <common.topic.notable_for> "g.1q3sjpxtd" .
+<Jefferson_County> <location.location.time_zones> "Mountain Time Zone" .
+<Ross_Lynch> <common.topic.article> "m.0hn95_y" .
+<m.0qzkk03> <common.webpage.topic> "Empire Beauty School-Littleton" .
+<Riker_Lynch> <people.person.gender> "Male" .
+<City/Town/Village> <type.type.properties> "Postal codes" .
+<Douglas_County> <common.topic.notable_types> "US County" .
+<Joe_Hansley> <common.topic.notable_for> "g.1yg57pklc" .
+<Ross_Lynch> <music.artist.track> "Timeless" .
+<AMC_Highlands_Ranch_24> <common.topic.notable_for> "g.125fjdy89" .
+<m.0g0286m> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<m.0w555z4> <education.education.student> "Craig Thompson" .
+<Arapahoe_County> <location.statistical_region.population> "m.066df5n" .
+<Stephen_Keel> <people.person.parents> "Sue Keel" .
+<Craig_Thompson> <people.person.gender> "Male" .
+<Rydel_Lynch> <music.artist.genre> "Pop rock" .
+<m.0k7ml7m> <film.performance.actor> "Riker Lynch" .
+<Person> <freebase.type_profile.strict_included_types> "Agent" .
+<Denver-Aurora_Metropolitan_Statistical_Area> <location.location.contains> "Arapahoe County" .
+<Athlete> <freebase.type_profile.strict_included_types> "Person" .
+<Geneva_Home> <common.topic.notable_for> "g.1q6fhm0_1" .
+<m.0w5h_zd> <sports.pro_sports_played.athlete> "Austin Haldorson" .
+<m.0j377qd> <people.sibling_relationship.sibling> "Zac Robinson" .
+<Kyle_Velasquez> <base.crime.crime_victim.crime> "Columbine High School massacre" .
+<Arapahoe_Community_College> <education.university.domestic_tuition> "m.0h6z5d4" .
+<Molly_Burnett> <award.award_nominee.award_nominations> "m.0lvbkbm" .
+<m.0z8h3ll> <sports.sports_team_roster.player> "Tanner Harrison" .
+<Littleton> <location.statistical_region.population> "m.0hkcy8m" .
+<Littleton_Cemetery> <people.place_of_interment.interred_here> "Atterson W. Rucker" .
+<m.04j1nhf> <film.performance.actor> "Heather Robinson" .
+<Denver_Seminary> <education.educational_institution.students_graduates> "m.0n1k4k_" .
+<80124> <location.location.containedby> "Colorado" .
+<m.0k65fcw> <film.performance.actor> "Cody Longo" .
+<Aurora> <location.hud_county_place.county> "Douglas County" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjwd" .
+<Steven_Christopher_Parker> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Arapahoe_County> <location.location.adjoin_s> "m.03jpvzq" .
+<Arapahoe_Community_College> <education.educational_institution.campuses> "Arapahoe Community College" .
+<m.09wwqks> <common.webpage.topic> "Columbine High School massacre" .
+<Seth_Trembly> <people.person.gender> "Male" .
+<Stephen_Keel> <soccer.football_player.position_s> "Defender" .
+<Geneva_Home> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "g.11btv6vgzz" .
+<Cody_Longo> <film.actor.film> "m.0h9ks8n" .
+<Littleton_Town_Hall,_built_1920._Jacques_Benedict,_architect> <common.image.appears_in_topic_gallery> "Littleton" .
+<Stephen_Keel> <people.person.place_of_birth> "Littleton" .
+<Marc_Senter> <film.actor.film> "m.0gbwrbz" .
+<m.04lr7tk> <common.webpage.category> "Official Website" .
+<80124-5128> <location.location.partially_contained_by> "m.010q3g2q" .
+<Littleton> <location.statistical_region.population> "m.0hkcycr" .
+<Ross_Lynch> <music.artist.track> "Like Me" .
+<Ryan_Miller> <sports.pro_athlete.teams> "m.011qg_jx" .
+<m.0ltzff3> <award.award_nomination.award_nominee> "Travis Shakespeare" .
+<m.0hjdwhp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0lgz32n> <architecture.occupancy.building> "AMC Highlands Ranch 24" .
+<Clement_Park> <location.location.containedby> "Littleton" .
+<TV_Actor> <freebase.type_profile.strict_included_types> "Agent" .
+<Rachel_Scott> <people.person.nationality> "United States of America" .
+<Cherry_Hills_Village> <common.topic.notable_types> "City/Town/Village" .
+<m.09sd4dd> <education.education.student> "Renee Chenault-Fattah" .
+<Ryan_Miller> <base.schemastaging.athlete_extra.salary> "m.0n4q7dx" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011c38cw" .
+<Gregory_A._Phillips> <freebase.valuenotation.has_value> "Parents" .
+<Empire_Beauty_School-Littleton> <organization.organization.headquarters> "m.0cnn1q1" .
+<80121> <common.topic.notable_for> "g.125cwrshk" .
+<Denver_Seminary> <education.educational_institution.students_graduates> "m.0_l5cwd" .
+<Singer-songwriter> <people.profession.corresponding_type> "Musical Artist" .
+<Empire_Beauty_School-Littleton> <education.university.domestic_tuition> "m.0k7gq18" .
+<Cemetery> <freebase.type_profile.kind> "Definition" .
+<Austin_Haldorson> <people.person.place_of_birth> "Littleton" .
+<School> <freebase.type_profile.kind> "Definition" .
+<m.0h8m0wd> <film.personal_film_appearance.person> "Abaigeal Hunter McCool" .
+<80163> <common.topic.notable_types> "Postal Code" .
+<Cemetery> <freebase.type_profile.strict_included_types> "Topic" .
+<Steve_Korte> <people.person.gender> "Male" .
+<Musician> <people.profession.corresponding_type> "Musical Artist" .
+<Shareece_Pfeiffer> <common.topic.notable_for> "g.12596cfgy" .
+<Douglas_County> <location.us_county.hud_county_place> "Castle Rock" .
+<Ryan_Miller> <people.person.profession> "American football player" .
+<Robert_Orban> <people.person.gender> "Male" .
+<Newspaper> <freebase.type_hints.included_types> "Topic" .
+<Danny_Spond> <people.person.gender> "Male" .
+<m.0w5bk8l> <sports.sports_team_roster.player> "Austin Haldorson" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdw9t" .
+<Colorado> <location.administrative_division.first_level_division_of> "United States of America" .
+<City/Town/Village> <freebase.type_hints.included_types> "Statistical region" .
+<Littleton> <location.statistical_region.population> "g.11x1fbr2b" .
+<Columbine_High_School_massacre> <common.topic.article> "m.0g7c8" .
+<Cody_Longo> <film.actor.film> "m.0hgdmrf" .
+<Cody_Longo> <tv.tv_actor.starring_roles> "m.0zwx73k" .
+<m.0w5kt6d> <education.education.institution> "Columbine High School" .
+<m.0wlw9xl> <people.place_lived.location> "Littleton" .
+<Gregory_A._Phillips> <people.person.education> "m.0wl4056" .
+<Denver> <location.us_county.hud_section_8_area> "Denver-Aurora, CO MSA HUD Section 8 Area" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51y0" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Colorado" .
+<Daniel_Rohrbough> <people.person.nationality> "United States of America" .
+<m.0n285sh> <base.schemastaging.athlete_salary.athlete> "Zac Robinson" .
+<80124-5128> <location.location.containedby> "Douglas County" .
+<m.0cnpl9z> <location.mailing_address.citytown> "Littleton" .
+<m.0n14911> <education.education.student> "Stephen Keel" .
+<m.04m5gfz> <education.education.student> "Steve Korte" .
+<American_football_player> <freebase.type_profile.strict_included_types> "Person" .
+<Molly_Burnett> <people.person.place_of_birth> "Littleton" .
+<Ross_Lynch> <film.actor.film> "m.0mwnvjj" .
+<Alex_Novosel> <people.person.parents> "Tom Novosel" .
+<Town_Hall_Arts_Center> <common.topic.image> "THAC Front" .
+<Littleton> <location.location.contains> "AMC Highlands Ranch 24" .
+<Molly_Jacobs> <film.producer.film> "Into the Deep: America, Whaling & the World" .
+<Cody_Longo> <film.actor.film> "m.0hgwskr" .
+<Rachel_Scott> <base.crime.crime_victim.crime> "Columbine High School massacre" .
+<m.06qxw1m> <baseball.batting_statistics.player> "Mark Huismann" .
+<m.0hkcyd6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Overstreet_Dance_Gallery> <common.topic.notable_for> "g.125fj3rdj" .
+<m.0hjdwb0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Glendale> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<m.06qxwj2> <baseball.batting_statistics.player> "Mark Huismann" .
+<Littleton> <location.location.people_born_here> "Dean Lee Hansen" .
+<John_Matthews> <american_football.football_player.forty_yard_dash_time> "m.0wkpzvp" .
+<Steve_Mott> <common.topic.article> "m.04mwwl9" .
+<m.0d6f_w4> <sports.pro_sports_played.athlete> "Craig Thompson" .
+<Basketball_Player> <freebase.type_hints.included_types> "Topic" .
+<Greenwood_Village> <location.hud_county_place.county> "Arapahoe County" .
+<Area_codes_303_and_720> <location.location.geolocation> "m.0wmpy0v" .
+<Empire_Beauty_School-Littleton> <education.university.domestic_tuition> "m.0k7lkwd" .
+<Cody_Longo> <common.topic.notable_types> "Celebrity" .
+<Lucinda_Polly_Hoar> <freebase.valuenotation.has_value> "Country of nationality" .
+<Littleton> <location.citytown.postal_codes> "80123" .
+<Celebrity> <freebase.type_hints.included_types> "Topic" .
+<Joe_Hansley> <sports.pro_athlete.teams> "m.0yvrgs1" .
+<Sheridan> <location.location.time_zones> "Mountain Time Zone" .
+<Southglenn> <location.hud_county_place.place> "Southglenn" .
+<Rocky_Lynch> <people.person.parents> "Mark Lynch" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "Rachel Scott" .
+<m.0w0_wpm> <tv.tv_guest_role.actor> "Ross Lynch" .
+<Mark_Dylla> <people.person.place_of_birth> "Littleton" .
+<Molly_Jacobs> <freebase.valuenotation.has_value> "Parents" .
+<Empire_Beauty_School-Littleton> <education.university.domestic_tuition> "m.0k7vxdq" .
+<m.0hpr152> <sports.sports_team_roster.position> "Quarterback" .
+<m.0j5wy07> <base.schemastaging.athlete_salary.athlete> "John Matthews" .
+<Arapahoe_County> <location.statistical_region.population> "m.0jstv73" .
+<Denver_Seminary> <education.university.number_of_postgraduates> "m.0jxpg3w" .
+<Colorado> <location.administrative_division.country> "United States of America" .
+<m.0zbs0vt> <sports.pro_sports_played.athlete> "Jordan Murphy" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011m9jg_" .
+<Lucinda_Polly_Hoar> <common.topic.notable_types> "Deceased Person" .
+<Shareece_Pfeiffer> <freebase.valuenotation.is_reviewed> "Gender" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1fqb50" .
+<Columbine_High_School_massacre> <event.disaster.victims> "Corey DePooter" .
+<Patrick_Elsenbast> <common.topic.notable_types> "Athlete" .
+<Denver-Aurora,_CO_MSA_HUD_Section_8_Area> <location.hud_section_8_area.county> "Douglas County" .
+<Littleton> <location.location.people_born_here> "Molly Burnett" .
+<Mark_Huismann> <people.person.places_lived> "m.0wlznx7" .
+<United_States_of_America> <location.country.administrative_divisions> "Colorado" .
+<Joe_Hansley> <sports.pro_athlete.sports_played_professionally> "m.0zcqbkr" .
+<Lucinda_Polly_Hoar> <common.topic.notable_for> "g.1255g7cvk" .
+<Littleton> <location.location.people_born_here> "Renee Chenault-Fattah" .
+<Josh_Crist> <film.film_production_designer.films_production_designed> "Bitter Memories" .
+<m.0tlbx0v> <people.sibling_relationship.sibling> "Rocky Lynch" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "Daniel Rohrbough" .
+<m.0hjdwhg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Littleton> <location.statistical_region.population> "m.0hkcyb5" .
+<Date_of_birth> <type.property.schema> "Person" .
+<m.0mylv30> <award.award_nomination.award_nominee> "Travis Shakespeare" .
+<Colorado> <base.biblioness.bibs_location.country> "United States of America" .
+<Englewood> <location.location.containedby> "Arapahoe County" .
+<Arapahoe_County> <location.location.containedby> "Denver-Aurora Metropolitan Statistical Area" .
+<Rydel_Lynch> <common.topic.notable_types> "Film actor" .
+<m.0cq8_xc> <common.webpage.topic> "Cody Longo" .
+<Columbine_High_School_massacre> <event.disaster.victims> "William David Sanders" .
+<m.0hjdwhx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<G_I_Jodi's_Bar_&_Grill> <common.topic.notable_for> "g.125bws5ty" .
+<Olympic_athlete> <freebase.type_hints.included_types> "Athlete" .
+<Ben_Larned> <common.topic.notable_types> "Film actor" .
+<Travis_Shakespeare> <people.person.nationality> "United States of America" .
+<Mark_Huismann> <baseball.baseball_player.batting_stats> "m.06qxw4r" .
+<Sheri_S._Tepper> <people.person.nationality> "United States of America" .
+<Arapahoe_County> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07jfb_7" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwcb" .
+<US_County> <freebase.type_hints.included_types> "Location" .
+<Steve_Korte> <american_football.football_player.forty_yard_dash_time> "m.0wh0gw5" .
+<m.0101q_t6> <freebase.valuenotation.is_reviewed> "From" .
+<m.0hkcycj> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hpr159> <sports.sports_team_roster.player> "Zac Robinson" .
+<Denver_Seminary> <common.topic.article> "m.026b85k" .
+<Arapahoe_County> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Littleton> <common.topic.webpage> "m.03lqgg8" .
+<Deer_Creek_Middle_School> <education.school.school_district> "Jefferson County Public Schools" .
+<m.0mx2q8t> <award.award_nomination.award_nominee> "Travis Shakespeare" .
+<Cody_Longo> <film.actor.film> "m.09k16p3" .
+<Christine_Scanlan> <people.person.gender> "Female" .
+<Abaigeal_Hunter_McCool> <people.person.profession> "Actor" .
+<Byers> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<Arapahoe_County> <location.statistical_region.population> "m.066df4x" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Arapahoe County / Bennett town" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<m.0zc4drr> <sports.pro_sports_played.athlete> "Jack Harris" .
+<Melissa_Benoist> <common.topic.article> "m.0n47x3l" .
+<Arapahoe_County> <location.location.nearby_airports> "Centennial Airport" .
+<m.0hgwskr> <film.performance.actor> "Cody Longo" .
+<80123> <location.location.containedby> "Denver" .
+<Columbine_Community_Courier> <common.topic.notable_for> "g.1255g7gt5" .
+<Arapahoe_Community_College> <education.university.local_tuition> "m.0k7dk6k" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1lhz78" .
+<Jack_Harris> <people.person.nationality> "United States of America" .
+<Littleton> <location.citytown.postal_codes> "80130" .
+<Eighth_grade> <education.grade_level.locations_used> "United States of America" .
+<TV_Actor> <freebase.type_hints.included_types> "Topic" .
+<80124-5128> <location.location.containedby> "80124" .
+<Littleton> <location.statistical_region.population> "g.11x1ktf7s" .
+<Centennial_Airport> <location.location.containedby> "Arapahoe County" .
+<Olympic_athlete> <freebase.type_hints.included_types> "Person" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0111t6vw" .
+<Shareece_Pfeiffer> <film.actor.film> "m.0v8_6g2" .
+<80124> <location.location.contains> "80124-5128" .
+<m.05yxyqf> <base.disaster2.attack_process.attack_event> "Columbine High School massacre" .
+<Zac_Robinson> <people.person.profession> "American football player" .
+<Gasper_Dominici> <common.topic.notable_types> "Athlete" .
+<m.03jpgvx> <location.adjoining_relationship.adjoins> "Arapahoe County" .
+<Littleton> <location.location.contains> "Knight-Wood House" .
+<Debbie_Brinkman> <freebase.valuenotation.has_value> "Children" .
+<Arapahoe_County> <location.statistical_region.population> "g.12b01w4tz" .
+<Allan_Kayser> <film.actor.film> "m.0djbcxw" .
+<Littleton> <location.citytown.postal_codes> "80128" .
+<m.06qw4s4> <baseball.batting_statistics.player> "Mark Holzemer" .
+<Foxfield> <location.hud_county_place.place> "Foxfield" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Jennifer Doyle" .
+<Arapahoe_Community_College> <education.educational_institution.faculty> "m.0k8xxy3" .
+<Janet_Culp> <people.person.employment_history> "m.09tbmv6" .
+<College/University> <freebase.type_hints.included_types> "Topic" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kkbfd" .
+<Denver> <location.administrative_division.second_level_division_of> "United States of America" .
+<Musician> <freebase.type_profile.strict_included_types> "Topic" .
+<Film_actor> <freebase.type_hints.included_types> "Person" .
+<80124> <location.location.containedby> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjv4" .
+<Film_actor> <freebase.type_profile.strict_included_types> "Topic" .
+<Danielle_Foxhoven> <common.topic.notable_for> "g.12vqg_tkz" .
+<m.09km124> <base.ontologies.ontology_instance_mapping.freebase_topic> "Columbine High School massacre" .
+<80124-5128> <location.location.containedby> "Colorado" .
+<m.0wlpdvq> <people.place_lived.person> "Danielle Foxhoven" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "Corey DePooter" .
+<80123> <location.location.contains> "Columbine Country Club" .
+<Riker_Lynch> <people.person.profession> "Bassist" .
+<Zac_Robinson> <sports.pro_athlete.teams> "m.0hpr15j" .
+<80121> <location.postal_code.country> "United States of America" .
+<Littleton> <location.statistical_region.population> "g.11x1h5trl" .
+<Janet_Culp> <common.topic.notable_types> "Olympic athlete" .
+<m.0whwthf> <people.place_lived.person> "Seth Trembly" .
+<Ross_Lynch> <music.artist.track> "A Billion Hits" .
+<Area_code> <freebase.type_profile.strict_included_types> "Topic" .
+<Arapahoe_Community_College> <common.topic.notable_types> "College/University" .
+<Columbine_High_School> <education.school.school_district> "Jefferson County Public Schools" .
+<Town_Hall_Arts_Center> <location.location.containedby> "80120" .
+<Highlands_Ranch_Herald> <book.newspaper.circulation_areas> "Littleton" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwbp" .
+<Littleton> <location.citytown.postal_codes> "80165" .
+<Ross_Lynch> <music.artist.track> "It's Me, It's You" .
+<m.0zcqbkr> <sports.pro_sports_played.athlete> "Joe Hansley" .
+<Zac_Robinson> <base.schemastaging.athlete_extra.salary> "m.0n285sh" .
+<Arapahoe_County> <location.statistical_region.population> "g.12b01th2r" .
+<Ross_Lynch> <music.artist.track> "Meant to Be (Reprise 2)" .
+<m.0jvcnj1> <sports.sports_team_roster.player> "John Matthews" .
+<Littleton> <location.location.people_born_here> "Stephen Keel" .
+<Mark_Huismann> <common.topic.notable_for> "g.1258jtbr8" .
+<m.0wlw4_f> <people.place_lived.person> "Christine Scanlan" .
+<Stephen_Keel> <people.person.parents> "Jerry Keel" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bngb8x" .
+<Ross_Lynch> <music.artist.album> "A Billion Hits" .
+<A.J._Isenburg> <people.person.nationality> "United States of America" .
+<Shareece_Pfeiffer> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Deer_Trail> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<Littleton> <common.topic.image> "Littleton Town Hall, built 1920. Jacques Benedict, architect" .
+<Littleton> <location.citytown.postal_codes> "80163" .
+<Ben_Larned> <people.person.gender> "Male" .
+<Josh_Crist> <people.person.profession> "Production Designer" .
+<Sheri_S._Tepper> <freebase.valuenotation.has_value> "Parents" .
+<m.0vxy3p8> <tv.tv_guest_personal_appearance.person> "Ross Lynch" .
+<m.0n4q7dx> <base.schemastaging.athlete_salary.athlete> "Ryan Miller" .
+<m.0wj1cr7> <people.place_lived.location> "Littleton" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwhp" .
+<Ross_Lynch> <music.artist.label> "Hollywood Records" .
+<Lucinda_Polly_Hoar> <people.person.place_of_birth> "Littleton" .
+<Travis_Shakespeare> <common.topic.notable_for> "g.1257ryvhh" .
+<Gregory_A._Phillips> <people.person.gender> "Male" .
+<Brawler> <film.film.starring> "m.0hpf7mq" .
+<Travis_Shakespeare> <award.award_nominee.award_nominations> "m.0zdcw0p" .
+<Denver> <location.location.adjoin_s> "m.040v_rf" .
+<m.0d68dcs> <sports.pro_sports_played.athlete> "Mark Huismann" .
+<Danny_Spond> <sports.pro_athlete.sports_played_professionally> "m.0_gm63m" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1jyys2" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jt6z3" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012w3hyx" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Cherry Hills Village" .
+<Littleton> <location.location.people_born_here> "Zac Robinson" .
+<m.0101q_t6> <government.government_position_held.office_position_or_title> "Mayor of  Littleton" .
+<Ross_Lynch> <music.artist.track> "Double Take" .
+<Aurora> <location.location.containedby> "United States of America" .
+<Location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Columbine_Valley> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<Person> <type.type.properties> "Place of birth" .
+<Allan_Kayser> <common.topic.notable_types> "TV Actor" .
+<Molly_Jacobs> <common.topic.notable_for> "g.1q67g7zhg" .
+<Jacques_Benedict> <common.topic.image> "Littleton Town Hall, built 1920. Jacques Benedict, architect" .
+<Patrick_Elsenbast> <sports.pro_athlete.sports_played_professionally> "m.0zc4gj5" .
+<McKinners_Pizza_Bar> <common.topic.notable_for> "g.125c1djg2" .
+<Richard_Castaldo> <people.person.gender> "Male" .
+<Arapahoe_Community_College> <education.university.number_of_undergraduates> "m.0h77xh7" .
+<American_football_player> <freebase.equivalent_topic.equivalent_type> "American football player" .
+<Stephen_Keel> <common.topic.image> "Stephen-Keel-soccer-player" .
+<Mountain_Time_Zone> <time.time_zone.day_dst_ends> "First Sunday in November" .
+<Melissa_Benoist> <people.person.gender> "Female" .
+<m.011jzk8m> <award.award_honor.award_winner> "Ross Lynch" .
+<American_football_player> <people.profession.corresponding_type> "American football player" .
+<m.0101q_t6> <freebase.valuenotation.is_reviewed> "Jurisdiction of office" .
+<m.04hcgn5> <education.education.institution> "Columbine High School" .
+<m.0101q_t6> <freebase.valuenotation.is_reviewed> "Officeholder" .
+<Joe_Hansley> <people.person.parents> "Todd Hansley" .
+<m.0hjdwd9> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012_976x" .
+<80125> <location.location.contains> "Roxborough State Park" .
+<Deer_Creek_Middle_School> <common.topic.notable_for> "g.1259t_xbt" .
+<m.0pxmwbc> <base.schemastaging.athlete_salary.athlete> "Zac Robinson" .
+<m.0hpf7mq> <film.performance.film> "Brawler" .
+<Jack_Morrison_McCool> <common.topic.notable_for> "g.1255hslzh" .
+<Tanner_Harrison> <people.person.gender> "Male" .
+<Cemetery> <freebase.type_profile.strict_included_types> "Dated location" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Location" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011nbp0r" .
+<Debbie_Brinkman> <people.person.profession> "Politician" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1h5bj5" .
+<80125> <location.location.geolocation> "m.03dnslp" .
+<Dave_Grusin> <film.music_contributor.film> "Bobby Deerfield" .
+<Country> <rdf-schema#domain> "Postal Code" .
+<m.0cnnxv4> <location.mailing_address.citytown> "Littleton" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<John_Matthews> <common.topic.notable_types> "American football player" .
+<Melissa_Benoist> <people.person.education> "m.0_lbswh" .
+<Ross_Lynch> <music.artist.track> "Illusion" .
+<Gasper_Dominici> <people.person.place_of_birth> "Littleton" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Columbine Valley" .
+<Cody_Longo> <common.topic.article> "m.07kd8rl" .
+<m.0n46f0r> <education.education.student> "Renee Chenault-Fattah" .
+<Janet_Culp> <people.person.nationality> "United States of America" .
+<Littleton> <location.statistical_region.population> "m.0hkcycz" .
+<Patrick_Ireland> <common.topic.notable_types> "Disaster survivor" .
+<m.0hpr15j> <sports.sports_team_roster.position> "Quarterback" .
+<John_Matthews> <people.person.education> "m.0dfd_qn" .
+<m.040v_rf> <location.adjoining_relationship.adjoins> "Littleton" .
+<Steve_Korte> <common.topic.notable_types> "American football player" .
+<Ben_Larned> <people.person.profession> "Film director" .
+<Littleton> <location.citytown.postal_codes> "80122" .
+<Arapahoe_County> <location.statistical_region.population> "m.066df60" .
+<m.0yyzxnn> <sports.sports_team_roster.position> "Quarterback" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011lvjc_" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Dated location" .
+<Mark_Holzemer> <common.topic.notable_for> "g.125d2mw2y" .
+<Denver_Seminary> <education.educational_institution.phone_number> "m.0jxpjxk" .
+<Patrick_Ireland> <common.topic.notable_for> "g.126thfvyw" .
+<Stephen_Keel> <common.topic.notable_for> "g.1255vfq2z" .
+<m.06qxw4r> <baseball.batting_statistics.player> "Mark Huismann" .
+<Columbine_Valley> <location.location.containedby> "Arapahoe County" .
+<Littleton> <location.location.events> "Deer Creek Middle School" .
+<Mark_Huismann> <baseball.baseball_player.batting_stats> "m.06qxw37" .
+<Mountain_Time_Zone> <common.topic.notable_for> "g.125brs1ct" .
+<Empire_Beauty_School-Littleton> <common.topic.notable_types> "Educational Institution Campus" .
+<Littleton> <government.governmental_jurisdiction.governing_officials> "m.0101q_t6" .
+<Patrick_Elsenbast> <sports.pro_athlete.teams> "m.0yvqh7c" .
+<Voice_Actor> <people.profession.specialization_of> "Actor" .
+<John_Goscha> <common.topic.notable_types> "Person" .
+<m.04hcgn5> <education.education.student> "Allan Kayser" .
+<m.0w9bl71> <soccer.football_player_stats.player> "Stephen Keel" .
+<John_Matthews> <people.person.gender> "Male" .
+<m.040v_rf> <location.adjoining_relationship.adjoins> "Denver" .
+<m.0y4v7zx> <award.award_honor.award_winner> "Ross Lynch" .
+<Craig_Thompson> <soccer.football_player.statistics> "m.0w94l5f" .
+<Mountain_Time_Zone> <common.topic.article> "m.02hczk" .
+<Renee_Chenault-Fattah> <people.person.education> "m.09sd4dd" .
+<Columbine_High_School_massacre> <book.book_subject.works> "No Easy Answers: The Truth Behind Death at Columbine" .
+<Allan_Kayser> <people.person.profession> "Actor" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Basketball_Player> <freebase.type_profile.published> "Published" .
+<m.0101q_t6> <government.government_position_held.jurisdiction_of_office> "Littleton" .
+<m.0zbgqj5> <people.sibling_relationship.sibling> "Alex Novosel" .
+<Cody_Longo> <base.popstra.celebrity.dated> "m.09k17p4" .
+<Littleton> <location.statistical_region.population> "m.0hkcy9j" .
+<Cody_Longo> <film.actor.film> "m.09l55hs" .
+<Cherry_Hills_Village> <location.location.containedby> "United States of America" .
+<Littleton> <location.location.people_born_here> "Claude Burton" .
+<Ryan_Miller> <american_football.football_player.forty_yard_dash_time> "m.0wk7vv_" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "Kyle Velasquez" .
+<Molly_Burnett> <tv.tv_actor.starring_roles> "g.11c3k9r97v" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1khwl1" .
+<Columbine_High_School_massacre> <book.book_subject.works> "Columbine: A True Crime Story - A Victim, the Killers and the Nation's Search for Answers" .
+<Corey_DePooter> <base.crime.crime_victim.crime> "Columbine High School massacre" .
+<Musical_Artist> <freebase.type_hints.included_types> "Topic" .
+<80129> <common.topic.notable_for> "g.12597w51r" .
+<Craig_Thompson> <people.person.nationality> "United States of America" .
+<Riker_Lynch> <film.actor.film> "m.011tyd3c" .
+<Molly_Burnett> <common.topic.notable_for> "g.1257jmcsz" .
+<80165> <common.topic.notable_types> "Postal Code" .
+<m.0svzfcr> <education.education.student> "Zac Robinson" .
+<Littleton> <location.location.contains> "Hudson Gardens" .
+<Austin_Haldorson> <sports.pro_athlete.teams> "m.0w5bk8l" .
+<Jack_Morrison_McCool> <common.topic.article> "m.0h8m4kv" .
+<m.0cqyz4j> <common.webpage.topic> "Steven Christopher Parker" .
+<Littleton> <location.location.containedby> "United States of America" .
+<Littleton> <location.location.people_born_here> "Lucinda Polly Hoar" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Postal_codes> <type.property.expected_type> "Postal Code" .
+<m.0hhzcj4> <common.webpage.topic> "Denver Seminary" .
+<m.0h2p1w2> <film.performance.actor> "Steven Christopher Parker" .
+<April_20–26,_2007_tornado_outbreak_sequence> <common.topic.notable_types> "Disaster" .
+<Sheri_S._Tepper> <people.person.profession> "Writer" .
+<m.0yyzxnn> <sports.sports_team_roster.position> "Wide receiver" .
+<Steve_Mott> <common.topic.notable_types> "American football player" .
+<William_David_Sanders> <base.crime.crime_victim.crime> "Columbine High School massacre" .
+<John_Matthews> <base.schemastaging.athlete_extra.salary> "m.0j5wy07" .
+<Stephen_Keel> <freebase.valuenotation.is_reviewed> "Profession" .
+<80127> <location.location.geolocation> "m.03dnsm1" .
+<Empire_Beauty_School-Littleton> <common.topic.webpage> "m.0qzkj_y" .
+<Place_of_birth> <type.property.expected_type> "Location" .
+<m.0jxpghw> <organization.leadership.organization> "Denver Seminary" .
+<J.D._Corbin> <people.person.place_of_birth> "Littleton" .
+<m.0bngb8x> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<Isaiah_Shoels> <people.person.gender> "Male" .
+<Abaigeal_Hunter_McCool> <common.topic.notable_for> "g.125b3gwgc" .
+<Town_Hall_Arts_Center> <location.location.containedby> "Littleton" .
+<Christine_Scanlan> <people.person.education> "m.0_lc2cn" .
+<Englewood> <base.biblioness.bibs_location.state> "Colorado" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<80126> <location.location.geolocation> "m.03dnslw" .
+<Mark_Holzemer> <baseball.baseball_player.lifetime_batting_statistics> "m.09kvk6l" .
+<m.0tlbx0v> <people.sibling_relationship.sibling> "Rydel Lynch" .
+<m.0bnfsl6> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<Ross_Lynch> <award.award_nominee.award_nominations> "m.010wqyz4" .
+<Alex_Novosel> <common.topic.notable_types> "American football player" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bnghxp" .
+<Gasper_Dominici> <sports.pro_athlete.sports_played_professionally> "m.0zc4h_m" .
+<Center> <people.person.nationality> "United States of America" .
+<Rydel_Lynch> <film.actor.film> "m.011tyd72" .
+<Littleton_Main_Street> <location.location.geolocation> "m.0z8jy8v" .
+<Nicholas_Kole> <people.person.nationality> "United States of America" .
+<Molly_Burnett> <common.topic.notable_types> "TV Actor" .
+<m.0z882jf> <film.performance.actor> "Shareece Pfeiffer" .
+<m.0n183s3> <education.education.student> "Allan Kayser" .
+<Rydel_Lynch> <people.person.gender> "Female" .
+<Richard_Castaldo> <people.person.nationality> "United States of America" .
+<Littleton> <location.location.people_born_here> "Gregory A. Phillips" .
+<Robert_Orban> <common.topic.notable_types> "Athlete" .
+<Jonathan_Hoar> <people.person.children> "Lucinda Polly Hoar" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckk64" .
+<Dave_Grusin> <people.person.place_of_birth> "Littleton" .
+<Allan_Kayser> <freebase.valuenotation.has_value> "Children" .
+<Allan_Kayser> <tv.tv_actor.starring_roles> "m.02t8g__" .
+<Littleton> <periodicals.newspaper_circulation_area.newspapers> "Littleton Independent" .
+<Stephen_Keel> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Platte_River_Bar_&_Grill> <common.topic.notable_for> "g.125fn_q9n" .
+<G_I_Jodi's_Bar_&_Grill> <location.location.containedby> "Littleton" .
+<Columbine_High_School_massacre> <event.disaster.victims> "Daniel Mauser" .
+<John_Goscha> <people.person.place_of_birth> "Littleton" .
+<Castle_Rock> <common.topic.notable_types> "City/Town/Village" .
+<Sam_Stratton> <common.topic.notable_for> "g.1yg6d3t5p" .
+<Marc_Senter> <people.person.profession> "Actor" .
+<Mark_Huismann> <baseball.baseball_player.batting_stats> "m.06qxw64" .
+<Politician> <freebase.type_profile.equivalent_topic> "Politician" .
+<Town_Hall_Arts_Center> <common.topic.notable_types> "Venue" .
+<Nicholas_Kole> <common.topic.image> "Brittany Vise & Nicholas Kole 2004 Junior Grand Prix Germany" .
+<Craig_Thompson> <common.topic.notable_for> "g.125fblxyc" .
+<m.03jslgr> <location.adjoining_relationship.adjoins> "Arapahoe County" .
+<Riker_Lynch> <people.person.sibling_s> "m.0tlbx0v" .
+<Denver_Seminary> <common.topic.webpage> "m.0hhzcj4" .
+<80124> <location.location.contains> "County Line" .
+<Columbine_High_School_massacre> <event.disaster.victims> "John Tomlin" .
+<A.J._Isenburg> <people.person.place_of_birth> "Littleton" .
+<Debbie_Brinkman> <government.politician.government_positions_held> "m.0101q_t6" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "Daniel Mauser" .
+<John_Matthews> <people.person.education> "m.0n1m6q5" .
+<Baseball_Player> <freebase.type_hints.included_types> "Person" .
+<Douglas_County> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Littleton> <location.statistical_region.population> "g.11x1kntq7" .
+<Aurora> <base.biblioness.bibs_location.country> "United States of America" .
+<Patrick_Ireland> <event.disaster_survivor.survived_disasters> "Columbine High School massacre" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckkfd" .
+<Deer_Creek_Middle_School> <education.school.lowest_grade_taught> "Seventh grade" .
+<Ross_Lynch> <common.topic.notable_for> "g.1255j21q8" .
+<80120> <location.location.containedby> "Arapahoe County" .
+<Ben_Larned> <people.person.profession> "Film Editor" .
+<Columbine_High_School_massacre> <event.disaster.victims> "Rachel Scott" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<The_Overbrook_Brothers> <film.film.country> "United States of America" .
+<Brenden_Urban> <people.person.parents> "Jason Wright" .
+<Mark_Holzemer> <people.person.gender> "Male" .
+<Brenden_Urban> <sports.pro_athlete.sports_played_professionally> "m.0z684g3" .
+<Brock_Baker> <people.person.profession> "Impressionist" .
+<Allan_Kayser> <people.person.gender> "Male" .
+<m.0ztvr7f> <sports.sports_team_roster.player> "Danielle Foxhoven" .
+<Time_Zone> <type.type.expected_by> "Time zone(s)" .
+<Littleton> <location.location.contains> "Town Hall Arts Center" .
+<80161> <common.topic.notable_types> "Postal Code" .
+<Singer-songwriter> <people.profession.specialization_of> "Singer" .
+<m.0v8_6g2> <film.performance.actor> "Shareece Pfeiffer" .
+<Film_production_designer> <freebase.type_profile.strict_included_types> "Person" .
+<Brenden_Urban> <common.topic.notable_types> "American football player" .
+<Gregory_A._Phillips> <government.politician.government_positions_held> "m.0hzbyjt" .
+<Littleton> <location.citytown.postal_codes> "80124" .
+<m.010wqyz4> <award.award_nomination.award_nominee> "Ross Lynch" .
+<Danny_Spond> <people.person.parents> "Janet Spond" .
+<Claude_Burton> <people.person.nationality> "United States of America" .
+<Austin_Haldorson> <basketball.basketball_player.position_s> "Forward" .
+<Arapahoe_County> <location.location.adjoin_s> "m.03jql8g" .
+<Travis_Shakespeare> <film.producer.film> "All That Remains" .
+<Ross_Lynch> <tv.tv_actor.guest_roles> "m.0w0_wpm" .
+<m.0mwnvjj> <film.performance.actor> "Ross Lynch" .
+<Englewood> <base.biblioness.bibs_location.country> "United States of America" .
+<Melissa_Benoist> <people.person.sibling_s> "m.0vs5c8x" .
+<Littleton> <location.location.people_born_here> "Steve Mott" .
+<Jack_Harris> <people.person.gender> "Male" .
+<Craig_Thompson> <sports.pro_athlete.teams> "m.0zv2rk9" .
+<Scott_Korte> <common.topic.notable_types> "Athlete" .
+<Ross_Lynch> <music.artist.label> "Walt Disney Records" .
+<m.0bv68k7> <film.performance.actor> "Steven Christopher Parker" .
+<Columbine_High_School_massacre> <event.disaster.victims> "Isaiah Shoels" .
+<m.06qxw64> <baseball.batting_statistics.player> "Mark Huismann" .
+<John_Matthews> <people.person.nationality> "United States of America" .
+<Jack_Harris> <freebase.valuenotation.has_value> "Parents" .
+<J.D._Corbin> <common.topic.article> "m.04n1zmw" .
+<Denver-Aurora_Metropolitan_Statistical_Area> <location.location.containedby> "Colorado" .
+<m.0ry8dgf> <award.award_honor.award_winner> "Ross Lynch" .
+<Football_player> <freebase.type_profile.strict_included_types> "Topic" .
+<Littleton> <location.statistical_region.population> "g.11x1ct1rv" .
+<Columbine_High_School_massacre> <base.schemastaging.context_name.pronunciation> "g.125_ml47g" .
+<Ryan_Miller> <people.person.place_of_birth> "Littleton" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwb7" .
+<m.0zbrm3m> <sports.pro_sports_played.athlete> "Robert Orban" .
+<m.0cpzxpr> <common.webpage.topic> "Empire Beauty School-Littleton" .
+<Attempted_murder> <base.fight.crime_type.victims_of_this_crime_type> "Valeen Schnurr" .
+<Mark_Huismann> <baseball.baseball_player.batting_stats> "m.06qxw99" .
+<m.0bngnr1> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51_h" .
+<m.0cnpl9z> <location.mailing_address.postal_code> "80120" .
+<m.0wlznx7> <people.place_lived.location> "Littleton" .
+<m.0z8gymf> <sports.sports_team_roster.player> "Jack Harris" .
+<Castlewood> <location.hud_county_place.place> "Castlewood" .
+<Brian_Rieger> <freebase.valuenotation.is_reviewed> "Gender" .
+<Cemetery> <freebase.type_hints.included_types> "Location" .
+<Patrick_Elsenbast> <people.person.nationality> "United States of America" .
+<Jack_Harris> <common.topic.notable_types> "Athlete" .
+<Greenwood_Village> <location.location.containedby> "Arapahoe County" .
+<Ryan_Miller> <people.person.nationality> "United States of America" .
+<m.0hjdwgb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Patrick_Ireland> <common.topic.article> "m.0q3xwzg" .
+<Rachel_Scott> <people.person.place_of_birth> "United States of America" .
+<Arapahoe_Community_College> <education.university.domestic_tuition> "m.0k7fsjl" .
+<Columbine_High_School_massacre> <base.crime.crime.persons_accused> "m.05psbsq" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwj3" .
+<Littleton> <location.statistical_region.population> "g.12vqhxqlc" .
+<m.03jsqdd> <location.adjoining_relationship.adjoins> "Arapahoe County" .
+<American_football_player> <freebase.type_profile.equivalent_topic> "American football player" .
+<Time_Zone> <freebase.type_hints.included_types> "Topic" .
+<m.0bngymf> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<Joe_Hansley> <people.person.parents> "Debbie Hansley" .
+<m.0vts9h2> <film.performance.actor> "Steven Christopher Parker" .
+<Littleton> <location.statistical_region.population> "g.11x1m3pxg" .
+<Centennial_Airport> <aviation.airport.serves> "Denver" .
+<Mark_Huismann> <baseball.baseball_player.batting_stats> "m.06qxwc0" .
+<Ross_Lynch> <people.person.gender> "Male" .
+<Columbine_High_School_massacre> <time.event.locations> "Columbine" .
+<m.0d5_w4l> <sports.pro_sports_played.athlete> "Mark Holzemer" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwfg" .
+<Actor> <people.profession.specializations> "Voice Actor" .
+<Riker_Lynch> <people.person.parents> "Mark Lynch" .
+<Steve_Korte> <people.person.places_lived> "m.0wj1cr7" .
+<Denver> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Basketball_Player> <freebase.type_hints.included_types> "Athlete" .
+<My_Lai> <film.film.produced_by> "Molly Jacobs" .
+<Arapahoe_County> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07jfb_g" .
+<m.0wkm89h> <people.place_lived.person> "Ryan Miller" .
+<Knight-Wood_House> <location.location.geolocation> "m.0z8tszn" .
+<Sam_Stratton> <sports.pro_athlete.sports_played_professionally> "m.011m6b87" .
+<m.0w8yh_r> <soccer.football_player_stats.player> "Stephen Keel" .
+<Kris_Bergstrom> <common.topic.notable_for> "g.1258k4hj8" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1c9x_z" .
+<Lauren_Townsend> <event.disaster_victim.killed_in_disaster> "Columbine High School massacre" .
+<Arapahoe_County> <location.statistical_region.population> "g.12b028vsn" .
+<Columbine_High_School_massacre> <event.disaster.victims> "Steven Curnow" .
+<Ross_Lynch> <music.artist.track> "Cruisin' for a Bruisin'" .
+<m.0jvw1x2> <location.administrative_division_capital_relationship.capital> "Littleton" .
+<Columbine_High_School> <education.educational_institution.students_graduates> "m.04hcgn5" .
+<US_County> <freebase.type_profile.kind> "Definition" .
+<Ross_Lynch> <music.artist.track> "Austin & Ally Glee Club Mash Up" .
+<m.0hjdwc3> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Cody_Longo> <people.person.nationality> "United States of America" .
+<Bassist> <people.profession.specialization_of> "Guitarist" .
+<Steven_Christopher_Parker> <film.cinematographer.film> "Transmorphers" .
+<Jack_Morrison_McCool> <people.person.profession> "Actor" .
+<Littleton> <location.statistical_region.population> "m.0hkcy9z" .
+<Columbine_Valley> <location.location.containedby> "Colorado" .
+<Littleton_Independent> <common.topic.notable_for> "g.125gv1xtx" .
+<80120> <location.location.contains> "Littleton/Downtown" .
+<Arapahoe_County> <location.statistical_region.population> "m.066df4j" .
+<m.0tlbx0v> <people.sibling_relationship.sibling> "Ross Lynch" .
+<80129> <common.topic.notable_types> "Postal Code" .
+<J.D._Corbin> <common.topic.notable_for> "g.125500nhv" .
+<m.0hjdwck> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Shareece_Pfeiffer> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Denver_Seminary> <common.topic.notable_for> "g.1259n5r8p" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1jcgkg" .
+<Sheridan> <location.location.containedby> "Arapahoe County" .
+<Littleton> <location.location.people_born_here> "Ross Lynch" .
+<m.0zv26fk> <sports.sports_team_roster.player> "Seth Trembly" .
+<Steven_Christopher_Parker> <common.topic.webpage> "m.04lr7tk" .
+<Christine_Scanlan> <people.person.place_of_birth> "Littleton" .
+<Renee_Chenault-Fattah> <freebase.valuenotation.has_value> "Parents" .
+<Arapahoe_County> <location.statistical_region.population> "m.0k6mlr8" .
+<TV_Personality> <freebase.type_profile.strict_included_types> "Agent" .
+<Daniel_Rohrbough> <people.deceased_person.place_of_burial> "Littleton Cemetery" .
+<Littleton_Cemetery> <location.location.containedby> "Littleton" .
+<Patrick_Elsenbast> <people.person.parents> "Susan Elsenbast" .
+<Columbine_High_School> <education.educational_institution.students_graduates> "m.0_lc2cn" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011f9yg3" .
+<Steven_Christopher_Parker> <common.topic.notable_types> "TV Actor" .
+<Dave_Grusin> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bnf_qf" .
+<Mark_Holzemer> <common.topic.article> "m.0csk62" .
+<Craig_Thompson> <common.topic.article> "m.04cw523" .
+<AMC_Highlands_Ranch_24> <common.topic.notable_types> "Venue" .
+<Columbine_High_School_massacre> <base.ontologies.ontology_instance.equivalent_instances> "m.09km124" .
+<Mark_Huismann> <people.person.place_of_birth> "Littleton" .
+<m.0dhfscm> <common.topic.notable_types> "Location" .
+<Steven_Christopher_Parker> <film.actor.film> "m.0tl8q_x" .
+<Debbie_Brinkman> <people.person.nationality> "United States of America" .
+<Heather_Robinson> <common.topic.article> "m.02x5tc0" .
+<Profession> <type.property.schema> "Person" .
+<Claude_Burton> <common.topic.notable_types> "Deceased Person" .
+<Politician> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0wltxbd> <people.place_lived.person> "Steve Mott" .
+<Denver> <location.location.time_zones> "Mountain Time Zone" .
+<Ross_Lynch> <people.person.nationality> "United States of America" .
+<Allan_Kayser> <common.topic.notable_for> "g.125bxmxs0" .
+<Marc_Senter> <film.actor.film> "m.0g41k8p" .
+<Statistical_region> <type.type.domain> "Location" .
+<Arapahoe_County> <location.statistical_region.population> "m.066df52" .
+<Ross_Lynch> <award.award_winner.awards_won> "m.0y4v7zx" .
+<m.0n1m6q5> <education.education.student> "John Matthews" .
+<Aurora> <location.location.containedby> "Douglas County" .
+<m.03jpzf8> <location.adjoining_relationship.adjoins> "Arapahoe County" .
+<m.0hjdwh7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Heather_Robinson> <film.actor.film> "m.04j1nhf" .
+<80124-5128> <common.topic.notable_for> "g.1yj4hcwmc" .
+<Abaigeal_Hunter_McCool> <common.topic.notable_types> "Person or entity appearing in film" .
+<Knight-Wood_House> <common.topic.notable_types> "Location" .
+<Guitarist> <people.profession.specialization_of> "Musician" .
+<Valor_Christian_High_School> <education.educational_institution.campuses> "Valor Christian High School" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwb0" .
+<Disaster> <freebase.type_profile.published> "Published" .
+<Film_Producer> <people.profession.corresponding_type> "Film producer" .
+<Debbie_Brinkman> <people.person.gender> "Female" .
+<Steven_Christopher_Parker> <film.actor.film> "m.0vvg_s0" .
+<Littleton> <location.location.people_born_here> "Melissa Benoist" .
+<All_That_Remains> <film.film.starring> "m.0gfpg9m" .
+<Daniel_Rohrbough> <people.person.gender> "Male" .
+<John_Goscha> <common.topic.notable_for> "g.1yl5wty19" .
+<Castlewood> <location.location.containedby> "Colorado" .
+<m.0bnjszp> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<Dated_location> <freebase.type_hints.included_types> "Location" .
+<Lucy_Wheeler> <people.person.children> "Lucinda Polly Hoar" .
+<Littleton> <periodicals.newspaper_circulation_area.newspapers> "Columbine Community Courier" .
+<80125> <location.location.containedby> "Douglas County" .
+<m.0hjdwbx> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Marc_Senter> <film.actor.film> "m.0gcjv8v" .
+<Austin_Haldorson> <people.person.gender> "Male" .
+<Littleton> <location.statistical_region.population> "m.0hkcydf" .
+<m.0wll4fv> <government.political_party_tenure.politician> "Gregory A. Phillips" .
+<Musician> <freebase.type_hints.included_types> "Topic" .
+<Claude_Burton> <common.topic.notable_for> "g.125gs6gf4" .
+<Littleton> <location.location.contains> "Clement Park" .
+<Arapahoe_County> <location.location.geolocation> "m.0k8ln2" .
+<Ryan_Miller> <common.topic.notable_types> "American football player" .
+<Location> <type.type.properties> "Time zone(s)" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "Village" .
+<US_County> <type.type.domain> "Location" .
+<m.0gc82nq> <film.performance.actor> "Ben Larned" .
+<m.0h8m0w1> <film.personal_film_appearance.person> "Jack Morrison McCool" .
+<Christine_Scanlan> <government.politician.party> "g.11b7vypbjl" .
+<Steve_Mott> <american_football.football_player.position_s> "Center" .
+<Deer_Creek_Public_Schools> <education.school_district.schools> "Deer Creek Middle School" .
+<m.0cnn1q1> <location.mailing_address.postal_code> "80123" .
+<Nicholas_Kole> <common.topic.notable_for> "g.1259tdp_j" .
+<Robert_Orban> <people.person.place_of_birth> "Littleton" .
+<Littleton_Independent> <book.newspaper.circulation_areas> "Littleton" .
+<Richard_Castaldo> <freebase.valuenotation.has_value> "Parents" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "Steven Curnow" .
+<Denver> <location.citytown.postal_codes> "80123" .
+<Foxfield> <location.hud_county_place.county> "Arapahoe County" .
+<80166> <common.topic.notable_types> "Postal Code" .
+<Brenden_Urban> <people.person.gender> "Male" .
+<Brian_Rieger> <freebase.valuenotation.has_value> "Parents" .
+<Kyle_Velasquez> <people.person.gender> "Male" .
+<Josh_Crist> <film.film_art_director.films_art_directed> "The Overbrook Brothers" .
+<m.0bnhvp_> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<Foxfield> <location.location.time_zones> "Mountain Time Zone" .
+<m.0w0_sqj> <music.group_membership.member> "Ross Lynch" .
+<Littleton> <location.location.adjoin_s> "m.040v_rf" .
+<Mark_Holzemer> <common.topic.notable_types> "Baseball Player" .
+<Littleton> <location.location.people_born_here> "Patrick Elsenbast" .
+<Renee_Chenault-Fattah> <people.person.education> "m.09sd4dq" .
+<Brad_Gumm> <common.topic.article> "m.0462k5l" .
+<m.0wh2xf8> <people.place_lived.person> "Craig Thompson" .
+<American_football_player> <freebase.type_profile.published> "Published" .
+<Castle_Rock> <location.hud_county_place.place> "Castle Rock" .
+<Arapahoe_Community_College> <education.educational_institution.school_type> "Community college" .
+<Dated_location> <freebase.type_profile.published> "Published" .
+<Denver> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0w56_p_> <education.education.institution> "Denver Seminary" .
+<80161> <location.postal_code.country> "United States of America" .
+<Ross_Lynch> <music.artist.album> "Austin & Ally" .
+<m.0gm2c68> <film.performance.actor> "Brian Rieger" .
+<College/University> <freebase.type_profile.strict_included_types> "Agent" .
+<Denver-Aurora,_CO_MSA_HUD_Section_8_Area> <location.hud_section_8_area.county> "Denver" .
+<Brad_Gumm> <film.actor.film> "m.0h11jqw" .
+<Renee_Chenault-Fattah> <people.person.gender> "Female" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bnfszn" .
+<Mark_Huismann> <baseball.baseball_player.batting_stats> "m.06qxv__" .
+<m.02t8g__> <tv.regular_tv_appearance.actor> "Allan Kayser" .
+<Columbine_High_School_massacre> <time.event.locations> "Littleton" .
+<m.0hkcyc9> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mark_Dylla> <common.topic.notable_for> "g.12574w7c2" .
+<Olympic_athlete> <freebase.type_hints.included_types> "Topic" .
+<m.0zv26fk> <sports.sports_team_roster.position> "Midfielder" .
+<Stephen_Keel> <common.topic.notable_types> "Football player" .
+<Sam_Stratton> <people.person.place_of_birth> "Littleton" .
+<m.0w56k0m> <education.education.student> "Steve Mott" .
+<Marc_Senter> <film.actor.film> "m.0yq05h0" .
+<Scott_Korte> <people.person.gender> "Male" .
+<Arapahoe_County> <location.statistical_region.population> "g.12vqjb2nq" .
+<William_David_Sanders> <people.person.nationality> "United States of America" .
+<Zac_Robinson> <sports.pro_athlete.sports_played_professionally> "m.0d5x299" .
+<Empire_Beauty_School-Littleton> <location.location.containedby> "United States of America" .
+<m.0_lc2cn> <education.education.institution> "Columbine High School" .
+<Littleton> <location.location.people_born_here> "Brenden Urban" .
+<Rachel_Scott> <people.deceased_person.place_of_death> "Columbine" .
+<A.J._Isenburg> <freebase.valuenotation.has_value> "Date of birth" .
+<Claude_Burton> <people.person.profession> "Race car driver" .
+<m.0w5bk8l> <sports.sports_team_roster.position> "Forward" .
+<Empire_Beauty_School-Littleton> <organization.organization.phone_number> "m.0qzkk6m" .
+<Englewood> <location.location.containedby> "Colorado" .
+<Arapahoe_County> <common.topic.notable_for> "g.125bp11dl" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Arapahoe County / Columbine CDP" .
+<Travis_Shakespeare> <people.person.gender> "Male" .
+<Denver> <location.location.containedby> "Colorado" .
+<m.0hjdwcb> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Greenwood_Village> <location.hud_county_place.place> "Greenwood Village" .
+<Rocky_Lynch> <people.person.profession> "Singer" .
+<Arapahoe_Community_College> <education.university.local_tuition> "m.0k7dltx" .
+<Attempted_murder> <base.fight.crime_type.crimes_of_this_type> "Columbine High School massacre" .
+<Aurora> <base.biblioness.bibs_location.state> "Colorado" .
+<Greenwood_Village> <location.location.time_zones> "Mountain Time Zone" .
+<Geneva_Home> <common.topic.notable_types> "Location" .
+<m.0zc4cyv> <sports.pro_sports_played.athlete> "Tanner Harrison" .
+<Jack_Harris> <sports.pro_athlete.teams> "m.0z8gymf" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckk2n" .
+<m.0wh1tg4> <people.place_lived.person> "Brad Gumm" .
+<Brian_Rieger> <people.person.nationality> "United States of America" .
+<Gregory_A._Phillips> <common.topic.notable_for> "g.125fq715r" .
+<m.06qxwdr> <baseball.batting_statistics.player> "Mark Huismann" .
+<My_Lai> <film.film.country> "United States of America" .
+<Walt_Disney_Records> <music.record_label.artist> "Ross Lynch" .
+<Tanner_Harrison> <sports.pro_athlete.sports_played_professionally> "m.0zc4cyv" .
+<Heather_Robinson> <common.topic.webpage> "m.0cqnr3f" .
+<Newspaper> <freebase.type_profile.kind> "Definition" .
+<Mark_Holzemer> <sports.pro_athlete.sports_played_professionally> "m.0d5_w4l" .
+<m.0n1kpv8> <education.education.institution> "Columbine High School" .
+<Toad_Tavern> <location.location.containedby> "Littleton" .
+<m.0zc4h_m> <sports.pro_sports_played.athlete> "Gasper Dominici" .
+<Claude_Burton> <common.topic.article> "m.027754d" .
+<Rydel_Lynch> <people.person.nationality> "United States of America" .
+<Mass_murder> <base.fight.crime_type.crimes_of_this_type> "Columbine High School massacre" .
+<m.0cp_pyq> <common.webpage.category> "Official Website" .
+<Ross_Lynch> <people.person.profession> "Singer" .
+<Abaigeal_Hunter_McCool> <people.person.sibling_s> "m.0h8m4m7" .
+<m.0w5kt6d> <education.education.student> "Danny Spond" .
+<Littleton> <location.citytown.postal_codes> "80161" .
+<m.0wlznx7> <people.place_lived.person> "Mark Huismann" .
+<m.0hjdwfp> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Daniel_Mauser> <common.topic.notable_types> "Person or entity appearing in film" .
+<m.0wkc22n> <people.place_lived.person> "Mark Holzemer" .
+<m.03l828w> <common.webpage.topic> "Allan Kayser" .
+<Jefferson_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Children> <type.property.master_property> "Parents" .
+<Columbine> <location.location.events> "Columbine High School massacre" .
+<Riker_Lynch> <people.person.profession> "Musician" .
+<Deer_Trail> <location.hud_county_place.place> "Deer Trail" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Abstract" .
+<Molly_Jacobs> <people.person.gender> "Female" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1jxjmc" .
+<80120> <location.postal_code.country> "United States of America" .
+<Musical_Artist> <freebase.type_profile.published> "Published" .
+<All_That_Remains> <film.film.produced_by> "Travis Shakespeare" .
+<Littleton> <location.location.people_born_here> "Gasper Dominici" .
+<Littleton> <common.topic.notable_for> "g.1258z739b" .
+<80129> <location.postal_code.country> "United States of America" .
+<Arapahoe_Community_College> <common.topic.article> "m.07tjt1" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "John Tomlin" .
+<Hudson_Gardens> <common.topic.notable_for> "g.12587yx3r" .
+<Seventh_grade> <education.grade_level.locations_used> "United States of America" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "Daniel Mauser" .
+<m.0j4kzw6> <people.marriage.spouse> "Lucinda Polly Hoar" .
+<Centennial_Airport> <aviation.airport.serves> "Arapahoe County" .
+<m.0t_81g5> <film.performance.actor> "Marc Senter" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Evan Todd" .
+<Screenwriter> <people.profession.specialization_of> "Writer" .
+<Melissa_Benoist> <people.person.nationality> "United States of America" .
+<Englewood> <location.location.containedby> "United States of America" .
+<Lucy_Wheeler> <freebase.valuenotation.has_value> "Country of nationality" .
+<Steven_Christopher_Parker> <people.person.gender> "Male" .
+<Columbine_High_School_massacre> <event.disaster.type_of_disaster> "Killing spree" .
+<m.05psbsq> <base.crime.crime_accusation.crime> "Columbine High School massacre" .
+<Abaigeal_Hunter_McCool> <common.topic.article> "m.0h8m4n7" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<Renee_Chenault-Fattah> <people.person.nationality> "United States of America" .
+<80160> <common.topic.notable_types> "Postal Code" .
+<Austin_Haldorson> <common.topic.notable_types> "Basketball Player" .
+<Empire_Beauty_School-Littleton> <location.location.containedby> "Littleton" .
+<Marc_Senter> <film.actor.film> "m.0gcj2vl" .
+<Littleton> <location.location.people_born_here> "Joe Hansley" .
+<m.09k16p3> <film.performance.actor> "Cody Longo" .
+<m.0w94l5f> <soccer.football_player_stats.player> "Craig Thompson" .
+<Glendale> <location.location.time_zones> "Mountain Time Zone" .
+<Tanner_Harrison> <common.topic.notable_for> "g.1yh9sythp" .
+<Steven_Christopher_Parker> <tv.tv_actor.guest_roles> "m.0bnhvp_" .
+<Byers> <location.hud_county_place.county> "Arapahoe County" .
+<m.0bnghxp> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<Steven_Christopher_Parker> <common.topic.notable_for> "g.1254yr2vx" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwh7" .
+<m.0hkcy9z> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Arapahoe_Community_College> <common.topic.image> "ArapahoeCommunityCollege" .
+<Abaigeal_Hunter_McCool> <people.person.place_of_birth> "Littleton" .
+<Cody_Longo> <celebrities.celebrity.sexual_relationships> "m.09k17ds" .
+<m.0j4mmx2> <people.marriage.spouse> "Renee Chenault-Fattah" .
+<Baseball_Player> <freebase.type_profile.strict_included_types> "Topic" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Arapahoe County / County Place 0800599999" .
+<Littleton> <location.location.people_born_here> "John Matthews" .
+<Football_player> <freebase.type_hints.included_types> "Topic" .
+<m.011qg_jx> <sports.sports_team_roster.player> "Ryan Miller" .
+<Molly_Jacobs> <people.person.profession> "Screenwriter" .
+<Denver_Seminary> <education.educational_institution.total_enrollment> "m.0jxph7h" .
+<Ross_Lynch> <music.artist.track> "Like Me" .
+<Riker_Lynch> <film.actor.film> "m.0v1zccl" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1l34wb" .
+<Molly_Jacobs> <freebase.valuenotation.is_reviewed> "Gender" .
+<80120> <common.topic.notable_types> "Postal Code" .
+<Dean_Lee_Hansen> <people.person.places_lived> "g.11btvc6gm8" .
+<Littleton> <location.statistical_region.population> "g.11x1dmb9j" .
+<m.0kg6l3l> <common.webpage.topic> "Mark Dylla" .
+<TV_Personality> <freebase.type_profile.published> "Published" .
+<Mountain_Time_Zone> <common.topic.image> "Timezoneswest" .
+<m.0q46mbc> <film.performance.actor> "Ben Larned" .
+<Foxfield> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<Riker_Lynch> <people.person.profession> "Dancer" .
+<Zac_Robinson> <common.topic.article> "m.03gxy_s" .
+<Molly_Burnett> <people.person.profession> "Actor" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Sheridan" .
+<Littleton> <common.topic.notable_types> "City/Town/Village" .
+<Littleton> <location.statistical_region.population> "m.0jtdm9s" .
+<m.05psc6g> <base.crime.crime_accusation.crime> "Columbine High School massacre" .
+<Littleton> <location.location.people_born_here> "Ryan Miller" .
+<Mountain_Time_Zone> <time.time_zone.day_dst_begins> "Second Sunday in March" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011tz0b1" .
+<Arapahoe_Community_College> <location.location.containedby> "United States of America" .
+<Aurora> <location.location.containedby> "Arapahoe County" .
+<Children> <type.property.expected_type> "Person" .
+<A.J._Isenburg> <sports.pro_athlete.teams> "m.0zmr817" .
+<Englewood> <base.wikipedia_infobox.settlement.area_code> "Area codes 303 and 720" .
+<m.0cnn1q1> <location.mailing_address.citytown> "Littleton" .
+<Austin_Haldorson> <people.person.nationality> "United States of America" .
+<Arapahoe_County> <location.statistical_region.co2_emissions_commercial> "m.045jnq2" .
+<Molly_Burnett> <people.person.education> "m.0w5b8r7" .
+<Robert_Orban> <sports.pro_athlete.teams> "m.0z93sjq" .
+<Ben_Larned> <film.actor.film> "m.0q46mbc" .
+<William_David_Sanders> <people.deceased_person.place_of_death> "Littleton" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Mark Kintgen" .
+<Zac_Robinson> <sports.pro_athlete.teams> "m.0hpr159" .
+<Austin_Haldorson> <common.topic.notable_for> "g.12ml1frkl" .
+<m.0qdq_y8> <sports.sports_team_roster.player> "Stephen Keel" .
+<Steve_Korte> <people.person.place_of_birth> "Littleton" .
+<Arapahoe_County> <location.statistical_region.population> "m.066df4q" .
+<Colorado> <location.location.containedby> "United States of America" .
+<Littleton> <location.location.people_born_here> "Janet Culp" .
+<80162> <location.postal_code.country> "United States of America" .
+<Allan_Kayser> <film.actor.film> "g.11b6q2hf9g" .
+<Marc_Senter> <freebase.valuenotation.has_value> "Date of birth" .
+<Bobby_Deerfield> <film.film.music> "Dave Grusin" .
+<80130> <location.postal_code.country> "United States of America" .
+<Sheridan> <location.location.containedby> "Colorado" .
+<Arapahoe_County> <location.location.adjoin_s> "m.03jpgvx" .
+<Ben_Larned> <people.person.place_of_birth> "Littleton" .
+<80126> <common.topic.notable_for> "g.1255hfpqw" .
+<Columbine_High_School_massacre> <base.disaster2.death_causing_event.person_killed> "Cassie Bernall" .
+<Littleton> <location.citytown.postal_codes> "80120" .
+<m.0ppgq3k> <organization.non_profit_registration.non_profit_organization> "Denver Seminary" .
+<Ross_Lynch> <tv.tv_program_guest.appeared_on> "m.0vxy3p8" .
+<Kris_Bergstrom> <common.topic.notable_types> "Musical Artist" .
+<Littleton_Independent> <book.newspaper.circulation_areas> "Arapahoe County" .
+<Denver> <location.location.nearby_airports> "Centennial Airport" .
+<Molly_Jacobs> <people.person.nationality> "United States of America" .
+<Littleton> <location.location.people_born_here> "Brad Gumm" .
+<m.03l828w> <common.webpage.category> "Official Website" .
+<Heather_Robinson> <common.topic.notable_for> "g.1259dwdfs" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwfx" .
+<Zac_Robinson> <people.person.sibling_s> "m.0j377qd" .
+<Craig_Thompson> <people.person.place_of_birth> "Littleton" .
+<School> <freebase.type_profile.strict_included_types> "Topic" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011vl2ss" .
+<m.010rv55p> <film.performance.actor> "Steven Christopher Parker" .
+<Littleton_Main_Street> <common.topic.notable_for> "g.126sh_25c" .
+<Time_Zone> <freebase.type_profile.strict_included_types> "Topic" .
+<Manson_Family_Murders> <base.crime.crime.victim_s> "g.113qbkxt0" .
+<Centennial_Citizen> <book.newspaper.circulation_areas> "Littleton" .
+<Gasper_Dominici> <common.topic.notable_for> "g.1yg57tk8x" .
+<Marc_Senter> <film.actor.film> "m.012zhr6h" .
+<Cassie_Bernall> <people.person.place_of_birth> "Denver" .
+<Sam_Stratton> <people.person.parents> "Mike Stratton" .
+<Highlands_Ranch_Herald> <common.topic.notable_for> "g.125fyppsg" .
+<Brawler> <film.film.country> "United States of America" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1gr_z7" .
+<Arapahoe_County> <location.statistical_region.population> "g.12b0208mh" .
+<Columbine_High_School_massacre> <base.culturalevent.event.entity_involved> "Columbine High School" .
+<Knight-Wood_House> <common.topic.image> "Knight-Wood House" .
+<Arapahoe_Community_College> <organization.organization.headquarters> "m.0cnnxv4" .
+<m.0yq05h0> <film.performance.actor> "Marc Senter" .
+<Arapahoe_County> <location.statistical_region.population> "m.066df5v" .
+<Shareece_Pfeiffer> <freebase.valuenotation.has_value> "Parents" .
+<Arapahoe_Community_College> <location.location.containedby> "Colorado" .
+<m.0wh0z42> <people.place_lived.location> "Littleton" .
+<Denver_Seminary> <common.topic.webpage> "m.0cp_pyq" .
+<The_Overbrook_Brothers> <film.film.film_art_direction_by> "Josh Crist" .
+<m.0k6mlr8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hkcy9j> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Musical_Artist> <freebase.type_profile.strict_included_types> "Agent" .
+<Deer_Creek_Middle_School> <common.topic.article> "m.025z3td" .
+<Littleton> <location.location.people_born_here> "J.D. Corbin" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdw9l" .
+<Stephen_Keel> <base.schemastaging.athlete_extra.salary> "m.0j33qzt" .
+<m.0jvw1x2> <location.administrative_division_capital_relationship.administrative_division> "Arapahoe County" .
+<Abaigeal_Hunter_McCool> <people.person.parents> "Lori Howard-McCool" .
+<Area_code> <freebase.type_hints.included_types> "Dated location" .
+<Ross_Lynch> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Melissa_Benoist> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Riker_Lynch> <people.person.parents> "Stormie Lynch" .
+<Parents> <rdf-schema#domain> "Person" .
+<Arapahoe_County> <location.statistical_region.population> "m.0hjdwck" .
+<m.0bnjybz> <tv.tv_guest_role.actor> "Steven Christopher Parker" .
+<Adventures_In_Dance> <common.topic.notable_types> "Venue" .
+<TV_Personality> <freebase.type_hints.included_types> "Topic" .
+<Clement_Park> <common.topic.article> "m.0hgl13k" .
+<Littleton> <location.statistical_region.population> "g.11b66cgghr" .
+<Cherry_Hills_Village> <location.location.containedby> "Arapahoe County" .
+<Denver-Aurora_Metropolitan_Statistical_Area> <location.location.contains> "Douglas County" .
+<Marc_Senter> <freebase.valuenotation.is_reviewed> "Gender" .
+<Littleton> <location.location.contains> "Littleton Cemetery" .
+<Mark_Huismann> <common.topic.notable_types> "Baseball Player" .
+<Renee_Chenault-Fattah> <people.person.children> "Chandler Fattah" .
+<Mark_Holzemer> <people.person.places_lived> "m.0wkc22n" .
+<Steve_Mott> <american_football.football_player.forty_yard_dash_time> "m.0whvm1y" .
+<Country> <type.property.schema> "Postal Code" .
+<Ross_Lynch> <music.artist.track> "Crazy 4 U" .
+<Ross_Lynch> <award.award_nominee.award_nominations> "m.0_sh44l" .
+<80127> <location.location.containedby> "Jefferson County" .
+<Columbine_Valley> <location.location.containedby> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012_74vb" .
+<m.0hpr15j> <sports.sports_team_roster.player> "Zac Robinson" .
+<Riker_Lynch> <people.person.profession> "Guitarist" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Deer Trail" .
+<Alex_Novosel> <people.person.nationality> "United States of America" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Brian Anderson" .
+<80128> <location.location.containedby> "Jefferson County" .
+<80165> <common.topic.notable_for> "g.125bw8_05" .
+<US_County> <freebase.type_hints.included_types> "Dated location" .
+<Arapahoe_County> <location.location.adjoin_s> "m.03jpzf8" .
+<Tanner_Harrison> <people.person.nationality> "United States of America" .
+<Littleton> <location.location.people_born_here> "Christine Scanlan" .
+<Country_of_nationality> <rdf-schema#domain> "Person" .
+<Littleton> <location.location.people_born_here> "Sam Stratton" .
+<Nicholas_Kole> <common.topic.notable_types> "Person" .
+<Englewood> <location.location.time_zones> "Mountain Time Zone" .
+<Sam_Stratton> <common.topic.notable_types> "Athlete" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Sean Graves" .
+<Columbine> <location.location.containedby> "Arapahoe County" .
+<Danny_Spond> <people.person.education> "m.0w5kt6d" .
+<m.0hjdwh0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Cherry_Hills_Village> <location.location.time_zones> "Mountain Time Zone" .
+<Columbine_Community_Courier> <common.topic.notable_types> "Newspaper" .
+<80125> <location.postal_code.country> "United States of America" .
+<Brian_Rieger> <common.topic.notable_for> "g.125ccrl9x" .
+<Alex_Novosel> <sports.pro_athlete.teams> "m.0zbfxkt" .
+<Marc_Senter> <people.person.place_of_birth> "Littleton" .
+<Austin_Haldorson> <sports.pro_athlete.sports_played_professionally> "m.0w5h_zd" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0114s4js" .
+<Littleton_Independent> <common.topic.notable_types> "Newspaper" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1fdjqg" .
+<Dave_Grusin> <freebase.valuenotation.is_reviewed> "Gender" .
+<Person> <type.type.properties> "Profession" .
+<80126> <location.postal_code.country> "United States of America" .
+<m.0jstv73> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1fx9cf" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1j342d" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Austin Eubanks" .
+<Rydel_Lynch> <people.person.place_of_birth> "Littleton" .
+<Littleton> <location.location.people_born_here> "Travis Shakespeare" .
+<Gasper_Dominici> <people.person.gender> "Male" .
+<m.0cnpl9z> <location.mailing_address.state_province_region> "Colorado" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h5200" .
+<Castlewood> <location.location.containedby> "United States of America" .
+<80122> <common.topic.notable_types> "Postal Code" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1mn8p_" .
+<Englewood> <location.hud_county_place.county> "Arapahoe County" .
+<Littleton> <location.location.people_born_here> "Josh Crist" .
+<Steve_Korte> <common.topic.notable_for> "g.1257j4dk_" .
+<Arapahoe_County> <location.us_county.hud_county_place> "Englewood" .
+<TV_Producer> <freebase.type_profile.strict_included_types> "Topic" .
+<Empire_Beauty_School-Littleton> <common.topic.article> "m.0qzkjzh" .
+<Ross_Lynch> <people.person.parents> "Mark Lynch" .
+<North_America> <location.location.time_zones> "Mountain Time Zone" .
+<Celebrity> <freebase.type_profile.published> "Published" .
+<Disaster> <freebase.type_profile.kind> "Definition" .
+<Football_player> <freebase.type_profile.strict_included_types> "Person" .
+<m.0zv2rk9> <sports.sports_team_roster.player> "Craig Thompson" .
+<m.0_l5cwd> <education.education.institution> "Denver Seminary" .
+<Columbine_High_School_massacre> <book.book_subject.works> "Columbine High School Massacre: The FBI Files" .
+<Film_production_designer> <freebase.type_profile.equivalent_topic> "Production Designer" .
+<Jack_Harris> <sports.pro_athlete.sports_played_professionally> "m.0zc4drr" .
+<Arapahoe_County> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07jfb_0" .
+<Zac_Robinson> <people.person.gender> "Male" .
+<80122> <location.location.geolocation> "m.03dnsl3" .
+<Musician> <freebase.equivalent_topic.equivalent_type> "Musician" .
+<Columbine_High_School_massacre> <event.disaster.victims> "Kyle Velasquez" .
+<Columbine_High_School_massacre> <event.disaster.survivors> "Jeanna Park" .
+<Arapahoe_County> <location.us_county.county_seat> "Littleton" .
+<m.0hkcydf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Mark_Huismann> <people.person.profession> "Baseball player" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Abstract" .
+<Columbine_High_School_massacre> <base.crime.crime.victim_s> "Steven Curnow" .
+<Gasper_Dominici> <people.person.nationality> "United States of America" .
+<m.0hkcybw> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Arapahoe_Community_College> <education.university.domestic_tuition> "m.0k7frjf" .
+<Steven_Christopher_Parker> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0z87kjs> <film.performance.actor> "Marc Senter" .
+<m.0hjdwgt> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<School> <freebase.type_profile.strict_included_types> "Agent" .
+<Mark_Huismann> <sports.pro_athlete.sports_played_professionally> "m.0d68dcs" .
+<Lucy_Wheeler> <freebase.valuenotation.has_value> "Parents" .
+<Cody_Longo> <people.person.gender> "Male" .
+<Scott_Korte> <freebase.valuenotation.has_value> "Date of birth" .
+<Cemetery> <freebase.type_profile.published> "Published" .
+<Denver> <location.us_county.county_seat> "Denver" .
+<Littleton> <location.location.people_born_here> "Danny Spond" .
+<Tanner_Harrison> <people.person.place_of_birth> "Littleton" .
+<Columbine_Valley> <location.location.time_zones> "Mountain Time Zone" .
+<Littleton> <location.location.people_born_here> "Dave Grusin" .
+<Olympic_athlete> <freebase.type_profile.strict_included_types> "Person" .
+<AMC_Highlands_Ranch_24> <location.location.containedby> "Littleton" .
+<Brady_Daigh> <people.person.place_of_birth> "Littleton" .
+<Arapahoe_County> <location.statistical_region.population> "g.11x1kz12_" .
+<Rocky_Lynch> <common.topic.notable_for> "g.12h2_d9zr" .

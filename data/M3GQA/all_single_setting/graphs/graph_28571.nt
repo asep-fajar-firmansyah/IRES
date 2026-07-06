@@ -1,0 +1,1331 @@
+<Kazakh_Soviet_Socialist_Republic> <base.schemastaging.context_name.pronunciation> "g.125_mrq5b" .
+<Dmitri_Mamleev> <people.deceased_person.place_of_death> "Moscow" .
+<Eastern_Front> <time.event.locations> "Europe" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.0bb_lcn" .
+<Currency> <type.type.expected_by> "Currency" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.0cb_npm" .
+<Currency_Formerly_Used> <rdf-schema#range> "Currency" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Abdulla Oripov" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Alexander Bedritsky" .
+<Tbilisi_Aircraft_Manufacturing> <organization.organization.founders> "Soviet Union" .
+<Sputnik_1_Mission> <time.event.included_in_event> "Sputnik program" .
+<Tatsinskaya_Raid> <time.event.included_in_event> "Eastern Front" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "Valentina Popova" .
+<m.04fvhtr> <military.military_command.military_combatant> "Soviet Union" .
+<Currency> <type.type.expected_by> "Currency" .
+<Soviet_Union> <sports.sports_team_location.teams> "Soviet Union women's national volleyball team" .
+<Soviet_Union> <freebase.valuenotation.has_no_value> "Currency Used" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <common.topic.article> "m.01ht73" .
+<m.09k1s_4> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_ruble> <finance.currency.countries_used> "Uzbek Soviet Socialist Republic" .
+<Soviet_Union> <military.military_combatant.force_deployments> "m.04mk8vg" .
+<Soviet_Union> <location.location.partially_contained_by> "m.0wg8kz6" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b6x99vzd" .
+<Countries_Used> <type.property.expected_type> "Country" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k1t1n" .
+<Soviet_Union> <sports.sport_country.athletic_performances> "m.0bnfcfb" .
+<Soviet_Union> <location.location.events> "Romanian Armies in the Battle of Stalingrad" .
+<Battle_of_Voronezh> <time.event.locations> "Soviet Union" .
+<Baltic_region> <location.location.contains> "Latvian Soviet Socialist Republic" .
+<Battle_of_Brody> <time.event.locations> "Soviet Union" .
+<Estonian_Soviet_Socialist_Republic> <location.country.form_of_government> "Socialist state" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.120xpb8j" .
+<Andrius_Upstas> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<m.0h_1h53> <government.national_anthem_of_a_country.country> "Soviet Union" .
+<Soviet_Union> <military.military_combatant.force_deployments> "m.04kb16c" .
+<Soviet_Union> <military.military_combatant.casualties> "m.04mk8w1" .
+<Countries_Formerly_Used> <type.property.reverse_property> "Currency Formerly Used" .
+<Oybek_Usmankhojaev> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.121yhfn1" .
+<Norayr_Sahakyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Raimonds Laizāns" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k1t0d" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <location.location.people_born_here> "g.121n4cfp" .
+<Central_Committee_of_the_Communist_Party_of_the_Soviet_Union> <government.governmental_body.members> "m.049x6z5" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <location.location.events> "g.1227p_ld" .
+<m.09k1t14> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<m.09k1t0n> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Sergei_Martynov> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1q61cybl6" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Aram Margaryan" .
+<Soviet_Union> <location.country.languages_spoken> "Tatar Language" .
+<Currency> <type.type.expected_by> "Currency" .
+<Soviet_Union> <location.location.events> "Taganrog during World War II" .
+<Soviet_ruble> <finance.currency.countries_used> "Azerbaijan Soviet Socialist Republic" .
+<Edward_Hovhannisyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Soviet_Union> <base.unitednations.united_nations_member_state.member_of> "m.08__h_j" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11r80wd4l" .
+<Country> <freebase.type_profile.published> "Published" .
+<Soviet_Union> <military.military_combatant.casualties> "m.04ml3k9" .
+<Khagani_Mammadov> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Artashes Arakelyan" .
+<1991_Soviet_coup_d'état_attempt> <base.culturalevent.event.entity_involved> "Russian Soviet Federative Socialist Republic" .
+<United_Nations> <organization.organization.founders> "Soviet Union" .
+<Azerbaijan_Soviet_Socialist_Republic> <business.employer.employees> "m.02wh5mg" .
+<Latvian_Soviet_Socialist_Republic> <location.location.events> "g.1213p0l7" .
+<Soviet_Union> <military.military_combatant.armed_forces> "Red Army" .
+<Romeo_Jenebyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Central_Committee_of_the_Communist_Party_of_the_Soviet_Union> <government.governmental_body.members> "m.049x6_x" .
+<Soviet_Union> <location.location.events> "Operation Barbarossa" .
+<m.0b471zt> <common.webpage.topic> "Soviet Union" .
+<Soviet_Union> <base.schemastaging.context_name.pronunciation> "m.011sdx21" .
+<Location_of_Soviet_Union> <common.image.appears_in_topic_gallery> "Soviet Union" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Oleg Artemyev" .
+<Soviet_Union> <location.location.contains> "Latvian Soviet Socialist Republic" .
+<Operation_Wotan> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Kamenets-Podolsky_Pocket> <time.event.locations> "Soviet Union" .
+<Alvis_Vītoliņš> <people.person.place_of_birth> "Latvian Soviet Socialist Republic" .
+<General_Secretary_of_the_Communist_Party_of_the_Soviet_Union> <government.government_office_or_title.governmental_body_if_any> "Central Committee of the Communist Party of the Soviet Union" .
+<Currency> <type.type.expected_by> "Currency" .
+<Defense_of_the_Adzhimushkay_quarry> <time.event.included_in_event> "Eastern Front" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.events> "Baku pogrom" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Bahodir Pardaev" .
+<Soviet_Union> <military.military_combatant.force_deployments> "m.02h783h" .
+<Currency> <freebase.type_profile.kind> "Definition" .
+<m.049x6yv> <government.government_position_held.governmental_body> "Central Committee of the Communist Party of the Soviet Union" .
+<Currency_Used> <type.property.schema> "Country" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Arsen Miskarov" .
+<Soviet_Union> <location.location.partially_contained_by> "m.0wg8l4s" .
+<Tuvan_People's_Republic> <location.country.official_language> "Russian Language" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <base.schemastaging.context_name.pronunciation> "g.125_n6rk6" .
+<Armenian_Soviet_Socialist_Republic> <common.topic.notable_types> "Country" .
+<Soviet_Union> <location.statistical_region.population> "m.08cxfz2" .
+<Crimean_Offensive> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Umid Isoqov" .
+<Soviet_Union> <location.country.languages_spoken> "Ukrainian Language" .
+<Soviet_Union> <location.location.contains> "Almaty Tower" .
+<Orsha_offensives> <time.event.included_in_event> "Eastern Front" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq897" .
+<Mars_program> <spaceflight.space_program.sponsor> "Soviet Union" .
+<Remigijus_Pocius> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Soviet_Union> <military.military_combatant.force_deployments> "m.04mk8tm" .
+<Soviet_Union> <film.film_subject.films> "Friesennot" .
+<Armenian_Soviet_Socialist_Republic> <location.country.currency_used> "Soviet ruble" .
+<Soviet_Union> <location.location.events> "Axis and Soviet air operations during Operation Barbarossa" .
+<Soviet_Union> <location.location.contains> "Bukharan People's Soviet Republic" .
+<Governmental_Jurisdiction> <freebase.type_profile.strict_included_types> "Location" .
+<Russian_Soviet_Federative_Socialist_Republic> <location.location.contains> "Moscow" .
+<Raimonds_Laizāns> <people.person.place_of_birth> "Latvian Soviet Socialist Republic" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Konstantin Bondarev" .
+<Soviet_Union> <location.statistical_region.population> "m.08cxfyq" .
+<Yuriy_Melnichenko> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Europe> <location.location.partially_contains> "Soviet Union" .
+<m.04dq7d4> <olympics.olympic_athlete_affiliation.athlete> "David Hambartsumyan" .
+<Currency> <freebase.type_profile.equivalent_topic> "Currency" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k1t14" .
+<Berador_Abduraimov> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Anatoli Gorbachyov" .
+<Voskhod_programme> <spaceflight.space_program.sponsor> "Soviet Union" .
+<Georgian_Soviet_Socialist_Republic> <location.location.contains> "Kutaisi" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Marat Aleksanian" .
+<Stanislovas_Vitkovskis> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<1991_Soviet_coup_d'état_attempt> <time.event.included_in_event> "Dissolution of the Soviet Union" .
+<Soviet_Union> <location.location.events> "Kingisepp–Gdov Offensive" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Marat Dzhumaev" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Vaidotas Šlekys" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Andrei Khripkov" .
+<Mikael_Poghosyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k1sz6" .
+<m.0vmw2k7> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Khoren Abrahamyan" .
+<Currency> <type.type.expected_by> "Currency" .
+<Vladislav_Chernyshov> <people.person.nationality> "Soviet Union" .
+<Axis_and_Soviet_air_operations_during_Operation_Barbarossa> <time.event.locations> "Soviet Union" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k1szd" .
+<Latvian_Soviet_Socialist_Republic> <location.country.form_of_government> "Single-party state" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Sanjar Kuvvatov" .
+<Andrei_Khripkov> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Leonid_Ivashov> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Governmental_Jurisdiction> <freebase.type_profile.strict_included_types> "Topic" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0pcs11v" .
+<m.09k1szx> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.0c5f3d3" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq8cl" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Norayr Sahakyan" .
+<Countries_Formerly_Used> <type.property.schema> "Currency" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Abdumalik Abdullajanov" .
+<Yuri_Salnikov> <people.person.place_of_birth> "Azerbaijan Soviet Socialist Republic" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Sergey Kutsov" .
+<Eastern_Front> <base.culturalevent.event.entity_involved> "Allies of World War II" .
+<m.049y3l9> <military.military_command.military_combatant> "Soviet Union" .
+<Kingisepp–Gdov_Offensive> <time.event.included_in_event> "Eastern Front" .
+<Azerbaijan_Soviet_Socialist_Republic> <common.topic.notable_types> "Country" .
+<Soviet_Union> <location.location.events> "1991 Soviet coup d'état attempt" .
+<Yuriy_Hudymenko> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Cold_War> <time.event.locations> "Soviet Union" .
+<Allies_of_World_War_II> <military.military_combatant.includes_allies> "Soviet Union" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Boris Gorban" .
+<David_Hambartsumyan> <olympics.olympic_athlete.country> "m.04dq7d4" .
+<Soviet_Union> <sports.sports_team_location.teams> "Soviet Union women's national handball team" .
+<m.0pds_sp> <olympics.olympic_athlete_affiliation.olympics> "1952 Summer Olympics" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Karine Kazinian" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Armen Smbatian" .
+<Operation_Wotan> <time.event.locations> "Moscow" .
+<m.049y3kw> <military.military_command.military_combatant> "Soviet Union" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Andrei Vlasichev" .
+<Latvian_Soviet_Socialist_Republic> <location.country.form_of_government> "Socialist state" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b62swn7p" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.04kb12p" .
+<Latvian_Soviet_Socialist_Republic> <location.location.events> "g.121srgj6" .
+<Soviet_Union> <location.country.form_of_government> "Parliamentary republic" .
+<Soviet_Union> <biology.breed_origin.breeds_originating_here> "Moscow Watchdog" .
+<m.0bqxvx1> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<m.0dl79fr> <military.military_command.military_combatant> "Soviet Union" .
+<Defense_of_the_Adzhimushkay_quarry> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Latvian_Language> <language.human_language.region> "Europe" .
+<Anatoli_Polosin> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Almaty_Tower> <location.location.containedby> "Soviet Union" .
+<Latvian_Soviet_Socialist_Republic> <location.country.official_language> "Russian Language" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Igors Stepanovs" .
+<Soviet_Union> <location.location.events> "Death and state funeral of Leonid Brezhnev" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Igor Valetov" .
+<Currency> <type.type.expected_by> "From Currency" .
+<Anatoly_Eiramdzhan> <people.person.place_of_birth> "Azerbaijan Soviet Socialist Republic" .
+<m.07qjy1t> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.government> "Government of the Soviet Union" .
+<Russian_Soviet_Federative_Socialist_Republic> <location.country.capital> "Moscow" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Aigars Štokenbergs" .
+<Soviet_Union> <location.location.events> "Space Race" .
+<Bukharan_People's_Soviet_Republic> <location.country.capital> "Bukhara" .
+<Sergei_Ivanov> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Arūnas Mika" .
+<Countries_Used> <type.property.reverse_property> "Currency Used" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1232jrmp" .
+<US_vs._USSR> <base.rivalries.rivalry.rival> "Soviet Union" .
+<Vyborg–Petrozavodsk_Offensive> <time.event.locations> "Karelo-Finnish Soviet Socialist Republic" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1hhzg6061" .
+<m.04mk8qq> <military.military_command.military_combatant> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b6bqdnpj" .
+<Ednan_Agayev> <people.person.place_of_birth> "Azerbaijan Soviet Socialist Republic" .
+<Orsha_offensives> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Abdulmajid Dostiev" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq8xh" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Ingrīda Circene" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Anahit Bakhshyan" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.07qtjc6" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq7rv" .
+<Soviet_Union> <location.location.events> "Battle of the Korsun–Cherkassy Pocket" .
+<Currency> <type.type.properties> "Target of exchange" .
+<Soviet_Union> <location.statistical_region.population> "m.08cxfz6" .
+<Battle_of_Smolensk> <time.event.locations> "Soviet Union" .
+<Soviet_Union> <organization.organization_founder.organizations_founded> "United Nations" .
+<m.0pds_sp> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <common.topic.notable_for> "g.1256xmsmh" .
+<Russian_Soviet_Federative_Socialist_Republic> <location.location.events> "1991 Soviet coup d'état attempt" .
+<Space_Race> <time.event.includes_event> "Sputnik 1 Mission" .
+<Asia> <location.location.partiallycontains> "m.0wg8kz6" .
+<Soviet_Union> <location.location.geolocation> "m.07yrr48" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.12245xxz" .
+<Rolandas_Džiaukštas> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Project_Dark_Gene> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<1952_Summer_Olympics> <olympics.olympic_games.athletes> "m.07qtjc6" .
+<Defense_of_the_Adzhimushkay_quarry> <time.event.locations> "Soviet Union" .
+<Chuvash_Language> <language.human_language.region> "Europe" .
+<Sino-Soviet_border_conflict> <time.event.locations> "Soviet Union" .
+<Soviet_Union> <location.location.events> "Project Dark Gene" .
+<Battle_of_Kiev> <time.event.included_in_event> "Eastern Front" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Leonid Plyushch" .
+<Povilas_Lukšys> <people.person.nationality> "Soviet Union" .
+<Tagir_Fasakhov> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Transcaucasian_Socialist_Federative_Soviet_Republic> <location.location.containedby> "Soviet Union" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.0vmx6nr" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Dmitry Dmitriyenko" .
+<m.08__h_j> <base.unitednations.united_nations_body_membership.member> "Soviet Union" .
+<Latvian_Soviet_Socialist_Republic> <location.country.currency_used> "Soviet ruble" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Tagir Fasakhov" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Anatoli Polosin" .
+<Axis_and_Soviet_air_operations_during_Operation_Barbarossa> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b75g4q93" .
+<1977_Moscow_bombings> <time.event.locations> "Moscow" .
+<Uzbek_Soviet_Socialist_Republic> <common.topic.notable_for> "g.1255yn2rl" .
+<Soviet_Union> <location.location.contains> "Ukrainian Soviet Socialist Republic" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Vitaliy Levchenko" .
+<General_Secretary_of_the_Communist_Party_of_the_Soviet_Union> <government.government_office_or_title.office_holders> "m.049x6zj" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.122bryk1" .
+<Armen_Martirosyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Soviet_Union> <location.location.adjoin_s> "m.059kvbw" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0gbv8_d" .
+<Soviet_Union> <location.statistical_region.population> "m.08cxfyl" .
+<m.09k1t1d> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <location.location.partially_containedby> "Asia" .
+<m.049x6_x> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Aleksandr Kletskov" .
+<Sino-Soviet_split> <time.event.locations> "Soviet Union" .
+<Central_Committee_of_the_Communist_Party_of_the_Soviet_Union> <government.governmental_body.members> "m.049x6yv" .
+<m.04dq7sg> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<m.02h7nmf> <military.military_command.military_combatant> "Soviet Union" .
+<Soviet_Union> <location.statistical_region.population> "m.08cxfyv" .
+<Currency> <type.type.properties> "Countries Used" .
+<m.09rkqgn> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Darius Maciulevičius" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <location.location.people_born_here> "g.120l35t7" .
+<m.09k1szd> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Marius Poškus" .
+<Anatoly_Eiramdzhan> <people.deceased_person.place_of_burial> "Baku" .
+<Soviet_Union> <location.location.contains> "Armenian Soviet Socialist Republic" .
+<Currency> <freebase.type_profile.published> "Published" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0pcr4qc" .
+<Azerbaijan_Soviet_Socialist_Republic> <common.topic.notable_for> "g.1258z_b75" .
+<Lithuanian_language> <language.human_language.region> "Europe" .
+<Emil_Kenzhesariev> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Umid Tajimov" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Yuriy Hudymenko" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Anastasia Gimazetdinova" .
+<Soviet_Union> <location.location.contains> "Kharkiv" .
+<Ministry_of_Finance> <government.government_agency.jurisdiction> "Soviet Union" .
+<Currency> <type.type.expected_by> "Payment system" .
+<m.049x6_k> <government.government_position_held.office_position_or_title> "General Secretary of the Communist Party of the Soviet Union" .
+<Battle_of_Smolensk> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq826" .
+<Kirghiz_Soviet_Socialist_Republic> <location.country.capital> "Bishkek" .
+<General_Secretary_of_the_Communist_Party_of_the_Soviet_Union> <government.government_office_or_title.office_holders> "m.049x6zw" .
+<General_Secretary_of_the_Communist_Party_of_the_Soviet_Union> <government.government_office_or_title.office_holders> "m.049x6_k" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Sergei Ivanov" .
+<Armen_Gevorgyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Countries_Formerly_Used> <rdf-schema#range> "Country" .
+<Currency_Used> <type.property.master_property> "Countries Used" .
+<Socialist_state> <government.form_of_government.countries> "Lithuanian Soviet Socialist Republic" .
+<1977_Moscow_bombings> <time.event.locations> "Soviet Union" .
+<Krasnoye_Selo–Ropsha_Offensive> <time.event.locations> "Soviet Union" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k1s_4" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.02h7nmf" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.12116xsj" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.geolocation> "m.0wrr1n_" .
+<Yahyo_Azimov> <people.person.place_of_birth> "Tajik Soviet Socialist Republic" .
+<Dmitri_Mikhailov> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "John Kirakosyan" .
+<1991_Soviet_coup_d'état_attempt> <time.event.included_in_event> "Cold War" .
+<Andrei_Vlasichev> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Battle_of_Brody> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Mihran_Manasyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Hrant Bagratyan" .
+<m.049x6zj> <government.government_position_held.governmental_body> "Central Committee of the Communist Party of the Soviet Union" .
+<Operation_Barbarossa> <time.event.includes_event> "Battle of Brody" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Andrei Manannikov" .
+<Great_Patriotic_War> <time.event.includes_event> "Battle of Voronezh" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Ilkhom Shomurodov" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.122c68j1" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Norayr Gyozalyan" .
+<Currency> <type.type.expected_by> "Currency" .
+<Location> <freebase.type_profile.published> "Published" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Mihran Manasyan" .
+<Soviet_Union> <location.location.events> "Fourth Aliyah" .
+<Arsen_Miskarov> <people.person.place_of_birth> "Latvian Soviet Socialist Republic" .
+<Alexey_Barinov> <people.person.place_of_birth> "Tajik Soviet Socialist Republic" .
+<Lithuanian_Soviet_Socialist_Republic> <government.governmental_jurisdiction.government_bodies> "Supreme Soviet of the Lithuanian SSR" .
+<Hrant_Bagratyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Andrejs_Siņicins> <people.person.place_of_birth> "Latvian Soviet Socialist Republic" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.049y3kw" .
+<Venera> <spaceflight.space_program.sponsor> "Soviet Union" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0bntxw7" .
+<Parliamentary_republic> <government.form_of_government.countries> "Soviet Union" .
+<Igors_Stepanovs> <people.person.place_of_birth> "Latvian Soviet Socialist Republic" .
+<Moscow> <base.biblioness.bibs_topic.subsumes> "Moscow" .
+<Alimzhon_Rafikov> <people.person.place_of_birth> "Tajik Soviet Socialist Republic" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "State Council of the Soviet Union" .
+<Soviet_Union> <location.country.capital> "Moscow" .
+<m.0vmx6wy> <military.military_command.military_combatant> "Soviet Union" .
+<m.07qtgy1> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Artur_Avagyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Perestroika> <time.event.locations> "Soviet Union" .
+<Countries_Formerly_Used> <type.property.expected_type> "Country" .
+<m.09k1t0d> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0_d28nr" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Remigijus Šimašius" .
+<Soviet_ruble> <finance.currency.countries_formerly_used> "Soviet Union" .
+<Operation_Bagration> <time.event.locations> "Byelorussian Soviet Socialist Republic" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Artur Avagyan" .
+<Defense_of_Brest_Fortress> <time.event.locations> "Soviet Union" .
+<USSR_women's_national_volleyball_team> <sports.sports_team.location> "Soviet Union" .
+<Arsen_Miskarov> <people.person.nationality> "Soviet Union" .
+<Battle_of_Voronezh> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Sputnik_1_Mission> <time.event.included_in_event> "Space Race" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.121jyvf0" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.049x6_k" .
+<Aleksandrs_Jeļisejevs> <people.person.place_of_birth> "Latvian Soviet Socialist Republic" .
+<Anatoli_Gorbachyov> <people.person.nationality> "Soviet Union" .
+<Mahmadali_Sodikov> <people.person.place_of_birth> "Tajik Soviet Socialist Republic" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1z2cryny9" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Olga Kolb" .
+<Soviet_Union> <biology.breed_origin.breeds_originating_here> "Black Russian Terrier" .
+<Soviet_space_program> <spaceflight.space_program.sponsor> "Soviet Union" .
+<Soviet_Union> <location.location.contains> "g.122bm1fj" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <location.country.currency_used> "Soviet ruble" .
+<Igors_Stepanovs> <people.person.nationality> "Latvian Soviet Socialist Republic" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Rolandas Džiaukštas" .
+<m.0wg8kz6> <location.partial_containment_relationship.partially_contained_by> "Asia" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Sergei Martynov" .
+<m.049y3kf> <military.military_command.military_combatant> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.11x1njv9z" .
+<Riga> <base.biblioness.bibs_topic.is_really> "Riga" .
+<Taganrog_during_World_War_II> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<General_Secretary_of_the_Communist_Party_of_the_Soviet_Union> <government.government_office_or_title.office_holders> "m.049x6yv" .
+<Bishkek> <location.location.containedby> "Asia" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k7wqz" .
+<Soviet_Union_national_handball_team> <sports.sports_team.location> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.049x6_6" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Hayk Hakobyan" .
+<Soviet_ruble> <common.topic.article> "m.025ryms" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1hf_chsc1" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k1szx" .
+<Countries_Used> <owl#inverseOf> "Currency Used" .
+<Soviet_Union> <common.topic.article> "m.06n6h" .
+<m.04kb125> <military.military_command.military_combatant> "Soviet Union" .
+<Soviet_Union> <organization.organization_founder.organizations_founded> "Organization for Security and Co-operation in Europe" .
+<Soviet_Union> <location.location.events> "Krasnoye Selo–Ropsha Offensive" .
+<Soviet_Union> <location.location.partially_containedby> "Europe" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <common.topic.notable_for> "g.125f_5nhj" .
+<Currency> <type.type.expected_by> "To Currency" .
+<Transcaucasian_Socialist_Federative_Soviet_Republic> <common.topic.notable_types> "Country" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Zohrab Mnatsakanian" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0bntxv_" .
+<Sino-Soviet_split> <time.event.included_in_event> "Cold War" .
+<Uzbek_Soviet_Socialist_Republic> <location.country.capital> "Tashkent" .
+<Soviet_Union> <location.location.contains> "Byelorussian Soviet Socialist Republic" .
+<Soviet_Union> <location.location.contains> "g.122dyj6f" .
+<Operation_Kutuzov> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Ministry_of_Agriculture_and_Food> <government.government_agency.jurisdiction> "Soviet Union" .
+<m.049x6_k> <government.government_position_held.governmental_body> "Central Committee of the Communist Party of the Soviet Union" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.121ybk8h" .
+<Mantas_Savėnas> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Soviet_Union> <organization.organization_founder.organizations_founded> "Antonov Serial Production Plant" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b419y8k" .
+<United_Nations> <organization.organization.founders> "Byelorussian Soviet Socialist Republic" .
+<m.02h783h> <military.force_strength.combatant> "Soviet Union" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.065x2sh" .
+<Maritime_Group_of_Forces> <military.armed_force.military_combatant> "Soviet Union" .
+<Sputnik_1_Mission> <spaceflight.space_mission.space_program> "Soviet space program" .
+<Countries_Formerly_Used> <owl#inverseOf> "Currency Formerly Used" .
+<Baltic_region> <location.location.contains> "Lithuanian Soviet Socialist Republic" .
+<Battle_of_Voronezh> <time.event.locations> "Soviet Union" .
+<Tatar_Language> <language.human_language.countries_spoken_in> "Soviet Union" .
+<Kingisepp–Gdov_Offensive> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Currency> <type.type.expected_by> "Currency" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Yanina Batyrchina" .
+<Battle_of_Voronezh> <time.event.included_in_event> "Great Patriotic War" .
+<Currency_Formerly_Used> <type.property.master_property> "Countries Formerly Used" .
+<US_vs._USSR> <base.rivalries.rivalry.notable_events> "Space Race" .
+<Armenian_Soviet_Socialist_Republic> <location.location.events> "February Uprising" .
+<Kazakh_Soviet_Socialist_Republic> <location.location.events> "Kengir uprising" .
+<m.0bb_lcn> <military.military_command.military_combatant> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.geolocation> "m.0wmwk1h" .
+<Soviet_Union> <common.topic.image> "Location of Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Sako Chivitchian" .
+<Operation_Wotan> <time.event.locations> "Soviet Union" .
+<Artashes_Arakelyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Raivis Dzintars" .
+<Soviet_Union> <location.location.events> "Polish Operation of the NKVD" .
+<Yelnya_Offensive> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.1hb_dtpdv" .
+<Umid_Isoqov> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Valery Kargin" .
+<Currency> <type.type.expected_by> "Currency Used" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Malika Kalontarova" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Stepan Pogosyan" .
+<Soviet_Union> <common.topic.webpage> "m.0b471zt" .
+<Battle_of_the_Dnieper> <time.event.locations> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "g.122smc9y" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Zamir Kabulov" .
+<Sino-Soviet_border_conflict> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Eastern_European_anti-Communist_insurgencies> <time.event.locations> "Soviet Union" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.country.currency_used> "Soviet ruble" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Rashid Kadyrkaev" .
+<Currency> <type.type.expected_by> "Adjustment currency" .
+<Soviet_Union> <base.rivalries.rival.rivals> "US vs. USSR" .
+<Soviet_Union_women's_national_handball_team> <sports.sports_team.location> "Soviet Union" .
+<Currency> <type.property.expected_type> "Currency" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Bogdans Ņesterenko" .
+<m.0vmx6nr> <military.military_command.military_combatant> "Soviet Union" .
+<Ukrainian_Soviet_Socialist_Republic> <common.topic.notable_types> "Country" .
+<Currency> <type.type.expected_by> "Currency" .
+<Byelorussian_Soviet_Socialist_Republic> <common.topic.notable_types> "Country" .
+<Operation_Bagration> <time.event.locations> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.120y8kd5" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.geolocation> "m.0wmcfvt" .
+<Currency> <type.type.expected_by> "Currency" .
+<Moscow> <location.location.containedby> "Soviet Union" .
+<Soviet_Union> <location.location.events> "Great Patriotic War" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Sadriddin Abdullaev" .
+<m.0pdsl2d> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <common.topic.image> "SovietUnionArmenia" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Oleg Sobirov" .
+<Gediminas_Vagnorius> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Mārtiņš Roze" .
+<Ilkhom_Shomurodov> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Soviet_Union> <spaceflight.space_program_sponsor.space_programs_sponsored> "Voskhod programme" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Rafael Safaryan" .
+<Khagani_Mammadov> <people.person.nationality> "Soviet Union" .
+<m.059kvbq> <location.adjoining_relationship.adjoins> "Soviet Union" .
+<Dissolution_of_the_Soviet_Union> <time.event.includes_event> "1991 Soviet coup d'état attempt" .
+<Ministry_of_Communications> <government.government_agency.jurisdiction> "Soviet Union" .
+<Soviet_Union> <location.location.events> "Battle of the Dnieper" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.events> "Sumgait pogrom" .
+<Soviet_Union> <location.location.events> "Eastern European anti-Communist insurgencies" .
+<National_United_Party> <organization.organization.geographic_scope> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1234hldg" .
+<1952_Summer_Olympics> <olympics.olympic_games.athletes> "m.0pds_sp" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0bntxrr" .
+<Tajik_Soviet_Socialist_Republic> <common.topic.image> "SovietUnionTajikistan" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Andranik Margaryan" .
+<Currency> <type.type.expected_by> "Currency" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.07qtgy1" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <common.topic.notable_types> "Location" .
+<Soviet_Union> <location.location.events> "Yelnya Offensive" .
+<Crimean_Offensive> <time.event.included_in_event> "Great Patriotic War" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Leonid Ivashov" .
+<Ukrainian_Language> <language.human_language.region> "Europe" .
+<Currency_Used> <rdf-schema#range> "Currency" .
+<m.04dq7w1> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.country.official_language> "Russian Language" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Aghasi Manukyan" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b6_0sgmk" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "Ednan Agayev" .
+<Uzbek_Soviet_Socialist_Republic> <location.country.capital> "Bukhara" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "g.122sgssw" .
+<Death_and_state_funeral_of_Leonid_Brezhnev> <time.event.locations> "Moscow" .
+<Governmental_Jurisdiction> <freebase.type_profile.published> "Published" .
+<m.04mk8vg> <military.force_strength.combatant> "Soviet Union" .
+<m.0hp5m6d> <organization.organization_membership.organization> "United Nations" .
+<Alyosha_Abrahamyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Alvis Vītoliņš" .
+<Soviet_ruble> <finance.currency.countries_used> "Karelo-Finnish Soviet Socialist Republic" .
+<Uzbek_Soviet_Socialist_Republic> <common.topic.article> "m.0247p_" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.120try_1" .
+<Ukrainian_Soviet_Socialist_Republic> <location.country.capital> "Kharkiv" .
+<Currency> <type.type.expected_by> "Currency" .
+<Currency> <type.type.expected_by> "Currency" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Gediminas Vagnorius" .
+<m.0c9_j12> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Baku_pogrom> <time.event.locations> "Baku" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Moldomusa Kongantiyev" .
+<Kamenets-Podolsky_Pocket> <time.event.included_in_event> "Eastern Front" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Viacheslav Sobchenko" .
+<Soviet_Union> <location.statistical_region.population> "m.08cxfyg" .
+<Baltic_Operation> <time.event.included_in_event> "Eastern Front" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.04mk8qg" .
+<Soviet_Union> <organization.organization_founder.organizations_founded> "Intersputnik" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Toktayym Ümötalieva" .
+<m.04dq7d4> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Roman_Kornilov> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Baltic_region> <location.location.contains> "Estonian Soviet Socialist Republic" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Marius Stanaitis" .
+<Battle_of_Rostov_(1941)> <time.event.locations> "Soviet Union" .
+<Moscow_Watchdog> <biology.animal_breed.place_of_origin> "Soviet Union" .
+<Soviet_Union> <location.location.events> "Crimean Offensive" .
+<m.0bntxv_> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.containedby> "Baltic region" .
+<Norayr_Gyozalyan> <people.person.nationality> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Roman Kornilov" .
+<m.04kb17d> <military.force_strength.combatant> "Soviet Union" .
+<Moscow> <base.biblioness.bibs_topic.is_really> "Moscow" .
+<Armenian_Soviet_Socialist_Republic> <base.schemastaging.context_name.pronunciation> "g.125_lw1p8" .
+<Alisher_Saipov> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Artak_Andrikyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Asia> <location.location.partially_contains> "Soviet Union" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b6_zqy_7" .
+<Currency> <freebase.type_hints.included_types> "Topic" .
+<m.059j4yr> <location.adjoining_relationship.adjoins> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.country.form_of_government> "Puppet state" .
+<Eimantas_Poderis> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k1t0n" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "g.121pdby6" .
+<m.07qtjc6> <olympics.olympic_athlete_affiliation.olympics> "1952 Summer Olympics" .
+<Government_of_the_Soviet_Union> <government.government.government_for> "Soviet Union" .
+<m.0h_1h58> <government.national_anthem_of_a_country.country> "Soviet Union" .
+<Ukrainian_Language> <language.human_language.countries_spoken_in> "Soviet Union" .
+<Currency> <type.type.expected_by> "currency" .
+<Azerbaijan_Soviet_Socialist_Republic> <base.schemastaging.context_name.pronunciation> "g.125_q_6tz" .
+<Soviet_Union> <olympics.olympic_participating_country.olympics_participated_in> "1952 Summer Olympics" .
+<1980_Winter_Olympics> <olympics.olympic_games.participating_countries> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Askar Akayev" .
+<General_Secretary_of_the_Communist_Party_of_the_Soviet_Union> <government.government_office_or_title.jurisdiction> "Soviet Union" .
+<Soviet_ruble> <common.topic.image> "Obverse of 1 ruble" .
+<Operation_Kutuzov> <time.event.locations> "Soviet Union" .
+<m.04mk8tx> <military.force_strength.combatant> "Soviet Union" .
+<m.0bnfcfb> <sports.competitor_competition_relationship.country> "Soviet Union" .
+<Soviet_Union> <location.location.events> "Battle of Smolensk" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Karen Darabedyan" .
+<m.04mt738> <military.military_command.military_combatant> "Soviet Union" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1yw9kzgxm" .
+<Currency> <common.topic.article> "m.0d9s59w" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Kamchybek Tashiev" .
+<Soviet_Union> <military.military_combatant.casualties> "m.04ml3kk" .
+<Fourth_Aliyah> <time.event.locations> "Soviet Union" .
+<m.04kb16y> <military.force_strength.combatant> "Soviet Union" .
+<Soviet_Union> <location.location.events> "Battle of Brody" .
+<Jafar_Irismetov> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Anarbek Ormombekov" .
+<Socialist_state> <government.form_of_government.countries> "Soviet Union" .
+<Kutaisi> <location.location.containedby> "Soviet Union" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.07jsqxh" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Bronius Bružas" .
+<Soviet_Union> <base.rivalries.rival.rivals> "Space Race" .
+<Sputnik_1_Mission> <time.event.locations> "Soviet Union" .
+<OBKhSS> <government.government_agency.jurisdiction> "Soviet Union" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "Rita Pogosova" .
+<Space_Race> <base.rivalries.rivalry.rival> "Soviet Union" .
+<Currency> <type.type.expected_by> "Currency" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Harry Mazar" .
+<m.049x6zw> <government.government_position_held.governmental_body> "Central Committee of the Communist Party of the Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Vostanik Marukhyan" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Mantas Savėnas" .
+<Governmental_Jurisdiction> <freebase.type_hints.included_types> "Topic" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Vidmantas Vyšniauskas" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Kairat Utabayev" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Andrius Gedgaudas" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Mahmadali Sodikov" .
+<Tashkent> <location.location.containedby> "Asia" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Alisher Saipov" .
+<Space_Race> <time.event.locations> "Soviet Union" .
+<Jafar_Irismetov> <people.person.nationality> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.120nd_gq" .
+<Hovhannes_Grigoryan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.0vmx6qn" .
+<Rustam_Kazakov> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Kengir_uprising> <time.event.locations> "Kazakh Soviet Socialist Republic" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k1szn" .
+<Soviet_Union> <location.location.contains> "Lithuanian Soviet Socialist Republic" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11cfv1_wm" .
+<m.04dq7rv> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Currency> <type.type.expected_by> "Blah1" .
+<Soviet_Union> <spaceflight.space_program_sponsor.space_programs_sponsored> "Mars program" .
+<Soviet_Union> <location.country.languages_spoken> "Chuvash Language" .
+<m.09k1szn> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <location.location.events> "Dissolution of the Soviet Union" .
+<Soviet_ruble> <finance.currency.countries_used> "Kazakh Soviet Socialist Republic" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Shukrullo Mirsaidov" .
+<Battle_of_Kiev> <time.event.locations> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Povilas Lukšys" .
+<m.04dq8rs> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <location.location.contains> "Georgian Soviet Socialist Republic" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b7hlnz4k" .
+<Soviet_Union> <location.location.contains> "Kutaisi" .
+<Currency> <type.type.expected_by> "Currency" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Vidmantas Mališauskas" .
+<Soviet_Union> <location.country.national_anthem> "m.0h_1h58" .
+<Soviet_Union> <location.location.events> "Sputnik program" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.11vk9tk37" .
+<Bogdans_Ņesterenko> <people.person.place_of_birth> "Latvian Soviet Socialist Republic" .
+<Marsel_Idiatullin> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<m.0bntxrr> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Togolok Moldo" .
+<m.09k1sz6> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <sports.sports_team_location.teams> "USSR national volleyball team" .
+<Countries_Used> <type.property.schema> "Currency" .
+<Business> <type.domain.types> "Currency" .
+<Anatoli_Gorbachyov> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Operation_Barbarossa> <time.event.included_in_event> "Great Patriotic War" .
+<Currency> <type.type.properties> "Prefix Symbol" .
+<Soviet_Union> <military.military_combatant.casualties> "m.04mkh4k" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1225wctw" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "David Hambartsumyan" .
+<m.049x6zj> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Samarkand> <location.location.containedby> "Asia" .
+<Soviet_Union> <organization.organization_founder.organizations_founded> "Tbilisi Aircraft Manufacturing" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b5vc999v" .
+<Bukharan_People's_Soviet_Republic> <location.country.form_of_government> "Socialist state" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Alexander Arzumanyan" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Arkady Bakhin" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Hovhannes Grigoryan" .
+<Black_Russian_Terrier> <biology.animal_breed.place_of_origin> "Soviet Union" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1215cnhv" .
+<Soviet_ruble> <common.topic.notable_types> "Currency" .
+<Currency> <type.type.properties> "Sub Units" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq8sw" .
+<Great_Patriotic_War> <time.event.locations> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Yuriy Melnichenko" .
+<Soviet_Union> <location.location.events> "Battle of Voronezh" .
+<Soviet_Union_men's_national_volleyball_team> <sports.sports_team.location> "Soviet Union" .
+<m.04kb12p> <military.military_command.military_combatant> "Soviet Union" .
+<Soviet_Union> <location.location.events> "1940–44 insurgency in Chechnya" .
+<Currency> <freebase.type_profile.strict_included_types> "Topic" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0bqxvx1" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0pdsl2d" .
+<m.0_d2905> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Emil Kenzhesariev" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq7sg" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Emil Gabrielian" .
+<m.0pcr4qc> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<m.0wg8l4s> <location.partial_containment_relationship.partially_contains> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "Ministry of Justice" .
+<Kazakh_Soviet_Socialist_Republic> <location.country.currency_used> "Soviet ruble" .
+<m.04ml3k9> <military.casualties.combatant> "Soviet Union" .
+<Soviet_Union> <organization.organization_scope.organizations_with_this_scope> "Communist Party of the Soviet Union" .
+<Norayr_Gyozalyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Martik_Mkrtumyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<State_Council_of_the_Soviet_Union> <government.government_agency.jurisdiction> "Soviet Union" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "g.121ynb0r" .
+<m.04ml3jw> <military.military_command.military_combatant> "Soviet Union" .
+<m.07qtgxw> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.04mk8r6" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Vladimir Movsisyan" .
+<m.04dq8cd> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<m.049x6zj> <government.government_position_held.office_position_or_title> "General Secretary of the Communist Party of the Soviet Union" .
+<m.04mk8tm> <military.force_strength.combatant> "Soviet Union" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0_d2905" .
+<Uzbek_Soviet_Socialist_Republic> <common.topic.notable_types> "Country" .
+<m.049x6_x> <government.government_position_held.office_position_or_title> "General Secretary of the Communist Party of the Soviet Union" .
+<Aleksandr_Kletskov> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Soviet_Union> <location.location.events> "Operation Wotan" .
+<m.04dq826> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<m.04dq8sw> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Armen Martirosyan" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Aleksandrs Jeļisejevs" .
+<Lithuanian_Soviet_Socialist_Republic> <location.country.form_of_government> "Republic" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Alyosha Abrahamyan" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Marsel Idiatullin" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11jgdwgnt" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.121yhfg9" .
+<Jānis_Urbanovičs> <people.person.place_of_birth> "Latvian Soviet Socialist Republic" .
+<Currency> <type.type.expected_by> "Currency" .
+<Soviet_Union> <location.location.events> "Operation Bagration" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Khozh-Ahmed Noukhayev" .
+<1991_Soviet_coup_d'état_attempt> <time.event.locations> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <location.country.currency_used> "Soviet ruble" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq8cd" .
+<Currency> <type.type.expected_by> "Currency" .
+<Countries_Used> <rdf-schema#range> "Country" .
+<Soviet_Union> <spaceflight.space_program_sponsor.space_programs_sponsored> "Soyuz programme" .
+<Operation_Wotan> <time.event.included_in_event> "Eastern Front" .
+<Currency> <type.type.expected_by> "Current" .
+<Ministry_of_Justice> <government.government_agency.jurisdiction> "Soviet Union" .
+<Vitaliy_Levchenko> <people.person.place_of_birth> "Tajik Soviet Socialist Republic" .
+<Soviet_space_program> <spaceflight.space_program.missions> "Sputnik 1 Mission" .
+<Soviet_Union> <olympics.olympic_participating_country.olympics_participated_in> "1980 Winter Olympics" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11r80q3s0" .
+<Tajik_Soviet_Socialist_Republic> <common.topic.article> "m.0247pj" .
+<m.09k1s_d> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <location.location.events> "Sputnik 1 Mission" .
+<Soviet_Union> <location.location.events> "Battle of Voronezh" .
+<m.04hzvwh> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Hayk_Hakobyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Latvian_Soviet_Socialist_Republic> <location.country.capital> "Riga" .
+<Soviet_Union> <location.location.events> "1977 Moscow bombings" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k1t0x" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "g.15dq769k" .
+<Soviet_Union> <location.statistical_region.population> "m.08cxfzb" .
+<Muratbek_Imanaliyev> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Battle_of_the_Dnieper> <time.event.included_in_event> "Great Patriotic War" .
+<Boris_Ebzeyev> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Byelorussian_Soviet_Socialist_Republic> <location.location.events> "Operation Bagration" .
+<Soviet_Union> <symbols.flag_referent.flag> "m.0jsjn1x" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0pdp78v" .
+<Rafael_Safaryan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k1t1d" .
+<m.049x6z5> <government.government_position_held.governmental_body> "Central Committee of the Communist Party of the Soviet Union" .
+<m.0c5f1pl> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Soviet_Union> <sports.sports_team_location.teams> "USSR women's national volleyball team" .
+<Soviet_Union> <location.location.adjoin_s> "m.059j4yr" .
+<Lithuanian_Soviet_Socialist_Republic> <base.schemastaging.context_name.pronunciation> "g.125_p38ns" .
+<1991_Soviet_coup_d'état_attempt> <time.event.locations> "Moscow" .
+<Operation_Bagration> <time.event.included_in_event> "Great Patriotic War" .
+<Operation_Bagration> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Guntis Valneris" .
+<Baltic_region> <location.location.events> "Baltic Operation" .
+<Soviet_Union> <location.location.events> "Cold War" .
+<Romanian_Armies_in_the_Battle_of_Stalingrad> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Soviet_Union> <location.country.form_of_government> "Communist state" .
+<Soviet_ruble> <common.topic.notable_for> "g.1258mvl8j" .
+<m.04mt732> <military.military_command.military_combatant> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Karapet Karapetyan" .
+<m.01100gdr> <government.government_position_held.jurisdiction_of_office> "Uzbek Soviet Socialist Republic" .
+<Tatar_Language> <language.human_language.region> "Europe" .
+<m.0jsjn1x> <symbols.flag_use.flag_user> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.containedby> "Soviet Union" .
+<m.04mk8wx> <military.casualties.combatant> "Soviet Union" .
+<Currency> <type.type.expected_by> "Currency" .
+<1940–44_insurgency_in_Chechnya> <time.event.locations> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "Ministry of Communications" .
+<Sputnik_1_Mission> <spaceflight.space_mission.space_program> "Sputnik program" .
+<Khakim_Fuzailov> <people.person.place_of_birth> "Tajik Soviet Socialist Republic" .
+<Rafael_Safaryan> <people.person.nationality> "Soviet Union" .
+<Vostok_programme> <spaceflight.space_program.sponsor> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.1224thyc" .
+<m.0cb_npm> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Currency> <type.type.expected_by> "Transfer fee currency" .
+<Aivaras_Laurišas> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<m.049x6_6> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Deportation_of_the_Crimean_Tatars> <time.event.locations> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "g.121rpjx_" .
+<Case_Blue> <time.event.locations> "Soviet Union" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11r_pl41m" .
+<Vyborg–Petrozavodsk_Offensive> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b6j4d5q1" .
+<Currency> <type.type.expected_by> "Currency" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.country.capital> "Baku" .
+<Andranik_Margaryan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Currency> <type.type.expected_by> "Measurement currency" .
+<m.0vmx6qn> <military.military_command.military_combatant> "Soviet Union" .
+<Soviet_ruble> <finance.currency.countries_used> "Armenian Soviet Socialist Republic" .
+<Soviet_Union> <location.country.currency_formerly_used> "Soviet ruble" .
+<Nerijus_Vasiliauskas> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Nematullo Quttiboev" .
+<Soviet_Union> <location.location.adjoin_s> "m.059kvbk" .
+<Axis_and_Soviet_air_operations_during_Operation_Barbarossa> <time.event.included_in_event> "Eastern Front" .
+<Great_Patriotic_War> <time.event.includes_event> "Battle of the Dnieper" .
+<Currency> <type.type.expected_by> "Currency" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.049x6zj" .
+<Project_Dark_Gene> <time.event.locations> "Soviet Union" .
+<Soviet_Union> <location.statistical_region.population> "m.08cxfy6" .
+<Tuvan_People's_Republic> <location.country.form_of_government> "Socialist state" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Jānis Urbanovičs" .
+<m.0qzf4pw> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <location.location.events> "Case Blue" .
+<Andranik_Margaryan> <people.deceased_person.place_of_death> "Yerevan" .
+<m.049x6_x> <government.government_position_held.governmental_body> "Central Committee of the Communist Party of the Soviet Union" .
+<Central_Committee_of_the_Communist_Party_of_the_Soviet_Union> <government.governmental_body.members> "m.049x6_6" .
+<Currency> <type.type.expected_by> "Currency" .
+<Soviet_Union> <government.governmental_jurisdiction.government_bodies> "Central Committee of the Communist Party of the Soviet Union" .
+<Operation_Bagration> <time.event.included_in_event> "Eastern Front" .
+<Lithuanian_Soviet_Socialist_Republic> <location.country.form_of_government> "Socialist state" .
+<Currency> <type.type.expected_by> "Currency formerly used" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Dmitri Mamleev" .
+<Governmental_Jurisdiction> <freebase.type_hints.included_types> "Location" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Alimzhon Rafikov" .
+<Sputnik_program> <spaceflight.space_program.sponsor> "Soviet Union" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.04fvhtr" .
+<Lithuanian_Soviet_Socialist_Republic> <common.topic.article> "m.0247p2" .
+<Currency> <type.type.properties> "Countries Formerly Used" .
+<Soviet_democracy> <government.form_of_government.countries> "Soviet Union" .
+<Soviet_Union> <organization.organization_scope.organizations_with_this_scope> "National United Party" .
+<Soviet_Union> <military.military_combatant.force_deployments> "m.04mk8tx" .
+<Battle_of_Voronezh> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<m.0vsc2y3> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "g.120wf1j8" .
+<Soviet_Union> <location.location.events> "Battle of Rostov (1941)" .
+<m.04mk8r6> <military.military_command.military_combatant> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Oleg Kazmirchuk" .
+<Socialist_state> <government.form_of_government.countries> "Estonian Soviet Socialist Republic" .
+<m.0hp5m6d> <organization.organization_membership.member> "Soviet Union" .
+<Soviet_Union> <location.statistical_region.population> "m.08cxfyb" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq7vm" .
+<Andrei_Manannikov> <people.person.place_of_birth> "Tajik Soviet Socialist Republic" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Shuhrat Rahmonqulov" .
+<m.059kvbw> <location.adjoining_relationship.adjoins> "Soviet Union" .
+<Latvian_Soviet_Socialist_Republic> <location.country.form_of_government> "Republic" .
+<Soviet_Union> <location.location.events> "Narva Offensive" .
+<Soviet_Union> <spaceflight.space_program_sponsor.space_programs_sponsored> "Sputnik program" .
+<Uzbek_Soviet_Socialist_Republic> <location.country.capital> "Samarkand" .
+<Soviet_Union> <military.military_combatant.casualties> "m.04mk8wx" .
+<Soviet_ruble> <finance.currency.countries_used> "Latvian Soviet Socialist Republic" .
+<m.049x6z5> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Kengir_uprising> <base.culturalevent.event.entity_involved> "Red Army" .
+<General_Secretary_of_the_Communist_Party_of_the_Soviet_Union> <government.government_office_or_title.office_holders> "m.049x6z5" .
+<Soviet_ruble> <finance.currency.countries_used> "Tajik Soviet Socialist Republic" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Vahan Hovhannisyan" .
+<m.0bntxw7> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Sino-Soviet_border_conflict> <time.event.included_in_event> "Cold War" .
+<Soviet_Union> <location.country.form_of_government> "Socialist state" .
+<Currency_Used> <type.property.expected_type> "Currency" .
+<Shuhrat_Mirkholdirshoev> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Andrejs Siņicins" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Ismail Isakov" .
+<1991_Soviet_coup_d'état_attempt> <time.event.locations> "Russian Soviet Federative Socialist Republic" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11x97z1qs" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "Zamig Athakishiyev" .
+<Soviet_Union> <location.statistical_region.population> "m.08cxfyz" .
+<Hrayr_Karapetyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Estonian_Soviet_Socialist_Republic> <common.topic.notable_types> "Country" .
+<m.0gbv8_d> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <location.location.contains> "g.1212s0yp" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.04mk8qq" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.049y3kf" .
+<Khoren_Abrahamyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Currency> <type.property.expected_type> "Currency" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.04kb13m" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "g.120kh6j9" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Alida Abola" .
+<Currency> <type.type.expected_by> "Currency used" .
+<Soviet_Union> <location.location.events> "Operation Kutuzov" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.049x6z5" .
+<Anatoli_Polosin> <people.deceased_person.place_of_death> "Moscow" .
+<Battle_of_Brody> <time.event.included_in_event> "Operation Barbarossa" .
+<Tatsinskaya_Raid> <time.event.locations> "Soviet Union" .
+<Currency> <type.type.expected_by> "Earnings" .
+<Tajik_Soviet_Socialist_Republic> <location.country.currency_used> "Soviet ruble" .
+<m.04mk8w1> <military.casualties.combatant> "Soviet Union" .
+<Central_Committee_of_the_Communist_Party_of_the_Soviet_Union> <government.governmental_body.members> "m.049x6_k" .
+<Arūnas_Mika> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Great_Patriotic_War> <time.event.includes_event> "Battle of Smolensk" .
+<Battle_of_the_Dnieper> <time.event.included_in_event> "Eastern Front" .
+<Soviet_Union> <organization.organization_member.member_of> "m.05988g8" .
+<Soviet_Union> <location.location.contains> "Tuvan People's Republic" .
+<Russian_Soviet_Federative_Socialist_Republic> <location.location.containedby> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Arvydas Janonis" .
+<Obverse_of_1_ruble> <common.image.appears_in_topic_gallery> "Soviet ruble" .
+<Red_Army> <military.armed_force.military_combatant> "Soviet Union" .
+<Khozh-Ahmed_Noukhayev> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<m.0pcs11v> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Kiev_Arsenal> <organization.organization.founders> "Soviet Union" .
+<1991_Soviet_coup_d'état_attempt> <base.culturalevent.event.entity_involved> "Georgian Soviet Socialist Republic" .
+<Currency_Formerly_Used> <type.property.expected_type> "Currency" .
+<Tuvan_People's_Republic> <location.location.containedby> "Soviet Union" .
+<Vaidotas_Šlekys> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Aleksandr_Kletskov> <people.person.nationality> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <base.schemastaging.context_name.pronunciation> "g.125_rjf_3" .
+<Eastern_Front> <base.culturalevent.event.entity_involved> "Tuvan People's Republic" .
+<Soviet_Union> <location.location.events> "Sino-Soviet split" .
+<Ukrainian_Soviet_Socialist_Republic> <organization.organization_founder.organizations_founded> "United Nations" .
+<Chuvash_Language> <language.human_language.countries_spoken_in> "Soviet Union" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Alexey Barinov" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Juzefas Jurgelevičius" .
+<Kairat_Utabayev> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Orsha_offensives> <time.event.locations> "Soviet Union" .
+<Emil_Kenzhesariev> <people.person.nationality> "Soviet Union" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Yuri Lobanov" .
+<m.0pdp78v> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<m.07nfsk3> <base.ontologies.ontology_instance_mapping.freebase_topic> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.113qbt14p" .
+<Soviet_Union> <organization.organization_member.member_of> "m.0hp5m6d" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Sardorbek Eminov" .
+<Bukharan_People's_Soviet_Republic> <common.topic.notable_types> "Country" .
+<Soviet_Union> <sports.sports_team_location.teams> "Soviet Union national handball team" .
+<m.049x6_6> <government.government_position_held.governmental_body> "Central Committee of the Communist Party of the Soviet Union" .
+<Yanina_Batyrchina> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Armen Movsisyan" .
+<Estonian_Soviet_Socialist_Republic> <location.location.containedby> "Baltic region" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Stanislovas Vitkovskis" .
+<m.0b488_v> <common.webpage.topic> "Soviet Union" .
+<Communist_Party_of_the_Soviet_Union> <organization.organization.geographic_scope> "Soviet Union" .
+<Currency> <type.type.expected_by> "Currency" .
+<Gevorg_Prazyan> <people.person.nationality> "Soviet Union" .
+<m.04mk8qg> <military.military_command.military_combatant> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Muratbek Imanaliyev" .
+<m.09k1t1n> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.0vsc2y3" .
+<Currency> <type.type.expected_by> "Currency" .
+<m.02wh5mg> <business.employment_tenure.company> "Azerbaijan Soviet Socialist Republic" .
+<m.0wg8l4s> <location.partial_containment_relationship.partially_contained_by> "Europe" .
+<Baku> <location.location.events> "Baku pogrom" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.049x6yv" .
+<Tajik_Soviet_Socialist_Republic> <common.topic.notable_types> "Country" .
+<Soviet_Union> <location.location.contains> "g.155qjm5_" .
+<Operation_Kutuzov> <time.event.included_in_event> "Eastern Front" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Oybek Usmankhojaev" .
+<Battle_of_the_Korsun–Cherkassy_Pocket> <time.event.included_in_event> "Eastern Front" .
+<m.04dq8cl> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Soviet_Union> <location.location.adjoin_s> "m.059kvbq" .
+<Currency> <type.type.expected_by> "Currency" .
+<Currency> <type.property.expected_type> "Currency" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Juris Dalbiņš" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq7yl" .
+<Great_Patriotic_War> <time.event.includes_event> "Crimean Offensive" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.04mt732" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Vardan Petrosyan" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Gevorg Prazyan" .
+<Lithuanian_Soviet_Socialist_Republic> <periodicals.newspaper_circulation_area.newspapers> "Tiesa" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b6y49979" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b6lg1fr7" .
+<Central_Committee_of_the_Communist_Party_of_the_Soviet_Union> <government.governmental_body.jurisdiction> "Soviet Union" .
+<Yelnya_Offensive> <time.event.locations> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Gevorg Poghosyan" .
+<Soviet_Union> <location.location.events> "Battle of Kiev" .
+<Space_Race> <base.rivalries.rivalry.kind_of_rivalry> "Space Race" .
+<Soviet_Union> <military.military_combatant.armed_forces> "Maritime Group of Forces" .
+<m.010rmtms> <government.government_position_held.jurisdiction_of_office> "Kazakh Soviet Socialist Republic" .
+<Khagani_Mammadov> <people.person.nationality> "Armenian Soviet Socialist Republic" .
+<Currency> <type.type.expected_by> "Currency" .
+<Azerbaijan_Soviet_Socialist_Republic> <common.topic.article> "m.0247nm" .
+<Currency_Used> <rdf-schema#domain> "Country" .
+<Norayr_Sahakyan> <people.person.nationality> "Soviet Union" .
+<m.049x6yv> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Antonov_Serial_Production_Plant> <organization.organization.founders> "Soviet Union" .
+<m.04kb134> <military.military_command.military_combatant> "Soviet Union" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Rustam Kazakov" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11r80s0gr" .
+<Battle_of_the_Korsun–Cherkassy_Pocket> <time.event.locations> "Soviet Union" .
+<Krasnoye_Selo–Ropsha_Offensive> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Kazakh_Soviet_Socialist_Republic> <common.topic.article> "m.01c9_0" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Danguolė Rasalaitė" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Sigita Strečen" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0_xlzwd" .
+<Dmitriy_Efimovich> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Currency> <type.type.expected_by> "Currency" .
+<Tajik_Soviet_Socialist_Republic> <common.topic.notable_for> "g.1255839r6" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Natalia Chumakova" .
+<Currency> <type.type.expected_by> "Target of exchange" .
+<m.04dq7yl> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Andrei_Manannikov> <people.person.nationality> "Soviet Union" .
+<m.049x6_6> <government.government_position_held.office_position_or_title> "General Secretary of the Communist Party of the Soviet Union" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Jānis Dreimanis" .
+<Project_Dark_Gene> <time.event.included_in_event> "Cold War" .
+<Kazakh_Soviet_Socialist_Republic> <common.topic.notable_types> "Governmental Jurisdiction" .
+<Sanjar_Kuvvatov> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Narva_Offensive> <time.event.included_in_event> "Eastern Front" .
+<Operation_Barbarossa> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "OBKhSS" .
+<Country> <freebase.type_profile.kind> "Definition" .
+<Kazakh_Soviet_Socialist_Republic> <common.topic.notable_for> "g.125b8ys36" .
+<Battle_of_Rostov_(1941)> <time.event.included_in_event> "Great Patriotic War" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <location.location.events> "Vyborg–Petrozavodsk Offensive" .
+<Lithuanian_Soviet_Socialist_Republic> <location.country.official_language> "Lithuanian language" .
+<Marius_Poškus> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<m.04dq7vm> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Currency> <rdf-schema#range> "Currency" .
+<Soviet_Union> <sports.sports_team_location.teams> "Soviet Union men's national volleyball team" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0pds_sp" .
+<Soviet_Union> <location.country.national_anthem> "m.0h_1h53" .
+<Currency_Formerly_Used> <type.property.schema> "Country" .
+<Soviet_Union> <military.military_combatant.force_deployments> "m.04kb16y" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Khagani Mammadov" .
+<Currency> <type.type.expected_by> "location_currency_used" .
+<Great_Patriotic_War> <time.event.includes_event> "Operation Barbarossa" .
+<Soviet_Union> <organization.organization_scope.organizations_with_this_scope> "Communist Party of Azerbaijan" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.11b62s7gdy" .
+<Kazakh_Soviet_Socialist_Republic> <location.country.capital> "Almaty" .
+<Baku_pogrom> <time.event.locations> "Azerbaijan Soviet Socialist Republic" .
+<Anvar_Berdiev> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Vardan_Petrosyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Soviet_Union> <base.ontologies.ontology_instance.equivalent_instances> "m.07nfsk3" .
+<Soviet_Union> <location.location.events> "Orsha offensives" .
+<Soviet_ruble> <finance.currency.countries_used> "Lithuanian Soviet Socialist Republic" .
+<Estonian_Soviet_Socialist_Republic> <location.country.form_of_government> "Puppet state" .
+<Soviet_ruble> <finance.currency.countries_used> "Kirghiz Soviet Socialist Republic" .
+<m.05988g8> <organization.organization_membership.member> "Soviet Union" .
+<Riga> <base.biblioness.bibs_topic.subsumes> "Riga" .
+<Bukhara> <location.location.containedby> "Asia" .
+<m.0_d28nr> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Operation_Barbarossa> <time.event.included_in_event> "Eastern Front" .
+<Kirghiz_Soviet_Socialist_Republic> <common.topic.article> "m.02cct5" .
+<Battle_of_Kiev> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.containedby> "Soviet Union" .
+<m.0dl79fr> <military.military_command.military_conflict> "Great Patriotic War" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Satymkul Dzhumanazarov" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <common.topic.image> "SovietUnionKarelia" .
+<Case_Blue> <time.event.included_in_event> "Eastern Front" .
+<Vidmantas_Vyšniauskas> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.120hhw_s" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.112yfdr1x" .
+<Tuvan_People's_Republic> <common.topic.notable_types> "Country" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.121cb26j" .
+<Uzbek_Soviet_Socialist_Republic> <common.topic.image> "SovietUnionUzbekistan" .
+<m.04kb16c> <military.force_strength.combatant> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Armen Gevorgyan" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq8rs" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.049y3l9" .
+<Socialist_state> <government.form_of_government.countries> "Latvian Soviet Socialist Republic" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.0c9_j12" .
+<m.049x6yv> <government.government_position_held.office_position_or_title> "General Secretary of the Communist Party of the Soviet Union" .
+<1991_Soviet_coup_d'état_attempt> <base.culturalevent.event.entity_involved> "Red Army" .
+<Bukharan_People's_Soviet_Republic> <location.location.containedby> "Soviet Union" .
+<Battle_of_Rostov_(1941)> <time.event.included_in_event> "Eastern Front" .
+<Soyuz_programme> <spaceflight.space_program.sponsor> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Hrayr Karapetyan" .
+<Yuriy_Hudymenko> <people.person.nationality> "Soviet Union" .
+<Operation_Barbarossa> <time.event.locations> "Soviet Union" .
+<Baltic_Operation> <time.event.locations> "Baltic region" .
+<Soviet_Union> <location.location.events> "Deportation of the Crimean Tatars" .
+<Soviet_Union> <location.location.events> "Sino-Soviet border conflict" .
+<Country> <freebase.type_hints.included_types> "Location" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Hayk Mkrtchyan" .
+<Baltic_Operation> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Anvar Berdiev" .
+<Soviet_Union> <location.statistical_region.population> "m.0rh7bsy" .
+<Soviet_Union> <spaceflight.space_program_sponsor.space_programs_sponsored> "Vostok programme" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.1233g15h" .
+<Currency> <type.type.expected_by> "Transfer fee currency" .
+<Soviet_Union> <military.military_combatant.force_deployments> "m.04mkh1x" .
+<Sadriddin_Abdullaev> <people.person.nationality> "Soviet Union" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Tohir Yoʻldosh" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1hc0hs38y" .
+<Case_Blue> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.049x6_x" .
+<Ukrainian_Soviet_Socialist_Republic> <location.location.containedby> "Soviet Union" .
+<Sadriddin_Abdullaev> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Great_Patriotic_War> <time.event.includes_event> "Battle of Voronezh" .
+<Soviet_Union> <location.location.events> "Baltic Operation" .
+<Currency> <type.type.expected_by> "Currency" .
+<Communist_Party_of_Azerbaijan> <organization.organization.geographic_scope> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.12gh34tln" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1q5bfbzy6" .
+<Defense_of_Brest_Fortress> <time.event.included_in_event> "Eastern Front" .
+<Single-party_state> <government.form_of_government.countries> "Latvian Soviet Socialist Republic" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.120yxb9t" .
+<Arvydas_Janonis> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "State Committee for Publishing" .
+<m.07jsqxh> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Satymkul_Dzhumanazarov> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b7qpcw7g" .
+<Odil_Irgashev> <people.person.place_of_birth> "Tajik Soviet Socialist Republic" .
+<Tajik_Soviet_Socialist_Republic> <location.country.capital> "Dushanbe" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1q66xxddh" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "Ministry of Agriculture and Food" .
+<Soviet_Union> <organization.organization_member.member_of> "m.059wjk0" .
+<Lithuanian_Soviet_Socialist_Republic> <common.topic.notable_for> "g.1256fnt3b" .
+<Sputnik_program> <time.event.locations> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Eimantas Poderis" .
+<Soviet_Union> <location.location.events> "Tatsinskaya Raid" .
+<Narva_Offensive> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<m.04dq8xh> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Lunokhod_programme> <spaceflight.space_program.sponsor> "Soviet Union" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0pdsl08" .
+<Latvian_Soviet_Socialist_Republic> <location.location.containedby> "Baltic region" .
+<Georgian_Soviet_Socialist_Republic> <common.topic.notable_types> "Country" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0h2brzf" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.1hl3h28qt" .
+<Hovhannes_Danielyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Uzbek_Soviet_Socialist_Republic> <base.schemastaging.context_name.pronunciation> "g.125_pb302" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1yp37csk7" .
+<Soviet_Union> <common.topic.webpage> "m.0b488_v" .
+<m.0h2brzf> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Gevorg_Poghosyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Soviet_Union> <spaceflight.space_program_sponsor.space_programs_sponsored> "Lunokhod programme" .
+<Jānis_Dreimanis> <people.person.place_of_birth> "Latvian Soviet Socialist Republic" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq7d4" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <location.location.events> "Battle of Nietjärvi" .
+<US_vs._USSR> <base.rivalries.rivalry.notable_events> "Cold War" .
+<General_Secretary_of_the_Communist_Party_of_the_Soviet_Union> <government.government_office_or_title.office_holders> "m.049x6_x" .
+<Tajik_Soviet_Socialist_Republic> <location.location.geolocation> "m.0wmx0w9" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0qzf4pw" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Dmitriy Efimovich" .
+<Lithuanian_Soviet_Socialist_Republic> <location.country.currency_used> "Soviet ruble" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1q66sbfl3" .
+<m.04ml3kk> <military.casualties.combatant> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <common.topic.notable_for> "g.12582fz23" .
+<Kazakh_Soviet_Socialist_Republic> <government.governmental_jurisdiction.governing_officials> "m.010rmtms" .
+<m.0_xlzwd> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Sergey_Kutsov> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Currency> <type.type.expected_by> "Currency" .
+<Russian_Soviet_Federative_Socialist_Republic> <common.topic.notable_types> "Country" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Remigijus Pocius" .
+<m.04mkh4k> <military.casualties.combatant> "Soviet Union" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Mustafa Belyalov" .
+<m.09k7wqz> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Byelorussian_Soviet_Socialist_Republic> <organization.organization_founder.organizations_founded> "United Nations" .
+<Currency> <type.type.properties> "Currency Code" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09k1s_d" .
+<Currency> <type.type.expected_by> "Currency" .
+<Cold_War> <time.event.locations> "Europe" .
+<Darius_Maciulevičius> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Artak Andrikyan" .
+<Currency> <type.type.expected_by> "Currency" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.12269f2n" .
+<Romanian_Armies_in_the_Battle_of_Stalingrad> <time.event.locations> "Soviet Union" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "Anatoly Eiramdzhan" .
+<Oleg_Sobirov> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Great_Patriotic_War> <time.event.includes_event> "Battle of Rostov (1941)" .
+<Georgian_Soviet_Socialist_Republic> <location.location.containedby> "Soviet Union" .
+<Currency_Formerly_Used> <rdf-schema#domain> "Country" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.09rkqgn" .
+<Stepan_Pogosyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Armenian_Soviet_Socialist_Republic> <common.topic.notable_for> "g.1256nnszm" .
+<m.049x6z5> <government.government_position_held.office_position_or_title> "General Secretary of the Communist Party of the Soviet Union" .
+<Latvian_Soviet_Socialist_Republic> <common.topic.article> "m.021hr0" .
+<Zamir_Kabulov> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Sergey Badalyan" .
+<m.065x2sh> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.12fgsjt7h" .
+<Byelorussian_Soviet_Socialist_Republic> <location.location.containedby> "Soviet Union" .
+<Karine_Kazinian> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Soviet_Union> <location.location.contains> "Moscow" .
+<Great_Patriotic_War> <time.event.includes_event> "Operation Bagration" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.122vfbgj" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Nerijus Vasiliauskas" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.07qtgxw" .
+<Vladislav_Chernyshov> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Khakim Fuzailov" .
+<Karelo-Finnish_Soviet_Socialist_Republic> <location.country.capital> "Petrozavodsk" .
+<Soviet_Union> <location.location.events> "Eastern Front" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11b6q0cf80" .
+<Sputnik_program> <time.event.includes_event> "Sputnik 1 Mission" .
+<Tatsinskaya_Raid> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Aivaras Laurišas" .
+<Oleg_Kazmirchuk> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Latvian_Soviet_Socialist_Republic> <common.topic.notable_types> "Country" .
+<Polish_Operation_of_the_NKVD> <time.event.locations> "Soviet Union" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Yahyo Azimov" .
+<Battle_of_Rostov_(1941)> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Abdumalik_Abdullajanov> <people.person.place_of_birth> "Tajik Soviet Socialist Republic" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.120_m07r" .
+<Soviet_Union> <military.military_combatant.force_deployments> "m.04kb17d" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Vladislav Chernyshov" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0vmw2k7" .
+<Soviet_Union> <location.country.form_of_government> "Soviet democracy" .
+<Country> <freebase.type_profile.strict_included_types> "Location" .
+<Latvian_Soviet_Socialist_Republic> <common.topic.notable_for> "g.125dhl77z" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "Zamin Huseynov" .
+<Askar_Akayev> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.120ky_x_" .
+<Soviet_Union> <organization.organization_founder.organizations_founded> "Kiev Arsenal" .
+<Latvian_Soviet_Socialist_Republic> <location.country.official_language> "Latvian Language" .
+<Soviet_Union> <government.governmental_jurisdiction.government_positions> "General Secretary of the Communist Party of the Soviet Union" .
+<Currency> <type.type.expected_by> "Currency Formerly Used" .
+<Soviet_Union> <location.location.contains> "g.122t1q4r" .
+<Sputnik_program> <spaceflight.space_program.missions> "Sputnik 1 Mission" .
+<Narva_Offensive> <time.event.locations> "Soviet Union" .
+<Battle_of_Smolensk> <time.event.included_in_event> "Eastern Front" .
+<m.0wg8kz6> <location.partial_containment_relationship.partially_contains> "Soviet Union" .
+<Olga_Kolb> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<m.09k1t0x> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<United_Nations> <organization.organization.founders> "Ukrainian Soviet Socialist Republic" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.049x6zw" .
+<Socialist_state> <government.form_of_government.countries> "Tuvan People's Republic" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Jānis Tutins" .
+<Krasnoye_Selo–Ropsha_Offensive> <time.event.included_in_event> "Eastern Front" .
+<Armenian_Soviet_Socialist_Republic> <common.topic.article> "m.021hry" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Odil Irgashev" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Norayr Musheghian" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11vdhgl22" .
+<Crimean_Offensive> <time.event.locations> "Soviet Union" .
+<Defense_of_Brest_Fortress> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Andrius Upstas" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "Ministry of Finance" .
+<Dainius_Gleveckas> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<m.04kb13m> <military.military_command.military_combatant> "Soviet Union" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.04mt738" .
+<Moscow> <location.location.containedby> "Europe" .
+<Currency> <type.type.expected_by> "Currency" .
+<Central_Committee_of_the_Communist_Party_of_the_Soviet_Union> <government.governmental_body.offices_positions> "General Secretary of the Communist Party of the Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.country.capital> "Yerevan" .
+<Almaty_Tower> <location.location.containedby> "Almaty" .
+<Intersputnik> <organization.organization.founders> "Soviet Union" .
+<Moscow> <location.location.containedby> "Russian Soviet Federative Socialist Republic" .
+<Toktayym_Ümötalieva> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Dmitri Mikhailov" .
+<Baltic_Operation> <time.event.locations> "Soviet Union" .
+<Countries_Formerly_Used> <rdf-schema#domain> "Currency" .
+<Countries_Used> <rdf-schema#domain> "Currency" .
+<Jamshed_Karimov> <people.person.place_of_birth> "Tajik Soviet Socialist Republic" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Zhuldyz Eshimova" .
+<Soviet_Union> <location.location.contains> "g.15dphsnf" .
+<Organization_for_Security_and_Co-operation_in_Europe> <organization.organization.founders> "Soviet Union" .
+<1952_Summer_Olympics> <olympics.olympic_games.participating_countries> "Soviet Union" .
+<Latvian_Soviet_Socialist_Republic> <location.location.containedby> "Soviet Union" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<m.0c5f3d3> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Jafar Irismetov" .
+<Latvian_Soviet_Socialist_Republic> <location.location.geolocation> "m.012n87qd" .
+<Soviet_Union> <military.military_combatant.belongs_to_combatant_group> "Allies of World War II" .
+<Uzbek_Soviet_Socialist_Republic> <location.country.currency_used> "Soviet ruble" .
+<Currency> <rdf-schema#range> "Currency" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.120l2jzd" .
+<Soviet_Union> <location.location.events> "Kamenets-Podolsky Pocket" .
+<Great_Patriotic_War> <military.military_conflict.commanders> "m.0dl79fr" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Sergey Zagrebelny" .
+<Lithuanian_Soviet_Socialist_Republic> <location.location.people_born_here> "Dainius Gleveckas" .
+<Kutaisi> <location.location.containedby> "Georgian Soviet Socialist Republic" .
+<Currency> <type.type.properties> "Source of exchange" .
+<Kharkiv> <location.location.containedby> "Soviet Union" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.122l3jrq" .
+<Currency> <type.type.expected_by> "Currency" .
+<Battle_of_Smolensk> <time.event.included_in_event> "Great Patriotic War" .
+<Dissolution_of_the_Soviet_Union> <time.event.locations> "Soviet Union" .
+<Soviet_Union> <common.topic.notable_types> "Country" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.geolocation> "m.0wmkpx4" .
+<Kirghiz_Soviet_Socialist_Republic> <location.location.people_born_here> "Boris Ebzeyev" .
+<David_Hambartsumyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Caucasian_Shepherd_Dog> <biology.animal_breed.place_of_origin> "Soviet Union" .
+<Bahodir_Pardaev> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "Jamshed Karimov" .
+<m.049x6zw> <government.government_position_held.office_position_or_title> "General Secretary of the Communist Party of the Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Mikael Poghosyan" .
+<Currency> <type.type.expected_by> "Currency" .
+<Harry_Mazar> <people.person.place_of_birth> "Latvian Soviet Socialist Republic" .
+<Povilas_Lukšys> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Cold_War> <base.supertopics.supertopic.related_topics> "Soviet Union" .
+<Soviet_Union> <location.location.events> "Perestroika" .
+<Soviet_Union> <location.location.contains> "Transcaucasian Socialist Federative Soviet Republic" .
+<Friesennot> <film.film.subjects> "Soviet Union" .
+<Soviet_Union_women's_national_volleyball_team> <sports.sports_team.location> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1yqcckndz" .
+<Aleksejs_Semjonovs> <people.person.place_of_birth> "Latvian Soviet Socialist Republic" .
+<USSR_national_volleyball_team> <sports.sports_team.location> "Soviet Union" .
+<Tajik_Soviet_Socialist_Republic> <base.schemastaging.context_name.pronunciation> "g.125_lmg3l" .
+<Soviet_Union> <location.location.events> "Defense of the Adzhimushkay quarry" .
+<Currency> <type.type.expected_by> "Currencies" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "Yuri Salnikov" .
+<Soviet_Union> <location.location.contains> "Estonian Soviet Socialist Republic" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.04hzvwh" .
+<Central_Committee_of_the_Communist_Party_of_the_Soviet_Union> <government.governmental_body.members> "m.049x6zj" .
+<Dmitri_Mamleev> <people.person.place_of_birth> "Uzbek Soviet Socialist Republic" .
+<Currency> <type.type.domain> "Business" .
+<m.04mkh1x> <military.force_strength.combatant> "Soviet Union" .
+<Satymkul_Dzhumanazarov> <people.person.nationality> "Soviet Union" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.0pdp7hd" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11r80wlql" .
+<m.059wjk0> <organization.organization_membership.member> "Soviet Union" .
+<Soviet_Union> <spaceflight.space_program_sponsor.space_programs_sponsored> "Soviet space program" .
+<Soviet_Union> <location.country.official_language> "Russian Language" .
+<Battle_of_Brody> <time.event.included_in_event> "Eastern Front" .
+<Gevorg_Prazyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Central_Committee_of_the_Communist_Party_of_the_Soviet_Union> <government.governmental_body.members> "m.049x6zw" .
+<Shukrullo_Mirsaidov> <people.person.place_of_birth> "Tajik Soviet Socialist Republic" .
+<Currency> <type.type.expected_by> "Purchase currency" .
+<Hayk_Mkrtchyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Soviet_Union> <spaceflight.space_program_sponsor.space_programs_sponsored> "Venera" .
+<Dushanbe> <location.location.containedby> "Asia" .
+<Communist_state> <government.form_of_government.countries> "Soviet Union" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.0dl79fr" .
+<m.07qtjc6> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Ruben Yesayan" .
+<Eastern_Front> <time.event.locations> "Soviet Union" .
+<Estonian_Soviet_Socialist_Republic> <location.country.form_of_government> "Republic" .
+<m.059kvbk> <location.adjoining_relationship.adjoins> "Soviet Union" .
+<Currency> <type.type.expected_by> "Source of exchange" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.07qjy1t" .
+<m.0pdp7hd> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Anarbek_Ormombekov> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.04kb134" .
+<Battle_of_Voronezh> <time.event.included_in_event> "Great Patriotic War" .
+<Latvian_Soviet_Socialist_Republic> <base.schemastaging.context_name.pronunciation> "g.125_qb18j" .
+<Uzbek_Soviet_Socialist_Republic> <government.governmental_jurisdiction.governing_officials> "m.01100gdr" .
+<Zhuldyz_Eshimova> <people.person.place_of_birth> "Kirghiz Soviet Socialist Republic" .
+<Country> <type.type.properties> "Currency Formerly Used" .
+<m.0vmx6tf> <military.military_command.military_combatant> "Soviet Union" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq8fn" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.04kb125" .
+<Khakim_Fuzailov> <people.person.nationality> "Soviet Union" .
+<ZAZ> <organization.organization.founders> "Soviet Union" .
+<General_Secretary_of_the_Communist_Party_of_the_Soviet_Union> <government.government_office_or_title.office_holders> "m.049x6_6" .
+<Currency> <rdf-schema#range> "Currency" .
+<Jānis_Tutins> <people.person.place_of_birth> "Latvian Soviet Socialist Republic" .
+<Kamenets-Podolsky_Pocket> <base.culturalevent.event.entity_involved> "Soviet Union" .
+<m.049x6_k> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1218fmmt" .
+<Vladimir_Movsisyan> <people.person.place_of_birth> "Armenian Soviet Socialist Republic" .
+<Kingisepp–Gdov_Offensive> <time.event.locations> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Romeo Jenebyan" .
+<Europe> <location.location.partiallycontains> "m.0wg8l4s" .
+<Taganrog_during_World_War_II> <time.event.locations> "Soviet Union" .
+<Kirghiz_Soviet_Socialist_Republic> <common.topic.notable_types> "Country" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Berador Abduraimov" .
+<Lithuanian_Soviet_Socialist_Republic> <location.country.capital> "Vilnius" .
+<Tajik_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1q6lghm3c" .
+<Latvian_Soviet_Socialist_Republic> <location.location.people_born_here> "Aleksejs Semjonovs" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Edward Hovhannisyan" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1hhzgqs9s" .
+<Country> <type.type.properties> "Currency Used" .
+<Soviet_Union> <biology.breed_origin.breeds_originating_here> "Caucasian Shepherd Dog" .
+<m.04dq8fn> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Estonian_Soviet_Socialist_Republic> <location.location.containedby> "Soviet Union" .
+<Obverse_of_1_ruble> <common.image.size> "m.02fkjr5" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.0vmx6tf" .
+<m.04dq897> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Andrius_Gedgaudas> <people.person.place_of_birth> "Lithuanian Soviet Socialist Republic" .
+<Soviet_Union> <organization.organization_founder.organizations_founded> "ZAZ" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Saidali Iuldachev" .
+<Soviet_Union> <olympics.olympic_participating_country.athletes> "m.04dq7w1" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "g.122w1h3w" .
+<Soviet_Union> <location.location.contains> "Russian Soviet Federative Socialist Republic" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.1yxkhnfkp" .
+<m.0pdsl08> <olympics.olympic_athlete_affiliation.country> "Soviet Union" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.geolocation> "m.0z8t1yf" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "g.122vxsqx" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Shuhrat Mirkholdirshoev" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Hovhannes Danielyan" .
+<Lithuanian_Soviet_Socialist_Republic> <common.topic.notable_types> "Country" .
+<m.049x6zw> <government.government_position_held.jurisdiction_of_office> "Soviet Union" .
+<Armenian_Soviet_Socialist_Republic> <location.location.people_born_here> "Martik Mkrtumyan" .
+<Soviet_Union> <government.governmental_jurisdiction.governing_officials> "m.0c5f1pl" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.0vmx6wy" .
+<Azerbaijan_Soviet_Socialist_Republic> <location.location.people_born_here> "g.11h1sx19m" .
+<State_Committee_for_Publishing> <government.government_agency.jurisdiction> "Soviet Union" .
+<Soviet_Union> <government.governmental_jurisdiction.agencies> "g.121d6ggv" .
+<Death_and_state_funeral_of_Leonid_Brezhnev> <time.event.locations> "Soviet Union" .
+<Uzbek_Soviet_Socialist_Republic> <location.location.people_born_here> "Vladimir Danchev" .
+<Socialist_state> <government.form_of_government.countries> "Bukharan People's Soviet Republic" .
+<Soviet_Union> <location.location.events> "Defense of Brest Fortress" .
+<Soviet_Union> <military.military_combatant.military_commanders> "m.04ml3jw" .

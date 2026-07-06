@@ -1,0 +1,2047 @@
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010j2qdv" .
+<m.0w3m61v> <award.award_honor.award> "Premier League Golden Boot" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.0110hmsr" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9001b" .
+<1988–89_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Maria_Dolores_dos_Santos_Aveiro> <people.person.nationality> "Portugal" .
+<m.0d46pnq> <soccer.football_player_transfer.selling_team> "Sporting-soc Desportiva De" .
+<Language> <type.property.schema> "Blog" .
+<Santo_António> <common.topic.notable_types> "City/Town/Village" .
+<Real_Madrid_C.F.> <sports.sports_team.league> "m.012dx_5r" .
+<Real_Madrid_C.F.> <award.award_nominee.award_nominations> "m.0z3wb4t" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0qz948t" .
+<2014_Real_Madrid_CF_vs._CA_Osasuna_football_match> <soccer.football_match.goals> "m.010dzrlj" .
+<Manchester_United_F.C.> <sports.sports_team.colors> "White" .
+<m.0w9mp73> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0l3lp3_> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<FC_Barcelona> <sports.sports_team.championships> "1957 Pequeña Copa del Mundo de Clubes" .
+<Football_player> <type.type.expected_by> "Players" .
+<m.0z2c96m> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<m.02k_bcp> <sports.sports_team_roster.player> "Cristiano Ronaldo" .
+<2010_FIFA_World_Cup_Group_G_-_POR_./._BRA> <soccer.football_match.teams> "Portugal national football team" .
+<Forward> <common.topic.webpage> "m.09y3j1b" .
+<Ronald_Reagan> <people.person.gender> "Male" .
+<m.0w3m8p0> <award.award_honor.award> "World Soccer Player of the Year" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1996–97 La Liga" .
+<Ethnicity> <type.property.schema> "Person" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w90f0d" .
+<1957_European_Cup_Final> <soccer.football_match.held_at> "Santiago Bernabéu Stadium" .
+<Ronaldo:_Tested_to_the_Limit> <film.film.produced_by> "Mike McDowall" .
+<Liliana_Catia_Aveiro> <people.person.nationality> "Portugal" .
+<Real_Madrid_C.F.> <common.topic.notable_types> "Football team" .
+<m.0z3v64l> <award.award_nomination.ceremony> "2009 ESPY Awards" .
+<2014_Copa_del_Rey_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.0qz946x> <soccer.football_player_loan.borrowing_team> "Real Madrid C.F." .
+<m.0_srg85> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<m.0_sxcp_> <award.award_nomination.award> "Shorty Award for Apps" .
+<Hala_Madrid> <book.periodical.subjects> "Real Madrid C.F." .
+<José_Dinis_Aveiro> <common.topic.notable_types> "Deceased Person" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ljcb" .
+<Laila_Rouass> <freebase.valuenotation.is_reviewed> "Gender" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m6f5" .
+<Moroccans> <people.ethnicity.people> "Abd el-Krim" .
+<Position(s)> <rdf-schema#range> "Football Position" .
+<Elma_Aveiro> <freebase.valuenotation.has_value> "Ethnicity" .
+<Cristiano_Ronaldo> <soccer.football_player.goals_scored> "m.0g5h3bt" .
+<m.0y5556g> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Carlos_Padrós> <freebase.valuenotation.has_value> "Parents" .
+<2004_Summer_Olympics> <olympics.olympic_games.sports> "Football" .
+<Euro_2012:_The_Score> <common.topic.notable_types> "Film" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w97r93" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<m.010dzrlj> <soccer.football_goal.match> "2014 Real Madrid CF vs. CA Osasuna football match" .
+<m.09ytzf1> <common.webpage.topic> "Forward" .
+<Moroccans> <people.ethnicity.people> "Laila Rouass" .
+<m.0w_znzz> <freebase.valuenotation.is_reviewed> "Salary" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m5yl" .
+<m.0w3m9rn> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0y82_zd> <olympics.olympic_athlete_affiliation.country> "Portugal" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9dv7p" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1953–54 La Liga" .
+<FIFA_Ballon_d'Or> <award.award.category> "FIFA Ballon d'Or" .
+<Forward> <common.topic.webpage> "m.09wb10c" .
+<Children> <rdf-schema#range> "Person" .
+<m.0w3m5px> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Cristiano_Ronaldo> <soccer.football_player.goals_scored> "m.0k061tt" .
+<m.0w8wn3z> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Spanish_Language> <language.human_language.countries_spoken_in> "United States of America" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ld4c" .
+<m.09y8x67> <common.webpage.topic> "Forward" .
+<Real_Madrid_C.F.> <book.periodical_subject.periodicals> "Hala Madrid" .
+<m.0c8d4r5> <common.webpage.in_index> "Blissful Master Index" .
+<FIFA_Ballon_d'Or> <award.award_category.category_of> "FIFA Ballon d'Or" .
+<RedOne> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<2014_Real_Madrid_CF_vs._CA_Osasuna_football_match> <soccer.football_match.held_at> "Santiago Bernabéu Stadium" .
+<Portugal> <location.location.primarily_containedby> "Europe" .
+<Santos> <fictional_universe.fictional_character.gender> "Male" .
+<1996–97_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<UEFA_Team_of_the_Year> <award.award_category.winners> "m.0w3m93k" .
+<Ronaldo:_Tested_to_the_Limit> <film.film.language> "English Language" .
+<Santos> <fictional_universe.fictional_character.ethnicity> "Portuguese people" .
+<m.0_22qp1> <award.award_honor.ceremony> "2013 FIFA Ballon d'Or" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h36nh" .
+<m.0yv273q> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<m.0j5172y> <freebase.valuenotation.is_reviewed> "Salary" .
+<m.0_srg85> <freebase.valuenotation.has_no_value> "Notes/Description" .
+<Parents> <type.property.expected_type> "Person" .
+<1956_Pequeña_Copa_del_Mundo_de_Clubes> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Lance_Kawas> <people.person.gender> "Male" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "2000 UEFA Champions League Final" .
+<Tahar_Ben_Jelloun> <people.person.ethnicity> "Moroccans" .
+<Manchester_United_F.C.> <sports.sports_team.sport> "Football" .
+<m.0y555dg> <award.award_honor.award> "Goal 50" .
+<Cristiano_Ronaldo> <common.topic.webpage> "m.0cj9qkv" .
+<Cristiano_Ronaldo> <common.topic.article> "m.02xt70" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m59k" .
+<m.0w9gt0g> <freebase.valuenotation.has_no_value> "To" .
+<Forward> <common.topic.webpage> "m.09w2grw" .
+<Cristiano_Ronaldo> <film.person_or_entity_appearing_in_film.films> "m.0ngp9w9" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h374r" .
+<m.0_qzkvh> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Manchester_United_F.C.> <common.topic.subjects> "http://voetbalshirtsdirect.nl" .
+<m.0l3l892> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.09y3j1b> <common.webpage.topic> "Forward" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0y5556v" .
+<Football_player> <base.lightweight.profession.specialization_of> "Athletes and Sports Competitors" .
+<Best_International_Athlete_ESPY_Award> <award.award_category.nominees> "m.0z3v64l" .
+<m.0l3lp6q> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Juliette_Binoche> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Language> <rdf-schema#domain> "Blog" .
+<Cristiano_Ronaldo> <soccer.football_player.statistics> "m.0w8w78v" .
+<m.0w94csq> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Trevor_Myles> <people.person.gender> "Male" .
+<Deceased_Person> <freebase.type_hints.included_types> "Topic" .
+<m.0w8w7f0> <soccer.football_player_stats.player> "Cristiano Ronaldo" .
+<Forward> <common.topic.webpage> "m.09y8x67" .
+<Ronaldo:_Tested_to_the_Limit> <common.topic.notable_for> "g.1259xs_87" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m9g3" .
+<Manchester_United_F.C.> <soccer.football_team.sold_players> "m.0d46pnx" .
+<m.0b48241> <common.webpage.topic> "Forward" .
+<2010–11_Copa_del_Rey> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.0w9gc5v> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Elma_Aveiro> <freebase.valuenotation.has_value> "Height" .
+<m.0w3m5w1> <award.award_honor.award> "Premier League Player of the Month" .
+<Badr_Hari> <freebase.valuenotation.has_value> "Parents" .
+<Maria_Dolores_dos_Santos_Aveiro> <freebase.valuenotation.has_value> "Ethnicity" .
+<2014_Barcelona_F.C._vs_Real_Madrid_C.F._football_match> <time.event.locations> "Santiago Bernabéu Stadium" .
+<Real_Madrid_C.F.> <common.topic.notable_for> "g.125cztzzt" .
+<Ronald_Reagan> <freebase.valuenotation.is_reviewed> "Parents" .
+<Central_Atlas_Tamazight> <language.human_language.language_family> "Berber languages" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm3bq" .
+<m.0yv273q> <award.award_nomination.award> "FIFA Ballon d'Or" .
+<m.010rnpty> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Country> <freebase.type_profile.published> "Published" .
+<Australian_rules_football_player> <common.topic.notable_types> "Profession" .
+<Portuguese_people> <common.topic.image> "Y-Haplogroup R1 distribution" .
+<Real_Madrid_C.F.> <sports.sports_team.venue> "m.0n7ghz8" .
+<Berber_languages> <language.language_family.languages> "Central Atlas Tamazight" .
+<Viva_Ronaldo> <freebase.valuenotation.is_reviewed> "Blogger" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lj6j" .
+<Globos_de_Ouro_2008> <film.film.personal_appearances> "m.0zt041c" .
+<Cristiano_Ronaldo> <common.topic.image> "Cristiano Ronaldo (cropped)" .
+<m.0wrlvgk> <sports.sports_team_coach_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wck1" .
+<Cristiano_Ronaldo> <base.schemastaging.person_extra.net_worth> "m.0j_0nnr" .
+<Real_Madrid_C.F.> <freebase.valuenotation.is_reviewed> "Leadership" .
+<2014_UEFA_Champions_League_Final> <soccer.football_match.disciplinary_action> "m.010p4jjj" .
+<Eden_Riegel> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Cristiano_Ronaldo> <soccer.football_player.matches_played> "m.0g5mq32" .
+<m.0y87y_h> <freebase.valuenotation.has_value> "Ceremony" .
+<PFA_Team_of_the_Year> <award.award_category.winners> "m.0y5556g" .
+<m.0y555dg> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0w9nh66> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Football_player> <common.topic.notable_types> "Profession" .
+<Amelle_Berrabah> <freebase.valuenotation.is_reviewed> "Gender" .
+<Manchester_United_F.C.> <freebase.valuenotation.is_reviewed> "Founders" .
+<Midfielder> <common.topic.article> "m.02nzbj" .
+<Liliana_Catia_Aveiro> <freebase.valuenotation.has_value> "Height" .
+<m.0z2213k> <award.award_nomination.award> "Best International Athlete ESPY Award" .
+<Spouse> <owl#inverseOf> "Spouse (or domestic partner)" .
+<2008_FIFA_World_Player_of_the_Year> <award.award_ceremony.nominees> "m.0z471f4" .
+<m.0w3m5yl> <award.award_honor.award> "Premier League Player of the Month" .
+<Lance_Kawas> <freebase.valuenotation.has_value> "Weight" .
+<m.0jyw9j6> <sports.sports_team_roster.player> "Cristiano Ronaldo" .
+<Person> <type.type.properties> "Education" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01150npz" .
+<m.0crt6mw> <sports.sports_league_participation.team> "Real Madrid C.F." .
+<London> <common.topic.notable_types> "City/Town/Village" .
+<m.0w984nx> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <common.topic.notable_for> "g.125cdp0hz" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8y0dr" .
+<Height> <rdf-schema#domain> "Person" .
+<2014_Real_Madrid_CF_vs._CA_Osasuna_football_match> <soccer.football_match.goals> "m.010dzr92" .
+<1966_European_Cup_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Place_of_birth> <owl#inverseOf> "People born here" .
+<Tahar_Ben_Jelloun> <people.person.languages> "French" .
+<m.0z471f4> <award.award_nomination.award> "FIFA World Player of the Year" .
+<m.011nr6zg> <award.award_honor.award> "UEFA Best Player in Europe Award" .
+<m.0wgx5gk> <celebrities.romantic_relationship.celebrity> "Cristiano Ronaldo" .
+<m.0w3m9bl> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<1992–93_Copa_del_Rey> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Maria_Dolores_dos_Santos_Aveiro> <people.person.parents> "Jose Vivieros" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1954–55 La Liga" .
+<Madeira> <location.location.people_born_here> "Liliana Catia Aveiro" .
+<Forward> <common.topic.webpage> "m.09w2q_3" .
+<m.0d46pnq> <soccer.football_player_transfer.player> "Cristiano Ronaldo" .
+<Gender> <rdf-schema#domain> "Person" .
+<Portugal_national_football_team> <soccer.football_team.matches> "UEFA Euro 2012 Quarter-final I" .
+<m.011007d7> <award.award_nomination.award> "Best International Athlete ESPY Award" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w99124" .
+<Profession> <type.property.expected_type> "Profession" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w96g0h" .
+<Sporting-soc_Desportiva_De> <common.topic.notable_types> "Football team" .
+<Real_Madrid_C.F.> <soccer.football_team.matches> "2014 Real Madrid vs Bayern Munich football match" .
+<A_long-haired_man,_wearing_a_white_football_shirt,_with_both_hands_lifted_above_his_head> <common.image.appears_in_topic_gallery> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lj8v" .
+<Irina_Shayk> <people.person.gender> "Female" .
+<m.0z23jls> <award.award_nomination.ceremony> "2013 ESPY Awards" .
+<From> <rdf-schema#range> "Date/Time" .
+<Golden_Shoes> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Portugal_national_football_team> <soccer.football_team.player_statistics> "m.0w8w7f0" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ln_m" .
+<Liliana_Catia_Aveiro> <freebase.valuenotation.has_value> "Ethnicity" .
+<Tariq_ibn_Ziyad> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0l3l37n> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.0l3l871> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<2014_UEFA_Super_Cup> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.0z2c96m> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Parents> <type.property.reverse_property> "Children" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wv7n" .
+<m.09yfnh5> <common.webpage.topic> "Forward" .
+<m.0_qzkvh> <award.award_honor.award> "IFFHS World's Best  Top Division Goal Scorer" .
+<Logo_Real_Madrid> <common.image.appears_in_topic_gallery> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lny5" .
+<Maria_Dolores_dos_Santos_Aveiro> <people.person.profession> "Cook" .
+<m.0w9dv7p> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <soccer.football_player.matches_played> "m.0c1stfg" .
+<1974–75_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Fashion_entrepreneur> <people.profession.people_with_this_profession> "Randy Hubbard Parker" .
+<Celebrity> <common.topic.article> "m.047jqv5" .
+<Moroccans> <common.topic.image> "Moroccan people mosaicg" .
+<m.0w8y0dr> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Lance_Kawas> <freebase.valuenotation.has_value> "Place of birth" .
+<José_Dinis_Aveiro> <people.person.ethnicity> "Portuguese people" .
+<Forward> <common.topic.webpage> "m.09y1l4x" .
+<m.05bhn23> <common.webpage.topic> "Real Madrid C.F." .
+<Football_player> <common.topic.notable_for> "g.125fgx11_" .
+<Midfielder> <sports.sports_position.sport> "Football" .
+<Saïd_Taghmaoui> <freebase.valuenotation.is_reviewed> "Gender" .
+<People_born_here> <type.property.schema> "Location" .
+<End_date> <type.property.expected_type> "Date/Time" .
+<Laila_Rouass> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Portugal_national_football_team> <soccer.football_team.matches> "2010 FIFA World Cup Round of 16 - ESP ./. POR" .
+<m.0w3m9rn> <award.award_honor.award> "g.121dc5yv" .
+<m.0w3m61v> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Siblings> <type.property.schema> "Person" .
+<Blogger> <type.property.schema> "Blog" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010k_wpk" .
+<Eden_Riegel> <people.person.ethnicity> "Moroccans" .
+<Laila_Rouass> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Elma_Aveiro> <freebase.valuenotation.has_value> "Country of nationality" .
+<Person> <type.type.properties> "Gender" .
+<Real_Madrid_C.F.> <common.topic.webpage> "m.05bhn23" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8yrxd" .
+<Cause_of_death> <rdf-schema#domain> "Deceased Person" .
+<Laila_Rouass> <people.person.gender> "Female" .
+<Eden_Riegel> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011cm96d" .
+<m.0y82_zd> <olympics.olympic_athlete_affiliation.athlete> "Cristiano Ronaldo" .
+<Liliana_Catia_Aveiro> <people.person.place_of_birth> "Madeira" .
+<Fashion_entrepreneur> <people.profession.people_with_this_profession> "Elisa Salinas" .
+<Maria_Dolores_dos_Santos_Aveiro> <people.person.children> "Liliana Catia Aveiro" .
+<Forward> <common.topic.webpage> "m.09yfbzc" .
+<Cristiano_Ronaldo> <sports.pro_athlete.sports_played_professionally> "m.0d5fdtr" .
+<Moroccans> <people.ethnicity.languages_spoken> "Spanish Language" .
+<m.0fpskk6> <common.webpage.in_index> "Blissful Master Index" .
+<Soccer_Player> <common.topic.notable_types> "Profession" .
+<Forward> <common.topic.webpage> "m.09y0cx8" .
+<Student> <rdf-schema#range> "Person" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0y553wg" .
+<Cristiano_Ronaldo> <freebase.valuenotation.is_reviewed> "Weight" .
+<m.0g9m454> <soccer.football_player_match_participation.team> "Portugal national football team" .
+<m.09wkysw> <common.webpage.topic> "Forward" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l37w" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h36x8" .
+<Real_Madrid_C.F.> <soccer.football_team.matches> "2014 Real Madrid CF vs. CA Osasuna football match" .
+<1998_UEFA_Champions_League_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.0z9c358> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0c1d2_r> <soccer.football_disciplinary_action.match> "2010 FIFA World Cup Group G - CIV ./. POR" .
+<m.0g5mq32> <soccer.football_player_match_participation.team> "Portugal national football team" .
+<C_ronaldo_cropped> <common.image.appears_in_topic_gallery> "Olive skin" .
+<Jamel_Debbouze> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Adolfo_Meléndez> <organization.organization_founder.organizations_founded> "Real Madrid C.F." .
+<Canadian_football_player> <people.profession.specialization_of> "Football player" .
+<Portuguese_Language> <language.human_language.main_country> "Portugal" .
+<m.0l3lp0k> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Santiago_Bernabéu_Stadium> <soccer.football_pitch.matches> "2014 Real Madrid vs Borussia Dortmund football match" .
+<Cristiano_Ronaldo> <soccer.football_player.transfers> "m.0d46pnx" .
+<m.0w91mw3> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0w3m90z> <award.award_honor.award> "UEFA Team of the Year" .
+<RedOne> <people.person.ethnicity> "Moroccans" .
+<m.0z471f4> <award.award_nomination.ceremony> "2008 FIFA World Player of the Year" .
+<m.0jyw9hw> <sports.sports_team_roster.position> "Forward" .
+<m.0w3m991> <award.award_honor.award> "UEFA Team of the Year" .
+<Ethnicity> <freebase.type_profile.strict_included_types> "Topic" .
+<Eden_Riegel> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Real_Madrid_C.F.> <soccer.football_team.matches> "2014 Sevilla FC vs. Real Madrid football match" .
+<m.0l3l3b0> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Maria_Dolores_dos_Santos_Aveiro> <people.person.spouse_s> "m.0w1gh70" .
+<Adolfo_Meléndez> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0w9bflc> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Forward> <common.topic.article> "m.027crf" .
+<Viva_Ronaldo> <common.topic.notable_for> "g.1q3sh8kdd" .
+<m.0jyw9hw> <sports.sports_team_roster.player> "Cristiano Ronaldo" .
+<Cause_of_death> <type.property.schema> "Deceased Person" .
+<1934_Copa_del_Presidente_de_la_República> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<1981–82_Copa_del_Rey> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Myriem_Roussel> <people.person.gender> "Female" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w96fnq" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1985–86 La Liga" .
+<m.0w2msyx> <freebase.valuenotation.has_value> "Character" .
+<m.09ytlx7> <common.webpage.topic> "Forward" .
+<m.02k_bcp> <sports.sports_team_roster.team> "Real Madrid C.F." .
+<Place_of_death> <type.property.expected_type> "Location" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ln_1" .
+<m.0w3m9n0> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0l3l390> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0qdm0hj" .
+<m.0j5172y> <base.schemastaging.athlete_salary.currency> "Euro" .
+<Fashion_entrepreneur> <people.profession.people_with_this_profession> "Trevor Myles" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l39q" .
+<FIFA_Ballon_d'Or> <award.award_category.winners> "m.0_22qp1" .
+<m.0g5mq32> <soccer.football_player_match_participation.player> "Cristiano Ronaldo" .
+<Tariq_ibn_Ziyad> <freebase.valuenotation.has_value> "Parents" .
+<Real_Madrid_C.F.> <sports.sports_team.coaches> "m.0w_tlh8" .
+<Mohammed_VI_of_Morocco> <people.person.parents> "Hassan II of Morocco" .
+<m.0w9kv95> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0c1d2_r> <soccer.football_disciplinary_action.punishment> "Yellow card" .
+<m.0g5h3bt> <soccer.football_goal.point_awarded_to> "Portugal national football team" .
+<m.0zt041c> <film.personal_film_appearance.person> "Cristiano Ronaldo" .
+<Canadian_football_player> <common.topic.notable_types> "Profession" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0_qzkvh" .
+<1985–86_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.0w3m9km> <award.award_honor.award> "g.121dc5yv" .
+<Jamel_Debbouze> <people.person.gender> "Male" .
+<m.0qdm2s3> <award.award_honor.award> "European Golden Shoe" .
+<Cristiano_Ronaldo_Pictures> <common.resource.annotations> "m.0cj9qkv" .
+<m.02k_bcp> <sports.sports_team_roster.position> "Forward" .
+<English_Language> <language.human_language.main_country> "United States of America" .
+<Irina_Shayk> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0w8w78v> <soccer.football_player_stats.player> "Cristiano Ronaldo" .
+<Portugal_national_football_team> <soccer.football_team.matches> "2010 FIFA World Cup Group G - POR ./. BRA" .
+<Juliette_Binoche> <freebase.valuenotation.is_reviewed> "Children" .
+<m.0_qzlzy> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<Hugo_Aveiro> <freebase.valuenotation.has_value> "Place of birth" .
+<1905_Copa_del_Rey> <time.event.next_in_series> "1906 Copa del Rey" .
+<Country_of_nationality> <type.property.schema> "Person" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9gc5v" .
+<Gender> <type.property.schema> "Person" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9l42z" .
+<Latin_European_peoples> <people.ethnicity.includes_groups> "Portuguese people" .
+<Real_Madrid_C.F.> <base.schemastaging.organization_extra.phone_number> "m.010b0h91" .
+<2011_FIFA_Ballon_d'Or> <award.award_ceremony.nominees> "m.0z2c96m" .
+<m.09jy3d3> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.players> "Cristiano Ronaldo" .
+<Rifian_language> <language.human_language.language_family> "Berber languages" .
+<m.0j5172y> <freebase.valuenotation.is_reviewed> "Athlete" .
+<Juliette_Binoche> <people.person.ethnicity> "Moroccans" .
+<Forward> <common.topic.webpage> "m.09w2mrd" .
+<Profession> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0w95vf8> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9mjb4" .
+<m.0d5fdtr> <freebase.valuenotation.has_no_value> "To" .
+<Person> <type.type.properties> "Date of birth" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l3b0" .
+<Cristiano_Ronaldo> <sports.pro_athlete.teams> "m.02k_bcp" .
+<Cristiano_Ronaldo> <soccer.football_player.statistics> "m.0w9gdcb" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l867" .
+<Marouane_Chamakh> <people.person.profession> "Football player" .
+<Student> <type.property.schema> "Education" .
+<m.0z3v5d2> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Moroccans> <people.ethnicity.people> "Amelle Berrabah" .
+<m.09wvmyh> <common.webpage.topic> "Forward" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w90yrg" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0_srg85" .
+<m.0w8wdnl> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0w3m59k> <award.award_honor.award> "FWA Footballer of the Year" .
+<2013_FIFA_Ballon_d'Or> <award.award_announcement.award> "FIFA Ballon d'Or" .
+<m.0w9jpgq> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Midfielder> <common.topic.notable_for> "g.1258z_bzd" .
+<Sir_Matt_Busby_Player_of_the_Year> <award.award_category.winners> "m.0qdm0hj" .
+<m.0w3m7z4> <award.award_honor.award> "FIFA World Player of the Year" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wdnl" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m9cm" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<m.0w9f11l> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<FifPro_Special_Young_Player_of_the_Year> <award.award_category.winners> "m.0w3m4pv" .
+<m.0w9mf_b> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Blog> <type.type.properties> "Language" .
+<m.02sf29t> <sports.sports_team_roster.team> "Portugal national football team" .
+<FIFA_World_Player_of_the_Year> <award.award_category.winners> "m.0w3m7z4" .
+<Celebrity> <freebase.type_profile.kind> "Description" .
+<superscommesse.it> <common.topic.subjects> "Real Madrid C.F." .
+<Weight> <type.property.schema> "Person" .
+<Manchester_United_F.C.> <freebase.valuenotation.is_reviewed> "Leadership" .
+<Best_International_Athlete_ESPY_Award> <award.award_category.nominees> "m.0z2213k" .
+<Hugo_Aveiro> <common.topic.notable_types> "Person" .
+<m.02sf29t> <freebase.valuenotation.has_no_value> "To" .
+<m.03phcbp> <people.place_lived.person> "Cristiano Ronaldo" .
+<m.0l3lp5t> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.0zt041c> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<1955_Pequeña_Copa_del_Mundo_de_Clubes> <time.event.previous_in_series> "1953 Pequeña Copa del Mundo de Clubes (2nd tournament)" .
+<Cristiano_Ronaldo> <freebase.valuenotation.is_reviewed> "Height" .
+<Portuguese_Language> <language.human_language.countries_spoken_in> "Portugal" .
+<m.0l3ld0s> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.0l3lp1d> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <sports.sports_team.sport> "Football" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l3b9" .
+<2014_Real_Madrid_CF_vs._CA_Osasuna_football_match> <time.event.locations> "Santiago Bernabéu Stadium" .
+<Location> <freebase.type_profile.published> "Published" .
+<m.09y38j5> <common.webpage.topic> "Forward" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0yx2z6_" .
+<Pichichi_Trophy> <award.award.category> "Pichichi Trophy" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0qdm08n" .
+<Omar_Berdouni> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<UEFA_Team_of_the_Year> <award.award_category.winners> "m.0w3m991" .
+<Badr_Hari> <people.person.ethnicity> "Moroccans" .
+<m.0zg3rqp> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Best_International_Athlete_ESPY_Award> <award.award_category.nominees> "m.011007d7" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9mhv2" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m570" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1988–89 Copa del Rey" .
+<m.0w8w78v> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0w9fv1y> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Saïd_Taghmaoui> <freebase.valuenotation.has_value> "Parents" .
+<Weight> <rdf-schema#range> "Floating Point Number" .
+<World_Soccer_Player_of_the_Year> <award.award_category.winners> "m.0w3m8p0" .
+<Amelle_Berrabah> <people.person.gender> "Female" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ld2x" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1934 Copa del Presidente de la República" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011jxhnr" .
+<Profession> <freebase.type_profile.published> "Published" .
+<m.0z4b6yl> <award.award_nomination.ceremony> "2007 FIFA World Player of the Year" .
+<Funchal> <common.topic.notable_types> "City/Town/Village" .
+<CristianoRonaldo_la.jpg.jpeg> <common.image.size> "m.0d46z0y" .
+<Portuguese_people> <people.ethnicity.languages_spoken> "Galician Language" .
+<m.0zg3rqp> <award.award_nomination.award> "FIFA Ballon d'Or" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1959 European Cup Final" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1985 UEFA Cup Final" .
+<Cristiano_Ronaldo> <people.person.gender> "Male" .
+<Portugal> <location.country.languages_spoken> "Portuguese Language" .
+<London> <base.biblioness.bibs_topic.subsumes> "London" .
+<Portuguese_people> <people.ethnicity.languages_spoken> "Portuguese Language" .
+<Moroccans> <people.ethnicity.people> "Marouane Fellaini" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ld36" .
+<Viva_Ronaldo> <award.award_nominated_work.award_nominations> "m.0_sxcp_" .
+<Pichichi_Trophy> <award.award_category.winners> "m.0y87y_h" .
+<Profession> <owl#inverseOf> "People With This Profession" .
+<m.0w9pjc1> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Tahar_Ben_Jelloun> <people.person.gender> "Male" .
+<Blogger> <rdf-schema#domain> "Blog" .
+<Real_Madrid_C.F.> <freebase.valuenotation.is_reviewed> "Headquarters" .
+<Football_player> <visual_art.art_subject.artwork_on_the_subject> "Dynamism of a Soccer Player" .
+<Cristiano_Ronaldo> <people.person.children> "Cristiano Ronaldo Jr." .
+<2014_UEFA_Champions_League_Final> <soccer.football_match.players> "m.010p3jl2" .
+<Place_of_birth> <type.property.reverse_property> "People born here" .
+<Cristiano_Ronaldo> <celebrities.celebrity.sexual_relationships> "m.0wgx5gk" .
+<m.0_sxcp_> <award.award_nomination.ceremony> "6th Annual Shorty Awards" .
+<m.0w3m90z> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Moroccans> <people.ethnicity.people> "Ahmed Aboutaleb" .
+<m.0w3m9ry> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "2014 UEFA Super Cup" .
+<Moroccans> <people.ethnicity.languages_spoken> "Berber languages" .
+<Student> <rdf-schema#domain> "Education" .
+<Cristiano_Ronaldo> <soccer.football_player.position_s> "Midfielder" .
+<Euro> <finance.currency.countries_used> "Portugal" .
+<Goal_III:_Taking_on_the_World> <film.film.subjects> "Football" .
+<Karima_Adebibe> <people.person.ethnicity> "Moroccans" .
+<Initial_release_date> <type.property.schema> "Film" .
+<Onze_d'Or> <award.award_category.category_of> "Onze d'Or" .
+<m.0_srg85> <award.award_nomination.ceremony> "6th Annual Shorty Awards" .
+<Profession> <freebase.type_hints.included_types> "Topic" .
+<Hugo_Aveiro> <freebase.valuenotation.has_value> "Height" .
+<Tahar_Ben_Jelloun> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<José_Dinis_Aveiro> <people.person.children> "Elma Aveiro" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lp5k" .
+<Ethnicity> <freebase.type_hints.included_types> "Topic" .
+<m.0w8wckx> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0y5556v> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Date_of_birth> <rdf-schema#range> "Date/Time" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l37n" .
+<Omar_Berdouni> <people.person.ethnicity> "Moroccans" .
+<Amelle_Berrabah> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0_22qp1" .
+<Celebrity> <common.topic.article> "m.047jsth" .
+<Forward> <common.topic.webpage> "m.09x_vnh" .
+<m.0z3v64l> <award.award_nomination.award> "Best International Athlete ESPY Award" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8w78v" .
+<m.0w96f1d> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0z9c358> <award.award_nomination.award> "Best International Athlete ESPY Award" .
+<2009_Laureus_World_Sports_Awards> <award.award_ceremony.nominees> "m.0yx2z6_" .
+<m.0d46pnq> <soccer.football_player_transfer.purchasing_team> "Manchester United F.C." .
+<m.0w9mhv2> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m9n0" .
+<Marouane_Fellaini> <people.person.profession> "Football player" .
+<Marouane_Fellaini> <soccer.football_player.position_s> "Forward" .
+<m.03phcbp> <people.place_lived.location> "Madeira" .
+<m.0w96cy8> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm3cv" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1992–93 Copa del Rey" .
+<Adolfo_Meléndez> <people.person.gender> "Male" .
+<Tahar_Ben_Jelloun> <freebase.valuenotation.is_reviewed> "Gender" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065t4h" .
+<C_ronaldo_cropped> <common.image.size> "m.03t6k79" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h36jw" .
+<1908_Copa_del_Rey> <time.event.previous_in_series> "1907 Copa del Rey" .
+<m.0w3m7z4> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Jamel_Debbouze> <freebase.valuenotation.is_reviewed> "Gender" .
+<m.0qdlzfd> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Cristiano_Ronaldo> <sports.pro_athlete.teams> "m.0jyw9hw" .
+<Person> <freebase.type_profile.published> "Published" .
+<m.0g9lr08> <soccer.football_player_match_participation.match> "2010 FIFA World Cup Group G - POR ./. PRK" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w957x1" .
+<m.0z3wb4t> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Cristiano_Ronaldo> <people.person.parents> "José Dinis Aveiro" .
+<FIFA_World_Player_of_the_Year> <award.award.category> "FIFA World Player of the Year" .
+<Celebrity> <type.type.expected_by> "Celebrity represented" .
+<m.0b6r7d6> <common.webpage.category> "Tag" .
+<2014_Copa_del_Rey_Final> <sports.sports_championship_event.runner_up> "FC Barcelona" .
+<Cristiano_Ronaldo> <freebase.valuenotation.has_no_value> "Spouse (or domestic partner)" .
+<Hala_Madrid> <book.periodical.subjects> "Football" .
+<2013_FIFA_Ballon_d'Or> <award.award_ceremony.nominees> "m.0zg3rqp" .
+<José_Dinis_Aveiro> <freebase.valuenotation.has_value> "Cause of death" .
+<Position(s)> <type.property.expected_type> "Football Position" .
+<European_Golden_Shoe> <award.award_category.winners> "m.0qdm2yq" .
+<Moroccans> <people.ethnicity.people> "Myriem Roussel" .
+<m.0g5h3bt> <soccer.football_goal.match> "2010 FIFA World Cup Group G - POR ./. PRK" .
+<Celebrity> <type.type.properties> "Legal entanglements" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9mj4n" .
+<1952_Pequeña_Copa_del_Mundo_de_Clubes> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Saïd_Taghmaoui> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<2014_UEFA_Champions_League_Final> <soccer.football_match.goals> "m.010p4jhc" .
+<m.0z3v5d2> <award.award_nomination.award> "FIFA World Player of the Year" .
+<Omar_Berdouni> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<m.09x_372> <common.webpage.topic> "Forward" .
+<m.011007d7> <award.award_nomination.ceremony> "2014 ESPY Awards" .
+<Forward> <common.topic.webpage> "m.09wvxvh" .
+<Shorty_Award_for_Athlete> <award.award_category.nominees> "m.0_srg85" .
+<Ballon_d'Or> <award.award_category.disciplines_or_subjects> "Football" .
+<Berber_languages> <language.language_family.languages> "Rifian language" .
+<m.0z450rf> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0y87y_h> <award.award_honor.award> "Pichichi Trophy" .
+<Real_Madrid_C.F.> <base.schemastaging.sports_team_extra.training_ground> "m.0x23g_k" .
+<m.010p4jjj> <soccer.football_disciplinary_action.match> "2014 UEFA Champions League Final" .
+<m.0y5555z> <award.award_honor.award> "PFA Team of the Year" .
+<Cristiano> <internet.blog.language> "English Language" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8yx8c" .
+<Film> <type.type.properties> "Directed by" .
+<m.0l3ld5f> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ljbn" .
+<Football_Position> <type.type.properties> "Players" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lp2g" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1905 Copa del Rey" .
+<Real_Madrid_C.F.> <soccer.football_team.matches> "2014 UEFA Champions League Final" .
+<m.0w9ntqq> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Forward> <common.topic.webpage> "m.09w7p24" .
+<m.0w3m991> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0yx2z6_> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<José_Dinis_Aveiro> <people.person.children> "Liliana Catia Aveiro" .
+<European_Golden_Shoe> <award.award_category.winners> "m.0qdm2s3" .
+<Real_Madrid_C.F.> <base.schemastaging.organization_extra.phone_number> "m.010b0nx7" .
+<m.0w3m5t1> <award.award_honor.award> "Premier League Player of the Month" .
+<1907_Copa_del_Rey> <time.event.next_in_series> "1908 Copa del Rey" .
+<Hala_Madrid> <book.periodical.language> "Spanish Language" .
+<m.0w1gh70> <people.marriage.spouse> "José Dinis Aveiro" .
+<m.0w8y4jw> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m8p0" .
+<m.0w9f0zb> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.010p4jjj> <soccer.football_disciplinary_action.player> "Cristiano Ronaldo" .
+<m.0w3m5b_> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Football> <olympics.olympic_sport.olympic_games_contested> "2004 Summer Olympics" .
+<Euro_2012:_The_Score> <film.film.personal_appearances> "m.0zt02sq" .
+<Adolfo_Meléndez> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Student> <type.property.expected_type> "Person" .
+<Globos_de_Ouro_2007> <common.topic.notable_types> "Film" .
+<Real_Madrid_C.F.> <soccer.football_team.purchased_players> "m.0d46pnx" .
+<m.0w3m4ty> <award.award_honor.award> "PFA Young Player of the Year" .
+<1917_Copa_del_Rey> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9f11l" .
+<UEFA_Team_of_the_Year> <award.award_category.winners> "m.0w3m90z" .
+<m.0w_znzz> <freebase.valuenotation.is_reviewed> "Currency" .
+<m.0w8wdzl> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Premier_League_Player_of_the_Month> <award.award_category.winners> "m.0w3m5t1" .
+<Manchester_United_F.C.> <freebase.valuenotation.is_reviewed> "Headquarters" .
+<Cristiano_Ronaldo> <people.person.place_of_birth> "Santo António" .
+<Australian_rules_football_player> <people.profession.specialization_of> "Athlete" .
+<Golden_Shoes> <film.film.subjects> "Cristiano Ronaldo" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h36z1" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h367k" .
+<m.0l3l89l> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <common.topic.article> "m.02w63ht" .
+<Portuguese_Language> <language.human_language.region> "Europe" .
+<m.0j517cc> <people.sibling_relationship.sibling> "Cristiano Ronaldo" .
+<Country_of_nationality> <type.property.expected_type> "Country" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h372t" .
+<1960_Intercontinental_Cup> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<1974–75_Copa_del_Generalísimo> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.010dzr92> <soccer.football_goal.scorer> "Cristiano Ronaldo" .
+<FC_Barcelona> <freebase.valuenotation.is_reviewed> "Founders" .
+<m.0w2msyx> <film.performance.actor> "Cristiano Ronaldo" .
+<m.0cj9qkv> <common.webpage.topic> "Cristiano Ronaldo" .
+<Portugal_national_football_team> <common.topic.notable_types> "Football team" .
+<m.0l3l8b4> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.0w_znzz> <base.schemastaging.athlete_salary.currency> "Euro" .
+<m.0w9frhv> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Siblings> <type.property.expected_type> "Sibling Relationship" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0qdlzfd" .
+<Liliana_Catia_Aveiro> <freebase.valuenotation.has_value> "Education" .
+<PFA_Fans'_Player_of_the_Year> <award.award_category.winners> "m.0w3m58s" .
+<Real_Madrid_C.F.> <organization.organization.leadership> "m.0w3z7xk" .
+<Cristiano_Ronaldo> <common.topic.image> "Maalipörssiä johtava Manchester Unitedin Cristiano Ronaldo" .
+<m.010dzrlj> <soccer.football_goal.scorer> "Cristiano Ronaldo" .
+<1957_European_Cup_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.011007d7> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Jamel_Debbouze> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<FC_Barcelona> <soccer.football_team.matches> "2014 Copa del Rey Final" .
+<Blog> <freebase.type_profile.strict_included_types> "Topic" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0y554g9" .
+<UEFA_Euro_2012_Quarter-final_I> <soccer.football_match.goals> "m.0k061tt" .
+<2014_ESPY_Awards> <award.award_ceremony.awards_presented> "m.0114z017" .
+<m.0w90f0d> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0w8yrxd> <freebase.valuenotation.has_no_value> "To" .
+<Real_Madrid_C.F.> <common.topic.webpage> "m.0b6r7d6" .
+<To> <type.property.expected_type> "Date/Time" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3k2l1" .
+<m.0_qzlz2> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<2008_FIFA_World_Player_of_the_Year> <award.award_ceremony.awards_presented> "m.0w3m7z4" .
+<Football_player> <common.topic.image> "2943494385_4fb6088a93_z.jpg" .
+<m.010rnpty> <freebase.valuenotation.has_value> "Ceremony" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1979–80 Copa del Rey" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010j2g0z" .
+<m.0z3v5d2> <award.award_nomination.ceremony> "2009 FIFA World Player of the Year" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m8sd" .
+<Cristiano> <internet.blog.language> "Portuguese Language" .
+<United_States_Dollar> <finance.currency.countries_used> "United States of America" .
+<Saïd_Taghmaoui> <people.person.languages> "English Language" .
+<1961–62_Copa_del_Generalísimo> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <people.person.ethnicity> "Portuguese people" .
+<m.0l3lnzg> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Football> <sports.sport.positions> "Midfielder" .
+<Football> <award.award_discipline.awards_in_this_discipline> "Ballon d'Or" .
+<Football_player> <common.topic.image> "Football4" .
+<1953_Copa_del_Generalísimo_Juvenil> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.012dx_5r> <sports.sports_league_participation.team> "Real Madrid C.F." .
+<FIFA_Ballon_d'Or> <award.award_category.winners> "m.0_1ckhf" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lp0k" .
+<m.02k_bcp> <freebase.valuenotation.is_reviewed> "Player" .
+<m.09jy3d3> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.current_club> "Real Madrid C.F." .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010myvg_" .
+<m.0qdm08n> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Irina_Shayk> <common.topic.notable_types> "Celebrity" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0z2213k" .
+<Tariq_ibn_Ziyad> <freebase.valuenotation.has_value> "Country of nationality" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w94csq" .
+<2000_UEFA_Champions_League_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wckx" .
+<2014_Real_Madrid_CF_vs._CA_Osasuna_football_match> <soccer.football_match.teams> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0z3v5d2" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9mmxf" .
+<m.02bmj44> <common.image.appears_in_topic_gallery> "Portuguese people" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<Moroccans> <common.topic.article> "m.0c3wsgl" .
+<Cristiano_Ronaldo_(cropped)> <common.image.size> "m.04xzn4_" .
+<Portuguese_people> <common.topic.notable_for> "g.1258qx9vk" .
+<m.0l3l337> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<To> <rdf-schema#range> "Date/Time" .
+<Irina_Shayk> <freebase.valuenotation.is_reviewed> "Gender" .
+<C_ronaldo_cropped> <common.image.appears_in_topic_gallery> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8y4jw" .
+<Tahar_Ben_Jelloun> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Football_Position> <freebase.type_profile.strict_included_types> "Topic" .
+<Santiago_Bernabéu_Stadium> <location.location.containedby> "Madrid" .
+<1979–80_Copa_del_Rey> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Carlos_Padrós> <freebase.valuenotation.is_reviewed> "Gender" .
+<m.0j5172y> <freebase.valuenotation.is_reviewed> "Team" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m9km" .
+<2014_Real_Madrid_vs_Borussia_Dortmund_football_match> <time.event.locations> "Madrid" .
+<Ronald_Reagan> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Cristiano> <award.award_nominated_work.award_nominations> "m.0_srg85" .
+<1971–72_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065sh4" .
+<Moroccans> <people.ethnicity.people> "Juliette Binoche" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<United_States_of_America> <location.country.languages_spoken> "Spanish Language" .
+<m.09w7p24> <common.webpage.topic> "Forward" .
+<Tariq_ibn_Ziyad> <freebase.valuenotation.has_value> "Place of birth" .
+<Omar_Berdouni> <people.person.gender> "Male" .
+<Football_player> <freebase.type_hints.included_types> "Person" .
+<RedOne> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m93k" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m4pv" .
+<m.0n7ghs7> <sports.team_venue_relationship.team> "Real Madrid C.F." .
+<Person> <type.type.properties> "Parents" .
+<m.0hzxmh2> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1956 European Cup Final" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1961–62 La Liga" .
+<Profession> <type.property.reverse_property> "People With This Profession" .
+<m.0l3ld4c> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Hicham_El_Guerrouj> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0_spmnq> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1957 European Cup Final" .
+<Moroccans> <people.ethnicity.people> "Karima Adebibe" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m4ty" .
+<m.0g9lr08> <soccer.football_player_match_participation.team> "Portugal national football team" .
+<Portugal_national_football_team> <sports.sports_team.location> "Portugal" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1917 Copa del Rey" .
+<1955_Pequeña_Copa_del_Mundo_de_Clubes> <sports.sports_championship_event.champion> "São Paulo FC" .
+<m.0qdm0fn> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Pichichi_Trophy> <award.award_category.category_of> "Pichichi Trophy" .
+<Sporting-soc_Desportiva_De> <sports.sports_team.colors> "White" .
+<Real_Madrid_C.F.> <freebase.valuenotation.is_reviewed> "Founders" .
+<Juliette_Binoche> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Forward> <common.topic.webpage> "m.09wkytz" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9mkkp" .
+<Athlete> <people.profession.specializations> "Australian rules football player" .
+<m.0w8wgff> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Juan_Padrós> <freebase.valuenotation.is_reviewed> "Gender" .
+<Celebrity> <type.type.expected_by> "Celebrity" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1961–62 Copa del Generalísimo" .
+<m.0nf3rv9> <sports.sports_team_coach_tenure.team> "Real Madrid C.F." .
+<Moroccans> <people.ethnicity.languages_spoken> "French" .
+<2002_UEFA_Champions_League_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Place_of_birth> <type.property.schema> "Person" .
+<Saïd_Taghmaoui> <people.person.languages> "French" .
+<m.0k061tt> <soccer.football_goal.match> "UEFA Euro 2012 Quarter-final I" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0yv273q" .
+<Premier_League_Player_of_the_Month> <award.award_category.winners> "m.0w3m5w1" .
+<m.0z23jls> <award.award_nomination.award> "Best International Athlete ESPY Award" .
+<LPF_Most_Valuable_Player> <award.award_category.winners> "m.0_qzlz2" .
+<Celebrity> <type.type.properties> "Net worth" .
+<Saïd_Taghmaoui> <people.person.languages> "Arabic Language" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m991" .
+<Football_player> <people.profession.specializations> "Canadian football player" .
+<Real_Madrid_C.F.> <common.topic.image> "Logo_Real_Madrid" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Person" .
+<Portugal> <location.location.containedby> "Europe" .
+<Directed_by> <type.property.schema> "Film" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9mbs1" .
+<Real_Madrid_C.F.> <sports.sports_team.coaches> "m.0wrlvgk" .
+<1985_UEFA_Cup_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Ronald_Reagan> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Portugal> <location.country.languages_spoken> "Miranda do Douro Language" .
+<Elisa_Salinas> <people.person.profession> "Fashion entrepreneur" .
+<m.0zg3rqp> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<m.0w90ww7> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0y555ff> <award.award_honor.award> "Goal 50" .
+<m.0_qzm5t> <award.award_honor.award> "La Liga Player of the Month" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0_qzlz2" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0_qzlzy" .
+<m.0114z017> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Cristiano_Ronaldo> <freebase.valuenotation.is_reviewed> "Children" .
+<Profession> <rdf-schema#domain> "Person" .
+<m.0w3m929> <award.award_honor.award> "UEFA Team of the Year" .
+<Trofeo_Alfredo_Di_Stéfano> <award.award_category.winners> "m.0qz948t" .
+<m.09wkytz> <common.webpage.topic> "Forward" .
+<Maria_Dolores_dos_Santos_Aveiro> <people.person.children> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8z2k_" .
+<Spouse> <type.property.expected_type> "Person" .
+<m.0l3kfg2> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Pasqual> <fictional_universe.fictional_character.ethnicity> "Portuguese people" .
+<Fashion_entrepreneur> <people.profession.people_with_this_profession> "Cristiano Ronaldo" .
+<m.0j_0nnr> <measurement_unit.dated_money_value.source> "therichest.org" .
+<UEFA_Champions_League_Top_Goalscorer> <award.award_category.winners> "m.0y553_4" .
+<Location> <type.type.properties> "People born here" .
+<Cristiano_Ronaldo_Jr.> <people.person.parents> "Cristiano Ronaldo" .
+<People_born_here> <type.property.master_property> "Place of birth" .
+<Funchal> <location.location.containedby> "Madeira" .
+<José_Dinis_Aveiro> <freebase.valuenotation.has_value> "Height" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1966–67 La Liga" .
+<Goal_III:_Taking_on_the_World> <film.film.personal_appearances> "m.0ngp9hy" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010j2hw2" .
+<2013_FIFA_Ballon_d'Or> <award.award_ceremony.awards_presented> "m.0_22qp1" .
+<Moroccans> <people.ethnicity.people> "Mohammed VI of Morocco" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010my_hd" .
+<Hugo_Aveiro> <people.person.parents> "José Dinis Aveiro" .
+<m.0j517cc> <people.sibling_relationship.sibling> "Hugo Aveiro" .
+<m.010nx4bl> <award.award_honor.award> "UEFA Champions League Top Goalscorer" .
+<2014_Copa_del_Rey_Final> <sports.sports_championship_event.season> "2013–14 Copa del Rey" .
+<m.0w8wv43> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<2014_Real_Madrid_Vs_UD_Almería_football_match> <soccer.football_match.teams> "Real Madrid C.F." .
+<m.0w3m52v> <award.award_honor.award> "PFA Players' Player of the Year" .
+<m.0_1ckhf> <freebase.valuenotation.has_no_value> "Winning work" .
+<UEFA_Champions_League_Top_Goalscorer> <award.award_category.winners> "m.0y553wg" .
+<superscommesse.it> <common.topic.subjects> "Football" .
+<Viva_Ronaldo> <freebase.valuenotation.is_reviewed> "Language" .
+<m.0qdlzfd> <award.award_honor.award> "Bravo Award" .
+<Real_Madrid_C.F.> <soccer.football_team.borrowed_players> "m.0qz946x" .
+<Portugal> <location.country.administrative_divisions> "Madeira" .
+<m.0z2213k> <award.award_nomination.ceremony> "2012 ESPY Awards" .
+<m.0z4b6yl> <award.award_nomination.award> "FIFA World Player of the Year" .
+<m.0w3m929> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w91mw3" .
+<Celebrity> <type.type.properties> "Celebrity rivals" .
+<Premier_League_Player_of_the_Month> <award.award_category.winners> "m.0w3m5px" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8z433" .
+<Cristiano_Ronaldo> <soccer.football_player.disciplinary_action> "m.010p4jjj" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0y555ff" .
+<PFA_Players'_Player_of_the_Year> <common.topic.image> "C ronaldo cropped" .
+<São_Paulo_FC> <sports.sports_team.championships> "1955 Pequeña Copa del Mundo de Clubes" .
+<2013–14_Copa_del_Rey> <soccer.football_league_season.matches> "2014 Copa del Rey Final" .
+<C_ronaldo_cropped> <common.image.appears_in_topic_gallery> "FWA Footballer of the Year" .
+<Real_Madrid_C.F.> <base.schemastaging.sports_team_extra.training_ground> "m.0l3fwnp" .
+<m.0l3ln_m> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<UEFA_Team_of_the_Year> <award.award_category.winners> "m.0w3m9cm" .
+<Football_player> <people.profession.specializations> "American football player" .
+<m.0y553hf> <award.award_honor.award> "Premier League Player of the Season" .
+<Football_match.jpg> <common.image.appears_in_topic_gallery> "Football" .
+<Carlos_Padrós> <people.deceased_person.place_of_death> "Madrid" .
+<United_States_of_America> <location.country.currency_used> "United States Dollar" .
+<Miranda_do_Douro_Language> <language.human_language.countries_spoken_in> "Portugal" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m929" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0y5556g" .
+<Real_Madrid_C.F.> <base.schemastaging.organization_extra.contact_webpages> "m.01088_s7" .
+<m.0j517c_> <people.sibling_relationship.sibling> "Cristiano Ronaldo" .
+<m.010b0bjb> <base.schemastaging.phone_sandbox.service_language> "Spanish Language" .
+<m.0l3l867> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.0yx2z6_> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Cristiano_Ronaldo_Jr.> <freebase.valuenotation.has_no_value> "Children" .
+<Madeira> <location.location.containedby> "Portugal" .
+<Celebrity> <freebase.type_profile.strict_included_types> "Topic" .
+<Juan_Padrós> <freebase.valuenotation.has_value> "Place of death" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0z4b6yl" .
+<m.09y0cx8> <common.webpage.topic> "Forward" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1957–58 La Liga" .
+<Place_of_death> <rdf-schema#range> "Location" .
+<Cristiano_Ronaldo> <freebase.valuenotation.is_reviewed> "Gender" .
+<m.0w3m5yl> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1952 Pequeña Copa del Mundo de Clubes" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9mq69" .
+<Person> <type.type.properties> "Ethnicity" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "2014 Copa del Rey Final" .
+<m.0_sxcp_> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.0_z5vf9" .
+<Hugo_Aveiro> <people.person.sibling_s> "m.0j517cc" .
+<m.0w3m9cm> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Celebrity> <type.type.properties> "Celebrity friends" .
+<Golden_Shoes> <common.topic.notable_types> "Film" .
+<1908_Copa_del_Rey> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Marouane_Chamakh> <common.topic.notable_types> "Football player" .
+<2014_Real_Madrid_vs_Bayern_Munich_football_match> <soccer.football_match.teams> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9rcqh" .
+<Student> <type.property.reverse_property> "Education" .
+<m.0y553j8> <award.award_honor.award> "Premier League Player of the Season" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lnzg" .
+<FIFA_World_Player_of_the_Year> <award.award_category.category_of> "FIFA World Player of the Year" .
+<Lance_Kawas> <freebase.valuenotation.has_value> "Date of birth" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9jpgq" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1998 UEFA Champions League Final" .
+<m.0w957x1> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Sir_Matt_Busby_Player_of_the_Year> <award.award_category.winners> "m.0qdm0fn" .
+<Height> <rdf-schema#range> "Floating Point Number" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wdzl" .
+<Cristiano_Ronaldo> <people.person.profession> "Fashion entrepreneur" .
+<Maria_Dolores_dos_Santos_Aveiro> <people.person.children> "Elma Aveiro" .
+<Soccer_Player> <people.profession.specialization_of> "Athlete" .
+<Myriem_Roussel> <freebase.valuenotation.has_value> "Parents" .
+<Soccer_Player> <people.profession.specialization_of> "Football player" .
+<m.0l3l36g> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1960 European Cup Final" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3kfg2" .
+<2010_FIFA_World_Cup_Round_of_16_-_ESP_./._POR> <soccer.football_match.players> "m.0g5mq32" .
+<Amelle_Berrabah> <people.person.ethnicity> "Moroccans" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m964" .
+<Ballon_d'Or> <award.award_category.winners> "m.0hzxmh2" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w96cy8" .
+<Deceased_Person> <type.type.properties> "Cause of death" .
+<Real_Madrid_C.F.> <base.schemastaging.organization_extra.phone_number> "m.010b0bjb" .
+<Santo_António> <common.topic.notable_for> "g.1258hqxx7" .
+<Juan_Padrós> <people.person.gender> "Male" .
+<Cristiano_Ronaldo> <freebase.valuenotation.is_reviewed> "Position(s)" .
+<Football_player> <type.type.properties> "Position(s)" .
+<2010_FIFA_World_Cup_Group_G_-_CIV_./._POR> <soccer.football_match.teams> "Portugal national football team" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m61v" .
+<Abd_el-Krim> <freebase.valuenotation.has_value> "Parents" .
+<m.0fpskk6> <common.webpage.in_index> "Blissful Celebrities" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1907 Copa del Rey" .
+<Athlete> <common.topic.notable_types> "Profession" .
+<FIFA_World_Player_of_the_Year> <award.award_category.nominees> "m.0z471f4" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1932–33 La Liga" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8z58q" .
+<Real_Madrid_C.F.> <base.schemastaging.sports_team_extra.training_ground> "m.0k2y3vn" .
+<Entrepreneur> <common.topic.notable_types> "Profession" .
+<m.0w9g7rw> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Moroccans> <people.ethnicity.people> "Ibn Battuta" .
+<Galician_Language> <language.human_language.region> "Europe" .
+<m.0j5172y> <base.schemastaging.athlete_salary.team> "Real Madrid C.F." .
+<Hugo_Aveiro> <freebase.valuenotation.has_value> "Ethnicity" .
+<Golden_Shoes> <common.topic.notable_for> "g.1yl5w87_k" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lj9k" .
+<Real_Madrid_C.F.> <common.topic.webpage> "m.0fpskk6" .
+<m.0l3ld2g> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lj95" .
+<m.010p4jhc> <soccer.football_goal.match> "2014 UEFA Champions League Final" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.010nx4bl" .
+<Portugal_national_football_team> <soccer.football_team.matches> "2010 FIFA World Cup Group G - POR ./. PRK" .
+<Liliana_Catia_Aveiro> <people.person.parents> "Maria Dolores dos Santos Aveiro" .
+<Weight> <type.property.unit> "Kilogram" .
+<Hugo_Aveiro> <freebase.valuenotation.has_value> "Country of nationality" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0hzxmh2" .
+<PFA_Young_Player_of_the_Year> <award.award_category.winners> "m.0w3m4ty" .
+<m.0qz948t> <award.award_honor.award> "Trofeo Alfredo Di Stéfano" .
+<Real_Madrid_C.F.> <soccer.football_team.league> "m.0k04wys" .
+<1956_Pequeña_Copa_del_Mundo_de_Clubes> <time.event.next_in_series> "1957 Pequeña Copa del Mundo de Clubes" .
+<m.0w95hjh> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0w8wcq5> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065gg7" .
+<m.0114274_> <sports.sports_team_coach_tenure.team> "Real Madrid C.F." .
+<m.0w_znzz> <base.schemastaging.athlete_salary.athlete> "Cristiano Ronaldo" .
+<Fashion_entrepreneur> <common.topic.notable_for> "g.125g6_nkm" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0zg3rqp" .
+<Cristiano> <common.topic.notable_for> "g.1q3shlm5p" .
+<Fashion_entrepreneur> <common.topic.notable_types> "Profession" .
+<m.0d46pnx> <soccer.football_player_transfer.purchasing_team> "Real Madrid C.F." .
+<m.0c8d4r5> <common.webpage.topic> "Cristiano Ronaldo" .
+<French> <language.human_language.region> "Europe" .
+<m.0y553wg> <award.award_honor.award> "UEFA Champions League Top Goalscorer" .
+<m.0z4b6yl> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Forward> <common.topic.webpage> "m.09xs63n" .
+<People_born_here> <rdf-schema#range> "Person" .
+<Deceased_Person> <freebase.type_hints.included_types> "Person" .
+<Football> <film.film_subject.films> "Goal III: Taking on the World" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0y553hf" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w90ww7" .
+<Education> <rdf-schema#domain> "Person" .
+<FIFA_World_Player_of_the_Year> <award.award_category.nominees> "m.0z3v5d2" .
+<m.0l3lj9k> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Football> <sports.sport.positions> "Forward" .
+<Cristiano_Ronaldo> <base.schemastaging.athlete_extra.salary> "m.0j5172y" .
+<Place_of_birth> <rdf-schema#domain> "Person" .
+<m.02sf29t> <sports.sports_team_roster.position> "Forward" .
+<m.0y553wg> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0_qzlz2> <award.award_honor.award> "LPF Most Valuable Player" .
+<Parents> <owl#inverseOf> "Children" .
+<FIFA_Ballon_d'Or> <award.award_category.nominees> "m.0z2c96m" .
+<m.0y554g9> <award.award_honor.award> "UEFA Champions League Forward of the Year" .
+<m.0y553_4> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <sports.sports_team.coaches> "m.0114274_" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m5px" .
+<m.0j_0nnr> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Maria_Dolores_dos_Santos_Aveiro> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<1985_UEFA_Cup_Final> <time.event.locations> "Santiago Bernabéu Stadium" .
+<Midfielder> <common.topic.notable_types> "Football Position" .
+<Moroccans> <people.ethnicity.people> "Tahar Ben Jelloun" .
+<Blog> <freebase.type_hints.included_types> "Topic" .
+<Date_of_birth> <rdf-schema#domain> "Person" .
+<m.0j517cp> <people.sibling_relationship.sibling> "Cristiano Ronaldo" .
+<Portugal_national_football_team> <sports.sports_team.sport> "Football" .
+<m.010h3pz6> <base.schemastaging.sports_team_manager_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "2010–11 Copa del Rey" .
+<José_Dinis_Aveiro> <people.person.profession> "Gardener" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9mf_b" .
+<Portugal> <olympics.olympic_participating_country.athletes> "m.0y82_zd" .
+<m.0w3m93k> <award.award_honor.award> "UEFA Team of the Year" .
+<m.0w8wvdz> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Forward> <common.topic.webpage> "m.09ytlx7" .
+<Real_Madrid_C.F.> <common.topic.article> "m.06l2d" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<United_States_Dollar> <base.coinsdaily.coin_type.country> "United States of America" .
+<m.0l3l375> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<2010_FIFA_World_Cup_Group_G_-_POR_./._PRK> <soccer.football_match.teams> "Portugal national football team" .
+<1905_Copa_del_Rey> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9003t" .
+<m.0n7gj35> <sports.team_venue_relationship.team> "Real Madrid C.F." .
+<Elma_Aveiro> <freebase.valuenotation.has_value> "Education" .
+<Lance_Kawas> <film.writer.film> "Golden Shoes" .
+<m.0j5172y> <base.schemastaging.athlete_salary.athlete> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "2014 FIFA Club World Cup Final" .
+<Blog> <freebase.type_profile.published> "Published" .
+<2013_FIFA_Ballon_d'Or> <award.award_ceremony.awards_presented> "m.0_1ckhf" .
+<2004_Summer_Olympics> <olympics.olympic_games.participating_countries> "United States of America" .
+<Santiago_Bernabéu_Stadium> <sports.sports_facility.teams> "Real Madrid C.F." .
+<m.0z471f4> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<m.0qdm23r> <award.award_honor.award> "Onze d'Or" .
+<m.0l3ljbn> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.0w9l9kf> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Pasqual> <fictional_universe.fictional_character.gender> "Male" .
+<Ronald_Reagan> <symbols.name_source.namesakes> "Cristiano Ronaldo" .
+<Deceased_Person> <type.type.properties> "Place of death" .
+<Elma_Aveiro> <freebase.valuenotation.has_value> "Date of birth" .
+<Hicham_El_Guerrouj> <people.person.profession> "Athlete" .
+<Deceased_Person> <freebase.type_profile.published> "Published" .
+<m.0w9gdcb> <soccer.football_player_stats.player> "Cristiano Ronaldo" .
+<m.0l3lj89> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Celebrity> <type.type.expected_by> "Celebrities with this Hairstyle" .
+<Person> <type.type.properties> "Country of nationality" .
+<Gender> <rdf-schema#range> "Gender" .
+<2010_FIFA_World_Cup_Group_G_-_POR_./._PRK> <soccer.football_match.players> "m.0g9lr08" .
+<1962–63_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Liliana_Catia_Aveiro> <people.person.parents> "José Dinis Aveiro" .
+<Omar_Berdouni> <freebase.valuenotation.is_reviewed> "Gender" .
+<Hicham_El_Guerrouj> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Person> <type.type.properties> "Siblings" .
+<m.010p4jhc> <soccer.football_goal.scorer> "Cristiano Ronaldo" .
+<m.011nr6zg> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Moroccans> <common.topic.notable_for> "g.1255574vr" .
+<Football_player> <freebase.equivalent_topic.equivalent_type> "Football player" .
+<Cristiano_Ronaldo> <soccer.football_player.transfers> "m.0d46pnq" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lp67" .
+<m.0w3m8sd> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Arabic_Language> <language.human_language.dialects> "Moroccan Arabic" .
+<1986–87_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wnb_" .
+<Forward> <common.topic.webpage> "m.0b48241" .
+<Place_of_birth> <rdf-schema#range> "Location" .
+<1906_Copa_del_Rey> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Best_International_Athlete_ESPY_Award> <award.award_category.nominees> "m.0z23jls" .
+<Trevor_Myles> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9jsjs" .
+<Football_player> <freebase.type_profile.published> "Published" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wcq5" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lp3_" .
+<Amelle_Berrabah> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Athletes_and_Sports_Competitors> <base.lightweight.profession.specialization> "Football player" .
+<m.0fpskk6> <common.webpage.topic> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <organization.organization.founders> "Adolfo Meléndez" .
+<FifPro_Special_Young_Player_of_the_Year> <award.award_category.winners> "m.0w3m4q3" .
+<m.0j517c_> <people.sibling_relationship.sibling> "Elma Aveiro" .
+<Real_Madrid_C.F.> <sports.sports_team.venue> "m.0n7ghs7" .
+<m.0w9003t> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Athlete> <people.profession.specializations> "Football player" .
+<Spouse> <rdf-schema#domain> "Marriage" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0z9c358" .
+<Cristiano_Ronaldo_Jr.> <freebase.valuenotation.has_value> "Height" .
+<Ronald_Reagan> <freebase.valuenotation.is_reviewed> "Gender" .
+<FWA_Footballer_of_the_Year> <award.award_category.winners> "m.0w3m59k" .
+<José_Dinis_Aveiro> <people.person.place_of_birth> "London" .
+<Cristiano_Ronaldo> <film.film_subject.films> "Ronaldo: Tested to the Limit" .
+<m.0w3m5b_> <award.award_honor.award> "FWA Footballer of the Year" .
+<Person> <type.type.properties> "Children" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0z2c96m" .
+<Trevor_Myles> <freebase.valuenotation.is_reviewed> "Gender" .
+<1973–74_Copa_del_Generalísimo> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.09ywn05> <common.webpage.topic> "Forward" .
+<m.0y82_zd> <olympics.olympic_athlete_affiliation.sport> "Football" .
+<396px-Boisko_PositionsMidfield> <common.image.appears_in_topic_gallery> "Midfielder" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0c1d2_r> <soccer.football_disciplinary_action.player> "Cristiano Ronaldo" .
+<m.0w9943g> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<FC_Barcelona> <common.topic.subject_of> "superscommesse.it" .
+<Cristiano_Ronaldo> <film.person_or_entity_appearing_in_film.films> "m.0zt07p1" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9gb_x" .
+<Maalipörssiä_johtava_Manchester_Unitedin_Cristiano_Ronaldo> <common.image.appears_in_topic_gallery> "Cristiano Ronaldo" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065gf2" .
+<m.0jyw9hw> <sports.sports_team_roster.team> "Manchester United F.C." .
+<Juliette_Binoche> <people.person.gender> "Female" .
+<m.010b0h91> <base.schemastaging.phone_sandbox.service_language> "English Language" .
+<m.0l3l85p> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Celebrity> <type.type.expected_by> "Celebrity" .
+<Hicham_El_Guerrouj> <people.person.gender> "Male" .
+<Berber_languages> <language.language_family.languages> "Tashelhiyt Language" .
+<UEFA_Champions_League_Forward_of_the_Year> <award.award_category.winners> "m.0y554g9" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "2002 UEFA Super Cup" .
+<Maria_Dolores_dos_Santos_Aveiro> <people.person.parents> "Maria Angela Spinola" .
+<m.0d46pnx> <soccer.football_player_transfer.selling_team> "Manchester United F.C." .
+<Maria_Dolores_dos_Santos_Aveiro> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Children> <type.property.schema> "Person" .
+<m.0w90yrg> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<1956_Pequeña_Copa_del_Mundo_de_Clubes> <time.event.previous_in_series> "1955 Pequeña Copa del Mundo de Clubes" .
+<1957–58_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Hassan_II_of_Morocco> <people.person.children> "Mohammed VI of Morocco" .
+<Spouse_(or_domestic_partner)> <rdf-schema#range> "Marriage" .
+<Portugal> <location.country.currency_used> "Euro" .
+<Maalipörssiä_johtava_Manchester_Unitedin_Cristiano_Ronaldo> <common.image.size> "m.01x34ym" .
+<Marouane_Chamakh> <people.person.ethnicity> "Moroccans" .
+<2010_FIFA_World_Cup_Group_G_-_POR_./._PRK> <soccer.football_match.goals> "m.0g5h3bt" .
+<m.011007d7> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<m.09wvxvh> <common.webpage.topic> "Forward" .
+<m.0y5557f> <award.award_honor.award> "PFA Team of the Year" .
+<m.0w2msyx> <film.performance.film> "Golden Shoes" .
+<m.0w3m9pd> <award.award_honor.award> "g.121dc5yv" .
+<Irina_Shayk> <celebrities.celebrity.sexual_relationships> "m.0wgx5gk" .
+<m.0w97r93> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0w3m8p0> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Forward> <common.topic.webpage> "m.09wvmyh" .
+<IFFHS_World's_Best__Top_Division_Goal_Scorer> <award.award_category.winners> "m.0_qzkvh" .
+<Cristiano_Ronaldo> <base.schemastaging.athlete_extra.salary> "m.0w_znzz" .
+<m.0w8z433> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<2014_FIFA_Club_World_Cup_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <olympics.olympic_athlete.country> "m.0y82_zd" .
+<Irina_Shayk> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Moroccans> <people.ethnicity.people> "Badr Hari" .
+<Omar_Berdouni> <freebase.valuenotation.has_value> "Parents" .
+<Children> <rdf-schema#domain> "Person" .
+<Best_International_Athlete_ESPY_Award> <award.award_category.nominees> "m.0z9c358" .
+<Cook> <common.topic.notable_types> "Profession" .
+<Real_Madrid_C.F.> <soccer.football_team.matches> "2014 Borussia Dortmund vs Real Madrid football match" .
+<FIFA_World_Player_of_the_Year> <award.award_category.disciplines_or_subjects> "Football" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9mjbh" .
+<Celebrity> <type.type.expected_by> "Celebrity" .
+<Irina_Shayk> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Forward> <common.topic.notable_for> "g.125d8f2bb" .
+<m.0l3ld6b> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<José_Dinis_Aveiro> <people.person.spouse_s> "m.0w1gh70" .
+<m.0w_znzz> <freebase.valuenotation.is_reviewed> "Athlete" .
+<José_Dinis_Aveiro> <people.person.children> "Hugo Aveiro" .
+<Portugal> <location.country.official_language> "Portuguese Language" .
+<Real_Madrid_C.F.> <organization.organization.founders> "Juan Padrós" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9fv1y" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1960 Intercontinental Cup" .
+<m.0jyw9j6> <freebase.valuenotation.has_value> "Number" .
+<American_football_player> <common.topic.notable_types> "Profession" .
+<Position(s)> <type.property.reverse_property> "Players" .
+<m.0l3lny5> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.0y553hf> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Cristiano_Ronaldo> <people.person.religion> "Catholicism" .
+<m.0w8z2k_> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1974–75 Copa del Generalísimo" .
+<m.0l3ljcb> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<RedOne> <people.person.gender> "Male" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lp5t" .
+<m.0c1stfg> <soccer.football_player_match_participation.player> "Cristiano Ronaldo" .
+<m.0w3m4pv> <award.award_honor.award> "FifPro Special Young Player of the Year" .
+<2000–01_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lj9c" .
+<Australian_rules_football_player> <people.profession.specialization_of> "Football player" .
+<Parents> <rdf-schema#range> "Person" .
+<m.0_qzlz2> <freebase.valuenotation.has_no_value> "Winning work" .
+<PFA_Team_of_the_Year> <award.award_category.winners> "m.0y5557f" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m7z4" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w96f1d" .
+<Liliana_Catia_Aveiro> <people.person.sibling_s> "m.0j517cp" .
+<m.0y5556v> <award.award_honor.award> "PFA Team of the Year" .
+<Laureus_World_Sports_Award_for_Sportsman_of_the_Year> <award.award_category.nominees> "m.0_spmnq" .
+<Madeira> <base.aareas.schema.administrative_area.administrative_parent> "Portugal" .
+<To> <rdf-schema#range> "Date/Time" .
+<Profession> <type.type.properties> "People With This Profession" .
+<Spouse_(or_domestic_partner)> <type.property.master_property> "Spouse" .
+<Carlos_Padrós> <organization.organization_founder.organizations_founded> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lj77" .
+<m.0x23g_k> <base.schemastaging.team_training_ground_relationship.team> "Real Madrid C.F." .
+<m.0w1gh70> <people.marriage.spouse> "Maria Dolores dos Santos Aveiro" .
+<m.0l3l3b9> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.0w9mmxf> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Carlos_Padrós> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lp1x" .
+<m.0wjzsl1> <people.place_lived.person> "Cristiano Ronaldo" .
+<Manchester_United_F.C.> <soccer.football_team.player_statistics> "m.0w9gdc1" .
+<m.0l3lj95> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<London> <base.biblioness.bibs_topic.is_really> "London" .
+<Juan_Padrós> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Cristiano_Ronaldo> <film.actor.film> "m.0w2msyx" .
+<Best_International_Athlete_ESPY_Award> <award.award_category.winners> "m.0114z017" .
+<m.0l3lnxp> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Football4> <common.image.appears_in_topic_gallery> "Football player" .
+<Cristiano_Ronaldo_(cropped)> <common.image.appears_in_topic_gallery> "Cristiano Ronaldo" .
+<m.0c8d4r5> <common.webpage.category> "Curated Topic" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l36g" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0w2ds5z" .
+<Manchester_United_F.C.> <common.topic.subject_of> "superscommesse.it" .
+<Real_Madrid_C.F.> <base.schemastaging.organization_extra.phone_number> "m.01089mfv" .
+<1932–33_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Country_of_nationality> <rdf-schema#range> "Country" .
+<UEFA_Best_Player_in_Europe_Award> <award.award_category.winners> "m.011nr6zg" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1986–87 La Liga" .
+<Cristiano_Ronaldo> <people.person.profession> "Football player" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w984nx" .
+<Celebrity> <type.type.expected_by> "Partners" .
+<Position(s)> <rdf-schema#domain> "Football player" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0z3v64l" .
+<m.010p4jjj> <soccer.football_disciplinary_action.punishment> "Yellow card" .
+<Cristiano_Ronaldo> <common.topic.image> "CristianoRonaldo_la.jpg.jpeg" .
+<m.0ggcmm7> <common.webpage.topic> "Santo António" .
+<2014_UEFA_Champions_League_Final> <soccer.football_match.teams> "Real Madrid C.F." .
+<La_Liga_Player_of_the_Month> <award.award_category.winners> "m.0_qzm5t" .
+<Eden_Riegel> <freebase.valuenotation.is_reviewed> "Parents" .
+<m.010rnpty> <award.award_honor.award> "Pichichi Trophy" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<Initial_release_date> <type.property.expected_type> "Date/Time" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wrt0" .
+<m.0jyw9hw> <freebase.valuenotation.has_value> "Number" .
+<José_Dinis_Aveiro> <common.topic.notable_for> "g.1258c52g5" .
+<m.0l3lp2g> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1971–72 La Liga" .
+<m.0y554g9> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "2013 Copa del Rey Juvenil" .
+<Portuguese_people> <common.topic.image> "m.02bmj44" .
+<Ethnicity> <rdf-schema#domain> "Person" .
+<Juliette_Binoche> <freebase.valuenotation.is_reviewed> "Gender" .
+<Moroccans> <people.ethnicity.languages_spoken> "Rifian language" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wgff" .
+<Lance_Kawas> <freebase.valuenotation.has_value> "Parents" .
+<Film> <freebase.type_profile.strict_included_types> "Topic" .
+<Canadian_football_player> <people.profession.specialization_of> "Athlete" .
+<Maria_Dolores_dos_Santos_Aveiro> <people.person.place_of_birth> "Portugal" .
+<Parents> <type.property.schema> "Person" .
+<2007–08_Premier_League> <sports.sports_championship_event.champion> "Manchester United F.C." .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.010rnpty" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w95hjh" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m9rn" .
+<m.0wjzsl1> <people.place_lived.location> "Funchal" .
+<2014_Copa_del_Rey_Final> <soccer.football_match.teams> "Real Madrid C.F." .
+<Position(s)> <owl#inverseOf> "Players" .
+<m.0l3l88s> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.0w3m58s> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0w3m7z4> <freebase.valuenotation.has_no_value> "Winning work" .
+<FWA_Footballer_of_the_Year> <award.award_category.winners> "m.0w3m5b_" .
+<2014_Real_Madrid_vs_Borussia_Dortmund_football_match> <soccer.football_match.held_at> "Santiago Bernabéu Stadium" .
+<Football_team> <freebase.type_profile.strict_included_types> "Topic" .
+<Forward> <common.topic.webpage> "m.09x_372" .
+<Football_team> <freebase.type_profile.published> "Published" .
+<Goal_50> <award.award_category.winners> "m.0y555ff" .
+<m.0l3ld2x> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0_sxcp_" .
+<Cristiano_Ronaldo> <soccer.football_player.disciplinary_action> "m.0c1d2_r" .
+<FWA_Footballer_of_the_Year> <common.topic.image> "C ronaldo cropped" .
+<Football_Position> <type.type.expected_by> "Position(s)" .
+<Tariq_ibn_Ziyad> <people.person.ethnicity> "Moroccans" .
+<m.0_qzlzy> <award.award_nomination.award> "LPF Most Valuable Player" .
+<1961–62_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.0l3ld3f> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Place_of_death> <rdf-schema#domain> "Deceased Person" .
+<Badr_Hari> <people.person.gender> "Male" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9h4hp" .
+<m.0114z017> <award.award_honor.ceremony> "2014 ESPY Awards" .
+<Cristiano_Ronaldo_Jr.> <freebase.valuenotation.has_no_value> "Spouse (or domestic partner)" .
+<m.0w8w78v> <freebase.valuenotation.has_no_value> "To" .
+<Celebrity> <type.type.properties> "Substance abuse problems" .
+<m.0w3m964> <award.award_honor.award> "UEFA Team of the Year" .
+<m.0_sxcp_> <freebase.valuenotation.has_no_value> "Notes/Description" .
+<m.0w3m6f5> <award.award_honor.award> "UEFA Club Footballer of the Year" .
+<m.0wgx5gk> <celebrities.romantic_relationship.relationship_type> "Dated" .
+<Madrid> <sports.sports_team_location.teams> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ld0s" .
+<Forward> <common.topic.webpage> "m.09yfnh5" .
+<m.0w9gb_x> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Football4> <common.image.appears_in_topic_gallery> "Football" .
+<Fashion_entrepreneur> <people.profession.people_with_this_profession> "Maxime Fechner" .
+<Moroccans> <people.ethnicity.people> "Hassan II of Morocco" .
+<Santiago_Bernabéu_Stadium> <sports.sports_facility.home_venue_for> "m.0n7gj7n" .
+<Ronaldo:_Tested_to_the_Limit> <film.film.directed_by> "Mike McDowall" .
+<1957_Pequeña_Copa_del_Mundo_de_Clubes> <sports.sports_championship_event.champion> "FC Barcelona" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ld5f" .
+<m.0z23jls> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "2002 UEFA Champions League Final" .
+<Marouane_Fellaini> <common.topic.notable_types> "Football player" .
+<Carlos_Padrós> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<m.010nx4bl> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m9bl" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l85p" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1981–82 Copa del Rey" .
+<Gender> <type.property.expected_type> "Gender" .
+<m.0g5mq32> <soccer.football_player_match_participation.match> "2010 FIFA World Cup Round of 16 - ESP ./. POR" .
+<Portuguese_people> <common.topic.notable_types> "Ethnicity" .
+<Ronald_Reagan> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<m.09x3_1p> <common.webpage.topic> "Forward" .
+<m.0zt02sq> <film.personal_film_appearance.person> "Cristiano Ronaldo" .
+<Person> <type.type.properties> "Spouse (or domestic partner)" .
+<Height> <type.property.unit> "Meter" .
+<m.0w8wwgr> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Marouane_Fellaini> <soccer.football_player.position_s> "Midfielder" .
+<Forward> <common.topic.notable_types> "Football Position" .
+<Spouse> <type.property.reverse_property> "Spouse (or domestic partner)" .
+<Hugo_Aveiro> <freebase.valuenotation.has_value> "Date of birth" .
+<m.0y87y_h> <freebase.valuenotation.has_no_value> "Winning work" .
+<Football_player> <people.profession.specialization_of> "Athlete" .
+<Real_Madrid_C.F.> <organization.organization.headquarters> "m.0w1gf8f" .
+<Portugal> <common.topic.notable_types> "Country" .
+<m.010b0h91> <base.schemastaging.phone_sandbox.service_language> "Spanish Language" .
+<Premier_League_Player_of_the_Month> <award.award_category.winners> "m.0w3m5yl" .
+<Maalipörssiä_johtava_Manchester_Unitedin_Cristiano_Ronaldo> <common.image.appears_in_topic_gallery> "2007–08 Premier League" .
+<1906_Copa_del_Rey> <time.event.next_in_series> "1907 Copa del Rey" .
+<Real_Madrid_C.F.> <common.topic.subjects> "http://voetbalshirtsdirect.nl" .
+<1966–67_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.0_spmnq> <award.award_nomination.award> "Laureus World Sports Award for Sportsman of the Year" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wv43" .
+<Hugo_Aveiro> <freebase.valuenotation.has_value> "Education" .
+<1953–54_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<C_ronaldo_cropped> <common.image.appears_in_topic_gallery> "PFA Young Player of the Year" .
+<Amelle_Berrabah> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9mp73" .
+<Cristiano_Ronaldo> <people.person.nationality> "Portugal" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l88s" .
+<Cristiano_Ronaldo> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0w3m9cm> <award.award_honor.award> "UEFA Team of the Year" .
+<m.0g5h3bt> <soccer.football_goal.scorer> "Cristiano Ronaldo" .
+<Ahmed_Aboutaleb> <people.person.gender> "Male" .
+<Film> <freebase.type_profile.published> "Published" .
+<Forward> <common.topic.webpage> "m.09ytzf1" .
+<Sir_Matt_Busby_Player_of_the_Year> <award.award_category.winners> "m.0qdm08n" .
+<m.0zt02sq> <film.personal_film_appearance.film> "Euro 2012: The Score" .
+<Moroccans> <people.ethnicity.languages_spoken> "Tashelhiyt Language" .
+<Cristiano> <internet.blog.blogger> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9pjc1" .
+<Country> <freebase.type_hints.included_types> "Location" .
+<Saïd_Taghmaoui> <people.person.nationality> "United States of America" .
+<m.0j5172y> <freebase.valuenotation.is_reviewed> "Date" .
+<Celebrity> <type.type.properties> "Sexual orientation" .
+<Ethnicity> <type.property.expected_type> "Ethnicity" .
+<UEFA_Euro_2012_Quarter-final_I> <soccer.football_match.teams> "Portugal national football team" .
+<Cristiano> <common.topic.notable_types> "Blog" .
+<Mike_McDowall> <film.producer.film> "Ronaldo: Tested to the Limit" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m90z" .
+<m.0zg3rqp> <award.award_nomination.ceremony> "2013 FIFA Ballon d'Or" .
+<Europe> <base.locations.continents.countries_within> "Portugal" .
+<Cristiano_Ronaldo> <film.film_subject.films> "Golden Shoes" .
+<Football> <common.topic.subject_of> "superscommesse.it" .
+<São_Paulo_FC> <sports.sports_team.sport> "Football" .
+<FIFA_Ballon_d'Or> <award.award_category.nominees> "m.0zg3rqp" .
+<Real_Madrid_C.F.> <soccer.football_team.matches> "2014 Real Madrid vs Borussia Dortmund football match" .
+<m.0l3ljcs> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<http://voetbalshirtsdirect.nl> <common.topic.subject_of> "Real Madrid C.F." .
+<Portuguese_people> <common.topic.article> "m.03vghq" .
+<1969–70_Copa_del_Generalísimo> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <sports.sports_team.location> "Madrid" .
+<Real_Madrid_C.F.> <soccer.football_team.matches> "2014 FC Bayern München vs Real Madrid CF football match" .
+<Spouse> <rdf-schema#range> "Person" .
+<Ballon_d'Or> <award.award.category> "Ballon d'Or" .
+<Moroccans> <people.ethnicity.people> "Ismail Ibn Sharif" .
+<Hugo_Aveiro> <people.person.gender> "Male" .
+<Celebrity> <freebase.type_hints.included_types> "Topic" .
+<Santo_António> <location.location.geolocation> "m.02_hhf9" .
+<m.0w3m5px> <award.award_honor.award> "Premier League Player of the Month" .
+<PFA_Players'_Player_of_the_Year> <award.award_category.winners> "m.0w3m549" .
+<Celebrity> <type.type.expected_by> "Celebrity" .
+<Premier_League_Golden_Boot> <award.award_category.winners> "m.0w3m61v" .
+<m.0qdm0fn> <award.award_honor.award> "Sir Matt Busby Player of the Year" .
+<José_Dinis_Aveiro> <people.person.gender> "Male" .
+<Abd_el-Krim> <people.person.ethnicity> "Moroccans" .
+<m.0w8yx8c> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm36t" .
+<UEFA_Team_of_the_Year> <award.award_category.winners> "m.0w3m929" .
+<m.0w9mjbh> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<United_States_of_America> <common.topic.notable_types> "Country" .
+<Real_Madrid_C.F.> <award.award_nominee.award_nominations> "m.0z450rf" .
+<m.02k_bcp> <freebase.valuenotation.is_reviewed> "From" .
+<m.0ngp9w9> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Ronaldo:_Tested_to_the_Limit> <film.film.personal_appearances> "m.0ngp9w9" .
+<2014_Copa_del_Rey_Final> <soccer.football_match.teams> "FC Barcelona" .
+<From> <type.property.expected_type> "Date/Time" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lp1d" .
+<Santiago_Bernabéu_Stadium> <location.location.events> "2014 Barcelona F.C. vs Real Madrid C.F. football match" .
+<Marouane_Fellaini> <people.person.ethnicity> "Moroccans" .
+<Forward> <common.topic.webpage> "m.09wcyf6" .
+<Date_of_birth> <type.property.schema> "Person" .
+<LPF_Most_Valuable_Player> <award.award_category.nominees> "m.0_qzlzy" .
+<Cristiano_Ronaldo> <soccer.football_player.statistics> "m.0w8w7f0" .
+<m.01089mfv> <base.schemastaging.phone_sandbox.service_language> "English Language" .
+<Marouane_Fellaini> <people.person.gender> "Male" .
+<2007–08_Premier_League> <common.topic.image> "Maalipörssiä johtava Manchester Unitedin Cristiano Ronaldo" .
+<Cristiano_Ronaldo> <freebase.valuenotation.is_reviewed> "Siblings" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010pt4xh" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0114z017" .
+<Education> <type.property.schema> "Person" .
+<m.0w8yrxd> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3kqqw" .
+<m.09wb10c> <common.webpage.topic> "Forward" .
+<m.0hzxmh2> <award.award_honor.award> "Ballon d'Or" .
+<m.0w3m52v> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<1957_Pequeña_Copa_del_Mundo_de_Clubes> <time.event.previous_in_series> "1956 Pequeña Copa del Mundo de Clubes" .
+<m.010p3jl2> <soccer.football_player_match_participation.player> "Cristiano Ronaldo" .
+<Golden_Shoes> <film.film.written_by> "Lance Kawas" .
+<Goal_III:_Taking_on_the_World> <film.film.language> "English Language" .
+<m.0l3l38d> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Student> <owl#inverseOf> "Education" .
+<FIFA_Ballon_d'Or> <award.award_category.nominees> "m.0yv273q" .
+<UEFA_Team_of_the_Year> <award.award_category.winners> "m.0w3m9bl" .
+<m.09xs63n> <common.webpage.topic> "Forward" .
+<Cristiano_Ronaldo> <soccer.football_player.matches_played> "m.0g9m454" .
+<Cristiano_Ronaldo_Jr.> <people.person.gender> "Male" .
+<Forward> <sports.sports_position.sport> "Football" .
+<Sporting-soc_Desportiva_De> <soccer.football_team.sold_players> "m.0d46pnq" .
+<Real_Madrid_C.F.> <common.topic.subject_of> "superscommesse.it" .
+<m.0w9gt0g> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <base.x2010fifaworldcupsouthafrica.world_cup_participant.world_cup_team> "m.09jy3d3" .
+<Sporting-soc_Desportiva_De> <sports.sports_team.sport> "Football" .
+<Spouse> <type.property.schema> "Marriage" .
+<m.0l3l34r> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.0_srg85> <award.award_nomination.award> "Shorty Award for Athlete" .
+<m.0w8z58q> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Height> <type.property.schema> "Person" .
+<m.0w8wnb_> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Moroccans> <people.ethnicity.languages_spoken> "Central Atlas Tamazight" .
+<American_football_player> <people.profession.specialization_of> "Athlete" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0_qzm5t" .
+<Cristiano_Ronaldo_Jr.> <freebase.valuenotation.has_value> "Place of birth" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0y555dg" .
+<Date> <type.property.expected_type> "Date/Time" .
+<m.0_qzm5t> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011nhvdj" .
+<Manchester_United_F.C.> <common.topic.notable_types> "Football team" .
+<FIFA_World_Player_of_the_Year> <award.award.award_announcements> "2013 FIFA Ballon d'Or" .
+<Cristiano_Ronaldo> <internet.blogger.blog> "Cristiano" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0_1ckhf" .
+<Eden_Riegel> <freebase.valuenotation.is_reviewed> "Gender" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w900pf" .
+<Onze_d'Or> <award.award.category> "Onze d'Or" .
+<Forward> <common.topic.webpage> "m.09wkysw" .
+<Golden_Shoes> <film.film.starring> "m.0w2msyx" .
+<Hicham_El_Guerrouj> <freebase.valuenotation.is_reviewed> "Gender" .
+<Cristiano_Ronaldo> <people.person.sibling_s> "m.0j517c_" .
+<m.0l3l881> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Position(s)> <type.property.schema> "Football player" .
+<Football_player> <common.topic.article> "m.01lkv6" .
+<Cristiano_Ronaldo> <internet.blogger.blog> "Viva Ronaldo" .
+<Celebrity> <type.type.expected_by> "Rival" .
+<FIFA_Ballon_d'Or> <award.award.award_announcements> "2013 FIFA Ballon d'Or" .
+<m.0j5172y> <freebase.valuenotation.is_reviewed> "Currency" .
+<Marriage> <type.type.expected_by> "Spouse (or domestic partner)" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.011nr6zg" .
+<m.0l3k2l1> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.0ngp9w9> <film.personal_film_appearance.film> "Ronaldo: Tested to the Limit" .
+<Football_player> <people.profession.specializations> "Australian rules football player" .
+<Cristiano_Ronaldo> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1936 Copa del Presidente de la República" .
+<Football> <award.award_discipline.awards_in_this_discipline> "FIFA Ballon d'Or" .
+<Moroccans> <people.ethnicity.people> "Marouane Chamakh" .
+<m.0ngp9hy> <film.personal_film_appearance.film> "Goal III: Taking on the World" .
+<Saïd_Taghmaoui> <people.person.ethnicity> "Moroccans" .
+<End_date> <rdf-schema#range> "Date/Time" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l34r" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m4q3" .
+<FIFA_Puskás_Award> <award.award_category.winners> "m.0w3m8sd" .
+<m.010rnpty> <freebase.valuenotation.has_no_value> "Winning work" .
+<1907_Copa_del_Rey> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.0zt041c> <film.personal_film_appearance.film> "Globos de Ouro 2008" .
+<2014_Real_Madrid_vs_Borussia_Dortmund_football_match> <soccer.football_match.teams> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w95vf8" .
+<Real_Madrid_C.F.> <sports.sports_team.venue> "m.0n7gj7n" .
+<Marouane_Chamakh> <soccer.football_player.position_s> "Forward" .
+<Jamel_Debbouze> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0hzxmh2> <freebase.valuenotation.has_no_value> "Ceremony" .
+<m.0zt07p1> <film.personal_film_appearance.person> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1958 European Cup Final" .
+<Madeira> <location.administrative_division.first_level_division_of> "Portugal" .
+<Real_Madrid_C.F.> <base.schemastaging.sports_team_extra.managers> "m.010h3pz6" .
+<Cristiano_Ronaldo> <film.person_or_entity_appearing_in_film.films> "m.0zt02sq" .
+<1960_European_Cup_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Santo_António> <location.location.containedby> "Portugal" .
+<m.0l3fwnp> <base.schemastaging.team_training_ground_relationship.team> "Real Madrid C.F." .
+<Celebrity> <freebase.type_profile.equivalent_topic> "Celebrity" .
+<Blog> <type.type.properties> "Blogger" .
+<m.0w3m9n0> <award.award_honor.award> "g.121dc5yv" .
+<m.0w3m8sd> <award.award_honor.award> "FIFA Puskás Award" .
+<Person> <type.type.properties> "Place of birth" .
+<Directed_by> <rdf-schema#domain> "Film" .
+<Cristiano_Ronaldo> <film.person_or_entity_appearing_in_film.films> "m.0zt041c" .
+<Fashion_entrepreneur> <people.profession.specialization_of> "Entrepreneur" .
+<Hicham_El_Guerrouj> <people.person.ethnicity> "Moroccans" .
+<Portuguese_people> <people.ethnicity.languages_spoken> "Miranda do Douro Language" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l390" .
+<m.0qdm2yq> <award.award_honor.award> "European Golden Shoe" .
+<m.0yv273q> <award.award_nomination.ceremony> "2012 FIFA Ballon d'Or" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0qdm0fn" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ld2g" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1956 Pequeña Copa del Mundo de Clubes" .
+<Forward> <common.topic.webpage> "m.09x3_1p" .
+<m.0cj9qkv> <common.webpage.resource> "Cristiano Ronaldo Pictures" .
+<m.0ngp9hy> <film.personal_film_appearance.person> "Cristiano Ronaldo" .
+<Elma_Aveiro> <people.person.parents> "José Dinis Aveiro" .
+<Maria_Dolores_dos_Santos_Aveiro> <common.topic.notable_for> "g.125fq71bf" .
+<Real_Madrid_C.F.> <sports.sports_team.arena_stadium> "Santiago Bernabéu Stadium" .
+<m.0w9jpf0> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Elma_Aveiro> <people.person.parents> "Maria Dolores dos Santos Aveiro" .
+<m.0w9gdc1> <soccer.football_player_stats.player> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <freebase.valuenotation.has_value> "Place founded" .
+<m.0w9jsjs> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Ronaldo:_Tested_to_the_Limit> <film.film.subjects> "Cristiano Ronaldo" .
+<Football> <book.periodical_subject.periodicals> "Hala Madrid" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Juan_Padrós> <freebase.valuenotation.has_value> "Parents" .
+<Weight> <type.property.expected_type> "Floating Point Number" .
+<m.0d5fdtr> <sports.pro_sports_played.sport> "Football" .
+<José_Dinis_Aveiro> <freebase.valuenotation.has_value> "Education" .
+<RedOne> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9943g" .
+<m.0l3ld1p> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1953 Copa del Generalísimo Juvenil" .
+<Midfielder> <common.topic.webpage> "m.09y4zj1" .
+<m.0w9mjb4> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <people.person.sibling_s> "m.0j517cc" .
+<Onze_d'Or> <award.award_category.winners> "m.0qdm23r" .
+<Forward> <common.topic.webpage> "m.09w68yf" .
+<Maria_Dolores_dos_Santos_Aveiro> <common.topic.notable_types> "Person" .
+<Shorty_Award_for_Apps> <award.award_category.nominees> "m.0_sxcp_" .
+<Cristiano_Ronaldo> <freebase.valuenotation.is_reviewed> "Parents" .
+<1956_European_Cup_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.0w2ds5z> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Mike_McDowall> <film.director.film> "Ronaldo: Tested to the Limit" .
+<1958_European_Cup_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Forward> <common.topic.image> "Football match.jpg" .
+<m.0c8d4r5> <common.webpage.in_index> "Blissful Celebrities" .
+<m.02sf29t> <sports.sports_team_roster.player> "Cristiano Ronaldo" .
+<Ethnicity> <rdf-schema#range> "Ethnicity" .
+<m.0l3l356> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.0w900pf> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<2013_FIFA_Ballon_d'Or> <award.award_announcement.award> "FIFA World Player of the Year" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Cristiano_Ronaldo> <common.topic.image> "C ronaldo cropped" .
+<2014_Barcelona_F.C._vs_Real_Madrid_C.F._football_match> <soccer.football_match.teams> "Real Madrid C.F." .
+<Portuguese_people> <people.ethnicity.geographic_distribution> "Europe" .
+<m.0z9c358> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<FC_Barcelona> <common.topic.notable_types> "Football team" .
+<Viva_Ronaldo> <internet.blog.language> "English Language" .
+<Initial_release_date> <rdf-schema#range> "Date/Time" .
+<2014_Real_Madrid_Vs_UD_Almería_football_match> <time.event.locations> "Santiago Bernabéu Stadium" .
+<Real_Madrid_C.F.> <base.tournaments.tournament_competitor.tournaments> "m.0j5k3pd" .
+<m.02k_bcp> <freebase.valuenotation.is_reviewed> "Number" .
+<Spouse_(or_domestic_partner)> <rdf-schema#domain> "Person" .
+<FC_Barcelona> <freebase.valuenotation.is_reviewed> "Leadership" .
+<Cristiano_Ronaldo> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Ronaldo:_Tested_to_the_Limit> <common.topic.notable_types> "Film" .
+<m.02k_bcp> <freebase.valuenotation.is_reviewed> "Position" .
+<Lance_Kawas> <freebase.valuenotation.is_reviewed> "Gender" .
+<Moroccans> <people.ethnicity.people> "Hicham El Guerrouj" .
+<Portugal_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3d3" .
+<m.0w9mj4n> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Cristiano_Ronaldo> <common.topic.webpage> "m.0b6rnr8" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "2014 UEFA Champions League Final" .
+<m.0w8yx8c> <freebase.valuenotation.has_no_value> "To" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9kv95" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l892" .
+<Moroccans> <common.topic.notable_types> "Ethnicity" .
+<Elisa_Salinas> <freebase.valuenotation.has_value> "Date of birth" .
+<m.0w991dv> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Fashion_entrepreneur> <common.topic.article> "m.0cnxmtk" .
+<Tashelhiyt_Language> <language.human_language.language_family> "Berber languages" .
+<m.0z2c96m> <award.award_nomination.ceremony> "2011 FIFA Ballon d'Or" .
+<2013–14_Copa_del_Rey> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Country> <freebase.type_profile.strict_included_types> "Location" .
+<m.0k061tt> <soccer.football_goal.scorer> "Cristiano Ronaldo" .
+<Place_of_birth> <type.property.expected_type> "Location" .
+<Cristiano_Ronaldo> <soccer.football_player.goals_scored> "m.010dzr92" .
+<Person> <type.type.properties> "Weight" .
+<m.0z3v64l> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<m.0w99124> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0b6rnr8> <common.webpage.category> "Tag" .
+<Spouse_(or_domestic_partner)> <type.property.expected_type> "Marriage" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<Portuguese_people> <people.ethnicity.included_in_group> "Latin European peoples" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9nlyn" .
+<m.0z3v5d2> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<Lance_Kawas> <freebase.valuenotation.has_value> "Country of nationality" .
+<Saïd_Taghmaoui> <freebase.valuenotation.has_value> "Siblings" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9g80j" .
+<m.0w3m9g3> <award.award_honor.award> "g.121dc5yv" .
+<1954–55_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Saïd_Taghmaoui> <people.person.gender> "Male" .
+<m.0d46pnx> <soccer.football_player_transfer.player> "Cristiano Ronaldo" .
+<m.0w3m9bl> <award.award_honor.award> "UEFA Team of the Year" .
+<Siblings> <rdf-schema#domain> "Person" .
+<Height> <type.property.expected_type> "Floating Point Number" .
+<m.0w96g0h> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0w8wck1> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0qdm2yq> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Abd_el-Krim> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<2010_FIFA_World_Cup_Group_G_-_POR_./._BRA> <soccer.football_match.players> "m.0g9m454" .
+<Santiago_Bernabéu_Stadium> <location.location.events> "1985 UEFA Cup Final" .
+<m.0qdm0hj> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<1936_Copa_del_Presidente_de_la_República> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Carlos_Padrós> <people.person.gender> "Male" .
+<m.0n7gj7n> <sports.team_venue_relationship.team> "Real Madrid C.F." .
+<PFA_Young_Player_of_the_Year> <common.topic.image> "C ronaldo cropped" .
+<Cristiano_Ronaldo> <soccer.football_player.matches_played> "m.0g9lr08" .
+<Person> <type.type.properties> "Height" .
+<Viva_Ronaldo> <internet.blog.blogger> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wvdz" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0qdm23r" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9mlss" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0z471f4" .
+<m.0w9f8nl> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0ngp9hy> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0w_znzz> <base.schemastaging.athlete_salary.team> "Real Madrid C.F." .
+<2010_FIFA_World_Cup_Group_G_-_CIV_./._POR> <soccer.football_match.players> "m.0c1stfg" .
+<Celebrity> <type.type.expected_by> "Friend" .
+<Football_player> <common.topic.article> "m.02vxg" .
+<m.09x_vnh> <common.webpage.topic> "Forward" .
+<Cristiano_Ronaldo> <sports.pro_athlete.teams> "m.0jyw9j6" .
+<m.0_sxcp_> <award.award_nomination.nominated_for> "Viva Ronaldo" .
+<m.0d5fdtr> <sports.pro_sports_played.athlete> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l375" .
+<Fashion_entrepreneur> <people.profession.people_with_this_profession> "Davina Reichman" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wdyr" .
+<Liliana_Catia_Aveiro> <common.topic.notable_types> "Person" .
+<Football_player> <book.book_subject.works> "When the Nines Roll Over and Other Stories" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m52v" .
+<m.0z9c358> <award.award_nomination.ceremony> "2008 ESPY Awards" .
+<Education> <type.property.expected_type> "Education" .
+<m.0w96c87> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<São_Paulo_FC> <sports.sports_team.colors> "White" .
+<m.0w_znzz> <freebase.valuenotation.is_reviewed> "Date" .
+<Portuguese_people> <fictional_universe.ethnicity_in_fiction.characters_of_this_ethnicity> "Santos" .
+<Globos_de_Ouro_2007> <film.film.personal_appearances> "m.0zt07p1" .
+<Athlete> <people.profession.specializations> "Canadian football player" .
+<m.0w9001b> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0_22qp1> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Cristiano_Ronaldo> <people.person.sibling_s> "m.0j517cp" .
+<m.0z2213k> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<Moroccans> <people.ethnicity.languages_spoken> "Moroccan Arabic" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9g7rw" .
+<RedOne> <freebase.valuenotation.is_reviewed> "Profession" .
+<Cristiano_Ronaldo> <people.person.parents> "Maria Dolores dos Santos Aveiro" .
+<Real_Madrid_C.F.> <base.schemastaging.sports_team_extra.season_rankings> "m.010lkbq9" .
+<Karima_Adebibe> <people.person.gender> "Female" .
+<Cristiano_Ronaldo> <people.person.ethnicity> "Moroccans" .
+<Laila_Rouass> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Moroccans> <people.ethnicity.languages_spoken> "Arabic Language" .
+<m.0l3lj9c> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m549" .
+<Profession> <rdf-schema#range> "Profession" .
+<Football_player> <freebase.type_profile.strict_included_types> "Topic" .
+<PFA_Fans'_Player_of_the_Year> <award.award_category.winners> "m.0w3m570" .
+<1988–89_Copa_del_Rey> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.0108b_kd> <base.schemastaging.phone_sandbox.service_language> "Spanish Language" .
+<2014_UEFA_Champions_League_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<2014_Borussia_Dortmund_vs_Real_Madrid_football_match> <soccer.football_match.teams> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <sports.sports_team.venue> "m.0n7gj35" .
+<PFA_Team_of_the_Year> <award.award_category.winners> "m.0y5555z" .
+<Cristiano_Ronaldo> <common.topic.webpage> "m.0c8d4r5" .
+<Ronald_Reagan> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Portugal> <location.country.first_level_divisions> "Madeira" .
+<m.0z3v64l> <freebase.valuenotation.has_no_value> "Nominated work" .
+<When_the_Nines_Roll_Over_and_Other_Stories> <book.written_work.subjects> "Football player" .
+<Manchester_United_F.C.> <soccer.football_team.purchased_players> "m.0d46pnq" .
+<Cristiano_Ronaldo_Jr.> <common.topic.notable_types> "Person" .
+<Real_Madrid_C.F.> <organization.organization.leadership> "m.0w1gdqq" .
+<2009_FIFA_World_Player_of_the_Year> <award.award_ceremony.nominees> "m.0z3v5d2" .
+<m.010lkbq9> <base.schemastaging.sports_league_season_ranking.team> "Real Madrid C.F." .
+<m.0_1ckhf> <award.award_honor.award> "FIFA Ballon d'Or" .
+<m.0w3m549> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Moroccans> <people.ethnicity.people> "Tariq ibn Ziyad" .
+<1959_European_Cup_Final> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<UEFA_Club_Footballer_of_the_Year> <award.award_category.winners> "m.0w3m6f5" .
+<Juliette_Binoche> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Profession> <type.type.expected_by> "Profession" .
+<m.0w3m4ty> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0n7gj7n> <sports.team_venue_relationship.venue> "Santiago Bernabéu Stadium" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.0_z5vj9" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h3664" .
+<Ronald_Reagan> <people.person.nationality> "United States of America" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9mzrz" .
+<Athlete> <base.lightweight.profession.specialization_of> "Athletes and Sports Competitors" .
+<m.0y87y_h> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0w3m9g3> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0w3m6f5> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Globos_de_Ouro_2008> <common.topic.notable_types> "Film" .
+<m.0l3lp5k> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Midfielder> <common.topic.image> "396px-Boisko PositionsMidfield" .
+<Moroccans> <people.ethnicity.people> "Omar Berdouni" .
+<José_Dinis_Aveiro> <people.person.parents> "Filomena Aveiro" .
+<m.0w96fnq> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Portugal_national_football_team> <sports.sports_team.roster> "m.02sf29t" .
+<Football> <common.topic.image> "Football match.jpg" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0glmm31" .
+<1955_Pequeña_Copa_del_Mundo_de_Clubes> <time.event.next_in_series> "1956 Pequeña Copa del Mundo de Clubes" .
+<Real_Madrid_C.F.> <soccer.football_team.matches> "2014 Copa del Rey Final" .
+<Laila_Rouass> <freebase.valuenotation.has_value> "Parents" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065sbl" .
+<m.0w9mlss> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l89l" .
+<Real_Madrid_C.F.> <common.topic.image> "A long-haired man, wearing a white football shirt, with both hands lifted above his head" .
+<m.0l3l37w> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <sports.sports_team.league> "m.0crt6mw" .
+<People_born_here> <rdf-schema#domain> "Location" .
+<Maria_Dolores_dos_Santos_Aveiro> <freebase.valuenotation.has_value> "Height" .
+<Maria_Dolores_dos_Santos_Aveiro> <freebase.valuenotation.has_value> "Education" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9l9kf" .
+<Manchester_United_F.C.> <sports.sports_team.championships> "2007–08 Premier League" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m9ry" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lp6q" .
+<Hugo_Aveiro> <people.person.parents> "Maria Dolores dos Santos Aveiro" .
+<Elisa_Salinas> <freebase.valuenotation.has_value> "Children" .
+<Jamel_Debbouze> <freebase.valuenotation.is_reviewed> "Children" .
+<Santiago_Bernabéu_Stadium> <soccer.football_pitch.matches> "2014 Real Madrid CF vs. CA Osasuna football match" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1973–74 Copa del Generalísimo" .
+<Moroccans> <people.ethnicity.people> "Jamel Debbouze" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w96c87" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lj89" .
+<Santo_António> <common.topic.image> "View from Pico dos Barcelos above Santo António" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0_spmnq" .
+<m.09w2grw> <common.webpage.topic> "Forward" .
+<Portugal_national_football_team> <soccer.football_team.matches> "2010 FIFA World Cup Group G - CIV ./. POR" .
+<m.0j5k3pd> <base.tournaments.tournament_participating_competitor.competitor_s> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1969–70 Copa del Generalísimo" .
+<Portuguese_people> <base.schemastaging.context_name.pronunciation> "g.125_s52z6" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm3g0" .
+<Cristiano_Ronaldo_Jr.> <people.person.nationality> "United States of America" .
+<Spanish_Language> <language.human_language.region> "Europe" .
+<m.0w8wv7n> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l881" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1964–65 La Liga" .
+<Liliana_Catia_Aveiro> <people.person.gender> "Female" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9frhv" .
+<m.0y5556g> <award.award_honor.award> "PFA Team of the Year" .
+<m.0w9mq69> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Celebrity> <type.type.expected_by> "Celebrity" .
+<m.0zt07p1> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l8b4" .
+<m.0y553_4> <award.award_honor.award> "UEFA Champions League Top Goalscorer" .
+<m.0fpskk6> <common.webpage.category> "Curated Topic" .
+<Juan_Padrós> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Jamel_Debbouze> <freebase.valuenotation.is_reviewed> "Siblings" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0y87y_h" .
+<To> <type.property.expected_type> "Date/Time" .
+<m.0107ftfn> <soccer.football_player_transfer.selling_team> "Real Madrid C.F." .
+<m.0w3m93k> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0l3lp67> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9f8nl" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0y5555z" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m5t1" .
+<Euro_2012:_The_Score> <film.film.genre> "Documentary film" .
+<Premier_League_Player_of_the_Season> <award.award_category.winners> "m.0y553hf" .
+<FIFA_Ballon_d'Or> <award.award_category.disciplines_or_subjects> "Football" .
+<m.0c1stfg> <soccer.football_player_match_participation.match> "2010 FIFA World Cup Group G - CIV ./. POR" .
+<2013–14_Copa_del_Rey> <sports.sports_league_season.championship> "2014 Copa del Rey Final" .
+<Profession> <type.property.schema> "Person" .
+<Santiago_Bernabéu_Stadium> <location.location.events> "2014 Real Madrid Vs UD Almería football match" .
+<Elma_Aveiro> <people.person.gender> "Female" .
+<m.0_1ckhf> <award.award_honor.ceremony> "2013 FIFA Ballon d'Or" .
+<Football_Position> <freebase.type_profile.published> "Published" .
+<Juan_Padrós> <organization.organization_founder.organizations_founded> "Real Madrid C.F." .
+<Football_Position> <freebase.type_hints.included_types> "Topic" .
+<Cristiano_Ronaldo> <sports.pro_athlete.teams> "m.02sf29t" .
+<m.0z3wb4t> <award.award_nomination.award_nominee> "Real Madrid C.F." .
+<Santiago_Bernabéu_Stadium> <soccer.football_pitch.matches> "1957 European Cup Final" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "2000–01 La Liga" .
+<m.0yx2z6_> <award.award_nomination.award> "Laureus World Sports Award for Sportsman of the Year" .
+<Latin_European_peoples> <common.topic.notable_types> "Ethnicity" .
+<m.09w2z1v> <common.webpage.topic> "Forward" .
+<Moroccans> <people.ethnicity.people> "Saïd Taghmaoui" .
+<Moroccans> <people.ethnicity.people> "Cristiano Ronaldo" .
+<2007_FIFA_World_Player_of_the_Year> <award.award_ceremony.nominees> "m.0z4b6yl" .
+<m.0_srg85> <award.award_nomination.nominated_for> "Cristiano" .
+<Celebrity> <type.type.properties> "Romantic relationships (with celebrities)" .
+<Entrepreneur> <people.profession.specializations> "Fashion entrepreneur" .
+<http://voetbalshirtsdirect.nl> <common.topic.subject_of> "Manchester United F.C." .
+<Athletes_and_Sports_Competitors> <base.lightweight.profession.specialization> "Athlete" .
+<m.0_22qp1> <award.award_honor.award> "FIFA Ballon d'Or" .
+<Tariq_ibn_Ziyad> <people.person.gender> "Male" .
+<Moroccans> <common.topic.image> "Moroccans" .
+<Film> <type.type.properties> "Initial release date" .
+<Abd_el-Krim> <people.person.gender> "Male" .
+<m.0l3ln_1> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Elma_Aveiro> <common.topic.notable_types> "Person" .
+<Laureus_World_Sports_Award_for_Sportsman_of_the_Year> <award.award_category.nominees> "m.0yx2z6_" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.0z23jls" .
+<m.0w9g0bv> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0w3m9ry> <award.award_honor.award> "g.121dc5yv" .
+<Carlos_Padrós> <freebase.valuenotation.is_reviewed> "Place of death" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "2013–14 Copa del Rey" .
+<m.09jy3d3> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Portugal national football team" .
+<Maria_Dolores_dos_Santos_Aveiro> <people.person.gender> "Female" .
+<Saïd_Taghmaoui> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ld6b" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0qdm2yq" .
+<m.0w8wdyr> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<UEFA_Champions_League_Top_Goalscorer> <award.award_category.winners> "m.010nx4bl" .
+<m.0w8wcd1> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<m.0w3m570> <award.award_honor.award> "PFA Fans' Player of the Year" .
+<Viva_Ronaldo> <common.topic.notable_types> "Blog" .
+<2013_Copa_del_Rey_Juvenil> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.010dzr92> <soccer.football_goal.point_awarded_to> "Real Madrid C.F." .
+<m.02k_bcp> <freebase.valuenotation.is_reviewed> "Team" .
+<Badr_Hari> <freebase.valuenotation.has_value> "Education" .
+<Education> <type.property.master_property> "Student" .
+<m.0_1ckhf> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Ethnicity> <freebase.type_profile.published> "Published" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wcd1" .
+<Cristiano_Ronaldo> <film.person_or_entity_appearing_in_film.films> "m.0ngp9hy" .
+<Forward> <common.topic.webpage> "m.09w2z1v" .
+<m.0glmm31> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Premier_League_Player_of_the_Season> <award.award_category.winners> "m.0y553j8" .
+<Ballon_d'Or> <award.award_category.category_of> "Ballon d'Or" .
+<m.0l3l39q> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.09wcyf6> <common.webpage.topic> "Forward" .
+<Mohammed_VI_of_Morocco> <people.person.ethnicity> "Moroccans" .
+<Real_Madrid_C.F.> <organization.organization.founders> "Carlos Padrós" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0qdm2s3" .
+<m.0w1gdqq> <organization.leadership.organization> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3lnxp" .
+<Initial_release_date> <rdf-schema#domain> "Film" .
+<C_ronaldo_cropped> <common.image.appears_in_topic_gallery> "PFA Players' Player of the Year" .
+<m.0w984m7> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9f0zb" .
+<m.0k061tt> <soccer.football_goal.point_awarded_to> "Portugal national football team" .
+<American_football_player> <people.profession.specialization_of> "Football player" .
+<Football> <common.topic.image> "Football4" .
+<Cristiano_Ronaldo> <freebase.valuenotation.is_reviewed> "Profession" .
+<m.0_spmnq> <freebase.valuenotation.has_no_value> "Nominated work" .
+<m.0qz948t> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010j2f6f" .
+<m.0z4b6yl> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<Goal_III:_Taking_on_the_World> <common.topic.notable_types> "Film" .
+<m.0w3m4q3> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Golden_Shoes> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<m.0w3m570> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0w9mkkp> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1906 Copa del Rey" .
+<m.0w1gf8f> <common.topic.notable_types> "Location" .
+<m.0w8w7f0> <soccer.football_player_stats.team> "Portugal national football team" .
+<m.0n7ghz8> <sports.team_venue_relationship.team> "Real Madrid C.F." .
+<m.09yfbzc> <common.webpage.topic> "Forward" .
+<São_Paulo_FC> <common.topic.notable_types> "Football team" .
+<Myriem_Roussel> <people.person.ethnicity> "Moroccans" .
+<Adolfo_Meléndez> <freebase.valuenotation.is_reviewed> "Gender" .
+<Golden_Shoes> <film.film.directed_by> "Lance Kawas" .
+<People_born_here> <type.property.expected_type> "Person" .
+<Ethnicity> <type.type.expected_by> "Ethnicity" .
+<2014_Barcelona_F.C._vs_Real_Madrid_C.F._football_match> <soccer.football_match.teams> "FC Barcelona" .
+<Hassan_II_of_Morocco> <people.person.gender> "Male" .
+<m.010b0nx7> <base.schemastaging.phone_sandbox.service_language> "Spanish Language" .
+<m.0_spmnq> <award.award_nomination.ceremony> "2014 Laureus World Sports Awards" .
+<m.0w3m9pd> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.09y96kp> <common.webpage.topic> "Forward" .
+<To> <type.property.expected_type> "Date/Time" .
+<m.0g9m454> <soccer.football_player_match_participation.player> "Cristiano Ronaldo" .
+<Bravo_Award> <award.award_category.winners> "m.0qdlzfd" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9g0bv" .
+<m.0y5557f> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<CristianoRonaldo_la.jpg.jpeg> <common.image.appears_in_topic_gallery> "Cristiano Ronaldo" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010mytqw" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9nh66" .
+<United_States_of_America> <olympics.olympic_participating_country.olympics_participated_in> "2004 Summer Olympics" .
+<Athlete> <people.profession.specializations> "American football player" .
+<Cristiano_Ronaldo> <soccer.football_player.statistics> "m.0w9gdc1" .
+<Juliette_Binoche> <freebase.valuenotation.is_reviewed> "Parents" .
+<Cristiano_Ronaldo> <soccer.football_player.goals_scored> "m.010p4jhc" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9nlw5" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l337" .
+<Cook> <people.profession.people_with_this_profession> "Maria Dolores dos Santos Aveiro" .
+<José_Dinis_Aveiro> <people.person.nationality> "Portugal" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w984m7" .
+<m.0w8wrt0> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Funchal> <location.location.containedby> "Portugal" .
+<m.0k04wys> <soccer.football_league_participation.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wn3z" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ld1p" .
+<m.0w9nlw5> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Children> <type.property.master_property> "Parents" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "2002–03 La Liga" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l356" .
+<m.0c1stfg> <soccer.football_player_match_participation.team> "Portugal national football team" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m58s" .
+<Film> <freebase.type_hints.included_types> "Topic" .
+<Real_Madrid_C.F.> <sports.sports_team.coaches> "m.0nf3rv9" .
+<Siblings> <rdf-schema#range> "Sibling Relationship" .
+<Elma_Aveiro> <freebase.valuenotation.has_value> "Place of birth" .
+<1906_Copa_del_Rey> <time.event.previous_in_series> "1905 Copa del Rey" .
+<José_Dinis_Aveiro> <freebase.valuenotation.has_value> "Place of death" .
+<Eden_Riegel> <people.person.nationality> "United States of America" .
+<Celebrity> <type.type.properties> "Rehab history" .
+<Cristiano_Ronaldo> <freebase.valuenotation.is_reviewed> "Spouse (or domestic partner)" .
+<m.0114z017> <freebase.valuenotation.has_no_value> "Winning work" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0y553j8" .
+<m.0w3m549> <award.award_honor.award> "PFA Players' Player of the Year" .
+<m.0l3lj8v> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011rkzfn" .
+<2002–03_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Moroccan_Arabic> <language.language_dialect.language> "Arabic Language" .
+<m.0w3m58s> <award.award_honor.award> "PFA Fans' Player of the Year" .
+<Place_of_death> <type.property.schema> "Deceased Person" .
+<m.0qdm2s3> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0w9rcqh> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Marriage> <type.type.properties> "Spouse" .
+<m.0z450rf> <award.award_nomination.award_nominee> "Real Madrid C.F." .
+<Maria_Dolores_dos_Santos_Aveiro> <people.person.children> "Hugo Aveiro" .
+<Moroccans> <people.ethnicity.people> "Eden Riegel" .
+<Portuguese_people> <common.topic.image> "Portuguese People" .
+<m.0w3m9km> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0wgx5gk> <freebase.valuenotation.has_no_value> "End date" .
+<m.09w68yf> <common.webpage.topic> "Forward" .
+<Moroccans> <people.ethnicity.people> "Abdullah al-Ghumari" .
+<Place_founded> <type.property.expected_type> "Location" .
+<m.0114z017> <award.award_honor.award> "Best International Athlete ESPY Award" .
+<1964–65_La_Liga> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<m.0jyw9j6> <sports.sports_team_roster.team> "Sporting-soc Desportiva De" .
+<Moroccans> <common.topic.article> "m.0cc5y78" .
+<m.0w3z7xk> <organization.leadership.organization> "Real Madrid C.F." .
+<FIFA_World_Player_of_the_Year> <award.award_category.nominees> "m.0z4b6yl" .
+<Portugal> <base.aareas.schema.administrative_area.administrative_children> "Madeira" .
+<Elisa_Salinas> <people.person.gender> "Female" .
+<Hicham_El_Guerrouj> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<m.010p3jl2> <soccer.football_player_match_participation.match> "2014 UEFA Champions League Final" .
+<m.010p3jl2> <soccer.football_player_match_participation.team> "Real Madrid C.F." .
+<m.0l3kqqw> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Date> <rdf-schema#range> "Date/Time" .
+<Forward> <common.topic.webpage> "m.09ywn05" .
+<2014_FC_Bayern_München_vs_Real_Madrid_CF_football_match> <soccer.football_match.teams> "Real Madrid C.F." .
+<m.09y1l4x> <common.webpage.topic> "Forward" .
+<Madeira> <location.location.contains> "Funchal" .
+<m.0l3lj77> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <soccer.football_player.goals_scored> "m.010dzrlj" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9jpf0" .
+<m.0z23jls> <award.award_nomination.award_nominee> "Cristiano Ronaldo" .
+<Football_player> <freebase.type_hints.included_types> "Topic" .
+<C_ronaldo_cropped> <common.image.appears_in_topic_gallery> "Ballon d'Or 2008" .
+<Salary> <rdf-schema#range> "Floating Point Number" .
+<m.0w9l42z> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Juan_Padrós> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<superscommesse.it> <common.topic.subjects> "FC Barcelona" .
+<Santo_António> <common.topic.article> "m.05tt2d" .
+<m.0y82_zd> <olympics.olympic_athlete_affiliation.olympics> "2004 Summer Olympics" .
+<m.010dzr92> <soccer.football_goal.match> "2014 Real Madrid CF vs. CA Osasuna football match" .
+<Place_founded> <rdf-schema#range> "Location" .
+<Forward> <common.topic.webpage> "m.09y38j5" .
+<Cristiano_Ronaldo_Jr.> <common.topic.notable_for> "g.125c36680" .
+<m.09y4zj1> <common.webpage.topic> "Midfielder" .
+<m.0w3m7z4> <award.award_honor.ceremony> "2008 FIFA World Player of the Year" .
+<m.0b6rnr8> <common.webpage.topic> "Cristiano Ronaldo" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1974–75 La Liga" .
+<Children> <type.property.expected_type> "Person" .
+<Cristiano_Ronaldo> <award.award_nominee.award_nominations> "m.011007d7" .
+<Portuguese_people> <fictional_universe.ethnicity_in_fiction.characters_of_this_ethnicity> "Pasqual" .
+<Portugal> <sports.sports_team_location.teams> "Portugal national football team" .
+<2010_FIFA_World_Cup_Round_of_16_-_ESP_./._POR> <soccer.football_match.teams> "Portugal national football team" .
+<Portugal> <base.locations.countries.continent> "Europe" .
+<m.0w9h4hp> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<PFA_Players'_Player_of_the_Year> <award.award_category.winners> "m.0w3m52v" .
+<m.0qdm08n> <award.award_honor.award> "Sir Matt Busby Player of the Year" .
+<m.0w9gdcb> <soccer.football_player_stats.team> "Sporting-soc Desportiva De" .
+<Laila_Rouass> <people.person.ethnicity> "Moroccans" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w991dv" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010k_www" .
+<m.0w3m4pv> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Omar_Berdouni> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<m.0y555ff> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<1907_Copa_del_Rey> <time.event.previous_in_series> "1906 Copa del Rey" .
+<m.0ngp9w9> <film.personal_film_appearance.person> "Cristiano Ronaldo" .
+<Eden_Riegel> <people.person.gender> "Female" .
+<Real_Madrid_C.F.> <soccer.football_team.matches> "2014 Barcelona F.C. vs Real Madrid C.F. football match" .
+<Madeira> <location.administrative_division.country> "Portugal" .
+<Celebrity> <type.type.domain> "Celebrities" .
+<Santiago_Bernabéu_Stadium> <location.location.events> "2014 Real Madrid CF vs. CA Osasuna football match" .
+<Cristiano_Ronaldo> <soccer.football_player.position_s> "Forward" .
+<m.0w_tlh8> <sports.sports_team_coach_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l871" .
+<m.0zt02sq> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<FC_Barcelona> <common.topic.subjects> "http://voetbalshirtsdirect.nl" .
+<Spouse_(or_domestic_partner)> <type.property.schema> "Person" .
+<m.0j517cp> <people.sibling_relationship.sibling> "Liliana Catia Aveiro" .
+<Education> <rdf-schema#range> "Education" .
+<m.0l3lp1x> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9ntqq" .
+<Football_match.jpg> <common.image.appears_in_topic_gallery> "Forward" .
+<m.011p3wnv> <sports.pro_sports_played.sport> "Forward" .
+<Football_player> <people.profession.specializations> "Soccer Player" .
+<Ahmed_Aboutaleb> <people.person.ethnicity> "Moroccans" .
+<m.0zt07p1> <film.personal_film_appearance.film> "Globos de Ouro 2007" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w8wwgr" .
+<m.02k_bcp> <freebase.valuenotation.has_no_value> "To" .
+<2012_FIFA_Ballon_d'Or> <award.award_ceremony.nominees> "m.0yv273q" .
+<m.0w3m5w1> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.0_qzlzy> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Madrid> <common.topic.notable_types> "City/Town/Village" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ld3f" .
+<superscommesse.it> <common.topic.subjects> "Manchester United F.C." .
+<Ronaldo:_Tested_to_the_Limit> <film.film.genre> "Documentary film" .
+<m.0z2c96m> <award.award_nomination.award> "FIFA Ballon d'Or" .
+<Cristiano_Ronaldo> <freebase.valuenotation.has_value> "Education" .
+<Marouane_Chamakh> <people.person.gender> "Male" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9bflc" .
+<Siblings> <type.property.master_property> "Sibling" .
+<m.0w9nlyn> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Parents> <rdf-schema#domain> "Person" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1988–89 La Liga" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m9pd" .
+<Real_Madrid_C.F.> <soccer.football_team.player_statistics> "m.0w9gt0g" .
+<m.0k2y3vn> <base.schemastaging.team_training_ground_relationship.team> "Real Madrid C.F." .
+<m.0y5555z> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Athlete> <people.profession.specializations> "Soccer Player" .
+<Cristiano_Ronaldo> <people.person.places_lived> "m.03phcbp" .
+<Tariq_ibn_Ziyad> <freebase.valuenotation.has_value> "Height" .
+<RedOne> <freebase.valuenotation.is_reviewed> "Gender" .
+<m.0w3m4q3> <award.award_honor.award> "FifPro Special Young Player of the Year" .
+<Real_Madrid_C.F.> <base.schemastaging.organization_extra.phone_number> "m.0108b_kd" .
+<m.0w9gdc1> <soccer.football_player_stats.team> "Manchester United F.C." .
+<m.010dzrlj> <soccer.football_goal.point_awarded_to> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <common.topic.notable_types> "Celebrity" .
+<Lance_Kawas> <film.director.film> "Golden Shoes" .
+<m.0l3ld5v> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Marouane_Chamakh> <soccer.football_player.position_s> "Midfielder" .
+<http://voetbalshirtsdirect.nl> <common.topic.subject_of> "FC Barcelona" .
+<Pichichi_Trophy> <award.award_category.winners> "m.010rnpty" .
+<m.0w1gf8f> <location.mailing_address.citytown> "Madrid" .
+<Football> <award.award_discipline.awards_in_this_discipline> "FIFA World Player of the Year" .
+<m.0g9m454> <soccer.football_player_match_participation.match> "2010 FIFA World Cup Group G - POR ./. BRA" .
+<Real_Madrid_C.F.> <soccer.football_team.sold_players> "m.0107ftfn" .
+<m.0l3ld36> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<Country_of_nationality> <rdf-schema#domain> "Person" .
+<Miranda_do_Douro_Language> <language.human_language.main_country> "Portugal" .
+<m.0yv273q> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0y5557f" .
+<m.0qdm0hj> <award.award_honor.award> "Sir Matt Busby Player of the Year" .
+<Salary> <type.property.expected_type> "Floating Point Number" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1962–63 La Liga" .
+<Real_Madrid_C.F.> <soccer.football_team.matches> "2014 Real Madrid Vs UD Almería football match" .
+<Moroccans> <common.topic.image> "Moroccans1" .
+<m.0w9mzrz> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Forward> <common.topic.webpage> "m.09y96kp" .
+<m.0w3m964> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<m.09w2mrd> <common.webpage.topic> "Forward" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ld5v" .
+<m.0w3m59k> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Person> <type.type.properties> "Profession" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm3fm" .
+<2010_FIFA_World_Cup_Group_G_-_CIV_./._POR> <soccer.football_match.disciplinary_action> "m.0c1d2_r" .
+<m.0w9mbs1> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <symbols.namesake.named_after> "Ronald Reagan" .
+<m.0l3lj6j> <soccer.football_team_management_tenure.team> "Real Madrid C.F." .
+<m.09jy3d3> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position> "Forward" .
+<Forward> <sports.sport.pro_athletes> "m.011p3wnv" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3l38d" .
+<UEFA_Team_of_the_Year> <award.award_category.winners> "m.0w3m964" .
+<m.0w_znzz> <freebase.valuenotation.is_reviewed> "Team" .
+<m.0yx2z6_> <award.award_nomination.ceremony> "2009 Laureus World Sports Awards" .
+<Real_Madrid_C.F.> <soccer.football_team.manager> "m.0l3ljcs" .
+<Weight> <rdf-schema#domain> "Person" .
+<2014_Laureus_World_Sports_Awards> <award.award_ceremony.nominees> "m.0_spmnq" .
+<m.0b6r7d6> <common.webpage.topic> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <soccer.football_player.matches_played> "m.010p3jl2" .
+<m.09w2q_3> <common.webpage.topic> "Forward" .
+<Carlos_Padrós> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0w9g80j> <soccer.football_player_stats.team> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m5b_" .
+<m.0w3m5t1> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Juliette_Binoche> <freebase.valuenotation.is_reviewed> "Siblings" .
+<To> <rdf-schema#range> "Date/Time" .
+<Goal_50> <award.award_category.winners> "m.0y555dg" .
+<m.0z471f4> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Santo_António> <location.location.people_born_here> "Cristiano Ronaldo" .
+<PFA_Team_of_the_Year> <award.award_category.winners> "m.0y5556v" .
+<Celebrity> <freebase.type_profile.published> "Published" .
+<2014_Sevilla_FC_vs._Real_Madrid_football_match> <soccer.football_match.teams> "Real Madrid C.F." .
+<Jamel_Debbouze> <people.person.ethnicity> "Moroccans" .
+<Mohammed_VI_of_Morocco> <people.person.gender> "Male" .
+<Football_player> <freebase.type_profile.strict_included_types> "Person" .
+<Real_Madrid_C.F.> <sports.sports_team.colors> "White" .
+<m.0qdm23r> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<Football_player> <freebase.type_profile.equivalent_topic> "Football player" .
+<Date_of_birth> <type.property.expected_type> "Date/Time" .
+<m.0y553j8> <award.award_honor.award_winner> "Cristiano Ronaldo" .
+<FC_Barcelona> <sports.sports_team.sport> "Football" .
+<FC_Barcelona> <freebase.valuenotation.is_reviewed> "Headquarters" .
+<m.0jyw9j6> <sports.sports_team_roster.position> "Forward" .
+<m.0wgx5gk> <celebrities.romantic_relationship.celebrity> "Irina Shayk" .
+<Elma_Aveiro> <people.person.sibling_s> "m.0j517c_" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1966 European Cup Final" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0w3m5w1" .
+<Ronaldo:_Tested_to_the_Limit> <film.film.genre> "Short Film" .
+<Trevor_Myles> <people.person.profession> "Fashion entrepreneur" .
+<Moroccans> <people.ethnicity.people> "RedOne" .
+<m.010p4jhc> <soccer.football_goal.point_awarded_to> "Real Madrid C.F." .
+<Cristiano_Ronaldo> <people.person.places_lived> "m.0wjzsl1" .
+<Football_team> <freebase.type_hints.included_types> "Topic" .
+<Real_Madrid_C.F.> <sports.sports_team.championships> "1908 Copa del Rey" .
+<José_Dinis_Aveiro> <people.person.children> "Cristiano Ronaldo" .
+<m.0g9lr08> <soccer.football_player_match_participation.player> "Cristiano Ronaldo" .
+<Marriage> <freebase.type_profile.published> "Published" .
+<Cristiano_Ronaldo> <award.award_winner.awards_won> "m.0y553_4" .
+<Europe> <location.location.contains_major_portion_of> "Portugal" .
+<FC_Barcelona> <soccer.football_team.matches> "2014 Barcelona F.C. vs Real Madrid C.F. football match" .
+<Miranda_do_Douro_Language> <language.human_language.region> "Europe" .
+<2002_UEFA_Super_Cup> <sports.sports_championship_event.champion> "Real Madrid C.F." .
+<Hassan_II_of_Morocco> <people.person.ethnicity> "Moroccans" .
+<Santo_António> <common.topic.webpage> "m.0ggcmm7" .
+<m.0z2213k> <freebase.valuenotation.has_no_value> "Nominated work" .

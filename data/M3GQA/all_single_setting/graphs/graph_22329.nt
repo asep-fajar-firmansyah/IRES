@@ -1,0 +1,2776 @@
+<Baseball_League> <freebase.type_profile.kind> "Definition" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Little Havana" .
+<m.0crt7py> <sports.sports_league_participation.league> "National League" .
+<m.05n6f5p> <baseball.baseball_team_stats.season> "2002 Major League Baseball Season" .
+<Arizona_Diamondbacks> <common.topic.notable_types> "Professional Sports Team" .
+<m.0crt7td> <sports.sports_league_participation.league> "National League" .
+<2014_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<m.0529dn3> <travel.travel_destination_monthly_climate.travel_destination> "Miami" .
+<Flagami> <location.location.time_zones> "Eastern Time Zone" .
+<Miami> <common.topic.webpage> "m.09yhm0r" .
+<Miami_Marlins> <sports.sports_team.location> "Miami" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Miami> <common.topic.image> "Skyline of Miami, Florida" .
+<Miami_Dolphins> <sports.sports_team.colors> "White" .
+<National_League> <sports.sports_league.teams> "m.0crt7jw" .
+<33152> <location.postal_code.country> "United States of America" .
+<33135> <location.postal_code.country> "United States of America" .
+<The_Roads> <location.location.containedby> "Miami-Dade County" .
+<Miami> <location.location.events> "Florida-Boston College 1994 NCAA Men's Division I   Basketball Tournament Game" .
+<m.0ck2dt_> <organization.organization_relationship.parent> "National League" .
+<Philadelphia_Phillies> <baseball.baseball_team.league> "National League" .
+<The_Miami_News> <book.newspaper.circulation_areas> "Miami" .
+<33231> <location.postal_code.country> "United States of America" .
+<Miami> <location.statistical_region.population> "m.0hkftms" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Shenandoah" .
+<Sports_commentator> <broadcast.genre.content> "Sid Rosenberg Show" .
+<Miami> <location.location.contains_major_portion_of> "Viceroy Miami" .
+<m.0gx4bv0> <business.employment_tenure.company> "National League" .
+<Vanya_Seager> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League> <business.employer.employees> "m.0glwt2h" .
+<San_Francisco_Giants> <baseball.baseball_team.league> "National League" .
+<m.0gv0r6n> <business.employment_tenure.company> "National League" .
+<m.05n6f25> <baseball.baseball_team_stats.season> "2001 Major League Baseball Season" .
+<Miami_neighborhoodsmap> <common.image.appears_in_topic_gallery> "Miami Design District" .
+<National_League> <sports.sports_league.teams> "m.0crt79z" .
+<Sid_Rosenberg_Show> <radio.radio_program.subjects> "Sports entertainment" .
+<Manhattan> <location.us_county.county_seat> "Manhattan" .
+<Downtown_Miami> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Midtown_Miami> <location.location.containedby> "Miami metropolitan area" .
+<Baseball_Player> <freebase.type_hints.included_types> "Topic" .
+<m.0j___ts> <base.schemastaging.team_training_ground_relationship.team> "Miami Marlins" .
+<Professional_Sports_Team> <type.type.properties> "Draft Picks" .
+<Colorado_Rockies> <sports.sports_team.sport> "Baseball" .
+<1994_NCAA_Men's_Division_I_Basketball_Tournament-_East_Regional_Semifinals> <time.event.locations> "Miami" .
+<Miami_Marlins> <common.resource.annotations> "m.0jbcp70" .
+<Marlins_Park> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0j___v1" .
+<National_League> <business.employer.employees> "m.0wk3sls" .
+<Little_Havana> <location.location.time_zones> "Eastern Time Zone" .
+<1985_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Miami> <location.citytown.postal_codes> "33283" .
+<2006_Borscht_Film_Festival> <time.event.locations> "Miami" .
+<m.0crtdbg> <sports.sports_league_participation.team> "Philadelphia Phillies" .
+<Miami_Marlins> <sports.sports_team.arena_stadium> "Marlins Park" .
+<Miami> <location.location.events> "2011 Miami International Film Festival" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Becky" .
+<Bayfront_Park> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<m.04vy4dw> <sports.sports_league_draft_pick.player> "Josh Booty" .
+<33128> <location.location.containedby> "Miami-Dade County" .
+<m.0crt7jw> <sports.sports_league_participation.league> "National League" .
+<m.0gl1_8b> <business.employment_tenure.company> "National League" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Peta Todd" .
+<Miami> <common.topic.webpage> "m.09wsq_6" .
+<Silver> <base.schemastaging.context_name.pronunciation> "g.125_rvx57" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Quiana Grant" .
+<33175> <location.postal_code.country> "United States of America" .
+<Miami> <film.film_location.featured_in_films> "Public Enemies" .
+<National_League> <sports.sports_league.teams> "m.0crt7_0" .
+<Sports_Team> <freebase.type_profile.strict_included_types> "Topic" .
+<Miami> <location.citytown.postal_codes> "33161" .
+<Miami> <location.citytown.postal_codes> "33193" .
+<Miami> <location.statistical_region.population> "g.11x1d8qqx" .
+<National_League> <sports.sports_league.teams> "m.0crt7vw" .
+<Baseball> <sports.sport.positions> "Hitting coach" .
+<Colorado_Rockies> <sports.sports_team.colors> "White" .
+<2011_DOCmiami_International_Documentary_Film_Festival> <time.event.locations> "Miami" .
+<m.065pbb9> <base.popstra.vacation_choice.location> "Miami" .
+<Sports_League_Championship_Event> <type.type.domain> "Sports" .
+<m.064swbj> <base.popstra.vacation_choice.location> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Bruna Tenório" .
+<Miami> <location.location.events> "1987 Miami International Film Festival" .
+<Miami> <travel.travel_destination.climate> "m.0529dpt" .
+<Baseball_Coach> <people.profession.specializations> "Bullpen Coach" .
+<Isis_King> <people.person.nationality> "United States of America" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Bay Point Estates" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "The Pines" .
+<Miami> <base.popstra.location.vacationers> "m.063gbpr" .
+<m.0crt7dk> <sports.sports_league_participation.team> "Colorado Rockies" .
+<Dexter> <fictional_universe.work_of_fiction.part_of_these_fictional_universes> "Dexter Universe" .
+<Spring_Garden> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Jeff_Allison> <sports.drafted_athlete.drafted> "m.04w1w01" .
+<Coconut_Grove> <location.location.events> "2014 John Paul II International Film Festival" .
+<m.0ck2dtv> <organization.organization_relationship.child> "National League East" .
+<Jeffrey_Loria> <people.person.education> "m.0n3_tdx" .
+<Marc_Valdes> <sports.drafted_athlete.drafted> "m.04vy453" .
+<Washington_Nationals> <baseball.baseball_team.division> "National League East" .
+<Miami> <location.citytown.postal_codes> "33184" .
+<m.04vy3tq> <sports.sports_league_draft_pick.draft> "1992 Major League Baseball Draft" .
+<Lowe_Art_Museum> <location.location.containedby> "33146" .
+<San_Diego_Padres> <baseball.baseball_team.league> "National League" .
+<33169> <location.location.containedby> "Miami-Dade County" .
+<m.0crt7_0> <sports.sports_league_participation.league> "National League" .
+<Area_codes_305_and_786> <location.location.contains> "Miami" .
+<m.0crt79k> <sports.sports_league_participation.team> "Washington Nationals" .
+<Miami> <location.location.containedby> "United States of America" .
+<The_Roads> <location.location.containedby> "Miami" .
+<Pitchers_Helmet> <common.topic.subjects> "Baseball" .
+<m.09y3962> <common.webpage.topic> "Miami" .
+<Marlins_Park> <common.topic.article> "m.04m_xv4" .
+<Team> <owl#inverseOf> "Draft Picks" .
+<Flagami> <location.location.containedby> "Miami" .
+<Watson_Island> <location.location.containedby> "Miami-Dade County" .
+<Teams_Owned> <rdf-schema#range> "Professional Sports Team" .
+<m.063s9_b> <base.petbreeds.dog_city_relationship.cities> "Miami" .
+<Bayshore> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Atlanta_Braves> <sports.sports_team.league> "m.0crt7fm" .
+<m.04w1xqv> <sports.sports_league_draft_pick.draft> "2007 Major League Baseball Draft" .
+<Miami> <location.location.events> "1994 NCAA Men's Division I Basketball Tournament" .
+<Miss_Universe_1984> <time.event.locations> "Miami" .
+<Miami> <base.popstra.location.vacationers> "m.065pbl5" .
+<Miami> <location.location.events> "2005 Miami Short Film Festival" .
+<Miami> <location.citytown.postal_codes> "33299" .
+<Four_Days_In_October> <film.film.country> "United States of America" .
+<33150> <location.location.containedby> "Miami-Dade County" .
+<Four_Days_In_October> <film.film.subjects> "Baseball" .
+<1994_NCAA_Men's_Division_I_Basketball_Tournament> <time.event.locations> "Miami" .
+<m.09wjdg2> <common.webpage.topic> "Miami" .
+<2014_DOCmiami_International_Documentary_Film_Festival> <time.event.locations> "Miami" .
+<National_League> <business.employer.employees> "m.0wkjd9c" .
+<Miami_Heat> <common.topic.notable_types> "Professional Sports Team" .
+<Miami_Marlins> <business.employer.employees> "m.0123wrz3" .
+<Miami> <location.location.events> "2011 DOCmiami International Documentary Film Festival" .
+<1997_World_Series> <sports.sports_championship_event.season> "1996 Major League Baseball Season" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6drx" .
+<National_League> <business.employer.employees> "m.0wkx4ng" .
+<Downtown_Miami> <common.topic.notable_types> "Neighborhood" .
+<m.09wwq3v> <common.webpage.topic> "Miami" .
+<33130> <location.postal_code.country> "United States of America" .
+<San_Diego_Padres> <sports.sports_team.colors> "White" .
+<m.04w1s30> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<Allapattah> <common.topic.notable_types> "Neighborhood" .
+<National_League> <common.topic.article> "m.0h69n" .
+<White> <base.petbreeds.dog_coat_color.dog_breeds> "Border Collie" .
+<m.0crt7q9> <sports.sports_league_participation.team> "New York Giants" .
+<Miami_New_Times> <book.newspaper.circulation_areas> "Miami" .
+<Frost_Art_Museum> <location.location.containedby> "33165" .
+<Miami> <travel.travel_destination.how_to_get_here> "m.0529d_y" .
+<m.0crt7fm> <sports.sports_league_participation.team> "Atlanta Braves" .
+<Atlanta_Braves> <baseball.baseball_team.division> "National League East" .
+<Miami> <location.statistical_region.population> "m.0hkftq3" .
+<Colorado_Rockies> <baseball.baseball_team.division> "National League West" .
+<Baseball_Coach> <people.profession.specializations> "Third Base Coach" .
+<m.052tpcc> <baseball.current_coaching_tenure.baseball_coach> "Tino Martinez" .
+<Miami> <location.statistical_region.population> "g.1jmcbgvzf" .
+<m.0crt7xs> <sports.sports_league_participation.league> "National League" .
+<Ozzie_Guillén> <baseball.baseball_player.position_s> "Manager" .
+<Model_City> <common.topic.notable_types> "Neighborhood" .
+<Miami_International_Airport> <aviation.airport.serves> "Miami-Dade County" .
+<Bo_Porter> <people.person.profession> "Baseball player" .
+<2012_Major_League_Baseball_season> <time.event.locations> "Marlins Park" .
+<Mike_Redmond> <baseball.baseball_player.batting_stats> "m.06s8fsl" .
+<m.0ck2dtp> <organization.organization_relationship.parent> "National League" .
+<Chris_Tiu> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League> <business.employer.employees> "m.0gw2qfj" .
+<Sixt> <common.topic.subjects> "Sixt" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Miami" .
+<Atlanta_Braves> <baseball.baseball_team.league> "National League" .
+<Chip_Ambres> <people.person.profession> "Baseball player" .
+<33257> <location.postal_code.country> "United States of America" .
+<National_League> <sports.sports_league.teams> "m.0crt7xg" .
+<National_League> <baseball.baseball_league.teams> "Syracuse Stars" .
+<Jeffrey_Loria> <common.topic.notable_for> "g.1259sn1xr" .
+<m.04w1wtt> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<The_Pines> <location.neighborhood.neighborhood_of> "Miami" .
+<National_League> <business.employer.employees> "m.0h411vp" .
+<Edison_Center> <location.neighborhood.neighborhood_of> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Mariacarla Boscono" .
+<33186> <location.postal_code.country> "United States of America" .
+<Miami> <location.citytown.postal_codes> "33199" .
+<m.0s8sk0k> <business.employment_tenure.company> "National League" .
+<33234> <location.postal_code.country> "United States of America" .
+<National_League> <business.employer.employees> "m.0gltz1_" .
+<33186> <location.location.containedby> "Miami-Dade County" .
+<m.0crtdb6> <sports.sports_league_participation.team> "Miami Marlins" .
+<Villa_Vizcaya> <location.location.containedby> "Miami" .
+<m.0j2fxs4> <business.employment_tenure.company> "National League" .
+<Miami> <location.location.events> "2000 Miami Hispanic Film Festival" .
+<Tower_Theater> <location.location.containedby> "Miami" .
+<m.05n6f8r> <baseball.baseball_team_stats.season> "2003 Major League Baseball season" .
+<Sara_Nuru> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<2004_Major_League_Baseball_season> <time.event.next_in_series> "2005 Major League Baseball season" .
+<2014_Miami_Beach_Bowl> <time.event.locations> "Marlins Park" .
+<Sid_Rosenberg> <broadcast.artist.content> "Sid Rosenberg Show" .
+<m.0crt7j6> <sports.sports_league_participation.league> "National League" .
+<Becky> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Bay_Heights> <location.location.containedby> "Miami" .
+<National_League_East> <sports.sports_league.teams> "m.0crtd8s" .
+<Ha_Ri-su> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0z6bdkg> <award.award_nomination.award_nominee> "Miami Marlins" .
+<Andy_Fox> <baseball.baseball_coach.current_team_coaching> "m.052tpc4" .
+<Morningside> <common.topic.notable_types> "Neighborhood" .
+<Government_Center> <common.topic.notable_types> "Neighborhood" .
+<2014_John_Paul_II_International_Film_Festival> <time.event.locations> "Miami" .
+<Miami_Marlins> <baseball.baseball_team.historical_managers> "m.0j81bck" .
+<Miami> <location.location.events> "2005 Borscht Film Festival" .
+<33132-1693> <location.postal_code.country> "United States of America" .
+<Yomar_Consulting> <organization.organization.geographic_scope> "Miami" .
+<Miami> <common.topic.webpage> "m.0b4802v" .
+<Miami> <location.citytown.postal_codes> "33174" .
+<m.04w1w01> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<Professional_Sports_Team> <type.type.domain> "Sports" .
+<Miami> <location.statistical_region.population> "m.0hkftlg" .
+<Miami> <base.popstra.location.vacationers> "m.065pd3v" .
+<Miami_Marlins> <base.schemastaging.organization_extra.contact_webpages> "m.010gzb88" .
+<m.063s9_g> <base.petbreeds.dog_city_relationship.cities> "Miami" .
+<Miami_University> <education.educational_institution_campus.educational_institution> "Miami University" .
+<2005_Major_League_Baseball_season> <time.event.next_in_series> "2006 Major League Baseball season" .
+<Brickell> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<1997_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Quiana Grant" .
+<National_League_West> <baseball.baseball_division.teams> "San Francisco Giants" .
+<The_Roads> <location.location.containedby> "Miami metropolitan area" .
+<Miami> <location.statistical_region.population> "m.0hkftn0" .
+<1999_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<National_League_Central> <baseball.baseball_division.teams> "Milwaukee Brewers" .
+<Best_Upset_ESPY_Award> <award.award_category.nominees> "m.0z6bdkg" .
+<Owner(s)> <type.property.reverse_property> "Teams Owned" .
+<Miami_Marlins> <base.ontologies.ontology_instance.equivalent_instances> "m.07nf1kg" .
+<33193> <location.postal_code.country> "United States of America" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Chris Tiu" .
+<Coconut_Grove> <location.location.containedby> "Miami" .
+<m.065pb9r> <base.popstra.vacation_choice.location> "Miami" .
+<Wynwood_Art_District> <location.location.containedby> "Miami" .
+<m.0hn_3bj> <business.employment_tenure.company> "National League" .
+<m.06s8fcw> <baseball.batting_statistics.player> "Mike Redmond" .
+<Miami_Marlins> <baseball.baseball_team.current_coaches> "m.052tpc4" .
+<Silver> <base.schemastaging.visual_color_extra.srgb> "m.010q1hpg" .
+<m.05n6frd> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<m.06s8fbg> <baseball.batting_statistics.player> "Mike Redmond" .
+<Miami> <location.citytown.postal_codes> "33151" .
+<Liberty_City> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<m.0j___v1> <base.schemastaging.team_training_ground_relationship.team> "Miami Marlins" .
+<National_League_East> <sports.sports_league.sport> "Baseball" .
+<Upper_Eastside> <location.neighborhood.neighborhood_of> "Miami" .
+<Little_Haiti> <location.neighborhood.neighborhood_of> "Miami" .
+<Florida> <base.biblioness.bibs_location.country> "United States of America" .
+<Allapattah> <common.topic.image> "Miami neighborhoodsmap" .
+<1995_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Pierson_College> <education.educational_institution.campuses> "Pierson College" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1w01" .
+<2001_Miami_Hispanic_Film_Festival> <time.event.locations> "Miami" .
+<Miami> <periodicals.newspaper_circulation_area.newspapers> "Miami New Times" .
+<United_States_of_America> <location.country.administrative_divisions> "Florida" .
+<Miami-Dade_County> <location.location.containedby> "United States of America" .
+<1992_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Charo Ronquillo" .
+<Miss_Universe_1985> <time.event.locations> "Miami" .
+<Mike_Redmond> <people.person.place_of_birth> "Seattle" .
+<National_League> <business.employer.employees> "m.0gb19w8" .
+<33190> <location.postal_code.country> "United States of America" .
+<Miami> <base.popstra.location.vacationers> "m.063hctp" .
+<Miami> <location.citytown.postal_codes> "33196" .
+<Brent_Chua> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<California_State_University,_Fullerton> <education.educational_institution.colors> "White" .
+<33132-1693> <location.location.containedby> "Miami-Dade County" .
+<m.09xg4qr> <common.webpage.topic> "Miami" .
+<Miami> <location.citytown.postal_codes> "33155" .
+<White> <base.roses.rose_color.roses_of_this_color> "Rosa 'Garden Party'" .
+<Black> <base.opposites.opposite.opposite> "m.06_7vg6" .
+<2008_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<m.04w1wvp> <sports.sports_league_draft_pick.school> "McNeese State University" .
+<33127> <location.postal_code.country> "United States of America" .
+<m.05n6fdg> <baseball.baseball_team_stats.season> "2004 Major League Baseball season" .
+<Miami> <location.citytown.postal_codes> "33156" .
+<Bay_Heights> <location.neighborhood.neighborhood_of> "Miami" .
+<Silver_Star> <rail.railway.terminuses> "Miami" .
+<m.0hv_lsb> <business.employment_tenure.company> "National League" .
+<1993_Major_League_Baseball_Season> <time.event.next_in_series> "1994 Major League Baseball Season" .
+<South_Beach> <location.location.time_zones> "Eastern Time Zone" .
+<Eric_Delko> <fictional_universe.fictional_character.place_of_birth> "Miami" .
+<Miami> <location.citytown.postal_codes> "33166" .
+<Miami_Marlins> <baseball.baseball_team.current_coaches> "m.052tpcc" .
+<Charles_Johnson> <baseball.baseball_player.position_s> "Catcher" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "South Bay Estates" .
+<The_Pines> <common.topic.notable_types> "Neighborhood" .
+<Mike_Redmond> <common.topic.article> "m.066b8y" .
+<Miami> <location.location.events> "1986 FBI Miami shootout" .
+<Miami> <base.popstra.location.vacationers> "m.065pbk_" .
+<m.0529dnd> <travel.travel_destination_monthly_climate.travel_destination> "Miami" .
+<Miami> <location.location.containedby> "Area codes 305 and 786" .
+<Shenandoah> <common.topic.notable_types> "Neighborhood" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Wynwood Art District" .
+<Area_codes_305_and_786> <location.location.containedby> "Florida" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Omahyra Mota" .
+<Florida_Marlins> <common.topic.notable_for> "g.1255pdp5m" .
+<m.0n3_tdx> <education.education.student> "Jeffrey Loria" .
+<Miami_Marlins> <sports.sports_team.sport> "Baseball" .
+<Miami> <common.topic.webpage> "m.0b486z_" .
+<m.04w1wt1> <sports.sports_league_draft_pick.player> "Chris Volstad" .
+<Frost_Art_Museum> <location.location.containedby> "Miami-Dade County" .
+<National_League> <organization.organization.parent> "m.0ck2dsc" .
+<Coconut_Grove> <location.location.containedby> "Miami-Dade County" .
+<National_League_West> <baseball.baseball_division.teams> "Colorado Rockies" .
+<m.0j81bck> <baseball.baseball_historical_managerial_position.team> "Miami Marlins" .
+<m.0j2sdh1> <sports.sports_team_roster.player> "Mike Redmond" .
+<2003_World_Series> <common.topic.notable_for> "g.1258jzqpc" .
+<m.064tp8j> <base.popstra.vacation_choice.location> "Miami" .
+<2005_Major_League_Baseball_season> <time.event.previous_in_series> "2004 Major League Baseball season" .
+<Miami> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07jrnr4" .
+<m.0crt79d> <sports.sports_league_participation.team> "Miami Marlins" .
+<South_Beach> <location.hud_county_place.place> "South Beach" .
+<33126> <location.postal_code.country> "United States of America" .
+<33131> <location.location.containedby> "Miami-Dade County" .
+<Miami_Marlins> <baseball.baseball_team.league> "National League" .
+<33124> <location.postal_code.country> "United States of America" .
+<m.04w1sxd> <sports.sports_league_draft_pick.draft> "1998 Major League Baseball Draft" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1wt1" .
+<2003_Major_League_Baseball_season> <sports.sports_league_season.championship> "2003 World Series" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04vy4w7" .
+<Seattle> <base.biblioness.bibs_location.country> "United States of America" .
+<Miami> <base.popstra.location.vacationers> "m.064thl0" .
+<Area_code_786> <location.location.contains> "Miami" .
+<Sid_Rosenberg> <broadcast.content.broadcast> "Sid Rosenberg Show" .
+<33133> <location.postal_code.country> "United States of America" .
+<2012_Sicilian_Film_Festival> <time.event.locations> "Miami" .
+<Teal> <common.topic.image> "Colour teal" .
+<Miami> <location.statistical_region.population> "g.11x1cpx02" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Vanya Seager" .
+<First_Base_Coach> <people.profession.specialization_of> "Baseball Coach" .
+<m.0529dqc> <travel.travel_destination_monthly_climate.travel_destination> "Miami" .
+<Teams_Owned> <type.property.master_property> "Owner(s)" .
+<Sports> <type.domain.types> "Sports Team Owner" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Charo Ronquillo" .
+<Fredi_González> <people.person.nationality> "United States of America" .
+<m.09w1td6> <common.webpage.topic> "Miami" .
+<m.0529f06> <travel.transportation.transport_terminus> "Miami International Airport" .
+<Miami> <location.location.time_zones> "Eastern Time Zone" .
+<m.04hs85l> <education.education.student> "Mike Redmond" .
+<Bayshore> <location.location.containedby> "Miami-Dade County" .
+<33112> <location.postal_code.country> "United States of America" .
+<m.0123wc3n> <business.employment_tenure.company> "National League" .
+<Manhattan> <location.location.time_zones> "Eastern Time Zone" .
+<m.0whw58q> <business.employment_tenure.company> "National League" .
+<m.052tpcc> <baseball.current_coaching_tenure.coaching_position> "Hitting coach" .
+<m.052tpc4> <baseball.current_coaching_tenure.baseball_team> "Miami Marlins" .
+<The_Anchor_Hotel> <film.film.featured_film_locations> "Little Havana" .
+<Gangsters_At_Large> <film.film.country> "United States of America" .
+<Miami> <common.topic.article> "m.0f2vb" .
+<Miami> <travel.travel_destination.tourist_attractions> "Pérez Art Museum Miami" .
+<m.0j_vrtr> <business.employment_tenure.company> "National League" .
+<University_of_Miami> <education.educational_institution.colors> "White" .
+<Joe_Girardi> <baseball.baseball_manager.current_team_managed> "New York Yankees" .
+<m.04w1wvp> <sports.sports_league_draft_pick.draft> "2005 Major League Baseball Draft" .
+<National_League_East> <common.topic.article> "m.07fctj" .
+<Miami> <location.citytown.postal_codes> "33170" .
+<2007_Sicilian_Film_Festival> <time.event.locations> "Miami" .
+<Viceroy_Miami> <location.location.containedby> "Miami" .
+<m.05n6f25> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<m.0crt7lx> <sports.sports_league_participation.league> "National League" .
+<Micaela_Reis> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<33155> <location.location.containedby> "Miami-Dade County" .
+<Miami> <location.citytown.postal_codes> "33222" .
+<Miami> <location.statistical_region.population> "g.1jmcbkjy5" .
+<Miami_University> <education.educational_institution.colors> "White" .
+<Miami> <location.citytown.postal_codes> "33127" .
+<John_Pierson> <people.person.nationality> "United States of America" .
+<m.04vy4w7> <sports.sports_league_draft_pick.player> "Jamie Jones" .
+<Wolfsonian-FIU> <location.location.containedby> "Miami-Dade County" .
+<Pittsburgh_Pirates> <common.topic.notable_types> "Professional Sports Team" .
+<Miami_International_Airport> <aviation.airport.serves> "Miami" .
+<Miami_Marlins> <sports.sports_team.league> "m.0crtdb6" .
+<Miami> <location.citytown.postal_codes> "33180" .
+<Miami> <base.popstra.location.vacationers> "m.063tsxm" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Amina Shafaat" .
+<Sixt> <organization.organization.geographic_scope> "Miami" .
+<m.0529dq2> <travel.travel_destination_monthly_climate.travel_destination> "Miami" .
+<m.03lmb1m> <common.webpage.category> "Official Website" .
+<Aaron_Akin> <people.person.gender> "Male" .
+<Neighborhood> <freebase.type_hints.included_types> "Topic" .
+<Area_code_305> <location.location.contains> "Miami" .
+<2005_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1wt1" .
+<m.0529dnp> <travel.travel_destination_monthly_climate.travel_destination> "Miami" .
+<Jim_Leyland> <people.person.nationality> "United States of America" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Midtown Miami" .
+<Amina_Shafaat> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<33296> <location.postal_code.country> "United States of America" .
+<Miami> <location.hud_county_place.place> "Miami" .
+<2006_Major_League_Baseball_season> <time.event.previous_in_series> "2005 Major League Baseball season" .
+<Taina> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0crt79k> <sports.sports_league_participation.league> "National League" .
+<Miami> <travel.travel_destination.tourist_attractions> "Miami Seaquarium" .
+<33177> <location.postal_code.country> "United States of America" .
+<National_League_West> <baseball.baseball_division.league> "National League" .
+<National_League> <business.employer.employees> "m.0wkjpb_" .
+<m.0crt7s3> <sports.sports_league_participation.league> "National League" .
+<National_League> <baseball.baseball_league.divisions> "National League Central" .
+<33173> <location.location.containedby> "Miami-Dade County" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Sports radio" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "LoLa Monroe" .
+<Florida> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Miami> <travel.travel_destination.tourist_attractions> "Coral Castle" .
+<33184> <location.postal_code.country> "United States of America" .
+<m.06s8ff6> <baseball.batting_statistics.team> "Miami Marlins" .
+<m.0crt7zj> <sports.sports_league_participation.league> "National League" .
+<m.063s9_q> <base.petbreeds.dog_city_relationship.cities> "Miami" .
+<Miami_Marlins> <sports.sports_team.location> "Little Havana" .
+<Colorado_Rockies> <sports.sports_team.colors> "Silver" .
+<Naomi_Campbell> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Hitting_coach> <baseball.baseball_coaching_position.current_coaches> "m.052tpcc" .
+<Jewish_Museum_of_Florida> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<m.04w1vk7> <sports.sports_league_draft_pick.player> "Jeremy Hermida" .
+<Fotofilosophy,_Inc.> <organization.organization.geographic_scope> "Miami" .
+<1994_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1994 NCAA Men's Division I Basketball Tournament- East Regional Semifinals" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Moe Oshikiri" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Chris Tiu" .
+<United_States_of_America> <location.country.administrative_divisions> "Manhattan" .
+<University_of_Miami> <location.location.containedby> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Maike Evers" .
+<Watson_Island> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Miami> <location.citytown.postal_codes> "33182" .
+<m.04w1sxd> <sports.sports_league_draft_pick.player> "Chip Ambres" .
+<Miami> <common.topic.webpage> "m.052lrs5" .
+<Allapattah> <location.neighborhood.neighborhood_of> "Miami" .
+<m.04w1tsb> <sports.sports_league_draft_pick.draft> "2000 Major League Baseball Draft" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Asun Ortega" .
+<Miami> <location.statistical_region.population> "m.0hkftp9" .
+<Overtown> <location.location.containedby> "Miami metropolitan area" .
+<2000_Major_League_Baseball_season> <time.event.previous_in_series> "1999 Major League Baseball Season" .
+<Little_Havana> <sports.sports_team_location.teams> "Miami Marlins" .
+<LoLa_Monroe> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami_University> <location.location.containedby> "United States of America" .
+<Bay_Heights> <common.topic.notable_types> "Neighborhood" .
+<Miami-Opa_Locka_Executive_Airport> <aviation.airport.serves> "Miami-Dade County" .
+<Miami_Marlins> <baseball.baseball_team.current_coaches> "m.052tpbq" .
+<m.0crt7wf> <sports.sports_league_participation.league> "National League" .
+<Aaron_Thompson> <sports.drafted_athlete.drafted> "m.04w1wtt" .
+<33132-1225> <location.location.containedby> "United States of America" .
+<Miami_neighborhoodsmap> <common.image.appears_in_topic_gallery> "Morningside" .
+<m.0529dpt> <travel.travel_destination_monthly_climate.travel_destination> "Miami" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6f8r" .
+<m.0crt7hz> <sports.sports_league_participation.league> "National League" .
+<Mike_Redmond> <common.topic.notable_types> "Baseball Player" .
+<2003_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<Alameda> <location.location.containedby> "Miami" .
+<m.0crt7s8> <sports.sports_league_participation.league> "National League" .
+<National_League> <baseball.baseball_league.teams> "Milwaukee Brewers" .
+<Miami_Marlins> <sports.sports_team.colors> "Silver" .
+<Albert_Goodwill_Spalding> <organization.organization_founder.organizations_founded> "National League" .
+<m.0hhyt9g> <business.employment_tenure.company> "National League" .
+<Black> <business.product_category.products> "Pewter Faux Leather (D8564)" .
+<National_League> <sports.sports_league.teams> "m.0crt7jk" .
+<Josh_Beckett> <baseball.baseball_player.bats> "Right-handed" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Padma Lakshmi" .
+<Public_Enemies> <film.film.country> "United States of America" .
+<National_League> <business.employer.employees> "m.0gx5kz6" .
+<Sports> <freebase.equivalent_topic.equivalent_domain> "Sports" .
+<National_League> <common.topic.notable_types> "Baseball League" .
+<33222> <location.postal_code.country> "United States of America" .
+<m.0j81bck> <baseball.baseball_historical_managerial_position.manager> "Joe Girardi" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6dcn" .
+<33187> <location.location.containedby> "Miami-Dade County" .
+<Tino_Martinez> <common.topic.notable_types> "Baseball Player" .
+<m.0crt7nm> <sports.sports_league_participation.league> "National League" .
+<m.05n6d8t> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<National_League> <baseball.baseball_league.teams> "Atlanta Braves" .
+<Alameda> <location.neighborhood.neighborhood_of> "Miami" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Professional sports" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1tsb" .
+<Ocean_View_Heights> <location.location.containedby> "Miami metropolitan area" .
+<Team> <type.property.reverse_property> "Draft Picks" .
+<Neighborhood> <freebase.type_profile.kind> "Definition" .
+<m.04w1wtt> <sports.sports_league_draft_pick.school> "Second Baptist School" .
+<Justin_Long> <people.person.nationality> "United States of America" .
+<White> <base.roses.rose_color.roses_of_this_color> "Rosa 'Ambiente'" .
+<University_of_Florida> <location.location.containedby> "Florida" .
+<m.0529dr6> <travel.travel_destination_monthly_climate.travel_destination> "Miami" .
+<Buena_Vista> <location.location.time_zones> "Eastern Time Zone" .
+<Miami> <location.citytown.postal_codes> "33122" .
+<m.06s8fr4> <baseball.batting_statistics.player> "Mike Redmond" .
+<Wynwood_Art_District> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Jim_Leyland> <common.topic.notable_types> "Baseball Player" .
+<Pérez_Art_Museum_Miami> <location.location.containedby> "Miami" .
+<National_League> <sports.sports_league.teams> "m.0crt7py" .
+<Overtown> <location.neighborhood.neighborhood_of> "Miami" .
+<33131> <location.location.containedby> "Miami" .
+<Rich_Waltz> <people.person.employment_history> "m.0123wrz3" .
+<William_Hulbert> <organization.organization_founder.organizations_founded> "National League" .
+<Miami> <location.location.events> "Miss Universe 1984" .
+<Sun_Life_Stadium> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0j___ts" .
+<St._Louis_Cardinals> <baseball.baseball_team.division> "National League Central" .
+<Owner(s)> <rdf-schema#range> "Sports Team Owner" .
+<m.0crt7f4> <sports.sports_league_participation.team> "Chicago Cubs" .
+<New_York_Mets> <sports.sports_team.sport> "Baseball" .
+<m.06s8fsl> <baseball.batting_statistics.player> "Mike Redmond" .
+<m.0p1l_r5> <baseball.baseball_historical_managerial_position.team> "Miami Marlins" .
+<Sun_Life_Stadium> <sports.sports_facility.teams> "Miami Dolphins" .
+<Miami> <base.petbreeds.city_with_dogs.top_breeds> "m.063s9_b" .
+<Four_Days_In_October> <film.film.genre> "Sports films" .
+<Miami> <periodicals.newspaper_circulation_area.newspapers> "Urdu Times" .
+<m.0ytwp01> <business.employment_tenure.company> "National League" .
+<Midnight_Cowboy> <film.film.film_festivals> "2014 Miami International Film Festival" .
+<Tri-Rail> <metropolitan_transit.transit_system.area_served> "Miami-Dade County" .
+<Miami> <location.citytown.postal_codes> "33169" .
+<Miami> <tv.tv_location.tv_shows_filmed_here> "Dexter" .
+<2005_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<National_League> <business.employer.employees> "m.0hn_d6k" .
+<Jeffrey_Loria> <people.person.profession> "Art dealer" .
+<Ozzie_Guillén> <common.topic.notable_types> "Baseball Player" .
+<m.063gbpr> <base.popstra.vacation_choice.location> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Juliana Imai" .
+<m.0b486_f> <common.webpage.topic> "Little Havana" .
+<Muzammil_Ibrahim> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<m.065pdk9> <base.popstra.vacation_choice.location> "Miami" .
+<33167> <location.location.containedby> "Miami-Dade County" .
+<2006_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1x5h" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Shuang Shuang" .
+<National_League> <sports.sports_league.teams> "m.0crt7x2" .
+<m.05n6dcn> <baseball.baseball_team_stats.season> "1994 Major League Baseball Season" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Spring Garden" .
+<33178> <location.location.containedby> "Miami-Dade County" .
+<m.0gb18ht> <business.employment_tenure.company> "National League" .
+<33161> <location.location.containedby> "Miami-Dade County" .
+<Buena_Vista> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Latin_Quarter> <common.topic.notable_types> "Neighborhood" .
+<33144> <location.location.containedby> "Miami-Dade County" .
+<Silver> <common.topic.notable_types> "Color" .
+<Miami_Design_District> <location.location.containedby> "Miami metropolitan area" .
+<Jesikah_Maximus> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0b482jr> <common.webpage.topic> "Miami" .
+<Spring_Garden> <location.location.time_zones> "Eastern Time Zone" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Du Juan" .
+<Miami> <location.statistical_region.population> "m.0hkftlp" .
+<Miami> <location.citytown.postal_codes> "33136" .
+<National_League> <sports.sports_league.teams> "m.0crt7b4" .
+<Sun_Life_Stadium> <location.location.events> "1997 World Series" .
+<33162> <location.postal_code.country> "United States of America" .
+<Cincinnati_Reds> <baseball.baseball_team.division> "National League Central" .
+<m.0crt7w5> <sports.sports_league_participation.league> "National League" .
+<Miami> <organization.organization_scope.organizations_with_this_scope> "Fotofilosophy, Inc." .
+<Jessica_White> <people.person.nationality> "United States of America" .
+<Miami> <location.statistical_region.population> "m.0hkftqb" .
+<Florida_Marlins> <sports.sports_team.championships> "1997 World Series" .
+<Miami> <broadcast.genre.content> "Sid Rosenberg Show" .
+<Miami> <location.location.events> "2001 Miami International Film Festival" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Tahounia Rubel" .
+<Miami> <location.location.events> "2010 Miami Short Film Festival" .
+<m.065pbl5> <base.popstra.vacation_choice.location> "Miami" .
+<Sports_League_Championship_Event> <freebase.type_profile.strict_included_types> "Topic" .
+<Pitchers_Helmet> <sports.sports_equipment.sport_used_for> "Major League Baseball" .
+<National_League> <business.employer.employees> "m.0gx4bv0" .
+<Taylor_Tankersley> <common.topic.notable_types> "Baseball Player" .
+<m.0529dpj> <travel.travel_destination_monthly_climate.travel_destination> "Miami" .
+<Manhattan> <location.location.containedby> "United States of America" .
+<Miami> <travel.travel_destination.tourist_attractions> "Tower Theater" .
+<National_League> <sports.sports_league.teams> "m.0crt7mr" .
+<Rich_Waltz> <people.person.profession> "Sports commentator" .
+<Silver_Bluff_Estates> <location.location.containedby> "Miami metropolitan area" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Ocean View Heights" .
+<m.05n6dzg> <baseball.baseball_team_stats.season> "2000 Major League Baseball season" .
+<Marlins_2008_001> <common.image.appears_in_topic_gallery> "Marlins Park" .
+<m.05n6dn5> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<m.06s8flp> <baseball.batting_statistics.team> "Miami Marlins" .
+<Cincinnati_Reds> <sports.sports_team.sport> "Baseball" .
+<Miami> <travel.travel_destination.climate> "m.0529dn3" .
+<m.0wj485k> <business.employment_tenure.company> "National League" .
+<m.0gmhpkk> <business.employment_tenure.company> "National League" .
+<Miami> <location.citytown.postal_codes> "33189" .
+<National_League> <sports.sports_league.teams> "m.0crt7kr" .
+<Miami> <common.topic.webpage> "m.09x0zlf" .
+<m.04w1xqv> <sports.sports_league_draft_pick.player> "Matthew Dominguez" .
+<m.0crtd8s> <sports.sports_league_participation.team> "New York Mets" .
+<m.09xjdcs> <common.webpage.topic> "Miami" .
+<Jeff_Allison> <people.person.gender> "Male" .
+<m.0ck2dtp> <organization.organization_relationship.child> "National League West" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04vy3tq" .
+<University_of_Alabama_in_Huntsville> <education.educational_institution_campus.educational_institution> "University of Alabama in Huntsville" .
+<Jessica_White> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Little_Havana_Dominos_Park> <common.image.appears_in_topic_gallery> "Little Havana" .
+<White> <common.topic.notable_for> "g.125c9fx48" .
+<Washington_Nationals> <sports.sports_team.sport> "Baseball" .
+<m.0gk7ykt> <business.employment_tenure.company> "National League" .
+<m.0crt7wm> <sports.sports_league_participation.league> "National League" .
+<m.04w1s30> <sports.sports_league_draft_pick.school> "California State University, Fullerton" .
+<m.09y36dz> <common.webpage.topic> "Miami" .
+<m.064st4h> <base.popstra.vacation_choice.location> "Miami" .
+<m.0crt7pl> <sports.sports_league_participation.league> "National League" .
+<33176> <location.postal_code.country> "United States of America" .
+<Pittsburgh_Pirates> <baseball.baseball_team.league> "National League" .
+<Miami_Marlins> <sports.sports_team.team_mascot> "Billy the Marlin" .
+<33132> <location.location.containedby> "Miami-Dade County" .
+<m.09yfs9f> <common.webpage.topic> "Miami" .
+<Brickell> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<1988_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Engage_the_Crowd_Miami> <common.topic.subjects> "Miami metropolitan area" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Naomi Campbell" .
+<Miami> <location.citytown.postal_codes> "33231" .
+<33114> <location.postal_code.country> "United States of America" .
+<m.064smv0> <base.popstra.vacation_choice.location> "Miami" .
+<La_impostora> <tv.tv_program.filming_locations> "Miami" .
+<Miami> <location.citytown.postal_codes> "33133" .
+<National_League_Central> <baseball.baseball_division.league> "National League" .
+<Florida_Marlins> <sports.sports_team.sport> "Baseball" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Samantha Downie" .
+<m.06s8flp> <baseball.batting_statistics.player> "Mike Redmond" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Mayuko Iwasa" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1wtt" .
+<National_League> <sports.sports_league.teams> "m.0crt7wf" .
+<Professional_Sports_Team> <type.type.expected_by> "Team" .
+<Miami_neighborhoodsmap> <common.image.appears_in_topic_gallery> "Overtown" .
+<Skyline_of_Miami,_Florida> <common.image.appears_in_topic_gallery> "Miami" .
+<Oluchi> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Little_Havana> <location.statistical_region.population> "g.11bc87wmxv" .
+<33147> <location.postal_code.country> "United States of America" .
+<Miami_International_Airport> <aviation.airport.serves> "Hotel Urbano at Brickell" .
+<Frost_Art_Museum> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<m.0gx8gn7> <business.employment_tenure.company> "National League" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6dkb" .
+<Iman_Abdulmajid> <people.person.nationality> "United States of America" .
+<Miami> <location.location.events> "2012 Miami International Film Festival" .
+<m.09xtc88> <common.webpage.topic> "Miami" .
+<Mike_Redmond> <baseball.baseball_player.batting_stats> "m.06s8flp" .
+<Muzammil_Ibrahim> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami> <travel.travel_destination.tourist_attractions> "Villa Vizcaya" .
+<Elizabeth_Jagger> <people.person.nationality> "United States of America" .
+<Miami-Dade_County> <organization.organization_scope.organizations_with_this_scope> "Yomar Consulting" .
+<Supaksorn_Chaimongkol> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<David_Veldt> <common.topic.subjects> "Baseball" .
+<1997_World_Series> <sports.sports_championship_event.champion> "Florida Marlins" .
+<Andy_Fox> <common.topic.notable_types> "Baseball Player" .
+<National_League> <baseball.baseball_league.teams> "Chicago Cubs" .
+<National_League> <organization.organization.founders> "William Hulbert" .
+<m.06s8fcw> <baseball.batting_statistics.team> "Miami Marlins" .
+<Cincinnati_Reds> <sports.sports_team.league> "m.0crt7dv" .
+<San_Marco_Island> <location.neighborhood.neighborhood_of> "Miami" .
+<Downtown_Miami> <location.location.containedby> "Miami" .
+<The_Roads> <location.neighborhood.neighborhood_of> "Miami" .
+<Miami> <location.location.events> "2008 Miami International Film Festival" .
+<Little_Havana> <location.neighborhood.neighborhood_of> "Miami" .
+<Latin_Quarter> <location.location.containedby> "Miami metropolitan area" .
+<Ozzie_Guillén> <baseball.baseball_manager.former_teams_managed> "m.0p1l_r5" .
+<Little_Big_Men> <film.film.subjects> "Baseball" .
+<Miami> <location.statistical_region.population> "m.0hkftnj" .
+<Jeffrey_Loria> <people.person.nationality> "United States of America" .
+<m.09xsl4k> <common.webpage.topic> "Miami" .
+<Bayshore> <location.neighborhood.neighborhood_of> "Miami" .
+<2006_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<1984_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Miami> <base.popstra.location.vacationers> "m.064sr9x" .
+<Miami> <location.statistical_region.population> "m.0jtjrch" .
+<m.052tpcl> <baseball.current_coaching_tenure.coaching_position> "Third Base Coach" .
+<m.0crt7rm> <sports.sports_league_participation.league> "National League" .
+<Miami> <travel.travel_destination.tourist_attractions> "Wolfsonian-FIU" .
+<Miami> <location.location.containedby> "Florida" .
+<Miami> <location.location.events> "1998 Miami International Film Festival" .
+<Manhattan> <location.administrative_division.second_level_division_of> "United States of America" .
+<Miami> <location.citytown.postal_codes> "33144" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Ha Ri-su" .
+<Wynwood_Art_District> <location.neighborhood.neighborhood_of> "Miami" .
+<Model_City> <location.location.containedby> "Miami" .
+<Miami> <location.citytown.postal_codes> "33261" .
+<New_York_Times> <common.resource.annotations> "m.0422h2r" .
+<Bayshore> <common.topic.notable_types> "Neighborhood" .
+<Flagami> <location.location.containedby> "Miami metropolitan area" .
+<Owner(s)> <type.property.expected_type> "Sports Team Owner" .
+<Mike_Redmond> <baseball.baseball_player.position_s> "Catcher" .
+<Allapattah> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Miami> <base.popstra.location.vacationers> "m.065pbjg" .
+<White> <biology.breed_coloring.breeds> "Border Collie" .
+<Miami> <location.statistical_region.population> "g.11x1l91p9" .
+<m.06s8fn6> <baseball.batting_statistics.player> "Mike Redmond" .
+<Mark_Wiley> <common.topic.notable_types> "Baseball Player" .
+<Seattle> <location.location.containedby> "United States of America" .
+<Brickell> <location.location.time_zones> "Eastern Time Zone" .
+<Miami> <location.statistical_region.population> "m.0hkftl0" .
+<Miami> <base.petbreeds.city_with_dogs.top_breeds> "m.063s9_2" .
+<Sports> <type.domain.types> "Professional Sports Team" .
+<2015_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Port_of_Miami> <location.neighborhood.neighborhood_of> "Miami" .
+<National_League_East> <baseball.baseball_division.teams> "Miami Marlins" .
+<Miami> <location.statistical_region.population> "g.11x1lspc7" .
+<Bay_Point_Estates> <common.topic.notable_types> "Neighborhood" .
+<Miami> <location.location.events> "1994 NCAA Men's Division I Basketball Tournament- East Regional Semifinals" .
+<Miami> <travel.travel_destination.climate> "m.0529dnp" .
+<National_League> <sports.sports_league.teams> "m.0crt7q9" .
+<33178> <location.postal_code.country> "United States of America" .
+<m.0h411vp> <business.employment_tenure.company> "National League" .
+<m.0123wrz3> <business.employment_tenure.person> "Rich Waltz" .
+<Edgewater> <location.neighborhood.neighborhood_of> "Miami" .
+<Eric_Delko> <fictional_universe.fictional_character.gender> "Male" .
+<2005_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Miami> <location.statistical_region.population> "g.11x1h8kgs" .
+<2003_World_Series> <sports.sports_championship_event.runner_up> "New York Yankees" .
+<Sid_Rosenberg_Show> <common.topic.notable_for> "g.12blsjq5t" .
+<Miami> <location.statistical_region.population> "m.0hkftmk" .
+<Miami> <base.popstra.location.vacationers> "m.063gpwm" .
+<m.07nf1kg> <base.ontologies.ontology_instance_mapping.ontology> "OpenCyc" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Florida" .
+<Midnight_Cowboy> <film.film.country> "United States of America" .
+<m.0crtdb6> <sports.sports_league_participation.league> "National League East" .
+<m.0crt7ys> <sports.sports_league_participation.league> "National League" .
+<Ozzie_Guillén> <people.person.gender> "Male" .
+<Edgewater> <location.location.containedby> "Miami metropolitan area" .
+<m.0s8sqxq> <business.employment_tenure.company> "National League" .
+<m.064snzh> <base.popstra.vacation_choice.location> "Miami" .
+<33183> <location.postal_code.country> "United States of America" .
+<m.04w1wfw> <sports.sports_league_draft_pick.school> "University of Alabama in Huntsville" .
+<m.0crt7v2> <sports.sports_league_participation.league> "National League" .
+<Miami_Design_District> <location.neighborhood.neighborhood_of> "Miami" .
+<m.0529d_y> <travel.transportation.transport_terminus> "Miami International Airport" .
+<Miami> <location.statistical_region.population> "g.1jmcbjn0d" .
+<National_League> <baseball.baseball_league.sports_league> "Major League Baseball" .
+<m.0wgh0wd> <baseball.current_coaching_tenure.coaching_position> "Baseball Coach" .
+<m.0crt4jw> <sports.sports_league_participation.team> "Miami Marlins" .
+<National_League> <sports.sports_league.teams> "m.0crt7xs" .
+<Tyler_Kolek> <people.person.gender> "Male" .
+<New_York_Mets> <baseball.baseball_team.division> "National League East" .
+<National_League> <sports.sports_league.teams> "m.0crt7w5" .
+<33132-1225> <location.postal_code.country> "United States of America" .
+<Black> <common.topic.image> "Bitola-monastery" .
+<New_York_Giants> <sports.sports_team.league> "m.0crt7q9" .
+<Sid_Rosenberg_Show> <broadcast.content.artist> "Sid Rosenberg" .
+<Jungle_Island> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Mao Kobayashi" .
+<Miami> <government.governmental_jurisdiction.agencies> "Miami Fire-Rescue Department" .
+<2014_John_Paul_II_International_Film_Festival> <time.event.locations> "Coconut Grove" .
+<National_League> <sports.sports_league.teams> "m.0crt79k" .
+<Du_Juan> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Elizabeth Jagger" .
+<New_York_Yankees> <baseball.baseball_team.current_manager> "Joe Girardi" .
+<Model_City> <location.neighborhood.neighborhood_of> "Miami" .
+<m.0crt7c2> <sports.sports_league_participation.league> "National League" .
+<Sid_Rosenberg_Show> <common.topic.notable_types> "Radio program" .
+<Pierson_College> <education.educational_institution_campus.educational_institution> "Pierson College" .
+<m.0529dqy> <travel.travel_destination_monthly_climate.travel_destination> "Miami" .
+<2003_World_Series> <time.event.locations> "Yankee Stadium" .
+<m.09yjqdk> <common.webpage.topic> "Miami" .
+<Miami> <location.statistical_region.population> "g.1jmcbkjy4" .
+<New_York_Yankees> <sports.sports_team.colors> "White" .
+<Miami> <base.popstra.location.vacationers> "m.064snzh" .
+<Miami> <location.statistical_region.population> "g.11b66k5syl" .
+<Miami> <sports.sports_team_location.teams> "Calgary Cowboys" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Sara Nuru" .
+<New_York_Mets> <sports.sports_team.league> "m.0crt7ct" .
+<1997_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<Pittsburgh_Pirates> <sports.sports_team.colors> "White" .
+<Virginia_Key> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Jeremy_Hermida> <people.person.nationality> "United States of America" .
+<Sixt> <organization.organization.geographic_scope> "Florida" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6dwd" .
+<National_League_East> <common.topic.notable_types> "Baseball Division" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Supaksorn Chaimongkol" .
+<National_League> <business.employer.employees> "m.0glvflp" .
+<National_League> <business.employer.employees> "m.0whwtf3" .
+<Miami> <location.location.nearby_airports> "Opa-locka West Airport" .
+<Bayshore> <location.location.containedby> "Upper Eastside" .
+<m.04vy4w7> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<Miami_Seaquarium> <location.location.containedby> "Virginia Key" .
+<Teams_Owned> <rdf-schema#domain> "Sports Team Owner" .
+<Mayuko_Iwasa> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0529dqn> <travel.travel_destination_monthly_climate.travel_destination> "Miami" .
+<Viceroy_Miami> <location.location.containedby> "Florida" .
+<Venetian_Pool> <location.location.time_zones> "Eastern Time Zone" .
+<Area_code_305> <location.location.containedby> "Florida" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6dn5" .
+<Justin_Long> <people.person.gender> "Male" .
+<Overtown> <common.topic.image> "Miami neighborhoodsmap" .
+<South_Beach> <location.location.containedby> "Florida" .
+<m.04vy4w7> <sports.sports_league_draft_pick.draft> "1995 Major League Baseball Draft" .
+<Little_Havana> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Maricar Balagtas" .
+<m.0crt7q_> <sports.sports_league_participation.league> "National League" .
+<m.05n6dgh> <baseball.baseball_team_stats.season> "1995 Major League Baseball Season" .
+<33132-1693> <location.location.containedby> "Florida" .
+<The_Roads> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Marlins_Park> <common.topic.notable_types> "Sports Facility" .
+<Cowley_Community_College> <location.location.containedby> "United States of America" .
+<Meisa_Kuroki> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami_Design_District> <location.location.containedby> "Miami" .
+<m.0crt7d6> <sports.sports_league_participation.league> "National League" .
+<m.0wkjd9c> <business.employment_tenure.company> "National League" .
+<2002_Major_League_Baseball_Season> <time.event.next_in_series> "2003 Major League Baseball season" .
+<1992_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy3tq" .
+<m.09ythfw> <common.webpage.topic> "Miami" .
+<33126> <location.location.containedby> "Miami-Dade County" .
+<Draft_Picks> <type.property.schema> "Professional Sports Team" .
+<Sports_Team_Owner> <freebase.type_profile.strict_included_types> "Topic" .
+<33189> <location.postal_code.country> "United States of America" .
+<Wynwood_Art_District> <common.topic.notable_types> "Neighborhood" .
+<Miami> <base.popstra.location.vacationers> "m.064sp6z" .
+<Miami> <common.topic.webpage> "m.09xyh0f" .
+<Pierson_College> <location.location.containedby> "United States of America" .
+<National_League> <sports.sports_league.teams> "m.0crt7hq" .
+<Miami> <location.citytown.postal_codes> "33158" .
+<Black> <base.schemastaging.visual_color_extra.srgb> "m.010q1kvj" .
+<Miami> <common.topic.image> "Official seal of City of Miami" .
+<Morningside> <location.location.containedby> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Isis King" .
+<Allapattah> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Syracuse_Stars> <sports.sports_team.sport> "Baseball" .
+<Angela_Yin> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami> <location.location.events> "2002 Miami International Film Festival" .
+<Miami> <location.citytown.postal_codes> "33175" .
+<Josh_Beckett> <people.person.gender> "Male" .
+<Silver> <common.topic.article> "m.03vtbl" .
+<m.09w1qj4> <common.webpage.topic> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Mona Lisa Moon" .
+<Miami> <location.citytown.postal_codes> "33186" .
+<Miami> <tv.tv_location.tv_shows_filmed_here> "La impostora" .
+<National_League> <sports.sports_league.teams> "m.0crt7d6" .
+<33153> <location.postal_code.country> "United States of America" .
+<Edgewater> <location.location.time_zones> "Eastern Time Zone" .
+<Miami> <location.statistical_region.population> "g.11x1gq4gf" .
+<m.05n6fdg> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<National_League> <sports.sports_league.teams> "m.0crt7pl" .
+<National_League> <sports.sports_league.teams> "m.0crt7p9" .
+<Miami> <location.location.events> "2006 Miami International Film Festival" .
+<Charles_Johnson> <common.topic.notable_types> "Baseball Player" .
+<Miami> <base.popstra.location.vacationers> "m.064st5h" .
+<m.0crt79q> <sports.sports_league_participation.league> "National League" .
+<National_League> <sports.sports_league.teams> "m.0crt7vd" .
+<Manager> <people.profession.specialization_of> "Baseball Coach" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Oluchi" .
+<Watson_Island> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Lemon_City> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<National_League> <baseball.baseball_league.teams> "San Diego Padres" .
+<Brett_Sinkbeil> <people.person.gender> "Male" .
+<Sports_Team_Owner> <freebase.type_hints.included_types> "Topic" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Mei-Yin Lloyd" .
+<Miami> <common.topic.notable_types> "City/Town/Village" .
+<Mike_Redmond> <common.topic.notable_for> "g.125cqrffl" .
+<Professional_sports> <radio.radio_subject.programs_with_this_subject> "Sid Rosenberg Show" .
+<Miami_neighborhoodsmap> <common.image.appears_in_topic_gallery> "Shenandoah" .
+<m.09wbm2y> <common.webpage.topic> "Miami" .
+<m.09w4528> <common.webpage.topic> "Miami" .
+<Bre_Scullark> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<2001_Major_League_Baseball_Season> <time.event.next_in_series> "2002 Major League Baseball Season" .
+<2000_Miami_Hispanic_Film_Festival> <time.event.locations> "Miami" .
+<Miami> <travel.travel_destination.climate> "m.0529dnd" .
+<33133> <location.location.containedby> "Miami-Dade County" .
+<National_League> <baseball.baseball_league.teams> "Cincinnati Reds" .
+<Shenandoah> <location.location.containedby> "Florida" .
+<Miami> <travel.travel_destination.climate> "m.0529dr6" .
+<Black> <common.topic.notable_for> "g.1255vdxqf" .
+<Little_Havana> <film.film_location.featured_in_films> "Hot Times In Little Havana" .
+<Miami> <common.topic.webpage> "m.09xj8d0" .
+<Miami> <film.film_location.featured_in_films> "Gangsters At Large" .
+<m.0crt7sq> <sports.sports_league_participation.league> "National League" .
+<Bench_Coach> <people.profession.specialization_of> "Baseball Coach" .
+<m.0wkc_7g> <business.employment_tenure.company> "National League" .
+<Carlos_Tosca> <baseball.baseball_player.position_s> "Manager" .
+<Gangsters_At_Large> <film.film.featured_film_locations> "Miami" .
+<m.06s8fn6> <baseball.batting_statistics.season> "2005 Major League Baseball season" .
+<33247> <location.postal_code.country> "United States of America" .
+<2007_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Pitchers_Helmet> <sports.sports_equipment.sport_used_for> "Baseball" .
+<33142> <location.postal_code.country> "United States of America" .
+<33194> <location.postal_code.country> "United States of America" .
+<Saleisha_Stowers> <people.person.nationality> "United States of America" .
+<Miami_International_Airport> <aviation.airport.serves> "Viceroy Miami" .
+<m.064sp6z> <base.popstra.vacation_choice.location> "Miami" .
+<Joshua_Holland> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Mascot> <freebase.type_profile.strict_included_types> "Topic" .
+<Miami> <location.location.geolocation> "m.0kbg66" .
+<South_Bay_Estates> <common.topic.notable_types> "Neighborhood" .
+<Miami_Fire-Rescue_Department> <government.government_agency.jurisdiction> "Miami" .
+<m.063hctp> <base.popstra.vacation_choice.location> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Saleisha Stowers" .
+<m.0gvylst> <business.employment_tenure.company> "National League" .
+<La_impostora> <tv.tv_program.country_of_origin> "United States of America" .
+<Miami> <location.location.events> "2014 DOCmiami International Documentary Film Festival" .
+<33256> <location.postal_code.country> "United States of America" .
+<m.0glvflp> <business.employment_tenure.company> "National League" .
+<Lowe_Art_Museum> <location.location.containedby> "Miami-Dade County" .
+<Bo_Porter> <baseball.baseball_coach.current_team_coaching> "m.052tpcl" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04vy4dw" .
+<Miami> <base.popstra.location.vacationers> "m.063svw8" .
+<m.05n6dkb> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<Milwaukee_Brewers> <sports.sports_team.colors> "White" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04vy453" .
+<Downtown_Miami> <location.neighborhood.neighborhood_of> "Miami" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Virginia Key" .
+<John_Pierson> <people.person.gender> "Male" .
+<33196> <location.location.containedby> "Miami-Dade County" .
+<33142> <location.location.containedby> "Miami-Dade County" .
+<m.0crt79z> <sports.sports_league_participation.league> "National League" .
+<Miami> <location.location.events> "2009 Miami Short Film Festival" .
+<m.04w1w01> <sports.sports_league_draft_pick.draft> "2003 Major League Baseball Draft" .
+<33163> <location.postal_code.country> "United States of America" .
+<Jacob_Marceaux> <people.person.gender> "Male" .
+<Model_City> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Asia Nitollano" .
+<Miami> <location.citytown.postal_codes> "33163" .
+<Sports> <type.domain.types> "Sports Facility" .
+<Government_Center> <location.location.containedby> "Miami" .
+<Billy-The-Marlin.jpg> <common.image.appears_in_topic_gallery> "Billy the Marlin" .
+<m.07nf1kg> <base.ontologies.ontology_instance_mapping.freebase_topic> "Miami Marlins" .
+<m.064st5h> <base.popstra.vacation_choice.location> "Miami" .
+<m.03lmb1m> <common.webpage.topic> "Miami" .
+<Milwaukee_Brewers> <common.topic.notable_types> "Professional Sports Team" .
+<Miami> <location.statistical_region.population> "g.11x1msj7b" .
+<Coconut_Grove> <common.topic.image> "Miami neighborhoodsmap" .
+<33172> <location.postal_code.country> "United States of America" .
+<2005_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1wtt" .
+<Morningside> <location.location.containedby> "Miami metropolitan area" .
+<33147> <location.location.containedby> "Miami-Dade County" .
+<Miami> <location.location.events> "2007 Borscht Film Festival" .
+<m.0gt_kst> <business.employment_tenure.company> "National League" .
+<National_League_Central> <sports.sports_league.sport> "Baseball" .
+<1995_Major_League_Baseball_Season> <time.event.previous_in_series> "1994 Major League Baseball Season" .
+<2003_World_Series> <time.event.locations> "Sun Life Stadium" .
+<Miami> <common.topic.webpage> "m.09w1qj4" .
+<33127> <location.location.containedby> "Miami-Dade County" .
+<33125> <location.postal_code.country> "United States of America" .
+<Third_Base_Coach> <baseball.baseball_coaching_position.current_coaches> "m.052tpcl" .
+<National_League> <sports.sports_league.teams> "m.0crt7s3" .
+<Latin_Quarter> <location.location.containedby> "Miami" .
+<m.09w39nn> <common.webpage.topic> "Miami" .
+<m.04w1t8w> <sports.sports_league_draft_pick.player> "Josh Beckett" .
+<Coral_Castle> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<Mark_Kotsay> <sports.drafted_athlete.drafted> "m.04w1s30" .
+<National_League> <organization.organization.child> "m.0ck2dtp" .
+<National_League> <sports.sports_league.teams> "m.0crt7hz" .
+<Virginia_Key> <location.location.containedby> "Florida" .
+<Miami> <base.petbreeds.city_with_dogs.top_breeds> "m.063s9zz" .
+<Jungle_Island> <location.location.containedby> "Miami" .
+<m.052tpbh> <baseball.current_coaching_tenure.baseball_coach> "Steve Foster" .
+<33143> <location.location.containedby> "Miami-Dade County" .
+<Sid_Rosenberg_Show> <broadcast.content.location> "South Beach" .
+<m.0crt7vd> <sports.sports_league_participation.league> "National League" .
+<m.09yb0kz> <common.webpage.topic> "Miami" .
+<Watson_Island> <location.neighborhood.neighborhood_of> "Miami" .
+<m.09bwwdl> <base.ontologies.ontology_instance_mapping.ontology> "OpenCyc" .
+<Miami_Design_District> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6frd" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6fdg" .
+<m.0crt7mr> <sports.sports_league_participation.league> "National League" .
+<Syracuse_Stars> <sports.defunct_sports_team.sport> "Baseball" .
+<m.05n6fhz> <baseball.baseball_team_stats.season> "2005 Major League Baseball season" .
+<Mike_Redmond> <baseball.baseball_player.batting_stats> "m.06s8fbg" .
+<Miami> <periodicals.newspaper_circulation_area.newspapers> "The Miami News" .
+<m.0crt7ct> <sports.sports_league_participation.league> "National League" .
+<Little_Big_Men> <film.film.country> "United States of America" .
+<Baseball_player> <freebase.equivalent_topic.equivalent_type> "Baseball Player" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1xqv" .
+<m.0j___v1> <base.schemastaging.team_training_ground_relationship.facility> "Marlins Park" .
+<National_League_Central> <baseball.baseball_division.teams> "Chicago Cubs" .
+<Hotel_Urbano_at_Brickell> <location.location.nearby_airports> "Miami International Airport" .
+<Liberty_City> <location.location.time_zones> "Eastern Time Zone" .
+<Miami> <location.citytown.postal_codes> "33266" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1sf8" .
+<m.0wkx4ng> <business.employment_tenure.company> "National League" .
+<Miami> <film.film_location.featured_in_films> "Hot Times In Little Havana" .
+<m.04w1s30> <sports.sports_league_draft_pick.draft> "1996 Major League Baseball Draft" .
+<Hitting_coach> <sports.sports_position.sport> "Baseball" .
+<Milwaukee_Brewers> <sports.sports_team.league> "m.0crt7b4" .
+<m.0hhzwjv> <business.employment_tenure.company> "National League" .
+<Coconut_Grove> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Miami> <location.citytown.postal_codes> "33135" .
+<National_League_Central> <baseball.baseball_division.teams> "St. Louis Cardinals" .
+<Miami> <periodicals.newspaper_circulation_area.newspapers> "Good News in South Florida" .
+<m.0529d_y> <travel.transportation.travel_destination> "Miami" .
+<Miami> <location.location.events> "2003 Miami International Film Festival" .
+<m.064sr9x> <base.popstra.vacation_choice.location> "Miami" .
+<Miami> <location.citytown.postal_codes> "33178" .
+<National_League> <sports.sports_league.teams> "m.0crt7v2" .
+<m.0b4802v> <common.webpage.topic> "Miami" .
+<National_League_East> <sports.sports_league.teams> "m.0crtdb6" .
+<University_of_Miami> <education.educational_institution.campuses> "University of Miami" .
+<1994_NCAA_Men's_Division_I_Basketball_Tournament-_East_Regional_Finals> <time.event.locations> "Miami" .
+<Liberty_City> <location.neighborhood.neighborhood_of> "Miami" .
+<National_League> <sports.sports_league.teams> "m.0crt7k4" .
+<Miami> <common.topic.webpage> "m.09wwq3v" .
+<m.06s8ff6> <baseball.batting_statistics.player> "Mike Redmond" .
+<Milwaukee_Brewers> <baseball.baseball_team.division> "National League Central" .
+<Grendel_Alvarado> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami_Jewelry_District> <location.location.containedby> "Miami metropolitan area" .
+<Billy_the_Marlin> <sports.mascot.team> "Miami Marlins" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Downtown Miami" .
+<1995_Major_League_Baseball_Season> <time.event.next_in_series> "1996 Major League Baseball Season" .
+<Philadelphia_Phillies> <common.topic.notable_types> "Professional Sports Team" .
+<Miami_Dolphins> <sports.sports_team.arena_stadium> "Sun Life Stadium" .
+<St._Louis_Cardinals> <baseball.baseball_team.league> "National League" .
+<Miami> <location.location.events> "2014 Miami Short Film Festival" .
+<Miami> <base.popstra.location.vacationers> "m.064_4cs" .
+<33138> <location.postal_code.country> "United States of America" .
+<Miami_neighborhoodsmap> <common.image.appears_in_topic_gallery> "Allapattah" .
+<Arizona_Diamondbacks> <baseball.baseball_team.division> "National League West" .
+<Miami> <travel.travel_destination.local_transportation> "Miami-Dade Transit" .
+<Tino_Martinez> <people.person.profession> "Baseball player" .
+<Miami> <rail.railway_terminus.railways_terminating_here> "Silver Star" .
+<National_League> <baseball.baseball_league.teams> "Philadelphia Phillies" .
+<Allapattah> <location.location.time_zones> "Eastern Time Zone" .
+<33134> <location.postal_code.country> "United States of America" .
+<33101> <location.postal_code.country> "United States of America" .
+<Calgary_Cowboys> <sports.sports_team.location> "Miami" .
+<Miami> <common.topic.webpage> "m.09wjdg2" .
+<Miami_metropolitan_area> <location.location.nearby_airports> "Miami International Airport" .
+<2009_Borscht_Film_Festival> <time.event.locations> "Miami" .
+<m.0crt7k_> <sports.sports_league_participation.league> "National League" .
+<Carlos_Tosca> <people.person.nationality> "United States of America" .
+<Miami> <location.citytown.postal_codes> "33145" .
+<Cincinnati_Reds> <common.topic.notable_types> "Professional Sports Team" .
+<National_League> <business.employer.employees> "m.0hhyt9g" .
+<Miami_International_Airport> <aviation.airport.serves> "Miami metropolitan area" .
+<Sid_Rosenberg_Show> <broadcast.content.location> "Miami Springs" .
+<Coconut_Grove> <location.neighborhood.neighborhood_of> "Miami" .
+<Albert_Goodwill_Spalding> <people.person.gender> "Male" .
+<Miami_Design_District> <common.topic.image> "Miami neighborhoodsmap" .
+<Miami> <base.petbreeds.city_with_dogs.top_breeds> "m.063s9_6" .
+<m.0j81bl_> <baseball.baseball_historical_managerial_position.team> "Miami Marlins" .
+<m.0crt7kr> <sports.sports_league_participation.league> "National League" .
+<Miami> <location.location.nearby_airports> "Miami Homestead General Aviation Airport" .
+<Professional_Sports_Team> <type.type.properties> "Owner(s)" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Dee" .
+<m.0crt7rx> <sports.sports_league_participation.league> "National League" .
+<Billy_the_Marlin_2011> <common.image.appears_in_topic_gallery> "Billy the Marlin" .
+<Team> <type.property.expected_type> "Professional Sports Team" .
+<Chris_Volstad> <sports.drafted_athlete.drafted> "m.04w1wt1" .
+<m.04w1xqv> <sports.sports_league_draft_pick.school> "Chatsworth High School" .
+<m.09yqnsc> <common.webpage.topic> "Miami" .
+<2001_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Virginia_Key> <location.location.time_zones> "Eastern Time Zone" .
+<Miami> <sports.sports_team_location.teams> "Miami Heat" .
+<m.0hvmqkx> <business.employment_tenure.company> "National League" .
+<Miami> <periodicals.newspaper_circulation_area.newspapers> "The Beacon" .
+<Baseball> <interests.hobby.people_with_this_hobby> "David Veldt" .
+<National_League> <sports.sports_league.sport> "Baseball" .
+<Miami> <location.citytown.postal_codes> "33188" .
+<Los_Angeles_Dodgers> <common.topic.notable_types> "Professional Sports Team" .
+<Hannelore_Knuts> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami-Dade_Transit> <metropolitan_transit.transit_system.area_served> "Miami" .
+<Florida> <location.location.contains_major_portion_of> "Viceroy Miami" .
+<Charo_Ronquillo> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Miami-Dade_County> <location.location.nearby_airports> "Miami International Airport" .
+<m.0z6d3cn> <award.award_nomination.ceremony> "2004 ESPY Awards" .
+<33265> <location.postal_code.country> "United States of America" .
+<National_League> <business.employer.employees> "m.0j_vrtr" .
+<National_League_West> <baseball.baseball_division.teams> "Los Angeles Dodgers" .
+<m.052tpc4> <baseball.current_coaching_tenure.baseball_coach> "Andy Fox" .
+<m.052lrs5> <common.webpage.topic> "Miami" .
+<National_League> <business.employer.employees> "m.0s8sqxq" .
+<Baseball_Division> <freebase.type_hints.included_types> "Topic" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Sports films" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Ai Kato" .
+<Baseball_Coach> <people.profession.specializations> "First Base Coach" .
+<Miami-Dade_County> <location.us_county.hud_county_place> "Miami Springs" .
+<White> <base.opposites.opposite.opposite> "m.06_7vg6" .
+<Miami> <location.location.events> "2013 World Latin Dance Cup" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Port of Miami" .
+<Watson_Island> <location.location.containedby> "Miami" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Buena Vista" .
+<Burn_Notice> <tv.tv_program.filming_locations> "Miami" .
+<Quiana_Grant> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<White> <base.roses.rose_color.roses_of_this_color> "Rosa 'Ivory Fashion'" .
+<1987_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Liberty_City> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Taylor_Tankersley> <people.person.nationality> "United States of America" .
+<2003_World_Series> <sports.sports_championship_event.champion> "Miami Marlins" .
+<m.052tpcc> <baseball.current_coaching_tenure.baseball_team> "Miami Marlins" .
+<m.0crt7z6> <sports.sports_league_participation.league> "National League" .
+<National_League> <business.employer.employees> "m.0wj2wxd" .
+<Chris_Volstad> <people.person.gender> "Male" .
+<Miami_Marlins> <base.schemastaging.sports_team_extra.training_ground> "m.0j___ts" .
+<m.0529dp7> <travel.travel_destination_monthly_climate.travel_destination> "Miami" .
+<Miami> <location.hud_county_place.county> "Miami-Dade County" .
+<Omahyra_Mota> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<South_Bay_Estates> <location.location.containedby> "Miami metropolitan area" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Liberty City" .
+<Miami> <common.topic.webpage> "m.09yqnsc" .
+<National_League> <business.employer.employees> "m.0wkk21m" .
+<Jeffrey_Loria> <people.person.gender> "Male" .
+<m.0crt7d6> <sports.sports_league_participation.team> "Los Angeles Dodgers" .
+<Teal> <base.schemastaging.visual_color_extra.srgb> "m.010q2584" .
+<Chicago_Cubs> <baseball.baseball_team.league> "National League" .
+<National_League_East> <baseball.baseball_division.league> "National League" .
+<Bay_Point_Estates> <location.location.containedby> "Miami" .
+<South_Beach> <location.location.containedby> "United States of America" .
+<m.0hnjbx8> <education.education.student> "Jeffrey Loria" .
+<Bayfront_Park> <location.location.containedby> "Downtown Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Atom Araullo" .
+<m.09xlrlg> <common.webpage.topic> "Miami" .
+<Florida_Panthers> <broadcast.genre.content> "Sid Rosenberg Show" .
+<Miami> <travel.travel_destination.tourist_attractions> "Lowe Art Museum" .
+<Marlins_Park> <location.location.geolocation> "m.0v176gx" .
+<Ai_Kato> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami> <location.location.events> "1989 Miami International Film Festival" .
+<Art_dealer> <people.profession.specialization_of> "Businessperson" .
+<National_League> <business.employer.employees> "m.0ggfpt5" .
+<National_League> <sports.sports_league.teams> "m.0crt7lx" .
+<33137> <location.postal_code.country> "United States of America" .
+<1997_World_Series> <time.event.locations> "Sun Life Stadium" .
+<2013_Miami_International_Film_Festival_Retrospective> <time.event.locations> "Miami" .
+<Baseball_Coach> <people.profession.specializations> "Manager" .
+<m.065pd3v> <base.popstra.vacation_choice.location> "Miami" .
+<Chris_Volstad> <people.person.nationality> "United States of America" .
+<33167> <location.postal_code.country> "United States of America" .
+<Lemon_City> <location.location.containedby> "Miami metropolitan area" .
+<2008_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Metrorail> <metropolitan_transit.transit_system.area_served> "Miami metropolitan area" .
+<Miami> <location.location.events> "1994 NCAA Men's Division I Basketball Tournament- East Regional Finals" .
+<Josh_Booty> <people.person.gender> "Male" .
+<Miami> <location.location.containedby> "Area code 786" .
+<Hot_Times_In_Little_Havana> <film.film.featured_film_locations> "Miami" .
+<Mascot> <freebase.type_hints.included_types> "Topic" .
+<Public_Enemies> <film.film.featured_film_locations> "Miami" .
+<m.064smr6> <base.popstra.vacation_choice.location> "Miami" .
+<Miami> <travel.travel_destination.local_transportation> "Tri-Rail" .
+<m.064jgql> <base.popstra.vacation_choice.location> "Miami" .
+<m.04vy453> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Anne Watanabe" .
+<Miami_neighborhoodsmap> <common.image.appears_in_topic_gallery> "Edgewater" .
+<Miami> <location.hud_foreclosure_area.hhuniv> "m.07jrnqy" .
+<m.0crt7bg> <sports.sports_league_participation.team> "Philadelphia Phillies" .
+<m.0crtd8s> <sports.sports_league_participation.league> "National League East" .
+<m.052tpbh> <baseball.current_coaching_tenure.baseball_team> "Miami Marlins" .
+<Miami> <location.statistical_region.population> "m.0hkftpk" .
+<Cincinnati_Reds> <sports.sports_team.colors> "White" .
+<The_Roads> <location.location.containedby> "United States of America" .
+<Black> <base.schemastaging.visual_color_extra.cmyk> "m.010q1kzf" .
+<Miami> <location.location.events> "1985 Miami International Film Festival" .
+<m.0crt7y4> <sports.sports_league_participation.league> "National League" .
+<Edison_Center> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<University_of_Miami> <location.location.containedby> "Florida" .
+<Miami> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<m.0529fgn> <travel.transportation.travel_destination> "Miami" .
+<Buena_Vista> <location.location.containedby> "Miami-Dade County" .
+<National_League> <base.ontologies.ontology_instance.equivalent_instances> "m.09kmdg4" .
+<m.0crt7g4> <sports.sports_league_participation.league> "National League" .
+<2002_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1vk7" .
+<National_League> <sports.sports_league.teams> "m.0crt7sw" .
+<Miami> <location.citytown.postal_codes> "33152" .
+<m.04w1wtt> <sports.sports_league_draft_pick.draft> "2005 Major League Baseball Draft" .
+<Downtown_Miami> <location.location.contains> "Bayfront Park" .
+<m.04vy3tq> <sports.sports_league_draft_pick.school> "University of Miami" .
+<m.06s8f8k> <baseball.batting_statistics.season> "1998 Major League Baseball Season" .
+<Neighborhood> <freebase.type_profile.strict_included_types> "Topic" .
+<Dexter_Universe> <fictional_universe.fictional_universe.locations> "Miami" .
+<Jewish_Museum_of_Florida> <location.location.containedby> "Miami-Dade County" .
+<m.064s9gk> <base.popstra.vacation_choice.location> "Miami" .
+<Mike_Redmond> <people.person.education> "m.04hs85l" .
+<m.065pd48> <base.popstra.vacation_choice.location> "Miami" .
+<Edgewater> <common.topic.notable_types> "Neighborhood" .
+<m.04w1sf8> <sports.sports_league_draft_pick.draft> "1997 Major League Baseball Draft" .
+<National_League_East> <organization.organization.parent> "m.0ck2dtv" .
+<Miami> <location.citytown.postal_codes> "33243" .
+<2003_World_Series> <sports.sports_championship_event.season> "2003 Major League Baseball season" .
+<Mike_Redmond> <baseball.baseball_player.batting_stats> "m.06s8fr4" .
+<Miami_Homestead_General_Aviation_Airport> <aviation.airport.serves> "Miami" .
+<Fredi_González> <baseball.baseball_manager.former_teams_managed> "m.0hh9p10" .
+<m.0422h2r> <common.webpage.resource> "New York Times" .
+<1994_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy4dw" .
+<m.0crtd9m> <sports.sports_league_participation.league> "National League East" .
+<m.0b6r9l0> <common.webpage.topic> "Miami" .
+<2011_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<National_League> <baseball.baseball_league.teams> "San Francisco Giants" .
+<White> <base.schemastaging.visual_color_extra.hsv> "m.010q1h92" .
+<Miami> <base.popstra.location.vacationers> "m.064smr6" .
+<2004_Major_League_Baseball_season> <time.event.previous_in_series> "2003 Major League Baseball season" .
+<2007_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<Black> <base.schemastaging.visual_color_extra.hsv> "m.010q1kxk" .
+<2013_World_Latin_Dance_Cup> <common.topic.notable_types> "Sports League Championship Event" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Jessica White" .
+<m.0crt7f4> <sports.sports_league_participation.league> "National League" .
+<Sun_Life_Stadium> <common.topic.notable_types> "Sports Facility" .
+<Miami_Marlins> <sports.sports_team.league> "m.0crt4jw" .
+<m.0n0n9db> <education.education.student> "Mike Redmond" .
+<1998_Major_League_Baseball_Season> <time.event.next_in_series> "1999 Major League Baseball Season" .
+<Miami> <location.citytown.postal_codes> "33162" .
+<Allapattah> <location.location.containedby> "United States of America" .
+<Miami_neighborhoodsmap> <common.image.appears_in_topic_gallery> "Flagami" .
+<Silver> <common.topic.notable_for> "g.125g6j40s" .
+<New_York_Giants> <sports.defunct_sports_team.sport> "Baseball" .
+<2002_Major_League_Baseball_Season> <time.event.previous_in_series> "2001 Major League Baseball Season" .
+<Miami> <common.topic.webpage> "m.09w39nn" .
+<National_League> <sports.sports_league.teams> "m.0crt7k_" .
+<m.0hhyxhx> <business.employment_tenure.company> "National League" .
+<Miami_Design_District> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Watson_Island> <location.location.time_zones> "Eastern Time Zone" .
+<33151> <location.postal_code.country> "United States of America" .
+<2013_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<National_League_Central> <sports.sports_league.championship> "National League Division Series" .
+<m.0529dnz> <travel.travel_destination_monthly_climate.travel_destination> "Miami" .
+<m.0z6d3cn> <award.award_nomination.award> "Outstanding Team ESPY Award" .
+<Bayshore> <location.location.containedby> "Florida" .
+<m.063gpwm> <base.popstra.vacation_choice.location> "Miami" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Watson Island" .
+<m.052tpc4> <baseball.current_coaching_tenure.coaching_position> "First Base Coach" .
+<2014_Major_League_Baseball_season> <sports.sports_league_draft.picks> "m.010q_p9h" .
+<33132-1225> <location.location.containedby> "Florida" .
+<m.0hn_84p> <business.employment_tenure.company> "National League" .
+<33165> <location.location.contains> "Frost Art Museum" .
+<m.052tpbq> <baseball.current_coaching_tenure.baseball_team> "Miami Marlins" .
+<2002_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<National_League> <business.employer.employees> "m.0gl1qtd" .
+<Ozzie_Guillén> <people.person.profession> "Baseball player" .
+<Baseball_Division> <freebase.type_profile.kind> "Definition" .
+<Sid_Rosenberg_Show> <radio.radio_program.subjects> "Sports" .
+<Virginia_Key> <location.location.contains> "Miami Seaquarium" .
+<33132> <location.location.contains> "33132-1693" .
+<Sports> <radio.radio_subject.programs_with_this_subject> "Sid Rosenberg Show" .
+<Miami> <location.location.containedby> "United States of America" .
+<Brickell> <location.neighborhood.neighborhood_of> "Miami" .
+<Marlins_Park> <location.location.events> "2014 Miami Beach Bowl" .
+<Pierson_College> <base.yalebase.residential_college.alumni> "Jeffrey Loria" .
+<Miami> <location.citytown.postal_codes> "33173" .
+<Fredi_González> <people.person.profession> "Manager" .
+<Downtown_Miami> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Watson_Island> <location.location.containedby> "Miami metropolitan area" .
+<Bo_Porter> <people.person.gender> "Male" .
+<m.09k_cmg> <baseball.lifetime_batting_statistics.player> "Mike Redmond" .
+<Matika_Arthakornsiripho> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.06s8fpq> <baseball.batting_statistics.player> "Mike Redmond" .
+<Miami_Design_District> <location.location.time_zones> "Eastern Time Zone" .
+<Florida> <location.administrative_division.country> "United States of America" .
+<2005_Borscht_Film_Festival> <time.event.locations> "Miami" .
+<White> <base.schemastaging.visual_color_extra.srgb> "m.010q1h63" .
+<m.0crtdbg> <sports.sports_league_participation.league> "National League East" .
+<m.0crt7n9> <sports.sports_league_participation.league> "National League" .
+<Miami> <location.location.containedby> "Miami-Dade County" .
+<Border_Collie> <biology.animal_breed.coloring> "White" .
+<2013_Miami_Hispanic_Film_Festival> <time.event.locations> "Miami" .
+<Miami> <location.citytown.postal_codes> "33130" .
+<Miami> <location.citytown.postal_codes> "33157" .
+<Miami_neighborhoodsmap> <common.image.appears_in_topic_gallery> "Little Havana" .
+<1997_Major_League_Baseball_Season> <time.event.next_in_series> "1998 Major League Baseball Season" .
+<National_League_West> <baseball.baseball_division.teams> "Arizona Diamondbacks" .
+<m.0gv_kdl> <business.employment_tenure.company> "National League" .
+<Lemon_City> <common.topic.notable_types> "Neighborhood" .
+<Little_Havana> <common.topic.notable_for> "g.1256_5sx1" .
+<National_League_East> <baseball.baseball_division.teams> "Philadelphia Phillies" .
+<Chip_Ambres> <people.person.nationality> "United States of America" .
+<Miami> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07jrnrc" .
+<Justin_Long> <base.popstra.celebrity.supporter> "m.0652bcb" .
+<National_League_East> <common.topic.notable_for> "g.125cbpj94" .
+<National_League> <business.employer.employees> "m.0wj485k" .
+<33166> <location.postal_code.country> "United States of America" .
+<1996_Miami_Hispanic_Film_Festival> <time.event.locations> "Miami" .
+<National_League> <sports.sports_league.teams> "m.0crt7hd" .
+<m.04w1sf8> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<Outstanding_Team_ESPY_Award> <award.award_category.nominees> "m.0z6d3cn" .
+<Miami> <common.topic.subject_of> "Engage the Crowd Miami" .
+<Baseball> <tv.tv_subject.tv_episodes> "Four Days In October" .
+<Albert_Goodwill_Spalding> <people.person.profession> "Baseball player" .
+<National_League> <sports.sports_league.teams> "m.0crt79q" .
+<National_League_Central> <baseball.baseball_division.teams> "Pittsburgh Pirates" .
+<Rosa_laevigata> <base.roses.roses.color> "White" .
+<Aaron_Akin> <sports.drafted_athlete.drafted> "m.04w1sf8" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Aída Yéspica" .
+<33158> <location.location.containedby> "Miami-Dade County" .
+<Miami> <location.statistical_region.population> "g.11x1hqd4c" .
+<National_League> <business.employer.employees> "m.0wksrt6" .
+<Downtown_Miami> <location.location.containedby> "Miami metropolitan area" .
+<Miami> <common.topic.webpage> "m.0b4662t" .
+<Philadelphia_Phillies> <baseball.baseball_team.division> "National League East" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Miami Marlins" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Ropa Garise" .
+<1994_Major_League_Baseball_Season> <time.event.previous_in_series> "1993 Major League Baseball Season" .
+<Little_Havana> <location.location.geolocation> "m.0dcb4w0" .
+<Marlins_Park> <architecture.structure.architecture_firm> "Populous" .
+<2004_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1wfw" .
+<White> <base.roses.rose_color.roses_of_this_color> "Rosa 'Cabaret'" .
+<Upper_Eastside> <location.location.containedby> "Miami metropolitan area" .
+<Arizona_Diamondbacks> <sports.sports_team.league> "m.0crt79z" .
+<Miami> <location.location.events> "2001 Miami Hispanic Film Festival" .
+<m.0422h2r> <common.webpage.category> "Topic Webpage" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6dzg" .
+<Josh_Beckett> <people.person.profession> "Baseball player" .
+<33150> <location.postal_code.country> "United States of America" .
+<33164> <location.postal_code.country> "United States of America" .
+<Sports_Team> <type.type.domain> "Sports" .
+<Black> <base.ontologies.ontology_instance.equivalent_instances> "m.09bwwdl" .
+<m.0652bcb> <base.popstra.support.supporter> "Justin Long" .
+<m.0gx5kz6> <business.employment_tenure.company> "National League" .
+<2000_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1tsb" .
+<National_League> <business.employer.employees> "m.0hnzsbs" .
+<1996_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1s30" .
+<Mike_Redmond> <baseball.baseball_player.batting_stats> "m.06s8f8k" .
+<San_Marco_Island> <common.topic.notable_types> "Neighborhood" .
+<Miami_Marlins> <baseball.baseball_team.current_coaches> "m.052tpcl" .
+<Professional_sports> <broadcast.genre.content> "Sid Rosenberg Show" .
+<m.0gmjnjy> <business.employment_tenure.company> "National League" .
+<m.04vy453> <sports.sports_league_draft_pick.player> "Marc Valdes" .
+<Miami> <common.topic.webpage> "m.09w1td6" .
+<Mark_Kotsay> <people.person.nationality> "United States of America" .
+<Miami> <location.citytown.postal_codes> "33125" .
+<Shenandoah> <common.topic.image> "Miami neighborhoodsmap" .
+<Professional_Sports_Team> <freebase.type_hints.included_types> "Sports Team" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Karla Henry" .
+<National_League> <sports.sports_league.teams> "m.0crt7dk" .
+<Government_Center> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<2010_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<Miami_International_Airport> <travel.transport_terminus.travel_destinations_served> "m.0529d_y" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1s30" .
+<Josh_Beckett> <people.person.nationality> "United States of America" .
+<33132> <location.location.containedby> "Florida" .
+<New_York_Giants> <sports.sports_team.sport> "Baseball" .
+<Miami> <location.statistical_region.population> "g.11x1m0gxb" .
+<m.0crt7dv> <sports.sports_league_participation.team> "Cincinnati Reds" .
+<1996_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<m.09w1tmv> <common.webpage.topic> "Miami" .
+<Miami> <location.citytown.postal_codes> "33179" .
+<Flagami> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Viceroy_Miami> <location.location.primarily_containedby> "United States of America" .
+<Tower_Theater> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<33134> <location.location.containedby> "Miami-Dade County" .
+<m.0crt7hd> <sports.sports_league_participation.league> "National League" .
+<Miami> <base.popstra.location.vacationers> "m.064whgc" .
+<m.0hh9p10> <baseball.baseball_historical_managerial_position.manager> "Fredi González" .
+<San_Francisco_Giants> <sports.sports_team.league> "m.0crt7c2" .
+<Chicago_Cubs> <sports.sports_team.colors> "White" .
+<Atlanta_Braves> <sports.sports_team.league> "m.0crtd9m" .
+<Major_League_Baseball> <sports.sports_league.sport> "Baseball" .
+<33175> <location.location.containedby> "Miami-Dade County" .
+<New_York_Mets> <sports.sports_team.league> "m.0crtd8s" .
+<Midtown_Miami> <location.neighborhood.neighborhood_of> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Micaela Reis" .
+<Miami> <location.location.events> "1988 Miami International Film Festival" .
+<2003_Major_League_Baseball_season> <time.event.previous_in_series> "2002 Major League Baseball Season" .
+<Upper_Eastside> <common.topic.image> "Miami neighborhoodsmap" .
+<Black_Point_Marina> <location.location.containedby> "Miami" .
+<Miami> <base.petbreeds.city_with_dogs.top_breeds> "m.063s9zv" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Moran Atias" .
+<Good_News_in_South_Florida> <book.newspaper.circulation_areas> "Miami" .
+<Katie_Price> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Angela Yin" .
+<Miami> <base.popstra.location.arrestee> "m.0ghfk3c" .
+<Jewish_Museum_of_Florida> <location.location.containedby> "Miami" .
+<Miami> <location.location.nearby_airports> "Miami-Opa Locka Executive Airport" .
+<Miami_Marlins> <baseball.baseball_team.historical_managers> "m.0hh9p10" .
+<Miami_Marlins> <common.topic.article> "m.03006" .
+<33165> <location.postal_code.country> "United States of America" .
+<Seattle> <common.topic.notable_types> "City/Town/Village" .
+<2010_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<2007_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1xqv" .
+<Miami> <base.popstra.location.vacationers> "m.065pb9r" .
+<Allapattah> <location.location.containedby> "Miami-Dade County" .
+<Teams_Owned> <type.property.schema> "Sports Team Owner" .
+<Miami> <common.topic.webpage> "m.09w4528" .
+<Miami> <location.citytown.postal_codes> "33238" .
+<Black> <common.topic.image> "Cat Russian Blue 004" .
+<Miami> <location.location.events> "1996 Miami International Film Festival" .
+<Miami> <travel.travel_destination.tourist_attractions> "Holocaust Memorial of the Greater Miami Jewish Federation" .
+<33132-1225> <location.location.containedby> "Miami" .
+<Albert_Goodwill_Spalding> <common.topic.notable_types> "Baseball Player" .
+<Damien_Colletti> <people.person.nationality> "United States of America" .
+<San_Diego_Padres> <baseball.baseball_team.division> "National League West" .
+<Lemon_City> <location.neighborhood.neighborhood_of> "Miami" .
+<Miami> <travel.travel_destination.tourist_attractions> "Venetian Pool" .
+<Mike_Redmond> <baseball.baseball_player.bats> "Right-handed" .
+<33129> <location.postal_code.country> "United States of America" .
+<Brickell> <location.location.containedby> "Florida" .
+<Colorado_Rockies> <sports.sports_team.league> "m.0crt7dk" .
+<Miami> <travel.travel_destination.climate> "m.0529dqc" .
+<McKey_Sullivan> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Philadelphia_Phillies> <sports.sports_team.league> "m.0crtdbg" .
+<m.04w1wt1> <sports.sports_league_draft_pick.draft> "2005 Major League Baseball Draft" .
+<2008_Sicilian_Film_Festival> <time.event.locations> "Miami" .
+<Watson_Island> <common.topic.notable_types> "Neighborhood" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Elián_González_affair> <time.event.locations> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Muthu Tharanga" .
+<Bayshore> <location.location.containedby> "Miami metropolitan area" .
+<John_Pierson> <people.person.profession> "Baseball player" .
+<Sid_Rosenberg_Show> <broadcast.artist.content> "WMEN" .
+<33190> <location.location.containedby> "Miami-Dade County" .
+<White> <base.ontologies.ontology_instance.equivalent_instances> "m.09klnhg" .
+<Miami> <location.location.nearby_airports> "Miami International Airport" .
+<Miami> <location.statistical_region.population> "g.11x1d_bty" .
+<m.0529f06> <travel.transportation.travel_destination> "Miami" .
+<1997_Major_League_Baseball_Season> <time.event.previous_in_series> "1996 Major League Baseball Season" .
+<National_League> <baseball.baseball_league.teams> "Arizona Diamondbacks" .
+<Miami_Dolphins> <broadcast.genre.content> "Sid Rosenberg Show" .
+<Florida> <location.location.time_zones> "Eastern Time Zone" .
+<Miami> <location.citytown.postal_codes> "33147" .
+<Miami> <location.location.events> "2015 Miami International Film Festival" .
+<m.0crt7fc> <sports.sports_league_participation.team> "San Diego Padres" .
+<Miami> <location.statistical_region.population> "m.0hkftlx" .
+<San_Francisco_Giants> <sports.sports_team.sport> "Baseball" .
+<Miami> <base.biblioness.bibs_location.country> "United States of America" .
+<Miami> <base.popstra.location.vacationers> "m.063qgpn" .
+<Miami> <base.petbreeds.city_with_dogs.top_breeds> "m.063s9zq" .
+<Sports> <media_common.media_genre_equivalent_topic.media_genre_equivalent> "Sports films" .
+<Edgewater> <location.location.containedby> "Miami" .
+<Yuri_Ebihara> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami> <travel.travel_destination.tourist_attractions> "Jungle Island" .
+<Miami> <common.topic.webpage> "m.09wbm2y" .
+<Rich_Waltz> <people.person.gender> "Male" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Topic" .
+<National_League> <sports.sports_league.teams> "m.0crt7f4" .
+<Padma_Lakshmi> <people.person.nationality> "United States of America" .
+<m.0ggfpt5> <business.employment_tenure.company> "National League" .
+<33181> <location.location.containedby> "Miami-Dade County" .
+<Jeffrey_Loria> <common.topic.article> "m.04l76h" .
+<m.04vy453> <sports.sports_league_draft_pick.school> "University of Florida" .
+<Baseball> <film.film_subject.films> "Four Days In October" .
+<Miami_Marlins> <broadcast.genre.content> "Sid Rosenberg Show" .
+<33122> <location.location.containedby> "Miami-Dade County" .
+<San_Marco_Island> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<33172> <location.location.containedby> "Miami-Dade County" .
+<Miami> <common.topic.webpage> "m.0b6r9l0" .
+<Bay_Heights> <location.location.containedby> "Miami metropolitan area" .
+<Miami_Jewelry_District> <common.topic.notable_types> "Neighborhood" .
+<Miami> <common.topic.webpage> "m.09w1tmv" .
+<m.064wlmk> <base.popstra.vacation_choice.location> "Miami" .
+<Miami> <location.citytown.postal_codes> "33116" .
+<Upper_Eastside> <location.location.contains> "Bayshore" .
+<Miami_Springs> <common.topic.notable_types> "City/Town/Village" .
+<Bayshore> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<The_Beacon> <book.newspaper.circulation_areas> "Miami" .
+<1986_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<National_League_West> <baseball.baseball_division.teams> "San Diego Padres" .
+<33145> <location.postal_code.country> "United States of America" .
+<Mao_Kobayashi> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Teal> <base.schemastaging.context_name.pronunciation> "g.125_qxbp_" .
+<Miami> <location.location.events> "2013 Miami Short Film Festival" .
+<Yankee_Stadium> <location.location.events> "2003 World Series" .
+<m.04w1x5h> <sports.sports_league_draft_pick.draft> "2006 Major League Baseball Draft" .
+<33196> <location.postal_code.country> "United States of America" .
+<m.05n6f8r> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<National_League> <baseball.baseball_league.teams> "Los Angeles Dodgers" .
+<White> <base.roses.rose_color.roses_of_this_color> "Rosa 'Magic Blanket'" .
+<Shenandoah> <location.location.containedby> "United States of America" .
+<1990_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Mike_Redmond> <common.topic.image> "Mike Redmond" .
+<Jeffrey_Loria> <base.schemastaging.person_extra.net_worth> "m.0n4t0sv" .
+<Mike_Redmond> <baseball.baseball_player.batting_stats> "m.06s8fn6" .
+<Atlanta_Braves> <common.topic.notable_types> "Professional Sports Team" .
+<Miami> <location.location.events> "2013 Miami International Film Festival Retrospective" .
+<Miami> <film.film_location.featured_in_films> "Midnight Cowboy" .
+<Third_Base_Coach> <people.profession.specialization_of> "Baseball Coach" .
+<Baseball_League> <freebase.type_profile.strict_included_types> "Topic" .
+<Tino_Martinez> <baseball.baseball_coach.current_team_coaching> "m.052tpcc" .
+<Chris_Volstad> <people.person.profession> "Baseball player" .
+<Bay_Heights> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Miami> <location.location.events> "2008 Borscht Film Festival" .
+<Miami> <location.statistical_region.population> "g.11x1dq2bj" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Upper Eastside" .
+<Fotofilosophy,_Inc.> <organization.organization.geographic_scope> "United States of America" .
+<Major_League_Baseball> <common.topic.notable_types> "Baseball League" .
+<1998_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Miami> <travel.travel_destination.how_to_get_here> "m.0529f06" .
+<National_League> <business.employer.employees> "m.0hn_3bj" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Florida Panthers" .
+<Ozzie_Guillén> <people.person.nationality> "United States of America" .
+<Miami_metropolitan_area> <sports.sports_team_location.teams> "Miami Dolphins" .
+<Sports_radio> <broadcast.genre.content> "Sid Rosenberg Show" .
+<m.04vy453> <sports.sports_league_draft_pick.draft> "1993 Major League Baseball Draft" .
+<Dee> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League_Central> <common.topic.notable_types> "Baseball Division" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1x5h" .
+<m.06s8fbg> <baseball.batting_statistics.team> "Miami Marlins" .
+<m.04w1tsb> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<White> <common.topic.notable_types> "Color" .
+<2001_shoe_bomb_plot> <time.event.locations> "Miami" .
+<Miami> <location.citytown.postal_codes> "33233" .
+<2012_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<m.0crt7t1> <sports.sports_league_participation.league> "National League" .
+<m.0s8skc6> <business.employment_tenure.company> "National League" .
+<California_State_University,_Fullerton> <location.location.containedby> "United States of America" .
+<Baseball> <sports.sport.positions> "Catcher" .
+<2013_World_Latin_Dance_Cup> <time.event.locations> "Miami" .
+<National_League_Championship_Series> <sports.sports_championship.league> "National League" .
+<Miami> <location.location.events> "2010 Miami International Film Festival" .
+<Opa-locka_West_Airport> <aviation.airport.serves> "Miami" .
+<Miami-Dade_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Buena_Vista> <location.location.containedby> "Miami metropolitan area" .
+<Miami> <travel.travel_destination.tourist_attractions> "Frost Art Museum" .
+<National_League> <sports.sports_league.teams> "m.0crt7fc" .
+<Adrian_Gonzalez> <sports.drafted_athlete.drafted> "m.04w1tsb" .
+<2009_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Miami> <location.citytown.postal_codes> "33150" .
+<Sid_Rosenberg_Show> <broadcast.broadcast.content> "Sid Rosenberg" .
+<m.063s9_6> <base.petbreeds.dog_city_relationship.cities> "Miami" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6f25" .
+<m.063s9zz> <base.petbreeds.dog_city_relationship.cities> "Miami" .
+<m.0hnzsbs> <business.employment_tenure.company> "National League" .
+<m.05n6fvg> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<1997_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1sf8" .
+<Teal> <common.topic.notable_for> "g.12564tp1l" .
+<m.05n6fmp> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<Pérez_Art_Museum_Miami> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<Miami> <location.statistical_region.population> "g.11x1fhfmr" .
+<Miami> <location.location.events> "1992 Miami International Film Festival" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Sunita Marshall" .
+<Miami> <location.location.nearby_airports> "Miami Executive Airport" .
+<Sports_Facility> <freebase.type_hints.included_types> "Topic" .
+<Jessica_White> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Miami> <common.topic.webpage> "m.09xg4qr" .
+<m.0crtd9m> <sports.sports_league_participation.team> "Atlanta Braves" .
+<m.0crt7p9> <sports.sports_league_participation.league> "National League" .
+<m.05n6dwd> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<Anna_Bayle> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<2002_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<Villa_Vizcaya> <location.location.containedby> "Florida" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Jessica White" .
+<Sports_films> <media_common.media_genre.equivalent_topic> "Sports" .
+<m.063tsxm> <base.popstra.vacation_choice.location> "Miami" .
+<Buena_Vista> <common.topic.notable_types> "Neighborhood" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Harmony Boucher" .
+<Marc_Valdes> <people.person.gender> "Male" .
+<Missouri_State_University> <education.educational_institution_campus.educational_institution> "Missouri State University" .
+<Jeremy_Hermida> <people.person.profession> "Baseball player" .
+<m.0crt7yh> <sports.sports_league_participation.league> "National League" .
+<Miami> <location.hud_foreclosure_area.ofheo_price_change> "m.07jrns6" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.010q_p9h" .
+<m.0crtdb0> <sports.sports_league_participation.league> "National League East" .
+<Missouri_State_University> <location.location.containedby> "United States of America" .
+<Miami_Jewelry_District> <location.location.containedby> "Miami" .
+<Jim_Leyland> <baseball.baseball_player.position_s> "Manager" .
+<m.04w1sf8> <sports.sports_league_draft_pick.school> "Cowley Community College" .
+<Damien_Colletti> <people.person.gender> "Male" .
+<33170> <location.location.containedby> "Miami-Dade County" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Hye-rim Park" .
+<National_League_East> <sports.sports_league.teams> "m.0crtd9m" .
+<Miami> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07jrns0" .
+<Sid_Rosenberg_Show> <broadcast.content.location> "Miami-Dade County" .
+<Aaron_Thompson> <people.person.gender> "Male" .
+<Sid_Rosenberg_Show> <radio.radio_program.subjects> "Professional sports" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6dgh" .
+<Sports_Facility> <type.type.domain> "Sports" .
+<Little_Havana> <common.topic.notable_types> "Neighborhood" .
+<Florida-Boston_College_1994_NCAA_Men's_Division_I___Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1994 NCAA Men's Division I Basketball Tournament- East Regional Finals" .
+<National_League> <sports.sports_league.teams> "m.0crt7kf" .
+<33146> <location.postal_code.country> "United States of America" .
+<Sid_Rosenberg> <people.person.gender> "Male" .
+<Hye-rim_Park> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<California_State_University,_Fullerton> <education.educational_institution.campuses> "California State University, Fullerton" .
+<White> <base.roses.rose_color.roses_of_this_color> "Rosa laevigata" .
+<Miami> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07jrnrl" .
+<Miami_Dolphins> <common.topic.notable_types> "Professional Sports Team" .
+<Mike_Redmond> <people.person.profession> "Manager" .
+<Miami_University> <education.educational_institution.campuses> "Miami University" .
+<Miami> <location.location.events> "1984 Miami International Film Festival" .
+<m.052tpby> <baseball.current_coaching_tenure.baseball_coach> "Mark Wiley" .
+<Miami> <location.location.events> "2006 Miami Short Film Festival" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Yuri Ebihara" .
+<Sports_Team_Owner> <type.type.expected_by> "Owner(s)" .
+<33132> <location.location.containedby> "Miami" .
+<Sports_Facility> <freebase.type_profile.kind> "Definition" .
+<m.0crt79d> <sports.sports_league_participation.league> "National League" .
+<National_League> <business.employer.employees> "m.0wkx11x" .
+<33177> <location.location.containedby> "Miami-Dade County" .
+<Midtown_Miami> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Miami> <location.citytown.postal_codes> "33131" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Sports entertainment" .
+<National_League> <baseball.baseball_league.teams> "New York Mets" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Yoko Horiuchi" .
+<Baseball_player> <people.profession.corresponding_type> "Baseball Player" .
+<Miami> <location.location.events> "1994 Miami International Film Festival" .
+<m.063s9_2> <base.petbreeds.dog_city_relationship.cities> "Miami" .
+<Miami> <travel.travel_destination.how_to_get_here> "m.0529fgn" .
+<33144> <location.postal_code.country> "United States of America" .
+<Miami> <common.topic.webpage> "m.09wt616" .
+<Sun_Life_Stadium> <architecture.structure.architecture_firm> "Populous" .
+<Florida-Boston_College_1994_NCAA_Men's_Division_I___Basketball_Tournament_Game> <time.event.locations> "Miami" .
+<Mark_Wiley> <people.person.gender> "Male" .
+<Miami> <base.popstra.location.vacationers> "m.065pdmy" .
+<Buena_Vista> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Bre_Scullark> <people.person.nationality> "United States of America" .
+<m.0crt7wx> <sports.sports_league_participation.league> "National League" .
+<Sid_Rosenberg> <people.person.nationality> "United States of America" .
+<Liberty_City> <location.location.containedby> "Miami" .
+<Miami> <location.location.events> "2007 Miami Short Film Festival" .
+<Quiana_Grant> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Andy_Fox> <people.person.gender> "Male" .
+<Hot_Times_In_Little_Havana> <film.film.featured_film_locations> "Little Havana" .
+<National_League> <sports.sports_league.teams> "m.0crt7gj" .
+<Mike_Redmond> <baseball.baseball_player.batting_stats> "m.06s8fcw" .
+<National_League> <business.employer.employees> "m.0gl1_8b" .
+<m.065pcsr> <base.popstra.vacation_choice.location> "Miami" .
+<Kang_Seung-hyun> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Miami> <location.location.events> "2001 shoe bomb plot" .
+<1998_Major_League_Baseball_Season> <time.event.previous_in_series> "1997 Major League Baseball Season" .
+<Joe_Girardi> <baseball.baseball_player.position_s> "Catcher" .
+<33136> <location.location.containedby> "Miami-Dade County" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Katie Price" .
+<2003_Major_League_Baseball_season> <time.event.next_in_series> "2004 Major League Baseball season" .
+<2008_Borscht_Film_Festival> <time.event.locations> "Miami" .
+<Tyler_Kolek> <sports.drafted_athlete.drafted> "m.010q_p9h" .
+<National_League> <business.employer.employees> "m.0hvmqkx" .
+<Florida_Marlins> <sports.defunct_sports_team.later_known_as> "Miami Marlins" .
+<Vanya_Seager> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Baseball_Division> <freebase.type_profile.strict_included_types> "Topic" .
+<2003_World_Series> <common.topic.article> "m.01z53b" .
+<m.052tpbq> <baseball.current_coaching_tenure.coaching_position> "Bench Coach" .
+<Aída_Yéspica> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<University_of_Alabama_in_Huntsville> <location.location.containedby> "United States of America" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Matika Arthakornsiripho" .
+<m.0ck2dtv> <organization.organization_relationship.parent> "National League" .
+<Mark_Kotsay> <common.topic.notable_types> "Baseball Player" .
+<Chip_Ambres> <common.topic.notable_types> "Baseball Player" .
+<Morningside> <location.neighborhood.neighborhood_of> "Miami" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1wvp" .
+<Mariacarla_Boscono> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Jeffrey_Loria> <people.person.education> "m.0bd2ws7" .
+<Owner(s)> <type.property.schema> "Professional Sports Team" .
+<Miami> <location.location.events> "Miss USA 1986" .
+<m.0ck2dt_> <organization.organization_relationship.child> "National League Central" .
+<New_York_Giants> <baseball.baseball_team.league> "National League" .
+<m.06s8fgp> <baseball.batting_statistics.team> "Miami Marlins" .
+<Carlos_Tosca> <baseball.baseball_coach.current_team_coaching> "m.052tpbq" .
+<The_Anchor_Hotel> <film.film.country> "United States of America" .
+<m.0crt7br> <sports.sports_league_participation.team> "St. Louis Cardinals" .
+<Miami> <common.topic.webpage> "m.09yb0kz" .
+<Miami> <base.popstra.location.vacationers> "m.064_5d6" .
+<m.0whh4z5> <business.employment_tenure.company> "National League" .
+<m.0z6bdkg> <award.award_nomination.ceremony> "2004 ESPY Awards" .
+<Asia_Nitollano> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League> <baseball.baseball_league.teams> "Colorado Rockies" .
+<Alameda> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<The_Roads> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Miami> <location.statistical_region.population> "g.11x1fxw32" .
+<Sid_Rosenberg_Show> <broadcast.artist.content> "Sid Rosenberg" .
+<Steve_Foster> <common.topic.notable_types> "Baseball Player" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Meghan Collison" .
+<Brett_Sinkbeil> <common.topic.notable_types> "Baseball Player" .
+<33132> <location.location.contains> "33132-1225" .
+<Miami> <location.citytown.postal_codes> "33167" .
+<Miami> <common.topic.webpage> "m.09x5pc9" .
+<m.02wmy9q> <education.education.student> "Jeffrey Loria" .
+<Marc_Valdes> <people.person.profession> "Baseball player" .
+<Owner(s)> <owl#inverseOf> "Teams Owned" .
+<m.0j_wkpw> <business.employment_tenure.company> "National League" .
+<m.0crt7hq> <sports.sports_league_participation.league> "National League" .
+<1989_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<33135> <location.location.containedby> "Miami-Dade County" .
+<Alameda> <common.topic.notable_types> "Neighborhood" .
+<m.05n6f5p> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<Hye-rim_Park> <people.person.nationality> "United States of America" .
+<Philadelphia_Phillies> <sports.sports_team.league> "m.0crt7bg" .
+<Miami> <location.statistical_region.population> "g.11btt5k9b4" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Erica Arana" .
+<United_States_of_America> <location.country.first_level_divisions> "Florida" .
+<2005_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1wvp" .
+<Miami_Marlins> <base.schemastaging.sports_team_extra.training_ground> "m.0j___v1" .
+<m.0wgh0wd> <baseball.current_coaching_tenure.baseball_coach> "John Pierson" .
+<Sports_Team_Owner> <type.type.domain> "Sports" .
+<m.063qgpn> <base.popstra.vacation_choice.location> "Miami" .
+<Joshua_Holland> <people.person.gender> "Male" .
+<Mike_Redmond> <baseball.baseball_manager.current_team_managed> "Miami Marlins" .
+<m.0jbcp70> <common.webpage.category> "Official Website" .
+<33146> <location.location.contains> "Lowe Art Museum" .
+<Holocaust_Memorial_of_the_Greater_Miami_Jewish_Federation> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<Miami_Jewelry_District> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<1996_Major_League_Baseball_Season> <time.event.previous_in_series> "1995 Major League Baseball Season" .
+<National_League> <baseball.baseball_league.teams> "Washington Nationals" .
+<Teal> <common.topic.article> "m.03jvv5" .
+<Little_Haiti> <location.location.time_zones> "Eastern Time Zone" .
+<33132-1225> <location.location.containedby> "Miami-Dade County" .
+<Edgewater> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<National_League> <sports.sports_league.championship> "National League Championship Series" .
+<m.0crt7fm> <sports.sports_league_participation.league> "National League" .
+<Buena_Vista> <location.location.containedby> "Miami" .
+<m.0crt7k4> <sports.sports_league_participation.league> "National League" .
+<m.065pbjg> <base.popstra.vacation_choice.location> "Miami" .
+<m.04w1w01> <sports.sports_league_draft_pick.player> "Jeff Allison" .
+<Miami> <base.popstra.location.vacationers> "m.064tp8j" .
+<San_Francisco_Giants> <common.topic.notable_types> "Professional Sports Team" .
+<Sports_Team_Owner> <type.type.properties> "Teams Owned" .
+<Black_Point_Marina> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<Saleisha_Stowers> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<New_York_Yankees> <common.topic.notable_types> "Professional Sports Team" .
+<Miami> <fictional_universe.fictional_setting.universe> "Dexter Universe" .
+<Team> <rdf-schema#range> "Professional Sports Team" .
+<m.0crt7xg> <sports.sports_league_participation.league> "National League" .
+<Brickell> <common.topic.notable_types> "Neighborhood" .
+<Joe_Girardi> <people.person.gender> "Male" .
+<Mike_Redmond> <sports.pro_athlete.sports_played_professionally> "m.0d5_38q" .
+<m.06s8fbg> <baseball.batting_statistics.season> "1999 Major League Baseball Season" .
+<Sunita_Marshall> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "San Marco Island" .
+<Brett_Sinkbeil> <sports.drafted_athlete.drafted> "m.04w1x5h" .
+<33193> <location.location.containedby> "Miami-Dade County" .
+<Miami> <location.citytown.postal_codes> "33234" .
+<33197> <location.postal_code.country> "United States of America" .
+<1993_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Miami_Heat> <broadcast.genre.content> "Sid Rosenberg Show" .
+<National_League> <sports.sports_league.teams> "m.0crt7dv" .
+<Miami> <location.statistical_region.population> "g.11x1f6l05" .
+<2014_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<Viceroy_Miami> <location.location.containedby> "Brickell" .
+<m.0gb19w8> <business.employment_tenure.company> "National League" .
+<Miami_Springs> <location.location.containedby> "United States of America" .
+<Miami> <location.citytown.postal_codes> "33177" .
+<m.04w1x5h> <sports.sports_league_draft_pick.school> "Missouri State University" .
+<m.04vy3tq> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Kang Seung-hyun" .
+<Little_Havana> <location.location.containedby> "Florida" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Jesikah Maximus" .
+<Miami> <common.topic.webpage> "m.09ywtj6" .
+<Mark_Wiley> <people.person.profession> "Baseball player" .
+<Nicole_Oring> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Venetian_Pool> <location.location.containedby> "Florida" .
+<Jim_Leyland> <people.person.gender> "Male" .
+<Bench_Coach> <baseball.baseball_coaching_position.current_coaches> "m.052tpbq" .
+<m.05n6dzg> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<Adrian_Gonzalez> <people.person.nationality> "United States of America" .
+<Brickell> <location.location.containedby> "Miami" .
+<Spring_Garden> <location.location.containedby> "Miami" .
+<Mike_Redmond> <baseball.baseball_player.lifetime_batting_statistics> "m.09k_cmg" .
+<33245> <location.postal_code.country> "United States of America" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Alameda" .
+<Miami> <location.citytown.postal_codes> "33129" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "McKey Sullivan" .
+<Baseball> <common.topic.subject_of> "David Veldt" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Nadeeka Perera" .
+<New_York_Mets> <baseball.baseball_team.league> "National League" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Bay Heights" .
+<m.04w1x5h> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<m.0wgh0wd> <baseball.current_coaching_tenure.baseball_team> "Miami Marlins" .
+<National_League> <sports.sports_league.teams> "m.0crt7j6" .
+<1996_Major_League_Baseball_Season> <sports.sports_league_season.championship> "1997 World Series" .
+<m.0jbcp70> <common.webpage.topic> "Miami Marlins" .
+<Coconut_Grove> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Midtown_Miami> <common.topic.notable_types> "Neighborhood" .
+<Miami> <location.statistical_region.population> "m.0hkftm3" .
+<Mark_Wiley> <baseball.baseball_coach.current_team_coaching> "m.052tpby" .
+<National_League> <business.employer.employees> "m.0wj216x" .
+<33137> <location.location.containedby> "Miami-Dade County" .
+<Teal> <common.topic.notable_types> "Color" .
+<2001_shoe_bomb_plot> <base.culturalevent.event.entity_involved> "2001 shoe bomb plot" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<National_League> <common.topic.notable_for> "g.125cl9wvb" .
+<Jeffrey_Loria> <people.person.education> "m.02wmy9q" .
+<Mark_Kotsay> <people.person.gender> "Male" .
+<m.0wkk21m> <business.employment_tenure.company> "National League" .
+<m.06s8fpq> <baseball.batting_statistics.season> "2006 Major League Baseball season" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Damien Colletti" .
+<33176> <location.location.containedby> "Miami-Dade County" .
+<Marlins_Park> <sports.sports_facility.teams> "Miami Marlins" .
+<m.0crt7kf> <sports.sports_league_participation.league> "National League" .
+<Miami-Dade_County> <location.location.containedby> "Florida" .
+<Mai_Phương_Thúy> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League> <business.employer.employees> "m.0gvylst" .
+<Billy_the_Marlin> <common.topic.image> "Billy the Marlin 2011" .
+<m.0hhz4v4> <business.employment_tenure.company> "National League" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Anna Bayle" .
+<Miami_Homestead_General_Aviation_Airport> <location.location.containedby> "Miami-Dade County" .
+<1994_NCAA_Men's_Division_I_Basketball_Tournament-_East_Regional_Semifinals> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1994 NCAA Men's Division I Basketball Tournament" .
+<National_League> <sports.sports_league.teams> "m.0crt7br" .
+<Miami> <base.popstra.location.vacationers> "m.064srvz" .
+<The_Anchor_Hotel> <film.film.featured_film_locations> "Miami" .
+<Micaela_Reis> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Marlins_Park> <location.location.events> "2012 Major League Baseball season" .
+<m.0crt7dv> <sports.sports_league_participation.league> "National League" .
+<Miami> <location.location.events> "2002 Miami Short Film Festival" .
+<2003_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<Miami> <location.location.events> "2005 Miami International Film Festival" .
+<Bass_Museum_of_Art> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<Sixt> <common.topic.subject_of> "Sixt" .
+<Silver> <common.topic.image> "Silver crystal" .
+<33129> <location.location.containedby> "Miami-Dade County" .
+<Teal> <base.schemastaging.visual_color_extra.cmyk> "m.010q25gx" .
+<Black> <common.topic.image> "Black colour" .
+<Jeffrey_Loria> <people.person.education> "m.0hnjbx8" .
+<1986_FBI_Miami_shootout> <time.event.locations> "Miami" .
+<Miami> <travel.travel_destination.climate> "m.0529dnz" .
+<33125> <location.location.containedby> "Miami-Dade County" .
+<m.0crt7b4> <sports.sports_league_participation.team> "Milwaukee Brewers" .
+<Miami_Springs> <location.hud_county_place.county> "Miami-Dade County" .
+<National_League> <sports.sports_league.teams> "m.0crt7wm" .
+<National_League_East> <baseball.baseball_division.teams> "Atlanta Braves" .
+<University_of_Alabama_in_Huntsville> <education.educational_institution.campuses> "University of Alabama in Huntsville" .
+<Miami> <location.citytown.postal_codes> "33138" .
+<m.0crt7bg> <sports.sports_league_participation.league> "National League" .
+<m.0crt7g4> <sports.sports_league_participation.team> "Syracuse Stars" .
+<Colorado_Rockies> <sports.sports_team.colors> "Black" .
+<Shenandoah> <location.location.containedby> "Miami" .
+<m.06_7vg6> <base.opposites.opposite_relationship.opposite> "Black" .
+<World_Series> <sports.sports_championship.league> "Major League Baseball" .
+<m.0j81bl_> <baseball.baseball_historical_managerial_position.manager> "Jim Leyland" .
+<Juliana_Imai> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Miami Jewelry District" .
+<m.04w1t8w> <sports.sports_league_draft_pick.draft> "1999 Major League Baseball Draft" .
+<Los_Angeles_Dodgers> <baseball.baseball_team.division> "National League West" .
+<National_League_East> <sports.sports_league.teams> "m.0crtdb0" .
+<Miami> <common.topic.webpage> "m.09y36dz" .
+<m.0wj2wxd> <business.employment_tenure.company> "National League" .
+<National_League_East> <sports.sports_league.championship> "National League Division Series" .
+<Black> <business.product_category.products> "Ebony Faux Leather (D8507)" .
+<m.0wh19gl> <business.employment_tenure.company> "National League" .
+<Miami> <common.topic.webpage> "m.09wjgmm" .
+<Shiraz_Tal> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Little_Haiti> <location.location.containedby> "Miami" .
+<Little_Havana> <common.topic.article> "m.03msby" .
+<33242> <location.postal_code.country> "United States of America" .
+<Miami> <location.location.events> "1996 Miami Hispanic Film Festival" .
+<South_Bay_Estates> <location.neighborhood.neighborhood_of> "Miami" .
+<m.0crt7c2> <sports.sports_league_participation.team> "San Francisco Giants" .
+<First_Base_Coach> <baseball.baseball_coaching_position.current_coaches> "m.052tpc4" .
+<Joe_Girardi> <people.person.nationality> "United States of America" .
+<Baseball> <sports.sport.related_equipment> "Pitchers Helmet" .
+<Miami> <base.petbreeds.city_with_dogs.top_breeds> "m.063s9_l" .
+<Miami-Opa_Locka_Executive_Airport> <location.location.containedby> "United States of America" .
+<1994_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Missouri_State_University> <education.educational_institution.colors> "White" .
+<National_League> <business.employer.employees> "m.0gt_kst" .
+<Miami> <common.topic.webpage> "m.09ythfw" .
+<Marlins_Park> <common.topic.image> "Marlins 2008 001" .
+<New_York_Giants> <sports.defunct_sports_team.later_known_as> "San Francisco Giants" .
+<Miss_USA_1986> <time.event.locations> "Miami" .
+<m.06s8fr4> <baseball.batting_statistics.season> "2007 Major League Baseball season" .
+<Miami> <location.location.events> "1997 Miami International Film Festival" .
+<White> <base.schemastaging.context_name.pronunciation> "g.125_rng4v" .
+<Jamie_Jones> <sports.drafted_athlete.drafted> "m.04vy4w7" .
+<Miami_metropolitan_area> <common.topic.subject_of> "Engage the Crowd Miami" .
+<m.04w1vk7> <sports.sports_league_draft_pick.draft> "2002 Major League Baseball Draft" .
+<National_League_East> <baseball.baseball_division.teams> "New York Mets" .
+<University_of_Florida> <location.location.containedby> "United States of America" .
+<Viceroy_Miami> <location.location.primarily_containedby> "Florida" .
+<2012_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Bayshore> <location.location.containedby> "Miami" .
+<Mascot> <type.type.domain> "Sports" .
+<National_League> <sports.sports_league.teams> "m.0crt7cg" .
+<White> <common.topic.article> "m.083k4" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Silver Bluff Estates" .
+<Joe_Girardi> <common.topic.notable_types> "Baseball Player" .
+<Black> <business.product_category.products> "Slate Faux Leather (D8631)" .
+<m.0wk3sls> <business.employment_tenure.company> "National League" .
+<Miami> <location.statistical_region.population> "g.12vqjb2__" .
+<National_League_Central> <baseball.baseball_division.teams> "Cincinnati Reds" .
+<National_League> <business.employer.employees> "m.0hvzbcn" .
+<33143> <location.postal_code.country> "United States of America" .
+<m.0bd2ws7> <education.education.student> "Jeffrey Loria" .
+<33194> <location.location.containedby> "Miami-Dade County" .
+<2000_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<m.06s8fcw> <baseball.batting_statistics.season> "2000 Major League Baseball season" .
+<Teal> <base.schemastaging.visual_color_extra.hsv> "m.010q258z" .
+<Miami> <base.popstra.location.vacationers> "m.065pdm5" .
+<Miami> <location.hud_county_place.place> "Miami" .
+<Professional_Sports_Team> <common.topic.article> "m.06_rt7r" .
+<Miami> <location.citytown.postal_codes> "33132" .
+<National_League> <business.employer.employees> "m.0gmjnjy" .
+<Mei-Yin_Lloyd> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League> <business.employer.employees> "m.0hhz8bh" .
+<Miami> <location.citytown.postal_codes> "33194" .
+<Miami> <location.location.events> "2007 Sicilian Film Festival" .
+<Silver_Bluff_Estates> <location.neighborhood.neighborhood_of> "Miami" .
+<2003_World_Series> <time.event.instance_of_recurring_event> "World Series" .
+<White> <business.product_category.products> "Parchment Faux Leather (D8568)" .
+<1993_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy453" .
+<Chris_Volstad> <baseball.baseball_player.bats> "Right-handed" .
+<2012_Major_League_Baseball_season> <sports.sports_league_season.league> "Major League Baseball" .
+<National_League> <business.employer.employees> "m.0gb18ht" .
+<The_Roads> <common.topic.notable_types> "Neighborhood" .
+<Miami> <location.citytown.postal_codes> "33132-1225" .
+<Professional_Sports_Team> <freebase.type_hints.included_types> "Topic" .
+<Miami> <location.location.events> "1995 Miami International Film Festival" .
+<Florida> <location.location.containedby> "United States of America" .
+<National_League> <business.employer.employees> "m.0wlytp8" .
+<m.04w1wt1> <sports.sports_league_draft_pick.school> "Palm Beach Gardens Community High School" .
+<33187> <location.postal_code.country> "United States of America" .
+<Taylor_Tankersley> <people.person.gender> "Male" .
+<m.063s9zq> <base.petbreeds.dog_city_relationship.cities> "Miami" .
+<McNeese_State_University> <education.educational_institution.campuses> "McNeese State University" .
+<California_State_University,_Fullerton> <education.educational_institution_campus.educational_institution> "California State University, Fullerton" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Mai Phương Thúy" .
+<Jeremy_Hermida> <people.person.gender> "Male" .
+<Miami> <location.statistical_region.population> "m.0hkftp1" .
+<Miami> <location.location.events> "2000 Miami International Film Festival" .
+<Miami> <travel.travel_destination.local_transportation> "Metromover" .
+<Overtown> <common.topic.notable_types> "Neighborhood" .
+<Miami> <location.citytown.postal_codes> "33296" .
+<m.0z6d3cn> <award.award_nomination.award_nominee> "Miami Marlins" .
+<Florida> <base.locations.states_and_provences.country> "United States of America" .
+<Baseball_League> <freebase.type_hints.included_types> "Topic" .
+<Hot_Times_In_Little_Havana> <film.film.country> "United States of America" .
+<National_League> <sports.sports_league.teams> "m.0crt7bg" .
+<Professional_Sports_Team> <freebase.type_profile.strict_included_types> "Topic" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Edgewater" .
+<33299> <location.postal_code.country> "United States of America" .
+<m.0z6d3cn> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Upper_Eastside> <location.location.containedby> "Miami" .
+<Charo_Ronquillo> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Chicago_Cubs> <common.topic.notable_types> "Professional Sports Team" .
+<Marlins_Park> <location.location.containedby> "Miami" .
+<m.06_7vg6> <base.opposites.opposite_relationship.opposite> "White" .
+<m.05n6fmp> <baseball.baseball_team_stats.season> "2006 Major League Baseball season" .
+<Colorado_Rockies> <baseball.baseball_team.league> "National League" .
+<Miami> <common.topic.webpage> "m.09yjqdk" .
+<33132> <location.postal_code.country> "United States of America" .
+<m.0hn_d6k> <business.employment_tenure.company> "National League" .
+<33233> <location.postal_code.country> "United States of America" .
+<m.0wj216x> <business.employment_tenure.company> "National League" .
+<National_League> <business.employer.employees> "m.0whw58q" .
+<m.0gx65w5> <business.employment_tenure.company> "National League" .
+<Jeffrey_Loria> <sports.sports_team_owner.teams_owned> "Miami Marlins" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "The Roads" .
+<Miami-Dade_County> <location.location.nearby_airports> "Miami-Opa Locka Executive Airport" .
+<Marlins_Park> <common.topic.notable_for> "g.1255djr0h" .
+<m.0z6bdkg> <award.award_nomination.award> "Best Upset ESPY Award" .
+<m.0crt7cg> <sports.sports_league_participation.league> "National League" .
+<Latin_Quarter> <location.neighborhood.neighborhood_of> "Miami" .
+<Maike_Evers> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami> <common.topic.webpage> "m.03lmb1m" .
+<Chip_Ambres> <people.person.gender> "Male" .
+<33255> <location.postal_code.country> "United States of America" .
+<Washington_Nationals> <baseball.baseball_team.league> "National League" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Meisa Kuroki" .
+<33283> <location.postal_code.country> "United States of America" .
+<The_Pines> <location.location.containedby> "Miami metropolitan area" .
+<Miami_International_Airport> <travel.transport_terminus.travel_destinations_served> "m.0529f06" .
+<Billy_the_Marlin> <common.topic.notable_types> "Mascot" .
+<Miami> <travel.travel_destination.climate> "m.0529dp7" .
+<Miami> <location.statistical_region.population> "m.0hkftnt" .
+<33280> <location.postal_code.country> "United States of America" .
+<m.0whwtf3> <business.employment_tenure.company> "National League" .
+<Miami> <common.topic.webpage> "m.09xjdcs" .
+<Mike_Redmond> <people.person.profession> "Baseball player" .
+<m.0crtdb0> <sports.sports_league_participation.team> "Washington Nationals" .
+<Muthu_Tharanga> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Pittsburgh_Pirates> <sports.sports_team.league> "m.0crt7cg" .
+<Miami_neighborhoodsmap> <common.image.appears_in_topic_gallery> "Coconut Grove" .
+<Pittsburgh_Pirates> <sports.sports_team.sport> "Baseball" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Shiraz Tal" .
+<Miami> <common.topic.webpage> "m.09w2blx" .
+<m.0z6bdkg> <freebase.valuenotation.has_no_value> "Nominated work" .
+<Baseball_Player> <freebase.type_profile.equivalent_topic> "Baseball player" .
+<m.0d5_38q> <sports.pro_sports_played.athlete> "Mike Redmond" .
+<Miami_Seaquarium> <location.location.containedby> "Miami" .
+<Ocean_View_Heights> <location.location.containedby> "Miami" .
+<Miami> <location.location.events> "2011 Miami Short Film Festival" .
+<Miami> <base.popstra.location.vacationers> "m.065pbb9" .
+<33243> <location.postal_code.country> "United States of America" .
+<Sports> <freebase.domain_profile.equivalent_topic> "Sports" .
+<National_League_East> <sports.sports_league.teams> "m.0crtdbg" .
+<National_League> <sports.sports_league.teams> "m.0crt7gs" .
+<m.04w1wfw> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<33159> <location.postal_code.country> "United States of America" .
+<33180> <location.location.containedby> "Miami-Dade County" .
+<Businessperson> <people.profession.specializations> "Art dealer" .
+<Professional_Sports_Team> <freebase.type_profile.kind> "Definition" .
+<Miami_Marlins> <baseball.baseball_team.current_manager> "Mike Redmond" .
+<m.04w1wt1> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<m.06s8fsl> <baseball.batting_statistics.season> "2008 Major League Baseball season" .
+<Brickell> <location.location.contains> "Viceroy Miami" .
+<Colorado_Rockies> <common.topic.notable_types> "Professional Sports Team" .
+<White> <business.product_category.products> "White Faux Leather (D8637)" .
+<Miami> <base.popstra.location.vacationers> "m.064smv0" .
+<Mike_Redmond> <baseball.baseball_player.batting_stats> "m.06s8fpq" .
+<Edgewater> <location.location.containedby> "Florida" .
+<South_Bay_Estates> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Miami> <sports.sports_team_location.teams> "Miami Marlins" .
+<Aaron_Thompson> <people.person.profession> "Baseball player" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1t8w" .
+<San_Diego_Padres> <common.topic.notable_types> "Professional Sports Team" .
+<Manhattan> <location.administrative_division.country> "United States of America" .
+<m.0crt7mg> <sports.sports_league_participation.league> "National League" .
+<1999_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1t8w" .
+<Bullpen_Coach> <baseball.baseball_coaching_position.current_coaches> "m.052tpbh" .
+<Karla_Henry> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0gb258f> <business.employment_tenure.company> "National League" .
+<Miami> <location.location.containedby> "Area code 305" .
+<National_League> <business.employer.employees> "m.0wh19gl" .
+<m.0gv1q_p> <business.employment_tenure.company> "National League" .
+<Andy_Fox> <people.person.profession> "Baseball player" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Florida" .
+<National_League> <business.employer.employees> "m.0gl1kl3" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Coconut Grove" .
+<Owner(s)> <rdf-schema#domain> "Professional Sports Team" .
+<Miami> <location.citytown.postal_codes> "33165" .
+<Missouri_State_University> <education.educational_institution.campuses> "Missouri State University" .
+<Miami_University> <broadcast.genre.content> "Sid Rosenberg Show" .
+<National_League> <sports.sports_league.teams> "m.0crt7c2" .
+<33132-1693> <location.location.containedby> "United States of America" .
+<Shenandoah> <location.location.containedby> "Miami metropolitan area" .
+<33161> <location.postal_code.country> "United States of America" .
+<Damien_Colletti> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6d8t" .
+<National_League> <baseball.baseball_league.teams> "Miami Marlins" .
+<Upper_Eastside> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Joe_Girardi> <baseball.baseball_player.position_s> "Manager" .
+<Josh_Booty> <sports.drafted_athlete.drafted> "m.04vy4dw" .
+<Asia_Nitollano> <people.person.nationality> "United States of America" .
+<Major_League_Baseball> <sports.sports_league.seasons> "2012 Major League Baseball season" .
+<National_League> <sports.sports_league.teams> "m.0crt7ct" .
+<Jacob_Marceaux> <sports.drafted_athlete.drafted> "m.04w1wvp" .
+<David_Veldt> <people.person.nationality> "United States of America" .
+<33266> <location.postal_code.country> "United States of America" .
+<Miami> <base.popstra.location.vacationers> "m.064swbj" .
+<1998_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1sxd" .
+<33136> <location.postal_code.country> "United States of America" .
+<San_Marco_Island> <location.location.containedby> "Miami" .
+<Philadelphia_Phillies> <sports.sports_team.sport> "Baseball" .
+<Miami> <location.citytown.postal_codes> "33269" .
+<33168> <location.location.containedby> "Miami-Dade County" .
+<National_League> <business.employer.employees> "m.0hv_lsb" .
+<Miami> <fictional_universe.fictional_setting.fictional_characters_born_here> "Eric Delko" .
+<Virginia_Key> <base.ndbcd.buoy.region> "Florida" .
+<Miami> <travel.travel_destination.tourist_attractions> "Bass Museum of Art" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Brickell" .
+<National_League> <business.employer.employees> "m.0gv0r6n" .
+<Adrian_Gonzalez> <people.person.profession> "Baseball player" .
+<33156> <location.location.containedby> "Miami-Dade County" .
+<Mona_Lisa_Moon> <people.person.nationality> "United States of America" .
+<Baseball_Coach> <baseball.baseball_coaching_position.current_coaches> "m.0wgh0wd" .
+<Miami> <location.location.events> "1997 Miami Hispanic Film Festival" .
+<m.010q_p9h> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<m.0422h2r> <common.webpage.topic> "Miami Marlins" .
+<Miami> <location.citytown.postal_codes> "33112" .
+<1997_Miami_Hispanic_Film_Festival> <time.event.locations> "Miami" .
+<m.010q_p9h> <sports.sports_league_draft_pick.player> "Tyler Kolek" .
+<Sixt> <organization.organization.geographic_scope> "United States of America" .
+<2003_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04w1w01" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Miami Design District" .
+<m.065pdmy> <base.popstra.vacation_choice.location> "Miami" .
+<m.05n6d8t> <baseball.baseball_team_stats.season> "1993 Major League Baseball Season" .
+<2004_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<m.052tpby> <baseball.current_coaching_tenure.coaching_position> "Pitching Coach" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Nicole Oring" .
+<Lorena_Bernal> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami_Marlins> <common.topic.notable_for> "g.125c74m4s" .
+<Miami-Dade_County> <location.location.nearby_airports> "Miami Homestead General Aviation Airport" .
+<m.05n6drx> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<Katie_Price> <people.person.profession> "Businessperson" .
+<m.09xyh0f> <common.webpage.topic> "Miami" .
+<Miami> <location.location.events> "2013 Miami International Film Festival" .
+<Seattle> <location.hud_county_place.place> "Seattle" .
+<m.04vy4dw> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<2012_Major_League_Baseball_season> <time.event.participant> "San Francisco Giants" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Muthu Tharanga" .
+<Liberty_City> <location.location.containedby> "Miami metropolitan area" .
+<Miami> <location.citytown.postal_codes> "33176" .
+<Miami> <location.location.nearby_airports> "Dade-Collier Training and Transition Airport" .
+<Miami_Marlins> <baseball.baseball_team.historical_managers> "m.0j81bl_" .
+<m.0gw2qfj> <business.employment_tenure.company> "National League" .
+<1996_Major_League_Baseball_Season> <time.event.next_in_series> "1997 Major League Baseball Season" .
+<Miami> <location.location.events> "2007 Miami International Film Festival" .
+<Miami> <location.citytown.postal_codes> "33114" .
+<m.010q_p9h> <sports.sports_league_draft_pick.draft> "2014 Major League Baseball season" .
+<Florida> <organization.organization_scope.organizations_with_this_scope> "Sixt" .
+<Miami> <location.location.events> "2012 Sicilian Film Festival" .
+<Coconut_Grove> <location.location.containedby> "Florida" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Kaori Manabe" .
+<Syracuse_Stars> <sports.sports_team.league> "m.0crt7g4" .
+<Miami> <location.citytown.postal_codes> "33137" .
+<New_York_Yankees> <sports.sports_team.sport> "Baseball" .
+<Los_Angeles_Dodgers> <sports.sports_team.sport> "Baseball" .
+<National_League> <business.employer.employees> "m.0s8skc6" .
+<33185> <location.postal_code.country> "United States of America" .
+<Philadelphia_Phillies> <sports.sports_team.colors> "White" .
+<Downtown_Miami> <location.location.time_zones> "Eastern Time Zone" .
+<National_League> <business.employer.employees> "m.0gb258f" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Alisha Heng" .
+<Sports_League_Championship_Event> <freebase.type_hints.included_types> "Topic" .
+<m.06s8fjb> <baseball.batting_statistics.season> "2003 Major League Baseball season" .
+<Miami> <location.citytown.postal_codes> "33146" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Model City" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Brent Chua" .
+<Taylor_Tankersley> <people.person.profession> "Baseball player" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Latin Quarter" .
+<Miami_Marlins> <baseball.baseball_team.current_coaches> "m.052tpby" .
+<Morningside> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Major_League_Baseball> <sports.sport.related_equipment> "Pitchers Helmet" .
+<Villa_Vizcaya> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<1994_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1994 NCAA Men's Division I Basketball Tournament- East Regional Finals" .
+<Miami_Marlins> <sports.sports_team.colors> "Teal" .
+<Ocean_View_Heights> <common.topic.notable_types> "Neighborhood" .
+<Major_League_Baseball> <organization.organization.child> "m.0ck2dsc" .
+<1991_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<33165> <location.location.containedby> "Miami-Dade County" .
+<Miami_Heat> <sports.sports_team.location> "Miami" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Micaela Reis" .
+<Josh_Booty> <people.person.nationality> "United States of America" .
+<33116> <location.postal_code.country> "United States of America" .
+<Miami> <common.topic.webpage> "m.0b46hnz" .
+<Allapattah> <location.location.containedby> "Florida" .
+<Mark_Kotsay> <people.person.profession> "Baseball player" .
+<Washington_Nationals> <common.topic.notable_types> "Professional Sports Team" .
+<Little_Havana> <common.topic.image> "Little Havana Dominos Park" .
+<Port_of_Miami> <location.location.containedby> "Miami" .
+<Little_Havana> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<m.04w1s30> <sports.sports_league_draft_pick.player> "Mark Kotsay" .
+<Miami_Marlins> <common.topic.webpage> "m.0jbcp70" .
+<m.0b486z_> <common.webpage.topic> "Miami" .
+<Buena_Vista> <location.location.containedby> "Florida" .
+<Mike_Redmond> <people.person.gender> "Male" .
+<Bayfront_Park> <location.location.containedby> "Miami" .
+<Miami> <location.statistical_region.population> "g.11x1ktf89" .
+<m.052lrs5> <common.webpage.category> "Topic Webpage" .
+<Yankee_Stadium> <common.topic.notable_types> "Sports Facility" .
+<m.04w1vk7> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<San_Marco_Island> <location.location.containedby> "Miami metropolitan area" .
+<m.09w2blx> <common.webpage.topic> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Bianca Gonzalez" .
+<m.0gmj3vg> <business.employment_tenure.company> "National League" .
+<Miami-Dade_County> <location.us_county.hud_county_place> "Miami" .
+<Washington_Nationals> <sports.sports_team.league> "m.0crtdb0" .
+<m.0wkx11x> <business.employment_tenure.company> "National League" .
+<National_League> <business.employer.employees> "m.0wkc_7g" .
+<m.052tpcl> <baseball.current_coaching_tenure.baseball_coach> "Bo Porter" .
+<m.0crt4jw> <sports.sports_league_participation.league> "Major League Baseball" .
+<Atlanta_Braves> <baseball.baseball_team.current_manager> "Fredi González" .
+<Miami> <location.location.events> "2010 Borscht Film Festival" .
+<Edgewater> <common.topic.image> "Miami neighborhoodsmap" .
+<m.052tpbh> <baseball.current_coaching_tenure.coaching_position> "Bullpen Coach" .
+<m.04vy4dw> <sports.sports_league_draft_pick.draft> "1994 Major League Baseball Draft" .
+<Miami> <location.citytown.postal_codes> "33164" .
+<m.04w1sf8> <sports.sports_league_draft_pick.player> "Aaron Akin" .
+<Miami> <travel.travel_destination.local_transportation> "Metrorail" .
+<United_States_of_America> <location.location.time_zones> "Eastern Time Zone" .
+<Miami> <travel.travel_destination.climate> "m.0529dqn" .
+<Steve_Foster> <people.person.profession> "Baseball player" .
+<National_League> <business.employer.employees> "m.0gk7ykt" .
+<National_League> <business.employer.employees> "m.0gmhps0" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Lemon City" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Miami Dolphins" .
+<Silver_Bluff_Estates> <location.location.containedby> "Miami" .
+<National_League> <sports.sports_league.teams> "m.0crt7g4" .
+<Flagami> <common.topic.notable_types> "Neighborhood" .
+<m.09x0zlf> <common.webpage.topic> "Miami" .
+<Mike_Redmond> <sports.pro_athlete.teams> "m.0j2sdh1" .
+<National_League> <sports.sports_league.teams> "m.0crt7yh" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Gemma Sanderson" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Jaslene Gonzalez" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1vk7" .
+<Mike_Redmond> <baseball.baseball_player.batting_stats> "m.06s8ff6" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Morningside" .
+<m.0gl1qtd> <business.employment_tenure.company> "National League" .
+<Border_Collie> <base.petbreeds.dog_breed.color> "White" .
+<m.0j___ts> <base.schemastaging.team_training_ground_relationship.facility> "Sun Life Stadium" .
+<The_Roads> <location.location.time_zones> "Eastern Time Zone" .
+<33179> <location.location.containedby> "Miami-Dade County" .
+<Miami> <travel.travel_destination.climate> "m.0529dq2" .
+<Miami> <location.statistical_region.population> "g.11x1l09_3" .
+<Aaron_Thompson> <common.topic.notable_types> "Baseball Player" .
+<Milwaukee_Brewers> <baseball.baseball_team.league> "National League" .
+<m.063s9zv> <base.petbreeds.dog_city_relationship.cities> "Miami" .
+<Miami_Marlins> <sports.sports_team.championships> "2003 World Series" .
+<Miami> <location.location.events> "2014 John Paul II International Film Festival" .
+<m.0crt7ct> <sports.sports_league_participation.team> "New York Mets" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Eugenia Mandzhieva" .
+<Josh_Beckett> <common.topic.notable_types> "Baseball Player" .
+<Miami> <travel.travel_destination.tourist_attractions> "Bayfront Park" .
+<Miami> <base.popstra.location.vacationers> "m.064wlmk" .
+<Miami> <location.citytown.postal_codes> "33187" .
+<Miami> <location.location.events> "1990 Miami International Film Festival" .
+<Matthew_Dominguez> <sports.drafted_athlete.drafted> "m.04w1xqv" .
+<m.064srvz> <base.popstra.vacation_choice.location> "Miami" .
+<33170> <location.postal_code.country> "United States of America" .
+<m.0gmhps0> <business.employment_tenure.company> "National League" .
+<33238> <location.postal_code.country> "United States of America" .
+<m.04w1sxd> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<Port_of_Miami> <location.location.containedby> "Miami metropolitan area" .
+<1994_NCAA_Men's_Division_I_Basketball_Tournament-_East_Regional_Finals> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1994 NCAA Men's Division I Basketball Tournament" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Miami University" .
+<National_League> <business.employer.employees> "m.0gv179v" .
+<Ocean_View_Heights> <location.neighborhood.neighborhood_of> "Miami" .
+<LoLa_Monroe> <people.person.nationality> "United States of America" .
+<Chicago_Cubs> <sports.sports_team.sport> "Baseball" .
+<m.0gv179v> <business.employment_tenure.company> "National League" .
+<Miami_Marlins> <award.award_nominee.award_nominations> "m.0z6d3cn" .
+<National_League_West> <organization.organization.parent> "m.0ck2dtp" .
+<Lemon_City> <location.location.containedby> "Miami" .
+<Draft_Picks> <type.property.master_property> "Team" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Muzammil Ibrahim" .
+<m.0crt7br> <sports.sports_league_participation.league> "National League" .
+<White> <base.roses.rose_color.roses_of_this_color> "Rosa 'Annapurna'" .
+<Miami> <location.statistical_region.population> "g.1jmcbdzv1" .
+<Little_Havana> <common.topic.image> "Miami neighborhoodsmap" .
+<Miami> <location.location.events> "1999 Miami Hispanic Film Festival" .
+<Miami> <location.statistical_region.population> "g.11bcdldfvc" .
+<Miami> <location.location.events> "2012 Miami Short Film Festival" .
+<National_League> <sports.sports_league.teams> "m.0crt7t1" .
+<Charles_Johnson> <people.person.profession> "Baseball player" .
+<Bullpen_Coach> <people.profession.specialization_of> "Baseball Coach" .
+<William_Hulbert> <people.person.gender> "Male" .
+<Mona_Lisa_Moon> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Overtown> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Sid_Rosenberg> <broadcast.content.artist> "Sid Rosenberg Show" .
+<Miami> <common.topic.notable_types> "City/Town/Village" .
+<33188> <location.postal_code.country> "United States of America" .
+<1999_Major_League_Baseball_Season> <time.event.previous_in_series> "1998 Major League Baseball Season" .
+<33199> <location.postal_code.country> "United States of America" .
+<Miami_Marlins> <base.popstra.organization.supporter> "m.0652bcb" .
+<m.0gltz1_> <business.employment_tenure.company> "National League" .
+<m.064whgc> <base.popstra.vacation_choice.location> "Miami" .
+<Sports> <type.domain.types> "Sports League Championship Event" .
+<White> <base.roses.rose_color.roses_of_this_color> "Rosa 'Cherry Parfait'" .
+<National_League> <business.employer.employees> "m.0gx8gn7" .
+<McNeese_State_University> <education.educational_institution_campus.educational_institution> "McNeese State University" .
+<m.05n6dn5> <baseball.baseball_team_stats.season> "1997 Major League Baseball Season" .
+<m.0b4662t> <common.webpage.topic> "Miami" .
+<Wolfsonian-FIU> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<Miami> <location.location.events> "2010 Sicilian Film Festival" .
+<m.09wjgmm> <common.webpage.topic> "Miami" .
+<Miami> <organization.organization_scope.organizations_with_this_scope> "Sixt" .
+<Jaslene_Gonzalez> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League> <business.employer.employees> "m.0hhyxhx" .
+<Bayshore> <location.location.time_zones> "Eastern Time Zone" .
+<Major_League_Baseball> <sports.sports_league.teams> "m.0crt4jw" .
+<m.06s8fjb> <baseball.batting_statistics.team> "Miami Marlins" .
+<m.0b46hnz> <common.webpage.topic> "Miami" .
+<McNeese_State_University> <location.location.containedby> "United States of America" .
+<Miami> <location.statistical_region.population> "m.0hkftmb" .
+<William_Hulbert> <people.person.nationality> "United States of America" .
+<m.0hhz8bh> <business.employment_tenure.company> "National League" .
+<Area_code_786> <location.location.containedby> "Florida" .
+<m.010vxy7j> <business.employment_tenure.company> "National League" .
+<Miami> <common.topic.image> "Miami's skyline 1/6/2008" .
+<Sid_Rosenberg_Show> <broadcast.content.broadcast> "WMEN" .
+<m.05n6frd> <baseball.baseball_team_stats.season> "2007 Major League Baseball season" .
+<m.05n6dwd> <baseball.baseball_team_stats.season> "1999 Major League Baseball Season" .
+<Miami> <location.location.events> "2009 Borscht Film Festival" .
+<2010_Borscht_Film_Festival> <time.event.locations> "Miami" .
+<33132> <location.location.containedby> "United States of America" .
+<Miami> <base.popstra.location.vacationers> "m.065pd48" .
+<m.0wgh0wd> <freebase.valuenotation.has_value> "Started" .
+<Alameda> <location.location.containedby> "Miami metropolitan area" .
+<m.052tpcl> <baseball.current_coaching_tenure.baseball_team> "Miami Marlins" .
+<Miami> <location.citytown.postal_codes> "33132-1693" .
+<33174> <location.location.containedby> "Miami-Dade County" .
+<Miami> <location.statistical_region.population> "g.11x1gyhxf" .
+<Little_Havana> <location.location.containedby> "Miami-Dade County" .
+<Virginia_Key> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<33179> <location.postal_code.country> "United States of America" .
+<33162> <location.location.containedby> "Miami-Dade County" .
+<Aaron_Thompson> <people.person.nationality> "United States of America" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1wfw" .
+<Miami> <location.citytown.postal_codes> "33190" .
+<m.0crt7qm> <sports.sports_league_participation.league> "National League" .
+<National_League> <sports.sports_league.teams> "m.0crt7q_" .
+<Miami> <base.petbreeds.city_with_dogs.top_breeds> "m.063s9_g" .
+<Joe_Girardi> <people.person.profession> "Baseball player" .
+<Miami_Marlins> <sports.professional_sports_team.draft_picks> "m.04w1sxd" .
+<David_Veldt> <people.person.gender> "Male" .
+<m.0crt7jk> <sports.sports_league_participation.league> "National League" .
+<Mike_Redmond> <baseball.baseball_player.batting_stats> "m.06s8fjb" .
+<m.04w1wvp> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<m.0k1b_rb> <government.government_position_held.jurisdiction_of_office> "Miami" .
+<Miami_Springs> <location.location.time_zones> "Eastern Time Zone" .
+<Miami> <base.petbreeds.city_with_dogs.top_breeds> "m.063s9zl" .
+<Miami> <location.location.events> "1999 Miami International Film Festival" .
+<Florida_Panthers> <common.topic.notable_types> "Professional Sports Team" .
+<Black> <common.topic.article> "m.019sp" .
+<Miami> <location.statistical_region.population> "m.0hkftpw" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Bayshore" .
+<Dade-Collier_Training_and_Transition_Airport> <location.location.containedby> "United States of America" .
+<1999_Miami_Hispanic_Film_Festival> <time.event.locations> "Miami" .
+<Virginia_Key> <location.location.containedby> "Miami-Dade County" .
+<Miami> <location.citytown.postal_codes> "33153" .
+<m.04w1xqv> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<Black> <common.topic.notable_types> "Color" .
+<Josh_Booty> <people.person.profession> "Baseball player" .
+<Jeffrey_Loria> <people.person.spouse_s> "m.0n4t0jy" .
+<Miami_Executive_Airport> <location.location.containedby> "United States of America" .
+<National_League> <business.employer.employees> "m.0gv1q_p" .
+<m.064_5d6> <base.popstra.vacation_choice.location> "Miami" .
+<m.052tpbq> <baseball.current_coaching_tenure.baseball_coach> "Carlos Tosca" .
+<Miami> <tv.tv_location.tv_shows_filmed_here> "Burn Notice" .
+<National_League> <business.employer.employees> "m.0gmhpkk" .
+<Official_seal_of_City_of_Miami> <common.image.appears_in_topic_gallery> "Miami" .
+<Sports> <type.domain.types> "Mascot" .
+<Cincinnati_Reds> <baseball.baseball_team.league> "National League" .
+<Baseball_Player> <freebase.type_profile.strict_included_types> "Topic" .
+<2010_Sicilian_Film_Festival> <time.event.locations> "Miami" .
+<Miami> <location.location.events> "1993 Miami International Film Festival" .
+<San_Francisco_Giants> <baseball.baseball_team.division> "National League West" .
+<m.04w1tsb> <sports.sports_league_draft_pick.player> "Adrian Gonzalez" .
+<Miami> <location.citytown.postal_codes> "33159" .
+<Latin_Quarter> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Miami> <location.citytown.postal_codes> "33245" .
+<m.0crt7fc> <sports.sports_league_participation.league> "National League" .
+<Syracuse_Stars> <baseball.baseball_team.league> "National League" .
+<University_of_Alabama_in_Huntsville> <education.educational_institution.colors> "White" .
+<Shenandoah> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<David_Veldt> <interests.hobbyist.hobbies> "Baseball" .
+<2003_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<Little_Haiti> <location.location.containedby> "Miami metropolitan area" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Kang Seung-hyun" .
+<National_League_West> <sports.sports_league.sport> "Baseball" .
+<Cowley_Community_College> <education.educational_institution.colors> "Black" .
+<Chicago_Cubs> <sports.sports_team.league> "m.0crt7f4" .
+<National_League> <organization.organization.founders> "Albert Goodwill Spalding" .
+<33261> <location.postal_code.country> "United States of America" .
+<33132-1225> <location.location.containedby> "33132" .
+<Peta_Todd> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Brent_Chua> <people.person.gender> "Male" .
+<National_League> <sports.sports_league.teams> "m.0crt7qm" .
+<Moran_Atias> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami's_skyline_1/6/2008> <common.image.appears_in_topic_gallery> "Miami" .
+<Asun_Ortega> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami> <location.location.events> "Miss Universe 1985" .
+<33157> <location.postal_code.country> "United States of America" .
+<Miami> <location.location.events> "2004 Miami Short Film Festival" .
+<Miami_Marlins> <sports.sports_team.colors> "Black" .
+<Flagami> <location.neighborhood.neighborhood_of> "Miami" .
+<m.06s8f8k> <baseball.batting_statistics.player> "Mike Redmond" .
+<Little_Havana> <film.film_location.featured_in_films> "The Anchor Hotel" .
+<Ocean_View_Heights> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Miami_Marlins> <baseball.baseball_team.current_coaches> "m.052tpbh" .
+<m.09bwwdl> <base.ontologies.ontology_instance_mapping.freebase_topic> "Black" .
+<Edison_Center> <location.location.containedby> "Miami" .
+<Teams_Owned> <type.property.expected_type> "Professional Sports Team" .
+<m.0crt7cg> <sports.sports_league_participation.team> "Pittsburgh Pirates" .
+<San_Diego_Padres> <sports.sports_team.league> "m.0crt7fc" .
+<Little_Havana> <common.topic.webpage> "m.0b486_f" .
+<Pierson_College> <education.educational_institution.colors> "Black" .
+<Isis_King> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<United_States_of_America> <location.location.contains_major_portion_of> "Viceroy Miami" .
+<Jim_Leyland> <baseball.baseball_manager.former_teams_managed> "m.0j81bl_" .
+<Baseball> <film.film_subject.films> "Little Big Men" .
+<Washington_Nationals> <sports.sports_team.league> "m.0crt79k" .
+<m.09wt616> <common.webpage.topic> "Miami" .
+<m.010gzb88> <internet.localized_uri.location> "Miami" .
+<Chris_Tiu> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Miami> <location.citytown.postal_codes> "33124" .
+<m.0gl1kl3> <business.employment_tenure.company> "National League" .
+<33130> <location.location.containedby> "Miami-Dade County" .
+<Jeffrey_Loria> <base.yalebase.person.residential_college> "Pierson College" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Angelle Boucher" .
+<Miami> <travel.travel_destination.climate> "m.0529dqy" .
+<Silver_Bluff_Estates> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Miami_Dolphins> <sports.sports_team.location> "Miami metropolitan area" .
+<Matthew_Dominguez> <people.person.gender> "Male" .
+<National_League> <business.employer.employees> "m.0hhz4v4" .
+<33157> <location.location.containedby> "Miami-Dade County" .
+<m.04w1wvp> <sports.sports_league_draft_pick.player> "Jacob Marceaux" .
+<Chris_Volstad> <common.topic.notable_types> "Baseball Player" .
+<Miami> <location.statistical_region.population> "m.0hkftl7" .
+<Alisha_Heng> <people.person.nationality> "United States of America" .
+<Viceroy_Miami> <location.location.nearby_airports> "Miami International Airport" .
+<National_League> <business.employer.employees> "m.0gv_kdl" .
+<San_Francisco_Giants> <time.participant.event> "2012 Major League Baseball season" .
+<1999_Major_League_Baseball_Season> <time.event.next_in_series> "2000 Major League Baseball season" .
+<Miami> <common.topic.webpage> "m.09xlrlg" .
+<Miami> <location.location.events> "2003 Miami Short Film Festival" .
+<Bay_Point_Estates> <location.neighborhood.neighborhood_of> "Miami" .
+<Steve_Foster> <baseball.baseball_coach.current_team_coaching> "m.052tpbh" .
+<33183> <location.location.containedby> "Miami-Dade County" .
+<Urdu_Times> <book.newspaper.circulation_areas> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Joshua Holland" .
+<Billy_the_Marlin> <common.topic.article> "m.0952rc" .
+<Billy_the_Marlin> <common.topic.notable_for> "g.1256f_by_" .
+<National_League> <business.employer.employees> "m.0hhzwjv" .
+<Miami> <common.topic.webpage> "m.09xsl4k" .
+<Quiana_Grant> <people.person.nationality> "United States of America" .
+<Shenandoah> <location.neighborhood.neighborhood_of> "Miami" .
+<33182> <location.postal_code.country> "United States of America" .
+<Miami> <base.popstra.location.vacationers> "m.064snfd" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6fhz" .
+<Jeremy_Hermida> <sports.drafted_athlete.drafted> "m.04w1vk7" .
+<Black> <base.schemastaging.context_name.pronunciation> "g.125_n5j1b" .
+<St._Louis_Cardinals> <sports.sports_team.colors> "White" .
+<Silver> <base.schemastaging.visual_color_extra.hsv> "m.010q1hqc" .
+<Bo_Porter> <common.topic.notable_types> "Baseball Player" .
+<Miami> <travel.travel_destination.accommodation> "Hotel Urbano at Brickell" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Neha Jhulka" .
+<m.04w1t8w> <sports.sports_league_draft_pick.team> "Miami Marlins" .
+<National_League> <sports.sports_league.teams> "m.0crt7z6" .
+<m.04w1wtt> <sports.sports_league_draft_pick.player> "Aaron Thompson" .
+<2013_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<National_League> <sports.sports_league.teams> "m.0crt7rm" .
+<Sun_Life_Stadium> <location.location.events> "2003 World Series" .
+<Miami> <location.citytown.postal_codes> "33126" .
+<Mike_Redmond> <baseball.baseball_player.batting_stats> "m.06s8fgp" .
+<Adrian_Gonzalez> <common.topic.notable_types> "Baseball Player" .
+<Miami_Marlins> <common.topic.notable_types> "Professional Sports Team" .
+<The_Roads> <location.location.containedby> "Florida" .
+<m.0crt79z> <sports.sports_league_participation.team> "Arizona Diamondbacks" .
+<2004_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<Washington_Nationals> <sports.sports_team.colors> "White" .
+<Miami> <location.statistical_region.population> "g.11x1ls6lb" .
+<m.0crt7vw> <sports.sports_league_participation.league> "National League" .
+<1994_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.gender> "Male" .
+<National_League> <sports.sports_league.teams> "m.0crt79d" .
+<Midtown_Miami> <location.location.containedby> "Miami" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Vanya Seager" .
+<Chip_Ambres> <sports.drafted_athlete.drafted> "m.04w1sxd" .
+<Miami> <location.location.events> "2014 Miami International Film Festival" .
+<Dexter_Universe> <fictional_universe.fictional_universe.works_set_here> "Dexter" .
+<Miami> <base.biblioness.bibs_location.state> "Florida" .
+<National_League> <business.employer.employees> "m.0gmjj6h" .
+<National_League> <baseball.baseball_league.divisions> "National League West" .
+<Jeffrey_Loria> <people.person.parents> "g.11byj8hx_p" .
+<Major_League_Baseball> <sports.sports_league.championship> "World Series" .
+<m.063s9zl> <base.petbreeds.dog_city_relationship.cities> "Miami" .
+<33155> <location.postal_code.country> "United States of America" .
+<m.063svw8> <base.popstra.vacation_choice.location> "Miami" .
+<Miami> <location.statistical_region.population> "g.11x1dqzbj" .
+<m.0hnzr64> <business.employment_tenure.company> "National League" .
+<33182> <location.location.containedby> "Miami-Dade County" .
+<m.0ck2dsc> <organization.organization_relationship.parent> "Major League Baseball" .
+<m.0wlytp8> <business.employment_tenure.company> "National League" .
+<33138> <location.location.containedby> "Miami-Dade County" .
+<John_Pierson> <baseball.baseball_coach.current_team_coaching> "m.0wgh0wd" .
+<Bianca_Gonzalez> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami> <location.location.events> "1986 Miami International Film Festival" .
+<Miami> <film.film_location.featured_in_films> "The Anchor Hotel" .
+<m.0glwt2h> <business.employment_tenure.company> "National League" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6fmp" .
+<m.09kmdg4> <base.ontologies.ontology_instance_mapping.ontology> "OpenCyc" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Taina" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Sports commentator" .
+<Miami_Design_District> <common.topic.notable_types> "Neighborhood" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Talk radio" .
+<Coconut_Grove> <location.location.containedby> "Miami metropolitan area" .
+<Government_Center> <location.neighborhood.neighborhood_of> "Miami" .
+<2003_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Miami> <location.statistical_region.population> "m.0hkftn8" .
+<National_League_Central> <organization.organization.parent> "m.0ck2dt_" .
+<White> <base.roses.rose_color.roses_of_this_color> "Rosa 'Frau Karl Druschki'" .
+<National_League> <business.employer.employees> "m.0s8sk0k" .
+<33184> <location.location.containedby> "Miami-Dade County" .
+<Upper_Eastside> <location.location.time_zones> "Eastern Time Zone" .
+<Tyler_Kolek> <people.person.nationality> "United States of America" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Miami Heat" .
+<Tower_Theater> <location.location.containedby> "Florida" .
+<Muthu_Tharanga> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League> <organization.organization.child> "m.0ck2dt_" .
+<Miami_Jewelry_District> <location.neighborhood.neighborhood_of> "Miami" .
+<m.09yhm0r> <common.webpage.topic> "Miami" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Muzammil Ibrahim" .
+<Fredi_González> <people.person.gender> "Male" .
+<Miami_Executive_Airport> <aviation.airport.serves> "Miami" .
+<Miami> <location.citytown.postal_codes> "33247" .
+<Miami> <location.hud_foreclosure_area.total_residential_addresses> "m.07jrnrt" .
+<Miami> <location.statistical_region.population> "g.11x1kd3pr" .
+<National_League> <sports.sports_league.teams> "m.0crt7fy" .
+<Buena_Vista> <location.neighborhood.neighborhood_of> "Miami" .
+<33128> <location.postal_code.country> "United States of America" .
+<Lowe_Art_Museum> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<Miami> <base.popstra.location.vacationers> "m.064s9gk" .
+<m.0crt7gj> <sports.sports_league_participation.league> "National League" .
+<Miami> <location.citytown.postal_codes> "33128" .
+<m.065pbk_> <base.popstra.vacation_choice.location> "Miami" .
+<Miami> <common.topic.webpage> "m.0b482jr" .
+<2007_Borscht_Film_Festival> <time.event.locations> "Miami" .
+<Coconut_Grove> <common.topic.notable_types> "Neighborhood" .
+<Miami_Springs> <location.hud_county_place.place> "Miami Springs" .
+<Anne_Watanabe> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Watson_Island> <location.location.containedby> "Florida" .
+<m.0crt7b4> <sports.sports_league_participation.league> "National League" .
+<Burn_Notice> <tv.tv_program.country_of_origin> "United States of America" .
+<Silver_Bluff_Estates> <common.topic.notable_types> "Neighborhood" .
+<Trixie_Chua> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Miami_Marlins> <sports.sports_team.league> "m.0crt79d" .
+<National_League> <business.employer.employees> "m.0j2fxs4" .
+<m.06s8fjb> <baseball.batting_statistics.player> "Mike Redmond" .
+<m.04w1x5h> <sports.sports_league_draft_pick.player> "Brett Sinkbeil" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Sara Nuru" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Little Haiti" .
+<Miami> <base.popstra.location.vacationers> "m.064st4h" .
+<Padma_Lakshmi> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Atlanta_Braves> <sports.sports_team.sport> "Baseball" .
+<Sports_Team> <freebase.type_hints.included_types> "Topic" .
+<Cincinnati_Reds> <sports.sports_team.colors> "Black" .
+<33111> <location.postal_code.country> "United States of America" .
+<South_Bay_Estates> <location.location.containedby> "Miami" .
+<Miami> <location.citytown.postal_codes> "33265" .
+<The_Pines> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<1997_World_Series> <sports.sports_championship_event.championship> "World Series" .
+<Miami> <location.location.events> "Elián González affair" .
+<2014_Major_League_Baseball_season> <time.event.participant> "San Francisco Giants" .
+<Black> <business.product_category.products> "Jet Faux Leather (D8479)" .
+<Miami> <location.location.events> "2014 Borscht Film Festival" .
+<National_League> <business.employer.employees> "m.0hn_84p" .
+<Arizona_Diamondbacks> <sports.sports_team.colors> "Black" .
+<Miami> <location.citytown.postal_codes> "33197" .
+<Miami> <location.citytown.postal_codes> "33142" .
+<Allapattah> <location.location.containedby> "Miami" .
+<Midnight_Cowboy> <film.film.featured_film_locations> "Miami" .
+<San_Francisco_Giants> <sports.sports_team.previously_known_as> "New York Giants" .
+<Florida> <location.administrative_division.first_level_division_of> "United States of America" .
+<National_League> <sports.sports_league.teams> "m.0crt7zj" .
+<Miami> <organization.organization_scope.organizations_with_this_scope> "Yomar Consulting" .
+<Miami> <location.statistical_region.population> "m.0jtlyxm" .
+<m.0p1l_r5> <baseball.baseball_historical_managerial_position.manager> "Ozzie Guillén" .
+<National_League> <business.employer.employees> "m.0ytwp01" .
+<Elizabeth_Jagger> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.063s9_l> <base.petbreeds.dog_city_relationship.cities> "Miami" .
+<National_League> <sports.sports_league.teams> "m.0crt7rx" .
+<Edison_Center> <location.location.containedby> "Miami metropolitan area" .
+<Muzammil_Ibrahim> <people.person.gender> "Male" .
+<m.0wkjpb_> <business.employment_tenure.company> "National League" .
+<San_Francisco_Giants> <time.participant.event> "2014 Major League Baseball season" .
+<m.09kmdg4> <base.ontologies.ontology_instance_mapping.freebase_topic> "National League" .
+<1994_NCAA_Men's_Division_I_Basketball_Tournament> <common.topic.notable_types> "Sports League Championship Event" .
+<St._Louis_Cardinals> <sports.sports_team.sport> "Baseball" .
+<Miami> <travel.travel_destination.climate> "m.0529dpj" .
+<Los_Angeles_Dodgers> <sports.sports_team.league> "m.0crt7d6" .
+<m.0n4t0jy> <people.marriage.spouse> "Jeffrey Loria" .
+<m.0652bcb> <base.popstra.support.supported_organization> "Miami Marlins" .
+<Pitching_Coach> <baseball.baseball_coaching_position.current_coaches> "m.052tpby" .
+<m.010gzb88> <internet.localized_uri.language> "English" .
+<Yomar_Consulting> <organization.organization.geographic_scope> "Miami-Dade County" .
+<Carlos_Tosca> <people.person.gender> "Male" .
+<m.05n6dkb> <baseball.baseball_team_stats.season> "1996 Major League Baseball Season" .
+<m.0crt7sw> <sports.sports_league_participation.league> "National League" .
+<Josh_Beckett> <sports.drafted_athlete.drafted> "m.04w1t8w" .
+<Fredi_González> <baseball.baseball_manager.current_team_managed> "Atlanta Braves" .
+<Upper_Eastside> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Viceroy_Miami> <location.location.primarily_containedby> "Miami" .
+<National_League> <business.employer.employees> "m.0gx65w5" .
+<Miami> <location.citytown.postal_codes> "33280" .
+<Billy_the_Marlin> <common.topic.image> "Billy-The-Marlin.jpg" .
+<National_League> <business.employer.employees> "m.0j_wkpw" .
+<m.0wl8k_z> <business.employment_tenure.company> "National League" .
+<m.0123wrz3> <business.employment_tenure.company> "Miami Marlins" .
+<National_League> <baseball.baseball_league.teams> "Pittsburgh Pirates" .
+<National_League> <sports.sports_league.teams> "m.0crt7sq" .
+<Miami> <location.statistical_region.population> "g.11x1ln1l2" .
+<Jeffrey_Loria> <people.person.place_of_birth> "Manhattan" .
+<2011_Miami_International_Film_Festival> <time.event.locations> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Grendel Alvarado" .
+<Miami_Marlins> <common.topic.webpage> "m.0422h2r" .
+<33158> <location.postal_code.country> "United States of America" .
+<Downtown_Miami> <location.location.contains> "Viceroy Miami" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6f5p" .
+<Miami> <base.popstra.location.vacationers> "m.065pcsr" .
+<Edgewater> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Ropa_Garise> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.09xrtx3> <common.webpage.topic> "Miami" .
+<Chris_Tiu> <people.person.gender> "Male" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Trixie Chua" .
+<Miami> <location.location.events> "2006 Borscht Film Festival" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Flagami" .
+<Linor_Abargil> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Virginia_Key> <location.neighborhood.neighborhood_of> "Miami" .
+<Sports> <type.domain.types> "Sports Team" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Edison Center" .
+<Miami> <location.location.events> "1991 Miami International Film Festival" .
+<33174> <location.postal_code.country> "United States of America" .
+<Adrian_Gonzalez> <people.person.gender> "Male" .
+<Miami_Marlins> <baseball.baseball_team.current_coaches> "m.0wgh0wd" .
+<33145> <location.location.containedby> "Miami-Dade County" .
+<Overtown> <location.location.time_zones> "Eastern Time Zone" .
+<Silver> <common.topic.image> "מטבע כסף" .
+<m.0crt7gs> <sports.sports_league_participation.league> "National League" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<m.09wsq_6> <common.webpage.topic> "Miami" .
+<Tino_Martinez> <people.person.nationality> "United States of America" .
+<National_League> <baseball.baseball_league.teams> "New York Giants" .
+<Little_Haiti> <common.topic.notable_types> "Neighborhood" .
+<Liberty_City> <common.topic.notable_types> "Neighborhood" .
+<Los_Angeles_Dodgers> <baseball.baseball_team.league> "National League" .
+<m.0crt7q9> <sports.sports_league_participation.league> "National League" .
+<Tyler_Kolek> <people.person.profession> "Baseball player" .
+<Miami_Marlins> <baseball.baseball_team.division> "National League East" .
+<m.0hh9p10> <baseball.baseball_historical_managerial_position.team> "Miami Marlins" .
+<Miami> <location.citytown.postal_codes> "33256" .
+<Joe_Girardi> <baseball.baseball_manager.former_teams_managed> "m.0j81bck" .
+<Tino_Martinez> <people.person.gender> "Male" .
+<Miami> <base.popstra.location.vacationers> "m.063rsxf" .
+<Spring_Garden> <location.neighborhood.neighborhood_of> "Miami" .
+<Port_of_Miami> <common.topic.notable_types> "Neighborhood" .
+<National_League> <business.employer.employees> "m.0whh4z5" .
+<Miami> <location.citytown.postal_codes> "33172" .
+<Catcher> <sports.sports_position.sport> "Baseball" .
+<University_of_Miami> <location.location.containedby> "United States of America" .
+<Chicago_Cubs> <baseball.baseball_team.division> "National League Central" .
+<33156> <location.postal_code.country> "United States of America" .
+<m.06s8fgp> <baseball.batting_statistics.season> "2002 Major League Baseball Season" .
+<Dexter> <tv.tv_program.filming_locations> "Miami" .
+<Miami> <travel.travel_destination.tourist_attractions> "Black Point Marina" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Ajuma Nasenyana" .
+<Edison_Center> <common.topic.notable_types> "Neighborhood" .
+<Miami> <location.citytown.postal_codes> "33183" .
+<St._Louis_Cardinals> <common.topic.notable_types> "Professional Sports Team" .
+<Miami> <location.citytown.postal_codes> "33185" .
+<1997_World_Series> <common.topic.notable_types> "Sports League Championship Event" .
+<m.05n6fvg> <baseball.baseball_team_stats.season> "2008 Major League Baseball season" .
+<2009_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<Miami_Marlins> <sports.professional_sports_team.owner_s> "Jeffrey Loria" .
+<Miami> <location.location.events> "2013 Miami Hispanic Film Festival" .
+<Miami> <government.governmental_jurisdiction.governing_officials> "m.0k1b_rb" .
+<Jeffrey_Loria> <people.person.profession> "Businessperson" .
+<John_Pierson> <people.person.profession> "Baseball Coach" .
+<Miami> <base.popstra.location.vacationers> "m.065pcsc" .
+<Samantha_Downie> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<2001_Major_League_Baseball_Season> <time.event.previous_in_series> "2000 Major League Baseball season" .
+<1994_Major_League_Baseball_Season> <time.event.next_in_series> "1995 Major League Baseball Season" .
+<Miami> <location.statistical_region.population> "m.0k6l8vh" .
+<m.04w1wfw> <sports.sports_league_draft_pick.draft> "2004 Major League Baseball Draft" .
+<m.09ywtj6> <common.webpage.topic> "Miami" .
+<Flagami> <location.location.containedby> "Florida" .
+<Charles_Johnson> <sports.drafted_athlete.drafted> "m.04vy3tq" .
+<33269> <location.postal_code.country> "United States of America" .
+<Kang_Seung-hyun> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League> <baseball.baseball_league.teams> "St. Louis Cardinals" .
+<m.0d5_38q> <sports.pro_sports_played.sport> "Baseball" .
+<m.04w1wfw> <sports.sports_league_draft_pick.player> "Taylor Tankersley" .
+<Miami> <location.location.events> "2009 Miami International Film Festival" .
+<33131> <location.postal_code.country> "United States of America" .
+<33166> <location.location.containedby> "Miami-Dade County" .
+<Border_Collie> <biology.animal_breed.coloring> "Black" .
+<Holocaust_Memorial_of_the_Greater_Miami_Jewish_Federation> <location.location.containedby> "Miami-Dade County" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Linor Abargil" .
+<m.06s8fgp> <baseball.batting_statistics.player> "Mike Redmond" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Hannelore Knuts" .
+<33181> <location.postal_code.country> "United States of America" .
+<Miami> <location.citytown.postal_codes> "33101" .
+<Carlos_Tosca> <people.person.profession> "Manager" .
+<Alisha_Heng> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<National_League> <sports.sports_league.teams> "m.0crt7wx" .
+<Overtown> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Baseball> <common.topic.subject_of> "Pitchers Helmet" .
+<m.05n6dgh> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<33185> <location.location.containedby> "Miami-Dade County" .
+<Miami> <common.topic.webpage> "m.09xtc88" .
+<33189> <location.location.containedby> "Miami-Dade County" .
+<National_League_West> <sports.sports_league.championship> "National League Division Series" .
+<Bay_Point_Estates> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<National_League_East> <baseball.baseball_division.teams> "Washington Nationals" .
+<2006_Miami_Short_Film_Festival> <time.event.locations> "Miami" .
+<Milwaukee_Brewers> <sports.sports_team.sport> "Baseball" .
+<Draft_Picks> <rdf-schema#domain> "Professional Sports Team" .
+<Brickell> <location.location.containedby> "Miami metropolitan area" .
+<m.064snfd> <base.popstra.vacation_choice.location> "Miami" .
+<Jeffrey_Loria> <common.topic.notable_types> "Sports Team Owner" .
+<Little_Havana> <location.location.containedby> "Miami" .
+<Allapattah> <location.location.containedby> "Miami metropolitan area" .
+<Miami> <common.topic.webpage> "m.09xrtx3" .
+<m.0ck2dsc> <organization.organization_relationship.child> "National League" .
+<National_League> <sports.sports_league.teams> "m.0crt7mg" .
+<Miami> <location.statistical_region.population> "g.11x1dzw2s" .
+<m.09xj8d0> <common.webpage.topic> "Miami" .
+<m.064_4cs> <base.popstra.vacation_choice.location> "Miami" .
+<Model_City> <location.location.containedby> "Miami metropolitan area" .
+<Venetian_Pool> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<National_League> <sports.sports_league.teams> "m.0crt7fm" .
+<33169> <location.postal_code.country> "United States of America" .
+<Engage_the_Crowd_Miami> <common.topic.subjects> "Miami" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Government Center" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Lorena Bernal" .
+<Miami> <location.citytown.postal_codes> "33255" .
+<Florida_Marlins> <common.topic.notable_types> "Sports Team" .
+<White> <common.topic.image> "White peacock" .
+<National_League> <sports.sports_league.teams> "m.0crt7y4" .
+<Calleocho> <common.image.appears_in_topic_gallery> "Little Havana" .
+<Rich_Waltz> <people.person.nationality> "United States of America" .
+<Hotel_Urbano_at_Brickell> <location.location.time_zones> "Eastern Time Zone" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Overtown" .
+<Jeff_Allison> <common.topic.notable_types> "Baseball Player" .
+<Miami_Marlins> <sports.sports_team.previously_known_as> "Florida Marlins" .
+<Miami> <location.citytown.postal_codes> "33257" .
+<Charles_Johnson> <people.person.gender> "Male" .
+<Miami> <location.citytown.postal_codes> "33168" .
+<Fredi_González> <common.topic.notable_types> "Baseball Player" .
+<Miami> <common.topic.webpage> "m.09y3962" .
+<33122> <location.postal_code.country> "United States of America" .
+<Flagami> <common.topic.image> "Miami neighborhoodsmap" .
+<Miami> <common.topic.webpage> "m.09yfs9f" .
+<Little_Havana> <location.location.containedby> "Miami metropolitan area" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Bre Scullark" .
+<Government_Center> <location.location.containedby> "Miami metropolitan area" .
+<National_League> <sports.sports_league.teams> "m.0crt7nm" .
+<Flagami> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Dade-Collier_Training_and_Transition_Airport> <aviation.airport.serves> "Miami" .
+<Miami> <location.citytown.postal_codes> "33111" .
+<33180> <location.postal_code.country> "United States of America" .
+<Sara_Nuru> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<m.0crt7fy> <sports.sports_league_participation.league> "National League" .
+<Bass_Museum_of_Art> <location.location.containedby> "Miami-Dade County" .
+<m.0wksrt6> <business.employment_tenure.company> "National League" .
+<Miami> <location.location.events> "2004 Miami International Film Festival" .
+<National_League> <organization.organization.child> "m.0ck2dtv" .
+<m.0crt7dk> <sports.sports_league_participation.league> "National League" .
+<Miami-Dade_Transit> <metropolitan_transit.transit_system.area_served> "Miami metropolitan area" .
+<Jaslene_Gonzalez> <people.person.nationality> "United States of America" .
+<Arizona_Diamondbacks> <baseball.baseball_team.league> "National League" .
+<National_League> <business.employer.employees> "m.010vxy7j" .
+<Baseball> <tv.tv_subject.tv_episodes> "Little Big Men" .
+<Spring_Garden> <common.topic.notable_types> "Neighborhood" .
+<Miami> <location.place_with_neighborhoods.neighborhoods> "Allapattah" .
+<Sid_Rosenberg_Show> <broadcast.content.genre> "Florida Sports" .
+<1994_NCAA_Men's_Division_I_Basketball_Tournament-_East_Regional_Finals> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Florida-Boston College 1994 NCAA Men's Division I   Basketball Tournament Game" .
+<Taylor_Tankersley> <sports.drafted_athlete.drafted> "m.04w1wfw" .
+<Jeremy_Hermida> <common.topic.notable_types> "Baseball Player" .
+<m.0crt7tq> <sports.sports_league_participation.league> "National League" .
+<Bay_Point_Estates> <location.location.containedby> "Miami metropolitan area" .
+<New_York_Mets> <common.topic.notable_types> "Professional Sports Team" .
+<Mike_Redmond> <people.person.education> "m.0n0n9db" .
+<m.05n6fhz> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<National_League> <business.employer.employees> "m.0ggf8wh" .
+<1995_Major_League_Baseball_Draft> <sports.sports_league_draft.picks> "m.04vy4w7" .
+<San_Diego_Padres> <sports.sports_team.sport> "Baseball" .
+<m.04vy3tq> <sports.sports_league_draft_pick.player> "Charles Johnson" .
+<Coconut_Grove> <location.location.time_zones> "Eastern Time Zone" .
+<Miami> <base.petbreeds.city_with_dogs.top_breeds> "m.063s9_q" .
+<Miami> <location.location.events> "2008 Miami Short Film Festival" .
+<Brickell> <location.location.containedby> "Miami-Dade County" .
+<2000_Major_League_Baseball_season> <time.event.next_in_series> "2001 Major League Baseball Season" .
+<Upper_Eastside> <common.topic.notable_types> "Neighborhood" .
+<m.0jbcp70> <common.webpage.resource> "Miami Marlins" .
+<m.064thl0> <base.popstra.vacation_choice.location> "Miami" .
+<Miami_Seaquarium> <travel.tourist_attraction.near_travel_destination> "Miami" .
+<St._Louis_Cardinals> <sports.sports_team.league> "m.0crt7br" .
+<m.06s8flp> <baseball.batting_statistics.season> "2004 Major League Baseball season" .
+<Virginia_Key> <location.location.containedby> "Miami metropolitan area" .
+<Miami_Springs> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Steve_Foster> <people.person.gender> "Male" .
+<m.09x5pc9> <common.webpage.topic> "Miami" .
+<m.0ghfk3c> <base.popstra.arrest.location> "Miami" .
+<Dexter> <tv.tv_program.country_of_origin> "United States of America" .
+<Little_Havana> <common.topic.image> "Calleocho" .
+<Wynwood_Art_District> <location.location.containedby> "Miami metropolitan area" .
+<Little_Haiti> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<National_League> <baseball.baseball_league.divisions> "National League East" .
+<Black> <business.product_category.products> "Ebony Faux Leather (D8543)" .
+<National_League> <business.employer.employees> "m.0123wc3n" .
+<Flagami> <location.location.containedby> "Miami-Dade County" .
+<Miami> <base.popstra.location.vacationers> "m.065pdk9" .
+<Little_Haiti> <base.wikipedia_infobox.settlement.area_code> "Area codes 305 and 786" .
+<Miami_Marlins> <sports.sports_team.colors> "White" .
+<33146> <location.location.containedby> "Miami-Dade County" .
+<Miami_Springs> <location.location.containedby> "Miami-Dade County" .
+<Miami_Marlins> <baseball.baseball_team.team_stats> "m.05n6fvg" .
+<Miami> <location.citytown.postal_codes> "33102" .
+<National_League> <business.employer.employees> "m.0wl8k_z" .
+<Opa-locka_West_Airport> <location.location.containedby> "Miami-Dade County" .
+<Miami_Homestead_General_Aviation_Airport> <aviation.airport.serves> "Miami-Dade County" .
+<Professional_Sports_Team> <type.type.expected_by> "Teams Owned" .
+<Virginia_Key> <location.location.containedby> "Miami" .
+<Los_Angeles_Dodgers> <sports.sports_team.colors> "White" .
+<The_Pines> <location.location.containedby> "Miami" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Iman Abdulmajid" .
+<Miami> <base.popstra.location.vacationers> "m.064jgql" .
+<Moe_Oshikiri> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Iman_Abdulmajid> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.06s8ff6> <baseball.batting_statistics.season> "2001 Major League Baseball Season" .
+<Miami> <travel.travel_destination.tourist_attractions> "Jewish Museum of Florida" .
+<Miami-Opa_Locka_Executive_Airport> <aviation.airport.serves> "Miami" .
+<Miami_neighborhoodsmap> <common.image.appears_in_topic_gallery> "Upper Eastside" .
+<m.09k_cmg> <baseball.lifetime_batting_statistics.starting_season> "1998 Major League Baseball Season" .
+<National_League> <business.employer.employees> "m.0hnzr64" .
+<National_League> <sports.sports_league.teams> "m.0crt7s8" .
+<Viceroy_Miami> <location.location.containedby> "Downtown Miami" .
+<m.09klnhg> <base.ontologies.ontology_instance_mapping.freebase_topic> "White" .
+<m.0gmjj6h> <business.employment_tenure.company> "National League" .
+<m.0hvzbcn> <business.employment_tenure.company> "National League" .
+<m.05n6drx> <baseball.baseball_team_stats.season> "1998 Major League Baseball Season" .
+<National_League> <business.employer.employees> "m.0gmj3vg" .
+<University_of_Miami> <education.educational_institution_campus.educational_institution> "University of Miami" .
+<m.065pdm5> <base.popstra.vacation_choice.location> "Miami" .
+<m.052tpby> <baseball.current_coaching_tenure.baseball_team> "Miami Marlins" .
+<m.0ggf8wh> <business.employment_tenure.company> "National League" .
+<33173> <location.postal_code.country> "United States of America" .
+<Miami> <location.location.events> "2008 Sicilian Film Festival" .
+<Miami_Marlins> <award.award_nominee.award_nominations> "m.0z6bdkg" .
+<Miami_International_Airport> <location.location.containedby> "United States of America" .
+<National_League> <sports.sports_league.teams> "m.0crt7td" .
+<m.065pcsc> <base.popstra.vacation_choice.location> "Miami" .
+<Miami> <common.topic.notable_for> "g.125czvglb" .
+<Pittsburgh_Pirates> <baseball.baseball_team.division> "National League Central" .
+<Miami> <location.citytown.postal_codes> "33143" .
+<Miami_Marlins> <baseball.baseball_team.historical_managers> "m.0p1l_r5" .
+<m.063rsxf> <base.popstra.vacation_choice.location> "Miami" .
+<Miami_Springs> <location.location.containedby> "Florida" .
+<Miami> <location.citytown.postal_codes> "33181" .
+<m.0crt7x2> <sports.sports_league_participation.league> "National League" .
+<m.05n6dcn> <baseball.baseball_team_stats.team> "Miami Marlins" .
+<33102> <location.postal_code.country> "United States of America" .
+<National_League> <sports.sports_league.teams> "m.0crt7ys" .
+<m.09klnhg> <base.ontologies.ontology_instance_mapping.ontology> "OpenCyc" .
+<Harmony_Boucher> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Morningside> <common.topic.image> "Miami neighborhoodsmap" .
+<National_League> <sports.sports_league.teams> "m.0crt7tq" .
+<National_League> <sports.sports_league.teams> "m.0crt7n9" .
+<2014_Borscht_Film_Festival> <time.event.locations> "Miami" .
+<Miami> <location.citytown.postal_codes> "33134" .
+<Pittsburgh_Pirates> <sports.sports_team.colors> "Black" .
+<m.06s8f8k> <baseball.batting_statistics.team> "Miami Marlins" .
+<Neha_Jhulka> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<33168> <location.postal_code.country> "United States of America" .
+<White> <base.schemastaging.visual_color_extra.cmyk> "m.010q1h8k" .
+<Arizona_Diamondbacks> <sports.sports_team.sport> "Baseball" .
+<Baseball_Coach> <people.profession.specializations> "Bench Coach" .
+<San_Francisco_Giants> <sports.sports_team.colors> "Black" .
+<Port_of_Miami> <location.neighborhood.neighborhood_of> "Miami metropolitan area" .
+<Border_Collie> <base.petbreeds.dog_breed.color> "Black" .
+<Overtown> <location.location.containedby> "Miami" .
+<Miami> <location.citytown.postal_codes> "33242" .
+<National_League_West> <common.topic.notable_types> "Baseball Division" .
+<33132-1693> <location.location.containedby> "33132" .
+<33132-1693> <location.location.containedby> "Miami" .

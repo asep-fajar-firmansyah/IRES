@@ -1,0 +1,1097 @@
+<Tallahassee> <base.biblioness.bibs_location.state> "Florida" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111000500" .
+<Fort_Pierce> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <location.statistical_region.population> "g.12b021_r1" .
+<Medvance_Institute-Port_Saint_Lucie> <location.location.containedby> "United States of America" .
+<Miami> <location.location.contains_major_portion_of> "Viceroy Miami" .
+<Ace_Hood> <music.featured_artist.recordings> "All On Your Body" .
+<St._Lucie_County> <location.location.contains> "Moores Creek Bridge" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001300" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Statistical region" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111000600" .
+<Psl_golf_course> <common.image.size> "m.02b77j0" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1gv7_m" .
+<St._Lucie_County> <location.location.contains> "Hutchinson Island South" .
+<Musical_Artist> <freebase.type_profile.equivalent_topic> "Musician" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Inanimate" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1g_rmh" .
+<City> <freebase.equivalent_topic.equivalent_type> "City/Town/Village" .
+<Port_St._Lucie> <common.topic.image> "Location of River Park, Florida" .
+<34983> <location.location.containedby> "St. Lucie County" .
+<Football_player> <freebase.type_hints.included_types> "Athlete" .
+<34952> <location.location.containedby> "St. Lucie County" .
+<Queens_Cove> <location.location.containedby> "Florida" .
+<St._Lucie_County> <location.statistical_region.population> "g.12b01zknr" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51yy" .
+<Musician> <people.profession.specialization_of> "Artist" .
+<Tallahassee> <location.location.containedby> "Florida" .
+<m.0hjfpr1> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<St._Lucie_County> <location.us_county.hud_section_8_area> "Port St. Lucie, FL MSA HUD Section 8 Area" .
+<St._Lucie_County> <location.statistical_region.population> "m.0jsvpbn" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1ljvcf" .
+<Ace_Hood> <music.featured_artist.recordings> "Yayo" .
+<St._Lucie_County> <location.location.geolocation> "m.0k8n7p" .
+<Hutchinson_Island_South> <location.hud_county_place.county> "St. Lucie County" .
+<Ace_Hood> <music.artist.genre> "Contemporary R&B" .
+<Fort_Pierce> <location.location.contains> "Moores Creek Bridge" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0105y_05" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0k6np4k" .
+<St._Lucie_Mets> <baseball.baseball_team.current_coaches> "m.0zsvzj3" .
+<Port_St._Lucie_News> <common.topic.notable_types> "Newspaper" .
+<Port_St._Lucie> <location.location.containedby> "St. Lucie County" .
+<Sports_Facility> <freebase.type_profile.published> "Published" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Venue" .
+<m.0jt6v1m> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Athlete> <freebase.type_profile.published> "Published" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1hg2x6" .
+<Shindig_Irish_Restaurant_&_Pub> <location.location.containedby> "Port St. Lucie" .
+<Ace_Hood> <people.person.profession> "Record producer" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4dy" .
+<Paradise_Park> <common.topic.notable_types> "City/Town/Village" .
+<Kansas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<White_City> <location.location.containedby> "St. Lucie County" .
+<34988> <common.topic.notable_for> "g.125btlzjz" .
+<St._Lucie_Mets> <common.topic.article> "m.038tmm" .
+<US_County> <freebase.type_profile.strict_included_types> "Dated location" .
+<St._Lucie_County> <location.location.adjoin_s> "m.03jssq8" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<St._Lucie_County> <location.location.contains> "34946" .
+<Cana> <location.location.containedby> "Florida" .
+<St._Lucie_County> <location.us_county.hud_county_place> "St. Lucie County / County Place 1211199999" .
+<City/Town/Village> <type.type.domain> "Location" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4k6" .
+<m.0hjfpq4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Fort_Pierce> <location.citytown.postal_codes> "34982" .
+<St._Lucie_County> <location.location.contains> "Fort Pierce Shores" .
+<Miami> <location.location.time_zones> "Eastern Time Zone" .
+<m.07jrplh> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0svszhl> <education.education.student> "Ace Hood" .
+<St._Lucie_County> <location.statistical_region.co2_emissions_residential> "m.045jwt6" .
+<City/Town/Village> <freebase.type_profile.kind> "Significant" .
+<m.0njzcy_> <music.track_contribution.contributor> "Ace Hood" .
+<Ace_Hood> <music.featured_artist.albums> "Mac & Cheese 3" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011nr3__" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51x5" .
+<Queens_Cove> <common.topic.notable_types> "City/Town/Village" .
+<m.010lfy6v> <sports.sports_team_roster.position> "Wide receiver" .
+<St._Lucie_County> <location.location.contains> "White City" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4j_" .
+<Ace_Hood> <music.featured_artist.albums> "B-Boyz" .
+<Port_St._Lucie-River_Park> <location.location.time_zones> "Eastern Time Zone" .
+<Lakewood_Park> <location.location.containedby> "United States of America" .
+<St._Lucie_County> <location.location.contains> "34950" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001802" .
+<34986> <location.postal_code.country> "United States of America" .
+<Actor> <freebase.equivalent_topic.equivalent_type> "Film actor" .
+<Ace_Hood> <people.person.nationality> "United States of America" .
+<St._Lucie> <location.location.containedby> "United States of America" .
+<Tradition_Field> <common.topic.notable_for> "g.125fb40n1" .
+<St._Lucie_County> <periodicals.newspaper_circulation_area.newspapers> "St. Lucie News Tribune" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1gkzx4" .
+<Fort_Pierce_North> <location.hud_county_place.county> "St. Lucie County" .
+<Tom_Waite> <freebase.valuenotation.has_value> "Date of birth" .
+<Ace_Hood> <music.featured_artist.recordings> "I Don't See 'em" .
+<St._Lucie_County> <location.location.contains> "St. Lucie County International Airport" .
+<Harmony_Heights> <location.location.containedby> "Florida" .
+<St._Lucie_County> <location.location.contains> "Queens Cove" .
+<Carlton> <location.location.containedby> "Florida" .
+<Ace_Hood> <music.artist.album> "Ride" .
+<Ace_Hood> <music.featured_artist.recordings> "Suffering from Success" .
+<Indian_River_Estates> <location.location.time_zones> "Eastern Time Zone" .
+<Location> <type.type.domain> "Location" .
+<m.0vnvv_4> <music.recording_contribution.contributor> "Ace Hood" .
+<Ace_Hood> <common.topic.notable_types> "Musical Artist" .
+<Port_St._Lucie> <location.citytown.postal_codes> "34984" .
+<St._Lucie_County> <location.statistical_region.population> "m.0k6lcfm" .
+<St._Lucie_County> <location.location.contains> "34947" .
+<St._Lucie_County> <location.location.contains> "Collins Park Estates" .
+<Eldred> <location.location.containedby> "St. Lucie County" .
+<Cana> <common.topic.notable_types> "City/Town/Village" .
+<Harmony_Paxson> <common.topic.notable_for> "g.1257hwdrn" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011x4lp6" .
+<Tradition_Field> <common.topic.image> "TraditionField" .
+<St._Lucie> <location.location.containedby> "Florida" .
+<Athlete> <freebase.type_hints.included_types> "Topic" .
+<South_Florida_water_management_district> <location.location.containedby> "Florida" .
+<Ace_Hood> <music.artist.label> "Universal Republic Records" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfprh" .
+<Kansas> <base.biblioness.bibs_location.country> "United States of America" .
+<Viking,_Florida> <location.location.containedby> "United States of America" .
+<Harmony_Heights> <location.location.containedby> "St. Lucie County" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1ksxhz" .
+<Ace_Hood> <people.person.education> "m.0svszhl" .
+<Miami> <location.location.containedby> "Florida" .
+<St._Lucie_County> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07jptt0" .
+<m.0zsvzm2> <sports.sports_league_participation.team> "St. Lucie Mets" .
+<m.07jrpmc> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Tallahassee> <location.hud_county_place.place> "Tallahassee" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kk9vk" .
+<34987> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfps4" .
+<Port_St._Lucie,_FL_Metropolitan_Statistical_Area> <location.location.containedby> "Florida" .
+<Moores_Creek_Bridge> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_Mets> <baseball.baseball_team.league> "Florida State League" .
+<34983> <location.location.geolocation> "m.03dp8bn" .
+<St._Lucie_County> <location.statistical_region.population> "g.12b021_r2" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11b7tf90nj" .
+<Tom_Waite> <people.person.profession> "Stunt Performer" .
+<34952> <location.location.geolocation> "m.03dp87k" .
+<Ace_Hood> <music.featured_artist.recordings> "B-Boyz" .
+<Carlton> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <location.location.containedby> "Port St. Lucie, FL Metropolitan Statistical Area" .
+<United_States_of_America> <base.militaryinfiction.location_in_fiction.contains> "Kansas" .
+<St._Lucie> <location.hud_county_place.place> "St. Lucie" .
+<Kansas> <location.administrative_division.country> "United States of America" .
+<Tradition_Field> <sports.sports_facility.home_venue_for> "m.0zsw202" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012z3l2r" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1lv159" .
+<Viceroy_Miami> <location.location.containedby> "Florida" .
+<St._Lucie_County> <location.administrative_division.capital> "m.0jvvqp4" .
+<Port_St_Lucie_Civic_Center> <common.topic.notable_types> "Venue" .
+<Florida_State_League> <baseball.baseball_league.teams> "St. Lucie Mets" .
+<m.0zsvzjv> <baseball.current_coaching_tenure.baseball_team> "St. Lucie Mets" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1jh3f6" .
+<Harmony_Paxson> <people.person.place_of_birth> "Port St. Lucie" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001102" .
+<m.0102tbd3> <freebase.valuenotation.is_reviewed> "From" .
+<St._Lucie_County> <location.statistical_region.rent50_2> "m.05g9v5k" .
+<Ace_Hood> <music.artist.label> "E1 Music" .
+<St._Lucie> <location.hud_county_place.county> "St. Lucie County" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4j6" .
+<Walton> <location.location.containedby> "United States of America" .
+<m.0hkg4fl> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Cash_Money_Records> <music.record_label.artist> "Ace Hood" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1f8x27" .
+<Ace_Hood> <music.artist.album> "Ace Won't Fold" .
+<Port_St._Lucie_News> <book.newspaper.circulation_areas> "Port St. Lucie" .
+<St._Lucie_Mets> <sports.sports_team.location> "Port St. Lucie" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<m.07jpttg> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.0k6lcfm> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Musician> <people.profession.specializations> "Music artist" .
+<Tradition_Field> <common.topic.image> "DD Park Night Shot" .
+<Fort_Pierce_South> <location.location.time_zones> "Eastern Time Zone" .
+<Universal_Motown_Records> <music.record_label.artist> "Ace Hood" .
+<White_City> <location.hud_county_place.county> "St. Lucie County" .
+<Medvance_Institute-Port_Saint_Lucie> <education.university.number_of_undergraduates> "m.0k7hr3y" .
+<Mayor_of_Port_St._Lucie> <government.government_office_or_title.office_holders> "m.0102tbd3" .
+<Ace_Hood> <common.topic.webpage> "m.0d68w4_" .
+<Deerfield_Beach> <location.hud_county_place.place> "Deerfield Beach" .
+<m.0cp_5qs> <common.webpage.topic> "Medvance Institute-Port Saint Lucie" .
+<Film_actor> <freebase.type_profile.published> "Published" .
+<Kansas> <base.militaryinfiction.location_in_fiction.contained_by> "United States of America" .
+<Port_St._Lucie> <location.location.geolocation> "m.02kh4y7" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpqv" .
+<St._Lucie_County> <location.location.contains> "Ankona" .
+<Medvance_Institute-Port_Saint_Lucie> <organization.organization.headquarters> "m.0cnnqzz" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001602" .
+<Cortez_Estates> <location.location.containedby> "St. Lucie County" .
+<US_County> <freebase.type_profile.published> "Published" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0111t6pl" .
+<Ace_Hood> <people.person.place_of_birth> "Port St. Lucie" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jtngz" .
+<m.059sq8q> <common.webpage.topic> "Ace Hood" .
+<Ace_Hood> <music.artist.album> "Trials & Tribulations" .
+<St._Lucie_County> <location.location.contains> "Viking, Florida" .
+<m.0hkg4k6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Ace_Hood> <music.featured_artist.recordings> "Hustle Like a Muh" .
+<Fort_Pierce_Shores> <location.location.containedby> "St. Lucie County" .
+<Florida_State_League> <sports.sports_league.teams> "m.0zsvzm2" .
+<Fort_Pierce> <location.location.containedby> "United States of America" .
+<Ace_Hood> <music.artist.label> "Cash Money Records" .
+<Medvance_Institute-Port_Saint_Lucie> <common.topic.notable_for> "g.125bbymjn" .
+<South_Florida_water_management_district> <location.location.time_zones> "Eastern Time Zone" .
+<m.0hkg4hq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<St._Lucie_County> <location.location.containedby> "South Florida water management district" .
+<Port_St_Lucie_Civic_Center> <location.location.containedby> "Port St. Lucie" .
+<Florida> <fictional_universe.fictional_setting.universe> "JoJo's Bizarre Adventure" .
+<m.0hjfpqv> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Florida> <location.location.contains_major_portion_of> "Viceroy Miami" .
+<Tom_Waite> <film.actor.film> "m.0p9mm02" .
+<Ace_Hood> <freebase.valuenotation.has_value> "Parents" .
+<Ace_Hood> <music.artist.track_contributions> "m.0njzcy_" .
+<St._Lucie_County> <location.location.contains> "34945" .
+<Village> <freebase.equivalent_topic.equivalent_type> "City/Town/Village" .
+<m.0hjfpnv> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<m.0hjfpsm> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hjfppq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Topic> <type.type.properties> "Official website" .
+<Medvance_Institute-Port_Saint_Lucie> <common.topic.notable_types> "Educational Institution Campus" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1mnqt4" .
+<Ace_Hood> <music.artist.contribution> "m.0vnvv_4" .
+<Official_website> <rdf-schema#domain> "Topic" .
+<St._Lucie_County> <location.location.contains> "River Park" .
+<Rapper> <people.profession.specialization_of> "Musician" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11b66f43pm" .
+<m.0zsw21d> <sports.sports_team_coach_tenure.team> "St. Lucie Mets" .
+<Port_St._Lucie> <location.location.people_born_here> "Zachary Herold" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "Town" .
+<Location> <freebase.type_profile.published> "Published" .
+<Fort_Pierce_North> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfppy" .
+<Queens_Cove> <location.location.containedby> "St. Lucie County" .
+<Ace_Hood> <music.composer.compositions> "Overtime" .
+<Port_St._Lucie> <location.hud_county_place.county> "St. Lucie County" .
+<Educational_Institution_Campus> <freebase.type_hints.included_types> "Location" .
+<Port_St._Lucie> <location.statistical_region.population> "g.1jmcbgvc6" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001601" .
+<Port_St._Lucie> <periodicals.newspaper_circulation_area.newspapers> "Port St. Lucie News" .
+<Ace_Hood> <music.featured_artist.recordings> "Angel" .
+<Ankona> <location.location.containedby> "St. Lucie County" .
+<Ace_Hood> <music.lyricist.lyrics_written> "Bugatti" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1gc7kz" .
+<Miami> <location.location.containedby> "United States of America" .
+<City_Limits> <rdf-schema#domain> "City/Town/Village" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4g7" .
+<St._Lucie_County> <location.hud_foreclosure_area.total_residential_addresses> "m.07jpttg" .
+<Fort_Pierce_North> <location.location.time_zones> "Eastern Time Zone" .
+<St._Lucie_County> <location.location.contains> "Fort Pierce North" .
+<m.0hjfppy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0102tbd3> <freebase.valuenotation.has_no_value> "To" .
+<Indrio> <location.location.containedby> "Florida" .
+<Eden> <common.topic.notable_types> "City/Town/Village" .
+<Educational_Institution_Campus> <freebase.type_profile.strict_included_types> "Topic" .
+<JoJo's_Bizarre_Adventure> <fictional_universe.fictional_universe.locations> "Florida" .
+<Boston_House> <location.location.containedby> "St. Lucie County" .
+<Area_code_772> <location.location.contains> "Port St. Lucie" .
+<St._Lucie_County> <location.location.contains> "34983" .
+<34988> <location.postal_code.country> "United States of America" .
+<Ace_Hood> <music.composer.compositions> "We Outchea" .
+<US_County> <freebase.type_hints.included_types> "Statistical region" .
+<Venue> <freebase.type_profile.strict_included_types> "Topic" .
+<St._Lucie_County> <location.statistical_region.population> "g.12vqj7mv3" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4h5" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1f7285" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jt74t" .
+<Ace_Hood> <music.composer.compositions> "Go n Get It" .
+<Ace_Hood> <music.featured_artist.recordings> "Standing on the Mountain Top" .
+<Musician> <people.profession.specializations> "Songwriter" .
+<Ace_Hood> <people.person.profession> "Artist" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1mhpgl" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpty" .
+<Fort_Pierce_Shores> <common.topic.notable_types> "City/Town/Village" .
+<m.0zggx7s> <sports.sports_team_roster.position> "Wide receiver" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Abstract" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1jyysd" .
+<Miami> <base.biblioness.bibs_location.country> "United States of America" .
+<JoJo's_Bizarre_Adventure> <fictional_universe.fictional_universe.locations> "United States of America" .
+<Location_of_River_Park,_Florida> <common.image.appears_in_topic_gallery> "Port St. Lucie" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1k8g_7" .
+<Port_St._Lucie-River_Park> <location.hud_county_place.county> "St. Lucie County" .
+<Artist> <people.profession.specializations> "Music artist" .
+<Zachary_Herold> <common.topic.article> "m.09v4x27" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpry" .
+<Ace_Hood> <music.artist.album> "I Need Your Love" .
+<Albert_Wilson> <people.person.parents> "Sherri Brown" .
+<Mac_&_Cheese_3> <music.album.featured_artists> "Ace Hood" .
+<Newspaper> <freebase.type_profile.strict_included_types> "Topic" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpp8" .
+<m.0njzcy_> <music.track_contribution.track> "Yayo" .
+<m.0hkg4gq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hjfpnd> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Walton> <location.location.containedby> "Florida" .
+<m.0hjfpth> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<34987> <common.topic.notable_for> "g.125bm502b" .
+<Ace_Hood> <music.artist.label> "Universal Motown Records" .
+<Postal_codes> <rdf-schema#range> "Postal Code" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111002002" .
+<m.0yf7pk3> <film.performance.actor> "Tom Waite" .
+<Sports_Facility> <freebase.type_hints.included_types> "Topic" .
+<m.03jqzzb> <location.adjoining_relationship.adjoins> "St. Lucie County" .
+<Ace_Hood> <award.award_nominee.award_nominations> "m.0yq91_3" .
+<Ace_Hood> <music.featured_artist.recordings> "Dreams Come True" .
+<St._Lucie_County> <location.statistical_region.rent50_4> "m.05g9v5_" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111000901" .
+<34952> <location.postal_code.country> "United States of America" .
+<Mac_&_Cheese_3> <music.album.genre> "Hip hop music" .
+<m.0hkg4j_> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Fort_Pierce> <location.hud_county_place.place> "Fort Pierce" .
+<St._Lucie_County> <location.location.contains> "34982" .
+<Stunt_Performer> <people.profession.specialization_of> "Actor" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1ffjn1" .
+<Ace_Hood> <award.award_nominee.award_nominations> "m.0yjtbtf" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpsv" .
+<St._Lucie_County> <location.location.contains> "Sunland Gardens" .
+<m.0hkg4fc> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0hjfpt8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<St._Lucie_County> <location.statistical_region.rent50_1> "m.05g9v5b" .
+<Kansas> <location.location.time_zones> "Central Time Zone" .
+<Indian_River_Estates> <location.hud_county_place.county> "St. Lucie County" .
+<m.07jptst> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Fort_Pierce_North> <location.location.containedby> "Florida" .
+<Hip_hop_music> <music.genre.subgenre> "Southern hip hop" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1k1klj" .
+<St._Lucie_County> <common.topic.notable_types> "US County" .
+<Eden> <location.location.containedby> "St. Lucie County" .
+<34984> <location.postal_code.country> "United States of America" .
+<St._Lucie_County> <location.location.contains> "Eden" .
+<34988> <common.topic.notable_types> "Postal Code" .
+<United_States_of_America> <location.country.first_level_divisions> "Florida" .
+<Ace_Hood> <music.featured_artist.recordings> "Blood Money" .
+<Lakewood_Park> <location.location.containedby> "Florida" .
+<Port_St._Lucie> <location.location.people_born_here> "Albert Wilson" .
+<Newspaper> <freebase.type_profile.published> "Published" .
+<St._Lucie_County> <location.us_county.hud_county_place> "Indian River Estates" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111000700" .
+<Ace_Hood> <people.person.gender> "Male" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111000400" .
+<Musician> <freebase.equivalent_topic.equivalent_type> "Musical Artist" .
+<Fort_Pierce_Shores> <location.location.containedby> "United States of America" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4hz" .
+<Eden> <location.location.containedby> "Florida" .
+<St._Lucie_County> <location.location.contains> "34981" .
+<Ace_Hood> <music.artist.label> "Poe Boy Entertainment" .
+<St._Lucie_County> <location.us_county.hud_county_place> "Lakewood Park" .
+<Casa_Caprona> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <location.us_county.hud_county_place> "White City" .
+<St._Lucie_County> <location.hud_foreclosure_area.ofheo_price_change> "m.07jpttw" .
+<Artist> <people.profession.specializations> "Musician" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111000300" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Topic" .
+<US_County> <freebase.type_profile.strict_included_types> "Topic" .
+<Film_actor> <freebase.type_hints.included_types> "Topic" .
+<US_County> <freebase.type_hints.included_types> "Topic" .
+<m.0hkg4gg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<St._Lucie_Mets> <sports.sports_team.sport> "Baseball" .
+<m.07jptt0> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Postal_codes> <rdf-schema#domain> "City/Town/Village" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111002001" .
+<Athlete> <freebase.type_profile.strict_included_types> "Agent" .
+<St._Lucie> <location.location.containedby> "St. Lucie County" .
+<Walton> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_Mets> <sports.sports_team.coaches> "m.0zsw21d" .
+<Viceroy_Miami> <location.location.primarily_containedby> "Florida" .
+<Ace_Hood> <music.artist.genre> "Southern hip hop" .
+<Albert_Wilson> <sports.pro_athlete.teams> "m.010lfy6v" .
+<Fort_Pierce_North> <location.hud_county_place.place> "Fort Pierce North" .
+<60_Proof_Bar_&_Grille> <location.location.containedby> "Port St. Lucie" .
+<St._Lucie_County> <location.statistical_region.co2_emissions_mobile> "m.045l2pz" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpr1" .
+<Albert_Wilson> <american_football.football_player.forty_yard_dash_time> "m.0127svxm" .
+<m.0hkg4jr> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<City/Town/Village> <freebase.type_hints.included_types> "Dated location" .
+<Fort_Pierce> <location.citytown.postal_codes> "34949" .
+<Florida> <base.locations.states_and_provences.country> "United States of America" .
+<m.0hkg4jg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Ace_Hood> <music.artist.album> "Blood, Sweat & Tears" .
+<34983> <common.topic.notable_types> "Postal Code" .
+<St._Lucie_County> <location.location.contains> "Urca de Lima" .
+<Athlete> <freebase.type_profile.strict_included_types> "Topic" .
+<Indian_River_Estates> <location.location.containedby> "Florida" .
+<34953> <common.topic.notable_types> "Postal Code" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "City" .
+<Fort_Pierce> <location.location.time_zones> "Eastern Time Zone" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1hjvnb" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Location" .
+<m.0zsvzj3> <baseball.current_coaching_tenure.baseball_team> "St. Lucie Mets" .
+<m.03jr3kz> <location.adjoining_relationship.adjoins> "St. Lucie County" .
+<Lakewood_Park> <location.location.containedby> "St. Lucie County" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1ggfqg" .
+<Harmony_Heights> <common.topic.notable_types> "City/Town/Village" .
+<Songwriter> <people.profession.specialization_of> "Musician" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001502" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpph" .
+<m.0cnnqzz> <common.topic.notable_types> "Location" .
+<Tradition_Field> <common.topic.notable_types> "Sports Facility" .
+<Collins_Park_Estates> <location.location.containedby> "Florida" .
+<St._Lucie_Village_Historic_District> <location.location.containedby> "St. Lucie" .
+<St._Lucie_Village_Historic_District> <location.location.containedby> "St. Lucie County" .
+<Port_St._Lucie-River_Park> <location.location.containedby> "United States of America" .
+<Ace_Hood> <music.featured_artist.recordings> "I’m Thuggin" .
+<Ace_Hood> <music.featured_artist.recordings> "Shout Out to the Real" .
+<Viking,_Florida> <location.location.containedby> "St. Lucie County" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Dated_location> <type.type.domain> "Location" .
+<Area_code> <freebase.type_hints.included_types> "Topic" .
+<Fort_Pierce> <location.citytown.postal_codes> "34945" .
+<m.0hjfpph> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Kansas" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111002105" .
+<Location_of_River_Park,_Florida> <common.image.appears_in_topic_gallery> "Port St. Lucie-River Park" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1m5lfv" .
+<United_States_of_America> <location.country.first_level_divisions> "Kansas" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpmz" .
+<Ace_Hood> <music.artist.album> "Cash Flow" .
+<Ace_Hood> <music.featured_artist.albums> "Out Here Grindin'" .
+<Fort_Pierce_North> <location.location.containedby> "United States of America" .
+<Zachary_Herold> <common.topic.notable_for> "g.1255mf563" .
+<Venue> <freebase.type_hints.included_types> "Topic" .
+<United_States_of_America> <location.location.time_zones> "Eastern Time Zone" .
+<34986> <common.topic.notable_for> "g.1256c_f_6" .
+<St._Lucie_County> <location.statistical_region.population> "g.12b01rtnk" .
+<m.0cnnqzz> <location.mailing_address.state_province_region> "Florida" .
+<US_County> <freebase.type_profile.kind> "Significant" .
+<Albert_Wilson> <sports.pro_athlete.sports_played_professionally> "m.0zgrt0f" .
+<Indrio> <location.location.containedby> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjyy" .
+<Deerfield_Beach> <base.biblioness.bibs_location.country> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckj_k" .
+<34987> <common.topic.notable_types> "Postal Code" .
+<Carlton> <location.location.containedby> "United States of America" .
+<Deerfield_Beach> <common.topic.notable_types> "City/Town/Village" .
+<Port_St._Lucie> <location.location.contains> "Medvance Institute-Port Saint Lucie" .
+<Captain_Hammond_House> <location.location.containedby> "Florida" .
+<m.0vnvv_4> <music.recording_contribution.album> "B-Boyz" .
+<River_Park> <common.topic.notable_types> "City/Town/Village" .
+<34984> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <location.location.contains> "Indrio" .
+<Fort_Pierce> <location.citytown.postal_codes> "34981" .
+<34985> <common.topic.notable_for> "g.1258jnp7n" .
+<Tom_Waite> <people.person.profession> "Actor" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1ld9k_" .
+<St._Lucie_County> <location.us_county.hud_county_place> "Fort Pierce" .
+<Psl_golf_course> <common.image.appears_in_topic_gallery> "Port St. Lucie" .
+<Hutchinson_Island_South> <location.hud_county_place.place> "Hutchinson Island South" .
+<Dated_location> <freebase.type_hints.included_types> "Topic" .
+<St._Lucie_County> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07jptst" .
+<m.0hjfpt1> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<St._Lucie_Mets> <sports.sports_team.coaches> "m.0zsw21y" .
+<Kansas> <base.locations.states_and_provences.country> "United States of America" .
+<Ace_Hood> <music.featured_artist.recordings> "I'm Still" .
+<Tom_Waite> <people.person.place_of_birth> "Port St. Lucie" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010rnll5" .
+<Fort_Pierce_Shores> <location.location.containedby> "Florida" .
+<Ace_Hood> <people.person.profession> "Rapper" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1d0wvs" .
+<Ace_Hood> <people.person.profession> "Music artist" .
+<St._Lucie_County> <location.us_county.hud_county_place> "St. Lucie" .
+<Port_St._Lucie> <location.location.contains> "Port St Lucie Civic Center" .
+<Ace_Hood> <music.composer.compositions> "Champion" .
+<Moores_Creek_Bridge> <location.location.containedby> "Florida" .
+<m.0yjtbtf> <award.award_nomination.award_nominee> "Ace Hood" .
+<Port_St._Lucie-River_Park> <location.location.containedby> "Florida" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpt8" .
+<m.0102tbd3> <freebase.valuenotation.is_reviewed> "Officeholder" .
+<Port_St._Lucie-River_Park> <common.topic.image> "Location of River Park, Florida" .
+<Location_of_River_Park,_Florida> <common.image.size> "m.0kl4r6" .
+<Fort_Pierce> <location.location.nearby_airports> "St. Lucie County International Airport" .
+<Tom_Waite> <people.person.gender> "Male" .
+<Zachary_Herold> <people.person.place_of_birth> "Port St. Lucie" .
+<Actor> <people.profession.specializations> "Stunt Performer" .
+<Lakewood_Park> <location.location.time_zones> "Eastern Time Zone" .
+<Tallahassee> <base.biblioness.bibs_location.country> "United States of America" .
+<Town> <freebase.equivalent_topic.equivalent_type> "City/Town/Village" .
+<St._Lucie_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<St._Lucie_County> <location.location.contains> "Paradise Park" .
+<Fort_Pierce> <location.capital_of_administrative_division.capital_of> "m.0jvvqp4" .
+<City/Town/Village> <type.type.properties> "City Limits" .
+<St._Lucie_County> <location.location.contains> "Port St. Lucie-River Park" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011m57bw" .
+<Indrio> <location.location.containedby> "St. Lucie County" .
+<Ace_Hood> <award.award_nominee.award_nominations> "m.0ybx364" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111002102" .
+<m.0hjfpqd> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Ace_Hood> <award.award_nominee.award_nominations> "m.0ybqwh3" .
+<Port_St._Lucie-River_Park> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <location.us_county.hud_county_place> "Fort Pierce North" .
+<Tradition> <location.location.containedby> "United States of America" .
+<Medvance_Institute-Port_Saint_Lucie> <education.educational_institution_campus.educational_institution> "Medvance Institute-Port Saint Lucie" .
+<34952> <common.topic.notable_for> "g.1257bn5hs" .
+<m.0hkg4j6> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Medvance_Institute-Port_Saint_Lucie> <education.educational_institution.total_enrollment> "m.0jvp7g2" .
+<Waveland,_Florida> <location.location.containedby> "Florida" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51zj" .
+<Film_actor> <freebase.type_profile.strict_included_types> "Agent" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4gy" .
+<Ace_Hood> <music.featured_artist.recordings> "You Don't Want These Problems" .
+<m.07jptsl> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<St._Lucie_County> <location.location.contains> "Savannas Preserve State Park" .
+<City/Town/Village> <common.topic.article> "m.03bnd2c" .
+<m.0zsw202> <sports.team_venue_relationship.team> "St. Lucie Mets" .
+<Viceroy_Miami> <location.location.primarily_containedby> "Miami" .
+<Musical_Artist> <freebase.type_profile.strict_included_types> "Topic" .
+<Anglevillas> <common.topic.notable_types> "City/Town/Village" .
+<Fort_Pierce> <location.location.contains> "Casa Caprona" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Port_St._Lucie> <common.topic.article> "m.0rsbb" .
+<St._Lucie_County> <location.location.contains> "34987" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpv4" .
+<St._Lucie_County> <periodicals.newspaper_circulation_area.newspapers> "Port St. Lucie News" .
+<Port_St._Lucie> <location.statistical_region.population> "g.12vqhv9jb" .
+<Waveland,_Florida> <location.location.containedby> "St. Lucie County" .
+<Kansas> <location.location.containedby> "United States of America" .
+<m.0hjfpn5> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Paradise_Park> <location.location.containedby> "St. Lucie County" .
+<White_City> <location.location.containedby> "United States of America" .
+<m.011dvs7m> <film.performance.actor> "Tom Waite" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1h07xs" .
+<Port_St._Lucie> <location.location.containedby> "Florida" .
+<Ace_Hood> <music.artist.label> "Shady Records" .
+<m.0kfhj_7> <film.performance.actor> "Harmony Paxson" .
+<m.0hjfpsd> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1fhdhj" .
+<Glidden_Park> <common.topic.notable_types> "City/Town/Village" .
+<Medvance_Institute-Port_Saint_Lucie> <education.university.domestic_tuition> "m.0k7dlky" .
+<Sunland_Gardens> <location.location.containedby> "Florida" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1jrg3r" .
+<Tom_Waite> <people.person.nationality> "United States of America" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010r12s4" .
+<River_Park> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1f3yh_" .
+<34987> <location.location.geolocation> "m.03dp8cy" .
+<Fort_Pierce> <location.citytown.postal_codes> "34950" .
+<St._Lucie_County> <location.statistical_region.population> "g.12b01nd52" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001702" .
+<Port_St._Lucie> <location.citytown.postal_codes> "34953" .
+<Fort_Pierce> <location.location.contains> "Sunrise Theatre" .
+<Ace_Hood> <music.featured_artist.recordings> "I'm So Blessed" .
+<Port_St._Lucie> <location.citytown.postal_codes> "34988" .
+<Football_player> <freebase.type_profile.published> "Published" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<Fort_Pierce> <location.citytown.postal_codes> "34951" .
+<Port_St._Lucie> <common.topic.notable_types> "City/Town/Village" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpqd" .
+<m.0hkg4f4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Eden> <location.location.containedby> "United States of America" .
+<Southern_hip_hop> <music.genre.parent_genre> "Hip hop music" .
+<Urca_de_Lima> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111002200" .
+<Ace_Hood> <music.artist.album> "Body 2 Body" .
+<Ace_Hood> <people.person.profession> "Songwriter" .
+<St._Lucie_County> <government.governmental_jurisdiction.government_bodies> "Florida Fourth District Court of Appeal" .
+<St._Lucie_County> <location.location.contains> "St. Lucie County / County Place 1211199999" .
+<St._Lucie_Mets> <common.topic.image> "Ike Davis cropped" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1m0hwc" .
+<Sports_Facility> <freebase.type_hints.included_types> "Location" .
+<Walton> <common.topic.notable_types> "City/Town/Village" .
+<Educational_Institution_Campus> <freebase.type_hints.included_types> "Topic" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111000800" .
+<Significant> <freebase.type_kind.types> "US County" .
+<m.0hkg4gy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Educational_Institution_Campus> <freebase.type_profile.strict_included_types> "Location" .
+<Film_actor> <freebase.type_profile.equivalent_topic> "Actor" .
+<Ace_Hood> <music.featured_artist.recordings> "Final Warning" .
+<Port_St._Lucie> <location.location.people_born_here> "Harmony Paxson" .
+<Collins_Park_Estates> <common.topic.notable_types> "City/Town/Village" .
+<m.0jtl11l> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Sunland_Gardens> <common.topic.notable_types> "City/Town/Village" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1kptgw" .
+<Cana> <location.location.containedby> "United States of America" .
+<St._Lucie_County> <location.location.contains> "Glidden Park" .
+<Port_St._Lucie> <location.location.containedby> "United States of America" .
+<Sunland_Gardens> <location.location.containedby> "St. Lucie County" .
+<Football_player> <freebase.type_profile.strict_included_types> "Athlete" .
+<m.0vnv2q5> <music.recording_contribution.contributor> "Ace Hood" .
+<Captain_Hammond_House> <location.location.containedby> "White City" .
+<St._Lucie_County> <location.location.time_zones> "Eastern Time Zone" .
+<Deerfield_Beach> <base.biblioness.bibs_location.state> "Florida" .
+<River_Park> <location.location.containedby> "United States of America" .
+<Ace_Hood> <award.award_nominee.award_nominations> "m.0ylx829" .
+<m.0zggx7s> <sports.sports_team_roster.player> "Albert Wilson" .
+<Paradise_Park> <location.location.containedby> "United States of America" .
+<Indian_River_Estates> <location.location.containedby> "St. Lucie County" .
+<Medvance_Institute-Port_Saint_Lucie> <education.educational_institution.faculty> "m.0k7wj4t" .
+<Harmony_Paxson> <people.person.profession> "Actor" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111000902" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111002006" .
+<Yayo> <music.recording.contributions> "m.0njzcy_" .
+<Cana> <location.location.containedby> "St. Lucie County" .
+<Collins_Park_Estates> <location.location.containedby> "St. Lucie County" .
+<34985> <location.postal_code.country> "United States of America" .
+<St._Lucie_County> <location.statistical_region.population> "g.12b0208qz" .
+<Tallahassee> <location.location.time_zones> "Eastern Time Zone" .
+<Fort_Pierce> <common.topic.notable_types> "City/Town/Village" .
+<St._Lucie_County> <location.location.contains> "Fort Pierce" .
+<Area_code_772> <common.topic.article> "m.0f9085" .
+<m.0102tbd3> <government.government_position_held.jurisdiction_of_office> "Port St. Lucie" .
+<JoAnn_M._Faiella> <people.person.nationality> "United States of America" .
+<Florida> <base.biblioness.bibs_location.country> "United States of America" .
+<JoAnn_M._Faiella> <freebase.valuenotation.has_value> "Date of birth" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kkbry" .
+<United_States_of_America> <location.country.administrative_divisions> "Florida" .
+<Music_artist> <people.profession.specialization_of> "Musician" .
+<Port_St._Lucie> <location.citytown.postal_codes> "34986" .
+<Viking,_Florida> <common.topic.notable_types> "City/Town/Village" .
+<St._Lucie_County> <location.location.contains> "Harmony Heights" .
+<We_Outchea> <music.composition.composer> "Ace Hood" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4jr" .
+<St._Lucie_County> <location.location.contains> "Cortez Estates" .
+<St._Lucie_County> <location.location.contains> "Waveland, Florida" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001603" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Kansas" .
+<Area_code> <freebase.type_hints.included_types> "Location" .
+<City_Limits> <type.property.schema> "City/Town/Village" .
+<m.0hkg4dy> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Zachary_Herold> <common.topic.image> "Zachary Herold TFC 2010" .
+<Captain_Hammond_House> <location.location.containedby> "St. Lucie County" .
+<Cortez_Estates> <location.location.containedby> "Florida" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpt1" .
+<Songwriter> <people.profession.corresponding_type> "Musical Artist" .
+<Fort_Pierce> <location.hud_county_place.county> "St. Lucie County" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<Viceroy_Miami> <location.location.containedby> "Miami" .
+<Postal_codes> <type.property.schema> "City/Town/Village" .
+<Lakewood_Park> <location.hud_county_place.county> "St. Lucie County" .
+<St._Lucie_County> <location.location.containedby> "Florida" .
+<m.0hjfpqm> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Port_St._Lucie> <location.hud_foreclosure_area.hhuniv> "m.07jrplh" .
+<St._Lucie_County> <location.location.contains> "St. Lucie" .
+<Ace_Hood> <music.artist.label> "Slip-n-Slide Records" .
+<Miami> <location.hud_county_place.place> "Miami" .
+<Baseball_Team> <freebase.type_profile.strict_included_types> "Topic" .
+<Sunland_Gardens> <location.location.containedby> "United States of America" .
+<Significant> <freebase.type_kind.types> "City/Town/Village" .
+<Florida> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0hkg4ft> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<m.0yc7m0p> <award.award_nomination.award_nominee> "Ace Hood" .
+<34987> <location.postal_code.country> "United States of America" .
+<Port_St._Lucie> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07jrpml" .
+<m.0jtkkrg> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1hy6nw" .
+<Port_St._Lucie> <location.hud_foreclosure_area.ofheo_price_change> "m.07jrpms" .
+<34986> <common.topic.notable_types> "Postal Code" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1jrgvn" .
+<Port_St._Lucie> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07jrply" .
+<Albert_Wilson> <people.person.place_of_birth> "Port St. Lucie" .
+<Ace_Hood> <music.featured_artist.recordings> "On My Way" .
+<St._Lucie_County> <location.location.contains> "34949" .
+<City/Town/Village> <type.type.properties> "Postal codes" .
+<34953> <location.postal_code.country> "United States of America" .
+<Harmony_Paxson> <film.actor.film> "m.0kfhj_7" .
+<St._Lucie_County> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07jpttp" .
+<Eldred> <common.topic.notable_types> "City/Town/Village" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0jt6v1m" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111002104" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpnd" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjwd" .
+<St._Lucie_County> <law.court_jurisdiction_area.courts> "Florida Fourth District Court of Appeal" .
+<Paradise_Park> <location.location.containedby> "Florida" .
+<Waveland,_Florida> <common.topic.notable_types> "City/Town/Village" .
+<St._Lucie_County> <location.statistical_region.co2_emissions_commercial> "m.045jlw5" .
+<White_City> <location.location.containedby> "Florida" .
+<Indian_River_Estates> <location.location.containedby> "United States of America" .
+<34984> <common.topic.notable_for> "g.125bdfwbb" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpth" .
+<m.0hjfpmz> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Florida> <location.us_state.capital> "Tallahassee" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4hq" .
+<St._Lucie_County> <common.topic.article> "m.0jxjv" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011c38cw" .
+<Tradition> <location.location.containedby> "Florida" .
+<St._Lucie_County> <location.statistical_region.co2_emissions_industrial> "m.045kjjn" .
+<Musician> <people.profession.corresponding_type> "Musical Artist" .
+<Newspaper> <freebase.type_hints.included_types> "Topic" .
+<Medvance_Institute-Port_Saint_Lucie> <location.location.containedby> "Port St. Lucie" .
+<City/Town/Village> <freebase.type_hints.included_types> "Statistical region" .
+<Baseball_Team> <freebase.type_profile.published> "Published" .
+<Tradition> <location.location.containedby> "St. Lucie County" .
+<Ace_Hood> <music.artist.album> "Mr. Hood" .
+<Ace_Hood> <music.artist.album> "Ruthless" .
+<St._Lucie_Mets> <common.topic.notable_types> "Baseball Team" .
+<Medvance_Institute-Port_Saint_Lucie> <location.location.containedby> "Florida" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51y0" .
+<St._Lucie_County> <location.statistical_region.population> "g.12b01w4xj" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1cfns5" .
+<Moores_Creek_Bridge> <location.location.containedby> "Fort Pierce" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Florida" .
+<St._Lucie_County> <location.location.contains> "Fort Pierce Inlet State Park" .
+<St._Lucie_County> <location.location.contains> "34952" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1lbgy7" .
+<Baseball_Team> <freebase.type_profile.kind> "Definition" .
+<Indian_River_Estates> <location.hud_county_place.place> "Indian River Estates" .
+<Medvance_Institute-Port_Saint_Lucie> <common.topic.webpage> "m.0cp_5qs" .
+<Music_artist> <people.profession.specialization_of> "Artist" .
+<Urca_de_Lima> <location.location.containedby> "Florida" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1d1w1z" .
+<m.0ybx364> <award.award_nomination.award_nominee> "Ace Hood" .
+<m.0zsw21y> <sports.sports_team_coach_tenure.team> "St. Lucie Mets" .
+<Fort_Pierce_South> <location.hud_county_place.county> "St. Lucie County" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1d4m3z" .
+<Fort_Pierce_South> <location.hud_county_place.place> "Fort Pierce South" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpsm" .
+<Deerfield_Beach> <location.location.containedby> "United States of America" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1kkn8p" .
+<Ace_Hood> <common.topic.image> "THE-BAD-GIRL-FILMS-ACE-HOOD-OVERTIME-e11561353.jpg" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011m9jg_" .
+<White_City> <location.hud_county_place.place> "White City" .
+<Zachary_Herold> <common.topic.notable_types> "Football player" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpq4" .
+<Boston_House> <location.location.containedby> "Florida" .
+<Miami> <common.topic.notable_types> "City/Town/Village" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpp1" .
+<m.0hkg4g7> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Port_St._Lucie_News> <book.newspaper.circulation_areas> "St. Lucie County" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfprq" .
+<Ace_Hood> <music.artist.genre> "Hip hop music" .
+<US_County> <freebase.type_hints.included_types> "Location" .
+<St._Lucie_County> <location.statistical_region.rent50_0> "m.05g9v53" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001000" .
+<Tradition_Field> <common.topic.article> "m.066c4r" .
+<Albert_Wilson> <people.person.gender> "Male" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<St._Lucie_County> <location.us_county.hud_county_place> "Port St. Lucie-River Park" .
+<Port_St._Lucie> <location.location.contains> "60 Proof Bar & Grille" .
+<Ace_Hood> <common.topic.webpage> "m.059sq8q" .
+<m.0jvvqp4> <location.administrative_division_capital_relationship.capital> "Fort Pierce" .
+<Ace_Hood> <music.featured_artist.recordings> "Highs & Lows" .
+<Harmony_Paxson> <common.topic.notable_types> "Film actor" .
+<34985> <common.topic.notable_types> "Postal Code" .
+<St._Lucie_County> <location.statistical_region.population> "g.12b023qrg" .
+<34953> <location.location.containedby> "St. Lucie County" .
+<Port_St._Lucie> <sports.sports_team_location.teams> "St. Lucie Mets" .
+<Fort_Pierce> <periodicals.newspaper_circulation_area.newspapers> "St. Lucie News Tribune" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0111t6vw" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1j1bnv" .
+<Albert_Wilson> <common.topic.notable_types> "Athlete" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4fc" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010kkbfd" .
+<Viking,_Florida> <base.wikipedia_infobox.settlement.area_code> "Area code 772" .
+<Sports_Facility> <freebase.type_hints.included_types> "Venue" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Inanimate" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckjv4" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1g4234" .
+<Film_actor> <freebase.type_profile.strict_included_types> "Topic" .
+<St._Lucie_County> <location.statistical_region.rent50_3> "m.05g9v5s" .
+<Port_St._Lucie> <location.location.people_born_here> "Ace Hood" .
+<Ace_Hood> <music.artist.label> "Def Jam Recordings" .
+<Port_St._Lucie> <location.citytown.postal_codes> "34952" .
+<Ace_Hood> <music.artist.album> "Overtime" .
+<St._Lucie_County> <location.location.contains> "A. E. Backus Gallery & Museum" .
+<Ace_Hood> <music.featured_artist.recordings> "Blackball" .
+<m.0hkg4hf> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Area_code> <freebase.type_profile.strict_included_types> "Topic" .
+<Musician> <people.profession.specializations> "Rapper" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1fllwg" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111002003" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1cdqhs" .
+<Shindig_Irish_Restaurant_&_Pub> <common.topic.notable_for> "g.125cngx51" .
+<St._Lucie> <location.location.time_zones> "Eastern Time Zone" .
+<Medvance_Institute-Port_Saint_Lucie> <education.university.domestic_tuition> "m.0k7gswq" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001503" .
+<34952> <common.topic.notable_types> "Postal Code" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpn5" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11b7tnnw1x" .
+<34984> <common.topic.notable_types> "Postal Code" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011jt6z3" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012w3hyx" .
+<St._Lucie_County> <location.location.contains> "Cana" .
+<Tradition_Field> <location.location.containedby> "Port St. Lucie" .
+<Port_St._Lucie> <common.topic.image> "Psl golf course" .
+<Location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<St._Lucie_County> <location.location.contains> "34953" .
+<Tom_Waite> <common.topic.notable_types> "Film actor" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012_976x" .
+<m.0zgrt0f> <sports.pro_sports_played.athlete> "Albert Wilson" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Location" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011nbp0r" .
+<Sunrise_Theatre> <common.topic.notable_types> "Venue" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Florida> <location.administrative_division.country> "United States of America" .
+<St._Lucie_County> <location.statistical_region.population> "g.11b66dg2yh" .
+<Medvance_Institute-Port_Saint_Lucie> <education.university.domestic_tuition> "m.0k7np9_" .
+<m.0102tbd3> <freebase.valuenotation.is_reviewed> "Basic title" .
+<St._Lucie_County> <location.statistical_region.co2_emissions_total> "m.045hszs" .
+<Zachary_Herold> <people.person.gender> "Male" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011lvjc_" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Dated location" .
+<Medvance_Institute-Port_Saint_Lucie> <education.educational_institution.campuses> "Medvance Institute-Port Saint Lucie" .
+<St._Lucie_County> <location.location.contains> "Sunrise Theatre" .
+<St._Lucie_County> <location.us_county.hud_county_place> "Port St. Lucie" .
+<United_States_Department_of_Housing_and_Urban_Development> <government.government_agency.jurisdiction> "United States of America" .
+<St._Lucie_County> <location.statistical_region.population> "m.0jtl11l" .
+<Ace_Hood> <music.featured_artist.recordings> "Future" .
+<Harmony_Paxson> <common.topic.article> "m.0kfhk67" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4gg" .
+<Tom_Waite> <common.topic.notable_for> "g.126sq_gl_" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1h8jk1" .
+<Fort_Pierce> <location.location.containedby> "Florida" .
+<m.0vnv2q5> <music.recording_contribution.album> "Out Here Grindin'" .
+<Harmony_Heights> <location.location.containedby> "United States of America" .
+<Ace_Hood> <freebase.valuenotation.is_reviewed> "Official website" .
+<m.0hkg4g0> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Viceroy_Miami> <location.location.primarily_containedby> "United States of America" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Medvance_Institute-Port_Saint_Lucie> <education.university.domestic_tuition> "m.0k7gtxx" .
+<m.0hjfptq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Ace_Hood> <music.artist.album> "Gutta" .
+<Ace_Hood> <music.composer.compositions> "Bugatti" .
+<m.0ylx829> <award.award_nomination.award_nominee> "Ace Hood" .
+<m.0hjfprq> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Hutchinson_Island_South> <location.location.time_zones> "Eastern Time Zone" .
+<St._Lucie_County> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07jptt7" .
+<Fort_Pierce_South> <location.location.containedby> "Florida" .
+<St._Lucie_Mets> <common.topic.notable_for> "g.1ypqs8tzl" .
+<Musical_Artist> <freebase.type_hints.included_types> "Topic" .
+<m.0zsw202> <sports.team_venue_relationship.venue> "Tradition Field" .
+<Port_St._Lucie> <location.statistical_region.population> "g.1jmcbfmlg" .
+<St._Lucie_County> <location.location.contains> "St. Lucie Village Historic District" .
+<Medvance_Institute-Port_Saint_Lucie> <education.university.domestic_tuition> "m.0kdpknl" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Postal_codes> <type.property.expected_type> "Postal Code" .
+<Florida> <location.location.time_zones> "Eastern Time Zone" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1j8qqw" .
+<Port_St._Lucie_News> <common.topic.notable_for> "g.125dx8c90" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Topic" .
+<White_City> <location.location.time_zones> "Eastern Time Zone" .
+<Official_website> <type.property.schema> "Topic" .
+<Port_St._Lucie> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07jrplq" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111000200" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<m.07jrpm4> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<Cortez_Estates> <common.topic.notable_types> "City/Town/Village" .
+<St._Lucie_County> <location.location.adjoin_s> "m.03jr3kz" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckk64" .
+<St._Lucie> <common.topic.notable_types> "City/Town/Village" .
+<Yayo> <music.recording.featured_artists> "Ace Hood" .
+<Ace_Hood> <common.topic.article> "m.0464s5_" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1l9_vr" .
+<Ace_Hood> <music.featured_artist.recordings> "Fuck What Happens Tonight" .
+<34986> <location.location.containedby> "St. Lucie County" .
+<m.0102tbd3> <government.government_position_held.basic_title> "Mayor" .
+<JoAnn_M._Faiella> <government.politician.government_positions_held> "m.0102tbd3" .
+<m.0yq91_3> <award.award_nomination.award_nominee> "Ace Hood" .
+<St._Lucie_County> <periodicals.newspaper_circulation_area.newspapers> "The Palm Beach Post" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4gq" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckkfd" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1g42c2" .
+<Albert_Wilson> <people.person.nationality> "United States of America" .
+<St._Lucie_County> <location.location.contains> "Fort Pierce South" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<Sports_Facility> <freebase.type_profile.kind> "Definition" .
+<m.0hjfpnm> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0jtkkrg" .
+<m.0d68w4_> <common.webpage.topic> "Ace Hood" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1dydkc" .
+<Eldred> <location.location.containedby> "Florida" .
+<m.0ybqwh3> <award.award_nomination.award_nominee> "Ace Hood" .
+<Baseball_Team> <freebase.type_hints.included_types> "Topic" .
+<m.0hjfps4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Port_St._Lucie> <location.citytown.postal_codes> "34987" .
+<Hutchinson_Island_South> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <common.topic.notable_for> "g.1255ml24y" .
+<Football_player> <freebase.type_profile.strict_included_types> "Topic" .
+<Ace_Hood> <music.artist.album> "Bugatti" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4fl" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001402" .
+<Ace_Hood> <music.artist.album> "B.L.A.B. (Ballin Like A B*tch)" .
+<Port_St_Lucie_Civic_Center> <common.topic.notable_for> "g.1255775z7" .
+<Ankona> <location.location.containedby> "Florida" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h51_h" .
+<m.0hjfpty> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<34984> <location.location.geolocation> "m.03dp8c1" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1k1klh" .
+<Ace_Hood> <music.artist.contribution> "m.0vnv2q5" .
+<Tallahassee> <location.location.containedby> "United States of America" .
+<Zachary_Herold> <people.person.nationality> "United States of America" .
+<m.0hjfpr8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Carlton> <common.topic.notable_types> "City/Town/Village" .
+<Deerfield_Beach> <location.location.containedby> "Florida" .
+<Anglevillas> <location.location.containedby> "United States of America" .
+<Area_code_772> <common.topic.notable_for> "g.12h2v05l7" .
+<St._Lucie_County> <location.location.contains> "g.122hp84f" .
+<m.0jsvpbn> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Ace_Hood> <people.person.profession> "Musician" .
+<St._Lucie_County> <location.location.contains> "Casa Caprona" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<60_Proof_Bar_&_Grille> <common.topic.notable_for> "g.125bqvqfg" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfppq" .
+<US_County> <freebase.type_profile.kind> "Definition" .
+<Fort_Pierce> <location.location.contains> "Boston House" .
+<m.0p9mm02> <film.performance.actor> "Tom Waite" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpnm" .
+<St._Lucie_County> <location.location.contains> "Indian River Estates" .
+<Albert_Wilson> <american_football.football_player.position_s> "Wide receiver" .
+<Sunrise_Theatre> <location.location.containedby> "Florida" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpr8" .
+<Eldred> <location.location.containedby> "United States of America" .
+<St._Lucie_County> <location.location.adjoin_s> "m.03jqzzb" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4f4" .
+<Glidden_Park> <location.location.containedby> "Florida" .
+<m.0102tbd3> <freebase.valuenotation.is_reviewed> "Jurisdiction of office" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1dmb2r" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011f9yg3" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4jg" .
+<St._Lucie_County> <location.location.contains> "34984" .
+<Port_St._Lucie> <location.hud_foreclosure_area.total_residential_addresses> "m.07jrpmc" .
+<Florida_State_League> <sports.sports_league.sport> "Baseball" .
+<Florida> <location.location.containedby> "United States of America" .
+<Statistical_region> <type.type.domain> "Location" .
+<St._Lucie> <location.location.contains> "St. Lucie Village Historic District" .
+<Albert_Wilson> <common.topic.notable_for> "g.1ym_cym91" .
+<Fort_Pierce_South> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <location.us_county.hud_county_place> "Fort Pierce South" .
+<Hutchinson_Island_South> <location.location.containedby> "United States of America" .
+<St._Lucie_County> <location.hud_foreclosure_area.hhuniv> "m.07jptsl" .
+<Fort_Pierce> <location.citytown.postal_codes> "34946" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001101" .
+<Dated_location> <freebase.type_hints.included_types> "Location" .
+<Anglevillas> <location.location.containedby> "St. Lucie County" .
+<Port_St._Lucie> <location.location.contains> "Shindig Irish Restaurant & Pub" .
+<St._Lucie_County> <location.location.contains> "Port St. Lucie" .
+<m.07jptt7> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<United_States_of_America> <location.country.administrative_divisions> "Kansas" .
+<Ace_Hood> <music.featured_artist.recordings> "Welcome to My Hood (Remix)" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1dst_g" .
+<St._Lucie_County> <location.location.contains> "Avalon State Park" .
+<City/Town/Village> <freebase.type_profile.equivalent_topic> "Village" .
+<US_County> <type.type.domain> "Location" .
+<South_Florida_water_management_district> <location.location.contains> "St. Lucie County" .
+<Shindig_Irish_Restaurant_&_Pub> <common.topic.notable_types> "Venue" .
+<Ace_Hood> <music.featured_artist.recordings> "Bring the Money Out" .
+<St._Lucie_County> <location.us_county.hud_county_place> "Hutchinson Island South" .
+<Ace_Hood> <music.artist.album> "Numero Uno" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1dywtj" .
+<Future> <music.recording.featured_artists> "Ace Hood" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Florida" .
+<Sunrise_Theatre> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpqm" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4hf" .
+<Ace_Hood> <music.composer.compositions> "Body 2 Body" .
+<Lakewood_Park> <location.hud_county_place.place> "Lakewood Park" .
+<Viking,_Florida> <location.location.containedby> "Florida" .
+<Dated_location> <freebase.type_profile.published> "Published" .
+<Port_St._Lucie,_FL_Metropolitan_Statistical_Area> <location.location.contains> "St. Lucie County" .
+<St._Lucie_Village_Historic_District> <location.location.containedby> "Florida" .
+<White_City> <location.location.contains> "Captain Hammond House" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001801" .
+<Port_St._Lucie> <location.location.containedby> "Area code 772" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1cgq1v" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4ft" .
+<Sunrise_Theatre> <location.location.containedby> "Fort Pierce" .
+<Ace_Hood> <music.composer.compositions> "Hustle Hard" .
+<Ace_Hood> <music.featured_artist.recordings> "Outro (They Don't Want War)" .
+<Port_St._Lucie> <location.location.people_born_here> "Tom Waite" .
+<Ankona> <common.topic.notable_types> "City/Town/Village" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpnv" .
+<St._Lucie_County> <location.location.contains> "Tradition" .
+<Ace_Hood> <music.composer.compositions> "Ride" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011ckk2n" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1chm75" .
+<Ace_Hood> <music.artist.album> "Ride" .
+<St._Lucie_Mets> <sports.sports_team.venue> "m.0zsw202" .
+<Newspaper> <freebase.type_profile.kind> "Definition" .
+<Viking,_Florida> <location.location.time_zones> "Eastern Time Zone" .
+<St._Lucie_County> <location.location.contains> "Carlton" .
+<m.0hjfpp8> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Glidden_Park> <location.location.containedby> "St. Lucie County" .
+<St._Lucie_County> <location.location.contains> "Boston House" .
+<JoAnn_M._Faiella> <freebase.valuenotation.has_value> "Parents" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001900" .
+<m.0jvvqp4> <location.administrative_division_capital_relationship.administrative_division> "St. Lucie County" .
+<Port_St._Lucie> <location.statistical_region.population> "g.11x1flk0h" .
+<Casa_Caprona> <location.location.containedby> "Florida" .
+<St._Lucie_County> <location.location.contains> "34986" .
+<m.0102tbd3> <freebase.valuenotation.is_reviewed> "Office, position, or title" .
+<Ace_Hood> <music.composer.compositions> "Out Here Grindin" .
+<m.0hjfpry> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Abstract" .
+<34953> <location.location.geolocation> "m.03dp87t" .
+<Musical_Artist> <freebase.type_profile.published> "Published" .
+<Boston_House> <location.location.containedby> "Fort Pierce" .
+<m.0hkg4h5> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Port_St._Lucie> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07jrpm4" .
+<Fort_Pierce> <location.citytown.postal_codes> "34947" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<Casa_Caprona> <location.location.containedby> "Fort Pierce" .
+<St._Lucie_County> <location.location.contains> "Walton" .
+<St._Lucie_County> <location.statistical_region.population> "g.12b01th5x" .
+<Ace_Hood> <music.artist.label> "We the Best Music Group" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111000100" .
+<Albert_Wilson> <people.person.profession> "American football player" .
+<34983> <common.topic.notable_for> "g.1256x4qv0" .
+<m.03jssq8> <location.adjoining_relationship.adjoins> "St. Lucie County" .
+<m.010lfy6v> <sports.sports_team_roster.player> "Albert Wilson" .
+<Football_player> <freebase.type_hints.included_types> "Topic" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001200" .
+<m.07jrplq> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<m.07jrply> <measurement_unit.dated_integer.source> "United States Department of Housing and Urban Development" .
+<34983> <location.postal_code.country> "United States of America" .
+<Queens_Cove> <location.location.containedby> "United States of America" .
+<United_States_of_America> <freebase.valuenotation.is_reviewed> "Official website" .
+<m.0hjfpp1> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Florida> <location.location.time_zones> "Central Time Zone" .
+<St._Lucie_Mets> <sports.sports_team.league> "m.0zsvzm2" .
+<Ace_Hood> <music.featured_artist.recordings> "Out Here Grindin’" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011tz0b1" .
+<Ace_Hood> <music.featured_artist.recordings> "Black on Black" .
+<United_States_of_America> <location.location.contains_major_portion_of> "Viceroy Miami" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1g27bt" .
+<m.0hjfpsv> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<St._Lucie_County> <location.location.contains> "Lakewood Park" .
+<m.0hjfpv4> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<34986> <location.location.geolocation> "m.03dp8cj" .
+<Ankona> <location.location.containedby> "United States of America" .
+<Indrio> <common.topic.notable_types> "City/Town/Village" .
+<Ace_Hood> <music.featured_artist.recordings> "g.11b821yhln" .
+<Ace_Hood> <award.award_nominee.award_nominations> "m.0yc7m0p" .
+<Albert_Wilson> <sports.pro_athlete.teams> "m.0zggx7s" .
+<Waveland,_Florida> <location.location.containedby> "United States of America" .
+<m.0zsvzm2> <sports.sports_league_participation.league> "Florida State League" .
+<United_States_of_America> <location.location.time_zones> "Central Time Zone" .
+<St._Lucie_County> <location.us_county.county_seat> "Fort Pierce" .
+<Ace_Hood> <music.artist.label> "Republic Records" .
+<Port_St._Lucie> <location.hud_county_place.place> "Port St. Lucie" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.011vl2ss" .
+<Miami> <base.biblioness.bibs_location.state> "Florida" .
+<Port_St._Lucie> <location.location.contains> "Tradition Field" .
+<Ace_Hood> <music.featured_artist.recordings> "All on Your Body" .
+<Collins_Park_Estates> <location.location.containedby> "United States of America" .
+<Kansas> <location.administrative_division.first_level_division_of> "United States of America" .
+<Ace_Hood> <music.artist.genre> "Rap music" .
+<Tom_Waite> <film.actor.film> "m.0yf7pk3" .
+<Port_St._Lucie-River_Park> <location.hud_county_place.place> "Port St. Lucie-River Park" .
+<Deerfield_Beach> <location.location.time_zones> "Eastern Time Zone" .
+<Anglevillas> <location.location.containedby> "Florida" .
+<m.0hjfprh> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<Ace_Hood> <music.artist.album> "Illegal Success" .
+<Ace_Hood> <common.topic.notable_for> "g.125c_wdv7" .
+<Musical_Artist> <freebase.type_profile.strict_included_types> "Agent" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfpsd" .
+<Area_code> <freebase.type_hints.included_types> "Dated location" .
+<Port_St._Lucie> <location.citytown.postal_codes> "34985" .
+<Port_St._Lucie> <location.statistical_region.population> "g.1jmcbf98_" .
+<Florida> <location.administrative_division.first_level_division_of> "United States of America" .
+<St._Lucie_County> <location.location.contains> "34951" .
+<St._Lucie_County> <location.statistical_region.population> "m.0hjfptq" .
+<Glidden_Park> <location.location.containedby> "United States of America" .
+<Ace_Hood> <music.artist.label> "Island Records" .
+<St._Lucie_Mets> <freebase.valuenotation.has_value> "Number of employees" .
+<Tradition_Field> <location.location.geolocation> "m.0wmq0zy" .
+<St._Lucie_County> <location.statistical_region.population> "g.12b01zknq" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.012_74vb" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1cn_l7" .
+<US_County> <freebase.type_hints.included_types> "Dated location" .
+<Shady_Records> <music.record_label.artist> "Ace Hood" .
+<Port_St._Lucie> <location.citytown.postal_codes> "34983" .
+<Ace_Hood> <music.artist.origin> "Deerfield Beach" .
+<Ace_Hood> <music.artist.label> "Konvict Muzik" .
+<St._Lucie_County> <location.statistical_region.population> "g.11x1hjvf3" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.0114s4js" .
+<Area_code_772> <common.topic.notable_types> "Area code" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111002005" .
+<Port_St._Lucie> <common.topic.notable_for> "g.125fp49sk" .
+<Port_St._Lucie> <government.governmental_jurisdiction.governing_officials> "m.0102tbd3" .
+<m.0hkg4hz> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<St._Lucie_County> <location.location.contains> "Heathcote Botanical Gardens" .
+<34953> <common.topic.notable_for> "g.125g6_1s1" .
+<St._Lucie_County> <location.location.contains> "Captain Hammond House" .
+<Tradition> <common.topic.notable_types> "City/Town/Village" .
+<60_Proof_Bar_&_Grille> <common.topic.notable_types> "Venue" .
+<City/Town/Village> <base.descriptive_names.names.descriptive_name> "m.010h5200" .
+<m.0k6np4k> <measurement_unit.dated_integer.source> "United States Census Bureau, Population" .
+<St._Lucie_Mets> <baseball.baseball_team.current_coaches> "m.0zsvzjv" .
+<Tallahassee> <common.topic.notable_types> "City/Town/Village" .
+<I'm_Still> <music.recording.featured_artists> "Ace Hood" .
+<Port_St._Lucie> <location.statistical_region.population> "g.1jmcbfy9y" .
+<Fort_Pierce_South> <location.location.containedby> "United States of America" .
+<St._Lucie_County> <location.location.contains> "Eldred" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001701" .
+<St._Lucie_County> <location.location.contains> "St. Lucie County Regional History Center" .
+<m.0102tbd3> <government.government_position_held.office_position_or_title> "Mayor of Port St. Lucie" .
+<Cortez_Estates> <location.location.containedby> "United States of America" .
+<Florida> <base.aareas.schema.administrative_area.capital> "Tallahassee" .
+<Tom_Waite> <film.actor.film> "m.011dvs7m" .
+<River_Park> <location.location.containedby> "Florida" .
+<United_States_of_America> <fictional_universe.fictional_setting.universe> "JoJo's Bizarre Adventure" .
+<Hutchinson_Island_South> <location.location.containedby> "Florida" .
+<Ace_Hood> <music.artist.origin> "Miami" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Abstract" .
+<St._Lucie_County> <location.location.contains> "US Census 2000 Tract 12111001401" .
+<Port_St._Lucie> <location.statistical_region.population> "m.0hkg4g0" .
+<m.0102tbd3> <government.government_position_held.office_holder> "JoAnn M. Faiella" .
+<Area_code_772> <location.location.containedby> "Florida" .
+<St._Lucie_County> <location.location.contains> "Anglevillas" .

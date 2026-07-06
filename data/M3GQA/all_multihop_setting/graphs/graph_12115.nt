@@ -1,0 +1,1360 @@
+<Person> <freebase.type_profile.published> "Published" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066mgb" .
+<m.0j89bvb> <organization.leadership.person> "Cliff Richardson" .
+<m.04kfwvf> <business.employment_tenure.title> "Acting President" .
+<Politician> <type.type.expected_by> "Ceann Comhairle" .
+<m.04d0nm0> <business.employment_tenure.company> "Barnard College" .
+<Government_Office_or_Title> <freebase.type_profile.published> "Published" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04kk4nk" .
+<Roger_Haddock_Whitlock> <business.board_member.leader_of> "m.0k3ctms" .
+<Kebili_Governorate> <location.administrative_division.country> "Tunisia" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Hair_loss> <medicine.disease.risk_factors> "Male" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Tunis> <location.location.containedby> "Tunisia" .
+<m.09yw165> <common.webpage.topic> "Politician" .
+<Politician> <rdf-schema#range> "Politician" .
+<Ventricular_tachycardia> <medicine.symptom.symptom_of> "heart attack" .
+<Texas_A&M_University> <organization.organization.leadership> "m.0k3ct9f" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678lx" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Emphysema> <medicine.disease.risk_factors> "Male" .
+<Acting_President> <organization.role.leaders> "m.0k6cd6g" .
+<Acting_President_of_Iraq> <common.topic.notable_types> "Government Office or Title" .
+<Kawasaki_disease> <medicine.disease.risk_factors> "Male" .
+<Statesman> <people.profession.specialization_of> "Politician" .
+<Texas_A&M_University> <organization.organization.leadership> "m.0k3ct8l" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Manouba Governorate" .
+<m.04kfx56> <business.employment_tenure.company> "Reed College" .
+<Tunisia> <organization.organization_scope.organizations_with_this_scope> "Socialist Destourian Party" .
+<City_council> <people.profession.specialization_of> "Politician" .
+<Nabeul_Governorate> <location.administrative_division.country> "Tunisia" .
+<Concordia_University> <education.educational_institution.campuses> "Concordia University" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<Acting_President> <organization.role.leaders> "m.0k6cd84" .
+<Ben_Arous_Governorate> <location.location.containedby> "Tunisia" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<Acting_President> <organization.role.leaders> "m.0n0546l" .
+<Politician> <people.profession.part_of_professional_field> "Politics" .
+<Politician> <type.property.expected_type> "Politician" .
+<Acting_President_of_Malta> <common.topic.notable_for> "g.1257mm_vs" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04dmx13" .
+<Interim_and_Acting_President_of_Israel> <common.topic.article> "m.03mb5mc" .
+<Jimi_Agbaje> <people.person.profession> "Politician" .
+<Siliana_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Obstructive_sleep_apnea> <medicine.disease.risk_factors> "Male" .
+<Politician> <common.topic.article> "m.0fj9r" .
+<m.0k3csq8> <organization.leadership.role> "Acting President" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Mayor" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660xd" .
+<CNO_Financial_Group> <business.employer.employees> "m.04j8v6r" .
+<Gout> <medicine.icd_9_cm_classification.parent_classification> "Gout" .
+<Marshall_Walker> <business.board_member.leader_of> "m.0rqhcn1" .
+<Ankylosing_spondylitis> <medicine.disease_cause.diseases> "Kyphosis" .
+<m.0n4r_8g> <organization.leadership.role> "Acting President" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Gabès Governorate" .
+<Politician> <freebase.type_profile.equivalent_topic> "Politician" .
+<m.0k3ctm8> <organization.leadership.role> "Acting President" .
+<Acting_President_of_Poland> <government.government_office_or_title.office_holders> "m.010gfx72" .
+<Kidney_Stone> <medicine.disease.causes> "Gout" .
+<Acting_President> <business.job_title.people_with_this_title> "m.02kqd7m" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<Hirschsprung's_disease> <medicine.disease.risk_factors> "Male" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Sidi Bouzid Governorate" .
+<Ectodermal_dysplasia> <medicine.disease.symptoms> "Hair loss" .
+<John_Brocklesby> <business.board_member.leader_of> "m.0k6cd7g" .
+<Stanley_C._Preczewski> <people.person.gender> "Male" .
+<Politician> <type.type.expected_by> "Candidates" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<m.010gxfgq> <government.government_position_held.basic_title> "Acting President" .
+<Antisocial_personality_disorder> <medicine.disease.risk_factors> "Male" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<m.04kfx56> <business.employment_tenure.person> "Arthur Scott" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zn30" .
+<Tataouine_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<m.0k6cng4> <organization.leadership.organization> "Trinity College" .
+<Gout> <medicine.disease.risk_factors> "Male" .
+<m.0116lj_r> <freebase.valuenotation.has_no_value> "To" .
+<Mahdia> <common.topic.notable_types> "City/Town/Village" .
+<Tribal_Rights_Leader> <people.profession.specialization_of> "Politician" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.0n0546l> <organization.leadership.person> "Victor Jaime" .
+<m.0m1vk_n> <organization.leadership.organization> "Midwestern Baptist Theological Seminary" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<m.0k6cpp8> <organization.leadership.person> "Henry Augustus Perkins" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0hm" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066119" .
+<Tunisia> <location.location.partially_contains> "Atlas Mountains" .
+<Hodgkin's_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Ectodermal_dysplasia> <medicine.disease.risk_factors> "Male" .
+<Tunisia> <location.country.administrative_divisions> "Sfax Governorate" .
+<Iraq> <government.governmental_jurisdiction.governing_officials> "m.010gxfgq" .
+<Georgia_Perimeter_College> <organization.organization.leadership> "m.0k3njkw" .
+<Acting_President_of_Moldova> <common.topic.article> "m.07s74mr" .
+<Politician> <type.type.expected_by> "Candidate" .
+<Inguinal_hernia> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Ambassador" .
+<The_Art_Institute_of_California_–_Los_Angeles> <organization.organization.leadership> "m.0l7f869" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<Acting_President_of_Moldova> <common.topic.notable_types> "Government Office or Title" .
+<Nicholas_Murray_Butler> <people.person.profession> "Politician" .
+<m.010g45dv> <government.political_party_tenure.politician> "Rachid Sfar" .
+<Government_Office_or_Title> <freebase.type_hints.included_types> "Topic" .
+<The_Art_Institute_of_California_–_Los_Angeles> <education.educational_institution_campus.educational_institution> "The Art Institute of California – Los Angeles" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<Public_Health_Leader> <common.topic.notable_types> "Profession" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04j7589" .
+<m.04kk4ms> <business.employment_tenure.person> "Byron Youtz" .
+<Politician> <people.profession.specializations> "Public Health Leader" .
+<m.0n3m6_0> <organization.leadership.role> "Acting President" .
+<Officeholder> <owl#inverseOf> "Government Positions Held" .
+<m.0k6ckkn> <organization.leadership.person> "John Brocklesby" .
+<Risk_Factor> <freebase.type_profile.strict_included_types> "Topic" .
+<Anaplastic_thyroid_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<m.0rqhthg> <organization.leadership.person> "Melissa Vayda" .
+<m.0k3ctls> <organization.leadership.organization> "Texas A&M University" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<m.010gg29b> <government.government_position_held.office_position_or_title> "Acting President of Iraq" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<m.0k6cng4> <organization.leadership.person> "Henry Augustus Perkins" .
+<Trinity_College> <organization.organization.leadership> "m.0k6cd6g" .
+<Politician> <people.profession.specializations> "Civil Rights Leader" .
+<m.0l7f869> <organization.leadership.role> "Acting President" .
+<m.04kk4n4> <business.employment_tenure.person> "Ross Thompson" .
+<Prefect> <people.profession.specialization_of> "Politician" .
+<Legislator> <people.profession.specialization_of> "Politician" .
+<Tunisia> <location.country.administrative_divisions> "Sidi Bouzid Governorate" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0ln" .
+<Ventricular_tachycardia> <medicine.disease.risk_factors> "Male" .
+<Politician> <common.topic.webpage> "m.09y01p3" .
+<Mahdia> <location.location.people_born_here> "g.11r80rnhv" .
+<m.09w_20n> <common.webpage.topic> "Politician" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011cm0ng" .
+<Stanley_C._Preczewski> <business.board_member.leader_of> "m.0hd8whz" .
+<m.0j2hvbs> <organization.leadership.person> "Philip L. Hougen" .
+<Jonah_Sigel> <people.person.employment_history> "m.03gmjcw" .
+<University_of_Michigan> <education.educational_institution.campuses> "University of Michigan" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106623h" .
+<m.04kpmpp> <business.employment_tenure.title> "Acting President" .
+<Tozeur_Governorate> <location.location.containedby> "Tunisia" .
+<Frank_Cleveland_Bolton> <business.board_member.leader_of> "m.0k3ct9f" .
+<m.0k3ctm8> <organization.leadership.organization> "Texas A&M University" .
+<Politician> <people.profession.specializations> "Tyrant" .
+<Stuttering> <medicine.disease.risk_factors> "Male" .
+<University_of_the_Sciences> <organization.organization.leadership> "m.0hf271z" .
+<Gabès_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<m.0k3ct9f> <organization.leadership.role> "Acting President" .
+<Tyler_Goldman> <people.person.employment_history> "m.02_8j69" .
+<m.0zwyw1p> <organization.leadership.person> "Pierre Gignac" .
+<Capture_of_Mahdiye> <time.event.locations> "Tunis" .
+<Tunisia> <location.country.administrative_divisions> "Monastir Governorate" .
+<m.03gmjcw> <business.employment_tenure.company> "Wellocities" .
+<Acting_President> <organization.role.leaders> "m.0j89bvb" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066lws" .
+<Jendouba_Governorate> <location.administrative_division.country> "Tunisia" .
+<m.0k3csq8> <organization.leadership.person> "Ed J. Davis" .
+<m.0k3ct7l> <organization.leadership.person> "Roger Haddock Whitlock" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<m.04j8v6r> <business.employment_tenure.company> "CNO Financial Group" .
+<RACHID_SFAR_ancien_Premier_Ministre_Tunisien> <common.image.appears_in_topic_gallery> "Rachid Sfar" .
+<Rachid_Sfar> <common.topic.image> "RACHID SFAR ancien Premier Ministre Tunisien" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Acting_President> <organization.role.leaders> "m.0hd3dm9" .
+<m.010r63tn> <organization.leadership.role> "Acting President" .
+<m.0k3ct8l> <organization.leadership.person> "Charles Puryear" .
+<Monastir_Governorate> <location.administrative_division.country> "Tunisia" .
+<Officeholder> <rdf-schema#range> "Politician" .
+<Ben_Arous_Governorate> <location.administrative_division.country> "Tunisia" .
+<m.0k3njkw> <organization.leadership.role> "Acting President" .
+<m.0rqhthg> <organization.leadership.role> "Acting President" .
+<Shadow_Figure> <fictional_universe.fictional_character.place_of_birth> "Male" .
+<Politician> <people.profession.specializations> "Politician & Trade Unionist" .
+<Mahdia> <location.location.people_born_here> "Mehdi Jomaa" .
+<ZasPorn> <common.topic.subject_of> "Male" .
+<Manouba_Governorate> <location.location.containedby> "Tunisia" .
+<​Authur_Howard_Hughes> <business.board_member.leader_of> "m.0k6cmg3" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<m.0k3csqs> <organization.leadership.person> "E. Dean Gage" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<m.04kfx73> <business.employment_tenure.title> "Acting President" .
+<Mahdia> <location.location.people_born_here> "Mouna Chebbah" .
+<Mahdia_Governorate> <location.location.containedby> "Tunisia" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjmy" .
+<m.0k6cmg3> <organization.leadership.role> "Acting President" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Jendouba Governorate" .
+<m.04dxw7r> <business.employment_tenure.person> "Zoe Cruz" .
+<Homer_A._Neal> <people.person.gender> "Male" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066154" .
+<Nathalie_Kosciusko-Morizet> <people.person.profession> "Politician" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Sousse Governorate" .
+<m.0hf271z> <organization.leadership.role> "Acting President" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<Mohamed_Zouaoui> <people.person.nationality> "Tunisia" .
+<Akinwunmi_Ambode> <media_common.quotation.author> "Akinwunmi Ambode" .
+<Don_M._Bailey> <people.person.employment_history> "m.030rcfr" .
+<Iraq> <location.country.official_language> "Arabic Language" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661zf" .
+<Kairouan_Governorate> <location.administrative_division.country> "Tunisia" .
+<Transient_ischemic_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Politician> <people.profession.specializations> "Mayor of Auckland" .
+<Acting_President> <organization.role.leaders> "m.0k6ckkn" .
+<m.04kk4n4> <business.employment_tenure.title> "Acting President" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660kd" .
+<m.0n4r_8g> <organization.leadership.organization> "Antioch University Midwest" .
+<Imperial_Valley_College> <organization.organization.leadership> "m.0n0546l" .
+<Government_office_category> <common.topic.article> "m.0h5vz4q" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<George_Hay> <people.person.employment_history> "m.04kk4nk" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<Gabès_Governorate> <location.location.containedby> "Tunisia" .
+<Acting_President> <organization.role.leaders> "m.0njrj4n" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Politician> <common.topic.notable_for> "g.1258k4n_t" .
+<m.04kk4nz> <business.employment_tenure.person> "William Haden" .
+<Shinawatra_University> <education.educational_institution_campus.educational_institution> "Shinawatra University" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<Acting_President> <organization.role.leaders> "m.0j2hvbs" .
+<Ariana_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<m.0k6cd6g> <organization.leadership.person> "​Authur Howard Hughes" .
+<Politician> <freebase.type_profile.strict_included_types> "Agent" .
+<Acting_President_of_Iraq> <government.government_office_or_title.office_holders> "m.010gxfgq" .
+<m.0116lj_r> <organization.leadership.person> "Nagi Naganathan" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<Politician> <people.profession.specializations> "Energy Policy Specialist" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<Modesto_Junior_College> <education.educational_institution.campuses> "Modesto Junior College" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<m.010gg29b> <government.government_position_held.jurisdiction_of_office> "Iraq" .
+<m.0k6cpp8> <organization.leadership.role> "Acting President" .
+<Tunisia> <travel.travel_destination.tourist_attractions> "Atlas Mountains" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Monastir_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Kebili_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<m.01069xjb> <organization.organization_board_membership.role> "Acting President" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<Dejan_Židan> <people.person.gender> "Male" .
+<Interim_and_Acting_President_of_Israel> <government.government_office_or_title.category> "Acting President" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661zx" .
+<Politician> <common.topic.subjects> "Nathalie Kosciusko-Morizet" .
+<Person> <freebase.type_profile.strict_included_types> "Animate" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<m.0hpyg2r> <organization.leadership.person> "Kay Eggleston" .
+<Peter_Steinberger> <people.person.gender> "Male" .
+<Zaghouan_Governorate> <location.administrative_division.country> "Tunisia" .
+<m.0h8ff5r> <organization.leadership.person> "Jim Diehl" .
+<m.04dmx13> <business.employment_tenure.person> "Brenda Barnes" .
+<Politician> <people.profession.specializations> "Oficer-Major of King Zog  I" .
+<local_politician> <common.topic.notable_types> "Profession" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<Rachid_Sfar> <people.person.nationality> "Tunisia" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Siliana Governorate" .
+<Hair_loss> <medicine.symptom.symptom_of> "Syphilis" .
+<m.0qfgl6b> <organization.leadership.person> "Charles Barrett" .
+<Tunisia> <location.country.administrative_divisions> "Sousse Governorate" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<m.04dy7px> <business.employment_tenure.title> "Acting President" .
+<m.02kqd7m> <business.employment_tenure.person> "Charles A. Winterstein" .
+<m.0k3csqs> <organization.leadership.organization> "Texas A&M University" .
+<Texas_A&M_University> <organization.organization.leadership> "m.0k3csry" .
+<m.04kfwvf> <business.employment_tenure.person> "Peter Steinberger" .
+<Yuba_College> <organization.organization.leadership> "m.0njrj4n" .
+<Cedar_Crest_College> <education.educational_institution.campuses> "Cedar Crest College" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<m.0j0z6lp> <organization.leadership.organization> "Modesto Junior College" .
+<Mayor_of_Montazels> <common.topic.notable_types> "Profession" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<Cincinnati_College_of_Mortuary_Science> <education.educational_institution.campuses> "Cincinnati College of Mortuary Science" .
+<Kansas_City_University_of_Medicine_and_Biosciences> <education.educational_institution_campus.educational_institution> "Kansas City University of Medicine and Biosciences" .
+<Kyphosis> <medicine.disease.causes> "Ankylosing spondylitis" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0108dn6c" .
+<Ellen_W._Hall> <business.board_member.leader_of> "m.0n4r_8g" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<Socialist_Destourian_Party> <government.political_party.politicians_in_this_party> "m.010g45dv" .
+<Medenine_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Ariana_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<m.010r63tn> <organization.leadership.person> "Mark Hussy" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "United States Senator" .
+<Tunisia> <location.country.administrative_divisions> "Kasserine Governorate" .
+<Advocacy> <people.profession.specialization_of> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<m.010r63tn> <organization.leadership.organization> "Texas A&M University" .
+<Tunisia> <base.locations.countries.continent> "Africa" .
+<Ben_Arous_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Kidney_Stone> <medicine.disease_cause.diseases> "Urolithiasis" .
+<Dominic_A._Aquila> <business.board_member.leader_of> "m.0n3m6_0" .
+<Kansas_City_University_of_Medicine_and_Biosciences> <education.educational_institution.campuses> "Kansas City University of Medicine and Biosciences" .
+<Alaskan_Health_Care_Leader> <common.topic.notable_types> "Profession" .
+<m.0hd3dm9> <organization.leadership.role> "Acting President" .
+<Politician> <type.type.expected_by> "Polican" .
+<local_politician> <people.profession.specialization_of> "Politician" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Tunis Governorate" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Gafsa Governorate" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<Owens_Community_College> <organization.organization.leadership> "m.0hd3dm9" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Mahdia> <location.location.people_born_here> "Mohamed Zouaoui" .
+<Party_organizer> <people.profession.specialization_of> "Politician" .
+<Nephrotic_syndrome> <medicine.disease.risk_factors> "Male" .
+<m.09xt6w_> <common.webpage.topic> "Politician" .
+<Politician> <common.topic.webpage> "m.09x1dpm" .
+<Politician> <people.profession.corresponding_type> "Politician" .
+<Tunisia> <location.country.administrative_divisions> "Tunis" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<Tunisia> <location.country.administrative_divisions> "Kebili Governorate" .
+<Tyrant> <people.profession.specialization_of> "Politician" .
+<Housing_and_Community_Development_Leader> <people.profession.specialization_of> "Politician" .
+<Government_office_category> <type.type.expected_by> "Category" .
+<Politician> <common.topic.webpage> "m.0b45tny" .
+<Rob_Watts> <people.person.employment_history> "m.0j_fc7g" .
+<m.010g45cz> <government.government_position_held.office_position_or_title> "Head of Government of Tunisia" .
+<Tetralogy_of_Fallot> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<Mayor_of_Auckland> <people.profession.specialization_of> "Politician" .
+<Legislator> <common.topic.notable_types> "Profession" .
+<Acting_President> <organization.role.leaders> "m.0n4r_8g" .
+<Amine_Bannour> <people.person.place_of_birth> "Mahdia" .
+<Wellocities> <business.employer.employees> "m.03gmjcw" .
+<SIAE> <business.employer.employees> "m.0gdj4f2" .
+<m.04d0nm0> <business.employment_tenure.title> "Acting President" .
+<Tunisia> <location.country.administrative_divisions> "Tataouine Governorate" .
+<Jonah_Sigel> <people.person.gender> "Male" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Kasserine_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Robin_D._Hadaway> <people.person.gender> "Male" .
+<Ankylosing_spondylitis> <medicine.disease.risk_factors> "Male" .
+<Mahdia_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<m.0k6cd7g> <organization.leadership.organization> "Trinity College" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Hair_loss> <medicine.symptom.symptom_of> "Ectodermal dysplasia" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<Midwestern_Baptist_Theological_Seminary> <education.educational_institution.campuses> "Midwestern Baptist Theological Seminary" .
+<Akinwunmi_Ambode> <common.topic.subject_of> "Politician" .
+<Texas_A&M_University> <organization.organization.leadership> "m.0k3ctc8" .
+<Politician> <type.type.expected_by> "Taoiseach" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Prime minister" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<Politician> <common.topic.webpage> "m.09w1p59" .
+<Environmentalist> <common.topic.notable_types> "Profession" .
+<Iraq> <government.governmental_jurisdiction.government_positions> "Acting President of Iraq" .
+<m.01069xjb> <freebase.valuenotation.has_no_value> "To" .
+<Tunisian_governorate> <base.aareas.schema.administrative_area_type.pertains_to> "Tunisia" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<Sidi_Bouzid_Governorate> <location.location.containedby> "Tunisia" .
+<Dupuytren's_contracture> <medicine.disease.risk_factors> "Male" .
+<Politician> <people.profession.specializations> "Advocacy" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5pjs" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Diplomat" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<Politician> <common.topic.webpage> "m.09xt6w_" .
+<Bizerte_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Tunisia> <location.country.administrative_divisions> "Mahdia" .
+<m.0k3csqs> <organization.leadership.role> "Acting President" .
+<Politician> <common.topic.webpage> "m.09x3j7h" .
+<m.0h8ff5r> <organization.leadership.role> "Acting President" .
+<Richland_College> <education.educational_institution.campuses> "Richland College" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Liver_tumour> <medicine.disease.risk_factors> "Male" .
+<Acting_President> <organization.role.leaders> "m.011c0sd7" .
+<Acting_President> <organization.role.leaders> "m.0k3ct7l" .
+<m.0k3ctc8> <organization.leadership.person> "Marion Thomas Harrington" .
+<Kef_Governorate> <location.location.containedby> "Tunisia" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105znf1" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678kt" .
+<m.0k3ctc8> <organization.leadership.organization> "Texas A&M University" .
+<m.04hd04s> <business.employment_tenure.company> "Columbia University" .
+<m.07ngkqq> <base.ontologies.ontology_instance_mapping.freebase_topic> "Politician" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<Tunisia> <location.country.official_language> "Arabic Language" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<Starwood_Hotels_and_Resorts_Worldwide> <business.employer.employees> "m.04dmx13" .
+<Politician> <people.profession.specializations> "Usurper" .
+<Tunisia> <location.country.administrative_divisions> "Gabès Governorate" .
+<Acting_President_of_Russia> <common.topic.notable_types> "Government Office or Title" .
+<m.04kk4nz> <business.employment_tenure.title> "Acting President" .
+<m.04j7589> <business.employment_tenure.title> "Acting President" .
+<Government_Office_or_Title> <type.type.expected_by> "Offices" .
+<Lorenzo_Ferrero> <people.person.gender> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zpl2" .
+<Bureaucrat> <common.topic.notable_types> "Profession" .
+<Tunisia> <location.country.administrative_divisions> "Nabeul Governorate" .
+<m.0hf271z> <organization.leadership.person> "Marvin Samson" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<m.0k3csry> <organization.leadership.person> "David Willard Williams" .
+<Central_Penn_College> <education.educational_institution.campuses> "Central Penn College" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<E._Dean_Gage> <business.board_member.leader_of> "m.0k3csqs" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04kpmpp" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04dxw7r" .
+<Jendouba_Governorate> <location.location.containedby> "Tunisia" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Feedster> <business.employer.employees> "m.02_8j69" .
+<MidAmerica_Nazarene_University> <education.educational_institution.campuses> "MidAmerica Nazarene University" .
+<Non-Hodgkin_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Jeffrey_Shapiro> <people.person.gender> "Male" .
+<m.0hd8whz> <organization.leadership.role> "Acting President" .
+<Tyrant> <common.topic.notable_types> "Profession" .
+<m.0m1vk_n> <organization.leadership.role> "Acting President" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5pml" .
+<Kef_Governorate> <location.administrative_division.country> "Tunisia" .
+<Chairman,_Chivalry_Democratic_Party> <people.profession.specialization_of> "Politician" .
+<Public_Health_Leader> <people.profession.specialization_of> "Politician" .
+<Mahdia> <location.location.containedby> "Mahdia Governorate" .
+<Mahdia> <common.topic.article> "m.044rpq" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010dyb1l" .
+<Béja_Governorate> <location.administrative_division.country> "Tunisia" .
+<Mehdi_Jomaa> <people.person.gender> "Male" .
+<Hypospadias> <medicine.disease.risk_factors> "Male" .
+<Nathalie_Kosciusko-Morizet> <common.topic.notable_types> "Politician" .
+<m.012qy4wz> <organization.leadership.organization> "Texas A&M University" .
+<m.01069xjb> <organization.organization_board_membership.member> "Sunita Danuwar" .
+<Concordia_University> <education.educational_institution_campus.educational_institution> "Concordia University" .
+<m.04dmx13> <business.employment_tenure.title> "Acting President" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011vfplb" .
+<Tunisia> <government.governmental_jurisdiction.government_positions> "Head of Government of Tunisia" .
+<Acting_President> <common.topic.notable_for> "g.125c8cnq7" .
+<Politician> <type.type.properties> "Legislative committees served on" .
+<m.09x1dpm> <common.webpage.topic> "Politician" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Béja Governorate" .
+<m.0k3csm0> <organization.leadership.role> "Acting President" .
+<Barrett's_esophagus> <medicine.disease.risk_factors> "Male" .
+<Politician> <freebase.type_profile.strict_included_types> "Topic" .
+<Labor_leader> <people.profession.specialization_of> "Politician" .
+<Social_Democrats> <organization.organization.leadership> "m.011c0sd7" .
+<Mehdi_Jomaa> <people.person.profession> "Politician" .
+<Tunis_Governorate> <location.administrative_division.country> "Tunisia" .
+<Arabic_Language> <language.human_language.main_country> "Tunisia" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Government_Office_or_Title> <type.type.domain> "Government" .
+<Acting_President> <organization.role.leaders> "m.0k6cpp8" .
+<m.0k6cng4> <organization.leadership.role> "Acting President" .
+<m.0n4r_8g> <organization.leadership.person> "Ellen W. Hall" .
+<Head_of_Government_of_Tunisia> <government.government_office_or_title.category> "Prime minister" .
+<Energy_Policy_Specialist> <common.topic.notable_types> "Profession" .
+<William_Haden> <people.person.employment_history> "m.04kk4nz" .
+<Government_office_category> <type.type.properties> "Officeholders" .
+<Mahdia> <location.location.events> "Capture of Mahdiye" .
+<Texas_A&M_University> <organization.organization.leadership> "m.0k3csm0" .
+<Shakti_Samuha> <organization.organization.board_members> "m.01069xjb" .
+<Myocardial_Ischemia> <medicine.disease.risk_factors> "Male" .
+<Politician> <people.profession.specializations> "AIDS Policy Specialist" .
+<Politician> <freebase.type_profile.strict_included_types> "Person" .
+<m.0k3csq8> <organization.leadership.organization> "Texas A&M University" .
+<Georgia_College_&_State_University> <organization.organization.leadership> "m.0hd8whz" .
+<Tunis_Governorate> <location.location.containedby> "Tunisia" .
+<m.0k6ckkn> <organization.leadership.organization> "Trinity College" .
+<Political_strategist> <common.topic.notable_types> "Profession" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04j8v6r" .
+<Hair_loss> <medicine.symptom.symptom_of> "Seborrheic dermatitis" .
+<Party> <type.property.schema> "Politician" .
+<Aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Nabeul_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<Politician> <people.profession.specializations> "Political Attache" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Ben Arous Governorate" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjqg" .
+<James_E._Hohmann> <people.person.employment_history> "m.04j8v6r" .
+<Tunisia> <location.country.administrative_divisions> "Ariana Governorate" .
+<University_of_the_Sciences> <education.educational_institution_campus.educational_institution> "University of the Sciences" .
+<AIDS_Policy_Specialist> <common.topic.notable_types> "Profession" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010hn395" .
+<Georgia_Perimeter_College> <education.educational_institution_campus.educational_institution> "Georgia Perimeter College" .
+<Texas_A&M_University> <organization.organization.leadership> "m.0k3ct7l" .
+<Mahdia> <location.statistical_region.population> "g.11bymm_k15" .
+<Central_Penn_College> <education.educational_institution_campus.educational_institution> "Central Penn College" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0ds" .
+<Brenda_Barnes> <people.person.employment_history> "m.04dmx13" .
+<Oficer-Major_of_King_Zog__I> <common.topic.notable_types> "Profession" .
+<University_of_Toledo> <education.educational_institution_campus.educational_institution> "University of Toledo" .
+<Aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Politician> <people.profession.specializations> "Rural Development Leader" .
+<Antioch_University_Midwest> <education.educational_institution_campus.educational_institution> "Antioch University Midwest" .
+<m.04mn90b> <government.government_position_held.office_position_or_title> "Acting President of Russia" .
+<Multiple_myeloma> <medicine.disease.risk_factors> "Male" .
+<Tozeur_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105znt_" .
+<Tunis_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Politician> <type.type.domain> "Government" .
+<Siliana_Governorate> <location.administrative_division.country> "Tunisia" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<Acting_President_of_Poland> <common.topic.notable_for> "g.125b667g_" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Bizerte Governorate" .
+<Person> <freebase.type_profile.strict_included_types> "Agent" .
+<m.0njrj4n> <organization.leadership.organization> "Yuba College" .
+<Mark_A._Hussey> <business.board_member.leader_of> "m.012qy4wz" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<m.010gfx72> <freebase.valuenotation.is_reviewed> "Officeholder" .
+<Acting_President> <organization.role.leaders> "m.0k6cmg3" .
+<Kairouan_Governorate> <location.location.containedby> "Tunisia" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<m.04kk4ms> <business.employment_tenure.company> "Reed College" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0fs" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<Kebili_Governorate> <location.location.containedby> "Tunisia" .
+<Myocardial_Ischemia> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Politician> <people.profession.specializations> "Chairman, Chivalry Democratic Party" .
+<Corneal_abrasion> <medicine.disease.risk_factors> "Male" .
+<m.0k3ctc8> <organization.leadership.role> "Acting President" .
+<Mahdia> <location.location.containedby> "Tunisia" .
+<Government_Office_or_Title> <freebase.type_profile.strict_included_types> "Topic" .
+<Charles_A._Winterstein> <people.person.employment_history> "m.02kqd7m" .
+<Nicholas_Murray_Butler> <people.person.gender> "Male" .
+<Politician> <common.topic.webpage> "m.09x5gkq" .
+<Party> <rdf-schema#domain> "Politician" .
+<Acting_President> <organization.role.leaders> "m.0hd8whz" .
+<Medenine_Governorate> <location.location.containedby> "Tunisia" .
+<Urolithiasis> <medicine.disease.causes> "Kidney Stone" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<m.0j_fc7g> <business.employment_tenure.title> "Acting President" .
+<m.0zwyw1p> <organization.leadership.role> "Acting President" .
+<Pectus_excavatum> <medicine.disease.risk_factors> "Male" .
+<Mayor_of_Montazels> <people.profession.specialization_of> "Politician" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0hf271z> <organization.leadership.organization> "University of the Sciences" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<Sousse_Governorate> <location.administrative_division.country> "Tunisia" .
+<Seborrheic_dermatitis> <medicine.disease.symptoms> "Hair loss" .
+<m.04dy7px> <business.employment_tenure.person> "Homer A. Neal" .
+<Ronald_T.__Lemay> <people.person.gender> "Male" .
+<Antioch_University_Midwest> <education.educational_institution.campuses> "Antioch University Midwest" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<Rachid_Sfar> <government.politician.party> "m.010g45dv" .
+<m.0k6cd84> <organization.leadership.person> "Borden Winslow Painter, Jr." .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<Zaghouan_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678nn" .
+<Monastir_Governorate> <location.location.containedby> "Tunisia" .
+<Acting_President> <organization.role.leaders> "m.0zwyw1p" .
+<Politician> <freebase.equivalent_topic.equivalent_type> "Politician" .
+<m.04dy7px> <business.employment_tenure.company> "University of Michigan" .
+<Tunisia> <location.country.administrative_divisions> "Tunis Governorate" .
+<Basic_title> <owl#inverseOf> "Officeholders" .
+<Politician> <type.type.expected_by> "Winner(s)" .
+<Iraq> <government.governmental_jurisdiction.governing_officials> "m.010gg29b" .
+<m.0k3ct7l> <organization.leadership.organization> "Texas A&M University" .
+<m.0dj2gvd> <base.ontologies.ontology_class_mapping.freebase_topic> "Politician" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjp5" .
+<m.0zwyw1p> <organization.leadership.organization> "Export Development Canada" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Kebili Governorate" .
+<Bizerte_Governorate> <location.administrative_division.country> "Tunisia" .
+<m.0n4rc5w> <organization.leadership.role> "Acting President" .
+<Gabès_Governorate> <location.administrative_division.country> "Tunisia" .
+<SoftBank_Telecom> <business.employer.employees> "m.04j7589" .
+<Acting_President> <organization.role.leaders> "m.0k3ctm8" .
+<m.0hd3dm9> <organization.leadership.person> "John S. Satkowski" .
+<Politician> <people.profession.specializations> "Environmentalist" .
+<Pyloric_stenosis> <medicine.disease.risk_factors> "Male" .
+<Kef_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Georgia_Perimeter_College> <education.educational_institution.campuses> "Georgia Perimeter College" .
+<Imperial_Valley_College> <education.educational_institution_campus.educational_institution> "Imperial Valley College" .
+<Acting_President> <organization.role.leaders> "m.0rqhthg" .
+<Owens_Community_College> <education.educational_institution.campuses> "Owens Community College" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04d0nm0" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zp46" .
+<Shinawatra_University> <education.educational_institution.campuses> "Shinawatra University" .
+<m.030rcfr> <business.employment_tenure.person> "Don M. Bailey" .
+<Medenine_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Owens_Community_College> <education.educational_institution_campus.educational_institution> "Owens Community College" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<Prinya_Tantaswadi> <business.board_member.leader_of> "m.0j59yhl" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106789c" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<Politician> <people.profession.specializations> "Bureaucrat" .
+<Civil_Rights_Leader> <common.topic.notable_types> "Profession" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Stroke" .
+<Sfax_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<m.0j59yhl> <organization.leadership.role> "Acting President" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660hr" .
+<Acting_President_of_Iraq> <government.government_office_or_title.office_holders> "m.010gg29b" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<Barnard_College> <education.educational_institution.campuses> "Barnard College" .
+<Shinawatra_University> <organization.organization.leadership> "m.0j59yhl" .
+<Janet_Day> <business.board_member.leader_of> "m.0l7f869" .
+<Mahdia_Governorate> <location.location.contains> "Mahdia" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Tunisia> <location.country.administrative_divisions> "Béja Governorate" .
+<Tyler_Goldman> <people.person.gender> "Male" .
+<Head_of_Government_of_Tunisia> <government.government_office_or_title.jurisdiction> "Tunisia" .
+<Arabic_Language> <language.human_language.countries_spoken_in> "Tunisia" .
+<Tunisia> <base.aareas.schema.administrative_area.subdividing_type> "Tunisian governorate" .
+<Acting_President> <organization.role.leaders> "m.0j59yhl" .
+<m.03gmjcw> <business.employment_tenure.title> "Acting President" .
+<Acute_myeloid_leukemia> <medicine.disease.risk_factors> "Male" .
+<Texas_A&M_University> <organization.organization.leadership> "m.010r63tn" .
+<Politician> <people.profession.specializations> "Legislator" .
+<m.010gg29b> <government.government_position_held.basic_title> "Acting President" .
+<Atlas_Mountains> <location.location.partially_containedby> "Tunisia" .
+<m.0k6cd7g> <organization.leadership.person> "John Brocklesby" .
+<m.02_8j69> <business.employment_tenure.person> "Tyler Goldman" .
+<Béja_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<m.04hd04s> <business.employment_tenure.title> "Acting President" .
+<Mahdia> <location.location.people_born_here> "Rachid Sfar" .
+<Rachid_Sfar> <common.topic.notable_types> "Politician" .
+<University_of_Toledo> <education.educational_institution.campuses> "University of Toledo" .
+<Iraq> <location.country.languages_spoken> "Arabic Language" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04kfwvf" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<Kidney_Stone> <medicine.disease.risk_factors> "Male" .
+<Politician> <type.type.properties> "Election campaigns" .
+<Tunis> <location.location.containedby> "Tunis Governorate" .
+<Manouba_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Politician> <people.profession.specializations> "Prefect" .
+<Arabic_Language> <language.human_language.countries_spoken_in> "Iraq" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<Lutheran_School_of_Theology_at_Chicago> <education.educational_institution_campus.educational_institution> "Lutheran School of Theology at Chicago" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<Kansas_City_University_of_Medicine_and_Biosciences> <organization.organization.leadership> "m.0rqhcn1" .
+<University_of_Toledo> <organization.organization.leadership> "m.0116lj_r" .
+<m.0k6cd6g> <organization.leadership.role> "Acting President" .
+<Acting_President> <organization.role.leaders> "m.0k6cng4" .
+<m.0m1vk_n> <organization.leadership.person> "Robin D. Hadaway" .
+<Politician> <type.type.properties> "Party" .
+<Antioch_University_Midwest> <organization.organization.leadership> "m.0n4r_8g" .
+<Modesto_Junior_College> <education.educational_institution_campus.educational_institution> "Modesto Junior College" .
+<Tataouine_Governorate> <location.administrative_division.country> "Tunisia" .
+<Diplomat> <common.topic.notable_types> "Profession" .
+<Politician> <common.topic.notable_types> "Profession" .
+<Government_office_category> <freebase.type_profile.strict_included_types> "Topic" .
+<Mohamed_Zouaoui> <people.person.place_of_birth> "Mahdia" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661vm" .
+<Trinity_College> <organization.organization.leadership> "m.0k6cd7g" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<William_Haden> <common.topic.notable_types> "Person" .
+<m.04hd04s> <business.employment_tenure.person> "Nicholas Murray Butler" .
+<Community_College_of_Denver> <education.educational_institution.campuses> "Community College of Denver" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<m.04j8v6r> <business.employment_tenure.title> "Acting President" .
+<Actinic_keratosis> <medicine.disease.risk_factors> "Male" .
+<Texas_A&M_University> <organization.organization.leadership> "m.0k3ctm8" .
+<Texas_A&M_University> <organization.organization.leadership> "m.0k3csq8" .
+<Socialist_Destourian_Party> <organization.organization.geographic_scope> "Tunisia" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Kairouan Governorate" .
+<m.0j59yhl> <organization.leadership.organization> "Shinawatra University" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<Sunita_Danuwar> <business.board_member.organization_board_memberships> "m.01069xjb" .
+<Atlas_Mountains> <location.location.containedby> "Africa" .
+<Rebel> <people.profession.specialization_of> "Politician" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Acting_President> <organization.role.leaders> "m.0k3njkw" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106622v" .
+<Acting_President> <organization.role.leaders> "m.0k3csm0" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Basic_title> <type.property.expected_type> "Government office category" .
+<male.jpg> <common.image.appears_in_topic_gallery> "Male" .
+<Export_Development_Canada> <organization.organization.leadership> "m.0zwyw1p" .
+<m.04kfx73> <business.employment_tenure.company> "Reed College" .
+<Acting_President> <organization.role.leaders> "m.0k3ct8l" .
+<m.0gdj4f2> <business.employment_tenure.company> "SIAE" .
+<Acting_President_of_Russia> <common.topic.article> "m.03nwvb6" .
+<Tunisia> <location.country.administrative_divisions> "Mahdia Governorate" .
+<m.012qy4wz> <organization.leadership.person> "Mark A. Hussey" .
+<Acting_President> <organization.role.leaders> "m.0116lj_r" .
+<Dejan_Židan> <common.topic.notable_types> "Politician" .
+<Acting_President> <organization.role.leaders> "m.0h8ff5r" .
+<m.0j89bvb> <organization.leadership.organization> "Community College of Denver" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<Rachid_Sfar> <people.person.place_of_birth> "Mahdia" .
+<m.0h8ff5r> <organization.leadership.organization> "MidAmerica Nazarene University" .
+<Children’s_Rights_Leader> <people.profession.specialization_of> "Politician" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<Geneva_Reformed_Seminary> <education.educational_institution.campuses> "Geneva Reformed Seminary" .
+<Sidi_Bouzid_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Acting_President> <organization.role.leaders> "m.012qy4wz" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0mg" .
+<Providence_Christian_College> <education.educational_institution.campuses> "Providence Christian College" .
+<Karen_Walters_Dunlap> <business.board_member.leader_of> "m.0j0z6lp" .
+<Rachid_Sfar> <people.person.gender> "Male" .
+<m.0n0546l> <organization.leadership.role> "Acting President" .
+<m.010g45cz> <government.government_position_held.jurisdiction_of_office> "Tunisia" .
+<Mahdia_campaign_of_1087> <time.event.locations> "Tunis" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<Politician> <freebase.type_profile.kind> "Title" .
+<Kay_Eggleston> <business.board_member.leader_of> "m.0hpyg2r" .
+<Nicholas_Murray_Butler> <common.topic.notable_types> "Politician" .
+<Politician> <type.type.expected_by> "politician" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<m.04kk4nk> <business.employment_tenure.title> "Acting President" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<Texas_A&M_University> <education.educational_institution.campuses> "Texas A&M University" .
+<Acting_President> <organization.role.leaders> "m.0qfgl6b" .
+<m.0gdj4f2> <business.employment_tenure.title> "Acting President" .
+<Tunisia> <location.country.capital> "Tunis" .
+<Rebel> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<Politician_&_Trade_Unionist> <common.topic.notable_types> "Profession" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<Lorenzo_Ferrero> <people.person.employment_history> "m.0gdj4f2" .
+<Tunisian_governorate> <base.aareas.schema.administrative_area_type.sovereignty> "Tunisia" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106612h" .
+<m.04kk4n4> <business.employment_tenure.company> "Reed College" .
+<m.0j59yhl> <organization.leadership.person> "Prinya Tantaswadi" .
+<m.0k6cmg3> <organization.leadership.organization> "Trinity College" .
+<Leprosy> <medicine.disease.risk_factors> "Male" .
+<Monastir_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Tunisia> <location.country.administrative_divisions> "Manouba Governorate" .
+<m.09w1p59> <common.webpage.topic> "Politician" .
+<Sfax_Governorate> <location.location.containedby> "Tunisia" .
+<Ronald_T.__Lemay> <people.person.employment_history> "m.04j7589" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.04j8v6r> <business.employment_tenure.person> "James E. Hohmann" .
+<Acting_President> <organization.role.leaders> "m.0k3cspy" .
+<m.0gdj4f2> <business.employment_tenure.person> "Lorenzo Ferrero" .
+<Tunisian_governorate> <base.aareas.schema.administrative_area_type.subdivides_place> "Tunisia" .
+<Tunisian_governorate> <base.aareas.schema.administrative_area_type.iso_country> "Tunisia" .
+<Acting_President_of_Iraq> <government.government_office_or_title.category> "Acting President" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<m.0l7f869> <organization.leadership.organization> "The Art Institute of California – Los Angeles" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<m.04dmx13> <business.employment_tenure.company> "Starwood Hotels and Resorts Worldwide" .
+<Acting_President_of_Malta> <common.topic.article> "m.02707xk" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0101bdq3" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<Politician> <type.type.properties> "Government Positions Held" .
+<Ben_Arous_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<neilplus's_types> <freebase.domain_profile.category> "Male" .
+<Mark_A._Hussey> <people.person.gender> "Male" .
+<Kasserine_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Officeholder> <type.property.reverse_property> "Government Positions Held" .
+<m.04j7589> <business.employment_tenure.person> "Ronald T.  Lemay" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm06y" .
+<m.09y01p3> <common.webpage.topic> "Politician" .
+<Politician> <common.topic.webpage> "m.09yw165" .
+<Acting_President_of_Iraq> <government.government_office_or_title.jurisdiction> "Iraq" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0101h_l2" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010662rx" .
+<Government_Office_or_Title> <type.type.properties> "Category" .
+<Zaghouan_Governorate> <location.location.containedby> "Tunisia" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Tunis> <location.location.events> "Capture of Mahdiye" .
+<Nicholas_Murray_Butler> <people.person.employment_history> "m.04hd04s" .
+<Kebili_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Henry_Augustus_Perkins> <business.board_member.leader_of> "m.0k6cpp8" .
+<Consul> <common.topic.notable_types> "Profession" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<Politician> <freebase.type_hints.included_types> "Topic" .
+<m.030rcfr> <business.employment_tenure.company> "Questcor Pharmaceuticals" .
+<Non-gonococcal_urethritis> <medicine.disease.risk_factors> "Male" .
+<Acting_President> <government.government_office_category.offices> "Acting President of Moldova" .
+<Politician> <common.topic.article> "m.02xlj10" .
+<Tozeur_Governorate> <location.administrative_division.country> "Tunisia" .
+<m.0k3ct9f> <organization.leadership.person> "Frank Cleveland Bolton" .
+<Nabeul_Governorate> <location.location.containedby> "Tunisia" .
+<Atlas_Mountains> <travel.tourist_attraction.near_travel_destination> "Tunisia" .
+<Tribal_Rights_Leader> <common.topic.notable_types> "Profession" .
+<Cedar_Crest_College> <education.educational_institution_campus.educational_institution> "Cedar Crest College" .
+<m.04dxw7r> <business.employment_tenure.title> "Acting President" .
+<m.011c0sd7> <organization.leadership.person> "Dejan Židan" .
+<Kyphosis> <medicine.disease.risk_factors> "Male" .
+<m.0njrj4n> <organization.leadership.person> "Rod Beilby" .
+<Frank_Griffin> <common.topic.notable_types> "Person" .
+<Acting_President> <organization.role.leaders> "m.0k6cd7g" .
+<Acting_President> <government.government_office_category.offices> "Acting President of Poland" .
+<m.010gxfgq> <government.government_position_held.jurisdiction_of_office> "Iraq" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010662by" .
+<Tunisia> <location.country.administrative_divisions> "Kef Governorate" .
+<Ariana_Governorate> <location.location.containedby> "Tunisia" .
+<m.0k6cd84> <organization.leadership.organization> "Trinity College" .
+<m.02_8j69> <business.employment_tenure.title> "Acting President" .
+<Capture_of_Mahdiye> <time.event.locations> "Mahdia" .
+<Acting_President> <business.job_title.people_with_this_title> "m.0j_fc7g" .
+<Yuba_College> <education.educational_institution_campus.educational_institution> "Yuba College" .
+<Zaghouan_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Rachid_Sfar> <common.topic.notable_for> "g.125bq2kjw" .
+<m.0k3ct8l> <organization.leadership.organization> "Texas A&M University" .
+<Mehdi_Jomaa> <people.person.place_of_birth> "Mahdia" .
+<Geneva_Reformed_Seminary> <education.educational_institution_campus.educational_institution> "Geneva Reformed Seminary" .
+<m.0k3cspy> <organization.leadership.organization> "Texas A&M University" .
+<David_Willard_Williams> <business.board_member.leader_of> "m.0k3csry" .
+<m.010g45cz> <government.government_position_held.office_holder> "Rachid Sfar" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<Basic_title> <type.property.reverse_property> "Officeholders" .
+<Gout> <medicine.icd_9_cm_classification.includes_classifications> "Gout" .
+<Environmentalist> <people.profession.specialization_of> "Politician" .
+<Syphilis> <medicine.disease.symptoms> "Hair loss" .
+<Sfax_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Gafsa_Governorate> <location.location.containedby> "Tunisia" .
+<Tunisia> <location.country.administrative_divisions> "Gafsa Governorate" .
+<Jimi_Agbaje> <common.topic.notable_types> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<Government_office_category> <type.type.domain> "Government" .
+<Politician> <people.profession.specializations> "Tribal chief" .
+<Alaskan_Health_Care_Leader> <people.profession.specialization_of> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<Midwestern_Baptist_Theological_Seminary> <education.educational_institution_campus.educational_institution> "Midwestern Baptist Theological Seminary" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<Myocardial_Ischemia> <medicine.disease.symptoms> "heart attack" .
+<Pierre_Gignac> <people.person.gender> "Male" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<m.0k3cspy> <organization.leadership.role> "Acting President" .
+<m.0n4rc5w> <organization.leadership.person> "Jeffrey Shapiro" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<Civil_Rights_Leader> <people.profession.specialization_of> "Politician" .
+<m.0k6cd84> <organization.leadership.role> "Acting President" .
+<Acting_President> <organization.role.leaders> "m.0k3csq8" .
+<Africa> <location.location.time_zones> "Central European Time Zone" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<Acting_President> <common.topic.article> "m.01zdth" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<John_S._Satkowski> <business.board_member.leader_of> "m.0hd3dm9" .
+<United_States_Senator> <common.topic.notable_types> "Government Office or Title" .
+<Officeholder> <type.property.expected_type> "Politician" .
+<Tunisia> <location.country.administrative_divisions> "Siliana Governorate" .
+<Children’s_Rights_Leader> <common.topic.notable_types> "Profession" .
+<Consul> <people.profession.specialization_of> "Politician" .
+<MidAmerica_Nazarene_University> <education.educational_institution_campus.educational_institution> "MidAmerica Nazarene University" .
+<Trinity_College> <organization.organization.leadership> "m.0k6cd84" .
+<Mahdia> <location.location.people_born_here> "Fahed Dermech" .
+<Acting_President> <organization.role.leaders> "m.0m1vk_n" .
+<Cincinnati_College_of_Mortuary_Science> <education.educational_institution_campus.educational_institution> "Cincinnati College of Mortuary Science" .
+<m.02kqd7m> <business.employment_tenure.title> "Acting President" .
+<Africa> <base.locations.continents.countries_within> "Tunisia" .
+<m.0k3ctls> <organization.leadership.role> "Acting President" .
+<m.04kpmpp> <business.employment_tenure.person> "Blenda J. Wilson" .
+<Political_Attache> <people.profession.specialization_of> "Politician" .
+<Politician> <type.type.expected_by> "Winner" .
+<m.0njrj4n> <organization.leadership.role> "Acting President" .
+<m.09x3j7h> <common.webpage.topic> "Politician" .
+<Acting_President> <business.job_title.people_with_this_title> "m.030rcfr" .
+<Tunisian_governorate> <freebase.type_hints.included_types> "Topic" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04kfx73" .
+<Politician> <people.profession.specializations> "Town supervisor" .
+<Mahdia> <location.location.people_born_here> "g.11ksgptzm" .
+<Athlete's_foot> <medicine.disease.risk_factors> "Male" .
+<Politician> <people.profession.specializations> "Mayor of Montazels" .
+<Acting_President> <organization.role.leaders> "m.0n3m6_0" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<Bizerte_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<AIDS_Policy_Specialist> <people.profession.specialization_of> "Politician" .
+<Acting_President> <organization.role.leaders> "m.0n4rc5w" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660mk" .
+<Paget's_disease_of_bone> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010g6wtj" .
+<m.012qy4wz> <organization.leadership.role> "Acting President" .
+<Acting_President_of_Moldova> <government.government_office_or_title.category> "Acting President" .
+<Jim_Diehl> <business.board_member.leader_of> "m.0h8ff5r" .
+<Autism> <medicine.disease.risk_factors> "Male" .
+<Acting_President> <business.job_title.people_with_this_title> "m.0gdj4f2" .
+<Akinwunmi_Ambode> <people.person.profession> "Politician" .
+<Government_office_category> <freebase.type_hints.included_types> "Topic" .
+<Richland_College> <education.educational_institution_campus.educational_institution> "Richland College" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Statesman> <common.topic.notable_types> "Profession" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<Tetralogy_of_Fallot> <medicine.disease.risk_factors> "Male" .
+<Cedar_Crest_College> <business.employer.employees> "m.04kpmpp" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661x1" .
+<Acting_President> <organization.role.leaders> "m.0k3ctms" .
+<Urethritis> <medicine.disease.risk_factors> "Male" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Sfax Governorate" .
+<Mahdia_Governorate> <location.administrative_division.country> "Tunisia" .
+<Prime_minister> <common.topic.notable_types> "Government office category" .
+<All_the_King's_Men> <book.written_work.subjects> "Politician" .
+<Siliana_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Tunis> <location.location.events> "Mahdia campaign of 1087" .
+<Texas_A&M_University> <education.educational_institution_campus.educational_institution> "Texas A&M University" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Kasserine_Governorate> <location.location.containedby> "Tunisia" .
+<Urolithiasis> <medicine.disease.risk_factors> "Male" .
+<m.09x5gkq> <common.webpage.topic> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Meningococcal_disease> <medicine.disease.risk_factors> "Male" .
+<Tozeur_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Charles_Puryear> <business.board_member.leader_of> "m.0k3ct8l" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011r12cq" .
+<Mahdia_campaign_of_1087> <time.event.locations> "Mahdia" .
+<Mahdia> <location.administrative_division.country> "Tunisia" .
+<Acting_President> <organization.role.leaders> "m.0k3csqs" .
+<Victor_Jaime> <business.board_member.leader_of> "m.0n0546l" .
+<Tunisia> <location.country.administrative_divisions> "Tozeur Governorate" .
+<Barnard_College> <education.educational_institution.parent_institution> "Columbia University" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<m.04kfwvf> <business.employment_tenure.company> "Reed College" .
+<Kairouan_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<m.04mn90b> <government.government_position_held.basic_title> "Acting President" .
+<m.03gmjcw> <business.employment_tenure.person> "Jonah Sigel" .
+<m.0k3njkw> <organization.leadership.organization> "Georgia Perimeter College" .
+<Politician> <common.topic.webpage> "m.09xrn7q" .
+<Homer_A._Neal> <people.person.employment_history> "m.04dy7px" .
+<Politician> <type.type.expected_by> "Responsible Minister" .
+<m.0j89bvb> <organization.leadership.role> "Acting President" .
+<Tunis> <location.administrative_division.country> "Tunisia" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<Lutheran_School_of_Theology_at_Chicago> <organization.organization.leadership> "m.0j2hvbs" .
+<Ross_Thompson> <people.person.employment_history> "m.04kk4n4" .
+<Texas_A&M_University> <organization.organization.leadership> "m.0k3ctms" .
+<Housing_and_Community_Development_Leader> <common.topic.notable_types> "Profession" .
+<Rachid_Sfar> <common.topic.article> "m.09w_qk" .
+<m.01069xjb> <organization.organization_board_membership.organization> "Shakti Samuha" .
+<Melissa_Vayda> <business.board_member.leader_of> "m.0rqhthg" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<Myocardial_Ischemia> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Sousse_Governorate> <location.location.containedby> "Tunisia" .
+<Trinity_College> <organization.organization.leadership> "m.0k6bv10" .
+<Politician> <people.profession.specializations> "Housing and Community Development Leader" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<Acting_President_of_Russia> <government.government_office_or_title.category> "Acting President" .
+<Acting_President> <organization.role.leaders> "m.0k6bv10" .
+<m.04kfx73> <business.employment_tenure.person> "Frank Griffin" .
+<m.0k3ct9f> <organization.leadership.organization> "Texas A&M University" .
+<Government_office_category> <type.type.expected_by> "Basic title" .
+<Politician> <type.type.expected_by> "Officeholder" .
+<Politician> <people.profession.specializations> "Tribal Rights Leader" .
+<m.011c0sd7> <organization.leadership.role> "Acting President" .
+<m.0k3csm0> <organization.leadership.organization> "Texas A&M University" .
+<Acting_President> <common.topic.notable_types> "Government office category" .
+<Rachid_Sfar> <government.politician.government_positions_held> "m.010g45cz" .
+<Politician> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<Georgia_Perimeter_College> <business.employer.employees> "m.0j_fc7g" .
+<Politician> <people.profession.specializations> "Statesman" .
+<Kairouan_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Mahdia> <location.location.people_born_here> "Youssef Rzouga" .
+<Tunis_Governorate> <location.location.contains> "Tunis" .
+<m.0hd8whz> <organization.leadership.person> "Stanley C. Preczewski" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<Oficer-Major_of_King_Zog__I> <people.profession.specialization_of> "Politician" .
+<Acting_President_of_Poland> <common.topic.article> "m.02r4_l9" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Kasserine Governorate" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<m.0k3ct7l> <organization.leadership.role> "Acting President" .
+<Ariana_Governorate> <location.administrative_division.country> "Tunisia" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zmmt" .
+<Seborrheic_dermatitis> <medicine.symptom.symptom_of> "Parkinson's disease" .
+<Acting_President> <business.job_title.people_with_this_title> "m.03gmjcw" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Tozeur Governorate" .
+<m.0n3m6_0> <organization.leadership.organization> "Providence Christian College" .
+<Acting_President> <organization.role.leaders> "m.0k3csry" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.012vsxv7" .
+<Tataouine_Governorate> <location.location.containedby> "Tunisia" .
+<Tunisia> <location.location.time_zones> "Central European Time Zone" .
+<m.0k6cmg3> <organization.leadership.person> "​Authur Howard Hughes" .
+<Party_organizer> <common.topic.notable_types> "Profession" .
+<Tataouine_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Tribal_chief> <people.profession.specialization_of> "Politician" .
+<​Authur_Howard_Hughes> <business.board_member.leader_of> "m.0k6cd6g" .
+<m.09x20cj> <common.webpage.topic> "Politician" .
+<Zoe_Cruz> <people.person.employment_history> "m.04dxw7r" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<Profession> <freebase.type_profile.strict_included_types> "Topic" .
+<Siliana_Governorate> <location.location.containedby> "Tunisia" .
+<John_Brocklesby> <business.board_member.leader_of> "m.0k6ckkn" .
+<Mahdia> <location.location.events> "Mahdia campaign of 1087" .
+<William_Stuart_Lorraine_Bringhurst> <business.board_member.leader_of> "m.0k3ctm8" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Ronald_R._Thomas> <business.board_member.leader_of> "m.0k6bv10" .
+<m.0j0z6lp> <organization.leadership.person> "Karen Walters Dunlap" .
+<Kaposi's_sarcoma> <medicine.disease.risk_factors> "Male" .
+<Mayor> <common.topic.notable_types> "Government Office or Title" .
+<Person> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<Politician> <people.profession.specializations> "Consul" .
+<Borden_Winslow_Painter,_Jr.> <business.board_member.leader_of> "m.0k6cd84" .
+<Mehdi_Jomaa> <people.person.nationality> "Tunisia" .
+<Tunisia> <base.aareas.schema.administrative_area.pertinent_type> "Tunisian governorate" .
+<m.0n0546l> <organization.leadership.organization> "Imperial Valley College" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<Trinity_College> <education.educational_institution.campuses> "Trinity College" .
+<Tunisia> <location.country.administrative_divisions> "Ben Arous Governorate" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Mahdia> <location.location.people_born_here> "g.11ksg_01k" .
+<Gabès_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Politician> <base.ontologies.ontology_class.equivalent_classes> "m.0dj2gvd" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661wn" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<Jendouba_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "United States Representative" .
+<MidAmerica_Nazarene_University> <organization.organization.leadership> "m.0h8ff5r" .
+<Cincinnati_College_of_Mortuary_Science> <organization.organization.leadership> "m.0n4rc5w" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Zaghouan Governorate" .
+<Politician> <common.topic.subject_of> "Jimi Agbaje" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04kk4nz" .
+<Politician> <people.profession.specializations> "Party organizer" .
+<m.04kk4nk> <business.employment_tenure.company> "Reed College" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Attention deficit hyperactivity disorder" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0k3csry> <organization.leadership.role> "Acting President" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<Ellen_V._Futter> <people.person.employment_history> "m.04d0nm0" .
+<Politician> <base.schemastaging.context_name.pronunciation> "g.125_lw10d" .
+<m.02kqd7m> <business.employment_tenure.company> "Concordia University" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Transient_ischemic_attack> <medicine.disease.causes> "Cardiovascular disease" .
+<Rod_Beilby> <business.board_member.leader_of> "m.0njrj4n" .
+<Alvin_Luedecke> <business.board_member.leader_of> "m.0k3cspy" .
+<Usurper> <people.profession.specialization_of> "Politician" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Mahdia Governorate" .
+<Tunis> <location.location.containedby> "Africa" .
+<Energy_Policy_Specialist> <people.profession.specialization_of> "Politician" .
+<Bizerte_Governorate> <location.location.containedby> "Tunisia" .
+<m.0k3ct8l> <organization.leadership.role> "Acting President" .
+<University_of_Michigan> <education.educational_institution_campus.educational_institution> "University of Michigan" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04dy7px" .
+<m.0k3ctms> <organization.leadership.organization> "Texas A&M University" .
+<Sidi_Bouzid_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Multiple_myeloma> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Amine_Bannour> <people.person.gender> "Male" .
+<James_E._Hohmann> <people.person.gender> "Male" .
+<Politician> <people.profession.specializations> "Children’s Rights Leader" .
+<Mahdia> <location.location.people_born_here> "Yassine Brahim" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<Acting_President_of_Moldova> <common.topic.notable_for> "g.125b02mbj" .
+<Charles_H._Samson,_Jr.> <business.board_member.leader_of> "m.0k3csm0" .
+<Nagi_Naganathan> <business.board_member.leader_of> "m.0116lj_r" .
+<Tunisia> <location.country.languages_spoken> "Arabic Language" .
+<Tunisia> <location.country.administrative_divisions> "Kairouan Governorate" .
+<George_Hay> <common.topic.notable_types> "Person" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<Rural_Development_Leader> <common.topic.notable_types> "Profession" .
+<United_States_Representative> <common.topic.notable_types> "Government Office or Title" .
+<Politician> <owl#inverseOf> "Party" .
+<m.0k6cd6g> <organization.leadership.organization> "Trinity College" .
+<Mahdia> <location.location.contains> "Mahdia Museum" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<m.0l7f869> <organization.leadership.person> "Janet Day" .
+<Sidi_Bouzid_Governorate> <location.administrative_division.country> "Tunisia" .
+<Marion_Thomas_Harrington> <business.board_member.leader_of> "m.0k3ctc8" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<m.010gfx72> <government.government_position_held.basic_title> "Acting President" .
+<Amine_Bannour> <people.person.nationality> "Tunisia" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106629x" .
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Mohamed_Zouaoui> <people.person.gender> "Male" .
+<Dejan_Židan> <people.person.profession> "Politician" .
+<Golfer's_elbow> <medicine.disease.risk_factors> "Male" .
+<m.04kpmpp> <business.employment_tenure.company> "Cedar Crest College" .
+<Mahdia> <location.location.geolocation> "m.02_g6cc" .
+<m.011c0sd7> <freebase.valuenotation.has_no_value> "To" .
+<Medenine_Governorate> <location.administrative_division.country> "Tunisia" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5pl8" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5phw" .
+<m.0116lj_r> <organization.leadership.role> "Acting President" .
+<m.09xrn7q> <common.webpage.topic> "Politician" .
+<Government_office_category> <type.type.properties> "Offices" .
+<Political_Attache> <common.topic.notable_types> "Profession" .
+<Acting_President> <government.government_office_category.offices> "Interim and Acting President of Israel" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<Transient_ischemic_attack> <medicine.disease.risk_factors> "Male" .
+<Georgia_College_&_State_University> <education.educational_institution.campuses> "Georgia College & State University" .
+<m.04j7589> <business.employment_tenure.company> "SoftBank Telecom" .
+<Cliff_Richardson> <business.board_member.leader_of> "m.0j89bvb" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Imperial_Valley_College> <education.educational_institution.campuses> "Imperial Valley College" .
+<Sebaceous_cyst> <medicine.disease.risk_factors> "Male" .
+<Retroperitoneal_fibrosis> <medicine.disease.risk_factors> "Male" .
+<Club_foot> <medicine.disease.risk_factors> "Male" .
+<James_Reid_Cole> <business.board_member.leader_of> "m.0k3ctls" .
+<Akinwunmi_Ambode> <people.person.quotations> "Akinwunmi Ambode" .
+<Pierre_Gignac> <business.board_member.leader_of> "m.0zwyw1p" .
+<m.0rqhcn1> <organization.leadership.person> "Marshall Walker" .
+<Jeffrey_Shapiro> <business.board_member.leader_of> "m.0n4rc5w" .
+<Rod_Beilby> <people.person.gender> "Male" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Tataouine Governorate" .
+<Jimi_Agbaje> <common.topic.subjects> "Politician" .
+<m.0k6bv10> <organization.leadership.role> "Acting President" .
+<Politician> <type.type.expected_by> "Resulting head of state" .
+<Akinwunmi_Ambode> <common.topic.notable_types> "Person" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zmdy" .
+<Sousse_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Acting_President> <organization.role.governors> "m.01069xjb" .
+<Kasserine_Governorate> <location.administrative_division.country> "Tunisia" .
+<m.0hd8whz> <organization.leadership.organization> "Georgia College & State University" .
+<m.010g45dv> <government.political_party_tenure.party> "Socialist Destourian Party" .
+<m.0qfgl6b> <organization.leadership.role> "Acting President" .
+<m.0hpyg2r> <organization.leadership.role> "Acting President" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjm1" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<Geneva_Reformed_Seminary> <organization.organization.leadership> "m.0qfgl6b" .
+<Tunisia> <location.country.administrative_divisions> "Zaghouan Governorate" .
+<Mahdia> <location.location.time_zones> "Central European Time Zone" .
+<Acting_President> <government.government_office_category.offices> "Acting President of Malta" .
+<m.0k3ctms> <organization.leadership.role> "Acting President" .
+<Dominic_A._Aquila> <people.person.gender> "Male" .
+<Manouba_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066106" .
+<Texas_A&M_University> <organization.organization.leadership> "m.0k3ctls" .
+<m.04kk4nk> <business.employment_tenure.person> "George Hay" .
+<Yuba_College> <education.educational_institution.campuses> "Yuba College" .
+<Lutheran_School_of_Theology_at_Chicago> <education.educational_institution.campuses> "Lutheran School of Theology at Chicago" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010679yq" .
+<Politics> <people.professional_field.professions_in_this_field> "Politician" .
+<Tunisia> <government.governmental_jurisdiction.governing_officials> "m.010g45cz" .
+<m.0j_fc7g> <business.employment_tenure.company> "Georgia Perimeter College" .
+<Politician> <common.topic.webpage> "m.09x20cj" .
+<Politician> <book.book_subject.works> "All the King's Men" .
+<m.0hd3dm9> <organization.leadership.organization> "Owens Community College" .
+<m.011c0sd7> <organization.leadership.organization> "Social Democrats" .
+<Roger_Haddock_Whitlock> <business.board_member.leader_of> "m.0k3ct7l" .
+<Rachid_Sfar> <people.person.profession> "Politician" .
+<Acting_President_of_Russia> <common.topic.notable_for> "g.12590cny7" .
+<m.04kk4ms> <business.employment_tenure.title> "Acting President" .
+<Politician> <people.profession.specializations> "Political strategist" .
+<Charles_Barrett> <people.person.gender> "Male" .
+<Columbia_University> <education.educational_institution.subsidiary_or_constituent_schools> "Barnard College" .
+<Trinity_College> <organization.organization.leadership> "m.0k6cng4" .
+<Chairman,_Chivalry_Democratic_Party> <common.topic.notable_types> "Profession" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Tunis> <location.location.time_zones> "Central European Time Zone" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Providence_Christian_College> <organization.organization.leadership> "m.0n3m6_0" .
+<Profession> <freebase.type_profile.published> "Published" .
+<Acting_President_of_Malta> <government.government_office_or_title.category> "Acting President" .
+<Politician> <people.profession.specializations> "Alaskan Health Care Leader" .
+<Jendouba_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Trinity_College> <organization.organization.leadership> "m.0k6cmg3" .
+<Tunisia> <location.country.administrative_divisions> "Jendouba Governorate" .
+<Mark_Hussy> <business.board_member.leader_of> "m.010r63tn" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Texas_A&M_University> <organization.organization.leadership> "m.0k3csqs" .
+<Béja_Governorate> <location.location.containedby> "Tunisia" .
+<m.02_8j69> <business.employment_tenure.company> "Feedster" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<m.0k3csry> <organization.leadership.organization> "Texas A&M University" .
+<Acting_President> <organization.role.leaders> "m.0hpyg2r" .
+<Politician> <people.profession.specializations> "local politician" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105znh0" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106b4sm" .
+<Jonah_Sigel> <common.topic.notable_types> "Person" .
+<m.0rqhthg> <organization.leadership.organization> "Central Penn College" .
+<Acting_President_of_Iraq> <common.topic.notable_for> "g.11bbqm0j8x" .
+<Tunisia> <location.location.containedby> "Africa" .
+<Politician_&_Trade_Unionist> <people.profession.specialization_of> "Politician" .
+<Gastritis> <medicine.disease.risk_factors> "Male" .
+<Trinity_College> <education.educational_institution_campus.educational_institution> "Trinity College" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<Sfax_Governorate> <location.administrative_division.country> "Tunisia" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106614m" .
+<Byron_Youtz> <common.topic.notable_types> "Person" .
+<Akinwunmi_Ambode> <people.person.gender> "Male" .
+<Texas_A&M_University> <organization.organization.leadership> "m.0k3cspy" .
+<Arthur_Scott> <common.topic.notable_types> "Person" .
+<Reed_College> <education.educational_institution.campuses> "Reed College" .
+<Midwestern_Baptist_Theological_Seminary> <organization.organization.leadership> "m.0m1vk_n" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Nicholas_Murray_Butler> <people.person.profession> "Diplomat" .
+<Head_of_Government_of_Tunisia> <common.topic.notable_types> "Government Office or Title" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Seborrheic_dermatitis> <medicine.disease.risk_factors> "Male" .
+<m.0k6cpp8> <organization.leadership.organization> "Trinity College" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<Henry_Augustus_Perkins> <business.board_member.leader_of> "m.0k6cng4" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<Rural_Development_Leader> <people.profession.specialization_of> "Politician" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Ariana Governorate" .
+<m.0k3ctls> <organization.leadership.person> "James Reid Cole" .
+<Acting_President> <organization.role.leaders> "m.010r63tn" .
+<Manouba_Governorate> <location.administrative_division.country> "Tunisia" .
+<m.010gfx72> <freebase.valuenotation.is_reviewed> "Basic title" .
+<Vive_Targi_Kielce> <sports.sports_team.gender> "Male" .
+<Town_supervisor> <common.topic.notable_types> "Profession" .
+<Hair_loss> <medicine.risk_factor.diseases> "Stroke" .
+<Trinity_College> <organization.organization.leadership> "m.0k6cpp8" .
+<Barnard_College> <education.educational_institution_campus.educational_institution> "Barnard College" .
+<Victor_Jaime> <people.person.gender> "Male" .
+<Politician> <freebase.type_profile.strict_included_types> "Animate" .
+<m.030rcfr> <business.employment_tenure.title> "Acting President" .
+<Usurper> <common.topic.notable_types> "Profession" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zndc" .
+<Texas_A&M_University> <organization.organization.leadership> "m.012qy4wz" .
+<Marvin_Samson> <business.board_member.leader_of> "m.0hf271z" .
+<m.0k3cspy> <organization.leadership.person> "Alvin Luedecke" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Kef Governorate" .
+<Barnard_College> <business.employer.employees> "m.04d0nm0" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<m.010g45cz> <government.government_position_held.basic_title> "Prime minister" .
+<m.04dxw7r> <business.employment_tenure.company> "Morgan Stanley" .
+<Politician> <type.type.expected_by> "Sponsor" .
+<Byron_Youtz> <people.person.employment_history> "m.04kk4ms" .
+<Béja_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Labor_leader> <common.topic.notable_types> "Profession" .
+<Gafsa_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<m.0k3csm0> <organization.leadership.person> "Charles H. Samson, Jr." .
+<Charles_A._Winterstein> <common.topic.notable_types> "Person" .
+<Risk_Factor> <freebase.type_hints.included_types> "Topic" .
+<Acting_President> <organization.role.leaders> "m.0k3ct9f" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<Gafsa_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5prp" .
+<m.0j_fc7g> <business.employment_tenure.person> "Rob Watts" .
+<m.0qfgl6b> <organization.leadership.organization> "Geneva Reformed Seminary" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04hd04s" .
+<Acting_President> <organization.role.leaders> "m.0k3ctc8" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<Philip_L._Hougen> <business.board_member.leader_of> "m.0j2hvbs" .
+<Politician> <people.profession.specializations> "Party leader" .
+<The_Art_Institute_of_California_–_Los_Angeles> <education.educational_institution.campuses> "The Art Institute of California – Los Angeles" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678k6" .
+<Questcor_Pharmaceuticals> <business.employer.employees> "m.030rcfr" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Monastir Governorate" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<Trinity_College> <organization.organization.leadership> "m.0k6ckkn" .
+<m.0j2hvbs> <organization.leadership.organization> "Lutheran School of Theology at Chicago" .
+<Mahdia> <common.topic.image> "Skifa mahdia" .
+<RACHID_SFAR_ancien_Premier_Ministre_Tunisien> <common.image.size> "m.03r31t2" .
+<Charles_Barrett> <business.board_member.leader_of> "m.0qfgl6b" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04kk4ms" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04kfx56" .
+<Politician> <type.type.expected_by> "Politician" .
+<m.010gxfgq> <government.government_position_held.office_position_or_title> "Acting President of Iraq" .
+<Community_College_of_Denver> <education.educational_institution_campus.educational_institution> "Community College of Denver" .
+<Ed_J._Davis> <business.board_member.leader_of> "m.0k3csq8" .
+<Males> <base.skosbase.skos_concept.equivalent_topic> "Male" .
+<m.0j0z6lp> <organization.leadership.role> "Acting President" .
+<Mahdia> <location.location.people_born_here> "Amine Bannour" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661yt" .
+<Politician> <type.type.expected_by> "Resulting head of government" .
+<m.0rqhcn1> <organization.leadership.role> "Acting President" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Acting_President_of_Malta> <common.topic.notable_types> "Government Office or Title" .
+<Tunisia> <location.country.administrative_divisions> "Medenine Governorate" .
+<Marshall_Walker> <people.person.gender> "Male" .
+<Ross_Thompson> <common.topic.notable_types> "Person" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<m.0b45tny> <common.webpage.topic> "Politician" .
+<m.0hpyg2r> <organization.leadership.organization> "Richland College" .
+<Politician> <people.profession.specializations> "Rebel" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zn9p" .
+<Mayor_of_Auckland> <common.topic.notable_types> "Profession" .
+<Profession> <freebase.type_hints.included_types> "Topic" .
+<Jimi_Agbaje> <people.person.gender> "Male" .
+<m.0rqhcn1> <organization.leadership.organization> "Kansas City University of Medicine and Biosciences" .
+<m.0k6cd7g> <organization.leadership.role> "Acting President" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Medenine Governorate" .
+<Politician> <people.profession.specializations> "City council" .
+<Benign_prostatic_hyperplasia> <medicine.disease.risk_factors> "Male" .
+<Rob_Watts> <business.board_member.leader_of> "m.0k3njkw" .
+<Tunis_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<m.04kk4nz> <business.employment_tenure.company> "Reed College" .
+<Town_supervisor> <people.profession.specialization_of> "Politician" .
+<Acting_President> <government.government_office_category.offices> "Acting President of Russia" .
+<Interim_and_Acting_President_of_Israel> <common.topic.notable_types> "Government Office or Title" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zn7k" .
+<Acting_President_of_Poland> <common.topic.notable_types> "Government Office or Title" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106613k" .
+<Mahdia_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<Georgia_College_&_State_University> <education.educational_institution_campus.educational_institution> "Georgia College & State University" .
+<Acting_President_of_Russia> <government.government_office_or_title.office_holders> "m.04mn90b" .
+<Modesto_Junior_College> <organization.organization.leadership> "m.0j0z6lp" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<Nathalie_Kosciusko-Morizet> <common.topic.subject_of> "Politician" .
+<Acting_President> <organization.role.leaders> "m.0hf271z" .
+<Syphilis> <medicine.disease.risk_factors> "Male" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<Acting_President> <organization.role.leaders> "m.0l7f869" .
+<University_of_the_Sciences> <education.educational_institution.campuses> "University of the Sciences" .
+<Community_College_of_Denver> <organization.organization.leadership> "m.0j89bvb" .
+<Don_M._Bailey> <people.person.gender> "Male" .
+<Tunisia> <location.country.administrative_divisions> "Bizerte Governorate" .
+<Peter_Steinberger> <people.person.employment_history> "m.04kfwvf" .
+<Politician> <common.topic.webpage> "m.09w_20n" .
+<m.0k6bv10> <organization.leadership.organization> "Trinity College" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<m.0k6ckkn> <organization.leadership.role> "Acting President" .
+<Politician> <base.ontologies.ontology_instance.equivalent_instances> "m.07ngkqq" .
+<Politician> <people.profession.specializations> "Labor leader" .
+<Concordia_University> <business.employer.employees> "m.02kqd7m" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<m.0116lj_r> <organization.leadership.organization> "University of Toledo" .
+<Gafsa_Governorate> <location.administrative_division.country> "Tunisia" .
+<Party_leader> <people.profession.specialization_of> "Politician" .
+<Acting_President> <government.government_office_category.offices> "Acting President of Iraq" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<m.04kfx56> <business.employment_tenure.title> "Acting President" .
+<m.010gfx72> <government.government_position_held.office_position_or_title> "Acting President of Poland" .
+<Politician> <type.property.reverse_property> "Party" .
+<Richland_College> <organization.organization.leadership> "m.0hpyg2r" .
+<Kef_Governorate> <base.aareas.schema.administrative_area.administrative_area_type> "Tunisian governorate" .
+<m.0k3ctms> <organization.leadership.person> "Roger Haddock Whitlock" .
+<Politician> <type.type.expected_by> "Member" .
+<m.0k6bv10> <organization.leadership.person> "Ronald R. Thomas" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0101bdn_" .
+<Politician> <freebase.type_hints.included_types> "Person" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Acting_President> <business.job_title.people_with_this_title> "m.02_8j69" .
+<Interim_and_Acting_President_of_Israel> <common.topic.notable_for> "g.1256t7b_c" .
+<Politician> <common.topic.subjects> "Akinwunmi Ambode" .
+<Alvin_Luedecke> <people.person.gender> "Male" .
+<Mahdia> <location.location.events> "Barbary Crusade" .
+<Providence_Christian_College> <education.educational_institution_campus.educational_institution> "Providence Christian College" .
+<Male> <common.topic.image> "male.jpg" .
+<m.0k3njkw> <organization.leadership.person> "Rob Watts" .
+<Acting_President> <organization.role.leaders> "m.0k3ctls" .
+<m.0k3ctm8> <organization.leadership.person> "William Stuart Lorraine Bringhurst" .
+<m.0n4rc5w> <organization.leadership.organization> "Cincinnati College of Mortuary Science" .
+<Head_of_Government_of_Tunisia> <government.government_office_or_title.office_holders> "m.010g45cz" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066mdj" .
+<Acting_President_of_Poland> <common.topic.image> "Komorowski12" .
+<Acting_President_of_Poland> <government.government_office_or_title.category> "Acting President" .
+<Reed_College> <education.educational_institution_campus.educational_institution> "Reed College" .
+<Political_strategist> <people.profession.specialization_of> "Politician" .
+<Acting_President> <business.job_title.people_with_this_title> "m.04kk4n4" .
+<Mahdia> <common.topic.notable_for> "g.1256x51k4" .
+<Prefect> <common.topic.notable_types> "Profession" .
+<Nabeul_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Tunis> <common.topic.notable_types> "City/Town/Village" .
+<Dejan_Židan> <business.board_member.leader_of> "m.011c0sd7" .
+<Male> <common.topic.article> "m.05zpq8" .
+<Sousse_Governorate> <base.aareas.schema.administrative_area.administrative_parent> "Tunisia" .
+<Party> <type.property.master_property> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066mfd" .
+<Gout> <medicine.disease_cause.diseases> "Kidney Stone" .
+<m.0j2hvbs> <organization.leadership.role> "Acting President" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660nv" .
+<Mehdi_Jomaa> <common.topic.notable_types> "Politician" .
+<Acting_President> <organization.role.leaders> "m.0rqhcn1" .
+<Arthur_Scott> <people.person.employment_history> "m.04kfx56" .
+<Frank_Griffin> <people.person.employment_history> "m.04kfx73" .
+<Blenda_J._Wilson> <people.person.employment_history> "m.04kpmpp" .
+<m.04d0nm0> <business.employment_tenure.person> "Ellen V. Futter" .
+<Robin_D._Hadaway> <business.board_member.leader_of> "m.0m1vk_n" .
+<Basic_title> <rdf-schema#range> "Government office category" .
+<Bureaucrat> <people.profession.specialization_of> "Politician" .
+<Central_Penn_College> <organization.organization.leadership> "m.0rqhthg" .
+<Politician> <freebase.type_profile.published> "Published" .
+<Acting_President> <organization.role.leaders> "m.0j0z6lp" .
+<m.0n3m6_0> <organization.leadership.person> "Dominic A. Aquila" .
+<Tunisia> <base.aareas.schema.administrative_area.administrative_children> "Nabeul Governorate" .

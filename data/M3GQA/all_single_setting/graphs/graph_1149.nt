@@ -1,0 +1,1505 @@
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0jst5y3" .
+<Gastón_Silva> <common.topic.notable_types> "Football player" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010j2qdv" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.0110hmsr" .
+<So_Much_Water> <film.film.featured_film_locations> "Salto" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0_y3_tw" .
+<Estadio_Centenario> <location.location.events> "1988 Copa Interamericana" .
+<m.0j3_kzq> <freebase.valuenotation.has_no_value> "To" .
+<Uruguay_national_football_team> <base.tournaments.tournament_competitor.matches> "m.0cc33lh" .
+<Salto> <location.location.events> "Siege of Salto" .
+<m.0j3_l16> <sports.sports_team_roster.team> "Uruguay national football team" .
+<m.0rqcx0c> <sports.sports_team_roster.position> "Forward" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l3q" .
+<Obstructive_sleep_apnea> <medicine.disease.risk_factors> "Male" .
+<Rafael_Addiego_Bruno> <people.person.nationality> "Uruguay" .
+<Enrique_Amorim> <people.person.nationality> "Uruguay" .
+<Salto> <location.location.people_born_here> "José Leandro Andrade" .
+<Gout> <medicine.icd_9_cm_classification.parent_classification> "Gout" .
+<Ankylosing_spondylitis> <medicine.disease_cause.diseases> "Kyphosis" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Javier_Guarino> <people.person.nationality> "Uruguay" .
+<Kidney_Stone> <medicine.disease.causes> "Gout" .
+<Hirschsprung's_disease> <medicine.disease.risk_factors> "Male" .
+<m.09wvxvh> <common.webpage.topic> "Forward" .
+<1983_Copa_América_Final> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0cc33lh> <base.tournaments.match_competitor_relationship.match> "2010 FIFA World Cup Semi-finals - URU ./. NED" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<Estadio_Centenario> <location.location.events> "1930 FIFA World Cup" .
+<Sergio_Santín> <soccer.football_player.position_s> "Midfielder" .
+<Football_player> <type.type.expected_by> "Players" .
+<Forward> <common.topic.webpage> "m.09y3j1b" .
+<m.0w9dbb3> <soccer.football_player_stats.player> "Luis Suárez" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0l74b8f" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1995 Copa América" .
+<Forward> <common.topic.webpage> "m.09wvmyh" .
+<Sports_League_Championship_Event> <type.type.domain> "Sports" .
+<Bruno_Fornaroli> <common.topic.notable_types> "Football player" .
+<Luis_Suárez> <soccer.football_player.matches_played> "m.0g5mlcy" .
+<Football_player> <freebase.type_hints.included_types> "Athlete" .
+<Martín_Ferrando> <people.person.gender> "Male" .
+<Inguinal_hernia> <medicine.disease.risk_factors> "Male" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<Sandra_Suárez> <common.topic.notable_for> "g.125b548k9" .
+<Pedro_Rocha> <common.topic.notable_types> "Football player" .
+<m.0c06k8_> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.players> "Edinson Cavani" .
+<Uruguay_national_football_team> <base.tournaments.tournament_competitor.matches> "m.0c254pt" .
+<Maxi_Miliana_Suárez> <people.person.sibling_s> "m.0j6807n" .
+<m.0n5pmlc> <freebase.valuenotation.has_no_value> "To" .
+<Sergio_Santín> <people.person.nationality> "Uruguay" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_k_g" .
+<2010_FIFA_World_Cup_Semi-finals_-_URU_./._NED> <base.tournaments.tournament_match.competitors> "m.0cc33lh" .
+<m.0w9k1jp> <measurement_unit.dated_money_value.source> "http://www.soccerbase.com/players/player.sd?player_id=47538&season_id=142" .
+<Football_player> <freebase.type_profile.strict_included_types> "Athlete" .
+<m.0n5pmlc> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Benjamin_Suárez> <freebase.valuenotation.has_value> "Country of nationality" .
+<Football> <sports.sport.positions> "Winger" .
+<Forward> <common.topic.notable_for> "g.125d8f2bb" .
+<Risk_Factor> <freebase.type_profile.strict_included_types> "Topic" .
+<The_London_2012_Summer_Olympics> <olympics.olympic_games.participating_countries> "Brazil" .
+<m.0j3_l1q> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Uruguay_national_football_team> <base.tournaments.tournament_competitor.matches> "m.0c254t7" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<Events> <type.property.reverse_property> "Championship" .
+<Salto> <location.location.people_born_here> "Rubén Bentancourt" .
+<m.0g9m8g6> <soccer.football_goal.scorer> "Luis Suárez" .
+<American_football_player> <common.topic.notable_types> "Profession" .
+<Position(s)> <type.property.reverse_property> "Players" .
+<Luis_Suárez> <people.person.profession> "Football player" .
+<Winger> <common.topic.notable_types> "Football Position" .
+<Luis_Suárez> <people.person.children> "Delfina Suárez" .
+<1983_Copa_América> <time.event.includes_event> "1983 Copa América Final" .
+<Paolo_Suárez> <people.person.parents> "Rodolfo Suárez" .
+<Position(s)> <rdf-schema#range> "Football Position" .
+<Stuttering> <medicine.disease.risk_factors> "Male" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1942 South American Championship" .
+<Gastón_Silva> <people.person.nationality> "Uruguay" .
+<To> <rdf-schema#range> "Date/Time" .
+<m.09jy3vr> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<Uruguay_national_football_team> <sports.sports_team.arena_stadium> "Estadio Centenario" .
+<Uruguay_national_under-20_football_team> <sports.sports_team.venue> "m.0wz2p0k" .
+<Sports_League_Championship_Event> <type.type.properties> "Result" .
+<Sports> <type.domain.types> "Athlete" .
+<1983_Copa_América_Final> <time.event.locations> "Estádio Fonte Nova" .
+<Pedro_Rocha> <soccer.football_player.position_s> "Forward" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Bruno_Fornaroli> <people.person.nationality> "Uruguay" .
+<Juan_Ángel_Albín> <people.person.profession> "Football player" .
+<m.0w9dbcm> <soccer.football_player_stats.team> "Uruguay national football team" .
+<m.09ytzf1> <common.webpage.topic> "Forward" .
+<1987_Copa_América_Final> <sports.sports_championship_event.champion> "Uruguay national football team" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3s4" .
+<1920_South_American_Championship> <time.event.instance_of_recurring_event> "Copa América" .
+<Football_player> <type.type.expected_by> "Player" .
+<Sports_League_Championship_Event> <type.type.expected_by> "Championship" .
+<Shadow_Figure> <fictional_universe.fictional_character.place_of_birth> "Male" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<Rodolfo_Suárez> <freebase.valuenotation.has_value> "Place of birth" .
+<Luis_Suárez> <people.person.place_of_birth> "Salto" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Forward> <common.topic.webpage> "m.09wb10c" .
+<Rafael_Addiego_Bruno> <people.deceased_person.place_of_death> "Montevideo" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<m.09jy3wd> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<Liverpool_F.C.> <sports.sports_team.sport> "Football" .
+<Braian_Rodríguez> <soccer.football_player.position_s> "Forward" .
+<Athlete> <freebase.type_profile.kind> "Description" .
+<Marosa_di_Giorgio> <people.person.gender> "Female" .
+<Australian_rules_football_player> <people.profession.specialization_of> "Football player" .
+<Parents> <rdf-schema#range> "Person" .
+<m.09y8x67> <common.webpage.topic> "Forward" .
+<m.0c0ls6t> <soccer.football_player_match_participation.team> "Uruguay national football team" .
+<m.0j3_k_q> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<Soccer> <type.domain.types> "Football Position" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<Sports_Facility> <freebase.type_profile.published> "Published" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "2011 Copa América" .
+<m.0whf95d> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<David_Texeira> <common.topic.notable_types> "Football player" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Athlete> <freebase.equivalent_topic.equivalent_type> "Athlete" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<Paolo_Suárez> <people.person.nationality> "Uruguay" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0n5pmlc" .
+<Uruguay_v_Brazil> <time.event.included_in_event> "1950 FIFA World Cup" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<Athlete> <freebase.type_profile.published> "Published" .
+<To> <rdf-schema#range> "Date/Time" .
+<Estadio_Centenario> <sports.sports_facility.home_venue_for> "m.0wz2p0k" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<Pedro_Rocha> <soccer.football_player.position_s> "Midfielder" .
+<Braian_Rodríguez> <people.person.profession> "Soccer Player" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h36nh" .
+<m.0j499lz> <people.marriage.spouse> "Sofia Balbi" .
+<Eduardo_Gerolami> <people.person.place_of_birth> "Salto" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9fmjn" .
+<Horacio_Sequeira> <people.person.place_of_birth> "Salto" .
+<Female> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<m.09jy3pw> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<Estadio_Centenario> <location.location.events> "1965 Copa Libertadores Finals" .
+<Parents> <type.property.expected_type> "Person" .
+<Uruguay_national_football_team> <sports.sports_team.coaches> "m.0s9nrn7" .
+<Jorge_Soto> <people.person.gender> "Male" .
+<Hair_loss> <medicine.symptom.symptom_of> "Syphilis" .
+<m.0j3_l3g> <freebase.valuenotation.has_no_value> "To" .
+<m.0j3_kzq> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Javier_Guarino> <people.person.place_of_birth> "Salto" .
+<2010_FIFA_World_Cup_Semi-finals_-_URU_./._NED> <soccer.football_match.teams> "Uruguay national football team" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<Athlete> <freebase.type_hints.included_types> "Person" .
+<m.0j3_l06> <sports.sports_team_roster.position> "Forward" .
+<Forward> <common.topic.webpage> "m.09w2grw" .
+<Football4> <common.image.appears_in_topic_gallery> "Football player" .
+<Football_player> <type.type.expected_by> "Best Player" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h374r" .
+<Estadio_Centenario> <location.location.events> "2011 Copa Libertadores Finals" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<m.0w9fz0b> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Kyphosis> <medicine.disease.causes> "Ankylosing spondylitis" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<1960_Copa_Libertadores_Finals> <time.event.locations> "Estadio Centenario" .
+<Kidney_Stone> <medicine.disease_cause.diseases> "Urolithiasis" .
+<m.09y3j1b> <common.webpage.topic> "Forward" .
+<Football_player> <type.type.properties> "Statistics" .
+<Uruguay_national_football_team> <soccer.football_team.matches> "2010 FIFA World Cup Group A - MEX ./. URU" .
+<m.09jy3vr> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position> "Midfielder" .
+<m.0j6807n> <people.sibling_relationship.sibling> "Maxi Miliana Suárez" .
+<Estadio_Centenario> <location.location.events> "2014 FIFA World Cup qualification" .
+<Nephrotic_syndrome> <medicine.disease.risk_factors> "Male" .
+<Football_player> <base.lightweight.profession.specialization_of> "Athletes and Sports Competitors" .
+<Salto> <location.location.contains> "g.11h0j0cnl" .
+<Position(s)> <rdf-schema#domain> "Football player" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<Ever_Hugo_Almeida> <common.topic.notable_types> "Football player" .
+<Javier_Guarino> <soccer.football_player.position_s> "Forward" .
+<Uruguay_national_football_team> <common.topic.notable_types> "Football team" .
+<Forward> <common.topic.webpage> "m.09y8x67" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<Uruguay_national_football_team> <soccer.football_team.matches> "2010 FIFA World Cup Group A - RSA ./. URU" .
+<Washington_Cacciavillani> <soccer.football_player.position_s> "Forward" .
+<1950_FIFA_World_Cup> <time.event.includes_event> "Uruguay v Brazil" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<m.09jy3vd> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position> "Midfielder" .
+<Ankylosing_spondylitis> <medicine.disease.risk_factors> "Male" .
+<Uruguay_national_under-20_football_team> <sports.sports_team.sport> "Football" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<m.0b48241> <common.webpage.topic> "Forward" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<m.0kfys5w> <olympics.olympic_athlete_affiliation.olympics> "The London 2012 Summer Olympics" .
+<Salto> <location.location.people_born_here> "Jorge Soto" .
+<FC_Groningen> <sports.sports_team.roster> "m.0jzx63w" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbdh" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<Luis_Suárez> <soccer.football_player.goals_scored> "m.0fx1gyx" .
+<Walter_Guglielmone> <people.person.nationality> "Uruguay" .
+<Salto> <location.location.events> "Battle of Arapey" .
+<m.0lg2ck6> <base.schemastaging.athlete_salary.team> "Liverpool F.C." .
+<m.0j3_kvx> <soccer.football_team_management_tenure.team> "Uruguay national football team" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm3bq" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Liver_tumour> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<Australian_rules_football_player> <common.topic.notable_types> "Profession" .
+<m.09jy3q5> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<1930_FIFA_World_Cup_Final> <time.event.locations> "Estadio Centenario" .
+<Canadian_football_player> <people.profession.specialization_of> "Athlete" .
+<m.0wz2n_z> <sports.team_venue_relationship.team> "Uruguay national football team" .
+<Athlete> <freebase.type_profile.equivalent_topic> "Athlete" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<m.09jy3s4> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<Salto> <location.location.containedby> "Uruguay" .
+<Parents> <type.property.schema> "Person" .
+<m.0jst2tx> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<m.09jy3yb> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3ts" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Luis_Suárez> <soccer.football_player.statistics> "m.0w9dbb3" .
+<m.0j3_l1g> <freebase.valuenotation.has_no_value> "To" .
+<1983_Copa_América_Final> <common.topic.notable_for> "g.11bbmlbrj2" .
+<Position(s)> <owl#inverseOf> "Players" .
+<Salto> <location.location.people_born_here> "Luis Suárez" .
+<Uruguay> <olympics.olympic_participating_country.athletes> "m.0kfys5w" .
+<Hypospadias> <medicine.disease.risk_factors> "Male" .
+<Football_player> <type.type.properties> "Number of International Goals" .
+<Salto> <location.location.people_born_here> "Marosa di Giorgio" .
+<Salto> <film.film_location.featured_in_films> "So Much Water" .
+<Football_player> <common.topic.notable_types> "Profession" .
+<Barrett's_esophagus> <medicine.disease.risk_factors> "Male" .
+<Midfielder> <common.topic.article> "m.02nzbj" .
+<Football_team> <freebase.type_profile.strict_included_types> "Topic" .
+<Forward> <common.topic.webpage> "m.09x_372" .
+<Football_team> <freebase.type_profile.published> "Published" .
+<m.09jy3rh> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<m.0114xckr> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<m.0j3_k_q> <freebase.valuenotation.has_no_value> "To" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Luis_Suárez> <soccer.football_player.position_s> "Midfielder" .
+<Luis_Suárez> <people.person.parents> "Rodolfo Suárez" .
+<m.0wz2p0c> <sports.team_venue_relationship.venue> "Estadio Centenario" .
+<Eduardo_Gerolami> <people.person.nationality> "Uruguay" .
+<José_Leandro_Andrade> <people.person.nationality> "Uruguay" .
+<Football_Position> <type.type.expected_by> "Position(s)" .
+<Myocardial_Ischemia> <medicine.disease.risk_factors> "Male" .
+<m.0l74b8f> <freebase.valuenotation.has_no_value> "To" .
+<Sports_League_Championship_Event> <type.type.properties> "Season" .
+<1983_Copa_América> <sports.sports_championship_event.champion> "Uruguay national football team" .
+<m.0j3_k_6> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Club_Nacional_de_Football> <soccer.football_team.player_statistics> "m.0w9h76p" .
+<2010_FIFA_World_Cup_-_Third_place_Final> <soccer.football_match.teams> "Uruguay national football team" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01150npz" .
+<Aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Multiple_myeloma> <medicine.disease.risk_factors> "Male" .
+<m.0w9h76d> <soccer.football_player_stats.team> "FC Groningen" .
+<Height> <rdf-schema#domain> "Person" .
+<m.0j3_l0q> <freebase.valuenotation.has_no_value> "To" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<m.0d5sl7m> <sports.pro_sports_played.athlete> "Luis Suárez" .
+<Sergio_Santín> <common.topic.notable_types> "Football player" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbft" .
+<m.0j3_l36> <sports.sports_team_roster.position> "Midfielder" .
+<Athlete> <freebase.type_profile.strict_included_types> "Person" .
+<m.0c0lpt1> <base.tournaments.tournament_participating_competitor.competitor_s> "Uruguay national football team" .
+<Forward> <common.topic.webpage> "m.09yfnh5" .
+<m.0x2l44m> <sports.team_venue_relationship.venue> "Estádio Fonte Nova" .
+<m.0j499lz> <freebase.valuenotation.has_no_value> "To" .
+<Eduardo_Gerolami> <people.person.gender> "Male" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9fz0b" .
+<Football4> <common.image.appears_in_topic_gallery> "Football" .
+<Myocardial_Ischemia> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Copa_América> <common.topic.image> "Uruguay Copa America 1917" .
+<1930_FIFA_World_Cup_Final> <common.topic.notable_types> "Sports League Championship Event" .
+<Corneal_abrasion> <medicine.disease.risk_factors> "Male" .
+<1930_FIFA_World_Cup> <time.event.locations> "Uruguay" .
+<2002_FIFA_World_Cup_qualification> <time.event.locations> "Estadio Centenario" .
+<m.0nb90tl> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010j2hw2" .
+<Urolithiasis> <medicine.disease.causes> "Kidney Stone" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<Sergio_Santín> <people.person.place_of_birth> "Salto" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Forward> <common.topic.webpage> "m.09w2q_3" .
+<1983_Copa_América> <common.topic.image> "World Map FIFA2" .
+<Maxi_Miliana_Suárez> <people.person.gender> "Male" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbgt" .
+<m.0cb4zss> <base.tournaments.match_competitor_relationship.competitor> "Uruguay national football team" .
+<Salto> <location.location.people_born_here> "g.11b81x9_50" .
+<m.0jzx64b> <freebase.valuenotation.has_value> "Number" .
+<Uruguay_national_football_team> <soccer.football_team.matches> "2010 FIFA World Cup Quarter-finals - URU ./.GHA" .
+<Winger> <sports.sports_position.sport> "Football" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l06" .
+<Seborrheic_dermatitis> <medicine.disease.symptoms> "Hair loss" .
+<Edinson_Cavani> <freebase.valuenotation.is_reviewed> "Height" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<Estadio_Centenario> <sports.sports_facility.teams> "Club Nacional de Football" .
+<m.09w2q_3> <common.webpage.topic> "Forward" .
+<Sports_League_Championship_Event> <freebase.type_profile.strict_included_types> "Topic" .
+<Estadio_Centenario> <common.topic.article> "m.0268cc3" .
+<1965_Copa_Libertadores_Finals> <time.event.locations> "Estadio Centenario" .
+<Jorge_Soto> <people.person.place_of_birth> "Salto" .
+<Salto> <common.topic.image> "Calle en Salto" .
+<Luis_SuÃ¡rez_cropped> <common.image.size> "m.05llvpp" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3rh" .
+<Salto> <common.topic.article> "m.06xk8k" .
+<m.0j3_l26> <freebase.valuenotation.has_no_value> "To" .
+<Estádio_Fonte_Nova> <location.location.geolocation> "m.02_srwy" .
+<m.09x3_1p> <common.webpage.topic> "Forward" .
+<m.0w9dbf6> <soccer.football_player_stats.team> "Uruguay national football team" .
+<1930_FIFA_World_Cup_Final> <sports.sports_championship_event.champion> "Uruguay national football team" .
+<Peñarol> <sports.sports_team.sport> "Football" .
+<Height> <type.property.unit> "Meter" .
+<m.0jxngh1> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Football_player> <type.type.properties> "Transfers" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Stroke" .
+<Forward> <common.topic.notable_types> "Football Position" .
+<m.0jzx64b> <sports.sports_team_roster.player> "Luis Suárez" .
+<Football_player> <people.profession.specialization_of> "Athlete" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Estadio_Centenario> <location.location.events> "1971 Copa Libertadores Finals" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011nhv33" .
+<Estadio_Centenario> <common.image.appears_in_topic_gallery> "Estadio Centenario" .
+<So_Much_Water> <film.film.country> "Uruguay" .
+<Horacio_Quiroga> <people.person.nationality> "Uruguay" .
+<Estadio_Centenario> <common.topic.image> "Estadio Centenario" .
+<m.09yfnh5> <common.webpage.topic> "Forward" .
+<Athlete> <freebase.type_hints.included_types> "Topic" .
+<Acute_myeloid_leukemia> <medicine.disease.risk_factors> "Male" .
+<m.0fx1gyx> <soccer.football_goal.match> "2010 FIFA World Cup Group A - MEX ./. URU" .
+<Luis_Suárez> <soccer.football_player.goals_scored> "m.0g9m8gf" .
+<m.0whf95d> <freebase.valuenotation.has_value> "Number" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<1930_FIFA_World_Cup> <base.x2010fifaworldcupsouthafrica.fifa_world_cup.host_country> "Uruguay" .
+<Kidney_Stone> <medicine.disease.risk_factors> "Male" .
+<FC_Groningen> <common.topic.notable_types> "Football team" .
+<1950_FIFA_World_Cup> <time.event.locations> "Brazil" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<Ever_Hugo_Almeida> <people.person.place_of_birth> "Salto" .
+<Martín_Ferrando> <common.topic.notable_types> "Football player" .
+<Paolo_Suárez> <people.person.gender> "Male" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbhx" .
+<Rafael_Addiego_Bruno> <people.person.place_of_birth> "Salto" .
+<Estadio_Centenario> <soccer.football_pitch.matches> "1930 FIFA World Cup Final" .
+<m.0w9dbb3> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Forward> <common.topic.webpage> "m.09y1l4x" .
+<Uruguay> <location.country.administrative_divisions> "Salto Department" .
+<m.09jy3xn> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position> "Forward" .
+<m.09jy3xn> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.current_club> "AFC Ajax" .
+<Football_player> <common.topic.notable_for> "g.125fgx11_" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<Midfielder> <sports.sports_position.sport> "Football" .
+<Actinic_keratosis> <medicine.disease.risk_factors> "Male" .
+<FC_Groningen> <sports.sports_team.sport> "Football" .
+<Salto> <location.location.people_born_here> "Rafael Addiego Bruno" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<Luis_Suárez> <film.person_or_entity_appearing_in_film.films> "m.0114xckr" .
+<Forward> <common.topic.webpage> "m.09ytzf1" .
+<m.0c43_77> <base.tournaments.match_competitor_relationship.competitor> "Uruguay national football team" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<Delfina_Suárez> <common.topic.notable_for> "g.125cp6nqw" .
+<Luis_Suárez> <base.x2010fifaworldcupsouthafrica.world_cup_participant.world_cup_team> "m.09jy3xn" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010k_wpk" .
+<Salto> <location.location.people_born_here> "Pedro Rocha" .
+<m.0w9dbcc> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Sandra_Suárez> <people.person.gender> "Female" .
+<Estadio_Centenario> <location.location.events> "1966 Copa Libertadores Finals" .
+<Bruno_Fornaroli> <people.person.place_of_birth> "Salto" .
+<Delfina_Suárez> <people.person.parents> "Luis Suárez" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<David_Texeira> <soccer.football_player.position_s> "Forward" .
+<Salto> <location.location.people_born_here> "g.11b88lg7sf" .
+<1920_South_American_Championship> <sports.sports_championship_event.champion> "Uruguay national football team" .
+<Estadio_Centenario> <location.location.geolocation> "m.02_vm99" .
+<2010_FIFA_World_Cup_Round_of_16_-_URU_./._KOR> <soccer.football_match.goals> "m.0g9m8gf" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "2011 Copa América Final" .
+<Delfina_Suárez> <freebase.valuenotation.has_value> "Country of nationality" .
+<Bruno_Fornaroli> <soccer.football_player.position_s> "Forward" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l0z" .
+<Sports_League_Championship_Event> <type.type.properties> "Champion" .
+<m.0w9djlt> <soccer.football_player_stats.team> "Liverpool F.C." .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011cm96d" .
+<m.09jy3w2> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position> "Midfielder" .
+<Sandra_Suárez> <freebase.valuenotation.has_value> "Parents" .
+<Uruguay_national_football_team> <soccer.football_team.matches> "2010 FIFA World Cup - Third place Final" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l1q" .
+<m.0w9dbgt> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Forward> <common.topic.webpage> "m.09yfbzc" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbc0" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<Rubén_Bentancourt> <people.person.place_of_birth> "Salto" .
+<m.0g5mlcy> <soccer.football_player_match_participation.player> "Luis Suárez" .
+<Edinson_Cavani> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.0c06k8k" .
+<Soccer_Player> <common.topic.notable_types> "Profession" .
+<Forward> <common.topic.webpage> "m.09y0cx8" .
+<Paolo_Suárez> <people.person.profession> "Football player" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_participation.world_cup> "m.0b7mc2t" .
+<Copa_América> <time.recurring_event.instances> "1959 South American Championship" .
+<m.0c254pt> <base.tournaments.match_competitor_relationship.match> "2010 FIFA World Cup Group A - URU ./. FRA" .
+<m.09wkysw> <common.webpage.topic> "Forward" .
+<Event> <freebase.type_hints.included_types> "Topic" .
+<Nicolás_Mazzarino> <people.person.gender> "Male" .
+<m.09jy3w2> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<FC_Groningen> <soccer.football_team.player_statistics> "m.0w9h76d" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h36x8" .
+<m.0jzx63w> <freebase.valuenotation.has_value> "Number" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Male" .
+<m.0w9dbgg> <soccer.football_player_stats.team> "Uruguay national football team" .
+<m.0j3_l0z> <sports.sports_team_roster.team> "Uruguay national football team" .
+<m.0j3_l0g> <freebase.valuenotation.has_no_value> "To" .
+<Canadian_football_player> <people.profession.specialization_of> "Football player" .
+<2010_FIFA_World_Cup_Group_A_-_URU_./._FRA> <soccer.football_match.teams> "Uruguay national football team" .
+<m.0wz2p0k> <sports.team_venue_relationship.venue> "Estadio Centenario" .
+<Copa_América> <time.recurring_event.instances> "1926 South American Championship" .
+<Luis_Suárez> <people.person.places_lived> "m.0wk2v9g" .
+<Pumas_Morelos> <sports.sports_team.sport> "Football" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<Salto> <location.location.people_born_here> "Enrique David Díaz" .
+<Uruguay> <sports.sports_team_location.teams> "Uruguay national football team" .
+<Salto> <location.location.people_born_here> "Martín Cuevas" .
+<David_Texeira> <people.person.gender> "Male" .
+<Kyphosis> <medicine.disease.risk_factors> "Male" .
+<m.0j3_l1z> <sports.sports_team_roster.team> "Uruguay national football team" .
+<2010_FIFA_World_Cup_-_Third_place_Final> <base.tournaments.tournament_match.round> "2010 FIFA World Cup - Third place Final" .
+<Sofia_Balbi> <freebase.valuenotation.has_value> "Parents" .
+<m.0jxnfj2> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm36t" .
+<Uruguay_national_under-20_football_team> <common.topic.notable_types> "Football team" .
+<Walter_Guglielmone> <people.person.place_of_birth> "Salto" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<m.0kg75wm> <common.webpage.topic> "Luis Suárez" .
+<m.0w9k1jp> <measurement_unit.dated_money_value.currency> "Pound sterling" .
+<Forward> <common.topic.article> "m.027crf" .
+<Syphilis> <medicine.disease.symptoms> "Hair loss" .
+<Estádio_Fonte_Nova> <common.topic.article> "m.07c7qz" .
+<m.09jy3wd> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position> "Midfielder" .
+<Walter_Guglielmone> <people.person.gender> "Male" .
+<m.0lg2ck6> <base.schemastaging.athlete_salary.athlete> "Luis Suárez" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3yb" .
+<m.0j3_l0z> <sports.sports_team_roster.player> "Edinson Cavani" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbjb" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l26" .
+<Myocardial_Ischemia> <medicine.disease.symptoms> "heart attack" .
+<m.0g9m8gf> <soccer.football_goal.scorer> "Luis Suárez" .
+<Estadio_Centenario> <sports.sports_facility.teams> "Peñarol" .
+<m.0j3_l36> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1987 Copa América" .
+<Forward> <common.topic.webpage> "m.09wcyf6" .
+<Copa_América> <time.recurring_event.instances> "1917 South American Championship" .
+<m.0g5nj24> <soccer.football_disciplinary_action.player> "Luis Suárez" .
+<Date_of_birth> <type.property.schema> "Person" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9qhg5" .
+<m.0w8z5b0> <soccer.football_player_stats.team> "AFC Ajax" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.0crtqxb> <sports.sports_league_participation.team> "Uruguay national football team" .
+<m.0jst2tx> <sports.sports_team_roster.position> "Midfielder" .
+<Estadio_Centenario> <location.location.events> "1971 Copa Interamericana" .
+<Event> <freebase.type_profile.published> "Published" .
+<Salto> <location.location.contains> "Universidad Católica del Uruguay Dámaso Antonio Larrañaga, Litoral Norte-Salto campus" .
+<m.0wz2n_z> <sports.team_venue_relationship.venue> "Estadio Centenario" .
+<m.0w9qhgw> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Uruguay_national_football_team> <sports.sports_team.location> "Uruguay" .
+<Copa_América> <time.recurring_event.instances> "1987 Copa América" .
+<2010_FIFA_World_Cup_Group_A_-_RSA_./._URU> <soccer.football_match.teams> "Uruguay national football team" .
+<Estadio_Centenario> <location.location.events> "1960 Copa Libertadores Finals" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010pt4xh" .
+<m.0w9dbjy> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Peñarol> <common.topic.notable_types> "Football team" .
+<Salto> <location.location.people_born_here> "Martín Ferrando" .
+<m.09ytlx7> <common.webpage.topic> "Forward" .
+<m.09jy3r4> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<m.09wb10c> <common.webpage.topic> "Forward" .
+<m.0rqcwvh> <freebase.valuenotation.has_no_value> "To" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Female" .
+<Sofia_Balbi> <people.person.children> "Benjamin Suárez" .
+<m.0w9dbbt> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Football_player> <type.type.properties> "Number of Career Appearances" .
+<Sports_League_Championship_Event> <freebase.type_profile.strict_included_types> "Abstract" .
+<1987_Copa_América_Final> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0j3_l1z> <freebase.valuenotation.has_no_value> "To" .
+<Autism> <medicine.disease.risk_factors> "Male" .
+<Winger> <base.rugby.rugby_position.rugby_players_of_this_position> "Pat White" .
+<Sports> <type.domain.types> "Sports Facility" .
+<1920_South_American_Championship> <common.topic.notable_types> "Sports League Championship Event" .
+<Juan_Daniel_Salaberry> <common.topic.notable_types> "Football player" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<m.09jy3xn> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<m.0j499lz> <people.marriage.spouse> "Luis Suárez" .
+<Sandra_Suárez> <people.person.children> "Paolo Suárez" .
+<m.09xs63n> <common.webpage.topic> "Forward" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Urolithiasis> <medicine.disease.risk_factors> "Male" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_k_z" .
+<m.0j3_l0z> <sports.sports_team_roster.position> "Forward" .
+<Canadian_football_player> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Meningococcal_disease> <medicine.disease.risk_factors> "Male" .
+<Forward> <sports.sports_position.sport> "Football" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<Uruguay_national_football_team> <soccer.football_team.manager> "m.0j3_kvx" .
+<m.0wz2p0k> <sports.team_venue_relationship.team> "Uruguay national under-20 football team" .
+<m.0114xckr> <film.personal_film_appearance.person> "Luis Suárez" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<Paolo_Suárez> <soccer.football_player.position_s> "Forward" .
+<1930_FIFA_World_Cup> <time.event.locations> "Estadio Centenario" .
+<Salto> <location.location.people_born_here> "Román Fresnedo Siri" .
+<Football_player> <type.type.expected_by> "Off" .
+<1930_FIFA_World_Cup_Final> <soccer.football_match.held_at> "Estadio Centenario" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbjy" .
+<Uruguay_v_Brazil> <sports.sports_championship_event.champion> "Uruguay national football team" .
+<Estadio_Centenario> <location.location.events> "1967 Copa Libertadores Finals" .
+<m.0w9qhg5> <soccer.football_player_stats.team> "Uruguay national football team" .
+<m.09jy3yp> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position> "Forward" .
+<Alexander_Medina> <people.person.nationality> "Uruguay" .
+<m.0w9dbfk> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Height> <type.property.schema> "Person" .
+<American_football_player> <people.profession.specialization_of> "Athlete" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<Myocardial_Ischemia> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Sergio_Santín> <soccer.football_player.position_s> "Forward" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<Country_of_nationality> <type.property.schema> "Person" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011nhvdj" .
+<Rubén_Bentancourt> <people.person.gender> "Male" .
+<Football_player> <type.type.expected_by> "Player" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<Uruguay> <location.location.partially_contains> "Río Negro" .
+<Seborrheic_dermatitis> <medicine.symptom.symptom_of> "Parkinson's disease" .
+<Forward> <common.topic.webpage> "m.09wkysw" .
+<Sports_League_Championship_Event> <freebase.type_profile.strict_included_types> "Event" .
+<Forward> <common.topic.webpage> "m.09w2mrd" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<Copa_América> <time.recurring_event.instances> "1923 South American Championship" .
+<Profession> <freebase.type_profile.strict_included_types> "Topic" .
+<Juan_Ángel_Albín> <people.person.place_of_birth> "Salto" .
+<Position(s)> <type.property.schema> "Football player" .
+<Maxi_Miliana_Suárez> <freebase.valuenotation.has_value> "Place of birth" .
+<Person> <type.type.properties> "Date of birth" .
+<Kaposi's_sarcoma> <medicine.disease.risk_factors> "Male" .
+<Football_player> <type.type.properties> "Number of International Appearances" .
+<Football_player> <common.topic.article> "m.01lkv6" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.0c06k8t" .
+<Luis_Suárez> <people.person.gender> "Male" .
+<Horacio_Sequeira> <people.person.nationality> "Uruguay" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l2g" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Profession> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<Montevideo> <location.location.containedby> "Uruguay" .
+<Football_player> <people.profession.specializations> "Australian rules football player" .
+<Ever_Hugo_Almeida> <people.person.profession> "Football player" .
+<Maxi_Miliana_Suárez> <freebase.valuenotation.has_value> "Parents" .
+<Pedro_Rocha> <people.person.gender> "Male" .
+<1971_Copa_Interamericana> <time.event.locations> "Estadio Centenario" .
+<m.09wvmyh> <common.webpage.topic> "Forward" .
+<m.0wz2p0v> <sports.team_venue_relationship.team> "Pumas Morelos" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Attention deficit hyperactivity disorder" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<Rodolfo_Suárez> <freebase.valuenotation.has_value> "Date of birth" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Transient_ischemic_attack> <medicine.disease.causes> "Cardiovascular disease" .
+<Alexander_Medina> <people.person.place_of_birth> "Salto" .
+<Midfielder> <common.topic.notable_for> "g.1258z_bzd" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbh6" .
+<Luis_Suárez> <base.schemastaging.athlete_extra.salary> "m.0lg2ck6" .
+<Gonzalo_de_los_Santos> <people.person.place_of_birth> "Salto" .
+<m.0wz2p0c> <sports.team_venue_relationship.team> "Club Nacional de Football" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<Benjamin_Suárez> <people.person.gender> "Male" .
+<Sofia_Balbi> <people.person.children> "Delfina Suárez" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1983 Copa América Final" .
+<m.09jy3sg> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<m.0j3_l1g> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<Braian_Rodríguez> <freebase.valuenotation.has_value> "Parents" .
+<Salto> <location.location.people_born_here> "Juan Ángel Albín" .
+<2010_FIFA_World_Cup_Round_of_16_-_URU_./._KOR> <soccer.football_match.teams> "Uruguay national football team" .
+<Salto> <location.location.people_born_here> "Washington Cacciavillani" .
+<Benjamin_Suárez> <common.topic.notable_types> "Person" .
+<Uruguay_national_football_team> <base.tournaments.tournament_competitor.matches> "m.0cdj_wp" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbb3" .
+<m.0w9n567> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Luis_SuÃ¡rez_cropped> <common.image.appears_in_topic_gallery> "Luis Suárez" .
+<Luis_Suárez> <common.topic.image> "Luis Suárez 2" .
+<Estadio_Centenario> <sports.sports_facility.home_venue_for> "m.0wz2n_z" .
+<Bruno_Fornaroli> <people.person.gender> "Male" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1995 Copa América Final" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<Transient_ischemic_attack> <medicine.disease.risk_factors> "Male" .
+<Estadio_Centenario> <sports.sports_facility.teams> "Club Deportivo Marte" .
+<Luis_Suárez> <people.person.children> "Benjamin Suárez" .
+<m.0w9dbc0> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Retroperitoneal_fibrosis> <medicine.disease.risk_factors> "Male" .
+<Football_player> <type.type.expected_by> "Player" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l36" .
+<Luis_Suárez> <soccer.football_player.goals_scored> "m.0g9m8g6" .
+<1967_Copa_Libertadores_Finals> <time.event.locations> "Estadio Centenario" .
+<Washington_Cacciavillani> <common.topic.notable_types> "Athlete" .
+<1983_Copa_América> <common.topic.notable_types> "Event" .
+<Luis_Suárez> <freebase.valuenotation.is_reviewed> "Height" .
+<José_Leandro_Andrade> <soccer.football_player.position_s> "Midfielder" .
+<Luis_Suárez> <people.person.sibling_s> "m.0j6807n" .
+<m.0g5nj24> <soccer.football_disciplinary_action.punishment> "Red card" .
+<Pedro_Rocha> <people.person.place_of_birth> "Salto" .
+<m.0w9fmjn> <soccer.football_player_stats.team> "Uruguay national football team" .
+<m.09y38j5> <common.webpage.topic> "Forward" .
+<Luis_Suárez> <sports.pro_athlete.teams> "m.0jzx64b" .
+<Events> <type.property.expected_type> "Sports League Championship Event" .
+<m.0j498zc> <sports.sports_team_roster.player> "Luis Suárez" .
+<Edinson_Cavani> <soccer.football_player.statistics> "m.0w9dbdv" .
+<m.0c43_77> <base.tournaments.match_competitor_relationship.match> "2010 FIFA World Cup Group A - MEX ./. URU" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1967 South American Championship" .
+<Sofia_Balbi> <freebase.valuenotation.has_value> "Place of birth" .
+<Person> <type.type.properties> "Place of birth" .
+<m.01148hrz> <sports.sports_team_roster.position> "Forward" .
+<Football_player> <type.type.expected_by> "FutbolcuAdi" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3x_" .
+<Estadio_Centenario> <sports.sports_facility.home_venue_for> "m.0wz2p0v" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3yp" .
+<Salto> <location.location.people_born_here> "Nicolás Mazzarino" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9m9hg" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.0c06k89" .
+<Juan_Daniel_Salaberry> <people.person.place_of_birth> "Salto" .
+<Paolo_Suárez> <people.person.place_of_birth> "Montevideo" .
+<m.0j3_l1q> <freebase.valuenotation.has_no_value> "To" .
+<Forward> <common.topic.webpage> "m.09x3_1p" .
+<Rodolfo_Suárez> <common.topic.notable_for> "g.1259nv3jg" .
+<Enrique_Amorim> <people.person.place_of_birth> "Salto" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011jxhnr" .
+<Profession> <freebase.type_profile.published> "Published" .
+<m.09jy3rt> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<Sports_League_Championship_Event> <type.type.expected_by> "Championships" .
+<Braian_Rodríguez> <people.person.nationality> "Uruguay" .
+<Winger> <common.topic.notable_for> "g.1258jzspm" .
+<Luis_Suárez> <base.schemastaging.athlete_extra.salary> "m.0_g0cpy" .
+<Luis_Suárez_2> <common.image.appears_in_topic_gallery> "Luis Suárez" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<m.0j3_k_6> <freebase.valuenotation.has_no_value> "To" .
+<m.0j3_l2z> <sports.sports_team_roster.team> "Uruguay national football team" .
+<1920_South_American_Championship> <common.topic.image> "World Map FIFA2" .
+<1961_Copa_Libertadores_Finals> <time.event.locations> "Estadio Centenario" .
+<Gastritis> <medicine.disease.risk_factors> "Male" .
+<Estadio_Centenario> <sports.sports_facility.home_venue_for> "m.0wz2p0c" .
+<ZasPorn> <common.topic.subject_of> "Female" .
+<m.0j3_k_z> <sports.sports_team_roster.position> "Midfielder" .
+<Championships> <type.property.master_property> "Champion" .
+<To> <type.property.expected_type> "Date/Time" .
+<Sports_League_Championship_Event> <type.type.properties> "Championship" .
+<Seborrheic_dermatitis> <medicine.disease.risk_factors> "Male" .
+<Midfielder> <common.topic.webpage> "m.09y4zj1" .
+<Uruguay_national_football_team> <sports.sports_team.sport> "Football" .
+<Braian_Rodríguez> <people.person.place_of_birth> "Salto" .
+<Vive_Targi_Kielce> <sports.sports_team.gender> "Male" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l3g" .
+<Paolo_Suárez> <common.topic.notable_types> "Football player" .
+<Hair_loss> <medicine.risk_factor.diseases> "Stroke" .
+<1983_Copa_América_Final> <time.event.locations> "Estadio Centenario" .
+<2010_FIFA_World_Cup_Quarter-finals_-_URU_./.GHA> <soccer.football_match.teams> "Uruguay national football team" .
+<Football_player> <visual_art.art_subject.artwork_on_the_subject> "Dynamism of a Soccer Player" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l1g" .
+<Sergio_Santín> <people.person.gender> "Male" .
+<Washington_Cacciavillani> <people.person.place_of_birth> "Salto" .
+<Forward> <common.topic.webpage> "m.09w68yf" .
+<m.0j3_l06> <freebase.valuenotation.has_value> "Number" .
+<2010_FIFA_World_Cup_Group_A_-_URU_./._FRA> <base.tournaments.tournament_match.competitors> "m.0c254pt" .
+<1930_FIFA_World_Cup> <time.event.includes_event> "1930 FIFA World Cup Final" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3xn" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<Forward> <common.topic.image> "Football match.jpg" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<2010_FIFA_World_Cup_Group_A_-_RSA_./._URU> <base.tournaments.tournament_match.competitors> "m.0c254t7" .
+<Delfina_Suárez> <common.topic.notable_types> "Person" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.0jst5y3> <freebase.valuenotation.has_no_value> "To" .
+<Salto> <common.topic.notable_for> "g.125c4kknb" .
+<Salto> <location.location.people_born_here> "José Perdomo" .
+<Topic> <freebase.type_profile.published> "Published" .
+<David_Texeira> <people.person.nationality> "Uruguay" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<m.0j3_l2g> <freebase.valuenotation.has_value> "Number" .
+<Football_player> <type.type.expected_by> "Soccer Players" .
+<2010_FIFA_World_Cup_Round_of_16_-_URU_./._KOR> <base.tournaments.tournament_match.competitors> "m.0c254y3" .
+<Events> <owl#inverseOf> "Championship" .
+<FC_Barcelona> <common.topic.notable_types> "Football team" .
+<Braian_Rodríguez> <people.person.gender> "Male" .
+<Luis_Suárez_2> <common.image.size> "m.01x8r_z" .
+<Profession> <freebase.type_hints.included_types> "Topic" .
+<2014_FIFA_World_Cup_qualification> <common.topic.notable_types> "Event" .
+<m.0jst2tx> <freebase.valuenotation.has_no_value> "To" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3pw" .
+<Estadio_Centenario> <sports.sports_facility.home_venue_for> "m.0wz2p04" .
+<Benign_prostatic_hyperplasia> <medicine.disease.risk_factors> "Male" .
+<Sports_League_Championship_Event> <type.type.expected_by> "sports_undefined" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbf6" .
+<2010_FIFA_World_Cup_Group_A_-_URU_./._FRA> <soccer.football_match.players> "m.0c0ls6t" .
+<m.0c06k8k> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l2q" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<1930_FIFA_World_Cup> <sports.sports_championship_event.champion> "Uruguay national football team" .
+<Copa_América> <time.recurring_event.instances> "1995 Copa América" .
+<m.0jxnfj2> <freebase.valuenotation.has_value> "Number" .
+<Date_of_birth> <rdf-schema#range> "Date/Time" .
+<Rodolfo_Suárez> <freebase.valuenotation.has_value> "Country of nationality" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3vr" .
+<Horacio_Sequeira> <common.topic.notable_types> "Person" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<Forward> <common.topic.webpage> "m.09x_vnh" .
+<m.0kg75wm> <common.webpage.resource> "2012 Summer Olympics Athlete NBC Site" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1930 FIFA World Cup Final" .
+<Benjamin_Suárez> <freebase.valuenotation.has_value> "Place of birth" .
+<Salto> <location.location.people_born_here> "Horacio Quiroga" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<m.0w9dbg3> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Edinson_Cavani> <sports.pro_athlete.teams> "m.0j3_l0z" .
+<Edinson_Cavani> <base.x2010fifaworldcupsouthafrica.world_cup_participant.world_cup_team> "m.0c06k8_" .
+<Salto> <location.location.time_zones> "Coordinated Universal Time" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<m.0w9dbft> <soccer.football_player_stats.team> "Uruguay national football team" .
+<m.0j3_l2g> <sports.sports_team_roster.position> "Forward" .
+<Gonzalo_de_los_Santos> <people.person.gender> "Male" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.012bb56z" .
+<Marosa_di_Giorgio> <people.person.place_of_birth> "Salto" .
+<Luis_Suárez> <soccer.football_player.statistics> "m.0w8z5b0" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_k_q" .
+<Male> <common.topic.image> "male.jpg" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Topic" .
+<Enrique_Amorim> <people.person.gender> "Male" .
+<m.0w9h76d> <soccer.football_player_stats.player> "Luis Suárez" .
+<Walter_Guglielmone> <people.person.profession> "Football player" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm3cv" .
+<Stad_de_centario_uruguay1930_montevideo> <common.image.appears_in_topic_gallery> "Estadio Centenario" .
+<Alexander_Medina> <common.topic.notable_types> "Football player" .
+<m.0114xckr> <film.personal_film_appearance.film> "3 Millions" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<2010_FIFA_World_Cup_Group_A_-_MEX_./._URU> <soccer.football_match.teams> "Uruguay national football team" .
+<m.09jy3x_> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position> "Forward" .
+<Male> <common.topic.article> "m.05zpq8" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065t4h" .
+<Football_player> <type.type.expected_by> "Executor" .
+<Football_player> <common.topic.article> "m.02ktm6x" .
+<The_London_2012_Summer_Olympics> <olympics.olympic_games.sports> "Football" .
+<Gout> <medicine.disease_cause.diseases> "Kidney Stone" .
+<Salto> <location.location.people_born_here> "Ever Hugo Almeida" .
+<m.0w9djlt> <soccer.football_player_stats.player> "Luis Suárez" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h36jw" .
+<m.0w9dbjb> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Ángel_Melogno> <people.person.nationality> "Uruguay" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l0q" .
+<Salto> <location.location.nearby_airports> "Nueva Hesperides International Airport" .
+<Person> <freebase.type_profile.published> "Published" .
+<Sandra_Suárez> <freebase.valuenotation.has_value> "Place of birth" .
+<Copa_América> <common.topic.image> "World Map FIFA2" .
+<m.0j3_l06> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Hair_loss> <medicine.disease.risk_factors> "Male" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Luis_Suárez> <soccer.football_player.statistics> "m.0w9h76p" .
+<m.0c06k8t> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<Ventricular_tachycardia> <medicine.symptom.symptom_of> "heart attack" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Emphysema> <medicine.disease.risk_factors> "Male" .
+<Kawasaki_disease> <medicine.disease.risk_factors> "Male" .
+<m.0kfys5w> <olympics.olympic_athlete_affiliation.sport> "Football" .
+<m.0_y3_tw> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Estádio_Fonte_Nova> <location.location.events> "1983 Copa América Final" .
+<Estadio_Centenario> <location.location.events> "1983 Copa América Final" .
+<m.0j3_l36> <freebase.valuenotation.has_no_value> "To" .
+<Peñarol> <sports.sports_team.venue> "m.0wz2p04" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<m.0j3_l3g> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9fmfn" .
+<1950_FIFA_World_Cup> <freebase.valuenotation.has_no_value> "Result" .
+<m.0j3_l3q> <freebase.valuenotation.has_no_value> "To" .
+<m.0j3_l2g> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Position(s)> <type.property.expected_type> "Football Position" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<m.0wk2v9g> <people.place_lived.person> "Luis Suárez" .
+<Luis_Suárez> <people.person.sibling_s> "m.0j499gm" .
+<m.0j3_l3q> <sports.sports_team_roster.position> "Midfielder" .
+<Gonzalo_de_los_Santos> <common.topic.notable_types> "Football player" .
+<Estádio_Fonte_Nova> <location.location.containedby> "Brazil" .
+<Pat_White> <common.topic.notable_types> "Athlete" .
+<m.09jy3xn> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.players> "Luis Suárez" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1926 South American Championship" .
+<Estádio_Fonte_Nova> <sports.sports_facility.home_venue_for> "m.0x2l44m" .
+<Sports_Facility> <freebase.type_hints.included_types> "Topic" .
+<m.04mf293> <sports.sports_team_roster.position> "Forward" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<m.09x_372> <common.webpage.topic> "Forward" .
+<Ectodermal_dysplasia> <medicine.disease.symptoms> "Hair loss" .
+<Paolo_Suárez> <people.person.parents> "Sandra Suárez" .
+<Antisocial_personality_disorder> <medicine.disease.risk_factors> "Male" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<Forward> <common.topic.webpage> "m.09wvxvh" .
+<Sports_League_Championship_Event> <type.type.properties> "Runner-up" .
+<Luis_Suárez> <sports.pro_athlete.sports_played_professionally> "m.0d5sl7m" .
+<Salto> <location.location.contains> "g.11bbqwc059" .
+<Gout> <medicine.disease.risk_factors> "Male" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<Person> <type.type.properties> "Height" .
+<Rafael_Addiego_Bruno> <people.person.gender> "Male" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbcy" .
+<m.0j3_k_g> <freebase.valuenotation.has_no_value> "To" .
+<Football_player> <type.type.properties> "Loans" .
+<Hodgkin's_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Ectodermal_dysplasia> <medicine.disease.risk_factors> "Male" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9n3b7" .
+<Edinson_Cavani> <people.person.nationality> "Uruguay" .
+<Sports_Facility> <type.type.domain> "Sports" .
+<m.0j3_l3g> <freebase.valuenotation.has_value> "Number" .
+<Luis_Suárez> <common.topic.article> "m.026f4lv" .
+<Football_Position> <type.type.properties> "Players" .
+<Football_player> <common.topic.article> "m.02vxg" .
+<m.09x_vnh> <common.webpage.topic> "Forward" .
+<Salto> <location.location.people_born_here> "Mauro Arambarri" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_k_6" .
+<Football> <olympics.olympic_sport.olympic_games_contested> "The London 2012 Summer Olympics" .
+<Copa_América> <time.recurring_event.instances> "1983 Copa América" .
+<m.0w9dbdv> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbbt" .
+<Forward> <common.topic.webpage> "m.09w7p24" .
+<2006_FIFA_World_Cup_qualification> <time.event.locations> "Estadio Centenario" .
+<Nicolás_Mazzarino> <people.person.place_of_birth> "Salto" .
+<Anaplastic_thyroid_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<Football_player> <book.book_subject.works> "When the Nines Roll Over and Other Stories" .
+<Football_player> <type.type.expected_by> "Scorer" .
+<m.0w9dbhx> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Salto> <location.location.people_born_here> "Eduardo Gerolami" .
+<1983_Copa_América> <common.topic.article> "m.072j_z" .
+<Copa_América> <time.recurring_event.instances> "1920 South American Championship" .
+<Ventricular_tachycardia> <medicine.disease.risk_factors> "Male" .
+<Athlete> <people.profession.specializations> "Canadian football player" .
+<Luis-Suarez> <common.image.appears_in_topic_gallery> "Luis Suárez" .
+<Height> <type.property.expected_type> "Floating Point Number" .
+<Paolo_Suárez> <soccer.football_player.position_s> "Midfielder" .
+<m.0nb90tl> <freebase.valuenotation.has_value> "Number" .
+<m.0rqcwvh> <freebase.valuenotation.has_value> "Number" .
+<Luis_Suárez> <common.topic.image> "Luis SuÃ¡rez cropped" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9lwhf" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_kzq" .
+<José_Leandro_Andrade> <people.person.gender> "Male" .
+<Eduardo_Gerolami> <common.topic.notable_types> "Football player" .
+<Championships> <type.property.expected_type> "Sports League Championship Event" .
+<m.0rqcwvh> <sports.sports_team_roster.team> "Uruguay national football team" .
+<m.0b7mc2t> <base.x2010fifaworldcupsouthafrica.world_cup_team.national_team> "Uruguay national football team" .
+<Estadio_Centenario> <sports.sports_facility.teams> "Uruguay national under-20 football team" .
+<ZasPorn> <common.topic.subject_of> "Male" .
+<1995_Copa_América_Final> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<Football_player> <freebase.type_profile.strict_included_types> "Topic" .
+<Uruguay> <base.aareas.schema.administrative_area.administrative_children> "Salto Department" .
+<Salto> <location.location.people_born_here> "Martín Kutscher" .
+<Transient_ischemic_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Uruguay_national_football_team> <base.tournaments.tournament_competitor.tournaments> "m.010q9yv_" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l1z" .
+<Australian_rules_football_player> <people.profession.specialization_of> "Athlete" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1920 South American Championship" .
+<Rubén_Bentancourt> <people.person.nationality> "Uruguay" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h36z1" .
+<Maxi_Miliana_Suárez> <common.topic.notable_types> "Person" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h367k" .
+<m.0c0ls6t> <soccer.football_player_match_participation.match> "2010 FIFA World Cup Group A - URU ./. FRA" .
+<When_the_Nines_Roll_Over_and_Other_Stories> <book.written_work.subjects> "Football player" .
+<Brazil> <location.location.partially_contains> "Río Negro" .
+<Salto> <travel.travel_destination.tourist_attractions> "Río Negro" .
+<Uruguay_national_football_team> <common.topic.notable_for> "g.12559b3dc" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1983 Copa América" .
+<Football_team> <type.type.domain> "Soccer" .
+<m.0nb90tl> <freebase.valuenotation.has_no_value> "To" .
+<Luis_Suárez> <soccer.football_player.position_s> "Winger" .
+<m.0kdy4vm> <freebase.valuenotation.has_no_value> "To" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<m.0fx1gyx> <soccer.football_goal.scorer> "Luis Suárez" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h372t" .
+<m.09jy3yp> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<m.0j3_l2q> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<Rodolfo_Suárez> <people.person.children> "Luis Suárez" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1987 Copa América Final" .
+<Uruguay_national_football_team> <soccer.football_team.matches> "2010 FIFA World Cup Semi-finals - URU ./. NED" .
+<Estadio_Centenario> <location.location.events> "1970 Copa Libertadores Finals" .
+<Mauro_Arambarri> <soccer.football_player.position_s> "Midfielder" .
+<m.010q9yv_> <base.tournaments.tournament_participating_competitor.competitor_s> "Uruguay national football team" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3qt" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.0_z5vj9" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010h3664" .
+<m.0jxngh1> <freebase.valuenotation.has_value> "Number" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<m.0j3_l2z> <freebase.valuenotation.has_no_value> "To" .
+<Uruguay_national_under-20_football_team> <sports.sports_team.arena_stadium> "Estadio Centenario" .
+<m.0j3_k_g> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Football_player> <type.type.expected_by> "On" .
+<m.0cdj_wp> <base.tournaments.match_competitor_relationship.competitor> "Uruguay national football team" .
+<Athlete> <base.lightweight.profession.specialization_of> "Athletes and Sports Competitors" .
+<Maxi_Miliana_Suárez> <freebase.valuenotation.has_value> "Date of birth" .
+<Sports_League_Championship_Event> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<Luis_Suárez> <people.person.spouse_s> "m.0j499lz" .
+<Luis_Suárez> <sports.pro_athlete.teams> "m.04mf293" .
+<Estadio_Centenario> <soccer.football_pitch.matches> "1995 Copa América Final" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<2012_Summer_Olympics_Athlete_NBC_Site> <common.resource.annotations> "m.0kg75wm" .
+<José_Perdomo> <people.person.place_of_birth> "Salto" .
+<Midfielder> <common.topic.image> "396px-Boisko PositionsMidfield" .
+<Pumas_Morelos> <common.topic.notable_types> "Football team" .
+<Edinson_Cavani> <common.topic.notable_types> "Football player" .
+<1962_Copa_Libertadores_Finals> <time.event.locations> "Estadio Centenario" .
+<Montevideo> <common.topic.notable_types> "City/Town/Village" .
+<Salto> <location.location.people_born_here> "Alfeo Brum" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<Football> <common.topic.image> "Football match.jpg" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<Copa_América> <time.recurring_event.instances> "1942 South American Championship" .
+<Eduardo_Gerolami> <people.person.profession> "Football player" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065sbl" .
+<Peñarol> <sports.sports_team.arena_stadium> "Estadio Centenario" .
+<m.0g9m8gf> <soccer.football_goal.point_awarded_to> "Uruguay national football team" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<Sandra_Suárez> <freebase.valuenotation.has_value> "Date of birth" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<Gonzalo_de_los_Santos> <soccer.football_player.position_s> "Midfielder" .
+<m.0j3_kzz> <freebase.valuenotation.has_no_value> "To" .
+<Football_player> <common.topic.image> "2943494385_4fb6088a93_z.jpg" .
+<Salto> <location.location.people_born_here> "David Texeira" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1956 South American Championship" .
+<Tetralogy_of_Fallot> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010j2g0z" .
+<1983_Copa_América_Final> <time.event.included_in_event> "1983 Copa América" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Edinson_Cavani> <people.person.profession> "Football player" .
+<Pat_White> <people.person.gender> "Male" .
+<Walter_Guglielmone> <freebase.valuenotation.has_value> "Parents" .
+<m.0w9dbdv> <soccer.football_player_stats.player> "Edinson Cavani" .
+<Club_Deportivo_Marte> <sports.sports_team.arena_stadium> "Estadio Centenario" .
+<Bruno_Fornaroli> <people.person.profession> "Soccer Player" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9fz03" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Hair_loss> <medicine.symptom.symptom_of> "Ectodermal dysplasia" .
+<m.04mf293> <sports.sports_team_roster.player> "Luis Suárez" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Sports_League_Championship_Event> <freebase.type_profile.published> "Published" .
+<Football> <sports.sport.positions> "Midfielder" .
+<Estadio_Centenario> <location.location.events> "2006 FIFA World Cup qualification" .
+<Football_player> <common.topic.image> "Football4" .
+<José_Perdomo> <people.person.gender> "Male" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<José_Perdomo> <common.topic.notable_types> "Football player" .
+<m.0j3_kzq> <sports.sports_team_roster.player> "Luis Suárez" .
+<Javier_Guarino> <people.person.gender> "Male" .
+<m.09w2grw> <common.webpage.topic> "Forward" .
+<Dupuytren's_contracture> <medicine.disease.risk_factors> "Male" .
+<Football_player> <type.type.properties> "Disciplinary action" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3sg" .
+<2011_Copa_Libertadores_Finals> <time.event.locations> "Estadio Centenario" .
+<Washington_Cacciavillani> <people.person.gender> "Male" .
+<m.0cdj_wp> <base.tournaments.match_competitor_relationship.match> "2010 FIFA World Cup - Third place Final" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<Sofia_Balbi> <people.person.gender> "Female" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Uruguay_national_football_team> <base.tournaments.tournament_competitor.matches> "m.0c254y3" .
+<Gastón_Silva> <people.person.place_of_birth> "Salto" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010myvg_" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm3g0" .
+<2010_FIFA_World_Cup_Group_A_-_MEX_./._URU> <soccer.football_match.goals> "m.0fx1gyx" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<1969_Copa_Libertadores_Finals> <time.event.locations> "Estadio Centenario" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0rqcwvh" .
+<m.0w8z5b0> <soccer.football_player_stats.player> "Luis Suárez" .
+<3_Millions> <film.film.country> "Uruguay" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1935 South American Championship" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.0c06k81" .
+<José_Perdomo> <people.person.nationality> "Uruguay" .
+<m.0j3_kvr> <soccer.football_league_participation.team> "Uruguay national football team" .
+<Luis_Suárez> <sports.pro_athlete.teams> "m.0j498zc" .
+<Uruguay_national_football_team> <common.topic.image> "Uruguay Copa America 1917" .
+<Non-Hodgkin_lymphoma> <medicine.disease.risk_factors> "Male" .
+<2010_FIFA_World_Cup_-_Third_place_Final> <soccer.football_match.players> "m.0g5mlcy" .
+<Uruguay_national_football_team> <base.tournaments.tournament_competitor.tournaments> "m.0c0lpt1" .
+<Club_Nacional_de_Football> <common.topic.notable_types> "Football team" .
+<Uruguay_national_football_team> <soccer.football_team.matches> "2010 FIFA World Cup Group A - URU ./. FRA" .
+<m.0j3_l16> <sports.sports_team_roster.position> "Forward" .
+<Football_Position> <freebase.type_profile.strict_included_types> "Topic" .
+<Football_player> <type.type.properties> "Matches played" .
+<Salto> <location.location.people_born_here> "Gastón Silva" .
+<Football_Position> <freebase.type_profile.published> "Published" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065sh4" .
+<m.0kfys5w> <olympics.olympic_athlete_affiliation.country> "Uruguay" .
+<Copa_América> <time.recurring_event.instances> "1967 South American Championship" .
+<Juan_Ángel_Albín> <people.person.nationality> "Uruguay" .
+<m.0j3_l0z> <freebase.valuenotation.has_no_value> "To" .
+<Football_Position> <freebase.type_hints.included_types> "Topic" .
+<m.0wk2v9g> <people.place_lived.location> "Salto" .
+<Estadio_Centenario> <common.topic.notable_for> "g.125fxg2mj" .
+<Red_card> <soccer.football_disciplinary_punishment.player> "m.0g5nj24" .
+<m.09w7p24> <common.webpage.topic> "Forward" .
+<Soccer> <type.domain.types> "Football player" .
+<Football_player> <freebase.type_hints.included_types> "Person" .
+<Hair_loss> <medicine.symptom.symptom_of> "Seborrheic dermatitis" .
+<Aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<AFC_Ajax> <soccer.football_team.player_statistics> "m.0w8z5b0" .
+<Person> <type.type.properties> "Parents" .
+<m.09w2z1v> <common.webpage.topic> "Forward" .
+<m.0jxnfj2> <freebase.valuenotation.has_no_value> "To" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3vd" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbhh" .
+<Event> <freebase.type_profile.strict_included_types> "Topic" .
+<Benjamin_Suárez> <people.person.parents> "Sofia Balbi" .
+<José_Perdomo> <soccer.football_player.position_s> "Midfielder" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<Athletes_and_Sports_Competitors> <base.lightweight.profession.specialization> "Athlete" .
+<Edinson_Cavani> <people.person.place_of_birth> "Salto" .
+<Athlete> <freebase.type_profile.strict_included_types> "Topic" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<m.0w9dbdh> <soccer.football_player_stats.team> "Uruguay national football team" .
+<m.0wz2p04> <sports.team_venue_relationship.venue> "Estadio Centenario" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<José_Leandro_Andrade> <people.person.place_of_birth> "Salto" .
+<Estádio_Fonte_Nova> <common.topic.notable_types> "Sports Facility" .
+<1971_Copa_Libertadores_Finals> <time.event.locations> "Estadio Centenario" .
+<Football> <freebase.equivalent_topic.equivalent_domain> "Soccer" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3wd" .
+<Forward> <common.topic.webpage> "m.09wkytz" .
+<Edinson_Cavani> <people.person.gender> "Male" .
+<Paolo_Suárez> <people.person.sibling_s> "m.0j499gm" .
+<Pectus_excavatum> <medicine.disease.risk_factors> "Male" .
+<m.0j3_l3q> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Athlete> <people.profession.specializations> "Australian rules football player" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<Estadio_Centenario> <common.topic.image> "Stad de centario uruguay1930 montevideo" .
+<Salto> <location.location.people_born_here> "Horacio Sequeira" .
+<Alexander_Medina> <people.person.gender> "Male" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<m.0jzx63w> <sports.sports_team_roster.team> "FC Groningen" .
+<Juan_Ángel_Albín> <soccer.football_player.position_s> "Midfielder" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<Place_of_birth> <type.property.schema> "Person" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0whf95d" .
+<Juan_Ángel_Albín> <common.topic.notable_types> "Football player" .
+<m.0wz2p0v> <sports.team_venue_relationship.venue> "Estadio Centenario" .
+<Salto> <location.location.people_born_here> "Juan Daniel Salaberry" .
+<Pyloric_stenosis> <medicine.disease.risk_factors> "Male" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Edinson_Cavani> <soccer.football_player.position_s> "Forward" .
+<m.0w9m9hg> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Athlete> <type.type.domain> "Sports" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1924 South American Championship" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<m.0wz2p04> <sports.team_venue_relationship.team> "Peñarol" .
+<Football_player> <type.type.properties> "Goals scored" .
+<m.0w9h76p> <soccer.football_player_stats.team> "Club Nacional de Football" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<Events> <rdf-schema#range> "Sports League Championship Event" .
+<Forward> <common.topic.webpage> "m.09w2z1v" .
+<Football_player> <people.profession.specializations> "Canadian football player" .
+<1970_Copa_Libertadores_Finals> <time.event.locations> "Estadio Centenario" .
+<Championships> <rdf-schema#range> "Sports League Championship Event" .
+<Uruguay_national_football_team> <base.tournaments.tournament_competitor.matches> "m.0c43_77" .
+<m.09wcyf6> <common.webpage.topic> "Forward" .
+<m.0j3_l0g> <sports.sports_team_roster.team> "Uruguay national football team" .
+<m.0j498zc> <sports.sports_team_roster.team> "Liverpool F.C." .
+<Uruguay> <location.location.events> "Battle of Arapey" .
+<Luis_Suárez> <sports.pro_athlete.teams> "m.01148hrz" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbdv" .
+<Salto> <location.location.people_born_here> "Gonzalo de los Santos" .
+<Brazil> <location.location.events> "1950 FIFA World Cup" .
+<1930_FIFA_World_Cup> <base.x2010fifaworldcupsouthafrica.fifa_world_cup.champion> "Uruguay national football team" .
+<m.0j3_l2z> <sports.sports_team_roster.position> "Midfielder" .
+<Football_player> <type.type.expected_by> "Player" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9n567" .
+<American_football_player> <people.profession.specialization_of> "Football player" .
+<Football> <common.topic.image> "Football4" .
+<m.0j3_l0g> <sports.sports_team_roster.position> "Midfielder" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010j2f6f" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<Estadio_Centenario> <common.topic.notable_types> "Sports Facility" .
+<m.0d5sl7m> <sports.pro_sports_played.sport> "Football" .
+<Salto> <location.location.people_born_here> "Enrique Amorim" .
+<m.0w9fz03> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Sports_League_Championship_Event> <freebase.type_hints.included_types> "Topic" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<m.09wkytz> <common.webpage.topic> "Forward" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<male.jpg> <common.image.appears_in_topic_gallery> "Male" .
+<m.0w9n3b7> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Mauro_Arambarri> <people.person.place_of_birth> "Salto" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l0g" .
+<Sofia_Balbi> <freebase.valuenotation.has_value> "Country of nationality" .
+<Uruguay_national_football_team> <base.tournaments.tournament_competitor.matches> "m.0cb4zss" .
+<m.09yfbzc> <common.webpage.topic> "Forward" .
+<Sports_League_Championship_Event> <common.topic.article> "m.02_xg_3" .
+<m.0j499gm> <people.sibling_relationship.sibling> "Paolo Suárez" .
+<m.09jy3qt> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<m.09jy3ts> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position> "Midfielder" .
+<Benjamin_Suárez> <common.topic.notable_for> "g.1z2stzp8h" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<Uruguay_national_football_team> <common.topic.article> "m.0329rh" .
+<Gonzalo_de_los_Santos> <people.person.nationality> "Uruguay" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010my_hd" .
+<Salto> <location.location.people_born_here> "Sergio Santín" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1959 South American Championship" .
+<Benjamin_Suárez> <people.person.parents> "Luis Suárez" .
+<Football_player> <freebase.type_profile.kind> "Title" .
+<1983_Copa_América_Final> <sports.sports_championship_event.champion> "Uruguay national football team" .
+<m.09y96kp> <common.webpage.topic> "Forward" .
+<Leprosy> <medicine.disease.risk_factors> "Male" .
+<Pumas_Morelos> <sports.sports_team.venue> "m.0wz2p0v" .
+<Martín_Ferrando> <people.person.nationality> "Uruguay" .
+<To> <type.property.expected_type> "Date/Time" .
+<m.0kg75wm> <common.webpage.category> "About" .
+<Sofia_Balbi> <people.person.spouse_s> "m.0j499lz" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.0c06k8_" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<m.0c06k81> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<m.0j3_k_z> <freebase.valuenotation.has_no_value> "To" .
+<neilplus's_types> <freebase.domain_profile.category> "Male" .
+<m.0g9m8g6> <soccer.football_goal.point_awarded_to> "Uruguay national football team" .
+<Luis_Suárez> <sports.pro_athlete.teams> "m.0j3_kzq" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1923 South American Championship" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010mytqw" .
+<Athlete> <people.profession.specializations> "American football player" .
+<Alexander_Medina> <soccer.football_player.position_s> "Forward" .
+<Luis_Suárez> <soccer.football_player.statistics> "m.0w9djlt" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Soccer> <type.domain.types> "Football team" .
+<m.0jzx64b> <sports.sports_team_roster.team> "Club Nacional de Football" .
+<m.0w9lwhf> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Football_player> <people.profession.specializations> "American football player" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_kzz" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1916 South American Championship" .
+<Football_match.jpg> <common.image.appears_in_topic_gallery> "Football" .
+<m.0kdy4vm> <sports.sports_team_roster.position> "Midfielder" .
+<Non-gonococcal_urethritis> <medicine.disease.risk_factors> "Male" .
+<Luis-Suarez> <common.image.size> "m.0292hlm" .
+<1950_FIFA_World_Cup> <sports.sports_championship_event.champion> "Uruguay national football team" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9qhgw" .
+<Brazil> <olympics.olympic_participating_country.olympics_participated_in> "The London 2012 Summer Olympics" .
+<m.0rqcx0c> <sports.sports_team_roster.team> "Uruguay national football team" .
+<m.0g5mlcy> <soccer.football_player_match_participation.match> "2010 FIFA World Cup - Third place Final" .
+<Female> <common.topic.subjects> "ZasPorn" .
+<Copa_América> <time.recurring_event.instances> "1924 South American Championship" .
+<2010_FIFA_World_Cup_-_Third_place_Final> <base.tournaments.tournament_round.matches> "2010 FIFA World Cup - Third place Final" .
+<Event> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<m.0j499lz> <freebase.valuenotation.has_value> "Location of ceremony" .
+<m.09jy3qh> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<Horacio_Quiroga> <people.person.place_of_birth> "Salto" .
+<Gout> <medicine.icd_9_cm_classification.includes_classifications> "Gout" .
+<Football_player> <type.type.expected_by> "FutbolcuAdi" .
+<Luis_Suárez> <common.topic.webpage> "m.0kg75wm" .
+<m.0_y3_tw> <freebase.valuenotation.has_no_value> "To" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<David_Texeira> <people.person.place_of_birth> "Salto" .
+<Jorge_Soto> <people.person.nationality> "Uruguay" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011qyg4d" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<Sports> <type.domain.types> "Sports League Championship Event" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<1930_FIFA_World_Cup_Final> <time.event.included_in_event> "1930 FIFA World Cup" .
+<m.0j6807n> <people.sibling_relationship.sibling> "Luis Suárez" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<José_Leandro_Andrade> <people.deceased_person.place_of_death> "Montevideo" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<m.09y0cx8> <common.webpage.topic> "Forward" .
+<m.0_g0cpy> <base.schemastaging.athlete_salary.currency> "Pound sterling" .
+<Juan_Ángel_Albín> <people.person.gender> "Male" .
+<José_Leandro_Andrade> <common.topic.notable_types> "Football player" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.011rkzfn" .
+<Athlete> <people.profession.corresponding_type> "Athlete" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<Club_Nacional_de_Football> <sports.sports_team.venue> "m.0wz2p0c" .
+<Luis_Suárez> <soccer.football_player.disciplinary_action> "m.0g5nj24" .
+<Sofia_Balbi> <common.topic.notable_types> "Person" .
+<m.09jy3vd> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<m.09w68yf> <common.webpage.topic> "Forward" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0jxnfj2" .
+<Delfina_Suárez> <people.person.parents> "Sofia Balbi" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.0_z5vf9" .
+<AFC_Ajax> <sports.sports_team.sport> "Football" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0kdy4vm" .
+<Football_team> <freebase.type_profile.strict_included_types> "Abstract" .
+<Athlete's_foot> <medicine.disease.risk_factors> "Male" .
+<Salto> <location.location.people_born_here> "Edinson Cavani" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<Sandra_Suárez> <freebase.valuenotation.has_value> "Country of nationality" .
+<m.0kfys5w> <olympics.olympic_athlete_affiliation.athlete> "Luis Suárez" .
+<Delfina_Suárez> <people.person.gender> "Female" .
+<Paget's_disease_of_bone> <medicine.disease.risk_factors> "Male" .
+<Club_Nacional_de_Football> <sports.sports_team.arena_stadium> "Estadio Centenario" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1917 South American Championship" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<m.0jzx63w> <sports.sports_team_roster.position> "Forward" .
+<Forward> <common.topic.webpage> "m.09ywn05" .
+<Height> <rdf-schema#range> "Floating Point Number" .
+<Río_Negro> <location.location.partially_containedby> "Brazil" .
+<Tetralogy_of_Fallot> <medicine.disease.risk_factors> "Male" .
+<Javier_Guarino> <common.topic.notable_types> "Football player" .
+<Urethritis> <medicine.disease.risk_factors> "Male" .
+<Luis_Suárez> <common.topic.image> "Luis-Suarez" .
+<m.0c254t7> <base.tournaments.match_competitor_relationship.match> "2010 FIFA World Cup Group A - RSA ./. URU" .
+<Pat_White> <base.rugby.rugby_player.position> "Winger" .
+<Soccer_Player> <people.profession.specialization_of> "Athlete" .
+<m.09y1l4x> <common.webpage.topic> "Forward" .
+<Pedro_Rocha> <people.person.nationality> "Uruguay" .
+<Soccer_Player> <people.profession.specialization_of> "Football player" .
+<m.0kdy4vm> <freebase.valuenotation.has_value> "Number" .
+<Football_player> <freebase.type_hints.included_types> "Topic" .
+<Luis_Suárez> <celebrities.celebrity.net_worth> "m.0w9k1jp" .
+<Copa_América> <time.recurring_event.instances> "1935 South American Championship" .
+<Winger> <common.topic.article> "m.03f0fv" .
+<2011_Copa_América_Final> <sports.sports_championship_event.champion> "Uruguay national football team" .
+<Gastón_Silva> <freebase.valuenotation.has_value> "Parents" .
+<2010_FIFA_World_Cup_Round_of_16_-_URU_./._KOR> <soccer.football_match.goals> "m.0g9m8g6" .
+<Sports_League_Championship_Event> <freebase.type_profile.kind> "Description" .
+<m.0c254y3> <base.tournaments.match_competitor_relationship.competitor> "Uruguay national football team" .
+<Río_Negro> <travel.tourist_attraction.near_travel_destination> "Salto" .
+<Gastón_Silva> <people.person.gender> "Male" .
+<Copa_América> <time.recurring_event.instances> "1956 South American Championship" .
+<Río_Negro> <location.location.partially_containedby> "Uruguay" .
+<m.0w9dbd7> <soccer.football_player_stats.team> "Uruguay national football team" .
+<m.0j3_kzq> <sports.sports_team_roster.position> "Forward" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<Forward> <common.topic.webpage> "m.09y38j5" .
+<Salto> <location.location.people_born_here> "Santiago Martinez" .
+<m.09y4zj1> <common.webpage.topic> "Midfielder" .
+<Estadio_Centenario> <sports.sports_facility.teams> "Pumas Morelos" .
+<Football_player> <type.type.properties> "Position(s)" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "Uruguay v Brazil" .
+<Salto> <location.location.people_born_here> "Braian Rodríguez" .
+<Sofia_Balbi> <freebase.valuenotation.has_value> "Date of birth" .
+<Rodolfo_Suárez> <freebase.valuenotation.has_value> "Parents" .
+<2010_FIFA_World_Cup_Quarter-finals_-_URU_./.GHA> <base.tournaments.tournament_match.competitors> "m.0cb4zss" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<m.0jzx64b> <sports.sports_team_roster.position> "Forward" .
+<Luis_Suárez> <soccer.football_player.position_s> "Forward" .
+<Athlete> <common.topic.notable_types> "Profession" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010k_www" .
+<Salto> <location.statistical_region.population> "g.11bymmd9mw" .
+<2010_FIFA_World_Cup_Quarter-finals_-_URU_./.GHA> <soccer.football_match.disciplinary_action> "m.0g5nj24" .
+<m.0j3_k_q> <sports.sports_team_roster.position> "Midfielder" .
+<m.09jy3ts> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<m.0j498zc> <sports.sports_team_roster.position> "Forward" .
+<m.0c254y3> <base.tournaments.match_competitor_relationship.match> "2010 FIFA World Cup Round of 16 - URU ./. KOR" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0_g0cpy> <base.schemastaging.athlete_salary.team> "Liverpool F.C." .
+<m.04mf293> <sports.sports_team_roster.team> "AFC Ajax" .
+<Salto> <common.topic.notable_types> "City/Town/Village" .
+<m.0c06k89> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<Ángel_Melogno> <people.deceased_person.place_of_death> "Montevideo" .
+<m.0j3_k_z> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Rubén_Bentancourt> <common.topic.notable_types> "Football player" .
+<m.0j499gm> <people.sibling_relationship.sibling> "Luis Suárez" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<Uruguay_national_football_team> <soccer.football_team.league> "m.0j3_kvr" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<Rodolfo_Suárez> <people.person.children> "Paolo Suárez" .
+<m.0c06k8_> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0j3_k_6> <sports.sports_team_roster.position> "Midfielder" .
+<Braian_Rodríguez> <common.topic.notable_types> "Football player" .
+<Luis_Suárez> <people.person.nationality> "Uruguay" .
+<Luis_Suárez> <soccer.football_player.matches_played> "m.0c0ls6t" .
+<Multiple_myeloma> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<Uruguay> <location.country.capital> "Montevideo" .
+<Football_match.jpg> <common.image.appears_in_topic_gallery> "Forward" .
+<Football_player> <type.type.properties> "Number of Career Goals" .
+<m.011p3wnv> <sports.pro_sports_played.sport> "Forward" .
+<Football_player> <people.profession.specializations> "Soccer Player" .
+<Horacio_Quiroga> <people.person.gender> "Male" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbgg" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<Estádio_Fonte_Nova> <common.topic.notable_for> "g.1256qc3j4" .
+<m.0l74b8f> <sports.sports_team_roster.team> "Uruguay national football team" .
+<m.0cb4zss> <base.tournaments.match_competitor_relationship.match> "2010 FIFA World Cup Quarter-finals - URU ./.GHA" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<Nicolás_Mazzarino> <people.person.nationality> "Uruguay" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l16" .
+<m.0cc33lh> <base.tournaments.match_competitor_relationship.competitor> "Uruguay national football team" .
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0lg2ck6> <base.schemastaging.athlete_salary.currency> "Pound sterling" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3qh" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3q5" .
+<1988_Copa_Interamericana> <time.event.locations> "Estadio Centenario" .
+<Golfer's_elbow> <medicine.disease.risk_factors> "Male" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065gg7" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Ángel_Melogno> <people.person.place_of_birth> "Salto" .
+<Estadio_Centenario> <sports.sports_facility.teams> "Uruguay national football team" .
+<Estadio_Centenario> <location.location.events> "1969 Copa Libertadores Finals" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.0j3_l3g> <sports.sports_team_roster.position> "Midfielder" .
+<m.01148hrz> <sports.sports_team_roster.player> "Luis Suárez" .
+<Sebaceous_cyst> <medicine.disease.risk_factors> "Male" .
+<m.0j3_l16> <freebase.valuenotation.has_no_value> "To" .
+<1995_Copa_América_Final> <soccer.football_match.held_at> "Estadio Centenario" .
+<Club_foot> <medicine.disease.risk_factors> "Male" .
+<m.01148hrz> <freebase.valuenotation.has_no_value> "To" .
+<m.0c254t7> <base.tournaments.match_competitor_relationship.competitor> "Uruguay national football team" .
+<Forward> <common.topic.webpage> "m.09xs63n" .
+<Uruguay_national_football_team> <soccer.football_team.matches> "2010 FIFA World Cup Round of 16 - URU ./. KOR" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<m.09jy3yb> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.position> "Forward" .
+<m.0j3_l2q> <freebase.valuenotation.has_no_value> "To" .
+<Rubén_Bentancourt> <people.person.profession> "Soccer Player" .
+<Parents> <rdf-schema#domain> "Person" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbcc" .
+<Athlete> <people.profession.specializations> "Soccer Player" .
+<Football_player> <type.type.domain> "Soccer" .
+<m.0jst5y3> <sports.sports_team_roster.position> "Forward" .
+<Football> <sports.sport.positions> "Forward" .
+<Place_of_birth> <rdf-schema#domain> "Person" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<Luis_Suárez> <common.topic.notable_for> "g.1255mq32_" .
+<m.0fx1gyx> <soccer.football_goal.point_awarded_to> "Uruguay national football team" .
+<3_Millions> <film.film.personal_appearances> "m.0114xckr" .
+<Football_Position> <type.type.domain> "Soccer" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbg3" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3w2" .
+<Maxi_Miliana_Suárez> <freebase.valuenotation.has_value> "Country of nationality" .
+<Ángel_Melogno> <soccer.football_player.position_s> "Midfielder" .
+<Salto> <location.location.people_born_here> "Javier Guarino" .
+<Midfielder> <common.topic.notable_types> "Football Position" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0rqcx0c" .
+<m.0w9h76p> <soccer.football_player_stats.player> "Luis Suárez" .
+<m.0j499lz> <people.marriage.type_of_union> "Marriage" .
+<Salto> <location.location.people_born_here> "Alexander Medina" .
+<Rodolfo_Suárez> <people.person.gender> "Male" .
+<Salto> <location.statistical_region.population> "m.04m3n10" .
+<Date_of_birth> <rdf-schema#domain> "Person" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1930 FIFA World Cup" .
+<m.0g9m8gf> <soccer.football_goal.match> "2010 FIFA World Cup Round of 16 - URU ./. KOR" .
+<Uruguay_national_football_team> <sports.sports_team.league> "m.0crtqxb" .
+<Estadio_Centenario> <location.location.events> "1930 FIFA World Cup Final" .
+<1983_Copa_América> <time.event.instance_of_recurring_event> "Copa América" .
+<m.0g9m8g6> <soccer.football_goal.match> "2010 FIFA World Cup Round of 16 - URU ./. KOR" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Luis_Suárez> <sports.pro_athlete.teams> "m.0jzx63w" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0nb90tl" .
+<Salto> <location.location.people_born_here> "Bruno Fornaroli" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Country_of_nationality> <rdf-schema#domain> "Person" .
+<Sports_League_Championship_Event> <freebase.type_hints.included_types> "Event" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<Forward> <common.topic.webpage> "m.09ytlx7" .
+<Profession> <freebase.type_profile.strict_included_types> "Abstract" .
+<m.0j3_l26> <sports.sports_team_roster.team> "Uruguay national football team" .
+<Delfina_Suárez> <freebase.valuenotation.has_value> "Place of birth" .
+<Sandra_Suárez> <people.person.children> "Luis Suárez" .
+<Sports_League_Championship_Event> <type.type.expected_by> "Events" .
+<m.0j3_l0q> <sports.sports_team_roster.team> "Uruguay national football team" .
+<m.0w9dbbk> <soccer.football_player_stats.team> "Uruguay national football team" .
+<m.0jst5y3> <sports.sports_team_roster.team> "Uruguay national football team" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<Estádio_Fonte_Nova> <common.topic.image> "Fonte Nova2" .
+<Salto> <location.location.people_born_here> "Ángel Melogno" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<Football_player> <freebase.documented_object.documentation> "m.02ktm6x" .
+<AFC_Ajax> <common.topic.notable_types> "Football team" .
+<m.0jzx63w> <sports.sports_team_roster.player> "Luis Suárez" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Estadio_Centenario> <location.location.containedby> "Montevideo" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<Forward> <common.topic.webpage> "m.09y96kp" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbbk" .
+<m.09w2mrd> <common.webpage.topic> "Forward" .
+<2010_FIFA_World_Cup_Group_A_-_MEX_./._URU> <base.tournaments.tournament_match.competitors> "m.0c43_77" .
+<Luis_Suárez> <soccer.football_player.statistics> "m.0w9h76d" .
+<Estadio_Centenario> <location.location.events> "1964 Copa Libertadores Finals" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.010fm3fm" .
+<Estadio_Centenario> <location.location.events> "1962 Copa Libertadores Finals" .
+<m.09jy3x_> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.national_team> "Uruguay national football team" .
+<Luis_Suárez> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<1995_Copa_América_Final> <sports.sports_championship_event.champion> "Uruguay national football team" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<2006_FIFA_World_Cup_qualification> <common.topic.notable_types> "Event" .
+<Forward> <sports.sport.pro_athletes> "m.011p3wnv" .
+<Uruguay> <location.location.events> "1930 FIFA World Cup" .
+<Salto> <location.location.people_born_here> "Jorge Lucas" .
+<Person> <type.type.properties> "Country of nationality" .
+<Estadio_Centenario> <location.location.events> "1961 Copa Libertadores Finals" .
+<Uruguay_national_football_team> <sports.sports_team.championships> "1950 FIFA World Cup" .
+<m.0w9fmfn> <soccer.football_player_stats.team> "Uruguay national football team" .
+<m.0kdy4vm> <sports.sports_team_roster.team> "Uruguay national football team" .
+<m.0j3_kzz> <sports.sports_team_roster.team> "Uruguay national football team" .
+<m.01148hrz> <sports.sports_team_roster.team> "FC Barcelona" .
+<m.0w9dbcy> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Risk_Factor> <freebase.type_hints.included_types> "Topic" .
+<Ever_Hugo_Almeida> <people.person.gender> "Male" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbd7" .
+<m.0rqcx0c> <freebase.valuenotation.has_no_value> "To" .
+<Football_player> <type.type.expected_by> "Player" .
+<2010_FIFA_World_Cup_-_Third_place_Final> <base.tournaments.tournament_match.competitors> "m.0cdj_wp" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<Female> <medicine.risk_factor.diseases> "Kyphosis" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbcm" .
+<Club_Nacional_de_Football> <sports.sports_team.roster> "m.0jzx64b" .
+<Mauro_Arambarri> <people.person.nationality> "Uruguay" .
+<2011_Copa_América_Final> <common.topic.notable_types> "Sports League Championship Event" .
+<m.0rqcwvh> <sports.sports_team_roster.position> "Midfielder" .
+<1983_Copa_América> <common.topic.notable_for> "g.125gdmndg" .
+<Males> <base.skosbase.skos_concept.equivalent_topic> "Male" .
+<m.0c254pt> <base.tournaments.match_competitor_relationship.competitor> "Uruguay national football team" .
+<Football_player> <freebase.equivalent_topic.equivalent_type> "Football player" .
+<Juan_Ángel_Albín> <freebase.valuenotation.has_value> "Parents" .
+<Walter_Guglielmone> <common.topic.notable_types> "Football player" .
+<Salto> <location.location.containedby> "Salto Department" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0jst2tx" .
+<m.0g5mlcy> <soccer.football_player_match_participation.team> "Uruguay national football team" .
+<1964_Copa_Libertadores_Finals> <time.event.locations> "Estadio Centenario" .
+<Luis_Suárez> <common.topic.notable_types> "Football player" .
+<Rodolfo_Suárez> <common.topic.notable_types> "Person" .
+<Luis_Suárez> <olympics.olympic_athlete.country> "m.0kfys5w" .
+<m.0j3_l06> <freebase.valuenotation.has_no_value> "To" .
+<m.0c0ls6t> <soccer.football_player_match_participation.player> "Luis Suárez" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Forward> <common.topic.webpage> "m.0b48241" .
+<Martín_Ferrando> <people.person.place_of_birth> "Salto" .
+<Football_player> <freebase.type_profile.published> "Published" .
+<Football_player> <freebase.type_profile.strict_included_types> "Person" .
+<1966_Copa_Libertadores_Finals> <time.event.locations> "Estadio Centenario" .
+<David_Texeira> <people.person.profession> "Soccer Player" .
+<Athletes_and_Sports_Competitors> <base.lightweight.profession.specialization> "Football player" .
+<Salto> <location.location.geolocation> "m.02_h__k" .
+<Football_player> <freebase.type_profile.equivalent_topic> "Football player" .
+<m.0s9nrn7> <sports.sports_team_coach_tenure.team> "Uruguay national football team" .
+<Date_of_birth> <type.property.expected_type> "Date/Time" .
+<Syphilis> <medicine.disease.risk_factors> "Male" .
+<Montevideo> <location.location.contains> "Estadio Centenario" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0jxngh1" .
+<FC_Barcelona> <sports.sports_team.sport> "Football" .
+<Salto> <location.location.people_born_here> "Walter Guglielmone" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3r4" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<Athlete> <people.profession.specializations> "Football player" .
+<Uruguay_national_football_team> <soccer.football_team.player_statistics> "m.0w9dbfk" .
+<Uruguay_national_football_team> <base.x2010fifaworldcupsouthafrica.world_cup_squad.current_world_cup_squad> "m.09jy3rt" .
+<Luis_Suárez> <people.person.parents> "Sandra Suárez" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Pumas_Morelos> <sports.sports_team.arena_stadium> "Estadio Centenario" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Abstract" .
+<m.0w9dbh6> <soccer.football_player_stats.team> "Uruguay national football team" .
+<Kyphosis> <medicine.disease.risk_factors> "Female" .
+<m.0g5nj24> <soccer.football_disciplinary_action.match> "2010 FIFA World Cup Quarter-finals - URU ./.GHA" .
+<m.09jy3w2> <base.x2010fifaworldcupsouthafrica.current_world_cup_squad.current_club> "Club Nacional de Football" .
+<m.09ywn05> <common.webpage.topic> "Forward" .
+<Football_team> <freebase.type_hints.included_types> "Topic" .
+<396px-Boisko_PositionsMidfield> <common.image.appears_in_topic_gallery> "Midfielder" .
+<Liverpool_F.C.> <common.topic.notable_types> "Football team" .
+<2014_FIFA_World_Cup_qualification> <time.event.locations> "Estadio Centenario" .
+<m.0whf95d> <freebase.valuenotation.has_no_value> "To" .
+<Club_Nacional_de_Football> <sports.sports_team.sport> "Football" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Uruguay_national_football_team> <sports.sports_team.venue> "m.0wz2n_z" .
+<m.0_g0cpy> <base.schemastaging.athlete_salary.athlete> "Luis Suárez" .
+<Copa_América> <time.recurring_event.instances> "1916 South American Championship" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<Sandra_Suárez> <common.topic.notable_types> "Person" .
+<m.0l74b8f> <freebase.valuenotation.has_value> "Number" .
+<Soccer> <freebase.domain_profile.equivalent_topic> "Football" .
+<Gastón_Silva> <people.person.profession> "Soccer Player" .
+<Uruguay_national_football_team> <sports.sports_team.roster> "m.0j3_l2z" .
+<Estadio_Centenario> <location.location.events> "2002 FIFA World Cup qualification" .
+<Football_player> <base.descriptive_names.names.descriptive_name> "m.01065gf2" .
+<m.0w9dbhh> <soccer.football_player_stats.team> "Uruguay national football team" .

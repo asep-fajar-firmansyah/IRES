@@ -1,0 +1,2872 @@
+<Person> <freebase.type_profile.published> "Published" .
+<Paris> <location.statistical_region.population> "m.06zxzv3" .
+<m.064sm3g> <base.popstra.vacation_choice.location> "Paris" .
+<Paris> <common.topic.webpage> "m.0b46tvw" .
+<Countries_Used> <type.property.expected_type> "Country" .
+<Batignolles> <location.neighborhood.neighborhood_of> "Paris" .
+<Panthéon> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Land_area> <type.property.schema> "Location" .
+<France> <location.country.first_level_divisions> "Languedoc-Roussillon" .
+<Midi-Pyrénées> <common.topic.notable_types> "French Region" .
+<Location> <freebase.domain_profile.users> "colemanm" .
+<Politician> <type.type.expected_by> "Ceann Comhairle" .
+<Canadian_Province> <freebase.type_profile.strict_included_types> "Topic" .
+<Paris> <travel.travel_destination.climate> "m.051qv61" .
+<Country> <type.type.properties> "ISO Alpha 2" .
+<German_state> <type.type.domain> "Location" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "6th arrondissement of Paris" .
+<Significant> <freebase.type_kind.types> "Malaysian state" .
+<Maigret_in_Montmartre> <book.written_work.subjects> "France" .
+<Significant> <freebase.type_kind.types> "US County" .
+<Australian_State> <freebase.type_hints.included_types> "Statistical region" .
+<Third_level_division_of> <rdf-schema#range> "Country" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Île_de_la_Cité> <location.location.contains> "Notre Dame de Paris" .
+<Princess_Isabelle> <fictional_universe.fictional_character.place_of_birth> "Paris" .
+<The_white_man_in_the_tree,_and_other_stories> <book.written_work.subjects> "France" .
+<Paris> <location.statistical_region.population> "m.06zxzw1" .
+<Hair_loss> <medicine.disease.risk_factors> "Male" .
+<Albertine> <book.written_work.subjects> "Paris" .
+<Grande_Arche> <location.location.containedby> "Paris" .
+<Significant> <freebase.type_kind.types> "South Korean province" .
+<Form_of_Government> <type.type.domain> "Government" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<National_anthem> <rdf-schema#domain> "Country" .
+<Rhône-Alpes> <location.administrative_division.country> "France" .
+<DD4D> <conferences.conference.venue> "Paris" .
+<Midi-Pyrénées> <location.location.containedby> "Metropolitan France" .
+<Country> <media_common.quotation_subject.quotations_about_this_subject> "Shall we then judge a country by the majority, or by the minority? By the minority, surely. 'Tis pedantry to estimate nations by the census, or by square miles of land, or other than by their importance to the mind of the time." .
+<Country> <type.type.properties> "Calling Code" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h271y0" .
+<Mean_elevation> <rdf-schema#domain> "Location" .
+<Le_Manifeste> <book.periodical.language> "French" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h2723g" .
+<Politician> <rdf-schema#range> "Politician" .
+<Ventricular_tachycardia> <medicine.symptom.symptom_of> "heart attack" .
+<Paris> <book.book_subject.works> "Thrones, Dominations" .
+<m.0b6rr6q> <common.webpage.topic> "Paris" .
+<French_region> <base.aareas.schema.administrative_area_type.administrative_division_type> "French Region" .
+<Paris> <book.book_subject.works> "Intimate enemies" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<The_Sucker> <film.film.featured_film_locations> "Paris" .
+<Powder_and_Patch> <book.written_work.subjects> "Paris" .
+<Form_of_Government> <type.type.properties> "Countries" .
+<Emphysema> <medicine.disease.risk_factors> "Male" .
+<ISO_Numeric> <type.property.expected_type> "Enumeration" .
+<Kawasaki_disease> <medicine.disease.risk_factors> "Male" .
+<ISO_Alpha_3> <rdf-schema#range> "Enumeration" .
+<Paris> <location.statistical_region.population> "g.11b7vc270w" .
+<Île-de-France> <organization.organization_scope.organizations_with_this_scope> "Serval-Agency" .
+<The_Alternative_Detective> <book.written_work.subjects> "Paris" .
+<Paris> <sports.sports_team_location.teams> "Paris-Levallois Basket" .
+<Significant> <freebase.type_kind.types> "US President" .
+<Midi-Pyrénées> <location.location.time_zones> "Central European Time Zone" .
+<Paris> <base.popstra.location.vacationers> "m.065pc5k" .
+<The_Elegance_of_the_Hedgehog> <book.written_work.original_language> "French" .
+<Top_Level_Domain> <freebase.type_hints.included_types> "Topic" .
+<Location> <freebase.domain_profile.featured_views> "Ukraine Oblast" .
+<Argentine_province> <type.type.domain> "Location" .
+<Australian_State> <freebase.type_hints.included_types> "Location" .
+<Parisian_Home_Cooking> <book.written_work.subjects> "Paris" .
+<Location> <freebase.domain_profile.featured_views> "City/Town" .
+<Belleville,_Paris> <location.location.containedby> "20th arrondissement" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<Country> <type.property.schema> "Administrative Division" .
+<Upper_Normandy> <location.location.containedby> "Metropolitan France" .
+<Paris> <base.popstra.location.vacationers> "m.064th1n" .
+<Sacré-Cœur,_Paris> <location.location.containedby> "Paris" .
+<Published> <base.industrystandards.industry_standard_status.standards> "ISO 13250-2" .
+<Paris> <travel.travel_destination.climate> "m.051qv5t" .
+<Flée,_Sarthe> <common.topic.notable_types> "Statistical region" .
+<France> <location.country.first_level_divisions> "Picardy" .
+<South_Korean_province> <freebase.type_hints.included_types> "Administrative Division" .
+<Nearby_airports> <rdf-schema#domain> "Location" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<Auvergne> <location.location.containedby> "Metropolitan France" .
+<m.064d8qd> <base.popstra.vacation_choice.location> "Paris" .
+<Canadian_Province> <freebase.type_hints.included_types> "Location" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h2723x" .
+<m.03pjdfj> <people.place_lived.location> "Paris" .
+<Paris> <location.fr_department.chef_lieu> "Paris" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Topic> <freebase.type_profile.kind> "Meta" .
+<Politician> <type.property.expected_type> "Politician" .
+<Paris> <film.film_location.featured_in_films> "The Fat and the Lean" .
+<Currency> <freebase.type_profile.published> "Published" .
+<Paris> <base.popstra.location.vacationers> "m.065pc1c" .
+<Paris> <base.popstra.location.vacationers> "m.064tk3r" .
+<UN/LOCODE> <rdf-schema#range> "Enumeration" .
+<Paris> <base.popstra.location.vacationers> "m.064sp7d" .
+<ISO_Short_Name> <rdf-schema#domain> "Country" .
+<Paris> <location.statistical_region.population> "m.06zxzxy" .
+<Finance_minister> <government.government_office_or_title.category> "Finance minister" .
+<Read_my_Lips> <film.film.featured_film_locations> "Paris" .
+<m.09xkgw1> <common.webpage.topic> "Paris" .
+<Country> <type.type.properties> "FIFA Code" .
+<Jardin_du_Luxembourg> <location.location.containedby> "Paris" .
+<Charmed_Circle:_Gertrude_Stein_and_Company> <book.written_work.subjects> "Paris" .
+<Obstructive_sleep_apnea> <medicine.disease.risk_factors> "Male" .
+<Inside_Paris> <film.film.country> "France" .
+<Europe> <common.topic.notable_types> "Continent" .
+<Administrative_Division> <type.type.domain> "Location" .
+<Topic> <type.type.properties> "Subject of" .
+<Paris> <book.book_subject.works> "The white man in the tree, and other stories" .
+<Languedoc-Roussillon> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Metropolitan_France> <location.location.contains> "Upper Normandy" .
+<US_President> <type.type.domain> "Government" .
+<Gout> <medicine.icd_9_cm_classification.parent_classification> "Gout" .
+<Paris> <book.book_subject.works> "The Paris Enigma: A Novel" .
+<Ankylosing_spondylitis> <medicine.disease_cause.diseases> "Kyphosis" .
+<Countries_Formerly_Used> <owl#inverseOf> "Currency Formerly Used" .
+<m.064spgc> <base.popstra.vacation_choice.location> "Paris" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Latin Quarter, Paris" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Countries> <type.property.expected_type> "Country" .
+<Politician> <freebase.type_profile.equivalent_topic> "Politician" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h27250" .
+<Internet_TLD> <type.property.expected_type> "Top Level Domain" .
+<Kidney_Stone> <medicine.disease.causes> "Gout" .
+<Paris> <book.book_subject.works> "Me Talk Pretty One Day" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<Aquitaine> <location.location.containedby> "France" .
+<Significant> <freebase.type_kind.types> "English region" .
+<Paris> <book.book_subject.works> "Henry James Goes to Paris" .
+<Hirschsprung's_disease> <medicine.disease.risk_factors> "Male" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Centre_Georges_Pompidou> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Paris:_From_Oscar_Wilde_to_Jim_Morrison> <radio.radio_program.subjects> "Paris" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Montmartre" .
+<Ectodermal_dysplasia> <medicine.disease.symptoms> "Hair loss" .
+<Metropolitan_France> <location.location.contains> "Champagne-Ardenne" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Aquitaine" .
+<Parc_Astérix> <location.location.containedby> "France" .
+<Paris> <book.book_subject.works> "Albertine" .
+<Water_area> <type.property.schema> "Location" .
+<Politician> <type.type.expected_by> "Candidates" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<Contains> <type.property.reverse_property> "Contained by" .
+<20_minutes> <book.newspaper.circulation_areas> "Paris" .
+<Paris> <location.statistical_region.population> "m.06zxzyf" .
+<Paris> <film.film_location.featured_in_films> "Yamakasi" .
+<1900_Summer_Olympics> <olympics.olympic_games.participating_countries> "France" .
+<Fourth_level_divisions> <type.property.reverse_property> "Fourth level division of" .
+<Second_level_division_of> <type.property.expected_type> "Country" .
+<Seine> <location.location.partially_containedby> "Metropolitan France" .
+<Paris> <common.topic.webpage> "m.09ym46_" .
+<Sarthe> <location.fr_department.region> "Pays de la Loire" .
+<Social_media_presence> <type.property.schema> "Topic" .
+<shape> <rdf-schema#domain> "Location" .
+<Paris> <base.popstra.location.vacationers> "m.065pbnv" .
+<First_level_division_of> <type.property.expected_type> "Country" .
+<Antisocial_personality_disorder> <medicine.disease.risk_factors> "Male" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<Île-de-France> <location.location.containedby> "Metropolitan France" .
+<m.0wg9fhq> <location.partial_containment_relationship.partially_contained_by> "Paris" .
+<Paris> <book.book_subject.works> "From A Paris Garret" .
+<Partially_contained_by> <type.property.expected_type> "Location" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Batignolles" .
+<The_Louvre> <location.location.time_zones> "Central European Time Zone" .
+<Gout> <medicine.disease.risk_factors> "Male" .
+<Amélie> <fictional_universe.work_of_fiction.setting> "Montmartre" .
+<Paris> <film.film_subject.films> "Amélie" .
+<15th_arrondissement_of_Paris> <location.location.contains> "Tour Triangle" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "The Dong-a Ilbo" .
+<Location> <freebase.domain_profile.featured_views> "Brazilian municipality" .
+<m.09y0rfb> <common.webpage.topic> "Paris" .
+<Paris> <location.statistical_region.population> "m.0kg_vd0" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<Seine> <location.location.contains> "Paris" .
+<Paris> <book.book_subject.works> "Paris Journal, 1944-1965" .
+<Paris_-_Place_de_l'Etoile> <common.image.appears_in_topic_gallery> "Paris" .
+<US_State> <freebase.type_profile.published> "Published" .
+<Ménilmontant> <film.film_location.featured_in_films> "Low Profile" .
+<Notre_Dame_de_Paris> <location.location.containedby> "Paris" .
+<Paris> <location.statistical_region.population> "m.06zxzw5" .
+<Location> <freebase.domain_profile.featured_views> "HUD Nonmetro FMR Area" .
+<Location> <type.type.properties> "Events" .
+<12th_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<France> <olympics.olympic_participating_country.olympics_participated_in> "1924 Summer Olympics" .
+<Location> <freebase.domain_profile.users> "davidmetcalfe" .
+<Île-de-France> <location.fr_region.departments> "Paris" .
+<Corsica> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Hodgkin's_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Significant> <freebase.type_kind.types> "Archdiocese" .
+<Ectodermal_dysplasia> <medicine.disease.risk_factors> "Male" .
+<La_Jetée> <film.film.country> "France" .
+<Paris> <common.topic.webpage> "m.09x6fzl" .
+<Paris> <film.film_location.featured_in_films> "Avenue Montaigne" .
+<Pays_de_la_Loire> <location.location.containedby> "Metropolitan France" .
+<Paris> <fictional_universe.fictional_setting.characters_that_have_lived_here> "g.121fx23w" .
+<m.09xlx6s> <common.webpage.topic> "Paris" .
+<Calm_At_Sea> <film.film.language> "French" .
+<Paris> <location.fr_department.region> "Île-de-France" .
+<Paris> <base.arthist.helynevek.mutargy> "m.0773z56" .
+<Paris> <film.film.subjects> "Paris" .
+<Politician> <type.type.expected_by> "Candidate" .
+<Inguinal_hernia> <medicine.disease.risk_factors> "Male" .
+<Le_Père_Duchesne> <book.newspaper.circulation_areas> "Paris" .
+<Seine> <location.location.containedby> "Europe" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Soleanna" .
+<France> <location.country.first_level_divisions> "Brittany" .
+<Internet_TLD> <rdf-schema#range> "Top Level Domain" .
+<Ariste_Jacques_Trouvé-Chauvel> <people.person.gender> "Male" .
+<French> <language.human_language.countries_spoken_in> "France" .
+<Paris> <common.topic.image> "Paris - Place de l'Etoile" .
+<Country> <freebase.type_profile.kind> "Significant" .
+<m.0h27218> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<m.09wjcgc> <common.webpage.topic> "Country" .
+<Paris> <travel.travel_destination.climate> "m.051qv51" .
+<Rastko_Petrović_Award> <award.award_category.disciplines_or_subjects> "Paris" .
+<Paris> <base.popstra.location.vacationers> "m.065pd0f" .
+<First_level_division_of> <type.property.master_property> "First level divisions" .
+<France> <location.location.containedby> "Europe" .
+<Paris> <common.image.appears_in_topic_gallery> "Paris" .
+<Metropolitan_France> <location.location.containedby> "Europe" .
+<Auvergne> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<Paris> <film.film_location.featured_in_films> "Midnight in Paris" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Petit-Montrouge" .
+<Paris> <film.film.subjects> "Paris" .
+<Paris> <location.statistical_region.population> "m.06zxzwp" .
+<Paris> <travel.travel_destination.tourist_attractions> "Musée de l'Orangerie" .
+<Paris> <common.topic.webpage> "m.09xm57w" .
+<Contains_major_portion_of> <rdf-schema#domain> "Location" .
+<Ariste_Jacques_Trouvé-Chauvel> <people.person.nationality> "France" .
+<French_general_and_statesman_Louis_Eugène_Cavaignac> <common.image.appears_in_topic_gallery> "Louis-Eugène Cavaignac" .
+<GEOnet_feature_ID> <rdf-schema#domain> "Location" .
+<Paris> <travel.travel_destination.climate> "m.051qv59" .
+<m.09ykkx0> <common.webpage.topic> "Paris" .
+<Contained_by> <rdf-schema#domain> "Location" .
+<Location> <type.type.properties> "Contains" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "19th arrondissement" .
+<German_state> <freebase.type_hints.included_types> "Location" .
+<Mexican_state> <freebase.type_hints.included_types> "Administrative Division" .
+<Administrative_Division> <freebase.type_profile.published> "Published" .
+<m.064tk3r> <base.popstra.vacation_choice.location> "Paris" .
+<Trocadéro> <location.location.containedby> "Paris" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "11th arrondissement of Paris" .
+<Paris> <base.popstra.company.shopping_choice> "m.063dq2q" .
+<Form_of_Government> <type.property.expected_type> "Form of Government" .
+<Trocadéro> <location.neighborhood.neighborhood_of> "Paris" .
+<Location> <type.type.properties> "Geolocation" .
+<Paris> <location.location.partiallycontains> "m.0wg9fhq" .
+<Metropolitan_France> <location.location.contains> "Midi-Pyrénées" .
+<Officeholder> <owl#inverseOf> "Government Positions Held" .
+<Canadian_Province> <freebase.type_profile.kind> "Significant" .
+<Adjoins> <rdf-schema#domain> "Location" .
+<Paris> <film.film_location.featured_in_films> "Chéri" .
+<Location> <freebase.domain_profile.users> "andreasl" .
+<FIPS_Code> <type.property.schema> "Country" .
+<Paris> <book.book_subject.works> "Maigret and the Calame report" .
+<Human_Language> <freebase.type_profile.kind> "Definition" .
+<Location> <freebase.domain_profile.featured_views> "Countries by Population" .
+<Disneyland_Park> <location.location.containedby> "Paris" .
+<Seven_Ages_of_Paris> <book.written_work.subjects> "France" .
+<Risk_Factor> <freebase.type_profile.strict_included_types> "Topic" .
+<Human_Language> <freebase.type_hints.included_types> "Topic" .
+<Anaplastic_thyroid_cancer> <medicine.disease.risk_factors> "Male" .
+<Topic> <freebase.type_profile.kind> "Portrayal" .
+<m.051qv87> <travel.travel_destination_monthly_climate.travel_destination> "Paris" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<The_Art_and_Spirit_of_Paris> <book.written_work.subjects> "Paris" .
+<Administrative_Division> <type.type.properties> "Third level division of" .
+<Beauvais–Tillé_Airport> <travel.transport_terminus.travel_destinations_served> "m.051qtw8" .
+<Paris> <film.film_location.featured_in_films> "Breathless" .
+<Administrative_Division> <type.type.properties> "Fourth level division of" .
+<Eiffel_Tower> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Kingdom of Zeal" .
+<Brazilian_state> <freebase.type_hints.included_types> "Location" .
+<C'était_un_rendez-vous> <film.film.language> "French" .
+<Intimate_Strangers> <media_common.netflix_title.netflix_genres> "France" .
+<Poitou-Charentes> <location.location.containedby> "France" .
+<Area> <rdf-schema#domain> "Location" .
+<Paris> <base.popstra.location.vacationers> "m.064d8qn" .
+<GNIS_ID> <rdf-schema#domain> "Location" .
+<18th_arrondissement> <location.location.contains> "Montmartre" .
+<Montmartre> <location.neighborhood.neighborhood_of> "Paris" .
+<Bois_de_Boulogne> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Pays_de_la_Loire> <location.administrative_division.first_level_division_of> "France" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<20th_arrondissement> <location.location.contains> "Belleville, Paris" .
+<Paris_After_the_Liberation> <book.written_work.subjects> "France" .
+<Notable_types> <type.property.schema> "Topic" .
+<m.0_x4zlz> <freebase.valuenotation.has_no_value> "District represented (if position is district-related)" .
+<Disneyland_Paris> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<France> <location.location.partially_containedby> "Europe" .
+<Arc_de_Triomphe> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<First_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Location> <freebase.type_profile.kind> "Meta" .
+<Île-de-France> <base.aareas.schema.administrative_area.administrative_children> "Paris" .
+<Vietnamese_province> <freebase.type_hints.included_types> "Topic" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Quartier Pigalle" .
+<France> <location.country.first_level_divisions> "Centre-Val de Loire" .
+<point> <type.property.schema> "Location" .
+<Brittany> <location.location.time_zones> "Central European Time Zone" .
+<Paris> <common.topic.webpage> "m.09xknyv" .
+<Paris> <location.statistical_region.population> "m.06zxztb" .
+<Paris> <fictional_universe.fictional_setting.characters_that_have_lived_here> "g.122qmg44" .
+<Ventricular_tachycardia> <medicine.disease.risk_factors> "Male" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<National_Library_of_France> <base.arthist.int_zm_nyek.helynev> "Paris" .
+<Paris> <base.popstra.location.vacationers> "m.064sn44" .
+<Musée_Maillol> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Metropolitan France" .
+<Down_and_Out_in_Paris_and_London> <book.written_work.subjects> "France" .
+<Paris> <location.statistical_region.population> "m.06zxzx9" .
+<Haratch> <book.newspaper.circulation_areas> "France" .
+<Gare_d'Orsay> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<France> <common.topic.notable_types> "Country" .
+<The_World_at_Night> <book.written_work.subjects> "France" .
+<20th_arrondissement> <location.location.containedby> "Paris" .
+<Arc_de_Triomphe> <location.location.time_zones> "Central European Time Zone" .
+<Topic> <type.type.properties> "Article" .
+<Stuttering> <medicine.disease.risk_factors> "Male" .
+<Sacré-Cœur,_Paris> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Grenelle" .
+<Paris> <symbols.name_source.namesakes> "21 Lutetia" .
+<Languedoc-Roussillon> <location.location.containedby> "Metropolitan France" .
+<Paris> <organization.organization_scope.organizations_with_this_scope> "Mozalami" .
+<Franche-Comté> <location.administrative_division.first_level_division_of> "France" .
+<20th_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<Serval-Agency> <organization.organization.geographic_scope> "Paris" .
+<French> <common.topic.notable_types> "Human Language" .
+<Europe> <fictional_universe.fictional_setting.contains> "Grand Fenwick" .
+<Internet_TLD> <type.property.schema> "Country" .
+<Île_de_la_Cité> <geography.island.body_of_water> "Seine" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Overseas France" .
+<France> <location.country.first_level_divisions> "Rhône-Alpes" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Picardy" .
+<Musée_de_l'Orangerie> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Montmartre> <location.location.containedby> "Paris" .
+<Read_my_Lips> <film.film.country> "France" .
+<17th_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<La_Jetée> <media_common.netflix_title.netflix_genres> "France" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<UN/LOCODE> <rdf-schema#domain> "Location" .
+<Paris> <film.film_location.featured_in_films> "Munich" .
+<Montmartre> <location.location.containedby> "18th arrondissement" .
+<Paris> <film.film_location.featured_in_films> "The Tourist" .
+<Street_address> <rdf-schema#domain> "Location" .
+<Rhône-Alpes> <location.administrative_division.first_level_division_of> "France" .
+<Country> <freebase.type_hints.included_types> "Dated location" .
+<Paris> <common.topic.webpage> "m.09ycp1s" .
+<Paris> <base.popstra.location.vacationers> "m.064tjwk" .
+<Maigret_and_the_Headless_Corpse> <book.written_work.subjects> "France" .
+<Officeholder> <rdf-schema#range> "Politician" .
+<Île-de-France> <location.location.containedby> "France" .
+<La_Tribune> <book.newspaper.circulation_areas> "France" .
+<Country> <rdf-schema#range> "Country" .
+<Paris_Métro> <metropolitan_transit.transit_system.area_served> "Paris" .
+<Charles_de_Gaulle_Airport> <aviation.airport.serves> "Tour Triangle" .
+<Currency_Formerly_Used> <rdf-schema#range> "Currency" .
+<Shadow_Figure> <fictional_universe.fictional_character.place_of_birth> "Male" .
+<Band_of_Outsiders> <film.film.featured_film_locations> "Paris" .
+<Paris> <book.book_subject.works> "The Terrible Year" .
+<ZasPorn> <common.topic.subject_of> "Male" .
+<Amélie> <film.film.subjects> "Paris" .
+<Paris> <film.film_subject.films> "Paris, je t'aime" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "L'Aurore" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<The_Lovers_on_the_Bridge> <media_common.netflix_title.netflix_genres> "France" .
+<Burgundy> <location.location.time_zones> "Central European Time Zone" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<The_Sucker> <film.film.country> "France" .
+<Champs-Élysées> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<National_Assembly> <government.governmental_body.jurisdiction> "France" .
+<Paris> <base.popstra.location.vacationers> "m.065pbjn" .
+<US_State> <freebase.type_profile.strict_included_types> "Topic" .
+<Paris> <base.popstra.location.vacationers> "m.064snfv" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<Currency> <freebase.type_profile.kind> "Definition" .
+<Alsace> <location.location.time_zones> "Central European Time Zone" .
+<Location> <freebase.domain_profile.users> "ssal97" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<Paris> <travel.travel_destination.tourist_attractions> "Musée des Arts et Métiers" .
+<France_Business_School> <organization.organization.geographic_scope> "Paris" .
+<13th_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<Internet_TLD> <rdf-schema#domain> "Country" .
+<Image> <type.property.schema> "Topic" .
+<Significant> <freebase.type_kind.types> "Olympic Medal Winner" .
+<Americans_in_Paris> <book.written_work.subjects> "Paris" .
+<Paris> <sports.sports_team_location.teams> "Paris Volley" .
+<Deity> <freebase.type_profile.published> "Published" .
+<Paris_Las_Vegas> <base.casinos.casino.theme> "Paris" .
+<Transient_ischemic_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Since_Otar_Left> <media_common.netflix_title.netflix_genres> "French" .
+<Café_Volpini> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Location> <freebase.domain_profile.users> "bteoman" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Avanti!" .
+<Bercy> <location.location.containedby> "Paris" .
+<Sicko> <film.film.featured_film_locations> "Paris" .
+<Australian_State> <type.type.domain> "Location" .
+<Location> <freebase.domain_profile.users> "mnfbmf" .
+<Le_Moniteur_Universel> <book.newspaper.circulation_areas> "Paris" .
+<Paris> <film.film_location.featured_in_films> "Charade" .
+<Paris> <film.film_location.featured_in_films> "Now You See Me" .
+<German_state> <freebase.type_hints.included_types> "Dated location" .
+<Religious_Leader> <freebase.type_profile.strict_included_types> "Person" .
+<L'As_du_Fallafel> <organization.organization.geographic_scope> "Paris" .
+<Paris> <book.book_subject.works> "Paris After the Liberation" .
+<m.051qv51> <travel.travel_destination_monthly_climate.travel_destination> "Paris" .
+<m.09y6z35> <common.webpage.topic> "Paris" .
+<Location> <freebase.domain_profile.users> "adichad" .
+<Paris> <travel.travel_destination.tourist_attractions> "Disneyland Park" .
+<Eiffel_Tower> <location.location.containedby> "Paris" .
+<The_Louvre> <base.arthist.int_zm_nyek.helynev> "Paris" .
+<Location> <freebase.domain_profile.users> "brendan" .
+<Americans_in_Paris> <film.film.featured_film_locations> "Paris" .
+<Aquitaine> <common.topic.notable_types> "French Region" .
+<near> <rdf-schema#domain> "Location" .
+<All_is_Forgiven> <film.film.language> "French" .
+<m.09ytkxf> <common.webpage.topic> "Paris" .
+<Grenelle> <location.location.containedby> "15th arrondissement of Paris" .
+<Michel_Goudchaux> <people.person.profession> "Politician" .
+<3rd_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<m.0b48b24> <common.webpage.topic> "Paris" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<Statistical_region> <base.schemastaging.type_extended.extended_type> "Statistical region extra" .
+<Midi-Pyrénées> <location.administrative_division.country> "France" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "12th arrondissement" .
+<Significant> <freebase.type_kind.types> "Country" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<7th_arrondissement> <location.location.containedby> "Paris" .
+<4th_arrondissement> <location.location.containedby> "Paris" .
+<Location> <type.type.properties> "Partially contained by" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<Paris> <travel.travel_destination.tourist_attractions> "Île de la Cité" .
+<Second_level_divisions> <type.property.reverse_property> "Second level division of" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Currency_Used> <type.property.master_property> "Countries Used" .
+<8th_arrondissement_of_Paris> <location.location.containedby> "Paris" .
+<Metropolitan_France> <location.location.contains> "Lorraine" .
+<Location> <type.type.properties> "inside" .
+<Country> <freebase.equivalent_topic.equivalent_type> "Country" .
+<Third_level_division_of> <type.property.expected_type> "Country" .
+<Location> <freebase.domain_profile.users> "thejackal" .
+<m.0b496zm> <common.webpage.topic> "Paris" .
+<m.0b46tvw> <common.webpage.topic> "Paris" .
+<First_level_divisions> <owl#inverseOf> "First level division of" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<Adventures_of_the_mind> <book.written_work.subjects> "Paris" .
+<France> <periodicals.newspaper_circulation_area.newspapers> "Le Monde" .
+<Chinese_province> <freebase.type_hints.included_types> "Topic" .
+<Politician> <freebase.type_profile.strict_included_types> "Agent" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Le Moniteur Universel" .
+<Notre_Dame_de_Paris.jpg> <common.image.appears_in_topic_gallery> "Paris" .
+<Chéri> <film.film.featured_film_locations> "Paris" .
+<Languages_spoken> <rdf-schema#domain> "Country" .
+<m.064ss6g> <base.popstra.vacation_choice.location> "Paris" .
+<National_Library_of_France> <base.jewlib.judaica_owner.parent_institution> "France" .
+<Paris> <organization.organization_scope.organizations_with_this_scope> "Le Siècle" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<Nord-Pas-de-Calais> <location.administrative_division.country> "France" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Protectorate of Menoth" .
+<Location> <type.type.properties> "Water area" .
+<Location> <type.type.properties> "point" .
+<Country> <type.type.properties> "Capital" .
+<2nd_arrondissement> <location.location.containedby> "Paris" .
+<Poitou-Charentes> <location.location.containedby> "Metropolitan France" .
+<Charles_de_Gaulle_Airport> <travel.transport_terminus.travel_destinations_served> "m.051qtw8" .
+<Notre_Dame_de_Paris> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<French_region> <freebase.type_hints.included_types> "Location" .
+<Black_Sun> <book.written_work.subjects> "Paris" .
+<Amélie> <media_common.netflix_title.netflix_genres> "French" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Lower Normandy" .
+<Paris> <location.statistical_region.population> "m.06zxzvr" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Michel_Goudchaux> <people.deceased_person.place_of_death> "Paris" .
+<m.064sr60> <base.popstra.vacation_choice.location> "Paris" .
+<L'As_du_Fallafel> <location.location.containedby> "Paris" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<US_State> <freebase.type_hints.included_types> "Topic" .
+<Topic> <type.type.properties> "Image" .
+<m.0h2724l> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<Paris> <common.topic.webpage> "m.09x21st" .
+<Paris> <film.film_location.featured_in_films> "The Dinner Game" .
+<Europe> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Paris> <fictional_universe.fictional_setting.fictional_characters_born_here> "Margali Szardos" .
+<Dated_location> <type.type.properties> "Date dissolved" .
+<Band_of_Outsiders> <film.film.language> "French" .
+<Mexican_state> <freebase.type_hints.included_types> "Dated location" .
+<Inglourious_Basterds> <film.film.language> "French" .
+<Person> <freebase.type_profile.strict_included_types> "Animate" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<Location> <type.type.properties> "Contains major portion of" .
+<Europe> <fictional_universe.fictional_setting.contains> "Ruritania" .
+<Paris> <base.aareas.schema.administrative_area.capital> "Paris" .
+<Second_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Administrative_Division> <freebase.type_hints.included_types> "Topic" .
+<Countries> <rdf-schema#range> "Country" .
+<16th_arrondissement> <location.location.containedby> "Paris" .
+<Location> <freebase.domain_profile.featured_views> "HUD Foreclosure Area Type" .
+<Paris> <common.topic.webpage> "m.09x2tfc" .
+<Capital> <type.property.expected_type> "City/Town/Village" .
+<m.065pc47> <base.popstra.vacation_choice.location> "Paris" .
+<Le_Siècle> <organization.organization.geographic_scope> "Paris" .
+<France> <government.governmental_jurisdiction.government_bodies> "Court of Cassation" .
+<Country> <base.schemastaging.context_name.pronunciation> "m.013160xz" .
+<Paris> <base.biblioness.bibs_topic.is_really> "Paris" .
+<Lower_Normandy> <location.location.containedby> "France" .
+<Aquitaine> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<m.064sn27> <base.popstra.vacation_choice.location> "Paris" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Trocadéro" .
+<Chinese_province> <freebase.type_hints.included_types> "Statistical region" .
+<m.0b45z9r> <common.webpage.topic> "Paris" .
+<m.09xm57w> <common.webpage.topic> "Paris" .
+<m.09x4_8m> <common.webpage.topic> "Paris" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<Countries> <type.property.master_property> "Form of Government" .
+<Hair_loss> <medicine.symptom.symptom_of> "Syphilis" .
+<Paris_to_the_Moon> <book.written_work.subjects> "Europe" .
+<Partially_contained_by> <rdf-schema#domain> "Location" .
+<FIFA_Code> <rdf-schema#range> "Enumeration" .
+<Countries_Used> <type.property.schema> "Currency" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h27218" .
+<m.04dxsb8> <base.ontologies.ontology_class_mapping.freebase_topic> "Country" .
+<Madeline_and_the_Gypsies> <book.written_work.subjects> "France" .
+<Paris> <base.popstra.location.vacationers> "m.063ws9g" .
+<m.064tlcm> <base.popstra.shopping_choice.company> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<Mexican_state> <freebase.type_profile.strict_included_types> "Topic" .
+<Avenue_Montaigne> <film.film.country> "France" .
+<Louis-Eugène_Cavaignac> <common.topic.notable_types> "Politician" .
+<m.012w295g> <base.schemastaging.plural_form.language> "Finnish" .
+<Paris> <travel.travel_destination.climate> "m.051qv5k" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "15th arrondissement of Paris" .
+<Paris> <travel.travel_destination.tourist_attractions> "Arc de Triomphe" .
+<Paris> <base.popstra.location.vacationers> "m.065pd5p" .
+<Centre_Georges_Pompidou> <location.location.time_zones> "Central European Time Zone" .
+<Olympic_venue> <freebase.type_hints.included_types> "Topic" .
+<Metropolitan_France> <location.location.contains> "Lower Normandy" .
+<France> <location.country.capital> "Paris" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h2724b" .
+<France> <location.country.languages_spoken> "French" .
+<France> <freebase.valuenotation.has_no_value> "Date dissolved" .
+<Paris> <common.topic.webpage> "m.09xlx6s" .
+<m.051qv69> <travel.travel_destination_monthly_climate.travel_destination> "Paris" .
+<m.051qv8h> <travel.travel_destination_monthly_climate.travel_destination> "Paris" .
+<ISO_Short_Name> <rdf-schema#range> "Machine readable string" .
+<Contains> <type.property.schema> "Location" .
+<Third_level_divisions> <type.property.expected_type> "Administrative Division" .
+<m.0h2723x> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<US_County> <freebase.type_profile.strict_included_types> "Dated location" .
+<Location> <freebase.domain_profile.users> "gkamp" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<Subjects> <type.property.schema> "Topic" .
+<Čedok> <travel.tour_operator.travel_destinations> "Paris" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<1st_arrondissement> <location.location.containedby> "Paris" .
+<Paris> <location.statistical_region.population> "m.06zxzx1" .
+<Île-de-France> <common.topic.notable_types> "French Region" .
+<Kyphosis> <medicine.disease.causes> "Ankylosing spondylitis" .
+<m.09x5m5g> <common.webpage.topic> "Paris" .
+<Čedok> <travel.tour_operator.travel_destinations> "France" .
+<France> <periodicals.newspaper_circulation_area.newspapers> "Le Parisien" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<Location> <type.type.properties> "Adjoins" .
+<Eloise_in_Paris> <book.written_work.subjects> "Europe" .
+<Latin_Quarter,_Paris> <location.location.containedby> "Paris" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<Location> <freebase.domain_profile.featured_views> "Location" .
+<m.012l2b96> <base.schemastaging.plural_form.language> "Turkish" .
+<Location> <freebase.domain_profile.users> "ma_graceaguilar" .
+<L'As_du_Fallafel> <organization.organization.place_founded> "Paris" .
+<Overseas_France> <location.location.containedby> "France" .
+<GEOnet_feature_ID> <type.property.schema> "Location" .
+<Saint-Germain-des-Prés> <location.location.containedby> "Paris" .
+<Deity> <freebase.type_hints.included_types> "Topic" .
+<Nord-Pas-de-Calais> <location.administrative_division.first_level_division_of> "France" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<Finance_minister> <government.government_office_category.officeholders> "m.0_x4zlz" .
+<Form_of_Government> <owl#inverseOf> "Countries" .
+<Yamakasi> <film.film.language> "French" .
+<Centre-Val_de_Loire> <location.location.time_zones> "Central European Time Zone" .
+<Alsace> <location.location.containedby> "France" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<Location> <freebase.domain_profile.users> "konstantin" .
+<Aquitaine> <location.location.time_zones> "Central European Time Zone" .
+<Henry_James_Goes_to_Paris> <book.written_work.subjects> "Paris" .
+<Kidney_Stone> <medicine.disease_cause.diseases> "Urolithiasis" .
+<National_anthem> <type.property.expected_type> "National anthem of a country" .
+<Meta> <freebase.type_kind.types> "Topic" .
+<Paris> <common.topic.webpage> "m.09ygb1c" .
+<Administrative_Division> <freebase.type_hints.included_types> "Statistical region" .
+<The_Cafe-Concert> <visual_art.artwork.art_subject> "Paris" .
+<The_Louvre> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Second_level_divisions> <rdf-schema#domain> "Country" .
+<Paris> <film.film.language> "French" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "La Lettre du Continent" .
+<Country> <owl#inverseOf> "National anthem" .
+<Paris> <common.topic.article> "m.05qtv" .
+<Paris> <location.statistical_region.population> "g.11bcdlf9_d" .
+<Notre_Dame_de_Paris> <base.arthist.int_zm_nyek.helynev> "Paris" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<Politician> <type.type.expected_by> "Polican" .
+<Lorraine> <location.administrative_division.country> "France" .
+<Flée,_Sarthe> <location.statistical_region.population> "g.11btv6tzqz" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Cygnar" .
+<Meta> <freebase.type_kind.types> "Person" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "8th arrondissement of Paris" .
+<Poitou-Charentes> <common.topic.notable_types> "French Region" .
+<Paris> <book.book_subject.works> "Hungry for Paris: The Ultimate Guide to the City's 102 Best Restaurants" .
+<Events> <rdf-schema#domain> "Location" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Quartier_de_La_Chapelle> <location.neighborhood.neighborhood_of> "Paris" .
+<m.065pcl_> <base.popstra.vacation_choice.location> "Paris" .
+<Location> <freebase.domain_profile.users> "maxoliver" .
+<m.0jvvm1b> <location.administrative_division_capital_relationship.capital> "Paris" .
+<Nephrotic_syndrome> <medicine.disease.risk_factors> "Male" .
+<City/Town/Village> <type.type.domain> "Location" .
+<Location> <freebase.domain_profile.users> "politicalscientist" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Le Matin" .
+<Politician> <people.profession.corresponding_type> "Politician" .
+<Topic> <freebase.documented_object.documentation> "m.0kpqw_" .
+<Corsica> <location.administrative_division.first_level_division_of> "France" .
+<Limousin> <location.location.containedby> "Metropolitan France" .
+<Paris> <visual_art.art_subject.artwork_on_the_subject> "Le Pont Neuf" .
+<m.09wh0bp> <common.webpage.topic> "Paris" .
+<Paris> <common.topic.webpage> "m.09wh0bp" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<Parkinson's_disease> <freebase.valuenotation.has_no_value> "Official website" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Champagne-Ardenne" .
+<Paris> <common.topic.notable_types> "City/Town/Village" .
+<Topic> <type.type.properties> "Weblink" .
+<Contains> <rdf-schema#domain> "Location" .
+<GEOnet_feature_ID> <rdf-schema#range> "Enumeration" .
+<From_A_Paris_Garret> <book.written_work.subjects> "France" .
+<Significant> <freebase.type_kind.types> "French Region" .
+<The_Last_Time_I_Saw_Paris> <book.written_work.subjects> "France" .
+<Courrier_International> <book.newspaper.circulation_areas> "France" .
+<Centre-Val_de_Loire> <location.administrative_division.first_level_division_of> "France" .
+<Le_Moniteur_Universel> <book.newspaper.circulation_areas> "Europe" .
+<Le_Marais> <location.neighborhood.neighborhood_of> "Paris" .
+<Paris_Orly_Airport> <travel.transport_terminus.travel_destinations_served> "m.051qtw8" .
+<Location> <type.type.properties> "Street address" .
+<1900_Summer_Olympics> <time.event.locations> "Paris" .
+<Portrait_of_Picasso_as_a_young_man> <book.written_work.subjects> "Paris" .
+<Place_de_la_Concorde> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<People_born_here> <rdf-schema#domain> "Location" .
+<Ulise> <book.written_work.subjects> "Paris" .
+<Tetralogy_of_Fallot> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<Mysteries_of_Paris> <book.written_work.subjects> "Paris" .
+<Paris> <base.ontologies.ontology_instance.equivalent_instances> "m.09dvtq1" .
+<Court_of_Cassation> <government.governmental_body.jurisdiction> "France" .
+<Lower_Normandy> <common.topic.notable_types> "French Region" .
+<Musée_d'Orsay> <location.location.containedby> "Paris" .
+<Paris> <olympics.olympic_bidding_city.olympics_bid_on> "m.0k8jmdp" .
+<Significant> <freebase.type_kind.types> "Religious Leader" .
+<Contains_major_portion_of> <type.property.schema> "Location" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Country> <freebase.type_profile.strict_included_types> "Dated location" .
+<South_Korean_province> <freebase.type_hints.included_types> "Dated location" .
+<Bois_de_Boulogne> <location.location.containedby> "Paris" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Le Manifeste" .
+<Lorraine> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<US_County> <freebase.type_profile.kind> "Definition" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Metropolitan_France> <location.location.containedby> "France" .
+<Argentine_province> <freebase.type_hints.included_types> "Topic" .
+<Ankylosing_spondylitis> <medicine.disease.risk_factors> "Male" .
+<The_Fat_and_the_Lean> <film.film.country> "France" .
+<Picardy> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Location> <freebase.domain_profile.featured_views> "Cities and towns in Iraq" .
+<Louis-Eugène_Cavaignac> <people.person.places_lived> "m.03pjdfj" .
+<Paris_-_Champs_Elysees> <common.image.appears_in_topic_gallery> "Paris" .
+<Chéri> <film.film.country> "France" .
+<m.0h27210> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<Aquitaine> <location.location.containedby> "Metropolitan France" .
+<Significant> <freebase.type_kind.types> "Brazilian state" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Courrier International" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Hair_loss> <medicine.symptom.symptom_of> "Ectodermal dysplasia" .
+<La_Maison_Rouge> <location.location.containedby> "Le Marais" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Location> <type.type.properties> "UN/LOCODE" .
+<Chinese_province> <type.type.domain> "Location" .
+<Auvergne> <location.location.time_zones> "Central European Time Zone" .
+<Paris> <book.book_subject.works> "Seven Ages of Paris" .
+<ISO_Alpha_2> <rdf-schema#domain> "Country" .
+<Location> <freebase.domain_profile.users> "marcos9" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<Countries_Formerly_Used> <rdf-schema#domain> "Currency" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Topic" .
+<Description> <rdf-schema#domain> "Topic" .
+<Paris> <common.topic.webpage> "m.09x4_t5" .
+<Countries> <type.property.schema> "Form of Government" .
+<Adventures_by_Disney> <travel.tour_operator.travel_destinations> "France" .
+<Partially_contained_by> <rdf-schema#range> "Location" .
+<Country> <media_common.quotation_subject.quotations_about_this_subject> "The common good of a collective -- a race, a class, a state -- was the claim and justification of every tyranny ever established over men. Every major horror of history was committed in the name of an altruistic motive. Has any act of selfishness ever equaled the carnage perpetrated by disciples of altruism? Does the fault lie in men's hypocrisy or in the nature of the principle? The most dreadful butchers were the most sincere. The believed in the perfect society reached through the guillotine and the firing squad. Nobody questioned their right to murder since they were murdering for an altruistic purpose. It was accepted that man must be sacrificed for other men. Actors change, but the course of the tragedy remains the same. A humanitarian who starts with the declarations of love for mankind and ends with a sea of blood. It goes on and will go on so long as men believe that an action is good if it is unselfish. That permits the altruist to act and forces his victims to bear it. The leaders of collectivist movements ask nothing of themselves. But observe the results." .
+<Avenue_Montaigne> <film.film.featured_film_locations> "Paris" .
+<Alsace> <location.location.containedby> "Metropolitan France" .
+<m.065pczq> <base.popstra.vacation_choice.location> "Paris" .
+<Court_of_Cassation> <law.court.jurisdiction> "France" .
+<Politician> <type.type.expected_by> "Taoiseach" .
+<US_County> <freebase.type_profile.strict_included_types> "Topic" .
+<Rhône-Alpes> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<Paris> <common.topic.webpage> "m.09wy4fd" .
+<Ruritania> <fictional_universe.fictional_setting.contained_by> "Europe" .
+<Primarily_contained_by> <type.property.master_property> "Contains major portion of" .
+<Ménilmontant> <location.location.containedby> "Paris" .
+<Pays_de_la_Loire> <location.fr_region.departments> "Sarthe" .
+<The_Dinner_Game> <film.film.country> "France" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<Auvergne> <location.administrative_division.country> "France" .
+<6th_arrondissement_of_Paris> <location.neighborhood.neighborhood_of> "Paris" .
+<Location> <freebase.domain_profile.users> "azdak" .
+<Paris> <common.topic.webpage> "m.09y884l" .
+<Corsica> <common.topic.notable_types> "French Region" .
+<m.051qt2p> <common.webpage.topic> "Paris" .
+<Geometry> <type.property.schema> "Location" .
+<GNIS_ID> <rdf-schema#range> "Enumeration" .
+<GDP_(nominal)> <rdf-schema#domain> "Country" .
+<Location> <type.type.properties> "USBG name" .
+<m.0_x4zlz> <government.government_position_held.governmental_body> "National Assembly" .
+<Dupuytren's_contracture> <medicine.disease.risk_factors> "Male" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<The_Beat_Hotel> <book.written_work.subjects> "France" .
+<Second_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Person> <freebase.type_profile.kind> "Meta" .
+<The_Louvre> <location.location.containedby> "France" .
+<US_County> <freebase.type_hints.included_types> "Topic" .
+<m.064swl9> <base.popstra.vacation_choice.location> "Paris" .
+<Location> <freebase.domain_profile.users> "wonderant" .
+<Paris> <location.location.adjoin_s> "m.03x3jtl" .
+<Paris> <base.popstra.company.shopping_choice> "m.064v13l" .
+<École_Polytechnique> <education.educational_institution.campuses> "École Polytechnique" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<Adventures_of_the_mind> <book.written_work.subjects> "France" .
+<Paris> <base.popstra.location.vacationers> "m.064sm3g" .
+<Quiet_Corners_of_Paris> <book.written_work.subjects> "Paris" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<French> <language.human_language.main_country> "France" .
+<Partially_contained_by> <type.property.master_property> "Partially contains" .
+<Location> <freebase.domain_profile.users> "midness" .
+<Île-de-France> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Countries_Formerly_Used> <type.property.reverse_property> "Currency Formerly Used" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Corsica> <location.location.time_zones> "Central European Time Zone" .
+<Liver_tumour> <medicine.disease.risk_factors> "Male" .
+<m.064sb3z> <base.popstra.vacation_choice.location> "Paris" .
+<Ronin> <film.film.language> "French" .
+<Country> <freebase.type_profile.published> "Published" .
+<Languedoc-Roussillon> <location.location.containedby> "France" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h271xs" .
+<Paris> <fictional_universe.fictional_setting.works_set_here> "Hopscotch" .
+<Canadian_Province> <freebase.type_profile.published> "Published" .
+<m.09ys21m> <common.webpage.topic> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<GNIS_ID> <type.property.expected_type> "Enumeration" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<ISO_Short_Name> <type.property.schema> "Country" .
+<Second_level_division_of> <type.property.master_property> "Second level divisions" .
+<City/Town/Village> <freebase.type_profile.kind> "Significant" .
+<Country> <common.topic.article> "m.03q0typ" .
+<m.064snfv> <base.popstra.vacation_choice.location> "Paris" .
+<Disneyland_Paris> <location.location.containedby> "Paris" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<France> <periodicals.newspaper_circulation_area.newspapers> "France-Soir" .
+<m.03pjdfj> <people.place_lived.person> "Louis-Eugène Cavaignac" .
+<France> <location.country.first_level_divisions> "Auvergne" .
+<Paris> <base.popstra.location.vacationers> "m.065pc47" .
+<m.0650hwn> <base.popstra.shopping_choice.company> "Paris" .
+<m.063ws9g> <base.popstra.vacation_choice.location> "Paris" .
+<m.0b47bzk> <common.webpage.topic> "Paris" .
+<Burgundy> <location.location.containedby> "France" .
+<Paris> <book.book_subject.works> "Juden auf Wanderschaft" .
+<Champs-Élysées> <location.location.containedby> "France" .
+<Paris> <travel.travel_destination.tourist_attractions> "Musée du quai Branly" .
+<Paris> <common.topic.webpage> "m.0b496zm" .
+<Paris> <film.film_location.featured_in_films> "French Connections, Part Two: Conquest" .
+<Paris> <common.topic.webpage> "m.09w3b_h" .
+<m.04dm89f> <base.ontologies.ontology_class_mapping.freebase_topic> "Country" .
+<Nearby_airports> <type.property.schema> "Location" .
+<Location> <freebase.domain_profile.users> "leybzon" .
+<Picardy> <common.topic.notable_types> "French Region" .
+<Significant> <freebase.type_kind.types> "Olympic venue" .
+<Country> <type.type.properties> "Form of Government" .
+<Intimate_Strangers> <film.film.language> "French" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<Band_of_Outsiders> <media_common.netflix_title.netflix_genres> "France" .
+<Location> <type.type.properties> "Partially contains" .
+<La_Maison_Rouge> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Canadian_Province> <freebase.type_hints.included_types> "Topic" .
+<Country> <owl#inverseOf> "Administrative Divisions" .
+<15th_arrondissement_of_Paris> <location.location.containedby> "Paris" .
+<Significant> <freebase.type_kind.types> "Mexican state" .
+<Olympic_venue> <freebase.type_hints.included_types> "Location" .
+<Metropolitan_France> <location.location.contains> "Aquitaine" .
+<m.051qv8r> <travel.travel_destination_monthly_climate.travel_destination> "Paris" .
+<Seine> <common.topic.notable_types> "Location" .
+<m.0b714tx> <location.geometry.delineates_location> "Paris" .
+<Upper_Normandy> <location.administrative_division.first_level_division_of> "France" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Passport_to_Paris> <film.film.featured_film_locations> "Paris" .
+<Jefferson_abroad> <book.written_work.subjects> "France" .
+<Paris> <sports.sports_team_location.teams> "Paris Saint-Germain F.C." .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Significant> <freebase.type_kind.types> "Church" .
+<Paris> <travel.travel_destination.tourist_attractions> "Musée Maillol" .
+<Non-Hodgkin_lymphoma> <medicine.disease.risk_factors> "Male" .
+<FIFA_Code> <type.property.expected_type> "Enumeration" .
+<Paris_Buildings_and_Monuments:_An_Illustrated_Guide_with_over_850_Drawings_and_Neighborhood_Maps> <book.written_work.subjects> "Paris" .
+<Paris> <location.location.nearby_airports> "Beauvais–Tillé Airport" .
+<Significant> <freebase.type_kind.types> "City/Town/Village" .
+<Mexican_state> <freebase.type_profile.published> "Published" .
+<Bois_de_Boulogne> <location.location.containedby> "France" .
+<La_Lettre_du_Continent> <book.periodical.language> "French" .
+<Location> <freebase.domain_profile.featured_views> "Country" .
+<Paris> <base.popstra.location.vacationers> "m.065pd1k" .
+<Paris> <film.film_location.featured_in_films> "Sicko" .
+<US_State> <freebase.type_hints.included_types> "Administrative Division" .
+<Nairobi> <common.topic.notable_types> "City/Town/Village" .
+<Seine> <location.location.partially_contained_by> "m.0wg9fhq" .
+<Countries_Formerly_Used> <type.property.expected_type> "Country" .
+<Paris> <organization.organization_scope.organizations_with_this_scope> "Serval-Agency" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Breland" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<Paris> <visual_art.art_subject.art_series_on_the_subject> "Le Pont Neuf" .
+<Location> <common.topic.article> "m.0kpqs_" .
+<Significant> <freebase.type_kind.types> "Billionaire" .
+<9th_arrondissement_of_Paris> <location.neighborhood.neighborhood_of> "Paris" .
+<Partially_contains> <rdf-schema#domain> "Location" .
+<La_Croix> <book.newspaper.circulation_areas> "France" .
+<Madeline_and_the_Bad_Hat> <book.written_work.subjects> "Paris" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010dyb1l" .
+<Location> <freebase.domain_profile.featured_views> "HUD HFMA" .
+<Topic> <type.type.properties> "Also known as" .
+<Argentine_province> <freebase.type_hints.included_types> "Dated location" .
+<Les_Invalides> <location.location.containedby> "Paris" .
+<Hypospadias> <medicine.disease.risk_factors> "Male" .
+<Second_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Paris> <book.book_subject.works> "Maigret Hesitates" .
+<Country> <type.property.expected_type> "Country" .
+<Location> <freebase.domain_profile.featured_views> "Puerto Rico Municipality" .
+<Burgundy> <location.administrative_division.country> "France" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Agent" .
+<Disneyland_Park> <location.location.containedby> "France" .
+<Sarthe> <location.administrative_division.second_level_division_of> "France" .
+<m.064hlmp> <base.popstra.vacation_choice.location> "Paris" .
+<Belleville,_Paris> <location.neighborhood.neighborhood_of> "Paris" .
+<Outskirts_of_Paris> <visual_art.art_series.subject> "Paris" .
+<Australian_State> <freebase.type_hints.included_types> "Dated location" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Passy" .
+<Politician> <type.type.properties> "Legislative committees served on" .
+<m.09xg68q> <common.webpage.topic> "Paris" .
+<Primarily_contained_by> <type.property.schema> "Location" .
+<Portrait_of_Picasso_as_a_young_man> <book.written_work.subjects> "France" .
+<Ruritania> <fictional_universe.fictional_setting.setting_type> "Country" .
+<Grande_Arche> <location.location.containedby> "France" .
+<Barrett's_esophagus> <medicine.disease.risk_factors> "Male" .
+<Hôtel_de_Crillon> <location.location.containedby> "Paris" .
+<Politician> <freebase.type_profile.strict_included_types> "Topic" .
+<Administrative_Division> <type.type.expected_by> "First level divisions" .
+<Location> <freebase.domain_profile.users> "clhubert" .
+<Western_Europe> <location.location.contains_major_portion_of> "France" .
+<Paris> <book.book_subject.works> "Black Sun" .
+<France> <base.jewlib.parent_institution.judaica_owning_units> "National Library of France" .
+<inside> <type.property.schema> "Location" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "La Quotidienne" .
+<Arc_de_Triomphe> <location.location.containedby> "Paris" .
+<Significant> <freebase.type_kind.types> "Greek deity" .
+<Metropolitan_France> <location.location.containedby> "Western Europe" .
+<Topic> <type.type.properties> "Description" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<Intimate_Strangers> <media_common.netflix_title.netflix_genres> "French" .
+<Montparnasse> <location.neighborhood.neighborhood_of> "Paris" .
+<The_Lovers_on_the_Bridge> <film.film.country> "France" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<City/Town/Village> <freebase.type_hints.included_types> "Dated location" .
+<m.09x6qhm> <common.webpage.topic> "Paris" .
+<1924_Summer_Olympics> <olympics.olympic_games.host_city> "Paris" .
+<Continent> <freebase.type_profile.published> "Published" .
+<Paris> <common.topic.image> "Paris" .
+<Le_Marais> <location.location.containedby> "Paris" .
+<Upper_Normandy> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Arc_de_Triomphe> <location.location.containedby> "France" .
+<Statistical_region> <type.type.domain> "Location" .
+<Paris> <common.topic.webpage> "m.0b47wzs" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<Location> <freebase.domain_profile.users> "gangofnuns" .
+<French_region> <freebase.type_hints.included_types> "Topic" .
+<Place_de_la_Concorde> <location.location.containedby> "Paris" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Naye Prese" .
+<Abstract> <type.type.domain> "Type Ontology" .
+<Europe> <location.location.partially_contains> "France" .
+<m.065pdqk> <base.popstra.vacation_choice.location> "Paris" .
+<Country> <rdf-schema#domain> "Administrative Division" .
+<m.012r6gwr> <base.schemastaging.plural_form.language> "Chinese" .
+<The_Counsel> <film.film.featured_film_locations> "Paris" .
+<m.064wfzv> <base.popstra.vacation_choice.location> "Paris" .
+<Location> <freebase.domain_profile.users> "hfarrington" .
+<US_President> <freebase.type_hints.included_types> "Person" .
+<Location> <freebase.domain_profile.featured_views> "United States Cities by Population" .
+<Myocardial_Ischemia> <medicine.disease.risk_factors> "Male" .
+<Currency> <freebase.type_profile.strict_included_types> "Topic" .
+<Paris> <common.topic.webpage> "m.09x4_8m" .
+<Paris_Orly_Airport> <film.film_location.featured_in_films> "La Jetée" .
+<Paris,_je_t'aime> <film.film.subjects> "Paris" .
+<Mozalami> <freebase.type_hints.included_types> "Topic" .
+<Politician> <freebase.type_profile.strict_included_types> "Person" .
+<Paris> <location.statistical_region.population> "m.06zxzvm" .
+<Paris> <base.popstra.location.vacationers> "m.065pctx" .
+<Centre-Val_de_Loire> <location.location.containedby> "Metropolitan France" .
+<Black_Sun> <book.written_work.subjects> "France" .
+<Paris> <base.popstra.location.vacationers> "m.065pc5r" .
+<Spoken_in_countries> <owl#inverseOf> "Languages spoken" .
+<Hair_loss> <medicine.symptom.symptom_of> "Seborrheic dermatitis" .
+<Party> <type.property.schema> "Politician" .
+<Aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<Paris_Basket_Racing> <sports.sports_team.location> "Paris" .
+<German_state> <freebase.type_profile.published> "Published" .
+<Paris> <film.film_location.featured_in_films> "Inglourious Basterds" .
+<Paris> <base.popstra.location.vacationers> "m.064tgv9" .
+<Administrative_Division> <type.type.properties> "Country" .
+<French_region> <freebase.equivalent_topic.equivalent_type> "French Region" .
+<Amélie> <film.film.language> "French" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjqg" .
+<Partially_contained_by> <rdf-schema#domain> "Location" .
+<Paris> <base.casinos.casino_theme.casinos_in_this_theme> "Paris Las Vegas" .
+<An_American_in_Paris> <film.film.subjects> "Paris" .
+<Form_of_Government> <freebase.type_hints.included_types> "Topic" .
+<Les_Échos> <book.newspaper.circulation_areas> "Paris" .
+<France-Soir> <book.newspaper.circulation_areas> "Paris" .
+<Paris> <location.statistical_region.population> "m.06zxzyv" .
+<Seine> <geography.river.cities> "Paris" .
+<Meta> <freebase.type_kind.types> "Location" .
+<Currency> <type.type.properties> "Countries Formerly Used" .
+<Aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Mon_cher_papa> <book.written_work.subjects> "Paris" .
+<FIPS_Code> <rdf-schema#domain> "Country" .
+<Rhône-Alpes> <location.location.containedby> "Metropolitan France" .
+<Multiple_myeloma> <medicine.disease.risk_factors> "Male" .
+<Paris> <location.location.partiallycontains> "m.0wg9fjk" .
+<m.0b47xfg> <common.webpage.topic> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<Musée_du_quai_Branly> <location.location.containedby> "Paris" .
+<Partially_contained_by> <type.property.schema> "Location" .
+<Date_dissolved> <type.property.schema> "Dated location" .
+<Paris> <common.topic.webpage> "m.09xjw8s" .
+<Politician> <type.type.domain> "Government" .
+<Parisii> <symbols.name_source.namesakes> "Paris" .
+<Brittany> <location.administrative_division.country> "France" .
+<Paris> <book.book_subject.works> "Maigret in Montmartre" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<Administrative_Divisions> <rdf-schema#domain> "Country" .
+<Dated_location> <freebase.type_hints.included_types> "Location" .
+<Paris> <film.film_subject.films> "An American in Paris" .
+<All_is_Forgiven> <film.film.featured_film_locations> "Paris" .
+<Location> <type.type.properties> "Contained by" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "13th arrondissement" .
+<Paris> <visual_art.art_subject.artwork_on_the_subject> "The House at Rueil" .
+<Person> <freebase.type_profile.strict_included_types> "Agent" .
+<Paris> <base.popstra.location.vacationers> "m.065pcl_" .
+<Paris> <location.location.partially_contains> "Tour Triangle" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Le Temps" .
+<Paris> <film.film_location.featured_in_films> "Festival in France" .
+<All_is_Forgiven> <film.film.country> "France" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "3rd arrondissement" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Les Échos" .
+<Les_Échos> <book.periodical.language> "French" .
+<m.09xjf7d> <common.webpage.topic> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<Third_level_divisions> <type.property.reverse_property> "Third level division of" .
+<Location> <freebase.domain_profile.users> "rajrsingh" .
+<Galerie_nationale_du_Jeu_de_Paume> <location.location.containedby> "Paris" .
+<Paris> <location.capital_of_administrative_division.capital_of> "m.0jvvm1b" .
+<Mexican_state> <type.type.domain> "Location" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<Paris_to_the_Moon> <book.written_work.subjects> "Paris" .
+<Location> <freebase.domain_profile.users> "mlssgrimshaw20" .
+<Administrative_Division> <type.type.expected_by> "Fourth level divisions" .
+<Musée_d'Orsay> <location.location.containedby> "France" .
+<Country> <freebase.type_profile.kind> "Definition" .
+<France> <olympics.olympic_participating_country.olympics_participated_in> "1900 Summer Olympics" .
+<Paris> <location.statistical_region.population> "m.06zxztg" .
+<Location> <type.type.properties> "Primarily contained by" .
+<m.09yrzw9> <common.webpage.topic> "Paris" .
+<12th_arrondissement> <location.location.containedby> "Paris" .
+<The_Ambassadors> <book.written_work.subjects> "France" .
+<Paris> <olympics.olympic_host_city.olympics_hosted> "1924 Summer Olympics" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<Walks_Through_Lost_Paris> <book.written_work.subjects> "France" .
+<Location> <freebase.domain_profile.users> "joegermuska" .
+<France> <travel.travel_destination.tour_operators> "Čedok" .
+<Nord-Pas-de-Calais> <location.location.containedby> "France" .
+<Metropolitan_France> <location.location.contains> "Centre-Val de Loire" .
+<Location> <freebase.domain_profile.featured_views> "m.0d25k82" .
+<Paris> <travel.travel_destination.climate> "m.051qv8r" .
+<Myocardial_Ischemia> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Rowdy_in_Paris> <book.written_work.subjects> "France" .
+<Paris> <base.popstra.location.vacationers> "m.065pbr3" .
+<Paris> <film.film_location.featured_in_films> "Intimate Strangers" .
+<m.09xzgg4> <common.webpage.topic> "Paris" .
+<Corneal_abrasion> <medicine.disease.risk_factors> "Male" .
+<Paris> <location.location.containedby> "g.1yqccgy06" .
+<Topic> <type.type.properties> "Social media presence" .
+<Significant> <freebase.type_kind.types> "Founding Figure" .
+<The_Dud_Avocado> <book.written_work.subjects> "Paris" .
+<Country> <type.type.properties> "Official Language" .
+<Topic_equivalent_webpage> <rdf-schema#domain> "Topic" .
+<Location> <freebase.domain_profile.users> "karanams" .
+<Topic> <type.type.properties> "Web Link(s)" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h271y7" .
+<Currency_Formerly_Used> <type.property.master_property> "Countries Formerly Used" .
+<Disneyland_Park> <location.location.time_zones> "Central European Time Zone" .
+<National_anthem> <type.property.schema> "Country" .
+<Champagne-Ardenne> <location.location.containedby> "France" .
+<Paris> <book.book_subject.works> "The Canary Trainer" .
+<Avenue_Montaigne> <film.film.language> "French" .
+<m.0_x4zlz> <government.government_position_held.appointed_by> "Louis-Eugène Cavaignac" .
+<Party> <rdf-schema#domain> "Politician" .
+<Contained_by> <type.property.expected_type> "Location" .
+<Paris_was_yesterday> <book.written_work.subjects> "Paris" .
+<France> <location.country.first_level_divisions> "Alsace" .
+<Location> <type.type.properties> "Time zone(s)" .
+<Europe> <periodicals.newspaper_circulation_area.newspapers> "Le Moniteur Universel" .
+<Chéri> <film.film.language> "French" .
+<Disneyland_Park> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Paris> <book.written_work.subjects> "Europe" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Haratch" .
+<m.09ydl49> <common.webpage.topic> "Paris" .
+<Franche-Comté> <common.topic.notable_types> "French Region" .
+<US_County> <type.type.domain> "Location" .
+<Currency> <type.type.expected_by> "Currency Formerly Used" .
+<Significant> <freebase.type_kind.types> "Russian republic" .
+<Urolithiasis> <medicine.disease.causes> "Kidney Stone" .
+<Paris> <travel.travel_destination.tourist_attractions> "Centre Georges Pompidou" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<Significant> <freebase.type_kind.types> "Olympic host city" .
+<FIFA_Code> <rdf-schema#domain> "Country" .
+<Upper_Normandy> <location.location.time_zones> "Central European Time Zone" .
+<Paris> <location.location.geometry> "m.0b714tx" .
+<Paris> <film.film.country> "France" .
+<Louis-Eugène_Cavaignac> <people.person.gender> "Male" .
+<La_Croix> <book.newspaper.circulation_areas> "Paris" .
+<Maigret_in_Montmartre> <book.written_work.subjects> "Paris" .
+<Paris,_je_t'aime> <media_common.netflix_title.netflix_genres> "French" .
+<Pectus_excavatum> <medicine.disease.risk_factors> "Male" .
+<A_Moveable_Feast> <book.written_work.subjects> "Paris" .
+<Countries_Used> <rdf-schema#domain> "Currency" .
+<Statistical_region> <type.type.expected_by> "Geographic Scope" .
+<US_State> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<Seine> <location.location.contains> "Île de la Cité" .
+<Jardin_du_Luxembourg> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<m.0b48h8w> <common.webpage.topic> "Paris" .
+<Paris> <travel.travel_destination.climate> "m.051qv69" .
+<Disneyland_Paris> <location.location.time_zones> "Central European Time Zone" .
+<m.0101d7qc> <government.government_position_held.basic_title> "Finance minister" .
+<Paris> <film.film_location.featured_in_films> "Band of Outsiders" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "10th arrondissement" .
+<m.0b47wgq> <common.webpage.topic> "Paris" .
+<Paris> <sports.sports_team_location.teams> "Stade Français Paris" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Paris> <olympics.olympic_host_city.olympics_hosted> "1900 Summer Olympics" .
+<France> <base.aareas.schema.administrative_area.subdividing_type> "French region" .
+<Location> <type.type.properties> "Nearby airports" .
+<Sacré-Cœur,_Paris> <location.location.containedby> "France" .
+<Paris> <organization.organization_scope.organizations_with_this_scope> "École Freudienne de Paris" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<France> <location.country.first_level_divisions> "Aquitaine" .
+<Serval-Agency> <freebase.valuenotation.is_reviewed> "Social media presence" .
+<Vietnamese_province> <freebase.type_profile.kind> "Significant" .
+<US_President> <freebase.type_profile.published> "Published" .
+<Paris> <base.arthist.helynevek.intezmeny> "National Library of France" .
+<Tour_Triangle> <location.location.partially_contained_by> "m.0wg9fjk" .
+<Location> <freebase.domain_profile.users> "maxim75" .
+<Country> <type.type.properties> "Currency Formerly Used" .
+<Seborrheic_dermatitis> <medicine.disease.symptoms> "Hair loss" .
+<Founding_Figure> <freebase.type_hints.included_types> "Topic" .
+<Brazilian_state> <freebase.type_profile.strict_included_types> "Topic" .
+<Dated_location> <freebase.type_profile.kind> "Annotation" .
+<Statistical_region> <type.type.expected_by> "Exported to" .
+<Petit_Palais> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Paris> <book.book_subject.works> "The World at Night" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<Trocadéro> <location.location.containedby> "16th arrondissement" .
+<Franche-Comté> <location.location.containedby> "France" .
+<Paris> <common.topic.webpage> "m.09ymtw4" .
+<Partially_contains> <type.property.schema> "Location" .
+<19th_arrondissement> <location.location.containedby> "Paris" .
+<Paris> <base.popstra.business_location.customer> "m.064_5j4" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<Paris> <location.statistical_region.population> "m.06zxzy9" .
+<Paris> <visual_art.art_subject.artwork_on_the_subject> "The Cafe-Concert" .
+<Brazilian_state> <type.type.domain> "Location" .
+<Country> <type.type.properties> "Administrative Divisions" .
+<Paris> <travel.travel_destination.tourist_attractions> "Champs-Élysées" .
+<Country> <type.property.schema> "National anthem of a country" .
+<Stade_Français_Paris> <sports.sports_team.location> "Paris" .
+<Champagne-Ardenne> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<m.051qv8_> <travel.travel_destination_monthly_climate.travel_destination> "Paris" .
+<Location> <freebase.domain_profile.users> "erlindawamz" .
+<Intimate_enemies> <book.written_work.subjects> "France" .
+<Paris> <film.film_location.featured_in_films> "All is Forgiven" .
+<Location> <freebase.domain_profile.featured_views> "HUD Section 8 Zone" .
+<France> <base.locations.countries.cities_within> "Paris" .
+<Politician> <freebase.equivalent_topic.equivalent_type> "Politician" .
+<Subjects> <type.property.expected_type> "Topic" .
+<Vietnamese_province> <freebase.type_profile.kind> "Definition" .
+<Paris> <travel.travel_destination.how_to_get_here> "m.051qtw8" .
+<Country> <base.ontologies.ontology_class.equivalent_classes> "m.04dxsb8" .
+<Chinese_province> <freebase.type_profile.published> "Published" .
+<Politician> <type.type.expected_by> "Winner(s)" .
+<Location> <type.type.domain> "Location" .
+<Paris> <base.popstra.location.vacationers> "m.064sb3z" .
+<Currency_Used> <type.property.schema> "Country" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjp5" .
+<Read_my_Lips> <media_common.netflix_title.netflix_genres> "French" .
+<m.0h2724b> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<Country> <type.type.properties> "First level divisions" .
+<Flée,_Sarthe> <location.location.geolocation> "m.0dgcj1f" .
+<Champs-Élysées> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Notre_Dame_de_Paris> <base.arthist.int_zm_nyek.mutargy> "m.0773z56" .
+<US_County> <freebase.type_hints.included_types> "Administrative Division" .
+<US_State> <type.type.domain> "Location" .
+<Seine> <geography.river.basin_countries> "France" .
+<Paris> <base.popstra.location.vacationers> "m.065pczq" .
+<Centre-Val_de_Loire> <location.location.containedby> "France" .
+<Partially_contained_by> <type.property.schema> "Location" .
+<Paris> <travel.travel_destination.tourist_attractions> "Place de la Concorde" .
+<Canadian_Province> <freebase.type_hints.included_types> "Statistical region" .
+<Fourth_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Grand Fenwick" .
+<Pyloric_stenosis> <medicine.disease.risk_factors> "Male" .
+<Location> <type.type.properties> "GNIS ID" .
+<Significant> <freebase.type_kind.types> "Vice Presidential Nominee" .
+<Metropolitan_France> <location.location.contains> "Pays de la Loire" .
+<Lorraine> <location.location.containedby> "Metropolitan France" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Spoken_in_countries> <type.property.schema> "Human Language" .
+<France> <location.country.first_level_divisions> "Limousin" .
+<Paris> <common.topic.webpage> "m.09x61lv" .
+<Country> <base.descriptive_names.names.descriptive_name> "m.012r6gwr" .
+<France> <freebase.valuenotation.is_reviewed> "Official Language" .
+<m.09xtgcc> <common.webpage.topic> "Paris" .
+<GDP_(nominal)> <type.property.schema> "Country" .
+<Metropolitan_France> <location.location.contains> "Île-de-France" .
+<Country> <common.topic.webpage> "m.09ywzbk" .
+<Paris> <book.book_subject.works> "La Vie Sexuelle De Catherine M." .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Corsica" .
+<Paris> <base.popstra.location.vacationers> "m.065pc3p" .
+<Human_Language> <type.type.expected_by> "Languages spoken" .
+<Metropolitan_France> <common.topic.notable_types> "Administrative Division" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<Parc_Astérix> <location.location.time_zones> "Central European Time Zone" .
+<Paris> <travel.travel_destination.tourist_attractions> "Parc Astérix" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Rhône-Alpes" .
+<Paris> <visual_art.art_subject.artwork_on_the_subject> "Paris Street; Rainy Day" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<Location> <freebase.domain_profile.users> "shiv_18919" .
+<Anne_Frank_and_Me> <book.written_work.subjects> "France" .
+<1924_Summer_Olympics> <olympics.olympic_games.participating_countries> "France" .
+<Location> <freebase.domain_profile.featured_views> "US Metropolitan Statistical Area" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Stroke" .
+<Country> <type.type.properties> "GDP (nominal per capita)" .
+<Currency> <type.type.properties> "Countries Used" .
+<Religious_Leader> <freebase.type_hints.included_types> "Person" .
+<Paris> <common.topic.image> "Louvre_2007_02_24_c.jpg" .
+<Significant> <freebase.type_kind.types> "US Vice President" .
+<US_State> <freebase.type_hints.included_types> "Dated location" .
+<Paris> <location.administrative_division.capital> "m.0jvvlcg" .
+<Seven_Ages_of_Paris> <book.written_work.subjects> "Paris" .
+<South_Korean_province> <freebase.type_profile.published> "Published" .
+<Intimate_enemies> <book.written_work.subjects> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<Vietnamese_province> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<Brazilian_state> <freebase.type_profile.published> "Published" .
+<Disneyland_Paris> <location.location.containedby> "Europe" .
+<Upper_Normandy> <common.topic.notable_types> "French Region" .
+<Paris> <common.topic.webpage> "m.09y839j" .
+<Water_area> <rdf-schema#domain> "Location" .
+<m.0645ksw> <base.popstra.vacation_choice.location> "Paris" .
+<France-Soir> <book.newspaper.circulation_areas> "France" .
+<France> <location.country.first_level_divisions> "Lower Normandy" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Location> <freebase.domain_profile.featured_views> "HUD Foreclosure Area" .
+<Location> <freebase.domain_profile.category> "Commons" .
+<Canadian_Province> <freebase.type_hints.included_types> "Dated location" .
+<Paris> <film.film_location.featured_in_films> "Read my Lips" .
+<8th_Wonderland> <film.film.language> "French" .
+<Paris> <location.statistical_region.population> "m.06zxzy5" .
+<Dated_location> <freebase.type_profile.published> "Published" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Saint-Germain-des-Prés" .
+<Notre_Dame_de_Paris> <location.location.containedby> "France" .
+<The_Dinner_Game> <film.film.language> "French" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Montparnasse" .
+<Maigret_Hesitates> <book.written_work.subjects> "Paris" .
+<m.064th1n> <base.popstra.vacation_choice.location> "Paris" .
+<Ariste_Jacques_Trouvé-Chauvel> <government.politician.government_positions_held> "m.0101d7qc" .
+<m.09wy877> <common.webpage.topic> "Country" .
+<Partially_contains> <owl#inverseOf> "Partially contained by" .
+<Mozilla_Corporation> <organization.organization.geographic_scope> "Paris" .
+<Paris_Volley> <sports.sports_team.location> "Paris" .
+<Languedoc-Roussillon> <location.administrative_division.first_level_division_of> "France" .
+<The_Tourist> <film.film.featured_film_locations> "Paris" .
+<Administrative_Divisions> <type.property.expected_type> "Administrative Division" .
+<Metropolitan_France> <location.location.contains> "Nord-Pas-de-Calais" .
+<Paris> <base.biblioness.bibs_location.country> "France" .
+<Paris> <base.popstra.location.vacationers> "m.0645ksw" .
+<Acute_myeloid_leukemia> <medicine.disease.risk_factors> "Male" .
+<From_Paris_with_Love> <media_common.netflix_title.netflix_genres> "France" .
+<Location> <freebase.domain_profile.users> "premierco" .
+<GNIS_ID> <type.property.schema> "Location" .
+<m.0h27250> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<Festival_in_France> <film.film.featured_film_locations> "Paris" .
+<m.05pwgjn> <base.aubreymaturin.place_mention.place> "Paris" .
+<Louis-Eugène_Cavaignac> <government.political_appointer.appointees> "m.0101d7qc" .
+<Tour_Triangle> <location.location.containedby> "Paris" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Centre-Val de Loire" .
+<Argentine_province> <freebase.type_hints.included_types> "Statistical region" .
+<Champagne-Ardenne> <location.location.containedby> "Metropolitan France" .
+<Musée_d'Orsay> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<m.0jvvm1b> <location.administrative_division_capital_relationship.administrative_division> "Île-de-France" .
+<Ariste_Jacques_Trouvé-Chauvel> <people.deceased_person.place_of_death> "Paris" .
+<Paris> <base.aubreymaturin.place.mentions> "m.05pwgjn" .
+<ISO_Alpha_3> <rdf-schema#domain> "Country" .
+<Paris> <base.popstra.location.vacationers> "m.064swb9" .
+<France> <periodicals.newspaper_circulation_area.newspapers> "La Croix" .
+<m.064hjp3> <base.popstra.vacation_choice.location> "Paris" .
+<Vietnamese_province> <freebase.type_hints.included_types> "Administrative Division" .
+<Significant> <freebase.type_kind.types> "Saint" .
+<Location> <freebase.equivalent_topic.equivalent_domain> "Location" .
+<Folies_Bergère> <location.location.containedby> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<m.09ycp1s> <common.webpage.topic> "Paris" .
+<France> <location.country.official_language> "French" .
+<La_Lettre_du_Continent> <book.newspaper.circulation_areas> "Paris" .
+<C'était_un_rendez-vous> <film.film.featured_film_locations> "Paris" .
+<Time_zone(s)> <type.property.schema> "Location" .
+<Kidney_Stone> <medicine.disease.risk_factors> "Male" .
+<Politician> <type.type.properties> "Election campaigns" .
+<Paris> <location.location.containedby> "France" .
+<The_Beat_Hotel> <book.written_work.subjects> "Paris" .
+<Auvergne> <location.administrative_division.first_level_division_of> "France" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Lorraine" .
+<Paris_Journal,_1944-1965> <book.written_work.subjects> "France" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<m.064sx1j> <base.popstra.vacation_choice.location> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<Street_address> <type.property.schema> "Location" .
+<Serval-Agency> <freebase.valuenotation.is_reviewed> "Also known as" .
+<Location> <type.type.properties> "GEOnet feature ID" .
+<Being_geniuses_together,_1920-1930> <book.written_work.subjects> "France" .
+<First_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Politician> <type.type.properties> "Party" .
+<Location> <freebase.domain_profile.users> "jamie" .
+<m.051qv59> <travel.travel_destination_monthly_climate.travel_destination> "Paris" .
+<Location> <freebase.domain_profile.users> "kdsandeep" .
+<École_Freudienne_de_Paris> <organization.organization.geographic_scope> "Paris" .
+<Australian_State> <freebase.type_profile.strict_included_types> "Topic" .
+<Paris> <location.location.geolocation> "m.02kvd6t" .
+<Tour_Triangle> <location.location.containedby> "France" .
+<Low_Profile> <film.film.language> "French" .
+<Primarily_contained_by> <rdf-schema#domain> "Location" .
+<Paris> <base.popstra.location.vacationers> "m.064ss6g" .
+<Paris> <common.topic.webpage> "m.09xzgg4" .
+<Paris> <location.statistical_region.population> "m.06zxzx5" .
+<Paris> <film.film_location.featured_in_films> "Amélie" .
+<Courrier_International> <book.periodical.language> "French" .
+<Mozalami> <organization.organization.geographic_scope> "Paris" .
+<Paris_was_yesterday> <book.written_work.subjects> "France" .
+<Paris> <base.popstra.location.vacationers> "m.065pcdz" .
+<Land_area> <rdf-schema#domain> "Location" .
+<m.09y839j> <common.webpage.topic> "Paris" .
+<m.03q0typ> <common.document.content> "m.03q0tyg" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Finance_minister> <government.government_office_category.offices> "Finance minister" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<Country> <base.descriptive_names.names.descriptive_name> "m.012w295g" .
+<Paris> <common.topic.notable_for> "g.1255zdcml" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<Actinic_keratosis> <medicine.disease.risk_factors> "Male" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Freedonia" .
+<Mexican_state> <freebase.type_profile.kind> "Significant" .
+<Location> <freebase.domain_profile.users> "sprocketonline" .
+<City/Town/Village> <freebase.type_hints.included_types> "Statistical region" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<Spoken_in_countries> <type.property.expected_type> "Country" .
+<Munich> <film.film.country> "France" .
+<Me_Talk_Pretty_One_Day> <book.written_work.subjects> "Paris" .
+<People_born_here> <type.property.schema> "Location" .
+<Location> <freebase.domain_profile.users> "pmackay" .
+<Le_Parisien> <book.periodical.language> "French" .
+<Since_Otar_Left> <media_common.netflix_title.netflix_genres> "France" .
+<US_State> <freebase.type_profile.kind> "Significant" .
+<Paris> <common.topic.webpage> "m.09y0rfb" .
+<Grand_Fenwick> <fictional_universe.fictional_setting.setting_type> "Country" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<Paris> <location.statistical_region.population> "m.06zxzy1" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Disneyland_Paris> <location.location.containedby> "France" .
+<Paris> <location.statistical_region.population> "m.06zxztq" .
+<Mexican_state> <freebase.type_profile.kind> "Definition" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h271yh" .
+<Nord-Pas-de-Calais> <common.topic.notable_types> "French Region" .
+<Location> <freebase.type_profile.tasks> "fix /location/adjoining property" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<male.jpg> <common.image.appears_in_topic_gallery> "Male" .
+<Languages_spoken> <type.property.expected_type> "Human Language" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Inanimate" .
+<m.051qtw8> <travel.transportation.travel_destination> "Paris" .
+<Topic> <type.type.properties> "Notable for" .
+<Partially_contains> <rdf-schema#range> "Location" .
+<Limousin> <location.administrative_division.country> "France" .
+<Dated_location> <type.type.domain> "Location" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Brittany" .
+<Geolocation> <rdf-schema#domain> "Location" .
+<Paris> <book.book_subject.works> "Portrait of Picasso as a young man" .
+<m.051qv61> <travel.travel_destination_monthly_climate.travel_destination> "Paris" .
+<Religious_Leader> <freebase.type_profile.strict_included_types> "Topic" .
+<Paris> <base.aareas.schema.administrative_area.administrative_parent> "Île-de-France" .
+<Location> <freebase.domain_profile.users> "thimon" .
+<Location> <freebase.domain_profile.featured_views> "HUD Vacancy Rates" .
+<France> <base.locations.countries.planet> "Earth" .
+<Administrative_Divisions> <type.property.master_property> "Country" .
+<Capital> <rdf-schema#range> "City/Town/Village" .
+<Louis-Eugène_Cavaignac> <common.topic.image> "French general and statesman Louis Eugène Cavaignac" .
+<Location> <type.type.properties> "Partially contains" .
+<m.04dpzb9> <olympics.olympic_city_bid.bidding_city> "Paris" .
+<Location> <freebase.domain_profile.users> "gndjeng" .
+<Paris_in_the_fifties> <book.written_work.subjects> "Paris" .
+<Musée_des_Arts_et_Métiers> <location.location.containedby> "Paris" .
+<Currency_Formerly_Used> <type.property.schema> "Country" .
+<Paris> <base.popstra.location.vacationers> "m.09tycvw" .
+<point> <rdf-schema#domain> "Location" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<Chinese_province> <freebase.type_hints.included_types> "Location" .
+<France> <freebase.valuenotation.is_reviewed> "Area" .
+<French_Connections,_Part_Two:_Conquest> <film.film.featured_film_locations> "Paris" .
+<Paris> <travel.travel_destination.tour_operators> "Čedok" .
+<ISO_Short_Name> <type.property.expected_type> "Machine readable string" .
+<Location> <type.type.properties> "Mean elevation" .
+<Le_Marais> <location.location.contains> "La Maison Rouge" .
+<Folies_Bergère> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<Country> <base.descriptive_names.names.descriptive_name> "m.012r6gwy" .
+<Paris> <common.topic.image> "Notre_Dame_de_Paris.jpg" .
+<Country> <freebase.type_hints.included_types> "Location" .
+<Île_de_la_Cité> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<m.0b47dvj> <common.webpage.topic> "Paris" .
+<Le_Plumard_en_Folie> <film.film.country> "France" .
+<France> <periodicals.newspaper_circulation_area.newspapers> "La Tribune" .
+<People_born_here> <type.property.expected_type> "Person" .
+<Finance_minister> <government.government_office_category.officeholders> "m.0101d7qc" .
+<Location> <type.type.properties> "People born here" .
+<From_Paris_with_Love> <film.film.country> "France" .
+<The_Lovers_on_the_Bridge> <film.film.language> "French" .
+<m.064sp7d> <base.popstra.vacation_choice.location> "Paris" .
+<Argentine_province> <freebase.type_hints.included_types> "Location" .
+<Breathless> <media_common.netflix_title.netflix_genres> "France" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<Picardy> <location.administrative_division.country> "France" .
+<Politician> <freebase.type_profile.kind> "Title" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Auvergne" .
+<Official_Language> <rdf-schema#range> "Human Language" .
+<Currency_Formerly_Used> <rdf-schema#domain> "Country" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "United Federation" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Country> <type.type.properties> "Third level divisions" .
+<5th_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<Religious_Leader> <freebase.type_profile.kind> "Significant" .
+<Politician> <type.type.expected_by> "politician" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<Eiffel_Tower> <location.location.containedby> "France" .
+<La_Quotidienne> <book.newspaper.circulation_areas> "Paris" .
+<Festival_in_France> <film.film.country> "France" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<Paris> <film.film_location.featured_in_films> "Transformers: Revenge of the Fallen" .
+<Notre_Dame_de_Paris> <location.location.containedby> "Île de la Cité" .
+<Paris> <location.statistical_region.major_exports> "m.04ml399" .
+<Paris> <location.statistical_region.population> "g.1jmcbgvh9" .
+<Mexican_state> <freebase.type_hints.included_types> "Location" .
+<Location> <freebase.domain_profile.users> "fpassantino" .
+<Paris> <location.statistical_region.population> "m.06zxzvc" .
+<ISO_Alpha_2> <type.property.expected_type> "Enumeration" .
+<Paris> <common.topic.image> "Paris - Place de la Concorde et eglise de la Madeleine" .
+<Country> <media_common.quotation_subject.quotations_about_this_subject> "Colonies do not cease to be colonies because they are independent." .
+<Deity> <freebase.type_profile.kind> "Definition" .
+<Deity> <freebase.type_profile.strict_included_types> "Abstract" .
+<Form_of_Government> <freebase.type_profile.strict_included_types> "Topic" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<The_Tourist> <film.film.language> "French" .
+<France> <location.country.first_level_divisions> "Poitou-Charentes" .
+<m.09ymtw4> <common.webpage.topic> "Paris" .
+<Location> <freebase.domain_profile.users> "mgershma" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Bercy" .
+<Paris> <common.topic.webpage> "m.0b47dvj" .
+<Louis-Eugène_Cavaignac> <people.person.place_of_birth> "Paris" .
+<Third_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Location> <freebase.domain_profile.users> "lukeschubert" .
+<Rhône-Alpes> <location.location.time_zones> "Central European Time Zone" .
+<Leprosy> <medicine.disease.risk_factors> "Male" .
+<Paris> <organization.organization_scope.organizations_with_this_scope> "L'As du Fallafel" .
+<ISO_Numeric> <rdf-schema#range> "Enumeration" .
+<The_Dong-a_Ilbo> <book.newspaper.circulation_areas> "Paris" .
+<Parc_Astérix> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Burn> <freebase.valuenotation.has_no_value> "Official website" .
+<Adjectival_form> <type.property.schema> "Location" .
+<Paris_Handball> <sports.sports_team.location> "Paris" .
+<French_region> <base.aareas.schema.administrative_area_type.sovereignty> "France" .
+<Continent> <type.type.domain> "Location" .
+<Location> <freebase.domain_profile.users> "sibolesk" .
+<Area> <type.property.schema> "Location" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<Centre-Val_de_Loire> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Paris> <location.statistical_region.population> "m.06zxzzq" .
+<m.064swb9> <base.popstra.vacation_choice.location> "Paris" .
+<Time_zone(s)> <rdf-schema#domain> "Location" .
+<Paris> <book.book_subject.works> "Mon cher papa" .
+<Human_Language> <type.type.properties> "Spoken in countries" .
+<m.064smlj> <base.popstra.vacation_choice.location> "Paris" .
+<Paris> <common.topic.webpage> "m.09ydl49" .
+<m.03x3jtl> <location.adjoining_relationship.adjoins> "Paris" .
+<Vietnamese_province> <type.type.domain> "Location" .
+<Auvergne> <location.location.containedby> "France" .
+<Paris> <book.book_subject.works> "A French Affair: The Paris Beat, 1965-1998" .
+<An_American_in_Paris> <film.film.language> "French" .
+<m.0jvvlcg> <location.administrative_division_capital_relationship.capital> "Paris" .
+<UN/LOCODE> <type.property.expected_type> "Enumeration" .
+<Paris> <common.topic.webpage> "m.09xzr_b" .
+<École_Polytechnique> <location.location.containedby> "France" .
+<Location> <type.type.properties> "near" .
+<Third_level_divisions> <type.property.schema> "Country" .
+<Country> <base.descriptive_names.names.descriptive_name> "m.012z7_r8" .
+<Country> <type.property.expected_type> "Country" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<Paris> <base.popstra.location.vacationers> "m.0645nrx" .
+<The_Dinner_Game> <media_common.netflix_title.netflix_genres> "France" .
+<m.051qt_5> <travel.transportation.travel_destination> "Paris" .
+<Paris> <common.topic.webpage> "m.09ykkx0" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<Fourth_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Haratch> <book.newspaper.circulation_areas> "Paris" .
+<Provence-Alpes-Côte_d'Azur> <location.administrative_division.first_level_division_of> "France" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<m.0_x4zlz> <government.government_position_held.jurisdiction_of_office> "France" .
+<Human_Language> <freebase.type_profile.published> "Published" .
+<Paris> <common.topic.webpage> "m.0b48b24" .
+<Argentine_province> <freebase.type_hints.included_types> "Administrative Division" .
+<Continent> <freebase.type_hints.included_types> "Statistical region" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.notable_people_with_this_condition> "Paris Hilton" .
+<Politician> <type.type.properties> "Government Positions Held" .
+<Primarily_contained_by> <type.property.expected_type> "Location" .
+<m.0101zk4g> <freebase.valuenotation.has_no_value> "Appointed By (if Position is Appointed)" .
+<m.09x21st> <common.webpage.topic> "Paris" .
+<m.064cgtw> <base.popstra.vacation_choice.location> "Paris" .
+<3rd_arrondissement> <location.location.containedby> "Paris" .
+<Rhône-Alpes> <location.location.containedby> "France" .
+<Founding_Figure> <freebase.type_profile.kind> "Significant" .
+<Paris> <location.statistical_region.population> "m.06zxzt_" .
+<neilplus's_types> <freebase.domain_profile.category> "Male" .
+<Officeholder> <type.property.reverse_property> "Government Positions Held" .
+<US_County> <freebase.type_profile.kind> "Significant" .
+<Argentine_province> <freebase.type_profile.kind> "Definition" .
+<Limousin> <location.location.containedby> "France" .
+<Metropolitan_France> <location.location.contains> "Auvergne" .
+<Charmed_Circle:_Gertrude_Stein_and_Company> <book.written_work.subjects> "France" .
+<Paris> <travel.travel_destination.tourist_attractions> "Château de Chambord" .
+<Third_level_divisions> <rdf-schema#domain> "Country" .
+<Brazilian_state> <freebase.type_hints.included_types> "Dated location" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0101zk4g" .
+<m.0h271xs> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Male" .
+<Location> <common.topic.article> "m.0kpqf7" .
+<Paris> <film.film_location.featured_in_films> "Americans in Paris" .
+<Paris> <base.popstra.location.vacationers> "m.064hlmp" .
+<Countries_Formerly_Used> <type.property.schema> "Currency" .
+<Country> <type.type.properties> "GDP (nominal)" .
+<Events> <type.property.schema> "Location" .
+<Paris> <travel.travel_destination.local_transportation> "Paris Métro" .
+<Paris> <location.capital_of_administrative_division.capital_of> "m.0jvvlcg" .
+<Hungry_for_Paris:_The_Ultimate_Guide_to_the_City's_102_Best_Restaurants> <book.written_work.subjects> "Paris" .
+<Beauvais–Tillé_Airport> <location.location.containedby> "France" .
+<Country> <type.type.properties> "Internet TLD" .
+<Into_a_Paris_Quartier> <book.written_work.subjects> "France" .
+<2nd_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<ISO_Alpha_2> <type.property.schema> "Country" .
+<Paris> <common.topic.webpage> "m.09xjbvp" .
+<Lower_Normandy> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Avanti!> <book.newspaper.circulation_areas> "Paris" .
+<Paris> <location.statistical_region.population> "m.06zxzyq" .
+<Country> <common.topic.webpage> "m.09wy877" .
+<Paris> <travel.travel_destination.tourist_attractions> "Café Volpini" .
+<Paris> <common.topic.subjects> "1travel.gr" .
+<Significant> <freebase.type_kind.types> "Argentine province" .
+<US_State> <freebase.type_hints.included_types> "Location" .
+<Glass_Joe> <fictional_universe.fictional_character.place_of_birth> "Paris" .
+<Paris> <film.film_location.featured_in_films> "An American in Paris" .
+<France> <government.governmental_jurisdiction.governing_officials> "m.0_x4zlz" .
+<m.09dvtq1> <base.ontologies.ontology_instance_mapping.freebase_topic> "Paris" .
+<m.09wbhxt> <common.webpage.topic> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Breathless> <film.film.featured_film_locations> "Paris" .
+<Western_Europe> <location.location.containedby> "Europe" .
+<Canadian_Province> <freebase.type_profile.kind> "Definition" .
+<Maigret_in_Exile> <book.written_work.subjects> "Paris" .
+<Location> <freebase.domain_profile.featured_views> "Countries by per capita GDP" .
+<Madeline_and_the_Gypsies> <book.written_work.subjects> "Paris" .
+<Paris> <media_common.netflix_title.netflix_genres> "French" .
+<Topic> <type.type.properties> "Topic equivalent webpage" .
+<Paris> <location.statistical_region.population> "m.06zxzt5" .
+<m.0101d7qc> <freebase.valuenotation.is_reviewed> "Officeholder" .
+<Countries_Formerly_Used> <rdf-schema#range> "Country" .
+<Top_Level_Domain> <type.type.expected_by> "Internet TLD" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "5th arrondissement" .
+<Paris> <common.topic.webpage> "m.09y099q" .
+<Paris> <base.popstra.location.vacationers> "m.065pbz9" .
+<m.051qv97> <travel.travel_destination_monthly_climate.travel_destination> "Paris" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<Australian_State> <freebase.type_hints.included_types> "Administrative Division" .
+<Politician> <freebase.type_hints.included_types> "Topic" .
+<Non-gonococcal_urethritis> <medicine.disease.risk_factors> "Male" .
+<Fourth_level_division_of> <type.property.expected_type> "Country" .
+<Location> <freebase.domain_profile.users> "cm2dude" .
+<m.065pc1c> <base.popstra.vacation_choice.location> "Paris" .
+<Politician> <common.topic.article> "m.02xlj10" .
+<17th_arrondissement> <location.location.containedby> "Paris" .
+<Country> <common.topic.notable_types> "Type of fictional setting" .
+<Paris> <common.topic.subject_of> "Hotel in Paris" .
+<Limousin> <location.administrative_division.first_level_division_of> "France" .
+<Countries_Used> <owl#inverseOf> "Currency Used" .
+<Breathless> <media_common.netflix_title.netflix_genres> "French" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "1st arrondissement" .
+<Intimate_Strangers> <film.film.featured_film_locations> "Paris" .
+<Administrative_Divisions> <type.property.schema> "Country" .
+<m.0101d7qc> <freebase.valuenotation.is_reviewed> "District represented (if position is district-related)" .
+<Paris> <book.book_subject.works> "Paris: The Secret History" .
+<Burgundy> <common.topic.notable_types> "French Region" .
+<Into_a_Paris_Quartier> <book.written_work.subjects> "Paris" .
+<US_President> <freebase.type_profile.strict_included_types> "Topic" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Le Monde" .
+<Metropolitan_France> <location.location.contains> "Burgundy" .
+<Country> <type.type.domain> "Location" .
+<m.065pd1k> <base.popstra.vacation_choice.location> "Paris" .
+<Paris> <film.film_subject.films> "From Paris with Love" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Location" .
+<Paris> <travel.travel_destination.tour_operators> "Adventures by Disney" .
+<Contained_by> <type.property.schema> "Location" .
+<Currency> <type.type.expected_by> "Currency Used" .
+<Kyphosis> <medicine.disease.risk_factors> "Male" .
+<Charade> <film.film.featured_film_locations> "Paris" .
+<Les_Halles> <location.neighborhood.neighborhood_of> "Paris" .
+<La_Tribune> <book.newspaper.circulation_areas> "Paris" .
+<Quartier_Pigalle> <location.location.containedby> "Paris" .
+<Lower_Normandy> <location.administrative_division.country> "France" .
+<ISO_Numeric> <type.property.enumeration> "iso 3166-1 numeric namespace" .
+<Location> <freebase.type_profile.equivalent_topic> "Location" .
+<Significant> <freebase.type_kind.types> "Roman emperor" .
+<German_state> <freebase.type_hints.included_types> "Topic" .
+<Languages_spoken> <rdf-schema#range> "Human Language" .
+<Musée_d'Orsay> <organization.organization.place_founded> "Paris" .
+<Paris> <common.image.appears_in_topic_gallery> "Paris" .
+<The_Elegance_of_the_Hedgehog> <book.written_work.subjects> "Paris" .
+<Île-de-France> <location.fr_region.capital> "Paris" .
+<Fourth_level_divisions> <owl#inverseOf> "Fourth level division of" .
+<The_Fat_and_the_Lean> <film.film.featured_film_locations> "Paris" .
+<Mon_cher_papa> <book.written_work.subjects> "France" .
+<Île-de-France> <location.administrative_division.capital> "m.0jvvm1b" .
+<Lower_Normandy> <location.location.containedby> "Metropolitan France" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Kekeya Kingdom" .
+<Currency> <freebase.type_hints.included_types> "Topic" .
+<Country> <type.type.properties> "Languages spoken" .
+<14th_arrondissement_of_Paris> <location.location.containedby> "Paris" .
+<Paris> <location.statistical_region.population> "m.06zxzwt" .
+<9th_arrondissement_of_Paris> <freebase.valuenotation.is_reviewed> "Area" .
+<m.0101d7qc> <freebase.valuenotation.is_reviewed> "To" .
+<Paris> <location.administrative_division.second_level_division_of> "France" .
+<Country> <freebase.type_profile.strict_included_types> "Agent" .
+<France> <location.location.primarily_containedby> "Western Europe" .
+<Location> <freebase.domain_profile.users> "junxi" .
+<Form_of_Government> <rdf-schema#domain> "Country" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Abstract" .
+<Paris> <base.popstra.location.vacationers> "m.064svjk" .
+<Serval-Agency> <freebase.valuenotation.has_value> "Image" .
+<Form_of_Government> <freebase.type_profile.published> "Published" .
+<French_Connections,_Part_Two:_Conquest> <film.film.country> "France" .
+<Form_of_Government> <rdf-schema#range> "Form of Government" .
+<7th_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<Location> <freebase.domain_profile.users> "spatialed" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<Paris> <book.book_subject.works> "Adventures of the mind" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Belleville, Paris" .
+<Location> <freebase.domain_profile.featured_views> "Countries by GDP" .
+<m.064v13l> <base.popstra.shopping_choice.company> "Paris" .
+<Paris_After_the_Liberation> <book.written_work.subjects> "Paris" .
+<Gout> <medicine.icd_9_cm_classification.includes_classifications> "Gout" .
+<Darlinghissima> <book.written_work.subjects> "Paris" .
+<Michel_Goudchaux> <people.person.gender> "Male" .
+<Syphilis> <medicine.disease.symptoms> "Hair loss" .
+<Paris-Levallois_Basket> <sports.sports_team.location> "Paris" .
+<Champagne-Ardenne> <location.administrative_division.first_level_division_of> "France" .
+<Topic> <type.type.properties> "Notable types" .
+<Europe> <base.locations.continents.planet> "Earth" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Ranke" .
+<Location> <freebase.domain_profile.users> "jonjaques" .
+<Paris> <base.popstra.location.vacationers> "m.064sr60" .
+<Partially_contains> <type.property.reverse_property> "Partially contained by" .
+<Country> <base.ontologies.ontology_instance.equivalent_instances> "m.07ndpsh" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<Significant> <freebase.type_kind.types> "Billionaire" .
+<m.09xjbvp> <common.webpage.topic> "Paris" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h2726d" .
+<Paris> <base.popstra.location.vacationers> "m.064slhz" .
+<Location> <freebase.domain_profile.users> "smithcomputer" .
+<Languages_spoken> <type.property.master_property> "Spoken in countries" .
+<Primarily_contained_by> <rdf-schema#range> "Location" .
+<The_Louvre> <location.location.containedby> "Paris" .
+<Country> <base.ontologies.ontology_class.equivalent_classes> "m.04dm89f" .
+<Michel_Goudchaux> <government.politician.government_positions_held> "m.0_x4zlz" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<m.09x6fzl> <common.webpage.topic> "Paris" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Quartier de La Chapelle" .
+<Goutte_d'Or> <location.location.containedby> "Paris" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h27210" .
+<Paris> <location.statistical_region.population> "m.06zxzv7" .
+<Coterminous_with> <rdf-schema#domain> "Location" .
+<Paris> <common.topic.webpage> "m.09yrzw9" .
+<Notable_for> <rdf-schema#domain> "Topic" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<Seine> <geography.body_of_water.islands> "Île de la Cité" .
+<Paris> <common.topic.webpage> "m.0b47xfg" .
+<Europe> <location.location.contains_major_portion_of> "France" .
+<Contains_major_portion_of> <type.property.reverse_property> "Primarily contained by" .
+<m.064slhz> <base.popstra.vacation_choice.location> "Paris" .
+<Location> <freebase.domain_profile.users> "monurohila" .
+<Country> <rdf-schema#domain> "National anthem of a country" .
+<Myocardial_Ischemia> <medicine.disease.symptoms> "heart attack" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Gondor" .
+<La_Vie_Sexuelle_De_Catherine_M.> <book.written_work.original_language> "French" .
+<Top_Level_Domain> <freebase.type_profile.published> "Published" .
+<US_President> <freebase.type_profile.kind> "Title" .
+<Seine> <location.location.containedby> "France" .
+<Paris_When_It_Sizzles> <film.film.featured_film_locations> "Paris" .
+<Paris> <fictional_universe.fictional_setting.fictional_characters_born_here> "Princess Isabelle" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<Location> <freebase.domain_profile.featured_views> "Continent" .
+<Les_Échos> <book.newspaper.circulation_areas> "France" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<Corsica> <location.administrative_division.country> "France" .
+<Continent> <freebase.type_profile.kind> "Definition" .
+<m.051qv9h> <travel.travel_destination_monthly_climate.travel_destination> "Paris" .
+<paris> <common.image.appears_in_topic_gallery> "Paris" .
+<Paris> <base.arthist.helynevek.intezmeny> "The Louvre" .
+<Location> <freebase.domain_profile.users> "marcelt" .
+<Continent> <freebase.type_hints.included_types> "Location" .
+<ISO_Alpha_2> <rdf-schema#range> "Enumeration" .
+<Administrative_Division> <type.type.expected_by> "Second level divisions" .
+<Lower_Normandy> <location.administrative_division.first_level_division_of> "France" .
+<m.065pd0f> <base.popstra.vacation_choice.location> "Paris" .
+<Contains> <owl#inverseOf> "Contained by" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Limousin" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<Paris> <sports.sports_team_location.teams> "Paris Basket Racing" .
+<From_A_Paris_Garret> <book.written_work.subjects> "Paris" .
+<Latin_Quarter,_Paris> <location.neighborhood.neighborhood_of> "Paris" .
+<Vietnamese_province> <freebase.type_hints.included_types> "Location" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Poitou-Charentes" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<Paris> <book.book_subject.works> "Paris: City of Art" .
+<Paris> <symbols.name_source.namesakes> "Paris Hilton" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<Currency_Formerly_Used> <type.property.expected_type> "Currency" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Latin_Quarter,_Paris> <location.location.containedby> "France" .
+<Brittany> <location.location.containedby> "Metropolitan France" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Burgundy" .
+<Metropolitan_France> <base.aareas.schema.administrative_area.subdivides_place> "France" .
+<Michel_Goudchaux> <common.topic.notable_types> "Politician" .
+<Juden_auf_Wanderschaft> <book.written_work.subjects> "Europe" .
+<m.0101zk4g> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<Auvergne> <common.topic.notable_types> "French Region" .
+<Paris> <common.topic.webpage> "m.09xtgcc" .
+<Paris_Hilton> <medicine.notable_person_with_medical_condition.condition> "Attention deficit hyperactivity disorder" .
+<Location> <freebase.domain_profile.equivalent_topic> "Location" .
+<Dated_location> <freebase.type_hints.included_types> "Topic" .
+<18th_arrondissement> <location.location.containedby> "Paris" .
+<Officeholder> <type.property.expected_type> "Politician" .
+<Champs-Élysées> <location.location.containedby> "Paris" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "4th arrondissement" .
+<France> <periodicals.newspaper_circulation_area.newspapers> "Courrier International" .
+<Paris> <film.film_location.featured_in_films> "Unfinished Spaces" .
+<Fourth_level_division_of> <type.property.schema> "Administrative Division" .
+<Paris> <base.biblioness.bibs_topic.subsumes> "Paris" .
+<Les_Invalides> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Paris> <book.book_subject.works> "Darlinghissima" .
+<Significant> <freebase.type_kind.types> "Chinese special administrative region" .
+<Paris> <location.statistical_region.population> "m.06zxzzv" .
+<Provence-Alpes-Côte_d'Azur> <location.administrative_division.country> "France" .
+<Location> <freebase.documented_object.documentation> "m.0kpqs_" .
+<Location> <freebase.domain_profile.featured_views> "m.0d3by0t" .
+<Subjects> <owl#inverseOf> "Subject of" .
+<French_general_and_statesman_Louis_Eugène_Cavaignac> <common.image.size> "m.02c5z7p" .
+<Fourth_level_divisions> <rdf-schema#domain> "Country" .
+<m.064tj14> <base.popstra.vacation_choice.location> "Paris" .
+<Administrative_Divisions> <rdf-schema#range> "Administrative Division" .
+<Location> <freebase.domain_profile.users> "kennyadams" .
+<Île_de_la_Cité> <location.location.containedby> "Paris" .
+<Geolocation> <type.property.schema> "Location" .
+<Topic> <type.type.properties> "Subjects" .
+<Goutte_d'Or> <location.neighborhood.neighborhood_of> "Paris" .
+<Paris> <travel.travel_destination.tourist_attractions> "Galerie Claude Bernard" .
+<Overseas_France> <location.administrative_division.country> "France" .
+<Paris> <location.location.nearby_airports> "Charles de Gaulle Airport" .
+<Louis-Eugène_Cavaignac> <people.person.nationality> "France" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<Paris> <film.film_location.featured_in_films> "The Lovers on the Bridge" .
+<Human_Language> <type.type.expected_by> "Official Language" .
+<Location> <freebase.domain_profile.users> "avances123" .
+<Corsica> <location.location.containedby> "Metropolitan France" .
+<m.064tjwk> <base.popstra.vacation_choice.location> "Paris" .
+<Mean_elevation> <type.property.schema> "Location" .
+<Limousin> <location.location.time_zones> "Central European Time Zone" .
+<Politician> <type.type.expected_by> "Winner" .
+<Paris> <organization.organization_scope.organizations_with_this_scope> "St. Paul Drama School" .
+<Significant> <freebase.type_kind.types> "Pharaoh" .
+<m.09x61lv> <common.webpage.topic> "Paris" .
+<Location> <freebase.domain_profile.users> "h4ck3rm1k3" .
+<Paris> <film.film_subject.films> "Paris" .
+<near> <type.property.schema> "Location" .
+<m.0_x4zlz> <government.government_position_held.office_position_or_title> "French Minister of the Economy, Finance and Industry" .
+<Paris> <book.book_subject.works> "Maigret in Vichy" .
+<Grand_Fenwick> <fictional_universe.fictional_setting.contained_by> "Europe" .
+<Champs-Élysées> <location.location.time_zones> "Central European Time Zone" .
+<Walks_Through_Lost_Paris> <book.written_work.subjects> "Paris" .
+<Athlete's_foot> <medicine.disease.risk_factors> "Male" .
+<The_Paris_Enigma:_A_Novel> <book.written_work.subjects> "Paris" .
+<Weblink> <type.property.schema> "Topic" .
+<Vietnamese_province> <freebase.type_profile.published> "Published" .
+<Paris> <location.statistical_region.population> "m.0j_9wn_" .
+<The_Ambassadors> <book.written_work.subjects> "Paris" .
+<Paris> <conferences.conference_venue.conferences> "DD4D" .
+<Poitou-Charentes> <location.administrative_division.first_level_division_of> "France" .
+<Paris> <book.book_subject.works> "Parisian Home Cooking" .
+<Administrative_Division> <freebase.type_hints.included_types> "Dated location" .
+<Paris> <base.popstra.location.vacationers> "m.064wfzv" .
+<Location> <freebase.domain_profile.users> "gavinjock" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<Batignolles> <location.location.containedby> "Paris" .
+<Now_You_See_Me> <film.film.featured_film_locations> "Paris" .
+<Paris> <base.popstra.business_location.customer> "m.063y1sc" .
+<Olympic_venue> <freebase.type_profile.strict_included_types> "Topic" .
+<Significant> <freebase.type_kind.types> "Spanish province" .
+<m.09ym46_> <common.webpage.topic> "Paris" .
+<Statistical_region> <freebase.type_profile.kind> "Annotation" .
+<US_County> <freebase.type_hints.included_types> "Location" .
+<Parisian_Home_Cooking> <book.written_work.subjects> "France" .
+<France> <law.court_jurisdiction_area.courts> "Court of Cassation" .
+<France> <location.country.first_level_divisions> "Nord-Pas-de-Calais" .
+<Contains_major_portion_of> <rdf-schema#range> "Location" .
+<Metropolitan_France> <location.location.contains> "Brittany" .
+<Physically_Instantiable> <type.type.domain> "Type Ontology" .
+<Deity> <freebase.type_profile.kind> "Significant" .
+<Paget's_disease_of_bone> <medicine.disease.risk_factors> "Male" .
+<m.0h271yh> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Alsace" .
+<Image> <rdf-schema#domain> "Topic" .
+<Location> <freebase.domain_profile.featured_views> "Places in Queensland (not suburbs/cities/towns)" .
+<Sarthe> <location.administrative_division.country> "France" .
+<11th_arrondissement_of_Paris> <location.neighborhood.neighborhood_of> "Paris" .
+<Significant> <freebase.type_kind.types> "Roman hero" .
+<La_Quotidienne> <book.newspaper.circulation_areas> "France" .
+<Maigret_in_Vichy> <book.written_work.subjects> "France" .
+<Ariste_Jacques_Trouvé-Chauvel> <people.person.profession> "Politician" .
+<Countries> <rdf-schema#domain> "Form of Government" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Midi-Pyrénées" .
+<Autism> <medicine.disease.risk_factors> "Male" .
+<m.0101zk4g> <freebase.valuenotation.has_no_value> "To" .
+<Maigret_Hesitates> <book.written_work.subjects> "France" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "20 minutes" .
+<Significant> <freebase.type_kind.types> "Chinese province" .
+<m.09x4w0f> <common.webpage.topic> "Paris" .
+<Continent> <freebase.type_hints.included_types> "Topic" .
+<Country> <type.type.properties> "ISO Alpha 3" .
+<Paris> <travel.travel_destination.tourist_attractions> "Sacré-Cœur, Paris" .
+<m.065pbsf> <base.popstra.vacation_choice.location> "Paris" .
+<Burgundy> <location.administrative_division.first_level_division_of> "France" .
+<Paris> <book.book_subject.works> "Family Under the Bridge" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Nord-Pas-de-Calais" .
+<Musée_du_quai_Branly> <location.location.containedby> "France" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Les Halles" .
+<Read_my_Lips> <film.film.language> "French" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Fourth_level_division_of> <rdf-schema#range> "Country" .
+<Date_founded> <rdf-schema#domain> "Dated location" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<m.09y884l> <common.webpage.topic> "Paris" .
+<French_region> <base.aareas.schema.administrative_area_type.pertains_to> "France" .
+<Tetralogy_of_Fallot> <medicine.disease.risk_factors> "Male" .
+<Burgundy> <location.location.containedby> "Metropolitan France" .
+<Urethritis> <medicine.disease.risk_factors> "Male" .
+<Alsace> <location.administrative_division.country> "France" .
+<Paris> <book.book_subject.works> "The Last Time I Saw Paris" .
+<Location> <freebase.domain_profile.users> "simplify3" .
+<ISO_Alpha_3> <type.property.expected_type> "Enumeration" .
+<Location> <freebase.domain_profile.featured_views> "Ukraine Raion" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Ménilmontant" .
+<Partially_contains> <type.property.schema> "Location" .
+<Serval-Agency> <freebase.valuenotation.is_reviewed> "Description" .
+<m.065pbdp> <base.popstra.vacation_choice.location> "Paris" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Paris> <travel.travel_destination.climate> "m.051qv87" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Paris> <location.statistical_region.population> "m.06zxzyz" .
+<6th_arrondissement_of_Paris> <location.location.containedby> "Paris" .
+<Brazilian_state> <freebase.type_profile.kind> "Definition" .
+<Corsica> <location.location.containedby> "France" .
+<Spoken_in_countries> <type.property.reverse_property> "Languages spoken" .
+<First_level_divisions> <rdf-schema#domain> "Country" .
+<Urolithiasis> <medicine.disease.risk_factors> "Male" .
+<The_Tourist> <film.film.country> "France" .
+<Contains_major_portion_of> <owl#inverseOf> "Primarily contained by" .
+<11th_arrondissement_of_Paris> <location.location.containedby> "Paris" .
+<France> <location.country.first_level_divisions> "Provence-Alpes-Côte d'Azur" .
+<Paris> <film.film_location.featured_in_films> "Since Otar Left" .
+<Munich> <film.film.language> "French" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<m.051qv33> <travel.transportation.travel_destination> "Paris" .
+<France> <location.location.primarily_containedby> "Europe" .
+<Overseas_France> <common.topic.notable_types> "Administrative Division" .
+<Paris:_City_of_Art> <book.written_work.subjects> "Paris" .
+<m.064sl_z> <base.popstra.vacation_choice.location> "Paris" .
+<Significant> <freebase.type_kind.types> "Greek hero" .
+<Margali_Szardos> <fictional_universe.fictional_character.place_of_birth> "Paris" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Meningococcal_disease> <medicine.disease.risk_factors> "Male" .
+<8th_arrondissement_of_Paris> <location.neighborhood.neighborhood_of> "Paris" .
+<Darlinghissima> <book.written_work.subjects> "France" .
+<Western_Europe> <location.location.partially_contains> "France" .
+<Paris> <travel.travel_destination.tourist_attractions> "Notre Dame de Paris" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<Parc_Astérix> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<The_Terrible_Year> <book.written_work.subjects> "Paris" .
+<Low_Profile> <film.film.featured_film_locations> "Ménilmontant" .
+<Location> <freebase.domain_profile.users> "fmkatz" .
+<Form_of_Government> <type.property.schema> "Country" .
+<m.051qv5t> <travel.travel_destination_monthly_climate.travel_destination> "Paris" .
+<Montmartre> <fictional_universe.fictional_setting.works_set_here> "Amélie" .
+<5th_arrondissement> <location.location.containedby> "Paris" .
+<Band_of_Outsiders> <film.film.country> "France" .
+<Musée_du_quai_Branly> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Significant> <freebase.type_kind.types> "Olympic mascot" .
+<Chinese_province> <freebase.type_hints.included_types> "Administrative Division" .
+<La_Tribune> <book.periodical.language> "French" .
+<m.0645nrx> <base.popstra.vacation_choice.location> "Paris" .
+<m.064_5j4> <base.popstra.hangout.business_location> "Paris" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<France> <freebase.valuenotation.is_reviewed> "Date founded" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Goutte d'Or" .
+<Paris> <base.popstra.location.vacationers> "m.064hjp3" .
+<Adjectival_form> <rdf-schema#domain> "Location" .
+<Paris> <common.topic.webpage> "m.02k8dbw" .
+<Flée,_Sarthe> <common.topic.article> "m.03qk2fd" .
+<Now_You_See_Me> <film.film.country> "France" .
+<Pays_de_la_Loire> <location.location.time_zones> "Central European Time Zone" .
+<Brittany> <common.topic.notable_types> "French Region" .
+<Centre_Georges_Pompidou> <location.location.containedby> "4th arrondissement" .
+<Capital> <type.property.schema> "Country" .
+<La_Croix> <book.periodical.language> "French" .
+<Location> <freebase.domain_profile.users> "jon" .
+<Paris> <base.popstra.company.shopping_choice> "m.064tlcm" .
+<Metropolitan_France> <location.location.partially_contains> "Seine" .
+<GDP_(nominal_per_capita)> <type.property.schema> "Country" .
+<France> <freebase.valuenotation.is_reviewed> "Capital" .
+<Politician> <type.type.expected_by> "Responsible Minister" .
+<France> <base.aareas.schema.administrative_area.subdividing_place> "Overseas France" .
+<m.0101d7qc> <freebase.valuenotation.is_reviewed> "From" .
+<Paris> <book.book_subject.works> "Maigret and the wine merchant" .
+<Juden_auf_Wanderschaft> <book.written_work.subjects> "France" .
+<Paris_Hilton> <symbols.namesake.named_after> "Paris" .
+<Coterminous_with> <type.property.schema> "Location" .
+<Metropolitan_France> <location.location.contains> "Provence-Alpes-Côte d'Azur" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<Eloise_in_Paris> <book.written_work.subjects> "Paris" .
+<Canadian_Province> <type.type.domain> "Location" .
+<Michel_Goudchaux> <people.person.nationality> "France" .
+<Charade> <film.film.language> "French" .
+<Paris> <book.written_work.subjects> "France" .
+<Location> <type.type.properties> "Area" .
+<Paris> <location.statistical_region.population> "m.06zxztl" .
+<South_Korean_province> <freebase.type_hints.included_types> "Topic" .
+<Paris> <media_common.netflix_title.netflix_genres> "France" .
+<Paris> <book.book_subject.works> "Maigret and the Headless Corpse" .
+<m.0k8jmdp> <olympics.olympic_city_bid.bidding_city> "Paris" .
+<GDP_(nominal)> <rdf-schema#range> "Dated Money Value" .
+<Location> <freebase.domain_profile.featured_views> "m.0d37vth" .
+<Religious_Leader> <freebase.type_hints.included_types> "Topic" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<Myocardial_Ischemia> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<The_Dud_Avocado> <book.written_work.subjects> "France" .
+<Subjects> <rdf-schema#range> "Topic" .
+<Topic> <common.topic.article> "m.0kpqw_" .
+<Centre_Georges_Pompidou> <location.location.containedby> "Paris" .
+<France> <location.location.time_zones> "Central European Time Zone" .
+<Franche-Comté> <location.administrative_division.country> "France" .
+<Paris> <radio.radio_subject.programs_with_this_subject> "Paris: From Oscar Wilde to Jim Morrison" .
+<Paris> <common.topic.webpage> "m.0b47bzk" .
+<Le_Plumard_en_Folie> <film.film.featured_film_locations> "Paris" .
+<Location> <freebase.domain_profile.users> "njwebservices" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<Paris> <film.film_subject.films> "La Jetée" .
+<US_County> <freebase.type_profile.published> "Published" .
+<Country> <media_common.quotation_subject.quotations_about_this_subject> "My country owes me nothing. It gave me, as it gives every boy and girl, a chance. It gave me schooling, independence of action, opportunity for service and honor. In no other land could a boy from a country village, without inheritance or influential friends, look forward with unbounded hope." .
+<Charles_de_Gaulle_Airport> <location.location.containedby> "France" .
+<Maigret_in_Vichy> <book.written_work.subjects> "Paris" .
+<Paris> <travel.travel_destination.climate> "m.051qv97" .
+<Paris> <film.film_location.featured_in_films> "Paris When It Sizzles" .
+<Significant> <freebase.type_kind.types> "Nobel prize winner" .
+<10th_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<Paris> <common.topic.webpage> "m.0b47lfc" .
+<Politician> <type.type.expected_by> "Officeholder" .
+<The_Autobiography_of_Alice_B._Toklas> <book.written_work.subjects> "Paris" .
+<Location> <freebase.domain_profile.featured_views> "HUD County Place" .
+<Country> <type.type.properties> "Fourth level divisions" .
+<Location> <freebase.domain_profile.featured_views> "Administrative Division" .
+<Metropolitan_France> <location.location.contains> "Rhône-Alpes" .
+<Paris> <location.statistical_region.population> "m.06zxzwf" .
+<The_Paris_Cookbook> <book.written_work.subjects> "Paris" .
+<m.051qtw8> <travel.transportation.transport_terminus> "Beauvais–Tillé Airport" .
+<Politician> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<Geometry> <rdf-schema#domain> "Location" .
+<Significant> <freebase.type_kind.types> "Primary Candidate" .
+<m.0_x4zlz> <government.government_position_held.basic_title> "Finance minister" .
+<France> <location.country.first_level_divisions> "Pays de la Loire" .
+<Paris_Saint-Germain_F.C.> <sports.sports_team.location> "Paris" .
+<Paris> <common.topic.webpage> "m.09x5m5g" .
+<Paris> <book.book_subject.works> "Americans in Paris" .
+<Centre-Val_de_Loire> <location.administrative_division.country> "France" .
+<Paris> <base.popstra.location.vacationers> "m.064d8qd" .
+<La_Vie_Sexuelle_De_Catherine_M.> <book.written_work.subjects> "France" .
+<Quiet_Corners_of_Paris> <book.written_work.subjects> "France" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<Paris> <travel.travel_destination.how_to_get_here> "m.051qv33" .
+<Paris> <location.citytown.postal_codes> "75000" .
+<Location> <freebase.domain_profile.users> "andy_st" .
+<Significant> <freebase.type_kind.types> "Roman deity" .
+<m.02_wnwb> <location.adjoining_relationship.adjoins> "Paris" .
+<Passy> <location.neighborhood.neighborhood_of> "Paris" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Le Parisien" .
+<France-Soir> <book.periodical.language> "French" .
+<Panthéon> <location.location.containedby> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<Paris> <book.book_subject.works> "Mysteries of Paris" .
+<Location> <freebase.domain_profile.users> "seoexpert" .
+<Provence-Alpes-Côte_d'Azur> <location.location.containedby> "Metropolitan France" .
+<The_Canary_Trainer> <book.written_work.subjects> "France" .
+<Seborrheic_dermatitis> <medicine.symptom.symptom_of> "Parkinson's disease" .
+<Third_level_division_of> <type.property.schema> "Administrative Division" .
+<Paris> <book.book_subject.works> "Anne Frank and Me" .
+<Lorraine> <location.location.containedby> "France" .
+<Location> <freebase.domain_profile.users> "bmwiedemann" .
+<Maigret_in_Exile> <book.written_work.subjects> "France" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.012vsxv7" .
+<Paris> <book.book_subject.works> "The Dud Avocado" .
+<France> <location.country.first_level_divisions> "Corsica" .
+<France> <location.country.first_level_divisions> "Champagne-Ardenne" .
+<The_voice_in_the_closet> <book.written_work.subjects> "Paris" .
+<Aquitaine> <location.administrative_division.first_level_division_of> "France" .
+<French_Minister_of_the_Economy,_Finance_and_Industry> <government.government_agency.jurisdiction> "France" .
+<m.09wh1r7> <common.webpage.topic> "Paris" .
+<Countries_Used> <rdf-schema#range> "Country" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h271yt" .
+<m.09xzr_b> <common.webpage.topic> "Paris" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Upper Normandy" .
+<Location> <freebase.domain_profile.users> "asparagirl" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<m.09tycvw> <base.popstra.vacation_choice.location> "Paris" .
+<Paris> <base.popstra.location.vacationers> "m.065pbd9" .
+<Vélib'> <organization.organization.geographic_scope> "Paris" .
+<The_Louvre> <film.film_location.featured_in_films> "The Lovers on the Bridge" .
+<Poitou-Charentes> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Paris> <base.popstra.location.vacationers> "m.064cgtw" .
+<Le_Parisien> <book.newspaper.circulation_areas> "France" .
+<Significant> <freebase.type_kind.types> "US State" .
+<Paris,_je_t'aime> <media_common.netflix_title.netflix_genres> "France" .
+<Tour_Triangle> <location.location.containedby> "15th arrondissement of Paris" .
+<10th_arrondissement> <location.location.containedby> "Paris" .
+<Paris> <base.popstra.location.vacationers> "m.065pc_n" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Significant> <freebase.type_kind.types> "Canadian Province" .
+<FIFA_Code> <type.property.schema> "Country" .
+<Paris> <base.locations.cities_and_towns.country> "France" .
+<The_Dinner_Game> <film.film.featured_film_locations> "Paris" .
+<Country> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Australian_State> <freebase.type_profile.kind> "Significant" .
+<Kaposi's_sarcoma> <medicine.disease.risk_factors> "Male" .
+<Tour_Triangle> <location.location.partially_containedby> "Paris" .
+<Lower_Normandy> <location.location.time_zones> "Central European Time Zone" .
+<4th_arrondissement> <location.location.contains> "Centre Georges Pompidou" .
+<La_Jetée> <film.film.language> "French" .
+<Rhône-Alpes> <common.topic.notable_types> "French Region" .
+<Paris> <travel.travel_destination.accommodation> "Hôtel de Crillon" .
+<Location> <freebase.domain_profile.featured_views> "Ukraine Autonomous Republic" .
+<Significant> <freebase.type_kind.types> "Diocese" .
+<Person> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<m.065pc_n> <base.popstra.vacation_choice.location> "Paris" .
+<Band_of_Outsiders> <media_common.netflix_title.netflix_genres> "French" .
+<Chinese_province> <freebase.type_profile.kind> "Significant" .
+<Amélie> <film.film.featured_film_locations> "Paris" .
+<Limousin> <common.topic.notable_types> "French Region" .
+<Île-de-France> <location.administrative_division.first_level_division_of> "France" .
+<Country> <base.descriptive_names.names.descriptive_name> "m.012l2b96" .
+<Petit-Montrouge> <location.neighborhood.neighborhood_of> "Paris" .
+<Second_level_divisions> <type.property.schema> "Country" .
+<Intimate_Strangers> <freebase.valuenotation.is_reviewed> "Official website" .
+<Paris> <book.book_subject.works> "The Paris Cookbook" .
+<Country> <common.topic.webpage> "m.09wjcgc" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<The_Lovers_on_the_Bridge> <film.film.featured_film_locations> "Paris" .
+<Location> <freebase.domain_profile.users> "rchk" .
+<Hopscotch> <fictional_universe.work_of_fiction.setting> "Paris" .
+<USBG_name> <type.property.schema> "Location" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "La Tribune" .
+<m.02wpvt8> <education.education.student> "Louis-Eugène Cavaignac" .
+<Paris> <location.statistical_region.population> "m.06zxzyl" .
+<Paris> <common.topic.webpage> "m.0b48h8w" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Le_Temps> <book.newspaper.circulation_areas> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<m.09w4c5p> <common.webpage.topic> "Paris" .
+<Paris> <location.statistical_region.population> "m.06zxzzb" .
+<US_President> <freebase.type_hints.included_types> "Politician" .
+<Location> <freebase.documented_object.documentation> "m.0kpqf7" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Arnor" .
+<Paris> <travel.travel_destination.tourist_attractions> "Verdon Gorge" .
+<Disneyland_Paris> <freebase.valuenotation.has_no_value> "Date dissolved" .
+<8th_Wonderland> <film.film.country> "France" .
+<m.09y099q> <common.webpage.topic> "Paris" .
+<Tour_Triangle> <location.location.nearby_airports> "Charles de Gaulle Airport" .
+<Le_Monde> <book.newspaper.circulation_areas> "France" .
+<Currency_Used> <rdf-schema#domain> "Country" .
+<Paris> <book.book_subject.works> "The Art and Spirit of Paris" .
+<Date_founded> <type.property.schema> "Dated location" .
+<Country> <rdf-schema#range> "Country" .
+<Mysteries_of_Paris> <book.written_work.subjects> "France" .
+<Paris> <travel.travel_destination.tourist_attractions> "Musée d'Orsay" .
+<National_anthem> <type.property.master_property> "Country" .
+<Location> <freebase.domain_profile.users> "diplodocus" .
+<Paris> <location.statistical_region.population> "m.06zxzw9" .
+<Into_a_Paris_Quartier> <book.written_work.subjects> "Europe" .
+<Leaving_Home> <book.written_work.subjects> "France" .
+<Provence-Alpes-Côte_d'Azur> <location.location.containedby> "France" .
+<Topic_equivalent_webpage> <type.property.schema> "Topic" .
+<Earth> <base.locations.planets.continents_within> "Europe" .
+<Since_Otar_Left> <film.film.language> "French" .
+<Fourth_level_divisions> <type.property.schema> "Country" .
+<m.0b47lfc> <common.webpage.topic> "Paris" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Attention deficit hyperactivity disorder" .
+<Top_Level_Domain> <freebase.type_profile.kind> "Definition" .
+<Description> <type.property.schema> "Topic" .
+<Paris> <travel.travel_destination.tourist_attractions> "Eiffel Tower" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Pays_de_la_Loire> <location.administrative_division.country> "France" .
+<Grenelle> <location.neighborhood.neighborhood_of> "Paris" .
+<Paris> <base.popstra.location.vacationers> "m.065pbsf" .
+<Le_Pont_Neuf> <visual_art.art_series.subject> "Paris" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<m.09ywzbk> <common.webpage.topic> "Country" .
+<Čedok> <freebase.valuenotation.is_reviewed> "Image" .
+<France> <periodicals.newspaper_circulation_area.newspapers> "Haratch" .
+<Paris> <travel.travel_destination.tourist_attractions> "Gare d'Orsay" .
+<Louis-Eugène_Cavaignac> <government.political_appointer.appointees> "m.0_x4zlz" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<The_Canary_Trainer> <book.written_work.subjects> "Paris" .
+<Overseas_France> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Midi-Pyrénées> <location.location.containedby> "France" .
+<Paris> <base.popstra.location.vacationers> "m.064sx1j" .
+<Transient_ischemic_attack> <medicine.disease.causes> "Cardiovascular disease" .
+<Paris> <location.statistical_region.population> "m.06zxzxt" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Cryx" .
+<Fourth_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Dated location" .
+<Significant> <freebase.type_kind.types> "Deity" .
+<Paris> <location.statistical_region.population> "m.06zxzt1" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Cheliax" .
+<South_Korean_province> <type.type.domain> "Location" .
+<Paris> <film.film_subject.films> "Paris" .
+<Anne_Frank_and_Me> <book.written_work.subjects> "Paris" .
+<Paris> <olympics.olympic_bidding_city.olympics_bid_on> "m.04dpzb9" .
+<France> <periodicals.newspaper_circulation_area.newspapers> "Les Échos" .
+<Paris> <base.popstra.location.vacationers> "m.065pdqk" .
+<St._Paul_Drama_School> <organization.organization.geographic_scope> "Paris" .
+<The_Lovers_on_the_Bridge> <film.film.featured_film_locations> "The Louvre" .
+<Europe> <location.location.time_zones> "Central European Time Zone" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<Multiple_myeloma> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Ménilmontant> <location.neighborhood.neighborhood_of> "Paris" .
+<Top_Level_Domain> <freebase.type_profile.strict_included_types> "Topic" .
+<Paris> <book.book_subject.works> "Charmed Circle: Gertrude Stein and Company" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<Metropolitan_France> <location.location.contains> "Franche-Comté" .
+<La_Jetée> <media_common.netflix_title.netflix_genres> "French" .
+<Le_Parisien> <book.newspaper.circulation_areas> "Paris" .
+<Significant> <freebase.type_kind.types> "Continent" .
+<Significant> <freebase.type_kind.types> "Divinity" .
+<Munich> <film.film.featured_film_locations> "Paris" .
+<Paris> <book.book_subject.works> "Ulise" .
+<Location> <freebase.domain_profile.users> "aris" .
+<Contains> <rdf-schema#range> "Location" .
+<Paris> <common.topic.webpage> "m.09xkgw1" .
+<Le_Manifeste> <book.newspaper.circulation_areas> "Paris" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<Paris> <common.topic.webpage> "m.09wh1r7" .
+<Calm_At_Sea> <film.film.featured_film_locations> "Paris" .
+<Jefferson_abroad> <book.written_work.subjects> "Paris" .
+<Yamakasi> <film.film.country> "France" .
+<19th_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<Brittany> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Pays_de_la_Loire> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Vietnamese_province> <freebase.type_hints.included_types> "Dated location" .
+<Argentine_province> <freebase.type_profile.kind> "Significant" .
+<Politician> <owl#inverseOf> "Party" .
+<French_Minister_of_the_Economy,_Finance_and_Industry> <government.government_office_or_title.office_holders> "m.0_x4zlz" .
+<Paris> <base.popstra.location.vacationers> "m.064j65w" .
+<Louvre_2007_02_24_c.jpg> <common.image.appears_in_topic_gallery> "Paris" .
+<15th_arrondissement_of_Paris> <location.neighborhood.neighborhood_of> "Paris" .
+<Topic> <type.type.properties> "Properties" .
+<Topic> <type.type.properties> "Official website" .
+<m.065pbd9> <base.popstra.vacation_choice.location> "Paris" .
+<UN/LOCODE> <type.property.schema> "Location" .
+<15th_arrondissement_of_Paris> <location.location.contains> "Grenelle" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<m.065pbr3> <base.popstra.vacation_choice.location> "Paris" .
+<Location> <type.type.properties> "Adjectival form" .
+<Île-de-France> <base.aareas.schema.administrative_area.capital> "Paris" .
+<The_voice_in_the_closet> <book.written_work.subjects> "France" .
+<Location> <freebase.domain_profile.users> "arulns" .
+<m.063y1sc> <base.popstra.hangout.business_location> "Paris" .
+<Paris> <sports.sports_team_location.teams> "Paris Handball" .
+<Australian_State> <freebase.type_profile.published> "Published" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "20th arrondissement" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<Paris:_The_Secret_History> <book.written_work.subjects> "Paris" .
+<Paris> <location.location.nearby_airports> "Orly Air Base" .
+<Unfinished_Spaces> <film.film.featured_film_locations> "Paris" .
+<France> <periodicals.newspaper_circulation_area.newspapers> "La Quotidienne" .
+<Chinese_province> <freebase.type_hints.included_types> "Dated location" .
+<Paris> <base.popstra.location.vacationers> "m.064tj14" .
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Western_Europe> <location.location.contains> "France" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Ruritania" .
+<Languedoc-Roussillon> <location.location.time_zones> "Central European Time Zone" .
+<Golfer's_elbow> <medicine.disease.risk_factors> "Male" .
+<Topic> <type.type.properties> "Topical webpage" .
+<Poitou-Charentes> <location.administrative_division.country> "France" .
+<National_Library_of_France> <location.location.containedby> "Paris" .
+<Official_website> <rdf-schema#domain> "Topic" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Date_dissolved> <rdf-schema#domain> "Dated location" .
+<Notre_Dame_de_Paris> <base.arthist.mutargyak.proveniencia> "m.0773z56" .
+<Topic> <type.type.domain> "Common" .
+<1900_Summer_Olympics> <olympics.olympic_games.host_city> "Paris" .
+<Upper_Normandy> <location.location.containedby> "France" .
+<Significant> <freebase.type_kind.types> "Presidential Nominee" .
+<m.065pc6k> <base.popstra.vacation_choice.location> "Paris" .
+<Paris_-_Place_de_la_Concorde_et_eglise_de_la_Madeleine> <common.image.appears_in_topic_gallery> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Khador" .
+<Transient_ischemic_attack> <medicine.disease.risk_factors> "Male" .
+<Band_of_Outsiders> <film.film.featured_film_locations> "The Louvre" .
+<Serval-Agency> <organization.organization.geographic_scope> "Île-de-France" .
+<Paris> <organization.organization_scope.organizations_with_this_scope> "Vélib'" .
+<Brazilian_state> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<Calm_At_Sea> <film.film.country> "France" .
+<Also_known_as> <rdf-schema#domain> "Topic" .
+<Country> <common.topic.image> "Staatkundige kaart van de Wereld" .
+<Alsace> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Administrative_Division> <type.type.expected_by> "Administrative Divisions" .
+<First_level_division_of> <rdf-schema#range> "Country" .
+<m.064tgv9> <base.popstra.vacation_choice.location> "Paris" .
+<Human_Language> <freebase.type_profile.strict_included_types> "Abstract" .
+<French> <language.human_language.region> "Europe" .
+<France> <location.country.first_level_divisions> "Lorraine" .
+<US_President> <freebase.type_hints.included_types> "Topic" .
+<Paris_Orly_Airport> <location.location.containedby> "France" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Location> <type.type.expected_by> "location" .
+<Americans_in_Paris> <film.film.country> "France" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "7th arrondissement" .
+<13th_arrondissement> <location.location.containedby> "Paris" .
+<Family_Under_the_Bridge> <book.written_work.subjects> "Paris" .
+<Paris> <location.statistical_region.population> "m.010rn_qs" .
+<Picardy> <location.location.containedby> "Metropolitan France" .
+<Sebaceous_cyst> <medicine.disease.risk_factors> "Male" .
+<Maigret_and_the_wine_merchant> <book.written_work.subjects> "France" .
+<Retroperitoneal_fibrosis> <medicine.disease.risk_factors> "Male" .
+<Le_Pont_Neuf> <visual_art.artwork.art_subject> "Paris" .
+<Since_Otar_Left> <film.film.featured_film_locations> "Paris" .
+<Notable_for> <type.property.schema> "Topic" .
+<Religious_Leader> <freebase.type_profile.published> "Published" .
+<FIPS_Code> <rdf-schema#range> "Machine readable string" .
+<Club_foot> <medicine.disease.risk_factors> "Male" .
+<France> <base.aareas.schema.administrative_area.subdividing_place> "Metropolitan France" .
+<FIPS_Code> <type.property.expected_type> "Machine readable string" .
+<Flée,_Sarthe> <location.location.containedby> "Sarthe" .
+<France> <location.country.first_level_divisions> "Upper Normandy" .
+<Seven_Ages_of_Paris> <book.written_work.subjects> "Europe" .
+<Also_known_as> <type.property.schema> "Topic" .
+<Location> <freebase.domain_profile.featured_views> "Census Tract" .
+<Galerie_Claude_Bernard> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Paris> <film.film_location.featured_in_films> "Passport to Paris" .
+<Breathless> <film.film.country> "France" .
+<German_state> <freebase.type_profile.kind> "Significant" .
+<Paris> <travel.travel_destination.climate> "m.051qv8_" .
+<Sarthe> <base.aareas.schema.administrative_area.administrative_parent> "Pays de la Loire" .
+<Paris> <film.film_location.featured_in_films> "The Sucker" .
+<Paris> <common.topic.webpage> "m.09wbhxt" .
+<Statistical_region> <common.topic.article> "m.02_779_" .
+<Maigret_and_the_Calame_report> <book.written_work.subjects> "France" .
+<Paris> <common.topic.webpage> "m.09ys21m" .
+<Country> <type.type.properties> "Second level divisions" .
+<Naye_Prese> <book.newspaper.circulation_areas> "Paris" .
+<m.0773z56> <base.arthist.provenienciaadat.mutargy> "Notre Dame de Paris" .
+<People_born_here> <rdf-schema#range> "Person" .
+<m.0wg9fjk> <location.partial_containment_relationship.partially_contained_by> "Paris" .
+<18th_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<Flée,_Sarthe> <common.topic.notable_for> "g.1256mrwxn" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<France> <government.governmental_jurisdiction.agencies> "French Minister of the Economy, Finance and Industry" .
+<Paris> <common.topic.image> "Paris - Champs Elysees" .
+<Paris> <travel.travel_destination.climate> "m.051qv8h" .
+<Location> <freebase.type_profile.published> "Published" .
+<Location> <freebase.domain_profile.users> "villalafnouil" .
+<Paris> <book.book_subject.works> "The Autobiography of Alice B. Toklas" .
+<Lorraine> <common.topic.notable_types> "French Region" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "9th arrondissement of Paris" .
+<France> <location.location.containedby> "Western Europe" .
+<Politician> <type.type.expected_by> "Resulting head of state" .
+<Arc_de_Triomphe> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Madeline_and_the_Bad_Hat> <book.written_work.subjects> "France" .
+<Significant> <freebase.type_kind.types> "Taiwanese province" .
+<Lorraine> <location.administrative_division.first_level_division_of> "France" .
+<The_white_man_in_the_tree,_and_other_stories> <book.written_work.subjects> "Paris" .
+<Île_de_la_Cité> <location.location.containedby> "Seine" .
+<France> <travel.travel_destination.tour_operators> "Adventures by Disney" .
+<GDP_(nominal_per_capita)> <rdf-schema#domain> "Country" .
+<Location> <freebase.equivalent_topic.equivalent_type> "Location" .
+<Inglourious_Basterds> <film.film.featured_film_locations> "Paris" .
+<Western_Europe> <location.location.contains> "Metropolitan France" .
+<Paris> <base.popstra.location.vacationers> "m.065pbdp" .
+<Significant> <freebase.type_kind.types> "German state" .
+<m.08t7vwq> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<Les_Invalides> <location.location.containedby> "7th arrondissement" .
+<4th_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<Paris> <book.book_subject.works> "The Ambassadors" .
+<Form_of_Government> <type.type.expected_by> "Form of Government" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<France> <periodicals.newspaper_circulation_area.newspapers> "Le Moniteur Universel" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<Calling_Code> <type.property.expected_type> "Integer" .
+<Franche-Comté> <location.location.containedby> "Metropolitan France" .
+<m.0101d7qc> <government.government_position_held.jurisdiction_of_office> "France" .
+<Location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<8th_Wonderland> <film.film.featured_film_locations> "Paris" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<Report_from_a_Parisian_Paradise> <book.written_work.subjects> "France" .
+<Canadian_Province> <freebase.type_hints.included_types> "Administrative Division" .
+<m.012z7_r8> <base.schemastaging.plural_form.language> "French" .
+<Le_Monde> <book.periodical.language> "French" .
+<Paris> <base.popstra.location.vacationers> "m.064sxlp" .
+<Saint-Germain-des-Prés> <location.neighborhood.neighborhood_of> "Paris" .
+<Le_Moniteur_Universel> <book.newspaper.circulation_areas> "France" .
+<m.064j65w> <base.popstra.vacation_choice.location> "Paris" .
+<Pays_de_la_Loire> <location.location.containedby> "France" .
+<Currency_Used> <rdf-schema#range> "Currency" .
+<m.065pc0t> <base.popstra.vacation_choice.location> "Paris" .
+<Metropolitan_France> <location.location.contains> "Poitou-Charentes" .
+<Paris> <travel.travel_destination.tourist_attractions> "Bois de Boulogne" .
+<US_State> <freebase.type_hints.included_types> "Statistical region" .
+<Centre-Val_de_Loire> <common.topic.notable_types> "French Region" .
+<Galerie_nationale_du_Jeu_de_Paume> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<m.0_x4zlz> <government.government_position_held.office_holder> "Michel Goudchaux" .
+<Paris,_je_t'aime> <film.film.featured_film_locations> "Paris" .
+<Paris> <travel.travel_destination.tourist_attractions> "Grande Arche" .
+<Paris> <common.topic.webpage> "m.09x6qhm" .
+<Chinese_province> <freebase.type_profile.strict_included_types> "Topic" .
+<Weblink> <rdf-schema#domain> "Topic" .
+<Courrier_International> <book.newspaper.circulation_areas> "Paris" .
+<Disneyland_Park> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Franche-Comté> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Human_Language> <freebase.type_profile.strict_included_types> "Topic" .
+<Third_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<m.0773z56> <base.arthist.provenienciaadat.intezmeny> "Notre Dame de Paris" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h271z1" .
+<Location> <type.type.properties> "Land area" .
+<The_World_at_Night> <book.written_work.subjects> "Paris" .
+<France> <base.aareas.schema.administrative_area.administrative_parent> "Earth" .
+<Limousin> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Paris_in_the_fifties> <book.written_work.subjects> "Europe" .
+<Paris> <film.film_location.featured_in_films> "g.11x7vpp96" .
+<m.0h2723g> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<Paris> <travel.travel_destination.tourist_attractions> "Panthéon" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.08t7vwq" .
+<Location> <freebase.domain_profile.users> "pdeisenberg" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Rohan" .
+<Paris> <film.film_location.featured_in_films> "Paris, je t'aime" .
+<The_Lovers_on_the_Bridge> <media_common.netflix_title.netflix_genres> "French" .
+<Subjects> <type.property.reverse_property> "Subject of" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Abstract" .
+<C'était_un_rendez-vous> <film.film.country> "France" .
+<Founding_Figure> <freebase.type_profile.published> "Published" .
+<A_Moveable_Feast> <book.written_work.subjects> "France" .
+<Paris> <location.location.containedby> "Île-de-France" .
+<Location> <freebase.domain_profile.category> "Time & Space" .
+<Paris> <common.topic.webpage> "m.09xjf7d" .
+<Notable_types> <rdf-schema#domain> "Topic" .
+<m.064sxlp> <base.popstra.vacation_choice.location> "Paris" .
+<Paris> <book.book_subject.works> "Jefferson abroad" .
+<The_House_at_Rueil> <visual_art.artwork.art_subject> "Paris" .
+<Picardy> <location.location.containedby> "France" .
+<France> <government.governmental_jurisdiction.governing_officials> "m.0101d7qc" .
+<L'Aurore> <book.newspaper.circulation_areas> "Paris" .
+<Olympic_venue> <freebase.type_profile.kind> "Significant" .
+<Location> <freebase.domain_profile.featured_views> "Malaysian division" .
+<m.0wg9fhq> <location.partial_containment_relationship.partially_contains> "Seine" .
+<Paris> <film.film_location.featured_in_films> "Calm At Sea" .
+<Paris> <travel.travel_destination.tourist_attractions> "Galerie nationale du Jeu de Paume" .
+<Paris> <film.film_location.featured_in_films> "Inside Paris" .
+<France> <location.country.first_level_divisions> "Île-de-France" .
+<Quartier_Pigalle> <location.neighborhood.neighborhood_of> "Paris" .
+<Contained_by> <type.property.master_property> "Contains" .
+<m.065pc5k> <base.popstra.vacation_choice.location> "Paris" .
+<France> <location.location.partially_containedby> "Western Europe" .
+<Paris> <travel.travel_destination.tourist_attractions> "Folies Bergère" .
+<Paris> <base.popstra.company.shopping_choice> "m.064tldq" .
+<Location> <freebase.domain_profile.users> "cdlp1704" .
+<Alsace> <common.topic.notable_types> "French Region" .
+<Eiffel_Tower> <location.location.containedby> "Europe" .
+<m.065pbnv> <base.popstra.vacation_choice.location> "Paris" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Paris> <common.topic.webpage> "m.09ytkxf" .
+<Argentine_province> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<Paris> <location.location.containedby> "Seine" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Amélie> <film.film.country> "France" .
+<Down_and_Out_in_Paris_and_London> <book.written_work.subjects> "Paris" .
+<m.09ywvh0> <common.webpage.topic> "Country" .
+<Seine> <location.location.partially_containedby> "Paris" .
+<Corsica> <base.aareas.schema.administrative_area.administrative_area_type> "French region" .
+<Maigret_and_the_Headless_Corpse> <book.written_work.subjects> "Paris" .
+<Paris> <common.topic.webpage> "m.09xzds1" .
+<Social_media_presence> <rdf-schema#domain> "Topic" .
+<A_French_Affair:_The_Paris_Beat,_1965-1998> <book.written_work.subjects> "Paris" .
+<m.065pcdz> <base.popstra.vacation_choice.location> "Paris" .
+<Champagne-Ardenne> <location.administrative_division.country> "France" .
+<Contains> <type.property.expected_type> "Location" .
+<Paris> <book.book_subject.works> "Quiet Corners of Paris" .
+<Official_Language> <type.property.schema> "Country" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Location" .
+<US_County> <freebase.type_hints.included_types> "Dated location" .
+<Paris> <book.book_subject.works> "Maigret in Exile" .
+<Burgundy> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Paris> <travel.travel_destination.tourist_attractions> "Jardin du Luxembourg" .
+<m.064d8qn> <base.popstra.vacation_choice.location> "Paris" .
+<m.064cch4> <base.popstra.vacation_choice.location> "Paris" .
+<Metropolitan_France> <location.location.contains> "Limousin" .
+<Île-de-France> <location.administrative_division.country> "France" .
+<The_Counsel> <film.film.language> "French" .
+<Serval-Agency> <freebase.valuenotation.is_reviewed> "Official website" .
+<Louis-Eugène_Cavaignac> <common.topic.article> "m.01dsxx" .
+<ISO_Alpha_2> <type.property.enumeration> "iso 3166-1 alpha-2 namespace" .
+<Location> <freebase.domain_profile.users> "sharaf_al_islam" .
+<Canadian_Province> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<Nord-Pas-de-Calais> <location.location.containedby> "Metropolitan France" .
+<Paris,_je_t'aime> <film.film.language> "French" .
+<Petit_Palais> <location.location.containedby> "Paris" .
+<Paris> <government.governmental_jurisdiction.governing_officials> "m.0h2724l" .
+<Franche-Comté> <location.location.time_zones> "Central European Time Zone" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<The_Autobiography_of_Alice_B._Toklas> <book.written_work.subjects> "France" .
+<Country> <fictional_universe.type_of_fictional_setting.settings> "Kingdom of Rhovanion" .
+<Paris> <travel.travel_destination.climate> "m.051qv9h" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<Juden_auf_Wanderschaft> <book.written_work.subjects> "Paris" .
+<South_Korean_province> <freebase.type_profile.strict_included_types> "Topic" .
+<m.0101d7qc> <freebase.valuenotation.is_reviewed> "Jurisdiction of office" .
+<Breathless> <film.film.language> "French" .
+<Administrative_Division> <freebase.type_hints.included_types> "Location" .
+<m.063dq2q> <base.popstra.shopping_choice.company> "Paris" .
+<Paris> <book.book_subject.works> "Paris Buildings and Monuments: An Illustrated Guide with over 850 Drawings and Neighborhood Maps" .
+<Location> <freebase.domain_profile.featured_views> "m.063m12d" .
+<Orly_Air_Base> <aviation.airport.serves> "Paris" .
+<Paris> <base.popstra.location.vacationers> "m.065pb8y" .
+<Paris> <book.book_subject.works> "The Alternative Detective" .
+<Passy> <location.location.containedby> "Paris" .
+<Calling_Code> <rdf-schema#range> "Integer" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Yamakasi> <film.film.featured_film_locations> "Paris" .
+<Paris> <film.film_location.featured_in_films> "Le Plumard en Folie" .
+<Official_Language> <rdf-schema#domain> "Country" .
+<Location> <freebase.domain_profile.users> "penumbra2000" .
+<Contained_by> <rdf-schema#range> "Location" .
+<Ariste_Jacques_Trouvé-Chauvel> <common.topic.notable_types> "Politician" .
+<Paris> <location.statistical_region.population> "m.06zxzwk" .
+<From_Paris_with_Love> <film.film.subjects> "Paris" .
+<Fourth_level_division_of> <type.property.master_property> "Fourth level divisions" .
+<Paris> <location.statistical_region.population> "g.11bcdj2yf_" .
+<Louis-Eugène_Cavaignac> <people.person.education> "m.02wpvt8" .
+<Brazilian_state> <freebase.type_profile.kind> "Significant" .
+<Paris> <location.statistical_region.population> "m.06zxzzg" .
+<France> <freebase.valuenotation.is_reviewed> "Official website" .
+<Location> <freebase.domain_profile.users> "yandeara" .
+<Third_level_division_of> <type.property.master_property> "Third level divisions" .
+<Country> <common.topic.notable_for> "g.12551783b" .
+<Gastritis> <medicine.disease.risk_factors> "Male" .
+<Location> <freebase.domain_profile.users> "litianlei" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<Louis-Eugène_Cavaignac> <people.deceased_person.place_of_death> "Flée, Sarthe" .
+<Intimate_Strangers> <film.film.country> "France" .
+<Paris> <book.book_subject.works> "The Beat Hotel" .
+<Country> <type.property.reverse_property> "Administrative Divisions" .
+<Avenue_Montaigne> <media_common.netflix_title.netflix_genres> "France" .
+<Paris_Street;_Rainy_Day> <visual_art.artwork.art_subject> "Paris" .
+<National_anthem> <rdf-schema#range> "National anthem of a country" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<Paris> <organization.organization_scope.organizations_with_this_scope> "Mozilla Corporation" .
+<Paris_Journal,_1944-1965> <book.written_work.subjects> "Paris" .
+<m.0101d7qc> <freebase.valuenotation.has_no_value> "District represented (if position is district-related)" .
+<Location> <type.type.properties> "Geometry" .
+<Location> <freebase.domain_profile.users> "gamerate" .
+<m.065pbm9> <base.popstra.vacation_choice.location> "Paris" .
+<Verdon_Gorge> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<m.09ygb1c> <common.webpage.topic> "Paris" .
+<m.0101d7qc> <freebase.valuenotation.is_reviewed> "Appointed By (if Position is Appointed)" .
+<Aquitaine> <location.administrative_division.country> "France" .
+<Champagne-Ardenne> <common.topic.notable_types> "French Region" .
+<Paris> <base.popstra.location.vacationers> "m.065pcx5" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Le Père Duchesne" .
+<Second_level_divisions> <owl#inverseOf> "Second level division of" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<The_Alternative_Detective> <book.written_work.subjects> "France" .
+<Château_de_Chambord> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "16th arrondissement" .
+<m.0h271yt> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<m.064tldq> <base.popstra.shopping_choice.company> "Paris" .
+<Paris> <location.administrative_division.country> "France" .
+<Seborrheic_dermatitis> <medicine.disease.risk_factors> "Male" .
+<Louis-Eugène_Cavaignac> <common.topic.notable_for> "g.1258dzv2l" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<Location> <freebase.domain_profile.featured_views> "US Metropolitan Division" .
+<Australian_State> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Location> <freebase.domain_profile.expert_group> "Location Experts" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<Paris> <book.book_subject.works> "Leaving Home" .
+<Chinese_province> <freebase.type_profile.kind> "Definition" .
+<France> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Le_Moniteur_Universel> <book.periodical.language> "French" .
+<Midnight_in_Paris> <film.film.featured_film_locations> "Paris" .
+<Leaving_Home> <book.written_work.subjects> "Paris" .
+<Subjects> <rdf-schema#domain> "Topic" .
+<Continent> <freebase.type_profile.kind> "Significant" .
+<Vive_Targi_Kielce> <sports.sports_team.gender> "Male" .
+<Significant> <freebase.type_kind.types> "Indian state" .
+<m.065pctx> <base.popstra.vacation_choice.location> "Paris" .
+<Official_Language> <type.property.expected_type> "Human Language" .
+<Metropolitan_France> <location.location.contains> "Corsica" .
+<First_level_divisions> <type.property.reverse_property> "First level division of" .
+<m.09w3b_h> <common.webpage.topic> "Paris" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "France-Soir" .
+<Hair_loss> <medicine.risk_factor.diseases> "Stroke" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Dated location" .
+<m.09xjw8s> <common.webpage.topic> "Paris" .
+<m.0101d7qc> <freebase.valuenotation.is_reviewed> "Basic title" .
+<Calling_Code> <rdf-schema#domain> "Country" .
+<Report_from_a_Parisian_Paradise> <book.written_work.subjects> "Paris" .
+<Paris> <location.statistical_region.population> "g.1jmcbj0fg" .
+<US_President> <freebase.type_profile.kind> "Significant" .
+<Location> <freebase.domain_profile.users> "markce" .
+<Since_Otar_Left> <film.film.country> "France" .
+<Location> <freebase.domain_profile.users> "borkzorkorc" .
+<Argentine_province> <freebase.type_profile.strict_included_types> "Topic" .
+<Administrative_Division> <type.type.expected_by> "Third level divisions" .
+<m.0h271z1> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<Nord-Pas-de-Calais> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Third_level_divisions> <owl#inverseOf> "Third level division of" .
+<Paris> <common.topic.webpage> "m.0b46zg0" .
+<Location> <type.type.properties> "Partially contained by" .
+<Languedoc-Roussillon> <location.administrative_division.country> "France" .
+<Politician> <freebase.type_profile.strict_included_types> "Animate" .
+<Paris> <base.popstra.location.vacationers> "m.065pbm9" .
+<Australian_State> <freebase.type_hints.included_types> "Topic" .
+<Brittany> <location.administrative_division.first_level_division_of> "France" .
+<France> <location.country.first_level_divisions> "Burgundy" .
+<Paris_in_the_fifties> <book.written_work.subjects> "France" .
+<ISO_Alpha_3> <type.property.enumeration> "iso 3166-1 alpha-3 namespace" .
+<Montparnasse> <location.location.containedby> "Paris" .
+<Location> <freebase.domain_profile.featured_views> "Queensland suburbs" .
+<Statistical_region> <type.type.expected_by> "Imported from" .
+<m.09wy4fd> <common.webpage.topic> "Paris" .
+<Paris> <location.location.time_zones> "Central European Time Zone" .
+<La_Vie_Sexuelle_De_Catherine_M.> <book.written_work.subjects> "Paris" .
+<Paris> <common.topic.webpage> "m.09y2s79" .
+<Paris> <common.topic.webpage> "m.09xg68q" .
+<Paris> <location.statistical_region.population> "m.06zxzxf" .
+<Sicko> <film.film.language> "French" .
+<Rowdy_in_Paris> <book.written_work.subjects> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<Mexican_state> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<GDP_(nominal_per_capita)> <rdf-schema#range> "Dated Money Value" .
+<Brittany> <location.location.containedby> "France" .
+<Politician> <type.type.expected_by> "Sponsor" .
+<m.064tz2f> <base.popstra.vacation_choice.location> "Paris" .
+<Paris> <fictional_universe.fictional_setting.fictional_characters_born_here> "Glass Joe" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "2nd arrondissement" .
+<Paris> <common.topic.webpage> "m.0b6rr6q" .
+<Paris> <common.topic.image> "Paris" .
+<Location> <freebase.domain_profile.featured_views> "Metropolitan and Micropolitan Statistical Areas" .
+<Significant> <freebase.type_kind.types> "Australian State" .
+<Paris> <location.statistical_region.population> "m.06zxzz6" .
+<Deity> <freebase.type_profile.strict_included_types> "Topic" .
+<German_state> <freebase.type_profile.kind> "Definition" .
+<Petit-Montrouge> <location.location.containedby> "Paris" .
+<m.02k8dbw> <common.webpage.topic> "Paris" .
+<Paris> <book.book_subject.works> "Paris to the Moon" .
+<Calling_Code> <type.property.schema> "Country" .
+<Risk_Factor> <freebase.type_hints.included_types> "Topic" .
+<The_Louvre> <film.film_location.featured_in_films> "Band of Outsiders" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<7th_arrondissement> <location.location.contains> "Les Invalides" .
+<Paris,_je_t'aime> <film.film.country> "France" .
+<Americans_in_Paris> <book.written_work.subjects> "France" .
+<Paris> <common.topic.webpage> "m.051qt2p" .
+<Paris> <film.film_location.featured_in_films> "8th Wonderland" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "Al-Hayat" .
+<The_Sucker> <film.film.language> "French" .
+<Paris> <film.film_location.featured_in_films> "The Counsel" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<Paris> <book.written_work.subjects> "Paris" .
+<m.0h271y0> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<m.0b47wzs> <common.webpage.topic> "Paris" .
+<Founding_Figure> <freebase.type_profile.kind> "Title" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Brazilian_state> <freebase.type_hints.included_types> "Statistical region" .
+<Disneyland_Paris> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Dated_location> <common.topic.article> "m.035s45c" .
+<ISO_Numeric> <type.property.schema> "Country" .
+<Countries_Used> <type.property.reverse_property> "Currency Used" .
+<Dated_location> <type.type.properties> "Date founded" .
+<Paris> <common.topic.webpage> "m.0b47wgq" .
+<Gare_d'Orsay> <location.location.containedby> "Paris" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<Capital> <rdf-schema#domain> "Country" .
+<Vietnamese_province> <freebase.type_hints.included_types> "Statistical region" .
+<Inanimate> <type.type.domain> "Type Ontology" .
+<German_state> <freebase.type_hints.included_types> "Statistical region" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "18th arrondissement" .
+<FIFA_Code> <type.property.enumeration> "fifa namespace" .
+<m.065pcx5> <base.popstra.vacation_choice.location> "Paris" .
+<Location> <freebase.domain_profile.category> "General" .
+<Form_of_Government> <type.property.reverse_property> "Countries" .
+<ISO_Alpha_3> <type.property.schema> "Country" .
+<Country> <type.type.properties> "ISO Numeric" .
+<USBG_name> <rdf-schema#domain> "Location" .
+<Politician> <type.type.expected_by> "Politician" .
+<Paris> <common.topic.image> "paris" .
+<m.064swv_> <base.popstra.vacation_choice.location> "Paris" .
+<m.0h271y7> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<Paris> <base.popstra.company.shopping_choice> "m.0650hwn" .
+<Paris> <base.arthist.helynevek.intezmeny> "Notre Dame de Paris" .
+<m.0wg9fjk> <location.partial_containment_relationship.partially_contains> "Tour Triangle" .
+<Adventures_by_Disney> <travel.tour_operator.travel_destinations> "Paris" .
+<ISO_Numeric> <rdf-schema#domain> "Country" .
+<Provence-Alpes-Côte_d'Azur> <common.topic.notable_types> "French Region" .
+<Males> <base.skosbase.skos_concept.equivalent_topic> "Male" .
+<Midi-Pyrénées> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Paris> <location.statistical_region.population> "m.03n8npk" .
+<Paris> <common.topic.webpage> "m.0b45z9r" .
+<Paris> <book.book_subject.works> "Walks Through Lost Paris" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Languedoc-Roussillon" .
+<m.0773z56> <base.arthist.provenienciaadat.helynev> "Paris" .
+<Paris> <book.book_subject.works> "The Elegance of the Hedgehog" .
+<Languedoc-Roussillon> <common.topic.notable_types> "French Region" .
+<Paris> <symbols.namesake.named_after> "Parisii" .
+<Politician> <type.type.expected_by> "Resulting head of government" .
+<1travel.gr> <common.topic.subject_of> "Paris" .
+<GDP_(nominal_per_capita)> <type.property.expected_type> "Dated Money Value" .
+<Paris> <book.book_subject.works> "The voice in the closet" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Paris> <location.statistical_region.population> "m.06zxztv" .
+<US_State> <freebase.type_profile.kind> "Definition" .
+<Location> <freebase.domain_profile.users> "a_olympia" .
+<m.07ndpsh> <base.ontologies.ontology_instance_mapping.freebase_topic> "Country" .
+<Location> <freebase.domain_profile.featured_views> "Neighborhood" .
+<m.09w2fsh> <common.webpage.topic> "Paris" .
+<m.051qv5k> <travel.travel_destination_monthly_climate.travel_destination> "Paris" .
+<m.051qtw8> <travel.transportation.transport_terminus> "Charles de Gaulle Airport" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<Country> <type.type.properties> "FIPS Code" .
+<Paris> <travel.travel_destination.tourist_attractions> "The Louvre" .
+<Paris> <visual_art.art_subject.art_series_on_the_subject> "Outskirts of Paris" .
+<Thrones,_Dominations> <book.written_work.subjects> "Paris" .
+<German_state> <freebase.type_hints.included_types> "Administrative Division" .
+<Paris> <book.book_subject.works> "Report from a Parisian Paradise" .
+<Paris> <base.popstra.location.vacationers> "m.064tz2f" .
+<Location> <freebase.domain_profile.users> "rdhyee" .
+<Le_Monde> <book.newspaper.circulation_areas> "Paris" .
+<m.09x2tfc> <common.webpage.topic> "Paris" .
+<m.0101d7qc> <government.government_position_held.office_holder> "Ariste Jacques Trouvé-Chauvel" .
+<Second_level_division_of> <type.property.schema> "Administrative Division" .
+<Paris_Orly_Airport> <aviation.airport.serves> "Paris" .
+<Paris> <book.book_subject.works> "Paris was yesterday" .
+<Brittany> <base.aareas.schema.administrative_area.administrative_area_type> "French region" .
+<Paris> <base.popstra.location.vacationers> "m.065pc6k" .
+<Overseas_France> <base.aareas.schema.administrative_area.subdivides_place> "France" .
+<US_County> <freebase.type_hints.included_types> "Statistical region" .
+<Country> <type.type.properties> "National anthem" .
+<Religious_Leader> <freebase.type_profile.kind> "Title" .
+<m.09xknyv> <common.webpage.topic> "Paris" .
+<Low_Profile> <film.film.featured_film_locations> "Paris" .
+<Benign_prostatic_hyperplasia> <medicine.disease.risk_factors> "Male" .
+<m.064svjk> <base.popstra.vacation_choice.location> "Paris" .
+<Read_my_Lips> <media_common.netflix_title.netflix_genres> "France" .
+<La_Jetée> <film.film.subjects> "Paris" .
+<Eiffel_Tower> <location.location.time_zones> "Central European Time Zone" .
+<inside> <rdf-schema#domain> "Location" .
+<Paris_to_the_Moon> <book.written_work.subjects> "France" .
+<Maigret_and_the_Calame_report> <book.written_work.subjects> "Paris" .
+<Beauvais–Tillé_Airport> <aviation.airport.serves> "Paris" .
+<14th_arrondissement_of_Paris> <location.neighborhood.neighborhood_of> "Paris" .
+<1st_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Paris> <base.popstra.location.vacationers> "m.064swv_" .
+<Paris> <location.statistical_region.population> "m.06zxzwy" .
+<Paris> <travel.travel_destination.tourist_attractions> "Petit Palais" .
+<Sarthe> <location.location.containedby> "France" .
+<Country> <freebase.type_profile.equivalent_topic> "Country" .
+<Location> <freebase.domain_profile.announcements> "m.0kjj45" .
+<Pays_de_la_Loire> <base.aareas.schema.administrative_area.administrative_children> "Sarthe" .
+<École_Polytechnique> <education.educational_institution_campus.educational_institution> "École Polytechnique" .
+<m.0h2726d> <government.government_position_held.jurisdiction_of_office> "Paris" .
+<Earth> <base.locations.planets.countries_within> "France" .
+<Mexican_state> <freebase.type_hints.included_types> "Statistical region" .
+<Founding_Figure> <freebase.type_profile.strict_included_types> "Topic" .
+<The_Last_Time_I_Saw_Paris> <book.written_work.subjects> "Paris" .
+<Paris> <book.book_subject.works> "Paris in the fifties" .
+<Paris> <common.topic.webpage> "m.09w4c5p" .
+<South_Korean_province> <freebase.type_profile.kind> "Significant" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<From_Paris_with_Love> <film.film.language> "French" .
+<Spoken_in_countries> <rdf-schema#domain> "Human Language" .
+<Australian_State> <freebase.type_profile.kind> "Definition" .
+<Paris> <book.book_subject.works> "Being geniuses together, 1920-1930" .
+<Paris> <common.topic.webpage> "m.09w2fsh" .
+<Paris> <common.topic.webpage> "m.09y6z35" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Franche-Comté" .
+<Jefferson_abroad> <book.written_work.subjects> "Europe" .
+<Passy> <location.location.containedby> "France" .
+<m.065pbjn> <base.popstra.vacation_choice.location> "Paris" .
+<Paris> <book.book_subject.works> "Madeline and the Gypsies" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "17th arrondissement" .
+<Grande_Arche> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<Location> <freebase.domain_profile.users> "freebass" .
+<Paris> <location.statistical_region.population> "m.06zxzzl" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Provence-Alpes-Côte d'Azur" .
+<Paris> <travel.travel_destination.how_to_get_here> "m.051qt_5" .
+<Location> <freebase.domain_profile.users> "sunzu" .
+<Paris> <book.book_subject.works> "Into a Paris Quartier" .
+<Location> <freebase.domain_profile.featured_topic> "Nairobi" .
+<Serval-Agency> <freebase.valuenotation.has_no_value> "Also known as" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<Paris> <travel.travel_destination.tourist_attractions> "La Maison Rouge" .
+<16th_arrondissement> <location.neighborhood.neighborhood_of> "Paris" .
+<Poitou-Charentes> <location.location.time_zones> "Central European Time Zone" .
+<m.09xzds1> <common.webpage.topic> "Paris" .
+<Paris> <base.popstra.location.vacationers> "m.065pc0t" .
+<Corsica> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Mexican_state> <freebase.type_hints.included_types> "Topic" .
+<Country> <media_common.quotation_subject.quotations_about_this_subject> "The greatness of a nation can be judged by the way its animals are treated." .
+<French_region> <base.aareas.schema.administrative_area_type.iso_country> "France" .
+<Spoken_in_countries> <rdf-schema#range> "Country" .
+<First_level_division_of> <type.property.schema> "Administrative Division" .
+<Picardy> <location.administrative_division.first_level_division_of> "France" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<Partially_contains> <rdf-schema#domain> "Location" .
+<Glass_Joe> <fictional_universe.fictional_character.gender> "Male" .
+<Paris> <travel.travel_destination.tourist_attractions> "Disneyland Paris" .
+<m.09y2s79> <common.webpage.topic> "Paris" .
+<Syphilis> <medicine.disease.risk_factors> "Male" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<Ranke> <fictional_universe.fictional_setting.setting_type> "Country" .
+<Paris> <film.film_location.featured_in_films> "Ronin" .
+<Paris> <location.location.partially_contains> "Seine" .
+<Adjoins> <type.property.schema> "Location" .
+<Musée_des_Arts_et_Métiers> <travel.tourist_attraction.near_travel_destination> "Paris" .
+<The_Dinner_Game> <media_common.netflix_title.netflix_genres> "French" .
+<Paris> <common.topic.webpage> "m.0b46q2z" .
+<Paris> <film.film_location.featured_in_films> "C'était un rendez-vous" .
+<Second_level_division_of> <rdf-schema#range> "Country" .
+<Hôtel_Ritz_Paris> <location.location.containedby> "Paris" .
+<Country> <type.property.reverse_property> "National anthem" .
+<Location> <freebase.domain_profile.users> "potencial" .
+<Paris> <periodicals.newspaper_circulation_area.newspapers> "La Croix" .
+<Contains_major_portion_of> <type.property.expected_type> "Location" .
+<Paris> <book.book_subject.works> "Down and Out in Paris and London" .
+<The_Terrible_Year> <book.written_work.subjects> "France" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<20th_arrondissement> <location.location.containedby> "France" .
+<Paris> <location.statistical_region.population> "m.06zxzz2" .
+<Currency_Used> <type.property.expected_type> "Currency" .
+<Metropolitan_France> <location.location.contains> "Picardy" .
+<Le_Plumard_en_Folie> <film.film.language> "French" .
+<Paris> <location.statistical_region.population> "m.06zxzxk" .
+<Country> <type.type.properties> "ISO Short Name" .
+<La_Jetée> <film.film.featured_film_locations> "Paris Orly Airport" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<Paris> <book.book_subject.works> "Rowdy in Paris" .
+<Paris> <book.book_subject.works> "Paris" .
+<GEOnet_feature_ID> <type.property.expected_type> "Enumeration" .
+<Low_Profile> <film.film.country> "France" .
+<Al-Hayat> <book.newspaper.circulation_areas> "Paris" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Pays de la Loire" .
+<Paris> <location.statistical_region.population> "m.06zxzvh" .
+<m.0101d7qc> <government.government_position_held.appointed_by> "Louis-Eugène Cavaignac" .
+<m.0jvvlcg> <location.administrative_division_capital_relationship.administrative_division> "Paris" .
+<shape> <type.property.schema> "Location" .
+<m.065pb8y> <base.popstra.vacation_choice.location> "Paris" .
+<m.065pc3p> <base.popstra.vacation_choice.location> "Paris" .
+<m.012r6gwy> <base.schemastaging.plural_form.language> "Chinese (traditional)" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<m.0101zk4g> <freebase.valuenotation.has_no_value> "District represented (if position is district-related)" .
+<1924_Summer_Olympics> <time.event.locations> "Paris" .
+<Paris> <base.popstra.location.vacationers> "m.064sl_z" .
+<Languages_spoken> <type.property.schema> "Country" .
+<Paris> <location.location.adjoin_s> "m.02_wnwb" .
+<Location> <freebase.domain_profile.users> "pana" .
+<Alsace> <location.administrative_division.first_level_division_of> "France" .
+<Politician> <type.property.reverse_property> "Party" .
+<Charles_de_Gaulle_Airport> <aviation.airport.serves> "Paris" .
+<France> <location.country.first_level_divisions> "Midi-Pyrénées" .
+<Midi-Pyrénées> <location.administrative_division.first_level_division_of> "France" .
+<Politician> <type.type.expected_by> "Member" .
+<French_region> <base.aareas.schema.administrative_area_type.subdivides_place> "France" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Abstract" .
+<Significant> <freebase.type_kind.types> "Vietnamese province" .
+<m.09x4_t5> <common.webpage.topic> "Paris" .
+<The_Paris_Cookbook> <book.written_work.subjects> "France" .
+<Significant> <freebase.type_kind.types> "FBI Most Wanted Fugitive" .
+<Politician> <freebase.type_hints.included_types> "Person" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Abstract" .
+<m.065pc5r> <base.popstra.vacation_choice.location> "Paris" .
+<Le_Matin> <book.newspaper.circulation_areas> "Paris" .
+<Paris> <location.location.nearby_airports> "Paris Orly Airport" .
+<Hotel_in_Paris> <common.topic.subjects> "Paris" .
+<Paris> <travel.travel_destination.accommodation> "Hôtel Ritz Paris" .
+<Administrative_Division> <type.type.properties> "Second level division of" .
+<Location> <type.domain.owners> "Location Domain owners" .
+<Male> <common.topic.image> "male.jpg" .
+<Paris> <book.book_subject.works> "A Moveable Feast" .
+<Paris> <base.popstra.location.vacationers> "m.064smlj" .
+<Paris> <award.award_discipline.awards_in_this_discipline> "Rastko Petrović Award" .
+<France> <base.aareas.schema.administrative_area.pertinent_type> "French region" .
+<Paris> <book.book_subject.works> "Powder and Patch" .
+<16th_arrondissement> <location.location.contains> "Trocadéro" .
+<Country> <media_common.quotation_subject.quotations_about_this_subject> "It may be true that you can't fool all the people all the time, but you can fool enough of them to rule a large country." .
+<Midnight_in_Paris> <film.film.language> "French" .
+<Country> <common.topic.webpage> "m.09ywvh0" .
+<Pays_de_la_Loire> <common.topic.notable_types> "French Region" .
+<Country> <common.topic.article> "m.01lfr" .
+<9th_arrondissement_of_Paris> <location.location.containedby> "Paris" .
+<m.065pbz9> <base.popstra.vacation_choice.location> "Paris" .
+<GDP_(nominal)> <type.property.expected_type> "Dated Money Value" .
+<Upper_Normandy> <location.administrative_division.country> "France" .
+<Paris> <base.popstra.location.vacationers> "m.064sn27" .
+<Metropolitan_France> <location.location.contains> "Alsace" .
+<m.065pd5p> <base.popstra.vacation_choice.location> "Paris" .
+<The_Counsel> <film.film.country> "France" .
+<Location> <type.type.properties> "Coterminous with" .
+<Ronin> <film.film.featured_film_locations> "Paris" .
+<Paris> <base.popstra.location.vacationers> "m.064spgc" .
+<m.0b46q2z> <common.webpage.topic> "Paris" .
+<Paris> <common.topic.webpage> "m.09x4w0f" .
+<Paris> <organization.organization_scope.organizations_with_this_scope> "France Business School" .
+<Paris> <location.statistical_region.population> "m.06zxzxp" .
+<Paris> <base.popstra.location.vacationers> "m.064cch4" .
+<Paris> <base.popstra.location.vacationers> "m.064swl9" .
+<Being_geniuses_together,_1920-1930> <book.written_work.subjects> "Paris" .
+<m.0b46zg0> <common.webpage.topic> "Paris" .
+<Country> <freebase.type_profile.strict_included_types> "Location" .
+<Country> <freebase.type_hints.included_types> "Statistical region" .
+<Paris> <book.book_subject.works> "Eloise in Paris" .
+<Country> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Amélie> <media_common.netflix_title.netflix_genres> "France" .
+<Brazilian_state> <freebase.type_hints.included_types> "Topic" .
+<Metropolitan_France> <location.location.contains> "Languedoc-Roussillon" .
+<An_American_in_Paris> <film.film.featured_film_locations> "Paris" .
+<South_Korean_province> <freebase.type_hints.included_types> "Statistical region" .
+<Official_website> <type.property.schema> "Topic" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<France> <base.aareas.schema.administrative_area.administrative_children> "Île-de-France" .
+<France> <location.country.first_level_divisions> "Franche-Comté" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<Paris> <travel.travel_destination.tourist_attractions> "Les Invalides" .
+<Inside_Paris> <film.film.featured_film_locations> "Paris" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "14th arrondissement of Paris" .
+<Location> <type.type.properties> "shape" .
+<Bercy> <location.neighborhood.neighborhood_of> "Paris" .
+<South_Korean_province> <freebase.type_hints.included_types> "Location" .
+<Male> <common.topic.article> "m.05zpq8" .
+<Party> <type.property.master_property> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<m.064sn44> <base.popstra.vacation_choice.location> "Paris" .
+<Paris> <location.place_with_neighborhoods.neighborhoods> "Le Marais" .
+<First_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Brazilian_state> <freebase.type_hints.included_types> "Administrative Division" .
+<Powder_and_Patch> <book.written_work.subjects> "France" .
+<Gout> <medicine.disease_cause.diseases> "Kidney Stone" .
+<Transformers:_Revenge_of_the_Fallen> <film.film.featured_film_locations> "Paris" .
+<Albertine> <book.written_work.subjects> "France" .
+<m.02wpvt8> <education.education.institution> "École Polytechnique" .
+<Country> <common.topic.image> "Europe topography map" .
+<Maigret_and_the_wine_merchant> <book.written_work.subjects> "Paris" .
+<South_Korean_province> <freebase.type_profile.kind> "Definition" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Topic" .
+<Provence-Alpes-Côte_d'Azur> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Metropolitan_France> <base.aareas.schema.administrative_area.administrative_parent> "France" .
+<Partially_contains> <type.property.expected_type> "Location" .
+<Sarthe> <location.location.containedby> "Pays de la Loire" .
+<Agent> <type.type.domain> "Type Ontology" .
+<Paris> <film.film_location.featured_in_films> "Low Profile" .
+<m.051qtw8> <travel.transportation.transport_terminus> "Paris Orly Airport" .
+<Administrative_Division> <type.type.properties> "First level division of" .
+<21_Lutetia> <symbols.namesake.named_after> "Paris" .
+<First_level_divisions> <type.property.schema> "Country" .
+<Vélib'> <organization.organization.place_founded> "Paris" .
+<Picardy> <location.location.time_zones> "Central European Time Zone" .
+<Country> <type.type.properties> "Currency Used" .
+<Politician> <freebase.type_profile.published> "Published" .
+<Me_Talk_Pretty_One_Day> <book.written_work.subjects> "France" .
+<France> <government.governmental_jurisdiction.government_bodies> "National Assembly" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<Paris> <book.book_subject.works> "Madeline and the Bad Hat" .
+<Continent> <freebase.type_profile.strict_included_types> "Topic" .

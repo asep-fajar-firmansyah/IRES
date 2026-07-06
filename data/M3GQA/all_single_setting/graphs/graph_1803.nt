@@ -1,0 +1,1344 @@
+<m.0wkhz3g> <education.education.institution> "University of Duisburg" .
+<German_state> <freebase.type_hints.included_types> "Administrative Area" .
+<San_Luca_feud> <common.topic.notable_for> "g.1256k4jf6" .
+<San_Luca_feud> <base.culturalevent.event.entity_involved> "'Ndrangheta" .
+<Administrative_Area> <freebase.type_hints.included_types> "Location" .
+<1999_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Tourist_attraction> <freebase.type_hints.included_types> "Topic" .
+<1990_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<North_Rhine-Westphalia> <base.biblioness.bibs_location.country> "Germany" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 1970" .
+<1985_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "g.121gpgcn" .
+<1983_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Venue> <freebase.type_hints.included_types> "Topic" .
+<German_district> <freebase.type_hints.included_types> "Location" .
+<German_state> <type.type.domain> "Location" .
+<German_urban_district> <base.uncommon.topic.exceptions> "German urban district is not suited to be the administrative division type for German Urban District." .
+<Essen> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<1987_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1980 Duisburger Filmwoche" .
+<1983_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1979 Duisburger Filmwoche" .
+<2009_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<1977_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Event> <freebase.type_hints.included_types> "Topic" .
+<2003_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Krefeld> <location.location.events> "Battle of Krefeld" .
+<North_Rhine-Westphalia> <location.statistical_region.population> "m.09tf7c8" .
+<1985_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2011 Duisburger Filmwoche" .
+<Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <film.film_festival.location> "Mülheim" .
+<Solingen> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<1995_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<1977_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<University_of_Duisburg-Essen> <education.educational_institution.students_graduates> "m.0byl4g8" .
+<German_urban_district> <base.uncommon.topic.exceptions> "Hinwil should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Canton of Zürich." .
+<German_government_district> <base.aareas.schema.administrative_area_type.administrative_division_type> "German regierungsbezirk" .
+<2006_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67d67nw" .
+<Kleve_(district)> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<Weeze> <location.location.containedby> "Germany" .
+<Steinbruch> <common.topic.notable_types> "Venue" .
+<Bombing_of_Duisburg_in_World_War_II> <base.culturalevent.event.entity_involved> "Nazi Germany" .
+<University_of_Duisburg> <organization.organization.headquarters> "m.0jvkmql" .
+<Meerbusch> <location.location.containedby> "Germany" .
+<German_borough> <base.aareas.schema.administrative_area_type.pertains_to> "Germany" .
+<German_city> <type.type.expected_by> "District seat" .
+<German_urban_district> <base.aareas.schema.administrative_area_type.iso_country> "Germany" .
+<1977_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1983 Duisburger Filmwoche" .
+<1994_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67pkwgr" .
+<2006_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Weeze_Airport> <aviation.airport.serves> "Nijmegen" .
+<Nijmegen> <location.location.nearby_airports> "Weeze Airport" .
+<Germany> <base.uncommon.topic.exceptions> "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District." .
+<Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <film.film_festival.location> "Cologne" .
+<1989_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Düsseldorf> <location.location.containedby> "North Rhine-Westphalia" .
+<1982_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<2004_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<1983_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Duisburg_Inner_Harbour> <common.topic.notable_types> "Tourist attraction" .
+<Düsseldorf> <location.location.contains> "Solingen" .
+<Duisburg> <location.location.contains> "University of Duisburg-Essen" .
+<Operation_Hurricane> <time.event.locations> "Cologne" .
+<North_Rhine-Westphalia> <location.administrative_division.first_level_division_of> "Germany" .
+<1977_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<1986_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<University_of_Duisburg-Essen> <common.topic.notable_for> "g.125dcb09j" .
+<North_Rhine-Westphalia> <location.statistical_region.population> "m.09tbfx9" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2000 Duisburger Filmwoche" .
+<Düsseldorf> <location.location.contains> "University of Wuppertal, Haspel" .
+<Multi-event_tournament> <freebase.type_hints.included_types> "Event" .
+<1983_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Ruhr> <location.location.contains> "Essen" .
+<Operation_Plunder> <common.topic.notable_types> "Military Conflict" .
+<German_government_district> <freebase.type_hints.included_types> "Location" .
+<German_city> <type.type.properties> "Boroughs" .
+<Düsseldorf> <location.location.contains> "Krefeld" .
+<1982_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Bochum> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<1978_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67p46_0" .
+<William_Finnemann> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Duisburg_Inner_Harbour> <common.topic.notable_for> "g.1yljtfj3d" .
+<MSV-Arena> <common.topic.notable_for> "g.125626hyz" .
+<University_of_Düsseldorf> <education.educational_institution_campus.educational_institution> "University of Düsseldorf" .
+<m.0jvvkrz> <location.administrative_division_capital_relationship.capital> "Düsseldorf" .
+<1996–97_Bundesliga> <common.topic.article> "m.04f659k" .
+<North_Rhine-Westphalia> <location.statistical_region.population> "m.09tbfxh" .
+<Muenster> <location.location.events> "2013 Köln Stranger Than Fiction Documentary Film Festival" .
+<Krefeld> <location.location.containedby> "Germany" .
+<2003_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<1996_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<Administrative_Area> <type.type.domain> "Administrative Areas" .
+<1984_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<University_of_Duisburg> <common.topic.webpage> "m.0cx88nn" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1992 Duisburger Filmwoche" .
+<m.0h76rwd> <organization.leadership.organization> "University of Duisburg-Essen" .
+<1983_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Duisburg> <location.location.events> "1988 Duisburger Filmwoche" .
+<1994_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<German_district> <base.aareas.schema.administrative_area_type.pertains_to> "Germany" .
+<Opening_date> <rdf-schema#domain> "Film festival event" .
+<North_Rhine-Westphalia> <location.statistical_region.population> "m.0vs52m3" .
+<1988_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Düsseldorf> <location.location.contains> "Mönchengladbach" .
+<Duisburg's_inner_harbour.> <common.image.appears_in_topic_gallery> "Duisburg" .
+<1993_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<MSV_Duisburg> <sports.sports_team.venue> "m.0wz2vks" .
+<Meerbusch> <base.aareas.schema.administrative_area.administrative_parent> "Rhein-Kreis Neuss" .
+<Duisburg> <common.topic.image> "Duisburg's inner harbour." .
+<1977_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<1992_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<2002_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<World_Games_2005> <sports.multi_event_tournament.competitions> "Nine-ball at the World Games 2005 – men's singles" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_parent> "North Rhine-Westphalia" .
+<1992_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Duisburg> <location.location.events> "1998 Duisburger Filmwoche" .
+<1999_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<2005_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<2002_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<2000_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Sports_Facility> <freebase.type_hints.included_types> "Topic" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1985 Duisburger Filmwoche" .
+<Duisburg> <location.location.events> "1994 Duisburger Filmwoche" .
+<1993_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<Düsseldorf> <location.statistical_region.population> "m.0bw7v6l" .
+<Operation_Hurricane> <time.event.included_in_event> "Strategic bombing during World War II" .
+<German_urban_district> <base.uncommon.topic.exceptions> "Schüpfheim should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Switzerland." .
+<German_city> <freebase.type_profile.kind> "Definition" .
+<University_of_Duisburg-Essen> <location.location.geolocation> "m.0wm_lfx" .
+<University_of_Duisburg-Essen> <organization.organization.leadership> "m.0h76rwd" .
+<University_of_Duisburg-Essen> <education.educational_institution.students_graduates> "m.0gz492y" .
+<1985_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<1991_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Sascha_Nedelko_Bem> <people.person.nationality> "Germany" .
+<1981_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<German_state> <freebase.type_hints.included_types> "Topic" .
+<1978_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1988 Duisburger Filmwoche" .
+<Germany> <base.aareas.schema.administrative_area.pertinent_type> "German city" .
+<Strategic_bombing_during_World_War_II> <time.event.includes_event> "Operation Hurricane" .
+<Remscheid> <location.location.containedby> "Düsseldorf" .
+<2003_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67pcdmc" .
+<m.0n1k95d> <education.education.institution> "University of Duisburg-Essen" .
+<Düsseldorf> <location.location.contains> "University of Düsseldorf" .
+<North_Rhine-Westphalia> <location.statistical_region.population> "m.0h5wc09" .
+<1977_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Weeze_Airport> <aviation.airport.operator> "Flughafen Niederrhein GmbH" .
+<Weeze_Airport> <aviation.airport.serves> "Weeze" .
+<German_urban_district> <base.uncommon.topic.exceptions> "Altdorf should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Canton of Uri." .
+<1996_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67gx3fl" .
+<North_Rhine-Westphalia> <location.location.events> "Battle of Krefeld" .
+<Essen> <common.topic.notable_types> "German city" .
+<1984_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67cy8df" .
+<Ute_Wessel> <people.person.nationality> "Germany" .
+<m.03lgm1l> <common.webpage.category> "Official Website" .
+<Closing_date> <rdf-schema#domain> "Film festival event" .
+<2008_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<2013_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<1978_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<Cologne> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<University_of_Duisburg-Essen> <base.jewlib.parent_institution.judaica_owning_units> "Salomon Ludwig Steinheim Institute of German-Jewish Studies" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Mülheim" .
+<Rhein-Kreis_Neuss> <location.location.containedby> "Düsseldorf" .
+<Duisburg> <location.location.events> "2014 Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1997 Duisburger Filmwoche" .
+<Remscheid> <location.location.containedby> "Germany" .
+<Duisburg> <location.location.events> "Bombing of Duisburg in World War II" .
+<1994_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Ruhr> <location.location.contains> "Gerhard Mercator University" .
+<Düsseldorf> <location.statistical_region.population> "m.0h5wc1x" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2005 Duisburger Filmwoche" .
+<1987_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Closing_date> <type.property.delegated> "End date" .
+<Düsseldorf> <location.statistical_region.population> "m.0gtmffn" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 1985" .
+<German_government_district> <freebase.equivalent_topic.equivalent_type> "German regierungsbezirk" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 1995" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Sascha Nedelko Bem" .
+<North_Rhine-Westphalia> <common.topic.webpage> "m.03lgm1l" .
+<1997_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2013 Duisburger Filmwoche" .
+<Weeze_Airport> <common.topic.notable_for> "g.125dhx6gn" .
+<German_city> <base.aareas.schema.administrative_area_type.subdivides_type> "German district" .
+<Duisburg> <location.location.events> "2004 Duisburger Filmwoche" .
+<2008_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<1981_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<University_of_Duisburg-Essen> <base.schemastaging.context_name.pronunciation> "m.010yv7v6" .
+<2009_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<North_Rhine-Westphalia> <location.location.adjoin_s> "m.046cw86" .
+<Weeze_Airport> <common.topic.article> "m.06cm5l" .
+<1990_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<German_urban_district> <freebase.type_hints.included_types> "German district" .
+<Rhein-Kreis_Neuss> <base.aareas.schema.administrative_area.administrative_children> "Meerbusch" .
+<Military_Conflict> <freebase.type_hints.included_types> "Topic" .
+<1990_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<2014_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Film_festival_event> <freebase.type_hints.included_types> "Topic" .
+<North_Rhine-Westphalia> <location.statistical_region.population> "m.0gtmff8" .
+<Duisburg> <location.location.containedby> "Düsseldorf" .
+<German_state> <freebase.equivalent_topic.equivalent_type> "German state" .
+<University_of_Duisburg> <education.educational_institution.students_graduates> "m.0wkhz3g" .
+<1990_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<1995_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q6799sg6" .
+<Multi-event_tournament> <freebase.type_hints.included_types> "Topic" .
+<Muenster> <common.topic.notable_types> "City/Town/Village" .
+<1988_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<Germany> <base.aareas.schema.administrative_area.administrative_children> "North Rhine-Westphalia" .
+<German_city> <base.aareas.schema.administrative_area_type.kind_of> "City/Town/Village" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1992 Duisburger Filmwoche" .
+<2001_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Wedaustadion> <location.location.geolocation> "m.0w6byvd" .
+<m.0ngd8z1> <aviation.airline_airport_presence.airport> "Weeze Airport" .
+<Disaster> <freebase.type_hints.included_types> "Event" .
+<City/Town/Village> <base.aareas.schema.administrative_area.administrative_area_type> "Administrative Area" .
+<1993_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<m.0704kdt> <common.webpage.category> "Official Website" .
+<German_government_district> <freebase.type_hints.included_types> "Topic" .
+<1987_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<German_district> <base.aareas.schema.administrative_area_type.level> "County" .
+<Duisburg> <location.location.containedby> "Germany" .
+<Sports_Facility> <freebase.type_profile.kind> "Definition" .
+<Building> <freebase.type_hints.included_types> "Topic" .
+<German_state> <freebase.type_hints.included_types> "Location" .
+<There_is_more_to_come> <film.film.film_festivals> "2008 Duisburger Filmwoche" .
+<Old_Cemetery> <location.location.containedby> "Düsseldorf" .
+<World_Games_2005> <time.event.locations> "Duisburg" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<North_Rhine-Westphalia> <base.aareas.schema.administrative_area.capital> "Düsseldorf" .
+<Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <film.film_festival.location> "Muenster" .
+<Oberhausen> <common.topic.notable_types> "German city" .
+<Event> <freebase.type_profile.published> "Published" .
+<1991_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<Structure> <freebase.type_profile.strict_included_types> "Location" .
+<1989_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q676jh3t" .
+<1985_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67p47wb" .
+<Dated_location> <freebase.type_hints.included_types> "Topic" .
+<1986_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Duisburg> <location.location.events> "Operation Hurricane" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1996 Duisburger Filmwoche" .
+<German_city> <type.type.expected_by> "Capital" .
+<1996_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Steinbruch> <location.location.containedby> "Duisburg" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 1950" .
+<University_of_Duisburg-Essen> <education.university.number_of_postgraduates> "m.0h76rvz" .
+<Duisburg> <location.location.events> "2009 Duisburger Filmwoche" .
+<Düsseldorf> <location.location.contains> "Old Cemetery" .
+<1997_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Operation_Hurricane> <time.event.locations> "Duisburg" .
+<Duisburg> <location.location.events> "1986 Duisburger Filmwoche" .
+<m.0h4s32p> <location.adjoining_relationship.adjoins> "Rhein-Kreis Neuss" .
+<College/University> <freebase.type_profile.published> "Published" .
+<2013_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<German_government_district> <base.aareas.schema.administrative_area_type.subdivides_type> "German state" .
+<Film_festival_event> <freebase.type_profile.kind> "Definition" .
+<Braunschweig> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<m.0gz492y> <education.education.institution> "University of Duisburg-Essen" .
+<Düsseldorf> <location.statistical_region.population> "m.0bw7v6d" .
+<German_city> <base.aareas.schema.administrative_area_type.subdividing_type> "German borough" .
+<German_urban_district> <base.uncommon.topic.exceptions> "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District." .
+<German_borough> <base.aareas.schema.administrative_area_type.sovereignty> "Germany" .
+<Airport> <freebase.type_profile.strict_included_types> "Location" .
+<Bombing_of_Duisburg_in_World_War_II> <common.topic.image> "m.02gtnyn" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Markus Koch" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Mark Ostendarp" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<German_state> <base.aareas.schema.administrative_area_type.sovereignty> "Germany" .
+<m.0wz2vks> <sports.team_venue_relationship.team> "MSV Duisburg" .
+<m.0wl13vb> <location.mailing_address.citytown> "Duisburg" .
+<Cologne> <location.location.events> "2014 North Rhine-Westphalia storms" .
+<Kleve_(district)> <location.location.containedby> "Germany" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1983 Duisburger Filmwoche" .
+<Gerhard_Mercator_University> <location.location.containedby> "Germany" .
+<German_urban_district> <base.aareas.schema.administrative_area_type.subdividing_type> "City/Town/Village" .
+<1978_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<Düsseldorf> <location.de_regierungsbezirk.district_seat> "Düsseldorf" .
+<North_Rhine-Westphalia> <location.location.events> "Operation Plunder" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<San_Luca_feud> <common.topic.article> "m.02x5130" .
+<Duisburg> <location.location.events> "g.121k2ngk" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<Düsseldorf> <location.capital_of_administrative_division.capital_of> "m.0jvvhps" .
+<Wolfgang_Böhmer> <people.person.nationality> "Germany" .
+<City/Town/Village> <freebase.type_hints.included_types> "Administrative Area" .
+<Airport> <freebase.type_profile.strict_included_types> "Topic" .
+<Mönchengladbach> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<Ute_Wessel> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<German_district> <base.aareas.schema.administrative_area_type.subdividing_type> "German city" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1989 Duisburger Filmwoche" .
+<Duisburg> <location.location.events> "1982 Duisburger Filmwoche" .
+<2011_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Sports_Facility> <freebase.type_hints.included_types> "Structure" .
+<1997_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<German_urban_district> <base.aareas.schema.administrative_area_type.level> "County" .
+<Event> <type.type.properties> "Start date" .
+<Wesel> <location.location.containedby> "Germany" .
+<Duisburg> <location.location.contains> "Gerhard Mercator University" .
+<German_state> <type.type.properties> "Capital" .
+<Duisburg> <location.location.events> "1999 Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1984 Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1981 Duisburger Filmwoche" .
+<Film_festival_event> <type.type.properties> "Closing date" .
+<1982_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<m.0ngd8k2> <aviation.airline_airport_presence.airport> "Weeze Airport" .
+<1990_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67d1gvy" .
+<Düsseldorf> <location.location.contains> "Rhein-Kreis Neuss" .
+<Mercator_School_of_Management> <education.educational_institution.parent_institution> "University of Duisburg-Essen" .
+<German_city> <freebase.type_hints.included_types> "Administrative Area" .
+<Germany> <base.aareas.schema.administrative_area.pertinent_type> "German state" .
+<Administrative_Area> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<1980_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<1999_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Düsseldorf> <location.location.containedby> "Germany" .
+<Rhein-Kreis_Neuss> <location.location.containedby> "Germany" .
+<Duisburg> <location.location.geolocation> "m.02xhrqr" .
+<German_city> <freebase.type_hints.included_types> "City/Town/Village" .
+<2000_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67n_rn8" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Building> <freebase.type_profile.kind> "Definition" .
+<Mercator_School_of_Management> <location.location.containedby> "Germany" .
+<m.0h7ck_y> <common.topic.notable_types> "Location" .
+<Duisburg> <location.location.contains> "Citibank Tower" .
+<Theater_Duisburg> <common.topic.image> "Duisburg Oper Theater 2009 03 13" .
+<Remscheid> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<Disaster> <freebase.type_profile.strict_included_types> "Topic" .
+<Theater_Duisburg> <common.topic.article> "m.0fqrb5" .
+<German_state> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<1986_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Düsseldorf> <location.location.contains> "Kleve (district)" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1987 Duisburger Filmwoche" .
+<Film_festival_event> <freebase.type_hints.included_types> "Event" .
+<City/Town/Village> <base.uncommon.topic.exceptions> "Hinwil should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Canton of Zürich." .
+<Citibank_Tower> <location.location.containedby> "Duisburg" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2014 Duisburger Filmwoche" .
+<m.046cw86> <location.adjoining_relationship.adjoins> "North Rhine-Westphalia" .
+<Theater_Duisburg> <common.topic.notable_for> "g.1259xmz6g" .
+<Weeze_Airport> <aviation.airport.airlines> "m.0ngd8z1" .
+<m.0jvkmql> <common.topic.notable_types> "Location" .
+<German_urban_district> <base.uncommon.topic.exceptions> "Herisau should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Appenzell Ausserrhoden." .
+<Christoph_Brüx> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<1992_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<m.0ngdbj1> <aviation.airline_airport_presence.airport> "Weeze Airport" .
+<1992_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<University_of_Duisburg> <location.location.containedby> "Duisburg" .
+<Film_festival_event> <freebase.type_profile.strict_included_types> "Topic" .
+<Love_Parade_2010> <common.topic.notable_for> "g.12593wmgn" .
+<Multi-event_tournament> <freebase.type_profile.strict_included_types> "Topic" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2007 Duisburger Filmwoche" .
+<Duisburg_Inner_Harbour> <travel.tourist_attraction.near_travel_destination> "Museum Küppersmühle" .
+<1979_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<World_Games_2005> <sports.multi_event_tournament.events> "Women's Nine-Ball Pool" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 1962" .
+<Duisburg> <location.location.events> "1984 Duisburger Filmwoche" .
+<Germany> <base.uncommon.topic.exceptions> "German city is not suited to be the administrative division type for German City." .
+<World_Games_2005> <time.event.includes_event> "Cue sports at the World Games 2005" .
+<Duisburg> <location.location.contains> "Steinbruch" .
+<Cologne> <location.location.events> "2014–15 DFB-Pokal" .
+<2013_Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <time.event.locations> "Cologne" .
+<1982_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Rhein-Kreis_Neuss> <location.location.adjoin_s> "m.0h4s32p" .
+<Football_League_Season> <freebase.type_hints.included_types> "Topic" .
+<German_urban_district> <base.aareas.schema.administrative_area_type.kind_of> "German district" .
+<German_city> <type.type.properties> "Capital" .
+<Structure> <freebase.type_profile.published> "Published" .
+<1993_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67cy8hw" .
+<German_district> <freebase.type_hints.included_types> "Administrative Area" .
+<2006_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Wuppertal> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<World_Games_2005> <common.topic.article> "m.06z1_l" .
+<2006_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<1996–97_Bundesliga> <time.event.previous_in_series> "1995–96 Bundesliga" .
+<German_city> <freebase.type_profile.strict_included_types> "City/Town/Village" .
+<Germany> <base.uncommon.topic.exceptions> "German urban district is not suited to be the administrative division type for German Urban District." .
+<Düsseldorf> <location.location.contains> "Mülheim" .
+<1980_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67vh6br" .
+<2008_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2001 Duisburger Filmwoche" .
+<2010_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Bombing_of_Duisburg_in_World_War_II> <common.topic.notable_types> "Military Conflict" .
+<Airport> <freebase.type_profile.kind> "Definition" .
+<2011_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Germany> <base.aareas.schema.administrative_area.pertinent_type> "German urban district" .
+<Germany> <location.country.administrative_divisions> "Dortmund" .
+<Germany> <location.country.first_level_divisions> "North Rhine-Westphalia" .
+<1988_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67d_25g" .
+<m.03lgm1l> <common.webpage.topic> "North Rhine-Westphalia" .
+<Düsseldorf> <location.location.contains> "FOM University of Applied Sciences for Economics and Management" .
+<German_state> <freebase.type_hints.included_types> "Dated location" .
+<Düsseldorf> <location.location.contains> "Mettmann" .
+<Solingen> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<Love_Parade_2010> <time.event.locations> "Duisburg" .
+<2007_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 2010" .
+<Krefeld> <base.biblioness.bibs_location.country> "Germany" .
+<Düsseldorf> <location.location.containedby> "Germany" .
+<1996_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<1980_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<1999_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<German_borough> <freebase.type_hints.included_types> "Location" .
+<1994_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2012 Duisburger Filmwoche" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "William Finnemann" .
+<2014–15_DFB-Pokal> <time.event.locations> "MSV-Arena" .
+<German_borough> <base.aareas.schema.administrative_area_type.subdivides_type> "German city" .
+<Ruhr> <common.topic.notable_types> "Location" .
+<1988_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Weeze> <common.topic.notable_types> "City/Town/Village" .
+<City/Town/Village> <type.type.domain> "Administrative Areas" .
+<German_city> <base.uncommon.topic.exceptions> "Ibbenbüren is contained in both Tecklenburg and Steinfurt." .
+<Sports_Facility> <freebase.type_profile.published> "Published" .
+<University_of_Duisburg-Essen> <education.educational_institution.subsidiary_or_constituent_schools> "Mercator School of Management" .
+<Theater_Duisburg> <location.location.containedby> "Duisburg" .
+<German_city> <freebase.type_hints.included_types> "Statistical region" .
+<Meerbusch> <common.topic.notable_types> "German city" .
+<German_government_district> <freebase.type_hints.included_types> "Administrative Area" .
+<Düsseldorf> <common.topic.notable_types> "German city" .
+<2004_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<German_urban_district> <base.aareas.schema.administrative_area.administrative_area_type> "Administrative Area" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Venue" .
+<Duisburg> <common.topic.notable_for> "g.125723_d2" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1978 Duisburger Filmwoche" .
+<Philipp_Quest> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<North_Rhine-Westphalia> <location.administrative_division.capital> "m.0jvvkrz" .
+<University_of_Duisburg-Essen> <education.educational_institution.school_type> "Public university" .
+<1991_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67d673f" .
+<1980_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<1998_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67csv0h" .
+<City/Town/Village> <base.uncommon.topic.exceptions> "Basel should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Basel-City." .
+<Duisburg> <location.location.nearby_airports> "Weeze Airport" .
+<University_of_Duisburg> <education.educational_institution.students_graduates> "m.0wj0tt5" .
+<Meerbusch> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<1988_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<North_Rhine-Westphalia> <location.statistical_region.population> "m.09tf7c1" .
+<1980_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<2014_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67b7tqn" .
+<University_of_Duisburg-Essen> <education.educational_institution.students_graduates> "m.0svssfn" .
+<Football_League_Season> <freebase.type_profile.kind> "Definition" .
+<German_state> <base.aareas.schema.administrative_area_type.expected_codes> "ISO 3166-2" .
+<m.0jvvkrz> <location.administrative_division_capital_relationship.administrative_division> "North Rhine-Westphalia" .
+<Cologne> <location.location.events> "Operation Hurricane" .
+<Essen> <location.location.containedby> "Düsseldorf" .
+<1986_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<2012_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2006 Duisburger Filmwoche" .
+<1984_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<German_city> <base.aareas.schema.administrative_area_type.pertains_to> "Germany" .
+<1996_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<City/Town/Village> <base.aareas.schema.administrative_area_type.kinds> "City" .
+<2013_Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <time.event.locations> "Muenster" .
+<Military_Conflict> <freebase.type_hints.included_types> "Event" .
+<m.0_k_0pj> <education.education.institution> "University of Duisburg-Essen" .
+<Mettmann> <location.location.containedby> "Germany" .
+<North_Rhine-Westphalia> <location.location.geolocation> "m.0k2yf13" .
+<Uschi_Karnat> <people.person.nationality> "Germany" .
+<2001_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67phz8r" .
+<1985_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<1987_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Bochum> <common.topic.notable_types> "German city" .
+<Germany> <base.aareas.schema.administrative_area.pertinent_type> "German borough" .
+<Solingen> <location.location.containedby> "Düsseldorf" .
+<Mülheim> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<1986_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<North_Rhine-Westphalia> <base.aareas.schema.administrative_area.administrative_area_type> "German state" .
+<1987_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<2005_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<V_Bird> <aviation.airline.hubs> "Weeze Airport" .
+<1996_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<2013_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<University_of_Duisburg-Essen> <common.topic.webpage> "m.03lfhzz" .
+<German_urban_district> <base.aareas.schema.administrative_area_type.pertains_to> "Germany" .
+<Love_Parade_2010> <common.topic.notable_types> "Disaster" .
+<Wuppertal> <location.location.contains> "University of Wuppertal, Haspel" .
+<German_city> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Vilʹgelʹm De-Gennin" .
+<German_government_district> <base.aareas.schema.administrative_area_type.iso_country> "Germany" .
+<Duisburg> <location.location.events> "1977 Duisburger Filmwoche" .
+<1982_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<2008_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Ryanair> <aviation.airline.hubs> "Weeze Airport" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Rüdiger Baldauf" .
+<2007_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Building> <freebase.type_profile.strict_included_types> "Location" .
+<Duisburg> <location.location.events> "1996 Duisburger Filmwoche" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Robert Birker" .
+<World_Games_2005> <common.topic.image> "Cup Final Rugby Teams After Fiji's Gold Medal Win" .
+<MSV-Arena> <common.topic.notable_types> "Sports Facility" .
+<1985_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<North_Rhine-Westphalia> <location.location.adjoin_s> "m.046cw7s" .
+<1980_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Oberhausen> <location.location.containedby> "Germany" .
+<MSV-Arena> <common.topic.image> "MSV-Arena Duisburg 02" .
+<Battle_of_Krefeld> <time.event.locations> "North Rhine-Westphalia" .
+<North_Rhine-Westphalia> <location.location.events> "2014 North Rhine-Westphalia storms" .
+<Operation_Hurricane> <base.culturalevent.event.entity_involved> "Nazi Germany" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Kleve (district)" .
+<German_city> <base.aareas.schema.administrative_area.administrative_area_type> "Administrative Area" .
+<University_of_Duisburg-Essen> <education.educational_institution.phone_number> "m.0h7cl0h" .
+<1985_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<1995_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1993 Duisburger Filmwoche" .
+<Steinbruch> <common.topic.notable_for> "g.1257g0jfb" .
+<Duisburg> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<Wuppertal> <common.topic.notable_types> "German city" .
+<Cologne> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<Bombing_of_Duisburg_in_World_War_II> <common.topic.notable_for> "g.125dtc152" .
+<Duisburg> <location.location.contains> "Wedaustadion" .
+<Remscheid> <common.topic.notable_types> "German city" .
+<Wesel> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<German_government_district> <base.aareas.schema.administrative_area_type.sovereignty> "Germany" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2009 Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2014 Duisburger Filmwoche" .
+<North_Rhine-Westphalia> <location.administrative_division.country> "Germany" .
+<1994_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "g.120yr48x" .
+<Duisburg> <location.location.events> "1980 Duisburger Filmwoche" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Maurice" .
+<German_urban_district> <base.uncommon.topic.exceptions> "Basel should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Basel-City." .
+<Remscheid> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<Dortmund> <location.administrative_division.country> "Germany" .
+<German_urban_district_is_not_suited_to_be_the_administrative_division_type_for_German_Urban_District.> <base.uncommon.exception.involves> "Germany" .
+<Kai_Stänicke> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<1990_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Duisburg> <location.location.events> "2000 Duisburger Filmwoche" .
+<Weeze_Airport> <aviation.airport.airlines> "m.0ngd4h9" .
+<Viersen> <location.location.containedby> "Düsseldorf" .
+<1989_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<1978_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<End_date> <type.property.schema> "Event" .
+<University_of_Düsseldorf> <common.topic.notable_types> "College/University" .
+<1980_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Duisburg> <location.location.adjoin_s> "m.0h4s5r6" .
+<Duisburg> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<Disaster> <freebase.type_hints.included_types> "Topic" .
+<University_of_Duisburg-Essen> <base.jewlib.parent_institution.jewish_studies_research_units> "Salomon Ludwig Steinheim Institute of German-Jewish Studies" .
+<Duisburg_Inner_Harbour> <location.location.geolocation> "m.0zn6ypc" .
+<Dortmund> <location.location.containedby> "North Rhine-Westphalia" .
+<Sparkasse_Münsterland_Ost> <organization.organization.geographic_scope> "Germany" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Larissa Maria Holz" .
+<Christoph_Brüx> <people.person.nationality> "Germany" .
+<College/University> <freebase.type_hints.included_types> "Topic" .
+<2007_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67dpk6b" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1994 Duisburger Filmwoche" .
+<m.0ngd4h9> <aviation.airline_airport_presence.airport> "Weeze Airport" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2012 Duisburger Filmwoche" .
+<1987_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Essen> <location.location.contains> "FOM University of Applied Sciences for Economics and Management" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Christoph Bode" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<German_urban_district> <freebase.type_hints.included_types> "Topic" .
+<1981_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Duisburg> <location.location.events> "2008 Duisburger Filmwoche" .
+<Sports_Facility> <freebase.type_hints.included_types> "Venue" .
+<Braunschweig> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 1966" .
+<Wedaustadion> <common.topic.notable_types> "Structure" .
+<German_government_district> <base.aareas.schema.administrative_area_type.pertains_to> "Germany" .
+<2002_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67chp6l" .
+<1988_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<1996_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2003 Duisburger Filmwoche" .
+<Gerhard_Mercator_University> <common.topic.article> "m.01b522" .
+<Düsseldorf> <common.topic.article> "m.019tns" .
+<Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <film.film_festival.location> "Bochum" .
+<2012_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Duisburg> <location.location.events> "San Luca feud" .
+<Duisburg> <location.location.events> "2010 Duisburger Filmwoche" .
+<City/Town/Village> <base.uncommon.topic.exceptions> "Tecklenburg is contained in both Tecklenburg and Steinfurt." .
+<Duisburg's_inner_harbour.> <common.image.size> "m.04pyk_x" .
+<University_of_Düsseldorf> <education.educational_institution.campuses> "University of Düsseldorf" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1998 Duisburger Filmwoche" .
+<German_state> <freebase.type_hints.included_types> "Location" .
+<German_city> <freebase.type_hints.included_types> "Location" .
+<Cologne> <location.location.containedby> "Germany" .
+<Essen> <location.location.events> "2014 North Rhine-Westphalia storms" .
+<German_city> <base.uncommon.topic.exceptions> "Tecklenburg is contained in both Tecklenburg and Steinfurt." .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<Dortmund> <location.location.containedby> "Germany" .
+<World_War_II> <common.topic.notable_types> "Military Conflict" .
+<1978_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<1989_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Mülheim> <common.topic.notable_types> "German city" .
+<Love_Parade_2010> <event.disaster.type_of_disaster> "Human stampede" .
+<City/Town/Village> <type.type.domain> "Location" .
+<1989_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<Düsseldorf> <location.location.geolocation> "m.0dgbl37" .
+<2014_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Düsseldorf> <location.location.events> "2014 North Rhine-Westphalia storms" .
+<1994_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Solingen> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<Duisburg_Inner_Harbour> <common.topic.image> "Duisburg harbour old" .
+<World_Games_2005> <common.topic.notable_for> "g.125byd_8b" .
+<Düsseldorf> <location.location.contains> "University of Düsseldorf" .
+<1986_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<1992_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<1998_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Germany> <location.country.administrative_divisions> "North Rhine-Westphalia" .
+<1986_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67pn6mv" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Mönchengladbach" .
+<University_of_Duisburg-Essen> <organization.organization.headquarters> "m.0wl13vb" .
+<German_urban_district> <freebase.type_hints.included_types> "Location" .
+<Multi-event_tournament> <freebase.type_profile.strict_included_types> "Event" .
+<German_district> <base.aareas.schema.administrative_area_type.kinds> "German urban district" .
+<Military_Conflict> <freebase.type_profile.kind> "Definition" .
+<1978_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<City/Town/Village> <base.aareas.schema.administrative_area_type.expected_codes> "ISO 3166-2" .
+<German_government_district> <base.aareas.schema.administrative_area_type.level> "County" .
+<1995_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Viersen" .
+<2008_Duisburger_Filmwoche> <film.film_festival_event.films> "There is more to come" .
+<Oberhausen> <location.location.containedby> "Düsseldorf" .
+<m.0w_8htk> <common.topic.notable_types> "Location" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Ute Wessel" .
+<1984_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Bochum> <base.biblioness.bibs_location.country> "Germany" .
+<FOM_University_of_Applied_Sciences_for_Economics_and_Management> <location.location.containedby> "Düsseldorf" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1997 Duisburger Filmwoche" .
+<1992_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q679tw4n" .
+<Operation_Plunder> <base.culturalevent.event.entity_involved> "Nazi Germany" .
+<Kai_Stänicke> <people.person.nationality> "Germany" .
+<1982_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<North_Rhine-Westphalia> <location.location.adjoin_s> "m.046csqv" .
+<1982_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<University_of_Duisburg-Essen> <education.educational_institution_campus.educational_institution> "University of Duisburg-Essen" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2013 Duisburger Filmwoche" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 1947" .
+<German_state> <base.aareas.schema.administrative_area_type.pertains_to> "Germany" .
+<1984_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Duisburg> <location.location.events> "1978 Duisburger Filmwoche" .
+<m.0_kxy2v> <education.education.institution> "University of Duisburg-Essen" .
+<Düsseldorf> <location.location.contains> "Wesel" .
+<1979_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<1987_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<North_Rhine-Westphalia> <government.governmental_jurisdiction.governing_officials> "m.0ng8y_j" .
+<1998_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Düsseldorf> <location.location.contains> "Wuppertal" .
+<1997_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<German_city> <type.type.domain> "Administrative Areas" .
+<Duisburg> <location.location.contains> "MSV-Arena" .
+<m.0ngd8k2> <aviation.airline_airport_presence.airline> "Ryanair" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1980 Duisburger Filmwoche" .
+<Düsseldorf> <base.aareas.schema.administrative_area.capital> "Düsseldorf" .
+<North_Rhine-Westphalia> <base.ontologies.ontology_instance.equivalent_instances> "m.09klq4j" .
+<m.03kw6dg> <common.webpage.resource> "m.0bkw600" .
+<1997_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Duisburg> <location.location.events> "2013 Duisburger Filmwoche" .
+<Wedaustadion> <location.location.containedby> "Duisburg" .
+<Football_League_Season> <freebase.type_profile.strict_included_types> "Topic" .
+<Mönchengladbach> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Topic" .
+<2002_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Solingen> <common.topic.notable_types> "German city" .
+<2010_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<City/Town/Village> <base.uncommon.topic.exceptions> "St. Gallen should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Canton of St. Gallen." .
+<MSV-Arena> <sports.sports_facility.teams> "MSV Duisburg" .
+<Duisburg> <common.topic.article> "m.0ps20" .
+<MSV_Duisburg> <sports.sports_team.arena_stadium> "MSV-Arena" .
+<German_urban_district> <type.type.domain> "Administrative Areas" .
+<University_of_Duisburg> <education.educational_institution_campus.educational_institution> "University of Duisburg" .
+<1992_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Duisburg> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<Topic> <type.type.properties> "Official website" .
+<Strategic_bombing_during_World_War_II> <time.event.included_in_event> "World War II" .
+<Düsseldorf> <common.topic.notable_for> "g.1257t417g" .
+<Old_Cemetery> <location.location.containedby> "Germany" .
+<German_city> <type.type.properties> "State or District" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1995 Duisburger Filmwoche" .
+<Dortmund> <common.topic.notable_types> "German city" .
+<Rhein-Kreis_Neuss> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<University_of_Duisburg-Essen> <common.topic.image> "Uni Duisburg" .
+<Mülheim> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<1986_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<m.0jfwxz7> <location.mailing_address.citytown> "Duisburg" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Essen" .
+<1991_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<University_of_Duisburg> <education.educational_institution.campuses> "University of Duisburg" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1991 Duisburger Filmwoche" .
+<German_borough> <base.aareas.schema.administrative_area_type.iso_country> "Germany" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2010 Duisburger Filmwoche" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Rhein-Kreis Neuss" .
+<1984_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<North_Rhine-Westphalia> <location.location.containedby> "Germany" .
+<2009_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<m.0ng8y_j> <government.government_position_held.jurisdiction_of_office> "North Rhine-Westphalia" .
+<1987_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q678jlcw" .
+<2014_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Essen> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<Official_website> <rdf-schema#domain> "Topic" .
+<1977_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Operation_Hurricane> <common.topic.article> "m.0ctbgp" .
+<2007_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<German_city> <freebase.type_profile.published> "Published" .
+<1997_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67p_xjs" .
+<2000_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Coat_of_arms_of_Duisburg> <common.image.appears_in_topic_gallery> "Duisburg" .
+<Germany> <base.aareas.schema.administrative_area.subdividing_type> "German state" .
+<Mülheim> <location.location.containedby> "Düsseldorf" .
+<North_Rhine-Westphalia> <location.de_state.capital> "Düsseldorf" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Fred Mandl" .
+<Structure> <freebase.type_hints.included_types> "Location" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Dominik Buch" .
+<Braunschweig> <location.location.containedby> "Germany" .
+<Mönchengladbach> <location.location.containedby> "North Rhine-Westphalia" .
+<Airport> <freebase.type_profile.published> "Published" .
+<German_district> <base.aareas.schema.administrative_area_type.sovereignty> "Germany" .
+<Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <film.film_festival.location> "Düsseldorf" .
+<Old_Cemetery> <common.topic.notable_types> "Location" .
+<FOM_University_of_Applied_Sciences_for_Economics_and_Management> <education.educational_institution_campus.educational_institution> "FOM University of Applied Sciences for Economics and Management" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1995 Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1986 Duisburger Filmwoche" .
+<Duisburg> <location.location.events> "1981 Duisburger Filmwoche" .
+<Gerhard_Mercator_University> <common.topic.notable_for> "g.1259lvcc6" .
+<German_city> <freebase.type_profile.strict_included_types> "Topic" .
+<Football_League_Season> <freebase.type_hints.included_types> "Event" .
+<Weeze_Airport> <aviation.airport.serves> "Kleve (district)" .
+<m.046csqv> <location.adjoining_relationship.adjoins> "North Rhine-Westphalia" .
+<Duisburg_Inner_Harbour> <location.location.containedby> "Germany" .
+<University_of_Duisburg-Essen> <organization.organization.headquarters> "m.0h7ck_y" .
+<MSV-Arena> <location.location.events> "2014–15 DFB-Pokal" .
+<Airport> <freebase.type_hints.included_types> "Topic" .
+<Operation_Plunder> <time.event.locations> "North Rhine-Westphalia" .
+<Duisburg> <location.location.contains> "Duisburg Inner Harbour" .
+<m.0h7ck_y> <location.mailing_address.country> "Germany" .
+<Düsseldorf> <location.administrative_division.second_level_division_of> "Germany" .
+<German_city> <freebase.type_hints.included_types> "Topic" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Oberhausen" .
+<m.0h4s5r6> <location.adjoining_relationship.adjoins> "Meerbusch" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1999 Duisburger Filmwoche" .
+<1991_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<2013_Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <film.film_festival_event.festival> "Köln Stranger Than Fiction Documentary Film Festival" .
+<Schwanentor_Bridge> <common.image.size> "m.05kvr4d" .
+<2004_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q679k9gn" .
+<University_of_Duisburg-Essen> <education.educational_institution.students_graduates> "m.0w5mr8g" .
+<2003_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<German_borough> <type.type.domain> "Administrative Areas" .
+<Operation_Hurricane> <common.topic.notable_types> "Military Conflict" .
+<1989_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<German_urban_district> <base.uncommon.topic.exceptions> "Geneva should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Canton of Geneva." .
+<University_of_Düsseldorf> <location.location.containedby> "Düsseldorf" .
+<1985_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Maurice> <people.person.nationality> "Germany" .
+<2013_Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <time.event.instance_of_recurring_event> "Köln Stranger Than Fiction Documentary Film Festival" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 1975" .
+<m.0bkw600> <common.resource.annotations> "m.03kw6dg" .
+<Military_Conflict> <freebase.type_profile.strict_included_types> "Topic" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 2005" .
+<Airport> <freebase.type_hints.included_types> "Location" .
+<Düsseldorf> <periodicals.newspaper_circulation_area.newspapers> "Rheinische Post" .
+<Robert_Birker> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<German_city> <freebase.type_profile.strict_included_types> "Dated location" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 1954" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Philipp Quest" .
+<German_district> <freebase.type_hints.included_types> "Topic" .
+<1996_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Location> <freebase.type_profile.published> "Published" .
+<Markus_Koch> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<Mönchengladbach> <common.topic.notable_types> "German city" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 1958" .
+<Düsseldorf> <location.location.contains> "Remscheid" .
+<1995_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<m.046cw7s> <location.adjoining_relationship.adjoins> "North Rhine-Westphalia" .
+<Germany> <location.country.second_level_divisions> "Düsseldorf" .
+<MSV-Arena> <common.topic.article> "m.0b0s5c" .
+<Wedaustadion> <common.topic.article> "m.0czr6c" .
+<University_of_Düsseldorf> <location.location.containedby> "Germany" .
+<Theater_Duisburg> <common.topic.image> "Theater Duisburg" .
+<1987_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<Wuppertal> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<Duisburg> <location.location.events> "2006 Duisburger Filmwoche" .
+<Public_airport> <aviation.airport_type.airports_of_this_type> "Weeze Airport" .
+<Duisburg> <common.topic.notable_types> "German city" .
+<2009_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Wolfgang_Böhmer> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<Essen> <location.location.containedby> "Ruhr" .
+<German_city> <type.type.expected_by> "District seat" .
+<m.04m0dwz> <common.webpage.category> "Official Website" .
+<University_of_Duisburg-Essen> <education.educational_institution.students_graduates> "m.0n1k95d" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2008 Duisburger Filmwoche" .
+<End_date> <rdf-schema#domain> "Event" .
+<2013_Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <time.event.locations> "Duisburg" .
+<m.03lfhzz> <common.webpage.topic> "University of Duisburg-Essen" .
+<1983_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Thomas Rentmeister" .
+<University_of_Duisburg-Essen> <education.educational_institution.campuses> "University of Duisburg-Essen" .
+<Krefeld> <location.location.containedby> "Düsseldorf" .
+<2009_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67886gf" .
+<Gerhard_Mercator_University> <organization.organization.headquarters> "m.0jfwxz7" .
+<Start_date> <type.property.schema> "Event" .
+<m.02gtnyn> <common.image.appears_in_topic_gallery> "Bombing of Duisburg in World War II" .
+<Düsseldorf> <location.location.events> "2013 Köln Stranger Than Fiction Documentary Film Festival" .
+<German_city> <base.uncommon.topic.exceptions> "German city is not suited to be the administrative division type for German City." .
+<m.0wl13vb> <location.mailing_address.state_province_region> "North Rhine-Westphalia" .
+<Duisburg> <location.location.events> "Love Parade 2010" .
+<1982_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Operation_Plunder> <time.event.included_in_event> "World War II" .
+<Tourist_attraction> <freebase.type_profile.published> "Published" .
+<2005_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Weeze_Airport> <location.location.geolocation> "m.02_hr86" .
+<Remscheid> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<German_urban_district> <freebase.equivalent_topic.equivalent_type> "German urban district" .
+<City/Town/Village> <base.uncommon.topic.exceptions> "Geneva should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Canton of Geneva." .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1996 Duisburger Filmwoche" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Remscheid" .
+<1981_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Building> <freebase.type_hints.included_types> "Location" .
+<Weeze_Airport> <common.topic.notable_types> "Airport" .
+<Film_festival_event> <type.type.properties> "Opening date" .
+<Sascha_Nedelko_Bem> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<1980_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<German_state> <base.aareas.schema.administrative_area_type.subdivides_place> "Germany" .
+<2000_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Düsseldorf> <periodicals.newspaper_circulation_area.newspapers> "Rheinische Post" .
+<Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <film.film_festival.location> "Duisburg" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1990 Duisburger Filmwoche" .
+<City/Town/Village> <freebase.type_hints.included_types> "Dated location" .
+<1991_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<1998_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<1978_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<German_urban_district> <base.aareas.schema.administrative_area_type.administrative_division_type> "German urban district" .
+<Duisburg> <location.location.events> "1987 Duisburger Filmwoche" .
+<1993_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<1996–97_Bundesliga> <time.event.instance_of_recurring_event> "Bundesliga" .
+<Statistical_region> <type.type.domain> "Location" .
+<Duisburg> <location.location.events> "1985 Duisburger Filmwoche" .
+<1998_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2011 Duisburger Filmwoche" .
+<Düsseldorf> <common.topic.image> "North rhine w duesseldorf no text" .
+<Cologne> <common.topic.notable_types> "German city" .
+<Dortmund> <location.location.events> "2013 Köln Stranger Than Fiction Documentary Film Festival" .
+<1996–97_Bundesliga> <common.topic.notable_for> "g.1255j1bf8" .
+<University_of_Düsseldorf> <location.location.containedby> "Düsseldorf" .
+<Cologne> <location.location.events> "2013 Köln Stranger Than Fiction Documentary Film Festival" .
+<1978_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<1998_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Uschi Karnat" .
+<Building> <freebase.type_profile.published> "Published" .
+<m.0wl13vb> <common.topic.notable_types> "Location" .
+<University_of_Duisburg> <education.educational_institution.students_graduates> "m.0svv2kv" .
+<Citibank_Tower> <location.location.street_address> "m.0wfj4rd" .
+<Düsseldorf> <location.location.contains> "Oberhausen" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Wolfgang Böhmer" .
+<m.010qb90w> <government.government_position_held.jurisdiction_of_office> "North Rhine-Westphalia" .
+<Duisburg> <location.location.events> "1983 Duisburger Filmwoche" .
+<Solingen> <location.location.containedby> "North Rhine-Westphalia" .
+<Theater_Duisburg> <common.topic.notable_types> "Venue" .
+<m.03kw6dg> <common.webpage.category> "Official Website" .
+<Jan_Lehmkämper> <people.person.nationality> "Germany" .
+<Weeze_Airport> <aviation.airport.number_of_passengers> "m.0nh6gsf" .
+<1989_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1985 Duisburger Filmwoche" .
+<1989_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<m.0jfwxz7> <common.topic.notable_types> "Location" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1998 Duisburger Filmwoche" .
+<Krefeld> <location.location.events> "2014 North Rhine-Westphalia storms" .
+<m.0w5mr8g> <education.education.institution> "University of Duisburg-Essen" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2002 Duisburger Filmwoche" .
+<German_urban_district> <freebase.type_hints.included_types> "Administrative Area" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1977 Duisburger Filmwoche" .
+<Düsseldorf> <location.location.contains> "Essen" .
+<Duisburg> <location.location.contains> "University of Duisburg" .
+<German_state> <freebase.type_profile.published> "Published" .
+<Cologne> <base.aareas.schema.administrative_area.administrative_parent> "North Rhine-Westphalia" .
+<World_Games_2005> <sports.multi_event_tournament.events> "Men's Nine-Ball Pool" .
+<1996–97_Bundesliga> <time.event.locations> "Duisburg" .
+<Disaster> <freebase.type_profile.published> "Published" .
+<Citibank_Tower> <location.location.containedby> "Germany" .
+<1981_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<1999_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67dcckr" .
+<German_urban_district> <base.aareas.schema.administrative_area_type.sovereignty> "Germany" .
+<North_Rhine-Westphalia> <location.location.events> "Battle of Stadtlohn" .
+<m.0_lfrv9> <education.education.institution> "University of Duisburg-Essen" .
+<2011_Duisburger_Filmwoche> <common.topic.notable_for> "g.12573hlw4" .
+<1995_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<MSV-Arena> <location.location.geolocation> "m.02_tck4" .
+<m.05np5b8> <common.webpage.topic> "Weeze Airport" .
+<1987_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<1981_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<Duisburg_Inner_Harbour> <location.location.containedby> "Duisburg" .
+<University_of_Duisburg> <education.educational_institution.students_graduates> "m.0whx0l1" .
+<North_Rhine-Westphalia> <common.topic.notable_for> "g.125hbd055" .
+<Wesel> <location.location.containedby> "Düsseldorf" .
+<1979_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<Event> <freebase.type_profile.strict_included_types> "Topic" .
+<Kleve_(district)> <location.location.containedby> "Düsseldorf" .
+<1998_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<1977_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67gx3x_" .
+<Essen> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Location" .
+<Administrative_Area> <base.aareas.schema.administrative_area_type.expected_codes> "ISO 3166-2" .
+<Military_Conflict> <freebase.type_profile.strict_included_types> "Event" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1999 Duisburger Filmwoche" .
+<North_Rhine-Westphalia> <government.governmental_jurisdiction.governing_officials> "m.0ng8xh7" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Solingen" .
+<1990_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1981 Duisburger Filmwoche" .
+<German_city> <freebase.equivalent_topic.equivalent_type> "German city" .
+<North_Rhine-Westphalia> <location.statistical_region.population> "m.0gtmff2" .
+<Duisburg> <common.topic.image> "Coat of arms of Duisburg" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1982 Duisburger Filmwoche" .
+<Philipp_Quest> <people.person.nationality> "Germany" .
+<2001_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Dated_location> <freebase.type_hints.included_types> "Location" .
+<Oberhausen> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1982 Duisburger Filmwoche" .
+<Opening_date> <type.property.delegated> "Start date" .
+<North_Rhine-Westphalia> <common.topic.article> "m.09ks_" .
+<m.0w_8htk> <location.mailing_address.citytown> "North Rhine-Westphalia" .
+<University_of_Duisburg-Essen> <education.educational_institution.students_graduates> "m.0svv9n3" .
+<City/Town/Village_should_pertain_to_Ghana,_since_City/Town/Village_subdivides_Ghanaian_Municipal_District.> <base.uncommon.exception.focus> "City/Town/Village" .
+<Düsseldorf> <location.location.contains> "University of Duisburg-Essen" .
+<2008_Duisburger_Filmwoche> <common.topic.notable_for> "g.12v_gvk1g" .
+<Bombing_of_Duisburg_in_World_War_II> <base.disaster2.attack.attack> "m.05yxvrp" .
+<Duisburg> <location.location.adjoin_s> "m.0h4s32p" .
+<College/University> <freebase.type_profile.strict_included_types> "Topic" .
+<Administrative_Area> <freebase.type_hints.included_types> "Topic" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Wesel" .
+<University_of_Duisburg-Essen> <location.location.containedby> "Düsseldorf" .
+<1981_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<FOM_University_of_Applied_Sciences_for_Economics_and_Management> <education.educational_institution.campuses> "FOM University of Applied Sciences for Economics and Management" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2004 Duisburger Filmwoche" .
+<Battle_of_Krefeld> <time.event.locations> "Krefeld" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_area_type> "German government district" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<2014–15_DFB-Pokal> <common.topic.notable_types> "Football League Season" .
+<Krefeld> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<Weeze_Airport> <aviation.airport.hub_for> "V Bird" .
+<1985_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<FOM_University_of_Applied_Sciences_for_Economics_and_Management> <common.topic.notable_types> "College/University" .
+<German_district> <base.aareas.schema.administrative_area_type.subdivides_type> "German state" .
+<German_city> <freebase.type_profile.equivalent_topic> "German city" .
+<German_city> <freebase.type_hints.included_types> "Topic" .
+<Event> <type.type.properties> "End date" .
+<2014–15_DFB-Pokal> <time.event.locations> "Cologne" .
+<1979_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Coat_of_arms_of_Duisburg> <common.image.size> "m.02bvlkq" .
+<German_state> <base.aareas.schema.administrative_area_type.subdividing_type> "German district" .
+<Duisburg_Inner_Harbour> <common.topic.article> "m.09gn5gm" .
+<Start_date> <rdf-schema#domain> "Event" .
+<Duisburg> <location.location.events> "2001 Duisburger Filmwoche" .
+<1982_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67p8tkp" .
+<German_city> <freebase.type_hints.included_types> "Dated location" .
+<1991_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Viersen> <location.location.containedby> "Germany" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1991 Duisburger Filmwoche" .
+<German_city_is_not_suited_to_be_the_administrative_division_type_for_German_City.> <base.uncommon.exception.involves> "Germany" .
+<Solingen> <location.location.containedby> "Germany" .
+<1995_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<German_city> <freebase.type_hints.included_types> "Location" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1987 Duisburger Filmwoche" .
+<Gerhard_Mercator_University> <location.location.containedby> "Ruhr" .
+<Duisburger_Filmwoche> <film.film_festival.location> "Duisburg" .
+<1989_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<Krefeld> <common.topic.notable_types> "German city" .
+<1997_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<Duisburg> <location.location.events> "1990 Duisburger Filmwoche" .
+<2007_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<m.0wl13vb> <location.mailing_address.country> "Germany" .
+<2011_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Mönchengladbach> <location.location.containedby> "Germany" .
+<m.0704kdt> <common.webpage.topic> "Weeze Airport" .
+<North_Rhine-Westphalia> <common.topic.notable_types> "German state" .
+<1988_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<Düsseldorf> <location.location.contains> "Viersen" .
+<Weeze_Airport> <aviation.airport.airlines> "m.0ngdbj1" .
+<University_of_Duisburg-Essen> <common.topic.notable_types> "College/University" .
+<m.0svssfn> <education.education.institution> "University of Duisburg-Essen" .
+<Cologne> <location.location.containedby> "North Rhine-Westphalia" .
+<1980_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<North_Rhine-Westphalia> <location.statistical_region.population> "m.0nghtnm" .
+<1996–97_Bundesliga> <common.topic.notable_types> "Football League Season" .
+<Strategic_bombing_during_World_War_II> <time.event.includes_event> "Bombing of Duisburg in World War II" .
+<2013_Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <common.topic.notable_for> "g.11bbsqkqcn" .
+<Düsseldorf> <location.administrative_division.capital> "m.0jvvhps" .
+<Duisburg> <location.location.events> "1979 Duisburger Filmwoche" .
+<1997_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<m.0byl4g8> <education.education.institution> "University of Duisburg-Essen" .
+<Closing_date> <type.property.schema> "Film festival event" .
+<University_of_Duisburg> <common.topic.article> "m.0cfw23" .
+<m.05yxvrp> <base.disaster2.attack_process.attack_event> "Bombing of Duisburg in World War II" .
+<German_urban_district_is_not_suited_to_be_the_administrative_division_type_for_German_Urban_District.> <base.uncommon.exception.involves> "German urban district" .
+<Weeze_Airport> <common.topic.webpage> "m.05np5b8" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2009 Duisburger Filmwoche" .
+<German_city> <base.uncommon.topic.exceptions> "German city is not suited to be the administrative division type for German City." .
+<Wuppertal> <location.location.containedby> "Düsseldorf" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Dated location" .
+<City/Town/Village> <base.aareas.schema.administrative_area_type.kinds> "German city" .
+<Essen> <location.location.containedby> "Germany" .
+<m.0wz2vks> <sports.team_venue_relationship.venue> "MSV-Arena" .
+<MSV-Arena> <location.location.containedby> "Duisburg" .
+<Oberhausen> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<Duisburg> <location.location.events> "1991 Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1989 Duisburger Filmwoche" .
+<University_of_Duisburg-Essen> <organization.organization.headquarters> "m.0w_8htk" .
+<Duisburg> <location.location.events> "World Games 2005" .
+<1984_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Duisburg> <location.location.events> "2003 Duisburger Filmwoche" .
+<1996_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<1984_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<1986_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Weeze_Airport> <common.topic.image> "Weeze Airport Weeze Empfangshalle auÃen" .
+<German_city_is_not_suited_to_be_the_administrative_division_type_for_German_City.> <base.uncommon.exception.involves> "German city" .
+<1993_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<2014_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<German_city> <type.type.domain> "Location" .
+<1989_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<Wuppertal> <location.location.containedby> "Germany" .
+<1983_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<University_of_Duisburg-Essen> <education.educational_institution.total_enrollment> "m.0ng7s5z" .
+<1984_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Rhein-Kreis_Neuss> <location.location.containedby> "North Rhine-Westphalia" .
+<Germany> <location.country.administrative_divisions> "Cologne" .
+<1986_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<University_of_Duisburg-Essen> <education.educational_institution.students_graduates> "m.0_k_0pj" .
+<m.0cx88nn> <common.webpage.topic> "University of Duisburg" .
+<1985_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<1994_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<m.0jvkmql> <location.mailing_address.citytown> "Duisburg" .
+<City/Town/Village> <base.uncommon.topic.exceptions> "Altdorf should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Canton of Uri." .
+<Meerbusch> <location.location.containedby> "Rhein-Kreis Neuss" .
+<North_Rhine-Westphalia> <location.statistical_region.population> "g.11bc886sfr" .
+<University_of_Duisburg-Essen> <education.educational_institution.colors> "Blue" .
+<German_city> <base.aareas.schema.administrative_area_type.administrative_division_type> "German city" .
+<2012_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67p_xhy" .
+<1992_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<1979_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67csv3l" .
+<FOM_University_of_Applied_Sciences_for_Economics_and_Management> <location.location.containedby> "Germany" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Kai Stänicke" .
+<Location> <type.type.domain> "Location" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Location" .
+<1990_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<German_borough> <freebase.type_hints.included_types> "Administrative Area" .
+<German_city> <base.aareas.schema.administrative_area_type.iso_country> "Germany" .
+<German_urban_district> <type.type.properties> "Citytowns" .
+<m.0whx0l1> <education.education.institution> "University of Duisburg" .
+<City/Town/Village> <base.uncommon.topic.exceptions> "Schüpfheim should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Switzerland." .
+<Military_Conflict> <freebase.type_profile.published> "Published" .
+<Gerhard_Mercator_University> <education.educational_institution_campus.educational_institution> "Gerhard Mercator University" .
+<1998_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<Duisburg> <location.location.events> "2013 Köln Stranger Than Fiction Documentary Film Festival" .
+<German_state> <freebase.type_profile.kind> "Definition" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2002 Duisburger Filmwoche" .
+<Citibank_Tower> <common.topic.notable_types> "Building" .
+<m.0wj0tt5> <education.education.institution> "University of Duisburg" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1988 Duisburger Filmwoche" .
+<Gerhard_Mercator_University> <common.topic.notable_types> "College/University" .
+<1977_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Love_Parade_2010> <base.musicfestival.music_festival_event.festival> "Love Parade" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 2000" .
+<Gerhard_Mercator_University> <location.location.containedby> "Duisburg" .
+<German_urban_district_is_not_suited_to_be_the_administrative_division_type_for_German_Urban_District.> <base.uncommon.exception.focus> "German urban district" .
+<Düsseldorf> <common.topic.webpage> "m.04m0dwz" .
+<2010_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<1988_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<1984_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Duisburg> <location.location.events> "1995 Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2001 Duisburger Filmwoche" .
+<1978_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Duisburg" .
+<Düsseldorf> <common.topic.notable_types> "German regierungsbezirk" .
+<1983_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<2005_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q678fhn4" .
+<2014–15_DFB-Pokal> <freebase.valuenotation.is_reviewed> "Start date" .
+<m.0ngd9cp> <aviation.airline_airport_presence.airport> "Weeze Airport" .
+<2014–15_DFB-Pokal> <freebase.valuenotation.is_reviewed> "End date" .
+<2011_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<2001_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<University_of_Duisburg-Essen> <education.educational_institution.students_graduates> "m.0_kxy2v" .
+<Rhein-Kreis_Neuss> <location.location.contains> "Meerbusch" .
+<College/University> <freebase.type_profile.kind> "Definition" .
+<German_state> <freebase.type_hints.included_types> "Statistical region" .
+<Düsseldorf> <location.capital_of_administrative_division.capital_of> "m.0jvvkrz" .
+<German_state> <freebase.type_hints.included_types> "Topic" .
+<m.0h7ck_y> <location.mailing_address.state_province_region> "North Rhine-Westphalia" .
+<Düsseldorf> <location.statistical_region.population> "g.11bc87pqrl" .
+<Bochum> <location.location.events> "2013 Köln Stranger Than Fiction Documentary Film Festival" .
+<Dominik_Buch> <people.person.nationality> "Germany" .
+<German_borough> <freebase.type_hints.included_types> "Topic" .
+<Weeze_Airport> <aviation.airport.airlines> "m.0ngd8k2" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1977 Duisburger Filmwoche" .
+<Opening_date> <type.property.schema> "Film festival event" .
+<City/Town/Village> <base.uncommon.topic.exceptions> "Herisau should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Appenzell Ausserrhoden." .
+<Mettmann> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<Duisburg> <location.location.events> "2002 Duisburger Filmwoche" .
+<Germany> <base.aareas.schema.administrative_area.pertinent_type> "German government district" .
+<Building> <freebase.type_hints.included_types> "Structure" .
+<German_city> <base.aareas.schema.administrative_area_type.sovereignty> "Germany" .
+<1997_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <time.recurring_event.instances> "2013 Köln Stranger Than Fiction Documentary Film Festival" .
+<Krefeld> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<2002_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Weeze_Airport> <aviation.airport.hub_for> "Ryanair" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2010 Duisburger Filmwoche" .
+<m.0wfj4rd> <common.topic.notable_types> "Location" .
+<Braunschweig> <location.location.events> "Operation Hurricane" .
+<Maurice> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<Tourist_attraction> <freebase.type_profile.strict_included_types> "Topic" .
+<Dortmund> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1979 Duisburger Filmwoche" .
+<Operation_Hurricane> <time.event.locations> "Braunschweig" .
+<University_of_Duisburg-Essen> <location.location.containedby> "Germany" .
+<North_Rhine-Westphalia> <base.aareas.schema.administrative_area.administrative_parent> "Germany" .
+<1981_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Duisburg> <location.location.events> "1996–97 Bundesliga" .
+<Dated_location> <freebase.type_profile.published> "Published" .
+<Düsseldorf> <location.location.contains> "Duisburg" .
+<Braunschweig> <common.topic.notable_types> "German city" .
+<1998_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<2012_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<North_Rhine-Westphalia> <organization.organization_scope.organizations_with_this_scope> "Sparkasse Münsterland Ost" .
+<Topic> <freebase.type_profile.published> "Published" .
+<2004_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<MSV-Arena> <sports.sports_facility.home_venue_for> "m.0wz2vks" .
+<University_of_Duisburg-Essen> <education.educational_institution.total_enrollment> "m.0h76rw4" .
+<Duisburg> <location.location.contains> "Theater Duisburg" .
+<2005_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<German_city_is_not_suited_to_be_the_administrative_division_type_for_German_City.> <base.uncommon.exception.involves> "German city" .
+<World_Games_2005> <common.topic.notable_types> "Multi-event tournament" .
+<m.04m0dwz> <common.webpage.topic> "Düsseldorf" .
+<Wuppertal> <location.location.containedby> "North Rhine-Westphalia" .
+<Film_festival_event> <freebase.type_profile.strict_included_types> "Event" .
+<University_of_Duisburg-Essen> <organization.endowed_organization.endowment> "m.0h7cl2b" .
+<Remscheid> <location.location.containedby> "North Rhine-Westphalia" .
+<1979_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Wuppertal> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Bernhard Stübecke" .
+<1983_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q678tprh" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 1990" .
+<University_of_Duisburg-Essen> <common.topic.image> "Uni-DuE Essen28" .
+<Düsseldorf> <location.location.containedby> "North Rhine-Westphalia" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1993 Duisburger Filmwoche" .
+<University_of_Duisburg-Essen> <education.educational_institution.phone_number> "m.0h7cl0p" .
+<m.0cx88nn> <common.webpage.category> "Official Website" .
+<Building> <freebase.type_profile.strict_included_types> "Topic" .
+<1994_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "End date" .
+<Mönchengladbach> <location.location.containedby> "Düsseldorf" .
+<1983_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<University_of_Duisburg> <common.topic.notable_for> "g.125by45wh" .
+<FOM_University_of_Applied_Sciences_for_Economics_and_Management> <location.location.containedby> "Essen" .
+<m.0svv2kv> <education.education.institution> "University of Duisburg" .
+<Robert_Birker> <people.person.nationality> "Germany" .
+<1990_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<1990_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Mettmann" .
+<1979_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Event> <freebase.type_profile.kind> "Definition" .
+<2010_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67phzp9" .
+<University_of_Duisburg> <location.location.containedby> "Germany" .
+<Venue> <freebase.type_profile.strict_included_types> "Topic" .
+<North_Rhine-Westphalia> <location.statistical_region.population> "m.09tbfx2" .
+<German_city> <freebase.type_hints.included_types> "City/Town/Village" .
+<Duisburg> <location.location.events> "1992 Duisburger Filmwoche" .
+<m.0ng8xh7> <government.government_position_held.jurisdiction_of_office> "North Rhine-Westphalia" .
+<m.09klq4j> <base.ontologies.ontology_instance_mapping.freebase_topic> "North Rhine-Westphalia" .
+<Disaster> <freebase.type_profile.kind> "Definition" .
+<2004_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<North_Rhine-Westphalia> <location.location.events> "Emsdetten school shooting" .
+<m.01283902> <education.education.institution> "University of Duisburg-Essen" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Krefeld" .
+<1991_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Dortmund> <base.biblioness.bibs_location.country> "Germany" .
+<2003_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<City/Town/Village> <base.uncommon.topic.exceptions> "City/Town/Village should pertain to Ghana, since City/Town/Village subdivides Ghanaian Municipal District." .
+<2006_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2000 Duisburger Filmwoche" .
+<1994_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2005 Duisburger Filmwoche" .
+<Ruhr> <location.location.containedby> "Germany" .
+<Structure> <freebase.type_hints.included_types> "Topic" .
+<1995_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<2012_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<1980_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<Duisburg> <common.topic.webpage> "m.03kw6dg" .
+<Uschi_Karnat> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<m.0h7ck_y> <location.mailing_address.citytown> "Essen" .
+<2010_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Jan Lehmkämper" .
+<Duisburg> <location.location.events> "1989 Duisburger Filmwoche" .
+<Landtag_of_North_Rhine-Westphalia> <government.governmental_body.jurisdiction> "North Rhine-Westphalia" .
+<Weeze_Airport> <aviation.airport.airlines> "m.0ngd9cp" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<German_state> <base.aareas.schema.administrative_area_type.subdividing_type> "German government district" .
+<Landtag_of_North_Rhine-Westphalia> <government.governmental_body.members> "m.010qb90w" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2007 Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1978 Duisburger Filmwoche" .
+<Sparkasse_Münsterland_Ost> <freebase.valuenotation.is_reviewed> "Official website" .
+<San_Luca_feud> <common.topic.notable_types> "Event" .
+<2000_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<1991_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<Bochum> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<University_of_Duisburg-Essen> <location.location.containedby> "Duisburg" .
+<1994_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<Mülheim> <location.location.contains> "Old Cemetery" .
+<Bochum> <location.location.containedby> "Germany" .
+<m.0h4s5r6> <location.adjoining_relationship.adjoins> "Duisburg" .
+<1993_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Jan_Lehmkämper> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<German_urban_district_is_not_suited_to_be_the_administrative_division_type_for_German_Urban_District.> <base.uncommon.exception.involves> "German urban district" .
+<2013_Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <common.topic.notable_types> "Film festival event" .
+<1996_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Mönchengladbach> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<Gerhard_Mercator_University> <education.educational_institution.campuses> "Gerhard Mercator University" .
+<m.02gtnyn> <common.image.appears_in_topic_gallery> "Operation Hurricane" .
+<City/Town/Village> <freebase.type_hints.included_types> "Statistical region" .
+<World_Games_2005> <sports.multi_event_tournament.competitions> "Nine-ball at the World Games 2005 – women's singles" .
+<Strategic_bombing_during_World_War_II> <base.culturalevent.event.entity_involved> "Nazi Germany" .
+<1977_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<Operation_Hurricane> <time.event.included_in_event> "World War II" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1986 Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2004 Duisburger Filmwoche" .
+<Tourist_attraction> <freebase.type_hints.included_types> "Location" .
+<German_city> <base.aareas.schema.administrative_area_type.expected_codes> "ISO 3166-2" .
+<Citibank_Tower> <common.topic.notable_for> "g.12pkdnm_3" .
+<Düsseldorf> <location.statistical_region.population> "m.0bdsrbn" .
+<Viersen> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "1990 Duisburger Filmwoche" .
+<1982_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<Dortmund> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "g.121g1k6y" .
+<German_city> <base.aareas.schema.administrative_area_type.level> "City" .
+<1992_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Meerbusch> <location.location.adjoin_s> "m.0h4s5r6" .
+<City/Town/Village> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<1988_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<2013_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2006 Duisburger Filmwoche" .
+<There_is_more_to_come> <film.film.country> "Germany" .
+<Duisburg> <location.location.containedby> "North Rhine-Westphalia" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Carola Remer" .
+<Strategic_bombing_during_World_War_II> <common.topic.notable_types> "Military Conflict" .
+<m.0jvvhps> <location.administrative_division_capital_relationship.administrative_division> "Düsseldorf" .
+<Duisburg> <location.location.events> "2005 Duisburger Filmwoche" .
+<m.0h4s32p> <location.adjoining_relationship.adjoins> "Duisburg" .
+<Weeze_Airport> <location.location.containedby> "Germany" .
+<Multi-event_tournament> <freebase.type_profile.kind> "Definition" .
+<Weeze_Airport> <common.topic.webpage> "m.0704kdt" .
+<Sparkasse_Münsterland_Ost> <organization.organization.geographic_scope> "North Rhine-Westphalia" .
+<2001_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<German_state> <type.type.domain> "Administrative Areas" .
+<Dated_location> <type.type.domain> "Location" .
+<Düsseldorf> <base.aareas.schema.administrative_area.administrative_children> "Wuppertal" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1994 Duisburger Filmwoche" .
+<Duisburg> <location.location.events> "1993 Duisburger Filmwoche" .
+<1991_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<1995_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Ryanair> <aviation.airline.airports_served> "m.0ngd8k2" .
+<Bombing_of_Duisburg_in_World_War_II> <common.topic.article> "m.0268c8q" .
+<Duisburg> <location.location.events> "1997 Duisburger Filmwoche" .
+<Cologne> <location.administrative_division.country> "Germany" .
+<North_Rhine-Westphalia> <location.location.events> "North Rhine-Westphalia state election, 1980" .
+<University_of_Duisburg-Essen> <education.educational_institution.students_graduates> "m.01283902" .
+<Kleve_(district)> <location.location.nearby_airports> "Weeze Airport" .
+<University_of_Duisburg-Essen> <common.topic.article> "m.09ggxs" .
+<2014_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Duisburg> <common.topic.image> "Schwanentor Bridge" .
+<Operation_Hurricane> <common.topic.notable_for> "g.12551l9yl" .
+<North_Rhine-Westphalia> <common.topic.image> "NRW2Orte" .
+<Mülheim> <base.aareas.schema.administrative_area.administrative_area_type> "German urban district" .
+<Mülheim> <location.location.containedby> "Germany" .
+<Structure> <freebase.type_profile.strict_included_types> "Topic" .
+<Muenster> <location.hud_county_place.place> "Muenster" .
+<m.03lfhzz> <common.webpage.category> "Official Website" .
+<German_state> <base.aareas.schema.administrative_area_type.iso_country> "Germany" .
+<1979_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<Wedaustadion> <common.topic.notable_for> "g.12573yqw9" .
+<Operation_Hurricane> <common.topic.image> "m.02gtnyn" .
+<Düsseldorf> <location.location.contains> "Düsseldorf" .
+<1988_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Opening date" .
+<Dominik_Buch> <people.person.place_of_birth> "North Rhine-Westphalia" .
+<German_government_district> <type.type.domain> "Administrative Areas" .
+<1979_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Closing date" .
+<1996–97_Bundesliga> <time.event.next_in_series> "1997–98 Bundesliga" .
+<Duisburg> <location.location.events> "2007 Duisburger Filmwoche" .
+<San_Luca_feud> <time.event.locations> "Duisburg" .
+<North_Rhine-Westphalia> <government.governmental_jurisdiction.governing_officials> "m.010qb90w" .
+<m.0svv9n3> <education.education.institution> "University of Duisburg-Essen" .
+<Sports_Facility> <freebase.type_profile.strict_included_types> "Topic" .
+<Düsseldorf> <location.statistical_region.population> "m.0gtmffg" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "1984 Duisburger Filmwoche" .
+<German_city> <common.topic.article> "m.0djhrpq" .
+<1995_Duisburger_Filmwoche> <time.event.locations> "Duisburg" .
+<German_state> <freebase.type_profile.equivalent_topic> "German state" .
+<1997_Duisburger_Filmwoche> <film.film_festival_event.festival> "Duisburger Filmwoche" .
+<m.03kw6dg> <common.webpage.topic> "Duisburg" .
+<Sports_Facility> <freebase.type_hints.included_types> "Location" .
+<San_Luca_feud> <base.culturalevent.event.entity_involved> "Giovanni Strangio" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "g.12lqjd8lx" .
+<German_state> <base.aareas.schema.administrative_area_type.administrative_division_type> "German state" .
+<German_city_is_not_suited_to_be_the_administrative_division_type_for_German_City.> <base.uncommon.exception.focus> "German city" .
+<University_of_Duisburg> <common.topic.notable_types> "College/University" .
+<Duisburg> <location.location.events> "2012 Duisburger Filmwoche" .
+<1993_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<Weeze_Airport> <aviation.airport.serves> "Duisburg" .
+<Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <film.film_festival.individual_festivals> "2013 Köln Stranger Than Fiction Documentary Film Festival" .
+<Krefeld> <base.aareas.schema.administrative_area.administrative_area_type> "German city" .
+<Duisburg> <location.location.events> "2011 Duisburger Filmwoche" .
+<Weeze_Airport> <aviation.airport.airport_type> "Public airport" .
+<Official_website> <type.property.schema> "Topic" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Christoph Brüx" .
+<Oberhausen> <base.aareas.schema.administrative_area.administrative_parent> "Düsseldorf" .
+<Love_Parade_2010> <common.topic.article> "m.0cm96_l" .
+<Germany> <base.aareas.schema.administrative_area.pertinent_type> "German district" .
+<Weeze> <location.location.nearby_airports> "Weeze Airport" .
+<Love_Parade_2010> <common.topic.image> "Übersichtskarte Loveparade Duisburg 2010" .
+<University_of_Duisburg-Essen> <education.educational_institution.students_graduates> "m.0_lfrv9" .
+<2013_Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <time.event.locations> "Bochum" .
+<German_district> <base.aareas.schema.administrative_area_type.iso_country> "Germany" .
+<German_district> <type.type.domain> "Administrative Areas" .
+<1993_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<2013_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q3sh2jyv" .
+<2013_Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <time.event.locations> "Düsseldorf" .
+<Love_Parade_2010> <time.event.instance_of_recurring_event> "Love Parade" .
+<Disaster> <freebase.type_profile.strict_included_types> "Event" .
+<German_urban_district> <base.uncommon.topic.exceptions> "St. Gallen should be contained in some Scottish district, German rural district, Beninese sub-prefectures, Afghan district, East Timorese subdistrict, Belizean constituency, Bangladeshi district, New Zealand district, Seychellois district, Burmese district, Parish of the Isle of Man, Lebanese county, Ghanaian metropolitan district, Thai district, South Korean county, District of the Philippines, Nigerian local government area, Congolese zone, Cape Verdian parish, Papua New Guinean district, Jordanian sub-district, District of Saint Helena, Omani district, Israeli subdistrict, Lithuanian district municipality, Canton of Luxembourg, County of Croatia, Dominican parish, Spanish comarca, Libyan district, District of the Bahamas, Cambodian district, District of the French Southern Territories, District of São Tomé and Príncipe, Paraguayan district, District of Mauritius, Bruneian mukim, Commune of the Faroe Islands, Swiss district, Ghanaian district, Austrian political district, South African district, District of Nauru, German urban district, Slovak district, Polish county, Brazilian municipality, Northern Irish district, Albanian bashkia, Central African sub-prefecture, Hungarian urban county, Canadian county, District of Sierra Leone, Congolese district, Belarusian district, Romanian county, Subdistrict of Botswana, Ethiopian zone, Tanzanian district, County of South Sudan, Belgian arrondissement, Irish county, Rwandan district, District of Hong Kong, Indian subdivision, District of Anguilla, Moldovan district, Surinamese ressort, Syrian district, Cueillete of Jersey, Liberian district, District of Serbia, Somalian district, Kenyan district, Ghanaian ordinary district, Nepalese district, District of Laos, Iranian county, Cayman Islands district, Vingtaine of Jersey, Quarter of Saint Lucia, Angolan council, Gambian district, Singapore district, Guinean subprefecture, Malaysian district, Taiwanese district, Panamanian district, District of Kyrgyzstan, Albanian komuna, Czech district, Indonesian subdistrict, Sudanese district, District of Mozambique, Samoan district, Argentinian department, District of Malawi, Local council of Malta, Ecuadorean canton, Costa Rican canton, or Ghanaian municipal district within Canton of St. Gallen." .
+<Theater_Duisburg> <location.location.geolocation> "m.0wmfqzz" .
+<Duisburger_Filmwoche> <film.film_festival.individual_festivals> "2008 Duisburger Filmwoche" .
+<1998_Duisburger_Filmwoche> <time.event.instance_of_recurring_event> "Duisburger Filmwoche" .
+<German_district> <base.aareas.schema.administrative_area_type.subdivides_type> "German government district" .
+<Bombing_of_Duisburg_in_World_War_II> <time.event.locations> "Duisburg" .
+<Mettmann> <location.location.containedby> "Düsseldorf" .
+<1981_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Start date" .
+<Bombing_of_Duisburg_in_World_War_II> <time.event.included_in_event> "Strategic bombing during World War II" .
+<m.0jvvhps> <location.administrative_division_capital_relationship.capital> "Düsseldorf" .
+<Duisburger_Filmwoche> <time.recurring_event.instances> "2003 Duisburger Filmwoche" .
+<Düsseldorf> <location.location.containedby> "Düsseldorf" .
+<University_of_Duisburg-Essen> <education.educational_institution.colors> "White" .
+<1979_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<m.010qb90w> <government.government_position_held.governmental_body> "Landtag of North Rhine-Westphalia" .
+<Building> <freebase.type_profile.strict_included_types> "Structure" .
+<1992_Duisburger_Filmwoche> <common.topic.notable_types> "Film festival event" .
+<German_government_district> <base.aareas.schema.administrative_area_type.subdividing_type> "German district" .
+<North_Rhine-Westphalia> <location.location.people_born_here> "Sylvia Löhrmann" .
+<Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <film.film_festival.location> "Dortmund" .
+<North_Rhine-Westphalia> <government.governmental_jurisdiction.government_bodies> "Landtag of North Rhine-Westphalia" .
+<Old_Cemetery> <location.location.containedby> "Mülheim" .
+<Schwanentor_Bridge> <common.image.appears_in_topic_gallery> "Duisburg" .
+<1993_Duisburger_Filmwoche> <freebase.valuenotation.has_value> "Official website" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<2013_Köln_Stranger_Than_Fiction_Documentary_Film_Festival> <time.event.locations> "Dortmund" .
+<1981_Duisburger_Filmwoche> <common.topic.notable_for> "g.1q67b255f" .
+<Mercator_School_of_Management> <common.topic.notable_types> "College/University" .

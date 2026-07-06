@@ -1,0 +1,1754 @@
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Cambrian_Park,_California> <location.hud_county_place.county> "Santa Clara County" .
+<United_States_of_America> <location.country.first_level_divisions> "New Jersey" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "North Carolina" .
+<Missouri> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Aaron_Gordon> <basketball.basketball_player.position_s> "Forward" .
+<95130> <location.location.containedby> "Santa Clara County" .
+<2001_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Mayor_of_San_Jose> <government.government_office_or_title.jurisdiction> "San Jose" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Alum Rock" .
+<Forward> <sports.sports_position.sport> "Basketball" .
+<1997_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1997 NCAA Men's Division I Basketball Tournament- West Regional Semifinals" .
+<United_States_of_America> <location.location.time_zones> "Pacific Time Zone" .
+<Santa_Clara_County> <location.us_county.hud_county_place> "Alum Rock" .
+<m.0k1bdyr> <government.government_position_held.office_position_or_title> "Mayor of San Jose" .
+<San_Jose_Museum_of_Art> <location.location.time_zones> "Pacific Time Zone" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<North_Carolina> <base.locations.states_and_provences.country> "United States of America" .
+<2015_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<San_Jose> <location.location.geolocation> "m.0kjbn6" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Washington" .
+<2003_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<San_Jose> <location.citytown.postal_codes> "95153" .
+<San_Jose> <location.location.containedby> "Area code 408" .
+<United_States_of_America> <location.country.administrative_divisions> "South Dakota" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<2005_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<United_States_of_America> <location.country.first_level_divisions> "Utah" .
+<United_States_of_America> <location.country.administrative_divisions> "New Jersey" .
+<Utah> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<East_San_Jose> <location.location.containedby> "San Jose" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Louisiana> <location.administrative_division.first_level_division_of> "United States of America" .
+<95155> <location.postal_code.country> "United States of America" .
+<1997_NCAA_Men's_Division_I_Basketball_Tournament> <time.event.locations> "San Jose" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Maine" .
+<2014_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<m.0swfcb7> <people.sibling_relationship.sibling> "Aaron Gordon" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.administrative_children> "United States of America" .
+<Nevada> <base.biblioness.bibs_location.country> "United States of America" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<New_Hampshire> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Missouri> <location.administrative_division.first_level_division_of> "United States of America" .
+<2013_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<95126> <location.location.contains> "Rosicrucian Egyptian Museum" .
+<Arkansas> <base.biblioness.bibs_location.country> "United States of America" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Alaska> <location.location.containedby> "United States of America" .
+<1990_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<2015_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<United_States_of_America> <location.country.administrative_divisions> "Vermont" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Naglee Park" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<Winchester_Mystery_House> <location.location.containedby> "North America" .
+<Alabama> <base.biblioness.bibs_location.country> "United States of America" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<Nevada> <location.administrative_division.country> "United States of America" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<San_Jose> <location.location.nearby_airports> "Reid-Hillview Airport" .
+<Georgia> <base.locations.states_and_provences.country> "United States of America" .
+<Oklahoma> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Indiana" .
+<Arkansas> <location.administrative_division.country> "United States of America" .
+<U.S._federal_district> <freebase.type_hints.included_types> "Topic" .
+<San_Jose> <travel.travel_destination.climate> "m.052w0pq" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2010 Cinequest Film Festival" .
+<San_Jose> <location.statistical_region.population> "m.064hwjq" .
+<95121> <location.location.containedby> "Santa Clara County" .
+<Male> <common.topic.article> "m.05zpq8" .
+<Oregon> <location.location.containedby> "United States of America" .
+<95126> <location.postal_code.country> "United States of America" .
+<Massachusetts> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Oregon> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Alabama" .
+<San_Jose> <travel.travel_destination.climate> "m.052w0qz" .
+<Almaden_Valley> <location.neighborhood.neighborhood_of> "San Jose" .
+<Children's_Discovery_Museum_of_San_Jose> <location.location.containedby> "San Jose" .
+<San_Jose> <location.statistical_region.population> "m.064hwk8" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "1998 Cinequest Film Festival" .
+<Berryessa> <location.location.time_zones> "Pacific Time Zone" .
+<United_States_of_America> <location.country.administrative_divisions> "Minnesota" .
+<San_Jose> <location.location.nearby_airports> "San Jose International Airport" .
+<Massachusetts> <base.biblioness.bibs_location.country> "United States of America" .
+<University_of_New_Mexico> <education.educational_institution_campus.educational_institution> "University of New Mexico" .
+<San_Jose> <location.statistical_region.population> "m.0jtb7t3" .
+<North_Dakota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Hawaii> <location.administrative_division.first_level_division_of> "United States of America" .
+<Japantown> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<95134> <location.postal_code.country> "United States of America" .
+<m.052w0qz> <travel.travel_destination_monthly_climate.travel_destination> "San Jose" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw6v" .
+<Missouri> <base.locations.states_and_provences.country> "United States of America" .
+<m.052w19p> <common.webpage.topic> "San Jose" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<2014_Vietnam_anti-China_protests> <time.event.locations> "Washington, D.C." .
+<Basketball_player> <people.profession.corresponding_type> "Basketball Player" .
+<San_Jose> <location.statistical_region.population> "g.11x1lr9k0" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Maine" .
+<United_States_of_America> <location.country.first_level_divisions> "Washington, D.C." .
+<95129-1034> <location.location.containedby> "California" .
+<San_Jose> <symbols.namesake.named_after> "Saint Joseph" .
+<m.03p6fz6> <government.government_position_held.jurisdiction_of_office> "San Jose" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Alviso" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95125" .
+<South_San_Jose> <common.topic.image> "San Jose California aerial view south" .
+<Utah> <base.locations.states_and_provences.country> "United States of America" .
+<m.03p6fz6> <government.government_position_held.office_position_or_title> "Mayor of San Jose" .
+<1994_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<United_States_of_America> <location.location.primarily_containedby> "North America" .
+<Willow_Glen> <location.neighborhood.neighborhood_of> "San Jose" .
+<Happy_Hollow_Park_&_Zoo> <location.location.containedby> "San Jose" .
+<New_Mexico_Lobos_Basketball> <sports.sports_team.sport> "Basketball" .
+<Basketball_Player> <type.type.properties> "Position(s)" .
+<2004_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<2001_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<East_Foothills> <location.neighborhood.neighborhood_of> "San Jose" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<Blossom_Valley> <location.location.containedby> "San Jose" .
+<Tennessee> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "South Dakota" .
+<Saint_Joseph> <symbols.name_source.namesakes> "San Jose" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2013 Cinequest Film Festival" .
+<San_Jose> <common.topic.notable_types> "City/Town/Village" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "East Foothills" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<2000_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<95148> <location.location.containedby> "Santa Clara County" .
+<San_Jose> <location.statistical_region.population> "m.064hwlz" .
+<2011_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw9f" .
+<95113-2806> <location.location.contains> "San Jose Museum of Quilts & Textiles" .
+<SJPan> <common.image.appears_in_topic_gallery> "West San Jose" .
+<San_Jose> <location.statistical_region.population> "g.11x1jrh14" .
+<Montana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Montana> <location.location.containedby> "United States, with Territories" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "Rock ‘n’ Roll San Jose Half Marathon" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Wisconsin" .
+<United_States_of_America> <location.country.administrative_divisions> "South Carolina" .
+<San_Jose_California_aerial_view_south> <common.image.appears_in_topic_gallery> "San Jose" .
+<95139> <location.postal_code.country> "United States of America" .
+<2006_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Saint_Joseph> <people.person.gender> "Male" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Alabama" .
+<San_Jose> <location.statistical_region.population> "g.11x1mhpfl" .
+<m.052v_jw> <travel.transportation.travel_destination> "San Jose" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2011 Cinequest Film Festival" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<1993_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<2004_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<Vermont> <location.administrative_division.country> "United States of America" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Winchester" .
+<Happy_Hollow_Park_&_Zoo> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<95110> <location.location.containedby> "Santa Clara County" .
+<San_Jose> <location.citytown.postal_codes> "95124" .
+<Arkansas> <base.locations.states_and_provences.country> "United States of America" .
+<Basketball_Player> <freebase.type_profile.strict_included_types> "Athlete" .
+<Pro_Line_Garage_Doors> <common.topic.subjects> "San Jose" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Delaware" .
+<m.0n1c903> <education.education.institution> "University of California, Los Angeles" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Mayor_of_San_Jose> <government.government_office_or_title.office_holders> "m.03p6fz6" .
+<Burbank> <location.hud_county_place.place> "Burbank" .
+<Ohio> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Jose> <common.topic.notable_for> "g.125dr_hz0" .
+<San_Jose> <common.topic.subject_of> "Pro Line Garage Doors" .
+<95136> <location.location.containedby> "Santa Clara County" .
+<Drew_Gordon> <common.topic.article> "m.0gyrdqs" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<m.0wkf4yv> <people.place_lived.location> "San Jose" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Iowa" .
+<95131> <location.location.containedby> "Santa Clara County" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<m.0k1bdyr> <government.government_position_held.jurisdiction_of_office> "San Jose" .
+<95148> <location.postal_code.country> "United States of America" .
+<2012_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Michigan> <location.administrative_division.country> "United States of America" .
+<San_Jose> <travel.travel_destination.climate> "m.052w0rq" .
+<m.052v_qp> <travel.transportation.travel_destination> "San Jose" .
+<United_States_of_America> <location.country.administrative_divisions> "Nevada" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Florida" .
+<Minnesota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Kansas> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Jose> <location.location.events> "2015 Cinequest Film Festival" .
+<SJPan> <common.image.appears_in_topic_gallery> "San Jose" .
+<Willow_Glen> <location.location.containedby> "California" .
+<United_States_of_America> <location.country.first_level_divisions> "North Dakota" .
+<San_Jose> <sports.sports_team_location.teams> "San Jose Earthquakes" .
+<Willow_Glen> <location.location.containedby> "San Jose" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Iowa" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw5h" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Massachusetts" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2004 Cinequest Film Festival" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2001 Cinequest Film Festival" .
+<Texas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Vermont" .
+<Drew_Gordon> <people.person.sibling_s> "m.0swfcb7" .
+<Santa_Clara_County> <location.location.containedby> "Silicon Valley" .
+<Wyoming> <location.administrative_division.country> "United States of America" .
+<95191> <location.postal_code.country> "United States of America" .
+<Alum_Rock> <location.neighborhood.neighborhood_of> "San Jose" .
+<San_Jose> <location.location.events> "2002 Cinequest Film Festival" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<m.09ww3jz> <common.webpage.topic> "San Jose" .
+<San_Jose> <location.citytown.postal_codes> "95152" .
+<United_States,_with_Territories> <base.aareas.schema.earth.sovereign_domain.sovereign_state> "United States of America" .
+<Texas> <base.aareas.schema.administrative_area.administrative_area_type> "U.S. state" .
+<University_of_California,_Los_Angeles> <education.educational_institution.campuses> "University of California, Los Angeles" .
+<San_Jose> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07hc_py" .
+<Basketball_Player> <freebase.type_profile.kind> "Title" .
+<San_Jose> <location.citytown.postal_codes> "95106" .
+<Arizona> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<2008_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<The_Tech_Museum_of_Innovation> <location.location.containedby> "California" .
+<United_States_of_America> <location.country.first_level_divisions> "Maine" .
+<Connecticut> <location.location.containedby> "United States of America" .
+<Santa_Clara_County> <location.us_county.county_seat> "San Jose" .
+<2014_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<San_Jose> <location.hud_foreclosure_area.total_residential_addresses> "m.07hc_q4" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Texas" .
+<Washington,_D.C.> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Jose> <government.governmental_jurisdiction.governing_officials> "m.0_lxs_x" .
+<2011_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<San_Jose> <location.statistical_region.population> "g.1jmcbgv_1" .
+<United_States_of_America> <location.country.first_level_divisions> "West Virginia" .
+<Cambrian_Park,_California> <location.neighborhood.neighborhood_of> "San Jose" .
+<Drew_Gordon> <sports.pro_athlete.sports_played_professionally> "m.0gz3366" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<Kelley_Park> <location.location.containedby> "Santa Clara County" .
+<San_Jose> <location.citytown.postal_codes> "95172" .
+<m.0wkf4yv> <people.place_lived.person> "Drew Gordon" .
+<Palm_Haven> <location.neighborhood.neighborhood_of> "San Jose" .
+<Alabama> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Virginia" .
+<2013_Silicon_Valley_Jewish_Film_Festival> <time.event.locations> "San Jose" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<San_Jose> <location.location.events> "2011 San Jose International Short Film Festival" .
+<Nevada> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<United_States_of_America> <location.country.administrative_divisions> "Mississippi" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw5y" .
+<Washington> <location.location.containedby> "United States of America" .
+<1997_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Reid-Hillview_Airport> <location.location.containedby> "95122" .
+<Nebraska> <base.biblioness.bibs_location.country> "United States of America" .
+<Evergreen,_San_Jose,_California> <location.neighborhood.neighborhood_of> "San Jose" .
+<Burbank> <location.location.containedby> "San Jose" .
+<Shasta/Hanchett_Park> <location.neighborhood.neighborhood_of> "San Jose" .
+<Basketball_Player> <type.type.expected_by> "Basketball Players" .
+<Washington> <location.administrative_division.first_level_division_of> "United States of America" .
+<95118> <location.location.containedby> "Santa Clara County" .
+<Illinois> <location.administrative_division.first_level_division_of> "United States of America" .
+<Washington,_D.C.> <location.location.containedby> "United States, with Territories" .
+<San_Jose> <location.citytown.postal_codes> "95128" .
+<United_States_of_America> <location.country.administrative_divisions> "Alaska" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.subdividing_place> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<United_States_of_America> <base.aareas.schema.administrative_area.pertinent_type> "U.S. state" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "Kelley Park" .
+<Silicon_Valley> <base.biblioness.bibs_location.state> "California" .
+<San_Jose> <base.petbreeds.city_with_dogs.top_breeds> "m.063sfdb" .
+<San_Jose> <location.location.adjoin_s> "m.02wtpzr" .
+<Nevada> <base.locations.states_and_provences.country> "United States of America" .
+<95127> <location.location.containedby> "Santa Clara County" .
+<95117> <location.postal_code.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Rhode Island" .
+<San_Jose> <base.petbreeds.city_with_dogs.top_breeds> "m.063sfcl" .
+<United_States_of_America> <location.country.administrative_divisions> "Delaware" .
+<North_America> <location.location.contains_major_portion_of> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Kansas" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Cambrian Park, California" .
+<1997_NCAA_Men's_Division_I_Basketball_Tournament-_West_Regional_Finals> <time.event.locations> "San Jose" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2008 Cinequest Film Festival" .
+<Basketball_Player> <freebase.type_hints.included_types> "Athlete" .
+<San_Jose> <location.citytown.postal_codes> "95196" .
+<San_Jose> <location.statistical_region.population> "m.064hwkg" .
+<95129-1034> <location.location.containedby> "United States of America" .
+<Colorado> <location.location.containedby> "United States of America" .
+<Minnesota> <base.locations.states_and_provences.continent> "North America" .
+<m.0gz45b9> <education.education.student> "Drew Gordon" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<San_Jose> <location.hud_county_place.county> "Santa Clara County" .
+<San_Jose> <location.location.events> "2014 Cinequest Film Festival" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2006 Cinequest Film Festival" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<San_Jose> <location.location.events> "2005 Filmapalooza" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Illinois" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Connecticut" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Nebraska" .
+<New_York> <location.administrative_division.country> "United States of America" .
+<Downtown_San_Jose> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Ohio" .
+<2014_San_Jose_International_Short_Film_Festival> <time.event.locations> "San Jose" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "East San Jose" .
+<95113-2806> <location.postal_code.country> "United States of America" .
+<California> <base.biblioness.bibs_location.country> "United States of America" .
+<Washington> <base.biblioness.bibs_location.country> "United States of America" .
+<Iowa> <base.locations.states_and_provences.country> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95159" .
+<Rosicrucian_Egyptian_Museum> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<Indiana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<95120> <location.postal_code.country> "United States of America" .
+<North_Dakota> <location.location.containedby> "United States, with Territories" .
+<Basketball_Player> <common.topic.article> "m.021_j89" .
+<Area_code_408> <location.location.contains> "San Jose" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<2014_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<5_Star_Loans> <organization.organization.geographic_scope> "San Jose" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw71" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<Peak_Sales_Recruiting> <organization.organization.geographic_scope> "Washington, D.C." .
+<m.052w0q6> <travel.travel_destination_monthly_climate.travel_destination> "San Jose" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<2012_Shnit_International_Short_Film_Festival> <time.event.locations> "San Jose" .
+<Santana_Row> <location.location.containedby> "California" .
+<Sunol-Midtown> <location.location.containedby> "San Jose" .
+<Silicon_Valley> <location.location.containedby> "California" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "1990 Cinequest Film Festival" .
+<95113> <location.location.containedby> "United States of America" .
+<Tennessee> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<San_Jose> <location.statistical_region.population> "g.11x1k0p1z" .
+<95129> <location.location.contains> "95129-1034" .
+<United_States_of_America> <location.country.administrative_divisions> "Alabama" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<United_States_of_America> <base.locations.countries.continent> "North America" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<95133> <location.location.containedby> "Santa Clara County" .
+<Santa_Clara_Valley_Transportation_Authority> <metropolitan_transit.transit_system.area_served> "San Jose" .
+<Ohio> <location.administrative_division.first_level_division_of> "United States of America" .
+<San_Jose> <location.location.events> "2002 Hugo Awards" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<New_Mexico> <base.biblioness.bibs_location.country> "United States of America" .
+<m.02wtpt4> <location.adjoining_relationship.adjoins> "San Jose" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<1996_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<Edenvale> <location.neighborhood.neighborhood_of> "San Jose" .
+<United_States_of_America> <location.country.administrative_divisions> "Georgia" .
+<New_Hampshire> <location.administrative_division.country> "United States of America" .
+<Idaho> <location.location.containedby> "United States of America" .
+<South_Dakota> <base.locations.states_and_provences.country> "United States of America" .
+<Santa_Clara_County> <base.wikipedia_infobox.settlement.area_code> "Area codes 408 and 669" .
+<GPU_Technology_Conference_2012> <time.event.locations> "San Jose" .
+<United_States_of_America> <location.country.administrative_divisions> "New York" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Missouri" .
+<Indiana> <location.administrative_division.country> "United States of America" .
+<Area_code_669> <location.location.contains> "San Jose" .
+<m.0swfcb7> <people.sibling_relationship.sibling> "Drew Gordon" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Michigan" .
+<m.0gz4n_b> <education.education.institution> "Archbishop Mitty High School" .
+<Illinois> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Jose> <location.capital_of_administrative_division.capital_of> "m.0jvvrjc" .
+<Mississippi> <location.location.containedby> "United States of America" .
+<Power_forward> <common.topic.image> "Basketball half-court" .
+<Alabama> <location.location.containedby> "United States of America" .
+<95161> <location.postal_code.country> "United States of America" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<United_States_of_America> <location.country.first_level_divisions> "Mississippi" .
+<Basketball_Player> <freebase.type_hints.included_types> "Topic" .
+<Alabama> <location.administrative_division.first_level_division_of> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95121" .
+<2009_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<Downtown_San_Jose> <location.neighborhood.neighborhood_of> "San Jose" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdividing_type> "U.S. federal district" .
+<Power_forward> <common.topic.image> "Tim Duncan" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<San_Jose> <location.location.events> "2013 Nebula Awards" .
+<Hawaii> <location.location.containedby> "United States of America" .
+<San_Jose> <location.statistical_region.population> "g.11x1kyl9v" .
+<Arizona> <location.location.containedby> "United States of America" .
+<95113> <location.postal_code.country> "United States of America" .
+<Oklahoma> <location.administrative_division.country> "United States of America" .
+<Shasta/Hanchett_Park> <location.location.containedby> "San Jose" .
+<Maine> <location.location.containedby> "United States, with Territories" .
+<Florida> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<m.052w0qg> <travel.travel_destination_monthly_climate.travel_destination> "San Jose" .
+<San_Jose_Museum_of_Quilts_&_Textiles> <location.location.containedby> "95113-2806" .
+<Drew_Gordon> <sports.pro_athlete.teams> "m.0j4xbyn" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<Blossom_Valley> <location.location.time_zones> "Pacific Time Zone" .
+<95159> <location.postal_code.country> "United States of America" .
+<West_San_Jose> <common.topic.image> "SJPan" .
+<m.063sfcv> <base.petbreeds.dog_city_relationship.cities> "San Jose" .
+<Pennsylvania> <base.locations.states_and_provences.country> "United States of America" .
+<Meadowfair> <location.location.containedby> "San Jose" .
+<Arkansas> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.location.containedby> "United States, with Territories" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw8x" .
+<San_Jose> <location.statistical_region.population> "g.11x1h6q2c" .
+<Basketball_Player> <freebase.type_hints.included_types> "Person" .
+<Aaron_Gordon> <people.person.nationality> "United States of America" .
+<Basketball_Player> <freebase.type_profile.published> "Published" .
+<East_Foothills> <location.hud_county_place.place> "East Foothills" .
+<West_San_Jose> <location.neighborhood.neighborhood_of> "San Jose" .
+<Wyoming> <location.location.containedby> "United States, with Territories" .
+<North_Dakota> <base.biblioness.bibs_location.country> "United States of America" .
+<East_Foothills> <location.hud_county_place.county> "Santa Clara County" .
+<Willow_Glen> <location.location.containedby> "Santa Clara County" .
+<Missouri> <base.biblioness.bibs_location.country> "United States of America" .
+<North_America> <base.locations.continents.states_provinces_within> "Wisconsin" .
+<San_Jose> <location.location.events> "2012 San Jose International Short Film Festival" .
+<2008_Filmapalooza> <time.event.locations> "San Jose" .
+<United_States_of_America> <location.country.administrative_divisions> "Arizona" .
+<1997_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "Massachusetts" .
+<Wyoming> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<New_York> <location.location.containedby> "United States of America" .
+<Oklahoma> <location.location.containedby> "United States, with Territories" .
+<Pro_Line_Garage_Doors> <organization.organization.geographic_scope> "San Jose" .
+<San_Jose> <location.statistical_region.population> "g.11x1jh1sf" .
+<United_States_of_America> <location.country.first_level_divisions> "Nebraska" .
+<m.0j4xbyn> <sports.sports_team_roster.team> "New Mexico Lobos Basketball" .
+<East_San_Jose> <location.neighborhood.neighborhood_of> "San Jose" .
+<United_States_of_America> <location.country.first_level_divisions> "New Mexico" .
+<United_States_of_America> <location.country.administrative_divisions> "Connecticut" .
+<United_States_of_America> <location.country.first_level_divisions> "Alaska" .
+<Drew_Gordon> <common.topic.article> "m.05ct1p4" .
+<Winchester_Mystery_House> <location.location.containedby> "San Jose" .
+<New_York> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Utah> <base.biblioness.bibs_location.country> "United States of America" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2004 Cinequest Film Festival" .
+<1999_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<95113-2806> <location.location.contains> "The Tech Museum of Innovation" .
+<San_Jose> <location.location.adjoin_s> "m.046cwb4" .
+<San_Jose> <base.biblioness.bibs_location.state> "California" .
+<Kentucky> <location.location.containedby> "United States, with Territories" .
+<San_Jose> <location.location.adjoin_s> "m.02wtpzj" .
+<Drew_Gordon> <people.person.nationality> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Nevada" .
+<United_States_of_America> <government.governmental_jurisdiction.government_bodies> "Supreme Court of the United States" .
+<North_Carolina> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<U.S._state> <base.aareas.schema.administrative_area_type.subdivides_place> "United States of America" .
+<U.S._federal_district> <base.aareas.schema.administrative_area_type.iso_country> "United States of America" .
+<Alviso> <location.neighborhood.neighborhood_of> "San Jose" .
+<95152> <location.postal_code.country> "United States of America" .
+<Aaron_Gordon> <people.person.sibling_s> "m.0swfcb7" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw6m" .
+<Arizona> <base.locations.states_and_provences.country> "United States of America" .
+<95124> <location.location.containedby> "Santa Clara County" .
+<Royal_Rumble_(1998)> <time.event.locations> "San Jose" .
+<United_States_of_America> <location.country.first_level_divisions> "South Carolina" .
+<95129-1034> <location.location.containedby> "95129" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Kentucky" .
+<San_Jose> <location.statistical_region.population> "g.1jmcbjbys" .
+<2007_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<San_Jose> <location.location.events> "2014 Vietnam anti-China protests" .
+<San_Jose> <base.petbreeds.city_with_dogs.top_breeds> "m.063sfcg" .
+<2000_Turing_Award_Ceremony> <time.event.locations> "San Jose" .
+<San_Jose> <location.statistical_region.population> "m.064hwjx" .
+<San_Jose> <location.statistical_region.population> "m.064hwls" .
+<Santa_Clara_County> <location.location.time_zones> "Pacific Time Zone" .
+<Montana> <location.location.containedby> "United States of America" .
+<Colorado> <location.location.containedby> "United States, with Territories" .
+<San_Jose> <location.location.containedby> "United States of America" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw9n" .
+<New_Jersey> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<California> <location.location.time_zones> "Pacific Time Zone" .
+<Berryessa> <location.location.containedby> "California" .
+<Wisconsin> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Jose> <base.petbreeds.city_with_dogs.top_breeds> "m.063sfcb" .
+<1999_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "West Virginia" .
+<United_States_of_America> <location.country.administrative_divisions> "Colorado" .
+<North_Carolina> <base.biblioness.bibs_location.country> "United States of America" .
+<Georgia> <location.location.containedby> "United States, with Territories" .
+<1994_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Washington> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<95125> <location.postal_code.country> "United States of America" .
+<Alaska> <location.administrative_division.country> "United States of America" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<95112> <location.postal_code.country> "United States of America" .
+<New_York> <base.locations.states_and_provences.country> "United States of America" .
+<U.S._state> <freebase.type_hints.included_types> "Topic" .
+<Wisconsin> <base.locations.states_and_provences.country> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95158" .
+<San_Jose> <common.topic.image> "SanJoseDowntownIMG016elf_wb.jpg" .
+<San_Jose> <location.location.events> "GPU Technology Conference 2012" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<United_States_of_America> <location.country.first_level_divisions> "Virginia" .
+<United_States_of_America> <location.country.first_level_divisions> "Florida" .
+<San_Jose> <location.citytown.postal_codes> "95194" .
+<Alum_Rock> <location.hud_county_place.place> "Alum Rock" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<1997_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1997 NCAA Men's Division I Basketball Tournament- West Regional Finals" .
+<Nebraska> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<United_States_of_America> <location.country.first_level_divisions> "New York" .
+<San_Jose> <base.biblioness.bibs_location.city> "Silicon Valley" .
+<95106> <location.postal_code.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<United_States_of_America> <location.country.first_level_divisions> "New Hampshire" .
+<United_States_of_America> <location.country.first_level_divisions> "South Dakota" .
+<New_Jersey> <location.administrative_division.first_level_division_of> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95190" .
+<Alum_Rock> <location.hud_county_place.county> "Santa Clara County" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "1993 Cinequest Film Festival" .
+<West_Virginia> <location.administrative_division.country> "United States of America" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Evergreen, San Jose, California" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<Maine> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Alaska" .
+<m.02wtpzj> <location.adjoining_relationship.adjoins> "San Jose" .
+<North_America> <location.location.partially_contains> "United States, with Territories" .
+<2000_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<San_Jose> <location.statistical_region.population> "g.11x1f2m40" .
+<m.0gz45b9> <education.education.institution> "University of New Mexico" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.063sfcq> <base.petbreeds.dog_city_relationship.cities> "San Jose" .
+<Maryland> <location.administrative_division.first_level_division_of> "United States of America" .
+<Basketball_Player> <type.type.expected_by> "Basketball player" .
+<San_Jose> <location.location.events> "1992 Cinequest Film Festival" .
+<San_Jose> <location.citytown.postal_codes> "95136" .
+<San_Jose_Museum_of_Art> <location.location.containedby> "San Jose" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Montana" .
+<2004_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Santa_Clara_County> <location.us_county.hud_county_place> "Burbank" .
+<95129> <location.location.containedby> "San Jose" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Alabama" .
+<San_Jose> <travel.travel_destination.climate> "m.052w0r6" .
+<New_Jersey> <location.administrative_division.country> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95117" .
+<Rhode_Island> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "West Virginia" .
+<Winchester> <location.neighborhood.neighborhood_of> "San Jose" .
+<Pennsylvania> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Massachusetts" .
+<San_Jose> <location.citytown.postal_codes> "95155" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<Athlete> <freebase.type_profile.published> "Published" .
+<Wyoming> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Colorado" .
+<San_Jose> <location.statistical_region.population> "m.064hwkv" .
+<San_Jose> <location.citytown.postal_codes> "95170" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Nevada" .
+<San_Jose> <location.statistical_region.population> "g.11btt4l60b" .
+<m.02wtpz7> <location.adjoining_relationship.adjoins> "San Jose" .
+<Athlete> <freebase.type_hints.included_types> "Topic" .
+<Basketball_Player> <type.type.properties> "Career Averages" .
+<University_of_New_Mexico> <location.location.containedby> "New Mexico" .
+<San_Jose> <location.statistical_region.population> "g.11x1cvzz_" .
+<Area_code_408> <location.location.containedby> "California" .
+<South_Carolina> <location.location.containedby> "United States, with Territories" .
+<Iowa> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oklahoma" .
+<San_Jose> <location.citytown.postal_codes> "95141" .
+<95150> <location.postal_code.country> "United States of America" .
+<San_Jose> <location.location.events> "SC1997" .
+<United_States_of_America> <location.country.administrative_divisions> "Idaho" .
+<Winchester_Mystery_House> <location.location.containedby> "California" .
+<The_Tech_Museum_of_Innovation> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Texas" .
+<Santa_Clara_County> <periodicals.newspaper_circulation_area.newspapers> "San Jose Mercury News" .
+<California> <organization.organization_scope.organizations_with_this_scope> "5 Star Loans" .
+<University_of_New_Mexico> <education.educational_institution.sports_teams> "New Mexico Lobos Basketball" .
+<Wyoming> <base.biblioness.bibs_location.country> "United States of America" .
+<Illinois> <base.locations.states_and_provences.country> "United States of America" .
+<Basketball_Player> <type.type.properties> "Player Statistics" .
+<m.02wtpzr> <location.adjoining_relationship.adjoins> "San Jose" .
+<Wyoming> <location.administrative_division.first_level_division_of> "United States of America" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<San_Jose> <location.location.events> "1997 NCAA Men's Division I Basketball Tournament- West Regional Semifinals" .
+<San_Jose> <location.location.events> "2005 Cinequest Film Festival" .
+<Santa_Clara_County> <location.us_county.hud_county_place> "Sunol-Midtown" .
+<Hawaii> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.063sfcg> <base.petbreeds.dog_city_relationship.cities> "San Jose" .
+<Minnesota> <location.location.containedby> "United States, with Territories" .
+<Utah> <location.administrative_division.country> "United States of America" .
+<Michigan> <location.location.containedby> "United States of America" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<m.052w0s6> <travel.travel_destination_monthly_climate.travel_destination> "San Jose" .
+<Kentucky> <location.location.containedby> "United States of America" .
+<Archbishop_Mitty_High_School> <education.educational_institution.students_graduates> "m.0gz4n_b" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Sunol-Midtown" .
+<East_Foothills> <location.location.containedby> "Santa Clara County" .
+<San_Jose> <location.location.events> "2008 Cinequest Film Festival" .
+<South_San_Jose> <location.neighborhood.neighborhood_of> "San Jose" .
+<San_Jose> <location.hud_foreclosure_area.ofheo_price_change> "m.07hc_qk" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw7b" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Berryessa" .
+<South_Carolina> <location.administrative_division.first_level_division_of> "United States of America" .
+<2000_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<San_Jose> <common.topic.image> "SJPan" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Nebraska> <location.administrative_division.first_level_division_of> "United States of America" .
+<Idaho> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Mexico" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Japantown" .
+<Male> <common.topic.image> "male.jpg" .
+<95134> <location.location.containedby> "Santa Clara County" .
+<Wisconsin> <base.biblioness.bibs_location.country> "United States of America" .
+<Colorado> <location.administrative_division.first_level_division_of> "United States of America" .
+<Cambrian_Park,_California> <location.location.time_zones> "Pacific Time Zone" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Georgia" .
+<United_States_of_America> <location.country.first_level_divisions> "Montana" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<m.052w0pz> <travel.travel_destination_monthly_climate.travel_destination> "San Jose" .
+<United_States_of_America> <location.country.first_level_divisions> "Pennsylvania" .
+<Washington> <location.location.containedby> "United States, with Territories" .
+<New_Jersey> <base.biblioness.bibs_location.country> "United States of America" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<1994_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "West Valley" .
+<New_Hampshire> <location.administrative_division.first_level_division_of> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95151" .
+<San_Jose> <location.citytown.postal_codes> "95127" .
+<Burbank> <base.wikipedia_infobox.settlement.area_code> "Area codes 408 and 669" .
+<San_Jose> <location.location.events> "2007 Cinequest Film Festival" .
+<San_Jose> <location.citytown.postal_codes> "95129-1034" .
+<Montana> <base.locations.states_and_provences.continent> "North America" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Idaho> <location.administrative_division.country> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95191" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Rhode_Island> <location.administrative_division.first_level_division_of> "United States of America" .
+<Vermont> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States,_with_Territories> <location.country.first_level_divisions> "United States of America" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "1993 Cinequest Film Festival" .
+<United_States_of_America> <location.country.first_level_divisions> "Georgia" .
+<San_Jose> <location.hud_county_place.place> "San Jose" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<San_Jose> <sports.sports_team_location.teams> "San Jose Stealth" .
+<Burbank> <location.location.containedby> "California" .
+<SJPan> <common.image.appears_in_topic_gallery> "Downtown San Jose" .
+<Rose_Garden> <location.location.containedby> "San Jose" .
+<95113-2806> <location.location.containedby> "California" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<San_Jose_Museum_of_Art> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Willow Glen" .
+<Colorado> <base.locations.states_and_provences.country> "United States of America" .
+<95125> <location.location.containedby> "Santa Clara County" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2012 Cinequest Film Festival" .
+<San_Jose> <government.governmental_jurisdiction.governing_officials> "m.03p6fz6" .
+<San_Jose> <location.statistical_region.population> "g.1jmcbhfq4" .
+<Indiana> <location.location.containedby> "United States, with Territories" .
+<North_Carolina> <location.administrative_division.first_level_division_of> "United States of America" .
+<95129-1034> <location.location.containedby> "Santa Clara County" .
+<Rock_‘n’_Roll_San_Jose_Half_Marathon> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<Minnesota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95113" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<California> <location.administrative_division.country> "United States of America" .
+<New_Mexico> <base.locations.states_and_provences.country> "United States of America" .
+<Sunol-Midtown> <location.hud_county_place.place> "Sunol-Midtown" .
+<South_Dakota> <location.location.containedby> "United States of America" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "Happy Hollow Park & Zoo" .
+<Ohio> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Florida" .
+<New_Hampshire> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Illinois" .
+<Maine> <location.administrative_division.country> "United States of America" .
+<Kansas> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Delaware" .
+<Tennessee> <base.biblioness.bibs_location.country> "United States of America" .
+<2005_Filmapalooza> <time.event.locations> "San Jose" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Minnesota" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Meadowfair" .
+<2010_San_Jose_International_Short_Film_Festival> <time.event.locations> "San Jose" .
+<San_Jose> <location.statistical_region.population> "g.11x1fm_ty" .
+<Basketball> <freebase.equivalent_topic.equivalent_domain> "Basketball" .
+<Alviso> <location.location.time_zones> "Pacific Time Zone" .
+<San_Jose> <travel.travel_destination.climate> "m.052w0sg" .
+<North_Dakota> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Maryland" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<San_Jose> <common.topic.webpage> "m.02k9y62" .
+<San_Jose> <location.location.events> "2006 Cinequest Film Festival" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2015 Cinequest Film Festival" .
+<Santana_Row> <location.location.containedby> "95128" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Nebraska" .
+<San_Jose> <base.petbreeds.city_with_dogs.top_breeds> "m.063sfcz" .
+<San_Jose> <location.statistical_region.population> "m.064hwjj" .
+<University_of_California,_Los_Angeles> <location.location.containedby> "United States of America" .
+<m.052w0pq> <travel.travel_destination_monthly_climate.travel_destination> "San Jose" .
+<m.02wtpyz> <location.adjoining_relationship.adjoins> "San Jose" .
+<Basketball_Player> <base.descriptive_names.names.descriptive_name> "m.011__s08" .
+<Downtown_San_Jose> <location.location.containedby> "San Jose" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "1994 Cinequest Film Festival" .
+<San_Jose> <location.location.events> "Royal Rumble (1998)" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "San Jose" .
+<North_Dakota> <location.location.containedby> "United States of America" .
+<1992_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<San_Jose_Mercury_News> <book.newspaper.circulation_areas> "San Jose" .
+<San_Jose> <base.petbreeds.city_with_dogs.top_breeds> "m.063sfcv" .
+<United_States_of_America> <location.country.administrative_divisions> "Arkansas" .
+<California> <common.topic.subject_of> "Pro Line Garage Doors" .
+<2013_Nebula_Awards> <time.event.locations> "San Jose" .
+<95112> <location.location.containedby> "Santa Clara County" .
+<m.052w0r6> <travel.travel_destination_monthly_climate.travel_destination> "San Jose" .
+<Minnesota> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Washington, D.C." .
+<West_Valley> <location.neighborhood.neighborhood_of> "San Jose" .
+<Tennessee> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Rhode_Island> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Virginia> <location.location.containedby> "United States of America" .
+<Naglee_Park> <location.location.containedby> "San Jose" .
+<Pro_Line_Garage_Doors> <common.topic.subjects> "San Jose" .
+<95127> <location.postal_code.country> "United States of America" .
+<Meadowfair> <location.neighborhood.neighborhood_of> "San Jose" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Utah" .
+<Power_forward> <common.topic.notable_types> "Basketball Position" .
+<Texas> <base.biblioness.bibs_location.country> "United States of America" .
+<Coyote_Valley> <location.location.containedby> "San Jose" .
+<San_Jose_Municipal_Rose_Garden> <location.location.containedby> "Santa Clara County" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2009 Cinequest Film Festival" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<United_States_of_America> <location.country.administrative_divisions> "Virginia" .
+<San_Jose_Municipal_Rose_Garden> <location.location.containedby> "95126" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdividing_type> "U.S. state" .
+<San_Jose> <location.citytown.postal_codes> "95109" .
+<Texas> <base.locations.states_and_provences.country> "United States of America" .
+<University_of_California,_Los_Angeles> <location.location.containedby> "California" .
+<United_States_of_America> <location.country.administrative_divisions> "Maine" .
+<North_America> <base.locations.continents.states_provinces_within> "Minnesota" .
+<1990_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<San_Jose_Museum_of_Quilts_&_Textiles> <location.location.containedby> "Santa Clara County" .
+<United_States_of_America> <location.country.administrative_divisions> "Nebraska" .
+<Kansas> <base.locations.states_and_provences.country> "United States of America" .
+<Cambrian_Park,_California> <location.hud_county_place.place> "Cambrian Park, California" .
+<United_States_of_America> <location.country.administrative_divisions> "Montana" .
+<United_States_of_America> <location.country.administrative_divisions> "Pennsylvania" .
+<Maryland> <location.location.containedby> "United States of America" .
+<Alum_Rock_Park> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Montana" .
+<2008_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Berryessa> <location.location.containedby> "Santa Clara County" .
+<1992_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<West_Valley> <location.location.containedby> "San Jose" .
+<95129> <location.location.containedby> "Santa Clara County" .
+<Connecticut> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<San_Jose> <location.location.events> "1994 Cinequest Film Festival" .
+<Maryland> <location.administrative_division.country> "United States of America" .
+<Pennsylvania> <location.administrative_division.country> "United States of America" .
+<Almaden_Valley> <location.location.time_zones> "Pacific Time Zone" .
+<United_States_of_America> <law.court_jurisdiction_area.courts> "Supreme Court of the United States" .
+<San_Jose> <location.citytown.postal_codes> "95123" .
+<California> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Kentucky> <base.locations.states_and_provences.country> "United States of America" .
+<Supreme_Court_of_the_United_States> <government.governmental_body.jurisdiction> "United States of America" .
+<Georgia> <location.location.containedby> "United States of America" .
+<Power_forward> <common.topic.notable_for> "g.125509zsm" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "1996 Cinequest Film Festival" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2005 Cinequest Film Festival" .
+<m.052v_f0> <travel.transportation.transport_terminus> "San Jose International Airport" .
+<95131> <location.postal_code.country> "United States of America" .
+<U.S._state> <base.aareas.schema.administrative_area_type.pertains_to> "United States of America" .
+<San_Jose> <location.statistical_region.population> "m.0jtg6sl" .
+<San_Jose> <location.statistical_region.population> "g.1jmcbfmls" .
+<Sunol-Midtown> <location.location.containedby> "Santa Clara County" .
+<Basketball_Player> <base.descriptive_names.names.descriptive_name> "m.011__r_t" .
+<Alum_Rock> <location.location.containedby> "San Jose" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<Colorado> <location.administrative_division.country> "United States of America" .
+<Massachusetts> <location.location.containedby> "United States, with Territories" .
+<95126> <location.location.containedby> "Santa Clara County" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Jersey" .
+<West_Virginia> <location.location.containedby> "United States of America" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2001 Cinequest Film Festival" .
+<Rosicrucian_Egyptian_Museum> <location.location.containedby> "95126" .
+<San_Jose> <location.citytown.postal_codes> "95108" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Virginia" .
+<South_San_Jose> <location.location.containedby> "San Jose" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw5q" .
+<Mississippi> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Pennsylvania> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<95122> <location.location.containedby> "Santa Clara County" .
+<United_States_of_America> <location.country.first_level_divisions> "Washington" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "1992 Cinequest Film Festival" .
+<Alum_Rock> <location.location.containedby> "United States of America" .
+<San_Jose> <location.statistical_region.population> "g.1jmcbfybb" .
+<2008_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<Sunol-Midtown> <base.wikipedia_infobox.settlement.area_code> "Area codes 408 and 669" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Palm Haven" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Utah" .
+<University_of_New_Mexico> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Illinois" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "North Carolina" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2015 Cinequest Film Festival" .
+<Delaware> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "1998 Cinequest Film Festival" .
+<San_Jose> <location.citytown.postal_codes> "95115" .
+<Missouri> <location.location.containedby> "United States, with Territories" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<Maryland> <base.locations.states_and_provences.country> "United States of America" .
+<Basketball_Player> <type.type.expected_by> "Player" .
+<Washington> <base.locations.states_and_provences.country> "United States of America" .
+<East_Foothills> <base.wikipedia_infobox.settlement.area_code> "Area codes 408 and 669" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Iowa> <base.biblioness.bibs_location.country> "United States of America" .
+<Basketball_player> <freebase.equivalent_topic.equivalent_type> "Basketball Player" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<San_Jose> <location.location.events> "2010 Cinequest Film Festival" .
+<Basketball_Player> <type.type.expected_by> "Player" .
+<m.0n1c903> <education.education.student> "Drew Gordon" .
+<Arkansas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<1993_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<m.0gz4n_b> <education.education.student> "Drew Gordon" .
+<San_Jose> <location.citytown.postal_codes> "95110" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oklahoma" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Alaska" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Tennessee" .
+<Reid-Hillview_Airport> <location.location.containedby> "Santa Clara County" .
+<Oregon> <location.location.time_zones> "Pacific Time Zone" .
+<North_America> <base.locations.continents.states_provinces_within> "Montana" .
+<95129> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "North Dakota" .
+<Kentucky> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Mississippi" .
+<95113-2806> <location.location.containedby> "Santa Clara County" .
+<South_Carolina> <location.location.containedby> "United States of America" .
+<2009_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<United_States_of_America> <location.country.administrative_divisions> "Oregon" .
+<U.S._federal_district> <base.aareas.schema.administrative_area_type.pertains_to> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Rhode Island" .
+<Drew_Gordon> <people.person.education> "m.0gz45b9" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<San_Jose> <travel.travel_destination.how_to_get_here> "m.052v_f0" .
+<Supreme_Court_of_the_United_States> <law.court.jurisdiction> "United States of America" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Burbank" .
+<95154> <location.postal_code.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Oklahoma" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<Sunol-Midtown> <location.neighborhood.neighborhood_of> "San Jose" .
+<San_Jose> <location.location.events> "2013 Cinequest Film Festival" .
+<Aaron_Gordon> <people.person.place_of_birth> "San Jose" .
+<95122> <location.location.contains> "Reid-Hillview Airport" .
+<2013_San_Jose_International_Short_Film_Festival> <time.event.locations> "San Jose" .
+<95164> <location.postal_code.country> "United States of America" .
+<Alabama> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<95117> <location.location.containedby> "San Jose" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<South_Dakota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Area_codes_408_and_669> <location.location.containedby> "California" .
+<San_Jose> <location.citytown.postal_codes> "95126" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<San_Jose> <location.statistical_region.population> "g.11x1dzv5w" .
+<95132> <location.location.containedby> "Santa Clara County" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Kansas" .
+<Santana_Row> <location.location.time_zones> "Pacific Time Zone" .
+<New_Mexico> <location.location.containedby> "United States of America" .
+<Louisiana> <base.biblioness.bibs_location.country> "United States of America" .
+<Montana> <base.locations.states_and_provences.country> "United States of America" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<San_Jose> <location.location.adjoin_s> "m.02wtp_1" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<95113-2806> <location.location.containedby> "San Jose" .
+<Basketball_Player> <base.descriptive_names.names.descriptive_name> "m.011nhrrl" .
+<New_York> <base.biblioness.bibs_location.country> "United States of America" .
+<1997_NCAA_Men's_Division_I_Basketball_Tournament-_West_Regional_Semifinals> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1997 NCAA Men's Division I Basketball Tournament" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "1990 Cinequest Film Festival" .
+<Missouri> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Texas" .
+<South_Dakota> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "California" .
+<2002_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Colorado" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Mississippi" .
+<Silicon_Valley> <location.location.contains> "Santa Clara County" .
+<Mississippi> <base.biblioness.bibs_location.country> "United States of America" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<San_Jose> <location.location.containedby> "California" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "South Carolina" .
+<San_Jose> <travel.travel_destination.climate> "m.052w0rg" .
+<San_Jose> <base.petbreeds.city_with_dogs.top_breeds> "m.063sfcq" .
+<North_Carolina> <location.administrative_division.country> "United States of America" .
+<Delaware> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Jose> <location.location.events> "2009 San Francisco International Asian American Film Festival" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<San_Jose> <location.citytown.postal_codes> "95138" .
+<Edenvale> <location.location.containedby> "San Jose" .
+<San_Jose> <location.citytown.postal_codes> "95193" .
+<Sunol-Midtown> <location.hud_county_place.county> "Santa Clara County" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "North Dakota" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw8m" .
+<2010_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<95120> <location.location.containedby> "Santa Clara County" .
+<95141> <location.postal_code.country> "United States of America" .
+<Santa_Clara_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Willow_Glen> <location.location.containedby> "United States of America" .
+<Washington,_D.C.> <location.hud_county_place.place> "Washington, D.C." .
+<Little_Portugal> <location.location.containedby> "San Jose" .
+<San_Jose> <location.citytown.postal_codes> "95135" .
+<United_States_of_America> <location.location.partially_containedby> "North America" .
+<Maine> <base.biblioness.bibs_location.country> "United States of America" .
+<Illinois> <location.location.containedby> "United States, with Territories" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2002 Cinequest Film Festival" .
+<95129> <location.location.containedby> "California" .
+<Japantown> <location.location.containedby> "San Jose" .
+<Hawaii> <base.locations.states_and_provences.country> "United States of America" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Nebraska> <location.location.containedby> "United States, with Territories" .
+<Iowa> <location.location.containedby> "United States, with Territories" .
+<South_Dakota> <location.administrative_division.country> "United States of America" .
+<Nebraska> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oregon" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "The Tech Museum of Innovation" .
+<San_Jose> <periodicals.newspaper_circulation_area.newspapers> "Metro Silicon Valley" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<San_Jose> <location.location.containedby> "Santa Clara County" .
+<San_Jose> <location.citytown.postal_codes> "95116" .
+<Florida> <base.biblioness.bibs_location.country> "United States of America" .
+<Peak_Sales_Recruiting> <organization.organization.geographic_scope> "United States of America" .
+<Person> <freebase.type_profile.published> "Published" .
+<m.0_lxs_x> <government.government_position_held.office_position_or_title> "Mayor of San Jose" .
+<95135> <location.postal_code.country> "United States of America" .
+<Washington,_D.C.> <location.administrative_division.first_level_division_of> "United States of America" .
+<95113-2806> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Missouri" .
+<Washington,_D.C.> <common.topic.notable_types> "City/Town/Village" .
+<Drew_Gordon> <people.person.gender> "Male" .
+<Georgia> <location.administrative_division.country> "United States of America" .
+<Burbank> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "California" .
+<Louisiana> <base.locations.states_and_provences.country> "United States of America" .
+<1997_NCAA_Men's_Division_I_Basketball_Tournament-_West_Regional_Semifinals> <time.event.locations> "San Jose" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<95113> <location.location.containedby> "San Jose" .
+<United_States_of_America> <location.country.administrative_divisions> "Rhode Island" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Almaden Valley" .
+<1997_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<San_Jose> <location.citytown.postal_codes> "95139" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "San Jose Museum of Art" .
+<Silicon_Valley> <location.location.adjoin_s> "m.046cwb4" .
+<Vermont> <location.administrative_division.first_level_division_of> "United States of America" .
+<Cinequest_Film_Festival> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<95138> <location.postal_code.country> "United States of America" .
+<San_Jose> <location.statistical_region.population> "g.11b7vbx_lj" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<95109> <location.postal_code.country> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95131" .
+<Washington,_D.C.> <base.biblioness.bibs_topic.subsumes> "Washington, D.C." .
+<United_States_of_America> <location.country.first_level_divisions> "California" .
+<San_Jose> <base.wikipedia_infobox.settlement.area_code> "Area codes 408 and 669" .
+<2010_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<San_Jose> <location.statistical_region.population> "g.11b66h2bzx" .
+<Basketball> <sports.sport.positions> "Power forward" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Shasta/Hanchett Park" .
+<Oregon> <base.locations.states_and_provences.country> "United States of America" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw51" .
+<95133> <location.postal_code.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Wyoming" .
+<95119> <location.location.containedby> "Santa Clara County" .
+<United_States_of_America> <location.country.first_level_divisions> "Vermont" .
+<Hawaii> <location.location.containedby> "United States, with Territories" .
+<Alaska> <base.locations.states_and_provences.country> "United States of America" .
+<m.0jvvrjc> <location.administrative_division_capital_relationship.capital> "San Jose" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<Maryland> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "1999 Cinequest Film Festival" .
+<San_Jose> <location.location.events> "Miss India Worldwide 2001" .
+<San_Jose> <location.citytown.postal_codes> "95130" .
+<United_States_of_America> <location.country.first_level_divisions> "Maryland" .
+<Ohio> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Jose> <location.location.adjoin_s> "m.02wtpyr" .
+<Kelley_Park> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<m.063sfcb> <base.petbreeds.dog_city_relationship.cities> "San Jose" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Minnesota" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<San_Jose> <location.hud_foreclosure_area.hhuniv> "m.07hc_p8" .
+<Area_code_669> <location.location.containedby> "California" .
+<United_States_of_America> <location.country.administrative_divisions> "New Hampshire" .
+<Drew_Gordon> <common.topic.notable_types> "Basketball Player" .
+<Alviso> <base.wikipedia_infobox.settlement.area_code> "Area codes 408 and 669" .
+<Cinequest_Film_Festival> <film.film_festival.location> "San Jose" .
+<San_Jose> <location.citytown.postal_codes> "95118" .
+<The_Tech_Museum_of_Innovation> <location.location.containedby> "Santa Clara County" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "1999 Cinequest Film Festival" .
+<San_Jose> <travel.travel_destination.local_transportation> "Santa Clara Valley Transportation Authority" .
+<Cambrian_Park,_California> <location.location.containedby> "Santa Clara County" .
+<95113> <location.location.containedby> "California" .
+<San_Jose> <organization.organization_scope.organizations_with_this_scope> "Pro Line Garage Doors" .
+<San_Jose> <location.location.events> "1997 NCAA Men's Division I Basketball Tournament- West Regional Finals" .
+<North_Dakota> <base.locations.states_and_provences.country> "United States of America" .
+<Rhode_Island> <base.locations.states_and_provences.country> "United States of America" .
+<New_Mexico> <location.administrative_division.first_level_division_of> "United States of America" .
+<2012_San_Jose_International_Short_Film_Festival> <time.event.locations> "San Jose" .
+<2013_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "South Dakota" .
+<Maine> <base.locations.states_and_provences.country> "United States of America" .
+<Blossom_Valley> <location.neighborhood.neighborhood_of> "San Jose" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Hampshire" .
+<Missouri> <location.location.containedby> "United States of America" .
+<San_Jose> <location.location.events> "2013 San Jose International Short Film Festival" .
+<East_Foothills> <location.location.containedby> "San Jose" .
+<San_Jose_International_Airport> <travel.transport_terminus.travel_destinations_served> "m.052v_f0" .
+<San_Jose> <location.location.containedby> "Area code 669" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<95130> <location.postal_code.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Tennessee" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Kentucky" .
+<Pro_Line_Garage_Doors> <organization.organization.locations> "Pro Line Garage Doors" .
+<Maine> <location.location.containedby> "United States of America" .
+<Drew_Gordon> <people.person.education> "m.0n1c903" .
+<Oklahoma> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Connecticut> <base.locations.states_and_provences.country> "United States of America" .
+<Oregon> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Michigan" .
+<95124> <location.postal_code.country> "United States of America" .
+<San_Jose> <location.location.events> "2013 Silicon Valley Jewish Film Festival" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "King and Story" .
+<95128> <location.location.containedby> "Santa Clara County" .
+<Wisconsin> <location.location.containedby> "United States of America" .
+<Oklahoma> <base.locations.states_and_provences.country> "United States of America" .
+<2012_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<m.052w0sg> <travel.travel_destination_monthly_climate.travel_destination> "San Jose" .
+<San_Jose> <location.location.events> "2009 Cinequest Film Festival" .
+<San_Jose> <location.citytown.postal_codes> "95148" .
+<San_Jose> <location.citytown.postal_codes> "95132" .
+<San_Jose> <location.citytown.postal_codes> "95161" .
+<United_States_of_America> <location.country.first_level_divisions> "Hawaii" .
+<Virginia> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Jose_Mercury_News> <book.newspaper.circulation_areas> "Santa Clara County" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<95121> <location.postal_code.country> "United States of America" .
+<Power_forward> <sports.sports_position.sport> "Basketball" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Idaho" .
+<Idaho> <base.locations.states_and_provences.country> "United States of America" .
+<New_Jersey> <base.locations.states_and_provences.country> "United States of America" .
+<95113> <location.location.contains> "95113-2806" .
+<San_Jose> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07hc_qc" .
+<m.052w0rg> <travel.travel_destination_monthly_climate.travel_destination> "San Jose" .
+<2011_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Oklahoma> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.09wn1gs> <common.webpage.topic> "San Jose" .
+<San_Jose> <location.location.events> "2011 Cinequest Film Festival" .
+<U.S._state> <base.aareas.schema.administrative_area_type.sovereignty> "United States of America" .
+<North_America> <location.location.partially_contains> "United States of America" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Rhode Island" .
+<Wisconsin> <location.administrative_division.first_level_division_of> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95120" .
+<San_Jose> <location.statistical_region.population> "g.11x1fr8t1" .
+<2012_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<United_States_of_America> <location.country.administrative_divisions> "North Carolina" .
+<Santa_Clara_County> <location.us_county.hud_county_place> "Cambrian Park, California" .
+<United_States_of_America> <base.militaryinfiction.location_in_fiction.contains> "Kansas" .
+<Basketball_Player> <freebase.type_profile.strict_included_types> "Person" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Kansas" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<Athlete> <freebase.type_profile.strict_included_types> "Person" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw65" .
+<95128> <location.location.contains> "Santana Row" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<San_Jose> <location.statistical_region.population> "g.11x1m0jqp" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Wisconsin" .
+<United_States_of_America> <location.country.administrative_divisions> "Washington" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Hawaii" .
+<United_States_of_America> <location.country.administrative_divisions> "Florida" .
+<SanJoseDowntownIMG016elf_wb.jpg> <common.image.appears_in_topic_gallery> "San Jose" .
+<Sunol-Midtown> <location.location.containedby> "California" .
+<m.0gz3366> <sports.pro_sports_played.athlete> "Drew Gordon" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<San_Jose> <location.location.events> "2004 Cinequest Film Festival" .
+<United_States_of_America> <location.country.first_level_divisions> "Oregon" .
+<Rhode_Island> <location.location.containedby> "United States of America" .
+<95108> <location.postal_code.country> "United States of America" .
+<Montana> <location.administrative_division.country> "United States of America" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "Cinequest Film Festival" .
+<Connecticut> <location.administrative_division.country> "United States of America" .
+<Nevada> <location.location.time_zones> "Pacific Time Zone" .
+<95115> <location.postal_code.country> "United States of America" .
+<San_Jose_International_Airport> <location.location.containedby> "San Jose" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Vermont" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Arkansas" .
+<King_and_Story> <location.location.containedby> "San Jose" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oregon" .
+<2005_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Rose_Garden> <location.neighborhood.neighborhood_of> "San Jose" .
+<United_States_of_America> <location.country.administrative_divisions> "Oklahoma" .
+<Downtown_San_Jose> <common.topic.image> "SJPan" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2010 Cinequest Film Festival" .
+<Delaware> <location.administrative_division.first_level_division_of> "United States of America" .
+<San_Jose> <location.location.events> "1990 Cinequest Film Festival" .
+<San_Jose> <location.location.adjoin_s> "m.02wtpz7" .
+<Peak_Sales_Recruiting> <organization.organization.geographic_scope> "San Jose" .
+<Little_Portugal> <location.neighborhood.neighborhood_of> "San Jose" .
+<Burbank> <location.location.time_zones> "Pacific Time Zone" .
+<m.0_lxs_x> <government.government_position_held.jurisdiction_of_office> "San Jose" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<San_Jose> <travel.travel_destination.climate> "m.052w0qg" .
+<Florida> <location.administrative_division.country> "United States of America" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "Louisiana" .
+<Blossom_Valley> <location.location.containedby> "California" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw58" .
+<95116> <location.location.containedby> "Santa Clara County" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Arkansas" .
+<Basketball_Player> <type.type.domain> "Basketball" .
+<95119> <location.postal_code.country> "United States of America" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<San_Jose> <location.location.adjoin_s> "m.02wtpt4" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<United_States_of_America> <location.country.administrative_divisions> "Ohio" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Coyote Valley" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Coyote_Valley> <location.neighborhood.neighborhood_of> "San Jose" .
+<Washington,_D.C.> <base.biblioness.bibs_topic.is_really> "Washington, D.C." .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Pennsylvania" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Downtown San Jose" .
+<Hawaii> <base.biblioness.bibs_location.country> "United States of America" .
+<Basketball_Player> <base.descriptive_names.names.descriptive_name> "m.011cqhjk" .
+<San_Jose> <location.neighborhood.neighborhood_of> "San Jose" .
+<San_Jose_International_Airport> <aviation.airport.serves> "San Jose" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "San Pedro Square" .
+<95129> <location.postal_code.country> "United States of America" .
+<San_Jose> <location.location.events> "1993 Cinequest Film Festival" .
+<1999_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<San_Jose> <location.statistical_region.population> "g.11x1d0wtt" .
+<2002_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<95172> <location.postal_code.country> "United States of America" .
+<Kentucky> <base.biblioness.bibs_location.country> "United States of America" .
+<m.052w0rq> <travel.travel_destination_monthly_climate.travel_destination> "San Jose" .
+<95101> <location.postal_code.country> "United States of America" .
+<Alum_Rock> <location.location.time_zones> "Pacific Time Zone" .
+<Power_forward> <common.topic.article> "m.01pv5b" .
+<Pro_Line_Garage_Doors> <common.topic.subjects> "California" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Santa_Clara_County> <location.location.containedby> "California" .
+<Alum_Rock_Park> <location.location.containedby> "San Jose" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<Montana> <location.administrative_division.first_level_division_of> "United States of America" .
+<Washington,_D.C.> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Drew_Gordon> <people.person.education> "m.0gz4n_b" .
+<Tennessee> <base.locations.states_and_provences.country> "United States of America" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Edenvale" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "Japantown" .
+<United_States_of_America> <location.country.administrative_divisions> "Washington, D.C." .
+<San_Jose> <location.citytown.postal_codes> "95103" .
+<Montana> <base.biblioness.bibs_location.country> "United States of America" .
+<Iowa> <location.location.containedby> "United States of America" .
+<Delaware> <location.location.containedby> "United States of America" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "1996 Cinequest Film Festival" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Wyoming" .
+<Wisconsin> <base.locations.states_and_provences.continent> "North America" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "Rosicrucian Egyptian Museum" .
+<Evergreen,_San_Jose,_California> <location.location.containedby> "San Jose" .
+<95170> <location.postal_code.country> "United States of America" .
+<East_Foothills> <location.location.containedby> "California" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Burbank> <location.hud_county_place.county> "Santa Clara County" .
+<Alaska> <location.location.containedby> "United States, with Territories" .
+<New_Mexico> <location.administrative_division.country> "United States of America" .
+<New_Mexico> <location.location.containedby> "United States, with Territories" .
+<Basketball_Player> <type.type.expected_by> "Players" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<San_Jose> <location.citytown.postal_codes> "95111" .
+<South_Dakota> <base.biblioness.bibs_location.country> "United States of America" .
+<Delaware> <location.administrative_division.country> "United States of America" .
+<Ohio> <location.location.containedby> "United States, with Territories" .
+<Oregon> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0j4xbyn> <sports.sports_team_roster.player> "Drew Gordon" .
+<United_States_of_America> <location.country.administrative_divisions> "Louisiana" .
+<San_Jose> <location.citytown.postal_codes> "95134" .
+<United_States_of_America> <location.country.capital> "Washington, D.C." .
+<San_Jose_Sharks> <sports.sports_team.location> "San Jose" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Santa Teresa" .
+<North_Dakota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Jose> <location.statistical_region.population> "g.11x1h80l2" .
+<m.063sfdb> <base.petbreeds.dog_city_relationship.cities> "San Jose" .
+<Metro_Silicon_Valley> <book.newspaper.circulation_areas> "San Jose" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Pennsylvania" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<Pro_Line_Garage_Doors> <organization.organization.place_founded> "San Jose" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<SC1997> <time.event.locations> "San Jose" .
+<Santa_Clara_County> <location.us_county.hud_county_place> "San Jose" .
+<m.05ct1p4> <common.document.content> "m.05ct1ny" .
+<Mayor_of_San_Jose> <government.government_office_or_title.office_holders> "m.0_lxs_x" .
+<San_Jose> <location.citytown.postal_codes> "95154" .
+<United_States_of_America> <location.country.first_level_divisions> "Wisconsin" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Louisiana" .
+<San_Jose_Stealth> <sports.sports_team.location> "San Jose" .
+<San_Jose> <organization.organization_scope.organizations_with_this_scope> "Peak Sales Recruiting" .
+<United_States_of_America> <location.country.administrative_divisions> "Kansas" .
+<m.046cwb4> <location.adjoining_relationship.adjoins> "Silicon Valley" .
+<Georgia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Willow_Glen> <location.location.time_zones> "Pacific Time Zone" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "San Jose Municipal Rose Garden" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New York" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "San Jose Museum of Quilts & Textiles" .
+<San_Jose> <location.location.events> "2000 Cinequest Film Festival" .
+<Nevada> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Jersey" .
+<Arizona> <location.location.containedby> "United States, with Territories" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<Washington> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Utah" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Arizona" .
+<2001_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<New_Jersey> <base.aareas.schema.administrative_area.administrative_area_type> "U.S. state" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<95138> <location.location.containedby> "Santa Clara County" .
+<Kansas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Jose> <travel.travel_destination.how_to_get_here> "m.052v_jw" .
+<Almaden_Valley> <location.location.containedby> "San Jose" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Rose Garden" .
+<San_Jose> <location.citytown.postal_codes> "95133" .
+<United_States_of_America> <location.country.administrative_divisions> "Tennessee" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "1992 Cinequest Film Festival" .
+<Oregon> <location.location.containedby> "United States, with Territories" .
+<Indiana> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<Japantown> <location.neighborhood.neighborhood_of> "San Jose" .
+<South_Carolina> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Jose> <location.statistical_region.population> "m.064hwkn" .
+<San_Jose> <location.statistical_region.population> "g.11x1jm8vj" .
+<South_Carolina> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<1997_NCAA_Men's_Division_I_Basketball_Tournament-_West_Regional_Finals> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1997 NCAA Men's Division I Basketball Tournament" .
+<San_Jose> <location.location.events> "2010 Tour of California" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "South Carolina" .
+<Drew_Gordon> <common.topic.notable_for> "g.125gzt7p0" .
+<95196> <location.postal_code.country> "United States of America" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw83" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<New_Jersey> <location.location.containedby> "United States of America" .
+<Pro_Line_Garage_Doors> <organization.organization.geographic_scope> "San Jose" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Illinois" .
+<Nebraska> <location.administrative_division.country> "United States of America" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Blossom Valley" .
+<m.02k9y62> <common.webpage.topic> "San Jose" .
+<1998_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Pennsylvania> <location.location.containedby> "United States of America" .
+<95129-1034> <location.location.containedby> "San Jose" .
+<Iowa> <location.administrative_division.country> "United States of America" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "West San Jose" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Indiana" .
+<South_Carolina> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<United_States_of_America> <location.country.administrative_divisions> "Hawaii" .
+<Tennessee> <location.location.containedby> "United States of America" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "Downtown San Jose" .
+<San_Pedro_Square> <location.neighborhood.neighborhood_of> "San Jose" .
+<Idaho> <location.location.containedby> "United States, with Territories" .
+<San_Jose> <location.location.containedby> "Silicon Valley" .
+<Mississippi> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Virginia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Jose> <organization.organization_scope.organizations_with_this_scope> "Pro Line Garage Doors" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2013 Cinequest Film Festival" .
+<United_States_of_America> <location.country.first_level_divisions> "Ohio" .
+<San_Jose> <travel.travel_destination.climate> "m.052w0rz" .
+<San_Jose> <location.statistical_region.population> "g.11x1j8qpq" .
+<San_Jose> <location.location.events> "2012 United Nations Association Film Festival" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "Winchester Mystery House" .
+<95118> <location.postal_code.country> "United States of America" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<Reid-Hillview_Airport> <aviation.airport.serves> "San Jose" .
+<95160> <location.postal_code.country> "United States of America" .
+<1990_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<San_Jose> <location.citytown.postal_codes> "95129" .
+<United_States_of_America> <location.country.administrative_divisions> "North Dakota" .
+<95111> <location.location.containedby> "Santa Clara County" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<San_Jose> <sports.sports_team_location.teams> "San Jose Sharks" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "Little Portugal" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.02wtp_1> <location.adjoining_relationship.adjoins> "San Jose" .
+<Alum_Rock> <base.wikipedia_infobox.settlement.area_code> "Area codes 408 and 669" .
+<Winchester> <location.location.containedby> "San Jose" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "Children's Discovery Museum of San Jose" .
+<m.02wtptf> <location.adjoining_relationship.adjoins> "San Jose" .
+<North_America> <base.locations.continents.countries_within> "United States of America" .
+<Washington> <location.location.time_zones> "Pacific Time Zone" .
+<m.0j4xbyn> <sports.sports_team_roster.position> "Forward" .
+<U.S._federal_district> <base.aareas.schema.administrative_area_type.subdivides_place> "United States of America" .
+<Mississippi> <location.administrative_division.country> "United States of America" .
+<1997_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.gender> "Male" .
+<The_Tech_Museum_of_Innovation> <location.location.containedby> "United States of America" .
+<San_Jose> <location.statistical_region.population> "m.0k6l8q_" .
+<m.063sfd6> <base.petbreeds.dog_city_relationship.cities> "San Jose" .
+<2010_Tour_of_California> <time.event.locations> "San Jose" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Texas> <location.location.containedby> "United States of America" .
+<Drew_Gordon> <sports.pro_athlete.teams> "m.0zv12_m" .
+<95116> <location.postal_code.country> "United States of America" .
+<Maine> <location.administrative_division.first_level_division_of> "United States of America" .
+<2015_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<San_Jose> <travel.travel_destination.climate> "m.052w0q6" .
+<Rhode_Island> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "Santana Row" .
+<West_Virginia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<New_Mexico> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Athlete> <freebase.type_profile.strict_included_types> "Topic" .
+<Idaho> <base.biblioness.bibs_location.country> "United States of America" .
+<Sanjosecityhall> <common.image.appears_in_topic_gallery> "San Jose" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<San_Jose> <location.citytown.postal_codes> "95112" .
+<San_Jose> <location.statistical_region.population> "m.064hwl0" .
+<Burbank> <location.neighborhood.neighborhood_of> "San Jose" .
+<San_Jose> <travel.travel_destination.climate> "m.052w0pz" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Oklahoma> <base.biblioness.bibs_location.country> "United States of America" .
+<Indiana> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<2010_Turing_Award_Ceremony> <time.event.locations> "San Jose" .
+<95158> <location.postal_code.country> "United States of America" .
+<Mississippi> <location.location.containedby> "United States, with Territories" .
+<Kansas> <base.militaryinfiction.location_in_fiction.contained_by> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<Sunol-Midtown> <location.location.time_zones> "Pacific Time Zone" .
+<95156> <location.postal_code.country> "United States of America" .
+<1998_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<United_States_of_America> <location.country.administrative_divisions> "Iowa" .
+<Michigan> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2014 Cinequest Film Festival" .
+<Spartan_Mambo> <organization.organization.geographic_scope> "San Jose" .
+<San_Jose_Museum_of_Quilts_&_Textiles> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<Idaho> <location.location.time_zones> "Pacific Time Zone" .
+<Aaron_Gordon> <common.topic.notable_types> "Basketball Player" .
+<United_States_of_America> <location.country.first_level_divisions> "Michigan" .
+<Utah> <location.location.containedby> "United States, with Territories" .
+<m.063sfcz> <base.petbreeds.dog_city_relationship.cities> "San Jose" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Arizona" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<m.052w0rz> <travel.travel_destination_monthly_climate.travel_destination> "San Jose" .
+<Palm_Haven> <location.location.containedby> "San Jose" .
+<West_San_Jose> <location.location.containedby> "San Jose" .
+<Vermont> <location.location.containedby> "United States, with Territories" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<2009_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<U.S._state> <base.aareas.schema.administrative_area_type.iso_country> "United States of America" .
+<Nevada> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<United_States_of_America> <location.country.administrative_divisions> "New Mexico" .
+<95123> <location.location.containedby> "Santa Clara County" .
+<Mississippi> <location.administrative_division.first_level_division_of> "United States of America" .
+<2014_Vietnam_anti-China_protests> <time.event.locations> "San Jose" .
+<95110> <location.postal_code.country> "United States of America" .
+<San_Jose_Municipal_Rose_Garden> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<San_Jose> <government.governmental_jurisdiction.government_positions> "Mayor of San Jose" .
+<m.0zv12_m> <sports.sports_team_roster.player> "Drew Gordon" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<San_Jose> <location.location.events> "1997 NCAA Men's Division I Basketball Tournament" .
+<95139> <location.location.containedby> "Santa Clara County" .
+<Alum_Rock> <location.location.containedby> "California" .
+<Arizona> <base.aareas.schema.administrative_area.administrative_area_type> "U.S. state" .
+<United_States_of_America> <location.country.first_level_divisions> "North Carolina" .
+<San_Jose> <location.location.events> "2003 Cinequest Film Festival" .
+<San_Jose> <location.location.events> "1997 Cinequest Film Festival" .
+<North_Carolina> <location.location.containedby> "United States, with Territories" .
+<Nebraska> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Florida> <location.location.containedby> "United States of America" .
+<Alviso> <location.location.containedby> "California" .
+<Arkansas> <location.location.containedby> "United States, with Territories" .
+<Illinois> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Rose_Garden> <location.location.containedby> "California" .
+<San_Jose> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07hc_pq" .
+<San_Jose> <location.statistical_region.population> "m.064hwm4" .
+<San_Jose> <location.statistical_region.population> "m.064hwll" .
+<United_States_of_America> <location.country.first_level_divisions> "Colorado" .
+<Louisiana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<2009_San_Francisco_International_Asian_American_Film_Festival> <time.event.locations> "San Jose" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<Connecticut> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Jose> <location.location.events> "2014 San Jose International Short Film Festival" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Indiana" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<2010_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<m.063sfc6> <base.petbreeds.dog_city_relationship.cities> "San Jose" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "1997 Cinequest Film Festival" .
+<San_Jose_Earthquakes> <sports.sports_team.location> "San Jose" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<Arkansas> <location.location.containedby> "United States of America" .
+<Children's_Discovery_Museum_of_San_Jose> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<United_States_of_America> <location.country.administrative_divisions> "Wyoming" .
+<San_Jose> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07hc_ph" .
+<1993_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<Almaden_Valley> <location.location.containedby> "California" .
+<San_Jose> <common.topic.article> "m.0f054" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Drew_Gordon> <people.person.place_of_birth> "San Jose" .
+<San_Jose> <location.statistical_region.population> "g.11x1mdxvf" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Mexico" .
+<Washington,_D.C.> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Wyoming" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Missouri" .
+<North_America> <location.location.time_zones> "Pacific Time Zone" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<United_States_of_America> <location.country.administrative_divisions> "West Virginia" .
+<Cambrian_Park,_California> <location.location.containedby> "United States of America" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2002 Cinequest Film Festival" .
+<m.0gz3366> <sports.pro_sports_played.sport> "Basketball" .
+<San_Jose> <base.petbreeds.city_with_dogs.top_breeds> "m.063sfc6" .
+<New_Hampshire> <base.biblioness.bibs_location.country> "United States of America" .
+<Arizona> <location.administrative_division.country> "United States of America" .
+<New_Hampshire> <location.location.containedby> "North America" .
+<San_Jose> <location.location.events> "OOPSLA 1996" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<San_Jose> <location.citytown.postal_codes> "95160" .
+<Miss_India_Worldwide_2001> <time.event.locations> "San Jose" .
+<San_Jose_International_Airport> <location.location.containedby> "United States of America" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2005 Cinequest Film Festival" .
+<Alviso> <location.location.containedby> "United States of America" .
+<San_Jose> <periodicals.newspaper_circulation_area.newspapers> "Alamaden Resident" .
+<United_States_of_America> <base.aareas.schema.administrative_area.pertinent_type> "U.S. federal district" .
+<San_Jose> <location.location.containedby> "Area codes 408 and 669" .
+<San_Jose> <location.statistical_region.population> "m.064hwl6" .
+<2003_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<Utah> <location.location.containedby> "United States of America" .
+<Area_codes_408_and_669> <location.location.contains> "San Jose" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2011 Cinequest Film Festival" .
+<San_Jose> <location.statistical_region.population> "g.11x1dsv6h" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "1994 Cinequest Film Festival" .
+<Illinois> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Washington" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Michigan" .
+<The_Tech_Museum_of_Innovation> <location.location.containedby> "North America" .
+<San_Jose> <location.location.events> "2010 San Jose International Short Film Festival" .
+<Basketball_Player> <base.descriptive_names.names.descriptive_name> "m.011cqhkc" .
+<United_States,_with_Territories> <location.location.partially_containedby> "North America" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2003 Cinequest Film Festival" .
+<Winchester_Mystery_House> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<San_Jose> <location.citytown.postal_codes> "95192" .
+<Vermont> <base.locations.states_and_provences.country> "United States of America" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw7m" .
+<United_States_of_America> <location.country.first_level_divisions> "Minnesota" .
+<Cambrian_Park,_California> <location.location.containedby> "San Jose" .
+<Little_Portugal> <location.location.time_zones> "Pacific Time Zone" .
+<East_Foothills> <location.location.containedby> "United States of America" .
+<1992_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<2003_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<m.063sfd2> <base.petbreeds.dog_city_relationship.cities> "San Jose" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<95157> <location.postal_code.country> "United States of America" .
+<m.02wtpyr> <location.adjoining_relationship.adjoins> "San Jose" .
+<Arizona> <location.administrative_division.first_level_division_of> "United States of America" .
+<Massachusetts> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<Sunol-Midtown> <location.location.containedby> "United States of America" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2014 Cinequest Film Festival" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Delaware" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<United_States_of_America> <location.administrative_division.first_level_division_of> "United States, with Territories" .
+<Wisconsin> <location.administrative_division.country> "United States of America" .
+<95135> <location.location.containedby> "Santa Clara County" .
+<San_Jose> <travel.travel_destination.tourist_attractions> "Alum Rock Park" .
+<The_Tech_Museum_of_Innovation> <location.location.containedby> "95113-2806" .
+<West_Virginia> <location.administrative_division.first_level_division_of> "United States of America" .
+<Santana_Row> <travel.tourist_attraction.near_travel_destination> "San Jose" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<Washington,_D.C.> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdivides_place> "United States, with Territories" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Georgia" .
+<2002_Hugo_Awards> <time.event.locations> "San Jose" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<2002_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<95153> <location.postal_code.country> "United States of America" .
+<Basketball> <sports.sport.positions> "Forward" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Massachusetts" .
+<95194> <location.postal_code.country> "United States of America" .
+<Cambrian_Park,_California> <location.location.containedby> "California" .
+<Ohio> <location.administrative_division.country> "United States of America" .
+<San_Jose> <common.topic.subject_of> "Pro Line Garage Doors" .
+<5_Star_Loans> <organization.organization.geographic_scope> "California" .
+<m.0jvvrjc> <location.administrative_division_capital_relationship.administrative_division> "Santa Clara County" .
+<SJPan> <common.image.appears_in_topic_gallery> "Silicon Valley" .
+<m.0zv12_m> <sports.sports_team_roster.position> "Power forward" .
+<San_Jose> <government.governmental_jurisdiction.governing_officials> "m.0k1bdyr" .
+<San_Jose> <location.citytown.postal_codes> "95122" .
+<East_Foothills> <location.location.time_zones> "Pacific Time Zone" .
+<m.046cwb4> <location.adjoining_relationship.adjoins> "San Jose" .
+<Colorado> <base.biblioness.bibs_location.country> "United States of America" .
+<Rhode_Island> <location.location.containedby> "United States, with Territories" .
+<Pro_Line_Garage_Doors> <organization.organization.place_founded> "California" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw95" .
+<Wisconsin> <location.location.containedby> "United States, with Territories" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2003 Cinequest Film Festival" .
+<Iowa> <location.administrative_division.first_level_division_of> "United States of America" .
+<Kentucky> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Hampshire" .
+<95113> <location.location.containedby> "Santa Clara County" .
+<San_Jose> <location.statistical_region.population> "g.12vqj2t8n" .
+<95190> <location.postal_code.country> "United States of America" .
+<95126> <location.location.contains> "San Jose Municipal Rose Garden" .
+<Michigan> <location.administrative_division.first_level_division_of> "United States of America" .
+<New_Hampshire> <location.location.containedby> "United States of America" .
+<San_Jose> <location.location.adjoin_s> "m.02wtpyz" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<Alviso> <location.location.containedby> "Santa Clara County" .
+<Indiana> <base.locations.states_and_provences.country> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95173" .
+<Massachusetts> <location.administrative_division.first_level_division_of> "United States of America" .
+<San_Jose> <location.location.events> "2010 Turing Award Ceremony" .
+<South_Carolina> <location.administrative_division.country> "United States of America" .
+<San_Jose> <location.location.events> "1998 Cinequest Film Festival" .
+<Tennessee> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.administrative_divisions> "Texas" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "1997 Cinequest Film Festival" .
+<South_Dakota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<New_Mexico_Lobos_Basketball> <sports.sports_team.roster> "m.0j4xbyn" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_parent> "United States, with Territories" .
+<University_of_New_Mexico> <education.educational_institution.campuses> "University of New Mexico" .
+<Alaska> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Georgia> <base.biblioness.bibs_location.country> "United States of America" .
+<Florida> <base.locations.states_and_provences.country> "United States of America" .
+<California> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Alabama> <location.administrative_division.country> "United States of America" .
+<Michigan> <base.biblioness.bibs_location.country> "United States of America" .
+<The_Tech_Museum_of_Innovation> <location.location.containedby> "San Jose" .
+<m.052w0qq> <travel.travel_destination_monthly_climate.travel_destination> "San Jose" .
+<Minnesota> <location.administrative_division.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<2007_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<95132> <location.postal_code.country> "United States of America" .
+<San_Jose> <location.location.events> "2000 Turing Award Ceremony" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2009 Cinequest Film Festival" .
+<San_Jose> <location.location.events> "2001 Cinequest Film Festival" .
+<San_Jose> <location.statistical_region.population> "g.11x1fx8qm" .
+<Utah> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Nevada> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.administrative_divisions> "Maryland" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "Indiana" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<Kansas> <location.administrative_division.country> "United States of America" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.country> "United States of America" .
+<Wyoming> <base.locations.states_and_provences.country> "United States of America" .
+<San_Jose> <base.petbreeds.city_with_dogs.top_breeds> "m.063sfd6" .
+<San_Jose> <location.citytown.postal_codes> "95156" .
+<San_Jose> <organization.organization_scope.organizations_with_this_scope> "Spartan Mambo" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<1996_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<North_Carolina> <location.location.containedby> "United States of America" .
+<Santa_Teresa> <location.location.containedby> "California" .
+<San_Jose> <common.topic.image> "Sanjosecityhall" .
+<San_Jose> <common.topic.webpage> "m.09wn1gs" .
+<Santana_Row> <location.location.containedby> "Santa Clara County" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Ohio" .
+<95117> <location.location.time_zones> "Pacific Time Zone" .
+<Drew_Gordon> <basketball.basketball_player.position_s> "Power forward" .
+<Georgia> <location.administrative_division.first_level_division_of> "United States of America" .
+<Santa_Teresa> <location.location.containedby> "San Jose" .
+<Basketball_Player> <freebase.type_profile.strict_included_types> "Topic" .
+<Michigan> <base.locations.states_and_provences.country> "United States of America" .
+<2005_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<Santana_Row> <location.location.containedby> "United States of America" .
+<95173> <location.postal_code.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New York" .
+<Santa_Clara_County> <location.us_county.hud_county_place> "East Foothills" .
+<New_York> <location.administrative_division.first_level_division_of> "United States of America" .
+<Santa_Teresa> <location.neighborhood.neighborhood_of> "San Jose" .
+<San_Jose> <location.citytown.postal_codes> "95119" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2006 Cinequest Film Festival" .
+<Vermont> <location.location.containedby> "United States of America" .
+<Vermont> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Kelley_Park> <location.location.containedby> "95112" .
+<2007_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<United_States_of_America> <location.country.administrative_divisions> "Kentucky" .
+<San_Jose> <common.topic.webpage> "m.052w19p" .
+<Texas> <location.administrative_division.first_level_division_of> "United States of America" .
+<95103> <location.postal_code.country> "United States of America" .
+<Delaware> <location.location.containedby> "United States, with Territories" .
+<San_Jose> <common.topic.webpage> "m.09ww3jz" .
+<Louisiana> <location.location.containedby> "United States, with Territories" .
+<Massachusetts> <base.locations.states_and_provences.country> "United States of America" .
+<2006_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<95122> <location.postal_code.country> "United States of America" .
+<San_Jose> <travel.travel_destination.how_to_get_here> "m.052v_qp" .
+<Santa_Clara_County> <location.administrative_division.capital> "m.0jvvrjc" .
+<United_States_of_America> <location.country.first_level_divisions> "Kentucky" .
+<Athlete> <freebase.type_hints.included_types> "Person" .
+<San_Jose> <location.citytown.postal_codes> "95157" .
+<Naglee_Park> <location.neighborhood.neighborhood_of> "San Jose" .
+<Alaska> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "California" .
+<95112> <location.location.contains> "Kelley Park" .
+<Drew_Gordon> <sports.pro_athlete.teams> "g.11b6b5qy12" .
+<San_Jose> <common.topic.image> "San Jose California aerial view south" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<95113-2806> <location.location.containedby> "95113" .
+<San_Jose> <travel.travel_destination.climate> "m.052w0qq" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<San_Jose> <organization.organization_scope.organizations_with_this_scope> "5 Star Loans" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Connecticut" .
+<Texas> <location.administrative_division.country> "United States of America" .
+<Delaware> <base.locations.states_and_provences.country> "United States of America" .
+<Florida> <location.administrative_division.first_level_division_of> "United States of America" .
+<Alamaden_Resident> <book.newspaper.circulation_areas> "San Jose" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Idaho" .
+<95111> <location.postal_code.country> "United States of America" .
+<Louisiana> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Arizona" .
+<King_and_Story> <location.neighborhood.neighborhood_of> "San Jose" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Hawaii> <location.administrative_division.country> "United States of America" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<2011_San_Jose_International_Short_Film_Festival> <time.event.locations> "San Jose" .
+<Silicon_Valley> <location.location.contains> "San Jose" .
+<OOPSLA_1996> <time.event.locations> "San Jose" .
+<San_Jose> <location.location.events> "2012 Cinequest Film Festival" .
+<San_Jose> <location.citytown.postal_codes> "95101" .
+<United_States_of_America> <location.country.first_level_divisions> "Iowa" .
+<Oregon> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2012 Cinequest Film Festival" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<Winchester_Mystery_House> <location.location.time_zones> "Pacific Time Zone" .
+<Illinois> <location.location.containedby> "United States of America" .
+<San_Jose> <location.place_with_neighborhoods.neighborhoods> "South San Jose" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Hawaii" .
+<West_Virginia> <base.biblioness.bibs_location.country> "United States of America" .
+<Indiana> <location.location.containedby> "United States of America" .
+<95151> <location.postal_code.country> "United States of America" .
+<Maryland> <base.biblioness.bibs_location.country> "United States of America" .
+<Washington,_D.C.> <organization.organization_scope.organizations_with_this_scope> "Peak Sales Recruiting" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw8c" .
+<San_Jose> <location.location.time_zones> "Pacific Time Zone" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<San_Jose> <location.citytown.postal_codes> "95150" .
+<Louisiana> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Wisconsin" .
+<San_Jose> <travel.travel_destination.climate> "m.052w0s6" .
+<2013_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<Basketball_Player> <freebase.type_profile.equivalent_topic> "Basketball player" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2007 Cinequest Film Festival" .
+<San_Jose> <base.petbreeds.city_with_dogs.top_breeds> "m.063sfd2" .
+<United_States_of_America> <location.country.first_level_divisions> "Connecticut" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2007 Cinequest Film Festival" .
+<Basketball_Player> <freebase.documented_object.documentation> "m.021_j89" .
+<95193> <location.postal_code.country> "United States of America" .
+<95123> <location.postal_code.country> "United States of America" .
+<Berryessa> <location.location.containedby> "San Jose" .
+<Pro_Line_Garage_Doors> <business.business_location.parent_company> "Pro Line Garage Doors" .
+<United_States_of_America> <location.country.first_level_divisions> "Arkansas" .
+<Ohio> <base.locations.states_and_provences.country> "United States of America" .
+<San_Jose> <location.location.events> "1999 Cinequest Film Festival" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Maryland" .
+<Silicon_Valley> <common.topic.image> "SJPan" .
+<Berryessa> <location.neighborhood.neighborhood_of> "San Jose" .
+<Maryland> <location.location.containedby> "United States, with Territories" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<San_Jose> <location.statistical_region.population> "g.11b7sxm3bd" .
+<San_Jose> <location.location.events> "2008 Filmapalooza" .
+<United_States_of_America> <location.country.first_level_divisions> "Nevada" .
+<San_Jose> <location.location.adjoin_s> "m.02wtptf" .
+<San_Jose> <location.statistical_region.population> "g.11x1k_dkl" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<San_Jose> <location.citytown.postal_codes> "95164" .
+<1998_Cinequest_Film_Festival> <time.event.locations> "San Jose" .
+<United_States_of_America> <location.country.administrative_divisions> "Missouri" .
+<San_Jose> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Tennessee" .
+<Drew_Gordon> <people.person.places_lived> "m.0wkf4yv" .
+<California> <base.locations.states_and_provences.country> "United States of America" .
+<San_Jose> <location.citytown.postal_codes> "95113-2806" .
+<San_Jose> <location.statistical_region.population> "m.066g419" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2000 Cinequest Film Festival" .
+<1996_Cinequest_Film_Festival> <film.film_festival_event.festival> "Cinequest Film Festival" .
+<Pennsylvania> <location.administrative_division.first_level_division_of> "United States of America" .
+<Alum_Rock> <location.location.containedby> "Santa Clara County" .
+<San_Jose_California_aerial_view_south> <common.image.appears_in_topic_gallery> "South San Jose" .
+<Virginia> <location.administrative_division.first_level_division_of> "United States of America" .
+<Massachusetts> <location.administrative_division.country> "United States of America" .
+<New_Mexico_Lobos_Basketball> <sports.school_sports_team.school> "University of New Mexico" .
+<Arizona> <base.biblioness.bibs_location.country> "United States of America" .
+<Alaska> <base.biblioness.bibs_location.country> "United States of America" .
+<Aaron_Gordon> <people.person.profession> "Basketball player" .
+<University_of_California,_Los_Angeles> <education.educational_institution_campus.educational_institution> "University of California, Los Angeles" .
+<Rosicrucian_Egyptian_Museum> <location.location.containedby> "Santa Clara County" .
+<Idaho> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Minnesota> <base.locations.states_and_provences.country> "United States of America" .
+<Kansas> <location.administrative_division.first_level_division_of> "United States of America" .
+<Kentucky> <location.administrative_division.country> "United States of America" .
+<Mayor_of_San_Jose> <government.government_office_or_title.office_holders> "m.0k1bdyr" .
+<San_Pedro_Square> <location.location.containedby> "San Jose" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<San_Jose> <location.statistical_region.population> "g.11x1jrg2v" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<Virginia> <base.locations.states_and_provences.country> "United States of America" .
+<San_Jose> <location.statistical_region.population> "m.0hkbw6d" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<U.S._federal_district> <base.aareas.schema.administrative_area_type.sovereignty> "United States of America" .
+<San_Jose> <location.location.events> "1996 Cinequest Film Festival" .
+<Pro_Line_Garage_Doors> <organization.organization.place_founded> "San Jose" .
+<Minnesota> <location.location.containedby> "United States of America" .
+<2006_Cinequest_Film_Festival> <time.event.instance_of_recurring_event> "Cinequest Film Festival" .
+<Connecticut> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Sanjosecityhall> <common.image.image_tags> "San Jose" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Louisiana" .
+<Burbank> <location.location.containedby> "Santa Clara County" .
+<New_Hampshire> <location.location.containedby> "United States, with Territories" .
+<Cinequest_Film_Festival> <film.film_festival.individual_festivals> "2000 Cinequest Film Festival" .
+<Colorado> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Rose_Garden> <location.location.time_zones> "Pacific Time Zone" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<95128> <location.postal_code.country> "United States of America" .
+<Alviso> <location.location.containedby> "San Jose" .
+<Virginia> <location.administrative_division.country> "United States of America" .
+<Aaron_Gordon> <people.person.gender> "Male" .
+<West_Virginia> <location.location.containedby> "United States, with Territories" .
+<West_Virginia> <base.locations.states_and_provences.country> "United States of America" .
+<95136> <location.postal_code.country> "United States of America" .
+<m.052v_f0> <travel.transportation.travel_destination> "San Jose" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<San_Jose> <location.location.events> "2012 Shnit International Short Film Festival" .
+<San_Jose> <periodicals.newspaper_circulation_area.newspapers> "San Jose Mercury News" .
+<Silicon_Valley> <base.biblioness.bibs_location.country> "United States of America" .
+<Cinequest_Film_Festival> <time.recurring_event.instances> "2008 Cinequest Film Festival" .
+<95192> <location.postal_code.country> "United States of America" .
+<2012_United_Nations_Association_Film_Festival> <time.event.locations> "San Jose" .
+<United_States_of_America> <location.country.first_level_divisions> "Idaho" .
+<m.063sfcl> <base.petbreeds.dog_city_relationship.cities> "San Jose" .
+<95129-1034> <location.postal_code.country> "United States of America" .
+<California> <location.location.containedby> "United States of America" .

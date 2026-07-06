@@ -1,0 +1,2053 @@
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Montana" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "Seals Stadium" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079pz" .
+<Hilltop_Park> <sports.sports_facility.teams> "San Francisco Giants" .
+<m.05n6bdf> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6brp" .
+<Lawyer> <book.book_subject.works> "Anonymous Lawyer" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Lawyer" .
+<Stephen_Hornbuckle> <common.topic.subjects> "Attorney at law" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Minnesota" .
+<2010_World_Series> <time.event.participant> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy326" .
+<Lawyer> <organization.organization_type.organizations_of_this_type> "Denena & Points, P.C." .
+<Washington,_D.C.> <location.location.containedby> "United States of America" .
+<Downtown_L.A._Law_Group> <organization.organization.geographic_scope> "United States of America" .
+<Solicitor> <organization.organization_sector.organizations_in_this_sector> "Mercury Legal" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6fby" .
+<Criminal_defense_lawyer> <common.topic.notable_types> "Profession" .
+<Idaho> <location.administrative_division.country> "United States of America" .
+<Hair_loss> <medicine.disease.risk_factors> "Male" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Anthony_Dean_Castelli> <common.topic.subject_of> "Lawyer" .
+<San_Mateo> <location.statistical_region.population> "g.11x1m008j" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6b3x" .
+<O’Connor,_Runckel_&_O’Malley_LLP> <common.topic.subject_of> "Lawyer" .
+<Phillips_Law_Firm> <organization.organization.place_founded> "Washington" .
+<The_Hornbuckle_Firm> <organization.organization.founders> "Thomas Hornbuckle" .
+<Lawyer> <common.topic.subject_of> "Reyes Brown Reilley" .
+<Reyes_Brown_Reilley> <common.topic.subjects> "Lawyer" .
+<m.0527d1b> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<Ventricular_tachycardia> <medicine.symptom.symptom_of> "heart attack" .
+<San_Mateo> <location.statistical_region.population> "g.11x1ht2tz" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Jesus_R._Lopez> <common.topic.subjects> "Attorney at law" .
+<Emphysema> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <people.profession.specializations> "divorce lawyer" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Texas" .
+<Kawasaki_disease> <medicine.disease.risk_factors> "Male" .
+<Bankruptcy_Lawyer> <common.topic.notable_types> "Profession" .
+<Barrister> <common.topic.image> "English barrister" .
+<Illinois> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<North_Dakota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.04w1x4c> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<San_Mateo> <periodicals.newspaper_circulation_area.newspapers> "Palo Alto Daily Post" .
+<m.04vy3r2> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.0k079s6> <base.schemastaging.team_training_ground_relationship.facility> "AT&T Park" .
+<New_Mexico> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Francisco_Giants> <award.award_nominee.award_nominations> "m.0z7wqcb" .
+<m.0527d0k> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<San_Francisco_Giants> <baseball.baseball_team.league> "National League" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<San_Francisco_Giants> <sports.sports_team.venue> "m.0w_jy61" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z335z" .
+<De_Sabla,_Eugene_J.,_Jr.,_Teahouse_and_Tea_Garden> <location.location.containedby> "California" .
+<Jurist> <common.topic.notable_types> "Profession" .
+<United_States_of_America> <base.aareas.schema.administrative_area.pertinent_type> "U.S. state" .
+<Maine> <location.administrative_division.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<The_Rodriguez_Law_Group> <common.topic.subject_of> "Law" .
+<Stephen_Hornbuckle> <organization.organization_partnership.members> "The Hornbuckle Firm" .
+<AT&T_Park> <location.location.events> "2012 World Series" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Pennsylvania" .
+<m.04m2rx3> <business.employment_tenure.company> "San Francisco Giants" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.0dl37x6" .
+<United_States_of_America> <location.country.first_level_divisions> "Michigan" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6f7n" .
+<Galstyan_Law_Group> <organization.organization.sectors> "Law" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Hoffman, Larin & Agnetti, P.A." .
+<United_States_of_America> <location.country.administrative_divisions> "New Mexico" .
+<Duty_solicitor> <people.profession.specialization_of> "Lawyer" .
+<Anthony_Castelli_Attorney> <common.topic.subject_of> "Lawyer" .
+<Counsellor> <people.profession.specialization_of> "Lawyer" .
+<San_Francisco_Giants> <freebase.valuenotation.is_reviewed> "Contact webpages" .
+<Obstructive_sleep_apnea> <medicine.disease.risk_factors> "Male" .
+<Alabama> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Delaware" .
+<Weightmans> <common.topic.subjects> "Lawyer" .
+<m.0k079r4> <base.schemastaging.team_training_ground_relationship.facility> "Seals Stadium" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1sd8" .
+<Candlestick_Park> <sports.sports_facility.home_venue_for> "m.0n9gjdm" .
+<Montana> <base.locations.states_and_provences.country> "United States of America" .
+<Gout> <medicine.icd_9_cm_classification.parent_classification> "Gout" .
+<Ankylosing_spondylitis> <medicine.disease_cause.diseases> "Kyphosis" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<United_States_of_America> <base.locations.countries.continent> "North America" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwwn6" .
+<Kidney_Stone> <medicine.disease.causes> "Gout" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx5g" .
+<Hirschsprung's_disease> <medicine.disease.risk_factors> "Male" .
+<Mississippi> <location.location.containedby> "United States, with Territories" .
+<Ectodermal_dysplasia> <medicine.disease.symptoms> "Hair loss" .
+<Personal_injury_lawyer> <business.industry.companies> "Sullivan & Galleshaw, LLP" .
+<Alaska> <base.biblioness.bibs_location.country> "United States of America" .
+<Lawyer> <common.topic.subjects> "Shine Lawyers" .
+<Texas> <location.location.containedby> "United States of America" .
+<Maine> <location.location.containedby> "United States, with Territories" .
+<West_Virginia> <location.location.containedby> "United States, with Territories" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<West_Virginia> <location.administrative_division.country> "United States of America" .
+<SexCrimeUK.com_-_Dedicated_Sex_Crimes_Defence_Solicitors> <common.topic.subjects> "Solicitor" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Michigan" .
+<m.04vy326> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Alaska> <location.location.containedby> "United States, with Territories" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6d9g" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Maryland" .
+<San_Francisco_Giants> <sports.professional_sports_team.owner_s> "Bill Neukom" .
+<Antisocial_personality_disorder> <medicine.disease.risk_factors> "Male" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vx0zw" .
+<m.04vwzl_> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Legal_Action_Workshop> <common.topic.subjects> "Lawyer" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.locations> "Hoffman, Larin & Agnetti, P.A." .
+<Gout> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <location.country.first_level_divisions> "Rhode Island" .
+<San_Francisco_Giants> <sports.sports_team.championships> "2010 World Series" .
+<Silicon_Valley> <base.biblioness.bibs_location.state> "California" .
+<Axess_Law> <organization.organization.organization_type> "Lawyer" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<Lawyer> <people.profession.specializations> "Conveyancer" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <business.business_location.parent_company> "Hoffman, Larin & Agnetti, P.A." .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6d1j" .
+<Solicitor> <common.topic.notable_types> "Profession" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1sxn" .
+<Michigan> <location.administrative_division.country> "United States of America" .
+<Lawyer> <common.topic.image> "Quentin Massys 007" .
+<United_States_of_America> <location.location.time_zones> "Pacific Time Zone" .
+<Utah> <location.administrative_division.country> "United States of America" .
+<m.012sc1p0> <education.education.major_field_of_study> "Lawyer" .
+<Hodgkin's_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Georgia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "North Dakota" .
+<Law> <people.professional_field.professions_in_this_field> "Criminal defense lawyer" .
+<Ectodermal_dysplasia> <medicine.disease.risk_factors> "Male" .
+<Stanford_Law_School> <education.educational_institution.campuses> "Stanford Law School" .
+<Oregon> <location.location.containedby> "United States of America" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69q3" .
+<United_States,_with_Territories> <location.country.first_level_divisions> "United States of America" .
+<m.05n6cp1> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Inguinal_hernia> <medicine.disease.risk_factors> "Male" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6b9l" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.0dl3646" .
+<Bankruptcy_Lawyer> <law.legal_case.subject> "Leinart Law Firm" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6djp" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<Virginia> <location.administrative_division.first_level_division_of> "United States of America" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z333y" .
+<Sullivan_&_Galleshaw,_LLP> <business.business_operation.industry> "Lawyer" .
+<Solicitor> <common.topic.subject_of> "SexCrimeUK.com - Dedicated Sex Crimes Defence Solicitors" .
+<U.S._state> <base.aareas.schema.administrative_area_type.sovereignty> "United States of America" .
+<San_Francisco_Giants> <award.award_nominee.award_nominations> "m.0z2pd9m" .
+<Lawyer> <common.topic.subjects> "Lawyer.com" .
+<m.0jbcpmf> <common.webpage.topic> "San Francisco Giants" .
+<Law> <common.topic.subject_of> "Reyes Brown Reilley" .
+<Iowa> <base.biblioness.bibs_location.country> "United States of America" .
+<Legal_Action_Workshop> <organization.organization.sectors> "Law" .
+<San_Mateo> <location.location.adjoin_s> "m.03brnxm" .
+<Delaware> <location.administrative_division.first_level_division_of> "United States of America" .
+<North_Carolina> <location.administrative_division.first_level_division_of> "United States of America" .
+<Maryland> <location.location.containedby> "United States of America" .
+<Law> <common.topic.subjects> "Criminal defense lawyer" .
+<Loyalty_Law> <common.topic.subjects> "Personal injury lawyer" .
+<Sports_Team_Owner> <type.type.expected_by> "Owner(s)" .
+<m.06wgl0n> <education.education.student> "Bill Neukom" .
+<Washington,_D.C.> <base.biblioness.bibs_topic.is_really> "Washington, D.C." .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6dq4" .
+<Minnesota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Hawaii> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "New York" .
+<Teams_Owned> <rdf-schema#range> "Professional Sports Team" .
+<Accident_Advice_Helpline> <common.topic.subjects> "Solicitor" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwzl_" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Vermont" .
+<San_Francisco_Giants> <base.schemastaging.organization_extra.contact_webpages> "m.010brg8l" .
+<Risk_Factor> <freebase.type_profile.strict_included_types> "Topic" .
+<Anaplastic_thyroid_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx57" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Hawaii" .
+<m.010brg8l> <internet.localized_uri.location> "United States of America" .
+<San_Mateo> <location.citytown.postal_codes> "94403" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy4xh" .
+<Keith_Sullivan> <common.topic.subject_of> "Personal injury lawyer" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Law> <common.topic.subjects> "Ozols Law Firm" .
+<Procurator_fiscal> <common.topic.notable_types> "Profession" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.010nwnjf" .
+<New_Jersey> <location.location.containedby> "United States of America" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Brian_White_&_Associates,_P.C.> <common.topic.subjects> "Personal injury lawyer" .
+<Grand_Mufti> <people.profession.specialization_of> "Lawyer" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<m.0n5c7xk> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Wyoming" .
+<Oregon> <base.locations.states_and_provences.country> "United States of America" .
+<m.0y4rnv0> <business.employment_tenure.person> "Bill Neukom" .
+<thefloridafirm.com> <common.topic.subject_of> "Personal injury lawyer" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.011_yzj3" .
+<Palo_Alto_Daily_Post> <book.newspaper.circulation_areas> "San Mateo" .
+<Delaware> <location.location.containedby> "United States, with Territories" .
+<Mississippi> <base.locations.states_and_provences.country> "United States of America" .
+<Lawyer> <common.topic.subject_of> "Lawyer.com" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Washington" .
+<Dartmouth_College> <location.location.containedby> "New Hampshire" .
+<Ventricular_tachycardia> <medicine.disease.risk_factors> "Male" .
+<Arkansas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Civil_Rights_Lawyer> <people.profession.specialization_of> "Lawyer" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6fy2" .
+<South_Carolina> <location.administrative_division.first_level_division_of> "United States of America" .
+<South_Carolina> <location.location.containedby> "United States, with Territories" .
+<San_Mateo> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07hc_w8" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6fgn" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z33x_" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwywv" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Arizona" .
+<United_States_of_America> <location.country.administrative_divisions> "Vermont" .
+<Indiana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Francisco_Giants> <sports.sports_team.venue> "m.0n9gjdm" .
+<Stuttering> <medicine.disease.risk_factors> "Male" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6ct6" .
+<The_Hornbuckle_Firm> <common.topic.subjects> "Attorney at law" .
+<m.04vy32q> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Lawyer> <common.topic.image> "SueEasy_Logo.jpg" .
+<San_Mateo> <location.location.contains> "Cinemark 12 Downtown San Mateo" .
+<Alaska> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Colorado" .
+<m.052w1bg> <baseball.baseball_historical_managerial_position.team> "San Francisco Giants" .
+<Mediator> <people.profession.specialization_of> "Lawyer" .
+<Lawyer> <business.industry.companies> "Galstyan Law Group" .
+<North_Carolina> <base.biblioness.bibs_location.country> "United States of America" .
+<Texas> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Maryland" .
+<New_Jersey> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.04vy1xn> <sports.sports_league_draft_pick.school> "Dartmouth College" .
+<United_States_of_America> <location.country.first_level_divisions> "Indiana" .
+<Bill_Neukom> <people.person.education> "m.06wgl0n" .
+<Owner(s)> <type.property.schema> "Professional Sports Team" .
+<New_York_Giants> <baseball.baseball_team.league> "National League" .
+<Downtown_L.A._Law_Group> <common.topic.subjects> "Lawyer" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<Oklahoma> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "New Jersey" .
+<Personal_injury_lawyer> <organization.organization_sector.organizations_in_this_sector> "Michigan Auto Law" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Lawyer> <common.topic.subject_of> "Jesus R. Lopez" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vx0x_" .
+<Lawyer> <base.ontologies.ontology_instance.equivalent_instances> "m.07nf8v_" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Hoffman, Larin & Agnetti, P.A." .
+<Personal_injury_lawyer> <common.topic.subjects> "O’Connor, Runckel & O’Malley LLP" .
+<California> <base.biblioness.bibs_location.country> "United States of America" .
+<College_of_San_Mateo> <education.educational_institution.newspaper> "Monday Morning Blues" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Mercury Legal" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Hampshire" .
+<Shadow_Figure> <fictional_universe.fictional_character.place_of_birth> "Male" .
+<New_Hampshire> <location.administrative_division.first_level_division_of> "United States of America" .
+<ZasPorn> <common.topic.subject_of> "Male" .
+<Carey> <common.topic.subjects> "Lawyer" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<St._George_Cricket_Grounds> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079q4" .
+<Prosecutor> <people.profession.specialization_of> "Lawyer" .
+<Entertainment_Lawyer> <common.topic.notable_types> "Profession" .
+<Judnich_Law_Office> <organization.organization.geographic_scope> "Montana" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<The_Hornbuckle_Firm> <common.topic.subject_of> "Law" .
+<Delaware> <base.biblioness.bibs_location.country> "United States of America" .
+<Criminal_defense_lawyer> <people.profession.specialization_of> "Lawyer" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<San_Francisco> <common.topic.notable_types> "City/Town/Village" .
+<m.04vx0x_> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Law_Offices_of_Jesus_R._Lopez> <common.topic.subject_of> "Lawyer" .
+<United_States_of_America> <location.country.administrative_divisions> "Mississippi" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Maryland" .
+<Louisiana> <location.location.containedby> "United States of America" .
+<Solicitor_advocate> <common.topic.notable_types> "Profession" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6bdf" .
+<Transient_ischemic_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Owner(s)> <owl#inverseOf> "Teams Owned" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy2qp" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Tennessee" .
+<Thomas_Hornbuckle> <organization.organization_founder.organizations_founded> "The Hornbuckle Firm" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Law" .
+<United_States_of_America> <location.country.first_level_divisions> "Utah" .
+<Colorado> <base.locations.states_and_provences.country> "United States of America" .
+<North_Dakota> <location.location.containedby> "United States, with Territories" .
+<Law> <common.topic.subject_of> "Anthony Castelli Attorney" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "California" .
+<Oregon> <location.location.time_zones> "Pacific Time Zone" .
+<Quentin_Massys_007> <common.image.appears_in_topic_gallery> "Civil law notary" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0101pk4l" .
+<Crazy_Crab> <sports.mascot.team> "San Francisco Giants" .
+<m.0hvn4gv> <education.education.institution> "Stanford Law School" .
+<United_States_of_America> <location.country.administrative_divisions> "Minnesota" .
+<m.04vwzlm> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<Idaho> <location.location.containedby> "United States, with Territories" .
+<Missouri> <base.locations.states_and_provences.country> "United States of America" .
+<Labour_Lawyer> <common.topic.notable_types> "Profession" .
+<United_States_of_America> <location.country.first_level_divisions> "Florida" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.01063434" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Lawyer> <common.topic.subjects> "Sally & Fitch LLP" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<New_Jersey> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <law.court_jurisdiction_area.courts> "Supreme Court of the United States" .
+<San_Mateo> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07hc_wq" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Missouri" .
+<Candlestick_Park> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079qc" .
+<Sports_Team_Owner> <type.type.domain> "Sports" .
+<Law_Offices_of_Jesus_R._Lopez> <organization.organization.founders> "Jesus R. Lopez" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwv0m" .
+<United_States_of_America> <location.location.partially_containedby> "North America" .
+<San_Francisco_Giants> <common.topic.webpage> "m.09w9hyc" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx5p" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Lawyer" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6bl3" .
+<Professional_Sports_Team> <type.type.domain> "Sports" .
+<Adam_Greenman_Law> <common.topic.subjects> "Attorney at law" .
+<Utah> <location.location.containedby> "United States, with Territories" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<Sally_&_Fitch_LLP> <common.topic.subjects> "Lawyer" .
+<New_Mexico> <location.location.containedby> "United States, with Territories" .
+<Human_Rights_Lawyer> <common.topic.notable_types> "Profession" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<Lawyer> <common.topic.subjects> "Fresh Start Bail Bonds" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<Texas> <location.administrative_division.country> "United States of America" .
+<Sports_Team_Owner> <freebase.type_profile.published> "Published" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<Lawyer> <people.profession.specializations> "Human Rights Lawyer" .
+<Law_Offices_of_Christopher_Varnell> <common.topic.subjects> "Criminal defense lawyer" .
+<Law> <common.topic.subjects> "Sara Gaborik" .
+<National_League_West> <baseball.baseball_division.teams> "San Francisco Giants" .
+<Lawyer> <common.topic.subject_of> "Loyalty Law" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<Virginia> <base.locations.states_and_provences.country> "United States of America" .
+<Lawyer_SEO_Services> <common.topic.subjects> "Lawyer" .
+<Owner(s)> <type.property.reverse_property> "Teams Owned" .
+<San_Mateo> <location.statistical_region.population> "g.11x1l0bvn" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Michigan> <organization.organization_scope.organizations_with_this_scope> "Michigan Auto Law" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Pennsylvania" .
+<Sally_&_Fitch_LLP> <common.topic.subjects> "Attorney at law" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<Stanford_Law_School> <location.location.containedby> "California" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z33x1" .
+<Real_estate_lawyer> <common.topic.subject_of> "Axess Law" .
+<m.0k079s6> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.first_level_divisions> "North Carolina" .
+<Phillips_Law_Firm> <organization.organization.sectors> "Attorney at law" .
+<San_Mateo> <location.location.contains> "Ernest Coxhead House" .
+<Reiff_and_Bily> <common.topic.subject_of> "Personal injury lawyer" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0102z593" .
+<Attorney_at_law> <organization.organization_sector.organizations_in_this_sector> "Galstyan Law Group" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<Duty_solicitor> <common.topic.notable_types> "Profession" .
+<Rhode_Island> <base.locations.states_and_provences.country> "United States of America" .
+<San_Francisco_Giants> <common.topic.notable_types> "Professional Sports Team" .
+<Rhode_Island> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6fpw" .
+<Sports_Team_Owner> <type.type.properties> "Teams Owned" .
+<Georgia> <location.location.containedby> "United States of America" .
+<Florida> <base.biblioness.bibs_location.country> "United States of America" .
+<Law> <common.topic.subjects> "Shine Lawyers" .
+<Lawyer> <organization.organization_type.organizations_of_this_type> "Axess Law" .
+<United_States_of_America> <location.country.administrative_divisions> "Utah" .
+<Law> <common.topic.subjects> "Thomas Hornbuckle" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxbv" .
+<Montana> <location.administrative_division.first_level_division_of> "United States of America" .
+<California> <location.location.containedby> "United States of America" .
+<2012_World_Series> <sports.sports_championship_event.season> "2012 Major League Baseball season" .
+<Lawyer> <people.profession.specializations> "State Attorney" .
+<United_States_of_America> <location.country.administrative_divisions> "Florida" .
+<Wyoming> <location.administrative_division.country> "United States of America" .
+<Bill_Neukom> <people.person.profession> "Lawyer" .
+<Lawyer_SEO_Services> <business.brand.products> "Lawyer SEO Services" .
+<Delaware> <location.administrative_division.country> "United States of America" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69rf" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<Barrister> <common.topic.notable_types> "Profession" .
+<San_Mateo> <location.statistical_region.population> "m.0jt9p_x" .
+<Hair_loss> <medicine.symptom.symptom_of> "Syphilis" .
+<South_Dakota> <location.location.containedby> "United States of America" .
+<m.05n6b3x> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<San_Mateo> <location.statistical_region.population> "g.11x1l9_tq" .
+<San_Francisco_Giants> <sports.sports_team.venue> "m.0w_jzv2" .
+<San_Mateo> <location.citytown.postal_codes> "94497" .
+<Attig_Law_Firm> <common.topic.subjects> "Lawyer" .
+<College_of_San_Mateo> <location.location.containedby> "San Mateo" .
+<Sullivan_&_Galleshaw,_LLP> <organization.organization.founders> "Keith Sullivan" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "West Virginia" .
+<Counsellor> <common.topic.notable_types> "Profession" .
+<Contract_attorney> <people.profession.specialization_of> "Lawyer" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<Kansas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Connecticut" .
+<m.0y_rn4y> <award.award_nomination.award_nominee> "San Francisco Giants" .
+<m.05n69sr> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Montana> <base.locations.states_and_provences.continent> "North America" .
+<O’Connor,_Runckel_&_O’Malley_LLP> <organization.organization.locations> "O’Connor, Runckel & O’Malley LLP" .
+<Stanford_University> <education.educational_institution.subsidiary_or_constituent_schools> "Stanford Law School" .
+<United_States_of_America> <location.country.first_level_divisions> "Georgia" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "South Dakota" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vww5g" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdividing_type> "U.S. federal district" .
+<San_Mateo> <location.location.contains> "Bel Mateo Bowl" .
+<United_States_of_America> <location.country.administrative_divisions> "Michigan" .
+<Civil_law_notary> <common.topic.notable_types> "Profession" .
+<m.0527cyq> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<Lawyer> <common.topic.subject_of> "Accident Advice Helpline" .
+<m.07nf8v_> <base.ontologies.ontology_instance_mapping.freebase_topic> "Lawyer" .
+<North_Dakota> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Reyes Brown Reilley" .
+<Glasheen,_Valles,_and_Inderman,_LLP> <common.topic.subjects> "Lawyer" .
+<m.05n6fby> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<San_Francisco_Giants> <sports.sports_team.championships> "2014 World Series" .
+<m.0n0kvkq> <education.education.institution> "Stanford University" .
+<Kyphosis> <medicine.disease.causes> "Ankylosing spondylitis" .
+<San_Francisco_Bay_Area> <location.location.time_zones> "Pacific Time Zone" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527d0k" .
+<San_Francisco_Giants> <base.schemastaging.organization_extra.phone_number> "m.010brjkc" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.01076281" .
+<Connecticut> <location.administrative_division.first_level_division_of> "United States of America" .
+<Keith_Sullivan> <organization.organization_founder.organizations_founded> "Sullivan & Galleshaw, LLP" .
+<Procurator_fiscal> <people.profession.specialization_of> "Lawyer" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_zy2lk" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<South_Dakota> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<Galstyan_Law_Group> <organization.organization.place_founded> "California" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0102z59q" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Law" .
+<Lawyer> <people.profession.specializations> "Attorney at law" .
+<Washington,_D.C.> <location.location.containedby> "United States, with Territories" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1s2s" .
+<San_Mateo> <base.biblioness.bibs_location.state> "California" .
+<Kidney_Stone> <medicine.disease_cause.diseases> "Urolithiasis" .
+<Supreme_Court_of_the_United_States> <law.court.jurisdiction> "United States of America" .
+<San_Mateo> <base.wikipedia_infobox.settlement.area_code> "Area code 650" .
+<Denena_&_Points,_P.C.> <organization.organization.organization_type> "Lawyer" .
+<2014_World_Series> <sports.sports_championship_event.champion> "San Francisco Giants" .
+<California> <location.location.time_zones> "Pacific Time Zone" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.subdividing_place> "United States of America" .
+<Arizona> <base.locations.states_and_provences.country> "United States of America" .
+<Criminal_defense_lawyer> <common.topic.subject_of> "Lawyer" .
+<Downtown_L.A._Law_Group> <business.business_operation.industry> "Law" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Iowa" .
+<Reyes_Brown_Reilley> <common.topic.subjects> "Law" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0101pjk9" .
+<United_States_of_America> <location.country.first_level_divisions> "California" .
+<Mercury_Legal> <organization.organization.sectors> "Lawyer" .
+<Lawyer> <common.topic.subject_of> "Attig Law Firm" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Kansas" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Nephrotic_syndrome> <medicine.disease.risk_factors> "Male" .
+<Louisiana> <base.locations.states_and_provences.country> "United States of America" .
+<Lawyer> <common.topic.subject_of> "Downtown L.A. Law Group" .
+<m.04w1tcm> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Sports_Team_Owner> <freebase.type_profile.kind> "Role" .
+<m.04vws61> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<m.05n6dq4> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.first_level_divisions> "Maine" .
+<Alabama> <location.administrative_division.first_level_division_of> "United States of America" .
+<Tetralogy_of_Fallot> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<m.04w1sd8> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Michigan Auto Law" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<United_States_of_America> <location.country.administrative_divisions> "Wyoming" .
+<New_Hampshire> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Delaware" .
+<m.04xh8yg> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Teams_Owned> <type.property.master_property> "Owner(s)" .
+<Georgia> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Hawaii" .
+<United_States_Dollar> <finance.currency.countries_used> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<Sports> <type.domain.types> "Sports Team Owner" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.010761wl" .
+<Weightmans> <common.topic.subjects> "Solicitor" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<U.S._federal_district> <base.aareas.schema.administrative_area_type.pertains_to> "United States of America" .
+<North_Carolina> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<In_the_Ring:_The_Trials_of_a_Washington_Lawyer> <book.written_work.subjects> "Washington, D.C." .
+<Ankylosing_spondylitis> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <common.topic.subject_of> "SexCrimeUK.com - Dedicated Sex Crimes Defence Solicitors" .
+<m.09w9hyc> <common.webpage.topic> "San Francisco Giants" .
+<Lawyer> <common.topic.subject_of> "Weightmans" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oklahoma" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Hair_loss> <medicine.symptom.symptom_of> "Ectodermal dysplasia" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Solicitor> <organization.organization_sector.organizations_in_this_sector> "Overeenkomst.nu" .
+<Law> <common.topic.subjects> "The Rodriguez Law Group" .
+<Oklahoma> <location.location.containedby> "United States, with Territories" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "Polo Grounds III" .
+<Colorado> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Denena_&_Points,_P.C.> <organization.organization.organization_type> "Personal injury lawyer" .
+<m.05n6d1j> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Hawaii> <location.location.containedby> "United States of America" .
+<Nebraska> <location.location.containedby> "United States, with Territories" .
+<Adam_Greenman_Law> <common.topic.subjects> "Lawyer" .
+<2010_Major_League_Baseball_season> <time.event.participant> "San Francisco Giants" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Virginia" .
+<Ernest_Coxhead_House> <location.location.containedby> "San Mateo" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0102z5k7" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "South Carolina" .
+<m.05n6fgn> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Bruce_Bochy> <people.person.nationality> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<United_States_of_America> <location.country.administrative_divisions> "Nebraska" .
+<San_Francisco_Giants> <award.award_nominee.award_nominations> "m.0y_rn4y" .
+<2010_World_Series> <sports.sports_championship_event.champion> "San Francisco Giants" .
+<m.0k079ry> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<Solicitor> <common.topic.subject_of> "Weightmans" .
+<Law> <common.topic.subjects> "Brian White & Associates, P.C." .
+<Dupuytren's_contracture> <medicine.disease.risk_factors> "Male" .
+<North_America> <location.location.contains_major_portion_of> "United States of America" .
+<Vermont> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Connecticut" .
+<Missouri> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Mateo> <location.location.time_zones> "Pacific Time Zone" .
+<Lawyer> <people.profession.specializations> "Jurist" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<Missouri> <location.administrative_division.country> "United States of America" .
+<Lawyer> <common.topic.subject_of> "Keen & Genochio Attorneys at Law" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Illinois" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Kentucky> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z3347" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Liver_tumour> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.011_yzjt" .
+<Personal_injury_lawyer> <organization.organization_sector.organizations_in_this_sector> "Adam Greenman Law" .
+<San_Francisco_Giants> <sports.sports_team.season_record> "m.0dl3192" .
+<United_States_of_America> <location.country.first_level_divisions> "Washington" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6cb0" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6clb" .
+<Weightmans> <common.topic.subjects> "Law" .
+<AT&T_Park> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079s6" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.0crt7c2> <sports.sports_league_participation.team> "San Francisco Giants" .
+<The_Hornbuckle_Firm> <common.topic.subjects> "Personal injury lawyer" .
+<Personal_injury_lawyer> <organization.organization_sector.organizations_in_this_sector> "Mercury Legal" .
+<m.0527d03> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<Adam_Greenman_Law> <organization.organization.geographic_scope> "United States of America" .
+<m.0527d13> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6b62" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6dtn" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<Lawyer> <people.profession.specializations> "Barrister" .
+<Sullivan_&_Galleshaw,_LLP> <business.business_operation.industry> "Personal injury lawyer" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1xql" .
+<New_York_Giants> <sports.defunct_sports_team.later_known_as> "San Francisco Giants" .
+<Minnesota> <location.administrative_division.country> "United States of America" .
+<Maine> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0hvn4gv> <education.education.student> "Bill Neukom" .
+<Lawyer> <common.topic.subjects> "Daniel Martínez Benito" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Maine" .
+<Keen_&_Genochio_Attorneys_at_Law> <common.topic.subjects> "Lawyer" .
+<Solicitor> <common.topic.subject_of> "Weightmans" .
+<Law> <common.topic.subjects> "Anthony Castelli Attorney" .
+<United_States_of_America> <location.country.administrative_divisions> "California" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx6t" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<m.05n6cb0> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy4g_" .
+<New_York_Gothams> <sports.sports_team.sport> "Baseball" .
+<Child-Care_Solicitor> <people.profession.specialization_of> "Lawyer" .
+<National_League_West> <baseball.baseball_division.league> "National League" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Lawyer> <people.profession.specializations> "Labour Lawyer" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6flc" .
+<2010_World_Series> <time.event.locations> "AT&T Park" .
+<Non-Hodgkin_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Phillips Law Firm" .
+<m.05n6f0f> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Florida> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Stanford_University> <base.biblioness.bibs_location.state> "California" .
+<Daniel_C._Miller,_LLC> <common.topic.subjects> "Attorney at law" .
+<San_Mateo_County> <location.location.containedby> "San Francisco Bay Area" .
+<Lawyer> <common.topic.subjects> "Criminal defense lawyer" .
+<United_States_of_America> <location.country.administrative_divisions> "Massachusetts" .
+<Seals_Stadium> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079r4" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vw__f" .
+<m.04vwwn6> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<San_Mateo> <common.topic.image> "San Mateo from above" .
+<Washington> <location.location.time_zones> "Pacific Time Zone" .
+<Sports_Team_Owner> <common.topic.article> "m.06zx9lg" .
+<m.04vw_l9> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.04vww5g> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<State_Attorney> <common.topic.notable_types> "Profession" .
+<Hypospadias> <medicine.disease.risk_factors> "Male" .
+<North_America> <location.location.time_zones> "Pacific Time Zone" .
+<Galstyan_Law_Group> <common.topic.subjects> "Law" .
+<Abraham_Lincoln_head_on_shoulders_photo_portrait> <common.image.appears_in_topic_gallery> "Lawyer" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d43j" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106ry51" .
+<West_Virginia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Mateo> <location.statistical_region.population> "g.11x1ffjvp" .
+<m.010brjkc> <base.schemastaging.phone_sandbox.service_location> "United States of America" .
+<Barrett's_esophagus> <medicine.disease.risk_factors> "Male" .
+<North_Dakota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Legal Action Workshop" .
+<Polo_Grounds> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079pf" .
+<Professional_Sports_Team> <freebase.type_hints.included_types> "Topic" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Arizona" .
+<Hawaii> <location.administrative_division.first_level_division_of> "United States of America" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxn7" .
+<Colorado> <location.location.containedby> "United States, with Territories" .
+<m.05n6bn9> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Florida> <location.location.containedby> "United States of America" .
+<m.0dl37x6> <baseball.baseball_team_stats.season> "2010 Major League Baseball season" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<College_of_San_Mateo> <location.location.containedby> "United States of America" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Michigan_Auto_Law> <organization.organization.sectors> "Lawyer" .
+<Arkansas> <base.locations.states_and_provences.country> "United States of America" .
+<Law_costs_draftsman> <people.profession.specialization_of> "Lawyer" .
+<Dansky_|_Katz_|_Ringold_|_York> <common.topic.subject_of> "Lawyer" .
+<United_States_of_America> <location.country.administrative_divisions> "Oklahoma" .
+<Lawyer> <common.topic.image> "Abraham Lincoln head on shoulders photo portrait" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Iowa" .
+<Risk_Factor> <freebase.type_profile.kind> "Role" .
+<Idaho> <base.locations.states_and_provences.country> "United States of America" .
+<Lawyer> <people.profession.specializations> "Procurator fiscal" .
+<North_Dakota> <location.location.containedby> "United States of America" .
+<Illinois> <base.locations.states_and_provences.country> "United States of America" .
+<Montana> <location.location.containedby> "United States, with Territories" .
+<Myocardial_Ischemia> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <book.book_subject.works> "In the Ring: The Trials of a Washington Lawyer" .
+<m.05n69_j> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Florida> <base.locations.states_and_provences.country> "United States of America" .
+<m.05n6fpw> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z330p" .
+<Utah> <location.administrative_division.first_level_division_of> "United States of America" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_zy40n" .
+<U.S._state> <base.aareas.schema.administrative_area_type.subdivides_place> "United States of America" .
+<m.05n6fy2> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.first_level_divisions> "Pennsylvania" .
+<Professional_Sports_Team> <freebase.type_profile.strict_included_types> "Topic" .
+<Lawyer> <common.topic.subject_of> "Weightmans" .
+<Daniel_Martínez_Benito> <common.topic.subject_of> "Lawyer" .
+<Hair_loss> <medicine.symptom.symptom_of> "Seborrheic dermatitis" .
+<Law> <common.topic.subject_of> "Sally & Fitch LLP" .
+<San_Mateo> <location.statistical_region.population> "g.12vqhxqkv" .
+<San_Mateo> <location.statistical_region.population> "g.11b66hc7d8" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rt_8" .
+<m.0w_jzv2> <sports.team_venue_relationship.venue> "AT&T Park" .
+<Aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<Weightmans> <common.topic.subjects> "Solicitor" .
+<Massachusetts> <location.administrative_division.country> "United States of America" .
+<2012_Major_League_Baseball_season> <sports.sports_league_season.championship> "2012 World Series" .
+<Bruce_Bochy> <baseball.baseball_manager.current_team_managed> "San Francisco Giants" .
+<m.04vwv0m> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Massachusetts> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Mateo> <base.biblioness.bibs_location.country> "United States of America" .
+<m.05n6b9l> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Anthony_Dean_Castelli> <common.topic.subjects> "Law" .
+<San_Mateo> <periodicals.newspaper_circulation_area.newspapers> "Monday Morning Blues" .
+<Aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Dodgers–Giants_rivalry> <base.rivalries.rivalry.rival> "New York Giants" .
+<m.05n69q3> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079q4" .
+<Multiple_myeloma> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<m.05n6djp> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.capital> "Washington, D.C." .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<Stanford_Law_School> <location.location.containedby> "United States of America" .
+<Utah> <base.locations.states_and_provences.country> "United States of America" .
+<Lawyer.com> <common.topic.subject_of> "Lawyer" .
+<Conveyancer> <people.profession.specialization_of> "Lawyer" .
+<Axess_Law> <common.topic.subjects> "Lawyer" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d5j5" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_zy0_v" .
+<Michigan_Auto_Law> <organization.organization.sectors> "Personal injury lawyer" .
+<Wyoming> <base.locations.states_and_provences.country> "United States of America" .
+<San_Mateo> <location.statistical_region.population> "g.11x1fn0t_" .
+<Lawyer> <common.topic.subject_of> "The Hornbuckle Firm" .
+<Galstyan_Law_Group> <common.topic.subjects> "Lawyer" .
+<San_Francisco_Giants> <sports.sports_team.previously_known_as> "New York Gothams" .
+<Law_Offices_of_Christopher_Varnell> <common.topic.subject_of> "Lawyer" .
+<Lawyer> <common.topic.subjects> "Ozols Law Firm" .
+<Conveyancer> <common.topic.notable_types> "Profession" .
+<San_Mateo> <location.location.containedby> "San Mateo County" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<San_Francisco> <location.us_county.county_seat> "San Francisco" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oregon" .
+<Hawaii> <location.administrative_division.country> "United States of America" .
+<Lawyer> <business.industry.companies> "Sullivan & Galleshaw, LLP" .
+<Alabama> <base.locations.states_and_provences.country> "United States of America" .
+<Wisconsin> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Wisconsin" .
+<U.S._federal_district> <base.aareas.schema.administrative_area_type.sovereignty> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Nevada" .
+<Lawyer> <common.topic.subject_of> "Galstyan Law Group" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Illinois" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<Rhode_Island> <location.administrative_division.country> "United States of America" .
+<Sally_&_Fitch_LLP> <base.crime.lawyer.specialty> "Law" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6d4c" .
+<Owner(s)> <rdf-schema#range> "Sports Team Owner" .
+<Bill_Neukom> <people.person.employment_history> "m.0y4rnv0" .
+<Law_Offices_of_Sara_M._Gaborik> <common.topic.subjects> "Lawyer" .
+<San_Mateo> <location.statistical_region.population> "g.11x1gppcc" .
+<Myocardial_Ischemia> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Law> <common.topic.subjects> "Leinart Law Firm" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6cdf" .
+<Corneal_abrasion> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <location.country.administrative_divisions> "Kansas" .
+<Illinois> <location.administrative_division.country> "United States of America" .
+<Attorney_at_law> <common.topic.subject_of> "Adam Greenman Law" .
+<United_States_of_America> <location.country.administrative_divisions> "Iowa" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Tennessee" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx6b" .
+<m.0crt4b6> <sports.sports_league_participation.team> "San Francisco Giants" .
+<Connecticut> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Wisconsin" .
+<Lawyer> <common.topic.subject_of> "Judnich Law Office" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6b1q" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z33f0" .
+<Louisiana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Law> <common.topic.subjects> "Sally & Fitch LLP" .
+<San_Francisco_Giants> <base.ontologies.ontology_instance.equivalent_instances> "m.07nfvgp" .
+<m.04vx0zw> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx7q" .
+<New_Jersey> <base.biblioness.bibs_location.country> "United States of America" .
+<Lawyer> <people.profession.part_of_professional_field> "Law" .
+<U.S._federal_district> <freebase.type_hints.included_types> "Topic" .
+<De_Sabla,_Eugene_J.,_Jr.,_Teahouse_and_Tea_Garden> <location.location.containedby> "San Mateo" .
+<Lawyer> <common.topic.subjects> "Law Offices of Jesus R. Lopez" .
+<Urolithiasis> <medicine.disease.causes> "Kidney Stone" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<Mercury_Legal> <organization.organization.sectors> "Solicitor" .
+<Pectus_excavatum> <medicine.disease.risk_factors> "Male" .
+<Oklahoma> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Lawyer> <people.profession.specializations> "Duty solicitor" .
+<Seals_Stadium> <location.location.containedby> "San Francisco" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d5n5" .
+<San_Francisco_Giants> <sports.sports_team.venue> "m.0x1wcv3" .
+<Solicitor> <common.topic.subject_of> "Accident Advice Helpline" .
+<Anthony_Dean_Castelli> <people.person.profession> "Personal injury lawyer" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx3x" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Idaho" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy293" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04xh8yg" .
+<Rose_Law_Firm> <business.business_operation.industry> "Lawyer" .
+<Brian_White_&_Associates,_P.C.> <common.topic.subjects> "Law" .
+<Seborrheic_dermatitis> <medicine.disease.symptoms> "Hair loss" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Adam Greenman Law" .
+<94402> <location.postal_code.country> "United States of America" .
+<Maine> <location.location.containedby> "United States of America" .
+<South_Carolina> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "San Francisco" .
+<Lawyer> <people.profession.specializations> "Solicitor" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<Silicon_Valley> <location.location.containedby> "San Francisco Bay Area" .
+<Utah> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<New_Mexico> <location.administrative_division.country> "United States of America" .
+<Dartmouth_College> <education.educational_institution_campus.educational_institution> "Dartmouth College" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<Lawyer> <people.profession.specialization_of> "Criminal defense lawyer" .
+<Anonymous_Lawyer> <book.written_work.subjects> "Lawyer" .
+<Reyes_Brown_Reilley> <business.business_operation.industry> "Law" .
+<m.04w1tvv> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Mexico" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Oregon" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Washington, D.C." .
+<Lawyer.com> <common.topic.subjects> "Lawyer" .
+<Prosecutor> <common.topic.notable_types> "Profession" .
+<Kentucky> <base.locations.states_and_provences.country> "United States of America" .
+<Silicon_Valley> <location.location.containedby> "California" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Legal Action Workshop" .
+<Vermont> <location.location.containedby> "United States of America" .
+<Tennessee> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Kentucky" .
+<Thomas_Hornbuckle> <common.topic.subjects> "Attorney at law" .
+<Majux_Marketing> <business.business_operation.major_customer> "Lawyer" .
+<New_York_Gothams> <sports.defunct_sports_team.sport> "Baseball" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Florida" .
+<Pyloric_stenosis> <medicine.disease.risk_factors> "Male" .
+<New_Mexico> <base.locations.states_and_provences.country> "United States of America" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<United_States_of_America> <location.country.first_level_divisions> "New Mexico" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106ry3x" .
+<m.05n6chh> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Owner(s)> <rdf-schema#domain> "Professional Sports Team" .
+<Nebraska> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.04vwttf> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1x4c" .
+<m.0527d0s> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<Corporate_lawyer> <people.profession.specialization_of> "Lawyer" .
+<National_League> <sports.sports_league.teams> "m.0crt7c2" .
+<The_Hornbuckle_Firm> <business.business_operation.industry> "Law" .
+<Candlestick_Park> <location.location.time_zones> "Pacific Time Zone" .
+<Kentucky> <base.biblioness.bibs_location.country> "United States of America" .
+<Lawyer> <common.topic.subject_of> "Law Offices of Sara M. Gaborik" .
+<O’Connor,_Runckel_&_O’Malley_LLP> <business.business_location.parent_company> "O’Connor, Runckel & O’Malley LLP" .
+<m.05n6dmr> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Bartle_&_Marcus_Law> <common.topic.subjects> "Lawyer" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<Lawyer> <people.profession.specializations> "Legal executive" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6cp1" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<San_Mateo> <location.citytown.postal_codes> "94401" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Lawyer" .
+<Washington,_D.C.> <location.administrative_division.first_level_division_of> "United States of America" .
+<Weightmans> <common.topic.subjects> "Law" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<Alabama> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Mississippi> <location.location.containedby> "United States of America" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Stroke" .
+<m.0k079rd> <base.schemastaging.team_training_ground_relationship.facility> "Polo Grounds II" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "Hilltop Park" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Nebraska" .
+<Ohio> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Mateo> <location.hud_foreclosure_area.ofheo_price_change> "m.07hc_wx" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_zy66p" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<Keith_Sullivan> <people.person.gender> "Male" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69ys" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Labour_Lawyer> <people.profession.specialization_of> "Lawyer" .
+<San_Mateo> <location.statistical_region.population> "g.11x1g35n4" .
+<Bankruptcy_Lawyer> <common.topic.subject_of> "Leinart Law Firm" .
+<m.05n6d4c> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<San_Mateo> <common.topic.webpage> "m.040hd4f" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Jersey" .
+<m.05n6df5> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.administrative_divisions> "Illinois" .
+<Dartmouth_College> <location.location.containedby> "United States of America" .
+<Sally_&_Fitch_LLP> <common.topic.subjects> "Law" .
+<Personal_injury_lawyer> <common.topic.subjects> "Sullivan & Galleshaw, LLP" .
+<Wisconsin> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1xs2" .
+<Acute_myeloid_leukemia> <medicine.disease.risk_factors> "Male" .
+<m.0x1wcv3> <sports.team_venue_relationship.team> "San Francisco Giants" .
+<San_Mateo> <location.hud_county_place.place> "San Mateo" .
+<Solicitor> <people.profession.specialization_of> "Lawyer" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "North Dakota" .
+<m.0101nzqr> <government.government_position_held.jurisdiction_of_office> "San Mateo" .
+<United_States_of_America> <location.country.first_level_divisions> "Virginia" .
+<Montana> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Anthony_Dean_Castelli> <people.person.profession> "Lawyer" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxxx" .
+<Lawyer> <common.topic.subject_of> "Lawyer SEO Services" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Minnesota" .
+<Georgia> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<Arizona> <location.administrative_division.country> "United States of America" .
+<Indiana> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.first_level_divisions> "Arizona" .
+<Kidney_Stone> <medicine.disease.risk_factors> "Male" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Ohio" .
+<Maine> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Overeenkomst.nu> <organization.organization.sectors> "Solicitor" .
+<Alaska> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<Mississippi> <location.administrative_division.first_level_division_of> "United States of America" .
+<Kansas> <base.biblioness.bibs_location.country> "United States of America" .
+<Criminal_defense_lawyer> <common.topic.subject_of> "Law Offices of Christopher Varnell" .
+<Lawyer> <common.topic.subject_of> "Stephen Hornbuckle" .
+<Criminal_defense_lawyer> <people.profession.part_of_professional_field> "Law" .
+<Nevada> <base.biblioness.bibs_location.country> "United States of America" .
+<Jesus_R._Lopez> <people.person.profession> "Attorney at law" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106341d" .
+<Lawyer> <people.profession.specializations> "Civil law notary" .
+<Polo_Grounds_II> <sports.sports_facility.teams> "San Francisco Giants" .
+<North_America> <location.location.partially_contains> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Connecticut" .
+<Maryland> <location.location.containedby> "United States, with Territories" .
+<New_York> <location.location.containedby> "United States of America" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "Candlestick Park" .
+<2012_Major_League_Baseball_season> <time.event.participant> "San Francisco Giants" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Mississippi" .
+<Lawyer> <common.topic.subjects> "The Rodriguez Law Group" .
+<m.05n6b_j> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rsrm" .
+<m.05n6bgm> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Leinart_Law_Firm> <law.legal_subject.legal_cases> "Bankruptcy Lawyer" .
+<Missouri> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_parent> "United States, with Territories" .
+<Lawyer> <base.crime.lawyer_type.lawyers_of_this_type> "Sally & Fitch LLP" .
+<Legal_Action_Workshop> <business.business_operation.industry> "Lawyer" .
+<North_Carolina> <location.administrative_division.country> "United States of America" .
+<m.05n6c7m> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Downtown_L.A._Law_Group> <common.topic.subjects> "Personal injury lawyer" .
+<New_York> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Francisco_Giants> <common.topic.article> "m.07141" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Wyoming" .
+<Ohio> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<Colorado> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<Actinic_keratosis> <medicine.disease.risk_factors> "Male" .
+<California> <base.locations.states_and_provences.country> "United States of America" .
+<San_Mateo> <location.statistical_region.population> "g.11bc889b4n" .
+<U.S._state> <freebase.type_hints.included_types> "Topic" .
+<U.S._federal_district> <base.aareas.schema.administrative_area_type.subdivides_place> "United States of America" .
+<Tennessee> <location.location.containedby> "United States of America" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z33sn" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<Connecticut> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx5x" .
+<St._George_Cricket_Grounds> <sports.sports_facility.teams> "New York Giants" .
+<Lawyer> <common.topic.subjects> "Brian White & Associates, P.C." .
+<Wisconsin> <location.location.containedby> "United States of America" .
+<Brian_White_&_Associates,_P.C.> <common.topic.subject_of> "Lawyer" .
+<m.09w81b7> <common.webpage.topic> "San Francisco Giants" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Owner(s)> <type.property.expected_type> "Sports Team Owner" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx63" .
+<m.0k079q4> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<Jesus_R._Lopez> <people.person.profession> "Lawyer" .
+<Axess_Law> <common.topic.subjects> "Personal injury lawyer" .
+<m.05n69my> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<male.jpg> <common.image.appears_in_topic_gallery> "Male" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Thomas Hornbuckle" .
+<Lawyer> <common.topic.subject_of> "Brian White & Associates, P.C." .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "North Carolina" .
+<Maryland> <location.administrative_division.country> "United States of America" .
+<San_Francisco> <location.location.containedby> "California" .
+<m.05n6brp> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Downtown_L.A._Law_Group> <organization.organization.sectors> "Law" .
+<United_States_of_America> <location.country.administrative_divisions> "Arizona" .
+<Sports> <type.domain.types> "Professional Sports Team" .
+<United_States_of_America> <location.country.first_level_divisions> "Missouri" .
+<Nevada> <location.location.containedby> "United States of America" .
+<Judnich_Law_Office> <common.topic.subjects> "Lawyer" .
+<New_York_Giants> <base.rivalries.rival.rivals> "Dodgers–Giants rivalry" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<Lawyer> <people.profession.specializations> "Law costs draftsman" .
+<Texas> <base.aareas.schema.administrative_area.administrative_area_type> "U.S. state" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Colorado" .
+<Bandle_&_Zaeske_LLP> <common.topic.subjects> "Lawyer" .
+<Anthony_Castelli_Attorney> <common.topic.subject_of> "Law" .
+<United_States_of_America> <location.country.administrative_divisions> "Alaska" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.011nj7sh" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079rd" .
+<m.05n6dtn> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.administrative_divisions> "North Dakota" .
+<m.0crtd80> <sports.sports_league_participation.league> "National League West" .
+<West_Virginia> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Kansas" .
+<Idaho> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Georgia" .
+<m.0k079qc> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rsbl" .
+<Maryland> <location.administrative_division.first_level_division_of> "United States of America" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "Polo Grounds" .
+<Maryland> <base.biblioness.bibs_location.country> "United States of America" .
+<Delaware> <base.locations.states_and_provences.country> "United States of America" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079qc" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Florida" .
+<Civil_law_notary> <common.topic.image> "Quentin Massys 007" .
+<Idaho> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Missouri" .
+<Brian_White_&_Associates,_P.C.> <common.topic.subject_of> "Law" .
+<m.05n6d78> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.first_level_divisions> "Oklahoma" .
+<Washington,_D.C.> <base.biblioness.bibs_location.country> "United States of America" .
+<Alaska> <location.administrative_division.country> "United States of America" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwycv" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<Oklahoma> <base.biblioness.bibs_location.country> "United States of America" .
+<m.05n6btw> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<m.0w_jy61> <sports.team_venue_relationship.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.administrative_divisions> "West Virginia" .
+<Barrister> <people.profession.specialization_of> "Lawyer" .
+<m.05n6dy4> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.first_level_divisions> "Kansas" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Indiana" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxll" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<New_Mexico> <location.location.containedby> "United States of America" .
+<San_Mateo> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07hc_w1" .
+<Nevada> <base.locations.states_and_provences.country> "United States of America" .
+<Nevada> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<North_Dakota> <location.administrative_division.country> "United States of America" .
+<Bill_Neukom> <sports.sports_team_owner.teams_owned> "San Francisco Giants" .
+<Washington> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <location.country.first_level_divisions> "Mississippi" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Vermont" .
+<United_States_of_America> <base.militaryinfiction.location_in_fiction.contains> "Kansas" .
+<AT&T_Park> <sports.sports_facility.home_venue_for> "m.0w_jzv2" .
+<Downtown_L.A._Law_Group> <organization.organization.geographic_scope> "California" .
+<m.06wgl0n> <education.education.institution> "Dartmouth College" .
+<Louisiana> <location.location.containedby> "United States, with Territories" .
+<San_Mateo> <location.hud_foreclosure_area.hhuniv> "m.07hc_vm" .
+<San_Mateo> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07hc_vv" .
+<m.04w1xs2> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Leprosy> <medicine.disease.risk_factors> "Male" .
+<m.04vwz4x> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Washington> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Mateo> <location.statistical_region.population> "g.11x1ky2yp" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rwzt" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "St. George Cricket Grounds" .
+<Lawyer> <common.topic.subjects> "Accident Advice Helpline" .
+<San_Francisco_Giants> <sports.sports_team.location> "San Francisco" .
+<Wyoming> <location.location.containedby> "United States, with Territories" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<Hilltop_Park> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079pz" .
+<m.07nfvgp> <base.ontologies.ontology_instance_mapping.freebase_topic> "San Francisco Giants" .
+<Nevada> <location.administrative_division.first_level_division_of> "United States of America" .
+<Kansas> <location.administrative_division.country> "United States of America" .
+<m.05n6d9g> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Minnesota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6df5" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Louisiana" .
+<divorce_lawyer> <people.profession.specialization_of> "Lawyer" .
+<San_Francisco_Giants> <sports.sports_team.team_mascot> "Crazy Crab" .
+<m.0crt7c2> <sports.sports_league_participation.league> "National League" .
+<Wisconsin> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69sr" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<Silicon_Valley> <location.location.contains> "San Mateo" .
+<Microsoft_Corporation> <base.engineering1.rfid_company.location> "United States of America" .
+<San_Francisco> <base.biblioness.bibs_topic.is_really> "San Francisco" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<Seals_Stadium> <sports.sports_facility.home_venue_for> "m.0x1wcv3" .
+<m.04vx17d> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<New_York> <base.locations.states_and_provences.country> "United States of America" .
+<Law> <base.morelaw.type_of_legal_subject.lawyers_in_this_field> "Sally & Fitch LLP" .
+<Lawyer.com> <business.brand.parent_brand> "Lawyer.com" .
+<neilplus's_types> <freebase.domain_profile.category> "Male" .
+<Ozols_Law_Firm> <common.topic.subject_of> "Law" .
+<United_States_of_America> <location.country.first_level_divisions> "West Virginia" .
+<Lawyer> <people.profession.specializations> "Trademark attorney" .
+<North_Dakota> <base.biblioness.bibs_location.country> "United States of America" .
+<Brian_White_&_Associates,_P.C.> <base.crime.law_firm.type_of> "Personal injury lawyer" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.locations> "Hoffman, Larin & Agnetti, P.A." .
+<United_States_of_America> <location.country.administrative_divisions> "Virginia" .
+<San_Mateo> <location.statistical_region.population> "g.11x1fllvt" .
+<The_Rodriguez_Law_Group> <common.topic.subject_of> "Lawyer" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Male" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Lawyer" .
+<Louisiana> <location.administrative_division.first_level_division_of> "United States of America" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Adam Greenman Law" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6f44" .
+<Lawyer> <people.profession.specializations> "Mediator" .
+<United_States_of_America> <location.country.first_level_divisions> "Tennessee" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Delaware" .
+<San_Francisco_Giants> <common.topic.webpage> "m.0jbcpmf" .
+<m.04vwwym> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6bgm" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vx17d" .
+<Candlestick_Park> <sports.sports_facility.teams> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy42h" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0102z5jf" .
+<Teams_Owned> <rdf-schema#domain> "Sports Team Owner" .
+<Sally_&_Fitch_LLP> <common.topic.subject_of> "Lawyer" .
+<New_Jersey> <location.administrative_division.first_level_division_of> "United States of America" .
+<Lawyer> <people.profession.specializations> "Entertainment Lawyer" .
+<Massachusetts> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Iowa> <location.administrative_division.country> "United States of America" .
+<Law> <common.topic.subject_of> "Weightmans" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwvh1" .
+<Area_code_650> <location.location.containedby> "California" .
+<Lawyer> <people.profession.specializations> "Counsellor" .
+<San_Francisco> <location.location.containedby> "United States of America" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rs7r" .
+<Mercury_Legal> <common.topic.subjects> "Personal injury lawyer" .
+<Anthony_Castelli_Attorney> <common.topic.subjects> "Law" .
+<San_Mateo> <location.location.contains> "Gurnick Academy of Medical Arts" .
+<Phillips_Law_Firm> <organization.organization.geographic_scope> "Washington" .
+<San_Mateo_County> <location.location.containedby> "Silicon Valley" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6bxx" .
+<SueEasy_Logo.jpg> <common.image.appears_in_topic_gallery> "Lawyer" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.05n69l5> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Adam_Greenman_Law> <organization.organization.sectors> "Personal injury lawyer" .
+<Non-gonococcal_urethritis> <medicine.disease.risk_factors> "Male" .
+<Thomas_Hornbuckle> <common.topic.subjects> "Personal injury lawyer" .
+<Personal_injury_lawyer> <people.profession.people_with_this_profession> "Anthony Dean Castelli" .
+<United_States_of_America> <location.country.currency_used> "United States Dollar" .
+<South_Dakota> <location.administrative_division.country> "United States of America" .
+<m.0k079q4> <base.schemastaging.team_training_ground_relationship.facility> "St. George Cricket Grounds" .
+<United_States_of_America> <location.country.administrative_divisions> "Kentucky" .
+<Lawyer> <common.topic.subjects> "Law Offices of Christopher Varnell" .
+<AT&T_Park> <location.location.containedby> "San Francisco" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Nevada" .
+<New_York_Gothams> <common.topic.notable_types> "Professional Sports Team" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.011nj7rn" .
+<National_League_West> <sports.sports_league.teams> "m.0crtd80" .
+<Galstyan_Law_Group> <common.topic.subjects> "Attorney at law" .
+<Kyphosis> <medicine.disease.risk_factors> "Male" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Glasheen, Valles, and Inderman, LLP" .
+<Glasheen,_Valles,_and_Inderman,_LLP> <common.topic.subjects> "Personal injury lawyer" .
+<United_States_of_America> <location.country.administrative_divisions> "Montana" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Hampshire" .
+<m.040hd4f> <common.webpage.topic> "San Mateo" .
+<United_States_of_America> <location.country.administrative_divisions> "Ohio" .
+<Overeenkomst.nu> <organization.organization.sectors> "Law" .
+<Nebraska> <location.administrative_division.country> "United States of America" .
+<Galstyan_Law_Group> <business.business_operation.industry> "Lawyer" .
+<Bill_Neukom> <people.person.education> "m.0n0kvkq" .
+<Sports_Team_Owner> <freebase.type_profile.strict_included_types> "Topic" .
+<Iowa> <location.location.containedby> "United States, with Territories" .
+<Colorado> <location.administrative_division.country> "United States of America" .
+<m.04vwxt7> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Dartmouth_College> <education.educational_institution.campuses> "Dartmouth College" .
+<Accident_Advice_Helpline> <common.topic.subjects> "Lawyer" .
+<Quentin_Massys_007> <common.image.appears_in_topic_gallery> "Lawyer" .
+<Vermont> <location.administrative_division.country> "United States of America" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxyq" .
+<West_Virginia> <base.locations.states_and_provences.country> "United States of America" .
+<Law> <common.topic.subject_of> "Brian White & Associates, P.C." .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<Arkansas> <location.location.containedby> "United States, with Territories" .
+<Gout> <medicine.icd_9_cm_classification.includes_classifications> "Gout" .
+<United_States_of_America> <location.country.administrative_divisions> "Texas" .
+<Syphilis> <medicine.disease.symptoms> "Hair loss" .
+<Oklahoma> <base.locations.states_and_provences.country> "United States of America" .
+<South_Dakota> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Wisconsin" .
+<State_Attorney> <people.profession.specialization_of> "Lawyer" .
+<San_Francisco_Giants> <baseball.baseball_team.current_manager> "Bruce Bochy" .
+<Rhode_Island> <location.location.containedby> "United States of America" .
+<New_York> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.0crtd80> <sports.sports_league_participation.team> "San Francisco Giants" .
+<San_Mateo> <government.governmental_jurisdiction.governing_officials> "m.0101nzqr" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<Candlestick_Park> <location.location.containedby> "San Francisco" .
+<Civil_Rights_Lawyer> <common.topic.notable_types> "Profession" .
+<Attorney_at_law> <people.profession.specialization_of> "Lawyer" .
+<United_States_of_America> <location.country.administrative_divisions> "Colorado" .
+<United_States_of_America> <location.country.first_level_divisions> "Alabama" .
+<Minnesota> <base.locations.states_and_provences.continent> "North America" .
+<Lawyer> <people.profession.specializations> "Solicitor advocate" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<San_Francisco_Giants> <baseball.baseball_team.historical_managers> "m.052w1bg" .
+<Personal_injury_lawyer> <base.morelaw.type_of_legal_subject.law_firms_with_this_focus> "Brian White & Associates, P.C." .
+<United_States_of_America> <location.country.administrative_divisions> "South Dakota" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<Silicon_Valley> <location.location.contains> "San Mateo County" .
+<Lawyer> <common.topic.subject_of> "Bartle & Marcus Law" .
+<New_Hampshire> <location.administrative_division.country> "United States of America" .
+<Myocardial_Ischemia> <medicine.disease.symptoms> "heart attack" .
+<South_Dakota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<U.S._federal_district> <base.aareas.schema.administrative_area_type.iso_country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Delaware" .
+<Sally_&_Fitch_LLP> <base.services.lawyer.bar_admission> "Massachusetts" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d3xt" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<Lawyer> <education.field_of_study.students_majoring> "m.012sc1p0" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Hoffman, Larin & Agnetti, P.A." .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527d13" .
+<United_States_of_America> <location.country.first_level_divisions> "Montana" .
+<Montana> <location.administrative_division.country> "United States of America" .
+<San_Francisco> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Indiana" .
+<Virginia> <base.biblioness.bibs_location.country> "United States of America" .
+<Phillips_Law_Firm> <organization.organization.sectors> "Law" .
+<m.0n5c7xk> <measurement_unit.dated_money_value.source> "celebritynetworth.com" .
+<Personal_injury_lawyer> <common.topic.subjects> "Anthony Castelli Attorney" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<m.0k079pz> <base.schemastaging.team_training_ground_relationship.facility> "Hilltop Park" .
+<Sports_Team_Owner> <freebase.type_hints.included_types> "Topic" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.01063453" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<Reiff_and_Bily> <organization.organization.geographic_scope> "United States of America" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Advocate> <people.profession.specialization_of> "Lawyer" .
+<Contract_attorney> <common.topic.notable_types> "Profession" .
+<Reiff_and_Bily> <common.topic.subject_of> "Lawyer" .
+<Texas> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1v57" .
+<Kentucky> <location.administrative_division.country> "United States of America" .
+<Colorado> <base.biblioness.bibs_location.country> "United States of America" .
+<Lawyer> <common.topic.notable_for> "g.12551_tmk" .
+<Lawyer> <common.topic.subject_of> "Glasheen, Valles, and Inderman, LLP" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Montana" .
+<San_Francisco> <sports.sports_team_location.teams> "San Francisco Giants" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxfn" .
+<San_Francisco> <base.biblioness.bibs_location.state> "California" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Stephen Hornbuckle" .
+<Legal_executive> <common.topic.notable_types> "Profession" .
+<San_Francisco_Giants> <business.employer.employees> "m.04lrc4c" .
+<Seals_Stadium> <sports.sports_facility.teams> "San Francisco Giants" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6cxh" .
+<m.05n6f44> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<South_Dakota> <location.administrative_division.first_level_division_of> "United States of America" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1w0t" .
+<Lawyer> <people.profession.specializations> "Criminal defense lawyer" .
+<United_States_of_America> <location.country.first_level_divisions> "Arkansas" .
+<Kansas> <base.locations.states_and_provences.country> "United States of America" .
+<San_Mateo_County> <location.location.time_zones> "Pacific Time Zone" .
+<Michigan_Auto_Law> <base.crime.law_firm.type_of> "Personal injury lawyer" .
+<Solicitor> <common.topic.subjects> "Accident Advice Helpline" .
+<m.0k079sf> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<Stanford_University> <base.biblioness.bibs_location.city> "Silicon Valley" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Rhode Island" .
+<San_Mateo> <location.statistical_region.population> "g.11x1g8_zc" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "North Carolina" .
+<Mississippi> <location.administrative_division.country> "United States of America" .
+<m.011zsc4_> <organization.leadership.organization> "San Francisco Giants" .
+<San_Mateo> <location.statistical_region.population> "g.11x1jh4k3" .
+<Rhode_Island> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Nevada> <location.location.containedby> "United States, with Territories" .
+<Athlete's_foot> <medicine.disease.risk_factors> "Male" .
+<San_Mateo> <location.citytown.postal_codes> "94404" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Oklahoma" .
+<United_States_of_America> <location.country.administrative_divisions> "Idaho" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6d78" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx43" .
+<Nevada> <location.administrative_division.country> "United States of America" .
+<Indiana> <location.location.containedby> "United States of America" .
+<English_barrister> <common.image.appears_in_topic_gallery> "Lawyer" .
+<Kentucky> <location.location.containedby> "United States of America" .
+<Arkansas> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Francisco_Giants> <base.rivalries.rival.rivals> "Dodgers–Giants rivalry" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New Jersey" .
+<m.0n0kvkq> <education.education.student> "Bill Neukom" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwvtp" .
+<AT&T_Park> <sports.sports_facility.teams> "San Francisco Giants" .
+<Arizona> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Oregon> <base.biblioness.bibs_location.country> "United States of America" .
+<Bill_Neukom> <common.topic.notable_types> "Sports Team Owner" .
+<m.0k079sf> <base.schemastaging.team_training_ground_relationship.facility> "Polo Grounds III" .
+<Paget's_disease_of_bone> <medicine.disease.risk_factors> "Male" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.country> "United States of America" .
+<San_Francisco> <location.location.time_zones> "Pacific Time Zone" .
+<United_States_of_America> <location.country.administrative_divisions> "Pennsylvania" .
+<Corporate_lawyer> <common.topic.notable_types> "Profession" .
+<94402> <location.location.containedby> "San Mateo County" .
+<United_States_of_America> <location.country.first_level_divisions> "Massachusetts" .
+<Autism> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rwn3" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Alaska" .
+<Connecticut> <location.location.containedby> "United States of America" .
+<Delaware> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<m.04w1xql> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.administrative_divisions> "New Hampshire" .
+<Tennessee> <location.administrative_division.country> "United States of America" .
+<Silicon_Valley> <base.biblioness.bibs_location.country> "United States of America" .
+<Oregon> <location.location.containedby> "United States, with Territories" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6bn9" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx7h" .
+<Tetralogy_of_Fallot> <medicine.disease.risk_factors> "Male" .
+<Urethritis> <medicine.disease.risk_factors> "Male" .
+<Dodgers–Giants_rivalry> <base.rivalries.rivalry.rival> "San Francisco Giants" .
+<North_America> <base.locations.continents.states_provinces_within> "Wisconsin" .
+<Oklahoma> <location.administrative_division.country> "United States of America" .
+<Polo_Grounds_II> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079rd" .
+<Adam_Greenman_Law> <organization.organization.sectors> "Attorney at law" .
+<Maryland> <base.locations.states_and_provences.country> "United States of America" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Urolithiasis> <medicine.disease.risk_factors> "Male" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwttf" .
+<Bill_Neukom> <people.person.gender> "Male" .
+<San_Mateo_County> <location.location.containedby> "California" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d5lz" .
+<San_Francisco_Giants> <organization.organization.leadership> "m.011zsc4_" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Meningococcal_disease> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Mercury Legal" .
+<San_Francisco_Giants> <baseball.baseball_team.division> "National League West" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<Dodgers–Giants_rivalry> <base.rivalries.rivalry.kind_of_rivalry> "Baseball" .
+<North_Carolina> <location.location.containedby> "United States of America" .
+<Kansas> <base.militaryinfiction.location_in_fiction.contained_by> "United States of America" .
+<San_Mateo> <common.topic.notable_types> "City/Town/Village" .
+<m.04lrc4c> <business.employment_tenure.company> "San Francisco Giants" .
+<Sally_&_Fitch_LLP> <common.topic.subject_of> "Law" .
+<Mississippi> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6c7m" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx4k" .
+<m.0dl3646> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Lawyer> <people.profession.specializations> "Civil Rights Lawyer" .
+<United_States_of_America> <location.country.first_level_divisions> "Alaska" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Mississippi" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<Bill_Neukom> <common.topic.notable_for> "g.1258h38fn" .
+<San_Mateo_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<National_League_West> <sports.sports_league.sport> "Baseball" .
+<Massachusetts> <location.location.containedby> "United States of America" .
+<Lawyer> <common.topic.subject_of> "Carey" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6chh" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rtxs" .
+<San_Francisco_Giants> <sports.sports_team.colors> "Orange" .
+<Iowa> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Colorado" .
+<m.04vy1xn> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Jesus_R._Lopez> <common.topic.subjects> "Lawyer" .
+<Lawyer> <people.profession.specializations> "Grand Mufti" .
+<Mississippi> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<O’Connor,_Runckel_&_O’Malley_LLP> <common.topic.subject_of> "Personal injury lawyer" .
+<San_Mateo> <base.biblioness.bibs_location.city> "Silicon Valley" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Alaska" .
+<m.0z2pd9m> <award.award_nomination.award_nominee> "San Francisco Giants" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Downtown L.A. Law Group" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.010633zv" .
+<Nebraska> <location.location.containedby> "United States of America" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<New_Jersey> <location.administrative_division.country> "United States of America" .
+<St._George_Cricket_Grounds> <sports.sports_facility.teams> "San Francisco Giants" .
+<Ohio> <base.locations.states_and_provences.country> "United States of America" .
+<Rhode_Island> <location.location.containedby> "United States, with Territories" .
+<Arizona> <base.aareas.schema.administrative_area.administrative_area_type> "U.S. state" .
+<In_the_Ring:_The_Trials_of_a_Washington_Lawyer> <book.written_work.subjects> "Lawyer" .
+<New_Mexico> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Massachusetts" .
+<m.05n69rf> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<San_Francisco_Giants> <common.topic.webpage> "m.09w81b7" .
+<Stanford_University> <location.location.containedby> "California" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<Teams_Owned> <type.property.expected_type> "Professional Sports Team" .
+<Myocardial_Ischemia> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<m.0k079pf> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<Lawyer> <base.schemastaging.context_name.pronunciation> "g.125_p3psr" .
+<Iowa> <base.locations.states_and_provences.country> "United States of America" .
+<South_Carolina> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Georgia" .
+<2010_World_Series> <sports.sports_championship_event.season> "2010 Major League Baseball season" .
+<Washington> <location.administrative_division.country> "United States of America" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx4s" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<United_States_of_America> <location.country.first_level_divisions> "Oregon" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079r4" .
+<The_Hornbuckle_Firm> <organization.organization.partnerships> "Stephen Hornbuckle" .
+<m.04vwywv> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Lawyer> <common.topic.subject_of> "Axess Law" .
+<San_Mateo> <location.statistical_region.population> "g.11x1f71k1" .
+<Legal_Action_Workshop> <organization.organization.sectors> "Lawyer" .
+<Washington> <location.location.containedby> "United States of America" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rwcq" .
+<Wisconsin> <base.locations.states_and_provences.continent> "North America" .
+<Entertainment_Lawyer> <people.profession.specialization_of> "Lawyer" .
+<Sally_&_Fitch_LLP> <base.crime.lawyer.law_firm> "Sally & Fitch LLP" .
+<United_States_of_America> <location.location.primarily_containedby> "North America" .
+<New_Hampshire> <location.location.containedby> "North America" .
+<Adam_Greenman_Law> <common.topic.subjects> "Personal injury lawyer" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <business.business_location.parent_company> "Hoffman, Larin & Agnetti, P.A." .
+<United_States_of_America> <location.country.first_level_divisions> "Minnesota" .
+<m.04vwycv> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Lawyer> <common.topic.subject_of> "Legal Action Workshop" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<Lawyer> <media_common.quotation_subject.quotations_about_this_subject> "First thing we do, let's kill all the lawyers." .
+<Missouri> <location.administrative_division.first_level_division_of> "United States of America" .
+<Ulama> <common.topic.notable_types> "Profession" .
+<Sullivan_&_Galleshaw,_LLP> <common.topic.subject_of> "Lawyer" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<Missouri> <location.location.containedby> "United States, with Territories" .
+<Montana> <location.location.containedby> "United States of America" .
+<Vermont> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Kentucky" .
+<Lawyer> <people.profession.specializations> "Bankruptcy Lawyer" .
+<Seborrheic_dermatitis> <medicine.symptom.symptom_of> "Parkinson's disease" .
+<Bill_Neukom> <base.schemastaging.person_extra.net_worth> "m.0n5c7xk" .
+<Legal_Action_Workshop> <common.topic.subjects> "Personal injury lawyer" .
+<Alaska> <location.location.containedby> "United States of America" .
+<Downtown_L.A._Law_Group> <common.topic.subjects> "Law" .
+<Personal_injury_lawyer> <base.morelaw.type_of_legal_subject.law_firms_with_this_focus> "Michigan Auto Law" .
+<Sara_Gaborik> <people.person.profession> "Lawyer" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69_j" .
+<Colorado> <location.location.containedby> "United States of America" .
+<San_Francisco_Giants> <time.participant.event> "2012 Major League Baseball season" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Michigan" .
+<United_States_of_America> <location.country.administrative_divisions> "New York" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527d03" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<Bruce_Bochy> <people.person.gender> "Male" .
+<San_Francisco> <base.biblioness.bibs_location.country> "United States of America" .
+<Profession> <freebase.type_profile.strict_included_types> "Topic" .
+<Criminal_defense_lawyer> <people.profession.specializations> "Lawyer" .
+<South_Carolina> <base.biblioness.bibs_location.country> "United States of America" .
+<English_barrister> <common.image.appears_in_topic_gallery> "Barrister" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdividing_type> "U.S. state" .
+<m.0121pqts> <business.employment_tenure.title> "Lawyer" .
+<m.0z7wqcb> <award.award_nomination.award_nominee> "San Francisco Giants" .
+<United_States_of_America> <location.country.administrative_divisions> "New Jersey" .
+<Connecticut> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Washington,_D.C.> <base.biblioness.bibs_topic.subsumes> "Washington, D.C." .
+<North_America> <base.locations.continents.states_provinces_within> "Minnesota" .
+<Oklahoma> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Utah" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Indiana> <base.biblioness.bibs_location.country> "United States of America" .
+<Stanford_University> <base.biblioness.bibs_location.country> "United States of America" .
+<West_Virginia> <base.biblioness.bibs_location.country> "United States of America" .
+<Washington,_D.C.> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Kaposi's_sarcoma> <medicine.disease.risk_factors> "Male" .
+<2012_World_Series> <time.event.participant> "San Francisco Giants" .
+<Lawyer> <common.topic.subjects> "thefloridafirm.com" .
+<South_Dakota> <location.location.containedby> "United States, with Territories" .
+<m.0k079qm> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<Texas> <base.biblioness.bibs_location.country> "United States of America" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "AT&T Park" .
+<Lawyer> <common.topic.subjects> "Sara Gaborik" .
+<2012_World_Series> <time.event.locations> "AT&T Park" .
+<Daniel_C._Miller,_LLC> <common.topic.subjects> "Lawyer" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Arkansas" .
+<Law> <common.topic.subject_of> "Anthony Dean Castelli" .
+<Nebraska> <location.administrative_division.first_level_division_of> "United States of America" .
+<New_York> <location.administrative_division.country> "United States of America" .
+<m.04vwvtp> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<Lawyer> <people.group.member> "m.011x03sm" .
+<m.04w1w0t> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.first_level_divisions> "New Hampshire" .
+<SexCrimeUK.com_-_Dedicated_Sex_Crimes_Defence_Solicitors> <common.topic.subjects> "Law" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Professional_Sports_Team> <type.type.properties> "Owner(s)" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Virginia" .
+<San_Mateo> <location.statistical_region.population> "g.11x1dld2j" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<North_America> <base.locations.continents.states_provinces_within> "Montana" .
+<m.05n6cr0> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Attorney_at_law> <common.topic.subject_of> "Jesus R. Lopez" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527d1b" .
+<U.S._state> <base.aareas.schema.administrative_area_type.iso_country> "United States of America" .
+<Leinart_Law_Firm> <common.topic.subject_of> "Law" .
+<Lawyer> <people.profession.specializations> "Corporate lawyer" .
+<San_Mateo> <location.statistical_region.population> "m.0k6n9wn" .
+<Lawyer> <common.topic.subjects> "O’Connor, Runckel & O’Malley LLP" .
+<Personal_injury_lawyer> <organization.organization_type.organizations_of_this_type> "Denena & Points, P.C." .
+<Keith_Sullivan> <common.topic.subject_of> "Lawyer" .
+<Law> <common.topic.subject_of> "Weightmans" .
+<San_Mateo> <location.location.contains> "De Sabla, Eugene J., Jr., Teahouse and Tea Garden" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d3vc" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx71" .
+<National_League> <sports.sports_league.sport> "Baseball" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Kentucky" .
+<Kentucky> <location.location.containedby> "United States, with Territories" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Attention deficit hyperactivity disorder" .
+<United_States_of_America> <location.country.administrative_divisions> "Alabama" .
+<Polo_Grounds> <sports.sports_facility.teams> "San Francisco Giants" .
+<San_Mateo> <location.statistical_region.population> "m.0jtb7tf" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<United_States_of_America> <location.country.administrative_divisions> "South Carolina" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<Ohio> <location.administrative_division.country> "United States of America" .
+<m.05n6c4s> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.04w1sx4> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxp9" .
+<Personal_injury_lawyer> <common.topic.subjects> "Keith Sullivan" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<United_States,_with_Territories> <base.aareas.schema.earth.sovereign_domain.sovereign_state> "United States of America" .
+<Brian_White_&_Associates,_P.C.> <common.topic.subjects> "Lawyer" .
+<Human_Rights_Lawyer> <people.profession.specialization_of> "Lawyer" .
+<Reyes_Brown_Reilley> <common.topic.subjects> "Personal injury lawyer" .
+<Transient_ischemic_attack> <medicine.disease.causes> "Cardiovascular disease" .
+<National_League> <baseball.baseball_league.divisions> "National League West" .
+<m.05n6ct6> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Bill_Neukom> <people.person.place_of_birth> "San Mateo" .
+<Illinois> <base.biblioness.bibs_location.country> "United States of America" .
+<Lawyer> <people.profession.specializations> "Prosecutor" .
+<Alabama> <base.biblioness.bibs_location.country> "United States of America" .
+<Georgia> <location.administrative_division.first_level_division_of> "United States of America" .
+<Adam_Greenman_Law> <organization.organization.sectors> "Lawyer" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<Ohio> <location.administrative_division.first_level_division_of> "United States of America" .
+<Lawyer> <freebase.notability_hints.notable_for> "Profession" .
+<Multiple_myeloma> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<San_Mateo> <location.statistical_region.population> "g.11x1m4p1g" .
+<m.0dl3192> <sports.sports_team_season_record.season> "2010 Major League Baseball season" .
+<Lawyer> <common.topic.subjects> "Marben Abogado Laboralista Barcelona" .
+<Washington,_D.C.> <common.topic.notable_types> "City/Town/Village" .
+<Wyoming> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Maine> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<Shine_Lawyers> <common.topic.subject_of> "Lawyer" .
+<m.05n6czg> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.05n6b62> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Massachusetts" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New York" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.locations> "Hoffman, Larin & Agnetti, P.A." .
+<Kansas> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "California" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Alabama" .
+<Iowa> <location.administrative_division.first_level_division_of> "United States of America" .
+<Lawyer> <common.topic.subjects> "Keith Sullivan" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<New_Hampshire> <base.biblioness.bibs_location.country> "United States of America" .
+<Ohio> <location.location.containedby> "United States, with Territories" .
+<Stephen_Hornbuckle> <common.topic.subjects> "Lawyer" .
+<San_Mateo> <location.location.contains> "CuriOdyssey" .
+<Ohio> <location.location.containedby> "United States of America" .
+<m.0n9gjdm> <sports.team_venue_relationship.team> "San Francisco Giants" .
+<New_York_Giants> <sports.sports_team.previously_known_as> "New York Gothams" .
+<m.05n6bl3> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxcw" .
+<m.0x1wcv3> <sports.team_venue_relationship.venue> "Seals Stadium" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwx8j" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Axess Law" .
+<Illinois> <location.location.containedby> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<m.05n69ys> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Wyoming> <base.biblioness.bibs_location.country> "United States of America" .
+<Axess_Law> <common.topic.subjects> "Real estate lawyer" .
+<Sara_Gaborik> <common.topic.subject_of> "Law" .
+<San_Francisco_Giants> <sports.sports_team.championships> "2012 World Series" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079sf" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0102z5g3" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<San_Mateo> <location.statistical_region.population> "g.11x1jyyzv" .
+<Washington> <organization.organization_scope.organizations_with_this_scope> "Phillips Law Firm" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy1xn" .
+<SexCrimeUK.com_-_Dedicated_Sex_Crimes_Defence_Solicitors> <common.topic.subjects> "Lawyer" .
+<San_Mateo> <location.statistical_region.population> "g.11x1lpwxc" .
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Golfer's_elbow> <medicine.disease.risk_factors> "Male" .
+<Tennessee> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Civil_law_notary> <people.profession.specialization_of> "Lawyer" .
+<1st_Claims> <common.topic.subjects> "Personal injury lawyer" .
+<Missouri> <location.location.containedby> "United States of America" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Utah> <base.biblioness.bibs_location.country> "United States of America" .
+<Lawyer> <common.topic.article> "m.04gcc" .
+<m.05n6c1y> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx4_" .
+<Massachusetts> <location.administrative_division.first_level_division_of> "United States of America" .
+<Michigan> <base.biblioness.bibs_location.country> "United States of America" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Brian White & Associates, P.C." .
+<m.0y4rnv0> <business.employment_tenure.company> "Microsoft Corporation" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vws61" .
+<Maryland> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Transient_ischemic_attack> <medicine.disease.risk_factors> "Male" .
+<Law> <common.topic.subject_of> "Downtown L.A. Law Group" .
+<United_States_of_America> <location.country.administrative_divisions> "Connecticut" .
+<Brian_White_&_Associates,_P.C.> <business.business_operation.industry> "Law" .
+<Stanford_Law_School> <education.educational_institution.parent_institution> "Stanford University" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Lou_Seal> <sports.mascot.team> "San Francisco Giants" .
+<Sebaceous_cyst> <medicine.disease.risk_factors> "Male" .
+<Retroperitoneal_fibrosis> <medicine.disease.risk_factors> "Male" .
+<Club_foot> <medicine.disease.risk_factors> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d3wf" .
+<San_Mateo> <location.hud_county_place.county> "San Mateo County" .
+<Lawyer> <common.topic.subjects> "Reiff and Bily" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Nebraska" .
+<Bill_Neukom> <people.person.nationality> "United States of America" .
+<Lawyer> <people.profession.specializations> "Personal injury lawyer" .
+<Lawyer> <common.topic.subjects> "Leinart Law Firm" .
+<Lawyer> <common.topic.subject_of> "Dansky | Katz | Ringold | York" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d5gp" .
+<Lawyer> <people.profession.specializations> "Contract attorney" .
+<Phillips_Law_Firm> <organization.organization.sectors> "Personal injury lawyer" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1v6c" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwz4x" .
+<United_States_of_America> <location.country.administrative_divisions> "Indiana" .
+<San_Mateo> <location.location.containedby> "California" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079s6" .
+<Illinois> <location.location.containedby> "United States, with Territories" .
+<m.04vwx8j> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy0my" .
+<m.0k079pf> <base.schemastaging.team_training_ground_relationship.facility> "Polo Grounds" .
+<Michigan> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Wisconsin> <base.locations.states_and_provences.country> "United States of America" .
+<Michigan_Auto_Law> <organization.organization.geographic_scope> "Michigan" .
+<m.04vy2qp> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.first_level_divisions> "Louisiana" .
+<Iowa> <location.location.containedby> "United States of America" .
+<United_States,_with_Territories> <location.location.partially_containedby> "North America" .
+<United_States_of_America> <location.country.administrative_divisions> "Rhode Island" .
+<Bill_Neukom> <common.topic.article> "m.03cyzbz" .
+<m.03kxtgf> <common.webpage.topic> "San Mateo" .
+<San_Mateo> <common.topic.notable_for> "g.1259tl4db" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6ftt" .
+<2014_Major_League_Baseball_season> <time.event.participant> "San Francisco Giants" .
+<San_Mateo> <location.location.containedby> "San Francisco Bay Area" .
+<North_America> <location.location.partially_contains> "United States, with Territories" .
+<Lawyer> <common.topic.subject_of> "Sally & Fitch LLP" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0101pk69" .
+<Washington,_D.C.> <location.administrative_division.country> "United States of America" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6b_j" .
+<San_Francisco_Giants> <sports.sports_team.previously_known_as> "New York Giants" .
+<Kentucky> <location.administrative_division.first_level_division_of> "United States of America" .
+<Florida> <location.administrative_division.first_level_division_of> "United States of America" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<Marben_Abogado_Laboralista_Barcelona> <common.topic.subject_of> "Lawyer" .
+<m.04w1swd> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<Legal_executive> <people.profession.specialization_of> "Lawyer" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Maine" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107624r" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1tcm" .
+<San_Francisco_Giants> <time.participant.event> "2014 Major League Baseball season" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Louisiana" .
+<New_Jersey> <base.aareas.schema.administrative_area.administrative_area_type> "U.S. state" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69l5" .
+<National_League> <baseball.baseball_league.teams> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.sports_team.colors> "Gold" .
+<m.0w_jzv2> <sports.team_venue_relationship.team> "San Francisco Giants" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6cr0" .
+<Oregon> <location.administrative_division.first_level_division_of> "United States of America" .
+<Georgia> <location.location.containedby> "United States, with Territories" .
+<Washington> <location.administrative_division.first_level_division_of> "United States of America" .
+<Massachusetts> <location.location.containedby> "United States, with Territories" .
+<Mediator> <common.topic.notable_types> "Profession" .
+<United_States_of_America> <location.country.first_level_divisions> "Nebraska" .
+<Personal_injury_lawyer> <base.crime.lawyer.lawyer_type> "Personal injury lawyer" .
+<m.04w1s2s> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<thefloridafirm.com> <common.topic.subject_of> "Lawyer" .
+<Lawyer> <people.profession.specializations> "Real estate lawyer" .
+<South_Carolina> <location.administrative_division.country> "United States of America" .
+<Criminal_defense_lawyer> <common.topic.subject_of> "Law" .
+<m.04226rk> <common.webpage.topic> "San Francisco Giants" .
+<Pennsylvania> <location.administrative_division.first_level_division_of> "United States of America" .
+<Loyalty_Law> <common.topic.subjects> "Lawyer" .
+<Ozols_Law_Firm> <common.topic.subject_of> "Lawyer" .
+<Lawyer> <business.industry.companies> "Legal Action Workshop" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vw_l9" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Washington" .
+<New_York_Giants> <sports.defunct_sports_team.sport> "Baseball" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079qm" .
+<Washington> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Texas" .
+<United_States_of_America> <location.country.administrative_divisions> "Washington, D.C." .
+<Phillips_Law_Firm> <organization.organization.sectors> "Lawyer" .
+<Michigan> <base.locations.states_and_provences.country> "United States of America" .
+<Accident_Advice_Helpline> <common.topic.subject_of> "Solicitor" .
+<Bencher> <people.profession.specialization_of> "Lawyer" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwwym" .
+<Lawyer> <common.topic.subjects> "Anthony Castelli Attorney" .
+<United_States_of_America> <location.country.first_level_divisions> "Vermont" .
+<United_States_of_America> <location.country.first_level_divisions> "Washington, D.C." .
+<San_Francisco_Giants> <sports.sports_team.team_mascot> "Lou Seal" .
+<Personal_injury_lawyer> <common.topic.notable_types> "Profession" .
+<San_Mateo> <location.location.containedby> "Silicon Valley" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx7y" .
+<Louisiana> <base.biblioness.bibs_location.country> "United States of America" .
+<Accident_Advice_Helpline> <common.topic.subject_of> "Lawyer" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Alabama" .
+<m.0n9gjdm> <sports.team_venue_relationship.venue> "Candlestick Park" .
+<Attorney_at_law> <common.topic.subject_of> "Galstyan Law Group" .
+<Trademark_attorney> <common.topic.notable_types> "Profession" .
+<West_Virginia> <location.administrative_division.first_level_division_of> "United States of America" .
+<Idaho> <location.location.containedby> "United States of America" .
+<North_Carolina> <location.location.containedby> "United States, with Territories" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Lawyer> <people.profession.corresponding_type> "Lawyer" .
+<Lawyer_SEO_Services> <business.consumer_product.brand> "Lawyer SEO Services" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.010nwng2" .
+<m.05n6bxx> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Profession> <freebase.type_profile.published> "Published" .
+<San_Mateo> <periodicals.newspaper_circulation_area.newspapers> "San Mateo Daily News" .
+<Lawyer> <people.profession.specializations> "Bencher" .
+<Pennsylvania> <base.biblioness.bibs_location.country> "United States of America" .
+<Attorney_at_law> <organization.organization_sector.organizations_in_this_sector> "Adam Greenman Law" .
+<Supreme_Court_of_the_United_States> <government.governmental_body.jurisdiction> "United States of America" .
+<Attorney_at_law> <common.topic.subject_of> "Sally & Fitch LLP" .
+<San_Francisco> <location.administrative_division.second_level_division_of> "United States of America" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527cyq" .
+<Arizona> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.04w1v6c> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<College_of_San_Mateo> <education.educational_institution.campuses> "College of San Mateo" .
+<San_Francisco_Giants> <sports.sports_team.arena_stadium> "Polo Grounds II" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Wisconsin" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "South Dakota" .
+<Shine_Lawyers> <common.topic.subject_of> "Law" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<Personal_injury_lawyer> <people.profession.specialization_of> "Lawyer" .
+<1st_Claims> <business.business_operation.industry> "Law" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Lawyer.com> <business.brand.includes_brands> "Lawyer.com" .
+<United_States_Dollar> <base.coinsdaily.coin_type.country> "United States of America" .
+<Pennsylvania> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Hawaii" .
+<Jurist> <people.profession.specialization_of> "Lawyer" .
+<Vermont> <location.location.containedby> "United States, with Territories" .
+<m.04w1xsz> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<National_League> <baseball.baseball_league.teams> "New York Giants" .
+<Lawyer> <common.topic.subject_of> "Thomas Hornbuckle" .
+<Jesus_R._Lopez> <organization.organization_founder.organizations_founded> "Law Offices of Jesus R. Lopez" .
+<San_Francisco> <base.biblioness.bibs_topic.subsumes> "San Francisco" .
+<Attorney_at_law> <common.topic.subject_of> "The Hornbuckle Firm" .
+<In_the_Ring:_The_Trials_of_a_Washington_Lawyer> <book.written_work.subjects> "Law" .
+<Montana> <base.biblioness.bibs_location.country> "United States of America" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Wisconsin> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Hawaii" .
+<m.05n69wc> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<United_States_of_America> <location.country.administrative_divisions> "Tennessee" .
+<Nebraska> <base.biblioness.bibs_location.country> "United States of America" .
+<Pennsylvania> <base.locations.states_and_provences.country> "United States of America" .
+<Rhode_Island> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.administrative_children> "United States of America" .
+<Illinois> <location.administrative_division.first_level_division_of> "United States of America" .
+<Florida> <location.administrative_division.country> "United States of America" .
+<2010_Major_League_Baseball_season> <sports.sports_league_season.championship> "2010 World Series" .
+<Arizona> <base.biblioness.bibs_location.country> "United States of America" .
+<Lawyer> <business.job_title.people_with_this_title> "m.0121pqts" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6btw" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6c1y" .
+<Lawyer> <common.topic.notable_types> "Profession" .
+<Gastritis> <medicine.disease.risk_factors> "Male" .
+<San_Francisco_Giants> <sports.sports_team.league> "m.0crtd80" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1swd" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Idaho" .
+<Attorney_at_law> <common.topic.subject_of> "Stephen Hornbuckle" .
+<San_Mateo> <location.statistical_region.population> "g.11x1g6qvl" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6dy4" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Ohio" .
+<Tennessee> <location.administrative_division.first_level_division_of> "United States of America" .
+<San_Mateo> <location.citytown.postal_codes> "94402" .
+<Personal_injury_lawyer> <common.topic.subject_of> "The Hornbuckle Firm" .
+<Sara_Gaborik> <common.topic.subject_of> "Lawyer" .
+<Weightmans> <common.topic.subjects> "Lawyer" .
+<United_States_of_America> <location.country.first_level_divisions> "Illinois" .
+<m.04w1vl_> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Minnesota> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.location.containedby> "United States, with Territories" .
+<Polo_Grounds_III> <sports.sports_facility.teams> "San Francisco Giants" .
+<Arizona> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.aareas.schema.administrative_area.pertinent_type> "U.S. federal district" .
+<Shine_Lawyers> <organization.organization.sectors> "Law" .
+<Georgia> <base.biblioness.bibs_location.country> "United States of America" .
+<m.04knm9b> <business.employment_tenure.company> "San Francisco Giants" .
+<Fresh_Start_Bail_Bonds> <common.topic.subject_of> "Lawyer" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z3355" .
+<Law_costs_draftsman> <common.topic.notable_types> "Profession" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Personal_injury_lawyer> <base.crime.lawyer_type.lawyers_of_this_type> "Personal injury lawyer" .
+<Kansas> <location.location.containedby> "United States of America" .
+<North_Carolina> <base.locations.states_and_provences.country> "United States of America" .
+<Seborrheic_dermatitis> <medicine.disease.risk_factors> "Male" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Missouri" .
+<San_Mateo> <common.topic.article> "m.0r5yh" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Polo_Grounds> <sports.sports_facility.home_venue_for> "m.0w_jy61" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_zxwwc" .
+<m.04vy0my> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<Washington,_D.C.> <location.hud_county_place.place> "Washington, D.C." .
+<Attorney_at_law> <common.topic.subject_of> "Daniel C. Miller, LLC" .
+<Nevada> <location.location.time_zones> "Pacific Time Zone" .
+<Personal_injury_lawyer> <common.topic.subject_of> "1st Claims" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6f0f" .
+<Pennsylvania> <location.location.containedby> "United States of America" .
+<San_Francisco_Giants> <business.employer.employees> "m.04m2rx3" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <business.business_location.parent_company> "Hoffman, Larin & Agnetti, P.A." .
+<New_Mexico> <location.administrative_division.first_level_division_of> "United States of America" .
+<San_Mateo> <location.location.contains> "College of San Mateo" .
+<Vive_Targi_Kielce> <sports.sports_team.gender> "Male" .
+<Hair_loss> <medicine.risk_factor.diseases> "Stroke" .
+<Hawaii> <base.locations.states_and_provences.country> "United States of America" .
+<Maine> <base.biblioness.bibs_location.country> "United States of America" .
+<Arkansas> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.04w1v57> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<m.0w_jy61> <sports.team_venue_relationship.venue> "Polo Grounds" .
+<United_States_of_America> <location.country.administrative_divisions> "Maryland" .
+<Area_code_650> <location.location.partially_contains> "San Francisco" .
+<San_Francisco> <location.location.partially_containedby> "Area code 650" .
+<United_States_of_America> <location.administrative_division.first_level_division_of> "United States, with Territories" .
+<New_Hampshire> <base.locations.states_and_provences.country> "United States of America" .
+<Nebraska> <base.locations.states_and_provences.country> "United States of America" .
+<San_Mateo> <location.statistical_region.population> "g.11x1db_66" .
+<San_Francisco_Giants> <business.employer.employees> "m.04knm9b" .
+<San_Mateo> <location.statistical_region.population> "g.11x1g24st" .
+<Law> <common.topic.subjects> "The Hornbuckle Firm" .
+<San_Francisco_Giants> <common.topic.webpage> "m.04226rk" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1xsz" .
+<m.05n6ftt> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Sally_&_Fitch_LLP> <base.crime.lawyer.legal_system> "United States of America" .
+<Solicitor_advocate> <people.profession.specialization_of> "Lawyer" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<Lawyer> <people.profession.specializations> "Advocate" .
+<San_Mateo> <location.location.contains> "San Mateo County Event Center" .
+<Honestly_Dearest,_You're_Dead> <book.written_work.subjects> "Lawyer" .
+<m.04vy4g_> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rslf" .
+<Jesus_R._Lopez> <people.person.gender> "Male" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z33dd" .
+<m.04vy42h> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Arkansas" .
+<Wyoming> <location.administrative_division.first_level_division_of> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "South Carolina" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "New York" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527d0s" .
+<Real_estate_lawyer> <people.profession.specialization_of> "Lawyer" .
+<Lawyer> <common.topic.subject_of> "Adam Greenman Law" .
+<United_States_of_America> <location.country.administrative_divisions> "North Carolina" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1vl_" .
+<Lawyer> <common.topic.subjects> "Anthony Dean Castelli" .
+<Risk_Factor> <freebase.type_hints.included_types> "Topic" .
+<Stephen_Hornbuckle> <common.topic.subjects> "Personal injury lawyer" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<Lawyer> <book.book_subject.works> "Honestly Dearest, You're Dead" .
+<Montana> <organization.organization_scope.organizations_with_this_scope> "Judnich Law Office" .
+<Ulama> <people.profession.specialization_of> "Lawyer" .
+<San_Mateo> <common.topic.webpage> "m.03kxtgf" .
+<Oregon> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<The_Hornbuckle_Firm> <common.topic.subjects> "Lawyer" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy32q" .
+<m.05n6clb> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Washington,_D.C.> <book.book_subject.works> "In the Ring: The Trials of a Washington Lawyer" .
+<Keith_Sullivan> <people.person.profession> "Lawyer" .
+<Anthony_Castelli_Attorney> <common.topic.subject_of> "Personal injury lawyer" .
+<m.04w1sxn> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<Polo_Grounds_III> <base.schemastaging.sports_facility_extra.training_ground_for> "m.0k079sf" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6czg" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69my" .
+<San_Francisco_Giants> <sports.sports_team.colors> "Cream" .
+<Arizona> <location.location.containedby> "United States of America" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "New Mexico" .
+<New_York_Giants> <sports.sports_team.arena_stadium> "St. George Cricket Grounds" .
+<San_Mateo> <location.statistical_region.population> "g.11x1c9y6d" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "Rhode Island" .
+<San_Francisco_Giants> <time.participant.event> "2010 World Series" .
+<Indiana> <location.administrative_division.first_level_division_of> "United States of America" .
+<Lawyer> <book.book_subject.works> "Managing knowledge in law firms" .
+<Virginia> <location.location.containedby> "United States of America" .
+<m.04vy4xh> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<New_Hampshire> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Attorney_at_law> <organization.organization_sector.organizations_in_this_sector> "Phillips Law Firm" .
+<Michigan> <location.administrative_division.first_level_division_of> "United States of America" .
+<New_York_Gothams> <sports.defunct_sports_team.later_known_as> "San Francisco Giants" .
+<New_York_Giants> <sports.sports_team.sport> "Baseball" .
+<United_States_of_America> <location.country.first_level_divisions> "North Dakota" .
+<Males> <base.skosbase.skos_concept.equivalent_topic> "Male" .
+<California> <location.administrative_division.first_level_division_of> "United States of America" .
+<m.0k079pz> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<Connecticut> <location.administrative_division.country> "United States of America" .
+<San_Mateo> <location.location.geolocation> "m.0kjdxw" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx78" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <business.business_location.parent_company> "Hoffman, Larin & Agnetti, P.A." .
+<divorce_lawyer> <common.topic.notable_types> "Profession" .
+<m.05n6b1q> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Legal_Action_Workshop> <organization.organization.place_founded> "California" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<Lawyer> <people.profession.specializations> "Ulama" .
+<Minnesota> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Maine" .
+<Real_estate_lawyer> <common.topic.notable_types> "Profession" .
+<San_Francisco_Giants> <sports.sports_team.league> "m.0crt7c2" .
+<m.0527d0b> <baseball.current_coaching_tenure.baseball_team> "San Francisco Giants" .
+<Utah> <location.location.containedby> "United States of America" .
+<Profession> <freebase.type_hints.included_types> "Topic" .
+<Wyoming> <location.location.containedby> "United States of America" .
+<Texas> <base.locations.states_and_provences.country> "United States of America" .
+<First_thing_we_do,_let's_kill_all_the_lawyers.> <media_common.quotation.subjects> "Lawyer" .
+<Galstyan_Law_Group> <organization.organization.sectors> "Attorney at law" .
+<Vermont> <location.administrative_division.first_level_division_of> "United States of America" .
+<Virginia> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Benign_prostatic_hyperplasia> <medicine.disease.risk_factors> "Male" .
+<San_Mateo> <location.statistical_region.population> "g.11x1hg412" .
+<Minnesota> <location.location.containedby> "United States, with Territories" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "West Virginia" .
+<Ernest_Coxhead_House> <location.location.containedby> "California" .
+<Bankruptcy_Lawyer> <people.profession.specialization_of> "Lawyer" .
+<United_States_of_America> <location.country.first_level_divisions> "South Carolina" .
+<Pennsylvania> <location.administrative_division.country> "United States of America" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<South_Carolina> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Vermont> <base.locations.states_and_provences.country> "United States of America" .
+<San_Francisco_Giants> <common.topic.notable_for> "g.125bx0r9v" .
+<Lawyer> <common.topic.subjects> "Dansky | Katz | Ringold | York" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vy3r2" .
+<United_States_of_America> <location.country.first_level_divisions> "Wyoming" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "Utah" .
+<Stanford_Law_School> <education.educational_institution_campus.educational_institution> "Stanford Law School" .
+<m.05n6cxh> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Lawyer> <people.profession.specializations> "Child-Care Solicitor" .
+<United_States_of_America> <location.country.first_level_divisions> "South Dakota" .
+<m.05n6flc> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Minnesota> <base.biblioness.bibs_location.country> "United States of America" .
+<Alaska> <base.locations.states_and_provences.country> "United States of America" .
+<United_States_of_America> <location.country.administrative_divisions> "Oregon" .
+<Trademark_attorney> <people.profession.specialization_of> "Lawyer" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rxh0" .
+<AT&T_Park> <location.location.events> "2010 World Series" .
+<Mercury_Legal> <organization.organization.sectors> "Personal injury lawyer" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Law" .
+<m.03brnxm> <location.adjoining_relationship.adjoins> "San Mateo" .
+<Sullivan_&_Galleshaw,_LLP> <common.topic.subject_of> "Personal injury lawyer" .
+<Teams_Owned> <type.property.schema> "Sports Team Owner" .
+<Michigan> <location.location.containedby> "United States of America" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.locations> "Hoffman, Larin & Agnetti, P.A." .
+<Lawyer_SEO_Services> <business.product_line.products> "Lawyer SEO Services" .
+<Syphilis> <medicine.disease.risk_factors> "Male" .
+<San_Francisco_Giants> <time.participant.event> "2012 World Series" .
+<m.04vy293> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwzlm" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<United_States_of_America> <location.country.administrative_divisions> "Arkansas" .
+<m.04vwvh1> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04vwxt7" .
+<Louisiana> <location.administrative_division.country> "United States of America" .
+<New_Hampshire> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Idaho" .
+<New_York_Gothams> <sports.defunct_sports_team.later_known_as> "New York Giants" .
+<Tennessee> <base.locations.states_and_provences.country> "United States of America" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<United_States_of_America> <location.country.administrative_divisions> "Washington" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<San_Mateo_County> <location.us_county.hud_county_place> "San Mateo" .
+<Lawyer> <common.topic.subject_of> "Bandle & Zaeske LLP" .
+<Leinart_Law_Firm> <common.topic.subject_of> "Lawyer" .
+<m.04vw__f> <sports.sports_league_draft_pick.team> "San Francisco Giants" .
+<Law> <common.topic.subject_of> "SexCrimeUK.com - Dedicated Sex Crimes Defence Solicitors" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<Arkansas> <location.location.containedby> "United States of America" .
+<United_States_of_America> <location.country.first_level_divisions> "Ohio" .
+<San_Francisco> <location.location.containedby> "San Francisco Bay Area" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<Lawyer> <common.topic.subject_of> "Daniel C. Miller, LLC" .
+<U.S._state> <base.aareas.schema.administrative_area_type.pertains_to> "United States of America" .
+<Professional_Sports_Team> <type.type.expected_by> "Teams Owned" .
+<Personal_injury_lawyer> <common.topic.subjects> "Reiff and Bily" .
+<Indiana> <location.administrative_division.country> "United States of America" .
+<San_Francisco_Giants> <baseball.baseball_team.current_coaches> "m.0527d0b" .
+<Hawaii> <location.location.containedby> "United States, with Territories" .
+<Law> <people.professional_field.professions_in_this_field> "Lawyer" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<New_York> <location.administrative_division.first_level_division_of> "United States of America" .
+<Washington> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1tvv" .
+<Carey> <business.business_operation.industry> "Law" .
+<2012_World_Series> <sports.sports_championship_event.champion> "San Francisco Giants" .
+<Bill_Neukom> <people.person.education> "m.0hvn4gv" .
+<San_Francisco_Giants> <time.participant.event> "2010 Major League Baseball season" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n69wc" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0107d429" .
+<Tennessee> <location.location.containedby> "United States, with Territories" .
+<Thomas_Hornbuckle> <common.topic.subjects> "Lawyer" .
+<Hoffman,_Larin_&_Agnetti,_P.A.> <organization.organization.sectors> "Law" .
+<1st_Claims> <common.topic.subjects> "Lawyer" .
+<Idaho> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0dl37x6> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Lawyer> <freebase.type_hints.included_types> "Topic" .
+<San_Francisco_Giants> <sports.sports_team.sport> "Baseball" .
+<United_States_of_America> <location.country.administrative_divisions> "Georgia" .
+<Male> <common.topic.image> "male.jpg" .
+<Indiana> <base.locations.states_and_provences.country> "United States of America" .
+<Advocate> <common.topic.notable_types> "Profession" .
+<Alabama> <location.administrative_division.country> "United States of America" .
+<m.011x03sm> <people.group_membership.group> "Lawyer" .
+<Lawyer> <common.topic.image> "English barrister" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Overeenkomst.nu" .
+<San_Francisco_Giants> <sports.sports_team.league> "m.0crt4b6" .
+<California> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<College_of_San_Mateo> <location.location.containedby> "California" .
+<m.05n6cdf> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Massachusetts> <base.biblioness.bibs_location.country> "United States of America" .
+<Lawyer> <common.topic.subjects> "Sullivan & Galleshaw, LLP" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rv59" .
+<United_States_of_America> <location.country.first_level_divisions> "Iowa" .
+<Personal_injury_lawyer> <common.topic.subjects> "thefloridafirm.com" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx6k" .
+<Virginia> <location.administrative_division.country> "United States of America" .
+<San_Francisco_Giants> <sports.professional_sports_team.draft_picks> "m.04w1sx4" .
+<San_Mateo> <location.hud_foreclosure_area.total_residential_addresses> "m.07hc_wh" .
+<Personal_injury_lawyer> <organization.organization_sector.organizations_in_this_sector> "Phillips Law Firm" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdivides_place> "United States, with Territories" .
+<Managing_knowledge_in_law_firms> <book.written_work.subjects> "Lawyer" .
+<Child-Care_Solicitor> <common.topic.notable_types> "Profession" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079ry" .
+<Leinart_Law_Firm> <common.topic.subjects> "Bankruptcy Lawyer" .
+<Arkansas> <location.administrative_division.country> "United States of America" .
+<Hawaii> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Attorney_at_law> <common.topic.subject_of> "Thomas Hornbuckle" .
+<Law> <common.topic.subject_of> "Galstyan Law Group" .
+<Overeenkomst.nu> <organization.organization.sectors> "Lawyer" .
+<Delaware> <location.location.containedby> "United States of America" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0106rs4z" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Dansky_|_Katz_|_Ringold_|_York> <common.topic.subjects> "Lawyer" .
+<United_States_of_America> <location.country.administrative_divisions> "Louisiana" .
+<Sally_&_Fitch_LLP> <base.crime.law_firm.lawyers_in_firm> "Sally & Fitch LLP" .
+<Male> <common.topic.article> "m.05zpq8" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<United_States_of_America> <location.country.administrative_divisions> "Nevada" .
+<Lawyer> <base.descriptive_names.names.descriptive_name> "m.0_z480z" .
+<Gout> <medicine.disease_cause.diseases> "Kidney Stone" .
+<Lawyer> <organization.organization_sector.organizations_in_this_sector> "Hoffman, Larin & Agnetti, P.A." .
+<United_States_of_America> <location.country.first_level_divisions> "Texas" .
+<Glasheen,_Valles,_and_Inderman,_LLP> <business.business_operation.industry> "Law" .
+<m.0dl3192> <sports.sports_team_season_record.team> "San Francisco Giants" .
+<Lawyer> <business.industry.companies> "Rose Law Firm" .
+<Thomas_Hornbuckle> <common.topic.subject_of> "Law" .
+<San_Mateo> <location.statistical_region.population> "m.0hkbx4b" .
+<California> <location.administrative_division.country> "United States of America" .
+<Personal_injury_lawyer> <common.topic.subject_of> "Loyalty Law" .
+<Lawyer_SEO_Services> <business.consumer_product.product_line> "Lawyer SEO Services" .
+<Sally_&_Fitch_LLP> <base.crime.lawyer.lawyer_type> "Lawyer" .
+<Idaho> <location.location.time_zones> "Pacific Time Zone" .
+<San_Francisco_Giants> <sports.sports_team.colors> "Black" .
+<United_States_of_America> <location.country.first_level_divisions> "Nevada" .
+<m.0k079r4> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .
+<m.05n6f7n> <baseball.baseball_team_stats.team> "San Francisco Giants" .
+<Oregon> <location.administrative_division.country> "United States of America" .
+<United_States_of_America> <government.governmental_jurisdiction.government_bodies> "Supreme Court of the United States" .
+<Lawyer> <common.topic.subject_of> "1st Claims" .
+<m.0k079qc> <base.schemastaging.team_training_ground_relationship.facility> "Candlestick Park" .
+<California> <organization.organization_scope.organizations_with_this_scope> "Downtown L.A. Law Group" .
+<Lawyer> <business.customer.supplier> "Majux Marketing" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6c4s" .
+<College_of_San_Mateo> <education.educational_institution_campus.educational_institution> "College of San Mateo" .
+<North_America> <base.locations.continents.countries_within> "United States of America" .
+<Wisconsin> <location.location.containedby> "United States, with Territories" .
+<San_Francisco_Giants> <baseball.baseball_team.team_stats> "m.05n6dmr" .
+<San_Francisco_Giants> <base.schemastaging.sports_team_extra.training_ground> "m.0k079pf" .
+<San_Mateo> <location.location.containedby> "United States of America" .
+<m.0k079rd> <base.schemastaging.team_training_ground_relationship.team> "San Francisco Giants" .

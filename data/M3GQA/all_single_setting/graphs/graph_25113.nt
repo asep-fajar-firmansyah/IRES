@@ -1,0 +1,1214 @@
+<Tertipi_West_Tower> <common.topic.notable_types> "Building" .
+<Kolonaki> <location.neighborhood.neighborhood_of> "Athens" .
+<Chalandri_Cemetery> <location.location.containedby> "Greece" .
+<Assassination_of_Sokratis_Giolias> <time.event.locations> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.1pv0wdgy" .
+<Erechtheion> <symbols.namesake.named_after> "Erichthonius of Athens" .
+<Athens> <location.location.events> "Siege of Athens" .
+<Athens> <location.location.contains> "Athens School of Fine Arts" .
+<To_Vima> <book.newspaper.circulation_areas> "Greece" .
+<Tourist_attraction> <freebase.type_hints.included_types> "Topic" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Spartia temple" .
+<Temple_of_Isthmia> <base.engineering.structure.building_elements> "m.08c3fts" .
+<Athens> <location.location.events> "Karaiskakis Stadium disaster" .
+<Athens> <symbols.name_source.namesakes> "Athens" .
+<Athens> <sports.sports_team_location.teams> "Panathinaikos V.C." .
+<2010_Athens_International_Short_Film_Festival_Psarokokalo> <time.event.locations> "Athens" .
+<Athens> <location.location.contains> "Temple of Aphrodite Urania" .
+<Ancient_Greece> <book.book_subject.works> "Pericles of Athens and the birth of democracy" .
+<Panteion_University> <education.educational_institution_campus.educational_institution> "Panteion University" .
+<Athens_Conservatoire> <education.educational_institution_campus.educational_institution> "Athens Conservatoire" .
+<Greek_National_Conservatoire> <location.location.containedby> "Greece" .
+<Athens> <location.location.contains> "University of Georgia School of Public and International Affairs" .
+<Erechtheion> <common.topic.notable_for> "g.125fqhn5n" .
+<Athens> <location.location.contains> "Gate of Athena Archegetis" .
+<Athens> <common.topic.notable_types> "City/Town/Village" .
+<Temple_of_Artemis,_Corfu> <location.location.geolocation> "m.0wmhdck" .
+<Olympia> <travel.travel_destination.tourist_attractions> "Temple of Zeus, Olympia" .
+<Athens> <location.location.contains> "The Mall Athens" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Panellinios_B.C.> <sports.sports_team.location> "Athens" .
+<National_Technical_University_of_Athens> <location.location.containedby> "Athens" .
+<Athens> <location.location.events> "Siege of Athens and Piraeus" .
+<Kato_Petralona> <location.neighborhood.neighborhood_of> "Athens" .
+<Ano_Petralona> <location.neighborhood.neighborhood_of> "Athens" .
+<Ancient_Greek_temple> <base.descriptive_names.names.descriptive_name> "m.010699js" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.1211ptvm" .
+<Temple_of_Apollo_Epikauros_at_Bassae> <common.topic.notable_types> "Building" .
+<Athens> <location.location.events> "Swimming at the 2004 Summer Paralympics – Women's 50 metre backstroke S3" .
+<Attica> <base.uncommon.topic.exceptions> "Athens should be contained in some Greek prefecture within Attica." .
+<Tertipi_West_Tower> <location.location.containedby> "Greece" .
+<Athens> <symbols.name_source.namesakes> "Athens" .
+<School_of_Pedagogical_and_Technological_Education> <location.location.containedby> "Athens" .
+<Efterpi_Tower> <location.location.containedby> "Athens" .
+<Agia_Lavra_Tower> <location.location.containedby> "Athens" .
+<OTE_Head_Offices> <location.location.containedby> "Athens" .
+<2009_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Ephesus_Breeze> <travel.tour_operator.travel_destinations> "Temple of Artemis" .
+<Gate_of_Athena_Archegetis> <location.location.containedby> "Athens" .
+<Athens> <location.location.events> "2001 Athens International Film Festival" .
+<Athens> <common.topic.webpage> "m.09wygdn" .
+<m.0rzcbfk> <military.military_combatant_group.combatants> "Athens" .
+<Athens_Graduate_School_of_Management> <location.location.containedby> "Athens" .
+<Athens> <location.location.events> "2011 Athens International Film Festival" .
+<Athens> <location.location.events> "2009 Athens International Gay & Lesbian Film Festival" .
+<Panathenaic_Stadium> <location.location.containedby> "Pangrati" .
+<Temple_of_Aphrodite_Urania> <common.topic.notable_types> "Building" .
+<Erechtheion> <common.topic.article> "m.01ppgm" .
+<Athens_should_be_contained_in_some_Greek_prefecture_within_Attica.> <base.uncommon.exception.focus> "Athens" .
+<President_Hotel_Athens> <location.location.containedby> "Greece" .
+<Greece> <base.aareas.schema.administrative_area.administrative_children> "Attica" .
+<Athens> <location.location.contains> "Tertipi West Tower" .
+<Plaka> <location.location.containedby> "Athens" .
+<Ancient_Agora_of_Athens> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Votanikos> <location.neighborhood.neighborhood_of> "Athens" .
+<Siege_of_Athens> <time.event.locations> "Athens" .
+<Aegina> <location.location.contains> "Temple of Aphaea" .
+<m.08c3qwb> <base.engineering.structural_composition.structure> "Erechtheion" .
+<Temple_of_Artemis> <travel.travel_destination.tour_operators> "Ephesus Breeze" .
+<Athens> <location.location.events> "2012 Athens International Short Film Festival Psarokokalo" .
+<Greek_municipality> <base.uncommon.topic.exceptions> "Athens should be contained in some Greek prefecture within Attica." .
+<Protathlitis> <book.newspaper.circulation_areas> "Athens" .
+<Greece> <location.country.first_level_divisions> "Attica" .
+<Hellinikon_Olympic_Complex> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Hilton_Athens> <location.location.containedby> "Greece" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.1pv0s1cs" .
+<1999_World_Weightlifting_Championships> <time.event.locations> "Athens" .
+<Aegina> <location.administrative_division.third_level_division_of> "Greece" .
+<Attiki,_Athens> <location.location.containedby> "Greece" .
+<Temple_of_Aphrodite_Urania> <location.location.geolocation> "m.0cnkvkh" .
+<Classical_architecture> <architecture.architectural_style.examples> "Temple of Apollo at Bassae" .
+<Temple_of_Hephaestus> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Temple_of_Apollo_at_Bassae> <base.engineering.structure.building_elements> "m.08c3jjd" .
+<m.05hh57s> <location.adjoining_relationship.adjoins> "Erechtheion" .
+<Athens> <location.location.events> "2010 Athens International Short Film Festival Psarokokalo" .
+<1896_Summer_Olympics> <olympics.olympic_games.host_city> "Athens" .
+<1896_Summer_Olympics> <olympics.olympic_games.competitions> "Cycling at the 1896 Summer Olympics - Men's individual road race" .
+<Building_function> <type.type.properties> "Buildings" .
+<Atrina_Center_Tower> <common.topic.notable_types> "Building" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Anafiotika" .
+<Athens> <common.topic.webpage> "m.09xh6b1" .
+<ALBA_Graduate_Business_School> <education.educational_institution.campuses> "ALBA Graduate Business School" .
+<Acropolis> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens_Conservatoire> <location.location.containedby> "Greece" .
+<Athens> <location.location.contains> "Erechtheion" .
+<Athens_Expo_Center> <location.location.containedby> "Greece" .
+<Mesogeion_Twin_Tower_2> <location.location.containedby> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b76by6mt" .
+<Panteion_University> <location.location.containedby> "Greece" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.1235w6gh" .
+<Chalandri_Cemetery> <location.location.containedby> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.120vb6ny" .
+<Athens> <book.book_subject.works> "Demos, the discovery of classical Attika" .
+<Agricultural_University_of_Athens> <education.educational_institution.campuses> "Agricultural University of Athens" .
+<AEK_B.C.> <sports.sports_team.location> "Greece" .
+<Temple_of_Zeus,_Olympia> <common.topic.notable_types> "Building" .
+<1906_Intercalated_Games> <olympics.olympic_games.venues> "Panathenaic Stadium" .
+<Tertipi_East_Tower> <location.location.containedby> "Athens" .
+<Athens> <location.location.events> "2010 Athens International Gay & Lesbian Film Festival" .
+<1995_Men's_European_Volleyball_Championship> <time.event.locations> "Athens" .
+<Temple_of_Zeus,_Olympia> <symbols.namesake.named_after> "Zeus" .
+<Athens> <travel.travel_destination.tour_operators> "Adventures by Disney" .
+<My_Life_in_Ruins> <film.film.featured_film_locations> "Athens" .
+<Temple_of_Artemis> <common.topic.image> "Miniaturk 009" .
+<Panathinaikos_B.C.> <sports.sports_team.location> "Athens" .
+<Sophitia> <fictional_universe.fictional_character.place_of_birth> "Athens" .
+<Hygeia_Hospital> <common.topic.notable_types> "Building" .
+<Athens> <location.location.contains> "Panteion University" .
+<2007_Athens_International_Gay_&_Lesbian_Film_Festival> <time.event.locations> "Athens" .
+<Temple_of_Olympian_Zeus,_Athens> <location.location.containedby> "Athens" .
+<Temple_of_Artemis,_Corfu> <common.topic.article> "m.0h684kq" .
+<Athens> <common.topic.webpage> "m.09wlgct" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Attiki, Athens" .
+<Harokopio_University> <education.educational_institution.campuses> "Harokopio University" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Exarcheia" .
+<2012_EcoFocus_Film_Festival> <time.event.locations> "Athens" .
+<Greece> <olympics.olympic_participating_country.olympics_participated_in> "2004 Summer Olympics" .
+<Spartia_temple> <location.location.geolocation> "m.0wmj6s6" .
+<1969_Federation_Cup> <time.event.locations> "Athens" .
+<Athens> <common.topic.article> "m.0n38" .
+<Athens> <location.location.events> "2003 European Road Championships" .
+<Athens> <location.location.contains> "Acropolis Museum" .
+<Parliament_House,_Athens> <common.topic.notable_types> "Building" .
+<German_School_of_Athens> <location.location.containedby> "Athens" .
+<Thiseio> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <location.location.containedby> "Athens Prefecture" .
+<2005_Panorama_of_European_Cinema> <time.event.locations> "Athens" .
+<National_Gallery> <location.location.containedby> "Athens" .
+<Athens> <location.location.events> "2014 Athens International Gay & Lesbian Film Festival" .
+<Athens> <location.location.events> "2013 Athens Ethnographic Film Festival" .
+<1997_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Hygeia_Hospital> <location.location.containedby> "Athens" .
+<Athens> <common.topic.webpage> "m.0gx69x3" .
+<Athens> <location.location.contains> "Mesogeion Twin Tower 1" .
+<Athens> <periodicals.newspaper_circulation_area.newspapers> "Ta Nea" .
+<Deree_College> <location.location.containedby> "Athens" .
+<Syntagma_Metro_Station_Archaeological_Collection> <location.location.containedby> "Athens" .
+<Kato_Patissia> <location.location.containedby> "Patisia" .
+<m.010699js> <base.schemastaging.plural_form.language> "Russian" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Temple of Aphaea" .
+<2013_Athens_Ethnographic_Film_Festival> <time.event.locations> "Athens" .
+<Athens> <periodicals.newspaper_circulation_area.newspapers> "Estia" .
+<Parthenon> <common.topic.notable_types> "Building" .
+<Parliament_House,_Athens> <location.location.containedby> "Athens" .
+<Temple_of_Artemis,_Corfu> <architecture.building.building_function> "Ancient Greek temple" .
+<Athens> <location.location.events> "2015 SFF-rated ATHENS" .
+<Odeon_of_Herodes_Atticus> <location.location.containedby> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Nea Filothei" .
+<Cassandra_Alexandra> <fictional_universe.fictional_character.place_of_birth> "Athens" .
+<Athens> <location.location.events> "2001 VideoDance Festival" .
+<American_College_of_Greece> <education.educational_institution.campuses> "American College of Greece" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b76t5pb5" .
+<Erechtheion> <projects.project_focus.projects> "Initial design and construction of Erechtheum" .
+<Kato_Patissia> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens_should_be_contained_in_some_Greek_prefecture_within_Attica.> <base.uncommon.exception.involves> "Athens" .
+<Athens_Metro_Mall> <location.location.containedby> "Athens" .
+<Temple_of_Olympian_Zeus,_Athens> <common.topic.article> "m.05kgh" .
+<Acropolis_of_Athens> <location.location.contains> "Old Acropolis Museum" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.121qfwr_" .
+<Neapoli,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<Ionian_Islands> <location.location.contains> "Corfu" .
+<2012_Athens_International_Gay_&_Lesbian_Film_Festival> <time.event.locations> "Athens" .
+<Athens> <location.location.contains> "Acropolis of Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.120wqsgc" .
+<Kathimerini> <book.newspaper.circulation_areas> "Athens" .
+<1997_World_Championships_in_Athletics> <time.event.locations> "Athens" .
+<Athens_Conservatoire> <education.educational_institution.campuses> "Athens Conservatoire" .
+<Athens> <location.location.contains> "Kolonaki" .
+<2009_Festival_du_Film_Francophone_de_Grèce> <time.event.locations> "Athens" .
+<Volleyball_at_the_2000_Summer_Paralympics> <time.event.locations> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Keramikos" .
+<Attica> <base.aareas.schema.administrative_area.administrative_parent> "Greece" .
+<Temple_of_Isthmia> <common.topic.article> "m.02w1dkw" .
+<Greece> <sports.sports_team_location.teams> "Panathinaikos B.C." .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Omonoia, Athens" .
+<Ano_Patissia> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens_School_of_Fine_Arts> <location.location.containedby> "Greece" .
+<Classical_architecture> <architecture.architectural_style.examples> "Odeon of Herodes Atticus" .
+<Omonoia,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<Classical_architecture> <architecture.architectural_style.examples> "Propylaea" .
+<Ephesus_Breeze> <travel.tour_operator.travel_destinations> "Kuşadası" .
+<Ancient_Greek_temple> <common.topic.image> "Athens Acropolis" .
+<Karaiskakis_Stadium_disaster> <time.event.locations> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Profitis Daniil, Athens" .
+<Athens> <location.location.contains> "g.1hc0ggb6g" .
+<m.0q3br8j> <location.administrative_division_capital_relationship.capital> "Athens" .
+<Temple_of_Artemis> <common.topic.image> "ArtemisEphesus" .
+<Ta_Nea> <book.newspaper.circulation_areas> "Athens" .
+<Ephesus> <travel.travel_destination.tour_operators> "Ephesus Breeze" .
+<Athens> <travel.travel_destination.tourist_attractions> "National Archaeological Museum, Athens" .
+<Acropolis_Museum> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Battle_of_Phaleron> <time.event.locations> "Athens" .
+<Athens_Concert_Hall> <location.location.containedby> "Athens" .
+<Greece> <base.aareas.schema.administrative_area.administrative_children> "Ionian Islands" .
+<Temple_of_Aphaea> <common.topic.article> "m.0h27ss" .
+<Ta_Nea_tis_Megalopoleos> <book.newspaper.circulation_areas> "Athens" .
+<Athens> <location.location.events> "City of Poros" .
+<Parnitha> <location.location.containedby> "Athens" .
+<Xenophon> <fictional_universe.fictional_character.places_lived> "Athens" .
+<Athens> <location.location.events> "Battle of Phaleron" .
+<Efterpi_Tower> <common.topic.notable_types> "Building" .
+<Atromitos_F.C.> <sports.sports_team.location> "Athens" .
+<Erechtheion> <architecture.building.building_function> "Ancient Greek temple" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Gazi, Athens" .
+<Athens> <sports.sports_team_location.teams> "Panathinaikos B.C." .
+<Efterpi_Tower> <location.location.containedby> "Greece" .
+<Athens> <sports.sports_team_location.teams> "Atromitos F.C." .
+<Athens> <location.location.contains> "Apollo Tower" .
+<Hellenic_Conservatory> <location.location.containedby> "Greece" .
+<Athena_Alea> <symbols.name_source.namesakes> "Athens" .
+<Athens> <military.military_combatant.military_conflicts> "m.0rzcbfk" .
+<Greece> <travel.travel_destination.tour_operators> "Adventures by Disney" .
+<Athens> <location.location.events> "2012 Panorama of European Cinema" .
+<Temple_of_Aphrodite_Urania> <common.topic.notable_for> "g.125bt8znj" .
+<Athens_Tower_2> <location.location.containedby> "Greece" .
+<Athens> <base.aareas.schema.administrative_area.administrative_area_type> "Greek municipality" .
+<Temple_of_Artemis> <architecture.structure.destroyed_by> "Looting" .
+<Spartia_temple> <common.topic.notable_types> "Building" .
+<Tourist_attraction> <freebase.type_profile.published> "Published" .
+<Temple_of_Artemis> <location.location.containedby> "Turkey" .
+<My_Life_in_Ruins> <film.film.country> "Greece" .
+<2001_VideoDance_Festival> <time.event.locations> "Athens" .
+<Athens> <location.location.events> "2010 SFF-rated ATHENS" .
+<Athens> <location.location.contains> "Athens Graduate School of Management" .
+<Greek_municipality> <freebase.type_hints.included_types> "Topic" .
+<Estia> <book.newspaper.circulation_areas> "Athens" .
+<Athens+Acropolis+From+Lucabetus> <common.image.appears_in_topic_gallery> "Athens" .
+<Athens> <location.location.contains> "Temple of Olympian Zeus, Athens" .
+<Building> <type.type.expected_by> "Buildings" .
+<Athens> <symbols.namesake.named_after> "Athena Alea" .
+<Corfu> <location.location.containedby> "Greece" .
+<Building_function> <type.type.expected_by> "Purpose" .
+<Athens> <book.book_subject.works> "The Propylaia to the Athenian Akropolis" .
+<Ancient_Greek_temple> <common.topic.article> "m.03f355" .
+<OTE_Head_Offices> <location.location.containedby> "Greece" .
+<Parthenon> <location.location.containedby> "Athens" .
+<Agricultural_University_of_Athens> <education.educational_institution_campus.educational_institution> "Agricultural University of Athens" .
+<Athens> <travel.travel_destination.tourist_attractions> "Acropolis Museum" .
+<m.09wlgct> <common.webpage.topic> "Athens" .
+<Temple_of_Olympian_Zeus,_Athens> <common.topic.notable_for> "g.125f58c3p" .
+<2012_Athens_Ethnographic_Film_Festival> <time.event.locations> "Athens" .
+<Temple_of_Aphrodite_Urania> <location.location.containedby> "Greece" .
+<Greece> <location.country.capital> "Athens" .
+<Omonoia_Square> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<2007_VideoDance_Festival> <time.event.locations> "Athens" .
+<Greek_National_Conservatoire> <education.educational_institution.campuses> "Greek National Conservatoire" .
+<Athens> <location.location.contains> "Atrina Center Tower" .
+<OTE_Tower> <location.location.containedby> "Athens" .
+<Adventures_by_Disney> <travel.tour_operator.travel_destinations> "Greece" .
+<Athens> <location.location.events> "2015 Athens AnimFest International Animation Festival" .
+<Athens> <location.hud_county_place.place> "Athens" .
+<Athens> <location.location.events> "2013 Festival du Film Francophone de Grèce" .
+<National_Archaeological_Museum,_Athens> <location.location.containedby> "Athens" .
+<Hilton_Athens> <architecture.structure.architectural_style> "Classical architecture" .
+<Athens> <travel.travel_destination.tourist_attractions> "Goulandris Museum of Cycladic Art" .
+<Urania> <fictional_universe.fictional_character.place_of_birth> "Athens" .
+<French_School_at_Athens> <location.location.containedby> "Greece" .
+<Olympia> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Athens> <common.image.appears_in_topic_gallery> "Athens" .
+<Politeia,_Athens> <location.location.containedby> "Greece" .
+<2004_Summer_Olympics> <olympics.olympic_games.host_city> "Athens" .
+<Parthenon> <common.topic.image> "Athens Parthenon-remains" .
+<Temple_of_Apollo_at_Bassae> <location.location.containedby> "Bassae" .
+<m.08lq3jb> <olympics.olympic_city_bid.olympic_games> "2004 Summer Olympics" .
+<Athens_Acropolis> <common.image.size> "m.0klk12" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Asteroskopeio" .
+<Kolonaki> <location.location.containedby> "Athens" .
+<Siege_of_Athens> <military.military_conflict.combatants> "m.0rzcbfk" .
+<2011_Athens_International_Gay_&_Lesbian_Film_Festival> <time.event.locations> "Athens" .
+<Athens> <location.location.events> "Destruction of the Parthenon" .
+<Athens> <periodicals.newspaper_circulation_area.newspapers> "To Vima" .
+<Building> <type.type.properties> "Building Function" .
+<Athens_School_of_Fine_Arts> <education.educational_institution.campuses> "Athens School of Fine Arts" .
+<University_of_Georgia_School_of_Public_and_International_Affairs> <location.location.containedby> "Greece" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Pangrati" .
+<Athens> <location.location.events> "2012 Festival du Film Francophone de Grèce" .
+<Athens_should_be_contained_in_some_Greek_prefecture_within_Attica.> <base.uncommon.exception.involves> "Greek municipality" .
+<Acropolis_of_Athens> <architecture.building_complex.buildings_in_complex> "Parthenon" .
+<Athens> <location.location.events> "2011 Festival du Film Francophone de Grèce" .
+<2012_Athens_Video_Art_Festival> <time.event.locations> "Athens" .
+<Agricultural_University_of_Athens> <location.location.containedby> "Greece" .
+<Temple_of_Hephaestus> <location.location.containedby> "Athens" .
+<Building> <freebase.type_profile.published> "Published" .
+<Athens> <location.location.contains> "Goulandris Museum of Cycladic Art" .
+<Greece> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Attica> <location.administrative_division.first_level_division_of> "Greece" .
+<2004_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Athens> <location.location.contains> "American College of Greece" .
+<Apollo_Tower> <location.location.containedby> "Athens" .
+<m.01069374> <base.schemastaging.plural_form.language> "Russian" .
+<Table_tennis_at_the_2004_Summer_Paralympics_–_Women's_team_–_Class_4–5> <time.event.locations> "Athens" .
+<The_Propylaia_to_the_Athenian_Akropolis> <book.written_work.subjects> "Ancient Greece" .
+<Athens> <location.location.events> "2009 SFF-rated ATHENS" .
+<Athens> <location.location.events> "2002 VideoDance Festival" .
+<Plaka> <location.neighborhood.neighborhood_of> "Athens" .
+<Pangrati> <location.location.contains> "Panathenaic Stadium" .
+<Ancient_Greek_temple> <common.topic.notable_for> "g.1255n9_v7" .
+<Athens> <periodicals.newspaper_circulation_area.newspapers> "Eleftheros Typos" .
+<Athens> <location.location.contains> "University of Georgia College of Veterinary Medicine" .
+<Athens> <travel.travel_destination.tourist_attractions> "Parthenon" .
+<Colonus> <location.location.containedby> "Greece" .
+<Athens> <symbols.namesake.named_after> "Athens" .
+<Temple_of_Zeus,_Olympia> <architecture.building.building_function> "Ancient Greek temple" .
+<Athens> <location.location.contains> "Greek National Conservatoire" .
+<2009_SFF-rated_ATHENS> <time.event.locations> "Athens" .
+<m.098ly_c> <base.ontologies.ontology_instance_mapping.freebase_topic> "Athens" .
+<2003_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Syntagma_Square> <location.location.containedby> "Athens" .
+<Athens> <location.location.contains> "Ministry of Public Order" .
+<Patisia> <location.location.containedby> "Greece" .
+<Goulandris_Museum_of_Cycladic_Art> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Athens> <location.location.contains> "Plaka" .
+<Omonoia_Square> <location.location.containedby> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Ampelokipoi, Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b75hzrvr" .
+<The_Propylaia_to_the_Athenian_Akropolis> <book.written_work.subjects> "Greece" .
+<Athens> <location.location.contains> "Gagarin 205" .
+<Classical_architecture> <architecture.architectural_style.examples> "Temple of Hephaestus" .
+<Greece> <sports.sports_team_location.teams> "Maroussi B.C." .
+<Athens> <location.location.contains> "Athens University of Economics and Business" .
+<2003_European_Road_Championships> <time.event.locations> "Athens" .
+<Parthenon> <architecture.building.building_complex> "Acropolis of Athens" .
+<Athens> <book.book_subject.works> "Athens from Alexander to Antony" .
+<Athens> <location.location.contains> "Athens Towers" .
+<Acropolis_of_Athens> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<m.04jt14v> <travel.transportation.travel_destination> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Assyrmatos, Athens" .
+<Athens> <location.location.contains> "President Hotel Athens" .
+<Temple_of_Zeus,_Olympia> <common.topic.image> "A 1908 illustration of the temple as it might have looked in the 5th century BCE" .
+<Athens> <location.location.events> "2012 EcoFocus Film Festival" .
+<Temple_of_Zeus,_Olympia> <travel.tourist_attraction.near_travel_destination> "Shahhat" .
+<Sailing_at_the_2004_Summer_Olympics_-_Women's_Europe> <olympics.olympic_event_competition.olympic_games_contested> "2004 Summer Olympics" .
+<Kolonaki> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Bassae> <location.location.containedby> "Greece" .
+<First_Cemetery_of_Athens> <location.location.containedby> "Athens" .
+<Erechtheion> <architecture.structure.architectural_style> "Classical architecture" .
+<OTE_Head_Offices> <common.topic.notable_types> "Building" .
+<2009_Athens_International_Gay_&_Lesbian_Film_Festival> <time.event.locations> "Athens" .
+<Ephesus> <common.topic.subject_of> "Ephesus Breeze" .
+<Adventures_by_Disney_-_Greece_Vacation> <travel.tour_operator.travel_destinations> "Plaka" .
+<Benaki_Museum> <location.location.containedby> "Athens" .
+<US_Embassy,_Athens> <time.event.locations> "Athens" .
+<Ionian_Islands> <location.location.contains> "Temple of Artemis, Corfu" .
+<Monastiraki> <location.neighborhood.neighborhood_of> "Athens" .
+<Deree_College> <education.educational_institution.campuses> "Deree College" .
+<Athens> <travel.travel_destination.tourist_attractions> "Temple of Olympian Zeus, Athens" .
+<Hellenic_American_University> <education.educational_institution_campus.educational_institution> "Hellenic American University" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Psyri" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.12bfg63wr" .
+<Tertipi_East_Tower> <location.location.containedby> "Greece" .
+<Makrygianni,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<Goudi> <location.location.containedby> "Greece" .
+<Athens> <location.location.events> "2013 SFF-rated ATHENS" .
+<Athens> <location.location.contains> "National Gallery" .
+<Athens> <sports.sports_team_location.teams> "Maroussi B.C." .
+<Exarcheia> <location.location.containedby> "Greece" .
+<Old_Acropolis_Museum> <location.location.containedby> "Athens" .
+<Athens> <location.location.events> "OAED Vocational College shooting" .
+<French_School_at_Athens> <location.location.containedby> "Athens" .
+<Athens> <location.location.events> "2010 Athens International Film Festival" .
+<Attica_Prefecture> <location.location.contains> "Athens" .
+<Athens> <travel.travel_destination.tourist_attractions> "Erechtheion" .
+<Athens> <location.location.events> "2012 Athens Video Art Festival" .
+<Skouze_Hill> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <location.location.events> "2009 Festival du Film Francophone de Grèce" .
+<Zappeion> <location.location.containedby> "Athens" .
+<Athens> <film.film_location.featured_in_films> "My Life in Ruins" .
+<Temple_of_Olympian_Zeus,_Athens> <common.topic.notable_types> "Tourist attraction" .
+<Siege_of_Athens> <time.event.includes_event> "Destruction of the Parthenon" .
+<Temple_of_Apollo_Epikauros_at_Bassae> <common.topic.notable_for> "g.125774mpf" .
+<Athens> <location.location.events> "2013 Athens International Film Festival" .
+<Psyri> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Skouze Hill" .
+<2001_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Agricultural_University_of_Athens> <location.location.containedby> "Athens" .
+<Shahhat> <travel.travel_destination.tourist_attractions> "Temple of Zeus, Olympia" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Patisia" .
+<Athens> <location.location.contains> "Hellenic American University" .
+<Teachers_Tower> <common.topic.notable_types> "Building" .
+<Athens> <location.location.events> "2007 VideoDance Festival" .
+<Pericles_of_Athens_and_the_birth_of_democracy> <book.written_work.subjects> "Greece" .
+<m.09xh6b1> <common.webpage.topic> "Athens" .
+<Building> <freebase.type_hints.included_types> "Topic" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Makrygianni, Athens" .
+<Athens> <location.location.events> "2000 Athens International Film Festival" .
+<Building_function> <type.type.expected_by> "Building function" .
+<Pedion_tou_Areos> <location.neighborhood.neighborhood_of> "Athens" .
+<2010_Athens_Ethnographic_Film_Festival> <time.event.locations> "Athens" .
+<Athens> <location.location.contains> "Old Temple of Athena" .
+<Temple_of_Artemis,_Corfu> <common.topic.notable_types> "Building" .
+<Athens> <location.location.contains> "Agia Lavra Tower" .
+<Attica> <location.location.contains> "Central Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Treis Gefyres" .
+<Athens> <location.location.contains> "Odeon of Herodes Atticus" .
+<Athens> <common.topic.webpage> "m.09wyg8s" .
+<Temple_of_Olympian_Zeus,_Athens> <symbols.namesake.named_after> "Zeus" .
+<Aegina> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Athens> <location.location.contains> "ALBA Graduate Business School" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Plaka" .
+<2014_Festival_du_Film_Francophone_de_Grèce> <time.event.locations> "Athens" .
+<Ministry_of_Public_Order> <location.location.containedby> "Greece" .
+<Goulandris_Museum_of_Cycladic_Art> <location.location.containedby> "Athens" .
+<Athens> <common.image.appears_in_topic_gallery> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.120_m0vl" .
+<Gagarin_205> <location.location.containedby> "Athens" .
+<Athens_should_be_contained_in_some_Greek_prefecture_within_Attica.> <base.uncommon.exception.involves> "Attica" .
+<Parliament_House,_Athens> <location.location.containedby> "Syntagma Square" .
+<Temple_of_Artemis> <base.worldwonders.ancient_wonder.wonder_creator> "Ancient Greece" .
+<Greece> <periodicals.newspaper_circulation_area.newspapers> "Eleftherotypia" .
+<Athens> <base.biblioness.bibs_location.country> "Greece" .
+<Temple_of_Zeus,_Olympia> <architecture.structure.architect> "Libon" .
+<Sepolia> <location.location.containedby> "Greece" .
+<2007_SFF-rated_ATHENS> <time.event.locations> "Athens" .
+<Siege_of_the_Acropolis> <time.event.locations> "Athens" .
+<Athens> <location.location.events> "2006 Athens International Film Festival" .
+<Athens> <olympics.olympic_host_city.olympics_hosted> "1906 Intercalated Games" .
+<Athens> <symbols.namesake.named_after> "Athens" .
+<Temple_of_Olympian_Zeus,_Athens> <architecture.building.building_function> "Ancient Greek temple" .
+<Eleftherotypia> <book.newspaper.circulation_areas> "Athens" .
+<Athens> <location.location.events> "2013 Athens International Short Film Festival Psarokokalo" .
+<Polygono,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Tertipi_East_Tower> <common.topic.notable_types> "Building" .
+<National_and_Kapodistrian_University_of_Athens> <location.location.containedby> "Greece" .
+<Athens> <location.location.contains> "Mesogeion Twin Tower 2" .
+<Greece> <periodicals.newspaper_circulation_area.newspapers> "To Vima" .
+<Gazi,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<2004_Summer_Olympics> <olympics.olympic_games.participating_countries> "Greece" .
+<Rizoupoli> <location.neighborhood.neighborhood_of> "Athens" .
+<Ellinoroson> <location.neighborhood.neighborhood_of> "Athens" .
+<Mets,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <location.location.contains> "Politeia, Athens" .
+<Ancient_Greek_temple> <common.topic.image> "Athens Parthenon" .
+<Athens> <location.location.nearby_airports> "Athens International Airport" .
+<Athens> <location.location.contains> "Keramikos" .
+<Swimming_at_the_2004_Summer_Paralympics_–_Women's_50_metre_backstroke_S3> <time.event.locations> "Athens" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Athens> <location.location.events> "1997 World Championships in Athletics" .
+<Temple_of_Artemis> <location.location.geolocation> "m.02_vf0w" .
+<Classical_architecture> <architecture.architectural_style.examples> "Temple of Olympian Zeus, Athens" .
+<2009_Athens_AnimFest_International_Animation_Festival> <time.event.locations> "Athens" .
+<Apollo_Tower> <location.location.containedby> "Greece" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b6n8_bs7" .
+<Georgios_Kamaras_Stadium> <location.location.containedby> "Athens" .
+<Athens> <location.location.events> "2005 Athens International Film Festival" .
+<Athens> <location.location.events> "2012 Athens International Film Festival" .
+<Bafi_Refuge> <location.location.containedby> "Athens" .
+<Athens> <travel.travel_destination.tourist_attractions> "Kolonaki" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Acropolis" .
+<Temple_of_Artemis> <travel.tourist_attraction.near_travel_destination> "Ephesus" .
+<Athens> <common.topic.image> "Athens+Acropolis+From+Lucabetus" .
+<Temple_of_Artemis> <architecture.structure.architect> "Chersiphron" .
+<Athens> <travel.travel_destination.tourist_attractions> "Parliament House, Athens" .
+<Athens> <location.location.events> "2013 Panorama of European Cinema" .
+<Siege_of_the_Acropolis> <time.event.locations> "Athens" .
+<Athens_School_of_Fine_Arts> <education.educational_institution_campus.educational_institution> "Athens School of Fine Arts" .
+<Athens> <location.location.geolocation> "m.0239k58" .
+<Ionian_Islands> <location.location.containedby> "Greece" .
+<m.0gx69x3> <common.webpage.topic> "Athens" .
+<Temple_of_Artemis> <common.topic.image> "Site of the Temple of Artemis in Ephesus." .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Ano Petralona" .
+<Athens> <location.location.contains> "Teachers Tower" .
+<Panathinaikos_V.C.> <sports.sports_team.location> "Athens" .
+<Pangrati> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <fictional_universe.fictional_setting.fictional_characters_born_here> "Cassandra Alexandra" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Pedion tou Areos" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b76ggtd7" .
+<Classical_architecture> <architecture.architectural_style.examples> "Temple of Aphaea" .
+<Patisia> <location.location.contains> "Kato Patissia" .
+<Mesogeion_Twin_Tower_1> <common.topic.notable_types> "Building" .
+<Greece> <base.aareas.schema.administrative_area.pertinent_type> "Greek municipality" .
+<Ancient_Greek_temple> <base.descriptive_names.names.descriptive_name> "m.01069374" .
+<Athens> <location.location.contains> "g.1vvw_st5" .
+<Exarcheia> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens_Graduate_School_of_Management> <education.educational_institution_campus.educational_institution> "Athens Graduate School of Management" .
+<2004_Summer_Olympics> <olympics.olympic_games.bidding_cities> "m.08lq3jb" .
+<2013_Athens_AnimFest_International_Animation_Festival> <time.event.locations> "Athens" .
+<Temple_of_Isthmia> <location.location.geolocation> "m.0wmxvtv" .
+<Tertipi_West_Tower> <location.location.containedby> "Athens" .
+<Athens_Acropolis> <common.image.appears_in_topic_gallery> "Athens" .
+<City_of_Poros> <time.event.locations> "Athens" .
+<Athens> <location.location.containedby> "Central Athens" .
+<Hygeia_Hospital> <location.location.containedby> "Greece" .
+<Athens> <location.location.events> "2002 Athens International Film Festival" .
+<Temple_of_Apollo_Patroos> <common.topic.article> "m.047bxgd" .
+<Athens> <location.location.contains> "Syntagma Metro Station Archaeological Collection" .
+<m.05hh4yd> <location.adjoining_relationship.adjoins> "Erechtheion" .
+<Greek_municipality> <base.aareas.schema.administrative_area_type.sovereignty> "Greece" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Colonus" .
+<Kuşadası> <common.topic.notable_types> "City/Town/Village" .
+<Athens_from_Alexander_to_Antony> <book.written_work.subjects> "Athens" .
+<Propylaea> <architecture.structure.architectural_style> "Classical architecture" .
+<Attica> <location.location.contains> "ALBA Graduate Business School" .
+<2010_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Panathenaic_Stadium> <location.location.containedby> "Athens" .
+<2010_Silent_Film_Festival> <time.event.locations> "Athens" .
+<Athens> <location.location.events> "Table tennis at the 2004 Summer Paralympics – Women's team – Class 4–5" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Votanikos" .
+<Temple_of_Artemis> <base.schemastaging.context_name.pronunciation> "g.125_n48zq" .
+<National_Garden,_Athens> <location.location.containedby> "Athens" .
+<Kuşadası> <travel.travel_destination.tour_operators> "Ephesus Breeze" .
+<Classical_architecture> <architecture.architectural_style.examples> "Temple of Zeus, Olympia" .
+<2003_VideoDance_Festival> <time.event.locations> "Athens" .
+<Greece> <olympics.olympic_participating_country.olympics_participated_in> "1896 Summer Olympics" .
+<Lamar_Dodd_School_of_Art> <education.educational_institution.campuses> "Lamar Dodd School of Art" .
+<Turkey> <location.location.time_zones> "Eastern European Time Zone" .
+<Panathinaikos_B.C.> <sports.sports_team.location> "Greece" .
+<Temple_of_Artemis> <common.topic.notable_for> "g.125ctnl54" .
+<Athens> <protected_sites.listed_site.designation_as_natural_or_cultural_site> "m.02h93kp" .
+<Cycling_at_the_1896_Summer_Olympics_-_Men's_individual_road_race> <time.event.locations> "Athens" .
+<The_Parthenon_standing_on_top_of_the_Acropolis_of_Athens> <common.image.appears_in_topic_gallery> "Athens" .
+<2011_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Temple_of_Apollo_Patroos> <architecture.building.building_function> "Ancient Greek temple" .
+<Athens> <location.location.contains> "Agricultural University of Athens" .
+<Building_function> <type.type.expected_by> "Building Function" .
+<Erechtheion> <architecture.structure.architect> "Mnesikles" .
+<Monastiraki> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<School_of_Pedagogical_and_Technological_Education> <education.educational_institution.campuses> "School of Pedagogical and Technological Education" .
+<Hellenic_Conservatory> <location.location.containedby> "Athens" .
+<Adventures_by_Disney_-_Greece_Vacation> <location.location.nearby_airports> "Athens International Airport" .
+<2011_Athens_Ethnographic_Film_Festival> <time.event.locations> "Athens" .
+<Parthenon> <location.location.containedby> "Acropolis of Athens" .
+<Shahhat> <common.topic.notable_types> "City/Town/Village" .
+<School_of_Pedagogical_and_Technological_Education> <education.educational_institution_campus.educational_institution> "School of Pedagogical and Technological Education" .
+<Athens> <location.location.events> "2003 VideoDance Festival" .
+<Athens> <location.location.events> "1997 Athens International Film Festival" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b41pv3l" .
+<Athens> <location.location.events> "2013 Athens AnimFest International Animation Festival" .
+<Central_Athens> <location.location.containedby> "Attica" .
+<Athens> <location.location.containedby> "Attica Prefecture" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Temple of Isthmia" .
+<Athens> <symbols.namesake.named_after> "Athens" .
+<Asteroskopeio> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.1211jpqz" .
+<Building_function> <common.topic.article> "m.06zxh_v" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Kato Petralona" .
+<Athens> <location.location.contains> "Epigraphical Museum" .
+<2006_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Erechtheion> <location.location.containedby> "Greece" .
+<Ephesus> <common.topic.notable_types> "City/Town/Village" .
+<Athens> <location.location.events> "2014 Athens AnimFest International Animation Festival" .
+<Sepolia> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <common.topic.image> "Athens" .
+<Athens> <government.governmental_jurisdiction.governing_officials> "m.04d0bvn" .
+<2012_Panorama_of_European_Cinema> <time.event.locations> "Athens" .
+<Temple_of_Zeus,_Olympia> <architecture.structure.architectural_style> "Doric order" .
+<Athens> <periodicals.newspaper_circulation_area.newspapers> "Eleftherotypia" .
+<Athens> <location.location.events> "2010 Athens Ethnographic Film Festival" .
+<m.09wygdn> <common.webpage.topic> "Athens" .
+<Eleftherotypia> <book.newspaper.circulation_areas> "Greece" .
+<Athens> <location.location.contains> "Ancient Agora of Athens" .
+<Athens> <location.location.contains> "Hellenikon Metropolitan Park" .
+<Adventures_by_Disney_-_Greece_Vacation> <location.location.time_zones> "Eastern European Time Zone" .
+<Athens> <location.statistical_region.population> "m.011v586v" .
+<Ionian_Islands> <location.location.time_zones> "Eastern European Time Zone" .
+<Ellinoroson> <location.location.containedby> "Greece" .
+<Agia_Lavra_Tower> <location.location.containedby> "Greece" .
+<Athens> <location.location.contains> "Athens Conservatoire" .
+<Psyri> <location.location.containedby> "Greece" .
+<Old_Acropolis_Museum> <location.location.containedby> "Acropolis of Athens" .
+<1990_IAAF_Grand_Prix_Final> <time.event.locations> "Athens" .
+<Architecture> <type.domain.types> "Building" .
+<Attiki,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <location.location.contains> "Athens Expo Center" .
+<Athens> <location.location.contains> "Athens Concert Hall" .
+<Temple_of_Apollo_Epikauros_at_Bassae> <common.topic.article> "m.0dx_hf" .
+<m.08c3fts> <base.engineering.structural_composition.structure> "Temple of Isthmia" .
+<2011_SFF-rated_ATHENS> <time.event.locations> "Athens" .
+<Athens_Metro_Mall> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<1896_Summer_Olympics> <time.event.locations> "Athens" .
+<Temple_of_Artemis> <common.topic.subject_of> "Ephesus Breeze" .
+<Athens> <location.location.events> "2014 Athens International Short Film Festival Psarokokalo" .
+<Aglaulus,_daughter_of_Cecrops> <common.topic.article> "m.047llwq" .
+<Altar_of_the_Twelve_Gods> <location.location.containedby> "Athens" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Temple of Apollo Epikauros at Bassae" .
+<Athens> <location.location.events> "US Embassy, Athens" .
+<Athens> <location.location.events> "1999 Athens International Film Festival" .
+<Ephesus_Breeze> <common.topic.subjects> "Ephesus" .
+<Athens> <location.location.contains> "National Technical University of Athens" .
+<Athens> <periodicals.newspaper_circulation_area.newspapers> "Protathlitis" .
+<Treis_Gefyres> <location.neighborhood.neighborhood_of> "Athens" .
+<Greece> <location.country.second_level_divisions> "Central Athens" .
+<Plaka> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Athens> <location.location.contains> "Hilton Athens" .
+<Athens> <travel.travel_destination.tour_operators> "Adventures by Disney - Greece Vacation" .
+<Cycling_at_the_1896_Summer_Olympics_-_Men's_individual_road_race> <olympics.olympic_event_competition.olympic_games_contested> "1896 Summer Olympics" .
+<Parthenon> <architecture.structure.architectural_style> "Classical architecture" .
+<Athens_Tower_2> <location.location.containedby> "Athens" .
+<Old_Temple_of_Athena> <architecture.building.building_function> "Ancient Greek temple" .
+<Old_Temple_of_Athena> <location.location.containedby> "Athens" .
+<Athens> <location.location.events> "2012 Athens Ethnographic Film Festival" .
+<Temple_of_Aphaea> <common.topic.notable_types> "Building" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.1226926d" .
+<University_of_Georgia_College_of_Veterinary_Medicine> <location.location.containedby> "Greece" .
+<Temple_of_Apollo_Patroos> <location.location.containedby> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b75j2t08" .
+<Athens> <location.location.contains> "Monastiraki" .
+<National_and_Kapodistrian_University_of_Athens> <education.educational_institution.campuses> "National and Kapodistrian University of Athens" .
+<Zappeion> <common.topic.notable_types> "Building" .
+<Lamar_Dodd_School_of_Art> <location.location.containedby> "Athens" .
+<Temple_of_Hephaestus> <architecture.structure.architectural_style> "Classical architecture" .
+<Temple_of_Apollo_at_Bassae> <architecture.building.building_function> "Ancient Greek temple" .
+<2006_SFF-rated_ATHENS> <time.event.locations> "Athens" .
+<German_School_of_Athens> <education.educational_institution.campuses> "German School of Athens" .
+<Old_Temple_of_Athena> <common.topic.notable_for> "g.1255d292j" .
+<Athens> <common.topic.notable_types> "City/Town/Village" .
+<Athens> <location.location.contains> "French School at Athens" .
+<Presidential__Palace,_Athens> <location.location.containedby> "Athens" .
+<Attica> <location.administrative_division.capital> "m.0q3br8j" .
+<Panathenaic_Stadium> <olympics.olympic_venue.olympic_games_used_in> "1896 Summer Olympics" .
+<2006_Ecocinema_Festival> <time.event.locations> "Athens" .
+<Athens> <location.location.time_zones> "Eastern European Time Zone" .
+<Temple_of_Aphaea> <location.location.containedby> "Aegina" .
+<The_Mall_Athens> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Petralona" .
+<Adventures_by_Disney_-_Greece_Vacation> <common.topic.subject_of> "Adventures by Disney" .
+<1999_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Mets, Athens" .
+<Athens> <location.location.contains> "National Archaeological Museum, Athens" .
+<Athens> <travel.travel_destination.tourist_attractions> "The Mall Athens" .
+<Erechtheion> <base.engineering.structure.building_elements> "m.08c3qwb" .
+<Propylaea> <architecture.structure.architectural_style> "Doric order" .
+<Parthenon> <location.location.containedby> "Greece" .
+<Temple_of_Zeus,_Olympia> <common.topic.notable_for> "g.125529h7s" .
+<2014_EcoFocus_Film_Festival> <time.event.locations> "Athens" .
+<Temple_of_Artemis> <travel.tourist_attraction.near_travel_destination> "Kuşadası" .
+<Athens> <location.location.events> "2014 SFF-rated ATHENS" .
+<Athens> <location.location.events> "2008 Athens International Film Festival" .
+<Athens> <location.location.contains> "School of Pedagogical and Technological Education" .
+<Technological_Educational_Institute_of_Athens> <location.location.containedby> "Athens" .
+<Teachers_Tower> <location.location.containedby> "Greece" .
+<Koukaki> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <location.location.contains> "Presidential  Palace, Athens" .
+<Maroussi_B.C.> <sports.sports_team.location> "Greece" .
+<m.0b6ry75> <common.webpage.topic> "Athens" .
+<Athens> <location.location.contains> "Old Acropolis Museum" .
+<Georgios_Kamaras_Stadium> <location.location.containedby> "Rizoupoli" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Profitis Ilias" .
+<The_Propylaia_to_the_Athenian_Akropolis> <book.written_work.subjects> "Athens" .
+<Athens> <location.location.events> "2014 Athens International Film Festival" .
+<Acropolis_of_Athens> <location.location.time_zones> "Eastern European Time Zone" .
+<Dafni,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<2010_SFF-rated_ATHENS> <time.event.locations> "Athens" .
+<Athens> <location.location.contains> "Syntagma Square" .
+<m.05hh57s> <location.adjoining_relationship.adjoins> "Old Acropolis Museum" .
+<2008_Athens_International_Gay_&_Lesbian_Film_Festival> <time.event.locations> "Athens" .
+<Adventures_by_Disney> <travel.tour_operator.travel_destinations> "Athens" .
+<Athens> <location.location.events> "2010 Silent Film Festival" .
+<Temple_of_Olympian_Zeus,_Athens> <common.topic.image> "Athens Temple of Olympian Zeus.JPG" .
+<Athens> <periodicals.newspaper_circulation_area.newspapers> "Kathimerini" .
+<Temple_of_Aphaea> <common.topic.image> "Temple of Aphaia from the southeast." .
+<Temple_of_Olympian_Zeus,_Athens> <architecture.structure.architectural_style> "Classical architecture" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Ellinoroson" .
+<Athens> <common.topic.webpage> "m.09yc9v2" .
+<Athens> <symbols.name_source.namesakes> "Athens" .
+<Temple_of_Apollo_at_Bassae> <common.topic.article> "m.062hjv" .
+<My_Life_in_Ruins> <film.film.featured_film_locations> "Acropolis of Athens" .
+<Propylaea> <location.location.adjoin_s> "m.05hh4yd" .
+<Athens> <location.location.contains> "Bafi Refuge" .
+<American_College_of_Greece> <location.location.containedby> "Athens" .
+<Kypseli,_Athens> <location.location.containedby> "Greece" .
+<Dhifros_Apartment_Complex> <location.location.containedby> "Greece" .
+<Hellinikon_Olympic_Complex> <location.location.containedby> "Athens" .
+<Building_function> <type.type.domain> "Architecture" .
+<University_of_Georgia_School_of_Public_and_International_Affairs> <education.educational_institution.campuses> "University of Georgia School of Public and International Affairs" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Polygono, Athens" .
+<Attica> <location.location.time_zones> "Eastern European Time Zone" .
+<Panathinaikos_F.C.> <sports.sports_team.location> "Athens" .
+<Athens> <location.location.contains> "Temple of Apollo Patroos" .
+<Temple_of_Olympian_Zeus,_Athens> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Acropolis_Museum> <location.location.containedby> "Greece" .
+<Athens> <location.location.contains> "National and Kapodistrian University of Athens" .
+<Acropolis_of_Athens> <location.location.containedby> "Greece" .
+<The_Mall_Athens> <location.location.containedby> "Athens" .
+<Athens> <location.location.events> "Siege of Athens" .
+<Classical_architecture> <common.topic.image> "Erechtheum" .
+<Athens> <location.location.events> "2011 Athens Ethnographic Film Festival" .
+<Ministry_of_Public_Order> <common.topic.notable_types> "Building" .
+<Ellinikon_International_Airport> <location.location.containedby> "Greece" .
+<Deree_College> <education.educational_institution_campus.educational_institution> "Deree College" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Kolokynthou" .
+<Ancient_Greek_temple> <common.topic.notable_types> "Building function" .
+<Technological_Educational_Institute_of_Athens> <location.location.containedby> "Greece" .
+<m.08c3hb8> <base.engineering.structural_composition.structure> "Temple of Zeus, Olympia" .
+<Athens> <common.topic.image> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b75gpps5" .
+<Athens> <olympics.olympic_host_city.olympics_hosted> "1896 Summer Olympics" .
+<Dhifros_Apartment_Complex> <common.topic.notable_types> "Building" .
+<Parnitha> <location.location.containedby> "Greece" .
+<Athens> <common.topic.webpage> "m.03l0b7y" .
+<Athens> <common.topic.image> "The Parthenon standing on top of the Acropolis of Athens" .
+<Destruction_of_the_Parthenon> <time.event.locations> "Athens" .
+<Athens> <symbols.name_source.namesakes> "Athenian League" .
+<Syntagma_Square> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Athens_Parthenon-remains> <common.image.appears_in_topic_gallery> "Parthenon" .
+<m.09yknd4> <common.webpage.topic> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b6b9bx8p" .
+<Athens> <location.location.contains> "Athens Metro Mall" .
+<m.0rzcbfk> <military.military_combatant_group.conflict> "Siege of Athens" .
+<Temple_of_Apollo_Epikauros_at_Bassae> <architecture.building.building_function> "Ancient Greek temple" .
+<Hellenic_Conservatory> <education.educational_institution.campuses> "Hellenic Conservatory" .
+<Erechtheion> <common.topic.image> "Erechtheum" .
+<Neos_Kosmos,_Athens> <location.location.containedby> "Greece" .
+<Ephesus_Breeze> <travel.tour_operator.travel_destinations> "Ephesus" .
+<National_and_Kapodistrian_University_of_Athens> <location.location.containedby> "Athens" .
+<Athens_Towers> <location.location.containedby> "Athens" .
+<Metaxourgeio> <location.neighborhood.neighborhood_of> "Athens" .
+<School_of_Pedagogical_and_Technological_Education> <location.location.containedby> "Greece" .
+<Athens> <location.location.contains> "Hellinikon Olympic Complex" .
+<2006_UEC_European_Track_Championships> <time.event.locations> "Athens" .
+<Erechtheion> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Odeon_of_Herodes_Atticus> <common.topic.notable_types> "Tourist attraction" .
+<m.09wybmb> <common.webpage.topic> "Athens" .
+<m.05hh4yk> <location.adjoining_relationship.adjoins> "Erechtheion" .
+<2004_VideoDance_Festival> <time.event.locations> "Athens" .
+<2005_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<m.0106933z> <base.schemastaging.plural_form.language> "Russian" .
+<Greece> <location.location.time_zones> "Eastern European Time Zone" .
+<Athens> <travel.travel_destination.tourist_attractions> "Temple of Hephaestus" .
+<Athens> <location.hud_county_place.place> "Athens" .
+<Athens> <travel.travel_destination.tourist_attractions> "Zappeion" .
+<University_of_Georgia_School_of_Public_and_International_Affairs> <location.location.containedby> "Athens" .
+<2008_SFF-rated_ATHENS> <time.event.locations> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Kolonaki" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Akadimia Platonos" .
+<Athens> <travel.travel_destination.tourist_attractions> "Plaka" .
+<Estia> <book.newspaper.circulation_areas> "Greece" .
+<m.05hh4yd> <location.adjoining_relationship.adjoins> "Propylaea" .
+<Building_function> <type.type.expected_by> "Outpost function" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Temple of Artemis" .
+<Temple_of_Apollo_Patroos> <common.topic.notable_types> "Building" .
+<2012_SFF-rated_ATHENS> <time.event.locations> "Athens" .
+<Parthenon> <location.location.adjoin_s> "m.05hh4yk" .
+<Athens_International_Airport> <location.location.containedby> "Greece" .
+<2012_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.120j8hqn" .
+<Teachers_Tower> <location.location.containedby> "Athens" .
+<Temple_of_Artemis,_Corfu> <common.topic.notable_for> "g.125ffp92b" .
+<Acropolis_of_Athens> <location.location.contains> "Parthenon" .
+<Athens_Acropolis> <common.image.appears_in_topic_gallery> "Ancient Greek temple" .
+<Cycling_at_the_2004_Summer_Olympics_-_Men's_individual_road_race> <time.event.locations> "Athens" .
+<Temple_of_Olympian_Zeus,_Athens> <location.location.geolocation> "m.02_sndb" .
+<Tourist_attraction> <freebase.type_profile.strict_included_types> "Topic" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11r_pmbc9" .
+<Athens> <location.location.events> "2006 Ecocinema Festival" .
+<Temple_of_Zeus,_Olympia> <architecture.structure.architectural_style> "Classical architecture" .
+<Athens> <base.uncommon.topic.exceptions> "Athens should be contained in some Greek prefecture within Attica." .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Ano Patissia" .
+<Athens> <location.location.contains> "Harokopio University" .
+<Temple_of_Aphrodite_Urania> <common.topic.article> "m.047f7ff" .
+<Athens> <location.location.contains> "Omonoia Square" .
+<Agia_Lavra_Tower> <common.topic.notable_types> "Building" .
+<Neos_Kosmos,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Temple of Apollo Patroos" .
+<Athens> <location.location.contains> "Propylaea" .
+<Athens> <location.location.events> "1896 Summer Olympics" .
+<Athens> <location.location.contains> "National Garden, Athens" .
+<Parliament_House,_Athens> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Temple_of_Apollo_Epikauros_at_Bassae> <architecture.structure.architectural_style> "Classical architecture" .
+<Temple_of_Aphrodite_Urania> <location.location.containedby> "Athens" .
+<Syntagma_Square> <common.topic.notable_types> "Tourist attraction" .
+<Athens> <location.location.events> "2005 Panorama of European Cinema" .
+<Olympia> <location.location.time_zones> "Eastern European Time Zone" .
+<1998_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Athens> <location.location.events> "2007 Athens International Gay & Lesbian Film Festival" .
+<Siege_of_Athens_and_Piraeus> <time.event.locations> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Kypseli, Athens" .
+<Athens> <location.location.containedby> "Greece" .
+<Athens> <location.location.nearby_airports> "Ellinikon International Airport" .
+<Athens> <location.location.events> "2007 Athens International Film Festival" .
+<Athens> <travel.travel_destination.local_transportation> "Athens Metro" .
+<Athens_General_Police_Department> <common.topic.notable_types> "Building" .
+<Assyrmatos,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<National_Archaeological_Museum,_Athens> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Ephesus> <location.location.contains> "Temple of Artemis" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Hellenic_American_University> <location.location.containedby> "Greece" .
+<Classical_architecture> <architecture.architectural_style.examples> "Temple of Apollo Patroos" .
+<Athens> <location.location.contains> "Parnitha" .
+<Harokopio_University> <location.location.containedby> "Greece" .
+<Mesogeion_Twin_Tower_2> <location.location.containedby> "Greece" .
+<Panteion_University> <location.location.containedby> "Athens" .
+<Orithyia> <fictional_universe.fictional_character.place_of_birth> "Athens" .
+<Athens> <location.location.contains> "Altar of the Twelve Gods" .
+<Athens> <location.location.contains> "Arch of Hadrian" .
+<Athens> <location.location.events> "1990 IAAF Grand Prix Final" .
+<Petralona> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <location.location.events> "2003 Panorama of European Cinema" .
+<Athens> <location.location.events> "Assassination of Sokratis Giolias" .
+<Pericles_of_Athens_and_the_birth_of_democracy> <book.written_work.subjects> "Ancient Greece" .
+<1995_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Athens_General_Police_Department> <location.location.containedby> "Greece" .
+<Adventures_by_Disney_-_Greece_Vacation> <travel.tour_operator.travel_destinations> "Athens" .
+<Athens> <location.administrative_division.third_level_division_of> "Greece" .
+<ALBA_Graduate_Business_School> <education.educational_institution_campus.educational_institution> "ALBA Graduate Business School" .
+<Acropolis_of_Athens> <film.film_location.featured_in_films> "My Life in Ruins" .
+<Apollo_Tower> <common.topic.notable_types> "Building" .
+<Athens> <location.location.events> "2004 VideoDance Festival" .
+<Dhifros_Apartment_Complex> <location.location.containedby> "Athens" .
+<Athens> <fictional_universe.fictional_setting.fictional_characters_born_here> "Aglaulus, daughter of Cecrops" .
+<Erechtheion> <location.location.adjoin_s> "m.05hh57s" .
+<Athens> <travel.travel_destination.local_transportation> "Athens Mass Transit System" .
+<Temple_of_Artemis> <common.topic.article> "m.0j4w9" .
+<Athens> <location.location.contains> "Efterpi Tower" .
+<Siege_of_Athens> <time.event.locations> "Athens" .
+<Athens> <location.location.events> "1996 Athens International Film Festival" .
+<Monastiraki> <location.location.containedby> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Rouf, Athens" .
+<Greek_National_Conservatoire> <location.location.containedby> "Athens" .
+<Mesogeion_Twin_Tower_1> <location.location.containedby> "Greece" .
+<Second_Temple_of_Hera> <common.topic.notable_types> "Building" .
+<Ephesus> <travel.travel_destination.tourist_attractions> "Temple of Artemis" .
+<French_School_at_Athens> <education.educational_institution.campuses> "French School at Athens" .
+<Athens_Tower_2> <common.topic.notable_types> "Building" .
+<Greek_National_Conservatoire> <education.educational_institution_campus.educational_institution> "Greek National Conservatoire" .
+<Athens> <location.location.events> "2013 Athens International Gay & Lesbian Film Festival" .
+<Athens> <location.location.events> "2014 EcoFocus Film Festival" .
+<Athens_University_of_Economics_and_Business> <location.location.containedby> "Athens" .
+<Athens> <common.topic.notable_types> "City/Town/Village" .
+<Panteion_University> <education.educational_institution.campuses> "Panteion University" .
+<m.08c3jjd> <base.engineering.structural_composition.structure> "Temple of Apollo at Bassae" .
+<Propylaea> <location.location.containedby> "Athens" .
+<Temple_of_Aphaea> <architecture.building.building_function> "Ancient Greek temple" .
+<m.09wyg8s> <common.webpage.topic> "Athens" .
+<Building> <freebase.type_profile.strict_included_types> "Topic" .
+<2013_Panorama_of_European_Cinema> <time.event.locations> "Athens" .
+<Athens> <location.location.containedby> "Attica" .
+<Athens> <travel.travel_destination.tourist_attractions> "Hellinikon Olympic Complex" .
+<French_School_at_Athens> <education.educational_institution_campus.educational_institution> "French School at Athens" .
+<Temple_of_Olympian_Zeus,_Athens> <common.topic.image> "The Temple of Olympian Zeus, Athens: the most substantial surviving part of the temple" .
+<Athens_Graduate_School_of_Management> <education.educational_institution.campuses> "Athens Graduate School of Management" .
+<Ephesus> <location.location.containedby> "Turkey" .
+<Athens> <olympics.olympic_bidding_city.olympics_bid_on> "m.08lq3jb" .
+<Athens> <common.topic.notable_for> "g.12550nn46" .
+<Gouva,_Athens> <location.location.containedby> "Greece" .
+<Temple_of_Aphaea> <common.topic.notable_for> "g.1259fp6qr" .
+<Rizoupoli> <location.location.contains> "Georgios Kamaras Stadium" .
+<Spartia_temple> <common.topic.article> "m.03c0jp7" .
+<Acropolis_of_Athens> <location.location.contains> "Propylaea" .
+<Akadimia_Platonos> <location.location.containedby> "Greece" .
+<National_and_Kapodistrian_University_of_Athens> <education.educational_institution_campus.educational_institution> "National and Kapodistrian University of Athens" .
+<2012_Athens_International_Short_Film_Festival_Psarokokalo> <time.event.locations> "Athens" .
+<Athens> <location.location.events> "Siege of the Acropolis" .
+<Athens> <location.location.events> "2007 SFF-rated ATHENS" .
+<Athens_Parthenon-remains> <common.image.size> "m.0kn0rl" .
+<Ancient_Greece> <location.location.contains> "Temple of Zeus, Olympia" .
+<Mesogeion_Twin_Tower_2> <common.topic.notable_types> "Building" .
+<Corfu> <common.topic.notable_types> "City/Town/Village" .
+<Ancient_Agora_of_Athens> <location.location.containedby> "Athens" .
+<Plaka> <travel.travel_destination.tour_operators> "Adventures by Disney - Greece Vacation" .
+<Aglaulus,_daughter_of_Cecrops> <fictional_universe.fictional_character.place_of_birth> "Athens" .
+<Gouva,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<Attica> <location.location.containedby> "Greece" .
+<Lamar_Dodd_School_of_Art> <location.location.containedby> "Greece" .
+<2014_Athens_AnimFest_International_Animation_Festival> <time.event.locations> "Athens" .
+<Athens> <location.location.contains> "Panathenaic Stadium" .
+<Athens> <location.location.contains> "Zappeion" .
+<Gizi> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Ilisia, Athens" .
+<Athens:_A_History_-_From_Ancient_Ideal_To_Modern_City> <book.written_work.subjects> "Athens" .
+<Old_Acropolis_Museum> <location.location.adjoin_s> "m.05hh57s" .
+<Old_Temple_of_Athena> <common.topic.article> "m.02q23hx" .
+<OAED_Vocational_College_shooting> <time.event.locations> "Athens" .
+<Atrina_Center_Tower> <location.location.containedby> "Greece" .
+<Temple_of_Artemis> <base.worldwonders.ancient_wonder.date_of_destruction> "m.04lqywc" .
+<Cycling_at_the_2004_Summer_Olympics_-_Men's_individual_road_race> <olympics.olympic_event_competition.olympic_games_contested> "2004 Summer Olympics" .
+<American_College_of_Greece> <location.location.containedby> "Greece" .
+<University_of_Georgia_College_of_Veterinary_Medicine> <education.educational_institution_campus.educational_institution> "University of Georgia College of Veterinary Medicine" .
+<Athens> <location.capital_of_administrative_division.capital_of> "m.0q3br8j" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Monastiraki" .
+<Athens> <location.location.contains> "Lamar Dodd School of Art" .
+<Omonoia_Square> <common.topic.notable_types> "Tourist attraction" .
+<Zappeion> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Greek_municipality> <base.aareas.schema.administrative_area_type.iso_country> "Greece" .
+<Athens> <fictional_universe.fictional_setting.fictional_characters_born_here> "Sophitia" .
+<Ministry_of_Public_Order> <location.location.containedby> "Athens" .
+<Temple_of_Olympian_Zeus,_Athens> <common.topic.image> "Athens Zeus Temple" .
+<Keramikos> <location.location.containedby> "Athens" .
+<1896_Summer_Olympics> <olympics.olympic_games.venues> "Panathenaic Stadium" .
+<2015_Athens_AnimFest_International_Animation_Festival> <time.event.locations> "Athens" .
+<Attica> <location.location.contains> "Athens" .
+<Athens> <location.location.events> "2003 Athens International Film Festival" .
+<Athens> <location.location.events> "Volleyball at the 2000 Summer Paralympics" .
+<Athens> <location.hud_county_place.place> "Athens" .
+<Athens> <location.location.events> "2012 SFF-rated ATHENS" .
+<ALBA_Graduate_Business_School> <location.location.containedby> "Athens" .
+<Athens> <sports.sports_team_location.teams> "Panellinios B.C." .
+<m.03l0b7y> <common.webpage.topic> "Athens" .
+<Pedion_tou_Areos> <location.location.containedby> "Greece" .
+<Parthenon> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<Athens> <location.location.contains> "Dhifros Apartment Complex" .
+<Athens> <common.topic.webpage> "m.09wybmb" .
+<Athens> <location.location.contains> "OTE Tower" .
+<Erechtheion> <location.location.adjoin_s> "m.05hh4yk" .
+<Athens> <location.location.contains> "Hellenic Conservatory" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Gouva, Athens" .
+<Athens_International_Airport> <aviation.airport.serves> "Adventures by Disney - Greece Vacation" .
+<Spartia_temple> <architecture.building.building_function> "Ancient Greek temple" .
+<Old_Temple_of_Athena> <common.topic.image> "Friso" .
+<Athens_School_of_Fine_Arts> <location.location.containedby> "Athens" .
+<Athens> <fictional_universe.fictional_setting.fictional_characters_born_here> "Urania" .
+<Building_function> <type.type.expected_by> "Building function" .
+<Building_function> <freebase.type_profile.published> "Published" .
+<Old_Temple_of_Athena> <location.location.geolocation> "m.0wmt0lt" .
+<Athens> <location.location.events> "1995 Athens International Film Festival" .
+<Olympia> <location.administrative_division.third_level_division_of> "Greece" .
+<Temple_of_Zeus,_Olympia> <location.location.containedby> "Ancient Greece" .
+<Sailing_at_the_2004_Summer_Olympics_-_Women's_Europe> <time.event.locations> "Athens" .
+<Erechtheion> <common.topic.notable_types> "Building" .
+<Temple_of_Zeus,_Olympia> <location.location.geolocation> "m.02_t4hj" .
+<Kolokynthou> <location.neighborhood.neighborhood_of> "Athens" .
+<Second_Temple_of_Hera> <architecture.building.building_function> "Ancient Greek temple" .
+<Temple_of_Hephaestus> <architecture.structure.architectural_style> "Doric order" .
+<Athens_General_Police_Department> <location.location.containedby> "Athens" .
+<Athens> <location.location.contains> "Hygeia Hospital" .
+<Greece> <sports.sports_team_location.teams> "Panellinios B.C." .
+<Anafiotika> <location.neighborhood.neighborhood_of> "Athens" .
+<Temple_of_Artemis,_Corfu> <travel.tourist_attraction.near_travel_destination> "Corfu" .
+<Ancient_Agora_of_Athens> <common.topic.notable_types> "Tourist attraction" .
+<Athens> <location.statistical_region.population> "g.1jmcbjmlq" .
+<Second_Temple_of_Hera> <common.topic.image> "PaestumItalien" .
+<2002_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Temple_of_Apollo_Patroos> <architecture.structure.architectural_style> "Classical architecture" .
+<OTE_Tower> <common.topic.notable_types> "Building" .
+<Acropolis_Museum> <location.location.containedby> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.1pv109d_" .
+<Ampelokipoi,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<2013_SFF-rated_ATHENS> <time.event.locations> "Athens" .
+<2013_Athens_International_Short_Film_Festival_Psarokokalo> <time.event.locations> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Koukaki" .
+<1896_Summer_Olympics> <olympics.olympic_games.participating_countries> "Greece" .
+<2012_Festival_du_Film_Francophone_de_Grèce> <time.event.locations> "Athens" .
+<Athens> <location.location.contains> "Technological Educational Institute of Athens" .
+<Temple_of_Artemis,_Corfu> <location.location.containedby> "Ionian Islands" .
+<Athens> <location.location.contains> "OTE Head Offices" .
+<2011_Festival_du_Film_Francophone_de_Grèce> <time.event.locations> "Athens" .
+<National_Technical_University_of_Athens> <education.educational_institution.campuses> "National Technical University of Athens" .
+<Athens> <location.location.events> "2011 Athens International Gay & Lesbian Film Festival" .
+<Athens> <location.location.contains> "First Cemetery of Athens" .
+<Athenian_League> <symbols.namesake.named_after> "Athens" .
+<Athens> <location.location.events> "2009 Athens AnimFest International Animation Festival" .
+<Athens> <fictional_universe.fictional_setting.fictional_characters_born_here> "Orithyia" .
+<2013_Athens_International_Gay_&_Lesbian_Film_Festival> <time.event.locations> "Athens" .
+<2014_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Temple of Zeus, Olympia" .
+<Athens> <location.location.contains> "Parthenon" .
+<Athens> <travel.travel_destination.tourist_attractions> "Ancient Agora of Athens" .
+<Athens> <location.location.contains> "Tertipi East Tower" .
+<Central_Athens> <location.location.contains> "Athens" .
+<Hellenikon_Metropolitan_Park> <location.location.containedby> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Sepolia" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.12bffz_jr" .
+<Demos,_the_discovery_of_classical_Attika> <book.written_work.subjects> "Greece" .
+<Politeia,_Athens> <location.location.containedby> "Athens" .
+<Athens_Conservatoire> <location.location.containedby> "Athens" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Temple of Aphrodite Urania" .
+<Building> <type.type.domain> "Architecture" .
+<Athens> <location.location.events> "2006 SFF-rated ATHENS" .
+<Athens> <travel.travel_destination.tourist_attractions> "Athens Metro Mall" .
+<Athens> <travel.travel_destination.tourist_attractions> "Acropolis of Athens" .
+<Athens> <location.location.events> "Cycling at the 1896 Summer Olympics - Men's individual road race" .
+<Athens> <common.topic.webpage> "m.09wlcx2" .
+<Hellenic_American_University> <education.educational_institution.campuses> "Hellenic American University" .
+<Erechtheion> <location.location.adjoin_s> "m.05hh4yd" .
+<Ancient_Greece> <book.book_subject.works> "Demos, the discovery of classical Attika" .
+<2007_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Bassae> <location.location.contains> "Temple of Apollo Epikauros at Bassae" .
+<Eleftheros_Typos> <book.newspaper.circulation_areas> "Athens" .
+<Temple_of_Aphaea> <architecture.structure.architectural_style> "Classical architecture" .
+<Keramikos> <location.neighborhood.neighborhood_of> "Athens" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Second Temple of Hera" .
+<Demos,_the_discovery_of_classical_Attika> <book.written_work.subjects> "Athens" .
+<2000_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Erechtheion> <architecture.structure.architectural_style> "Ionic order" .
+<Athens> <location.location.events> "2004 Summer Olympics" .
+<Corfu> <travel.travel_destination.tourist_attractions> "Temple of Artemis, Corfu" .
+<Ilisia,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<Kerameikos> <location.location.containedby> "Athens" .
+<Temple_of_Zeus,_Olympia> <base.engineering.structure.building_elements> "m.08c3hb8" .
+<Athens> <location.location.contains> "g.1yxkhmgtn" .
+<Ephesus_Breeze> <common.topic.subjects> "Temple of Artemis" .
+<Athens> <location.location.contains> "Kerameikos" .
+<Temple_of_Zeus,_Olympia> <common.topic.article> "m.02p788r" .
+<Maroussi_B.C.> <sports.sports_team.location> "Athens" .
+<Athens> <location.location.events> "1995 Men's European Volleyball Championship" .
+<US_Embassy,_Athens> <common.topic.notable_types> "Building" .
+<Panellinios_B.C.> <sports.sports_team.location> "Greece" .
+<Jasper_van_der_Laanen_-_Die_TÃ¶chter_des_Kekrops_befreien_Erechteus> <common.image.appears_in_topic_gallery> "Aglaulus, daughter of Cecrops" .
+<Profitis_Ilias> <location.neighborhood.neighborhood_of> "Athens" .
+<2004_Summer_Olympics> <time.event.locations> "Athens" .
+<Old_Temple_of_Athena> <common.topic.notable_types> "Building" .
+<2013_Festival_du_Film_Francophone_de_Grèce> <time.event.locations> "Athens" .
+<Athens> <travel.travel_destination.how_to_get_here> "m.04jt14v" .
+<Atrina_Center_Tower> <location.location.containedby> "Athens" .
+<Erechtheion> <location.location.geolocation> "m.02_sydx" .
+<Athens> <location.statistical_region.population> "g.11btt4p6f0" .
+<Erechtheion> <location.location.containedby> "Acropolis of Athens" .
+<Temple_of_Apollo_Epikauros_at_Bassae> <location.location.containedby> "Bassae" .
+<Athens> <location.location.contains> "Deree College" .
+<Harokopio_University> <location.location.containedby> "Athens" .
+<Athens> <travel.travel_destination.tourist_attractions> "Omonoia Square" .
+<Colonus> <location.neighborhood.neighborhood_of> "Athens" .
+<2011_Athens_International_Short_Film_Festival_Psarokokalo> <time.event.locations> "Athens" .
+<President_Hotel_Athens> <location.location.containedby> "Athens" .
+<Propylaea> <architecture.structure.architect> "Mnesikles" .
+<Athens_University_of_Economics_and_Business> <education.educational_institution.campuses> "Athens University of Economics and Business" .
+<Rouf,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<Syntagma_Square> <location.location.contains> "Parliament House, Athens" .
+<Athens_Metro_Mall> <location.location.containedby> "Greece" .
+<Temple_of_Apollo_at_Bassae> <architecture.structure.architectural_style> "Classical architecture" .
+<Athens> <location.location.events> "1969 Federation Cup" .
+<Second_Temple_of_Hera> <common.topic.notable_for> "g.1256np6f8" .
+<Patisia> <location.neighborhood.neighborhood_of> "Athens" .
+<Erechtheion> <location.location.containedby> "Athens" .
+<Demos,_the_discovery_of_classical_Attika> <book.written_work.subjects> "Ancient Greece" .
+<Athens> <location.location.contains> "Parliament House, Athens" .
+<Athens_International_Airport> <aviation.airport.serves> "Athens" .
+<m.04d0byy> <government.government_position_held.district_represented> "Athens" .
+<Lamar_Dodd_School_of_Art> <education.educational_institution_campus.educational_institution> "Lamar Dodd School of Art" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Metaxourgeio" .
+<Athens_Parthenon-remains> <common.image.appears_in_topic_gallery> "Ancient Greek temple" .
+<ALBA_Graduate_Business_School> <location.location.containedby> "Attica" .
+<2002_VideoDance_Festival> <time.event.locations> "Athens" .
+<Athens> <base.ontologies.ontology_instance.equivalent_instances> "m.098ly_c" .
+<The_Athenian_School> <symbols.namesake.named_after> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b76kqksj" .
+<Profitis_Daniil,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<Temple_of_Artemis> <architecture.structure.destroyed_by> "Arson" .
+<Athens_Parthenon> <common.image.appears_in_topic_gallery> "Ancient Greek temple" .
+<Athens> <location.location.events> "2011 SFF-rated ATHENS" .
+<Kypseli,_Athens> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <location.location.events> "2012 Athens International Gay & Lesbian Film Festival" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.121g73jt" .
+<m.09wlcx2> <common.webpage.topic> "Athens" .
+<Destruction_of_the_Parthenon> <time.event.included_in_event> "Siege of Athens" .
+<Aegina> <location.location.containedby> "Greece" .
+<Temple_of_Artemis> <location.location.containedby> "Ephesus" .
+<Temple_of_Isthmia> <architecture.building.building_function> "Ancient Greek temple" .
+<University_of_Georgia_College_of_Veterinary_Medicine> <education.educational_institution.campuses> "University of Georgia College of Veterinary Medicine" .
+<Athens> <location.location.events> "Siege of the Acropolis" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Kato Patissia" .
+<Athens_Graduate_School_of_Management> <location.location.containedby> "Greece" .
+<Propylaea> <location.location.containedby> "Acropolis of Athens" .
+<m.05hh4yk> <location.adjoining_relationship.adjoins> "Parthenon" .
+<Athens> <sports.sports_team_location.teams> "Panathinaikos F.C." .
+<2014_SFF-rated_ATHENS> <time.event.locations> "Athens" .
+<Acropolis_of_Athens> <location.location.containedby> "Athens" .
+<Parthenon> <architecture.structure.architectural_style> "Doric order" .
+<Athens> <travel.travel_destination.tourist_attractions> "Syntagma Square" .
+<Athens_University_of_Economics_and_Business> <education.educational_institution_campus.educational_institution> "Athens University of Economics and Business" .
+<Building_function> <freebase.type_profile.kind> "Classification" .
+<Athens> <sports.sports_team_location.teams> "AEK B.C." .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b6dyxm1m" .
+<Building_function> <freebase.type_hints.included_types> "Topic" .
+<Athens> <common.topic.notable_types> "City/Town/Village" .
+<2015_SFF-rated_ATHENS> <time.event.locations> "Athens" .
+<Temple_of_Apollo_at_Bassae> <common.topic.notable_types> "Building" .
+<AEK_B.C.> <sports.sports_team.location> "Athens" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Old Temple of Athena" .
+<Athens> <symbols.name_source.namesakes> "Athens" .
+<Athens> <location.location.contains> "Athens Tower 2" .
+<Temple_of_Artemis> <architecture.structure.architect> "Metagenes" .
+<Hellenic_Conservatory> <education.educational_institution_campus.educational_institution> "Hellenic Conservatory" .
+<Athens> <location.location.events> "Sailing at the 2004 Summer Olympics - Women's Europe" .
+<Temple_of_Aphrodite_Urania> <architecture.building.building_function> "Ancient Greek temple" .
+<Athens> <location.location.events> "2014 Festival du Film Francophone de Grèce" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Gizi" .
+<German_School_of_Athens> <location.location.containedby> "Greece" .
+<Ellinikon_International_Airport> <aviation.airport.serves> "Athens" .
+<Athens> <location.location.events> "Cycling at the 2004 Summer Olympics - Men's individual road race" .
+<Athens_Towers> <location.location.containedby> "Greece" .
+<Athens> <olympics.olympic_host_city.olympics_hosted> "2004 Summer Olympics" .
+<Classical_architecture> <architecture.architectural_style.examples> "Temple of Apollo Epikauros at Bassae" .
+<Aglaulus,_daughter_of_Cecrops> <common.topic.image> "Jasper van der Laanen - Die TÃ¶chter des Kekrops befreien Erechteus" .
+<Athens> <fictional_universe.fictional_setting.characters_that_have_lived_here> "Xenophon" .
+<Athens> <location.location.events> "Sailing at the 2004 Summer Olympics" .
+<US_Embassy,_Athens> <base.culturalevent.event.entity_involved> "US Embassy, Athens" .
+<Athens> <book.book_subject.works> "Athens: A History - From Ancient Ideal To Modern City" .
+<Spartia_temple> <common.topic.notable_for> "g.125gnq6bz" .
+<National_Technical_University_of_Athens> <location.location.containedby> "Greece" .
+<Greece> <periodicals.newspaper_circulation_area.newspapers> "Estia" .
+<Turkey> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Athens> <common.topic.webpage> "m.0b6ry75" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Dafni, Athens" .
+<Ancient_Greece> <book.book_subject.works> "The Propylaia to the Athenian Akropolis" .
+<Athens> <location.location.contains> "Georgios Kamaras Stadium" .
+<Sailing_at_the_2004_Summer_Olympics> <time.event.locations> "Athens" .
+<Athens> <location.location.contains> "Athens General Police Department" .
+<Acropolis_of_Athens> <location.location.contains> "Erechtheion" .
+<OTE_Tower> <location.location.containedby> "Greece" .
+<Athens> <periodicals.newspaper_circulation_area.newspapers> "Ta Nea tis Megalopoleos" .
+<Athens> <location.location.events> "2006 UEC European Track Championships" .
+<Greece> <sports.sports_team_location.teams> "AEK B.C." .
+<National_Technical_University_of_Athens> <education.educational_institution_campus.educational_institution> "National Technical University of Athens" .
+<American_College_of_Greece> <education.educational_institution_campus.educational_institution> "American College of Greece" .
+<Athens> <government.political_district.representatives> "m.04d0byy" .
+<Panathenaic_Stadium> <travel.travel_destination.tour_operators> "Adventures by Disney - Greece Vacation" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b75l9w3r" .
+<Hellenic_American_University> <location.location.containedby> "Athens" .
+<Odeon_of_Herodes_Atticus> <architecture.structure.architectural_style> "Classical architecture" .
+<Athens> <location.location.events> "2008 SFF-rated ATHENS" .
+<Temple_of_Apollo_at_Bassae> <common.topic.notable_for> "g.12560vh_y" .
+<Temple_of_Aphaea> <location.location.geolocation> "m.0cqr4qf" .
+<Athens> <location.location.contains> "Chalandri Cemetery" .
+<Ancient_Greek_temple> <common.topic.image> "Athens Parthenon-remains" .
+<Temple_of_Isthmia> <common.topic.notable_for> "g.1259m4hx7" .
+<Athens> <symbols.name_source.namesakes> "The Athenian School" .
+<m.02h93kp> <protected_sites.natural_or_cultural_site_listing.listed_site> "Athens" .
+<Olympia> <location.location.containedby> "Greece" .
+<Kuşadası> <travel.travel_destination.tourist_attractions> "Temple of Artemis" .
+<m.04d0bvn> <government.government_position_held.jurisdiction_of_office> "Athens" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Temple of Artemis, Corfu" .
+<Athens> <location.location.contains> "Church of the Pantanassa, Athens" .
+<1996_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Arch_of_Hadrian> <location.location.containedby> "Athens" .
+<Second_Temple_of_Hera> <common.topic.article> "m.04gr39v" .
+<Temple_of_Apollo_Patroos> <common.topic.notable_for> "g.1258gz3lv" .
+<University_of_Georgia_College_of_Veterinary_Medicine> <location.location.containedby> "Athens" .
+<Greek_municipality> <base.aareas.schema.administrative_area_type.pertains_to> "Greece" .
+<Athens_Expo_Center> <location.location.containedby> "Athens" .
+<Hilton_Athens> <location.location.containedby> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Neapoli, Athens" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Erechtheion" .
+<To_Vima> <book.newspaper.circulation_areas> "Athens" .
+<Aegina> <location.location.time_zones> "Eastern European Time Zone" .
+<Athens> <location.location.events> "2004 Athens International Film Festival" .
+<Athens> <location.location.contains> "Benaki Museum" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.1xy31y2v" .
+<Athens> <common.topic.notable_types> "City/Town/Village" .
+<Ionian_Islands> <base.aareas.schema.administrative_area.administrative_parent> "Greece" .
+<Kuşadası> <location.location.time_zones> "Eastern European Time Zone" .
+<Akadimia_Platonos> <location.neighborhood.neighborhood_of> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Goudi" .
+<Athens> <symbols.namesake.named_after> "Athens" .
+<Corfu> <location.location.containedby> "Ionian Islands" .
+<Building_function> <freebase.type_profile.strict_included_types> "Topic" .
+<Athens> <travel.travel_destination.tourist_attractions> "Monastiraki" .
+<Athens> <location.location.events> "2011 Athens International Short Film Festival Psarokokalo" .
+<Athens> <book.book_subject.works> "Pericles of Athens and the birth of democracy" .
+<Mesogeion_Twin_Tower_1> <location.location.containedby> "Athens" .
+<2014_Athens_International_Short_Film_Festival_Psarokokalo> <time.event.locations> "Athens" .
+<Goudi> <location.neighborhood.neighborhood_of> "Athens" .
+<Harokopio_University> <education.educational_institution_campus.educational_institution> "Harokopio University" .
+<University_of_Georgia_School_of_Public_and_International_Affairs> <education.educational_institution_campus.educational_institution> "University of Georgia School of Public and International Affairs" .
+<Athens> <location.location.events> "1998 Athens International Film Festival" .
+<Temple_of_Apollo_Patroos> <location.location.geolocation> "m.0cnkvk9" .
+<Arson> <architecture.destruction_method.structures_destroyed> "Temple of Artemis" .
+<2013_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Classical_architecture> <architecture.architectural_style.examples> "Hilton Athens" .
+<Kuşadası> <location.location.containedby> "Turkey" .
+<Athens> <location.location.contains> "Temple of Hephaestus" .
+<Thiseio> <location.location.containedby> "Greece" .
+<Athens> <location.statistical_region.population> "m.04jt0dh" .
+<2003_Panorama_of_European_Cinema> <time.event.locations> "Athens" .
+<Bassae> <location.location.contains> "Temple of Apollo at Bassae" .
+<Athens_Metro> <metropolitan_transit.transit_system.area_served> "Athens" .
+<Epigraphical_Museum> <location.location.containedby> "Athens" .
+<Jasper_van_der_Laanen_-_Die_TÃ¶chter_des_Kekrops_befreien_Erechteus> <common.image.size> "m.02b64z_" .
+<2014_Athens_International_Gay_&_Lesbian_Film_Festival> <time.event.locations> "Athens" .
+<Central_Athens> <location.administrative_division.second_level_division_of> "Greece" .
+<Athens> <location.location.events> "2009 Athens International Film Festival" .
+<Classical_architecture> <architecture.architectural_style.examples> "Parthenon" .
+<Second_Temple_of_Hera> <location.location.geolocation> "m.0_1tptm" .
+<Deree_College> <location.location.containedby> "Greece" .
+<Adventures_by_Disney_-_Greece_Vacation> <travel.tour_operator.travel_destinations> "Panathenaic Stadium" .
+<Athens_Parthenon> <common.image.size> "m.0292d0w" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Temple of Olympian Zeus, Athens" .
+<m.08lq3jb> <olympics.olympic_city_bid.bidding_city> "Athens" .
+<Temple_of_Artemis> <common.topic.notable_types> "Tourist attraction" .
+<Temple_of_Aphaea> <common.topic.image> "Temple of Aphaia from the northeast." .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Thiseio" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b76c7mbs" .
+<Athens_University_of_Economics_and_Business> <location.location.containedby> "Greece" .
+<Nea_Filothei> <location.neighborhood.neighborhood_of> "Athens" .
+<Ancient_Greek_temple> <base.descriptive_names.names.descriptive_name> "m.0106933z" .
+<Temple_of_Isthmia> <common.topic.notable_types> "Building" .
+<Pericles_of_Athens_and_the_birth_of_democracy> <book.written_work.subjects> "Athens" .
+<Temple_of_Zeus,_Olympia> <travel.tourist_attraction.near_travel_destination> "Olympia" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Neos Kosmos, Athens" .
+<Temple_of_Artemis> <architecture.building.building_function> "Ancient Greek temple" .
+<Athens> <location.location.events> "1999 World Weightlifting Championships" .
+<Architecture> <type.domain.types> "Building function" .
+<Acropolis_of_Athens> <travel.tourist_attraction.near_travel_destination> "Athens" .
+<1906_Intercalated_Games> <olympics.olympic_games.host_city> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "g.11b76f5fz6" .
+<Church_of_the_Pantanassa,_Athens> <location.location.containedby> "Athens" .
+<Athens> <location.location.contains> "g.122z2_p2" .
+<Ancient_Greek_temple> <architecture.building_function.buildings> "Temple of Apollo at Bassae" .
+<Athens> <location.location.contains> "German School of Athens" .
+<m.09yc9v2> <common.webpage.topic> "Athens" .
+<Athens> <location.place_with_neighborhoods.neighborhoods> "Rizoupoli" .
+<Classical_architecture> <architecture.architectural_style.examples> "Erechtheion" .
+<Athens> <common.topic.webpage> "m.09yknd4" .
+<2008_Athens_International_Film_Festival> <time.event.locations> "Athens" .
+<Presidential__Palace,_Athens> <common.topic.notable_types> "Building" .
+<German_School_of_Athens> <education.educational_institution_campus.educational_institution> "German School of Athens" .
+<Athens> <location.location.events> "2008 Athens International Gay & Lesbian Film Festival" .
+<Athens_Expo_Center> <common.topic.notable_types> "Building" .
+<Adventures_by_Disney> <common.topic.subjects> "Adventures by Disney - Greece Vacation" .
+<2010_Athens_International_Gay_&_Lesbian_Film_Festival> <time.event.locations> "Athens" .
+<m.0q3br8j> <location.administrative_division_capital_relationship.administrative_division> "Attica" .
+<ALBA_Graduate_Business_School> <location.location.containedby> "Greece" .
+<Athens_Prefecture> <location.location.contains> "Athens" .
+<Panathenaic_Stadium> <olympics.olympic_venue.olympic_games_used_in> "1906 Intercalated Games" .

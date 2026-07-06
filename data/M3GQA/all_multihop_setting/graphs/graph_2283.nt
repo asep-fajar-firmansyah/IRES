@@ -1,0 +1,1432 @@
+<The_Blind_Watchmaker> <book.written_work.subjects> "Atheism" .
+<Politician> <type.type.expected_by> "Ceann Comhairle" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<m.09yw165> <common.webpage.topic> "Politician" .
+<Miloš_Zeman> <common.topic.article> "m.031scn" .
+<Erkki_Hartikainen> <people.person.religion> "Atheism" .
+<Politician> <rdf-schema#range> "Politician" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678lx" .
+<Statesman> <people.profession.specialization_of> "Politician" .
+<Anacharsis_Cloots> <people.person.religion> "Atheism" .
+<m.0q1z0w8> <freebase.valuenotation.has_value> "Location of ceremony" .
+<Forth_from_his_dark_and_lonely_hiding-place,_(Portentous_sight!)_the_owlet_Atheism,_sailing_on_obscene_wings_athwart_the_noon,_drops_his_blue-fringed_lids,_and_holds_them_close,_and_hooting_at_the_glorious_sun_in_Heaven,_cries_out,_Where_is_it?> <media_common.quotation.subjects> "Atheism" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "No one can be an unbeliever nowadays. The Christian Apologists have left one nothing to disbelieve." .
+<Party_of_Civic_Rights> <government.political_party.politicians_in_this_party> "m.0g4sl42" .
+<Plzeň_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<Politician> <people.profession.part_of_professional_field> "Politics" .
+<Vladimir_Lenin> <people.person.profession> "Politician" .
+<Bohemia_Docta_or_The_Labyrinth_of_the_World_and_the_Lust-house_of_the_Heart_(A_Divine_Comedy)> <film.film.language> "Czech Language" .
+<Jimi_Agbaje> <people.person.profession> "Politician" .
+<Obstructive_sleep_apnea> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Mayor" .
+<Czech_Republic> <government.governmental_jurisdiction.governing_officials> "m.0q1yxl_" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660xd" .
+<Gout> <medicine.icd_9_cm_classification.parent_classification> "Gout" .
+<President_of_the_Czech_Republic> <government.government_office_or_title.category> "President" .
+<Ankylosing_spondylitis> <medicine.disease_cause.diseases> "Kyphosis" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Kidney_Stone> <medicine.disease.causes> "Gout" .
+<Hirschsprung's_disease> <medicine.disease.risk_factors> "Male" .
+<Friedrich_Engels> <people.person.religion> "Atheism" .
+<m.0w1wf1t> <government.government_position_held.appointed_by> "Miloš Zeman" .
+<An_atheist_is_a_person_who_has_no_invisible_means_of_support> <media_common.quotation.subjects> "Atheism" .
+<Male> <medicine.risk_factor.diseases> "Burn" .
+<Czechs> <common.topic.notable_types> "Ethnicity" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zn30" .
+<The_divine_is_perhaps_that_quality_in_man_which_permits_him_to_endure_the_lack_of_God.> <media_common.quotation.subjects> "Atheism" .
+<Atheism> <book.book_subject.works> "Letter to a Christian Nation" .
+<Arnulf_Øverland> <people.person.gender> "Male" .
+<Tariq_Ali> <people.person.gender> "Male" .
+<Theo_van_Gogh> <base.activism.activist.area_of_activism> "Atheism" .
+<Joseph_Stalin> <base.activism.activist.area_of_activism> "Atheism" .
+<Tribal_Rights_Leader> <people.profession.specialization_of> "Politician" .
+<Czech_Republic> <location.country.administrative_divisions> "Prague" .
+<Miloš_Zeman> <people.person.place_of_birth> "Kolín" .
+<Male> <medicine.risk_factor.diseases> "Benign prostatic hyperplasia" .
+<m.0cm4q89> <film.personal_film_appearance.person> "Miloš Zeman" .
+<Tomás_Garrido_Canabal> <base.activism.activist.area_of_activism> "Atheism" .
+<Sergio_Fernández> <people.person.ethnicity> "Atheism" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066119" .
+<Jacques_Hébert> <common.topic.notable_types> "Deceased Person" .
+<Sergio_Fernández> <people.person.religion> "Atheism" .
+<Politician> <type.type.expected_by> "Candidate" .
+<Inguinal_hernia> <medicine.disease.risk_factors> "Male" .
+<m.0gyj7s7> <base.popstra.religion_choice.religion> "Atheism" .
+<Burn> <medicine.disease.risk_factors> "Male" .
+<Atheism> <base.activism.activism_issue.activists> "Joseph Stalin" .
+<Tomáš_Garrigue_Masaryk_Order> <award.award_category.winners> "m.0w0fj5n" .
+<Percy_Bysshe_Shelley> <influence.influence_node.influenced> "Bertrand Russell" .
+<Public_Health_Leader> <common.topic.notable_types> "Profession" .
+<Atheism> <book.book_subject.works> "Dawkins' God" .
+<Politician> <people.profession.specializations> "Public Health Leader" .
+<Officeholder> <owl#inverseOf> "Government Positions Held" .
+<Risk_Factor> <freebase.type_profile.strict_included_types> "Topic" .
+<Hollow_Be_Thy_Name> <book.written_work.subjects> "Atheism" .
+<Stroke> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<heart_attack> <medicine.symptom.symptom_of> "Myocardial Ischemia" .
+<Paul_Heinrich_Dietrich_Baron_d'Holbach_Roslin> <common.image.appears_in_topic_gallery> "Paul Henri Thiry Holbach" .
+<Politician> <people.profession.specializations> "Civil Rights Leader" .
+<m.0pclzbg> <government.political_party_tenure.party> "Communist Party of Czechoslovakia" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "We shall say without hesitation that the atheist who is moved by love is moved by the Spirit of God; an atheist who lives by love is saved by his faith in the God whose existence (under that name) he denies." .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "Forth from his dark and lonely hiding-place, (Portentous sight!) the owlet Atheism, sailing on obscene wings athwart the noon, drops his blue-fringed lids, and holds them close, and hooting at the glorious sun in Heaven, cries out, Where is it?" .
+<Joseph_Stalin> <people.person.gender> "Male" .
+<m.09w_20n> <common.webpage.topic> "Politician" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011cm0ng" .
+<Czech_region> <base.aareas.schema.administrative_area_type.pertains_to> "Czech Republic" .
+<Stuttering> <medicine.disease.risk_factors> "Male" .
+<New_Hyperion_or_Liberty,_Equality,_Brotherhood> <film.film.country> "Czech Republic" .
+<Paul_Henri_Thiry_Holbach> <people.person.gender> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066lws" .
+<Male> <medicine.risk_factor.diseases> "Attention deficit hyperactivity disorder" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<Czech_Republic> <location.country.administrative_divisions> "Olomouc Region" .
+<An_atheist_is_a_man_who_looks_through_a_telescope_and_tries_to_explain_all_that_he_can't_see.> <media_common.quotation.subjects> "Atheism" .
+<Ayn_Rand> <book.author.works_written> "Capitalism: The Unknown Ideal" .
+<Officeholder> <rdf-schema#range> "Politician" .
+<Shadow_Figure> <fictional_universe.fictional_character.place_of_birth> "Male" .
+<Politician> <people.profession.specializations> "Politician & Trade Unionist" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.includes_classifications> "Parkinson's disease" .
+<Theo_van_Gogh> <people.person.gender> "Male" .
+<Order_of_the_White_Lion> <award.award_category.winners> "m.0w0fhqq" .
+<Male> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjmy" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066154" .
+<Czech_Republic> <base.locations.countries.continent> "Europe" .
+<Male> <medicine.risk_factor.diseases> "Urethritis" .
+<We_shall_say_without_hesitation_that_the_atheist_who_is_moved_by_love_is_moved_by_the_Spirit_of_God;_an_atheist_who_lives_by_love_is_saved_by_his_faith_in_the_God_whose_existence_(under_that_name)_he_denies.> <media_common.quotation.subjects> "Atheism" .
+<Akinwunmi_Ambode> <media_common.quotation.author> "Akinwunmi Ambode" .
+<PZ_Myers> <base.activism.activist.area_of_activism> "Atheism" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661zf" .
+<Politician> <people.profession.specializations> "Mayor of Auckland" .
+<Miloš_Zeman> <award.award_winner.awards_won> "m.0w0fj5n" .
+<Political_party> <type.type.domain> "Government" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0zm9_69" .
+<Male> <medicine.risk_factor.diseases> "Non-Hodgkin lymphoma" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Male> <freebase.domain_category.domains> "neilplus's types" .
+<South_Bohemian_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<Male> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Atheism> <book.book_subject.works> "Atheism: The Case Against God" .
+<Politician> <common.topic.notable_for> "g.1258k4n_t" .
+<Male> <base.gender.gender_identity.people> "m.07n73w_" .
+<m.0w0f9s0> <education.education.institution> "University of Economics, Prague" .
+<An_atheist_is_a_man_who_watches_a_Notre_Dame_--_Southern_Methodist_University_game_and_doesn't_care_who_wins.> <media_common.quotation.subjects> "Atheism" .
+<Politician> <freebase.type_profile.strict_included_types> "Agent" .
+<Theo_van_Gogh> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Politician> <people.profession.specializations> "Energy Policy Specialist" .
+<Phone_Trick> <biology.organism.sex> "Male" .
+<Male> <medicine.risk_factor.diseases> "Non-gonococcal urethritis" .
+<Petr_Čáslava> <people.person.place_of_birth> "Kolín" .
+<Ivana_Bednarčíková> <people.person.spouse_s> "m.0q1z5z4" .
+<Male> <base.gender.gender_identity.people> "m.02_98hd" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661zx" .
+<Male> <medicine.risk_factor.diseases> "heart attack" .
+<Female> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Kolín> <location.location.people_born_here> "Jennifer Dark" .
+<Czech_Republic> <location.country.second_level_divisions> "Kolín District" .
+<Czech_Republic> <location.country.first_level_divisions> "Pardubice Region" .
+<George_Carlin> <people.person.religion> "Atheism" .
+<Hair_loss> <medicine.symptom.symptom_of> "Syphilis" .
+<m.0q1yxl_> <government.government_position_held.office_position_or_title> "President of the Czech Republic" .
+<Michal_Novotný> <people.person.nationality> "Czech Republic" .
+<Ivana_Bednarčíková> <people.person.gender> "Female" .
+<Male> <medicine.risk_factor.diseases> "Barrett's esophagus" .
+<Ayn_Rand> <people.person.gender> "Female" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "South Moravian Region" .
+<Atheist_Ireland> <organization.organization.sectors> "Atheism" .
+<Mayor_of_Montazels> <common.topic.notable_types> "Profession" .
+<Bertrand_Russell> <influence.influence_node.influenced_by> "Percy Bysshe Shelley" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvklm" .
+<Vysočina_Region> <location.administrative_division.country> "Czech Republic" .
+<Kateřina_Šafránková> <people.person.gender> "Female" .
+<Kyphosis> <medicine.disease.causes> "Ankylosing spondylitis" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0108dn6c" .
+<m.0d521lm> <biology.hybrid_parentage.parent_sex> "Male" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "There is no God, Nature sufficeth unto herself; in no wise hath she need of an author." .
+<Czech_Republic> <location.country.first_level_divisions> "Moravian-Silesian Region" .
+<Plzeň_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<Advocacy> <people.profession.specialization_of> "Politician" .
+<The_Portable_Atheist> <book.written_work.subjects> "Atheism" .
+<Kidney_Stone> <medicine.disease_cause.diseases> "Urolithiasis" .
+<Letter_to_a_Christian_Nation> <book.written_work.previous_in_series> "The End of Faith" .
+<Kolín> <location.location.contains> "g.11dyl353_" .
+<Alaskan_Health_Care_Leader> <common.topic.notable_types> "Profession" .
+<Party_organizer> <people.profession.specialization_of> "Politician" .
+<Nephrotic_syndrome> <medicine.disease.risk_factors> "Male" .
+<m.09xt6w_> <common.webpage.topic> "Politician" .
+<Politician> <common.topic.webpage> "m.09x1dpm" .
+<m.010x4qcd> <government.political_party_tenure.party> "Civic Forum" .
+<Politician> <people.profession.corresponding_type> "Politician" .
+<Kolín> <location.location.people_born_here> "Kateřina Šafránková" .
+<Tyrant> <people.profession.specialization_of> "Politician" .
+<Nobody_talks_so_constantly_about_God_as_those_who_insist_that_there_is_no_God.> <media_common.quotation.subjects> "Atheism" .
+<Housing_and_Community_Development_Leader> <people.profession.specialization_of> "Politician" .
+<Politician> <common.topic.webpage> "m.0b45tny" .
+<Vysočina_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Political_party> <freebase.type_hints.included_types> "Topic" .
+<Kolín> <location.location.people_born_here> "Josef Popper-Lynkeus" .
+<Male> <medicine.risk_factor.diseases> "Hirschsprung's disease" .
+<Deceased_Person> <freebase.type_hints.included_types> "Topic" .
+<Male> <medicine.risk_factor.diseases> "Gout" .
+<Sanal_Edamaruku> <people.person.gender> "Male" .
+<Milan_Paumer> <people.deceased_person.place_of_death> "Prague" .
+<Petr_Kašpar> <people.person.place_of_birth> "Kolín" .
+<Atheism> <base.activism.activism_issue.activists> "Leon Trotsky" .
+<heart_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Ankylosing_spondylitis> <medicine.disease.risk_factors> "Male" .
+<Existence_of_God> <base.argumentmaps.intellectual_dispute.positions> "Atheism" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrvl" .
+<Male> <medicine.risk_factor.diseases> "Bladder cancer" .
+<Miloš_Zeman> <government.politician.government_positions_held> "m.0gl_m2h" .
+<Atheism> <book.book_subject.works> "Capitalism: The Unknown Ideal" .
+<Person> <freebase.type_hints.included_types> "Topic" .
+<John_Douglas,_9th_Marquess_of_Queensberry> <base.activism.activist.area_of_activism> "Atheism" .
+<Akinwunmi_Ambode> <common.topic.subject_of> "Politician" .
+<Miloš_Zeman> <people.person.ethnicity> "Czechs" .
+<Politician> <common.topic.webpage> "m.09w1p59" .
+<Environmentalist> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Autism" .
+<Kolín> <location.location.people_born_here> "Linda Dedkova" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Diplomat" .
+<Central_Bohemian_Region> <location.location.containedby> "Czech Republic" .
+<Male> <base.gender.gender_identity.people> "m.02_1x1x" .
+<Liver_tumour> <medicine.disease.risk_factors> "Male" .
+<Salman_Rushdie> <base.activism.activist.area_of_activism> "Atheism" .
+<Male> <medicine.risk_factor.diseases> "Syphilis" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678kt" .
+<Czech_Republic> <government.governmental_jurisdiction.government_positions> "President of the Czech Republic" .
+<m.07ngkqq> <base.ontologies.ontology_instance_mapping.freebase_topic> "Politician" .
+<Why_I_Am_Not_a_Muslim> <book.written_work.subjects> "Atheism" .
+<Male> <medicine.risk_factor.diseases> "Ankylosing spondylitis" .
+<South_Moravian_Region> <location.location.containedby> "Czech Republic" .
+<Prime_Minister_of_the_Czech_Republic> <government.government_office_or_title.office_holders> "m.0w1wf1t" .
+<Atheism> <base.argumentmaps.position_in_debate.debate> "Existence of God" .
+<Male> <medicine.risk_factor.diseases> "Hodgkin's lymphoma" .
+<m.0cm4r8c> <film.personal_film_appearance.person> "Miloš Zeman" .
+<Existence_of_God> <base.argumentmaps.intellectual_dispute.arguments> "Ultimate Boeing 747 gambit" .
+<John_Douglas,_9th_Marquess_of_Queensberry> <base.popstra.celebrity.religion> "m.0gyj7s7" .
+<m.0kfyrvl> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Central_Bohemian_Region> <location.location.events> "Battle of Kolín" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjyj" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5pml" .
+<University_of_Economics,_Prague> <education.educational_institution_campus.educational_institution> "University of Economics, Prague" .
+<Hypospadias> <medicine.disease.risk_factors> "Male" .
+<m.07ndk7_> <base.ontologies.ontology_instance_mapping.freebase_topic> "Atheism" .
+<Liberec_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<Stellan_Skarsgård> <base.activism.activist.area_of_activism> "Atheism" .
+<Ultimate_Boeing_747_gambit> <base.argumentmaps.idea.includes> "Atheism" .
+<University_of_Economics,_Prague> <education.educational_institution.students_graduates> "m.0w0f9s0" .
+<Barrett's_esophagus> <medicine.disease.risk_factors> "Male" .
+<Olomouc_Region> <location.location.containedby> "Czech Republic" .
+<Czech_Social_Democratic_Party> <government.political_party.politicians_in_this_party> "m.0lr1h1r" .
+<God_Is_Not_Great:_How_Religion_Poisons_Everything> <book.written_work.subjects> "Atheism" .
+<Male> <base.gender.gender_identity.people> "m.0gxvt_4" .
+<m.0gxvv0q> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0clznzg> <film.personal_film_appearance.film> "Bohemia Docta or The Labyrinth of the World and the Lust-house of the Heart (A Divine Comedy)" .
+<Atheism> <base.activism.activism_issue.activists> "Friedrich Engels" .
+<Czech_Republic> <government.governmental_jurisdiction.agencies> "Ministry of the Interior" .
+<Myocardial_Ischemia> <medicine.disease.risk_factors> "Male" .
+<Politician> <people.profession.specializations> "AIDS Policy Specialist" .
+<Robert_Saudek> <people.person.nationality> "Czech Republic" .
+<South_Bohemian_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Political_strategist> <common.topic.notable_types> "Profession" .
+<Anacharsis_Cloots> <common.topic.notable_types> "Politician" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjqg" .
+<Tomás_Garrido_Canabal> <common.topic.notable_types> "Deceased Person" .
+<AIDS_Policy_Specialist> <common.topic.notable_types> "Profession" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0ds" .
+<Kateřina_Šafránková> <people.person.place_of_birth> "Kolín" .
+<Aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<m.0w0fhqq> <award.award_honor.award> "Order of the White Lion" .
+<Multiple_myeloma> <medicine.disease.risk_factors> "Male" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0h" .
+<Karl_Marx> <freebase.type_hints.included_types> "Person" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Internet Infidels" .
+<m.0lr1h1r> <government.political_party_tenure.politician> "Miloš Zeman" .
+<What_Is_to_Be_Done?_(A_Journey_from_Prague_to_Český_Krumlov,_or_How_I_Formed_a_New_Government)> <film.film.language> "Czech Language" .
+<Moravian-Silesian_Region> <location.administrative_division.country> "Czech Republic" .
+<Person> <freebase.type_profile.strict_included_types> "Agent" .
+<David_Zeman> <people.person.nationality> "Czech Republic" .
+<Kolín> <location.location.people_born_here> "g.121pk39y" .
+<Kolín> <location.location.geolocation> "m.0239xh9" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0fs" .
+<Czech_Republic> <location.country.administrative_divisions> "Karlovy Vary Region" .
+<Myocardial_Ischemia> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Dilsa_Demirbag_Sten> <common.topic.notable_types> "Person" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "Small amounts of philosophy lead to atheism, but larger amounts bring us back to God." .
+<Corneal_abrasion> <medicine.disease.risk_factors> "Male" .
+<There_are_few_people_so_stubborn_in_their_atheism_who_when_danger_is_pressing_in_will_not_acknowledge_the_divine_power.> <media_common.quotation.subjects> "Atheism" .
+<Czech_Republic> <location.country.administrative_divisions> "Zlín Region" .
+<Politician> <common.topic.webpage> "m.09x5gkq" .
+<Party> <rdf-schema#domain> "Politician" .
+<Vladimir_Lenin> <medicine.notable_person_with_medical_condition.condition> "Epilepsy" .
+<Karl_Marx> <people.person.gender> "Male" .
+<Urolithiasis> <medicine.disease.causes> "Kidney Stone" .
+<Male> <base.gender.gender_identity.people> "m.04j64rh" .
+<m.0cm4q89> <film.personal_film_appearance.film> "What Is to Be Done? (A Journey from Prague to Český Krumlov, or How I Formed a New Government)" .
+<Mayor_of_Montazels> <people.profession.specialization_of> "Politician" .
+<Miloš_Zeman> <people.person.spouse_s> "m.0q1z0w8" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "An atheist is a person who has no invisible means of support" .
+<m.0gxvv0h> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Epilepsy> <medicine.disease.notable_people_with_this_condition> "Vladimir Lenin" .
+<Seborrheic_dermatitis> <medicine.disease.symptoms> "Hair loss" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Federation of Indian Rationalist Associations" .
+<m.0dj2gvd> <base.ontologies.ontology_class_mapping.freebase_topic> "Politician" .
+<Czechs> <common.topic.image> "Comenius, Jan Hus, Frantisek Palacky, Jan Evangelista Purkinje, Charles IV, Alfons Mucha, Vratislav II, Bedrich Smetana" .
+<Czech_Republic> <location.country.first_level_divisions> "Central Bohemian Region" .
+<Enver_Hoxha> <people.person.profession> "Politician" .
+<Karl_Marx> <influence.influence_node.influenced_by> "Friedrich Engels" .
+<Male> <medicine.risk_factor.diseases> "Pyloric stenosis" .
+<Politician> <people.profession.specializations> "Bureaucrat" .
+<Czech_Republic> <organization.organization_scope.organizations_with_this_scope> "Party of Civic Rights" .
+<Jacques_Hébert> <people.person.religion> "Atheism" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Stroke" .
+<Czech_Republic> <location.country.administrative_divisions> "Ústí nad Labem Region" .
+<Central_Bohemian_Region> <location.administrative_division.country> "Czech Republic" .
+<Marie_Zemanová> <common.topic.notable_for> "g.12mk_hx4m" .
+<Irreligion._The_principal_one_of_the_great_faiths_of_the_world.> <media_common.quotation.subjects> "Atheism" .
+<Czech_Republic> <location.country.first_level_divisions> "Prague" .
+<Kolín> <common.topic.article> "m.043bqs" .
+<Stroke> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "Moravian-Silesian Region" .
+<Czech_Republic> <location.country.languages_spoken> "Czech Language" .
+<Civic_Movement> <government.political_party.politicians_in_this_party> "m.010x4qbl" .
+<Acute_myeloid_leukemia> <medicine.disease.risk_factors> "Male" .
+<Jan_Novak> <people.person.gender> "Male" .
+<Those_thinkers_who_cannot_believe_in_any_gods_often_assert_that_the_love_of_humanity_would_be_in_itself_sufficient_for_them;_and_so,_perhaps,_it_would,_if_they_had_it.> <media_common.quotation.subjects> "Atheism" .
+<Politician> <people.profession.specializations> "Legislator" .
+<Sanal_Edamaruku> <base.activism.activist.area_of_activism> "Atheism" .
+<Philosophy:_Who_Needs_It> <book.written_work.subjects> "Atheism" .
+<Liberec_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Atheist Alliance International" .
+<Male> <medicine.risk_factor.diseases> "Ectodermal dysplasia" .
+<Kidney_Stone> <medicine.disease.risk_factors> "Male" .
+<Politician> <type.type.properties> "Election campaigns" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "Those thinkers who cannot believe in any gods often assert that the love of humanity would be in itself sufficient for them; and so, perhaps, it would, if they had it." .
+<Now_we_have_no_God._We_have_had_two:_the_old_God_that_our_fathers_handed_down_to_us,_that_we_hated,_and_never_liked;_the_new_one_that_we_made_for_ourselves,_that_we_loved;_but_now_he_has_flitted_away_from_us,_and_we_see_what_he_was_made_of_--_the_shadow_of_our_highest_ideal,_crowned_and_throned._Now_we_have_no_God.> <media_common.quotation.subjects> "Atheism" .
+<Atheism> <book.book_subject.works> "The Portable Atheist" .
+<John_Douglas,_9th_Marquess_of_Queensberry> <people.person.profession> "Politician" .
+<Male> <common.topic.subjects> "ZasPorn" .
+<Male> <medicine.risk_factor.diseases> "Pectus excavatum" .
+<Lukáš_Hartig> <people.person.nationality> "Czech Republic" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "An atheist may be simply one whose faith and love are concentrated on the impersonal aspects of God." .
+<Theo_van_Gogh> <people.person.religion> "Atheism" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "There are few people so stubborn in their atheism who when danger is pressing in will not acknowledge the divine power." .
+<m.0w4hxy1> <people.sibling_relationship.sibling> "David Zeman" .
+<Atheism> <base.activism.activism_issue.activists> "Salman Rushdie" .
+<Male> <medicine.risk_factor.diseases> "Kawasaki disease" .
+<Actinic_keratosis> <medicine.disease.risk_factors> "Male" .
+<SFX_Award_for_Best_Actor> <award.award_category.disciplines_or_subjects> "Male" .
+<David_Zeman> <freebase.valuenotation.has_value> "Place of birth" .
+<Blanka_Zemanová> <common.topic.notable_types> "Person" .
+<Rebel> <people.profession.specialization_of> "Politician" .
+<Epilepsy> <medicine.disease.risk_factors> "Male" .
+<Czech_Republic> <location.country.first_level_divisions> "Zlín Region" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106622v" .
+<Tariq_Ali> <base.activism.activist.area_of_activism> "Atheism" .
+<Central_Bohemian_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Czech_Social_Democratic_Party> <common.topic.notable_types> "Political party" .
+<Atheism> <base.activism.activism_issue.activists> "Jacques Hébert" .
+<Atheism> <base.activism.activism_issue.activists> "Erkki Hartikainen" .
+<Atheism> <base.activism.activism_issue.activists> "Viktor Lennstrand" .
+<Anacharsis_Cloots> <base.activism.activist.area_of_activism> "Atheism" .
+<Epilepsy> <medicine.disease.risk_factors> "Stroke" .
+<Tomás_Garrido_Canabal> <people.person.profession> "Politician" .
+<Jindra_Hermanová> <people.person.place_of_birth> "Kolín" .
+<m.0d5218t> <biology.hybrid_parentage.parent_sex> "Male" .
+<Jiří_Rusnok> <common.topic.notable_types> "Politician" .
+<Friedrich_Engels> <influence.influence_node.influenced> "Vladimir Lenin" .
+<Liberec_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Sergio_Fernández> <people.person.gender> "Male" .
+<Political_party> <freebase.type_profile.strict_included_types> "Agent" .
+<Waiting_for_God> <book.written_work.subjects> "Atheism" .
+<Turan_Dursun> <people.person.religion> "Atheism" .
+<Czech_Republic> <government.governmental_jurisdiction.governing_officials> "m.0gl_m2h" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "When I told the people of Northern Ireland that I was an atheist, a woman in the audience stood up and said,  yes, but is it the God of the Catholics or the God of the Protestants in whom you don't believe?" .
+<Male> <medicine.risk_factor.diseases> "Seborrheic dermatitis" .
+<Politician_&_Trade_Unionist> <common.topic.notable_types> "Profession" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "I had rather believe all the Fables in the Legend, and the Talmud, and the Alcoran, than that this universal frame is without a Mind." .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "An atheist is a man who watches a Notre Dame -- Southern Methodist University game and doesn't care who wins." .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "Atheism is rather in the lip than in the heart of man." .
+<m.0clznzg> <film.personal_film_appearance.person> "Miloš Zeman" .
+<Party_of_Civic_Rights> <common.topic.notable_for> "g.125c_3sjt" .
+<m.0hzxnsy> <biology.hybrid_parentage.parent_sex> "Male" .
+<Atheism> <common.topic.webpage> "m.0b6r_sq" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "The divine is perhaps that quality in man which permits him to endure the lack of God." .
+<m.010x4qcd> <government.political_party_tenure.politician> "Miloš Zeman" .
+<Atheism> <religion.religion.organizations> "International Humanist and Ethical Union" .
+<Czech_Social_Democratic_Party> <organization.organization.geographic_scope> "Czech Republic" .
+<Kolín> <location.location.people_born_here> "g.11mvrvqtk" .
+<Vladimir_Lenin> <people.person.religion> "Atheism" .
+<Atheist_and_Agnostic_Group> <organization.organization.sectors> "Atheism" .
+<Politician> <type.type.properties> "Government Positions Held" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "Central Bohemian Region" .
+<Officeholder> <type.property.reverse_property> "Government Positions Held" .
+<American_Atheists> <religion.religious_organization.associated_with> "Atheism" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm06y" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "American Atheists" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Male" .
+<Leon_Trotsky> <base.activism.activist.area_of_activism> "Atheism" .
+<m.0g4sl42> <government.political_party_tenure.politician> "Miloš Zeman" .
+<He_was_an_embittered_atheist_(the_sort_of_atheist_who_does_not_so_much_disbelieve_in_God_as_personally_dislike_Him).> <media_common.quotation.subjects> "Atheism" .
+<How_to_trap_an_atheist:_Serve_him_a_fine_meal,_then_ask_him_if_he_believes_there_is_a_cook.> <media_common.quotation.subjects> "Atheism" .
+<Czech_Republic> <organization.organization_scope.organizations_with_this_scope> "Ministry of the Interior" .
+<Europe> <base.locations.continents.countries_within> "Czech Republic" .
+<Consul> <common.topic.notable_types> "Profession" .
+<Ústí_nad_Labem_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<m.0bm6pqb> <biology.hybrid_parentage.parent_sex> "Male" .
+<Lucie_Trmíková> <people.person.gender> "Female" .
+<Politician> <common.topic.article> "m.02xlj10" .
+<Tribal_Rights_Leader> <common.topic.notable_types> "Profession" .
+<Ethnicity> <freebase.type_profile.strict_included_types> "Topic" .
+<Kyphosis> <medicine.disease.risk_factors> "Male" .
+<Union_of_Rationalist_Atheists_and_Agnostics> <organization.organization.sectors> "Atheism" .
+<Czech_Republic> <location.country.first_level_divisions> "Olomouc Region" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d522bn" .
+<Environmentalist> <people.profession.specialization_of> "Politician" .
+<Syphilis> <medicine.disease.symptoms> "Hair loss" .
+<m.0q1z5z4> <freebase.valuenotation.has_value> "Location of ceremony" .
+<Jimi_Agbaje> <common.topic.notable_types> "Politician" .
+<Alaskan_Health_Care_Leader> <people.profession.specialization_of> "Politician" .
+<Eva_Randová> <people.person.nationality> "Czech Republic" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "If you don't believe in God, all you have to believe in is decency. Decency is very good. Better decent than indecent. But I don't think it's enough." .
+<Myocardial_Ischemia> <medicine.disease.symptoms> "heart attack" .
+<Kolín> <location.location.people_born_here> "Bernard Illowy" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Humanist Canada" .
+<Communist_Party_of_Czechoslovakia> <government.political_party.politicians_in_this_party> "m.0pclzbg" .
+<Fariborz_Shamshiri> <base.activism.activist.area_of_activism> "Atheism" .
+<Karl_Marx> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0w1wf1t> <government.government_position_held.office_position_or_title> "Prime Minister of the Czech Republic" .
+<Parkinson's_disease> <medicine.disease.symptoms> "Seborrheic dermatitis" .
+<m.0kfyrw1> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Kateřina_Zemanová> <common.topic.notable_for> "g.126t7dvt7" .
+<Atheism> <base.activism.activism_issue.activists> "Karl Marx" .
+<m.010x4qbl> <government.political_party_tenure.politician> "Miloš Zeman" .
+<Miloš_Zeman> <award.award_winner.awards_won> "m.0w0fhqq" .
+<Arnulf_Øverland> <base.activism.activist.area_of_activism> "Atheism" .
+<Miloš_Zeman> <film.person_or_entity_appearing_in_film.films> "m.0cm4r8c" .
+<Officeholder> <type.property.expected_type> "Politician" .
+<Atheism> <base.activism.activism_issue.activists> "Ayn Rand" .
+<Jiří_Rusnok> <people.person.profession> "Politician" .
+<Consul> <people.profession.specialization_of> "Politician" .
+<George_Carlin> <people.deceased_person.cause_of_death> "heart attack" .
+<Miloš_Zeman> <common.topic.notable_types> "Politician" .
+<God,_No!> <book.written_work.subjects> "Atheism" .
+<m.0w0fj5n> <award.award_honor.award> "Tomáš Garrigue Masaryk Order" .
+<American_Humanist_Association> <religion.religious_organization.associated_with> "Atheism" .
+<Political_Attache> <people.profession.specialization_of> "Politician" .
+<m.09x3j7h> <common.webpage.topic> "Politician" .
+<Leon_Trotsky> <people.person.religion> "Atheism" .
+<Politician> <people.profession.specializations> "Mayor of Montazels" .
+<Internet_Infidels> <organization.organization.sectors> "Atheism" .
+<Party_of_Civic_Rights> <organization.organization.founders> "Miloš Zeman" .
+<m.05bvjyj> <base.animalnames.animal_specific_name_relationship.gender> "Female" .
+<University_of_Economics,_Prague> <location.location.containedby> "Prague" .
+<Atheism> <book.book_subject.works> "Objectivism: The Philosophy of Ayn Rand" .
+<Kolín> <location.capital_of_administrative_division.capital_of> "m.0s96twj" .
+<Petr_Čáslava> <people.person.nationality> "Czech Republic" .
+<Nathalie_Kosciusko-Morizet> <people.person.gender> "Female" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660mk" .
+<Kolín> <location.location.containedby> "Kolín District" .
+<Miloš_Zeman> <common.topic.notable_for> "g.125cxt_hv" .
+<Norwegian_Heathen_Society> <organization.organization.sectors> "Atheism" .
+<Philosophy:_Who_Needs_It> <book.written_work.author> "Ayn Rand" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "South Bohemian Region" .
+<Ayn_Rand> <book.author.works_written> "Philosophy: Who Needs It" .
+<Prague> <location.administrative_division.country> "Czech Republic" .
+<Autism> <medicine.disease.risk_factors> "Male" .
+<Stroke> <medicine.disease.risk_factors> "Transient ischemic attack" .
+<Atheism> <book.book_subject.works> "The Dawkins Delusion?" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661x1" .
+<Marc_Broude> <people.person.gender> "Male" .
+<Kolín> <location.location.people_born_here> "Jan S. Machar" .
+<Bertrand_Russell> <people.person.religion> "Atheism" .
+<Transient_ischemic_attack> <medicine.risk_factor.diseases> "Abdominal aortic aneurysm" .
+<Urolithiasis> <medicine.disease.risk_factors> "Male" .
+<Bohemia_Docta_or_The_Labyrinth_of_the_World_and_the_Lust-house_of_the_Heart_(A_Divine_Comedy)> <film.film.personal_appearances> "m.0clznzg" .
+<Miloš_Zeman> <people.person.children> "David Zeman" .
+<Male> <medicine.risk_factor.diseases> "Amyotrophic lateral sclerosis" .
+<Esophageal_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <medicine.risk_factor.diseases> "Inguinal hernia" .
+<Meningococcal_disease> <medicine.disease.risk_factors> "Male" .
+<First,_whenever_a_man_talks_loudly_against_religion,_always_suspect_that_it_is_not_his_reason,_but_his_passions,_which_have_got_the_better_of_his_creed._A_bad_life_and_a_good_belief_are_disagreeable_and_troublesome_neighbors,_and_where_they_separate,_depend_upon_it,__'Tis_for_no_other_cause_but_quietness_sake.> <media_common.quotation.subjects> "Atheism" .
+<Cardiovascular_disease> <medicine.disease.risk_factors> "Male" .
+<National_Secular_Society> <organization.organization.sectors> "Atheism" .
+<Jiří_Rusnok> <people.person.gender> "Male" .
+<m.0gxvt_4> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<heart_attack> <medicine.disease.symptoms> "Ventricular tachycardia" .
+<Linda_Dedkova> <people.person.place_of_birth> "Kolín" .
+<Politician> <common.topic.webpage> "m.09xrn7q" .
+<For_the_New_Intellectual> <book.written_work.subjects> "Atheism" .
+<Jiří_Rusnok> <government.politician.government_positions_held> "m.0w1wf1t" .
+<Otokar_Fischer> <people.person.place_of_birth> "Kolín" .
+<John_Douglas,_9th_Marquess_of_Queensberry> <people.person.religion> "Atheism" .
+<Marie_Zemanová> <common.topic.notable_types> "Deceased Person" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrv7" .
+<Myocardial_Ischemia> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Male> <medicine.risk_factor.diseases> "Dupuytren's contracture" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "Plzeň Region" .
+<Friedrich_Engels> <influence.peer_relationship.peers> "Karl Marx" .
+<South_Moravian_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<Fariborz_Shamshiri> <people.person.gender> "Male" .
+<Goparaju_Ramachandra_Rao> <base.activism.activist.area_of_activism> "Atheism" .
+<Czech_Republic> <location.country.first_level_divisions> "Liberec Region" .
+<Atheism> <religion.religion.organizations> "American Atheists" .
+<Male> <medicine.risk_factor.diseases> "Meningococcal disease" .
+<Czech_Social_Democratic_Party> <government.political_party.ideology> "Social democracy" .
+<Seborrheic_dermatitis> <medicine.symptom.symptom_of> "Parkinson's disease" .
+<Tariq_Ali> <common.topic.notable_types> "Politician" .
+<Party_organizer> <common.topic.notable_types> "Profession" .
+<Tribal_chief> <people.profession.specialization_of> "Politician" .
+<500_años_fregados_pero_cristianos> <book.written_work.subjects> "Atheism" .
+<Kolín> <location.location.people_born_here> "Petr Kašpar" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.parent_classification> "Pancreatic cancer" .
+<Profession> <freebase.type_profile.strict_included_types> "Topic" .
+<University_of_Economics,_Prague> <education.educational_institution.campuses> "University of Economics, Prague" .
+<Kaposi's_sarcoma> <medicine.disease.risk_factors> "Male" .
+<Atheism> <base.activism.activism_issue.activists> "Vladimir Lenin" .
+<Person> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<m.0gyj7s7> <base.popstra.religion_choice.member> "John Douglas, 9th Marquess of Queensberry" .
+<Federation_of_Indian_Rationalist_Associations> <organization.organization.sectors> "Atheism" .
+<Politician> <people.profession.specializations> "Consul" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "Prague" .
+<Cardiovascular_disease> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Tomáš_Mojžíš> <people.person.place_of_birth> "Kolín" .
+<Politician> <base.ontologies.ontology_class.equivalent_classes> "m.0dj2gvd" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661wn" .
+<Military_Association_of_Atheists_&_Freethinkers> <organization.organization.sectors> "Atheism" .
+<Central_Council_of_Ex-Muslims> <organization.organization.sectors> "Atheism" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "United States Representative" .
+<David_Zeman> <people.person.sibling_s> "m.0w4hxy1" .
+<Ministry_of_the_Interior> <government.government_agency.jurisdiction> "Czech Republic" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Atheist Foundation of Australia" .
+<Politician> <people.profession.specializations> "Party organizer" .
+<m.0gl_m2h> <government.government_position_held.basic_title> "Prime minister" .
+<Jarda_Svoboda> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0gl_m2h> <government.government_position_held.office_position_or_title> "Prime Minister of the Czech Republic" .
+<Hradec_Králové_Region> <location.location.containedby> "Czech Republic" .
+<Atheism> <base.argumentmaps.idea.includes> "Negative and positive atheism" .
+<m.0pclzbg> <government.political_party_tenure.politician> "Miloš Zeman" .
+<Alcohol_abuse> <medicine.disease.risk_factors> "Attention deficit hyperactivity disorder" .
+<Jarda_Svoboda> <people.person.gender> "Male" .
+<Male> <base.gender.gender_identity.people> "m.0gxvv0q" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Transient_ischemic_attack> <medicine.disease.causes> "Cardiovascular disease" .
+<Usurper> <people.profession.specialization_of> "Politician" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "National Secular Society" .
+<Male> <base.gender.gender_identity.people> "m.04j64q8" .
+<Politician> <people.profession.specializations> "Children’s Rights Leader" .
+<Atheism> <book.book_subject.works> "Why I Am Not a Muslim" .
+<Czech_Republic> <location.country.administrative_divisions> "Hradec Králové Region" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Myocardial Ischemia" .
+<Miloš_Zeman> <film.person_or_entity_appearing_in_film.films> "m.0cm4q89" .
+<Moravian-Silesian_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Rural_Development_Leader> <common.topic.notable_types> "Profession" .
+<Kateřina_Zemanová> <people.person.nationality> "Czech Republic" .
+<Politician> <owl#inverseOf> "Party" .
+<Capitalism:_The_Unknown_Ideal> <book.written_work.subjects> "Atheism" .
+<Atheism> <book.book_subject.works> "The Twilight of Atheism" .
+<Atheism> <book.book_subject.works> "The God Delusion" .
+<Salman_Rushdie> <people.person.religion> "Atheism" .
+<Barbora_Poláková> <people.person.nationality> "Czech Republic" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5phw" .
+<Atheism> <base.activism.activism_issue.activists> "John Douglas, 9th Marquess of Queensberry" .
+<Atheist_Centre> <organization.organization.sectors> "Atheism" .
+<Political_Attache> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Transient ischemic attack" .
+<Zlín_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<Transient_ischemic_attack> <medicine.disease.risk_factors> "Male" .
+<Plzeň_Region> <location.administrative_division.country> "Czech Republic" .
+<Retroperitoneal_fibrosis> <medicine.disease.risk_factors> "Male" .
+<Ústí_nad_Labem_Region> <location.administrative_division.country> "Czech Republic" .
+<Tomás_Garrido_Canabal> <people.person.gender> "Male" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "International League of non-religious and atheists" .
+<Politician> <type.type.expected_by> "Resulting head of state" .
+<I'm_an_atheist_and_I_thank_God_for_it.> <media_common.quotation.subjects> "Atheism" .
+<Akinwunmi_Ambode> <common.topic.notable_types> "Person" .
+<Miloš_Zeman> <government.politician.party> "m.010x4qbl" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zmdy" .
+<The_God_Delusion> <book.written_work.subjects> "Atheism" .
+<Civic_Forum> <common.topic.notable_types> "Political party" .
+<Vladimir_Lenin> <common.topic.notable_types> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Club foot" .
+<Prague> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<University_of_Economics,_Prague> <location.location.containedby> "Czech Republic" .
+<Person> <type.type.properties> "Place of birth" .
+<Atheism> <base.activism.activism_issue.activists> "Fariborz Shamshiri" .
+<Bernard_Illowy> <people.person.gender> "Male" .
+<Eva_Randová> <people.person.gender> "Female" .
+<Kolín> <common.topic.image> "Map of the Czech Republic highlighting Kolin" .
+<Civic_Movement> <common.topic.notable_types> "Political party" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "Irreligion. The principal one of the great faiths of the world." .
+<Politics> <people.professional_field.professions_in_this_field> "Politician" .
+<Politician> <book.book_subject.works> "All the King's Men" .
+<Kolín> <location.location.people_born_here> "Frank Daniel" .
+<Atheism> <book.book_subject.works> "Philosophy: Who Needs It" .
+<Milan_Paumer> <people.person.place_of_birth> "Kolín" .
+<Atheism> <base.argumentmaps.idea.included_in> "Nontheism" .
+<Politician> <people.profession.specializations> "Political strategist" .
+<Joseph_Edamaruku> <common.topic.notable_types> "Deceased Person" .
+<Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Czech_Republic> <location.country.administrative_divisions> "Pardubice Region" .
+<Otokar_Fischer> <people.person.gender> "Male" .
+<Profession> <freebase.type_profile.published> "Published" .
+<Politician> <people.profession.specializations> "Alaskan Health Care Leader" .
+<Joseph_Edamaruku> <people.person.religion> "Atheism" .
+<Atheism> <book.book_subject.works> "GOD" .
+<Politician> <people.profession.specializations> "local politician" .
+<Ústí_nad_Labem_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Atheism> <book.book_subject.works> "I Sold My Soul on eBay" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Vladimir_Lenin> <influence.influence_node.influenced_by> "Friedrich Engels" .
+<When_I_told_the_people_of_Northern_Ireland_that_I_was_an_atheist,_a_woman_in_the_audience_stood_up_and_said,__yes,_but_is_it_the_God_of_the_Catholics_or_the_God_of_the_Protestants_in_whom_you_don't_believe?> <media_common.quotation.subjects> "Atheism" .
+<West_Slavs> <people.ethnicity.includes_groups> "Czechs" .
+<Politician_&_Trade_Unionist> <people.profession.specialization_of> "Politician" .
+<Gastritis> <medicine.disease.risk_factors> "Male" .
+<Goparaju_Ramachandra_Rao> <common.topic.notable_types> "Deceased Person" .
+<I_had_rather_believe_all_the_Fables_in_the_Legend,_and_the_Talmud,_and_the_Alcoran,_than_that_this_universal_frame_is_without_a_Mind.> <media_common.quotation.subjects> "Atheism" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106614m" .
+<ZasPorn> <common.topic.subject_of> "Female" .
+<Atheism> <religion.religion.organizations> "Atheist Alliance International" .
+<Lukáš_Hartig> <people.person.place_of_birth> "Kolín" .
+<Seborrheic_dermatitis> <medicine.disease.risk_factors> "Male" .
+<Bertrand_Russell> <base.activism.activist.area_of_activism> "Atheism" .
+<Vive_Targi_Kielce> <sports.sports_team.gender> "Male" .
+<None> <religion.deity.deity_of> "Atheism" .
+<Town_supervisor> <common.topic.notable_types> "Profession" .
+<Hair_loss> <medicine.risk_factor.diseases> "Stroke" .
+<Karl_Marx> <people.person.religion> "Atheism" .
+<Petr_Čáslava> <people.person.gender> "Male" .
+<Politician> <type.type.expected_by> "Sponsor" .
+<Milan_Paumer> <people.person.gender> "Male" .
+<Paul_Henri_Thiry_Holbach> <influence.influence_node.influenced> "Karl Marx" .
+<Czechs> <people.ethnicity.included_in_group> "West Slavs" .
+<Atheism_is_rather_in_the_lip_than_in_the_heart_of_man.> <media_common.quotation.subjects> "Atheism" .
+<Labor_leader> <common.topic.notable_types> "Profession" .
+<President_of_the_Czech_Republic> <government.government_office_or_title.jurisdiction> "Czech Republic" .
+<Male> <medicine.risk_factor.diseases> "Paget's disease of bone" .
+<m.0blp5sr> <biology.hybrid_parentage.parent_sex> "Male" .
+<m.0kfyrt3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "An atheist is a man who looks through a telescope and tries to explain all that he can't see." .
+<South_Bohemian_Region> <location.location.containedby> "Czech Republic" .
+<Czech_Republic> <base.aareas.schema.administrative_area.pertinent_type> "Czech region" .
+<Politician> <type.type.expected_by> "Politician" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Czech_Republic> <location.country.administrative_divisions> "Vysočina Region" .
+<Male> <medicine.risk_factor.diseases> "Actinic keratosis" .
+<m.0b45tny> <common.webpage.topic> "Politician" .
+<Politician> <people.profession.specializations> "Rebel" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zn9p" .
+<Profession> <freebase.type_hints.included_types> "Topic" .
+<Miloš_Zeman> <people.person.religion> "Atheism" .
+<Politician> <people.profession.specializations> "City council" .
+<Benign_prostatic_hyperplasia> <medicine.disease.risk_factors> "Male" .
+<Friedrich_Engels> <people.person.gender> "Male" .
+<Ethnicity> <freebase.type_hints.included_types> "Topic" .
+<Michal_Novotný> <people.person.place_of_birth> "Kolín" .
+<m.02zd4tr> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0q1yxl_> <government.government_position_held.basic_title> "President" .
+<Marc_Broude> <people.person.religion> "Atheism" .
+<Vladimir_Lenin> <base.activism.activist.area_of_activism> "Atheism" .
+<Kolín> <location.location.people_born_here> "Tomáš Mojžíš" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0hzxnsy" .
+<Nathalie_Kosciusko-Morizet> <common.topic.subject_of> "Politician" .
+<Politician> <common.topic.webpage> "m.09w_20n" .
+<Male> <medicine.risk_factor.diseases> "Liver tumour" .
+<John_Douglas,_9th_Marquess_of_Queensberry> <people.person.gender> "Male" .
+<Party_leader> <people.profession.specialization_of> "Politician" .
+<Male> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Males" .
+<Among_the_repulsions_of_atheism_for_me_has_been_its_drastic_uninterestingness_as_an_intellectual_position._Where_was_the_ingenuity,_the_ambiguity,_the_humanity_(in_the_Harvard_sense)_of_saying_that_the_universe_just_happened_to_happen_and_that_when_we're_dead_we're_dead?> <media_common.quotation.subjects> "Atheism" .
+<Atheism> <base.activism.activism_issue.activists> "Sanal Edamaruku" .
+<Politician> <type.property.reverse_property> "Party" .
+<Politician> <type.type.expected_by> "Member" .
+<Lukáš_Hartig> <people.person.gender> "Male" .
+<Jindra_Hermanová> <people.person.gender> "Female" .
+<Czech_Language> <language.human_language.countries_spoken_in> "Czech Republic" .
+<South_Moravian_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<Politician> <common.topic.subjects> "Akinwunmi Ambode" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "How to trap an atheist: Serve him a fine meal, then ask him if he believes there is a cook." .
+<President_of_the_Czech_Republic> <government.government_office_or_title.office_holders> "m.0q1yxl_" .
+<Male> <common.topic.image> "male.jpg" .
+<Viktor_Lennstrand> <people.person.gender> "Male" .
+<m.0gl_m2h> <government.government_position_held.jurisdiction_of_office> "Czech Republic" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Atheist Ireland" .
+<Dilsa_Demirbag_Sten> <people.person.gender> "Female" .
+<Vladimir_Lenin> <people.person.gender> "Male" .
+<Zlín_Region> <location.location.containedby> "Czech Republic" .
+<Capitalism:_The_Unknown_Ideal> <book.written_work.author> "Ayn Rand" .
+<Kolín> <location.location.people_born_here> "Lucie Trmíková" .
+<m.0q1z5z4> <people.marriage.type_of_union> "Marriage" .
+<Kolín> <location.location.people_born_here> "Jean-Gaspard Deburau" .
+<Dawkins'_God> <book.written_work.subjects> "Atheism" .
+<Political_strategist> <people.profession.specialization_of> "Politician" .
+<Atheism> <book.book_subject.works> "Agnosticism" .
+<Phone_Trick> <base.thoroughbredracing.thoroughbred_racehorse.sex> "Male" .
+<Stroke> <medicine.risk_factor.diseases> "Epilepsy" .
+<Male> <common.topic.article> "m.05zpq8" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066mfd" .
+<Gout> <medicine.disease_cause.diseases> "Kidney Stone" .
+<Atheism:_The_Case_Against_God> <book.written_work.subjects> "Atheism" .
+<Tariq_Ali> <freebase.type_hints.included_types> "Person" .
+<Atheist_Foundation_of_Australia> <organization.organization.sectors> "Atheism" .
+<Atheism> <religion.religion.deities> "None" .
+<Person> <freebase.type_profile.published> "Published" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066mgb" .
+<Salman_Rushdie> <people.person.gender> "Male" .
+<It_is_true,_that_a_little_philosophy_inclineth_man's_mind_to_atheism,_but_depth_in_philosophy_bringeth_men's_minds_about_to_religion.> <media_common.quotation.subjects> "Atheism" .
+<Hair_loss> <medicine.disease.risk_factors> "Male" .
+<m.07n73w_> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<m.0q1z5z4> <people.marriage.spouse> "Ivana Bednarčíková" .
+<Ventricular_tachycardia> <medicine.symptom.symptom_of> "heart attack" .
+<Kolín> <location.location.people_born_here> "Jindra Hermanová" .
+<Abdominal_aortic_aneurysm> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Emphysema> <medicine.disease.risk_factors> "Male" .
+<South_Moravian_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Nontheism> <common.topic.notable_types> "Religion" .
+<Kawasaki_disease> <medicine.disease.risk_factors> "Male" .
+<Kolín> <location.location.people_born_here> "Eva Randová" .
+<Religion> <freebase.type_profile.published> "Published" .
+<Pardubice_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<City_council> <people.profession.specialization_of> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Stroke" .
+<Enver_Hoxha> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Jan_Flachbart> <people.person.nationality> "Czech Republic" .
+<Male> <medicine.risk_factor.diseases> "Antisocial personality disorder" .
+<m.0cm4r8c> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Politician> <type.property.expected_type> "Politician" .
+<Marie_Zemanová> <people.person.gender> "Female" .
+<Kolín> <location.location.contains> "g.121gvc69" .
+<Ivana_Bednarčíková> <common.topic.notable_types> "Person" .
+<Prague> <common.topic.notable_types> "City/Town/Village" .
+<Politician> <common.topic.article> "m.0fj9r" .
+<Vladimir_Lenin> <influence.influence_node.influenced_by> "Karl Marx" .
+<Nothing:_Something_to_Believe_In> <book.written_work.subjects> "Atheism" .
+<Robert_Saudek> <people.person.place_of_birth> "Kolín" .
+<Czech_Language> <language.human_language.region> "Europe" .
+<Atheism> <book.book_subject.works> "Why I Am Not a Christian" .
+<Turan_Dursun> <people.person.gender> "Male" .
+<Politician> <freebase.type_profile.equivalent_topic> "Politician" .
+<David_Zeman> <common.topic.notable_for> "g.126t62531" .
+<Czech_Republic> <location.country.administrative_divisions> "South Bohemian Region" .
+<Male> <sports.sports_gender.sports_teams> "Vive Targi Kielce" .
+<Karl_Marx> <influence.influence_node.influenced_by> "Paul Henri Thiry Holbach" .
+<Ectodermal_dysplasia> <medicine.disease.symptoms> "Hair loss" .
+<Politician> <type.type.expected_by> "Candidates" .
+<Irena_Martínková> <people.person.place_of_birth> "Kolín" .
+<Leon_Trotsky> <influence.influence_node.influenced_by> "Friedrich Engels" .
+<Antisocial_personality_disorder> <medicine.disease.risk_factors> "Male" .
+<Male> <base.gender.gender_identity.people> "m.02zd4tr" .
+<m.0q1yxl_> <freebase.valuenotation.has_no_value> "To" .
+<Czech_Republic> <location.country.first_level_divisions> "Ústí nad Labem Region" .
+<Gout> <medicine.disease.risk_factors> "Male" .
+<m.0d522bn> <biology.hybrid_parentage.parent_sex> "Male" .
+<Civic_Forum> <government.political_party.politicians_in_this_party> "m.010x4qcd" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0hm" .
+<Hodgkin's_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Ectodermal_dysplasia> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Ambassador" .
+<Jarda_Svoboda> <people.person.nationality> "Czech Republic" .
+<Why_I_Am_Not_a_Christian> <book.written_work.author> "Bertrand Russell" .
+<Frank_Daniel> <people.person.gender> "Male" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<Atheism> <base.activism.activism_issue.activists> "Goparaju Ramachandra Rao" .
+<Kolín> <location.location.people_born_here> "Lukáš Hartig" .
+<Anaplastic_thyroid_cancer> <medicine.disease.risk_factors> "Male" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrw1" .
+<Kolín> <common.topic.image> "Kolin CZ town hall" .
+<What_Is_to_Be_Done?_(A_Journey_from_Prague_to_Český_Krumlov,_or_How_I_Formed_a_New_Government)> <film.film.personal_appearances> "m.0cm4q89" .
+<Joseph_Edamaruku> <people.person.children> "Sanal Edamaruku" .
+<Male> <medicine.risk_factor.diseases> "Prostate cancer" .
+<Pardubice_Region> <location.location.containedby> "Czech Republic" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "If there is no God, everything is permitted." .
+<Prefect> <people.profession.specialization_of> "Politician" .
+<Legislator> <people.profession.specialization_of> "Politician" .
+<Kolín> <location.location.people_born_here> "Otokar Fischer" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0ln" .
+<Ventricular_tachycardia> <medicine.disease.risk_factors> "Male" .
+<Party_of_Civic_Rights> <government.political_party.ideology> "Social democracy" .
+<Politician> <common.topic.webpage> "m.09y01p3" .
+<Kolín> <location.location.contains> "g.11jgf85m0" .
+<Paul_Henri_Thiry_Holbach> <common.topic.image> "Paul Heinrich Dietrich Baron d'Holbach Roslin" .
+<Leon_Trotsky> <people.person.gender> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106623h" .
+<Atheism> <base.activism.activism_issue.activists> "Marc Broude" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Atheist and Agnostic Group" .
+<Politician> <people.profession.specializations> "Tyrant" .
+<m.0q1z5z4> <freebase.valuenotation.has_no_value> "To" .
+<Epilepsy> <medicine.disease.notable_people_with_this_condition> "Leon Trotsky" .
+<Atheism> <base.ontologies.ontology_instance.equivalent_instances> "m.07ndk7_" .
+<Party_of_Civic_Rights> <common.topic.notable_types> "Political party" .
+<Terezie_Brzková> <people.person.place_of_birth> "Kolín" .
+<Karlovy_Vary_Region> <location.location.containedby> "Czech Republic" .
+<m.0clznzg> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Kolín> <location.location.contains> "g.11dyjp9j3" .
+<Jarda_Svoboda> <people.person.place_of_birth> "Kolín" .
+<ZasPorn> <common.topic.subject_of> "Male" .
+<Bertrand_Russell> <freebase.type_hints.included_types> "Person" .
+<Jean-Gaspard_Deburau> <common.topic.notable_types> "Deceased Person" .
+<Moravian-Silesian_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<Leon_Trotsky> <influence.influence_node.influenced_by> "Karl Marx" .
+<Ivana_Bednarčíková> <people.person.nationality> "Czech Republic" .
+<m.0zm9_69> <biology.hybrid_parentage.parent_sex> "Male" .
+<Nathalie_Kosciusko-Morizet> <people.person.profession> "Politician" .
+<Bernard_Illowy> <common.topic.notable_types> "Deceased Person" .
+<Transient_ischemic_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Marc_Broude> <base.activism.activist.area_of_activism> "Atheism" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660kd" .
+<PZ_Myers> <people.person.religion> "Atheism" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "By night an atheist half believes in God." .
+<Blanka_Zemanová> <freebase.valuenotation.has_value> "Place of birth" .
+<Frank_Daniel> <people.deceased_person.cause_of_death> "heart attack" .
+<Kolín> <location.location.people_born_here> "Valdemar Jiruš" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Agent" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d521lm" .
+<m.0q1z0w8> <people.marriage.spouse> "Miloš Zeman" .
+<Male> <medicine.risk_factor.diseases> "Multiple myeloma" .
+<m.0kfyrv7> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Ayn_Rand> <book.author.works_written> "For the New Intellectual" .
+<Politician> <common.topic.subjects> "Nathalie Kosciusko-Morizet" .
+<Atheism> <book.book_subject.works> "The Blind Watchmaker" .
+<West_Slavs> <people.ethnicity.languages_spoken> "Czech Language" .
+<Person> <freebase.type_profile.strict_included_types> "Animate" .
+<Jean-Gaspard_Deburau> <people.person.place_of_birth> "Kolín" .
+<m.0w1wf1t> <government.government_position_held.jurisdiction_of_office> "Czech Republic" .
+<Ayaan_Hirsi_Ali> <base.activism.activist.area_of_activism> "Atheism" .
+<Friedrich_Engels> <influence.influence_node.influenced> "Leon Trotsky" .
+<m.0w0f9s0> <education.education.student> "Miloš Zeman" .
+<Politician> <people.profession.specializations> "Oficer-Major of King Zog  I" .
+<local_politician> <common.topic.notable_types> "Profession" .
+<George_Carlin> <base.activism.activist.area_of_activism> "Atheism" .
+<heart_attack> <medicine.disease.risk_factors> "Male" .
+<Atheism> <book.book_subject.works> "God Is Not Great: How Religion Poisons Everything" .
+<Dilsa_Demirbag_Sten> <base.activism.activist.area_of_activism> "Atheism" .
+<Miloš_Zeman> <organization.organization_founder.organizations_founded> "Party of Civic Rights" .
+<Blanka_Zemanová> <people.person.nationality> "Czech Republic" .
+<Bertrand_Russell> <people.person.gender> "Male" .
+<Viktor_Lennstrand> <common.topic.notable_types> "Politician" .
+<Negative_and_positive_atheism> <common.topic.notable_types> "Religion" .
+<Agnosticism> <book.written_work.subjects> "Atheism" .
+<Czech_Republic> <location.country.first_level_divisions> "Hradec Králové Region" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvkm6" .
+<Miloš_Zeman> <people.person.education> "m.0w0f9s0" .
+<Kolín_District> <location.administrative_division.capital> "m.0s96twj" .
+<Enver_Hoxha> <people.person.religion> "Atheism" .
+<Miloš_Zeman> <people.person.profession> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Kidney Stone" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "United States Senator" .
+<Male> <medicine.risk_factor.diseases> "Golfer's elbow" .
+<An_atheist_may_be_simply_one_whose_faith_and_love_are_concentrated_on_the_impersonal_aspects_of_God.> <media_common.quotation.subjects> "Atheism" .
+<Pardubice_Region> <location.administrative_division.country> "Czech Republic" .
+<Nontheism> <base.argumentmaps.idea.includes> "Atheism" .
+<Politician> <type.type.expected_by> "Polican" .
+<local_politician> <people.profession.specialization_of> "Politician" .
+<m.0cm4r8c> <film.personal_film_appearance.film> "New Hyperion or Liberty, Equality, Brotherhood" .
+<Male> <medicine.risk_factor.diseases> "Gastritis" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.0kfyrt3" .
+<Otokar_Fischer> <people.deceased_person.place_of_death> "Prague" .
+<Robert_Saudek> <people.person.gender> "Male" .
+<Stroke> <medicine.disease.risk_factors> "Hair loss" .
+<Czech_region> <base.aareas.schema.administrative_area_type.iso_country> "Czech Republic" .
+<Tomás_Garrido_Canabal> <people.person.religion> "Atheism" .
+<Tetralogy_of_Fallot> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Mayor_of_Auckland> <people.profession.specialization_of> "Politician" .
+<Legislator> <common.topic.notable_types> "Profession" .
+<m.04j64q8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Jindra_Hermanová> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Terezie_Brzková> <common.topic.notable_types> "Deceased Person" .
+<Party_of_Civic_Rights> <government.political_party.ideology> "Nationalism" .
+<Kateřina_Zemanová> <common.topic.notable_types> "Person" .
+<Joseph_Stalin> <people.person.religion> "Atheism" .
+<Negative_and_positive_atheism> <base.argumentmaps.idea.included_in> "Atheism" .
+<Parkinson's_disease> <medicine.disease.risk_factors> "Male" .
+<Hair_loss> <medicine.symptom.symptom_of> "Ectodermal dysplasia" .
+<Prostate_cancer> <medicine.disease.risk_factors> "Male" .
+<Stellan_Skarsgård> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Libuše_Geprtová> <people.person.gender> "Female" .
+<Miloš_Zeman> <government.politician.party> "m.0lr1h1r" .
+<Atheism> <base.popstra.religion.membership> "m.0gyj7s7" .
+<Politician> <type.type.expected_by> "Taoiseach" .
+<Why_I_Am_Not_a_Christian> <book.written_work.subjects> "Atheism" .
+<Politician> <base.onephylogeny.type_of_thing.things_of_this_type> "Prime minister" .
+<Bladder_cancer> <medicine.disease.risk_factors> "Male" .
+<Prague> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<Kolín> <location.location.people_born_here> "Terezie Brzková" .
+<Czechs> <common.topic.image> "Holy Trinity Column - Saint Wenceslaus" .
+<Dupuytren's_contracture> <medicine.disease.risk_factors> "Male" .
+<Politician> <people.profession.specializations> "Advocacy" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5pjs" .
+<Kolín> <location.location.events> "Battle of Kolín" .
+<No_one_can_be_an_unbeliever_nowadays._The_Christian_Apologists_have_left_one_nothing_to_disbelieve.> <media_common.quotation.subjects> "Atheism" .
+<When_ever_a_person_talks_loudly_against_religion,_always_suspect_that_it_is_not_their_reason,_but_their_passions,_which_have_got_the_better_of_their_beliefs._A_bad_life_and_a_good_belief_are_disagreeable_and_troublesome_neighbors;_and_when_they_separate,_depend_on_it_that_it_is_for_the_sake_of_peace_and_quiet.> <media_common.quotation.subjects> "Atheism" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "heart attack" .
+<Moravian-Silesian_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<Politician> <common.topic.webpage> "m.09xt6w_" .
+<Joseph_Stalin> <people.person.profession> "Politician" .
+<Atheism> <base.argumentmaps.idea.included_in> "Ultimate Boeing 747 gambit" .
+<m.05bvjy3> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Politician> <common.topic.webpage> "m.09x3j7h" .
+<m.0blp580> <biology.hybrid_parentage.parent_sex> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105znf1" .
+<South_Bohemian_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<Atheism> <base.activism.activism_issue.activists> "Arnulf Øverland" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvk3z" .
+<Politician> <people.profession.specializations> "Usurper" .
+<Atheism> <base.activism.activism_issue.activists> "George Carlin" .
+<Prague> <base.biblioness.bibs_location.country> "Czech Republic" .
+<Kolín> <location.location.people_born_here> "Jarda Svoboda" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zpl2" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "The Atheist Agenda" .
+<Bureaucrat> <common.topic.notable_types> "Profession" .
+<Arnulf_Øverland> <people.person.religion> "Atheism" .
+<m.010x4qbl> <government.political_party_tenure.party> "Civic Movement" .
+<Ministry_of_the_Interior> <organization.organization.geographic_scope> "Czech Republic" .
+<International_Humanist_and_Ethical_Union> <religion.religious_organization.associated_with> "Atheism" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "Among the repulsions of atheism for me has been its drastic uninterestingness as an intellectual position. Where was the ingenuity, the ambiguity, the humanity (in the Harvard sense) of saying that the universe just happened to happen and that when we're dead we're dead?" .
+<Marie_Zemanová> <people.person.nationality> "Czech Republic" .
+<Czech_region> <base.aareas.schema.administrative_area_type.subdivides_place> "Czech Republic" .
+<Non-Hodgkin_lymphoma> <medicine.disease.risk_factors> "Male" .
+<Kolín> <location.location.people_born_here> "Josef Sudek" .
+<Tyrant> <common.topic.notable_types> "Profession" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "The God of the Old testament is arguably the most unpleasant character in all fiction..." .
+<m.0q1yxl_> <government.government_position_held.office_holder> "Miloš Zeman" .
+<Chairman,_Chivalry_Democratic_Party> <people.profession.specialization_of> "Politician" .
+<Public_Health_Leader> <people.profession.specialization_of> "Politician" .
+<Miloš_Zeman> <government.politician.government_positions_held> "m.0q1yxl_" .
+<Jean-Gaspard_Deburau> <people.person.gender> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010dyb1l" .
+<Cedomil_Lausic_Glasinovic> <base.activism.activist.area_of_activism> "Atheism" .
+<Nathalie_Kosciusko-Morizet> <common.topic.notable_types> "Politician" .
+<Linda_Dedkova> <people.person.gender> "Female" .
+<Czech_Republic> <base.aareas.schema.administrative_area.subdividing_type> "Czech region" .
+<Society_of_the_Godless> <organization.organization.sectors> "Atheism" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011vfplb" .
+<Prime_Minister_of_the_Czech_Republic> <government.government_office_or_title.category> "Prime minister" .
+<Politician> <type.type.properties> "Legislative committees served on" .
+<m.09x1dpm> <common.webpage.topic> "Politician" .
+<Goparaju_Ramachandra_Rao> <people.person.religion> "Atheism" .
+<Politician> <freebase.type_profile.strict_included_types> "Topic" .
+<Labor_leader> <people.profession.specialization_of> "Politician" .
+<Blanka_Zemanová> <people.person.gender> "Female" .
+<Joseph_Stalin> <influence.influence_node.influenced_by> "Karl Marx" .
+<m.0w1wf1t> <government.government_position_held.office_holder> "Jiří Rusnok" .
+<By_night_an_atheist_half_believes_in_God.> <media_common.quotation.subjects> "Atheism" .
+<Energy_Policy_Specialist> <common.topic.notable_types> "Profession" .
+<Erkki_Hartikainen> <people.person.gender> "Male" .
+<Politician> <freebase.type_profile.strict_included_types> "Person" .
+<Ayaan_Hirsi_Ali> <people.person.religion> "Atheism" .
+<Atheism> <people.ethnicity.people> "Sergio Fernández" .
+<Tomáš_Mojžíš> <people.person.gender> "Male" .
+<Hair_loss> <medicine.symptom.symptom_of> "Seborrheic dermatitis" .
+<Party> <type.property.schema> "Politician" .
+<Aortic_aneurysm> <medicine.disease.risk_factors> "Male" .
+<Amyotrophic_lateral_sclerosis> <medicine.disease.risk_factors> "Male" .
+<Massimo_Zanini> <freebase.domain_profile.category> "Male" .
+<Politician> <people.profession.specializations> "Political Attache" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010hn395" .
+<Oficer-Major_of_King_Zog__I> <common.topic.notable_types> "Profession" .
+<Politician> <people.profession.specializations> "Rural Development Leader" .
+<Male> <medicine.risk_factor.diseases> "Kaposi's sarcoma" .
+<Atheism> <base.activism.activism_issue.activists> "Youp van 't Hek" .
+<God_is_dead> <media_common.quotation.subjects> "Atheism" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105znt_" .
+<Atheism> <book.book_subject.works> "Doubt: A History - The Great Doubters and Their Legacy of Innovation from Socrates and Jesus to Thomas Jefferson and Emily Dickinson" .
+<Politician> <type.type.domain> "Government" .
+<Michal_Novotný> <people.person.gender> "Male" .
+<Hradec_Králové_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<The_Twilight_of_Atheism> <book.written_work.subjects> "Atheism" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "If there was a god, I'd still have both nuts." .
+<m.0w4hxy1> <people.sibling_relationship.sibling> "Kateřina Zemanová" .
+<Male> <medicine.risk_factor.diseases> "Anaplastic thyroid cancer" .
+<Male> <award.award_discipline.awards_in_this_discipline> "SFX Award for Best Actor" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp5sr" .
+<m.0w1wf1t> <government.government_position_held.basic_title> "Prime minister" .
+<Politician> <people.profession.specializations> "Chairman, Chivalry Democratic Party" .
+<Kolín> <location.location.people_born_here> "Michal Novotný" .
+<Atheism> <book.book_subject.works> "God, No!" .
+<Non-Prophets_Radio> <broadcast.content.genre> "Atheism" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "Nobody talks so constantly about God as those who insist that there is no God." .
+<Bohemia_Docta_or_The_Labyrinth_of_the_World_and_the_Lust-house_of_the_Heart_(A_Divine_Comedy)> <film.film.country> "Czech Republic" .
+<Czech_Republic> <location.country.first_level_divisions> "South Bohemian Region" .
+<Religion> <freebase.type_profile.strict_included_types> "Topic" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<Pectus_excavatum> <medicine.disease.risk_factors> "Male" .
+<Cedomil_Lausic_Glasinovic> <people.person.gender> "Male" .
+<David_Zeman> <common.topic.notable_types> "Person" .
+<Czech_Language> <language.human_language.main_country> "Czech Republic" .
+<Goparaju_Ramachandra_Rao> <people.person.gender> "Male" .
+<Male> <base.thoroughbredracing.thoroughbred_racehorse_sex.horses_of_this_sex> "Phone Trick" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0bm6pqb" .
+<Vysočina_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<Leon_Trotsky> <medicine.notable_person_with_medical_condition.condition> "Epilepsy" .
+<Atheism> <base.activism.activism_issue.activists> "Turan Dursun" .
+<Male> <medicine.risk_factor.diseases> "Hair loss" .
+<Olomouc_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Male> <common.topic.notable_for> "g.1255p_jgc" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678nn" .
+<There_is_no_God,_Nature_sufficeth_unto_herself;_in_no_wise_hath_she_need_of_an_author.> <media_common.quotation.subjects> "Atheism" .
+<Place_of_birth> <type.property.schema> "Person" .
+<Politician> <freebase.equivalent_topic.equivalent_type> "Politician" .
+<Kateřina_Zemanová> <people.person.gender> "Female" .
+<Politician> <type.type.expected_by> "Winner(s)" .
+<Miloš_Zeman> <government.politician.party> "m.010x4qcd" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjp5" .
+<Leon_Trotsky> <people.person.profession> "Politician" .
+<Politician> <people.profession.specializations> "Environmentalist" .
+<Pyloric_stenosis> <medicine.disease.risk_factors> "Male" .
+<heart_attack> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zp46" .
+<The_New_Atheist_Crusaders_and_Their_Unholy_Grail> <book.written_work.subjects> "Atheism" .
+<Vladimir_Lenin> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Male> <base.gender.gender_identity.people> "m.09td39b" .
+<International_League_of_non-religious_and_atheists> <organization.organization.sectors> "Atheism" .
+<Male> <medicine.risk_factor.diseases> "Epilepsy" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106789c" .
+<m.0g4sl42> <freebase.valuenotation.has_no_value> "To" .
+<Civil_Rights_Leader> <common.topic.notable_types> "Profession" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "Pardubice Region" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660hr" .
+<Youp_van_'t_Hek> <people.person.gender> "Male" .
+<Ethnicity> <freebase.type_profile.published> "Published" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Animate" .
+<Male> <medicine.risk_factor.diseases> "Sebaceous cyst" .
+<Zlín_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<George_Carlin> <people.person.gender> "Male" .
+<Jan_Novak> <people.person.nationality> "Czech Republic" .
+<Blanka_Zemanová> <people.person.children> "David Zeman" .
+<Atheism> <common.topic.image> "Paul Heinrich Dietrich Baron d'Holbach Roslin" .
+<Prime_Minister_of_the_Czech_Republic> <government.government_office_or_title.jurisdiction> "Czech Republic" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Person" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "Ústí nad Labem Region" .
+<Atheism> <base.schemastaging.context_name.pronunciation> "g.125_ms_7s" .
+<Kateřina_Zemanová> <people.person.place_of_birth> "Prague" .
+<Jindra_Hermanová> <people.deceased_person.place_of_death> "Prague" .
+<Ústí_nad_Labem_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<Hradec_Králové_Region> <location.administrative_division.country> "Czech Republic" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "First, whenever a man talks loudly against religion, always suspect that it is not his reason, but his passions, which have got the better of his creed. A bad life and a good belief are disagreeable and troublesome neighbors, and where they separate, depend upon it,  'Tis for no other cause but quietness sake." .
+<Paul_Heinrich_Dietrich_Baron_d'Holbach_Roslin> <common.image.appears_in_topic_gallery> "Atheism" .
+<Politician> <people.profession.specializations> "Prefect" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "He must pull out his own eyes, and see no creature, before he can say, he sees no God; He must be no man, and quench his reasonable soul, before he can say to himself, there is no God." .
+<Miloš_Zeman> <people.person.spouse_s> "m.0q1z5z4" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "Olomouc Region" .
+<Politician> <type.type.properties> "Party" .
+<Kolín> <location.location.people_born_here> "Petr Čáslava" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Norwegian Heathen Society" .
+<Diplomat> <common.topic.notable_types> "Profession" .
+<Kolín> <location.location.containedby> "Czech Republic" .
+<Politician> <common.topic.notable_types> "Profession" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661vm" .
+<Male> <medicine.risk_factor.diseases> "Stuttering" .
+<Male> <medicine.risk_factor.diseases> "Emphysema" .
+<Central_Bohemian_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<Party_of_Civic_Rights> <organization.organization.geographic_scope> "Czech Republic" .
+<Salman_Rushdie> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Pardubice_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<m.0q1z5z4> <people.marriage.spouse> "Miloš Zeman" .
+<Attention_deficit_hyperactivity_disorder> <medicine.risk_factor.diseases> "Alcohol abuse" .
+<m.04mmfr8> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<male.jpg> <common.image.appears_in_topic_gallery> "Male" .
+<Atheism> <religion.religion.organizations> "American Humanist Association" .
+<m.0q1z0w8> <people.marriage.type_of_union> "Marriage" .
+<Humanist_Canada> <organization.organization.sectors> "Atheism" .
+<Case_Against_Religion> <book.written_work.subjects> "Atheism" .
+<Communist_Party_of_Czechoslovakia> <common.topic.notable_types> "Political party" .
+<Kolín> <common.topic.notable_types> "City/Town/Village" .
+<Czech_Republic> <location.country.administrative_divisions> "Plzeň Region" .
+<Children’s_Rights_Leader> <people.profession.specialization_of> "Politician" .
+<Jacques_Hébert> <base.activism.activist.area_of_activism> "Atheism" .
+<Atheism> <broadcast.genre.content> "Non-Prophets Radio" .
+<Czech_Republic> <government.governmental_jurisdiction.government_positions> "Prime Minister of the Czech Republic" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010fm0mg" .
+<Atheism> <base.activism.activism_issue.activists> "Theo van Gogh" .
+<m.0w0fhqq> <award.award_honor.award_winner> "Miloš Zeman" .
+<West_Slavs> <common.topic.notable_types> "Ethnicity" .
+<Kolín> <location.location.people_born_here> "Hana Greenfield" .
+<Atheism> <common.topic.notable_for> "g.125f3xjkz" .
+<Male> <medicine.risk_factor.diseases> "Corneal abrasion" .
+<Politician> <freebase.type_profile.kind> "Title" .
+<New_Hyperion_or_Liberty,_Equality,_Brotherhood> <film.film.personal_appearances> "m.0cm4r8c" .
+<Politician> <type.type.expected_by> "politician" .
+<Pancreatic_cancer> <medicine.disease.risk_factors> "Male" .
+<Miloš_Zeman> <film.person_or_entity_appearing_in_film.films> "m.0clznzg" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "Now we have no God. We have had two: the old God that our fathers handed down to us, that we hated, and never liked; the new one that we made for ourselves, that we loved; but now he has flitted away from us, and we see what he was made of -- the shadow of our highest ideal, crowned and throned. Now we have no God." .
+<Lucie_Trmíková> <people.person.nationality> "Czech Republic" .
+<Kolín> <common.topic.notable_for> "g.125ctmttl" .
+<Ivana_Bednarčíková> <people.person.children> "Kateřina Zemanová" .
+<Rebel> <common.topic.notable_types> "Profession" .
+<Male> <medicine.risk_factor.diseases> "Nephrotic syndrome" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0d5218t" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106612h" .
+<Karlovy_Vary_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Joseph_Edamaruku> <base.activism.activist.area_of_activism> "Atheism" .
+<Karlovy_Vary_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<Leprosy> <medicine.disease.risk_factors> "Male" .
+<m.09w1p59> <common.webpage.topic> "Politician" .
+<Eva_Randová> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Rational_Response_Squad> <organization.organization.sectors> "Atheism" .
+<Friedrich_Engels> <base.activism.activist.area_of_activism> "Atheism" .
+<Political_party> <freebase.type_profile.published> "Published" .
+<Ayn_Rand> <base.activism.activist.area_of_activism> "Atheism" .
+<Male> <medicine.risk_factor.diseases> "Esophageal cancer" .
+<Parkinson's_disease> <medicine.icd_9_cm_classification.parent_classification> "Parkinson's disease" .
+<Male> <medicine.risk_factor.diseases> "Kidney cancer" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0j7v__g" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0101bdq3" .
+<Male> <medicine.risk_factor.diseases> "Tetralogy of Fallot" .
+<m.0gl_m2h> <government.government_position_held.office_holder> "Miloš Zeman" .
+<neilplus's_types> <freebase.domain_profile.category> "Male" .
+<m.09y01p3> <common.webpage.topic> "Politician" .
+<Politician> <common.topic.webpage> "m.09yw165" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0101h_l2" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Rational Response Squad" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010662rx" .
+<Jan_Flachbart> <people.person.gender> "Male" .
+<South_Bohemian_Region> <location.administrative_division.country> "Czech Republic" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Union of Rationalist Atheists and Agnostics" .
+<Male> <medicine.risk_factor.diseases> "Pancreatic cancer" .
+<Vladimir_Lenin> <influence.influence_node.influenced> "Leon Trotsky" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Central Council of Ex-Muslims" .
+<Politician> <freebase.type_hints.included_types> "Topic" .
+<Kolín_District> <location.administrative_division.second_level_division_of> "Czech Republic" .
+<Non-gonococcal_urethritis> <medicine.disease.risk_factors> "Male" .
+<Atheism> <base.activism.activism_issue.activists> "Percy Bysshe Shelley" .
+<Czech_region> <base.aareas.schema.administrative_area_type.sovereignty> "Czech Republic" .
+<New_Hyperion_or_Liberty,_Equality,_Brotherhood> <film.film.language> "Czech Language" .
+<m.0q1yxl_> <government.government_position_held.jurisdiction_of_office> "Czech Republic" .
+<Female> <common.topic.subjects> "ZasPorn" .
+<Czech_Republic> <location.country.administrative_divisions> "Liberec Region" .
+<m.0s96twj> <location.administrative_division_capital_relationship.administrative_division> "Kolín District" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010662by" .
+<Youp_van_'t_Hek> <base.activism.activist.area_of_activism> "Atheism" .
+<Gout> <medicine.icd_9_cm_classification.includes_classifications> "Gout" .
+<Czechs> <common.topic.notable_for> "g.125h3zcm4" .
+<Political_party> <freebase.type_profile.strict_included_types> "Topic" .
+<Libuše_Geprtová> <people.deceased_person.place_of_death> "Prague" .
+<Frank_Daniel> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Male> <medicine.risk_factor.diseases> "Urolithiasis" .
+<Czech_Republic> <organization.organization_scope.organizations_with_this_scope> "Czech Social Democratic Party" .
+<Ayaan_Hirsi_Ali> <people.person.profession> "Politician" .
+<Politician> <people.profession.specializations> "Tribal chief" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "Liberec Region" .
+<Kolín> <location.location.people_born_here> "Jan Flachbart" .
+<Lucie_Trmíková> <people.person.place_of_birth> "Kolín" .
+<Male> <medicine.risk_factor.diseases> "Aortic aneurysm" .
+<Atheist_Alliance_International> <organization.organization.sectors> "Atheism" .
+<Male> <medicine.risk_factor.diseases> "Parkinson's disease" .
+<Kateřina_Zemanová> <people.person.parents> "Miloš Zeman" .
+<m.0cm4q89> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Kateřina_Šafránková> <people.person.nationality> "Czech Republic" .
+<Atheism> <base.activism.activism_issue.activists> "Tomás Garrido Canabal" .
+<Marie_Zemanová> <people.person.children> "Miloš Zeman" .
+<Male> <biology.hybrid_parent_gender.hybrids> "m.0blp580" .
+<Male> <base.schemastaging.context_name.pronunciation> "m.011sf4j6" .
+<Jan_Flachbart> <people.person.place_of_birth> "Kolín" .
+<Civil_Rights_Leader> <people.profession.specialization_of> "Politician" .
+<Czech_Republic> <location.country.capital> "Prague" .
+<Czech_region> <freebase.type_hints.included_types> "Topic" .
+<Atheism> <base.activism.activism_issue.activists> "Joseph Edamaruku" .
+<Erkki_Hartikainen> <base.activism.activist.area_of_activism> "Atheism" .
+<Stroke> <medicine.disease.risk_factors> "Male" .
+<Male> <freebase.domain_category.domains> "Massimo Zanini" .
+<Kolín> <common.topic.webpage> "m.03kxhlr" .
+<Fariborz_Shamshiri> <common.topic.notable_types> "Person" .
+<Atheism> <book.book_subject.works> "500 años fregados pero cristianos" .
+<Children’s_Rights_Leader> <common.topic.notable_types> "Profession" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "When ever a person talks loudly against religion, always suspect that it is not their reason, but their passions, which have got the better of their beliefs. A bad life and a good belief are disagreeable and troublesome neighbors; and when they separate, depend on it that it is for the sake of peace and quiet." .
+<Milan_Paumer> <common.topic.notable_types> "Deceased Person" .
+<Barbora_Poláková> <people.person.place_of_birth> "Kolín" .
+<Politician> <type.type.expected_by> "Winner" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "Vysočina Region" .
+<Czech_Republic> <location.country.administrative_divisions> "Central Bohemian Region" .
+<Politician> <people.profession.specializations> "Town supervisor" .
+<Hradec_Králové_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<Athlete's_foot> <medicine.disease.risk_factors> "Male" .
+<PZ_Myers> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<m.0q1z0w8> <people.marriage.spouse> "Blanka Zemanová" .
+<Male> <fictional_universe.fictional_setting.fictional_characters_born_here> "Shadow Figure" .
+<Turan_Dursun> <base.activism.activist.area_of_activism> "Atheism" .
+<Plzeň_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Tariq_Ali> <freebase.valuenotation.has_value> "Place of birth" .
+<AIDS_Policy_Specialist> <people.profession.specialization_of> "Politician" .
+<Paget's_disease_of_bone> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010g6wtj" .
+<Kolín> <location.location.people_born_here> "Miloš Zeman" .
+<Ústí_nad_Labem_Region> <location.location.containedby> "Czech Republic" .
+<Kolín> <location.location.people_born_here> "Lucie Martínková" .
+<Akinwunmi_Ambode> <people.person.profession> "Politician" .
+<Atheism> <book.book_subject.works> "Hollow Be Thy Name" .
+<Statesman> <common.topic.notable_types> "Profession" .
+<Pancreatic_cancer> <medicine.icd_9_cm_classification.includes_classifications> "Pancreatic cancer" .
+<Tetralogy_of_Fallot> <medicine.disease.risk_factors> "Male" .
+<Urethritis> <medicine.disease.risk_factors> "Male" .
+<All_the_King's_Men> <book.written_work.subjects> "Politician" .
+<Jiří_Rusnok> <people.person.nationality> "Czech Republic" .
+<m.09x5gkq> <common.webpage.topic> "Politician" .
+<Atheist_Alliance_International> <religion.religious_organization.associated_with> "Atheism" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Society of the Godless" .
+<Atheism> <base.activism.activism_issue.activists> "Paul Henri Thiry Holbach" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011r12cq" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "It is true, that a little philosophy inclineth man's mind to atheism, but depth in philosophy bringeth men's minds about to religion." .
+<Olomouc_Region> <location.administrative_division.country> "Czech Republic" .
+<GOD> <book.written_work.subjects> "Atheism" .
+<Objectivism:_The_Philosophy_of_Ayn_Rand> <book.written_work.subjects> "Atheism" .
+<Atheism> <base.activism.activism_issue.activists> "Bertrand Russell" .
+<Atheism> <book.book_subject.works> "The New Atheist Crusaders and Their Unholy Grail" .
+<Karl_Marx> <base.activism.activist.area_of_activism> "Atheism" .
+<Politician> <type.type.expected_by> "Responsible Minister" .
+<The_God_Delusion> <base.argumentmaps.innovative_work.originalidea> "Ultimate Boeing 747 gambit" .
+<m.03kxhlr> <common.webpage.topic> "Kolín" .
+<Vysočina_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<Male> <base.gender.gender_identity.people> "m.04mmfr8" .
+<Blanka_Zemanová> <people.person.spouse_s> "m.0q1z0w8" .
+<God:_The_Failed_Hypothesis> <book.written_work.subjects> "Atheism" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "God is dead" .
+<The_Atheist_Agenda> <organization.organization.sectors> "Atheism" .
+<Liberec_Region> <location.administrative_division.country> "Czech Republic" .
+<Housing_and_Community_Development_Leader> <common.topic.notable_types> "Profession" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "Zlín Region" .
+<Olomouc_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<Hradec_Králové_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Plzeň_Region> <location.location.containedby> "Czech Republic" .
+<Politician> <people.profession.specializations> "Housing and Community Development Leader" .
+<Politician> <type.type.expected_by> "Officeholder" .
+<Politician> <people.profession.specializations> "Tribal Rights Leader" .
+<Politician> <freebase.type_profile.strict_included_types> "Physically Instantiable" .
+<Small_amounts_of_philosophy_lead_to_atheism,_but_larger_amounts_bring_us_back_to_God.> <media_common.quotation.subjects> "Atheism" .
+<Politician> <people.profession.specializations> "Statesman" .
+<Enver_Hoxha> <base.activism.activist.area_of_activism> "Atheism" .
+<Male> <medicine.risk_factor.diseases> "Myocardial Ischemia" .
+<Percy_Bysshe_Shelley> <people.person.religion> "Atheism" .
+<Oficer-Major_of_King_Zog__I> <people.profession.specialization_of> "Politician" .
+<Atheism> <base.activism.activism_issue.activists> "Stellan Skarsgård" .
+<Atheism> <common.topic.article> "m.0kpx" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zmmt" .
+<I_Sold_My_Soul_on_eBay> <book.written_work.subjects> "Atheism" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.012vsxv7" .
+<m.09x20cj> <common.webpage.topic> "Politician" .
+<Liberec_Region> <location.location.containedby> "Czech Republic" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Atheist Centre" .
+<m.04j647l> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "Karlovy Vary Region" .
+<Ayn_Rand> <people.person.religion> "Atheism" .
+<David_Zeman> <people.person.parents> "Blanka Zemanová" .
+<Male> <medicine.risk_factor.diseases> "Acute myeloid leukemia" .
+<Kolín_District> <location.location.containedby> "Central Bohemian Region" .
+<Karl_Marx> <influence.influence_node.peers> "Friedrich Engels" .
+<Male> <medicine.risk_factor.diseases> "Ventricular tachycardia" .
+<Kolín> <location.location.people_born_here> "g.1228llmr" .
+<He_must_pull_out_his_own_eyes,_and_see_no_creature,_before_he_can_say,_he_sees_no_God;_He_must_be_no_man,_and_quench_his_reasonable_soul,_before_he_can_say_to_himself,_there_is_no_God.> <media_common.quotation.subjects> "Atheism" .
+<Leon_Trotsky> <influence.influence_node.influenced_by> "Vladimir Lenin" .
+<Politician> <common.topic.subject_of> "Jimi Agbaje" .
+<Miloš_Zeman> <people.person.parents> "Marie Zemanová" .
+<Sanal_Edamaruku> <people.person.religion> "Atheism" .
+<m.02_98hd> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Politician> <base.schemastaging.context_name.pronunciation> "g.125_lw10d" .
+<Breaking_the_Spell:_Religion_as_a_Natural_Phenomenon> <book.written_work.subjects> "Atheism" .
+<Czech_Republic> <location.country.administrative_divisions> "South Moravian Region" .
+<Letter_to_a_Christian_Nation> <book.written_work.subjects> "Atheism" .
+<Atheism> <base.activism.activism_issue.activists> "Cedomil Lausic Glasinovic" .
+<Energy_Policy_Specialist> <people.profession.specialization_of> "Politician" .
+<Atheism> <book.book_subject.works> "God: The Failed Hypothesis" .
+<Multiple_myeloma> <medicine.disease.parent_disease> "Cardiovascular disease" .
+<The_End_of_Faith> <book.written_work.next_in_series> "Letter to a Christian Nation" .
+<Male> <common.topic.notable_types> "Risk Factor" .
+<Miloš_Zeman> <people.person.gender> "Male" .
+<Dilsa_Demirbag_Sten> <people.person.religion> "Atheism" .
+<George_Carlin> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Doubt:_A_History_-_The_Great_Doubters_and_Their_Legacy_of_Innovation_from_Socrates_and_Jesus_to_Thomas_Jefferson_and_Emily_Dickinson> <book.written_work.subjects> "Atheism" .
+<If_there_is_no_God,_everything_is_permitted.> <media_common.quotation.subjects> "Atheism" .
+<Male> <medicine.risk_factor.diseases> "Athlete's foot" .
+<Atheism> <base.activism.activism_issue.activists> "Ayaan Hirsi Ali" .
+<Kolín> <location.location.people_born_here> "Irena Martínková" .
+<Male> <medicine.risk_factor.diseases> "Cardiovascular disease" .
+<Jacques_Hébert> <people.person.gender> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106629x" .
+<Miloš_Zeman> <government.political_appointer.appointees> "m.0w1wf1t" .
+<m.02_1x1x> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Czechs> <common.topic.image> "Czh-3" .
+<Golfer's_elbow> <medicine.disease.risk_factors> "Male" .
+<Atheism> <base.activism.activism_issue.activists> "Enver Hoxha" .
+<Freedom_From_Religion_Foundation> <organization.organization.sectors> "Atheism" .
+<Stellan_Skarsgård> <people.person.gender> "Male" .
+<Attention_deficit_hyperactivity_disorder> <medicine.disease.risk_factors> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5pl8" .
+<m.09xrn7q> <common.webpage.topic> "Politician" .
+<Paul_Henri_Thiry_Holbach> <people.person.religion> "Atheism" .
+<Czech_Republic> <location.country.administrative_divisions> "Moravian-Silesian Region" .
+<m.05bvk3z> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Sebaceous_cyst> <medicine.disease.risk_factors> "Male" .
+<South_Moravian_Region> <location.administrative_division.country> "Czech Republic" .
+<Friedrich_Engels> <influence.influence_node.influenced> "Karl Marx" .
+<Club_foot> <medicine.disease.risk_factors> "Male" .
+<Ayn_Rand> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Atheism> <book.book_subject.works> "Atheist Universe: Why God Didn't Have A Thing To Do With It" .
+<Ayn_Rand> <people.deceased_person.cause_of_death> "Cardiovascular disease" .
+<Anacharsis_Cloots> <people.person.gender> "Male" .
+<Akinwunmi_Ambode> <people.person.quotations> "Akinwunmi Ambode" .
+<Czech_Republic> <location.country.first_level_divisions> "Karlovy Vary Region" .
+<Deceased_Person> <freebase.type_hints.included_types> "Person" .
+<David_Zeman> <people.person.parents> "Miloš Zeman" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "heart attack" .
+<Jimi_Agbaje> <common.topic.subjects> "Politician" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Freedom From Religion Foundation" .
+<Czech_Republic> <location.country.first_level_divisions> "Plzeň Region" .
+<Czechs> <people.ethnicity.languages_spoken> "Czech Language" .
+<Czech_Republic> <location.location.containedby> "Europe" .
+<Bernard_Illowy> <people.person.place_of_birth> "Kolín" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.011njjm1" .
+<Place_of_birth> <rdf-schema#domain> "Person" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05cckn4" .
+<Lucie_Martínková> <people.person.gender> "Female" .
+<Paul_Henri_Thiry_Holbach> <base.activism.activist.area_of_activism> "Atheism" .
+<Male> <base.animalnames.animal_gender.animal_names> "m.05bvjy3" .
+<Kolín> <location.location.people_born_here> "Milan Paumer" .
+<Leon_Trotsky> <people.person.profession> "Statesman" .
+<Kolín> <location.location.people_born_here> "Bohdan Ulihrach" .
+<Moravian-Silesian_Region> <location.location.containedby> "Czech Republic" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066106" .
+<Zlín_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Olomouc_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010679yq" .
+<American_Atheists> <organization.organization.sectors> "Atheism" .
+<Politician> <common.topic.webpage> "m.09x20cj" .
+<The_Dawkins_Delusion?> <book.written_work.subjects> "Atheism" .
+<Chairman,_Chivalry_Democratic_Party> <common.topic.notable_types> "Profession" .
+<m.05bvkm6> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Czech_Republic> <location.country.first_level_divisions> "Vysočina Region" .
+<Kolín> <location.location.people_born_here> "Libuše Geprtová" .
+<Prague> <location.location.containedby> "Czech Republic" .
+<Miloš_Zeman> <government.politician.party> "m.0g4sl42" .
+<Atheism> <base.activism.activism_issue.activists> "Dilsa Demirbag Sten" .
+<m.04j64rh> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Party_of_Civic_Rights> <common.topic.article> "m.0c035dr" .
+<Cardiovascular_disease> <people.cause_of_death.includes_causes_of_death> "Cardiovascular disease" .
+<Miloš_Zeman> <people.person.nationality> "Czech Republic" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105znh0" .
+<Central_Bohemian_Region> <location.administrative_division.first_level_division_of> "Czech Republic" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106b4sm" .
+<Tomáš_Mojžíš> <people.person.nationality> "Czech Republic" .
+<If_you_don't_believe_in_God,_all_you_have_to_believe_in_is_decency._Decency_is_very_good._Better_decent_than_indecent._But_I_don't_think_it's_enough.> <media_common.quotation.subjects> "Atheism" .
+<Atheism> <book.book_subject.works> "Waiting for God" .
+<Libuše_Geprtová> <people.person.nationality> "Czech Republic" .
+<Terezie_Brzková> <people.person.gender> "Female" .
+<Atheism> <book.book_subject.works> "Darwin's Angel" .
+<m.0j7v__g> <biology.hybrid_parentage.parent_sex> "Male" .
+<Tariq_Ali> <people.person.religion> "Atheism" .
+<Male> <medicine.risk_factor.diseases> "Obstructive sleep apnea" .
+<Akinwunmi_Ambode> <people.person.gender> "Male" .
+<Erkki_Hartikainen> <common.topic.notable_types> "Person" .
+<Prime_Minister_of_the_Czech_Republic> <government.government_office_or_title.office_holders> "m.0gl_m2h" .
+<Darwin's_Angel> <book.written_work.subjects> "Atheism" .
+<m.05cckn4> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Cardiovascular_disease> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Sanal_Edamaruku> <people.person.parents> "Joseph Edamaruku" .
+<Percy_Bysshe_Shelley> <people.person.gender> "Male" .
+<Male> <base.gender.gender_identity.people> "m.04j647l" .
+<m.05bvklm> <base.animalnames.animal_specific_name_relationship.gender> "Male" .
+<Libuše_Geprtová> <people.person.place_of_birth> "Kolín" .
+<Kidney_cancer> <medicine.disease.risk_factors> "Male" .
+<Zlín_Region> <location.administrative_division.country> "Czech Republic" .
+<Rural_Development_Leader> <people.profession.specialization_of> "Politician" .
+<Karl_Marx> <people.person.profession> "Politician" .
+<Pardubice_Region> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Atheism> <book.book_subject.works> "Nothing: Something to Believe In" .
+<Ultimate_Boeing_747_gambit> <base.argumentmaps.argument.part_of_dispute> "Existence of God" .
+<Politician> <freebase.type_profile.strict_included_types> "Animate" .
+<Deceased_Person> <freebase.type_profile.published> "Published" .
+<Usurper> <common.topic.notable_types> "Profession" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zndc" .
+<Leon_Trotsky> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Male> <medicine.risk_factor.diseases> "Leprosy" .
+<Ayaan_Hirsi_Ali> <people.person.gender> "Female" .
+<If_there_was_a_god,_I'd_still_have_both_nuts.> <media_common.quotation.subjects> "Atheism" .
+<Ayaan_Hirsi_Ali> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Cedomil_Lausic_Glasinovic> <common.topic.notable_types> "Deceased Person" .
+<Risk_Factor> <freebase.type_hints.included_types> "Topic" .
+<Barbora_Poláková> <people.person.gender> "Female" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0_z5prp" .
+<Religion> <freebase.type_hints.included_types> "Topic" .
+<Miloš_Zeman> <people.person.children> "Kateřina Zemanová" .
+<Politician> <people.profession.specializations> "Party leader" .
+<Atheism> <common.topic.notable_types> "Religion" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010678k6" .
+<Viktor_Lennstrand> <base.activism.activist.area_of_activism> "Atheism" .
+<m.0b6r_sq> <common.webpage.topic> "Atheism" .
+<Abdominal_aortic_aneurysm> <medicine.disease.risk_factors> "Stroke" .
+<For_the_New_Intellectual> <book.written_work.author> "Ayn Rand" .
+<Female> <medicine.risk_factor.diseases> "Kyphosis" .
+<Eva_Randová> <people.person.place_of_birth> "Kolín" .
+<Males> <base.skosbase.skos_concept.equivalent_topic> "Male" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010661yt" .
+<Politician> <type.type.expected_by> "Resulting head of government" .
+<m.0lr1h1r> <government.political_party_tenure.party> "Czech Social Democratic Party" .
+<Lucie_Martínková> <people.person.place_of_birth> "Kolín" .
+<Karlovy_Vary_Region> <location.administrative_division.country> "Czech Republic" .
+<Mayor_of_Auckland> <common.topic.notable_types> "Profession" .
+<Jimi_Agbaje> <people.person.gender> "Male" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "I'm an atheist and I thank God for it." .
+<Czechs> <common.topic.article> "m.013s3w" .
+<Czech_Republic> <location.country.official_language> "Czech Language" .
+<The_God_of_the_Old_testament_is_arguably_the_most_unpleasant_character_in_all_fiction...> <media_common.quotation.subjects> "Atheism" .
+<heart_attack> <people.cause_of_death.parent_cause_of_death> "Cardiovascular disease" .
+<Kateřina_Zemanová> <people.person.sibling_s> "m.0w4hxy1" .
+<Kateřina_Zemanová> <people.person.parents> "Ivana Bednarčíková" .
+<Town_supervisor> <people.profession.specialization_of> "Politician" .
+<Karlovy_Vary_Region> <base.aareas.schema.administrative_area.administrative_area_type> "Czech region" .
+<Atheism> <book.book_subject.works> "Breaking the Spell: Religion as a Natural Phenomenon" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0105zn7k" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0106613k" .
+<m.0w0fj5n> <award.award_honor.award_winner> "Miloš Zeman" .
+<Atheism> <book.book_subject.works> "The End of Faith" .
+<Czech_Republic> <base.aareas.schema.administrative_area.administrative_children> "Hradec Králové Region" .
+<Syphilis> <medicine.disease.risk_factors> "Male" .
+<Percy_Bysshe_Shelley> <base.activism.activist.area_of_activism> "Atheism" .
+<Cardiovascular_disease> <medicine.disease_cause.diseases> "Transient ischemic attack" .
+<Jan_Novak> <people.person.place_of_birth> "Kolín" .
+<Joseph_Edamaruku> <people.person.gender> "Male" .
+<What_Is_to_Be_Done?_(A_Journey_from_Prague_to_Český_Krumlov,_or_How_I_Formed_a_New_Government)> <film.film.country> "Czech Republic" .
+<Atheism> <organization.organization_sector.organizations_in_this_sector> "Military Association of Atheists & Freethinkers" .
+<Male> <medicine.risk_factor.diseases> "Kyphosis" .
+<Atheism> <book.book_subject.works> "For the New Intellectual" .
+<Atheism> <base.activism.activism_issue.activists> "Tariq Ali" .
+<Politician> <base.ontologies.ontology_instance.equivalent_instances> "m.07ngkqq" .
+<Prague> <base.aareas.schema.administrative_area.administrative_parent> "Czech Republic" .
+<Politician> <people.profession.specializations> "Labor leader" .
+<PZ_Myers> <people.person.gender> "Male" .
+<Kolín> <location.location.people_born_here> "Jan Novak" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.0101bdn_" .
+<m.0s96twj> <location.administrative_division_capital_relationship.capital> "Kolín" .
+<Politician> <freebase.type_hints.included_types> "Person" .
+<m.09td39b> <base.gender.personal_gender_identity.gender_identity> "Male" .
+<Czech_Republic> <location.country.first_level_divisions> "South Moravian Region" .
+<Atheist_Universe:_Why_God_Didn't_Have_A_Thing_To_Do_With_It> <book.written_work.subjects> "Atheism" .
+<Czech_Republic> <government.governmental_jurisdiction.governing_officials> "m.0w1wf1t" .
+<Kyphosis> <medicine.disease.risk_factors> "Female" .
+<Ultimate_Boeing_747_gambit> <base.argumentmaps.original_idea.first_appears_in_work> "The God Delusion" .
+<Joseph_Stalin> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Enver_Hoxha> <common.topic.notable_types> "Politician" .
+<David_Zeman> <people.person.gender> "Male" .
+<Kolín> <location.location.contains> "g.11dyjf6lp" .
+<Atheism> <book.book_subject.works> "Case Against Religion" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.01066mdj" .
+<Frank_Daniel> <people.person.place_of_birth> "Kolín" .
+<Deceased_Person> <freebase.type_profile.strict_included_types> "Topic" .
+<Kolín> <location.location.people_born_here> "Luboš Dobrovský" .
+<Enver_Hoxha> <people.person.gender> "Male" .
+<Marie_Zemanová> <freebase.valuenotation.has_value> "Place of birth" .
+<Vysočina_Region> <location.location.containedby> "Czech Republic" .
+<Prefect> <common.topic.notable_types> "Profession" .
+<Atheism> <base.activism.activism_issue.activists> "PZ Myers" .
+<Male> <medicine.risk_factor.diseases> "Hypospadias" .
+<Atheism> <base.activism.activism_issue.activists> "Anacharsis Cloots" .
+<Party> <type.property.master_property> "Politician" .
+<Male> <medicine.risk_factor.diseases> "Retroperitoneal fibrosis" .
+<Politician> <base.descriptive_names.names.descriptive_name> "m.010660nv" .
+<The_End_of_Faith> <book.written_work.subjects> "Atheism" .
+<Atheism> <media_common.quotation_subject.quotations_about_this_subject> "He was an embittered atheist (the sort of atheist who does not so much disbelieve in God as personally dislike Him)." .
+<George_Carlin> <people.deceased_person.cause_of_death> "Cardiovascular disease" .
+<Bureaucrat> <people.profession.specialization_of> "Politician" .
+<Miloš_Zeman> <government.politician.party> "m.0pclzbg" .
+<m.0g4sl42> <government.political_party_tenure.party> "Party of Civic Rights" .
+<Politician> <freebase.type_profile.published> "Published" .
+<Kolín> <location.location.people_born_here> "Robert Saudek" .
+<Kolín> <location.location.people_born_here> "Barbora Poláková" .

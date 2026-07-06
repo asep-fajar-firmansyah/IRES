@@ -1,0 +1,1688 @@
+<Administrative_Area> <freebase.type_hints.included_types> "Location" .
+<Keya_Paha_River> <location.location.partially_contained_by> "m.0wg90qn" .
+<U.S._independent_city> <base.aareas.schema.administrative_area_type.iso_country> "United States of America" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbrvn" .
+<Battle_of_Brunkeberg> <time.event.locations> "South Dakota" .
+<Scott_Roorda> <people.person.nationality> "United States of America" .
+<m.0_ly3yv> <government.government_position_held.governmental_body> "South Dakota Senate" .
+<Land_area> <type.property.schema> "Location" .
+<Location> <freebase.domain_profile.users> "colemanm" .
+<Canadian_Province> <freebase.type_profile.strict_included_types> "Topic" .
+<South_Dakota> <location.location.people_born_here> "Rebecca Lee" .
+<South_Dakota> <location.location.people_born_here> "Forrest W. Seymour" .
+<m.04lsw5r> <common.webpage.category> "Official Website" .
+<German_state> <type.type.domain> "Location" .
+<Significant> <freebase.type_kind.types> "Malaysian state" .
+<Significant> <freebase.type_kind.types> "US County" .
+<Australian_State> <freebase.type_hints.included_types> "Statistical region" .
+<Third_level_division_of> <rdf-schema#range> "Country" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<Significant> <freebase.type_kind.types> "South Korean province" .
+<Watertown> <common.topic.notable_types> "City/Town/Village" .
+<South_Dakota> <location.location.people_born_here> "Lori K. Gordon" .
+<U.S._state> <common.topic.notable_for> "g.12q4p7dvx" .
+<state> <type.property.expected_type> "US State" .
+<Mean_elevation> <rdf-schema#domain> "Location" .
+<Newspaper> <type.type.properties> "Headquarters" .
+<Newspaper> <freebase.type_profile.strict_included_types> "Topic" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbqp9" .
+<Significant> <freebase.type_kind.types> "US President" .
+<US_State> <type.type.expected_by> "state" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbqdt" .
+<South_Dakota> <location.statistical_region.religions> "m.04405_y" .
+<South_Dakota> <book.book_subject.works> "The Long Winter" .
+<Contiguous_United_States> <location.location.time_zones> "Mountain Time Zone" .
+<Location> <freebase.domain_profile.featured_views> "Ukraine Oblast" .
+<South_Dakota> <location.statistical_region.religions> "m.04406lq" .
+<Argentine_province> <type.type.domain> "Location" .
+<Australian_State> <freebase.type_hints.included_types> "Location" .
+<Location> <freebase.domain_profile.featured_views> "City/Town" .
+<Midwestern_United_States> <location.location.containedby> "United States of America" .
+<Country> <type.property.schema> "Administrative Division" .
+<Published> <base.industrystandards.industry_standard_status.standards> "ISO 13250-2" .
+<m.010hbqdt> <government.government_position_held.office_holder> "Carl Gunderson" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbqmb" .
+<South_Dakota> <location.location.people_born_here> "Mary GrandPré" .
+<United_States_of_America> <base.aareas.schema.administrative_area.pertinent_type> "U.S. state" .
+<South_Korean_province> <freebase.type_hints.included_types> "Administrative Division" .
+<Nearby_airports> <rdf-schema#domain> "Location" .
+<Jeremy_Hinzman> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota_Senate> <government.governmental_body.members> "m.0_ly3yv" .
+<Canadian_Province> <freebase.type_hints.included_types> "Location" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Statistical region" .
+<Topic> <freebase.type_profile.kind> "Meta" .
+<Contiguous_United_States> <location.location.time_zones> "Central Time Zone" .
+<South_Dakota> <location.location.people_born_here> "Zitkala-Sa" .
+<m.04mgp1b> <book.periodical_format_period.periodical> "Watertown Public Opinion" .
+<South_Dakota> <common.topic.webpage> "m.09y36rh" .
+<South_Dakota> <location.location.people_born_here> "Nate Dammann" .
+<Battle_of_Stäket> <time.event.locations> "South Dakota" .
+<Watertown_Public_Opinion> <book.periodical.format> "m.04mgp1b" .
+<m.05kcq14> <government.government_position_held.district_represented> "South Dakota" .
+<Administrative_Division> <type.type.domain> "Location" .
+<Topic> <type.type.properties> "Subject of" .
+<South_Dakota> <location.location.people_born_here> "James Edward Zimmerman" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90qv" .
+<Pierre> <common.topic.notable_types> "City/Town/Village" .
+<West_North_Central_States> <location.location.containedby> "Contiguous United States" .
+<m.0_t_3n7> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<m.0wg90q5> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<m.02tbl_n> <location.adjoining_relationship.adjoins> "South Dakota" .
+<Newspaper> <type.type.expected_by> "Newspapers" .
+<Olive_Olson> <people.person.nationality> "United States of America" .
+<Significant> <freebase.type_kind.types> "English region" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Inanimate" .
+<U.S._county> <base.aareas.schema.administrative_area_type.administrative_division_type> "US County" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbp7c" .
+<Water_area> <type.property.schema> "Location" .
+<Contains> <type.property.reverse_property> "Contained by" .
+<Fourth_level_divisions> <type.property.reverse_property> "Fourth level division of" .
+<Donna_Lass> <people.person.place_of_birth> "South Dakota" .
+<Second_level_division_of> <type.property.expected_type> "Country" .
+<South_Dakota> <location.location.people_born_here> "Margaret Hasse" .
+<Social_media_presence> <type.property.schema> "Topic" .
+<shape> <rdf-schema#domain> "Location" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<First_level_division_of> <type.property.expected_type> "Country" .
+<Partially_contained_by> <type.property.expected_type> "Location" .
+<m.0ccctqc> <common.topic.notable_for> "g.1q5zfxgrq" .
+<Mike_Kopp> <people.person.place_of_birth> "South Dakota" .
+<Location> <freebase.domain_profile.featured_views> "Brazilian municipality" .
+<Circulation_Areas> <owl#inverseOf> "Newspapers" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_q_m1p" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0zct45z" .
+<US_State> <freebase.type_profile.published> "Published" .
+<Location> <freebase.domain_profile.featured_views> "HUD Nonmetro FMR Area" .
+<m.09sbz6h> <book.periodical_frequency.frequency> "Daily" .
+<Location> <type.type.properties> "Events" .
+<m.0_lr8dj> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90q5" .
+<Location> <freebase.domain_profile.users> "davidmetcalfe" .
+<m.010hbsd9> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Significant> <freebase.type_kind.types> "Archdiocese" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbsd9" .
+<South_Dakota> <location.location.geolocation> "m.046vxcn" .
+<m.010hbnm8> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Waneta> <people.person.place_of_birth> "South Dakota" .
+<United_States,_with_Territories> <location.country.first_level_divisions> "United States of America" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbqp9" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_t_3n7" .
+<Bernie_Hunhoff> <people.person.nationality> "United States of America" .
+<U.S._independent_city> <base.aareas.schema.administrative_area_type.sovereignty> "United States of America" .
+<Richard_Twiss> <people.person.nationality> "United States of America" .
+<Country> <freebase.type_profile.kind> "Significant" .
+<South_Dakota> <book.book_subject.works> "The First Four Years" .
+<First_level_division_of> <type.property.master_property> "First level divisions" .
+<Cindy_Preszler> <people.person.place_of_birth> "South Dakota" .
+<m.0wg90q_> <location.partial_containment_relationship.partially_contains> "Grand River" .
+<U.S._state> <base.aareas.schema.administrative_area_type.sovereignty> "United States of America" .
+<South_Dakota> <book.book_subject.works> "These Happy Golden Years" .
+<Newspaper> <freebase.documented_object.documentation> "m.02nqldv" .
+<U.S._county> <base.aareas.schema.administrative_area_type.iso_country> "United States of America" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0_hgp2y" .
+<26715_South_Dakota> <symbols.namesake.named_after> "South Dakota" .
+<m.02tbm02> <location.adjoining_relationship.adjoins> "South Dakota" .
+<Contains_major_portion_of> <rdf-schema#domain> "Location" .
+<South_Dakota> <common.topic.webpage> "m.09y396j" .
+<GEOnet_feature_ID> <rdf-schema#domain> "Location" .
+<Contained_by> <rdf-schema#domain> "Location" .
+<Location> <type.type.properties> "Contains" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbsb6" .
+<German_state> <freebase.type_hints.included_types> "Location" .
+<Lee_R._Raymond> <people.person.place_of_birth> "South Dakota" .
+<Mexican_state> <freebase.type_hints.included_types> "Administrative Division" .
+<Administrative_Division> <freebase.type_profile.published> "Published" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbnm8" .
+<Cheyenne_River> <location.location.partially_contained_by> "m.0wg90pq" .
+<Location> <type.type.properties> "Geolocation" .
+<Administrative_Division> <type.type.expected_by> "Administrative divisions" .
+<m.010hbnp7> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Canadian_Province> <freebase.type_profile.kind> "Significant" .
+<Adjoins> <rdf-schema#domain> "Location" .
+<Location> <freebase.domain_profile.users> "andreasl" .
+<South_Dakota> <symbols.name_source.namesakes> "26715 South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hcjrn" .
+<Administrative_Division> <freebase.documented_object.documentation> "m.02hpzsm" .
+<Location> <freebase.domain_profile.featured_views> "Countries by Population" .
+<Philip_Testerman> <people.person.place_of_birth> "South Dakota" .
+<Horace_H._Fuller> <people.person.nationality> "United States of America" .
+<Topic> <freebase.type_profile.kind> "Portrayal" .
+<Administrative_Division> <type.type.properties> "Third level division of" .
+<Headquarters> <rdf-schema#domain> "Newspaper" .
+<South_Dakota> <location.location.people_born_here> "Ron Hagerthy" .
+<Administrative_Division> <type.type.properties> "Fourth level division of" .
+<m.0_hgp2y> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Pierre> <location.location.time_zones> "Central Time Zone" .
+<Brazilian_state> <freebase.type_hints.included_types> "Location" .
+<Area> <rdf-schema#domain> "Location" .
+<GNIS_ID> <rdf-schema#domain> "Location" .
+<South_Dakota> <government.governmental_jurisdiction.official_symbols> "m.04stq2t" .
+<m.010hbng9> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_lz0lj" .
+<South_Dakota> <location.location.people_born_here> "Kylee Nash" .
+<Notable_types> <type.property.schema> "Topic" .
+<Bois_de_Sioux_River> <location.location.partially_containedby> "South Dakota" .
+<First_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Rollin_Hamilton> <people.person.nationality> "United States of America" .
+<Location> <freebase.type_profile.kind> "Meta" .
+<South_Dakota> <location.location.people_born_here> "John Sherrill Houser" .
+<Forrest_W._Seymour> <people.person.place_of_birth> "South Dakota" .
+<Vietnamese_province> <freebase.type_hints.included_types> "Topic" .
+<2013_South_Dakota_Film_Festival> <time.event.locations> "South Dakota" .
+<point> <type.property.schema> "Location" .
+<m.0_lv3jn> <government.government_position_held.governmental_body> "South Dakota Senate" .
+<m.0wg90rp> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<Mount_Rushmore> <book.written_work.subjects> "United States of America" .
+<Spirit_beings_and_sun_dancers> <book.written_work.subjects> "South Dakota" .
+<m.0jsrp5g> <symbols.flag_use.flag_user> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbp3k" .
+<South_Dakota_Senate> <government.governmental_body.members> "m.0_r60vz" .
+<Statistical_region> <freebase.type_profile.published> "Published" .
+<U.S._county> <base.aareas.schema.administrative_area_type.pertains_to> "United States of America" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbqmb" .
+<South_Dakota> <location.location.people_born_here> "Randy Lewis" .
+<Administrative_Division> <type.type.expected_by> "State/Province/Region" .
+<m.04st76b> <location.location_symbol_relationship.administrative_division> "South Dakota" .
+<Topic> <type.type.properties> "Article" .
+<m.052jj9j> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbqdt" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_sg8py" .
+<The_Long_Winter> <book.written_work.previous_in_series> "By the Shores of Silver Lake" .
+<Secretary_of_State_of_South_Dakota> <government.government_office_or_title.jurisdiction> "South Dakota" .
+<m.0wg90pk> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<Paul_Fitzgibbon> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Philip Testerman" .
+<Mary_Lou_Harkness> <people.person.place_of_birth> "South Dakota" .
+<Horace_H._Fuller> <people.person.place_of_birth> "South Dakota" .
+<m.0102_8jf> <freebase.valuenotation.has_no_value> "To" .
+<Tony_Dean> <people.person.place_of_birth> "South Dakota" .
+<U.S._state> <freebase.type_hints.included_types> "Administrative Area" .
+<South_Dakota> <location.location.people_born_here> "Moses Stranger Horse" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<UN/LOCODE> <rdf-schema#domain> "Location" .
+<Matt_Burns> <people.person.nationality> "United States of America" .
+<m.010hbs76> <government.government_position_held.office_position_or_title> "Lieutenant Governor of South Dakota" .
+<Street_address> <rdf-schema#domain> "Location" .
+<Administrative_Division> <type.type.expected_by> "estado" .
+<Country> <freebase.type_hints.included_types> "Dated location" .
+<Lyle_Clement> <people.person.nationality> "United States of America" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbrrk" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_v3t3p" .
+<m.010d91vg> <government.government_position_held.district_represented> "South Dakota" .
+<Charles_DuVal_Roberts> <people.person.place_of_birth> "South Dakota" .
+<These_Happy_Golden_Years> <book.written_work.subjects> "South Dakota" .
+<US_State> <freebase.type_profile.strict_included_types> "Topic" .
+<Erika_M._Anderson> <people.person.place_of_birth> "South Dakota" .
+<US_State> <type.type.expected_by> "State" .
+<Location> <freebase.domain_profile.users> "ssal97" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbqk_" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0_qcrt1" .
+<m.0_ly3yv> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Image> <type.property.schema> "Topic" .
+<South_Dakota> <location.location.people_born_here> "Glenn P. Thompson" .
+<Significant> <freebase.type_kind.types> "Olympic Medal Winner" .
+<Deity> <freebase.type_profile.published> "Published" .
+<Location> <freebase.domain_profile.users> "bteoman" .
+<Australian_State> <type.type.domain> "Location" .
+<Location> <freebase.domain_profile.users> "mnfbmf" .
+<German_state> <freebase.type_hints.included_types> "Dated location" .
+<South_Dakota> <location.location.people_born_here> "Tony Dean" .
+<Location> <freebase.domain_profile.users> "adichad" .
+<Location> <freebase.domain_profile.users> "brendan" .
+<near> <rdf-schema#domain> "Location" .
+<Sister_to_the_Sioux> <book.written_work.subjects> "South Dakota" .
+<State/Province/Region> <rdf-schema#range> "Administrative Division" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbng9" .
+<Statistical_region> <base.schemastaging.type_extended.extended_type> "Statistical region extra" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbqhb" .
+<Capital> <rdf-schema#range> "City/Town/Village" .
+<Significant> <freebase.type_kind.types> "Country" .
+<Carl_Gunderson> <government.politician.government_positions_held> "m.010hbqdt" .
+<Location> <type.type.properties> "Partially contained by" .
+<Second_level_divisions> <type.property.reverse_property> "Second level division of" .
+<United_States_of_America> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Location> <type.type.properties> "inside" .
+<Third_level_division_of> <type.property.expected_type> "Country" .
+<Location> <freebase.domain_profile.users> "thejackal" .
+<Adam_Johnson> <people.person.place_of_birth> "South Dakota" .
+<White_River> <location.location.partially_contained_by> "m.0wg90q5" .
+<State/Province> <base.aareas.administrative_area_level.coding_schemes> "FIPS 10-4" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbqs4" .
+<First_level_divisions> <owl#inverseOf> "First level division of" .
+<m.010hbqp9> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Chinese_province> <freebase.type_hints.included_types> "Topic" .
+<Location> <type.type.properties> "Water area" .
+<Location> <type.type.properties> "point" .
+<US_State> <type.type.expected_by> "State" .
+<Minimum_wage> <type.property.schema> "Statistical region" .
+<South_Dakota> <location.location.people_born_here> "Ed McGaa" .
+<m.010hbs5g> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Indiana> <rdf-schema#range> "US State" .
+<Bill_Johnson> <people.person.place_of_birth> "South Dakota" .
+<Luther_Standing_Bear> <people.person.nationality> "United States of America" .
+<State/Province> <freebase.type_hints.included_types> "Administrative Area" .
+<South_Dakota> <book.book_subject.works> "Picture Perfect" .
+<US_State> <freebase.type_hints.included_types> "Topic" .
+<Watertown_Public_Opinion> <book.periodical.frequency_or_issues_per_year> "m.09sbz6h" .
+<South_Dakota> <location.location.people_born_here> "Adam Emerson" .
+<Topic> <type.type.properties> "Image" .
+<m.010hbqcd> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Earl Rose" .
+<Little_Town_on_the_Prairie> <book.written_work.next_in_series> "These Happy Golden Years" .
+<Dated_location> <type.type.properties> "Date dissolved" .
+<Mexican_state> <freebase.type_hints.included_types> "Dated location" .
+<Periodical> <type.type.domain> "Periodicals" .
+<m.010hbp3k> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Location> <type.type.properties> "Contains major portion of" .
+<m.09x0glj> <common.webpage.topic> "South Dakota" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbqs4" .
+<Newspaper> <freebase.type_profile.published> "Published" .
+<Cheyenne_River> <location.location.partially_containedby> "South Dakota" .
+<Second_level_divisions> <rdf-schema#range> "Administrative Division" .
+<Administrative_Division> <freebase.type_hints.included_types> "Topic" .
+<Newspaper> <type.type.domain> "Periodicals" .
+<m.0_ly6zs> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<Location> <freebase.domain_profile.featured_views> "HUD Foreclosure Area Type" .
+<Chinese_province> <freebase.type_hints.included_types> "Statistical region" .
+<Moses_Stranger_Horse> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.location.containedby> "United States of America" .
+<Partially_contained_by> <rdf-schema#domain> "Location" .
+<Foxy_Callahan> <people.person.place_of_birth> "South Dakota" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbn99" .
+<Contiguous_United_States> <location.location.contains> "West North Central States" .
+<Dusty_McCrea> <people.person.place_of_birth> "South Dakota" .
+<Mexican_state> <freebase.type_profile.strict_included_types> "Topic" .
+<White_River> <location.location.partially_containedby> "South Dakota" .
+<Richard_Twiss> <people.person.place_of_birth> "South Dakota" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "South Dakota" .
+<Olympic_venue> <freebase.type_hints.included_types> "Topic" .
+<m.010hbnw1> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Clint Godfrey" .
+<Contains> <type.property.schema> "Location" .
+<Third_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Owner> <owl#inverseOf> "Newspapers Owned" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0_hhwdl" .
+<US_County> <freebase.type_profile.strict_included_types> "Dated location" .
+<Location> <freebase.domain_profile.users> "gkamp" .
+<Steven_L._Jordan> <people.person.place_of_birth> "South Dakota" .
+<Charles_Hargens> <people.person.nationality> "United States of America" .
+<Subjects> <type.property.schema> "Topic" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90q0" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbnc6" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Location" .
+<Location> <type.type.properties> "Adjoins" .
+<U.S._state> <freebase.type_hints.included_types> "Location" .
+<Location> <freebase.domain_profile.featured_views> "Location" .
+<Location> <freebase.domain_profile.users> "ma_graceaguilar" .
+<South_Dakota> <location.location.people_born_here> "George Lynn Cross" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.04x_n8n" .
+<GEOnet_feature_ID> <type.property.schema> "Location" .
+<Deity> <freebase.type_hints.included_types> "Topic" .
+<State> <type.property.schema> "Congressional district" .
+<Leslie_Jensen> <government.politician.government_positions_held> "m.010hbp65" .
+<South_Dakota> <base.locations.states_and_provences.country> "United States of America" .
+<James_River> <location.location.containedby> "United States of America" .
+<Location> <freebase.domain_profile.users> "konstantin" .
+<United_Communications_Corporation> <business.business_operation.industry> "Newspaper" .
+<Watertown_Public_Opinion> <book.newspaper.headquarters> "m.0ccctqc" .
+<Periodical> <freebase.type_profile.strict_included_types> "Topic" .
+<Meta> <freebase.type_kind.types> "Topic" .
+<South_Dakota> <location.location.people_born_here> "Archie Fire Lame Deer" .
+<Administrative_Division> <freebase.type_hints.included_types> "Statistical region" .
+<Second_level_divisions> <rdf-schema#domain> "Country" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.subdividing_place> "United States of America" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<South_Dakota> <government.political_district.representatives> "m.010d91vg" .
+<Events> <rdf-schema#domain> "Location" .
+<Location> <freebase.domain_profile.users> "maxoliver" .
+<City/Town/Village> <type.type.domain> "Location" .
+<m.010hbn99> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Location> <freebase.domain_profile.users> "politicalscientist" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbs0p" .
+<Topic> <freebase.documented_object.documentation> "m.0kpqw_" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbqk_" .
+<m.0hzbk4j> <location.location_symbol_relationship.administrative_division> "South Dakota" .
+<m.09yr4w2> <common.webpage.topic> "South Dakota" .
+<US_State> <type.type.expected_by> "State" .
+<Topic> <type.type.properties> "Weblink" .
+<Contains> <rdf-schema#domain> "Location" .
+<John_L._Brown> <people.person.place_of_birth> "South Dakota" .
+<U.S._independent_city> <freebase.type_hints.included_types> "Location" .
+<Significant> <freebase.type_kind.types> "French Region" .
+<Location> <type.type.properties> "Street address" .
+<EPIC_Systems,_Inc> <organization.organization.geographic_scope> "United States of America" .
+<People_born_here> <rdf-schema#domain> "Location" .
+<m.010hbnrc> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Minimum_wage> <rdf-schema#domain> "Statistical region" .
+<West_North_Central_States> <location.location.containedby> "Midwestern United States" .
+<Lee_R._Raymond> <people.person.nationality> "United States of America" .
+<Administrative_Division> <type.type.expected_by> "location_state_province_region" .
+<South_Dakota> <location.location.people_born_here> "Steven L. Jordan" .
+<Significant> <freebase.type_kind.types> "Religious Leader" .
+<Contains_major_portion_of> <type.property.schema> "Location" .
+<Country> <freebase.type_profile.strict_included_types> "Dated location" .
+<South_Korean_province> <freebase.type_hints.included_types> "Dated location" .
+<The_First_Four_Years> <book.written_work.subjects> "United States of America" .
+<US_County> <freebase.type_profile.kind> "Definition" .
+<m.010hbs8h> <government.government_position_held.office_position_or_title> "Lieutenant Governor of South Dakota" .
+<Argentine_province> <freebase.type_hints.included_types> "Topic" .
+<m.010hbqqv> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Dean O. Mehlhaff" .
+<South_Dakota> <location.location.time_zones> "Central Time Zone" .
+<Location> <freebase.domain_profile.featured_views> "Cities and towns in Iraq" .
+<Significant> <freebase.type_kind.types> "Brazilian state" .
+<South_Dakota> <location.location.events> "Battle of Brunkeberg" .
+<Mount_Rushmore> <book.written_work.subjects> "South Dakota" .
+<Location> <type.type.properties> "UN/LOCODE" .
+<Chinese_province> <type.type.domain> "Location" .
+<Watertown_Public_Opinion> <book.periodical.publisher> "m.0102_8jf" .
+<Location> <freebase.domain_profile.users> "marcos9" .
+<Martin_W._Johnson> <people.person.place_of_birth> "South Dakota" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Topic" .
+<Description> <rdf-schema#domain> "Topic" .
+<Partially_contained_by> <rdf-schema#range> "Location" .
+<m.010hbnc6> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Grand_River> <location.location.partially_containedby> "South Dakota" .
+<US_County> <freebase.type_profile.strict_included_types> "Topic" .
+<State> <type.property.expected_type> "US State" .
+<Primarily_contained_by> <type.property.master_property> "Contains major portion of" .
+<m.010hbqhb> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<m.010w5wcy> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<South_Dakota> <book.book_subject.works> "The real Deadwood" .
+<m.0jskk6b> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <common.topic.webpage> "m.09x0glj" .
+<Location> <freebase.domain_profile.users> "azdak" .
+<Geometry> <type.property.schema> "Location" .
+<Fred_Sherman> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90pq" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0_t_3n7" .
+<Location> <type.type.properties> "USBG name" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_ly6zs" .
+<Statistical_region> <freebase.type_hints.included_types> "Location" .
+<m.0wg90pw> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<Newspaper> <type.type.properties> "Circulation Areas" .
+<Second_level_divisions> <type.property.expected_type> "Administrative Division" .
+<US_County> <freebase.type_hints.included_types> "Topic" .
+<Location> <freebase.domain_profile.users> "wonderant" .
+<m.03bnlft> <common.document.content> "m.03bnlfy" .
+<m.0klr37g> <location.cotermination.location> "South Dakota" .
+<Missouri_River> <location.location.partially_containedby> "South Dakota" .
+<Partially_contained_by> <type.property.master_property> "Partially contains" .
+<Location> <freebase.domain_profile.users> "midness" .
+<Country> <freebase.type_profile.published> "Published" .
+<Canadian_Province> <freebase.type_profile.published> "Published" .
+<South_Dakota> <location.location.events> "Ghost Dance War" .
+<Secretary_of_State_of_South_Dakota> <government.government_office_or_title.office_holders> "m.0hz79w2" .
+<South_Dakota> <freebase.valuenotation.is_reviewed> "Time zone(s)" .
+<Second_level_division_of> <type.property.master_property> "Second level divisions" .
+<City/Town/Village> <freebase.type_profile.kind> "Significant" .
+<South_Dakota> <location.location.adjoin_s> "m.02tbm0j" .
+<South_Dakota> <common.topic.image> "South Dakota.png" .
+<m.0wg90qn> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<Cheyenne_River> <location.location.containedby> "United States of America" .
+<m.03lzsl6> <common.webpage.topic> "Watertown Public Opinion" .
+<U.S._state> <common.topic.subject_of> "Amerijuana" .
+<South_Dakota> <book.book_subject.works> "From the Black Hills" .
+<South_Dakota> <location.location.partially_contains> "North Fork Grand River" .
+<Fred_Sherman> <people.person.nationality> "United States of America" .
+<South_Dakota> <location.location.people_born_here> "Mary Lou Harkness" .
+<Nearby_airports> <type.property.schema> "Location" .
+<Location> <freebase.domain_profile.users> "leybzon" .
+<Significant> <freebase.type_kind.types> "Olympic venue" .
+<Location> <type.type.properties> "Partially contains" .
+<Canadian_Province> <freebase.type_hints.included_types> "Topic" .
+<Country> <owl#inverseOf> "Administrative Divisions" .
+<Significant> <freebase.type_kind.types> "Mexican state" .
+<Olympic_venue> <freebase.type_hints.included_types> "Location" .
+<Owner> <type.property.reverse_property> "Newspapers Owned" .
+<South_Dakota> <location.location.containedby> "Midwestern United States" .
+<Administrative_Division> <type.type.expected_by> "City Seat" .
+<South_Dakota> <government.governmental_jurisdiction.official_symbols> "m.0hzdp5y" .
+<Significant> <freebase.type_kind.types> "Church" .
+<Significant> <freebase.type_kind.types> "City/Town/Village" .
+<Mexican_state> <freebase.type_profile.published> "Published" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbs3c" .
+<Location> <freebase.domain_profile.featured_views> "Country" .
+<US_State> <freebase.type_hints.included_types> "Administrative Division" .
+<Nairobi> <common.topic.notable_types> "City/Town/Village" .
+<m.010hbqmb> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Periodical> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Country> <freebase.type_profile.strict_included_types> "Topic" .
+<m.010hbsb6> <government.government_position_held.office_position_or_title> "Lieutenant Governor of South Dakota" .
+<Location> <common.topic.article> "m.0kpqs_" .
+<Significant> <freebase.type_kind.types> "Billionaire" .
+<1st_Dakota_Cavalry_Battalion> <military.military_unit.place_of_origin> "South Dakota" .
+<Partially_contains> <rdf-schema#domain> "Location" .
+<m.09y396j> <common.webpage.topic> "South Dakota" .
+<Location> <freebase.domain_profile.featured_views> "HUD HFMA" .
+<Topic> <type.type.properties> "Also known as" .
+<Argentine_province> <freebase.type_hints.included_types> "Dated location" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbp53" .
+<Second_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Country> <type.property.expected_type> "Country" .
+<South_Dakota> <book.book_subject.works> "The Grass Dancer" .
+<Location> <freebase.domain_profile.featured_views> "Puerto Rico Municipality" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Agent" .
+<South_Dakota> <location.statistical_region.religions> "m.04405np" .
+<Glenn_P._Thompson> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbnj3" .
+<South_Dakota> <location.location.people_born_here> "Paul Fitzgibbon" .
+<South_Dakota> <location.location.people_born_here> "Ane Crabtree" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90qh" .
+<Australian_State> <freebase.type_hints.included_types> "Dated location" .
+<South_Dakota> <location.location.people_born_here> "Dell L. Dailey" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbsb6" .
+<Primarily_contained_by> <type.property.schema> "Location" .
+<m.010hbp1c> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Administrative_Division> <type.type.expected_by> "First level divisions" .
+<Location> <freebase.domain_profile.users> "clhubert" .
+<m.0hzdp5y> <location.location_symbol_relationship.administrative_division> "South Dakota" .
+<inside> <type.property.schema> "Location" .
+<Administrative_Division> <type.type.expected_by> "location_administrative_divisions" .
+<Significant> <freebase.type_kind.types> "Greek deity" .
+<Topic> <type.type.properties> "Description" .
+<City/Town/Village> <freebase.type_hints.included_types> "Dated location" .
+<Continent> <freebase.type_profile.published> "Published" .
+<These_Happy_Golden_Years> <book.written_work.next_in_series> "The First Four Years" .
+<Statistical_region> <type.type.domain> "Location" .
+<m.04stq2t> <location.location_symbol_relationship.administrative_division> "South Dakota" .
+<Country> <freebase.type_hints.included_types> "Topic" .
+<Location> <freebase.domain_profile.users> "gangofnuns" .
+<m.0zct45z> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Country> <rdf-schema#domain> "Administrative Division" .
+<Location> <freebase.domain_profile.users> "hfarrington" .
+<Location> <freebase.domain_profile.featured_views> "United States Cities by Population" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbnrc" .
+<m.010hbqmb> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<U.S._state> <base.aareas.schema.administrative_area_type.subdivides_place> "United States of America" .
+<US_State> <freebase.type_profile.equivalent_topic> "U.S. state" .
+<Consulate_General_of_India,_Chicago> <government.government_agency.jurisdiction> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_lr8dj" .
+<South_Dakota> <location.location.people_born_here> "Stanley Detlie" .
+<German_state> <freebase.type_profile.published> "Published" .
+<Administrative_Division> <type.type.properties> "Country" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90pd" .
+<South_Dakota> <location.location.adjoin_s> "m.02tbm09" .
+<South_Dakota> <location.location.partially_contains> "Missouri National Recreational River" .
+<Partially_contained_by> <rdf-schema#domain> "Location" .
+<Contiguous_United_States> <common.topic.notable_types> "Location" .
+<Meta> <freebase.type_kind.types> "Location" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0hz79w2" .
+<Administrative_Area> <base.aareas.schema.administrative_area_type.expected_codes> "ISO 3166-2" .
+<Partially_contained_by> <type.property.schema> "Location" .
+<Date_dissolved> <type.property.schema> "Dated location" .
+<m.0_lz0lj> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<Picture_Perfect> <book.written_work.subjects> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Spotted Tail" .
+<m.010hbnj3> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Administrative_Divisions> <rdf-schema#domain> "Country" .
+<Dated_location> <freebase.type_hints.included_types> "Location" .
+<m.010hbs3c> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Location> <type.type.properties> "Contained by" .
+<m.02tbm0j> <location.adjoining_relationship.adjoins> "South Dakota" .
+<Third_level_divisions> <type.property.reverse_property> "Third level division of" .
+<Location> <freebase.domain_profile.users> "rajrsingh" .
+<Administrative_Area> <freebase.type_hints.included_types> "Topic" .
+<Mexican_state> <type.type.domain> "Location" .
+<Location> <freebase.domain_profile.users> "mlssgrimshaw20" .
+<Administrative_Division> <type.type.expected_by> "Fourth level divisions" .
+<State> <type.property.schema> "US Representative" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbny8" .
+<m.02tbm0r> <location.adjoining_relationship.adjoins> "South Dakota" .
+<Country> <freebase.type_profile.kind> "Definition" .
+<Ron_Hagerthy> <people.person.place_of_birth> "South Dakota" .
+<Location> <type.type.properties> "Primarily contained by" .
+<Location> <freebase.domain_profile.users> "joegermuska" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Location> <freebase.domain_profile.featured_views> "m.0d25k82" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0_lr453" .
+<South_Dakota> <location.location.people_born_here> "Nicky Katt" .
+<State/Province/Region> <type.property.expected_type> "Administrative Division" .
+<m.010hbnp7> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Topic> <type.type.properties> "Social media presence" .
+<Little_Town_on_the_Prairie> <book.written_work.subjects> "South Dakota" .
+<Significant> <freebase.type_kind.types> "Founding Figure" .
+<Topic_equivalent_webpage> <rdf-schema#domain> "Topic" .
+<Location> <freebase.domain_profile.users> "karanams" .
+<Topic> <type.type.properties> "Web Link(s)" .
+<South_Dakota> <location.location.people_born_here> "Matt Burns" .
+<m.0_lv3jn> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<By_the_Shores_of_Silver_Lake> <book.written_work.subjects> "South Dakota" .
+<Pierre> <location.location.containedby> "South Dakota" .
+<James_River> <location.location.partially_contained_by> "m.0wg90rp" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbs8h" .
+<Archie_Fire_Lame_Deer> <people.person.place_of_birth> "South Dakota" .
+<West_North_Central_States> <location.location.contains> "South Dakota" .
+<South_Dakota> <location.statistical_region.religions> "m.04406nx" .
+<Jason_Stverak> <people.person.place_of_birth> "South Dakota" .
+<Contained_by> <type.property.expected_type> "Location" .
+<Location> <type.type.properties> "Time zone(s)" .
+<Big_Sioux_River> <location.location.partially_contained_by> "m.0wg90pk" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbnp7" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbnc6" .
+<Capital> <rdf-schema#domain> "US State" .
+<US_County> <type.type.domain> "Location" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbqxd" .
+<Significant> <freebase.type_kind.types> "Russian republic" .
+<Mary_Lou_Harkness> <people.person.nationality> "United States of America" .
+<Missouri_River> <location.location.containedby> "United States of America" .
+<Significant> <freebase.type_kind.types> "Olympic host city" .
+<White_River> <location.location.containedby> "United States of America" .
+<South_Dakota> <travel.travel_destination.tourist_attractions> "Black Hills Central Railroad" .
+<Rebecca_Lee> <people.person.place_of_birth> "South Dakota" .
+<Statistical_region> <type.type.expected_by> "Geographic Scope" .
+<US_State> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbnq7" .
+<m.010hbp3k> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Location> <type.type.properties> "Nearby airports" .
+<Randy_Lewis> <people.person.nationality> "United States of America" .
+<Vietnamese_province> <freebase.type_profile.kind> "Significant" .
+<US_President> <freebase.type_profile.published> "Published" .
+<Location> <freebase.domain_profile.users> "maxim75" .
+<Founding_Figure> <freebase.type_hints.included_types> "Topic" .
+<Brazilian_state> <freebase.type_profile.strict_included_types> "Topic" .
+<Dated_location> <freebase.type_profile.kind> "Annotation" .
+<Statistical_region> <type.type.expected_by> "Exported to" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0_sg8py" .
+<Nathan_Lee_Chasing_His_Horse> <people.person.place_of_birth> "South Dakota" .
+<U.S._county> <freebase.type_hints.included_types> "Location" .
+<Partially_contains> <type.property.schema> "Location" .
+<m.0_v3t3p> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbrrk" .
+<South_Dakota> <government.governmental_jurisdiction.agencies> "Consulate General of India, Chicago" .
+<South_Dakota> <location.location.people_born_here> "Joseph M. Marshall III" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0_q_m1p" .
+<Brazilian_state> <type.type.domain> "Location" .
+<Country> <type.type.properties> "Administrative Divisions" .
+<Nathan_Lee_Chasing_His_Horse> <people.person.nationality> "United States of America" .
+<Location> <freebase.domain_profile.users> "erlindawamz" .
+<Location> <freebase.domain_profile.featured_views> "HUD Section 8 Zone" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbsfb" .
+<South_Dakota> <government.governmental_jurisdiction.government_positions> "Governor of South Dakota" .
+<Subjects> <type.property.expected_type> "Topic" .
+<Vietnamese_province> <freebase.type_profile.kind> "Definition" .
+<South_Dakota> <location.location.people_born_here> "Foxy Callahan" .
+<Chinese_province> <freebase.type_profile.published> "Published" .
+<Tony_Dean> <people.deceased_person.place_of_death> "Pierre" .
+<Location> <type.type.domain> "Location" .
+<Black_Hills_Central_Railroad> <location.location.containedby> "South Dakota" .
+<Country> <type.type.properties> "First level divisions" .
+<US_County> <freebase.type_hints.included_types> "Administrative Division" .
+<State> <rdf-schema#range> "US State" .
+<US_State> <type.type.domain> "Location" .
+<Partially_contained_by> <type.property.schema> "Location" .
+<Canadian_Province> <freebase.type_hints.included_types> "Statistical region" .
+<Fourth_level_divisions> <type.property.expected_type> "Administrative Division" .
+<South_Dakota> <location.location.people_born_here> "Bill Johnson" .
+<Location> <type.type.properties> "GNIS ID" .
+<Significant> <freebase.type_kind.types> "Vice Presidential Nominee" .
+<Zitkala-Sa> <people.person.place_of_birth> "South Dakota" .
+<EPIC_Systems,_Inc> <organization.organization.geographic_scope> "South Dakota" .
+<m.0wg90qh> <location.partial_containment_relationship.partially_contains> "Yellow Bank River" .
+<South_Dakota> <location.location.people_born_here> "Nellie Zabel Willhite" .
+<South_Dakota> <base.ontologies.ontology_instance.equivalent_instances> "m.07nfsht" .
+<State> <rdf-schema#domain> "Congressional district" .
+<South_Dakota> <location.statistical_region.religions> "m.04404l4" .
+<South_Dakota> <location.location.people_born_here> "Erika M. Anderson" .
+<Little_Minnesota_River> <location.location.partially_containedby> "South Dakota" .
+<Location> <freebase.domain_profile.users> "shiv_18919" .
+<Location> <freebase.domain_profile.featured_views> "US Metropolitan Statistical Area" .
+<U.S._county> <base.aareas.schema.administrative_area_type.subdivides_type> "U.S. state" .
+<Significant> <freebase.type_kind.types> "US Vice President" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbqjm" .
+<US_State> <freebase.type_hints.included_types> "Dated location" .
+<Newspaper> <freebase.type_hints.included_types> "Periodical" .
+<m.02tbl_w> <location.adjoining_relationship.adjoins> "South Dakota" .
+<South_Dakota> <base.aareas.schema.administrative_area.capital> "Pierre" .
+<South_Korean_province> <freebase.type_profile.published> "Published" .
+<Vietnamese_province> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<Missouri_National_Recreational_River> <location.location.partially_containedby> "South Dakota" .
+<Brazilian_state> <freebase.type_profile.published> "Published" .
+<Water_area> <rdf-schema#domain> "Location" .
+<Nate_Dammann> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_qcrt1" .
+<Location> <freebase.domain_profile.featured_views> "HUD Foreclosure Area" .
+<Location> <freebase.domain_profile.category> "Commons" .
+<Canadian_Province> <freebase.type_hints.included_types> "Dated location" .
+<Great_Seal_of_the_US> <common.image.appears_in_topic_gallery> "U.S. state" .
+<Dated_location> <freebase.type_profile.published> "Published" .
+<Aurelia> <book.written_work.subjects> "South Dakota" .
+<South_Dakota> <location.location.partially_contains> "Bois de Sioux River" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0hzbyk9" .
+<South_Dakota> <common.topic.webpage> "m.04lsw5r" .
+<m.0zct45z> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<m.0_qcrt1> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<South_Dakota> <periodicals.newspaper_circulation_area.newspapers> "Watertown Public Opinion" .
+<South_Dakota> <government.governmental_jurisdiction.agencies> "South Dakota Public Utilities Commission" .
+<Partially_contains> <owl#inverseOf> "Partially contained by" .
+<m.010hbp65> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Administrative_Divisions> <type.property.expected_type> "Administrative Division" .
+<Ed_McGaa> <people.person.place_of_birth> "South Dakota" .
+<Location> <freebase.domain_profile.users> "premierco" .
+<South_Dakota> <government.governmental_jurisdiction.official_symbols> "m.04stkdg" .
+<Watertown_Public_Opinion> <common.topic.notable_types> "Newspaper" .
+<GNIS_ID> <type.property.schema> "Location" .
+<m.04lsw5r> <common.webpage.topic> "South Dakota" .
+<South_Dakota_Republican_primary,_2012> <time.event.locations> "South Dakota" .
+<m.04z1g34> <common.topic.notable_for> "g.1q5zxb7f3" .
+<Missouri_National_Recreational_River> <location.location.containedby> "United States of America" .
+<Administrative_Division> <freebase.type_profile.equivalent_topic> "Administrative division" .
+<Argentine_province> <freebase.type_hints.included_types> "Statistical region" .
+<m.04st88j> <location.location_symbol_relationship.administrative_division> "South Dakota" .
+<Steven_L._Jordan> <people.person.nationality> "United States of America" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbs5g" .
+<m.010hbqs4> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<m.05kfbqk> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Vietnamese_province> <freebase.type_hints.included_types> "Administrative Division" .
+<m.06gcn27> <rdf-schema#range> "Administrative Division" .
+<Significant> <freebase.type_kind.types> "Saint" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbp3k" .
+<Location> <freebase.equivalent_topic.equivalent_domain> "Location" .
+<James_Edward_Zimmerman> <people.person.place_of_birth> "South Dakota" .
+<m.010hbnm8> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<m.010hbp65> <government.government_position_held.office_holder> "Leslie Jensen" .
+<South_Dakota> <book.book_subject.works> "Spirit beings and sun dancers" .
+<Watertown_Public_Opinion> <common.topic.article> "m.02pqxpn" .
+<Time_zone(s)> <type.property.schema> "Location" .
+<m.0ccctqc> <common.topic.notable_types> "Location" .
+<m.010hbn99> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<m.0wg90pw> <location.partial_containment_relationship.partially_contains> "Bois de Sioux River" .
+<Kenneth_Kauth> <people.person.place_of_birth> "South Dakota" .
+<United_States_of_America> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<South_Dakota> <location.location.containedby> "Contiguous United States" .
+<Street_address> <type.property.schema> "Location" .
+<South_Dakota> <location.location.people_born_here> "Bradley Bolek" .
+<George_Lynn_Cross> <people.person.nationality> "United States of America" .
+<Location> <type.type.properties> "GEOnet feature ID" .
+<Newspaper> <freebase.type_hints.included_types> "Topic" .
+<South_Dakota_Voter_Registration_Deadline,_2012> <time.event.locations> "South Dakota" .
+<First_level_divisions> <type.property.expected_type> "Administrative Division" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbnm8" .
+<Contiguous_United_States> <location.location.containedby> "United States of America" .
+<m.010hbqqv> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Little_Missouri_River> <location.location.containedby> "United States of America" .
+<Location> <freebase.domain_profile.users> "jamie" .
+<Lori_K._Gordon> <people.person.nationality> "United States of America" .
+<m.0hz79w2> <government.government_position_held.office_position_or_title> "Secretary of State of South Dakota" .
+<Location> <freebase.domain_profile.users> "kdsandeep" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbny8" .
+<Australian_State> <freebase.type_profile.strict_included_types> "Topic" .
+<m.010hbp53> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<m.010hbq89> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Glenn_P._Thompson> <people.person.nationality> "United States of America" .
+<North_Fork_Grand_River> <location.location.containedby> "United States of America" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_ly3yv" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_parent> "United States, with Territories" .
+<Rebecca_Lee> <people.person.nationality> "United States of America" .
+<Primarily_contained_by> <rdf-schema#domain> "Location" .
+<State> <type.property.schema> "Water quality monitoring program" .
+<Land_area> <rdf-schema#domain> "Location" .
+<m.0hz79w2> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<m.010hbqg4> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<m.0wg90q_> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Statistical region" .
+<m.0jskk6b> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<White_River> <geography.river.mouth> "Missouri River" .
+<Watertown_Public_Opinion> <book.periodical.first_issue_date> "m.04db1th" .
+<Mexican_state> <freebase.type_profile.kind> "Significant" .
+<Location> <freebase.domain_profile.users> "sprocketonline" .
+<m.010hbny8> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<U.S._state> <freebase.type_hints.included_types> "Topic" .
+<m.09y36rh> <common.webpage.topic> "South Dakota" .
+<City/Town/Village> <freebase.type_hints.included_types> "Statistical region" .
+<m.0wg90qb> <location.partial_containment_relationship.partially_contains> "Missouri National Recreational River" .
+<People_born_here> <type.property.schema> "Location" .
+<Location> <freebase.domain_profile.users> "pmackay" .
+<South_Dakota> <location.statistical_region.religions> "m.04404bz" .
+<South_Dakota> <location.location.people_born_here> "Kenneth Kauth" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbrt8" .
+<US_State> <freebase.type_profile.kind> "Significant" .
+<Consulate_General_of_India,_Chicago> <location.location.containedby> "United States of America" .
+<South_Dakota> <location.location.events> "2011 Castle Rock Film Festival" .
+<Mexican_state> <freebase.type_profile.kind> "Definition" .
+<South_Dakota> <government.governmental_jurisdiction.official_symbols> "m.04st76b" .
+<Location> <freebase.type_profile.tasks> "fix /location/adjoining property" .
+<m.0102_8jf> <book.periodical_publisher_period.periodical> "Watertown Public Opinion" .
+<South_Dakota> <location.us_state.capital> "Pierre" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Topic> <type.type.properties> "Notable for" .
+<Carl_Gunderson> <people.person.place_of_birth> "South Dakota" .
+<Partially_contains> <rdf-schema#range> "Location" .
+<Dated_location> <type.type.domain> "Location" .
+<Geolocation> <rdf-schema#domain> "Location" .
+<James_River> <location.location.partially_containedby> "South Dakota" .
+<Religious_Leader> <freebase.type_profile.strict_included_types> "Topic" .
+<Location> <freebase.domain_profile.users> "thimon" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbp65" .
+<Location> <freebase.domain_profile.featured_views> "HUD Vacancy Rates" .
+<m.010hbs3c> <government.government_position_held.office_position_or_title> "Lieutenant Governor of South Dakota" .
+<Administrative_Divisions> <type.property.master_property> "Country" .
+<United_States_of_America> <base.aareas.schema.administrative_area.pertinent_type> "U.S. independent city" .
+<Stanley_Detlie> <people.person.place_of_birth> "South Dakota" .
+<Belle_Fourche_River> <location.location.partially_containedby> "South Dakota" .
+<Location> <type.type.properties> "Partially contains" .
+<South_Dakota_Senate> <government.governmental_body.body_this_is_a_component_of> "South Dakota Legislature" .
+<Location> <freebase.domain_profile.users> "gndjeng" .
+<Cindy_Preszler> <people.person.nationality> "United States of America" .
+<m.0wg90q0> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<Newspaper> <type.type.properties> "Price" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbnq7" .
+<point> <rdf-schema#domain> "Location" .
+<Chinese_province> <freebase.type_hints.included_types> "Location" .
+<m.0wg90pd> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<Location> <type.type.properties> "Mean elevation" .
+<m.010w5wcy> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Country> <freebase.type_hints.included_types> "Location" .
+<m.010hbnrc> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<U.S._state> <base.aareas.schema.administrative_area_type.level> "State/Province" .
+<Missouri_River> <location.location.time_zones> "Central Time Zone" .
+<Newspaper> <type.type.properties> "Issues" .
+<South_Dakota> <location.statistical_region.religions> "m.044042j" .
+<South_Dakota> <location.statistical_region.religions> "m.04404b0" .
+<Location> <type.type.properties> "People born here" .
+<South_Dakota> <common.topic.image> "Badlands." .
+<Argentine_province> <freebase.type_hints.included_types> "Location" .
+<m.0jvw4qz> <location.administrative_division_capital_relationship.administrative_division> "South Dakota" .
+<Keya_Paha_River> <location.location.containedby> "United States of America" .
+<South_Dakota_Legislature> <government.governmental_body.component_bodies> "South Dakota Senate" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Country> <type.type.properties> "Third level divisions" .
+<Donald_A._Haggar> <people.person.place_of_birth> "South Dakota" .
+<U.S._state> <type.type.properties> "Counties and Independent Cities" .
+<South_Dakota.png> <common.image.appears_in_topic_gallery> "South Dakota" .
+<Religious_Leader> <freebase.type_profile.kind> "Significant" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0_h7cf4" .
+<United_States,_with_Territories> <common.topic.notable_types> "Country" .
+<Mexican_state> <freebase.type_hints.included_types> "Location" .
+<Location> <freebase.domain_profile.users> "fpassantino" .
+<Big_Sioux_River> <location.location.containedby> "United States of America" .
+<Deity> <freebase.type_profile.kind> "Definition" .
+<Deity> <freebase.type_profile.strict_included_types> "Abstract" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbq89" .
+<Location> <freebase.domain_profile.users> "mgershma" .
+<Third_level_divisions> <rdf-schema#range> "Administrative Division" .
+<m.0_hgp2y> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<Capital> <type.property.schema> "US State" .
+<Location> <freebase.domain_profile.users> "lukeschubert" .
+<South_Dakota> <location.location.people_born_here> "Denise Dittrich" .
+<Adjectival_form> <type.property.schema> "Location" .
+<Continent> <type.type.domain> "Location" .
+<Location> <freebase.domain_profile.users> "sibolesk" .
+<Area> <type.property.schema> "Location" .
+<South_Dakota> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<m.010hbs0p> <government.government_position_held.office_position_or_title> "Lieutenant Governor of South Dakota" .
+<Time_zone(s)> <rdf-schema#domain> "Location" .
+<Leslie_Jensen> <people.person.place_of_birth> "South Dakota" .
+<Vietnamese_province> <type.type.domain> "Location" .
+<United_States_of_America> <location.location.time_zones> "Mountain Time Zone" .
+<Bois_de_Sioux_River> <geography.river.basin_countries> "United States of America" .
+<South_Dakota_Legislature> <government.governmental_body.component_bodies> "South Dakota House of Representatives" .
+<Location> <type.type.properties> "near" .
+<South_Dakota> <location.location.events> "Raynolds Expedition" .
+<Third_level_divisions> <type.property.schema> "Country" .
+<Sister_to_the_Sioux> <book.written_work.subjects> "United States of America" .
+<Frank_Fools_Crow> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota_Absentee_Ballot_Return_Deadline,_2012> <time.event.locations> "South Dakota" .
+<South_Dakota_Legislature> <government.governmental_body.jurisdiction> "South Dakota" .
+<Fourth_level_divisions> <rdf-schema#range> "Administrative Division" .
+<South_Dakota> <location.location.people_born_here> "Gall" .
+<Newspaper> <freebase.type_profile.kind> "Definition" .
+<m.0wg90qn> <location.partial_containment_relationship.partially_contains> "Keya Paha River" .
+<Argentine_province> <freebase.type_hints.included_types> "Administrative Division" .
+<Continent> <freebase.type_hints.included_types> "Statistical region" .
+<South_Dakota> <location.location.partially_contains> "Missouri River" .
+<South_Dakota> <common.topic.webpage> "m.09yr4w2" .
+<Primarily_contained_by> <type.property.expected_type> "Location" .
+<Founding_Figure> <freebase.type_profile.kind> "Significant" .
+<South_Dakota> <government.political_district.representatives> "m.05kfbqk" .
+<m.02tbm09> <location.adjoining_relationship.adjoins> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Bernie Hunhoff" .
+<m.010hbqn4> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbp1c" .
+<Spotted_Tail> <people.person.place_of_birth> "South Dakota" .
+<US_County> <freebase.type_profile.kind> "Significant" .
+<FIPS_10-4> <base.aareas.coding_scheme.levels> "State/Province" .
+<Argentine_province> <freebase.type_profile.kind> "Definition" .
+<Third_level_divisions> <rdf-schema#domain> "Country" .
+<Brazilian_state> <freebase.type_hints.included_types> "Dated location" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbnrc" .
+<Location> <common.topic.article> "m.0kpqf7" .
+<South_Dakota> <location.location.adjoin_s> "m.02tbm0r" .
+<South_Dakota> <government.governmental_jurisdiction.official_symbols> "m.0hzbk4j" .
+<Ed_McGaa> <people.person.nationality> "United States of America" .
+<m.0_v3t3p> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Events> <type.property.schema> "Location" .
+<Capital> <type.property.expected_type> "City/Town/Village" .
+<State> <type.property.expected_type> "US State" .
+<m.0wg90rp> <location.partial_containment_relationship.partially_contains> "James River" .
+<South_Dakota> <location.location.people_born_here> "Jenifer Loon" .
+<Significant> <freebase.type_kind.types> "Argentine province" .
+<US_State> <freebase.type_hints.included_types> "Location" .
+<South_Dakota> <book.book_subject.works> "By the Shores of Silver Lake" .
+<South_Dakota> <organization.organization_scope.organizations_with_this_scope> "B'nai B'rith District Grand Lodge 6" .
+<South_Dakota> <location.statistical_region.religions> "m.044049q" .
+<Contiguous_United_States> <location.location.contains> "South Dakota" .
+<Canadian_Province> <freebase.type_profile.kind> "Definition" .
+<Location> <freebase.domain_profile.featured_views> "Countries by per capita GDP" .
+<Pierre> <location.location.containedby> "United States of America" .
+<Newspaper> <type.type.expected_by> "Newspapers" .
+<Topic> <type.type.properties> "Topic equivalent webpage" .
+<Administrative_Area> <type.type.domain> "Administrative Areas" .
+<Steven_L._Zinter> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90q_" .
+<Lori_K._Gordon> <people.person.place_of_birth> "South Dakota" .
+<Kylee_Nash> <people.person.nationality> "United States of America" .
+<South_Dakota> <location.location.people_born_here> "Waneta" .
+<Australian_State> <freebase.type_hints.included_types> "Administrative Division" .
+<m.052jj9j> <government.government_position_held.district_represented> "South Dakota" .
+<state> <rdf-schema#range> "US State" .
+<These_Happy_Golden_Years> <book.written_work.previous_in_series> "Little Town on the Prairie" .
+<Ron_Hagerthy> <people.person.nationality> "United States of America" .
+<Fourth_level_division_of> <type.property.expected_type> "Country" .
+<Location> <freebase.domain_profile.users> "cm2dude" .
+<Charles_Hargens> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.administrative_division.country> "United States of America" .
+<Administrative_Divisions> <type.property.schema> "Country" .
+<South_Dakota> <location.location.events> "South Dakota Absentee Ballot Request Deadline, 2012" .
+<Leslie_Jensen> <people.person.nationality> "United States of America" .
+<US_President> <freebase.type_profile.strict_included_types> "Topic" .
+<Country> <type.type.domain> "Location" .
+<South_Dakota_Absentee_Ballot_Request_Deadline,_2012> <time.event.locations> "South Dakota" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Location" .
+<m.010hbq89> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Contained_by> <type.property.schema> "Location" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0zct45z" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<m.010hbqcd> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<State/Province> <base.aareas.administrative_area_level.coding_schemes> "ISO 3166-2" .
+<U.S._independent_city> <base.aareas.schema.administrative_area_type.pertains_to> "United States of America" .
+<Location> <freebase.type_profile.equivalent_topic> "Location" .
+<South_Dakota> <location.location.partially_contains> "Cheyenne River" .
+<Significant> <freebase.type_kind.types> "Roman emperor" .
+<German_state> <freebase.type_hints.included_types> "Topic" .
+<m.04x_n8n> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Ella Cara Deloria" .
+<Fourth_level_divisions> <owl#inverseOf> "Fourth level division of" .
+<South_Dakota> <location.statistical_region.religions> "m.04405b5" .
+<m.010hcjrn> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90p7" .
+<From_the_Black_Hills> <book.written_work.subjects> "South Dakota" .
+<South_Dakota_Senate> <government.governmental_body.jurisdiction> "South Dakota" .
+<South_Dakota> <location.statistical_region.minimum_wage> "m.010r_0zl" .
+<Ella_Cara_Deloria> <people.person.place_of_birth> "South Dakota" .
+<Periodical> <freebase.type_hints.included_types> "Topic" .
+<South_Dakota_Senate> <government.governmental_body.members> "m.0_lv3jn" .
+<Country> <freebase.type_profile.strict_included_types> "Agent" .
+<George_Lynn_Cross> <people.person.place_of_birth> "South Dakota" .
+<Location> <freebase.domain_profile.users> "junxi" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Abstract" .
+<m.0zn738r> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<South_Dakota> <government.political_district.representatives> "m.052jj9j" .
+<Location> <freebase.domain_profile.users> "spatialed" .
+<Location> <freebase.domain_profile.featured_views> "Countries by GDP" .
+<Kylee_Nash> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Rollin Hamilton" .
+<South_Dakota> <location.statistical_region.religions> "m.04405b0" .
+<United_Communications_Corporation> <book.periodical_publisher.periodicals_published> "m.0102_8jf" .
+<Topic> <type.type.properties> "Notable types" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbnp7" .
+<South_Dakota> <base.biblioness.bibs_location.country> "United States of America" .
+<United_States_of_America> <common.topic.notable_types> "Country" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Location> <freebase.domain_profile.users> "jonjaques" .
+<Partially_contains> <type.property.reverse_property> "Partially contained by" .
+<m.010hbqp9> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Donald A. Haggar" .
+<Significant> <freebase.type_kind.types> "Billionaire" .
+<m.010hbng9> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Administrative_Areas> <freebase.domain_profile.users> "avances123" .
+<Location> <freebase.domain_profile.users> "smithcomputer" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbs0p" .
+<Primarily_contained_by> <rdf-schema#range> "Location" .
+<By_the_Shores_of_Silver_Lake> <book.written_work.next_in_series> "The Long Winter" .
+<Coterminous_with> <rdf-schema#domain> "Location" .
+<United_States_of_America> <location.country.administrative_divisions> "South Dakota" .
+<m.0wg90pk> <location.partial_containment_relationship.partially_contains> "Big Sioux River" .
+<Notable_for> <rdf-schema#domain> "Topic" .
+<m.0wg90pq> <location.partial_containment_relationship.partially_contains> "Cheyenne River" .
+<Contains_major_portion_of> <type.property.reverse_property> "Primarily contained by" .
+<Foxy_Callahan> <people.person.nationality> "United States of America" .
+<Location> <freebase.domain_profile.users> "monurohila" .
+<South_Dakota> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbng9" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbqg4" .
+<Dell_L._Dailey> <people.person.place_of_birth> "South Dakota" .
+<Big_Sioux_River> <geography.river.mouth> "Missouri River" .
+<The_real_Deadwood> <book.written_work.subjects> "South Dakota" .
+<Location> <freebase.domain_profile.featured_views> "Continent" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.0jskk6b" .
+<U.S._county> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<Continent> <freebase.type_profile.kind> "Definition" .
+<Newspaper> <type.type.expected_by> "Newspapers" .
+<Location> <freebase.domain_profile.users> "marcelt" .
+<Continent> <freebase.type_hints.included_types> "Location" .
+<Nellie_Zabel_Willhite> <people.person.place_of_birth> "South Dakota" .
+<Administrative_Division> <type.type.expected_by> "Second level divisions" .
+<Contains> <owl#inverseOf> "Contained by" .
+<Vietnamese_province> <freebase.type_hints.included_types> "Location" .
+<U.S._state> <base.aareas.schema.administrative_area_type.expected_codes> "ISO 3166-2" .
+<Owner> <rdf-schema#domain> "Newspaper" .
+<Little_Missouri_River> <location.location.partially_contained_by> "m.0wg90pd" .
+<m.010hbnh2> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<Location> <freebase.domain_profile.equivalent_topic> "Location" .
+<Dated_location> <freebase.type_hints.included_types> "Topic" .
+<South_Dakota> <location.location.partially_contains> "Yellow Bank River" .
+<US_State> <type.type.expected_by> "State" .
+<Black_Hills_Central_Railroad> <location.location.containedby> "United States of America" .
+<m.010hbsgn> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Missouri_National_Recreational_River> <base.usnationalparks.us_national_park.state> "South Dakota" .
+<Fourth_level_division_of> <type.property.schema> "Administrative Division" .
+<m.010hbp65> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Significant> <freebase.type_kind.types> "Chinese special administrative region" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbnw1" .
+<South_Dakota> <location.administrative_division.first_level_division_of> "United States of America" .
+<Location> <freebase.documented_object.documentation> "m.0kpqs_" .
+<Location> <freebase.domain_profile.featured_views> "m.0d3by0t" .
+<Subjects> <owl#inverseOf> "Subject of" .
+<Fourth_level_divisions> <rdf-schema#domain> "Country" .
+<The_Long_Winter> <book.written_work.subjects> "United States of America" .
+<Administrative_Divisions> <rdf-schema#range> "Administrative Division" .
+<Location> <freebase.domain_profile.users> "kennyadams" .
+<South_Dakota> <location.location.people_born_here> "Lyle Clement" .
+<Geolocation> <type.property.schema> "Location" .
+<Topic> <type.type.properties> "Subjects" .
+<South_Dakota> <location.location.people_born_here> "Nathan Lee Chasing His Horse" .
+<By_the_Shores_of_Silver_Lake> <book.written_work.subjects> "United States of America" .
+<Statistical_region> <freebase.type_profile.strict_included_types> "Topic" .
+<Location> <freebase.domain_profile.users> "avances123" .
+<South_Dakota> <location.location.people_born_here> "John L. Brown" .
+<Yellow_Bank_River> <location.location.partially_contained_by> "m.0wg90qh" .
+<Mean_elevation> <type.property.schema> "Location" .
+<Significant> <freebase.type_kind.types> "Pharaoh" .
+<South_Dakota> <location.location.people_born_here> "Donna Lass" .
+<Location> <freebase.domain_profile.users> "h4ck3rm1k3" .
+<near> <type.property.schema> "Location" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbnh2" .
+<US_State> <type.type.expected_by> "Indiana" .
+<m.06gcn27> <type.property.expected_type> "Administrative Division" .
+<m.010hbqxd> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<South_Dakota> <location.location.containedby> "West North Central States" .
+<Weblink> <type.property.schema> "Topic" .
+<Vietnamese_province> <freebase.type_profile.published> "Published" .
+<U.S._state> <common.topic.article> "m.0d0y1" .
+<m.04mgp1b> <book.periodical_format_period.format> "Broadsheet" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0_lr8dj" .
+<South_Dakota> <location.location.people_born_here> "Lee R. Raymond" .
+<Administrative_Division> <freebase.type_hints.included_types> "Dated location" .
+<m.04stkdg> <location.location_symbol_relationship.administrative_division> "South Dakota" .
+<Administrative_Division> <type.type.properties> "Capital" .
+<Location> <freebase.domain_profile.users> "gavinjock" .
+<Olympic_venue> <freebase.type_profile.strict_included_types> "Topic" .
+<Significant> <freebase.type_kind.types> "Spanish province" .
+<m.03lzsl6> <common.webpage.category> "Official Website" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.jurisdiction> "South Dakota" .
+<Statistical_region> <freebase.type_profile.kind> "Annotation" .
+<South_Dakota> <common.topic.webpage> "m.0gmk4vs" .
+<US_County> <freebase.type_hints.included_types> "Location" .
+<Administrative_Area> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<South_Dakota> <military.military_unit_place_of_origin.military_units> "1st Dakota Cavalry Battalion" .
+<Contains_major_portion_of> <rdf-schema#range> "Location" .
+<South_Dakota> <book.book_subject.works> "Sister to the Sioux" .
+<Deity> <freebase.type_profile.kind> "Significant" .
+<Image> <rdf-schema#domain> "Topic" .
+<Location> <freebase.domain_profile.featured_views> "Places in Queensland (not suburbs/cities/towns)" .
+<South_Dakota> <location.location.people_born_here> "Spencer Johnson" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbp65" .
+<Circulation_Areas> <rdf-schema#domain> "Newspaper" .
+<Little_Town_on_the_Prairie> <book.written_work.subjects> "United States of America" .
+<Significant> <freebase.type_kind.types> "Roman hero" .
+<High_plains_tango> <book.written_work.subjects> "South Dakota" .
+<Significant> <freebase.type_kind.types> "Chinese province" .
+<Lillian_Case_Russell> <people.person.place_of_birth> "South Dakota" .
+<Continent> <freebase.type_hints.included_types> "Topic" .
+<South_Dakota> <book.book_subject.works> "High plains tango" .
+<Fourth_level_division_of> <rdf-schema#range> "Country" .
+<Date_founded> <rdf-schema#domain> "Dated location" .
+<U.S._independent_city> <freebase.type_hints.included_types> "Topic" .
+<Watertown_Public_Opinion> <common.topic.notable_for> "g.12551k1_h" .
+<U.S._state> <base.aareas.schema.administrative_area_type.administrative_division_type> "US State" .
+<U.S._independent_city> <freebase.type_hints.included_types> "Administrative Area" .
+<Location> <freebase.domain_profile.users> "simplify3" .
+<Grand_River> <location.location.partially_contained_by> "m.0wg90q_" .
+<Location> <freebase.domain_profile.featured_views> "Ukraine Raion" .
+<Partially_contains> <type.property.schema> "Location" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Brazilian_state> <freebase.type_profile.kind> "Definition" .
+<First_level_divisions> <rdf-schema#domain> "Country" .
+<Contains_major_portion_of> <owl#inverseOf> "Primarily contained by" .
+<m.0wg90p7> <location.partial_containment_relationship.partially_contains> "Missouri River" .
+<Newspaper> <type.type.expected_by> "Newspapers" .
+<Marvin_Heemeyer> <people.person.nationality> "United States of America" .
+<James_River> <geography.river.mouth> "Missouri River" .
+<Zitkala-Sa> <people.person.nationality> "United States of America" .
+<Grand_River> <location.location.containedby> "United States of America" .
+<Donald_Wexler> <people.person.nationality> "United States of America" .
+<Significant> <freebase.type_kind.types> "Greek hero" .
+<State> <rdf-schema#domain> "US State Quarter" .
+<m.0wg90qv> <location.partial_containment_relationship.partially_contains> "North Fork Grand River" .
+<m.0bl0t95> <common.resource.annotations> "m.03lzsl6" .
+<Belle_Fourche_River> <location.location.partially_contained_by> "m.0wg90q0" .
+<South_Dakota> <location.location.people_born_here> "Emil Loriks" .
+<m.0_q_m1p> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Spirit_beings_and_sun_dancers> <book.written_work.subjects> "United States of America" .
+<State> <type.property.expected_type> "US State" .
+<Our_landlady> <book.written_work.subjects> "United States of America" .
+<Location> <freebase.domain_profile.users> "fmkatz" .
+<Significant> <freebase.type_kind.types> "Olympic mascot" .
+<Chinese_province> <freebase.type_hints.included_types> "Administrative Division" .
+<m.010hbqhb> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<2011_South_Dakota_Film_Festival> <time.event.locations> "South Dakota" .
+<Shadow_Bear> <book.written_work.subjects> "South Dakota" .
+<South_Dakota> <common.topic.notable_for> "g.1256f_36c" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbs3c" .
+<Administrative_Division> <freebase.type_profile.kind> "Description" .
+<Newspaper> <type.type.properties> "Owner" .
+<Adjectival_form> <rdf-schema#domain> "Location" .
+<Emil_Loriks> <people.person.place_of_birth> "South Dakota" .
+<Little_Minnesota_River> <location.location.containedby> "United States of America" .
+<State> <rdf-schema#domain> "US Representative" .
+<Location> <freebase.domain_profile.users> "jon" .
+<Newspaper> <common.topic.article> "m.02nqldv" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0_ly6zs" .
+<m.0wg90pd> <location.partial_containment_relationship.partially_contains> "Little Missouri River" .
+<South_Dakota> <book.book_subject.works> "Skins" .
+<Jenifer_Loon> <people.person.place_of_birth> "South Dakota" .
+<Coterminous_with> <type.property.schema> "Location" .
+<South_Dakota> <location.location.people_born_here> "Luther Standing Bear" .
+<South_Dakota> <location.location.events> "South Dakota Voter Registration Deadline, 2012" .
+<Canadian_Province> <type.type.domain> "Location" .
+<U.S._state> <base.aareas.schema.administrative_area_type.subdividing_type> "U.S. independent city" .
+<South_Dakota> <location.location.people_born_here> "Mary Ritter" .
+<United_States_of_America> <freebase.valuenotation.is_reviewed> "Official website" .
+<m.010hbnc6> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Location> <type.type.properties> "Area" .
+<South_Korean_province> <freebase.type_hints.included_types> "Topic" .
+<Little_Missouri_River> <geography.river.mouth> "Missouri River" .
+<Charles_DuVal_Roberts> <people.person.nationality> "United States of America" .
+<m.010hbs76> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Luther_Standing_Bear> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Carl Gunderson" .
+<U.S._county> <base.aareas.schema.administrative_area_type.sovereignty> "United States of America" .
+<Location> <freebase.domain_profile.featured_views> "m.0d37vth" .
+<Religious_Leader> <freebase.type_hints.included_types> "Topic" .
+<Subjects> <rdf-schema#range> "Topic" .
+<Topic> <common.topic.article> "m.0kpqw_" .
+<South_Dakota> <location.location.people_born_here> "Cindy Preszler" .
+<Newspaper> <freebase.type_profile.equivalent_topic> "Newspaper" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbsd9" .
+<m.010hbqdt> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Periodical> <freebase.type_profile.kind> "Meta" .
+<Olive_Olson> <people.person.place_of_birth> "South Dakota" .
+<Location> <freebase.domain_profile.users> "njwebservices" .
+<South_Dakota> <government.governmental_jurisdiction.government_bodies> "South Dakota Senate" .
+<US_County> <freebase.type_profile.published> "Published" .
+<Yellow_Bank_River> <location.location.containedby> "United States of America" .
+<Significant> <freebase.type_kind.types> "Nobel prize winner" .
+<State> <type.property.expected_type> "US State" .
+<Location> <freebase.domain_profile.featured_views> "HUD County Place" .
+<Country> <type.type.properties> "Fourth level divisions" .
+<Location> <freebase.domain_profile.featured_views> "Administrative Division" .
+<m.010hbqn4> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Glenn_McCarthy> <people.person.place_of_birth> "South Dakota" .
+<Geometry> <rdf-schema#domain> "Location" .
+<Significant> <freebase.type_kind.types> "Primary Candidate" .
+<Chinese_province> <type.type.properties> "Capital" .
+<m.010d91vg> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<m.010hbrrk> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Location> <freebase.domain_profile.users> "andy_st" .
+<Spencer_Johnson> <people.person.place_of_birth> "South Dakota" .
+<Margaret_Hasse> <people.person.place_of_birth> "South Dakota" .
+<Significant> <freebase.type_kind.types> "Roman deity" .
+<South_Dakota> <location.location.partially_contains> "White River" .
+<Black-eyed_Susan> <book.written_work.subjects> "United States of America" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90pw" .
+<Location> <freebase.domain_profile.users> "seoexpert" .
+<The_Long_Winter> <book.written_work.subjects> "South Dakota" .
+<State> <rdf-schema#range> "US State" .
+<Third_level_division_of> <type.property.schema> "Administrative Division" .
+<Location> <freebase.domain_profile.users> "bmwiedemann" .
+<South_Dakota> <government.governmental_jurisdiction.agencies> "South Dakota Lottery" .
+<Yellow_Bear> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <organization.organization_scope.organizations_with_this_scope> "EPIC Systems, Inc" .
+<m.0_lr453> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Stanley_Detlie> <people.person.nationality> "United States of America" .
+<Administrative_Division> <type.type.properties> "FIPS 10-4 Region Code" .
+<U.S._county> <freebase.type_hints.included_types> "Administrative Area" .
+<Location> <freebase.domain_profile.users> "asparagirl" .
+<South_Dakota_Department_of_Transportation> <government.government_agency.jurisdiction> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Bob Stransky" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_h7cf4" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdividing_type> "U.S. state" .
+<South_Dakota> <common.topic.notable_types> "US State" .
+<Significant> <freebase.type_kind.types> "US State" .
+<m.010hbs0p> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbqg4" .
+<Indiana> <type.property.schema> "Business" .
+<m.010hbrvn> <government.government_position_held.office_position_or_title> "Lieutenant Governor of South Dakota" .
+<Significant> <freebase.type_kind.types> "Canadian Province" .
+<Country> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Australian_State> <freebase.type_profile.kind> "Significant" .
+<South_Dakota> <location.location.partiallycontains> "m.0zn738r" .
+<South_Dakota> <location.location.containedby> "United States, with Territories" .
+<Location> <freebase.domain_profile.featured_views> "Ukraine Autonomous Republic" .
+<Significant> <freebase.type_kind.types> "Diocese" .
+<South_Dakota> <location.location.people_born_here> "Yellow Bear" .
+<Chinese_province> <freebase.type_profile.kind> "Significant" .
+<State> <rdf-schema#range> "US State" .
+<m.0_ly6zs> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<m.0wg90q5> <location.partial_containment_relationship.partially_contains> "White River" .
+<South_Dakota> <government.governmental_jurisdiction.government_positions> "Secretary of State of South Dakota" .
+<South_Dakota> <government.political_district.representatives> "m.05kcq14" .
+<South_Dakota> <government.governmental_jurisdiction.official_symbols> "m.04st88j" .
+<South_Dakota> <government.governmental_jurisdiction.government_bodies> "South Dakota Legislature" .
+<Second_level_divisions> <type.property.schema> "Country" .
+<Watertown_Public_Opinion> <common.topic.webpage> "m.03lzsl6" .
+<m.010hbnf5> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<m.0_q_m1p> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<Location> <freebase.domain_profile.users> "rchk" .
+<USBG_name> <type.property.schema> "Location" .
+<US_State> <type.type.properties> "Capital" .
+<Ane_Crabtree> <people.person.nationality> "United States of America" .
+<South_Dakota> <location.location.people_born_here> "Jason Stverak" .
+<Circulation_Areas> <type.property.schema> "Newspaper" .
+<m.05kfbqk> <government.government_position_held.district_represented> "South Dakota" .
+<state> <rdf-schema#domain> "node" .
+<Location> <freebase.documented_object.documentation> "m.0kpqf7" .
+<U.S._state> <base.aareas.schema.administrative_area_type.iso_country> "United States of America" .
+<South_Dakota> <location.location.people_born_here> "Richard Twiss" .
+<US_State> <freebase.type_profile.equivalent_topic> "U.S. state" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.010w5wcy" .
+<Yellow_Bank_River> <location.location.partially_containedby> "South Dakota" .
+<United_States_of_America> <location.location.time_zones> "Central Time Zone" .
+<Administrative_Division> <type.type.properties> "ISO 3166-2 Code" .
+<Indiana> <rdf-schema#domain> "Business" .
+<Date_founded> <type.property.schema> "Dated location" .
+<Country> <rdf-schema#range> "Country" .
+<Location> <freebase.domain_profile.users> "diplodocus" .
+<Topic_equivalent_webpage> <type.property.schema> "Topic" .
+<State/Province> <base.aareas.schema.administrative_area.administrative_area_type> "Administrative Area" .
+<Clint_Godfrey> <people.person.place_of_birth> "South Dakota" .
+<Fourth_level_divisions> <type.property.schema> "Country" .
+<South_Dakota> <location.location.events> "2011 South Dakota Film Festival" .
+<Description> <type.property.schema> "Topic" .
+<South_Dakota> <location.statistical_region.religions> "m.044047j" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbsgn" .
+<Spencer_Johnson> <people.person.nationality> "United States of America" .
+<Big_Sioux_River> <location.location.partially_containedby> "South Dakota" .
+<United_States,_with_Territories> <base.aareas.schema.earth.sovereign_domain.sovereign_state> "United States of America" .
+<m.010hbqjm> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<m.07nfsht> <base.ontologies.ontology_instance_mapping.freebase_topic> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_hgp2y" .
+<Fourth_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Adam_Johnson> <people.person.nationality> "United States of America" .
+<The_Grass_Dancer> <book.written_work.subjects> "South Dakota" .
+<m.010hbs5g> <government.government_position_held.office_position_or_title> "Lieutenant Governor of South Dakota" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Dated location" .
+<Significant> <freebase.type_kind.types> "Deity" .
+<m.0_hhwdl> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Korean_province> <type.type.domain> "Location" .
+<m.0_lr453> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbsgn" .
+<m.010hbs8h> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbqjm" .
+<m.010hbqxd> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<James_Edward_Zimmerman> <people.person.nationality> "United States of America" .
+<South_Dakota> <location.location.people_born_here> "Lillian Case Russell" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90qn" .
+<These_Happy_Golden_Years> <book.written_work.subjects> "United States of America" .
+<Significant> <freebase.type_kind.types> "Continent" .
+<Significant> <freebase.type_kind.types> "Divinity" .
+<Location> <freebase.domain_profile.users> "aris" .
+<Contains> <rdf-schema#range> "Location" .
+<Tiokasin_Ghosthorse> <people.person.nationality> "United States of America" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<The_First_Four_Years> <book.written_work.subjects> "South Dakota" .
+<Tiokasin_Ghosthorse> <people.person.place_of_birth> "South Dakota" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbs5g" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbnf5" .
+<m.0wg90r4> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<Vietnamese_province> <freebase.type_hints.included_types> "Dated location" .
+<m.0jvw4qz> <location.administrative_division_capital_relationship.capital> "Pierre" .
+<Argentine_province> <freebase.type_profile.kind> "Significant" .
+<South_Dakota> <location.location.partially_contains> "Belle Fourche River" .
+<Topic> <type.type.properties> "Properties" .
+<Topic> <type.type.properties> "Official website" .
+<UN/LOCODE> <type.property.schema> "Location" .
+<Location> <type.type.properties> "Adjectival form" .
+<South_Dakota> <book.book_subject.works> "Black-eyed Susan" .
+<Location> <freebase.domain_profile.users> "arulns" .
+<m.010hbqk_> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Consulate_General_of_India,_Chicago> <common.topic.notable_types> "Location" .
+<Australian_State> <freebase.type_profile.published> "Published" .
+<Black-eyed_Susan> <book.written_work.subjects> "South Dakota" .
+<Adam_Emerson> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Kill Eagle" .
+<Ane_Crabtree> <people.person.place_of_birth> "South Dakota" .
+<Chinese_province> <freebase.type_hints.included_types> "Dated location" .
+<State> <type.property.schema> "US State Quarter" .
+<m.0wg90qv> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<Topic> <type.type.properties> "Topical webpage" .
+<B'nai_B'rith_District_Grand_Lodge_6> <organization.organization.geographic_scope> "South Dakota" .
+<Big_Sioux_River> <geography.river.cities> "Watertown" .
+<Denise_Dittrich> <people.person.place_of_birth> "South Dakota" .
+<Official_website> <rdf-schema#domain> "Topic" .
+<Little_Minnesota_River> <location.location.partially_contained_by> "m.0wg90r4" .
+<Date_dissolved> <rdf-schema#domain> "Dated location" .
+<Topic> <type.type.domain> "Common" .
+<U.S._state> <common.topic.notable_types> "Statistical region" .
+<Significant> <freebase.type_kind.types> "Presidential Nominee" .
+<South_Dakota> <location.location.events> "South Dakota Absentee Ballot Return Deadline, 2012" .
+<m.010hbnw1> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Frank Fools Crow" .
+<Brazilian_state> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<Also_known_as> <rdf-schema#domain> "Topic" .
+<Randy_Lewis> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbp53" .
+<Administrative_Division> <type.type.expected_by> "Administrative Divisions" .
+<First_level_division_of> <rdf-schema#range> "Country" .
+<U.S._county> <freebase.type_hints.included_types> "Topic" .
+<US_President> <freebase.type_hints.included_types> "Topic" .
+<Location> <type.type.expected_by> "location" .
+<Steven_L._Zinter> <people.person.nationality> "United States of America" .
+<Bob_Stransky> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Charles DuVal Roberts" .
+<Notable_for> <type.property.schema> "Topic" .
+<Religious_Leader> <freebase.type_profile.published> "Published" .
+<m.0wg90qh> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<Also_known_as> <type.property.schema> "Topic" .
+<Location> <freebase.domain_profile.featured_views> "Census Tract" .
+<German_state> <freebase.type_profile.kind> "Significant" .
+<U.S._independent_city> <base.aareas.schema.administrative_area_type.subdivides_type> "U.S. state" .
+<Missouri_River> <location.location.partially_contained_by> "m.0wg90p7" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_8myfh" .
+<Statistical_region> <common.topic.article> "m.02_779_" .
+<South_Dakota> <location.location.people_born_here> "Olive Olson" .
+<Country> <type.type.properties> "Second level divisions" .
+<Scott_Roorda> <people.person.place_of_birth> "South Dakota" .
+<Joseph_M._Marshall_III> <people.person.place_of_birth> "South Dakota" .
+<m.0_h7cf4> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<South_Dakota> <location.location.people_born_here> "Arthur W. Wermuth" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbn99" .
+<South_Dakota> <government.governmental_jurisdiction.agencies> "South Dakota Department of Transportation" .
+<m.03lzsl6> <common.webpage.resource> "m.0bl0t95" .
+<Bill_Johnson> <people.person.nationality> "United States of America" .
+<Location> <freebase.type_profile.published> "Published" .
+<Location> <freebase.domain_profile.users> "villalafnouil" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbp1c" .
+<Badlands.> <common.image.appears_in_topic_gallery> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Martin W. Johnson" .
+<Significant> <freebase.type_kind.types> "Taiwanese province" .
+<U.S._state> <common.topic.image> "Great Seal of the US" .
+<Location> <freebase.equivalent_topic.equivalent_type> "Location" .
+<Carl_Gunderson> <people.person.nationality> "United States of America" .
+<South_Dakota> <location.statistical_region.religions> "m.04404yn" .
+<South_Dakota> <location.location.time_zones> "Mountain Time Zone" .
+<Significant> <freebase.type_kind.types> "German state" .
+<Pierre> <location.capital_of_administrative_division.capital_of> "m.0jvw4qz" .
+<Lillian_Case_Russell> <people.person.nationality> "United States of America" .
+<South_Dakota> <location.location.people_born_here> "Leslie Jensen" .
+<Missouri_River> <geography.river.basin_countries> "United States of America" .
+<U.S._state> <type.type.properties> "Capital" .
+<Location> <freebase.type_profile.strict_included_types> "Inanimate" .
+<South_Dakota> <location.location.people_born_here> "Alice Mary Ryan" .
+<m.010hbqk_> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<m.010hbnj3> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Canadian_Province> <freebase.type_hints.included_types> "Administrative Division" .
+<Midwestern_United_States> <location.location.contains> "West North Central States" .
+<Pierre> <location.hud_county_place.place> "Pierre" .
+<South_Dakota> <location.location.people_born_here> "Donald Wexler" .
+<US_State> <freebase.type_hints.included_types> "Statistical region" .
+<Mary_Ritter> <people.person.place_of_birth> "South Dakota" .
+<Chinese_province> <freebase.type_profile.strict_included_types> "Topic" .
+<Weblink> <rdf-schema#domain> "Topic" .
+<Third_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<Location> <type.type.properties> "Land area" .
+<Location> <freebase.domain_profile.users> "pdeisenberg" .
+<Subjects> <type.property.reverse_property> "Subject of" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Abstract" .
+<Founding_Figure> <freebase.type_profile.published> "Published" .
+<Location> <freebase.domain_profile.category> "Time & Space" .
+<Notable_types> <rdf-schema#domain> "Topic" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0jskk6b" .
+<m.010hbrt8> <government.government_position_held.office_position_or_title> "Lieutenant Governor of South Dakota" .
+<m.0_qcrt1> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<North_Fork_Grand_River> <location.location.partially_contained_by> "m.0wg90qv" .
+<Olympic_venue> <freebase.type_profile.kind> "Significant" .
+<Location> <freebase.domain_profile.featured_views> "Malaysian division" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_lr453" .
+<Marvin_Heemeyer> <people.person.place_of_birth> "South Dakota" .
+<Mary_GrandPré> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.statistical_region.gdp_nominal> "m.04ftp15" .
+<Contained_by> <type.property.master_property> "Contains" .
+<state> <type.property.schema> "node" .
+<Location> <freebase.domain_profile.users> "cdlp1704" .
+<Kill_Eagle> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Dusty McCrea" .
+<m.0wg90p7> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<Argentine_province> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<m.010hbqdt> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<North_Fork_Grand_River> <location.location.partially_containedby> "South Dakota" .
+<Raynolds_Expedition> <time.event.locations> "South Dakota" .
+<Mary_GrandPré> <people.person.nationality> "United States of America" .
+<Social_media_presence> <rdf-schema#domain> "Topic" .
+<Headquarters> <type.property.schema> "Newspaper" .
+<The_First_Four_Years> <book.written_work.previous_in_series> "These Happy Golden Years" .
+<Contains> <type.property.expected_type> "Location" .
+<Arthur_W._Wermuth> <people.person.nationality> "United States of America" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Location" .
+<South_Dakota> <book.book_subject.works> "Aurelia" .
+<US_County> <freebase.type_hints.included_types> "Dated location" .
+<m.010hbnq7> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<m.010hbp53> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbs76" .
+<Location> <freebase.domain_profile.users> "sharaf_al_islam" .
+<Canadian_Province> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<Harry_George_Armstrong> <people.person.place_of_birth> "South Dakota" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbnf5" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010w5wcy" .
+<m.04x_n8n> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<m.0ccctqc> <location.mailing_address.country> "United States of America" .
+<South_Dakota> <location.location.partially_contains> "Keya Paha River" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "South Dakota" .
+<m.010hbrvn> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Korean_province> <freebase.type_profile.strict_included_types> "Topic" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<Little_Town_on_the_Prairie> <book.written_work.previous_in_series> "The Long Winter" .
+<Administrative_Division> <freebase.type_hints.included_types> "Location" .
+<m.0gmk4vs> <common.webpage.topic> "South Dakota" .
+<Location> <freebase.domain_profile.featured_views> "m.063m12d" .
+<United_States_of_America> <freebase.valuenotation.has_no_value> "Date dissolved" .
+<Newspaper> <type.type.properties> "Circulation" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Watertown> <location.location.containedby> "South Dakota" .
+<Location> <freebase.domain_profile.users> "penumbra2000" .
+<Contained_by> <rdf-schema#range> "Location" .
+<Fourth_level_division_of> <type.property.master_property> "Fourth level divisions" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90pk" .
+<Watertown> <location.location.time_zones> "Central Time Zone" .
+<Brazilian_state> <freebase.type_profile.kind> "Significant" .
+<m.010hbsfb> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_hhwdl" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.administrative_children> "United States of America" .
+<Location> <freebase.domain_profile.users> "yandeara" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbrvn" .
+<John_Briggs> <people.person.place_of_birth> "South Dakota" .
+<Forrest_W._Seymour> <people.person.nationality> "United States of America" .
+<Third_level_division_of> <type.property.master_property> "Third level divisions" .
+<Location> <freebase.domain_profile.users> "litianlei" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbqcd" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbs8h" .
+<m.04z1g34> <common.topic.notable_types> "Location" .
+<Country> <type.property.reverse_property> "Administrative Divisions" .
+<Bradley_Bolek> <people.person.nationality> "United States of America" .
+<Newspaper> <type.type.expected_by> "Newspaper" .
+<South_Dakota> <location.location.adjoin_s> "m.02tbl_n" .
+<South_Dakota> <location.location.partially_contains> "Grand River" .
+<U.S._state> <base.aareas.schema.administrative_area_type.expected_codes> "FIPS 10-4" .
+<Location> <type.type.properties> "Geometry" .
+<Location> <freebase.domain_profile.users> "gamerate" .
+<South_Dakota> <book.book_subject.works> "Our landlady" .
+<United_States_of_America> <location.location.containedby> "United States, with Territories" .
+<m.010hbnh2> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<John_Sherrill_Houser> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbqn4" .
+<Second_level_divisions> <owl#inverseOf> "Second level division of" .
+<Watertown> <location.hud_county_place.place> "Watertown" .
+<South_Dakota> <location.location.people_born_here> "g.12vzpv9_n" .
+<South_Dakota> <location.location.people_born_here> "Mike Kopp" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0_v3t3p" .
+<U.S._state> <base.schemastaging.context_name.pronunciation> "g.125_nby07" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_lv3jn" .
+<Bois_de_Sioux_River> <location.location.partially_contained_by> "m.0wg90pw" .
+<Location> <freebase.domain_profile.featured_views> "US Metropolitan Division" .
+<Australian_State> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<Location> <freebase.domain_profile.expert_group> "Location Experts" .
+<m.010hbqg4> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Bois_de_Sioux_River> <location.location.containedby> "United States of America" .
+<Governor_of_South_Dakota> <government.government_office_or_title.jurisdiction> "South Dakota" .
+<Chinese_province> <freebase.type_profile.kind> "Definition" .
+<Belle_Fourche_River> <location.location.containedby> "United States of America" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.members> "m.0_lz0lj" .
+<Subjects> <rdf-schema#domain> "Topic" .
+<Continent> <freebase.type_profile.kind> "Significant" .
+<South_Dakota> <location.location.people_born_here> "Steven L. Zinter" .
+<Significant> <freebase.type_kind.types> "Indian state" .
+<First_level_divisions> <type.property.reverse_property> "First level division of" .
+<m.010hbsb6> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Dean_O._Mehlhaff> <people.person.place_of_birth> "South Dakota" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Dated location" .
+<Missouri_National_Recreational_River> <location.location.partially_contained_by> "m.0wg90qb" .
+<m.010hbqjm> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Administrative_Division> <common.topic.article> "m.02hpzsm" .
+<US_President> <freebase.type_profile.kind> "Significant" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbqqv" .
+<Keya_Paha_River> <location.location.partially_containedby> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Glenn McCarthy" .
+<Location> <freebase.domain_profile.users> "markce" .
+<Location> <freebase.domain_profile.users> "borkzorkorc" .
+<Argentine_province> <freebase.type_profile.strict_included_types> "Topic" .
+<Administrative_Division> <type.type.expected_by> "Third level divisions" .
+<m.010hbsfb> <government.government_position_held.office_position_or_title> "Lieutenant Governor of South Dakota" .
+<m.010hbny8> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Administrative_Division> <type.type.expected_by> "Administrative division" .
+<m.010hbp7c> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<Nicky_Katt> <people.person.place_of_birth> "South Dakota" .
+<Third_level_divisions> <owl#inverseOf> "Third level division of" .
+<Nicky_Katt> <people.person.nationality> "United States of America" .
+<Location> <type.type.properties> "Partially contained by" .
+<United_States_of_America> <location.administrative_division.first_level_division_of> "United States, with Territories" .
+<State> <rdf-schema#range> "US State" .
+<South_Dakota> <location.location.events> "South Dakota Republican primary, 2012" .
+<m.010hbrt8> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Australian_State> <freebase.type_hints.included_types> "Topic" .
+<m.010hbnf5> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<South_Dakota> <location.administrative_division.capital> "m.0jvw4qz" .
+<South_Dakota> <location.location.people_born_here> "Marvin Heemeyer" .
+<Indiana> <type.property.expected_type> "US State" .
+<Location> <freebase.domain_profile.featured_views> "Queensland suburbs" .
+<Statistical_region> <type.type.expected_by> "Imported from" .
+<South_Dakota> <location.location.partially_contains> "Big Sioux River" .
+<Owner> <type.property.schema> "Newspaper" .
+<m.010hbp7c> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Our_landlady> <book.written_work.subjects> "South Dakota" .
+<Mexican_state> <freebase.type_profile.strict_included_types> "Administrative Division" .
+<U.S._independent_city> <type.type.domain> "Administrative Areas" .
+<Periodical> <freebase.type_profile.published> "Published" .
+<m.0wg90q0> <location.partial_containment_relationship.partially_contains> "Belle Fourche River" .
+<m.0102_8jf> <book.periodical_publisher_period.publisher> "United Communications Corporation" .
+<Location> <freebase.domain_profile.featured_views> "Metropolitan and Micropolitan Statistical Areas" .
+<Significant> <freebase.type_kind.types> "Australian State" .
+<m.0_lr8dj> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<Deity> <freebase.type_profile.strict_included_types> "Topic" .
+<German_state> <freebase.type_profile.kind> "Definition" .
+<US_State> <common.topic.article> "m.03bnlft" .
+<Adam_Emerson> <people.person.nationality> "United States of America" .
+<South_Dakota> <location.location.partially_contains> "Little Missouri River" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbp7c" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbqn4" .
+<South_Dakota> <location.location.people_born_here> "B.B. Andersen" .
+<Brazilian_state> <freebase.type_hints.included_types> "Statistical region" .
+<Midwestern_United_States> <location.location.contains> "South Dakota" .
+<Dated_location> <common.topic.article> "m.035s45c" .
+<Dated_location> <type.type.properties> "Date founded" .
+<South_Dakota> <book.book_subject.works> "Little Town on the Prairie" .
+<Vietnamese_province> <freebase.type_hints.included_types> "Statistical region" .
+<German_state> <freebase.type_hints.included_types> "Statistical region" .
+<Location> <freebase.domain_profile.category> "General" .
+<South_Dakota> <location.location.people_born_here> "Fred Sherman" .
+<m.0wg90pq> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<USBG_name> <rdf-schema#domain> "Location" .
+<Ghost_Dance_War> <time.event.locations> "South Dakota" .
+<Donald_Wexler> <people.person.place_of_birth> "South Dakota" .
+<Dusty_McCrea> <people.person.nationality> "United States of America" .
+<South_Dakota> <symbols.flag_referent.flag> "m.0jsrp5g" .
+<m.010hbp1c> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbqxd" .
+<Topic> <freebase.type_profile.published> "Published" .
+<US_State> <freebase.type_profile.kind> "Definition" .
+<U.S._state> <freebase.equivalent_topic.equivalent_type> "US State" .
+<Location> <freebase.domain_profile.users> "a_olympia" .
+<Location> <freebase.domain_profile.featured_views> "Neighborhood" .
+<South_Dakota> <location.statistical_region.minimum_wage> "m.0hzdp6r" .
+<m.04z1g34> <location.mailing_address.citytown> "Watertown" .
+<Earl_Rose> <people.person.place_of_birth> "South Dakota" .
+<German_state> <freebase.type_hints.included_types> "Administrative Division" .
+<Earl_Rose> <people.person.nationality> "United States of America" .
+<Location> <freebase.domain_profile.users> "rdhyee" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbrt8" .
+<South_Dakota> <book.book_subject.works> "Mount Rushmore" .
+<Newspaper> <freebase.equivalent_topic.equivalent_type> "Newspaper" .
+<m.0_sg8py> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<Watertown_Public_Opinion> <book.newspaper.circulation_areas> "South Dakota" .
+<Second_level_division_of> <type.property.schema> "Administrative Division" .
+<m.05kcq14> <government.government_position_held.jurisdiction_of_office> "United States of America" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbq89" .
+<South_Dakota> <location.location.partially_contains> "Little Minnesota River" .
+<Capital> <type.property.authorities> "Locked property permission" .
+<Rollin_Hamilton> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Harry George Armstrong" .
+<US_County> <freebase.type_hints.included_types> "Statistical region" .
+<m.0wg90r4> <location.partial_containment_relationship.partially_contains> "Little Minnesota River" .
+<Lyle_Clement> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.government_bodies> "South Dakota House of Representatives" .
+<inside> <rdf-schema#domain> "Location" .
+<Ella_Cara_Deloria> <people.person.nationality> "United States of America" .
+<m.0_hhwdl> <government.government_position_held.governmental_body> "South Dakota House of Representatives" .
+<m.010hbnq7> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Location> <freebase.domain_profile.announcements> "m.0kjj45" .
+<Mexican_state> <freebase.type_hints.included_types> "Statistical region" .
+<Founding_Figure> <freebase.type_profile.strict_included_types> "Topic" .
+<The_Grass_Dancer> <book.written_work.subjects> "United States of America" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90r4" .
+<m.0_h7cf4> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <location.location.people_born_here> "Jeremy Hinzman" .
+<South_Korean_province> <freebase.type_profile.kind> "Significant" .
+<Australian_State> <freebase.type_profile.kind> "Definition" .
+<South_Dakota> <location.location.coterminous_with> "m.0klr37g" .
+<Little_Missouri_River> <location.location.partially_containedby> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.0_r60vz" .
+<John_Sherrill_Houser> <people.person.nationality> "United States of America" .
+<Arthur_W._Wermuth> <people.person.place_of_birth> "South Dakota" .
+<Location> <freebase.domain_profile.users> "freebass" .
+<United_States_of_America> <location.country.first_level_divisions> "South Dakota" .
+<The_Long_Winter> <book.written_work.next_in_series> "Little Town on the Prairie" .
+<Location> <freebase.domain_profile.users> "sunzu" .
+<Location> <freebase.domain_profile.featured_topic> "Nairobi" .
+<Statistical_region> <freebase.type_hints.included_types> "Topic" .
+<Administrative_Division> <type.type.expected_by> "m.06gcn27" .
+<Mexican_state> <freebase.type_hints.included_types> "Topic" .
+<m.010hbsgn> <government.government_position_held.office_position_or_title> "Lieutenant Governor of South Dakota" .
+<First_level_division_of> <type.property.schema> "Administrative Division" .
+<Partially_contains> <rdf-schema#domain> "Location" .
+<South_Dakota> <location.location.people_born_here> "John Briggs" .
+<Adjoins> <type.property.schema> "Location" .
+<Bernie_Hunhoff> <people.person.place_of_birth> "South Dakota" .
+<Second_level_division_of> <rdf-schema#range> "Country" .
+<South_Dakota> <location.location.adjoin_s> "m.02tbm02" .
+<m.010hbrrk> <government.government_position_held.office_position_or_title> "Lieutenant Governor of South Dakota" .
+<Gall> <people.person.place_of_birth> "South Dakota" .
+<Location> <freebase.domain_profile.users> "potencial" .
+<Contains_major_portion_of> <type.property.expected_type> "Location" .
+<Black_Hills_Central_Railroad> <travel.tourist_attraction.near_travel_destination> "South Dakota" .
+<Administrative_Division> <type.type.expected_by> "Capital" .
+<Chris_Nelson> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbnw1" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbqcd" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<U.S._state> <type.type.domain> "Administrative Areas" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90qb" .
+<South_Dakota_Department_of_Education> <government.government_agency.jurisdiction> "South Dakota" .
+<shape> <type.property.schema> "Location" .
+<U.S._state> <base.aareas.schema.administrative_area_type.pertains_to> "United States of America" .
+<State/Province> <freebase.type_hints.included_types> "Location" .
+<Location> <freebase.domain_profile.users> "pana" .
+<South_Dakota> <location.location.partiallycontains> "m.0wg90rp" .
+<South_Dakota> <location.location.people_born_here> "Chris Nelson" .
+<Skins> <book.written_work.subjects> "South Dakota" .
+<Dated_location> <freebase.type_profile.strict_included_types> "Abstract" .
+<Significant> <freebase.type_kind.types> "Vietnamese province" .
+<South_Dakota> <location.location.events> "Conquest of Stockholm" .
+<Significant> <freebase.type_kind.types> "FBI Most Wanted Fugitive" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Abstract" .
+<Conquest_of_Stockholm> <time.event.locations> "South Dakota" .
+<m.010hbqs4> <government.government_position_held.office_position_or_title> "Governor of South Dakota" .
+<South_Dakota> <location.location.events> "Battle of Stäket" .
+<Newspaper> <type.type.expected_by> "Newspapers Owned" .
+<Administrative_Division> <type.type.properties> "Second level division of" .
+<Location> <type.domain.owners> "Location Domain owners" .
+<South_Dakota_Lottery> <government.government_agency.jurisdiction> "South Dakota" .
+<m.0_sg8py> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Watertown_Public_Opinion> <book.newspaper.headquarters> "m.04z1g34" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbnh2" .
+<South_Dakota> <book.book_subject.works> "Prairie homestead" .
+<B.B._Andersen> <people.person.nationality> "United States of America" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbnj3" .
+<South_Dakota> <location.location.people_born_here> "Adam Johnson" .
+<South_Dakota> <location.location.people_born_here> "Scott Roorda" .
+<South_Dakota> <location.location.adjoin_s> "m.02tbl_w" .
+<m.0_8myfh> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.body_this_is_a_component_of> "South Dakota Legislature" .
+<Location> <type.type.properties> "Coterminous with" .
+<2011_Castle_Rock_Film_Festival> <time.event.locations> "South Dakota" .
+<Alice_Mary_Ryan> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbqhb" .
+<Circulation_Areas> <type.property.reverse_property> "Newspapers" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdivides_place> "United States, with Territories" .
+<m.0hzbyk9> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.government_positions> "Lieutenant Governor of South Dakota" .
+<United_States_of_America> <base.aareas.schema.administrative_area.pertinent_type> "U.S. county" .
+<South_Dakota> <location.location.people_born_here> "Horace H. Fuller" .
+<Country> <freebase.type_profile.strict_included_types> "Location" .
+<Country> <freebase.type_hints.included_types> "Statistical region" .
+<Country> <freebase.type_profile.strict_included_types> "Statistical region" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.04x_n8n" .
+<Brazilian_state> <freebase.type_hints.included_types> "Topic" .
+<m.0_r60vz> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.governing_officials> "m.010hbsfb" .
+<South_Korean_province> <freebase.type_hints.included_types> "Statistical region" .
+<Official_website> <type.property.schema> "Topic" .
+<South_Dakota> <common.topic.article> "m.06mzh" .
+<Prairie_homestead> <book.written_work.subjects> "South Dakota" .
+<State> <rdf-schema#domain> "Water quality monitoring program" .
+<Location> <type.type.properties> "shape" .
+<B.B._Andersen> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <government.governmental_jurisdiction.agencies> "South Dakota Department of Education" .
+<South_Korean_province> <freebase.type_hints.included_types> "Location" .
+<Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbqqv" .
+<U.S._state> <base.aareas.schema.administrative_area_type.subdividing_type> "U.S. county" .
+<Lieutenant_Governor_of_South_Dakota> <government.government_office_or_title.office_holders> "m.010hbs76" .
+<First_level_division_of> <rdf-schema#domain> "Administrative Division" .
+<U.S._county> <type.type.domain> "Administrative Areas" .
+<South_Dakota> <location.location.people_born_here> "Charles Hargens" .
+<Brazilian_state> <freebase.type_hints.included_types> "Administrative Division" .
+<m.0_r60vz> <government.government_position_held.governmental_body> "South Dakota Senate" .
+<m.0_t_3n7> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<Matt_Burns> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.location.events> "2013 South Dakota Film Festival" .
+<U.S._state> <freebase.equivalent_topic.equivalent_type> "US State" .
+<m.010hbsd9> <government.government_position_held.office_position_or_title> "Lieutenant Governor of South Dakota" .
+<m.0_lz0lj> <government.government_position_held.jurisdiction_of_office> "South Dakota" .
+<South_Dakota_House_of_Representatives> <government.governmental_body.jurisdiction> "South Dakota" .
+<South_Korean_province> <freebase.type_profile.kind> "Definition" .
+<Mary_Ritter> <people.person.nationality> "United States of America" .
+<Administrative_Division> <freebase.type_profile.strict_included_types> "Topic" .
+<Harry_George_Armstrong> <people.person.nationality> "United States of America" .
+<Bradley_Bolek> <people.person.place_of_birth> "South Dakota" .
+<South_Dakota> <location.location.partially_contains> "James River" .
+<m.0wg90qb> <location.partial_containment_relationship.partially_contained_by> "South Dakota" .
+<Partially_contains> <type.property.expected_type> "Location" .
+<South_Dakota> <location.location.people_born_here> "Tiokasin Ghosthorse" .
+<Administrative_Division> <type.type.properties> "First level division of" .
+<Meta> <freebase.type_kind.types> "Periodical" .
+<First_level_divisions> <type.property.schema> "Country" .
+<South_Dakota> <book.book_subject.works> "Shadow Bear" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<South_Dakota_Public_Utilities_Commission> <government.government_agency.jurisdiction> "South Dakota" .
+<Continent> <freebase.type_profile.strict_included_types> "Topic" .

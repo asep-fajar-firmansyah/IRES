@@ -1,0 +1,3041 @@
+<Dorm> <film.film.genre> "Drama" .
+<Thana_Vichayasuranan> <freebase.valuenotation.has_value> "Education" .
+<WALLY'S_CORE_VALUES_#1-5_(yndotStreet_comedy)> <base.webvideo.internet_video.genre> "Comedy" .
+<Syndromes_and_a_Century> <common.topic.notable_types> "Film" .
+<Nang_Nak> <freebase.valuenotation.has_no_value> "Film Series" .
+<Bangkok_Knockout> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Mission_Hunter_2> <freebase.valuenotation.has_value> "Edited by" .
+<Teacher's_Diary> <film.film.directed_by> "Nithiwat Tharathorn" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Wotch" .
+<Garuda> <freebase.valuenotation.has_no_value> "Sequel" .
+<Television_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Raging_Phoenix> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Sequel> <rdf-schema#range> "Film" .
+<Body_Jumper> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Legend_of_King_Naresuan:_Hostage_of_Hongsawadi> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Body_Jumper> <film.film.genre> "Comedy" .
+<Bangkok_Dangerous> <film.film.genre> "Romance Film" .
+<Aummaraporn_Phandintong> <people.person.profession> "Screenwriter" .
+<Ghost_of_Mae_Nak> <freebase.valuenotation.has_value> "Sequel" .
+<Thai_Orthography> <base.rosetta.rosetta_document.refers_to> "Thai Language" .
+<Adisorn_Tresirikasem> <film.writer.film> "Seven Something" .
+<Queens_of_Langkasuka> <film.film.language> "Thai Language" .
+<2004_Berlin_International_Film_Festival> <common.topic.article> "m.0sgf3pw" .
+<Inazuma_Eleven> <comic_books.comic_book_series.genre> "Comedy" .
+<Vote_Wally_Panther!_CORE_VALUES_#3:_Helping_People_Isn't_Right_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.subject> "Comedy" .
+<Sick_Nurses> <film.film.language> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Man Eater" .
+<Comedy> <media_common.media_genre.child_genres> "Farce" .
+<Sexphone_and_the_Girl_Next_Door> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<The_Legend_of_Suriyothai> <film.film.genre> "Drama" .
+<m.0cqvmvp> <common.webpage.topic> "Nithiwat Tharathorn" .
+<Mission_Hunter_2> <media_common.netflix_title.netflix_genres> "Thailand" .
+<The_Legend_of_Suriyothai> <freebase.valuenotation.has_no_value> "Sequel" .
+<Mafia_comedy> <common.topic.notable_types> "Film genre" .
+<A_Funny_Story_About_6_and_9> <film.film.country> "Thailand" .
+<Hormones> <film.film.genre> "Romantic comedy" .
+<Body_Jumper> <film.film.language> "Thai Language" .
+<Mysterious_Object_at_Noon> <freebase.valuenotation.is_reviewed> "Languages" .
+<Film> <type.property.master_property> "Release date(s)" .
+<Release_date(s)> <type.property.reverse_property> "Film" .
+<Songyos_Sugmakanan> <tv.tv_director.episodes_directed> "Coffee Prince" .
+<Bangkok> <location.location.containedby> "Thailand" .
+<m.0v_j5j_> <film.performance.film> "Fan Chan" .
+<Film> <type.type.expected_by> "Films In Series" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Questionable Content" .
+<Adisorn_Tresirikasem> <freebase.valuenotation.is_reviewed> "Gender" .
+<Stand-up_comedy> <book.book_subject.works> "Comedy at the Edge: How Stand-up in the 1970s Changed America" .
+<Film> <type.type.expected_by> "New Prop" .
+<m.0v_j6bz> <film.performance.film> "Fan Chan" .
+<Art_of_the_Devil_2> <film.film.prequel> "Art of the Devil" .
+<Alone> <freebase.valuenotation.has_no_value> "Sequel" .
+<Film> <type.domain.types> "Film story contributor" .
+<Film> <type.type.expected_by> "Films" .
+<Film_sets_designed> <rdf-schema#domain> "Film set decorator" .
+<Films_art_directed> <rdf-schema#domain> "Film art director" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "No Money" .
+<Yaowarat> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Bangkok_Dangerous> <common.topic.notable_types> "Film" .
+<The_Love_of_Siam> <film.film.language> "Thai Language" .
+<P> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Province_77> <film.film.language> "Thai Language" .
+<Killer_Tattoo> <film.film.genre> "Action Comedy" .
+<m.0v_j337> <film.performance.character> "Jeab (as adult)" .
+<SuckSeed> <freebase.valuenotation.has_no_value> "Sequel" .
+<Soundtrack> <owl#inverseOf> "Film" .
+<Film> <type.type.properties> "Art direction by" .
+<Jeff_Ross> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Vote_Wally_Panther!_CORE_VALUES_#3:_Helping_People_Isn't_Right_(yndotStreet_comedy)> <base.webvideo.internet_video.genre> "Comedy" .
+<Witthaya_Thongyooyong> <freebase.valuenotation.has_value> "Weight" .
+<Film> <type.property.master_property> "Other crew" .
+<Hit_Man_File> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Schlock_Mercenary> <comic_strips.comic_strip.genre> "Comedy" .
+<Ladda_Land> <freebase.valuenotation.has_no_value> "Sequel" .
+<Nymph> <film.film.language> "Thai Language" .
+<Seven_Days_in_Coffin> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Vitcha_Gojiew> <people.person.nationality> "Thailand" .
+<Coming_Soon> <film.film.produced_by> "Yongyoot Thongkongtoon" .
+<WALLY'S_CORE_VALUES_#1-5_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.season> "Vote Wally Panther" .
+<Human_Language> <type.type.expected_by> "Languages" .
+<Executive_produced_by> <rdf-schema#range> "Film producer" .
+<Down_the_River> <film.film.country> "Thailand" .
+<Set_Decoration_by> <type.property.reverse_property> "Film sets designed" .
+<Thai_Language> <media_common.netflix_genre.titles> "Last Life in the Universe" .
+<Side_Street_Story> <film.film.genre> "Comedy" .
+<A_House_of_Mad_Souls> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Kingdom_of_War:_Part_2> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<m.0r9pf5y> <education.education.major_field_of_study> "Comedy" .
+<Totally_Sketch> <internet.website.category> "Comedy" .
+<RiffTrax> <tv.tv_program.genre> "Comedy" .
+<Film_writing_credits> <type.property.expected_type> "Film" .
+<Costume_Design_for_Film> <type.property.master_property> "Costume design by" .
+<Songyos_Sugmakanan> <film.writer.film> "Fan Chan" .
+<m.0y86438> <film.film_regional_release_date.film> "Fan Chan" .
+<Wongsakorn_Rassamitat> <freebase.valuenotation.has_value> "Place of birth" .
+<m.0cqw0tc> <common.webpage.topic> "Yongyoot Thongkongtoon" .
+<Best_of_Times> <film.film.directed_by> "Yongyoot Thongkongtoon" .
+<SuckSeed> <freebase.valuenotation.has_no_value> "Prequel" .
+<Body_Jumper> <freebase.valuenotation.has_no_value> "Sequel" .
+<Film> <type.property.expected_type> "Film" .
+<Yok_Teeranitayatarn> <freebase.valuenotation.has_value> "Education" .
+<Nangoku_Shonen_Papuwa-kun> <comic_books.comic_book_series.genre> "Comedy" .
+<Wongsakorn_Rassamitat> <people.person.gender> "Male" .
+<Unhuman> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Nymph> <film.film.country> "Thailand" .
+<The_Haunted_Drum> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<4bia> <common.topic.notable_types> "Film" .
+<Entertainment> <organization.organization_sector.organizations_in_this_sector> "The N Crowd" .
+<The_Tin_Mine> <film.film.written_by> "Jira Maligool" .
+<The_Billionaire> <freebase.valuenotation.has_no_value> "Prequel" .
+<Chibi_Devi!> <comic_books.comic_book_series.genre> "Comedy" .
+<Kingdom_of_War:_Part_2> <film.film.language> "Thai Language" .
+<Ladda_Land> <film.film.genre> "Drama" .
+<Jira_Maligool> <common.topic.notable_for> "g.1259v0h6l" .
+<Drama> <media_common.media_genre.parent_genre> "Entertainment" .
+<m.0cl4nfg> <common.webpage.topic> "Fan Chan" .
+<Production_companies> <rdf-schema#domain> "Film" .
+<Film_festivals> <type.property.schema> "Film" .
+<The_Haunted_Drum> <freebase.valuenotation.has_value> "Edited by" .
+<Jira_Maligool> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Fan_Chan> <common.topic.notable_types> "Film" .
+<Shutter> <film.film.language> "Thai Language" .
+<films> <rdf-schema#range> "Film" .
+<Film_story_contributor> <freebase.type_profile.strict_included_types> "Topic" .
+<SARS_Wars> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Sequel> <type.property.expected_type> "Film" .
+<Tai_languages> <language.language_family.languages> "Thai Language" .
+<Dennis_the_Menace> <comic_strips.comic_strip.genre> "Comedy" .
+<Film> <type.type.expected_by> "Film" .
+<Amornpong_Maetakunvudh> <freebase.valuenotation.has_value> "Country of nationality" .
+<Bangkok_Dangerous> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "BONUS Wally Panther! A Dark And Stormy Night (yndotStreet comedy)" .
+<Prequel> <type.property.delegated> "Prequel" .
+<Drama> <common.topic.subject_of> "Albrecht Behmel" .
+<Jeff_Ross> <people.person.profession> "Film Producer" .
+<Preecha_Chanapai> <freebase.valuenotation.has_value> "Education" .
+<Garuda> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Witthaya_Thongyooyong> <freebase.valuenotation.is_reviewed> "Gender" .
+<Thai_Language> <media_common.netflix_genre.titles> "Sexphone and the Girl Next Door" .
+<Jira_Maligool> <film.producer.film> "The Little Comedian" .
+<Story_by> <type.property.reverse_property> "Film Story Credits" .
+<Genres> <owl#inverseOf> "Films of this genre" .
+<4bia> <film.film.written_by> "Witthaya Thongyooyong" .
+<Sema:_The_Warrior_of_Ayodhaya> <film.film.language> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "Kiss My Snake" .
+<Costume_Design_for_Film> <rdf-schema#range> "Film" .
+<Film_genre> <freebase.type_profile.published> "Published" .
+<Yok_Teeranitayatarn> <freebase.valuenotation.has_value> "Parents" .
+<Comedy> <base.schemastaging.context_name.pronunciation> "m.013163dx" .
+<Jira_Maligool> <common.topic.webpage> "m.0cqgnmv" .
+<Jack> <film.film_character.portrayed_in_films> "m.0v_j6bz" .
+<Unhuman> <common.topic.notable_types> "Film" .
+<Citizen_Dog> <film.film.language> "Thai Language" .
+<Killer_Tattoo> <film.film.language> "Thai Language" .
+<Viral_Spiral> <internet.website.category> "Entertainment" .
+<Film> <type.type.properties> "Soundtrack" .
+<Film_genre> <type.type.properties> "Films of this genre" .
+<4bia> <freebase.valuenotation.has_value> "Set Decoration by" .
+<Thai_Language> <media_common.netflix_genre.titles> "Hard Gun" .
+<Thai_Language> <media_common.netflix_genre.titles> "SARS Wars" .
+<Sexphone_and_the_Girl_Next_Door> <film.film.genre> "Romance Film" .
+<Making_Fiends> <internet.website.category> "Comedy" .
+<Dubbing_performances> <rdf-schema#domain> "Film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Sema: The Warrior of Ayodhaya" .
+<Seasons_Change> <film.film.genre> "Romance Film" .
+<Mysterious_Object_at_Noon> <freebase.valuenotation.is_reviewed> "Screenplay by" .
+<Bangkok_Knockout> <freebase.valuenotation.has_no_value> "Prequel" .
+<Films_directed> <rdf-schema#range> "Film" .
+<Film> <type.type.expected_by> "Films casting directed" .
+<Film_series> <freebase.type_profile.kind> "Definition" .
+<Charwin_Jitsomboon> <film.actor.film> "m.0v_j337" .
+<Alone> <film.film.genre> "Drama" .
+<Jira_Maligool> <people.person.education> "m.0v_pj24" .
+<Komgrit_Triwimol> <common.topic.notable_types> "Film director" .
+<Coming_Soon> <film.film.country> "Thailand" .
+<The_Man_Eater> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Tropical_Malady> <film.film.genre> "Drama" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_season.episodes> "Vote Wally Panther! CORE VALUES #3: Helping People Isn't Right (yndotStreet comedy)" .
+<The_Billionaire> <freebase.valuenotation.has_value> "Story by" .
+<Film> <type.type.expected_by> "Film" .
+<Distributors> <type.property.master_property> "Film" .
+<Bob_Hope:_The_Road_Well-Traveled> <book.written_work.subjects> "Entertainment" .
+<Jeab's_father> <film.film_character.portrayed_in_films> "m.0v_j3lb" .
+<Fan_Chan> <common.topic.webpage> "m.0gxmmvn" .
+<LA_Shorts_Fest_Award_for_Best_Comedy> <award.award_category.disciplines_or_subjects> "Comedy" .
+<Costume_Design_for_Film> <rdf-schema#domain> "Film costumer designer" .
+<In_the_Shadow_of_the_Naga> <common.topic.notable_types> "Film" .
+<ATM:_Er_Rak_Error> <film.film.production_companies> "GMM Tai Hub" .
+<Film> <owl#inverseOf> "Runtime" .
+<Shutter> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Thai_region> <base.aareas.schema.administrative_area_type.sovereignty> "Thailand" .
+<Nithiwat_Tharathorn> <freebase.valuenotation.has_value> "Height" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Toronto European Union Film Festival" .
+<Bang_Rajan> <film.film.country> "Thailand" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Reverie" .
+<Anusara_Chantarangsi> <freebase.valuenotation.has_value> "Height" .
+<Rated> <type.property.schema> "Film" .
+<Hard_Gun> <film.film.country> "Thailand" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Call Max Cleveland! (commercial parody)" .
+<Prequel> <type.property.delegated> "Prequel" .
+<Thai_Language> <base.rosetta.languoid.document> "Thai Orthography" .
+<Sketch_comedy> <base.webvideo.internet_video_genre.internet_video> "I'm@Work - Please Hold" .
+<The_Bodyguard_2> <film.film.country> "Thailand" .
+<Cinematography> <rdf-schema#domain> "Film" .
+<Yok_Teeranitayatarn> <people.person.profession> "Actor" .
+<Noo_Hin:_The_Movie> <film.film.language> "Thai Language" .
+<The_Overture> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<NY_Times_ID> <rdf-schema#domain> "Film" .
+<Film_director> <type.type.expected_by> "Directed by" .
+<Yongyoot_Thongkongtoon> <film.producer.films_executive_produced> "The Possible" .
+<Film> <type.type.expected_by> "Featured in film" .
+<Music_by> <type.property.expected_type> "Film music contributor" .
+<13_Beloved> <film.film.country> "Thailand" .
+<The_Ongoing_Adventures_of_Rocket_Llama> <comic_strips.comic_strip.genre> "Comedy" .
+<Sequel> <type.property.expected_type> "Film" .
+<International_Comedy_Film_Festival> <film.film_festival.focus> "Comedy" .
+<The_Protector> <freebase.valuenotation.has_no_value> "Prequel" .
+<Tears_of_the_Black_Tiger> <film.film.genre> "Comedy" .
+<The_Sisters> <media_common.netflix_title.netflix_genres> "Drama" .
+<Jan_Dara> <film.film.genre> "Drama" .
+<Arsène_Lupin_III> <base.animemanga.anime_manga_franchise.genre> "Comedy" .
+<The_Possible> <film.film.executive_produced_by> "Yongyoot Thongkongtoon" .
+<Fandango_ID> <rdf-schema#domain> "Film" .
+<Screenplay_by> <type.property.expected_type> "Film writer" .
+<Tears_of_the_Black_Tiger> <common.topic.notable_types> "Film" .
+<Tomboy_Commando> <film.film.language> "Thai Language" .
+<Art_of_the_Devil> <common.topic.notable_types> "Film" .
+<Thailand> <location.country.administrative_divisions> "Bangkok" .
+<Demon_Candy:_Parallel> <comic_strips.comic_strip.genre> "Comedy" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Schlock Mercenary" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Wally Panther vs. The Pizza Guy (yndotStreet comedy)" .
+<2004_Berlin_International_Film_Festival> <time.event.instance_of_recurring_event> "Berlin International Film Festival" .
+<Right_By_Me> <film.film.genre> "Drama" .
+<Saraburi_Province> <location.location.people_born_here> "Witthaya Thongyooyong" .
+<Film> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<Romance_Film> <theater.theater_genre.plays_in_this_genre> "Love Never Dies" .
+<4bia> <film.film.directed_by> "Yongyoot Thongkongtoon" .
+<Film> <type.type.properties> "Personal appearances" .
+<Prasert_Vivattanananpong> <common.topic.notable_for> "g.1n36f4g86" .
+<House_Gory> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Thai_Language> <media_common.netflix_genre.titles> "Ghost of Mae Nak" .
+<Adisorn_Tresirikasem> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <film.film.genre> "Drama" .
+<Films_In_Collection> <type.property.expected_type> "Film" .
+<Art_of_the_Devil_3> <film.film.country> "Thailand" .
+<Art_direction_by> <type.property.schema> "Film" .
+<Films_of_this_genre> <type.property.schema> "Film genre" .
+<Comedy> <common.topic.image> "Nepali Woman Smiles" .
+<Thai_Language> <base.rosetta.languoid.local_name> "Thai" .
+<The_Possible> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<m.0cqvmvp> <common.webpage.category> "Curated Topic" .
+<The_Tin_Mine> <film.film.produced_by> "Jira Maligool" .
+<Seven_Something> <film.film.produced_by> "Jira Maligool" .
+<Wongsakorn_Rassamitat> <people.person.profession> "Actor" .
+<m.0h0wpnp> <common.webpage.category> "About" .
+<Anusara_Chantarangsi> <film.actor.film> "m.0v_j3tg" .
+<Seven_Something> <film.film.genre> "Drama" .
+<m.0cqvmv7> <common.webpage.topic> "Komgrit Triwimol" .
+<Thana_Vichayasuranan> <freebase.valuenotation.has_value> "Height" .
+<Fan_Chan> <film.film.written_by> "Komgrit Triwimol" .
+<Lupin_III> <base.animemanga.anime_manga_franchise.genre> "Drama" .
+<The_Lord_of_Ayuthaya> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Film_Producer> <freebase.equivalent_topic.equivalent_type> "Film producer" .
+<Nithiwat_Tharathorn> <film.cinematographer.film> "Fan Chan" .
+<Nang_Nak> <freebase.valuenotation.has_no_value> "Prequel" .
+<Music_by> <rdf-schema#domain> "Film" .
+<Alone> <film.film.written_by> "Aummaraporn Phandintong" .
+<Noo_Hin:_The_Movie> <film.film.genre> "Musical comedy" .
+<Beautiful_Boxer> <freebase.valuenotation.has_no_value> "Prequel" .
+<The_Bodyguard_2> <film.film.prequel> "The Bodyguard" .
+<Film> <type.type.expected_by> "Film" .
+<Film_festivals> <owl#inverseOf> "Films" .
+<Hormones> <film.film.written_by> "Aummaraporn Phandintong" .
+<Films_production_designed> <type.property.expected_type> "Film" .
+<Art_of_the_Devil> <freebase.valuenotation.has_no_value> "Film Series" .
+<Last_Life_in_the_Universe> <common.topic.notable_types> "Film" .
+<Films_In_Series> <type.property.reverse_property> "Film Series" .
+<Film_festival_event> <type.type.properties> "Films" .
+<Ladda_Land> <freebase.valuenotation.has_no_value> "Film Series" .
+<Screenwriter> <freebase.equivalent_topic.equivalent_type> "Film writer" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Mojacko" .
+<Farce> <media_common.media_genre.child_genres> "Comedy of errors" .
+<Body> <film.film.produced_by> "Yongyoot Thongkongtoon" .
+<Concerned> <comic_strips.comic_strip.genre> "Comedy" .
+<Chocolate> <film.film.language> "Thai Language" .
+<Province_77> <common.topic.notable_types> "Film" .
+<Anusara_Chantarangsi> <freebase.valuenotation.has_value> "Place of birth" .
+<Fan_Chan> <film.film.starring> "m.0v_j6gh" .
+<Set_Decoration_by> <rdf-schema#range> "Film set decorator" .
+<Hello_Stranger> <freebase.valuenotation.has_value> "Casting director" .
+<Comedy> <book.book_subject.works> "Comedy at the Edge: How Stand-up in the 1970s Changed America" .
+<Sick_Nurses> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<I'm@Work_-_Please_Hold> <base.webvideo.internet_video.genre> "Comedy" .
+<Beautiful_Boxer> <film.film.film_festivals> "2004 Berlin International Film Festival" .
+<House_Gory> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Bangkok_Dangerous> <film.film.language> "Thai Language" .
+<Diecovery> <common.topic.notable_types> "Film" .
+<film> <rdf-schema#range> "Film" .
+<Featured_Film> <type.property.expected_type> "Film" .
+<Film_Series> <rdf-schema#range> "Film series" .
+<Romance_Film> <media_common.media_genre.parent_genre> "Drama" .
+<Charwin_Jitsomboon> <freebase.valuenotation.has_value> "Country of nationality" .
+<Film> <type.type.expected_by> "Films In Collection" .
+<Romantic_comedy> <common.topic.notable_types> "Film genre" .
+<Fireball> <freebase.valuenotation.has_no_value> "Film Series" .
+<Vote_Wally_Panther!_CORE_VALUES_#2:_Don't_Trust_Newspapers_(yndotStreet_comedy)> <base.webvideo.internet_video.genre> "Comedy" .
+<Nymph> <common.topic.notable_types> "Film" .
+<Thailand> <location.country.languages_spoken> "Thai Language" .
+<Bangkok_Haunted> <freebase.valuenotation.has_no_value> "Film Series" .
+<Fan_Chan> <common.topic.webpage> "m.0cl4nfg" .
+<Monophthongs_of_Thai.__From_Tingsabadh_&_Abramson_(1993:25)> <common.image.appears_in_topic_gallery> "Thai Language" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_season.episodes> "Vote Wally Panther! CORE VALUES #4: Government IS The Problem (yndotStreet comedy)" .
+<The_Love_of_Siam> <media_common.netflix_title.netflix_genres> "Thailand" .
+<The_Billionaire> <freebase.valuenotation.has_value> "Edited by" .
+<Ong_Bak_2:_The_Beginning> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<mantlepies.com> <internet.website.category> "Comedy" .
+<Trailers> <type.property.schema> "Film" .
+<Film> <type.type.expected_by> "Film" .
+<Film> <rdf-schema#range> "Film" .
+<Seasons_Change> <film.film.language> "Thai Language" .
+<Fan_Chan> <film.film.directed_by> "Komgrit Triwimol" .
+<Thai_Language> <base.rosetta.languoid.document> "Thai Genesis Translation" .
+<Focus_Jeerakul> <freebase.valuenotation.has_value> "Height" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Little Wansa" .
+<Films_In_Series> <owl#inverseOf> "Film Series" .
+<The_Protector> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Comedy> <education.field_of_study.students_majoring> "m.0r9pf5y" .
+<Yongyoot_Thongkongtoon> <film.producer.film> "Phobia 2" .
+<Yok_Teeranitayatarn> <people.person.place_of_birth> "Thailand" .
+<Bang_Rajan> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Komgrit_Triwimol> <freebase.valuenotation.has_value> "Parents" .
+<Art_of_the_Devil_2> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Film_art_director> <type.type.expected_by> "Art direction by" .
+<Comedy> <media_common.media_genre.child_genres> "Action Comedy" .
+<Lucky_Loser> <freebase.valuenotation.has_no_value> "Prequel" .
+<Screenplay_by> <rdf-schema#range> "Film writer" .
+<Bangkok_Love_Story> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Seasons_Change> <film.film.country> "Thailand" .
+<Thai_Language> <media_common.netflix_genre.titles> "Nang Nak" .
+<Prasert_Vivattanananpong> <people.person.gender> "Male" .
+<Film> <owl#inverseOf> "Other film companies" .
+<Film_writer> <freebase.type_profile.strict_included_types> "Topic" .
+<Open_Casket> <film.film.subjects> "Comedy" .
+<Vote_Wally_Panther!_CORE_VALUES_#4:_Government_IS_The_Problem_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.subject> "Comedy" .
+<Noo_Hin:_The_Movie> <film.film.genre> "Comedy" .
+<The_Mansion_Sister> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Netflix_ID> <type.property.schema> "Film" .
+<Film> <type.type.expected_by> "Includes Film" .
+<팔도_가시나이> <common.topic.notable_types> "Film" .
+<m.0ggdp4p> <film.performance.actor> "Charlie Trairat" .
+<Soundtrack> <rdf-schema#domain> "Film" .
+<Okashina_Okashi_–_Strange_Candy> <comic_strips.comic_strip.genre> "Comedy" .
+<Comedy> <book.book_subject.works> "Love, Sex, Death, and the Meaning of Life" .
+<The_Billionaire> <film.film.language> "Thai Language" .
+<Featured_Film> <rdf-schema#range> "Film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Beautiful Boxer" .
+<Film> <type.type.expected_by> "Film" .
+<Alone> <film.film.produced_by> "Yongyoot Thongkongtoon" .
+<Friars_Club_Comedy_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Notable_filming_locations> <owl#inverseOf> "Featured In Films" .
+<Body> <film.film.country> "Thailand" .
+<Jira_Maligool> <film.producer.film> "Final Score" .
+<The_Overture> <film.film.language> "Thai Language" .
+<Ong-Bak:_Muay_Thai_Warrior> <film.film.country> "Thailand" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Comedia" .
+<Jira_Maligool> <film.director.film> "The Tin Mine" .
+<Hetalia:_Axis_Powers> <comic_strips.comic_strip.genre> "Comedy" .
+<Jan_Dara> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "The Landlord" .
+<Fan_Chan> <freebase.valuenotation.has_no_value> "Sequel" .
+<Mekhong_Full_Moon_Party> <freebase.valuenotation.has_no_value> "Prequel" .
+<m.0gxmmvn> <common.webpage.topic> "Fan Chan" .
+<The_Tin_Mine> <film.film.directed_by> "Jira Maligool" .
+<Film_music_credits> <rdf-schema#domain> "Film music contributor" .
+<Featured_in_film> <type.property.expected_type> "Film" .
+<Yongyoot_Thongkongtoon> <film.producer.film> "Handle Me with Care" .
+<Yongyoot_Thongkongtoon> <film.producer.films_executive_produced> "Seven Something" .
+<Nepali_Woman_Smiles> <common.image.appears_in_topic_gallery> "Comedy" .
+<Seven_Something> <freebase.valuenotation.has_value> "Story by" .
+<Focus_Jeerakul> <freebase.valuenotation.has_value> "Education" .
+<Seven_Something> <film.film.directed_by> "Jira Maligool" .
+<Fireball> <freebase.valuenotation.has_no_value> "Prequel" .
+<Film_festivals> <type.property.expected_type> "Film festival event" .
+<Film> <type.type.expected_by> "Films Produced" .
+<Other_crew> <owl#inverseOf> "Film" .
+<Trailer_Addict_ID> <rdf-schema#domain> "Film" .
+<The_Mansion_Sister> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Narbonic" .
+<Thai_Language> <media_common.netflix_genre.titles> "g.122yynst" .
+<Vitcha_Gojiew> <common.topic.notable_for> "g.125626v2t" .
+<Tears_of_the_Black_Tiger> <film.film.language> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "A Funny Story About 6 and 9" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Monte Carlo Film Festival" .
+<Hikaru_no_Go> <base.animemanga.anime_manga_franchise.genre> "Drama" .
+<Film> <common.topic.subject_of> "Mei Mei" .
+<Yok_Teeranitayatarn> <people.person.gender> "Male" .
+<Witthaya_Thongyooyong> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Tropical_Malady> <film.film.genre> "Romance Film" .
+<Comedy> <book.book_subject.works> "Dave Barry is from Mars and Venus" .
+<SuckSeed> <common.topic.notable_types> "Film" .
+<Film> <type.type.properties> "Metacritic film ID" .
+<The_Iron_Ladies> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Chai_Lai> <media_common.netflix_title.netflix_genres> "Thailand" .
+<m.0v_j3tg> <film.performance.film> "Fan Chan" .
+<The_Overture> <film.film.country> "Thailand" .
+<Syndromes_and_a_Century> <film.film.genre> "Romance Film" .
+<Pre-production> <rdf-schema#domain> "Film" .
+<Film> <rdf-schema#range> "Film" .
+<The_Winter_of_the_13th_Month> <common.topic.notable_types> "Film" .
+<Rubber_Duckie> <freebase.valuenotation.has_no_value> "Prequel" .
+<Production_design_by> <type.property.reverse_property> "Films production designed" .
+<Languages> <rdf-schema#range> "Human Language" .
+<Preecha_Chanapai> <film.actor.film> "m.0v_j5xt" .
+<Thai_Language> <media_common.netflix_genre.titles> "Return of the One-Armed Swordsman" .
+<Featured_In_Films> <rdf-schema#range> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Zap!" .
+<Thai_Language> <media_common.netflix_genre.titles> "House Gory" .
+<Film> <type.domain.types> "Film" .
+<m.0cqvmtk> <common.webpage.in_index> "Blissful Master Index" .
+<Art_of_the_Devil_2> <common.topic.notable_types> "Film" .
+<Yongyoot_Thongkongtoon> <people.person.nationality> "Thailand" .
+<Khan_Kluay> <freebase.valuenotation.has_value> "Set Decoration by" .
+<Dubbing_performances> <type.property.schema> "Film" .
+<Mysterious_Object_at_Noon> <freebase.valuenotation.has_no_value> "Sequel" .
+<Preecha_Chanapai> <people.person.profession> "Businessperson" .
+<The_Lord_of_Ayuthaya> <film.film.country> "Thailand" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Sazae-san" .
+<303_Fear_Faith_Revenge> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Film> <base.skosbase.vocabulary_equivalent_topic.narrower_concept> "Romance films" .
+<Romance_Film> <base.webvideo.internet_video_genre.series> "Bite Night" .
+<Vitcha_Gojiew> <freebase.valuenotation.has_value> "Height" .
+<Casting_director> <owl#inverseOf> "Films casting directed" .
+<Comedy> <internet.website_category.sites> "Making Fiends" .
+<Film_producer> <freebase.type_profile.strict_included_types> "Topic" .
+<Jira_Maligool> <film.producer.film> "Hello Stranger" .
+<Wonderful_Town> <film.film.country> "Thailand" .
+<Focus_Jeerakul> <freebase.valuenotation.is_reviewed> "Parents" .
+<The_Legend_of_Suriyothai> <common.topic.notable_types> "Film" .
+<Film> <type.type.expected_by> "Sequel" .
+<Ghost_Mother> <film.film.country> "Thailand" .
+<The_Iron_Ladies> <film.film.genre> "Comedy" .
+<Ladda_Land> <film.film.language> "Thai Language" .
+<Last_Life_in_the_Universe> <film.film.language> "Thai Language" .
+<Story_by> <rdf-schema#range> "Film story contributor" .
+<The_Unborn> <film.film.country> "Thailand" .
+<Romantic_comedy> <base.animemanga.anime_manga_genre.anime_manga_franchises> "IS" .
+<Romance_Film> <theater.theater_genre.plays_in_this_genre> "Vanities" .
+<Prequel> <type.property.delegated> "Prequel" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "WataMote" .
+<Footage_appears_in> <type.property.expected_type> "Film" .
+<Film> <type.type.properties> "Songs" .
+<Queens_of_Langkasuka> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Film> <rdf-schema#range> "Film" .
+<Performances> <type.property.schema> "Film" .
+<Hello_Stranger> <freebase.valuenotation.has_no_value> "Sequel" .
+<The_Little_Comedian> <film.film.sequel> "Baan Chan Talok Wai Korn (Pee Son Wai)" .
+<Drama> <base.animemanga.anime_manga_genre.anime_manga_franchises> "Lupin III" .
+<Wongsakorn_Rassamitat> <freebase.valuenotation.has_value> "Country of nationality" .
+<Thai_Language> <media_common.netflix_genre.titles> "Legend of King Naresuan: Hostage of Hongsawadi" .
+<Witthaya_Thongyooyong> <people.person.profession> "Screenwriter" .
+<Appears_in_film> <rdf-schema#range> "Film" .
+<m.0cqgnm2> <common.webpage.topic> "Adisorn Tresirikasem" .
+<Yongyoot_Thongkongtoon> <film.producer.film> "Fan Chan" .
+<Comedy> <media_common.media_genre.child_genres> "Comedy of errors" .
+<Thailand> <base.aareas.schema.administrative_area.pertinent_type> "Thai region" .
+<Thai_Language> <media_common.netflix_genre.titles> "Body Jumper" .
+<Yongyoot_Thongkongtoon> <common.topic.notable_for> "g.125bqptp_" .
+<Film> <rdf-schema#range> "Film" .
+<Homestuck> <comic_strips.comic_strip.genre> "Comedy" .
+<Diecovery> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<The_Bodyguard> <common.topic.notable_types> "Film" .
+<Prasert_Vivattanananpong> <film.producer.film> "Seasons Change" .
+<Charlie_Trairat> <people.person.place_of_birth> "Bangkok" .
+<m.0z4m2rt> <people.marriage.spouse> "Adisorn Tresirikasem" .
+<Prequel> <type.property.expected_type> "Film" .
+<Power_Kids> <film.film.language> "Thai Language" .
+<Romance_Film> <common.topic.notable_types> "Film genre" .
+<Release_date(s)> <rdf-schema#domain> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "It's Walky!" .
+<Production_design_by> <rdf-schema#range> "Film production designer" .
+<Spirited_Killer> <freebase.valuenotation.has_no_value> "Sequel" .
+<Adisorn_Tresirikasem> <film.director.film> "Bangkok Traffic Love Story" .
+<Drama> <base.webvideo.internet_video_genre.series> "Le Jun Kai" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "Philadelphia QFest Audience Award for Best Feature Comedy" .
+<Costume_design_by> <type.property.schema> "Film" .
+<Fan_Chan> <film.film.directed_by> "Witthaya Thongyooyong" .
+<Yongyoot_Thongkongtoon> <people.person.gender> "Male" .
+<Romance_Film> <film.film_festival_focus.festivals_with_this_focus> "Schermi d'Amore Film Festival" .
+<Sketch_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Right_By_Me> <common.topic.notable_types> "Film" .
+<Art_of_the_Devil_3> <freebase.valuenotation.has_value> "Produced by" .
+<Film> <type.type.properties> "Produced by" .
+<Adventure_Kid> <comic_books.comic_book_series.genre> "Comedy" .
+<Best_of_Times> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Comedy> <book.book_subject.works> "The Haunted Smile: The Story of Jewish Comedians in America" .
+<Lucky_Loser> <freebase.valuenotation.has_value> "Runtime" .
+<Adisorn_Tresirikasem> <film.writer.film> "Fan Chan" .
+<Second-Hand_NY> <media_common.media_genre.parent_genre> "Comedy" .
+<Charlie_Trairat> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Ghost_Mother> <freebase.valuenotation.has_no_value> "Film Series" .
+<Films_About_This_Topic> <rdf-schema#range> "Film" .
+<m.0cl4nfg> <common.webpage.in_index> "Blissful Master Index" .
+<Charwin_Jitsomboon> <people.person.profession> "Actor" .
+<Lucky_Loser> <common.topic.notable_types> "Film" .
+<Film> <type.type.properties> "Notable filming locations" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "FishTanked" .
+<Film> <type.property.expected_type> "Film" .
+<Romance_Film> <base.webvideo.internet_video_genre.series> "Le Jun Kai" .
+<Fan_Chan> <film.film.written_by> "Vitcha Gojiew" .
+<Mei_Mei> <film.film.genre> "Romance Film" .
+<Chocolate> <common.topic.notable_types> "Film" .
+<The_Haunted_Smile:_The_Story_of_Jewish_Comedians_in_America> <book.written_work.subjects> "Comedy" .
+<Bangkok_Traffic_Love_Story> <freebase.valuenotation.has_no_value> "Prequel" .
+<Hidamari_Sketch> <comic_strips.comic_strip.genre> "Comedy" .
+<Metacritic_film_ID> <type.property.schema> "Film" .
+<Nipawan_Taveepornsawan> <freebase.valuenotation.has_value> "Education" .
+<Art_direction_by> <type.property.expected_type> "Film art director" .
+<Non_Sequitur> <comic_strips.comic_strip.genre> "Comedy" .
+<Film> <type.property.master_property> "Songs" .
+<Film> <rdf-schema#range> "Film" .
+<Yongyoot_Thongkongtoon> <common.topic.article> "m.0b779h6" .
+<Films_art_directed> <type.property.master_property> "Art direction by" .
+<Jira_Maligool> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Mansion Sister" .
+<Bite_Night> <base.webvideo.internet_video_series.genre> "Romance Film" .
+<Film_writing_credits> <rdf-schema#range> "Film" .
+<13_Beloved> <film.film.genre> "Comedy" .
+<A_Child's_Christmases_in_Wales> <freebase.valuenotation.has_no_value> "Film Series" .
+<Film_series> <type.type.expected_by> "Film Series" .
+<Nang_Nak> <freebase.valuenotation.has_no_value> "Sequel" .
+<In_the_Shadow_of_the_Naga> <freebase.valuenotation.has_no_value> "Sequel" .
+<Syndromes_and_a_Century> <film.film.language> "Thai Language" .
+<Hello_Stranger> <film.film.genre> "Romance Film" .
+<Costume_design_by> <owl#inverseOf> "Costume Design for Film" .
+<Film_Series> <type.property.schema> "Film" .
+<Jira_Maligool> <film.producer.film> "Ladda Land" .
+<Fan_Chan> <freebase.valuenotation.has_no_value> "Film Series" .
+<Tropical_Malady> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Film_Story_Credits> <type.property.expected_type> "Film" .
+<The_Unborn> <film.film.language> "Thai Language" .
+<Nithiwat_Tharathorn> <freebase.valuenotation.has_value> "Place of birth" .
+<Handle_Me_with_Care> <film.film.genre> "Romantic comedy" .
+<m.0v_j57f> <film.personal_film_appearance.type_of_appearance> "Him/Herself" .
+<Art_of_the_Devil_2> <freebase.valuenotation.has_no_value> "Film Series" .
+<Anyarit_Pitakkul> <people.person.nationality> "Thailand" .
+<Film_casting_director> <type.type.properties> "Films casting directed" .
+<Ghost_Delivery> <film.film.country> "Thailand" .
+<Sundome> <comic_books.comic_book_series.genre> "Comedy" .
+<The_Overture> <freebase.valuenotation.has_no_value> "Film Series" .
+<Omen> <film.film.country> "Thailand" .
+<Film> <type.type.properties> "Sequel" .
+<Jeff_Ross> <people.person.profession> "Screenwriter" .
+<Film> <type.type.expected_by> "Film writing credits" .
+<Charwin_Jitsomboon> <freebase.valuenotation.has_value> "Spouse (or domestic partner)" .
+<Art_of_the_Devil> <film.film.language> "Thai Language" .
+<New_Prop> <type.property.expected_type> "Film" .
+<Return_of_the_One-Armed_Swordsman> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Last_Life_in_the_Universe> <freebase.valuenotation.has_no_value> "Prequel" .
+<Prem_Tinsulanonda> <people.person.gender> "Male" .
+<Peter_and_Vandy> <theater.play.genre> "Drama" .
+<Beautiful_Boxer> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Adisorn_Tresirikasem> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "I'll Give It My All... Tomorrow" .
+<Nang_Nak> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Tiger Blade" .
+<Films_edited> <type.property.expected_type> "Film" .
+<Bangkok> <location.administrative_division.country> "Thailand" .
+<Jira_Maligool> <film.producer.film> "Bangkok Traffic Love Story" .
+<Romantic_comedy> <media_common.media_genre.parent_genre> "Chick flick" .
+<Film_genre> <freebase.type_profile.strict_included_types> "Topic" .
+<The_Spectacles> <book.short_story.genre> "Comedy" .
+<m.0gxmmvn> <common.webpage.resource> "Berlin International Film Festival" .
+<Blissfully_Yours> <film.film.genre> "Drama" .
+<Witthaya_Thongyooyong> <common.topic.webpage> "m.0cqvmtk" .
+<Comedy> <media_common.media_genre.child_genres> "Black comedy" .
+<Bite_Night> <base.webvideo.internet_video_series.genre> "Drama" .
+<Love,_Sex,_Death,_and_the_Meaning_of_Life> <book.written_work.subjects> "Film" .
+<Comedy> <common.topic.subject_of> "Albrecht Behmel" .
+<The_Brutal_River> <film.film.language> "Thai Language" .
+<Romance_Film> <film.film_subject.films> "The Winter of the 13th Month" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "CableACE Award for Comedy Series" .
+<Handle_Me_with_Care> <film.film.country> "Thailand" .
+<Jira_Maligool> <film.writer.film> "The Iron Ladies" .
+<Dorm> <film.film.written_by> "Songyos Sugmakanan" .
+<Nipawan_Taveepornsawan> <people.person.place_of_birth> "Thailand" .
+<Mekhong_Full_Moon_Party> <common.topic.notable_types> "Film" .
+<Aummaraporn_Phandintong> <common.topic.notable_types> "Film writer" .
+<Lupin_III> <base.animemanga.anime_manga_franchise.part_of_franchise> "Lupin III" .
+<Thai_Language> <media_common.netflix_genre.titles> "Bangkok Knockout" .
+<Songyos_Sugmakanan> <freebase.valuenotation.has_value> "Place of birth" .
+<The_Bodyguard_2> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "Sick Nurses" .
+<Witthaya_Thongyooyong> <people.person.gender> "Male" .
+<Film> <freebase.type_profile.strict_included_types> "Abstract" .
+<The_Adventures_of_Dr._McNinja> <comic_strips.comic_strip.genre> "Comedy" .
+<Wonderful_Town> <film.film.genre> "Drama" .
+<Ong_Bak_3> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Cinematography> <owl#inverseOf> "Film cinematography credits" .
+<Film> <type.property.expected_type> "Film" .
+<Songyos_Sugmakanan> <people.person.nationality> "Thailand" .
+<Aummaraporn_Phandintong> <freebase.valuenotation.has_value> "Spouse (or domestic partner)" .
+<Film> <type.property.master_property> "Soundtrack" .
+<Languages> <rdf-schema#domain> "Film" .
+<Noi-Naa's_father> <film.film_character.portrayed_in_films> "m.0v_j5xt" .
+<Thai_Language> <media_common.netflix_genre.titles> "Province 77" .
+<Alone> <freebase.valuenotation.has_no_value> "Film Series" .
+<Subjects> <type.property.reverse_property> "Films On This Subject" .
+<Focus_Jeerakul> <people.person.profession> "Actor" .
+<Film> <type.domain.types> "Film art director" .
+<Bangkok_Traffic_Love_Story> <film.film.language> "Thai Language" .
+<Wongsakorn_Rassamitat> <freebase.valuenotation.has_value> "Education" .
+<Seven_Days_in_Coffin> <film.film.language> "Thai Language" .
+<Prequel> <rdf-schema#range> "Film" .
+<Queen_of_America> <book.written_work.subjects> "Comedy" .
+<The_Mansion_Sister> <film.film.country> "Thailand" .
+<Sequel> <type.property.reverse_property> "Prequel" .
+<Bar_Paradise> <common.topic.notable_types> "Film" .
+<Nithiwat_Tharathorn> <freebase.valuenotation.has_value> "Education" .
+<Human_Language> <type.type.expected_by> "Primary language" .
+<Film> <type.type.properties> "Fandango ID" .
+<Golden_Globe_Award_for_Best_Actress_–_Motion_Picture_–_Musical_or_Comedy> <award.award_category.disciplines_or_subjects> "Actor" .
+<Hit_Man_File> <freebase.valuenotation.has_no_value> "Sequel" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "Golden Globe Award for Best Actor – Motion Picture Musical or Comedy" .
+<Sequel> <rdf-schema#domain> "Film" .
+<Romance_Film> <base.skosbase.vocabulary_equivalent_topic.broader_concept> "Motion pictures" .
+<Casting_director> <type.property.schema> "Film" .
+<Film_series> <type.type.domain> "Film" .
+<Comedy> <internet.website_category.sites> "Atom.com" .
+<Film_production_designer> <type.type.domain> "Film" .
+<Hello_Stranger> <freebase.valuenotation.has_value> "Rated" .
+<Film> <type.property.expected_type> "Film" .
+<Charwin_Jitsomboon> <freebase.valuenotation.has_value> "Parents" .
+<Power_Kids> <freebase.valuenotation.has_no_value> "Sequel" .
+<Bob_Hope:_The_Road_Well-Traveled> <book.written_work.subjects> "Comedy" .
+<Citizen_Dog> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Film_music_contributor> <freebase.type_hints.included_types> "Topic" .
+<The_Love_of_Siam> <film.film.genre> "Drama" .
+<Vitcha_Gojiew> <people.person.profession> "Film director" .
+<Prasert_Vivattanananpong> <film.producer.film> "The Iron Ladies" .
+<Bangkok_Dangerous> <film.film.sequel> "One Take Only" .
+<Bangkok_Love_Story> <film.film.genre> "Romance Film" .
+<Film_producer> <type.type.domain> "Film" .
+<Bar_Paradise> <film.film.genre> "Romance Film" .
+<210_Amlent_Avenue> <theater.play.genre> "Romance Film" .
+<Songyos_Sugmakanan> <film.director.film> "The Billionaire" .
+<Awfully_Sweet,_Awfully_Dumb> <base.webvideo.internet_video.genre> "Comedy" .
+<Comedy> <media_common.media_genre.child_genres> "Slapstick" .
+<Film> <type.domain.types> "Film festival event" .
+<Vanquisher> <freebase.valuenotation.has_no_value> "Prequel" .
+<Netflix_ID> <rdf-schema#domain> "Film" .
+<Bangkok_Traffic_Love_Story> <film.film.production_companies> "GMM Tai Hub" .
+<Beautiful_Boxer> <freebase.valuenotation.has_no_value> "Film Series" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Toulon Festival International des Musiques d'Ecran" .
+<Other_film_companies> <type.property.master_property> "Film" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "I'm@Work - Please Hold" .
+<St_Kilda_Film_Festival> <film.film_festival.focus> "Comedy" .
+<P> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Jan_Dara> <film.film.language> "Thai Language" .
+<Rotten_Tomatoes_ID> <type.property.schema> "Film" .
+<Includes_Film> <type.property.expected_type> "Film" .
+<Farce> <media_common.media_genre.parent_genre> "Comedy" .
+<Golden_Globe_Award_for_Best_Actress_–_Motion_Picture_–_Musical_or_Comedy> <award.award_category.disciplines_or_subjects> "Comedy" .
+<Hit_Man_File> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Films_art_directed> <rdf-schema#range> "Film" .
+<4bia> <freebase.valuenotation.has_value> "Personal appearances" .
+<Fan_Chan> <common.topic.notable_for> "g.125bwlst4" .
+<The_Possible> <film.film.country> "Thailand" .
+<Sitcom> <media_common.media_genre.parent_genre> "Television comedy" .
+<Thai_Language> <media_common.netflix_genre.titles> "13 Beloved" .
+<Charlie_Trairat> <freebase.valuenotation.is_reviewed> "Gender" .
+<Seven_Something> <film.film.country> "Thailand" .
+<Drama> <base.webvideo.internet_video_genre.series> "Bite Night" .
+<Film> <type.type.properties> "Release date(s)" .
+<Jira_Maligool> <organization.organization_founder.organizations_founded> "GMM Tai Hub" .
+<Buddha's_Lost_Children> <common.topic.notable_types> "Film" .
+<Fan_Chan> <film.film.written_by> "Aummaraporn Phandintong" .
+<Film> <type.type.expected_by> "Footage appears in" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Love of Siam" .
+<One_Take_Only> <freebase.valuenotation.is_reviewed> "Film Series" .
+<Ghost_Mother> <freebase.valuenotation.has_value> "Edited by" .
+<Filming> <type.property.schema> "Film" .
+<A_Child's_Christmases_in_Wales> <film.film.subjects> "Comedy" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Protector" .
+<The_Brutal_River> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Appeared_In_Movie> <type.property.expected_type> "Film" .
+<Films_production_designed> <type.property.schema> "Film production designer" .
+<Thai_Language> <media_common.netflix_genre.titles> "Art of the Devil 3" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Sluggy Freelance" .
+<Film> <type.type.properties> "Gross revenue" .
+<Art_of_the_Devil> <freebase.valuenotation.has_no_value> "Prequel" .
+<Handle_Me_with_Care> <freebase.valuenotation.has_no_value> "Film Series" .
+<Film> <type.type.properties> "Executive produced by" .
+<The_Overture> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_season.episodes> "Wally Panther vs. The Pizza Guy (yndotStreet comedy)" .
+<Fan_Chan> <film.film.runtime> "m.0v_k75g" .
+<Performances> <type.property.master_property> "Film" .
+<Vitcha_Gojiew> <film.director.film> "Fan Chan" .
+<Film_writer> <freebase.type_hints.included_types> "Topic" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Devil's Panties" .
+<Ong-Bak:_Muay_Thai_Warrior> <common.topic.notable_types> "Film" .
+<Megatokyo> <comic_strips.comic_strip.genre> "Comedy" .
+<Comedy> <base.animemanga.anime_manga_genre.anime_manga_franchises> "Hikaru no Go" .
+<Mekhong_Full_Moon_Party> <film.film.language> "Thai Language" .
+<Bangkok_Traffic_Love_Story> <freebase.valuenotation.has_value> "Casting director" .
+<Comedy> <book.book_subject.works> "More Ladies of Letters" .
+<Blissfully_Yours> <film.film.genre> "Romance Film" .
+<Comedy> <media_common.literary_genre.stories_in_this_genre> "The Spectacles" .
+<Mekhong_Full_Moon_Party> <film.film.produced_by> "Prasert Vivattanananpong" .
+<Seven_Something> <film.film.written_by> "Jira Maligool" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "I'm@Work - Call Home" .
+<Thai_Language> <media_common.netflix_genre.titles> "Shutter" .
+<Jira_Maligool> <people.person.gender> "Male" .
+<Comedy> <base.animemanga.anime_manga_genre.anime_manga_franchises> "Lupin III" .
+<Seven_Something> <freebase.valuenotation.has_no_value> "Film Series" .
+<Films_art_directed> <type.property.expected_type> "Film" .
+<The_Brutal_River> <film.film.country> "Thailand" .
+<Film_Series> <type.property.expected_type> "Film series" .
+<Ong_Bak_2:_The_Beginning> <freebase.valuenotation.has_value> "Art direction by" .
+<Thai_Language> <media_common.netflix_genre.titles> "Ong Bak 2: The Beginning" .
+<Yongyoot_Thongkongtoon> <people.person.profession> "Screenwriter" .
+<Thai_Language> <media_common.netflix_genre.titles> "Citizen Juling" .
+<Film> <type.type.properties> "Film festivals" .
+<Hard_Gun> <film.film.language> "Thai Language" .
+<Sexphone_and_the_Girl_Next_Door> <film.film.genre> "Comedy" .
+<Shutter> <freebase.valuenotation.has_no_value> "Prequel" .
+<Appears_in_film(s)> <rdf-schema#range> "Film" .
+<Sequel> <type.property.expected_type> "Film" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Teekyu" .
+<Preecha_Chanapai> <people.person.place_of_birth> "Bangkok" .
+<Fan_Chan> <film.film.starring> "m.0ggdp4p" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Victoria TX Independent Film Festival" .
+<FilmedIn> <rdf-schema#range> "Film" .
+<The_Uncles> <film.film.subjects> "Comedy" .
+<Film_costumer_designer> <type.type.domain> "Film" .
+<Hit_Man_File> <film.film.country> "Thailand" .
+<Comedy> <media_common.literary_genre.stories_in_this_genre> "The Ransom of Red Chief" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "The Kawai Complex Guide to Manors and Hostel Behavior" .
+<Art_of_the_Devil_3> <film.film.language> "Thai Language" .
+<Mysterious_Object_at_Noon> <freebase.valuenotation.is_reviewed> "Sequel" .
+<Seven_Something> <film.film.production_companies> "GMM Tai Hub" .
+<Mysterious_Object_at_Noon> <film.film.language> "Thai Language" .
+<Alabama> <film.film.subjects> "Comedy" .
+<Soundtrack> <type.property.schema> "Film" .
+<Initial_release_date> <type.property.schema> "Film" .
+<m.0cqgnm2> <common.webpage.category> "Curated Topic" .
+<Film_set_decorator> <type.type.expected_by> "Set Decoration by" .
+<Comedy> <book.book_subject.works> "Bob Hope: The Road Well-Traveled" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Sundome" .
+<Film> <type.type.expected_by> "Film Format" .
+<Comedy> <book.book_subject.works> "Yoshiwara" .
+<4bia> <film.film.written_by> "Yongyoot Thongkongtoon" .
+<Khan_Kluay> <freebase.valuenotation.has_value> "Costume design by" .
+<Thai_Language> <common.topic.image> "Thtonesen" .
+<The_Love_of_Siam> <freebase.valuenotation.has_value> "Set Decoration by" .
+<m.0cqgnm2> <common.webpage.in_index> "Blissful Master Index" .
+<Totally_Sketch> <base.webvideo.internet_video_series.genre> "Comedy" .
+<Fan_Chan> <film.film.cinematography> "Nithiwat Tharathorn" .
+<Jira_Maligool> <film.producer.film> "Coming Soon" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <freebase.valuenotation.is_reviewed> "Screenplay by" .
+<m.0cqvmsf> <common.webpage.in_index> "Blissful Master Index" .
+<Jira_Maligool> <film.cinematographer.film> "Bangkok Traffic Love Story" .
+<ATM:_Er_Rak_Error> <freebase.valuenotation.has_no_value> "Sequel" .
+<The_Bodyguard> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Jan_Dara> <freebase.valuenotation.has_no_value> "Sequel" .
+<P> <film.film.country> "Thailand" .
+<Comedy> <base.animemanga.anime_manga_genre.anime_manga_franchises> "IS" .
+<Songyos_Sugmakanan> <film.writer.film> "Hormones" .
+<Comedy> <common.topic.subject_of> "Making Possibilities" .
+<Film_festivals> <type.property.reverse_property> "Films" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "World of Comedy Film Festival" .
+<The_Iron_Ladies> <film.film.language> "Thai Language" .
+<Alone> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<The_Billionaire> <freebase.valuenotation.has_value> "Produced by" .
+<Shutter> <film.film.country> "Thailand" .
+<Film_Collections> <type.property.reverse_property> "Films In Collection" .
+<Jan_Dara> <freebase.valuenotation.has_no_value> "Prequel" .
+<Kiss_My_Snake> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Bang_Rajan> <freebase.valuenotation.has_no_value> "Prequel" .
+<Art_direction_by> <owl#inverseOf> "Films art directed" .
+<Film> <type.type.expected_by> "Film" .
+<Le_Jun_Kai> <base.webvideo.internet_video_series.genre> "Drama" .
+<Thai_Language> <media_common.netflix_genre.titles> "Bangkok Dangerous" .
+<The_Kawai_Complex_Guide_to_Manors_and_Hostel_Behavior> <comic_books.comic_book_series.genre> "Comedy" .
+<ATM:_Er_Rak_Error> <freebase.valuenotation.has_no_value> "Prequel" .
+<2004_Berlin_International_Film_Festival> <common.topic.notable_for> "g.12572knfg" .
+<The_Landlord> <film.film.genre> "Comedy" .
+<Rubber_Duckie> <film.film.subjects> "Romance Film" .
+<Lucky_Loser> <film.film.country> "Thailand" .
+<Sexphone_and_the_Girl_Next_Door> <film.film.genre> "Drama" .
+<Yaowarat> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Songyos_Sugmakanan> <film.editor.film> "Fan Chan" .
+<Diecovery> <media_common.netflix_title.netflix_genres> "Thailand" .
+<The_Sanctuary> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Comedy> <base.animemanga.anime_manga_genre.anime_manga_franchises> "Ranma 1/2" .
+<Film_set_decorator> <freebase.type_profile.strict_included_types> "Topic" .
+<Comedy> <book.magazine_genre.magazines_in_this_genre> "National Lampoon" .
+<Prequel> <rdf-schema#range> "Film" .
+<Comedy_at_the_Edge:_How_Stand-up_in_the_1970s_Changed_America> <book.written_work.subjects> "Stand-up comedy" .
+<Countdown> <common.topic.notable_types> "Film" .
+<Chaleumpol_Tikumpornteerawong> <freebase.valuenotation.has_value> "Education" .
+<Soul> <film.film.country> "Thailand" .
+<Film_cinematography_credits> <rdf-schema#range> "Film" .
+<The_Comedy_Festival> <film.film_festival.focus> "Comedy" .
+<Film_format> <type.property.reverse_property> "Film Format" .
+<Featured_Song> <type.property.reverse_property> "Featured in film" .
+<ATM:_Er_Rak_Error> <film.film.genre> "Comedy" .
+<Atom.com> <internet.website.category> "Comedy" .
+<4bia> <film.film.produced_by> "Yongyoot Thongkongtoon" .
+<Hello_Stranger> <film.film.country> "Thailand" .
+<m.0cq1jgx> <common.webpage.in_index> "Blissful Master Index" .
+<Kiss_My_Snake> <common.topic.notable_types> "Film" .
+<Tai_languages> <language.language_family.sub_families> "Southwestern Tai languages" .
+<Mysterious_Object_at_Noon> <freebase.valuenotation.has_no_value> "Prequel" .
+<Anyarit_Pitakkul> <people.person.profession> "Actor" .
+<Fan_Chan> <film.film.language> "Thai Language" .
+<Adisorn_Tresirikasem> <people.person.profession> "Film director" .
+<SARS_Wars> <common.topic.notable_types> "Film" .
+<Film> <type.type.properties> "Tagline" .
+<Songyos_Sugmakanan> <common.topic.article> "m.0413k97" .
+<Hard_Gun> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<m.0jy1rl> <film.performance.actor> "Focus Jeerakul" .
+<m.0ggdp4p> <film.performance.film> "Fan Chan" .
+<Arsène_Lupin_III> <comic_books.comic_book_character.regular_featured_appearances> "Lupin III" .
+<m.0cqgnmv> <common.webpage.category> "Curated Topic" .
+<Raging_Phoenix> <freebase.valuenotation.has_no_value> "Prequel" .
+<Seven_Something> <freebase.valuenotation.has_no_value> "Prequel" .
+<Jira_Maligool> <film.producer.film> "Pee Mak" .
+<The_Hunchback_of_Notre-Dame> <book.written_work.subjects> "Comedy" .
+<Genres> <type.property.reverse_property> "Films of this genre" .
+<Vote_Wally_Panther!_CORE_VALUES_#4:_Government_IS_The_Problem_(yndotStreet_comedy)> <base.webvideo.internet_video.genre> "Comedy" .
+<Jeff_Ross> <people.person.gender> "Male" .
+<Chick_flick> <common.topic.notable_types> "Film genre" .
+<Thai_Language> <media_common.netflix_genre.titles> "A Hero Never Dies" .
+<Arsène_Lupin_III> <fictional_universe.fictional_character.gender> "Male" .
+<Raging_Phoenix> <film.film.language> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "Bar Paradise" .
+<Comedy> <book.book_subject.works> "Truth and the comedic art" .
+<Thai_Language> <media_common.netflix_genre.titles> "Hit Man File" .
+<Drama> <film.film_subject.films> "A-List" .
+<Film> <type.type.expected_by> "Films shown" .
+<Lupin_III> <base.animemanga.anime_manga_franchise.genre> "Comedy" .
+<Jira_Maligool> <people.person.nationality> "Thailand" .
+<Fan_Chan> <film.film.starring> "m.0v_j5xt" .
+<Noi-Naa's_mother> <film.film_character.portrayed_in_films> "m.0v_j4gp" .
+<Body_Jumper> <film.film.country> "Thailand" .
+<Estimated_budget> <type.property.schema> "Film" .
+<Comedy> <film.film_subject.films> "Ricky Rapper" .
+<Ninpen_Manmaru> <comic_books.comic_book_series.genre> "Comedy" .
+<Lupin_III> <base.animemanga.manga_title.characters> "Arsène Lupin III" .
+<The_Sisters> <common.topic.notable_types> "Film" .
+<Edited_by> <type.property.schema> "Film" .
+<Ozy_and_Millie> <comic_strips.comic_strip.genre> "Comedy" .
+<Body> <freebase.valuenotation.has_no_value> "Film Series" .
+<Film> <type.type.expected_by> "Costume Design for Film" .
+<The_Iron_Ladies> <film.film.written_by> "Jira Maligool" .
+<Romance_Film> <film.film_subject.films> "g.1q5bt0zrh" .
+<Dubbing_performances> <type.property.master_property> "Film" .
+<Mission_Hunter_2> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Film> <type.type.expected_by> "Films" .
+<Blissfully_Yours> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Hit_Man_File> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Subjects> <rdf-schema#domain> "Film" .
+<Romance_Film> <base.schemastaging.context_name.pronunciation> "g.125_n5y3d" .
+<Anusara_Chantarangsi> <people.person.gender> "Female" .
+<Film> <type.type.expected_by> "Remake of" .
+<Films_directed> <type.property.expected_type> "Film" .
+<Ogenki_Clinic> <comic_books.comic_book_series.genre> "Comedy" .
+<Film> <type.type.properties> "Directed by" .
+<4bia> <film.film.produced_by> "Jira Maligool" .
+<Film> <type.type.expected_by> "Films" .
+<Citizen_Dog> <freebase.valuenotation.has_no_value> "Sequel" .
+<Born_to_Fight> <film.film.genre> "Drama" .
+<Lucky_Loser> <film.film.executive_produced_by> "Yongyoot Thongkongtoon" .
+<Tropical_Malady> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Human_Language> <freebase.type_profile.kind> "Definition" .
+<Films_Executive_Produced> <rdf-schema#range> "Film" .
+<Tropical_Malady> <freebase.valuenotation.has_no_value> "Prequel" .
+<Comedy> <common.topic.notable_for> "g.12553vfzs" .
+<Omen> <film.film.language> "Thai Language" .
+<Love,_Sex,_Death,_and_the_Meaning_of_Life> <book.written_work.subjects> "Entertainment" .
+<Set_Decoration_by> <rdf-schema#domain> "Film" .
+<Chaleumpol_Tikumpornteerawong> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Film> <type.domain.types> "Film director" .
+<It's_Walky!> <comic_strips.comic_strip.genre> "Comedy" .
+<Soul> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "Tears of the Black Tiger" .
+<Komgrit_Triwimol> <people.person.profession> "Screenwriter" .
+<m.0v_j3lb> <film.performance.character> "Jeab's father" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "Golden Globe Award for Best Actress – Motion Picture – Musical or Comedy" .
+<Lucky_Loser> <freebase.valuenotation.has_no_value> "Film Series" .
+<Toronto_European_Union_Film_Festival> <film.film_festival.focus> "Comedy" .
+<m.0v_j5xt> <film.performance.character> "Noi-Naa's father" .
+<Drama> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Little Wansa" .
+<Screenplay_by> <type.property.schema> "Film" .
+<Phobia_2> <film.film.directed_by> "Songyos Sugmakanan" .
+<Frank_1> <rdf-schema#range> "Film" .
+<Romance_Film> <media_common.media_genre.child_genres> "Romantic comedy" .
+<m.0v_j4gp> <film.performance.film> "Fan Chan" .
+<Film_set_decorator> <type.type.properties> "Film sets designed" .
+<Gross_revenue> <type.property.schema> "Film" .
+<Film_festival_event> <freebase.type_profile.strict_included_types> "Topic" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Suburban Tribe" .
+<Down_the_River> <common.topic.notable_types> "Film" .
+<Art_direction_by> <rdf-schema#range> "Film art director" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Minna Atsumare! Falcom Gakuen" .
+<Seven_Something> <film.film.language> "Thai Language" .
+<More_Ladies_of_Letters> <book.written_work.subjects> "Comedy" .
+<Songyos_Sugmakanan> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Remake_of> <type.property.expected_type> "Film" .
+<m.0cqvmv7> <common.webpage.category> "Curated Topic" .
+<Film> <type.type.properties> "Filming" .
+<Power_Kids> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Bangkok_Knockout> <film.film.language> "Thai Language" .
+<Ghost_Mother> <film.film.language> "Thai Language" .
+<Vote_Wally_Panther!_CORE_VALUES_#4:_Government_IS_The_Problem_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.season> "Vote Wally Panther" .
+<Romance_films> <base.skosbase.skos_concept.equivalent_topic> "Romance Film" .
+<Jira_Maligool> <film.producer.film> "Seasons Change" .
+<Tears_of_the_Black_Tiger> <freebase.valuenotation.has_no_value> "Film Series" .
+<Film> <freebase.type_profile.strict_included_types> "Inanimate" .
+<Film> <type.type.properties> "Other crew" .
+<Notable_filming_locations> <type.property.reverse_property> "Featured In Films" .
+<The_Haunted_Drum> <freebase.valuenotation.has_no_value> "Prequel" .
+<Le_Jun_Kai> <base.webvideo.internet_video_series.genre> "Romance Film" .
+<The_Bodyguard> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Wonderful_Town> <freebase.valuenotation.has_no_value> "Film Series" .
+<Other_film_companies> <type.property.schema> "Film" .
+<SuckSeed> <freebase.valuenotation.has_no_value> "Film Series" .
+<In_the_Shadow_of_the_Naga> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Many_Paths_to_Eden> <base.webvideo.internet_video.genre> "Comedy" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "The daring independent film festival" .
+<The_Possible> <common.topic.notable_types> "Film" .
+<Ladda_Land> <film.film.produced_by> "Jira Maligool" .
+<The_Legend_of_Suriyothai> <freebase.valuenotation.has_no_value> "Film Series" .
+<Comedy> <internet.website_category.sites> "VideoBash" .
+<Nithiwat_Tharathorn> <film.director.film> "Fan Chan" .
+<Film> <type.type.properties> "Story by" .
+<Film> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Motion pictures" .
+<m.0cqw0tc> <common.webpage.category> "Curated Topic" .
+<Thai_Language> <media_common.netflix_genre.titles> "Raging Phoenix" .
+<Thai_Language> <media_common.netflix_genre.titles> "Unhuman" .
+<The_Sisters> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Film> <type.type.properties> "Screenplay by" .
+<Songyos_Sugmakanan> <film.writer.film> "Phobia 2" .
+<Adisorn_Tresirikasem> <freebase.valuenotation.has_value> "Parents" .
+<The_Bodyguard> <film.film.country> "Thailand" .
+<m.0v_j63c> <film.performance.actor> "Anyarit Pitakkul" .
+<Prequel> <rdf-schema#domain> "Film" .
+<m.0v_j5j_> <film.performance.actor> "Aphichan Chaleumchainuwong" .
+<Film_producer> <type.type.properties> "Films Executive Produced" .
+<Film> <type.type.properties> "Performances" .
+<Khan_Kluay> <freebase.valuenotation.has_value> "Casting director" .
+<Yongyoot_Thongkongtoon> <film.producer.film> "Coming Soon" .
+<Films_of_this_genre> <type.property.master_property> "Genres" .
+<Spirited_Killer> <common.topic.notable_types> "Film" .
+<Film> <type.property.expected_type> "Film" .
+<m.09xzr6j> <common.webpage.topic> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "A House of Mad Souls" .
+<Sitcom> <base.webvideo.internet_video_genre.series> "Second-Hand NY" .
+<Blissfully_Yours> <film.film.country> "Thailand" .
+<Barry> <broadcast.radio_station.format> "Comedy" .
+<Thai_Genesis_Translation> <base.rosetta.rosetta_document.refers_to> "Thai Language" .
+<Film> <rdf-schema#range> "Film" .
+<Nithiwat_Tharathorn> <people.person.profession> "Film director" .
+<The_Iron_Ladies_2> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Nymph> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Jeab_(as_adult)> <film.film_character.portrayed_in_films> "m.0v_j337" .
+<Costume_design_by> <type.property.expected_type> "Film costumer designer" .
+<Bangkok_Haunted> <freebase.valuenotation.has_no_value> "Prequel" .
+<Comedy> <media_common.literary_genre.stories_in_this_genre> "The System of Doctor Tarr and Professor Fether" .
+<Dorm> <freebase.valuenotation.has_no_value> "Prequel" .
+<Bangkok_Love_Story> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Art_of_the_Devil_3> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Aummaraporn_Phandintong> <people.person.nationality> "Thailand" .
+<Romance_Film> <common.topic.webpage> "m.0cq1jgx" .
+<Produced_by> <type.property.reverse_property> "Films Produced" .
+<Languages> <type.property.expected_type> "Human Language" .
+<4bia> <freebase.valuenotation.has_value> "Music by" .
+<Genres> <type.property.schema> "Film" .
+<Philadelphia_QFest_Audience_Award_for_Best_Feature_Comedy> <award.award_category.disciplines_or_subjects> "Comedy" .
+<Teacher's_Diary> <film.film.language> "Thai Language" .
+<The_Iron_Ladies_2> <common.topic.notable_types> "Film" .
+<Soundtrack> <type.property.reverse_property> "Film" .
+<James_Bond_film_appearance(s)> <type.property.expected_type> "Film" .
+<Jira_Maligool> <film.writer.film> "The Tin Mine" .
+<Mission_Hunter_2> <film.film.country> "Thailand" .
+<Thai_Language> <media_common.netflix_genre.titles> "Ong-Bak: Muay Thai Warrior" .
+<The_Road_to_Mars> <book.book.genre> "Comedy" .
+<BONUS_Wally_Panther!_A_Dark_And_Stormy_Night_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.season> "Vote Wally Panther" .
+<Screenplay_by> <type.property.reverse_property> "Film writing credits" .
+<Thai_Language> <media_common.netflix_genre.titles> "g.121mqbqd" .
+<Witthaya_Thongyooyong> <film.writer.film> "Fan Chan" .
+<Bangkok_Love_Story> <film.film.genre> "Drama" .
+<Seven_Something> <film.film.directed_by> "Adisorn Tresirikasem" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Bodyguard 2" .
+<Teacher's_Diary> <film.film.country> "Thailand" .
+<Trailers> <rdf-schema#domain> "Film" .
+<Seasons_Change> <film.film.produced_by> "Jira Maligool" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Indian Film Festival of Melbourne" .
+<Wongsakorn_Rassamitat> <film.actor.film> "m.0v_j3lb" .
+<Sexphone_and_the_Girl_Next_Door> <film.film.country> "Thailand" .
+<Beelzebub> <comic_books.comic_book_series.genre> "Comedy" .
+<Seven_Days_to_Leave_My_Wife> <film.film.genre> "Romance Film" .
+<Yongyoot_Thongkongtoon> <freebase.valuenotation.has_value> "Parents" .
+<Bangkok_Knockout> <film.film.country> "Thailand" .
+<Film> <rdf-schema#range> "Film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Seven Days in Coffin" .
+<I'm@Work_-_Please_Hold> <base.webvideo.internet_video.genre> "Sketch comedy" .
+<The_Billionaire> <freebase.valuenotation.has_value> "Executive produced by" .
+<Comedy> <education.field_of_study.students_majoring> "m.02_xfkh" .
+<Film> <type.type.properties> "Country of origin" .
+<Featured_in_film> <rdf-schema#range> "Film" .
+<Yongyoot_Thongkongtoon> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Born_to_Fight> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Thai_Language> <media_common.netflix_genre.titles> "Born to Fight" .
+<Art_direction_by> <rdf-schema#domain> "Film" .
+<Music_by> <type.property.schema> "Film" .
+<Buddha's_Lost_Children> <film.film.language> "Thai Language" .
+<Music_by> <owl#inverseOf> "Film music credits" .
+<Bang_Rajan> <film.film.language> "Thai Language" .
+<Runtime> <rdf-schema#domain> "Film" .
+<Film> <type.domain.types> "Film set decorator" .
+<Film_music_contributor> <freebase.type_profile.strict_included_types> "Topic" .
+<Black_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<The_Overture> <freebase.valuenotation.has_no_value> "Sequel" .
+<Movie_Inspiration> <rdf-schema#range> "Film" .
+<Rubber_Duckie> <freebase.valuenotation.has_no_value> "Sequel" .
+<Film> <type.property.reverse_property> "Other film companies" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "8-Bit Theater" .
+<Rave_Master> <comic_books.comic_book_series.genre> "Comedy" .
+<Shutter> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Bangkok_Traffic_Love_Story> <freebase.valuenotation.has_value> "Featured Song" .
+<Seven_Days_to_Leave_My_Wife> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Power_Kids> <freebase.valuenotation.has_no_value> "Film Series" .
+<Film> <type.type.expected_by> "Favorite Films" .
+<Hard_Gun> <film.film.genre> "Comedy" .
+<Legend_of_King_Naresuan:_Hostage_of_Hongsawadi> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Sparkling Generation Valkyrie Yuuki" .
+<Power_Kids> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Grey Legacy" .
+<Vanquisher> <film.film.language> "Thai Language" .
+<Beautiful_Boxer> <film.film.genre> "Drama" .
+<Film> <rdf-schema#range> "Film" .
+<Bangkok_Traffic_Love_Story> <film.film.genre> "Comedy" .
+<Thai_Language> <media_common.netflix_genre.titles> "Uncle Boonmee Who Can Recall His Past Lives" .
+<Film_costumer_designer> <type.type.properties> "Costume Design for Film" .
+<Mission_Hunter_2> <freebase.valuenotation.has_no_value> "Sequel" .
+<Yongyoot_Thongkongtoon> <film.producer.film> "The Tin Mine" .
+<CineFiesta> <film.film_festival.focus> "Comedy" .
+<Suburban_Tribe> <comic_strips.comic_strip.genre> "Comedy" .
+<Lucky_Loser> <film.film.directed_by> "Adisorn Tresirikasem" .
+<Nipawan_Taveepornsawan> <film.actor.film> "m.0v_j4gp" .
+<Thai_Language> <media_common.netflix_genre.titles> "P" .
+<Film_producer> <freebase.type_profile.published> "Published" .
+<m.0y86438> <film.film_regional_release_date.film_release_region> "Thailand" .
+<Chaleumpol_Tikumpornteerawong> <film.actor.film> "m.0v_j6bz" .
+<Fan_Chan> <film.film.written_by> "Songyos Sugmakanan" .
+<Sketch_comedy> <common.topic.subject_of> "Awfully Sweet, Awfully Dumb" .
+<Bang_Rajan> <film.film.genre> "Drama" .
+<Fan_Chan> <film.film.music> "Amornpong Maetakunvudh" .
+<Ong_Bak_2:_The_Beginning> <freebase.valuenotation.has_value> "Set Decoration by" .
+<The_Tin_Mine> <film.film.language> "Thai Language" .
+<Spirited_Killer> <film.film.country> "Thailand" .
+<Film_festival_event> <type.type.domain> "Film" .
+<Thana_Vichayasuranan> <people.person.gender> "Male" .
+<4bia> <freebase.valuenotation.has_value> "Featured Song" .
+<Ricky_Rapper> <film.film.subjects> "Comedy" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_series.genre> "Comedy" .
+<Taxi_Tonight> <common.topic.notable_types> "Film" .
+<Film> <type.type.expected_by> "Film" .
+<Yongyoot_Thongkongtoon> <film.producer.film> "Alone" .
+<Tomboy_Commando> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Sitcom> <media_common.media_genre.parent_genre> "Comedy" .
+<Hormones> <film.film.genre> "Comedy" .
+<Bangkok_Love_Story> <freebase.valuenotation.has_no_value> "Prequel" .
+<Noo_Hin:_The_Movie> <common.topic.notable_types> "Film" .
+<Yongyoot_Thongkongtoon> <film.director.film> "4bia" .
+<Film> <type.type.expected_by> "Film Story Credits" .
+<Eiken> <comic_books.comic_book_series.genre> "Comedy" .
+<Films> <type.property.expected_type> "Film" .
+<m.0y86438> <film.film_regional_release_date.film_release_distribution_medium> "Theatrical" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "High School Girls" .
+<Ong_Bak_2:_The_Beginning> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Pre-production> <type.property.schema> "Film" .
+<Body> <film.film.produced_by> "Jira Maligool" .
+<Genres> <type.property.expected_type> "Film genre" .
+<Lupin_III> <comic_books.comic_book_series.featured_characters> "Arsène Lupin III" .
+<Best_of_Times> <film.film.production_companies> "GMM Tai Hub" .
+<Film> <type.type.properties> "Trailers" .
+<Film> <type.type.properties> "Edited by" .
+<A_Hero_Never_Dies> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Tears_of_the_Black_Tiger> <freebase.valuenotation.has_no_value> "Prequel" .
+<Films> <type.property.expected_type> "Film" .
+<Syndromes_and_a_Century> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<The_Tiger_Blade> <freebase.valuenotation.has_no_value> "Sequel" .
+<Film> <rdf-schema#range> "Film" .
+<Comedy> <common.topic.subject_of> "Vote Wally Panther" .
+<Aummaraporn_Phandintong> <freebase.valuenotation.has_value> "Height" .
+<m.0v_j63c> <film.performance.character> "Boy" .
+<Songyos_Sugmakanan> <film.director.film> "Hormones" .
+<Nithiwat_Tharathorn> <common.topic.notable_types> "Film director" .
+<Hello_Stranger> <freebase.valuenotation.has_no_value> "Prequel" .
+<m.0cqvmsf> <common.webpage.topic> "Vitcha Gojiew" .
+<Ghost_Delivery> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Romance_Film> <film.film_festival_focus.festivals_with_this_focus> "Mons International Love Film Festival" .
+<Film> <type.type.properties> "Production companies" .
+<Cinematography> <type.property.schema> "Film" .
+<Mekhong_Full_Moon_Party> <film.film.written_by> "Jira Maligool" .
+<Bad_Machinery> <comic_strips.comic_strip.genre> "Comedy" .
+<Ghost_of_Mae_Nak> <film.film.country> "Thailand" .
+<The_Legend_of_Suriyothai> <film.film.country> "Thailand" .
+<Films_Executive_Produced> <type.property.expected_type> "Film" .
+<Mysterious_Object_at_Noon> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Wongsakorn_Rassamitat> <freebase.valuenotation.has_value> "Parents" .
+<A-List> <film.film.subjects> "Drama" .
+<Thai> <base.rosetta.local_name.locale> "Thailand" .
+<Thai_Language> <media_common.netflix_genre.titles> "Art of the Devil 2" .
+<Wonderful_Town> <freebase.valuenotation.has_no_value> "Prequel" .
+<I'll_Give_It_My_All..._Tomorrow> <comic_books.comic_book_series.genre> "Comedy" .
+<Raging_Phoenix> <freebase.valuenotation.has_no_value> "Edited by" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Battle Vixens" .
+<Directed_by> <type.property.schema> "Film" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Adventure Kid" .
+<Story_by> <type.property.schema> "Film" .
+<Lupin_III> <base.animemanga.anime_manga_franchise.sub_franchise> "Lupin III" .
+<The_Order_of_the_Stick> <comic_strips.comic_strip.genre> "Comedy" .
+<Seasons_Change> <film.film.genre> "Comedy" .
+<Anyarit_Pitakkul> <freebase.valuenotation.has_value> "Height" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Beelzebub" .
+<Vitcha_Gojiew> <freebase.valuenotation.has_value> "Place of birth" .
+<m.0v_j5j_> <film.performance.character> "Dtee" .
+<Little_Wansa> <comic_books.comic_book_series.genre> "Drama" .
+<Charlie_Trairat> <film.actor.film> "m.0ggdp4p" .
+<Love,_Sex,_Death,_and_the_Meaning_of_Life> <book.written_work.subjects> "Comedy" .
+<Nithiwat_Tharathorn> <film.editor.film> "Hormones" .
+<Sick_Nurses> <common.topic.notable_types> "Film" .
+<Seven_Days_to_Leave_My_Wife> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Sequel> <type.property.delegated> "Sequel" .
+<Charwin_Jitsomboon> <freebase.valuenotation.has_value> "Place of birth" .
+<Adisorn_Tresirikasem> <film.director.film> "Seven Something" .
+<Sequel> <type.property.schema> "Film" .
+<Movie_Inspiration> <type.property.expected_type> "Film" .
+<Film_music_credits> <type.property.expected_type> "Film" .
+<Featured_Locations> <rdf-schema#domain> "Film" .
+<Yongyoot_Thongkongtoon> <film.director.film> "The Iron Ladies" .
+<Last_Life_in_the_Universe> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Fireball> <film.film.language> "Thai Language" .
+<The_Night_Owls> <comic_strips.comic_strip.genre> "Comedy" .
+<Tears_of_the_Black_Tiger> <film.film.country> "Thailand" .
+<Comedy_at_the_Edge:_How_Stand-up_in_the_1970s_Changed_America> <book.written_work.subjects> "Comedy" .
+<Films_art_directed> <type.property.schema> "Film art director" .
+<Mysterious_Object_at_Noon> <freebase.valuenotation.is_reviewed> "Edited by" .
+<National_Council_for_Peace_and_Order> <government.governmental_body.jurisdiction> "Thailand" .
+<Fan_Chan> <film.film.written_by> "Nithiwat Tharathorn" .
+<Golden_Globe_Award_for_Best_Motion_Picture_–_Musical_or_Comedy> <award.award_category.disciplines_or_subjects> "Film" .
+<303_Fear_Faith_Revenge> <film.film.language> "Thai Language" .
+<Distributors> <type.property.schema> "Film" .
+<Charlie_Trairat> <people.person.gender> "Male" .
+<Films> <rdf-schema#range> "Film" .
+<WataMote> <comic_books.comic_book_series.genre> "Comedy" .
+<kirby1> <internet.website.category> "Comedy" .
+<Films_production_designed> <rdf-schema#domain> "Film production designer" .
+<Yongyoot_Thongkongtoon> <common.topic.webpage> "m.0cqw0tc" .
+<Cinematography> <type.property.reverse_property> "Film cinematography credits" .
+<Fan_Chan> <film.film.directed_by> "Vitcha Gojiew" .
+<Countdown> <film.film.country> "Thailand" .
+<Mobile_Suit_Gundam-san> <comic_books.comic_book_series.genre> "Comedy" .
+<The_Tiger_Blade> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Witthaya_Thongyooyong> <film.director.film> "Fan Chan" .
+<The_Landlord> <common.topic.notable_types> "Film" .
+<Films_Produced> <rdf-schema#domain> "Film producer" .
+<Ong_Bak_2:_The_Beginning> <film.film.sequel> "Ong Bak 3" .
+<The_Tin_Mine> <freebase.valuenotation.has_no_value> "Prequel" .
+<Final_Score> <film.film.language> "Thai Language" .
+<Film_production_designer> <type.type.expected_by> "Production design by" .
+<Mekhong_Full_Moon_Party> <film.film.genre> "Comedy" .
+<Film_producer> <type.type.properties> "Films Produced" .
+<Film_story_contributor> <type.type.expected_by> "Story by" .
+<Thai_Language> <media_common.netflix_genre.titles> "Phobia 2" .
+<Fan_Chan> <film.film.featured_film_locations> "Thailand" .
+<Film> <type.type.properties> "Featured Locations" .
+<Tomboy_Commando> <film.film.country> "Thailand" .
+<World_of_Comedy_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Thai_Language> <media_common.netflix_genre.titles> "Down the River" .
+<Ironfist_Chinmi> <comic_books.comic_book_series.genre> "Comedy" .
+<m.0v_j57f> <film.personal_film_appearance.person> "Prem Tinsulanonda" .
+<Romance_Film> <common.topic.image> "Tyrone power alice faye ragtime6" .
+<prop1> <type.property.expected_type> "Film" .
+<Kingdom_of_War:_Part_2> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Personal_appearances> <rdf-schema#domain> "Film" .
+<Hello_Stranger> <freebase.valuenotation.has_value> "Featured Song" .
+<Ladda_Land> <film.film.country> "Thailand" .
+<Blissfully_Yours> <freebase.valuenotation.has_no_value> "Film Series" .
+<Movie> <rdf-schema#range> "Film" .
+<The_Billionaire> <film.film.production_companies> "GMM Tai Hub" .
+<Hit_Man_File> <freebase.valuenotation.has_no_value> "Film Series" .
+<Comedy> <common.topic.article> "m.05p558" .
+<Comedy> <book.book_subject.works> "The end of kinship" .
+<Fan_Chan> <film.film.starring> "m.0v_j337" .
+<The_Possible> <film.film.language> "Thai Language" .
+<Bangkok_Traffic_Love_Story> <film.film.genre> "Romance Film" .
+<Thai_Language> <language.human_language.main_country> "Thailand" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "London Comedy Film Festival" .
+<Handle_Me_with_Care> <film.film.genre> "Comedy" .
+<Thai_Language> <base.rosetta.languoid.local_name> "Thai" .
+<Coming_Soon> <film.film.produced_by> "Jira Maligool" .
+<Test_property> <type.property.expected_type> "Film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Vanquisher" .
+<The_Legend_of_Suriyothai> <freebase.valuenotation.has_no_value> "Prequel" .
+<Films_Executive_Produced> <type.property.master_property> "Executive produced by" .
+<Film_sets_designed> <type.property.master_property> "Set Decoration by" .
+<films> <type.property.expected_type> "Film" .
+<Vitcha_Gojiew> <common.topic.notable_types> "Film director" .
+<The_Billionaire> <film.film.directed_by> "Songyos Sugmakanan" .
+<Bar_Paradise> <film.film.genre> "Drama" .
+<Film> <type.type.properties> "Languages" .
+<Comedy> <internet.website_category.sites> "Totally Sketch" .
+<Jeff_Ross> <freebase.valuenotation.has_value> "Parents" .
+<Featured_Song> <rdf-schema#domain> "Film" .
+<Bangkok_Love_Story> <film.film.language> "Thai Language" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Endtown" .
+<Film> <type.type.expected_by> "Films Executive Produced" .
+<Citizen_Dog> <common.topic.notable_types> "Film" .
+<The_Iron_Ladies> <film.film.sequel> "The Iron Ladies 2" .
+<Kingdom_of_War:_Part_2> <film.film.country> "Thailand" .
+<Teacher's_Diary> <freebase.valuenotation.has_no_value> "Prequel" .
+<Born_to_Fight> <common.topic.notable_types> "Film" .
+<Bangkok_Dangerous> <film.film.genre> "Drama" .
+<Films_Executive_Produced> <type.property.schema> "Film producer" .
+<Thai_Language> <media_common.netflix_genre.titles> "Ghost Delivery" .
+<Set_Decoration_by> <type.property.expected_type> "Film set decorator" .
+<Noi-Naa> <film.film_character.portrayed_in_films> "m.0jy1rl" .
+<Rubber_Duckie> <common.topic.notable_types> "Film" .
+<Film> <type.property.reverse_property> "Personal appearances" .
+<Hard_Gun> <common.topic.notable_types> "Film" .
+<Chaleumpol_Tikumpornteerawong> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Monte_Carlo_Film_Festival> <film.film_festival.focus> "Comedy" .
+<The_Tin_Mine> <freebase.valuenotation.has_no_value> "Film Series" .
+<Tropical_Malady> <common.topic.notable_types> "Film" .
+<Berlin> <common.topic.subject_of> "Albrecht Behmel" .
+<Aphichan_Chaleumchainuwong> <people.person.place_of_birth> "Thailand" .
+<Country_of_origin> <type.property.schema> "Film" .
+<High_School_Girls> <comic_books.comic_book_series.genre> "Comedy" .
+<Thai_Language> <common.topic.webpage> "m.09xzr6j" .
+<Film_festival_event> <freebase.type_profile.kind> "Definition" .
+<Bangkok_Traffic_Love_Story> <film.film.country> "Thailand" .
+<Wonderful_Town> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Komgrit_Triwimol> <film.director.film> "The Bedside Detective" .
+<Films_production_designed> <rdf-schema#range> "Film" .
+<Tai–Kadai_languages> <language.language_family.sub_families> "Tai languages" .
+<The_Little_Comedian> <film.film.produced_by> "Jira Maligool" .
+<Film> <type.domain.types> "Film music contributor" .
+<Film> <type.type.expected_by> "Film music credits" .
+<Film_writing_credits> <rdf-schema#domain> "Film writer" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_season.episodes> "Vote Wally Panther! CORE VALUES #2: Don't Trust Newspapers (yndotStreet comedy)" .
+<The_Tiger_Blade> <common.topic.notable_types> "Film" .
+<Broad_Humor_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Jira_Maligool> <film.producer.film> "4bia" .
+<Buddha's_Lost_Children> <film.film.country> "Thailand" .
+<Power_Kids> <freebase.valuenotation.has_no_value> "Prequel" .
+<The_Man_Eater> <film.film.language> "Thai Language" .
+<Runtime> <type.property.master_property> "Film" .
+<Comedy> <book.book_subject.works> "Professional Stage Hypnotism" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "LA Shorts Fest Award for Best Comedy" .
+<Syndromes_and_a_Century> <film.film.country> "Thailand" .
+<Yongyoot_Thongkongtoon> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Haunted Drum" .
+<Films_of_this_genre> <type.property.expected_type> "Film" .
+<Prequel> <type.property.schema> "Film" .
+<Film> <rdf-schema#range> "Film" .
+<Omen> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Spirited_Killer> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Erfworld> <comic_strips.comic_strip.genre> "Comedy" .
+<Film> <type.type.properties> "Dubbing performances" .
+<Raging_Phoenix> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Film> <type.domain.types> "Film casting director" .
+<Phobia_2> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <freebase.valuenotation.has_no_value> "Film Series" .
+<The_Billionaire> <freebase.valuenotation.has_value> "Screenplay by" .
+<The_Billionaire> <freebase.valuenotation.has_value> "Costume design by" .
+<Film> <type.property.expected_type> "Film" .
+<Jeff_Ross> <people.person.profession> "Actor" .
+<One_Take_Only> <common.topic.notable_types> "Film" .
+<Film> <type.type.properties> "Netflix ID" .
+<Film> <type.type.properties> "Pre-production" .
+<Slapstick> <media_common.media_genre.parent_genre> "Comedy" .
+<Post-production> <rdf-schema#domain> "Film" .
+<Shutter> <freebase.valuenotation.has_no_value> "Sequel" .
+<Film> <type.type.expected_by> "Sequel" .
+<Lucky_Loser> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Film> <type.property.expected_type> "Film" .
+<The_Possible> <freebase.valuenotation.has_no_value> "Sequel" .
+<Lucky_Loser> <film.film.genre> "Comedy" .
+<Blissfully_Yours> <freebase.valuenotation.has_no_value> "Prequel" .
+<Lucky_Loser> <film.film.language> "Thai Language" .
+<Thai_Language> <common.topic.webpage> "m.09yg54b" .
+<Nang_Nak> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<m.0cq1jgx> <common.webpage.topic> "Romance Film" .
+<Ricky_Rapper> <common.topic.notable_types> "Film" .
+<m.0cq1jgx> <common.webpage.category> "Curated Topic" .
+<Yeralash> <book.magazine.genre> "Comedy" .
+<Production_design_by> <type.property.expected_type> "Film production designer" .
+<The_Love_of_Siam> <freebase.valuenotation.has_value> "Featured Song" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Order of the Stick" .
+<Shaman_King> <comic_books.comic_book_series.genre> "Comedy" .
+<Footage_appears_in> <rdf-schema#range> "Film" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Ogenki Clinic" .
+<Focus_Jeerakul> <freebase.valuenotation.is_reviewed> "Gender" .
+<Killer_Tattoo> <common.topic.notable_types> "Film" .
+<Directed_by> <rdf-schema#range> "Film director" .
+<Film> <type.type.expected_by> "film" .
+<Films_edited> <rdf-schema#range> "Film" .
+<The_Billionaire> <freebase.valuenotation.has_no_value> "Sequel" .
+<Films_Produced> <type.property.expected_type> "Film" .
+<Comedy> <opera.opera_genre.operas_in_this_genre> "Fantasio" .
+<Bang_Rajan> <film.film.primary_language> "Thai Language" .
+<CableACE_Award_for_Comedy_Series> <award.award_category.disciplines_or_subjects> "Comedy" .
+<Dorm> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<ATM:_Er_Rak_Error> <common.topic.notable_types> "Film" .
+<Tomboy_Commando> <common.topic.notable_types> "Film" .
+<The_Death_of_Comedy> <book.written_work.subjects> "Drama" .
+<Queens_of_Langkasuka> <freebase.valuenotation.has_no_value> "Prequel" .
+<Costume_design_by> <type.property.reverse_property> "Costume Design for Film" .
+<Aphichan_Chaleumchainuwong> <film.actor.film> "m.0v_j5j_" .
+<Thai_Language> <common.topic.notable_types> "Human Language" .
+<Film_costumer_designer> <type.type.expected_by> "Costume design by" .
+<Film> <type.type.expected_by> "Film" .
+<Citizen_Dog> <film.film.country> "Thailand" .
+<Preecha_Chanapai> <people.person.gender> "Male" .
+<Film_director> <type.type.domain> "Film" .
+<Right_By_Me> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Komgrit_Triwimol> <people.person.gender> "Male" .
+<Film_production_designer> <freebase.type_hints.included_types> "Topic" .
+<Comedy> <common.topic.subject_of> "Jeff Ross" .
+<Adisorn_Tresirikasem> <common.topic.notable_types> "Film director" .
+<Jira_Maligool> <film.director.film> "Mekhong Full Moon Party" .
+<Dorm> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Films_shown> <rdf-schema#range> "Film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Omen" .
+<Soul> <film.film.language> "Thai Language" .
+<Nodwick> <comic_strips.comic_strip.genre> "Comedy" .
+<Film_costumer_designer> <freebase.type_profile.published> "Published" .
+<Bangkok_Haunted> <freebase.valuenotation.has_no_value> "Sequel" .
+<L.A._Comedy_Shorts_Film_Festival> <film.film_festival.focus> "Comedy" .
+<NY_Times_ID> <type.property.schema> "Film" .
+<Queens_of_Langkasuka> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Chai_Lai> <freebase.valuenotation.has_no_value> "Prequel" .
+<Jira_Maligool> <freebase.valuenotation.is_reviewed> "Gender" .
+<Noo_Hin:_The_Movie> <film.film.country> "Thailand" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Bodyguard" .
+<Thai_Language> <media_common.netflix_genre.titles> "Dorm" .
+<Return_of_the_One-Armed_Swordsman> <film.film.language> "Thai Language" .
+<The_Overture> <freebase.valuenotation.has_no_value> "Prequel" .
+<Executive_produced_by> <owl#inverseOf> "Films Executive Produced" .
+<Songyos_Sugmakanan> <people.person.profession> "Film director" .
+<Comedy> <media_common.literary_genre.stories_in_this_genre> "The Loaded Dog" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <freebase.valuenotation.is_reviewed> "Produced by" .
+<Thai_Language> <media_common.netflix_genre.titles> "Mission Hunter 2" .
+<Berlin_International_Film_Festival> <film.film_festival.location> "Berlin" .
+<Nithiwat_Tharathorn> <film.director.film> "Seasons Change" .
+<Film_producer> <freebase.type_profile.equivalent_topic> "Film Producer" .
+<The_Bodyguard> <film.film.genre> "Comedy" .
+<m.0v_j3tg> <film.performance.actor> "Anusara Chantarangsi" .
+<Film> <type.type.expected_by> "Film" .
+<m.0cqgnmv> <common.webpage.in_index> "Blissful Master Index" .
+<Bangkok_Traffic_Love_Story> <freebase.valuenotation.has_value> "Production design by" .
+<The_Iron_Ladies> <film.film.genre> "Drama" .
+<SuckSeed> <film.film.produced_by> "Jira Maligool" .
+<Genres> <rdf-schema#range> "Film genre" .
+<Sick_Nurses> <freebase.valuenotation.has_no_value> "Sequel" .
+<Dorm> <film.film.directed_by> "Songyos Sugmakanan" .
+<Seasons_Change> <freebase.valuenotation.has_no_value> "Prequel" .
+<SARS_Wars> <film.film.country> "Thailand" .
+<Adisorn_Tresirikasem> <film.writer.film> "Bangkok Traffic Love Story" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "St Kilda Film Festival" .
+<Mysterious_Object_at_Noon> <freebase.valuenotation.has_no_value> "Film Series" .
+<Film> <type.type.properties> "Trailer Addict ID" .
+<Runtime> <type.property.schema> "Film" .
+<Citizen_Dog> <film.film.genre> "Romance Film" .
+<The_Victim> <freebase.valuenotation.has_no_value> "Sequel" .
+<Romantic_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<The_Billionaire> <film.film.primary_language> "Thai Language" .
+<Appears_in_film> <type.property.expected_type> "Film" .
+<Spirited_Killer> <freebase.valuenotation.has_value> "Edited by" .
+<The_Protector> <film.film.genre> "Drama" .
+<Preecha_Chanapai> <people.person.nationality> "Thailand" .
+<Phobia_2> <common.topic.notable_types> "Film" .
+<Taxi_Tonight> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Side_Street_Story> <freebase.valuenotation.has_no_value> "Prequel" .
+<m.0v_j337> <film.performance.actor> "Charwin Jitsomboon" .
+<Kamisama_Kiss> <comic_books.comic_book_series.genre> "Comedy" .
+<Yongyoot_Thongkongtoon> <film.producer.films_executive_produced> "Lucky Loser" .
+<Prasert_Vivattanananpong> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Art_of_the_Devil_3> <common.topic.notable_types> "Film" .
+<Fan_Chan> <freebase.valuenotation.has_value> "Costume design by" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <freebase.valuenotation.has_no_value> "Sequel" .
+<Films_of_this_genre> <rdf-schema#domain> "Film genre" .
+<Thai_Language> <media_common.netflix_genre.titles> "Taxi Tonight" .
+<Comedy> <film.film_subject.films> "팔도 가시나이" .
+<Ghost_of_Mae_Nak> <common.topic.notable_types> "Film" .
+<Art_of_the_Devil> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Best_of_Times> <common.topic.notable_types> "Film" .
+<Boy> <film.film_character.portrayed_in_films> "m.0v_j63c" .
+<Film_festivals> <rdf-schema#range> "Film festival event" .
+<Noo_Hin:_The_Movie> <film.film.directed_by> "Komgrit Triwimol" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Sisters" .
+<Fireball> <freebase.valuenotation.has_no_value> "Sequel" .
+<Film_music_credits> <rdf-schema#range> "Film" .
+<Jira_Maligool> <freebase.valuenotation.has_value> "Parents" .
+<Jira_Maligool> <film.producer.film> "ATM: Er Rak Error" .
+<Films_directed> <type.property.master_property> "Directed by" .
+<Thai_Language> <base.ontologies.ontology_instance.equivalent_instances> "m.07ngbtf" .
+<Aummaraporn_Phandintong> <freebase.valuenotation.has_value> "Parents" .
+<Little_Wansa> <comic_books.comic_book_series.genre> "Comedy" .
+<Ong-Bak:_Muay_Thai_Warrior> <freebase.valuenotation.has_no_value> "Sequel" .
+<Film> <type.type.expected_by> "Films art directed" .
+<The_War_of_the_Worlds> <book.written_work.subjects> "Comedy" .
+<I'm@Work_-_Water_Cooler_Talk> <base.webvideo.internet_video_episode.subject> "Comedy" .
+<Chai_Lai> <film.film.country> "Thailand" .
+<Syndromes_and_a_Century> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Stand-up_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<A_Hero_Never_Dies> <common.topic.notable_types> "Film" .
+<m.0v_pj24> <education.education.student> "Jira Maligool" .
+<Comedy> <film.film_subject.films> "A-List" .
+<Seasons_Change> <freebase.valuenotation.has_no_value> "Sequel" .
+<Prem_Tinsulanonda> <people.person.nationality> "Thailand" .
+<Film_writer> <type.type.properties> "Film writing credits" .
+<Phobia_2> <film.film.cinematography> "Jira Maligool" .
+<Yongyoot_Thongkongtoon> <film.producer.film> "Countdown" .
+<Executive_produced_by> <type.property.reverse_property> "Films Executive Produced" .
+<Focus_Jeerakul> <people.person.place_of_birth> "Bangkok" .
+<Comedy> <media_common.media_genre.child_genres> "Mafia comedy" .
+<The_Billionaire> <freebase.valuenotation.has_no_value> "Film Series" .
+<Hello_Stranger> <freebase.valuenotation.has_no_value> "Film Series" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Hidamari Sketch" .
+<Drama> <film.film_subject.films> "Rubber Duckie" .
+<Film> <type.type.properties> "Music by" .
+<Film> <type.type.properties> "Runtime" .
+<Thai_Language> <common.topic.article> "m.0c_vc" .
+<Dave_Barry_is_from_Mars_and_Venus> <book.written_work.subjects> "Comedy" .
+<Province_77> <film.film.country> "Thailand" .
+<Fan_Chan> <common.topic.webpage> "m.0h0wpnp" .
+<Yongyoot_Thongkongtoon> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Fireball> <common.topic.notable_types> "Film" .
+<Produced_by> <type.property.schema> "Film" .
+<Bangkok_Knockout> <media_common.netflix_title.netflix_genres> "Thailand" .
+<House_Gory> <film.film.language> "Thai Language" .
+<Amornpong_Maetakunvudh> <people.person.profession> "Film Score Composer" .
+<m.0v_j337> <film.performance.film> "Fan Chan" .
+<Comedy_of_errors> <media_common.media_genre.parent_genre> "Comedy" .
+<Jira_Maligool> <film.producer.film> "Seven Something" .
+<Tai–Kadai_languages> <language.language_family.languages> "Thai Language" .
+<Prasert_Vivattanananpong> <freebase.valuenotation.has_value> "Date of birth" .
+<Film_story_contributor> <freebase.type_hints.included_types> "Topic" .
+<Aphichan_Chaleumchainuwong> <freebase.valuenotation.has_value> "Country of nationality" .
+<Thai_Language> <media_common.netflix_genre.titles> "Curse of the Sun" .
+<Pani_Poni> <comic_books.comic_book_series.genre> "Comedy" .
+<Sequel> <rdf-schema#range> "Film" .
+<The_Love_of_Siam> <freebase.valuenotation.has_no_value> "Rated" .
+<SuckSeed> <film.film.language> "Thai Language" .
+<Executive_produced_by> <rdf-schema#domain> "Film" .
+<Thai_region> <base.aareas.schema.administrative_area_type.pertains_to> "Thailand" .
+<Film> <type.type.expected_by> "prop1" .
+<Preecha_Chanapai> <people.person.profession> "Actor" .
+<Yongyoot_Thongkongtoon> <freebase.valuenotation.has_value> "Height" .
+<Unhuman> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Vanquisher> <freebase.valuenotation.has_value> "Edited by" .
+<Film_costumer_designer> <freebase.type_hints.included_types> "Topic" .
+<Fan_Chan> <film.film.genre> "Comedy" .
+<Trailer_Addict_ID> <type.property.schema> "Film" .
+<The_Victim> <freebase.valuenotation.has_no_value> "Prequel" .
+<Appears_in_film(s)> <type.property.expected_type> "Film" .
+<Prasert_Vivattanananpong> <people.person.place_of_birth> "Thailand" .
+<Queens_of_Langkasuka> <freebase.valuenotation.has_no_value> "Sequel" .
+<Bang_Rajan> <common.topic.notable_types> "Film" .
+<Ong_Bak_2:_The_Beginning> <freebase.valuenotation.has_value> "Production design by" .
+<Film_Collections> <rdf-schema#domain> "Film" .
+<Jeff_Ross> <freebase.valuenotation.is_reviewed> "Gender" .
+<The_Bodyguard> <film.film.sequel> "The Bodyguard 2" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <freebase.valuenotation.has_no_value> "Prequel" .
+<Casting_director> <type.property.expected_type> "Film casting director" .
+<Mekhong_Full_Moon_Party> <freebase.valuenotation.has_no_value> "Sequel" .
+<Wonderful_Town> <freebase.valuenotation.has_no_value> "Sequel" .
+<Okinawa_International_Movie_Festival> <film.film_festival.focus> "Comedy" .
+<Comedy> <media_common.media_genre.child_genres> "Screwball comedy" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Hetalia: Axis Powers" .
+<The_Protector> <film.film.language> "Thai Language" .
+<Fan_Chan> <film.film.starring> "m.0v_j3lb" .
+<Chaleumpol_Tikumpornteerawong> <freebase.valuenotation.is_reviewed> "Gender" .
+<Body> <freebase.valuenotation.has_no_value> "Sequel" .
+<m.0v_j5xt> <film.performance.film> "Fan Chan" .
+<Bangkok_Love_Story> <film.film.country> "Thailand" .
+<Sequel> <type.property.expected_type> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Nodwick" .
+<Fan_Chan> <film.film.starring> "m.0v_j4gp" .
+<Down_the_River> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Songyos_Sugmakanan> <freebase.valuenotation.has_value> "Education" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <freebase.valuenotation.is_reviewed> "Genres" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Tales of the Vine-Gar" .
+<One_Take_Only> <film.film.genre> "Drama" .
+<Prasert_Vivattanananpong> <people.person.profession> "Film Producer" .
+<Mekhong_Full_Moon_Party> <film.film.country> "Thailand" .
+<Noo_Hin:_The_Movie> <freebase.valuenotation.has_no_value> "Prequel" .
+<Thai_Language> <language.human_language.language_family> "Tai languages" .
+<ATM:_Er_Rak_Error> <film.film.produced_by> "Jira Maligool" .
+<Ong_Bak_3> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Hit_Man_File> <film.film.genre> "Drama" .
+<Film> <type.type.expected_by> "Prequel" .
+<Curse_of_the_Sun> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Film> <type.type.properties> "Rated" .
+<Spirited_Killer> <media_common.netflix_title.netflix_genres> "Thailand" .
+<One_Take_Only> <freebase.valuenotation.is_reviewed> "Prequel" .
+<Edited_by> <rdf-schema#domain> "Film" .
+<Sequel> <type.property.delegated> "Sequel" .
+<Jira_Maligool> <common.topic.article> "m.0c1myc" .
+<m.0v_j57f> <film.personal_film_appearance.film> "Fan Chan" .
+<Films_Produced> <rdf-schema#range> "Film" .
+<Production_design_by> <type.property.schema> "Film" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Vote Wally Panther! CORE VALUES #2: Don't Trust Newspapers (yndotStreet comedy)" .
+<Fan_Chan> <film.film.starring> "m.0v_j6bz" .
+<Seven_Something> <common.topic.notable_types> "Film" .
+<Coming_Soon> <film.film.language> "Thai Language" .
+<SuckSeed> <film.film.production_companies> "GMM Tai Hub" .
+<Shutter> <freebase.valuenotation.has_no_value> "Film Series" .
+<Killer_Tattoo> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Bangkok_Traffic_Love_Story> <film.film.written_by> "Adisorn Tresirikasem" .
+<Motion_pictures> <base.skosbase.skos_concept.narrower_topic> "Romance Film" .
+<Prasert_Vivattanananpong> <film.producer.film> "Fan Chan" .
+<The_N_Crowd> <common.topic.subjects> "Comedy" .
+<Thailand> <location.country.official_language> "Thai Language" .
+<Khan_Kluay> <freebase.valuenotation.has_no_value> "Prequel" .
+<Seasons_Change> <film.film.produced_by> "Prasert Vivattanananpong" .
+<Languages> <type.property.schema> "Film" .
+<Thai_region> <base.aareas.schema.administrative_area_type.iso_country> "Thailand" .
+<Bangkok_Traffic_Love_Story> <freebase.valuenotation.has_value> "Rated" .
+<Films> <rdf-schema#range> "Film" .
+<Comedy> <book.book_subject.works> "The Columbia Comedy Shorts" .
+<Making_Possibilities> <common.topic.subjects> "Romance Film" .
+<Film> <type.property.expected_type> "Film" .
+<Film> <type.type.properties> "Rotten Tomatoes ID" .
+<Film> <freebase.documented_object.documentation> "m.0l12g5" .
+<Film_costumer_designer> <freebase.type_profile.strict_included_types> "Topic" .
+<Raging_Phoenix> <film.film.country> "Thailand" .
+<Ladda_Land> <freebase.valuenotation.has_no_value> "Prequel" .
+<Thai> <base.rosetta.local_name.languoid> "Thai Language" .
+<Bangkok_Traffic_Love_Story> <freebase.valuenotation.has_value> "Set Decoration by" .
+<Cinetopia_International_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Jira_Maligool> <freebase.valuenotation.has_value> "Height" .
+<Thai_Language> <media_common.netflix_genre.titles> "Wonderful Town" .
+<A_Child's_Christmases_in_Wales> <freebase.valuenotation.has_no_value> "Sequel" .
+<Nithiwat_Tharathorn> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Film_Story_Credits> <type.property.schema> "Film story contributor" .
+<Rated> <owl#inverseOf> "Films" .
+<Film> <type.type.expected_by> "Films directed" .
+<303_Fear_Faith_Revenge> <film.film.country> "Thailand" .
+<Films_casting_directed> <type.property.master_property> "Casting director" .
+<m.07ngbtf> <base.ontologies.ontology_instance_mapping.freebase_topic> "Thai Language" .
+<Mysterious_Object_at_Noon> <common.topic.notable_types> "Film" .
+<Hormones> <freebase.valuenotation.has_value> "Produced by" .
+<Comedy_of_errors> <media_common.media_genre.parent_genre> "Farce" .
+<Rotten_Tomatoes_ID> <rdf-schema#domain> "Film" .
+<The_Love_of_Siam> <freebase.valuenotation.has_no_value> "Film Series" .
+<Power_Kids> <common.topic.notable_types> "Film" .
+<The_Sisters> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<SARS_Wars> <film.film.genre> "Comedy" .
+<Fan_Chan> <film.film.starring> "m.0v_j5j_" .
+<Side_Street_Story> <film.film.subjects> "Comedy" .
+<Komgrit_Triwimol> <common.topic.notable_for> "g.1255xg68g" .
+<Albrecht_Behmel> <common.topic.subjects> "Berlin" .
+<Chocolate> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Tai–Kadai_languages> <language.language_family.sub_families> "Southwestern Tai languages" .
+<The_Love_of_Siam> <film.film.country> "Thailand" .
+<Phobia_2> <film.film.written_by> "Songyos Sugmakanan" .
+<Film> <type.type.expected_by> "films" .
+<Films_directed> <type.property.expected_type> "Film" .
+<One_Take_Only> <film.film.prequel> "Bangkok Dangerous" .
+<Jeff_Ross> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Romance_films> <base.skosbase.skos_concept.broader> "Motion pictures" .
+<Featured_in_film> <type.property.master_property> "Featured Song" .
+<Film_Story_Credits> <rdf-schema#domain> "Film story contributor" .
+<Songyos_Sugmakanan> <film.director.film> "Phobia 2" .
+<Comedy> <base.schemastaging.context_name.pronunciation> "g.11b8c2tkbj" .
+<Albrecht_Behmel> <common.topic.subjects> "Drama" .
+<Ghost_Mother> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Hikaru_no_Go> <base.animemanga.anime_manga_franchise.genre> "Comedy" .
+<Tyrone_power_alice_faye_ragtime6> <common.image.appears_in_topic_gallery> "Romance Film" .
+<The_Victim> <film.film.language> "Thai Language" .
+<Witthaya_Thongyooyong> <people.person.profession> "Film director" .
+<Prik> <film.film_character.portrayed_in_films> "m.0v_j6gh" .
+<A-List> <film.film.subjects> "Comedy" .
+<The_Sisters> <freebase.valuenotation.has_no_value> "Sequel" .
+<Romance_Film> <common.topic.subject_of> "Making Possibilities" .
+<Witthaya_Thongyooyong> <people.person.place_of_birth> "Saraburi Province" .
+<ATM:_Er_Rak_Error> <freebase.valuenotation.has_no_value> "Film Series" .
+<The_Billionaire> <common.topic.notable_types> "Film" .
+<Sexphone_and_the_Girl_Next_Door> <film.film.genre> "Romantic comedy" .
+<Film_genre> <freebase.type_hints.included_types> "Topic" .
+<Films_In_Collection> <type.property.master_property> "Film Collections" .
+<m.0h0wpnp> <common.webpage.resource> "Trailer on YouTube" .
+<Bangkok_Knockout> <freebase.valuenotation.has_no_value> "Sequel" .
+<Film_festival_event> <type.type.expected_by> "Film festivals" .
+<Curse_of_the_Sun> <common.topic.notable_types> "Film" .
+<Southwestern_Tai_languages> <language.language_family.member_of_language_families> "Tai–Kadai languages" .
+<Films> <rdf-schema#range> "Film" .
+<The_Columbia_Comedy_Shorts> <book.written_work.subjects> "Film" .
+<Film> <type.property.reverse_property> "Dubbing performances" .
+<Sexphone_and_the_Girl_Next_Door> <common.topic.notable_types> "Film" .
+<Killer_Tattoo> <media_common.netflix_title.netflix_genres> "Thailand" .
+<m.0v_j66g> <film.performance.actor> "Yok Teeranitayatarn" .
+<Sexphone_and_the_Girl_Next_Door> <film.film.language> "Thai Language" .
+<Countdown> <film.film.language> "Thai Language" .
+<Charlie_Trairat> <freebase.valuenotation.has_value> "Education" .
+<Film> <type.property.reverse_property> "Performances" .
+<Truth_and_the_comedic_art> <book.written_work.subjects> "Comedy" .
+<Prem_Tinsulanonda> <film.person_or_entity_appearing_in_film.films> "m.0v_j57f" .
+<Battle_Vixens> <comic_books.comic_book_series.genre> "Comedy" .
+<Songyos_Sugmakanan> <people.person.gender> "Male" .
+<Hormones> <film.film.written_by> "Songyos Sugmakanan" .
+<Costume_Design_for_Film> <type.property.expected_type> "Film" .
+<The_Possible> <film.film.genre> "Musical comedy" .
+<Wally_Panther_vs._The_Pizza_Guy_(yndotStreet_comedy)> <base.webvideo.internet_video.genre> "Comedy" .
+<Right_By_Me> <film.film.language> "Thai Language" .
+<Film_art_director> <type.type.properties> "Films art directed" .
+<Gross_revenue> <rdf-schema#domain> "Film" .
+<Art_of_the_Devil_3> <freebase.valuenotation.has_value> "Edited by" .
+<Professional_Stage_Hypnotism> <book.written_work.subjects> "Comedy" .
+<Songs> <type.property.schema> "Film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Buddha's Lost Children" .
+<Hello_Stranger> <freebase.valuenotation.has_value> "Production companies" .
+<Noo_Hin:_The_Movie> <freebase.valuenotation.has_value> "Edited by" .
+<Hello_Stranger> <freebase.valuenotation.has_value> "Story by" .
+<팔도_가시나이> <film.film.subjects> "Comedy" .
+<Last_Life_in_the_Universe> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Born_to_Fight> <freebase.valuenotation.has_no_value> "Film Series" .
+<Film_production_designer> <freebase.type_profile.strict_included_types> "Topic" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Vampire Cheerleaders" .
+<Film> <owl#inverseOf> "Distributors" .
+<Yongyoot_Thongkongtoon> <common.topic.notable_types> "Film writer" .
+<The_Billionaire> <film.film.genre> "Drama" .
+<Films_Produced> <type.property.schema> "Film producer" .
+<Film_festival_event> <freebase.type_hints.included_types> "Topic" .
+<Film> <type.property.reverse_property> "Runtime" .
+<Charlie_Trairat> <freebase.valuenotation.has_value> "Parents" .
+<Art_of_the_Devil> <film.film.country> "Thailand" .
+<Vote_Wally_Panther!_CORE_VALUES_#2:_Don't_Trust_Newspapers_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.season> "Vote Wally Panther" .
+<Story_by> <type.property.expected_type> "Film story contributor" .
+<Garuda> <freebase.valuenotation.has_no_value> "Prequel" .
+<Tropical_Malady> <freebase.valuenotation.has_no_value> "Film Series" .
+<Film> <type.type.expected_by> "Seen in movie/TV show" .
+<Charwin_Jitsomboon> <freebase.valuenotation.has_value> "Education" .
+<Yongyoot_Thongkongtoon> <people.person.education> "m.0b7996k" .
+<Films> <rdf-schema#range> "Film" .
+<Film> <type.type.properties> "Genres" .
+<Directed_by> <type.property.expected_type> "Film director" .
+<Other_crew> <rdf-schema#domain> "Film" .
+<Final_Score> <common.topic.notable_types> "Film" .
+<m.07ndwj2> <base.ontologies.ontology_instance_mapping.freebase_topic> "Comedy" .
+<Mekhong_Full_Moon_Party> <film.film.produced_by> "Yongyoot Thongkongtoon" .
+<Film> <type.type.expected_by> "Sequel" .
+<4bia> <film.film.written_by> "Aummaraporn Phandintong" .
+<Hello_Stranger> <film.film.language> "Thai Language" .
+<The_Iron_Ladies_2> <film.film.country> "Thailand" .
+<Teacher's_Diary> <freebase.valuenotation.has_no_value> "Sequel" .
+<Bangkok_Traffic_Love_Story> <freebase.valuenotation.has_no_value> "Film Series" .
+<Story_by> <rdf-schema#domain> "Film" .
+<Fan_Chan> <film.film.starring> "m.0v_j63c" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Cinetopia International Film Festival" .
+<Province_77> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<The_Billionaire> <freebase.valuenotation.has_value> "Casting director" .
+<210_Amlent_Avenue> <theater.play.genre> "Drama" .
+<Film_director> <freebase.type_profile.strict_included_types> "Topic" .
+<Film> <type.type.properties> "Other film companies" .
+<Seasons_Change> <film.film.genre> "Romantic comedy" .
+<Wonderful_Town> <film.film.genre> "Romance Film" .
+<Human_Language> <freebase.type_profile.strict_included_types> "Non-Agent" .
+<Film> <type.type.expected_by> "Appeared In Movie" .
+<Fan_Chan> <freebase.valuenotation.has_value> "Casting director" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Kamisama Kiss" .
+<Film_casting_director> <type.type.domain> "Film" .
+<Comedy> <internet.website_category.sites> "kirby1" .
+<Chai_Lai> <film.film.language> "Thai Language" .
+<Seasons_Change> <common.topic.notable_types> "Film" .
+<Romantic_comedy> <media_common.media_genre.parent_genre> "Romance Film" .
+<A_Funny_Story_About_6_and_9> <film.film.genre> "Comedy" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_season.episodes> "BONUS Wally Panther! A Dark And Stormy Night (yndotStreet comedy)" .
+<Comedy> <film.film_subject.films> "The Uncles" .
+<Khan_Kluay> <freebase.valuenotation.has_value> "Cinematography" .
+<Sequel> <type.property.delegated> "Sequel" .
+<Comedy> <film.film_subject.films> "Side Street Story" .
+<Release_date(s)> <type.property.schema> "Film" .
+<Film_director> <freebase.type_profile.equivalent_topic> "Film director" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Erfworld" .
+<Film_writing_credits> <type.property.schema> "Film writer" .
+<Film_story_contributor> <freebase.type_profile.published> "Published" .
+<Ghost_of_Mae_Nak> <freebase.valuenotation.has_value> "Prequel" .
+<Trailer_on_YouTube> <common.resource.annotations> "m.0h0wpnp" .
+<Films> <type.property.expected_type> "Film" .
+<Romance_Film> <theater.theater_genre.plays_in_this_genre> "Peter and Vandy" .
+<Films_casting_directed> <rdf-schema#range> "Film" .
+<m.09yxvjw> <common.webpage.topic> "Thai Language" .
+<Other_crew> <type.property.schema> "Film" .
+<Films_In_Series> <rdf-schema#range> "Film" .
+<Queens_of_Langkasuka> <freebase.valuenotation.has_no_value> "Film Series" .
+<Film> <type.type.expected_by> "Film" .
+<Film_director> <freebase.equivalent_topic.equivalent_type> "Film director" .
+<Sexphone_and_the_Girl_Next_Door> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Film_producer> <freebase.type_hints.included_types> "Topic" .
+<Albrecht_Behmel> <common.topic.subjects> "Comedy" .
+<Film> <type.type.expected_by> "Film" .
+<Ong_Bak_2:_The_Beginning> <freebase.valuenotation.has_value> "Casting director" .
+<Blissfully_Yours> <freebase.valuenotation.has_no_value> "Sequel" .
+<Lucky_Loser> <film.film.executive_produced_by> "Prasert Vivattanananpong" .
+<m.0h0wpnp> <common.webpage.topic> "Fan Chan" .
+<Films> <rdf-schema#range> "Film" .
+<Yongyoot_Thongkongtoon> <film.writer.film> "4bia" .
+<Chai_Lai> <film.film.genre> "Comedy" .
+<Born_to_Fight> <film.film.language> "Thai Language" .
+<Thailand> <location.location.containedby> "Asia" .
+<Film> <owl#inverseOf> "Personal appearances" .
+<Handle_Me_with_Care> <freebase.valuenotation.has_no_value> "Prequel" .
+<Release_date(s)> <owl#inverseOf> "Film" .
+<BONUS_Wally_Panther!_A_Dark_And_Stormy_Night_(yndotStreet_comedy)> <base.webvideo.internet_video.genre> "Comedy" .
+<Komgrit_Triwimol> <freebase.valuenotation.has_value> "Place of birth" .
+<Chai_Lai> <freebase.valuenotation.has_no_value> "Film Series" .
+<Wonderful_Town> <common.topic.notable_types> "Film" .
+<Lucky_Loser> <freebase.valuenotation.has_value> "Edited by" .
+<Art_of_the_Devil_3> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Broad Humor Film Festival" .
+<Jira_Maligool> <film.producer.film> "Lucky Loser" .
+<Yongyoot_Thongkongtoon> <film.producer.film> "Mekhong Full Moon Party" .
+<Yongyoot_Thongkongtoon> <people.person.place_of_birth> "Bangkok" .
+<Adisorn_Tresirikasem> <film.director.film> "Lucky Loser" .
+<Film> <type.type.expected_by> "Films edited" .
+<The_Love_of_Siam> <freebase.valuenotation.has_value> "Casting director" .
+<In_the_Shadow_of_the_Naga> <film.film.genre> "Drama" .
+<Power_Kids> <film.film.genre> "Comedy" .
+<Kiss_My_Snake> <film.film.language> "Thai Language" .
+<Film> <type.type.properties> "Subjects" .
+<FishTanked> <comic_strips.comic_strip.genre> "Comedy" .
+<Ghost_Delivery> <common.topic.notable_types> "Film" .
+<Thai> <base.rosetta.local_name.languoid> "Thai Language" .
+<Rooftop_Comedy_Official_Website> <internet.website.category> "Comedy" .
+<A_House_of_Mad_Souls> <film.film.language> "Thai Language" .
+<m.0v_j5xt> <film.performance.actor> "Preecha Chanapai" .
+<Primary_language> <type.property.schema> "Film" .
+<Adisorn_Tresirikasem> <people.person.profession> "Actor" .
+<Thailand> <location.country.administrative_divisions> "Saraburi Province" .
+<Tai_languages> <people.person.gender> "Female" .
+<Featured_In_Films> <type.property.expected_type> "Film" .
+<Films_directed> <type.property.delegated> "Films directed" .
+<Jeff_Ross> <common.topic.subjects> "Comedy" .
+<Thai_Language> <media_common.netflix_genre.titles> "Syndromes and a Century" .
+<Power_Kids> <film.film.genre> "Drama" .
+<Film> <type.type.expected_by> "Films of this genre" .
+<Power_Kids> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Films> <type.property.master_property> "Production companies" .
+<Yongyoot_Thongkongtoon> <film.producer.film> "4bia" .
+<Nang_Nak> <film.film.country> "Thailand" .
+<Thai_Language> <media_common.netflix_genre.titles> "Diecovery" .
+<prop1> <rdf-schema#range> "Film" .
+<Scary_Go_Round> <comic_strips.comic_strip.genre> "Comedy" .
+<The_Tin_Mine> <film.film.genre> "Drama" .
+<Asia> <base.locations.continents.countries_within> "Thailand" .
+<Coming_Soon> <freebase.valuenotation.has_no_value> "Film Series" .
+<Witthaya_Thongyooyong> <common.topic.notable_types> "Film director" .
+<Hormones> <film.film.directed_by> "Songyos Sugmakanan" .
+<Film> <freebase.type_profile.strict_included_types> "Topic" .
+<Film> <type.property.expected_type> "Film" .
+<Notable_filming_locations> <type.property.schema> "Film" .
+<IS> <base.animemanga.anime_manga_franchise.genre> "Romantic comedy" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Unborn" .
+<Thailand> <film.film_location.featured_in_films> "Shutter" .
+<Phobia_2> <film.film.country> "Thailand" .
+<m.0cqgnmv> <common.webpage.topic> "Jira Maligool" .
+<Drama> <media_common.media_genre.child_genres> "Romance Film" .
+<Films_On_This_Subject> <rdf-schema#range> "Film" .
+<Thai_Language> <base.rosetta.languoid.document> "Thai Orthography" .
+<Film_cinematography_credits> <type.property.expected_type> "Film" .
+<The_Unborn> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Drama> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "No Money" .
+<The_Possible> <freebase.valuenotation.has_no_value> "Film Series" .
+<m.0cq_xl3> <common.webpage.in_index> "Blissful Master Index" .
+<Khan_Kluay> <freebase.valuenotation.has_value> "Production design by" .
+<P> <film.film.language> "Thai Language" .
+<Preecha_Chanapai> <freebase.valuenotation.has_value> "Height" .
+<Film_director> <freebase.type_profile.published> "Published" .
+<Tai_languages> <language.language_family.member_of_language_families> "Tai–Kadai languages" .
+<Thai_Language> <base.rosetta.languoid.document> "Thai Phonology" .
+<Chaleumpol_Tikumpornteerawong> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Shutter> <film.film.featured_film_locations> "Thailand" .
+<Endtown> <comic_strips.comic_strip.genre> "Comedy" .
+<The_Tales_of_the_Vine-Gar> <comic_strips.comic_strip.genre> "Comedy" .
+<Comedy> <common.topic.subject_of> "Fork in the Socket" .
+<The_Man_Eater> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Jira_Maligool> <film.producer.film> "Handle Me with Care" .
+<Chaleumpol_Tikumpornteerawong> <freebase.valuenotation.has_value> "Parents" .
+<Ong-Bak:_Muay_Thai_Warrior> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Southwestern_Tai_languages> <language.language_family.languages> "Thai Language" .
+<Right_By_Me> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Prequel> <rdf-schema#range> "Film" .
+<Aummaraporn_Phandintong> <common.topic.notable_for> "g.125fww4jh" .
+<Aphichan_Chaleumchainuwong> <people.person.gender> "Male" .
+<Second-Hand_NY> <base.webvideo.internet_video_series.genre> "Comedy" .
+<Seen_in_movie/TV_show> <type.property.delegated> "Film" .
+<A-List> <common.topic.notable_types> "Film" .
+<Art_of_the_Devil_3> <freebase.valuenotation.has_no_value> "Prequel" .
+<Sundome> <comic_books.comic_book_series.genre> "Drama" .
+<Film> <type.type.properties> "Primary language" .
+<The_Love_of_Siam> <freebase.valuenotation.has_no_value> "Personal appearances" .
+<Chicago_Comedy_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Art_of_the_Devil_3> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<m.02_xfkh> <education.education.major_field_of_study> "Comedy" .
+<Anyarit_Pitakkul> <freebase.valuenotation.has_value> "Parents" .
+<Khan_Kluay> <freebase.valuenotation.has_value> "Story by" .
+<Comedy> <film.film_subject.films> "Bugs Bunny Gets the Boid" .
+<Jira_Maligool> <film.cinematographer.film> "The Iron Ladies" .
+<The_Tin_Mine> <common.topic.notable_types> "Film" .
+<The_Bodyguard_2> <freebase.valuenotation.has_value> "Sequel" .
+<Thai> <base.rosetta.local_name.languoid> "Thai Language" .
+<Bangkok_Traffic_Love_Story> <film.film.produced_by> "Jira Maligool" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Iron Ladies" .
+<Citizen_Juling> <common.topic.notable_types> "Film" .
+<Seven_Something> <freebase.valuenotation.has_no_value> "Sequel" .
+<m.0gxmmvn> <common.webpage.category> "About" .
+<The_Sanctuary> <film.film.country> "Thailand" .
+<One_Take_Only> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Shock_Asylum> <film.film.subjects> "Comedy" .
+<National_Lampoon> <book.magazine.genre> "Comedy" .
+<Alone> <film.film.language> "Thai Language" .
+<The_Little_Comedian> <freebase.valuenotation.has_no_value> "Prequel" .
+<Vanquisher> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Ghost_Delivery> <film.film.language> "Thai Language" .
+<Russell_Brand> <book.written_work.subjects> "Comedy" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Gin Tama" .
+<Vote_Wally_Panther!_CORE_VALUES_#3:_Helping_People_Isn't_Right_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.season> "Vote Wally Panther" .
+<The_Death_of_Comedy> <book.written_work.subjects> "Comedy" .
+<The_Devil's_Panties> <comic_strips.comic_strip.genre> "Comedy" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Eiken" .
+<Thai_Language> <media_common.netflix_genre.titles> "Ong Bak 3" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Comedy Cluj" .
+<Film> <type.property.expected_type> "Film" .
+<4bia> <film.film.production_companies> "GMM Tai Hub" .
+<ATM:_Er_Rak_Error> <film.film.country> "Thailand" .
+<Jira_Maligool> <people.person.profession> "Film director" .
+<Bangkok_Traffic_Love_Story> <film.film.genre> "Romantic comedy" .
+<Motion_pictures> <base.skosbase.skos_concept.equivalent_topic> "Film" .
+<A_House_of_Mad_Souls> <common.topic.notable_types> "Film" .
+<Witthaya_Thongyooyong> <freebase.valuenotation.has_value> "Height" .
+<Handle_Me_with_Care> <film.film.genre> "Drama" .
+<Charlie_Trairat> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<The_Devil's_Panties> <people.person.gender> "Female" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "International Comedy Film Festival" .
+<Films_casting_directed> <rdf-schema#domain> "Film casting director" .
+<The_Haunted_Drum> <film.film.language> "Thai Language" .
+<VideoBash> <internet.website.category> "Comedy" .
+<Fan_Chan> <film.film.directed_by> "Adisorn Tresirikasem" .
+<The_Bodyguard_2> <freebase.valuenotation.has_value> "Edited by" .
+<The_Lord_of_Ayuthaya> <film.film.language> "Thai Language" .
+<Handle_Me_with_Care> <film.film.language> "Thai Language" .
+<Born_to_Fight> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Fan_Chan> <film.film.written_by> "Witthaya Thongyooyong" .
+<Film> <common.topic.article> "m.0l12g5" .
+<Bobbins> <comic_strips.comic_strip.genre> "Comedy" .
+<Jira_Maligool> <film.producer.film> "Fan Chan" .
+<Mei_Mei> <common.topic.notable_types> "Film" .
+<The_Haunted_Drum> <freebase.valuenotation.has_no_value> "Sequel" .
+<Lupin_III> <base.animemanga.manga_title.animanga_franchise> "Lupin III" .
+<Film_Series> <type.property.master_property> "Films In Series" .
+<Songyos_Sugmakanan> <film.director.film> "Fan Chan" .
+<Nipawan_Taveepornsawan> <freebase.valuenotation.has_value> "Country of nationality" .
+<Jira_Maligool> <film.producer.film> "SuckSeed" .
+<Jira_Maligool> <film.producer.films_executive_produced> "The Possible" .
+<Shock_Asylum> <common.topic.notable_types> "Film" .
+<SARS_Wars> <freebase.valuenotation.has_no_value> "Sequel" .
+<Sema:_The_Warrior_of_Ayodhaya> <film.film.genre> "Drama" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Chicago Comedy Film Festival" .
+<Songyos_Sugmakanan> <film.writer.film> "Dorm" .
+<The_Man_Eater> <film.film.country> "Thailand" .
+<Film_Format> <rdf-schema#range> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Non Sequitur" .
+<Amornpong_Maetakunvudh> <freebase.valuenotation.has_value> "Date of birth" .
+<Seven_Days_in_Coffin> <common.topic.notable_types> "Film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Seven Days to Leave My Wife" .
+<Seven_Something> <film.film.executive_produced_by> "Yongyoot Thongkongtoon" .
+<Tomboy_Commando> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "The Comedy Festival" .
+<Film> <owl#inverseOf> "Dubbing performances" .
+<Aummaraporn_Phandintong> <film.writer.film> "4bia" .
+<Beautiful_Boxer> <film.film.country> "Thailand" .
+<Nang_Nak> <film.film.genre> "Romance Film" .
+<Film_series> <type.type.properties> "Films In Series" .
+<Film> <type.domain.types> "Film series" .
+<Eiken> <tv.tv_program.genre> "Comedy" .
+<Down_the_River> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Focus_Jeerakul> <people.person.nationality> "Thailand" .
+<Berlin> <location.de_state.capital> "Berlin" .
+<Blissfully_Yours> <film.film.language> "Thai Language" .
+<Film> <type.type.expected_by> "Prequel" .
+<Berlin_International_Film_Festival> <common.resource.annotations> "m.0gxmmvn" .
+<No_Money> <comic_books.comic_book_series.genre> "Drama" .
+<Film> <freebase.type_profile.published> "Published" .
+<Sick_Nurses> <film.film.country> "Thailand" .
+<The_Possible> <film.film.executive_produced_by> "Jira Maligool" .
+<Primary_language> <rdf-schema#range> "Human Language" .
+<Bangkok_Haunted> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Bar_Paradise> <film.film.language> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "Bangkok Love Story" .
+<Film> <type.type.expected_by> "Sequel" .
+<m.0v_j66g> <film.performance.film> "Fan Chan" .
+<Aphichan_Chaleumchainuwong> <freebase.valuenotation.has_value> "Education" .
+<Hard_Gun> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Charlie_Trairat> <freebase.valuenotation.has_value> "Height" .
+<One_Take_Only> <freebase.valuenotation.is_reviewed> "Sequel" .
+<Legend_of_King_Naresuan:_Hostage_of_Hongsawadi> <film.film.genre> "Drama" .
+<Vitcha_Gojiew> <people.person.gender> "Male" .
+<The_Iron_Ladies> <film.film.country> "Thailand" .
+<Bangkok_Traffic_Love_Story> <film.film.cinematography> "Jira Maligool" .
+<Seven_Days_to_Leave_My_Wife> <common.topic.notable_types> "Film" .
+<8-Bit_Theater> <comic_strips.comic_strip.genre> "Comedy" .
+<Films_In_Collection> <rdf-schema#range> "Film" .
+<Personal_appearances> <type.property.schema> "Film" .
+<Comedy> <tv.tv_subject.tv_programs> "RiffTrax" .
+<Film> <type.type.properties> "Distributors" .
+<Thai_Language> <language.human_language.region> "Asia" .
+<Nithiwat_Tharathorn> <common.topic.webpage> "m.0cqvmvp" .
+<Ghost_Mother> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Tagline> <rdf-schema#domain> "Film" .
+<Yok_Teeranitayatarn> <freebase.valuenotation.has_value> "Country of nationality" .
+<m.0cqm3l6> <common.webpage.category> "Curated Topic" .
+<No_Money> <comic_books.comic_book_series.genre> "Comedy" .
+<The_Lord_of_Ayuthaya> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Albrecht_Behmel> <common.topic.subjects> "Film" .
+<m.0cqvmv7> <common.webpage.in_index> "Blissful Master Index" .
+<Le_Jun_Kai> <tv.tv_program.genre> "Drama" .
+<Queens_of_Langkasuka> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Film> <type.type.properties> "Featured Song" .
+<Film> <type.type.properties> "Cinematography" .
+<Phobia_2> <media_common.netflix_title.netflix_genres> "Thailand" .
+<2004_Berlin_International_Film_Festival> <common.topic.notable_types> "Film festival event" .
+<Mysterious_Object_at_Noon> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Wongsakorn_Rassamitat> <freebase.valuenotation.has_value> "Height" .
+<Adisorn_Tresirikasem> <people.person.profession> "Screenwriter" .
+<Second-Hand_NY> <media_common.media_genre.parent_genre> "Sitcom" .
+<Film> <type.type.expected_by> "Sequel" .
+<Goblins> <comic_strips.comic_strip.genre> "Comedy" .
+<Prasert_Vivattanananpong> <film.producer.films_executive_produced> "Lucky Loser" .
+<Hit_Man_File> <film.film.language> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "Chai Lai" .
+<Noo_Hin:_The_Movie> <freebase.valuenotation.has_no_value> "Sequel" .
+<Hello_Stranger> <freebase.valuenotation.has_value> "Executive produced by" .
+<Film> <type.type.expected_by> "Appears in film(s)" .
+<Thai_Language> <base.rosetta.languoid.local_name> "Thai" .
+<The_Bodyguard> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Film> <type.type.expected_by> "Films" .
+<Knock-knock_joke> <base.events.type_of_performance.included_in_type_of_performance> "Comedy" .
+<In_the_Shadow_of_the_Naga> <freebase.valuenotation.has_no_value> "Prequel" .
+<Last_Life_in_the_Universe> <film.film.genre> "Romance Film" .
+<Best_of_Times> <film.film.genre> "Romance Film" .
+<One_Take_Only> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Open_Casket> <common.topic.notable_types> "Film" .
+<Seven_Days_to_Leave_My_Wife> <film.film.country> "Thailand" .
+<Notable_filming_locations> <rdf-schema#domain> "Film" .
+<Films_In_Series> <type.property.schema> "Film series" .
+<Films_directed> <type.property.schema> "Film director" .
+<Entertainment> <media_common.media_genre.child_genres> "Comedy" .
+<Nithiwat_Tharathorn> <people.person.gender> "Male" .
+<Film> <common.topic.article> "m.04d0gsn" .
+<m.0v_j6bz> <film.performance.actor> "Chaleumpol Tikumpornteerawong" .
+<Comedy> <media_common.media_genre.child_genres> "Musical comedy" .
+<Tagline> <type.property.schema> "Film" .
+<Apple_movie_trailer_ID> <type.property.schema> "Film" .
+<Comedy> <book.book_subject.works> "Queen of America" .
+<House_Gory> <common.topic.notable_types> "Film" .
+<Body> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Musical_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Screenplay_by> <owl#inverseOf> "Film writing credits" .
+<National_Council_for_Peace_and_Order> <organization.organization.geographic_scope> "Thailand" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <freebase.valuenotation.has_no_value> "Personal appearances" .
+<film> <type.property.expected_type> "Film" .
+<Film_music_contributor> <type.type.properties> "Film music credits" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Inazuma Eleven" .
+<Dorm> <film.film.language> "Thai Language" .
+<Side_Street_Story> <freebase.valuenotation.has_no_value> "Film Series" .
+<Province_77> <film.film.genre> "Drama" .
+<Thai_Language> <media_common.netflix_genre.titles> "Tropical Malady" .
+<Film_Collections> <owl#inverseOf> "Films In Collection" .
+<The_Haunted_Drum> <common.topic.notable_types> "Film" .
+<Art_of_the_Devil> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Jira_Maligool> <people.person.profession> "Film Producer" .
+<Body> <common.topic.notable_types> "Film" .
+<Action_Comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Directed_by> <owl#inverseOf> "Films directed" .
+<Schermi_d'Amore_Film_Festival> <film.film_festival.focus> "Romance Film" .
+<Film> <type.type.properties> "Apple movie trailer ID" .
+<Bar_Paradise> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Comedy> <common.topic.article> "m.01z57" .
+<Film> <rdf-schema#range> "Film" .
+<m.0cl4nfg> <common.webpage.category> "Curated Topic" .
+<The_Billionaire> <film.film.country> "Thailand" .
+<Coming_Soon> <freebase.valuenotation.has_no_value> "Sequel" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <film.film.country> "Thailand" .
+<Fan_Chan> <film.film.produced_by> "Prasert Vivattanananpong" .
+<Comedy> <media_common.media_genre.child_genres> "Stand-up comedy" .
+<Vampire_Cheerleaders> <comic_strips.comic_strip.genre> "Comedy" .
+<Fireball> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Film_series> <freebase.type_hints.included_types> "Topic" .
+<Fantasio> <opera.opera.genre> "Comedy" .
+<The_Bodyguard> <film.film.language> "Thai Language" .
+<Berlin_International_Film_Festival> <base.schemastaging.recurring_event_extra.location> "Berlin" .
+<Side_Street_Story> <freebase.valuenotation.has_no_value> "Sequel" .
+<The_Unborn> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Tropical_Malady> <freebase.valuenotation.has_no_value> "Sequel" .
+<Comedy> <people.person.metaweb_user_s> "emmaclarke" .
+<Ghost_Mother> <freebase.valuenotation.has_no_value> "Prequel" .
+<Source_film> <rdf-schema#range> "Film" .
+<Art_of_the_Devil_2> <film.film.country> "Thailand" .
+<Sema:_The_Warrior_of_Ayodhaya> <common.topic.notable_types> "Film" .
+<Thailand> <base.aareas.schema.administrative_area.subdividing_type> "Thai region" .
+<Vanquisher> <film.film.country> "Thailand" .
+<Favorite_Films> <rdf-schema#range> "Film" .
+<Raging_Phoenix> <freebase.valuenotation.has_no_value> "Sequel" .
+<Khan_Kluay> <freebase.valuenotation.has_no_value> "Personal appearances" .
+<m.0b7996k> <education.education.student> "Yongyoot Thongkongtoon" .
+<Chocolate> <film.film.genre> "Drama" .
+<Thai_Language> <media_common.netflix_genre.titles> "Bang Rajan" .
+<m.0v_j6bz> <film.performance.character> "Jack" .
+<Film> <common.topic.subject_of> "Albrecht Behmel" .
+<Hormones> <film.film.edited_by> "Nithiwat Tharathorn" .
+<Yongyoot_Thongkongtoon> <film.director.film> "The Iron Ladies 2" .
+<Adisorn_Tresirikasem> <freebase.valuenotation.has_value> "Height" .
+<The_Wotch> <comic_strips.comic_strip.genre> "Comedy" .
+<Ong_Bak_2:_The_Beginning> <freebase.valuenotation.has_value> "Music by" .
+<Thai_Language> <media_common.netflix_genre.titles> "Right By Me" .
+<Prasert_Vivattanananpong> <people.person.profession> "Actor" .
+<The_Brutal_River> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<The_Billionaire> <freebase.valuenotation.has_value> "Production design by" .
+<Film_Story_Credits> <rdf-schema#range> "Film" .
+<Films_of_this_genre> <rdf-schema#range> "Film" .
+<Art_direction_by> <type.property.reverse_property> "Films art directed" .
+<London_Comedy_Film_Festival> <film.film_festival.focus> "Comedy" .
+<2004_Berlin_International_Film_Festival> <film.film_festival_event.festival> "Berlin International Film Festival" .
+<Art_of_the_Devil> <film.film.sequel> "Art of the Devil 2" .
+<A_Hero_Never_Dies> <film.film.language> "Thai Language" .
+<Comedy> <media_common.media_genre.parent_genre> "Entertainment" .
+<The_Little_Comedian> <film.film.genre> "Drama" .
+<Thai_Orthography> <base.rosetta.rosetta_document.refers_to> "Thai Language" .
+<Side_Street_Story> <common.topic.notable_types> "Film" .
+<Bangkok_Love_Story> <freebase.valuenotation.has_no_value> "Sequel" .
+<Jira_Maligool> <film.producer.film> "Body" .
+<Nithiwat_Tharathorn> <common.topic.article> "m.02rbh8j" .
+<m.0cqm3l6> <common.webpage.in_index> "Blissful Master Index" .
+<Hello_Stranger> <freebase.valuenotation.has_value> "Art direction by" .
+<The_Brutal_River> <common.topic.notable_types> "Film" .
+<Comedy> <film.film_subject.films> "Open Casket" .
+<Raging_Phoenix> <freebase.valuenotation.has_no_value> "Film Series" .
+<Born_to_Fight> <freebase.valuenotation.has_no_value> "Sequel" .
+<Comedy> <media_common.media_genre.child_genres> "Television comedy" .
+<Film_art_director> <type.type.domain> "Film" .
+<SARS_Wars> <freebase.valuenotation.has_no_value> "Film Series" .
+<The_Iron_Ladies_2> <film.film.language> "Thai Language" .
+<Citizen_Juling> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Jira_Maligool> <film.cinematographer.film> "Phobia 2" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Chibi Devi!" .
+<Killer_Tattoo> <film.film.country> "Thailand" .
+<Fan_Chan> <freebase.valuenotation.has_no_value> "Prequel" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Las Vegas Jewish Film Festival" .
+<Film> <type.type.expected_by> "Films" .
+<The_Haunted_Drum> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Dorm> <freebase.valuenotation.has_no_value> "Sequel" .
+<Golden_Globe_Award_for_Best_Actor_–_Motion_Picture_Musical_or_Comedy> <award.award_category.disciplines_or_subjects> "Comedy" .
+<Film_series> <freebase.type_profile.published> "Published" .
+<Comedy> <media_common.media_genre.child_genres> "Romantic comedy" .
+<Romance_Film> <common.topic.webpage> "m.0b6rkxw" .
+<Yongyoot_Thongkongtoon> <film.director.film> "Best of Times" .
+<Fan_Chan> <film.film.directed_by> "Nithiwat Tharathorn" .
+<m.0ggdp4p> <film.performance.character> "Jeab" .
+<m.0v_j6gh> <film.performance.film> "Fan Chan" .
+<Comedy> <broadcast.radio_format.stations> "Barry" .
+<Film_production_designer> <type.type.properties> "Films production designed" .
+<Born_to_Fight> <freebase.valuenotation.has_no_value> "Prequel" .
+<Songs> <rdf-schema#domain> "Film" .
+<Buddha's_Lost_Children> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Film_set_decorator> <freebase.type_hints.included_types> "Topic" .
+<Songyos_Sugmakanan> <freebase.valuenotation.has_value> "Parents" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Ongoing Adventures of Rocket Llama" .
+<Vanquisher> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<4bia> <film.film.language> "Thai Language" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Scary Go Round" .
+<Blissfully_Yours> <media_common.netflix_title.netflix_genres> "Thailand" .
+<The_Iron_Ladies> <film.film.directed_by> "Yongyoot Thongkongtoon" .
+<Born_to_Fight> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Bangkok_Love_Story> <freebase.valuenotation.has_no_value> "Film Series" .
+<Yaowarat> <film.film.language> "Thai Language" .
+<Nithiwat_Tharathorn> <film.writer.film> "Seasons Change" .
+<Adisorn_Tresirikasem> <people.person.nationality> "Thailand" .
+<Film_director> <freebase.type_hints.included_types> "Topic" .
+<Queens_of_Langkasuka> <film.film.country> "Thailand" .
+<Grey_Legacy> <comic_strips.comic_strip.genre> "Comedy" .
+<Last_Life_in_the_Universe> <freebase.valuenotation.has_no_value> "Film Series" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Pani Poni" .
+<The_Iron_Ladies> <film.film.cinematography> "Jira Maligool" .
+<Life_of_TimmY> <comic_strips.comic_strip.genre> "Comedy" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <freebase.valuenotation.is_reviewed> "Edited by" .
+<m.0v_j3lb> <film.performance.actor> "Wongsakorn Rassamitat" .
+<A_Funny_Story_About_6_and_9> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Mysterious_Object_at_Noon> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Produced_by> <owl#inverseOf> "Films Produced" .
+<m.0jvh0_r> <film.performance.actor> "Komgrit Triwimol" .
+<Bangkok_Knockout> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Comedy> <film.film_subject.films> "A Child's Christmases in Wales" .
+<Thai> <base.rosetta.local_name.languoid> "Thai Language" .
+<Yaowarat> <film.film.country> "Thailand" .
+<Comedy> <common.topic.subject_of> "The N Crowd" .
+<The_Iron_Ladies> <film.film.produced_by> "Prasert Vivattanananpong" .
+<Casting_director> <type.property.reverse_property> "Films casting directed" .
+<Film_music_credits> <type.property.master_property> "Music by" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Dennis the Menace" .
+<Legend_of_King_Naresuan:_Hostage_of_Hongsawadi> <film.film.language> "Thai Language" .
+<Film> <rdf-schema#range> "Film" .
+<Human_Language> <freebase.type_profile.strict_included_types> "Abstract" .
+<Movie> <type.property.expected_type> "Film" .
+<Film_festivals> <rdf-schema#domain> "Film" .
+<Film> <type.type.domain> "Film" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <freebase.valuenotation.is_reviewed> "Casting director" .
+<Sequel> <rdf-schema#range> "Film" .
+<13_Beloved> <film.film.language> "Thai Language" .
+<Film_music_credits> <type.property.schema> "Film music contributor" .
+<Thai_Language> <base.schemastaging.context_name.pronunciation> "g.125_n7_rm" .
+<Executive_produced_by> <type.property.schema> "Film" .
+<Chaleumpol_Tikumpornteerawong> <freebase.valuenotation.has_value> "Height" .
+<Songyos_Sugmakanan> <people.person.profession> "Screenwriter" .
+<Film_story_contributor> <type.type.domain> "Film" .
+<Featured_Locations> <type.property.schema> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Megatokyo" .
+<Fork_in_the_Socket> <common.topic.subjects> "Comedy" .
+<Chai_Lai> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Comedy> <internet.website_category.sites> "mantlepies.com" .
+<The_N_Crowd> <organization.organization.sectors> "Entertainment" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Ninpen Manmaru" .
+<The_Sanctuary> <common.topic.notable_types> "Film" .
+<Comedy> <internet.website_category.sites> "Rooftop Comedy Official Website" .
+<Nymph> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Production_companies> <type.property.reverse_property> "Films" .
+<Film> <type.type.properties> "Casting director" .
+<Actor> <award.award_discipline.awards_in_this_discipline> "Golden Globe Award for Best Actress – Motion Picture – Musical or Comedy" .
+<m.0v_j4gp> <film.performance.actor> "Nipawan Taveepornsawan" .
+<Seven_Days_to_Leave_My_Wife> <film.film.language> "Thai Language" .
+<Directed_by> <rdf-schema#domain> "Film" .
+<4bia> <film.film.sequel> "Phobia 2" .
+<Taxi_Tonight> <film.film.language> "Thai Language" .
+<Body_Jumper> <freebase.valuenotation.has_no_value> "Prequel" .
+<Film> <type.property.expected_type> "Film" .
+<The_Legend_of_Suriyothai> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Aphichan_Chaleumchainuwong> <freebase.valuenotation.has_value> "Height" .
+<Personal_appearances> <type.property.master_property> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Bad Machinery" .
+<Body_Jumper> <common.topic.notable_types> "Film" .
+<Casting_director> <rdf-schema#range> "Film casting director" .
+<Ong-Bak:_Muay_Thai_Warrior> <film.film.language> "Thai Language" .
+<Film_producer> <type.type.expected_by> "Executive produced by" .
+<A_Child's_Christmases_in_Wales> <film.film.genre> "Comedy" .
+<Aummaraporn_Phandintong> <film.writer.film> "Fan Chan" .
+<Mekhong_Full_Moon_Party> <film.film.directed_by> "Jira Maligool" .
+<Thai_Language> <common.topic.notable_for> "g.1255tcf02" .
+<m.0v_j6gh> <film.performance.character> "Prik" .
+<Film_writer> <type.type.expected_by> "Screenplay by" .
+<Last_Life_in_the_Universe> <film.film.genre> "Drama" .
+<Musical_comedy> <common.topic.notable_types> "Film genre" .
+<Witthaya_Thongyooyong> <film.director.film> "The Possible" .
+<Witthaya_Thongyooyong> <freebase.valuenotation.has_value> "Parents" .
+<Vitcha_Gojiew> <film.writer.film> "Fan Chan" .
+<Metacritic_film_ID> <rdf-schema#domain> "Film" .
+<m.0jy1rl> <film.performance.film> "Fan Chan" .
+<Film> <type.type.properties> "Film Collections" .
+<Adisorn_Tresirikasem> <common.topic.webpage> "m.0cqgnm2" .
+<Comedy> <common.topic.notable_types> "Film genre" .
+<Television_comedy> <media_common.media_genre.child_genres> "Sitcom" .
+<Zap!> <comic_strips.comic_strip.genre> "Comedy" .
+<Killer_Tattoo> <film.film.genre> "Comedy" .
+<Lupin_III> <base.animemanga.anime_manga_franchise.manga_title> "Lupin III" .
+<Charwin_Jitsomboon> <freebase.valuenotation.has_value> "Height" .
+<The_Possible> <film.film.genre> "Comedy" .
+<Body> <film.film.genre> "Drama" .
+<Sequel> <type.property.expected_type> "Film" .
+<Film> <type.type.expected_by> "Film sets designed" .
+<Thai_Language> <common.topic.webpage> "m.0cq_xl3" .
+<Film> <freebase.type_profile.kind> "Definition" .
+<The_Victim> <film.film.country> "Thailand" .
+<The_Tiger_Blade> <film.film.language> "Thai Language" .
+<I'm@Work_-_Water_Cooler_Talk> <base.webvideo.internet_video_episode.subject> "Sketch comedy" .
+<Dtee> <film.film_character.portrayed_in_films> "m.0v_j5j_" .
+<Chai_Lai> <freebase.valuenotation.has_no_value> "Sequel" .
+<Tropical_Malady> <film.film.genre> "Comedy" .
+<Songs> <type.property.reverse_property> "Film" .
+<Dorm> <common.topic.notable_types> "Film" .
+<Ghost_of_Mae_Nak> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Vanquisher> <freebase.valuenotation.has_no_value> "Film Series" .
+<Bangkok_Knockout> <common.topic.notable_types> "Film" .
+<Slapstick> <common.topic.notable_types> "Film genre" .
+<13_Beloved> <film.film.genre> "Drama" .
+<The_Bodyguard_2> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Costume_design_by> <rdf-schema#range> "Film costumer designer" .
+<Bangkok_Haunted> <film.film.language> "Thai Language" .
+<Film_Collections> <type.property.schema> "Film" .
+<The_Sanctuary> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Film> <type.property.expected_type> "Film" .
+<emmaclarke> <freebase.user_profile.person> "Comedy" .
+<Minna_Atsumare!_Falcom_Gakuen> <comic_books.comic_book_series.genre> "Comedy" .
+<The_Possible> <freebase.valuenotation.has_value> "Produced by" .
+<Syndromes_and_a_Century> <film.film.genre> "Drama" .
+<Ong_Bak_3> <film.film.country> "Thailand" .
+<Seen_in_movie/TV_show> <type.property.expected_type> "Film" .
+<m.0glcy42> <film.film_cut.film> "Fan Chan" .
+<SARS_Wars> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Tears_of_the_Black_Tiger> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Music_by> <rdf-schema#range> "Film music contributor" .
+<Nithiwat_Tharathorn> <film.director.film> "Teacher's Diary" .
+<Bugs_Bunny_Gets_the_Boid> <common.topic.notable_types> "Film" .
+<Citizen_Dog> <freebase.valuenotation.has_no_value> "Prequel" .
+<Casting_director> <rdf-schema#domain> "Film" .
+<Fan_Chan> <freebase.valuenotation.has_value> "Story by" .
+<Film_writer> <freebase.type_profile.equivalent_topic> "Screenwriter" .
+<Berlin_International_Film_Festival> <time.recurring_event.instances> "2004 Berlin International Film Festival" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Cyborg Kuro-chan" .
+<The_Uncles> <common.topic.notable_types> "Film" .
+<Mei_Mei> <common.topic.subjects> "Film" .
+<Topic> <freebase.type_profile.published> "Published" .
+<Chiang_Saeng_Group> <base.rosetta.languoid.child> "Thai Language" .
+<Film> <type.type.properties> "Post-production" .
+<Nipawan_Taveepornsawan> <freebase.valuenotation.has_value> "Height" .
+<Area_88> <tv.tv_program.genre> "Romance Film" .
+<Comedy> <book.book_subject.works> "Russell Brand" .
+<Gin_Tama> <comic_books.comic_book_series.genre> "Comedy" .
+<Ranma_1/2> <base.animemanga.anime_manga_franchise.genre> "Comedy" .
+<Romance_Film> <common.topic.notable_for> "g.125g1yl6q" .
+<Film> <freebase.equivalent_topic.equivalent_type> "Film" .
+<SARS_Wars> <freebase.valuenotation.has_no_value> "Prequel" .
+<Yongyoot_Thongkongtoon> <film.producer.film> "Body" .
+<Film_sets_designed> <type.property.schema> "Film set decorator" .
+<Thai_Language> <language.human_language.countries_spoken_in> "Thailand" .
+<Film> <type.type.properties> "Costume design by" .
+<Prasert_Vivattanananpong> <common.topic.notable_types> "Film producer" .
+<Down_the_River> <film.film.genre> "Drama" .
+<Art_of_the_Devil_2> <film.film.language> "Thai Language" .
+<Film> <type.type.properties> "Film Series" .
+<Teekyu> <comic_books.comic_book_series.genre> "Comedy" .
+<Film> <type.type.expected_by> "Film cinematography credits" .
+<Production_design_by> <rdf-schema#domain> "Film" .
+<Khan_Kluay> <film.film.country> "Thailand" .
+<Garuda> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Adisorn_Tresirikasem> <freebase.valuenotation.has_value> "Place of birth" .
+<Film> <type.type.expected_by> "Movie Inspiration" .
+<Komgrit_Triwimol> <freebase.valuenotation.has_value> "Height" .
+<Crittertude> <comic_strips.comic_strip.genre> "Comedy" .
+<Garuda> <film.film.country> "Thailand" .
+<Thai_Language> <media_common.netflix_genre.titles> "Power Kids" .
+<Khan_Kluay> <film.film.written_by> "Aummaraporn Phandintong" .
+<P> <common.topic.notable_types> "Film" .
+<The_Little_Comedian> <film.film.genre> "Comedy" .
+<Vanquisher> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Diecovery> <film.film.language> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "Kingdom of War: Part 2" .
+<Fan_Chan> <film.film.country> "Thailand" .
+<Hard_Gun> <freebase.valuenotation.has_no_value> "Sequel" .
+<Romance_Film> <common.topic.article> "m.068d7n" .
+<Anusara_Chantarangsi> <freebase.valuenotation.has_value> "Education" .
+<Handle_Me_with_Care> <freebase.valuenotation.has_no_value> "Sequel" .
+<Kiss_My_Snake> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Film> <rdf-schema#range> "Film" .
+<The_Legend_of_Suriyothai> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Khan_Kluay> <freebase.valuenotation.has_value> "Edited by" .
+<Yongyoot_Thongkongtoon> <film.director.film> "Metrosexual" .
+<The_Possible> <film.film.written_by> "Witthaya Thongyooyong" .
+<Comedy> <organization.organization_sector.organizations_in_this_sector> "The N Crowd" .
+<Legend_of_King_Naresuan:_Hostage_of_Hongsawadi> <common.topic.notable_types> "Film" .
+<Romance_Film> <base.schemastaging.context_name.pronunciation> "m.010r1bs6" .
+<Drama> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Sundome" .
+<Shutter> <common.topic.notable_types> "Film" .
+<Seven_Something> <film.film.genre> "Romance Film" .
+<Film> <type.type.expected_by> "Film" .
+<Jan_Dara> <freebase.valuenotation.has_no_value> "Film Series" .
+<Nymph> <film.film.genre> "Drama" .
+<Sequel> <type.property.delegated> "Sequel" .
+<Jira_Maligool> <film.director.film> "Seven Something" .
+<Nithiwat_Tharathorn> <common.topic.notable_for> "g.125bn2l98" .
+<Citizen_Juling> <film.film.country> "Thailand" .
+<The_Protector> <common.topic.notable_types> "Film" .
+<Wonderful_Town> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Philadelphia_QFest_Audience_Award_for_Best_Feature_Comedy> <award.award_category.disciplines_or_subjects> "Film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Blissfully Yours" .
+<Production_design_by> <owl#inverseOf> "Films production designed" .
+<Yoshiwara> <book.written_work.subjects> "Comedy" .
+<Film> <type.property.expected_type> "Film" .
+<Komgrit_Triwimol> <people.person.profession> "Film director" .
+<Hormones> <film.film.language> "Thai Language" .
+<Omen> <common.topic.notable_types> "Film" .
+<The_Little_Comedian> <film.film.country> "Thailand" .
+<Teacher's_Diary> <film.film.genre> "Drama" .
+<Film_format> <rdf-schema#domain> "Film" .
+<Film> <owl#inverseOf> "Performances" .
+<Body_Jumper> <freebase.valuenotation.has_no_value> "Film Series" .
+<Hormones> <film.film.country> "Thailand" .
+<Screwball_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<m.0cqvmvp> <common.webpage.in_index> "Blissful Master Index" .
+<Vote_Wally_Panther> <common.topic.subjects> "Comedy" .
+<303_Fear_Faith_Revenge> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Thai_Language> <language.human_language.language_family> "Tai–Kadai languages" .
+<Amornpong_Maetakunvudh> <common.topic.notable_for> "g.125fq70cl" .
+<Raging_Phoenix> <film.film.genre> "Romance Film" .
+<Films_production_designed> <type.property.master_property> "Production design by" .
+<The_Winter_of_the_13th_Month> <film.film.subjects> "Romance Film" .
+<Citizen_Juling> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<The_Overture> <film.film.genre> "Drama" .
+<The_Mansion_Sister> <film.film.language> "Thai Language" .
+<Nithiwat_Tharathorn> <film.writer.film> "Fan Chan" .
+<Film_genre> <type.type.domain> "Film" .
+<Ong_Bak_2:_The_Beginning> <film.film.language> "Thai Language" .
+<Film_Format> <type.property.expected_type> "Film" .
+<Romance_Film> <media_common.media_genre.parent_genre> "Chick flick" .
+<Film> <type.type.expected_by> "James Bond film appearance(s)" .
+<Hello_Stranger> <film.film.produced_by> "Jira Maligool" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Bobbins" .
+<Film> <type.type.expected_by> "Prequel" .
+<Return_of_the_One-Armed_Swordsman> <common.topic.notable_types> "Film" .
+<Mysterious_Object_at_Noon> <freebase.valuenotation.is_reviewed> "Cinematography" .
+<The_Tiger_Blade> <film.film.country> "Thailand" .
+<Beautiful_Boxer> <common.topic.notable_types> "Film" .
+<Country_of_origin> <rdf-schema#domain> "Film" .
+<Comedy> <book.book_subject.works> "The Road to Mars" .
+<4bia> <film.film.genre> "Drama" .
+<Films> <type.property.master_property> "Rated" .
+<Fan_Chan> <freebase.valuenotation.has_value> "Set Decoration by" .
+<Adisorn_Tresirikasem> <people.person.gender> "Male" .
+<Comedy> <media_common.media_genre.child_genres> "Sitcom" .
+<m.0v_j3tg> <film.performance.character> "Jeab's mother" .
+<Seasons_Change> <film.film.directed_by> "Nithiwat Tharathorn" .
+<Film_writer> <freebase.type_profile.published> "Published" .
+<Tropical_Malady> <film.film.language> "Thai Language" .
+<4bia> <freebase.valuenotation.has_value> "Film Series" .
+<Keenan's_Room> <internet.website.category> "Comedy" .
+<Bangkok_Traffic_Love_Story> <freebase.valuenotation.has_no_value> "Personal appearances" .
+<The_daring_independent_film_festival> <film.film_festival.focus> "Comedy" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Goblins" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <film.film.language> "Thai Language" .
+<Songyos_Sugmakanan> <common.topic.notable_types> "Film director" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Okinawa International Movie Festival" .
+<Films_Produced> <type.property.master_property> "Produced by" .
+<Las_Vegas_Jewish_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Human_Language> <freebase.type_hints.included_types> "Topic" .
+<Phobia_2> <film.film.production_companies> "GMM Tai Hub" .
+<Fandango_ID> <type.property.schema> "Film" .
+<Indian_Film_Festival_of_Melbourne> <film.film_festival.focus> "Comedy" .
+<Songyos_Sugmakanan> <film.director.film> "Dorm" .
+<Jira_Maligool> <people.person.profession> "Cinematographer" .
+<Film> <freebase.equivalent_topic.equivalent_domain> "Film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Citizen Dog" .
+<Romance_Film> <common.topic.subject_of> "Mei Mei" .
+<Film_art_director> <freebase.type_hints.included_types> "Topic" .
+<Noo_Hin:_The_Movie> <freebase.valuenotation.has_no_value> "Film Series" .
+<Adisorn_Tresirikasem> <film.director.film> "Fan Chan" .
+<Born_to_Fight> <film.film.country> "Thailand" .
+<Sunshine_on_Putty> <book.written_work.subjects> "Entertainment" .
+<Remake_of> <rdf-schema#range> "Film" .
+<Sema:_The_Warrior_of_Ayodhaya> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<In_the_Shadow_of_the_Naga> <film.film.country> "Thailand" .
+<Last_Life_in_the_Universe> <film.film.genre> "Comedy" .
+<4bia> <freebase.valuenotation.has_no_value> "Prequel" .
+<m.0v_j4gp> <film.performance.character> "Noi-Naa's mother" .
+<Amornpong_Maetakunvudh> <freebase.valuenotation.has_value> "Gender" .
+<Films_In_Series> <rdf-schema#domain> "Film series" .
+<Art_of_the_Devil> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Chick_flick> <media_common.media_genre.child_genres> "Romance Film" .
+<Chai_Lai> <common.topic.notable_types> "Film" .
+<Films_About_This_Topic> <type.property.expected_type> "Film" .
+<Coming_Soon> <freebase.valuenotation.has_no_value> "Prequel" .
+<Jan_Dara> <common.topic.notable_types> "Film" .
+<4bia> <freebase.valuenotation.has_value> "Story by" .
+<Film> <type.type.properties> "Film format" .
+<Charwin_Jitsomboon> <people.person.gender> "Male" .
+<Films> <rdf-schema#range> "Film" .
+<Sluggy_Freelance> <comic_strips.comic_strip.genre> "Comedy" .
+<303_Fear_Faith_Revenge> <common.topic.notable_types> "Film" .
+<Story_by> <owl#inverseOf> "Film Story Credits" .
+<Films_directed> <rdf-schema#domain> "Film director" .
+<Filming> <rdf-schema#domain> "Film" .
+<Film_writer> <type.type.domain> "Film" .
+<I'm@Work_-_Call_Home> <base.webvideo.internet_video.genre> "Comedy" .
+<Film> <type.type.expected_by> "Frank 1" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "L'Alpe-d'Huez Film Festival" .
+<Adisorn_Tresirikasem> <common.topic.notable_for> "g.12586lz0t" .
+<Ghost_Mother> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Garuda> <common.topic.notable_types> "Film" .
+<Production_companies> <owl#inverseOf> "Films" .
+<The_end_of_kinship> <book.written_work.subjects> "Comedy" .
+<The_Mansion_Sister> <common.topic.notable_types> "Film" .
+<Charwin_Jitsomboon> <freebase.valuenotation.has_value> "Date of birth" .
+<Province_77> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Nangoku Shonen Papuwa-kun" .
+<The_Sisters> <film.film.genre> "Drama" .
+<The_Bodyguard_2> <film.film.language> "Thai Language" .
+<Rubber_Duckie> <freebase.valuenotation.has_no_value> "Film Series" .
+<Focus_Jeerakul> <freebase.valuenotation.is_reviewed> "Country of nationality" .
+<2004_Berlin_International_Film_Festival> <time.event.locations> "Berlin" .
+<Fan_Chan> <film.film.genre> "Romance Film" .
+<Bangkok_Love_Story> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<One_Take_Only> <film.film.language> "Thai Language" .
+<The_Bodyguard_2> <film.film.genre> "Comedy" .
+<Film> <type.property.expected_type> "Film" .
+<In_the_Shadow_of_the_Naga> <freebase.valuenotation.has_no_value> "Film Series" .
+<Sequel> <owl#inverseOf> "Prequel" .
+<Films_On_This_Subject> <type.property.master_property> "Subjects" .
+<The_Iron_Ladies_2> <film.film.prequel> "The Iron Ladies" .
+<Citizen_Juling> <film.film.genre> "Drama" .
+<Fan_Chan> <film.film.runtime> "m.0glcy42" .
+<Fan_Chan> <film.film.written_by> "Adisorn Tresirikasem" .
+<Countdown> <film.film.produced_by> "Yongyoot Thongkongtoon" .
+<Aummaraporn_Phandintong> <freebase.valuenotation.has_value> "Date of birth" .
+<Komgrit_Triwimol> <common.topic.webpage> "m.0cqvmv7" .
+<The_Victim> <freebase.valuenotation.has_no_value> "Film Series" .
+<Fireball> <media_common.netflix_title.netflix_genres> "Thailand" .
+<The_Sanctuary> <film.film.language> "Thai Language" .
+<Hello_Stranger> <common.topic.notable_types> "Film" .
+<Diecovery> <film.film.country> "Thailand" .
+<Wonderful_Town> <film.film.language> "Thai Language" .
+<Comedy> <base.kinometric.genre.incompatible_genres> "Drama" .
+<Yok_Teeranitayatarn> <film.actor.film> "m.0v_j66g" .
+<Beautiful_Boxer> <film.film.language> "Thai Language" .
+<Prasert_Vivattanananpong> <freebase.valuenotation.is_reviewed> "Gender" .
+<The_Four_Immigrants_Manga> <comic_books.comic_book_series.genre> "Comedy" .
+<Komgrit_Triwimol> <film.actor.film> "m.0jvh0_r" .
+<Witthaya_Thongyooyong> <film.director.film> "Baan Chan Talok Wai Korn (Pee Son Wai)" .
+<Nithiwat_Tharathorn> <freebase.valuenotation.is_reviewed> "Gender" .
+<Making_Possibilities> <common.topic.subjects> "Comedy" .
+<Songyos_Sugmakanan> <common.topic.notable_for> "g.1254zhhdd" .
+<Mekhong_Full_Moon_Party> <freebase.valuenotation.has_no_value> "Film Series" .
+<Comedia> <film.film_festival.focus> "Comedy" .
+<A_Funny_Story_About_6_and_9> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Aummaraporn_Phandintong> <film.writer.film> "Hormones" .
+<Prasert_Vivattanananpong> <film.producer.film> "Mekhong Full Moon Party" .
+<FilmedIn> <type.property.expected_type> "Film" .
+<Comedy> <media_common.media_genre.child_genres> "Workplace Comedy" .
+<Film_writing_credits> <type.property.master_property> "Screenplay by" .
+<Romance_Film> <film.film_subject.films> "Rubber Duckie" .
+<Nithiwat_Tharathorn> <people.person.nationality> "Thailand" .
+<Film> <type.type.expected_by> "Film" .
+<The_Possible> <film.film.directed_by> "Witthaya Thongyooyong" .
+<The_System_of_Doctor_Tarr_and_Professor_Fether> <book.short_story.genre> "Comedy" .
+<Thai_Language> <media_common.netflix_genre.titles> "Bangkok Haunted" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Brutal River" .
+<Subjects> <owl#inverseOf> "Films On This Subject" .
+<Thai_Language> <media_common.netflix_genre.titles> "Art of the Devil" .
+<The_Haunted_Drum> <film.film.country> "Thailand" .
+<Tomboy_Commando> <film.film.genre> "Comedy" .
+<Comedy> <award.award_discipline.awards_in_this_discipline> "Golden Globe Award for Best Motion Picture – Musical or Comedy" .
+<Vanquisher> <freebase.valuenotation.has_no_value> "Sequel" .
+<Comedy> <film.film_subject.films> "Alabama" .
+<Focus_Jeerakul> <freebase.valuenotation.is_reviewed> "Date of birth" .
+<Film> <type.property.expected_type> "Film" .
+<Hard_Gun> <freebase.valuenotation.has_no_value> "Prequel" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <freebase.valuenotation.is_reviewed> "Story by" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Ozy and Millie" .
+<Citizen_Dog> <film.film.genre> "Comedy" .
+<Ong_Bak_2:_The_Beginning> <film.film.country> "Thailand" .
+<Films> <type.property.expected_type> "Film" .
+<Seven_Days_to_Leave_My_Wife> <film.film.genre> "Comedy" .
+<Film> <type.property.expected_type> "Film" .
+<Jeab> <film.film_character.portrayed_in_films> "m.0ggdp4p" .
+<The_Victim> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Prequel> <type.property.expected_type> "Film" .
+<Thai_Language> <base.rosetta.languoid.languoid_class> "Language" .
+<Thana_Vichayasuranan> <people.person.profession> "Actor" .
+<Chocolate> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Screenplay_by> <rdf-schema#domain> "Film" .
+<Post-production> <type.property.schema> "Film" .
+<Hormones> <freebase.valuenotation.has_no_value> "Prequel" .
+<Amornpong_Maetakunvudh> <common.topic.notable_types> "Film music contributor" .
+<A_Funny_Story_About_6_and_9> <common.topic.notable_types> "Film" .
+<Film> <type.type.expected_by> "Prequel" .
+<Witthaya_Thongyooyong> <film.director.film> "The Little Comedian" .
+<Jira_Maligool> <people.person.place_of_birth> "Thailand" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Awfully Sweet, Awfully Dumb" .
+<Thai_Language> <media_common.netflix_genre.titles> "Spirited Killer" .
+<Songyos_Sugmakanan> <common.topic.webpage> "m.0cqm3l6" .
+<Chaleumpol_Tikumpornteerawong> <people.person.profession> "Actor" .
+<Film> <type.type.expected_by> "Appears in film" .
+<Nang_Nak> <film.film.language> "Thai Language" .
+<Russell_Brand> <book.written_work.subjects> "Entertainment" .
+<ATM:_Er_Rak_Error> <film.film.written_by> "Aummaraporn Phandintong" .
+<Film_casting_director> <freebase.type_profile.strict_included_types> "Topic" .
+<Comedy> <media_common.media_genre.child_genres> "Second-Hand NY" .
+<Film_Format> <type.property.master_property> "Film format" .
+<Vitcha_Gojiew> <people.person.profession> "Businessperson" .
+<The_Tin_Mine> <film.film.produced_by> "Yongyoot Thongkongtoon" .
+<Film_casting_director> <freebase.type_hints.included_types> "Topic" .
+<Films> <rdf-schema#domain> "Film festival event" .
+<RiffTrax> <tv.tv_program.subjects> "Comedy" .
+<Bob_Hope:_The_Road_Well-Traveled> <book.written_work.subjects> "Film" .
+<Witthaya_Thongyooyong> <film.writer.film> "The Little Comedian" .
+<Phobia_2> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Khan_Kluay> <freebase.valuenotation.has_value> "Production companies" .
+<Mekhong_Full_Moon_Party> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Film_casting_director> <type.type.expected_by> "Casting director" .
+<Citizen_Dog> <freebase.valuenotation.has_no_value> "Film Series" .
+<The_Little_Comedian> <film.film.directed_by> "Witthaya Thongyooyong" .
+<The_Victim> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Mons_International_Love_Film_Festival> <film.film_festival.focus> "Romance Film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Nymph" .
+<Thailand> <organization.organization_scope.organizations_with_this_scope> "National Council for Peace and Order" .
+<House_Gory> <film.film.country> "Thailand" .
+<The_N_Crowd> <organization.organization.sectors> "Comedy" .
+<Thai_Language> <media_common.netflix_genre.titles> "Fireball" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Many Paths to Eden" .
+<Kingdom_of_War:_Part_2> <common.topic.notable_types> "Film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Ghost Mother" .
+<The_Iron_Ladies_2> <film.film.genre> "Comedy" .
+<The_Bodyguard_2> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Seasons_Change> <freebase.valuenotation.has_no_value> "Film Series" .
+<Film> <type.type.expected_by> "Films About This Topic" .
+<Witthaya_Thongyooyong> <common.topic.notable_for> "g.125dwc21s" .
+<Comedy> <book.book_subject.works> "The Death of Comedy" .
+<Citizen_Dog> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<m.0v_j63c> <film.performance.film> "Fan Chan" .
+<Adisorn_Tresirikasem> <people.person.spouse_s> "m.0z4m2rt" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Victim" .
+<Spirited_Killer> <film.film.language> "Thai Language" .
+<Aummaraporn_Phandintong> <film.writer.film> "ATM: Er Rak Error" .
+<Comedy> <book.book_subject.works> "Sunshine on Putty" .
+<Vote_Wally_Panther> <base.webvideo.internet_video_season.episodes> "WALLY'S CORE VALUES #1-5 (yndotStreet comedy)" .
+<Film> <type.type.expected_by> "FilmedIn" .
+<Sequel> <rdf-schema#range> "Film" .
+<Anusara_Chantarangsi> <people.person.nationality> "Thailand" .
+<Costume_design_by> <rdf-schema#domain> "Film" .
+<Jira_Maligool> <film.producer.film> "The Tin Mine" .
+<Thailand> <location.country.capital> "Bangkok" .
+<Fan_Chan> <film.film.starring> "m.0v_j3tg" .
+<Awfully_Sweet,_Awfully_Dumb> <common.topic.subjects> "Sketch comedy" .
+<Film_Producer> <people.profession.corresponding_type> "Film producer" .
+<Tears_of_the_Black_Tiger> <media_common.netflix_title.netflix_genres> "Thailand" .
+<The_Little_Comedian> <common.topic.notable_types> "Film" .
+<Entertainment> <media_common.media_genre.child_genres> "Drama" .
+<Ong_Bak_3> <film.film.sequel> "Ong-Bak: Muay Thai Warrior" .
+<Fan_Chan> <freebase.valuenotation.has_value> "Production design by" .
+<Curse_of_the_Sun> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Film_Series> <rdf-schema#domain> "Film" .
+<Mekhong_Full_Moon_Party> <film.film.genre> "Drama" .
+<Film> <type.type.properties> "Initial release date" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Concerned" .
+<Reverie> <comic_books.comic_book_series.genre> "Comedy" .
+<Last_Life_in_the_Universe> <freebase.valuenotation.has_no_value> "Sequel" .
+<Thai_Language> <media_common.netflix_genre.titles> "Chocolate" .
+<Best_of_Times> <film.film.language> "Thai Language" .
+<Chick_flick> <media_common.media_genre.child_genres> "Romantic comedy" .
+<Legend_of_King_Naresuan:_Hostage_of_Hongsawadi> <film.film.country> "Thailand" .
+<Hormones> <freebase.valuenotation.has_no_value> "Sequel" .
+<m.0cqvmtk> <common.webpage.category> "Curated Topic" .
+<Thana_Vichayasuranan> <film.actor.film> "m.0v_j6gh" .
+<Film_genre> <type.type.expected_by> "Genres" .
+<Thai_Language> <language.human_language.writing_system> "Thai alphabet" .
+<Blissfully_Yours> <common.topic.notable_types> "Film" .
+<m.0cqw0tc> <common.webpage.in_index> "Blissful Master Index" .
+<Film_music_contributor> <type.type.domain> "Film" .
+<Ghost_Mother> <freebase.valuenotation.has_no_value> "Sequel" .
+<Yok_Teeranitayatarn> <freebase.valuenotation.has_value> "Height" .
+<Seasons_Change> <film.film.produced_by> "Yongyoot Thongkongtoon" .
+<Handle_Me_with_Care> <common.topic.notable_types> "Film" .
+<Final_Score> <film.film.country> "Thailand" .
+<Bangkok_Love_Story> <common.topic.notable_types> "Film" .
+<Southwestern_Tai_languages> <language.language_family.member_of_language_families> "Tai languages" .
+<The_Iron_Ladies_2> <film.film.directed_by> "Yongyoot Thongkongtoon" .
+<Bangkok_Dangerous> <film.film.country> "Thailand" .
+<Ghost_of_Mae_Nak> <freebase.valuenotation.has_value> "Film Series" .
+<Drama> <base.animemanga.anime_manga_genre.anime_manga_franchises> "Hikaru no Go" .
+<The_Tin_Mine> <freebase.valuenotation.has_no_value> "Sequel" .
+<Ladda_Land> <common.topic.notable_types> "Film" .
+<Call_Max_Cleveland!_(commercial_parody)> <base.webvideo.internet_video.genre> "Comedy" .
+<Body> <film.film.language> "Thai Language" .
+<Film> <type.type.expected_by> "Movie" .
+<The_Legend_of_Suriyothai> <film.film.language> "Thai Language" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "The Four Immigrants Manga" .
+<Prequel> <type.property.master_property> "Sequel" .
+<Alone> <film.film.country> "Thailand" .
+<Film> <rdf-schema#range> "Film" .
+<Films_casting_directed> <type.property.expected_type> "Film" .
+<Comedy> <film.film_subject.films> "Shock Asylum" .
+<Aummaraporn_Phandintong> <people.person.gender> "Female" .
+<Berlin_International_Film_Festival> <film.film_festival.individual_festivals> "2004 Berlin International Film Festival" .
+<Thai_Language> <media_common.netflix_genre.titles> "One Take Only" .
+<Loxie_&_Zoot> <comic_strips.comic_strip.genre> "Comedy" .
+<Albrecht_Behmel> <people.person.gender> "Male" .
+<Seven_Days_to_Leave_My_Wife> <film.film.genre> "Drama" .
+<Seasons_Change> <film.film.written_by> "Nithiwat Tharathorn" .
+<IS> <base.animemanga.anime_manga_franchise.genre> "Comedy" .
+<Thtonesen> <common.image.appears_in_topic_gallery> "Thai Language" .
+<Down_the_River> <film.film.language> "Thai Language" .
+<Art_of_the_Devil_2> <film.film.sequel> "Art of the Devil 3" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "Friars Club Comedy Film Festival" .
+<Hello_Stranger> <film.film.genre> "Comedy" .
+<Film_director> <type.type.properties> "Films directed" .
+<Anusara_Chantarangsi> <people.person.profession> "Actor" .
+<Queen_of_Wands> <comic_strips.comic_strip.genre> "Comedy" .
+<Fireball> <film.film.country> "Thailand" .
+<A_Child's_Christmases_in_Wales> <common.topic.notable_types> "Film" .
+<Omen> <media_common.netflix_title.netflix_genres> "Thailand" .
+<The_Sisters> <freebase.valuenotation.has_no_value> "Prequel" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "L.A. Comedy Shorts Film Festival" .
+<Right_By_Me> <film.film.genre> "Comedy" .
+<Aummaraporn_Phandintong> <film.writer.film> "The Little Comedian" .
+<Initial_release_date> <rdf-schema#domain> "Film" .
+<Jira_Maligool> <common.topic.notable_types> "Film writer" .
+<SuckSeed> <film.film.country> "Thailand" .
+<The_Iron_Ladies> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Thana_Vichayasuranan> <freebase.valuenotation.has_value> "Parents" .
+<Fan_Chan> <film.film.release_date_s> "m.0y86438" .
+<SuckSeed> <film.film.genre> "Comedy" .
+<Rubber_Duckie> <film.film.subjects> "Drama" .
+<Ong_Bak_3> <film.film.prequel> "Ong Bak 2: The Beginning" .
+<Apple_movie_trailer_ID> <rdf-schema#domain> "Film" .
+<Film> <type.type.properties> "Estimated budget" .
+<The_Tiger_Blade> <film.film.genre> "Comedy" .
+<Test_property> <rdf-schema#range> "Film" .
+<Mysterious_Object_at_Noon> <film.film.country> "Thailand" .
+<Lucky_Loser> <film.film.produced_by> "Jira Maligool" .
+<Garuda> <film.film.language> "Thai Language" .
+<The_Little_Comedian> <film.film.written_by> "Witthaya Thongyooyong" .
+<Aummaraporn_Phandintong> <film.writer.film> "Alone" .
+<Vanquisher> <common.topic.notable_types> "Film" .
+<Hard_Gun> <freebase.valuenotation.has_value> "Sequel" .
+<m.09yg54b> <common.webpage.topic> "Thai Language" .
+<Rated> <rdf-schema#domain> "Film" .
+<Thai_Language> <language.human_language.language_family> "Southwestern Tai languages" .
+<Film> <type.type.expected_by> "Featured Film" .
+<Vitcha_Gojiew> <people.person.profession> "Film Editor" .
+<Film> <type.type.expected_by> "Films production designed" .
+<Fireball> <film.film.genre> "Drama" .
+<Thai_Language> <base.rosetta.languoid.local_name> "Thai" .
+<Film> <type.domain.types> "Film genre" .
+<The_Man_Eater> <common.topic.notable_types> "Film" .
+<Films> <type.property.schema> "Film festival event" .
+<Songyos_Sugmakanan> <film.director.film> "My Elephant" .
+<Queens_of_Langkasuka> <common.topic.notable_types> "Film" .
+<Subjects> <type.property.schema> "Film" .
+<Film> <type.type.properties> "Production design by" .
+<Prequel> <rdf-schema#range> "Film" .
+<Komgrit_Triwimol> <film.writer.film> "Fan Chan" .
+<Mission_Hunter_2> <film.film.language> "Thai Language" .
+<Film_music_contributor> <type.type.expected_by> "Music by" .
+<The_Landlord> <base.webvideo.internet_video.genre> "Comedy" .
+<Film> <type.type.expected_by> "Films" .
+<Bangkok_Traffic_Love_Story> <freebase.valuenotation.has_no_value> "Sequel" .
+<Handle_Me_with_Care> <film.film.produced_by> "Yongyoot Thongkongtoon" .
+<Wally_Panther_vs._The_Pizza_Guy_(yndotStreet_comedy)> <base.webvideo.internet_video_episode.season> "Vote Wally Panther" .
+<Teacher's_Diary> <freebase.valuenotation.has_no_value> "Film Series" .
+<Bangkok_Haunted> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Film> <type.type.expected_by> "Film" .
+<Film> <type.type.properties> "NY Times ID" .
+<Films_Executive_Produced> <rdf-schema#domain> "Film producer" .
+<Beautiful_Boxer> <freebase.valuenotation.has_no_value> "Sequel" .
+<Thailand> <film.film_location.featured_in_films> "Fan Chan" .
+<Drama> <base.kinometric.genre.incompatible_genres> "Comedy" .
+<Lucky_Loser> <freebase.valuenotation.has_no_value> "Sequel" .
+<Comedy> <internet.website_category.sites> "The Landline TV" .
+<Vanities> <theater.play.genre> "Romance Film" .
+<Human_Language> <freebase.type_profile.published> "Published" .
+<Vitcha_Gojiew> <freebase.valuenotation.has_value> "Parents" .
+<Soul> <common.topic.notable_types> "Film" .
+<The_Columbia_Comedy_Shorts> <book.written_work.subjects> "Comedy" .
+<The_Billionaire> <freebase.valuenotation.has_value> "Set Decoration by" .
+<13_Beloved> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Primary_language> <type.property.expected_type> "Human Language" .
+<The_Tiger_Blade> <freebase.valuenotation.has_no_value> "Prequel" .
+<Film> <rdf-schema#range> "Film" .
+<m.0v_k75g> <film.film_cut.film> "Fan Chan" .
+<Film> <type.type.expected_by> "Source film" .
+<The_Love_of_Siam> <film.film.genre> "Romance Film" .
+<Final_Score> <film.film.produced_by> "Jira Maligool" .
+<Thai_Language> <media_common.netflix_genre.titles> "Mysterious Object at Noon" .
+<m.0v_j6gh> <film.performance.actor> "Thana Vichayasuranan" .
+<Appeared_In_Movie> <rdf-schema#range> "Film" .
+<Goats> <comic_strips.comic_strip.genre> "Comedy" .
+<Directed_by> <type.property.reverse_property> "Films directed" .
+<Focus_Jeerakul> <people.person.gender> "Female" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "WALLY'S CORE VALUES #1-5 (yndotStreet comedy)" .
+<The_Lord_of_Ayuthaya> <common.topic.notable_types> "Film" .
+<Phobia_2> <film.film.prequel> "4bia" .
+<Genres> <rdf-schema#domain> "Film" .
+<Tears_of_the_Black_Tiger> <film.film.genre> "Romance Film" .
+<Anyarit_Pitakkul> <people.person.place_of_birth> "Bangkok" .
+<Film> <type.domain.types> "Film costumer designer" .
+<Anyarit_Pitakkul> <freebase.valuenotation.has_value> "Education" .
+<The_Tiger_Blade> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Sazae-san> <comic_strips.comic_strip.genre> "Comedy" .
+<SARS_Wars> <film.film.language> "Thai Language" .
+<Amornpong_Maetakunvudh> <freebase.valuenotation.has_value> "Parents" .
+<Bangkok_Haunted> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Adventures of Dr. McNinja" .
+<Thai_Language> <media_common.netflix_genre.titles> "Tomboy Commando" .
+<Jira_Maligool> <film.writer.film> "Seven Something" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Chaleumpol_Tikumpornteerawong> <people.person.nationality> "Thailand" .
+<Sunshine_on_Putty> <book.written_work.subjects> "Comedy" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Mobile Suit Gundam-san" .
+<Ong_Bak_3> <film.film.language> "Thai Language" .
+<The_Bodyguard_2> <common.topic.notable_types> "Film" .
+<Soul> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Overture" .
+<Comedy> <book.book_subject.works> "The War of the Worlds" .
+<SARS_Wars> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Film> <freebase.type_hints.included_types> "Topic" .
+<Film> <type.type.expected_by> "Film" .
+<Yongyoot_Thongkongtoon> <film.producer.film> "Seasons Change" .
+<Prequel> <type.property.expected_type> "Film" .
+<Ghost_of_Mae_Nak> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Amornpong_Maetakunvudh> <film.music_contributor.film> "Fan Chan" .
+<The_Iron_Ladies> <film.film.written_by> "Yongyoot Thongkongtoon" .
+<Films_edited> <type.property.master_property> "Edited by" .
+<Nithiwat_Tharathorn> <freebase.valuenotation.has_value> "Parents" .
+<Art_of_the_Devil_2> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Sanctuary" .
+<Unhuman> <film.film.country> "Thailand" .
+<Bangkok_Haunted> <common.topic.notable_types> "Film" .
+<Yongyoot_Thongkongtoon> <freebase.valuenotation.is_reviewed> "Gender" .
+<Includes_Film> <rdf-schema#range> "Film" .
+<Witthaya_Thongyooyong> <people.person.nationality> "Thailand" .
+<Film_series> <freebase.type_profile.strict_included_types> "Topic" .
+<The_Tin_Mine> <film.film.country> "Thailand" .
+<Film> <type.type.expected_by> "Films directed" .
+<Thai_alphabet> <language.language_writing_system.languages> "Thai Language" .
+<Mafia_comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Executive_produced_by> <type.property.expected_type> "Film producer" .
+<Handle_Me_with_Care> <film.film.produced_by> "Jira Maligool" .
+<Curse_of_the_Sun> <film.film.language> "Thai Language" .
+<Produced_by> <type.property.expected_type> "Film producer" .
+<Tropical_Malady> <film.film.country> "Thailand" .
+<Komgrit_Triwimol> <film.director.film> "Noo Hin: The Movie" .
+<Songyos_Sugmakanan> <freebase.valuenotation.has_value> "Height" .
+<Jira_Maligool> <people.person.profession> "Screenwriter" .
+<Teacher's_Diary> <common.topic.notable_types> "Film" .
+<Romance_Film> <base.skosbase.vocabulary_equivalent_topic.equivalent_concept> "Romance films" .
+<Thailand> <government.governmental_jurisdiction.government_bodies> "National Council for Peace and Order" .
+<Music_by> <type.property.reverse_property> "Film music credits" .
+<Bugs_Bunny_Gets_the_Boid> <film.film.subjects> "Comedy" .
+<Sitcom> <media_common.media_genre.child_genres> "Second-Hand NY" .
+<Set_Decoration_by> <type.property.schema> "Film" .
+<Film> <type.type.expected_by> "Films" .
+<Bangkok_Dangerous> <freebase.valuenotation.has_no_value> "Prequel" .
+<Hormones> <freebase.valuenotation.has_no_value> "Film Series" .
+<Phobia_2> <film.film.language> "Thai Language" .
+<Nipawan_Taveepornsawan> <people.person.profession> "Actor" .
+<m.0b6rkxw> <common.webpage.topic> "Romance Film" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Shaman King" .
+<Films_In_Series> <type.property.expected_type> "Film" .
+<Prem_Tinsulanonda> <freebase.valuenotation.has_value> "Height" .
+<Film> <rdf-schema#range> "Film" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Vote Wally Panther! CORE VALUES #4: Government IS The Problem (yndotStreet comedy)" .
+<Screwball_comedy> <common.topic.notable_types> "Film genre" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "I'm@Work - Water Cooler Talk" .
+<Bangkok_Traffic_Love_Story> <freebase.valuenotation.has_value> "Runtime" .
+<Questionable_Content> <comic_strips.comic_strip.genre> "Comedy" .
+<Films_shown> <type.property.expected_type> "Film" .
+<Thai_Phonology> <base.rosetta.rosetta_document.refers_to> "Thai Language" .
+<Thai_region> <freebase.type_hints.included_types> "Topic" .
+<Film> <freebase.domain_profile.equivalent_topic> "Film" .
+<Yongyoot_Thongkongtoon> <people.person.profession> "Film director" .
+<Edited_by> <owl#inverseOf> "Films edited" .
+<Featured_Song> <owl#inverseOf> "Featured in film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Yaowarat" .
+<Saraburi_Province> <location.location.containedby> "Thailand" .
+<One_Take_Only> <film.film.country> "Thailand" .
+<Primary_language> <rdf-schema#domain> "Film" .
+<Raging_Phoenix> <common.topic.notable_types> "Film" .
+<Anyarit_Pitakkul> <people.person.gender> "Male" .
+<Production_companies> <type.property.schema> "Film" .
+<Making_Possibilities> <film.film.genre> "Romantic comedy" .
+<Handle_Me_with_Care> <film.film.genre> "Romance Film" .
+<Film> <type.type.expected_by> "Films On This Subject" .
+<m.0cqm3l6> <common.webpage.topic> "Songyos Sugmakanan" .
+<Bangkok_Haunted> <film.film.country> "Thailand" .
+<Edited_by> <type.property.reverse_property> "Films edited" .
+<Beautiful_Boxer> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Workplace_Comedy> <media_common.media_genre.parent_genre> "Comedy" .
+<Distributors> <rdf-schema#domain> "Film" .
+<Fan_Chan> <film.film.starring> "m.0jy1rl" .
+<The_Road_to_Mars> <book.written_work.subjects> "Comedy" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<In_the_Shadow_of_the_Naga> <film.film.language> "Thai Language" .
+<Kiss_My_Snake> <film.film.country> "Thailand" .
+<Film> <type.type.properties> "Set Decoration by" .
+<Songyos_Sugmakanan> <freebase.valuenotation.is_reviewed> "Gender" .
+<The_Landline_TV> <internet.website.category> "Comedy" .
+<Hard_Gun> <freebase.valuenotation.has_value> "Prequel" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Area 88" .
+<Film_sets_designed> <type.property.expected_type> "Film" .
+<Charlie_Trairat> <people.person.nationality> "Thailand" .
+<4bia> <freebase.valuenotation.has_value> "Costume design by" .
+<Queen_of_America> <book.written_work.subjects> "Drama" .
+<Yongyoot_Thongkongtoon> <people.person.profession> "Film Producer" .
+<Garuda> <freebase.valuenotation.has_no_value> "Film Series" .
+<Featured_Song> <type.property.schema> "Film" .
+<Yaowarat> <common.topic.notable_types> "Film" .
+<Film> <type.property.reverse_property> "Distributors" .
+<Sick_Nurses> <freebase.valuenotation.has_no_value> "Film Series" .
+<Seven_Days_in_Coffin> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Film> <type.domain.types> "Film production designer" .
+<The_Possible> <freebase.valuenotation.has_no_value> "Prequel" .
+<The_Iron_Ladies> <freebase.valuenotation.has_no_value> "Prequel" .
+<Phobia_2> <film.film.produced_by> "Yongyoot Thongkongtoon" .
+<ATM:_Er_Rak_Error> <film.film.genre> "Romance Film" .
+<Sparkling_Generation_Valkyrie_Yuuki> <comic_strips.comic_strip.genre> "Comedy" .
+<Prasert_Vivattanananpong> <freebase.valuenotation.has_value> "Parents" .
+<Film_Story_Credits> <type.property.master_property> "Story by" .
+<Aummaraporn_Phandintong> <film.writer.film> "Khan Kluay" .
+<Film> <freebase.type_profile.equivalent_topic> "Film" .
+<Films> <type.property.expected_type> "Film" .
+<Film_format> <owl#inverseOf> "Film Format" .
+<m.0cqvmsf> <common.webpage.category> "Curated Topic" .
+<m.0cqvmtk> <common.webpage.topic> "Witthaya Thongyooyong" .
+<Film> <rdf-schema#range> "Film" .
+<In_the_Shadow_of_the_Naga> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Preecha_Chanapai> <freebase.valuenotation.has_value> "Parents" .
+<Film_set_decorator> <type.type.domain> "Film" .
+<Romance_Film> <theater.theater_genre.plays_in_this_genre> "210 Amlent Avenue" .
+<The_Victim> <common.topic.notable_types> "Film" .
+<Yongyoot_Thongkongtoon> <film.writer.film> "The Iron Ladies" .
+<Uncle_Boonmee_Who_Can_Recall_His_Past_Lives> <common.topic.notable_types> "Film" .
+<Film_format> <type.property.schema> "Film" .
+<m.0v_j3lb> <film.performance.film> "Fan Chan" .
+<Manoj> <film.film_character.portrayed_in_films> "m.0v_j66g" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "The Night Owls" .
+<The_Tiger_Blade> <freebase.valuenotation.has_no_value> "Film Series" .
+<Peter_and_Vandy> <theater.play.genre> "Romance Film" .
+<Comedy> <base.ontologies.ontology_instance.equivalent_instances> "m.07ndwj2" .
+<Favorite_Films> <type.property.expected_type> "Film" .
+<Amornpong_Maetakunvudh> <freebase.valuenotation.has_value> "Place of birth" .
+<Witthaya_Thongyooyong> <film.writer.film> "4bia" .
+<Saraburi_Province> <location.administrative_division.country> "Thailand" .
+<James_Bond_film_appearance(s)> <rdf-schema#range> "Film" .
+<Jeab's_mother> <film.film_character.portrayed_in_films> "m.0v_j3tg" .
+<Film_story_contributor> <type.type.properties> "Film Story Credits" .
+<Thai_Language> <media_common.netflix_genre.titles> "Garuda" .
+<Focus_Jeerakul> <film.actor.film> "m.0jy1rl" .
+<m.0jy1rl> <film.performance.character> "Noi-Naa" .
+<Golden_Globe_Award_for_Best_Motion_Picture_–_Musical_or_Comedy> <award.award_category.disciplines_or_subjects> "Comedy" .
+<Frank_1> <type.property.expected_type> "Film" .
+<Mei_Mei> <common.topic.subjects> "Romance Film" .
+<Jan_Dara> <film.film.genre> "Romance Film" .
+<Dorm> <film.film.country> "Thailand" .
+<Aphichan_Chaleumchainuwong> <freebase.valuenotation.has_value> "Parents" .
+<The_Love_of_Siam> <freebase.valuenotation.has_no_value> "Sequel" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Rave Master" .
+<Citizen_Juling> <film.film.language> "Thai Language" .
+<m.0cq_xl3> <common.webpage.category> "Curated Topic" .
+<Comedy> <media_common.media_genre.child_genres> "Sketch comedy" .
+<Film> <type.type.expected_by> "Test property" .
+<The_Love_of_Siam> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Fan_Chan> <film.film.personal_appearances> "m.0v_j57f" .
+<Ong-Bak:_Muay_Thai_Warrior> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Ghost_Mother> <common.topic.notable_types> "Film" .
+<Film> <type.type.expected_by> "Film" .
+<Area_88> <comic_books.comic_book_series.genre> "Comedy" .
+<Nang_Nak> <common.topic.notable_types> "Film" .
+<Thai_Language> <media_common.netflix_genre.titles> "Queens of Langkasuka" .
+<m.0v_j66g> <film.performance.character> "Manoj" .
+<Aummaraporn_Phandintong> <people.person.place_of_birth> "Thailand" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Homestuck" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Loxie & Zoot" .
+<The_Little_Comedian> <film.film.written_by> "Aummaraporn Phandintong" .
+<Fan_Chan> <freebase.valuenotation.has_value> "Art direction by" .
+<Ong_Bak_2:_The_Beginning> <freebase.valuenotation.has_value> "Costume design by" .
+<Comedy> <book.magazine_genre.magazines_in_this_genre> "Yeralash" .
+<The_Haunted_Drum> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Fan_Chan> <film.film.starring> "m.0v_j66g" .
+<Cyborg_Kuro-chan> <comic_books.comic_book_series.genre> "Comedy" .
+<Comedy> <book.book_subject.works> "The Hunchback of Notre-Dame" .
+<Nipawan_Taveepornsawan> <people.person.gender> "Female" .
+<Films_directed> <rdf-schema#range> "Film" .
+<Sick_Nurses> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Thailand> <base.locations.countries.continent> "Asia" .
+<Thai_Language> <media_common.netflix_genre.titles> "303 Fear Faith Revenge" .
+<Mission_Hunter_2> <common.topic.notable_types> "Film" .
+<Love_Never_Dies> <theater.play.genre> "Romance Film" .
+<Rated> <type.property.reverse_property> "Films" .
+<Citizen_Dog> <freebase.valuenotation.is_reviewed> "Initial release date" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Legend of Suriyothai" .
+<Seen_in_movie/TV_show> <rdf-schema#range> "Film" .
+<Curse_of_the_Sun> <film.film.country> "Thailand" .
+<Sequel> <rdf-schema#range> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Demon Candy: Parallel" .
+<Dorm> <freebase.valuenotation.has_no_value> "Film Series" .
+<Fan_Chan> <film.film.produced_by> "Yongyoot Thongkongtoon" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Iron Ladies 2" .
+<Fan_Chan> <film.film.film_festivals> "2004 Berlin International Film Festival" .
+<Focus_Jeerakul> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Thana_Vichayasuranan> <freebase.valuenotation.has_value> "Country of nationality" .
+<Film> <type.type.expected_by> "Featured In Films" .
+<Bang_Rajan> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "Killer Tattoo" .
+<Film> <type.type.expected_by> "Film" .
+<Human_Language> <freebase.type_profile.strict_included_types> "Topic" .
+<Mysterious_Object_at_Noon> <freebase.valuenotation.is_reviewed> "Film Series" .
+<Vitcha_Gojiew> <common.topic.webpage> "m.0cqvmsf" .
+<Films> <type.property.expected_type> "Film" .
+<Film> <type.domain.types> "Film writer" .
+<Jan_Dara> <film.film.country> "Thailand" .
+<Film_producer> <type.type.expected_by> "Produced by" .
+<Victoria_TX_Independent_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Prequel> <type.property.expected_type> "Film" .
+<Thai_Language> <base.rosetta.languoid.parent> "Chiang Saeng Group" .
+<13_Beloved> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Costume_Design_for_Film> <type.property.schema> "Film costumer designer" .
+<Viral_Spiral> <internet.website.category> "Comedy" .
+<Unhuman> <film.film.language> "Thai Language" .
+<Films> <rdf-schema#range> "Film" .
+<Second-Hand_NY> <base.webvideo.internet_video_series.genre> "Sitcom" .
+<ATM:_Er_Rak_Error> <film.film.language> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "In the Shadow of the Naga" .
+<New_Prop> <rdf-schema#range> "Film" .
+<The_Protector> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Khan_Kluay> <freebase.valuenotation.has_value> "Executive produced by" .
+<13_Beloved> <common.topic.notable_types> "Film" .
+<Witthaya_Thongyooyong> <film.writer.film> "The Possible" .
+<Comedy> <comic_books.comic_book_genre.comic_book_series_in_this_genre> "Ironfist Chinmi" .
+<Films_casting_directed> <type.property.schema> "Film casting director" .
+<Bangkok> <base.biblioness.bibs_location.country> "Thailand" .
+<Romance_films> <base.skosbase.skos_concept.broader_topic> "Film" .
+<Mei_Mei> <film.film.genre> "Drama" .
+<Fan_Chan> <film.film.directed_by> "Songyos Sugmakanan" .
+<Estimated_budget> <rdf-schema#domain> "Film" .
+<Film> <type.property.expected_type> "Film" .
+<Thai_Language> <common.topic.webpage> "m.09yxvjw" .
+<A_Funny_Story_About_6_and_9> <film.film.language> "Thai Language" .
+<L'Alpe-d'Huez_Film_Festival> <film.film_festival.focus> "Comedy" .
+<Prasert_Vivattanananpong> <freebase.valuenotation.has_value> "Country of nationality" .
+<Art_of_the_Devil_3> <film.film.prequel> "Art of the Devil 2" .
+<Mysterious_Object_at_Noon> <freebase.valuenotation.is_reviewed> "Country of origin" .
+<Hit_Man_File> <freebase.valuenotation.has_no_value> "Prequel" .
+<Coming_Soon> <common.topic.notable_types> "Film" .
+<Film> <type.type.expected_by> "Film" .
+<Jeff_Ross> <freebase.valuenotation.is_reviewed> "Place of birth" .
+<Produced_by> <rdf-schema#range> "Film producer" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Life of TimmY" .
+<Film> <type.type.properties> "Prequel" .
+<Ong_Bak_3> <common.topic.notable_types> "Film" .
+<Jan_Dara> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Hello_Stranger> <freebase.valuenotation.has_value> "Set Decoration by" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Goats" .
+<The_Love_of_Siam> <freebase.valuenotation.has_no_value> "Prequel" .
+<Fan_Chan> <common.topic.article> "m.0dhmmg" .
+<Rubber_Duckie> <freebase.valuenotation.has_value> "Initial release date" .
+<Film> <type.domain.types> "Film producer" .
+<Ong-Bak:_Muay_Thai_Warrior> <film.film.prequel> "Ong Bak 3" .
+<Featured_In_Films> <type.property.master_property> "Notable filming locations" .
+<Produced_by> <rdf-schema#domain> "Film" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Queen of Wands" .
+<The_Little_Comedian> <film.film.language> "Thai Language" .
+<Thai_Language> <media_common.netflix_genre.titles> "The Lord of Ayuthaya" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Okashina Okashi – Strange Candy" .
+<Chocolate> <film.film.country> "Thailand" .
+<Right_By_Me> <film.film.country> "Thailand" .
+<Comedy> <film.film_festival_focus.festivals_with_this_focus> "CineFiesta" .
+<Thai_Language> <media_common.netflix_genre.titles> "Jan Dara" .
+<Hit_Man_File> <common.topic.notable_types> "Film" .
+<Charlie_Trairat> <people.person.profession> "Actor" .
+<Hormones> <common.topic.notable_types> "Film" .
+<Films> <type.property.master_property> "Film festivals" .
+<Komgrit_Triwimol> <film.director.film> "Fan Chan" .
+<The_Iron_Ladies_2> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Anyarit_Pitakkul> <film.actor.film> "m.0v_j63c" .
+<Jira_Maligool> <film.writer.film> "Mekhong Full Moon Party" .
+<Chai_Lai> <freebase.valuenotation.has_value> "Edited by" .
+<Sick_Nurses> <freebase.valuenotation.has_no_value> "Prequel" .
+<Bangkok_Traffic_Love_Story> <common.topic.notable_types> "Film" .
+<Power_Kids> <film.film.country> "Thailand" .
+<Best_of_Times> <film.film.country> "Thailand" .
+<Film_music_contributor> <freebase.type_profile.published> "Published" .
+<Fan_Chan> <film.film.edited_by> "Songyos Sugmakanan" .
+<Toulon_Festival_International_des_Musiques_d'Ecran> <film.film_festival.focus> "Comedy" .
+<The_Iron_Ladies> <common.topic.notable_types> "Film" .
+<Comedy> <internet.website_category.sites> "Keenan's Room" .
+<Songs> <owl#inverseOf> "Film" .
+<Comedy_Cluj> <film.film_festival.focus> "Comedy" .
+<Thai_Language> <media_common.netflix_genre.titles> "Soul" .
+<The_Man_Eater> <film.film.genre> "Drama" .
+<Bangkok_Knockout> <freebase.valuenotation.has_no_value> "Film Series" .
+<Comedy> <comic_strips.comic_strip_genre.comic_strips_of_this_genre> "Crittertude" .
+<Other_crew> <type.property.reverse_property> "Film" .
+<Khan_Kluay> <film.film.language> "Thai Language" .
+<Mysterious_Object_at_Noon> <freebase.valuenotation.is_reviewed> "Prequel" .
+<Fan_Chan> <film.film.produced_by> "Jira Maligool" .
+<Ghost_Delivery> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<The_Protector> <film.film.country> "Thailand" .
+<Ghost_of_Mae_Nak> <film.film.language> "Thai Language" .
+<Komgrit_Triwimol> <common.topic.article> "m.0cvc6ll" .
+<The_Loaded_Dog> <book.short_story.genre> "Comedy" .
+<Films_On_This_Subject> <type.property.expected_type> "Film" .
+<Comedy> <base.animemanga.anime_manga_genre.anime_manga_franchises> "Arsène Lupin III" .
+<Film> <rdf-schema#range> "Film" .
+<Seven_Days_to_Leave_My_Wife> <film.film.genre> "Romantic comedy" .
+<I'm@Work_-_Water_Cooler_Talk> <base.webvideo.internet_video.genre> "Comedy" .
+<Narbonic> <comic_strips.comic_strip.genre> "Comedy" .
+<Thai_region> <base.aareas.schema.administrative_area_type.subdivides_place> "Thailand" .
+<Bangkok_Traffic_Love_Story> <film.film.directed_by> "Adisorn Tresirikasem" .
+<Performances> <rdf-schema#domain> "Film" .
+<Lucky_Loser> <freebase.valuenotation.is_reviewed> "Directed by" .
+<Tears_of_the_Black_Tiger> <freebase.valuenotation.has_no_value> "Sequel" .
+<Romance_Film> <common.topic.article> "m.02l7cg" .
+<The_Bodyguard> <freebase.valuenotation.has_no_value> "Prequel" .
+<Mojacko> <comic_books.comic_book_series.genre> "Comedy" .
+<Mysterious_Object_at_Noon> <film.film.genre> "Drama" .
+<Kingdom_of_War:_Part_2> <film.film.genre> "Drama" .
+<Body> <freebase.valuenotation.has_no_value> "Prequel" .
+<Film> <type.property.expected_type> "Film" .
+<Arsène_Lupin_III> <base.animemanga.anime_manga_character.manga_appearances> "Lupin III" .
+<Vanquisher> <freebase.valuenotation.has_value> "Produced by" .
+<The_Haunted_Drum> <freebase.valuenotation.has_no_value> "Film Series" .
+<Film_art_director> <freebase.type_profile.strict_included_types> "Topic" .
+<Comedy> <base.events.type_of_performance.includes_type_of_performance> "Knock-knock joke" .
+<Other_film_companies> <rdf-schema#domain> "Film" .
+<The_Unborn> <common.topic.notable_types> "Film" .
+<Last_Life_in_the_Universe> <film.film.country> "Thailand" .
+<Body_Jumper> <media_common.netflix_title.netflix_genres> "Thailand" .
+<Best_of_Times> <film.film.genre> "Drama" .
+<m.0cq_xl3> <common.webpage.topic> "Thai Language" .
+<Comedy> <internet.website_category.sites> "Viral Spiral" .
+<Films> <type.property.expected_type> "Film" .
+<Aphichan_Chaleumchainuwong> <people.person.profession> "Actor" .
+<The_Ransom_of_Red_Chief> <book.short_story.genre> "Comedy" .
+<Seven_Something> <film.film.written_by> "Adisorn Tresirikasem" .
+<Seven_Days_in_Coffin> <film.film.country> "Thailand" .
+<Komgrit_Triwimol> <people.person.nationality> "Thailand" .
+<Chaleumpol_Tikumpornteerawong> <people.person.gender> "Male" .
+<Thai_Language> <common.topic.image> "Monophthongs of Thai.  From Tingsabadh & Abramson (1993:25)" .
+<Bangkok_Dangerous> <media_common.netflix_title.netflix_genres> "Thai Language" .
+<Set_Decoration_by> <owl#inverseOf> "Film sets designed" .
+<Comedy> <base.webvideo.internet_video_genre.internet_video> "Vote Wally Panther! CORE VALUES #3: Helping People Isn't Right (yndotStreet comedy)" .
+<Film_cinematography_credits> <type.property.master_property> "Cinematography" .
+<Source_film> <type.property.expected_type> "Film" .
+<Alone> <freebase.valuenotation.has_no_value> "Prequel" .
+<Nipawan_Taveepornsawan> <freebase.valuenotation.has_value> "Parents" .
+<Film_sets_designed> <rdf-schema#range> "Film" .
+<A_Child's_Christmases_in_Wales> <freebase.valuenotation.has_no_value> "Prequel" .
+<Jira_Maligool> <freebase.valuenotation.is_reviewed> "Place of birth" .

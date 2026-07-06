@@ -1,0 +1,1638 @@
+<Founding_school> <rdf-schema#range> "College/University" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.tournament_games_lost> "Furman-South Carolina 1974 NCAA Men's Division I Basketball Tournament Game" .
+<m.0_yyjxk> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia> <location.statistical_region.population> "m.066c8h6" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Topic" .
+<South_Carolina_Gamecocks_football> <base.schemastaging.context_name.pronunciation> "m.011ll79f" .
+<m.012n5m8y> <business.employment_tenure.company> "University of South Carolina" .
+<Domestic_tuition> <rdf-schema#range> "Dated Money Value" .
+<Rhine-Waal_University_of_Applied_Sciences> <education.educational_institution_campus.educational_institution> "Rhine-Waal University of Applied Sciences" .
+<m.0k7k4xm> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<College/University> <type.type.domain> "Education" .
+<Moore_School_of_Business> <location.location.containedby> "Columbia" .
+<Richland_County> <periodicals.newspaper_circulation_area.newspapers> "Columbia City Paper" .
+<College/University> <type.type.properties> "Local tuition" .
+<University_of_South_Carolina> <education.university.local_tuition> "m.0zvwr5n" .
+<Domestic_tuition> <type.property.schema> "College/University" .
+<University_of_South_Carolina> <education.educational_institution.total_enrollment> "m.0zvwqvy" .
+<Frankie's_Fun_Park> <travel.tourist_attraction.near_travel_destination> "Columbia" .
+<University_of_South_Carolina_School_of_Law> <education.university.number_of_postgraduates> "m.0h7xstz" .
+<University_of_South_Carolina> <organization.endowed_organization.endowment> "m.0zvwq3j" .
+<Congaree_National_Park> <base.usnationalparks.us_national_park.closest_airports> "Columbia Metropolitan Airport" .
+<Dee> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Public_university> <base.schemastaging.context_name.pronunciation> "g.125_kgh23" .
+<Vanya_Seager> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0w7f4vk> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<Columbia> <location.place_with_neighborhoods.neighborhoods> "Congaree Vista" .
+<American_football_team> <freebase.type_profile.kind> "Definition" .
+<University_of_South_Carolina_Union> <education.university.number_of_undergraduates> "m.0k7bnyv" .
+<White> <common.topic.notable_types> "Color" .
+<m.0zw2d3m> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Columbia> <location.capital_of_administrative_division.capital_of> "m.0jvw4r3" .
+<m.0cccz7_> <location.mailing_address.country> "United States of America" .
+<Ometric> <venture_capital.venture_funded_company.venture_investors> "m.03dmn2p" .
+<Columbia> <location.statistical_region.population> "m.0hm86zl" .
+<Education> <type.domain.types> "Educational Institution" .
+<Heriot-Watt_University> <education.educational_institution_campus.educational_institution> "Heriot-Watt University" .
+<Moore_School_of_Business> <symbols.namesake.named_after> "Darla Moore" .
+<29205> <location.postal_code.country> "United States of America" .
+<South_Carolina_Gamecocks_Women's_Basketball_Team> <sports.school_sports_team.athletics_brand> "South Carolina Gamecocks" .
+<m.0bhffk6> <location.mailing_address.country> "United States of America" .
+<m.05gnz7l> <base.marchmadness.ncaa_tournament_seed.team> "South Carolina Gamecocks men's basketball" .
+<University_of_South_Carolina> <common.topic.webpage> "m.0b47djw" .
+<School_category> <freebase.type_hints.included_types> "Topic" .
+<USC_School_of_Medicine_Library> <base.schemastaging.scholastic_library.institution> "University of South Carolina" .
+<Columbia> <location.hud_foreclosure_area.ofheo_price_change> "m.07gxb6s" .
+<Columbia> <sports.sports_team_location.teams> "South Carolina Gamecocks Women's Basketball Team" .
+<Moore_School_of_Business> <freebase.valuenotation.is_reviewed> "Headquarters" .
+<m.0cnnntz> <location.mailing_address.citytown> "Columbia" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0gz3bf2" .
+<Education> <type.domain.types> "School newspaper" .
+<Columbia> <travel.travel_destination.tourist_attractions> "South Carolina Confederate Relic Room and Museum" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Peta Todd" .
+<m.0bhffk6> <location.mailing_address.citytown> "Columbia" .
+<Eta_Chapter_of_St._Anthony_Hall> <organization.organization.sectors> "Fraternal and service organizations" .
+<Peggy_J._Clark> <people.person.employment_history> "m.0dzgfws" .
+<Educational_Institution> <type.type.domain> "Education" .
+<Pennsylvania-South_Carolina_1971_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.losing_team> "South Carolina Gamecocks men's basketball" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Sunita Marshall" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Becky" .
+<Jessica_White> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Columbia> <location.citytown.postal_codes> "29292" .
+<University_of_South_Carolina> <common.topic.webpage> "m.03lzkrf" .
+<Local_tuition> <type.property.expected_type> "Dated Money Value" .
+<Institution> <type.property.expected_type> "College/University" .
+<Anna_Bayle> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia> <location.statistical_region.population> "m.0k6l9lq" .
+<School> <type.property.expected_type> "College/University" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Jessica White" .
+<The_Daily_Gamecock> <book.periodical.format> "m.02np8fs" .
+<College/University> <type.type.expected_by> "Institution" .
+<South_Carolina_Gamecocks_men's_track_and_field> <sports.school_sports_team.athletics_brand> "South Carolina Gamecocks" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Quiana Grant" .
+<m.0z930mj> <sports.team_venue_relationship.team> "South Carolina Gamecocks football" .
+<University_of_South_Carolina> <education.educational_institution.subsidiary_or_constituent_schools> "University of South Carolina School of Law" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Harmony Boucher" .
+<29210> <location.postal_code.country> "United States of America" .
+<Institution> <type.property.reverse_property> "Departments" .
+<Richland_County> <location.location.partiallycontains> "m.0wg9d54" .
+<m.0dzdf20> <business.employment_tenure.company> "University of South Carolina" .
+<Best_Overall> <type.property.expected_type> "College/University" .
+<Division_I_(NCAA)> <basketball.basketball_division.conference> "Southeastern Conference" .
+<University_of_South_Carolina> <base.schemastaging.educational_institution_extra.libraries> "Elliott White Springs Business Library" .
+<Columbia> <location.location.events> "1970 NCAA Men's Division I Basketball Tournament" .
+<Moore_School_of_Business> <education.educational_institution_campus.educational_institution> "Moore School of Business" .
+<University_of_South_Carolina> <award.ranked_item.appears_in_ranked_lists> "m.0zvwm9d" .
+<South_Carolina_Gamecocks_Women's_Basketball_Team> <sports.sports_team.sport> "Basketball" .
+<Columbia> <location.statistical_region.population> "m.0hm86yt" .
+<m.04yz7r1> <location.mailing_address.postal_code> "29208" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Bruna Tenório" .
+<m.0cnnvtl> <common.topic.notable_types> "Location" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Hye-rim Park" .
+<m.05dbrnm> <base.marchmadness.ncaa_tournament_seed.team> "South Carolina Gamecocks" .
+<South_Carolina_Gamecocks_football> <common.topic.notable_types> "American football team" .
+<m.02kq4s_> <business.employment_tenure.person> "Anthony French" .
+<Isis_King> <people.person.nationality> "United States of America" .
+<m.07sk_ty> <common.webpage.category> "Official Website" .
+<United_States,_with_Territories> <location.country.first_level_divisions> "United States of America" .
+<University_of_South_Carolina> <venture_capital.venture_investor.investments> "m.03dmn2p" .
+<USC_Gould_School_of_Law> <location.location.containedby> "United States of America" .
+<Columbia> <location.location.events> "St. Bonaventure-Villanova 1970 NCAA Men's Division I Basketball Tournament Game" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0svv90r" .
+<Columbia> <location.citytown.postal_codes> "29201" .
+<Moore_School_of_Business> <common.topic.webpage> "m.03lnyd2" .
+<m.04hwy7j> <business.employment_tenure.company> "University of South Carolina" .
+<University_of_South_Carolina_Union> <common.topic.webpage> "m.0j6hv5h" .
+<m.0hhwgbf> <location.mailing_address.citytown> "Columbia" .
+<m.0wly6qw> <education.education.institution> "University of South Carolina School of Law" .
+<College/University> <type.type.properties> "Number of doctoral candidates" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.tournament_games_lost> "Memphis State-South Carolina 1973 NCAA Men's Division I Basketball Tournament Game" .
+<Columbia> <location.statistical_region.population> "m.0hm86yk" .
+<Allendale> <location.location.time_zones> "Eastern Time Zone" .
+<Arsenal_Hill> <location.location.containedby> "South Carolina" .
+<University_of_South_Carolina_Salkehatchie> <freebase.valuenotation.is_reviewed> "Headquarters" .
+<Hye-rim_Park> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0zvwr5n> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Harris_Pastides> <people.person.employment_history> "m.0134ksc0" .
+<m.0_y7vhs> <award.award_honor.achievement_level> "Telly Silver" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0sw2f7r" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Agent" .
+<Moore_School_of_Business> <common.topic.webpage> "m.07sk_ty" .
+<South_Carolina_Gamecocks_volleyball> <sports.sports_team.sport> "Volleyball" .
+<1970_NCAA_Men's_Division_I_Basketball_Tournament-_East_Regional_Semifinals> <base.marchmadness.ncaa_basketball_tournament_stage.games> "St. Bonaventure-NC State 1970 NCAA Men's Division I Basketball Tournament Game" .
+<USC_Music_Library> <base.schemastaging.scholastic_library.institution> "USC School of Music" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Yuri Ebihara" .
+<Institution> <rdf-schema#range> "College/University" .
+<Columbia> <common.topic.notable_types> "City/Town/Village" .
+<Lexington_County> <location.location.partiallycontains> "m.0wg9d4n" .
+<Columbia> <location.location.events> "2007 Indie Grits Film Festival" .
+<m.0whwwb6> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia> <location.citytown.postal_codes> "29225" .
+<Public_university> <common.topic.notable_types> "School category" .
+<Fraternities_and_sororities> <type.property.schema> "College/University" .
+<Eta_Chapter_of_St._Anthony_Hall> <common.topic.notable_for> "g.1259xs69c" .
+<South_Carolina_Gamecocks_men's_basketball> <basketball.basketball_team.conference> "Southeastern Conference" .
+<m.0h__437> <organization.organization_relationship.child> "University of South Carolina Beaufort" .
+<m.03lnyd2> <common.webpage.topic> "Moore School of Business" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks football" .
+<m.0zw2d7l> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Yoko Horiuchi" .
+<South_Carolina_Gamecocks_baseball> <sports.school_sports_team.athletics_brand> "South Carolina Gamecocks" .
+<School_category> <freebase.type_profile.published> "Published" .
+<University_of_South_Carolina_Salkehatchie> <education.university.local_tuition> "m.0k7ftyv" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.0123p367" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7dvxq" .
+<29206> <location.location.containedby> "Richland County" .
+<Northumbria_University_London> <education.educational_institution.campuses> "Northumbria University London" .
+<University_of_South_Carolina_Union> <education.university.number_of_undergraduates> "m.0ng8wjh" .
+<Columbia> <location.statistical_region.population> "m.066c8g8" .
+<m.0k906jw> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0z9snwh" .
+<American_football_team> <freebase.type_profile.strict_included_types> "Topic" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0123th2_" .
+<South_Carolina_Gamecocks_football> <sports.sports_team.fight_song> "The Fighting Gamecocks Lead the Way" .
+<Bre_Scullark> <people.person.nationality> "United States of America" .
+<Richland_County> <location.administrative_division.capital> "m.0jvvvwh" .
+<Quiana_Grant> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<College/University> <freebase.type_profile.strict_included_types> "Organization" .
+<m.09ym1tx> <common.webpage.topic> "Columbia" .
+<m.03l3b0g> <common.webpage.topic> "University of South Carolina Salkehatchie" .
+<Columbia> <military.military_post.people_posted_here> "m.05b9jkh" .
+<University_of_South_Carolina> <education.educational_institution.athletics_brand> "South Carolina Gamecocks" .
+<Dokuz_Eylül_University> <freebase.valuenotation.is_reviewed> "Headquarters" .
+<Kang_Seung-hyun> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Columbia> <location.statistical_region.population> "m.0hm86zv" .
+<James_B._Holderman> <people.person.employment_history> "m.0123tvkr" .
+<m.0w7d1pj> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<Columbia> <location.hud_county_place.place> "Columbia" .
+<Columbia> <location.citytown.postal_codes> "29230" .
+<Columbia> <location.citytown.postal_codes> "29204" .
+<South_Carolina> <location.administrative_division.first_level_division_of> "United States of America" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Katie Price" .
+<m.0w7drmd> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<m.05hkfqx> <base.marchmadness.ncaa_tournament_seed.team> "South Carolina Gamecocks men's basketball" .
+<m.04hwy7j> <business.employment_tenure.person> "Matthew J. Bruccoli" .
+<South_Carolina> <location.location.containedby> "United States, with Territories" .
+<m.0j6xh2f> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<University_of_South_Carolina> <common.topic.notable_for> "g.1257jm0w6" .
+<Vanya_Seager> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<University_of_South_Carolina_Salkehatchie> <organization.organization.leadership> "m.0j5vmd1" .
+<29220> <location.postal_code.country> "United States of America" .
+<University_of_South_Carolina_School_of_Law> <common.topic.webpage> "m.03lmmxr" .
+<Aída_Yéspica> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Matika Arthakornsiripho" .
+<Columbia> <travel.travel_destination.tourist_attractions> "Riverbanks Zoo" .
+<2012_Indie_Grits_Film_Festival> <time.event.locations> "Columbia" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.arena_stadium> "Colonial Life Arena" .
+<Mariacarla_Boscono> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Congaree_National_Park> <travel.tourist_attraction.near_travel_destination> "Columbia" .
+<Moore_School_of_Business> <education.educational_institution.campuses> "Moore School of Business" .
+<Harris_Pastides> <business.board_member.leader_of> "m.0h6ylrr" .
+<The_Daily_Gamecock> <book.newspaper.headquarters> "m.04yz7r1" .
+<Chris_Tiu> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0k7fm1r> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.0k7bng6> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<College/University> <freebase.type_profile.equivalent_topic> "College" .
+<Moore_School_of_Business> <education.educational_institution.school_type> "Public school" .
+<City/Town/Village> <freebase.type_hints.included_types> "Topic" .
+<m.0cnnntz> <freebase.valuenotation.has_no_value> "Street Address 4" .
+<m.0hhwgbf> <location.mailing_address.postal_code> "29208" .
+<m.0h7xsm1> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Educational_Institution> <freebase.type_profile.strict_included_types> "Organization" .
+<James_Dickey> <people.person.nationality> "United States of America" .
+<Number_of_postgraduates> <rdf-schema#domain> "College/University" .
+<South_Carolina_Gamecocks_men's_soccer> <common.topic.notable_types> "School sports team" .
+<Dokuz_Eylül_University> <education.educational_institution.school_type> "Public university" .
+<Host> <rdf-schema#range> "College/University" .
+<University_of_South_Carolina> <business.employer.employees> "m.02kq4s_" .
+<South_Carolina> <government.governmental_jurisdiction.agencies> "South Carolina Highway Patrol" .
+<Allendale> <base.wikipedia_infobox.settlement.area_code> "Area code 803" .
+<Columbia> <travel.travel_destination.tourist_attractions> "South Carolina State Museum" .
+<m.0h6l84f> <award.ranking.item> "University of South Carolina" .
+<Asia_Nitollano> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.ncaa_tournament_seeds> "m.05h18gv" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Mariacarla Boscono" .
+<South_Carolina_Gamecocks_volleyball> <common.topic.notable_types> "School sports team" .
+<Institution> <type.property.expected_type> "College/University" .
+<South_Carolina_Comprehensive_Wildlife_Conservation_Strategy_2005_-_2010> <base.abcbirds.conservation_plan.focal_location> "South Carolina" .
+<29250> <location.postal_code.country> "United States of America" .
+<Moore_School_of_Business> <education.educational_institution.school_type> "Business school" .
+<m.0cnnntz> <location.mailing_address.postal_code> "29208" .
+<m.0k7k9mx> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7d1pj" .
+<m.0n0z56p> <education.education.institution> "University of South Carolina School of Law" .
+<Moore_School_of_Business> <common.topic.notable_types> "College/University" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Meghan Collison" .
+<Organization_founder> <freebase.type_profile.published> "Published" .
+<m.04hrwt9> <business.employment_tenure.company> "University of South Carolina" .
+<Russell_House_Ballroom> <common.topic.notable_for> "g.1254_qmg8" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.tournament_games_won> "South Carolina-Temple 1972 NCAA Men's Division I Basketball Tournament Game" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0whj8dz" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.012nnm2d" .
+<Sara_Nuru> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<2014_Indie_Grits_Film_Festival> <time.event.locations> "Columbia" .
+<Union> <location.location.containedby> "South Carolina" .
+<Becky> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<College/University> <freebase.type_hints.included_types> "Organization" .
+<Ha_Ri-su> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<South_Carolina_Gamecocks_men's_basketball> <common.topic.notable_types> "School sports team" .
+<College/University> <type.type.expected_by> "Taught at" .
+<m.0cnnntz> <freebase.valuenotation.has_no_value> "Street Address 3" .
+<Capture_of_Columbia> <time.event.locations> "Columbia" .
+<Organization_founder> <freebase.type_profile.strict_included_types> "Topic" .
+<University_of_South_Carolina_School_of_Law> <award.ranked_item.appears_in_ranked_lists> "m.0h7xslp" .
+<Hye-rim_Park> <people.person.nationality> "United States of America" .
+<US_News_&_World_Report:_Top_Public_School_Rankings> <award.ranked_list.ranked_list_items> "m.0zvwm_v" .
+<Alpha_Delta_Pi> <education.fraternity_sorority.colors> "White" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Erica Arana" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0h42b5p" .
+<University_of_South_Carolina> <award.ranked_item.appears_in_ranked_lists> "m.0h71pl3" .
+<South_Carolina_Gamecocks_football> <sports.sports_team.sport> "American football" .
+<Colonial_Life_Arena> <sports.sports_facility.home_venue_for> "m.0wz2ylr" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0wkqc10" .
+<Columbia> <location.statistical_region.population> "g.11x1k06kj" .
+<University_of_South_Carolina_Salkehatchie> <location.location.geolocation> "m.0wmht13" .
+<University_of_South_Carolina_School_of_Law,_main_campus> <location.location.containedby> "South Carolina" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0n1m13s" .
+<m.0h7xslp> <award.ranking.item> "University of South Carolina School of Law" .
+<29203> <location.location.containedby> "Richland County" .
+<m.05k6b8c> <base.marchmadness.ncaa_tournament_seed.team> "South Carolina Gamecocks men's basketball" .
+<Southeastern_Conference> <basketball.basketball_conference.teams> "South Carolina Gamecocks men's basketball" .
+<m.0k7k9wr> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Union> <location.hud_county_place.place> "Union" .
+<University_of_South_Carolina_Union> <common.topic.article> "m.03c548y" .
+<School_newspaper> <freebase.type_hints.included_types> "Topic" .
+<Moore_School_of_Business> <common.topic.article> "m.02tm5g" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7d7_s" .
+<University_of_South_Carolina> <education.educational_institution.campuses> "University of South Carolina" .
+<m.0bhffk6> <location.mailing_address.postal_code> "29208" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Quiana Grant" .
+<University_of_South_Carolina> <business.employer.employees> "m.0dzgfws" .
+<Columbia> <common.topic.webpage> "m.03lnfn4" .
+<Common_Ground_The_Story_of_the_ACE_Basin> <film.film.country> "United States of America" .
+<Columbia> <location.location.events> "St. Bonaventure-NC State 1970 NCAA Men's Division I Basketball Tournament Game" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Chris Tiu" .
+<Founders> <rdf-schema#range> "Organization founder" .
+<University_of_South_Carolina_Salkehatchie> <common.topic.notable_for> "g.12559ssms" .
+<Columbia> <location.citytown.postal_codes> "29208" .
+<University> <rdf-schema#range> "College/University" .
+<m.0dzdf20> <business.employment_tenure.person> "David R. Chesnutt" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0hvqy6z" .
+<University_of_South_Carolina> <education.university.acceptance_rate> "m.0h744hq" .
+<University_of_South_Carolina_Union> <education.university.domestic_tuition> "m.0k7bng6" .
+<University-National_Oceanographic_Laboratory_System> <organization.membership_organization.members> "m.0g9nfgt" .
+<m.0k7flgx> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Saleisha_Stowers> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<29209> <location.postal_code.country> "United States of America" .
+<m.0b48cw3> <common.webpage.in_index> "WSJ Speakeasy Index" .
+<Founders> <type.property.expected_type> "Organization founder" .
+<m.0svsyk4> <education.education.institution> "University of South Carolina School of Law" .
+<The_Daily_Gamecock> <common.topic.webpage> "m.03lh80j" .
+<Steve_Spurrier> <people.person.nationality> "United States of America" .
+<m.0zvwq3j> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.0w5ldpy> <education.education.institution> "University of South Carolina School of Law" .
+<Northumbria_University_London> <organization.organization.organization_type> "Public university" .
+<University_of_South_Carolina_Union> <education.university.acceptance_rate> "m.0h74hp7" .
+<Sunita_Marshall> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.04hkhkz> <business.employment_tenure.person> "Cleveland Sellers" .
+<South_Carolina_Gamecocks_softball> <sports.school_sports_team.athletics_brand> "South Carolina Gamecocks" .
+<Columbia_Metropolitan_Airport> <aviation.airport.serves> "Columbia" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Charo Ronquillo" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks women's tennis" .
+<Jim_Hamilton–L.B._Owens_Airport> <location.location.containedby> "Richland County" .
+<Dokuz_Eylül_University> <common.topic.notable_types> "College/University" .
+<m.0h6_w00> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Number_of_doctoral_candidates> <rdf-schema#domain> "College/University" .
+<South_Carolina_Gamecocks_football> <american_football.football_team.division> "Division I (NCAA)" .
+<Brent_Chua> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia> <location.location.containedby> "Area code 803" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Kang Seung-hyun" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Jesikah Maximus" .
+<Black> <base.opposites.opposite.opposite> "m.06_7vg6" .
+<m.04hx292> <business.employment_tenure.person> "James Dickey" .
+<University_Affiliation> <type.property.expected_type> "College/University" .
+<Nicole_Oring> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<University_of_South_Carolina> <education.university.number_of_undergraduates> "m.0h77tqp" .
+<Founding_school> <rdf-schema#domain> "Fraternity/Sorority" .
+<Host> <type.property.expected_type> "College/University" .
+<Heriot-Watt_University> <common.topic.notable_types> "College/University" .
+<m.0whz5bk> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia_Metropolitan_Airport> <aviation.airport.serves> "Richland County" .
+<Columbia> <location.statistical_region.population> "g.11x1fxvpk" .
+<University_of_South_Carolina_Salkehatchie> <location.location.containedby> "Allendale" .
+<1970_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1970 NCAA Men's Division I Basketball Tournament- East Regional Finals" .
+<Taught_at> <rdf-schema#range> "College/University" .
+<29218> <location.postal_code.country> "United States of America" .
+<South_Carolina-Temple_1972_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.winning_team> "South Carolina Gamecocks men's basketball" .
+<m.0123th2_> <education.education.institution> "University of South Carolina School of Law" .
+<m.0gz3bf2> <education.education.institution> "University of South Carolina School of Law" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0h40yzq" .
+<Academic_Institution> <type.property.expected_type> "College/University" .
+<m.0zvwm9d> <award.ranking.item> "University of South Carolina" .
+<University_of_South_Carolina> <organization.organization_scope.organizations_with_this_scope> "Eta Chapter of St. Anthony Hall" .
+<m.03lrp0b> <common.webpage.category> "Official Website" .
+<University_of_South_Carolina_Union> <location.location.containedby> "South Carolina" .
+<South_Carolina_Gamecocks> <education.athletics_brand.institution> "University of South Carolina" .
+<College/University> <freebase.type_profile.equivalent_topic> "University" .
+<2007_Indie_Grits_Film_Festival> <time.event.locations> "Columbia" .
+<Public_university> <common.topic.notable_for> "g.126sphpy1" .
+<Columbia> <location.hud_foreclosure_area.total_residential_addresses> "m.07gxb6c" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0wk_kdn" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "McKey Sullivan" .
+<South_Carolina_Gamecocks_football> <sports.sports_team.colors> "Black" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Nadeeka Perera" .
+<m.0svz04q> <education.education.institution> "University of South Carolina School of Law" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Omahyra Mota" .
+<Columbia> <location.statistical_region.population> "g.1jmcbkjxc" .
+<College/University> <type.type.expected_by> "University" .
+<Number_of_undergraduates> <rdf-schema#domain> "College/University" .
+<Departments> <rdf-schema#domain> "College/University" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.campuses> "University of South Carolina School of Law, main campus" .
+<Founders> <type.property.schema> "Organization" .
+<Organizations_founded> <type.property.schema> "Organization founder" .
+<University_of_South_Carolina> <organization.endowed_organization.endowment> "m.0zw2dgr" .
+<m.0134tfrr> <education.education.institution> "University of South Carolina School of Law" .
+<m.0_y7vhs> <award.award_honor.award_winner> "University of South Carolina" .
+<m.010fy252> <education.education.institution> "University of South Carolina School of Law" .
+<NC_State-South_Carolina_1989_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.losing_team> "South Carolina Gamecocks men's basketball" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.subdividing_place> "United States of America" .
+<City/Town/Village> <freebase.type_profile.kind> "Definition" .
+<Organization> <type.type.properties> "Founders" .
+<Colleges_and_Universities> <rdf-schema#domain> "Fraternity/Sorority" .
+<Educational_Institution> <freebase.type_profile.published> "Published" .
+<Organizations_founded> <type.property.master_property> "Founders" .
+<m.0wkqc10> <education.education.institution> "University of South Carolina School of Law" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Damien Colletti" .
+<m.04hlxxq> <business.employment_tenure.person> "John LeConte" .
+<m.02kq4s_> <business.employment_tenure.company> "University of South Carolina" .
+<m.0wz25y_> <sports.team_venue_relationship.venue> "Volleyball Competition Center" .
+<Columbia> <location.citytown.postal_codes> "29224" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0w5ldpy" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.010fy252" .
+<Columbia> <location.capital_of_administrative_division.capital_of> "m.0jvvvwh" .
+<Columbia> <location.statistical_region.population> "m.066c8fx" .
+<Mai_Phương_Thúy> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia> <location.statistical_region.population> "g.11x1d7rzj" .
+<Columbia> <location.statistical_region.population> "g.11x1ct43v" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Anna Bayle" .
+<m.05h18gv> <base.marchmadness.ncaa_tournament_seed.team> "South Carolina Gamecocks men's basketball" .
+<m.0wk_kdn> <education.education.institution> "University of South Carolina School of Law" .
+<University_of_South_Carolina> <book.newspaper_owner.newspapers_owned> "The Daily Gamecock" .
+<m.0b478hx> <common.webpage.resource> "Morning Roundup: John Mayer’s Free Concert; Andy Warhol’s Donation; “Avatar” Sequel Talks" .
+<Micaela_Reis> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0k7bm0g> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Vanya Seager" .
+<University_of_South_Carolina_Union> <education.university.domestic_tuition> "m.0k906jw" .
+<Columbia> <base.biblioness.bibs_location.state> "South Carolina" .
+<m.0wg9d4n> <location.partial_containment_relationship.partially_contains> "Columbia" .
+<Local_tuition> <rdf-schema#domain> "College/University" .
+<University_of_South_Carolina_Union> <freebase.valuenotation.has_value> "International tuition" .
+<United_States_Dollar> <finance.currency.countries_used> "United States of America" .
+<South_Carolina_Gamecocks_football> <sports.sports_team.coaches> "m.0zn7slt" .
+<South_Carolina> <location.us_state.capital> "Columbia" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Charo Ronquillo" .
+<University_of_South_Carolina> <education.university.fraternities_and_sororities> "Alpha Delta Pi" .
+<Columbia> <location.citytown.postal_codes> "29202" .
+<m.0b478hx> <common.webpage.in_index> "WSJ Speakeasy Index" .
+<Organization_founder> <freebase.type_hints.included_types> "Topic" .
+<m.0k7rd4v> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<College/University> <type.type.expected_by> "Founding school" .
+<m.0h6_w1h> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Peggy_J._Clark> <people.person.nationality> "United States of America" .
+<m.0p7czly> <education.education.institution> "University of South Carolina School of Law" .
+<Black> <common.topic.image> "Black colour" .
+<Arsenal_Hill> <location.neighborhood.neighborhood_of> "Columbia" .
+<Columbia> <location.citytown.postal_codes> "29223" .
+<m.0cnnntz> <freebase.valuenotation.is_reviewed> "State/Province/Region" .
+<Academic_Institution> <rdf-schema#range> "College/University" .
+<m.0h40yzq> <education.education.institution> "University of South Carolina School of Law" .
+<Doctorate_Degree_From> <type.property.expected_type> "College/University" .
+<m.0123v6ln> <education.education.institution> "University of South Carolina School of Law" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0whz5bk" .
+<Columbia> <location.citytown.postal_codes> "29226" .
+<University_of_South_Carolina> <freebase.valuenotation.has_value> "Founders" .
+<School_newspaper> <freebase.type_profile.kind> "Definition" .
+<University_of_South_Carolina_School_of_Law,_main_campus> <education.educational_institution_campus.educational_institution> "University of South Carolina School of Law" .
+<University_of_South_Carolina> <organization.organization.leadership> "m.0h6ylrr" .
+<School_sports_team> <freebase.type_hints.included_types> "Topic" .
+<m.0b48cw3> <common.webpage.topic> "Columbia" .
+<Columbia> <location.citytown.postal_codes> "29203" .
+<Telly_Award_for_Non-Broadcast_Productions_Film/Video_-_Nature/Wildlife> <award.award_category.winners> "m.0_y7vhs" .
+<2011_Indie_Grits_Film_Festival> <time.event.locations> "Columbia" .
+<United_States_of_America> <base.locations.countries.states_provinces_within> "South Carolina" .
+<The_Daily_Gamecock> <common.topic.notable_for> "g.125bykvsd" .
+<m.0sw2f7r> <education.education.institution> "University of South Carolina School of Law" .
+<m.0n55bwx> <education.education.institution> "University of South Carolina School of Law" .
+<m.06_7vg6> <base.opposites.opposite_relationship.opposite> "Black" .
+<Juliana_Imai> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia> <travel.travel_destination.tourist_attractions> "Sesquicentennial State Park" .
+<City/Town> <type.property.expected_type> "Location" .
+<m.0n0tjmp> <education.education.institution> "University of South Carolina School of Law" .
+<University_of_South_Carolina_Union> <common.topic.notable_for> "g.1257280nl" .
+<m.0w7dvxq> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<University_of_South_Carolina_Salkehatchie> <common.topic.notable_types> "College/University" .
+<Eau_Claire> <location.location.containedby> "South Carolina" .
+<Micaela_Reis> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<m.0b478hx> <common.webpage.topic> "University of South Carolina" .
+<University_of_South_Carolina_School_of_Law> <common.topic.notable_types> "College/University" .
+<m.03lmmxr> <common.webpage.topic> "University of South Carolina School of Law" .
+<University_of_South_Carolina> <education.educational_institution.newspaper> "The Daily Gamecock" .
+<Columbia> <location.statistical_region.population> "g.11x1h8kz7" .
+<Black> <business.product_category.products> "Ebony Faux Leather (D8507)" .
+<Shiraz_Tal> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia> <location.hud_foreclosure_area.total_90_day_vacant_residential_addresses> "m.07gxb64" .
+<m.04hngwj> <business.employment_tenure.person> "Ed Madden" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0w5l70c" .
+<m.0jqqb5g> <common.webpage.category> "Official Website" .
+<University_of_South_Carolina_Salkehatchie> <education.university.domestic_tuition> "m.0j6xh34" .
+<Moore_School_of_Business> <education.university.local_tuition> "m.0hhwh2z" .
+<Alpha_Delta_Pi> <education.fraternity_sorority.colors> "Azure" .
+<m.0kdpxrj> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.ncaa_tournament_seeds> "m.05hjf33" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Amina Shafaat" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0n0jvpg" .
+<University_Affiliation> <rdf-schema#range> "College/University" .
+<29205> <location.location.containedby> "Richland County" .
+<John_LeConte> <people.person.employment_history> "m.04hlxxq" .
+<29240> <location.postal_code.country> "United States of America" .
+<Educational_Institution> <freebase.type_hints.included_types> "Topic" .
+<Amina_Shafaat> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<School_sports_team> <freebase.type_profile.strict_included_types> "Topic" .
+<29224> <location.postal_code.country> "United States of America" .
+<m.0zvwm9d> <award.ranking.list> "US News & World Report: National University Rankings" .
+<Berkeley_glade_afternoon> <common.image.appears_in_topic_gallery> "Public university" .
+<m.03lzkrf> <common.webpage.topic> "University of South Carolina" .
+<29290> <location.postal_code.country> "United States of America" .
+<Congaree_National_Park> <base.usnationalparks.us_national_park.state> "South Carolina" .
+<The_Fighting_Gamecocks_Lead_the_Way> <sports.fight_song.sports_team> "South Carolina Gamecocks football" .
+<29223> <location.postal_code.country> "United States of America" .
+<South_Carolina_Gamecocks_volleyball> <common.topic.notable_for> "g.125gp4w2x" .
+<Taina> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Moore_School_of_Business> <business.employer.employees> "m.0hcg0jk" .
+<Medical_School_Affiliation> <rdf-schema#range> "College/University" .
+<Organization_founder> <type.type.expected_by> "Founders" .
+<Columbia> <location.statistical_region.population> "g.11x1ddscc" .
+<Black> <business.product_category.products> "Slate Faux Leather (D8631)" .
+<Moore_School_of_Business> <education.educational_institution.students_graduates> "m.0wl62l5" .
+<Founders> <rdf-schema#domain> "Organization" .
+<University_of_South_Carolina> <common.topic.image> "An 1872 illustration of the Horseshoe, USC's original campus" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "LoLa Monroe" .
+<South_Carolina_Gamecocks_women's_soccer> <sports.school_sports_team.athletics_brand> "South Carolina Gamecocks" .
+<m.0w5lzty> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia> <location.statistical_region.population> "g.11x1h8219" .
+<William_Porcher_Miles> <people.person.nationality> "United States of America" .
+<Number_of_postgraduates> <type.property.schema> "College/University" .
+<South_Carolina_State_Museum> <location.location.containedby> "Columbia" .
+<m.0cnnntz> <common.topic.notable_for> "g.11bbnggt6s" .
+<m.0h6_w18> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.tournament_games_lost> "North Carolina-South Carolina 1972 NCAA Men's Division I Basketball Tournament Game" .
+<Defunct_Organization> <freebase.type_profile.published> "Published" .
+<Naomi_Campbell> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<University> <type.property.expected_type> "College/University" .
+<Colleges_and_Universities> <type.property.schema> "Fraternity/Sorority" .
+<Columbia> <location.location.events> "2012 Indie Grits Film Festival" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks baseball" .
+<29229> <location.location.containedby> "Richland County" .
+<Mei-Yin_Lloyd> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Moe Oshikiri" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Chris Tiu" .
+<2013_Indie_Grits_Film_Festival> <time.event.locations> "Columbia" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0n1mxqy" .
+<Moore_School_of_Business> <education.educational_institution.total_enrollment> "m.0hhxxq1" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Maike Evers" .
+<Eau_Claire> <location.location.containedby> "Columbia" .
+<University_of_South_Carolina> <education.university.local_tuition> "m.0k8xpq_" .
+<University_of_South_Carolina_Salkehatchie> <education.educational_institution.colors> "Black" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.ncaa_tournament_seeds> "m.05dvvc6" .
+<1970_NCAA_Men's_Division_I_Basketball_Tournament-_East_Regional_Finals> <base.marchmadness.ncaa_basketball_tournament_stage.games> "St. Bonaventure-Villanova 1970 NCAA Men's Division I Basketball Tournament Game" .
+<The_Daily_Gamecock> <education.school_newspaper.school> "University of South Carolina" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Asun Ortega" .
+<Rhine-Waal_University_of_Applied_Sciences> <organization.organization.organization_type> "Public university" .
+<29202> <location.location.containedby> "Richland County" .
+<University_of_South_Carolina> <business.employer.employees> "m.04hkhkz" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.010nwf11" .
+<m.010pnmsx> <education.education.institution> "University of South Carolina School of Law" .
+<University_of_South_Carolina> <education.educational_institution.colors> "Black" .
+<Moore_School_of_Business> <education.educational_institution.phone_number> "m.0hhwgb_" .
+<Union> <common.topic.notable_types> "City/Town/Village" .
+<m.0dzgfws> <business.employment_tenure.company> "University of South Carolina" .
+<m.0h6ylrr> <organization.leadership.person> "Harris Pastides" .
+<An_1872_illustration_of_the_Horseshoe,_USC's_original_campus> <common.image.size> "m.02dmdtv" .
+<Columbia> <location.statistical_region.population> "g.11x1hg4kt" .
+<LoLa_Monroe> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia> <location.statistical_region.population> "m.0hm86zb" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Mai Phương Thúy" .
+<m.0hhwgbf> <freebase.valuenotation.has_no_value> "Street Address 3" .
+<Columbia> <location.statistical_region.population> "g.11x1khy5x" .
+<m.0hhwgbf> <location.mailing_address.state_province_region> "South Carolina" .
+<Moore_School_of_Business> <location.location.geolocation> "m.0wmlhlv" .
+<m.0w7d4j3> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<Columbia> <location.citytown.postal_codes> "29210" .
+<m.0cnp390> <location.mailing_address.country> "United States of America" .
+<Black> <business.product_category.products> "Pewter Faux Leather (D8564)" .
+<m.0w7d7_s> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<Charo_Ronquillo> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<South_Carolina_Gamecocks_football> <common.topic.article> "m.03by3qv" .
+<International_tuition> <type.property.expected_type> "Dated Money Value" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Padma Lakshmi" .
+<m.06_7vg6> <base.opposites.opposite_relationship.opposite> "White" .
+<29226> <location.postal_code.country> "United States of America" .
+<Education> <type.domain.types> "School category" .
+<m.0w5h7yf> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia> <travel.travel_destination.tourist_attractions> "Dreher Island State Recreation Area" .
+<Jim_Hamilton–L.B._Owens_Airport> <location.location.containedby> "29205" .
+<Alpha_Delta_Pi> <education.fraternity_sorority.founded_location> "Wesleyan College" .
+<m.0101fkmv> <government.government_position_held.jurisdiction_of_office> "Columbia" .
+<College/University> <type.type.properties> "Acceptance rate" .
+<Maike_Evers> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<College/University> <type.type.expected_by> "Universität" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.school_type> "Public school" .
+<South_Carolina_Gamecocks_men's_tennis> <sports.school_sports_team.athletics_brand> "South Carolina Gamecocks" .
+<m.0ccc1sz> <organization.organization_relationship.child> "Eta Chapter of St. Anthony Hall" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0x0y54q" .
+<Public_university> <organization.organization_type.organizations_of_this_type> "Dokuz Eylül University" .
+<29225> <location.postal_code.country> "United States of America" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Meisa Kuroki" .
+<Michael_Phelps_to_Matt_Lauer:_'It_was_an_awful_judgment'> <common.resource.annotations> "m.09wv16s" .
+<College/University> <freebase.type_profile.strict_included_types> "Topic" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.school_sports_team.school> "University of South Carolina" .
+<William_Porcher_Miles> <people.person.place_of_birth> "South Carolina" .
+<m.05dvvc6> <base.marchmadness.ncaa_tournament_seed.team> "South Carolina Gamecocks men's basketball" .
+<m.05b9jkh> <military.military_posting.post> "Columbia" .
+<University_of_South_Carolina> <education.educational_institution.phone_number> "m.0h6l7hc" .
+<Columbia> <location.location.geolocation> "m.0kgsj2" .
+<29202> <location.postal_code.country> "United States of America" .
+<2010_Indie_Grits_Film_Festival> <time.event.locations> "Columbia" .
+<Moore_School_of_Business> <education.university.domestic_tuition> "m.0hhwh3q" .
+<Muthu_Tharanga> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Columbia> <travel.travel_destination.tourist_attractions> "EdVenture" .
+<Rhine-Waal_University_of_Applied_Sciences> <education.educational_institution.campuses> "Rhine-Waal University of Applied Sciences" .
+<m.0w7z4j6> <education.education.institution> "University of South Carolina School of Law" .
+<Universität> <rdf-schema#range> "College/University" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.ncaa_tournament_seeds> "m.05hkfqx" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Shiraz Tal" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks women's soccer" .
+<South_Carolina_Gamecocks_Women's_Basketball_Team> <sports.sports_team.colors> "Garnet" .
+<College/University> <freebase.documented_object.documentation> "m.021y5v6" .
+<Columbia> <location.location.partially_contained_by> "m.0wg9d54" .
+<Columbia> <location.statistical_region.population> "g.11btt4qqqk" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Juliana Imai" .
+<Muzammil_Ibrahim> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<m.04hngwj> <business.employment_tenure.company> "University of South Carolina" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Shuang Shuang" .
+<Columbia> <common.topic.image> "Skyline of Columbia" .
+<University_of_South_Carolina> <location.location.geolocation> "m.0jrpjvv" .
+<m.0j6hv5h> <common.webpage.topic> "University of South Carolina Union" .
+<The_Daily_Gamecock> <common.topic.notable_types> "School newspaper" .
+<m.04hrwt9> <business.employment_tenure.person> "William Porcher Miles" .
+<Columbia> <location.statistical_region.population> "g.11x1ddt91" .
+<m.0svy1jf> <education.education.institution> "University of South Carolina School of Law" .
+<1970_NCAA_Men's_Division_I_Basketball_Tournament> <time.event.locations> "Columbia" .
+<m.09wgcyk> <common.webpage.topic> "Columbia" .
+<Jesikah_Maximus> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia_Star> <book.newspaper.circulation_areas> "Columbia" .
+<University_of_South_Carolina> <base.schemastaging.educational_institution_extra.libraries> "Coleman Karesh Law Library" .
+<South_Carolina_Gamecocks_women's_soccer> <common.topic.notable_types> "School sports team" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Du Juan" .
+<University_of_South_Carolina_Salkehatchie> <education.university.number_of_undergraduates> "m.0j7d688" .
+<University_of_South_Carolina_Salkehatchie> <education.educational_institution_campus.educational_institution> "University of South Carolina Salkehatchie" .
+<College/University> <freebase.type_hints.included_types> "Educational Institution" .
+<m.03lmmxr> <common.webpage.category> "Official Website" .
+<University_of_South_Carolina_School_of_Law> <education.university.international_tuition> "m.0h7xsx0" .
+<Matthew_J._Bruccoli> <people.person.employment_history> "m.04hwy7j" .
+<University-National_Oceanographic_Laboratory_System> <common.topic.notable_types> "Organization" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.012svnyq" .
+<Local_tuition> <rdf-schema#range> "Dated Money Value" .
+<Dreher_Island_State_Recreation_Area> <travel.tourist_attraction.near_travel_destination> "Columbia" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0w7z4j6" .
+<Columbia_Metropolitan_Airport> <location.location.containedby> "Columbia" .
+<29205> <location.location.contains> "Jim Hamilton–L.B. Owens Airport" .
+<University_of_South_Carolina> <education.educational_institution.subsidiary_or_constituent_schools> "University of South Carolina Union" .
+<Christopher_Columbus> <symbols.name_source.namesakes> "Columbia" .
+<Lexington_County> <location.location.partially_contains> "Columbia" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0svy1jf" .
+<University_of_South_Carolina_Union> <location.location.containedby> "United States of America" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.040s1jm" .
+<Defunct_Organization> <freebase.type_profile.strict_included_types> "Topic" .
+<South_Carolina> <base.locations.states_and_provences.country> "United States of America" .
+<Universität> <type.property.expected_type> "College/University" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0n12x25" .
+<South_Carolina_Gamecocks_football> <american_football.football_team.current_head_coach> "Steve Spurrier" .
+<University_of_South_Carolina> <common.topic.webpage> "m.09wv16s" .
+<m.0jvvvwh> <location.administrative_division_capital_relationship.administrative_division> "Richland County" .
+<Jessica_White> <people.person.nationality> "United States of America" .
+<m.09wv16s> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<Founders> <owl#inverseOf> "Organizations founded" .
+<University_of_South_Carolina_School_of_Law> <common.topic.article> "m.0dpmq0" .
+<Columbia> <location.statistical_region.population> "m.0hm86xl" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Tahounia Rubel" .
+<Public_university> <organization.organization_type.organizations_of_this_type> "Federal Institute of Santa Catarina" .
+<College/University> <type.type.properties> "Domestic tuition" .
+<James_Dickey> <people.deceased_person.place_of_death> "Columbia" .
+<29216> <location.postal_code.country> "United States of America" .
+<29203> <location.postal_code.country> "United States of America" .
+<Allendale> <common.topic.notable_types> "City/Town/Village" .
+<m.0b47djw> <common.webpage.topic> "University of South Carolina" .
+<University_of_South_Carolina> <business.employer.employees> "m.012n5m8y" .
+<Karla_Henry> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.010pnmsx" .
+<Riverbanks_Zoo> <travel.tourist_attraction.near_travel_destination> "Columbia" .
+<Memphis_State-South_Carolina_1973_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.losing_team> "South Carolina Gamecocks men's basketball" .
+<College/University> <type.type.expected_by> "University" .
+<St._Bonaventure-NC_State_1970_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1970 NCAA Men's Division I Basketball Tournament- East Regional Semifinals" .
+<Frank_Martin> <basketball.basketball_coach.team> "South Carolina Gamecocks men's basketball" .
+<Northumbria_University_London> <education.educational_institution_campus.educational_institution> "Northumbria University London" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks Women's Basketball Team" .
+<University_of_South_Carolina_Union> <education.university.number_of_undergraduates> "m.0w01ymy" .
+<m.0h40pyy> <education.education.institution> "University of South Carolina School of Law" .
+<Education> <type.domain.types> "College/University" .
+<m.0w7cx2x> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<Jessica_White> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<University_of_South_Carolina_Salkehatchie> <education.university.number_of_undergraduates> "m.0ng9svy" .
+<School_category> <freebase.type_profile.strict_included_types> "Topic" .
+<Columbia> <location.statistical_region.population> "m.0hm86wh" .
+<Damien_Colletti> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Dokuz_Eylül_University> <education.educational_institution_campus.educational_institution> "Dokuz Eylül University" .
+<Columbia> <periodicals.newspaper_circulation_area.newspapers> "Columbia Record" .
+<m.0j6xh34> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Russell_House_Ballroom> <location.location.events> "Declaration Tour, Columbia, SC - University of South Carolina, Concert" .
+<Sumter_National_Forest> <location.location.containedby> "South Carolina" .
+<Institution> <owl#inverseOf> "Departments" .
+<Columbia> <location.statistical_region.population> "m.066c8hs" .
+<Organizations_founded> <rdf-schema#range> "Organization" .
+<College/University> <type.type.expected_by> "Best Overall" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Naomi Campbell" .
+<Wesleyan_College> <education.educational_institution.campuses> "Wesleyan College" .
+<South_Carolina_Gamecocks_men's_basketball> <basketball.basketball_team.division> "Division I (NCAA)" .
+<m.0hl12sm> <award.ranking.item> "Moore School of Business" .
+<University_of_South_Carolina_Union> <education.educational_institution.total_enrollment> "m.0w021t8" .
+<University_of_South_Carolina> <base.schemastaging.educational_institution_extra.libraries> "USC Upstate Library" .
+<Asia_Nitollano> <people.person.nationality> "United States of America" .
+<Columbia> <location.statistical_region.population> "g.1jmcbgvb6" .
+<Columbia_Metropolitan_Airport> <location.location.containedby> "United States of America" .
+<Columbia> <location.citytown.postal_codes> "29227" .
+<South_Carolina> <location.location.time_zones> "Eastern Time Zone" .
+<m.0h71pl3> <award.ranking.item> "University of South Carolina" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Samantha Downie" .
+<Columbia> <common.topic.webpage> "m.09ym1tx" .
+<Heriot-Watt_University> <education.educational_institution.school_type> "Public university" .
+<Columbia> <location.location.events> "2008 Indie Grits Film Festival" .
+<South_Carolina_Gamecocks_football> <common.topic.webpage> "m.03l290l" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Mayuko Iwasa" .
+<Coleman_Karesh_Law_Library> <base.schemastaging.scholastic_library.institution> "USC Gould School of Law" .
+<m.03lh80j> <common.webpage.topic> "The Daily Gamecock" .
+<University_of_South_Carolina_School_of_Law,_main_campus> <location.location.containedby> "Columbia" .
+<The_Daily_Gamecock> <book.newspaper.headquarters> "m.0cccz7_" .
+<Eta_Chapter_of_St._Anthony_Hall> <organization.organization.parent> "m.0ccc1sz" .
+<m.0h6ylrr> <organization.leadership.organization> "University of South Carolina" .
+<Public_university> <common.topic.image> "Berkeley glade afternoon" .
+<Oluchi> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<South_Carolina_Gamecocks_football> <sports.school_sports_team.athletics_brand> "South Carolina Gamecocks" .
+<Frank_Martin> <people.person.nationality> "United States of America" .
+<Educational_Institution> <freebase.type_profile.strict_included_types> "Topic" .
+<Columbia_Record> <book.newspaper.circulation_areas> "Columbia" .
+<College/University> <freebase.type_profile.strict_included_types> "Agent" .
+<m.0h414sn> <education.education.institution> "University of South Carolina School of Law" .
+<Eau_Claire> <location.location.containedby> "Richland County" .
+<m.0123tvkr> <business.employment_tenure.person> "James B. Holderman" .
+<m.0h__437> <organization.organization_relationship.parent> "University of South Carolina" .
+<Southeastern_Conference> <american_football.football_conference.teams> "South Carolina Gamecocks football" .
+<29204> <location.postal_code.country> "United States of America" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.ncaa_tournament_seeds> "m.05h16zg" .
+<m.0g9nfgt> <organization.organization_membership.organization> "University-National Oceanographic Laboratory System" .
+<University_of_South_Carolina_Salkehatchie> <education.university.domestic_tuition> "m.0k7k9mx" .
+<Mona_Lisa_Moon> <people.person.nationality> "United States of America" .
+<Iman_Abdulmajid> <people.person.nationality> "United States of America" .
+<Richland_County> <location.location.nearby_airports> "Columbia Metropolitan Airport" .
+<Columbia> <location.place_with_neighborhoods.neighborhoods> "Eau Claire" .
+<Common_Ground_The_Story_of_the_ACE_Basin> <award.award_winning_work.awards_won> "m.0_y7vhs" .
+<Richland_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<United_States_of_America> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<Muzammil_Ibrahim> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Memphis-South_Carolina_2004_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.losing_team> "South Carolina Gamecocks men's basketball" .
+<Elizabeth_Jagger> <people.person.nationality> "United States of America" .
+<University_of_South_Carolina_Union> <education.university.local_tuition> "m.0k7bm0g" .
+<Supaksorn_Chaimongkol> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<University_of_South_Carolina_Salkehatchie> <location.location.containedby> "United States of America" .
+<Columbia> <base.biblioness.bibs_location.country> "United States of America" .
+<University_of_South_Carolina_Beaufort> <location.location.containedby> "South Carolina" .
+<Columbia> <location.statistical_region.population> "m.066c8h0" .
+<Education> <type.domain.types> "School mascot" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Nicole Oring" .
+<Lorena_Bernal> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<University_of_South_Carolina_Beaufort> <education.educational_institution.school_type> "Public university" .
+<University_of_South_Carolina> <common.topic.article> "m.03tw2z" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.parent_institution> "University of South Carolina" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Muthu Tharanga" .
+<Union> <location.location.contains> "University of South Carolina Union" .
+<m.0g9nfgt> <organization.organization_membership.member> "University of South Carolina" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_parent> "United States, with Territories" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0123v6ln" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.0_yx_c2" .
+<m.0jqqb5g> <common.webpage.topic> "University of South Carolina Union" .
+<Public_university> <organization.organization_type.organizations_of_this_type> "University of Essex Online" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.010vsh6_" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Kaori Manabe" .
+<Morning_Roundup:_John_Mayer’s_Free_Concert;_Andy_Warhol’s_Donation;_“Avatar”_Sequel_Talks> <common.resource.annotations> "m.0b478hx" .
+<Columbia> <location.citytown.postal_codes> "29216" .
+<University_of_South_Carolina_Salkehatchie> <education.educational_institution.parent_institution> "University of South Carolina" .
+<University_of_South_Carolina> <common.topic.webpage> "m.0b478hx" .
+<Anthony_French> <people.person.nationality> "United States of America" .
+<Columbia> <common.topic.webpage> "m.09wgcyk" .
+<Darla_Moore> <symbols.name_source.namesakes> "Moore School of Business" .
+<Columbia> <location.location.containedby> "United States of America" .
+<Acceptance_rate> <rdf-schema#domain> "College/University" .
+<m.0hhwgp4> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Ha Ri-su" .
+<m.03dmn2p> <venture_capital.venture_investment.company> "Ometric" .
+<Arsenal_Hill> <location.location.containedby> "Columbia" .
+<University_of_South_Carolina_Union> <education.educational_institution.school_type> "Public university" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Alisha Heng" .
+<Southeastern_Conference> <basketball.basketball_conference.divisions> "Division I (NCAA)" .
+<Columbia> <location.statistical_region.population> "m.066c8hd" .
+<South_Carolina_Gamecocks_baseball> <sports.sports_team.colors> "Black" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Brent Chua" .
+<University_of_South_Carolina> <business.employer.employees> "m.0dzdf20" .
+<Columbia> <location.location.events> "Capture of Columbia" .
+<Columbia> <location.statistical_region.population> "g.11x1l8mfl" .
+<Richland_County> <location.location.time_zones> "Eastern Time Zone" .
+<m.0cnnntz> <location.mailing_address.state_province_region> "South Carolina" .
+<University_of_South_Carolina> <education.educational_institution.colors> "Garnet" .
+<m.09vkqfk> <education.education.institution> "University of South Carolina School of Law" .
+<Alpha_Delta_Pi> <common.topic.webpage> "m.03lrp0b" .
+<American_football_team> <freebase.type_hints.included_types> "Topic" .
+<University_of_South_Carolina> <award.award_winner.awards_won> "m.0_y7vhs" .
+<Russell_House_Ballroom> <location.location.containedby> "University of South Carolina" .
+<Public_school> <common.topic.notable_types> "School category" .
+<m.0_y7vhs> <freebase.valuenotation.has_no_value> "Ceremony" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Micaela Reis" .
+<m.09wgcyk> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<East_Devon_College> <education.educational_institution.school_type> "Public university" .
+<m.0b47djw> <common.webpage.resource> "Vampire Weekend and Kwame Dawes Sound Off" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.010pnqpd" .
+<Columbia> <travel.travel_destination.tourist_attractions> "Congaree National Park" .
+<Moore_School_of_Business> <education.university.number_of_undergraduates> "m.0hhwhfl" .
+<Colleges_and_Universities> <type.property.expected_type> "College/University" .
+<USC_Gould_School_of_Law> <base.schemastaging.educational_institution_extra.libraries> "Coleman Karesh Law Library" .
+<m.0wg9d54> <location.partial_containment_relationship.partially_contains> "Columbia" .
+<South_Carolina_Gamecocks> <common.topic.article> "m.0ftdsn" .
+<South_Carolina_Gamecocks_men's_tennis> <common.topic.notable_types> "School sports team" .
+<Columbia> <common.image.appears_in_topic_gallery> "Columbia" .
+<m.0wg9d4n> <location.partial_containment_relationship.partially_contained_by> "Lexington County" .
+<University_of_South_Carolina> <location.location.containedby> "Columbia" .
+<m.0422kz4> <common.webpage.topic> "University of South Carolina" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0svz04q" .
+<m.04hkhkz> <business.employment_tenure.company> "University of South Carolina" .
+<Skyline_of_Columbia> <common.image.appears_in_topic_gallery> "Columbia" .
+<University> <freebase.equivalent_topic.equivalent_type> "College/University" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Bianca Gonzalez" .
+<Richland_County> <location.us_county.county_seat> "Columbia" .
+<South_Carolina-Texas_Tech_1973_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.winning_team> "South Carolina Gamecocks men's basketball" .
+<m.0gh9z2t> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia> <location.location.partially_containedby> "Lexington County" .
+<m.010vsh6_> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia> <location.hud_county_place.county> "Richland County" .
+<David_R._Chesnutt> <people.person.nationality> "United States of America" .
+<m.03l290l> <common.webpage.category> "Official Website" .
+<Columbia> <location.statistical_region.population> "m.066c8hl" .
+<m.09ym1tx> <common.webpage.in_index> "Entertainment Weekly annotation index" .
+<University_of_South_Carolina> <business.employer.employees> "m.04hngwj" .
+<Columbia> <sports.sports_team_location.teams> "Lexington County Blowfish" .
+<South_Carolina> <book.book_subject.works> "South Carolina Comprehensive Wildlife Conservation Strategy 2005 - 2010" .
+<University_of_South_Carolina> <organization.organization_member.member_of> "m.0g9nfgt" .
+<Black> <common.topic.image> "Bitola-monastery" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0dh5nk1" .
+<University_of_South_Carolina_Salkehatchie> <education.university.number_of_undergraduates> "m.0k7fv9d" .
+<Fraternities_and_sororities> <rdf-schema#domain> "College/University" .
+<Columbia> <location.statistical_region.population> "g.11bcdl7wc7" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Mao Kobayashi" .
+<Columbia_Museum_of_Art> <travel.tourist_attraction.near_travel_destination> "Columbia" .
+<Du_Juan> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Elizabeth Jagger" .
+<South_Carolina_Gamecocks_football> <common.topic.notable_for> "g.1256bxbqb" .
+<Moore_School_of_Business> <education.educational_institution.students_graduates> "m.0w3f82x" .
+<College/University> <type.type.properties> "Number of undergraduates" .
+<College/University> <type.type.properties> "Departments" .
+<Heriot-Watt_University> <education.educational_institution.school_type> "University" .
+<m.0h6l835> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<University_of_South_Carolina> <education.university.number_of_undergraduates> "m.0zvwqnb" .
+<m.0k8xpq_> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<South_Carolina_Comprehensive_Wildlife_Conservation_Strategy_2005_-_2010> <book.written_work.subjects> "South Carolina" .
+<United_States_of_America> <location.location.time_zones> "Eastern Time Zone" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks women's track and field" .
+<University_of_South_Carolina_Salkehatchie> <education.educational_institution.phone_number> "m.0j5vmb1" .
+<Columbia> <location.location.partially_contained_by> "m.0wg9d4n" .
+<m.0zvwm_v> <award.ranking.item> "University of South Carolina" .
+<m.0cnnntz> <common.topic.notable_types> "Location" .
+<m.0hhwgbf> <freebase.valuenotation.has_no_value> "Street Address 4" .
+<University_of_Essex_Online> <education.university.departments> "Business school" .
+<Columbia> <symbols.namesake.named_after> "Christopher Columbus" .
+<University_of_South_Carolina> <education.university.domestic_tuition> "m.0k7fm1r" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Sara Nuru" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.sport> "Basketball" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7f1ck" .
+<Taught_at> <type.property.expected_type> "College/University" .
+<Columbia_City_Paper> <book.newspaper.circulation_areas> "Columbia" .
+<Columbia> <location.citytown.postal_codes> "29212" .
+<Dokuz_Eylül_University> <organization.organization.organization_type> "Public university" .
+<University_of_South_Carolina> <business.employer.employees> "m.04hwy7j" .
+<Thomas_Cooper_Library> <base.schemastaging.scholastic_library.institution> "University of South Carolina" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.location> "Columbia" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks men's track and field" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Gemma Sanderson" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Supaksorn Chaimongkol" .
+<Riverbanks_Zoo> <location.location.containedby> "Columbia" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Jaslene Gonzalez" .
+<Wesleyan_College> <education.educational_institution_campus.educational_institution> "Wesleyan College" .
+<University_of_South_Carolina> <business.employer.employees> "m.04hlxxq" .
+<Mayuko_Iwasa> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Organization> <type.type.expected_by> "Organizations founded" .
+<Columbia_Metropolitan_Airport> <location.location.containedby> "Richland County" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0h40pyy" .
+<m.0cpl4c6> <education.education.institution> "University of South Carolina School of Law" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Eugenia Mandzhieva" .
+<Parent_Institution> <rdf-schema#range> "College/University" .
+<Colonial_Life_Arena> <location.location.containedby> "Columbia" .
+<m.0k9ntb6> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.03lnfn4> <common.webpage.topic> "Columbia" .
+<An_1872_illustration_of_the_Horseshoe,_USC's_original_campus> <common.image.appears_in_topic_gallery> "University of South Carolina" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Maricar Balagtas" .
+<29206> <location.postal_code.country> "United States of America" .
+<International_tuition> <rdf-schema#domain> "College/University" .
+<m.0h6_v_t> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<University_of_South_Carolina> <education.educational_institution_campus.educational_institution> "University of South Carolina" .
+<University_of_South_Carolina> <education.university.number_of_postgraduates> "m.0zvwqt0" .
+<College/University> <type.type.expected_by> "Medical School Affiliation" .
+<m.0h6_w2c> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<The_Daily_Gamecock> <common.topic.article> "m.0bft_r" .
+<Meisa_Kuroki> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<United_States_of_America> <location.country.currency_used> "United States Dollar" .
+<Columbia> <location.location.events> "1970 NCAA Men's Division I Basketball Tournament- East Regional Finals" .
+<University_of_South_Carolina> <education.university.domestic_tuition> "m.0zvwrg3" .
+<Aiken_Library> <base.schemastaging.scholastic_library.institution> "University of South Carolina" .
+<Columbia> <location.statistical_region.population> "g.11x1gyjf1" .
+<LoLa_Monroe> <people.person.nationality> "United States of America" .
+<Public_university> <organization.organization_type.organizations_of_this_type> "East Devon College" .
+<South_Carolina_Confederate_Relic_Room_and_Museum> <location.location.containedby> "South Carolina" .
+<m.09wv16s> <common.webpage.topic> "University of South Carolina" .
+<University_of_South_Carolina_Union> <education.university.number_of_undergraduates> "m.0h78g2p" .
+<University> <rdf-schema#range> "College/University" .
+<Richland_County> <location.location.partially_contains> "Columbia" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Muzammil Ibrahim" .
+<Allendale> <location.location.contains> "University of South Carolina Salkehatchie" .
+<South_Carolina_Gamecocks_football> <american_football.football_team.home_games> "The Chicken" .
+<m.0jvw4r3> <location.administrative_division_capital_relationship.administrative_division> "South Carolina" .
+<Sesquicentennial_State_Park> <travel.tourist_attraction.near_travel_destination> "Columbia" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0wly6qw" .
+<College/University> <type.type.expected_by> "Host" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7f24p" .
+<Headquarters> <type.property.schema> "Organization" .
+<University_of_South_Carolina_Beaufort> <organization.organization.parent> "m.0h__437" .
+<University_of_South_Carolina_Salkehatchie> <common.topic.article> "m.03c8g36" .
+<Moore_School_of_Business> <award.ranked_item.appears_in_ranked_lists> "m.0hl12sm" .
+<Fraternities_and_sororities> <rdf-schema#range> "Fraternity/Sorority" .
+<m.0h7xsx0> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Congaree_National_Park> <location.location.containedby> "Richland County" .
+<University_of_South_Carolina_Union> <location.location.containedby> "Union" .
+<Columbia> <travel.travel_destination.tourist_attractions> "Sumter National Forest" .
+<Black> <base.schemastaging.visual_color_extra.srgb> "m.010q1kvj" .
+<Mona_Lisa_Moon> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Isis King" .
+<m.0h6ylrr> <organization.leadership.role> "President" .
+<Angela_Yin> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Furman-South_Carolina_1974_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.losing_team> "South Carolina Gamecocks men's basketball" .
+<m.0h7xswv> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.012b_jb_" .
+<m.0w7f1ck> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<Public_university> <organization.organization_type.organizations_of_this_type> "Rhine-Waal University of Applied Sciences" .
+<South_Carolina_State_Museum> <location.location.containedby> "South Carolina" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Mona Lisa Moon" .
+<New_York_Times> <common.resource.annotations> "m.0422kz4" .
+<University_of_South_Carolina_Union> <education.educational_institution.phone_number> "m.0w01lmq" .
+<University_of_South_Carolina> <education.university.domestic_tuition> "m.0h6_w00" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0w5h7yf" .
+<m.0cnp390> <freebase.valuenotation.has_no_value> "Street Address 4" .
+<2009_Indie_Grits_Film_Festival> <time.event.locations> "Columbia" .
+<m.0w022pm> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Jaslene_Gonzalez> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<29292> <location.postal_code.country> "United States of America" .
+<Federal_Institute_of_Santa_Catarina> <education.educational_institution_campus.educational_institution> "Federal Institute of Santa Catarina" .
+<South_Carolina_Gamecocks_volleyball> <sports.sports_team.arena_stadium> "Volleyball Competition Center" .
+<University_of_South_Carolina_Union> <education.university.domestic_tuition> "m.0k7bkxv" .
+<m.0zvwrg3> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "g.11c3mqfrj0" .
+<University_of_South_Carolina_Beaufort> <location.location.containedby> "United States of America" .
+<Columbia> <location.hud_foreclosure_area.hhuniv> "m.07gxb5h" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Oluchi" .
+<Wesleyan_College> <location.location.containedby> "United States of America" .
+<The_Daily_Gamecock> <book.periodical.first_issue_date> "m.02npqbw" .
+<29217> <location.postal_code.country> "United States of America" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Mei-Yin Lloyd" .
+<Columbia> <sports.sports_team_location.teams> "South Carolina Gamecocks men's basketball" .
+<University_of_South_Carolina> <education.university.local_tuition> "m.0k7k4xm" .
+<Columbia> <location.statistical_region.population> "m.0jt7k7y" .
+<m.0_y7vhs> <award.award_honor.award> "Telly Award for Non-Broadcast Productions Film/Video - Nature/Wildlife" .
+<29215> <location.postal_code.country> "United States of America" .
+<City/Town/Village> <freebase.type_hints.included_types> "Location" .
+<Bre_Scullark> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0h6l84f> <award.ranking.list> "US News & World Report: National University Rankings" .
+<Universidade_Federal_do_Parana_4_Curitiba_Parana> <common.image.appears_in_topic_gallery> "Public university" .
+<University_of_South_Carolina_Salkehatchie> <organization.organization.headquarters> "m.0cnnvtl" .
+<Matthew_J._Bruccoli> <people.deceased_person.place_of_death> "Columbia" .
+<29209> <location.location.containedby> "Richland County" .
+<Black> <common.topic.notable_for> "g.1255vdxqf" .
+<Columbia> <location.location.events> "2010 Indie Grits Film Festival" .
+<Defunct_Organization> <freebase.type_hints.included_types> "Organization" .
+<29214> <location.postal_code.country> "United States of America" .
+<College/University> <freebase.type_profile.published> "Published" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.tournament_games_lost> "Richmond-South Carolina  1998 NCAA Men's Division I Basketball Tournament Game" .
+<South_Carolina_Gamecocks_volleyball> <sports.sports_team.location> "University of South Carolina" .
+<m.0hhwh3q> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<School_mascot> <freebase.type_profile.strict_included_types> "Topic" .
+<South_Carolina> <freebase.valuenotation.has_no_value> "Minimum wage" .
+<Organization_founder> <type.type.properties> "Organizations founded" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.tournament_games_lost> "Memphis-South Carolina 2004 NCAA Men's Division I Basketball Tournament Game" .
+<Organization> <freebase.type_profile.strict_included_types> "Agent" .
+<Jim_Hamilton–L.B._Owens_Airport> <aviation.airport.serves> "Columbia" .
+<University_of_South_Carolina_Salkehatchie> <education.university.domestic_tuition> "m.0h6_w1h" .
+<University_of_South_Carolina> <education.university.local_tuition> "m.0h6_v_t" .
+<Columbia> <periodicals.newspaper_circulation_area.newspapers> "Columbia Star" .
+<University_of_South_Carolina_Beaufort> <education.educational_institution_campus.educational_institution> "University of South Carolina Beaufort" .
+<Saleisha_Stowers> <people.person.nationality> "United States of America" .
+<m.03lzkrf> <common.webpage.category> "Official Website" .
+<Education> <type.domain.types> "Fraternity/Sorority" .
+<Elliott_White_Springs_Business_Library> <base.schemastaging.scholastic_library.institution> "University of South Carolina" .
+<Columbia> <location.statistical_region.population> "m.0jtmn39" .
+<Joshua_Holland> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0cnnntz> <freebase.valuenotation.is_reviewed> "Country" .
+<South_Carolina_Gamecocks_football> <american_football.football_team.conference> "Southeastern Conference" .
+<Moore_School_of_Business> <education.educational_institution.school_type> "Public university" .
+<m.0wg9d54> <location.partial_containment_relationship.partially_contained_by> "Richland County" .
+<29204> <location.location.containedby> "Richland County" .
+<University_of_South_Carolina> <freebase.valuenotation.has_value> "International tuition" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0j6gc2g" .
+<Medford_Library> <base.schemastaging.scholastic_library.institution> "University of South Carolina" .
+<Keller-hall3> <common.image.appears_in_topic_gallery> "Public university" .
+<Garnet> <common.topic.notable_types> "Color" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Saleisha Stowers" .
+<m.03l290l> <common.webpage.topic> "South Carolina Gamecocks football" .
+<29221> <location.postal_code.country> "United States of America" .
+<m.03lrp0b> <common.webpage.topic> "Alpha Delta Pi" .
+<South_Carolina_Gamecocks_softball> <common.topic.notable_types> "School sports team" .
+<South_Carolina_Gamecocks_men's_basketball> <common.topic.notable_for> "g.1258vqz_9" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks men's basketball" .
+<Columbia> <location.citytown.postal_codes> "29219" .
+<University_of_South_Carolina_Union> <common.topic.notable_types> "College/University" .
+<Black> <common.topic.article> "m.019sp" .
+<Coleman_Karesh_Law_Library> <base.schemastaging.scholastic_library.institution> "University of South Carolina" .
+<Cleveland_Sellers> <people.person.employment_history> "m.04hkhkz" .
+<University_of_South_Carolina> <education.university.domestic_tuition> "m.0k7k4b8" .
+<University_of_South_Carolina> <education.university.acceptance_rate> "m.0zvwsdl" .
+<College/University> <type.type.expected_by> "Academic Institution" .
+<m.0n0jvpg> <education.education.institution> "University of South Carolina School of Law" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Asia Nitollano" .
+<m.0bhffk6> <location.mailing_address.state_province_region> "South Carolina" .
+<College/University> <type.type.properties> "International tuition" .
+<College/University> <freebase.type_profile.strict_included_types> "Educational Institution" .
+<University_of_South_Carolina_Salkehatchie> <education.educational_institution.school_type> "Public university" .
+<m.0whj8dz> <education.education.institution> "University of South Carolina School of Law" .
+<University_of_South_Carolina_Beaufort> <common.topic.notable_types> "College/University" .
+<Black> <common.topic.notable_types> "Color" .
+<m.0w1hzht> <organization.leadership.organization> "University of South Carolina Union" .
+<Moore_School_of_Business> <common.topic.notable_for> "g.12599106j" .
+<29222> <location.postal_code.country> "United States of America" .
+<Russell_House_Ballroom> <common.topic.notable_types> "Location" .
+<Moore_School_of_Business> <location.location.containedby> "United States of America" .
+<Allendale> <location.location.containedby> "South Carolina" .
+<University_of_South_Carolina_Union> <education.educational_institution.faculty> "m.0k7bkzy" .
+<m.0hhwgbf> <common.topic.notable_types> "Location" .
+<Federal_Institute_of_Santa_Catarina> <organization.organization.organization_type> "Public university" .
+<Columbia> <location.location.events> "Villanova-Niagara 1970 NCAA Men's Division I Basketball Tournament Game" .
+<Richland_County> <location.location.containedby> "South Carolina" .
+<University_of_South_Carolina> <base.schemastaging.educational_institution_extra.libraries> "Medford Library" .
+<m.03lnyd2> <common.webpage.category> "Topic Webpage" .
+<Sumter_National_Forest> <travel.tourist_attraction.near_travel_destination> "Columbia" .
+<Columbia> <location.statistical_region.population> "g.11x1j34wb" .
+<m.0jvw4r3> <location.administrative_division_capital_relationship.capital> "Columbia" .
+<m.0vvglpf> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<USC_Upstate_Library> <base.schemastaging.scholastic_library.institution> "University of South Carolina" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.05z2kkx" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks volleyball" .
+<Columbia> <common.topic.image> "Skyline of Columbia" .
+<Public_university> <common.topic.image> "Universidade Federal do Parana 4 Curitiba Parana" .
+<South_Carolina> <freebase.valuenotation.is_reviewed> "Minimum wage" .
+<m.0cnp390> <common.topic.notable_types> "Location" .
+<Columbia> <location.statistical_region.population> "g.1jmcbhfnq" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0svz469" .
+<Ed_Madden> <people.person.employment_history> "m.04hngwj" .
+<South_Carolina_Gamecocks_women's_tennis> <sports.school_sports_team.athletics_brand> "South Carolina Gamecocks" .
+<29211> <location.postal_code.country> "United States of America" .
+<University_of_South_Carolina> <business.employer.employees> "m.04hrwt9" .
+<Organization> <freebase.type_hints.included_types> "Topic" .
+<David_R._Chesnutt> <people.person.employment_history> "m.0dzdf20" .
+<Vampire_Weekend_and_Kwame_Dawes_Sound_Off> <common.resource.annotations> "m.0b47djw" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7drmd" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0w5gtwd" .
+<Ed_Madden> <people.person.nationality> "United States of America" .
+<Area_code_803> <location.location.contains> "Columbia" .
+<Columbia_Metropolitan_Airport> <aviation.airport.serves> "Lexington County" .
+<m.040s1jm> <education.education.institution> "University of South Carolina School of Law" .
+<Heriot-Watt_University> <education.educational_institution.campuses> "Heriot-Watt University" .
+<Columbia> <location.hud_foreclosure_area.bls_unemployment_rate> "m.07gxb6l" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Kang Seung-hyun" .
+<m.03dmn2p> <venture_capital.venture_investment.investor> "University of South Carolina" .
+<Departments> <type.property.schema> "College/University" .
+<m.0n45vxm> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia> <location.location.events> "2014 Indie Grits Film Festival" .
+<Peta_Todd> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<East_Devon_College> <common.topic.notable_types> "College/University" .
+<Federal_Institute_of_Santa_Catarina> <education.educational_institution.campuses> "Federal Institute of Santa Catarina" .
+<South_Carolina_Gamecocks_men's_basketball> <common.topic.article> "m.03cqztx" .
+<School_newspaper> <type.type.domain> "Education" .
+<m.0wz2ylr> <sports.team_venue_relationship.venue> "Colonial Life Arena" .
+<Moran_Atias> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<South_Carolina_State_Museum> <travel.tourist_attraction.near_travel_destination> "Columbia" .
+<29210> <location.location.containedby> "Richland County" .
+<Asun_Ortega> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia> <location.location.time_zones> "Eastern Time Zone" .
+<29230> <location.postal_code.country> "United States of America" .
+<University_of_South_Carolina_Salkehatchie> <education.university.local_tuition> "m.0j6xh2f" .
+<Columbia> <common.topic.image> "Columbia" .
+<South_Carolina_Gamecocks_volleyball> <common.topic.article> "m.03cw4rj" .
+<University_of_South_Carolina> <business.employer.employees> "m.0123tvkr" .
+<m.0h7xst0> <organization.leadership.organization> "University of South Carolina School of Law" .
+<Columbia> <location.statistical_region.population> "m.0hm86x4" .
+<29228> <location.postal_code.country> "United States of America" .
+<Heriot-Watt_University> <organization.organization.organization_type> "Public university" .
+<m.09bwwdl> <base.ontologies.ontology_instance_mapping.freebase_topic> "Black" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.012c3llf" .
+<Headquarters> <rdf-schema#domain> "Organization" .
+<29260> <location.postal_code.country> "United States of America" .
+<South_Carolina_Gamecocks_women's_track_and_field> <common.topic.notable_types> "School sports team" .
+<South_Carolina> <location.location.containedby> "United States of America" .
+<Isis_King> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<University_of_South_Carolina> <business.employer.employees> "m.0134ksc0" .
+<Dokuz_Eylül_University> <education.educational_institution.school_type> "Public school" .
+<University_of_South_Carolina> <education.educational_institution.school_type> "Public university" .
+<m.0cnp390> <location.mailing_address.state_province_region> "South Carolina" .
+<29229> <location.postal_code.country> "United States of America" .
+<m.0bhffk6> <freebase.valuenotation.has_no_value> "Street Address 3" .
+<USC_Gould_School_of_Law> <education.educational_institution.campuses> "USC Gould School of Law" .
+<Chris_Tiu> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Fraternities_and_sororities> <owl#inverseOf> "Colleges and Universities" .
+<Medical_School_Affiliation> <type.property.expected_type> "College/University" .
+<Educational_Institution> <freebase.type_hints.included_types> "Organization" .
+<Columbia> <location.statistical_region.population> "m.0hm86w8" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Angelle Boucher" .
+<Columbia> <location.hud_foreclosure_area.estimated_number_foreclosures> "m.07gxb5q" .
+<University_of_South_Carolina_Salkehatchie> <education.educational_institution.campuses> "University of South Carolina Salkehatchie" .
+<m.0134ksc0> <business.employment_tenure.person> "Harris Pastides" .
+<m.0wl62l5> <education.education.institution> "Moore School of Business" .
+<St._Bonaventure-Villanova_1970_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1970 NCAA Men's Division I Basketball Tournament- East Regional Finals" .
+<University_of_South_Carolina_School_of_Law> <education.university.domestic_tuition> "m.0h7xswv" .
+<m.0110y1rh> <internet.localized_uri.language> "English" .
+<USC_Gould_School_of_Law> <common.topic.notable_types> "College/University" .
+<m.012n5m8y> <business.employment_tenure.person> "John Palms" .
+<Grendel_Alvarado> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Eta_Chapter_of_St._Anthony_Hall> <organization.organization.geographic_scope> "University of South Carolina" .
+<Alisha_Heng> <people.person.nationality> "United States of America" .
+<University_of_South_Carolina> <education.educational_institution.sports_teams> "South Carolina Gamecocks football" .
+<m.0hhwgbf> <location.mailing_address.country> "United States of America" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks Women's Golf" .
+<University_of_South_Carolina> <base.schemastaging.educational_institution_extra.libraries> "USC Music Library" .
+<Columbia> <location.statistical_region.population> "m.066c8gv" .
+<29207> <location.postal_code.country> "United States of America" .
+<School_newspaper> <freebase.type_profile.strict_included_types> "Topic" .
+<South_Carolina> <base.biblioness.bibs_location.country> "United States of America" .
+<m.0bhffk6> <common.topic.notable_types> "Location" .
+<St._Bonaventure-Villanova_1970_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Columbia" .
+<College/University> <freebase.type_hints.included_types> "Topic" .
+<Columbia> <location.statistical_region.population> "m.0hm86xc" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Joshua Holland" .
+<Cleveland_Sellers> <people.person.nationality> "United States of America" .
+<University_of_South_Carolina_Salkehatchie> <education.university.local_tuition> "m.0h6_w18" .
+<South_Carolina_Gamecocks_men's_basketball> <basketball.basketball_team.head_coach> "Frank Martin" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0n55bwx" .
+<m.0x0y54q> <education.education.institution> "University of South Carolina School of Law" .
+<m.0n12x25> <education.education.institution> "University of South Carolina School of Law" .
+<Quiana_Grant> <people.person.nationality> "United States of America" .
+<m.0w5l70c> <education.education.institution> "University of South Carolina School of Law" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks softball" .
+<m.04hx292> <business.employment_tenure.company> "University of South Carolina" .
+<Black> <base.schemastaging.context_name.pronunciation> "g.125_n5j1b" .
+<Columbia> <location.location.containedby> "South Carolina" .
+<Universities> <rdf-schema#range> "College/University" .
+<Skyline_of_Columbia> <common.image.appears_in_topic_gallery> "Columbia" .
+<School> <rdf-schema#range> "College/University" .
+<Columbia> <location.statistical_region.population> "g.1jmcbg793" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Neha Jhulka" .
+<m.0w3f82x> <education.education.institution> "Moore School of Business" .
+<University_of_South_Carolina_Union> <freebase.valuenotation.is_reviewed> "Headquarters" .
+<m.0w5gtwd> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia> <periodicals.newspaper_circulation_area.newspapers> "Columbia City Paper" .
+<Columbia> <common.topic.notable_for> "g.12596nvz5" .
+<Domestic_tuition> <type.property.expected_type> "Dated Money Value" .
+<University_of_South_Carolina> <award.ranked_item.appears_in_ranked_lists> "m.0zvwm_v" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Dee" .
+<m.03lzkrf> <common.webpage.resource> "m.0bkqr6w" .
+<University_of_South_Carolina_School_of_Law> <common.topic.webpage> "m.0bhgc6s" .
+<m.04yz7r1> <location.mailing_address.citytown> "Columbia" .
+<University_of_South_Carolina_School_of_Law> <common.topic.notable_for> "g.1255_5m6q" .
+<South_Carolina_Gamecocks> <base.marchmadness.ncaa_basketball_team.ncaa_tournament_seeds> "m.05dbrnm" .
+<m.03l3b0g> <common.webpage.category> "Official Website" .
+<Public_university> <organization.organization_type.organizations_of_this_type> "Heriot-Watt University" .
+<Columbia> <location.citytown.postal_codes> "29217" .
+<Columbia> <location.citytown.postal_codes> "29209" .
+<College/University> <type.type.expected_by> "University Affiliation" .
+<m.0h71pl3> <award.ranking.list> "US News & World Report: Top Public School Rankings" .
+<Columbia> <location.statistical_region.population> "m.0hm86xt" .
+<Hannelore_Knuts> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<University_of_South_Carolina_Salkehatchie> <education.university.domestic_tuition> "m.0k7rd4v" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Vanya Seager" .
+<Charo_Ronquillo> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<United_States_of_America> <location.country.administrative_divisions> "South Carolina" .
+<Educational_Institution> <freebase.type_profile.strict_included_types> "Agent" .
+<University_of_South_Carolina_School_of_Law> <organization.organization.leadership> "m.0h7xst0" .
+<Finlay_Park> <travel.tourist_attraction.near_travel_destination> "Columbia" .
+<Union> <location.location.time_zones> "Eastern Time Zone" .
+<Steve_Spurrier> <american_football.football_coach.current_team_head_coached> "South Carolina Gamecocks football" .
+<United_States,_with_Territories> <base.aareas.schema.earth.sovereign_domain.sovereign_state> "United States of America" .
+<Organization> <freebase.type_profile.published> "Published" .
+<m.0k7bkxv> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Congaree_National_Park> <location.location.containedby> "South Carolina" .
+<m.03lh80j> <common.webpage.category> "Official Website" .
+<University_of_South_Carolina_Cocky> <common.topic.notable_types> "School mascot" .
+<University_of_South_Carolina_Beaufort> <education.educational_institution.campuses> "University of South Carolina Beaufort" .
+<m.0w7d_nd> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<Defunct_Organization> <freebase.type_profile.strict_included_types> "Organization" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Ai Kato" .
+<Bianca_Gonzalez> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.05z2kkx> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<Columbia> <location.statistical_region.population> "m.066c8gn" .
+<White> <base.opposites.opposite.opposite> "m.06_7vg6" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0h414sn" .
+<Dokuz_Eylül_University> <education.educational_institution.campuses> "Dokuz Eylül University" .
+<University_of_South_Carolina_Beaufort> <education.educational_institution.colors> "Garnet" .
+<m.0k7ftyv> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Taina" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0svsyk4" .
+<Fraternities_and_sororities> <type.property.expected_type> "Fraternity/Sorority" .
+<m.0k8wqh1> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Quiana_Grant> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<m.0w5mjxn> <education.education.institution> "University of South Carolina School of Law" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7djx0" .
+<Rhine-Waal_University_of_Applied_Sciences> <common.topic.notable_types> "College/University" .
+<Location> <freebase.type_hints.included_types> "Topic" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0w5lzty" .
+<Villanova-Niagara_1970_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.tournament_round_instance> "1970 NCAA Men's Division I Basketball Tournament- East Regional Semifinals" .
+<Eau_Claire> <location.location.time_zones> "Eastern Time Zone" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.school_sports_team.athletics_brand> "South Carolina Gamecocks" .
+<University_of_South_Carolina_Salkehatchie> <education.university.number_of_undergraduates> "m.0h789hx" .
+<Omahyra_Mota> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<South_Carolina_Gamecocks_football> <sports.school_sports_team.school> "University of South Carolina" .
+<University> <type.property.expected_type> "College/University" .
+<Columbia> <common.topic.webpage> "m.0b48cw3" .
+<Muthu_Tharanga> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0w7d9_h> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<College/University> <type.type.expected_by> "Colleges and Universities" .
+<Lexington_County> <location.administrative_division.second_level_division_of> "United States of America" .
+<Founding_school> <type.property.schema> "Fraternity/Sorority" .
+<South_Carolina> <location.administrative_division.capital> "m.0jvw4r3" .
+<USC_Music_Library> <base.schemastaging.scholastic_library.institution> "University of South Carolina" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Muzammil Ibrahim" .
+<m.0j6gc2g> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia> <location.place_with_neighborhoods.neighborhoods> "Elmwood Park" .
+<Coppin_St-South_Carolina_1997_NCAA_Men's_Division_I___Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.losing_team> "South Carolina Gamecocks men's basketball" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Atom Araullo" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0zwjb_x" .
+<m.04hlxxq> <business.employment_tenure.company> "University of South Carolina" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7d9_h" .
+<m.0zwjb_x> <education.education.institution> "University of South Carolina School of Law" .
+<Ai_Kato> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia_Museum_of_Art> <location.location.containedby> "Columbia" .
+<m.0dwk7jn> <education.education.institution> "University of South Carolina School of Law" .
+<School_mascot> <type.type.domain> "Education" .
+<m.0wk56p8> <education.education.institution> "University of South Carolina School of Law" .
+<South_Carolina_Gamecocks_Women's_Basketball_Team> <sports.sports_team.colors> "Black" .
+<Columbia> <location.citytown.postal_codes> "29215" .
+<South_Carolina_Gamecocks_women's_track_and_field> <sports.school_sports_team.athletics_brand> "South Carolina Gamecocks" .
+<m.0svv90r> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia> <location.citytown.postal_codes> "29250" .
+<Congaree_Vista> <location.location.containedby> "Columbia" .
+<Columbia> <sports.sports_team_location.teams> "Columbia Inferno" .
+<Columbia> <location.citytown.postal_codes> "29218" .
+<Anne_Watanabe> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Founding_school> <type.property.expected_type> "College/University" .
+<Columbia> <location.statistical_region.population> "g.11x1gyjf0" .
+<University_of_South_Carolina_Union> <location.location.geolocation> "m.0jqqym3" .
+<South_Carolina_Confederate_Relic_Room_and_Museum> <travel.tourist_attraction.near_travel_destination> "Columbia" .
+<Trixie_Chua> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Harris_Pastides> <people.person.nationality> "United States of America" .
+<University_of_South_Carolina_Union> <education.university.domestic_tuition> "m.0w0231b" .
+<m.0422kz4> <common.webpage.resource> "New York Times" .
+<University_of_South_Carolina_School_of_Law> <organization.organization.headquarters> "m.0bhffk6" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Anne Watanabe" .
+<South_Carolina_Gamecocks_Women's_Basketball_Team> <basketball.basketball_team.conference> "Southeastern Conference" .
+<Columbia> <location.statistical_region.population> "m.0hm86_l" .
+<Richland_County> <location.us_county.hud_county_place> "Columbia" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Sara Nuru" .
+<Columbia> <base.wikipedia_infobox.settlement.area_code> "Area code 803" .
+<Columbia> <location.statistical_region.population> "g.11b674j3bp" .
+<Eta_Chapter_of_St._Anthony_Hall> <common.topic.article> "m.04kjftk" .
+<East_Devon_College> <education.educational_institution.campuses> "East Devon College" .
+<Eau_Claire> <location.neighborhood.neighborhood_of> "Columbia" .
+<Padma_Lakshmi> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Black> <base.schemastaging.visual_color_extra.cmyk> "m.010q1kzf" .
+<Columbia> <location.statistical_region.population> "m.0hm86_2" .
+<m.0wz2ylr> <sports.team_venue_relationship.team> "South Carolina Gamecocks men's basketball" .
+<Location> <freebase.type_profile.published> "Published" .
+<m.0cnp390> <location.mailing_address.postal_code> "29208" .
+<University_of_South_Carolina> <base.schemastaging.educational_institution_extra.libraries> "Thomas Cooper Library" .
+<University_of_South_Carolina> <education.educational_institution.faculty> "m.0k7qszk" .
+<Columbia> <location.citytown.postal_codes> "29205" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0gh9z2t" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.tournament_games_won> "South Carolina-Texas Tech 1973 NCAA Men's Division I Basketball Tournament Game" .
+<University_of_South_Carolina_Cocky> <education.school_mascot.school> "University of South Carolina" .
+<University_of_South_Carolina> <education.university.number_of_postgraduates> "m.0h6l803" .
+<Black> <business.product_category.products> "Jet Faux Leather (D8479)" .
+<m.0cnnvtl> <location.mailing_address.citytown> "Allendale" .
+<Organizations_founded> <type.property.expected_type> "Organization" .
+<m.0cccz7_> <common.topic.notable_types> "Location" .
+<University_of_South_Carolina_Union> <education.educational_institution.parent_institution> "University of South Carolina" .
+<North_Carolina-South_Carolina_1972_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.losing_team> "South Carolina Gamecocks men's basketball" .
+<m.0h6_w24> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<Columbia> <location.location.nearby_airports> "Jim Hamilton–L.B. Owens Airport" .
+<Elizabeth_Jagger> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<University_of_South_Carolina> <education.university.domestic_tuition> "m.0k8wqh1" .
+<29201> <location.location.containedby> "Richland County" .
+<College> <freebase.equivalent_topic.equivalent_type> "College/University" .
+<m.04mbkcp> <common.webpage.category> "Official Website" .
+<m.0cnnvtl> <freebase.valuenotation.has_no_value> "Street Address 3" .
+<m.0w7f24p> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<Columbia> <location.citytown.postal_codes> "29221" .
+<Public_university> <organization.organization_type.organizations_of_this_type> "Northumbria University London" .
+<m.0cnnntz> <freebase.valuenotation.is_reviewed> "Postal Code" .
+<Black> <base.schemastaging.visual_color_extra.hsv> "m.010q1kxk" .
+<Columbia> <location.location.events> "1970 NCAA Men's Division I Basketball Tournament- East Regional Semifinals" .
+<University_of_South_Carolina> <organization.organization.child> "m.0h__437" .
+<Columbia> <location.citytown.postal_codes> "29214" .
+<Black> <base.fashionmodels.eye_color.fashion_models_with_this_eye_color> "Jessica White" .
+<Area_code_803> <location.location.containedby> "South Carolina" .
+<South_Carolina> <base.aareas.schema.administrative_area.capital> "Columbia" .
+<Columbia> <location.statistical_region.population> "g.11x1ddscb" .
+<South_Carolina> <location.administrative_division.country> "United States of America" .
+<Columbia> <government.governmental_jurisdiction.governing_officials> "m.0101fkmv" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0_yyjxk" .
+<University_of_South_Carolina> <base.schemastaging.educational_institution_extra.libraries> "Aiken Library" .
+<Moore_School_of_Business> <organization.endowed_organization.endowment> "m.0hhwgp4" .
+<Columbia> <location.citytown.postal_codes> "29240" .
+<Best_Overall> <rdf-schema#range> "College/University" .
+<Anthony_French> <people.person.employment_history> "m.02kq4s_" .
+<Columbia> <periodicals.newspaper_circulation_area.newspapers> "The Daily Gamecock" .
+<University_of_South_Carolina> <organization.endowed_organization.endowment> "m.0zw2d7l" .
+<Columbia> <location.statistical_region.population> "g.11x1jh29y" .
+<m.0zvwm_v> <award.ranking.list> "US News & World Report: Top Public School Rankings" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0cpl4c6" .
+<m.0cnnvtl> <location.mailing_address.country> "United States of America" .
+<St._Bonaventure-NC_State_1970_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Columbia" .
+<Moore_School_of_Business> <education.educational_institution.mascot> "Gamecock" .
+<Stanford-South_Carolina_2000_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.losing_team> "South Carolina Gamecocks men's basketball" .
+<Acceptance_rate> <type.property.schema> "College/University" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Grendel Alvarado" .
+<Southeastern_Conference> <basketball.basketball_conference.teams> "South Carolina Gamecocks Women's Basketball Team" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0n45vxm" .
+<University_of_South_Carolina_School_of_Law,_main_campus> <location.location.containedby> "United States of America" .
+<Columbia> <location.statistical_region.population> "g.11x1dpnsh" .
+<University_of_South_Carolina> <common.topic.webpage> "m.0422kz4" .
+<Ropa_Garise> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia_City_Paper> <book.newspaper.circulation_areas> "Richland County" .
+<Azure> <common.topic.notable_types> "Color" .
+<m.0wlm_5r> <education.education.institution> "University of South Carolina School of Law" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Trixie Chua" .
+<Alpha_Delta_Pi> <common.topic.notable_types> "Fraternity/Sorority" .
+<m.0zw2dgr> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<29201> <location.postal_code.country> "United States of America" .
+<Linor_Abargil> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<University_of_South_Carolina> <organization.endowed_organization.endowment> "m.0zw2d3m" .
+<University_of_South_Carolina> <award.ranked_item.appears_in_ranked_lists> "m.0h6l84f" .
+<University_of_South_Carolina> <location.location.containedby> "United States of America" .
+<m.0bhgc6s> <common.webpage.topic> "University of South Carolina School of Law" .
+<Universities> <type.property.expected_type> "College/University" .
+<Columbia> <location.statistical_region.population> "g.11x1flkj3" .
+<University_of_South_Carolina_Salkehatchie> <education.educational_institution.colors> "Garnet" .
+<Columbia> <location.statistical_region.population> "m.0hm86z1" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7f4vk" .
+<m.0dzgfws> <business.employment_tenure.person> "Peggy J. Clark" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.total_enrollment> "m.0h7xsvr" .
+<University_of_South_Carolina_Salkehatchie> <education.educational_institution.faculty> "m.0k7fvfs" .
+<Doctorate_Degree_From> <rdf-schema#range> "College/University" .
+<University_of_South_Carolina_Salkehatchie> <location.location.containedby> "South Carolina" .
+<City/Town> <rdf-schema#range> "Location" .
+<m.0cnp390> <location.mailing_address.citytown> "Columbia" .
+<m.0pb8z27> <education.education.institution> "University of South Carolina School of Law" .
+<Richmond-South_Carolina__1998_NCAA_Men's_Division_I_Basketball_Tournament_Game> <base.marchmadness.ncaa_basketball_tournament_game.losing_team> "South Carolina Gamecocks men's basketball" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0gb1kg0" .
+<Villanova-Niagara_1970_NCAA_Men's_Division_I_Basketball_Tournament_Game> <time.event.locations> "Columbia" .
+<United_States_of_America> <base.biblioness.bibs_topic.is_really> "United States of America" .
+<United_States_Dollar> <base.coinsdaily.coin_type.country> "United States of America" .
+<Domestic_tuition> <rdf-schema#domain> "College/University" .
+<m.0hhwh2z> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<University_of_South_Carolina_Salkehatchie> <education.educational_institution.phone_number> "m.0j5vm9x" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0ztt_f8" .
+<Columbia> <location.statistical_region.population> "m.0hm86_b" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7cx2x" .
+<City/Town/Village> <freebase.type_profile.published> "Published" .
+<Matika_Arthakornsiripho> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<College/University> <type.type.expected_by> "Parent Institution" .
+<m.0ztt_f8> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia> <location.location.nearby_airports> "Columbia Metropolitan Airport" .
+<United_States,_with_Territories> <base.aareas.schema.administrative_area.administrative_children> "United States of America" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0n1m24g" .
+<University_of_South_Carolina> <education.educational_institution.subsidiary_or_constituent_schools> "University of South Carolina Salkehatchie" .
+<John_Palms> <people.person.employment_history> "m.012n5m8y" .
+<m.0cnnvtl> <freebase.valuenotation.has_no_value> "Street Address 4" .
+<m.09wv16s> <common.webpage.resource> "Michael Phelps to Matt Lauer: 'It was an awful judgment'" .
+<Columbia> <location.statistical_region.population> "m.066c8g2" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Ajuma Nasenyana" .
+<University_of_South_Carolina> <base.schemastaging.educational_institution_extra.libraries> "USC School of Medicine Library" .
+<Departments> <type.property.master_property> "Institution" .
+<Columbia> <location.statistical_region.population> "m.0hm86y8" .
+<m.0cnp390> <freebase.valuenotation.has_no_value> "Street Address 3" .
+<University_of_South_Carolina> <education.educational_institution.mascot> "University of South Carolina Cocky" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0dwk7jn" .
+<Organization> <freebase.type_profile.strict_included_types> "Topic" .
+<United_States_of_America> <location.location.containedby> "United States, with Territories" .
+<Columbia> <location.citytown.postal_codes> "29220" .
+<Columbia> <common.topic.article> "m.0fw02" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.09vkqfk" .
+<University_of_South_Carolina_Salkehatchie> <common.topic.webpage> "m.03l3b0g" .
+<29219> <location.postal_code.country> "United States of America" .
+<University_of_South_Carolina> <business.employer.employees> "m.04hx292" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7dl68" .
+<m.0gb1kg0> <education.education.institution> "University of South Carolina School of Law" .
+<Alpha_Delta_Pi> <common.topic.article> "m.0325ph" .
+<m.0n1m13s> <education.education.institution> "University of South Carolina School of Law" .
+<University_of_South_Carolina> <base.schemastaging.organization_extra.contact_webpages> "m.0110y1rh" .
+<Colleges_and_Universities> <type.property.master_property> "Fraternities and sororities" .
+<University_of_South_Carolina> <education.university.local_tuition> "m.0k7flgx" .
+<m.0b47djw> <common.webpage.in_index> "WSJ Speakeasy Index" .
+<Number_of_doctoral_candidates> <type.property.schema> "College/University" .
+<USC_School_of_Medicine_Library> <base.schemastaging.scholastic_library.institution> "USC School of Medicine" .
+<m.0n0rxtp> <education.education.institution> "University of South Carolina School of Law" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.tournament_games_lost> "Stanford-South Carolina 2000 NCAA Men's Division I Basketball Tournament Game" .
+<East_Devon_College> <organization.organization.organization_type> "Public university" .
+<m.0fpsn06> <common.webpage.topic> "South Carolina Gamecocks" .
+<The_Chicken> <american_football.football_game.home_team> "South Carolina Gamecocks football" .
+<Samantha_Downie> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<m.0wz25y_> <sports.team_venue_relationship.team> "South Carolina Gamecocks volleyball" .
+<International_tuition> <rdf-schema#range> "Dated Money Value" .
+<1970_NCAA_Men's_Division_I_Basketball_Tournament-_East_Regional_Finals> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1970 NCAA Men's Division I Basketball Tournament" .
+<m.010pnqpd> <education.education.institution> "University of South Carolina School of Law" .
+<m.0zn7slt> <sports.sports_team_coach_tenure.team> "South Carolina Gamecocks football" .
+<South_Carolina_Gamecocks_men's_track_and_field> <common.topic.notable_types> "School sports team" .
+<University_of_South_Carolina> <organization.organization.headquarters> "m.0cnnntz" .
+<South_Carolina_Gamecocks_Women's_Basketball_Team> <sports.sports_team.location> "Columbia" .
+<Kang_Seung-hyun> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia> <location.statistical_region.population> "m.0hm86y1" .
+<m.0n1mxqy> <education.education.institution> "University of South Carolina School of Law" .
+<m.0h6ylrr> <freebase.valuenotation.has_no_value> "To" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Linor Abargil" .
+<Columbia> <location.statistical_region.population> "m.0hm86wy" .
+<Lexington_County> <location.location.containedby> "South Carolina" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Hannelore Knuts" .
+<m.05hjf33> <base.marchmadness.ncaa_tournament_seed.team> "South Carolina Gamecocks men's basketball" .
+<m.0_y7vhs> <award.award_honor.honored_for> "Common Ground The Story of the ACE Basin" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Aída Yéspica" .
+<Columbia> <location.location.partially_containedby> "Richland County" .
+<South_Carolina_Gamecocks_women's_tennis> <common.topic.notable_types> "School sports team" .
+<The_Daily_Gamecock> <book.periodical.frequency_or_issues_per_year> "m.077040m" .
+<United_States_of_America> <location.administrative_division.first_level_division_of> "United States, with Territories" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0wlm_5r" .
+<Alisha_Heng> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia> <location.place_with_neighborhoods.neighborhoods> "Arsenal Hill" .
+<m.0w7djx0> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<College/University> <type.type.expected_by> "Doctorate Degree From" .
+<Public_university> <common.topic.article> "m.05jxkm" .
+<University_of_South_Carolina> <location.location.contains> "Russell House Ballroom" .
+<m.0cnnvtl> <location.mailing_address.state_province_region> "South Carolina" .
+<University_of_South_Carolina_Salkehatchie> <common.topic.image> "Map of the Salkehatchie region with original counties in red and later counties in pink" .
+<m.0hcg0jk> <business.employment_tenure.company> "Moore School of Business" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0whwwb6" .
+<Lexington_County> <location.location.time_zones> "Eastern Time Zone" .
+<USC_Gould_School_of_Law> <education.educational_institution_campus.educational_institution> "USC Gould School of Law" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Ropa Garise" .
+<Columbia> <location.statistical_region.population> "g.12vqhyycb" .
+<University_of_South_Carolina_Union> <education.university.local_tuition> "m.0w022pm" .
+<Colleges_and_Universities> <rdf-schema#range> "College/University" .
+<29223> <location.location.containedby> "Richland County" .
+<Northumbria_University_London> <education.educational_institution.school_type> "Public university" .
+<University_of_South_Carolina_Cocky> <common.topic.notable_for> "g.1257vtz52" .
+<Columbia> <location.hud_foreclosure_area.estimated_number_of_mortgages> "m.07gxb5y" .
+<Moore_School_of_Business> <organization.organization.headquarters> "m.0hhwgbf" .
+<Moore_School_of_Business> <organization.organization.leadership> "m.0hhwgmq" .
+<Local_tuition> <type.property.schema> "College/University" .
+<Columbia> <location.statistical_region.population> "g.11x1lxvh0" .
+<University_of_South_Carolina> <common.topic.notable_types> "College/University" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.ncaa_tournament_seeds> "m.05c_617" .
+<m.02np8fs> <book.periodical_format_period.periodical> "The Daily Gamecock" .
+<m.0h7tqwd> <education.education.institution> "University of South Carolina School of Law" .
+<United_States_of_America> <base.aareas.schema.administrative_area.administrative_children> "South Carolina" .
+<American_football_team> <freebase.type_profile.published> "Published" .
+<m.0w7dl68> <sports.sports_team_roster.team> "South Carolina Gamecocks men's basketball" .
+<m.0422kz4> <common.webpage.category> "Topic Webpage" .
+<The_Daily_Gamecock> <book.newspaper.owner> "University of South Carolina" .
+<University_of_South_Carolina_Union> <freebase.valuenotation.has_no_value> "Number of postgraduates" .
+<University_of_South_Carolina_Union> <education.educational_institution.campuses> "University of South Carolina Union" .
+<Columbia> <location.statistical_region.population> "g.11x1lz79s" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0pb8z27" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0n0z56p" .
+<South_Carolina_Gamecocks_volleyball> <sports.school_sports_team.athletics_brand> "South Carolina Gamecocks" .
+<Alpha_Delta_Pi> <common.topic.notable_for> "g.125dr6f4z" .
+<Black> <base.ontologies.ontology_instance.equivalent_instances> "m.09bwwdl" .
+<Organizations_founded> <rdf-schema#domain> "Organization founder" .
+<Columbia> <location.location.events> "2011 Indie Grits Film Festival" .
+<International_tuition> <type.property.schema> "College/University" .
+<University_of_South_Carolina> <education.educational_institution.sports_teams> "South Carolina Gamecocks men's basketball" .
+<South_Carolina_Gamecocks> <common.topic.webpage> "m.0fpsn06" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.phone_number> "m.0h7xsmf" .
+<School_newspaper> <freebase.type_profile.published> "Published" .
+<2008_Indie_Grits_Film_Festival> <time.event.locations> "Columbia" .
+<m.0hhwgmq> <organization.leadership.organization> "Moore School of Business" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Lorena Bernal" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0vvglpf" .
+<Founders> <type.property.reverse_property> "Organizations founded" .
+<College/University> <type.type.expected_by> "Institution" .
+<College/University> <freebase.type_profile.kind> "Definition" .
+<m.0bkqr6w> <common.resource.annotations> "m.03lzkrf" .
+<m.05c_617> <base.marchmadness.ncaa_tournament_seed.team> "South Carolina Gamecocks men's basketball" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.venue> "m.0wz2ylr" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0p7czly" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Karla Henry" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7d_nd" .
+<1970_NCAA_Men's_Division_I_Basketball_Tournament-_East_Regional_Finals> <time.event.locations> "Columbia" .
+<The_Daily_Gamecock> <book.newspaper.circulation_areas> "Columbia" .
+<Columbia> <location.citytown.postal_codes> "29207" .
+<Lexington_County> <location.location.nearby_airports> "Columbia Metropolitan Airport" .
+<Columbia> <location.citytown.postal_codes> "29206" .
+<29212> <location.postal_code.country> "United States of America" .
+<m.0j5vmd1> <organization.leadership.organization> "University of South Carolina Salkehatchie" .
+<University_of_South_Carolina_School_of_Law> <organization.endowed_organization.endowment> "m.0h7xsm1" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.tournament_games_lost> "Pennsylvania-South Carolina 1971 NCAA Men's Division I Basketball Tournament Game" .
+<University_of_South_Carolina> <education.educational_institution.subsidiary_or_constituent_schools> "Moore School of Business" .
+<Topic> <freebase.type_profile.published> "Published" .
+<m.05h16zg> <base.marchmadness.ncaa_tournament_seed.team> "South Carolina Gamecocks men's basketball" .
+<m.0123tvkr> <business.employment_tenure.company> "University of South Carolina" .
+<m.0n1m24g> <education.education.institution> "University of South Carolina School of Law" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Bre Scullark" .
+<South_Carolina_Gamecocks_men's_soccer> <sports.school_sports_team.athletics_brand> "South Carolina Gamecocks" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks men's soccer" .
+<College/University> <type.type.properties> "Fraternities and sororities" .
+<Sara_Nuru> <base.fashionmodels.fashion_model.eye_color> "Black" .
+<Federal_Institute_of_Santa_Catarina> <freebase.valuenotation.is_reviewed> "Headquarters" .
+<m.0bhffk6> <freebase.valuenotation.has_no_value> "Street Address 4" .
+<College/University> <common.topic.article> "m.021y5v6" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0h7tqwd" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0wj53f9" .
+<University_of_South_Carolina_Union> <organization.organization.leadership> "m.0w1hzht" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.tournament_games_lost> "Coppin St-South Carolina 1997 NCAA Men's Division I   Basketball Tournament Game" .
+<Columbia> <location.citytown.postal_codes> "29222" .
+<EdVenture> <travel.tourist_attraction.near_travel_destination> "Columbia" .
+<m.0dh5nk1> <education.education.institution> "University of South Carolina School of Law" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.school_type> "Public university" .
+<Elmwood_Park> <location.location.containedby> "Columbia" .
+<University_of_South_Carolina> <organization.endowed_organization.endowment> "m.0h6l835" .
+<m.04yz7r1> <common.topic.notable_types> "Location" .
+<University_of_South_Carolina_Union> <common.topic.webpage> "m.0jqqb5g" .
+<South_Carolina_Confederate_Relic_Room_and_Museum> <location.location.containedby> "Columbia" .
+<m.0hvqy6z> <education.education.institution> "University of South Carolina School of Law" .
+<Columbia_Inferno> <sports.sports_team.location> "Columbia" .
+<Federal_Institute_of_Santa_Catarina> <education.educational_institution.school_type> "Public university" .
+<Jaslene_Gonzalez> <people.person.nationality> "United States of America" .
+<Columbia> <location.citytown.postal_codes> "29228" .
+<29207> <location.location.containedby> "Richland County" .
+<University_of_South_Carolina_Union> <organization.organization.headquarters> "m.0cnp390" .
+<m.0svz469> <education.education.institution> "University of South Carolina School of Law" .
+<University_of_South_Carolina> <sports.sports_team_location.teams> "South Carolina Gamecocks volleyball" .
+<m.04yz7r1> <location.mailing_address.state_province_region> "South Carolina" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.colors> "Black" .
+<Columbia> <location.location.events> "2013 Indie Grits Film Festival" .
+<School_mascot> <freebase.type_hints.included_types> "Topic" .
+<m.0jvvvwh> <location.administrative_division_capital_relationship.capital> "Columbia" .
+<US_News_&_World_Report:_Top_Public_School_Rankings> <award.ranked_list.ranked_list_items> "m.0h71pl3" .
+<United_States_of_America> <location.country.first_level_divisions> "South Carolina" .
+<Federal_Institute_of_Santa_Catarina> <common.topic.notable_types> "College/University" .
+<South_Carolina> <base.aareas.schema.administrative_area.administrative_parent> "United States of America" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Micaela Reis" .
+<Columbia_Metropolitan_Airport> <location.location.containedby> "Lexington County" .
+<Elmwood_Park> <location.neighborhood.neighborhood_of> "Columbia" .
+<School_sports_team> <freebase.type_profile.kind> "Definition" .
+<University_of_South_Carolina_Union> <education.university.domestic_tuition> "m.0h6_w2c" .
+<University_of_Essex_Online> <organization.organization.organization_type> "Public university" .
+<South_Carolina> <organization.organization_scope.organizations_with_this_scope> "South Carolina Highway Patrol" .
+<Public_university> <common.topic.image> "Keller-hall3" .
+<Moore_School_of_Business> <education.university.number_of_postgraduates> "m.0hhwhfs" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Moran Atias" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.tournament_games_lost> "NC State-South Carolina 1989 NCAA Men's Division I Basketball Tournament Game" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.colors> "Garnet" .
+<1970_NCAA_Men's_Division_I_Basketball_Tournament-_East_Regional_Semifinals> <time.event.locations> "Columbia" .
+<Garnet> <common.topic.notable_for> "g.1yl5w8w1q" .
+<Number_of_undergraduates> <type.property.schema> "College/University" .
+<South_Carolina_Gamecocks> <education.athletics_brand.teams> "South Carolina Gamecocks men's tennis" .
+<Katie_Price> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Angela Yin" .
+<Columbia> <location.citytown.postal_codes> "29229" .
+<Eta_Chapter_of_St._Anthony_Hall> <common.topic.notable_types> "Defunct Organization" .
+<Organization> <type.type.properties> "Headquarters" .
+<University_of_South_Carolina> <education.university.number_of_undergraduates> "m.0k7fltp" .
+<Columbia> <travel.travel_destination.tourist_attractions> "Frankie's Fun Park" .
+<m.0cnnntz> <freebase.valuenotation.is_reviewed> "City/Town" .
+<1970_NCAA_Men's_Division_I_Basketball_Tournament-_East_Regional_Semifinals> <base.marchmadness.ncaa_basketball_tournament_stage.games> "Villanova-Niagara 1970 NCAA Men's Division I Basketball Tournament Game" .
+<Black> <common.topic.image> "Cat Russian Blue 004" .
+<College/University> <type.type.expected_by> "School" .
+<m.07sk_ty> <common.webpage.topic> "Moore School of Business" .
+<Columbia> <location.statistical_region.population> "g.11x1fr99b" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.011clh9l" .
+<College/University> <type.type.expected_by> "Universities" .
+<Damien_Colletti> <people.person.nationality> "United States of America" .
+<Columbia> <location.citytown.postal_codes> "29260" .
+<Lexington_County_Blowfish> <sports.sports_team.location> "Columbia" .
+<Allendale> <location.hud_county_place.place> "Allendale" .
+<m.0cnnntz> <location.mailing_address.country> "United States of America" .
+<Defunct_Organization> <freebase.type_hints.included_types> "Topic" .
+<South_Carolina_Gamecocks_football> <sports.sports_team.venue> "m.0z930mj" .
+<Black> <business.product_category.products> "Ebony Faux Leather (D8543)" .
+<School_category> <type.type.domain> "Education" .
+<Columbia> <location.location.events> "2009 Indie Grits Film Festival" .
+<McKey_Sullivan> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Columbia> <location.statistical_region.population> "g.11x1fdlfh" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0n0rxtp" .
+<United_States_of_America> <base.biblioness.bibs_topic.subsumes> "United States of America" .
+<South_Carolina_Gamecocks_volleyball> <sports.sports_team.venue> "m.0wz25y_" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Muthu Tharanga" .
+<1970_NCAA_Men's_Division_I_Basketball_Tournament> <base.marchmadness.ncaa_basketball_tournament.stages> "1970 NCAA Men's Division I Basketball Tournament- East Regional Semifinals" .
+<m.0wj53f9> <education.education.institution> "University of South Carolina School of Law" .
+<Moore_School_of_Business> <education.educational_institution.parent_institution> "University of South Carolina" .
+<Black> <base.fashionmodels.hair_color.fashion_models_with_this_hair_color> "Iman Abdulmajid" .
+<Moe_Oshikiri> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Iman_Abdulmajid> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<University_of_South_Carolina_Salkehatchie> <education.university.local_tuition> "m.0k7k9wr" .
+<Rhine-Waal_University_of_Applied_Sciences> <education.educational_institution.school_type> "Public university" .
+<Columbia> <location.statistical_region.population> "m.066c8fq" .
+<South_Carolina_Gamecocks> <common.topic.webpage> "m.04mbkcp" .
+<Fraternities_and_sororities> <type.property.reverse_property> "Colleges and Universities" .
+<School_mascot> <freebase.type_profile.published> "Published" .
+<Yuri_Ebihara> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Colonial_Life_Arena> <sports.sports_facility.teams> "South Carolina Gamecocks men's basketball" .
+<James_Dickey> <people.person.employment_history> "m.04hx292" .
+<University_of_South_Carolina_Union> <education.university.local_tuition> "m.0kdpxrj" .
+<Matthew_J._Bruccoli> <people.person.nationality> "United States of America" .
+<South_Carolina_Gamecocks_football> <sports.sports_team.colors> "Garnet" .
+<Padma_Lakshmi> <people.person.nationality> "United States of America" .
+<East_Devon_College> <education.educational_institution_campus.educational_institution> "East Devon College" .
+<Parent_Institution> <type.property.expected_type> "College/University" .
+<College/University> <type.type.properties> "Number of postgraduates" .
+<m.0w0231b> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<m.0z9snwh> <education.education.institution> "University of South Carolina School of Law" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0wk56p8" .
+<m.0h42b5p> <education.education.institution> "University of South Carolina School of Law" .
+<University_of_South_Carolina_Salkehatchie> <education.educational_institution.total_enrollment> "m.0j6xnr5" .
+<University_of_South_Carolina_Union> <education.university.local_tuition> "m.0h6_w24" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.ncaa_tournament_seeds> "m.05gnz7l" .
+<29212> <location.location.containedby> "Lexington County" .
+<United_States_of_America> <base.aareas.schema.administrative_area.subdivides_place> "United States, with Territories" .
+<William_Porcher_Miles> <people.person.employment_history> "m.04hrwt9" .
+<Columbia> <location.statistical_region.population> "g.1jmcbhfnp" .
+<Columbia> <location.citytown.postal_codes> "29290" .
+<University_of_South_Carolina_School_of_Law> <freebase.valuenotation.is_reviewed> "Headquarters" .
+<Columbia> <location.statistical_region.population> "m.0hm86wq" .
+<Wesleyan_College> <common.topic.notable_types> "College/University" .
+<Columbia> <location.citytown.postal_codes> "29211" .
+<m.0k7k4b8> <measurement_unit.dated_money_value.currency> "United States Dollar" .
+<University_of_South_Carolina_Union> <education.educational_institution_campus.educational_institution> "University of South Carolina Union" .
+<University_of_South_Carolina> <location.location.containedby> "South Carolina" .
+<Columbia> <travel.travel_destination.tourist_attractions> "Finlay Park" .
+<South_Carolina> <base.litcentral.focal_location.conservation_plan_s> "South Carolina Comprehensive Wildlife Conservation Strategy 2005 - 2010" .
+<Darla_Moore> <people.person.nationality> "United States of America" .
+<South_Carolina_Gamecocks_men's_basketball> <base.marchmadness.ncaa_basketball_team.ncaa_tournament_seeds> "m.05k6b8c" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0n0tjmp" .
+<Columbia> <travel.travel_destination.tourist_attractions> "Columbia Museum of Art" .
+<m.0134ksc0> <business.employment_tenure.company> "University of South Carolina" .
+<Harmony_Boucher> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Congaree_Vista> <location.neighborhood.neighborhood_of> "Columbia" .
+<Mao_Kobayashi> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0w5mjxn" .
+<29208> <location.postal_code.country> "United States of America" .
+<1970_NCAA_Men's_Division_I_Basketball_Tournament-_East_Regional_Semifinals> <base.marchmadness.ncaa_basketball_tournament_stage.tournament> "1970 NCAA Men's Division I Basketball Tournament" .
+<Neha_Jhulka> <base.fashionmodels.fashion_model.hair_color> "Black" .
+<Institution> <rdf-schema#range> "College/University" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.students_graduates> "m.0134tfrr" .
+<m.03lnfn4> <common.webpage.category> "Official Website" .
+<29227> <location.postal_code.country> "United States of America" .
+<South_Carolina_Gamecocks_men's_basketball> <sports.sports_team.roster> "m.0w7d4j3" .
+<University_of_South_Carolina_Salkehatchie> <education.university.acceptance_rate> "m.0h74f_s" .
+<College/University> <base.descriptive_names.names.descriptive_name> "m.012w712g" .
+<Allendale> <location.location.containedby> "United States of America" .
+<City/Town/Village> <freebase.type_profile.strict_included_types> "Location" .
+<University_of_South_Carolina_Union> <education.university.local_tuition> "m.0k9ntb6" .
+<University_of_South_Carolina_School_of_Law> <education.educational_institution.school_type> "Law school" .
+<m.04mbkcp> <common.webpage.topic> "South Carolina Gamecocks" .
