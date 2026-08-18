@@ -22,11 +22,12 @@ def load_jsonl(path: Path) -> Iterable[Dict]:
             yield json.loads(line)
 
 
-def build_graph_stats(edges: List[List[str]]) -> Tuple[List[Triple], Counter, Dict[str, int], Dict[str, List[Triple]]]:
+def build_graph_stats(edges: List[List[str]]) -> Tuple[List[Triple], Counter, Dict[str, int], Dict[str, List[Triple]], Dict[str, List[Triple]]]:
     triples: List[Triple] = []
     relation_freq: Counter = Counter()
     neighbors: Dict[str, set] = defaultdict(set)
     outgoing: Dict[str, List[Triple]] = defaultdict(list)
+    incoming: Dict[str, List[Triple]] = defaultdict(list)
 
     for s_raw, p_raw, o_raw in edges:
         s = normalize_entity(str(s_raw))
@@ -38,9 +39,10 @@ def build_graph_stats(edges: List[List[str]]) -> Tuple[List[Triple], Counter, Di
         neighbors[s].add(o)
         neighbors[o].add(s)
         outgoing[s].append(t)
+        incoming[o].append(t)
 
     degree = {node: len(nb) for node, nb in neighbors.items()}
-    return triples, relation_freq, degree, outgoing
+    return triples, relation_freq, degree, outgoing, incoming
 
 
 def compute_frequency_features(
@@ -59,10 +61,11 @@ def compute_frequency_features(
 def rank_triples_for_entity(
     entity_norm: str,
     outgoing: Dict[str, List[Triple]],
+    incoming: Dict[str, List[Triple]],
     features: Dict[str, float],
     relation_freq: Counter,
 ) -> List[Triple]:
-    candidates = outgoing.get(entity_norm, [])
+    candidates = outgoing.get(entity_norm, []) + incoming.get(entity_norm, [])
     if not candidates:
         return []
 
@@ -88,7 +91,7 @@ def build_output_entry(record: Dict, record_index: int, k: int) -> Dict:
     edges = record.get("edges", []) or []
     topic_entities_raw = record.get("topic_entities", []) or []
 
-    triples, relation_freq, degree, outgoing = build_graph_stats(edges)
+    triples, relation_freq, degree, outgoing, incoming = build_graph_stats(edges)
     _ = triples  # triples are used indirectly through outgoing/relation stats
     features = compute_frequency_features(relation_freq, degree, outgoing)
 
@@ -96,7 +99,7 @@ def build_output_entry(record: Dict, record_index: int, k: int) -> Dict:
 
     summary_lines: List[str] = []
     for entity in topic_entities_norm:
-        ranked = rank_triples_for_entity(entity, outgoing, features, relation_freq)
+        ranked = rank_triples_for_entity(entity, outgoing, incoming, features, relation_freq)
         topk = ranked[:k]
         summary_lines.extend(format_summary_triple(t) for t in topk)
 
