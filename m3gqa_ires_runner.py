@@ -65,15 +65,18 @@ def rank_triples_for_entity(
     features: Dict[str, float],
     relation_freq: Counter,
 ) -> List[Triple]:
+    # Outgoing: entity is subject (s, p, o)
+    # Incoming: entity is object, but we want to show entity as subject (o, p_inverse, s) - but keep as-is for scoring
     candidates = outgoing.get(entity_norm, []) + incoming.get(entity_norm, [])
     if not candidates:
         return []
 
     # Score with frequency feature + relation popularity + object feature
     scored = []
-    for s, p, o in candidates:
+    for triple in candidates:
+        s, p, o = triple
         score = features.get(s, 0.0) + relation_freq.get(p, 0) + features.get(o, 0.0)
-        scored.append((score, (s, p, o)))
+        scored.append((score, triple))
 
     scored.sort(key=lambda item: (-item[0], item[1][1], item[1][2]))
     return [t for _, t in scored]
